@@ -1,0 +1,868 @@
+en,fr,tr,pt,es,de,title,speaker,duration,tags
+"
+","
+","
+","
+","
+","
+",Can you solve the pirate riddle?,Alex Gendler,5:09,"collaboration,TED-Ed,math,animation,money"
+"
+											It's a good day to be a pirate.
+											Amaro and his four mateys,
+											Bart,
+											Charlotte,
+											Daniel,
+											and Eliza
+											have struck gold:
+											a chest with 100 coins.
+											But now, they must divvy up the booty
+according to the pirate code.
+											As captain, Amaro gets to propose
+how to distribute the coins.
+											Then, each pirate, 
+including Amaro himself,
+											gets to vote either yarr or nay.
+											If the vote passes, or if there's a tie,
+the coins are divided according to plan.
+											But if the majority votes nay,
+											Amaro must walk the plank
+											and Bart becomes captain.
+											Then, Bart gets to propose
+a new distribution
+											and all remaining pirates vote again.
+											If his plan is rejected,
+he walks the plank, too,
+											and Charlotte takes his place.
+											This process repeats,
+											with the captain's hat moving to Daniel
+and then Eliza
+											until either a proposal is accepted
+or there's only one pirate left.
+											Naturally, each pirate wants to stay alive
+while getting as much gold as possible.
+											But being pirates, 
+none of them trust each other,
+											so they can't collaborate in advance.
+											And being blood-thirsty pirates,
+											if anyone thinks they'll end up
+with the same amount of gold either way,
+											they'll vote to make the captain
+walk the plank just for fun.
+											Finally, each pirate is excellent
+at logical deduction
+											and knows that the others are, too.
+											What distribution should Amaro
+propose to make sure he lives?
+											Pause here if you want to figure
+it out for yourself!
+											Answer in: 3
+											Answer in: 2
+											Answer in: 1
+											If we follow our intuition,
+											it seems like Amaro should try to bribe
+the other pirates with most of the gold
+											to increase the chances of his plan
+being accepted.
+											But it turns out he can do
+much better than that. Why?
+											Like we said, the pirates all know
+each other to be top-notch logicians.
+											So when each votes, they won't just
+be thinking about the current proposal,
+											but about all possible outcomes
+down the line.
+											And because the rank order is known
+in advance,
+											each can accurately predict how the others
+would vote in any situation
+											and adjust their own votes accordingly.
+											Because Eliza's last, she has the most
+outcomes to consider,
+											so let's start by following 
+her thought process.
+											She'd reason this out by working
+backwards from the last possible scenario
+											with only her and Daniel remaining.
+											Daniel would obviously propose
+to keep all the gold
+											and Eliza's one vote would not be
+enough to override him,
+											so Eliza wants to avoid this situation
+at all costs.
+											Now we move to the previous decision point
+											with three pirates left 
+and Charlotte making the proposal.
+											Everyone knows that if she's outvoted,
+the decision moves to Daniel,
+											who will then get all the gold
+while Eliza gets nothing.
+											So to secure Eliza's vote,
+											Charlotte only needs to offer her
+slightly more than nothing, one coin.
+											Since this ensures her support,
+											Charlotte doesn't need to offer Daniel
+anything at all.
+											What if there are four pirates?
+											As captain, Bart would still only need
+one other vote for his plan to pass.
+											He knows that Daniel wouldn't want 
+the decision to pass to Charlotte,
+											so he would offer Daniel one coin
+for his support
+											with nothing for Charlotte or Eliza.
+											Now we're back at the initial vote
+with all five pirates standing.
+											Having considered all the other scenarios,
+											Amaro knows that if he goes overboard,
+											the decision comes down to Bart,
+											which would be bad news 
+for Charlotte and Eliza.
+											So he offers them one coin each,
+keeping 98 for himself.
+											Bart and Daniel vote nay,
+
+											but Charlotte and Eliza 
+grudgingly vote yarr
+											knowing that the alternative 
+would be worse for them.
+											The pirate game involves some interesting
+concepts from game theory.
+											One is the concept of common knowledge
+											where each person is aware of what
+the others know
+											and uses this to predict their reasoning.
+											And the final distribution is an example
+of a Nash equilibrium
+											where each player knows every other
+players' strategy
+											and chooses theirs accordingly.
+											Even though it may lead to a worse
+outcome for everyone
+											than cooperating would,
+											no individual player can benefit
+by changing their strategy.
+											So it looks like Amaro gets to keep
+most of the gold,
+											and the other pirates might need
+to find better ways
+											to use those impressive logic skills,
+											like revising this absurd pirate code.
+									","
+											C'est un bon jour pour être un pirate.
+											Amaro et ses quatre matelots —
+											Bart, Charlotte, Daniel et Eliza,
+ont trouvé de l'or :
+											un coffre avec 100 pièces.
+											Ils doivent maintenant partager le butin
+selon le code des pirates.
+											En tant que capitaine, c'est Amaro
+qui propose comment distribuer les pièces.
+											Puis, chaque pirate, y compris Amaro,
+peut voter oui ou non.
+											Si le vote passe ou s'il y a égalité,
+les pièces sont distribuées comme convenu.
+											Mais si la majorité vote non,
+											Amaro subit le supplice de la planche
+et Bart devient capitaine.
+											Puis Bart peut proposer
+une nouvelle distribution
+											et tous les pirates restants
+votent à nouveau.
+											Si son plan est rejeté,
+il subit aussi le supplice de la planche
+											et Charlotte prend sa place.
+											Ce processus se répète,
+											le chapeau du capitaine passant
+à Daniel puis à Eliza
+											jusqu'à ce qu'une proposition soit
+acceptée ou qu'il ne reste qu'un pirate.
+											Naturellement, chaque pirate
+veut rester en vie
+											tout en obtenant
+autant d'argent que possible.
+											Mais puisque ce sont des pirates,
+ils ne se font pas confiance
+											et ne peuvent donc pas
+collaborer au préalable.
+											Étant des pirates sanguinaires,
+											s'ils pensent obtenir la même
+somme d'argent dans les deux cas,
+											pour s'amuser, ils voteront
+											pour que le capitaine
+subisse le supplice de la planche.
+											Pour finir, chaque pirate excelle
+en déduction logique
+											et sait que les autres aussi.
+											Quelle distribution Amaro devrait-il
+proposer pour s'assurer de vivre ?
+											[Faites une pause si vous voulez
+trouver la réponse tout seul !]
+											Réponse dans : 3
+											Réponse dans : 2
+											Réponse dans : 1
+											Si nous suivons notre intuition,
+											il semble qu'Amaro devrait soudoyer
+les autres avec la majorité de l'or
+											afin d'augmenter les chances
+que son plan soit accepté.
+											Mais il s'avère qu'il peut
+faire bien mieux. Pourquoi ?
+											Les pirates savent que les autres
+sont des experts en logique.
+											Quand chacun vote, il ne pensera pas
+qu'à la proposition actuelle
+											mais à toutes les issues possibles.
+											Puisque la hiérarchie est connue d'avance,
+											chacun peut prévoir de façon précise
+le vote des autres dans chaque situation
+											et ajuster leur vote en conséquence.
+											Puisque Eliza est dernière, elle a
+le plus de possibilités à considérer
+											alors commençons par suivre sa réflexion.
+											Elle raisonnera en partant
+du dernier scénario possible
+											avec seulement elle et Daniel restant.
+											Daniel, évidemment, proposerait
+de garder tout l'or
+											et le vote d'Eliza ne suffirait pas
+à outrepasser le sien,
+											donc Eliza aimerait à tout prix
+éviter cette situation.
+											Nous remontons à la décision précédente
+											où il reste trois pirates
+et Charlotte fait une proposition.
+											On sait que si elle est rejetée,
+la décision reviendra à Daniel,
+											qui obtiendra tout l'or
+alors qu'Eliza n'aura rien.
+											Pour assurer le vote d'Eliza,
+											Charlotte doit lui offrir
+un peu plus que rien : une pièce.
+											Puisque cela lui assure son soutien,
+											Charlotte n'a pas besoin
+d'offrir quoi que ce soit à Daniel.
+											Et s'il y avait quatre pirates ?
+											En tant que capitaine,
+											Bart aurait besoin d'un autre vote
+pour que son plan soit approuvé.
+											Il sait que Daniel ne voudrait pas
+que la décision revienne à Charlotte,
+											il offrirait donc une pièce à Daniel
+pour obtenir son soutien
+											et rien à Charlotte ou Eliza.
+											Nous voici revenus au vote initial
+avec les cinq pirates.
+											Ayant considéré tous les autres scénarios,
+											Amaro sait que s'il passe par-dessus bord,
+											la décision reviendra à Bart,
+											ce qui serait une mauvaise nouvelle
+pour Charlotte et Eliza.
+											Il leur offre donc une pièce chacune,
+en gardant 98 pour lui.
+											Bart et Daniel votent non
+											mais Charlotte et Eliza
+votent oui à contrecœur,
+											sachant que l'alternative
+serait pire pour elles.
+											Le jeu des pirates intègre des concepts
+intéressants de la théorie des jeux.
+											Un est le concept de savoir commun
+											où chaque personne a conscience
+de ce que sait l'autre
+											et l'utilise pour prévoir
+son raisonnement.
+											Et la distribution finale est un exemple
+d'équilibre de Nash
+											où chaque joueur connaît
+la stratégie des autres joueurs
+											et choisit la sienne en conséquence.
+											Même si cela pourrait mener
+à un résultat moins bon pour chacun
+											que s'ils coopéraient,
+											aucun joueur individuel n'a intérêt
+à changer sa stratégie.
+											On dirait qu'Amaro peut garder
+la majorité de l'or
+											et les autres pirates devraient
+trouver de meilleures façons
+											d'utiliser ces impressionnantes
+compétences en logique,
+											comme revoir cet absurde code des pirates.
+									","
+											Korsan olmak için güzel bir gün.
+											Amaro ve dört arkadaşı,
+											Bart,
+											Charlotte,
+											Daniel
+											ve Eliza
+											içinde 100 adet altın olan
+bir sandık ele geçirirler.
+											Fakat korsan yasalarına göre
+şimdi bunu paylaşmalılar.
+											Amaro kaptan olarak
+altınların nasıl dağılacağını önerir.
+											Sonra, Amaro da dâhil
+her bir korsan
+											ya evet ya da hayır oyu kullanır.
+											Eğer oylamada eşitliğe ya da çoğunluğa
+ulaşılırsa altınlar plana göre bölüşülür.
+											Eğer hayır oyları fazla çıkarsa,
+											Amaro güverteden atılır
+											ve Bart kaptan olur.
+											Sonra, Bart yeni dağılım teklifini açıklar
+											ve korsanlar tekrar oylama yapar.
+											Eğer Bart'ın planı reddedilirse,
+o da güverteden atılır
+											ve Charlotte onun yerine geçer.
+											Kaptanlık şapkası,
+											önce Daniel'e sonra Eliza'ya
+geçecek şekilde devam eder,
+											ta ki öneri kabul edilene ya da tek bir
+korsan kalana kadar.
+											Her korsan, doğal olarak daha fazla altın
+alacağı şekilde hayatta kalmak ister.
+											Fakat, korsan olmak
+kimseye güvenmemek demektir,
+											bu yüzden iş birliği yapamazlar.
+											Ve kana susamış korsanlar,
+											sonunda aynı miktarda altın
+alacaklarını düşünseler bile
+											zevk için oylamayla kaptanı
+güverteden atacaklardır.
+											Son olarak her korsan mantıksal çıkarım
+konusunda mükemmeldir
+											ve diğerlerinin de aynı şekilde
+olduğunu bilmektedir.
+											Amaro'nun hayatta kalabilmesi için
+paylaşım teklifi ne olmalıdır?
+											Problemi kendiniz çözmek istiyorsanız
+videoyu hemen durdurun!
+											Cevap için son 3
+											2
+											1
+											Eğer sezgilerimizi izlersek,
+											Amaro'nun planının kabul edilebilmesi
+için altınların çoğunu
+											diğer korsanlara rüşvet olarak
+vermesi gerektiğini görürüz.
+											Ancak bundan daha iyisini
+yapabilir. Ama nasıl?
+											Söylediğimiz gibi korsanlar, diğerlerinin
+de usta mantıkçılar olduğunu bilir.
+											Dolayısıyla her oylamada sadece
+mevcut öneriyi düşünmeyecek,
+											diğer ihtimalleri de hesaba katacaktır.
+											Ve kaptanlık sırası önceden bilindiği için
+											her biri, hızlıca diğerlerinin bütün
+durumlar için vereceği oyu tahmin edecek
+											ve kendi oyunu buna göre ayarlayacaktır.
+											Eliza sonuncu olduğu için en fazla
+düşünmesi gereken odur,
+											öyleyse onun düşünce süreci
+ile başlayalım.
+											Mümkün olan, Daniel ile Eliza'nın kaldığı
+son senaryodan geriye doğru inceleyerek
+											ne olacağına bakalım.
+											Daniel açıkçası bütün altınları
+kendine ayırmayı teklif edecekti
+											ve Eliza'nın tek oyu bu teklifi
+geçersiz kılmaya yetmeyecekti,
+											bu yüzden Eliza ne pahasına olursa olsun
+bu durumdan kaçınmak isteyecektir.
+											Şimdi bir önceki karar noktasına dönelim:
+											Üç korsanın kaldığı ve
+Charloote'un teklif verdiği.
+											Herkesin bildiği üzere, eğer oylamada
+hayır çıkarsa karar sırası Daniel'e geçer,
+											Eliza hiçbir şey almazken
+bütün altınları kim alacak.
+											Eliza'nın oyunu güvence
+altına almak için
+											Charlotte'un ona bir şeyler sunması
+gerekiyor, mesela bir altın.
+											Bu onun desteğini garantiye aldığı için
+											Charlotte Daniel'e hiçbir şey
+teklif etmeyecektir.
+											Peki dört korsan kalırsa ne olur?
+											Kaptan Bart'ın teklifinin kabul olması
+için sadece bir oya ihtiyacı vardır.
+											Bart, teklif sırasının Charlotte'a
+geçmesini Daniel'in istemediğini bilir,
+											bu yüzden Daniel'e bir altın
+teklif edecektir,
+											Charlotte ve Eliza'ya ise hiçbir şey.
+											Şimdi bütün korsanların olduğu
+başlangıçtaki oylamaya dönelim.
+											Diğer senaryoları da dikkate alarak,
+											Amaro denize atıldığında karar sırasının
+											Bart'a geçeceğini bilir.
+											Bu da Charlotte ve Eliza için
+kötü bir haber olacaktır.
+											Bu yüzden onlara birer altın önerip
+geriye kalan 98 altını kendisi alır.
+											Bart ve Daniel hayır oyu verir,
+											fakat Charlotte ve Eliza
+isteksizce evet oyu verecektir.
+											Farklı bir alternatifin onlar için
+kötü olacağı ortadadır.
+											Korsan oyunu, oyun teorisinden
+bazı ilginç kavramlar içerir.
+											Bu ortak bilgi kavramlarından biri,
+											her birey, diğer bireylerin neler
+bildiğinin farkındadır
+											ve onların düşüncelerini tahmin etmek
+için bunu kullanırlar.
+											Ve nihai dağılım, her oyuncunun diğer
+oyuncuların stratejisini bildiği
+											Nash dengesinin bir örneğidir
+											ve seçimler bunlara göre yapılır.
+											Bu herkes için işbirliği yapmaktan
+daha kötü sonuçlara
+											yol açsa bile,
+											hiçbir bireysel oyuncu stratejisini
+değiştirerek bundan yararlanamaz.
+											Bu yüzden Amaro altınların çoğunu
+alacak gibi görünüyor
+											ve diğer korsanlar etkileyici
+mantık becerilerini
+											kullanmada daha iyi yollar
+bulmak zorundadır,
+											bu saçma korsan kanununu
+değiştirmek gibi...
+									","
+											É um bom dia para ser um pirata.
+											Amaro e os seus quatro camaradas
+											— Bart, Charlotte, Daniel e Eliza
+											encontraram ouro
+											— uma arca com 100 moedas.
+											Mas agora, têm que dividir o espólio
+de acordo com o código dos piratas.
+											Enquanto capitão, Amaro tem que propor
+como distribuir as moedas.
+											Depois, cada pirata,
+incluindo o próprio Amaro,
+											tem que votar ""sim"" ou ""não"".
+											Se o voto for favorável,
+ou houver um empate,
+											as moeda são divididas
+de acordo com o plano.
+											Mas se a maioria votar ""não"",
+											Amaro tem que caminhar pela prancha
+											e Bart passa a ser o capitão.
+											Depois, Bart tem que propor
+uma nova distribuição
+											e os restantes piratas votam outra vez.
+											Se o plano for rejeitado,
+ele também tem que caminhar pela prancha
+											e Charlotte ocupa o seu lugar.
+											Este processo repete-se
+											com o chapéu de capitão
+a passar para Daniel e depois para Eliza,
+											até que seja aceita uma proposta
+ou reste apenas um pirata.
+											Naturalmente, todos os piratas
+querem manter-se vivos
+											e receber tanto ouro quanto possível.
+											Mas, como são piratas,
+nenhum deles confia nos outros,
+											por isso, não podem colaborar à partida.
+											E como são piratas sanguinários,
+											se alguém pensa que vai acabar
+											por receber sempre
+a mesma quantidade de ouro,
+											vão votar para fazerem o capitão
+caminhar pela prancha,
+											só para se divertirem.
+											Por fim, todos os piratas
+são excelentes em dedução lógica
+											e sabem que os outros também são.
+											Que distribuição deve Amaro propor
+para garantir que sobrevive?
+											[(e obtém a maior quantidade do ouro?)]
+											Detém-te aqui se queres resolver
+sozinho o problema.
+											Resposta em: 3
+											Resposta em: 2
+											Resposta em: 1
+											Se seguirmos a nossa intuição,
+											parece que Amaro devia tentar
+subornar os outros piratas
+											com uma quantidade maior de ouro
+											para aumentar as hipóteses
+de o seu plano ser aceite.
+											Mas acontece que ele pode fazer
+muito melhor do que isso. Porquê?
+											Como dissemos, todos os piratas sabem
+que os outros são lógicos de categoria.
+											Portanto, quando votarem,
+											não estarão a pensar apenas
+na proposta apresentada
+											mas em todos os resultados possíveis
+pela sequência possível.
+											Como a ordem é conhecida à partida,
+											cada um deles pode prever como
+os outros vão votar em qualquer situação
+											e ajustar o seu voto de acordo com isso.
+											Como Eliza é a última, é a que tem
+mais resultados a considerar,
+											por isso vamos começar seguindo
+o raciocínio dela.
+											Ela terá começado por imaginar
+o ultimo cenário possível,
+											em que só restam ela e Daniel.
+											Daniel irá obviamente propor
+ficar com o ouro todo,
+											e o voto de Eliza não será suficiente
+para o contrariar.
+											por isso, Eliza quer evitar esta situação
+a todo o custo.
+											Então, passamos para o ponto
+de decisão anterior,
+											com três piratas restantes
+e Charlotte a apresentar a proposta.
+											Todos sabem que, se ela perder,
+a decisão passa para Daniel,
+											que depois ficará com todo o ouro
+enquanto Eliza fica sem nada.
+											Portanto, para garantir o voto de Eliza,
+
+											Charlote só precisa de lhe oferecer
+um pouco mais do que nada, uma moeda.
+											Como isso chega para garantir o seu apoio,
+											Charlotte não precisa
+de oferecer nada a Daniel.
+											E se forem quatro piratas?
+											Como capitão, Bart só precisa
+de mais um voto
+											para que o seu plano seja aprovado.
+											Sabe que Daniel não quer
+que a decisão passe para Charlotte,
+											por isso, oferece a Daniel uma moeda
+para que ele o apoie
+											e nada para Charlotte nem para Eliza.
+											Agora, voltamos à votação inicial
+com todos os cinco piratas envolvidos.
+											Tendo considerado
+todos os outros cenários,
+											Amaro sabe que, se for pela borda fora,
+											a decisão passa para Bart
+											o que será mau para Charlotte e Eliza.
+											Por isso, oferece uma moeda
+a cada uma delas
+											e guarda as 98 para si mesmo.
+											Bart e Daniel votam ""não"",
+											mas Charlotte e Eliza votam ""sim"",
+embora de má vontade,
+											sabendo que a alternativa
+será pior para elas.
+											O jogo dos piratas envolve conceitos
+interessantes da teoria dos jogos.
+											Um deles é o conceito
+do conhecimento comum
+											em que cada pessoa sabe 
+aquilo que os outros sabem
+											e usa isso para prever o raciocínio deles.
+											A distribuição final é um exemplo
+de um equilíbrio Nash
+											em que cada jogador sabe 
+a estratégia dos outros jogadores
+											e escolhe a sua estratégia,
+de acordo com isso.
+											Mesmo que possa levar
+a um resultado pior para todos
+											do que se houvesse cooperação,
+											nenhum jogador individualmente
+beneficia, mudando de estratégia.
+											Parece que Amaro consegue
+guardar a maior parte do ouro
+											e os outros piratas têm que arranjar
+formas melhores
+											de usar os seus impressionantes
+dons de lógica,
+											como rever este absurdo
+código dos piratas.
+									","
+											Es un buen día para ser pirata.
+											Amaro y sus cuatro amigos,
+											Bart, Charlotte, Daniel y Eliza
+											encontraron un baúl 
+con 100 monedas de oro.
+											Pero ahora deben dividir el botín
+según el código pirata.
+											Como capitán, Amaro propone
+cómo distribuir las monedas.
+											Luego, cada pirata,
+incluso el propio Amaro,
+											vota sí o no.
+											Si se aprueba el voto,o hay empate,
+se reparten las monedas según el plan.
+											Pero si la mayoría vota no,
+											Amaro debe arrojarse al mar
+											y Bart queda como capitán.
+											Luego, Bart propone 
+una nueva distribución
+											y todos los piratas votan de nuevo.
+											Si se rechaza su plan,
+debe arrojarse al mar también
+											y Charlotte ocupa su puesto.
+											Se repite el proceso,
+											Daniel ocupa el puesto de capitán,
+y luego Eliza
+											hasta que se acepte una propuesta 
+o quede un pirata.
+											Claro, cada pirata quiere vivir 
+y llevarse la mayor cantidad de oro.
+											Pero como son piratas,
+nadie confía en el otro,
+											por eso no pueden colaborar de antemano.
+											Y como están sedientos de sangre,
+											si uno piensa que terminará con 
+la misma cantidad de oro de todos modos,
+											votará para que el capitán 
+se arroje al mar por diversión.
+											Al final, cada pirata es excelente 
+para la deducción lógica
+											y sabe que los otros también lo son.
+											¿Qué distribución debería proponer
+Amaro para asegurarse la vida?
+											¡Haz una pausa aquí si deseas 
+resolverlo por tu cuenta!
+											La respuesta en: 3
+											La respuesta en: 2
+											La respuesta en: 1
+											Si seguimos la intuición,
+											parece que Amaro debería sobornar 
+a los otros piratas con mucho oro
+											para incrementar las posibilidades 
+de aceptación de su plan.
+											Pero resulta que puede hacer algo 
+mucho mejor que eso, ¿por qué?
+											Como dijimos, todos los piratas saben 
+que los otros son lógicos formidables.
+											Por eso, al votar, no solo piensan 
+en la propuesta actual,
+											sino en los posibles resultados 
+que vendrán.
+											Y como el orden de votación
+se conoce de antemano,
+											cada uno puede predecir 
+cómo votarán los otros en cada situación
+											y ajustar su voto en consecuencia.
+											Como Eliza es la última, tiene 
+que considerar más resultados,
+											así que sigamos su línea de pensamiento.
+											Lo piensa hacia atrás, partiendo 
+del último escenario posible
+											cuando quedan solo ella y Daniel.
+											Daniel obviamente propondría 
+quedarse con todo el oro
+											y el único voto de Eliza 
+no alcanzaría para sustituirlo,
+											por eso Eliza quiere evitar 
+esta situación como sea.
+											Ahora pasamos a la decisión anterior a esa
+											cuando quedaban tres piratas
+y la propuesta era de Charlotte.
+											Todos saben que si ella recibe menos votos
+la decisión pasa a Daniel,
+											que se quedará con el oro 
+y Eliza lo perderá todo.
+											Entonces, para asegurar el voto de Eliza
+											Charlotte solo debe ofrecerle 
+algo menos que nada, una moneda.
+											Como esto asegura su apoyo,
+											Charlotte no necesita ofrecerle
+algo a Daniel en absoluto.
+											¿Y si hay cuatro piratas?
+											Como capitán, Bart solo necesitará 
+uno de cada dos votos para lograrlo.
+											Bart sabe que Daniel no querría 
+que la decisión pasara a Charlotte,
+											por eso le ofrecería a Daniel 
+una moneda a cambio de apoyo,
+											y nada a Charlotte ni a Eliza.
+											Ahora volvamos al voto inicial 
+con los 5 piratas en la jugada.
+											Habiendo considerado 
+todos los otros escenarios,
+											Amaro sabe que si lo arrojan por la borda,
+											la decisión pasa a Bart,
+											lo que serían malas noticias 
+para Charlotte y Eliza.
+											Por eso les ofrece una moneda a cada una
+y se queda 98 para sí.
+											Bart y Daniel votan no,
+											pero Charlotte y Eliza 
+a regañadientes votan sí
+											sabiendo que la alternativa 
+sería peor para ellas.
+											El juego del pirata tiene conceptos 
+interesantes de la teoría de juegos.
+											Uno es el concepto de conocimiento común
+											donde cada persona conoce
+lo que otras personas saben
+											y usa esto para predecir su razonamiento.
+											Y la distribución final es un ejemplo
+de un equilibrio de Nash
+											donde cada jugador conoce 
+la estrategia de los otros jugadores
+											y elige la propia en consecuencia.
+											Aunque pueda llevar 
+a un peor resultado para todos
+											que si cooperaran,
+											ningún individuo puede beneficiarse 
+cambiando su estrategia.
+											Así que parece que Amaro consigue
+quedarse con la mayor parte del oro,
+											y los otros piratas quizá deban
+encontrar mejores maneras
+											de usar esas habilidades lógicas 
+impresionantes,
+											como revisar ese absurdo código pirata.
+									","
+											Es ist ein guter Tag, um Pirat zu sein.
+											Amaro und seine vier Kumpanen,
+											Bart,
+											Charlotte,
+											Daniel
+											und Eliza
+											haben Gold gefunden:
+											eine Truhe mit 100 Münzen.
+											Aber jetzt müssen sie die Beute 
+nach dem Piraten-Kodex aufteilen.
+											Als Kapitän darf Amaro 
+die Verteilung vorschlagen.
+											Dann darf jeder Pirat, auch Amaro,
+											mit ""Yarr"" oder ""Nay"" antworten.
+											Ist das Ergebnis ja oder unentschieden,
+werden die Münzen nach dem Plan verteilt.
+											Aber antwortet die Mehrheit mit ""Nay"",
+											muss Amaro über die Planke gehen
+											und Bart wird Kapitän.
+											Bart schlägt eine neue Aufteilung vor
+											und alle verbliebenen Piraten stimmen ab.
+											Wird sein Plan auch abgelehnt,
+geht er ebenso über die Planke
+											und Charlotte nimmt seinen Platz ein.
+											Dieser Vorgang wiederholt sich,
+											der Kapitänshut geht an Daniel
+und dann an Eliza,
+											bis ein Vorschlag angenommen wird
+oder nur noch ein Pirat übrig bleibt.
+											Natürlich will jeder Pirat leben
+und so viel Gold wie möglich.
+											Aber weil sie Piraten sind, 
+traut keiner dem anderen,
+											also können sie nicht zusammenarbeiten.
+											Und weil sie blutdurstige Piraten sind,
+											werden sie, wenn sie denken, dass sie 
+sowieso die gleiche Menge Gold bekommen,
+											nur aus Spaß dafür stimmen, 
+dass der Kapitän über die Planke geht.
+											Jeder Pirat ist großartig 
+in logischer Schlussfolgerung
+											und weiß, dass es die anderen auch sind.
+											Welchen Vorschlag soll Amaro
+machen, damit er überlebt?
+											Stoppe das Video hier,
+um es selbst heraus zufinden.
+											Antwort in: 3
+											Antwort in: 2
+											Antwort in: 1
+											Folgen wir unserer Intuition,
+											sollte Amaro versuchen, die anderen 
+mit dem Großteil des Goldes zu bestechen,
+											um die Wahrscheinlichkeit zu erhöhen,
+dass sein Plan akzeptiert wird.
+											Aber tatsächlich kann er 
+etwas viel besseres machen.
+											Wie gesagt, alle Piraten wissen, 
+dass sie Logiker erster Klasse sind.
+											Bei der Abstimmung denkt jeder 
+nicht nur an den aktuellen Vorschlag,
+											sondern an alle möglichen Ergebnisse.
+											Und weil die Reihenfolge der Piraten
+bereits im Voraus bekannt ist,
+											kann jeder voraussagen, 
+wie die anderen wählen werden
+											und seine eigene Wahl daran anpassen.
+											Weil Eliza die Letzte ist, muss sie 
+die meisten Ergebnisse berücksichtigen.
+											Also fangen wir mit ihrem Denkprozess an.
+											Sie denkt rückwärts, angefangen 
+bei der letzten möglichen Situation,
+											in der nur sie und Daniel übrig sind.
+											Daniel würde vorschlagen, 
+alles Gold zu behalten
+											und Elizas Stimme wäre nicht genug,
+um ihn zu überstimmen.
+											Also will Eliza diese Situation
+unbedingt vermeiden.
+											Gehen wir zur vorherigen Entscheidung:
+											Drei Piraten sind übrig und 
+Charlotte macht einen Vorschlag.
+											Jeder weiß, die Entscheidung 
+geht an Daniel, wenn sie überstimmt wird.
+											Er bekommt das ganze Gold
+und Eliza erhält nichts.
+											Um sich Elizas Stimme zu sichern,
+											muss Charlotte ihr nur wenig mehr
+als nichts anbieten: eine Münze.
+											Da sie damit ihre Unterstützung bekommt,
+											muss Charlotte Daniel nichts anbieten.
+											Was, wenn es vier Piraten gibt?
+											Als Kapitän braucht Bart lediglich 
+eine weitere Stimme, um zu gewinnen.
+											Er weiß, dass Daniel nicht will, 
+dass die Entscheidung an Charlotte geht.
+											Also bietet er Daniel eine Münze 
+für dessen Unterstützung an.
+											Nichts geht an Charlotte oder Eliza.
+											Jetzt sind wir bei der ersten Wahl,
+alle fünf Piraten sind noch da.
+											Amaro hat alle Entscheidungen durchdacht
+											und weiß, geht er über Bord,
+											fällt die Entscheidung an Bart,
+											was eine schlechte Nachricht
+für Charlotte und Eliza wäre.
+											Also bietet er ihnen je eine Münze
+und behält 98 für sich selbst.
+											Bart und Daniel stimmen mit ""Nay"",
+											aber Charlotte und Eliza 
+stimmen widerwillig mit ""Yarr"",
+											denn sie wissen, die Alternative
+wäre schlimmer für sie.
+											Das Piraten-Spiel beinhaltet einige 
+interessante Konzepte der Spieltheorie.
+											Eines ist das Konzept 
+des allgemeinen Wissens,
+											in dem jede Person weiß, 
+was auch die anderen wissen
+											und dieses Wissen benutzt, 
+um ihre Entscheidungen vorauszusagen.
+											Die letzte Aufteilung ist ein Beispiel 
+für ein Nash-Gleichgewicht,
+											bei dem jeder Spieler 
+die Strategie der anderen kennt
+											und seine entsprechend wählt.
+											Obgleich es zu einem schlechteren Ende
+für jeden führen kann,
+											als bei einer Zusammenarbeit,
+											hat kein einzelner Spieler Vorteile, 
+wenn er seine Strategie ändert.
+											Also scheint Amaro 
+das meiste Gold zu behalten
+											und die anderen Piraten 
+müssen andere Wege finden,
+											um ihre beeindruckenden 
+logischen Fähigkeiten zu benutzen,
+											zum Beispiel den absurden
+Piraten-Kodex ändern.
+									",Can you solve the pirate riddle?,Alex Gendler,5:09,"collaboration,TED-Ed,math,animation,money"
+"
+","
+","
+","
+","
+","
+",Can you solve the pirate riddle?,Alex Gendler,5:09,"collaboration,TED-Ed,math,animation,money"

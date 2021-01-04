@@ -1,0 +1,642 @@
+en,es,pt,tr,fr,de,title,speaker,duration,tags
+"
+","
+","
+","
+","
+","
+","Meet Rezero, the dancing ballbot",Péter Fankhauser,5:16,"creativity,design,engineering,robots,technology"
+"
+											Let me introduce to you Rezero.
+											This little fellow was developed
+											by a group of 10 undergraduate students
+											at the Autonomous Systems Laboratory
+											at ETH-Zurich.
+									","
+											Les presento a Rezero.
+											Este compañero fue desarrollado
+											por un grupo de 10 estudiantes universitarios
+											en el Laboratorio de Sistemas Autónomos
+											de la universidad técnica de Zurich (ETH).
+									","
+											Deixem-me apresentar-vos o Rezero.
+											Este pequenote foi desenvolvido
+											por um grupo de 10 estudantes de licenciatura
+											no Autonomous Systems Laboratory
+											na ETH-Zurich.
+									","
+											Sizi Rezero ile tanıştırayım.
+											Bu küçük dostumuz, ETH-Zurich'teki
+											Otonom Sistemler Laboratuvarı'nda
+											10 üniversite öğrencisinden oluşan bir grup
+											tarafından geliştirildi.
+									","
+											Laissez-moi vous présenter Rezero.
+											Ce petit ami a été développé
+											par un groupe de 10 étudiants
+											du Laboratoire des Systèmes Autonomes
+											à l'École polytechnique fédérale de Zurich.
+									","
+											Lassen Sie mich Ihnen Rezero vorstellen.
+											Dieser kleine Kerl wurde von einer Gruppe
+											von 10 Studenten im Grundstudium
+											am Labor für Autonome Systeme
+											an der ETH in Zürich entwickelt.
+									","Meet Rezero, the dancing ballbot",Péter Fankhauser,5:16,"creativity,design,engineering,robots,technology"
+"
+","
+","
+","
+","
+","
+","Meet Rezero, the dancing ballbot",Péter Fankhauser,5:16,"creativity,design,engineering,robots,technology"
+"
+											Our robot belongs to a family of robots
+											called Ballbots.
+											Instead of wheels, a Ballbot is balancing
+											and moving on one single ball.
+											The main characteristics of such a system is
+											that there's one sole contact point to the ground.
+											This means that the robot
+											is inherently unstable.
+											It's like when I am trying to stand
+											on one foot.
+									","
+											Nuestro robot pertenece a una familia de robots
+											llamados Robopelota.
+											En vez de ruedas, un Robopelota se sostiene
+											y mueve sobre una sola pelota.
+											La característica principal de este sistema es
+											que hay un único punto de contacto con el suelo.
+											Esto significa que el robot
+											es intrínsecamente inestable.
+											Es como cuando trato de sostenerme
+											en un pie.
+									","
+											O nosso robô pertence a uma família de robôs
+											chamada Ballbots.
+											Em vez de rodas, um Ballbot equilibra-se
+											e move-se numa única bola.
+											A principal característica de um sistema destes
+											é que há um único ponto de contacto com o solo.
+											Isto significa que o robô
+											é instável por natureza.
+											É como quando tento apoiar-me
+											num só pé.
+									","
+											Robotumuz Ballbots adı verilen bir robot
+											ailesine mensup.
+											Tekerlekler yerine, bir Ballbot robotu tek bir top üzerinde
+											dengede duruyor ve hareket ediyor.
+											Böyle bir sistemin temel özelliği,
+											yere yalnız bir zemin noktası olması.
+											Bu da robotun doğuştan
+											dengesiz olduğu anlamına geliyor.
+											Örneğin benim tek ayak üstünde
+											durmaya çalışmam gibi.
+									","
+											Notre robot appartient à une famille de robots
+											qui s’appelle Ballbots.
+											A la place des roues, un Ballbot se tient en équilibre
+											et se déplace sur une boule.
+											La principale caractéristique de ce système
+											est qu'il y a qu'un seul point de contact avec le sol.
+											Cela signifie que le robot
+											est en soi instable.
+											C’est un peu comme si je devais me tenir
+											sur un pied.
+									","
+											Unser Roboter gehört zu einer Roboterfamilie
+											namens Ballbots, Ballroboter.
+											Anstelle von Rädern balanciert und bewegt sich
+											so ein Ballbot auf einem einzelnen Ball.
+											Die Hauptcharakteristika eines solchen Systems sind,
+											dass es einen einzigen Kontaktpunkt am Boden gibt.
+											Das bedeutet, der Roboter
+											ist inhärent instabil.
+											Es ist, als ob ich versuche,
+											auf einem Fuß zu stehen.
+									","Meet Rezero, the dancing ballbot",Péter Fankhauser,5:16,"creativity,design,engineering,robots,technology"
+"
+","
+","
+","
+","
+","
+","Meet Rezero, the dancing ballbot",Péter Fankhauser,5:16,"creativity,design,engineering,robots,technology"
+"
+											You might ask yourself, what's the usefulness
+											of a robot that's unstable?
+											Now we'll explain that in a second.
+											Let me first explain how Rezero
+											actually keeps his balance.
+											Rezero keeps his balance by constantly
+											measuring his pitch angle with a sensor.
+											He then counteracts and avoids toppling over
+											by turning the motors appropriately.
+											This happens 160 times per second,
+											and if anything fails in this process,
+											Rezero would immediately fall to the ground.
+									","
+											Se preguntarán cuál es la utilidad
+											de un robot inestable.
+											Se lo explicaré en un segundo.
+											Primero les diré cómo Rezero
+											mantiene el equilibrio.
+											Rezero se sostiene midiendo
+											su ángulo de inclinación constantemente con un sensor.
+											Luego contrarresta y evita caerse
+											girando los motores de manera apropiada.
+											Esto sucede 160 veces por segundo,
+											y si algo falla en este proceso,
+											Rezero inmediatamente cae al suelo.
+									","
+											Podem perguntar-se, qual é a utilidade
+											de um robô que é instável?
+											Bem, iremos explicar isso num segundo.
+											Primeiro deixem-me explicar como é que o Rezero,
+											de facto, mantém o equilíbrio.
+											O Rezero mantém o equilíbrio medindo
+											constantemente o seu ângulo de inclinação com um sensor.
+											E então ele compensa e evita tombar
+											rodando os motores de forma adequada.
+											Isto acontece 160 vezes por segundo,
+											e se algo falha neste processo,
+											o Rezero cai imediatamente ao chão.
+									","
+											Kendinize şunu sorabilirsiniz, dengesiz bir robot
+											ne işe yarar?
+											Bunu birazdan açıklayacağız.
+											Öncelikle Rezero'nun sahiden nasıl
+											dengesini koruduğunu açıklayayım.
+											Rezero eğim açısını bir sensör ile sürekli
+											ölçerek dengesini koruyor.
+											Sonra etkisiz hale geliyor ve motorunu uygun olarak
+											aktive ederek düşmesini önlüyor.
+											Bu saniyede 160 kez gerçekleşiyor,
+											ve eğer bu süreçte herhangi birşey
+											başarısızlığa uğrarsa, Rezero anında yere düşer.
+									","
+											Vous pourriez vous demander, quelle est l’utilité
+											d’un robot instable ?
+											Nous allons vous l’expliquer tout de suite.
+											Avant tout, laissez-moi vous expliquer comment Rezero
+											se tient en fait en équilibre.
+											Rezero se tient en équilibre en mesurant
+											constamment son inclinaison avec un détecteur.
+											Ensuite il se contrebalance et évite de basculer
+											en utilisant ses moteurs de façon appropriée.
+											Ça se produit 160 fois par seconde,
+											et si quelque chose ne marche pas dans le processus,
+											Rezero tombe immédiatement par terre.
+									","
+											Sie mögen sich fragen, wo liegt der Nutzen
+											eines instabilen Roboters?
+											Nun, wir werden Ihnen das gleich erklären.
+											Lassen Sie mich erst ausführen, wie Rezero
+											tatsächlich in Balance bleibt.
+											Rezero hält seine Balance, indem er konstant
+											seinen Nickwinkel mit einem Sensor berechnet.
+											Dann wirkt er dem entgegen und vermeidet einen Sturz,
+											indem er die Motoren dementsprechend dreht.
+											Das geschieht 160 Mal pro Sekunde
+											und wenn in diesem Prozess irgendetwas schief geht,
+											fiele Rezero sofort zu Boden.
+									","Meet Rezero, the dancing ballbot",Péter Fankhauser,5:16,"creativity,design,engineering,robots,technology"
+"
+","
+","
+","
+","
+","
+","Meet Rezero, the dancing ballbot",Péter Fankhauser,5:16,"creativity,design,engineering,robots,technology"
+"
+											Now to move and to balance,
+											Rezero needs to turn the ball.
+											The ball is driven by three special wheels
+											that allow Rezero to move into any direction
+											and also move around his own axis
+											at the same time.
+											Due to his instability, Rezero is always
+											in motion. Now here's the trick.
+											It's indeed exactly this instability that allows
+											a robot to move very [dynamically].
+											Let's play a little.
+											You may have wondered what happens
+											if I give the robot a little push.
+											In this mode, he's trying to maintain
+											his position.
+									","
+											Para moverse y sostenerse,
+											Rezero debe girar la pelota.
+											Tres ruedas especiales manejan la pelota
+											lo que permite a Rezero moverse en cualquier dirección
+											e incluso moverse sobre su propio eje
+											al mismo tiempo.
+											Debido a esta inestabilidad, Rezero está en constante
+											movimiento. Ahora, ahí está el truco.
+											De hecho, es esta inestabilidad lo que permite
+											a un robot moverse dinámicamente.
+											Juguemos un poco.
+											Se habrán preguntado qué pasaría
+											si le doy un empujoncito al robot.
+											En este modo, trata de mantener
+											su posición.
+									","
+											Ora, para se mover e manter o equilíbrio,
+											o Rezero tem de girar a bola.
+											A bola é conduzida por três rodas especiais
+											que permitem que o Rezero se mova em qualquer direcção
+											e também se mova à volta do seu próprio eixo
+											ao mesmo tempo.
+											Devido à sua instabilidade, o Rezero está sempre
+											em movimento. Ora, aqui está o truque.
+											É de facto esta instabilidade que permite
+											que um robô se mova muito dinamicamente.
+											Vamos brincar um pouco.
+											Talvez se tenham perguntado o que acontece
+											se eu der um pequeno empurrão ao robô.
+											Neste modo, ele está a tentar manter
+											a sua posição.
+									","
+											Hareket etmesi ve dengede durması için,
+											Rezero'nun topu döndürmesi gerekli.
+											Top Rezero'nun herhangi bir yöne doğru
+											ve aynı zamanda kendi ekseni etrafında
+											hareket etmesini sağlayan üç özel tekerlek
+											tarafından sürülüyor.
+											Dengesizliği yüzünden, Rezero sürekli
+											hareket halinde. İşte işin sırrı burada.
+											Gerçekten bir robotun çok dinamik bir şekilde
+											hareket etmesini tam da bu dengesizlik sağlıyor.
+											Hadi biraz oynayalım.
+											Robotu biraz ittiğimde ne olduğunu
+											merak etmiş olabilirsiniz.
+											Bu modunda, konumunu korumaya
+											çalışıyor.
+									","
+											Pour se déplacer et se tenir en équilibre,
+											Rezero doit tourner la boule.
+											La boule est actionnée par trois roues spéciales
+											qui permettent à Rezero de se déplacer dans n’importe quelle direction
+											et se déplacer également sur son axe
+											en même temps.
+											A cause de son instabilité, Rezero est toujours
+											en mouvement. Voici le secret.
+											C'est précisément cette instabilité qui permet
+											au robot de se déplacer de manière très dynamique.
+											Jouons un peu.
+											Vous vous êtes peut-être demandé ce qui se passerait
+											si je poussais un peu le robot.
+											Dans ce mode, il essaye de maintenir
+											sa position.
+									","
+											Nun, um sich zu bewegen und zu balancieren,
+											muss Rezero den Ball drehen.
+											Der Ball wird von drei speziellen Rädern angetrieben,
+											die es Rezero erlauben, sich in jede Richtung zu bewegen
+											und sich auch gleichzeitig
+											um seine eigene Achse zu drehen.
+											Durch seine Instabilität ist Rezero
+											immer in Bewegung. Der Trick ist wie folgt:
+											Es ist tatsächlich genau diese Instabilität,
+											die einem Roboter erlaubt, sich sehr [dynamisch] zu bewegen.
+											Lassen Sie uns ein wenig spielen.
+											Sie haben sich vielleicht gefragt, was geschieht,
+											wenn ich dem Roboter einen kleinen Schubs gebe.
+											In diesem Modus versucht er,
+											seine Position zu halten.
+									","Meet Rezero, the dancing ballbot",Péter Fankhauser,5:16,"creativity,design,engineering,robots,technology"
+"
+","
+","
+","
+","
+","
+","Meet Rezero, the dancing ballbot",Péter Fankhauser,5:16,"creativity,design,engineering,robots,technology"
+"
+											For the next demo, I'd like you to introduce
+											to my colleagues Michael, on the computer,
+											and Thomas who's helping me onstage.
+											In the next mode, Rezero is passive,
+											and we can move him around.
+											With almost no force I can control
+											his position and his velocity.
+											I can also make him spin.
+											In the next mode, we can get Rezero
+											to follow a person.
+											He's now keeping a constant distance to Thomas.
+											This works with a laser sensor
+											that's mounted on top of Rezero.
+											With the same method, we can also
+											get him to circle a person.
+											We call this the orbiting mode.
+											All right, thank you, Thomas.
+											(Applause)
+									","
+											Para la siguiente demostración, me gustaría presentarles
+											a mis colegas Michael, en la computadora,
+											y Thomas quien me ayudará en el escenario.
+											En el siguiente modo, Rezero está pasivo,
+											y lo podemos mover.
+											Casi sin fuerza puedo controlar
+											su posición y velocidad.
+											También puedo hacerlo girar.
+											En el siguiente modo, podemos hacer que Rezero
+											siga a una persona.
+											Ahora mantiene una distancia constante con Thomas.
+											Esto funciona con un sensor láser
+											que se encuentra en la parte superior de Rezero.
+											Con el mismo método, podemos hacer
+											que de vueltas alrededor de una persona.
+											Lo llamamos modo orbital.
+											Bien, muchas gracias, Thomas.
+											(Aplausos)
+									","
+											Para a próxima demonstração, gostaria de vos apresentar
+											os meus colegas Michael, no computador,
+											e Thomas, que me está a ajudar no palco.
+											No próximo modo, o Rezero está passivo,
+											e podemos movê-lo de um lado para o outro.
+											Quase sem esforço posso controlar
+											a sua posição e a sua velocidade.
+											Posso também fazê-lo girar.
+											No próximo modo, conseguimos fazer o Rezero
+											seguir uma pessoa.
+											Ele agora mantém uma distância constante em relação ao Thomas.
+											Isto funciona com um sensor laser
+											montado no topo do Rezero.
+											Com o mesmo método, podemos também
+											fazê-lo dar círculos à volta de uma pessoa.
+											Chamamos a isto o modo orbital.
+											Certo, obrigado, Thomas.
+											(Aplausos)
+									","
+											Bir sonraki demo için, meslektaşlarım
+											bilgisayar başındaki Michael ve sahnede bana
+											yardım eden Thomas'ı takdim etmek istiyorum.
+											Bir sonraki modunda, Rezero pasif,
+											ve onu hareket ettirebiliriz.
+											Neredeyse hiç kuvvet kullanmadan, konumunu
+											ve süratini kontrol edebiliyorum.
+											Onu ayrıca döndürebilirim.
+											Bir sonraki modunda, Rezero'nun bir insanı
+											takip ettirebiliyoruz.
+											Şu an Thomas ile arasında sabit bir mesafe tutuyor.
+											Bu Rezero'nun başında takılı
+											bir lazer sensör ile çalışıyor.
+											Aynı yöntem ile, bir insanın etrafında
+											dolaşmasını da sağlayabiliyoruz.
+											Biz buna yörüngeleme modu diyoruz.
+											Peki, teşekkürler, Thomas.
+											(Alkış)
+									","
+											Pour la prochaine démo, j’aimerais vous présenter
+											mes collègues Michael, à l’ordinateur,
+											et Thomas qui me donne un coup de main sur scène.
+											Dans le mode suivant, Rezero est passif,
+											et nous pouvons le déplacer.
+											Presque sans aucune force je peux contrôler
+											sa position et sa vitesse.
+											Je peux même le faire tourner.
+											Dans le mode suivant, nous pouvons le faire
+											suivre une personne.
+											Là il maintient une distance constante avec Thomas.
+											Ça marche avec un détecteur laser
+											monté au sommet de Rezero.
+											Avec la même méthode, nous pouvons aussi
+											le faire tourner autour d’une personne.
+											Nous appelons cela le mode orbitant.
+											Très bien, merci, Thomas.
+											(Applaudissements)
+									","
+											Für die nächste Demonstration möchte ich Ihnen
+											meine Kollegen vorstellen: Michael am Computer
+											und Thomas, der mir hier auf der Bühne helfen wird.
+											Im nächsten Modus ist Rezero passiv
+											und wir können ihn herumschieben.
+											Beinahe ohne Krafteinsatz kann ich
+											seine Position und Geschwindigkeit kontrollieren.
+											Ich kann ihn auch zum Drehen bringen.
+											Im nächsten Modus können wir Rezero
+											dazu bringen, einer Person zu folgen.
+											Er hält nun eine konstante Distanz zu Thomas.
+											Das geschieht mit Hilfe eines Lasersensors,
+											der oben auf Rezero montiert ist.
+											Mit derselben Methode können wir ihn auch
+											dazu bringen, eine Person zu umkreisen.
+											Wir nennen das den umkreisenden Modus.
+											Gut, vielen Dank dir, Thomas.
+											(Applaus)
+									","Meet Rezero, the dancing ballbot",Péter Fankhauser,5:16,"creativity,design,engineering,robots,technology"
+"
+","
+","
+","
+","
+","
+","Meet Rezero, the dancing ballbot",Péter Fankhauser,5:16,"creativity,design,engineering,robots,technology"
+"
+											Now, what's the use of this technology?
+											For now, it's an experiment, but let me
+											show you some possible future applications.
+											Rezero could be used in exhibitions or parks.
+											With a screen it could inform people or show
+											them around in a fun and entertaining way.
+											In a hospital, this device could be used to
+											carry around medical equipment.
+											Due to the Ballbot system, it has a very small
+											footprint and it's also easy to move around.
+											And of course, who wouldn't like
+											to take a ride on one of these.
+											And these are more practical applications.
+											But there's also a certain beauty
+											within this technology.
+									","
+											Ahora bien, ¿cuál es el uso de esta tecnología?
+											Por ahora, es un experimento, pero déjenme
+											mostrales algunas posibles aplicaciones futuras,
+											Rezero puede utilizarse en exhibiciones o parques.
+											Con una pantalla podría informar o mostrar a las personas
+											de una forma divertida y entretenida.
+											En un hospital este dispositivo podría usarse
+											para llevar equipo médico.
+											Debido al sistema Robopelota, tiene una huella muy
+											pequeña y es fácil de manejar.
+											Y por supuesto, a quién no le gustaría
+											pasear en uno de estos.
+											Y éstas son aplicaciones más prácticas.
+											Pero también hay cierta belleza
+											dentro de esta tecnología.
+									","
+											Agora, para que serve esta tecnologia?
+											Por enquanto, é uma experiência, mas deixem-me
+											mostrar-vos algumas possíveis aplicações futuras.
+											O Rezero pode ser usado em exposições ou parques.
+											Com um ecrã pode informar pessoas ou
+											guiá-las de uma forma divertida.
+											Num hospital, este aparelho pode ser usado para
+											transportar equipamento médico.
+											Graças ao sistema Ballbot, tem uma pegada muito pequena
+											e é também muito fácil de transportar.
+											E claro, quem não gostaria
+											de dar uma volta com uma coisa destas?
+											E estas são aplicações mais práticas.
+											Mas há também uma certa beleza
+											contida nesta tecnologia.
+									","
+											Peki, bu teknolojinin faydası nedir?
+											Şimdilik, bu bir deney, ama izin verin
+											size bazı olası gelecek uygulamalarını göstereyim.
+											Rezero sergilerde ya da parklarda kullanılabilir.
+											Bir ekran ile insanları bilgilendirebilir ya da
+											onlara eğlenceli bir şekilde etrafı gösterebilir.
+											Bir hastanede, bu cihaz tıbbi malzeme taşımak
+											için kullanılabilir.
+											Ballbot sisteminden dolayı, çok küçük bir ayakizine sahip
+											ve hareket ettirmesi de kolay.
+											Ve elbette, kim bunlardan birini
+											sürmek istemez ki.
+											Bunlar daha çok pratik uygulamalar.
+											Ama bu teknoloji içerisinde
+											kuşkusuz bir güzellik barındırıyor.
+									","
+											Quelle est l’utilité de cette technologie ?
+											Pour l’instant, c’est une expérience mais laissez-moi
+											vous montrer quelques applications futures possibles.
+											Rezero pourrait être utilisé dans des expositions ou des parcs.
+											Avec un écran il pourrait informer les personnes
+											ou les faire visiter de manière amusante et divertissante.
+											Dans un hôpital, cet appareil pourrait être utilisé
+											pour transporter les équipements médicaux.
+											Grâce au système Ballbot, il a un faible
+											encombrement et se déplace facilement.
+											Et bien sûr, qui ne souhaiterait pas
+											faire un tour sur un de ces appareils.
+											Ce sont des applications plus pratiques.
+											Mais il y a aussi une certaine beauté
+											dans cette technologie.
+									","
+											Nun, wozu dient diese Technologie?
+											Für den Moment ist es ein Experiment,
+											aber lassen Sie mich Ihnen einige mögliche Anwendungen zeigen.
+											Rezero könnte in Ausstellungen oder Parks eingesetzt werden.
+											Mit einem Monitor könnte er die Leute informieren,
+											oder sie auf unterhaltsame und spaßige Art herumführen.
+											In einem Krankenhaus könnte das Gerät dazu verwendet werden,
+											medizinische Apparate herumzutragen.
+											Dank des Ballbot-Systems hat es einen sehr kleinen Fußabdruck
+											und ist auch sehr einfach zu bewegen.
+											Und natürlich, wer möchte nicht einmal
+											auf einem von diesen Dingern reiten.
+											Das sind eher die praktischen Anwendungen.
+											Aber es liegt auch eine gewisse Schönheit
+											in dieser Technologie.
+									","Meet Rezero, the dancing ballbot",Péter Fankhauser,5:16,"creativity,design,engineering,robots,technology"
+"
+","
+","
+","
+","
+","
+","Meet Rezero, the dancing ballbot",Péter Fankhauser,5:16,"creativity,design,engineering,robots,technology"
+"
+											(Music)
+									","
+											(Música)
+									","
+											(Música)
+									","
+											(Müzik)
+									","
+											(Musique)
+									","
+											(Musik)
+									","Meet Rezero, the dancing ballbot",Péter Fankhauser,5:16,"creativity,design,engineering,robots,technology"
+"
+","
+","
+","
+","
+","
+","Meet Rezero, the dancing ballbot",Péter Fankhauser,5:16,"creativity,design,engineering,robots,technology"
+"
+											(Applause)
+									","
+											(Aplausos)
+									","
+											(Aplausos)
+									","
+											(Alkış)
+									","
+											(Applaudissements)
+									","
+											(Applaus)
+									","Meet Rezero, the dancing ballbot",Péter Fankhauser,5:16,"creativity,design,engineering,robots,technology"
+"
+","
+","
+","
+","
+","
+","Meet Rezero, the dancing ballbot",Péter Fankhauser,5:16,"creativity,design,engineering,robots,technology"
+"
+											Thank you.
+									","
+											Muchas gracias.
+									","
+											Obrigado.
+									","
+											Teşekkürler.
+									","
+											(Merci)
+									","
+											Danke.
+									","Meet Rezero, the dancing ballbot",Péter Fankhauser,5:16,"creativity,design,engineering,robots,technology"
+"
+","
+","
+","
+","
+","
+","Meet Rezero, the dancing ballbot",Péter Fankhauser,5:16,"creativity,design,engineering,robots,technology"
+"
+											(Applause)
+									","
+											(Aplausos)
+									","
+											(Aplausos)
+									","
+											(Alkış)
+									","
+											(Applaudissements)
+									","
+											(Applaus)
+									","Meet Rezero, the dancing ballbot",Péter Fankhauser,5:16,"creativity,design,engineering,robots,technology"
+"
+","
+","
+","
+","
+","
+","Meet Rezero, the dancing ballbot",Péter Fankhauser,5:16,"creativity,design,engineering,robots,technology"
+"
+											Thank you.
+									","
+											Gracias.
+									","
+											Obrigado.
+									","
+											Teşekkürler.
+									","
+											Merci.
+									","
+											Vielen Dank.
+									","Meet Rezero, the dancing ballbot",Péter Fankhauser,5:16,"creativity,design,engineering,robots,technology"
+"
+","
+","
+","
+","
+","
+","Meet Rezero, the dancing ballbot",Péter Fankhauser,5:16,"creativity,design,engineering,robots,technology"

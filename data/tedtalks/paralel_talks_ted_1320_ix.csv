@@ -1,0 +1,1478 @@
+pt,tr,en,fr,de,title,speaker,duration,tags
+"
+","
+","
+","
+","
+",Mapping ideas worth spreading,Eric Berlow and Sean Gourley,7:55,"TED Fellows,algorithm,complexity,data,technology"
+"
+											Eric Berlow: Sou ecologista, e o Sean é físico,
+											e dedicamo-nos ambos ao estudo de sistemas complexos.
+											Encontrámo-nos há uns anos e descobrimos
+											que ambos tínhamos dado uma palestra TED
+											sobre a ecologia da guerra
+											e percebemos que estávamos ligados
+											pelas ideias que já partilhávamos antes de nos conhecermos.
+											E depois pensámos nos milhares
+											de outras palestras, especialmente as TED,
+											que vão aparecendo em todo o mundo.
+											Que ligações existirão entre elas,
+											como será essa conversa global?
+											O Sean vai contar-vos um pouco do que fizemos.
+									","
+											Eric Berlow: Ben çevrebilimciyim, Sean da fizikçi.
+											ikimiz de karmaşık ağlar üzerine çalışıyoruz.
+											Birkaç sene önce ikimiz de savaş ekolojisi
+											üzerine kısa birer TED konuşması yaptığımız
+											zaman tanıştık.
+											Tanışmadan önce paylaştığımız ortak fikirler aracılığıyla
+											bağlantılı olduğumuzun farkına vardık.
+											Daha sonra, sizin de bildiğiniz gibi, dünyanın her tarafında yapılan,
+											özellikle TEDx Konuşmaları başta olmak üzere binlerce
+											konuşma var diye düşündük.
+											Bu konuşmalar birbirleriyle nasıl bağlantılı oluyor ve
+											bu küresel konuşma neye benziyor?
+											İşte Sean şimdi size bunu nasıl yaptığımızdan biraz bahsedecek.
+									","
+											Eric Berlow: I'm an ecologist, and Sean's a physicist,
+											and we both study complex networks.
+											And we met a couple years ago when we discovered
+											that we had both given a short TED Talk
+											about the ecology of war,
+											and we realized that we were connected
+											by the ideas we shared before we ever met.
+											And then we thought, you know, there are thousands
+											of other talks out there, especially TEDx Talks,
+											that are popping up all over the world.
+											How are they connected,
+											and what does that global conversation look like?
+											So Sean's going to tell you a little bit about how we did that.
+									","
+											Eric Berlow : Je suis écologiste,
+Sean est physicien,
+											et nous étudions les réseaux complexes.
+											Nous nous sommes rencontrés 
+il y a quelques années, après avoir découvert
+											que nous avions tous deux
+indépendamment parlé
+											de l'écologie de guerre
+dans des conférences TED,
+											et nous avons réalisé
+que nous étions reliés
+											par les idées que nous partagions
+avant même de nous rencontrer.
+											Nous nous sommes dit : 
+il y a des milliers
+											d'autres conférences, 
+notamment les TEDx,
+											qui pullulent partout dans le monde.
+											Comment sont-elles liées ?
+											À quoi ressemble 
+cette conversation mondiale ?
+											Sean va donc vous décrire comment 
+nous avons répondu à ces interrogations.
+									","
+											Eric Berlow: Ich bin Ökologe
+und Sean ist ein Physiker
+											und wir erforschen beide komplexe Netzwerke.
+											Vor ein paar Jahren trafen wir uns,
+als wir herausfanden,
+											dass wir beide einen kurzen TED-Talk
+											über die Ökologie des Krieges gehalten hatten
+											und bemerkten, dass wir durch unsere 
+gemeinsamen Ideen verbunden waren,
+											bevor wir uns überhaupt getroffen hatten.
+											Wir dachten uns, es gibt tausende
+											anderer Vorträge, besonders TEDx-Talks,
+											die auf der ganzen Welt aus dem Boden sprießen.
+											Wie sind sie vernetzt
+											und wie schaut dieser globale Dialog aus?
+											Sean wird Ihnen also etwas darüber erzählen,
+wie wir das gemacht haben.
+									",Mapping ideas worth spreading,Eric Berlow and Sean Gourley,7:55,"TED Fellows,algorithm,complexity,data,technology"
+"
+","
+","
+","
+","
+",Mapping ideas worth spreading,Eric Berlow and Sean Gourley,7:55,"TED Fellows,algorithm,complexity,data,technology"
+"
+											Sean Gourley: Exato. 
+Portanto, pegámos em 24 000 palestras TED
+											de todo o mundo, de 147 países,
+											e o que queríamos era descobrir
+											as estruturas matemáticas subjacentes
+											às ideias nelas contidas.
+											O que queríamos era ver de que forma
+											elas se relacionavam entre si.
+									","
+											Sean Gourley: Kesinlikle. Dünyanın her yerinden 147 farklı ülkeden
+											24.000 TEDx Konuşmasını aldık.
+											Bu konuşmaları ele aldık, çünkü bunların
+											altında yatan matematiksel yapıları
+											bulmak istiyorduk.
+											Bu konuşmaların birbiriyle nasıl ilintili olduğunu
+											görebilmek için bunu yapmak istiyorduk.
+									","
+											Sean Gourley: Exactly. So we took 24,000 TEDx Talks
+											from around the world, 147 different countries,
+											and we took these talks and we wanted to find
+											the mathematical structures that underly
+											the ideas behind them.
+											And we wanted to do that so we could see how
+											they connected with each other.
+									","
+											Sean Gourley : Nous avons pris 
+24 000 conférences TEDx
+											venant du monde entier : 147 pays.
+											Nous avons pris ces conférences
+											et nous voulions trouver
+les structures mathématiques
+											qui exprimaient les idées
+qu'elles contenaient.
+											Nous voulions voir
+de quelle manière ces idées
+											étaient connectées entre elles.
+									","
+											Sean Gourley: Genau.
+Wir haben also 24.000 TEDx-Talks
+											aus aller Welt genommen, 147 verschiedene Länder,
+											wir haben diese Vorträge genommen und wollten
+											die mathematischen Strukturen herausfinden,
+											die den dazugehörigen Ideen zugrunde liegen.
+											Wir wollten das tun, um zu erkennen,
+											wie sie miteinander verbunden sind.
+									",Mapping ideas worth spreading,Eric Berlow and Sean Gourley,7:55,"TED Fellows,algorithm,complexity,data,technology"
+"
+","
+","
+","
+","
+",Mapping ideas worth spreading,Eric Berlow and Sean Gourley,7:55,"TED Fellows,algorithm,complexity,data,technology"
+"
+											Claro que, para fazer isso,
+											são necessários imensos dados.
+											Ora os dados estão numa coisa fantástica 
+chamada YouTube,
+											e basicamente pode ir-se lá e
+											tirar toda essa informação aberta,
+											todos os comentários, os visitantes, quem vê o quê,
+											onde se encontra e o que diz nos comentários.
+											Mas também podemos usar tradução direta 
+do discurso oral para texto
+											e obter a transcrição integral,
+											o que resulta bem até para pessoas com sotaques 
+meio esquisitos como eu.
+											Portanto, podemos pegar nas transcrições
+											e fazer uma série de coisas giras.
+											Podemos usar algoritmos de processamento 
+de linguagem
+											para fazer uma espécie de leitura por computador, 
+linha a linha,
+											e extrair conceitos-chave.
+											E depois pegamos nesses conceitos, 
+e eles formam uma espécie
+											de estrutura matemática de uma ideia.
+											A isso chamamos um meme-ome.
+											E sabem, o meme-ome não passa
+											da matemática subjacente a uma ideia,
+											e com ele podemos fazer algumas análises 
+bastante interessantes,
+											e é isso que vou partilhar convosco agora.
+									","
+											Tabii ki bu tarz şeyler yapacaksanız
+											bir sürü veriye ihtiyacınız var.
+											Elinizdeki veri ise YouTube denen muhteşem şey.
+											Bilgisayarın başına oturup temel olarak YouTube'daki tüm
+											yorumlara, görüntülemelere, kimin izlediğine,
+											nerede izlediğine, ne yorum yaptığına dair
+											tüm açık bilgileri çekebiliyoruz.
+											Ama tabii ki konuşmadan yazıya aktarımla çeviriyi kullanarak
+											tümünü yazıya dökebiliyoruz.
+											Bu benim gibi komik aksanı olan insanlar için bile işe yarayabiliyor.
+											Sonra yazı dökümünü alabiliyoruz,
+											aslında baya havalı şeyler yapıyoruz.
+											Doğal lisan işleme algoritmaları ile,
+											- baştan sona, satır satır okuma yapabilen bir tür bilgisayar -
+											anahtar kavramları ortaya çıkarıyoruz.
+											Aldığımız bu anahtar kavramlar
+											bir fikrin matematiksel yapısını oluşturuyor.
+											Buna meme-ome diyoruz.
+											Basitçe, bildiğiniz meme-ome
+											bir fikrin altında yatan matematiğe denir
+											ve bunlar ile ilginç bazı çözümlemeler yapabiliyoruz.
+											Şimdi sizinle bunları paylaşmak istiyorum.
+									","
+											And so, of course, if you're going to do this kind of stuff,
+											you need a lot of data.
+											So the data that you've got is a great thing called YouTube,
+											and we can go down and basically pull
+											all the open information from YouTube,
+											all the comments, all the views, who's watching it,
+											where are they watching it, what are they saying in the comments.
+											But we can also pull up, using speech-to-text translation,
+											we can pull the entire transcript,
+											and that works even for people with kind of funny accents like myself.
+											So we can take their transcript
+											and actually do some pretty cool things.
+											We can take natural language processing algorithms
+											to kind of read through with a computer, line by line,
+											extracting key concepts from this.
+											And we take those key concepts and they sort of form
+											this mathematical structure of an idea.
+											And we call that the meme-ome.
+											And the meme-ome, you know, quite simply,
+											is the mathematics that underlies an idea,
+											and we can do some pretty interesting analysis with it,
+											which I want to share with you now.
+									","
+											Bien sûr, pour pouvoir réaliser
+ce genre de chose,
+											il faut beaucoup de données.
+											Les données, on les trouve sur un engin génial
+qui s'appelle YouTube,
+											et on peut exploiter
+toutes les informations qui s'y trouvent :
+											tous les commentaires,
+le nombre de vues,
+											savoir qui regarde les vidéos
+d'où elles sont regardées,
+											et ce qu'il est dit 
+dans les commentaires.
+											Mais on peut aussi analyser
+tous les textes de conférences
+											en utilisant les transcriptions,
+											et ça marche aussi pour les gens
+qui ont un accent bizarre comme moi !
+											Ainsi, on peut prendre le texte
+											et faire des trucs plutôt chouette.
+											On peut utiliser des algorithmes
+de traitement du langage naturel
+											pour qu'un ordinateur « lise » les données, 
+ligne par ligne,
+											pour en extraire les concepts-clés.
+											Puis on prend ces concepts-clés, 
+qui en fait representent
+											une idée sous forme
+de structure mathématique.
+											On appelle ça un « mème-ome ».
+											Ce « mème-ome », 
+pour faire simple,
+											désigne l'interprétation 
+mathématique d'une idée,
+											et on peut faire des analyses
+très intéressantes avec ça,
+											et j'aimerais les partager
+avec vous aujourd'hui.
+									","
+											Wenn man solche Dinge machen möchte,
+											braucht man große Datenmengen.
+											Die vorhanden Daten ist 
+dieses tolle Ding namens YouTube.
+											Wir können im Grunde in die Tiefe gehen und
+											alle freien Inhalte aus YouTube beziehen,
+											alle Kommentare, alle Besuche,
+wer sie ansieht,
+											wo sie sie ansehen und was 
+in den Kommentaren gesagt wird.
+											Mithilfe von Sprache-Text-Übertragung
+											können wir aber auch 
+die ganze Abschrift heranziehen,
+											und das funktioniert selbst bei Leuten 
+mit etwas komischem Akzent, wie mir.
+											Wir können also ihre Abschriften erfassen
+											und einige ziemlich tolle Sachen damit machen.
+											Durch Algorithmen zur Verarbeitung 
+von natürlicher Sprache
+											können wir mit einem Computer 
+Zeile für Zeile durchlesen
+											und die wesentlichen Konzepte herausarbeiten.
+											Diese Konzepte bilden gemeinsam
+											diese mathematische Struktur einer Idee.
+											Und das nennen wir das Meme-Ome.
+											Das Meme-Ome ist ganz einfach
+											die Mathematik, die einer Idee zugrunde liegt
+											und damit lassen sich ziemlich 
+interesante Analysen durchführen,
+											die ich nun mit Ihnen teilen möchte.
+									",Mapping ideas worth spreading,Eric Berlow and Sean Gourley,7:55,"TED Fellows,algorithm,complexity,data,technology"
+"
+","
+","
+","
+","
+",Mapping ideas worth spreading,Eric Berlow and Sean Gourley,7:55,"TED Fellows,algorithm,complexity,data,technology"
+"
+											Então, cada ideia tem o seu meme-ome
+											e nisso cada ideia é única,
+											mas claro que as ideias pedem emprestado 
+umas às outras,
+											às vezes como que roubam umas às outras
+											e sem dúvida que se constroem 
+umas a partir das outras.
+											Assim, podemos extrair o meme-ome 
+matematicamente
+											de uma palestra
+											e compará-lo com os meme-omes de todas as outras
+											e, se houver similaridades entre eles,
+											podemos criar uma ligação e representá-la 
+num gráfico,
+											tal como eu e o Eric estamos interligados.
+									","
+											Her fikir için bir meme-ome vardır ve bu
+											her fikrin kendine özgüdür.
+											Ama, tabii ki, fikirler birbirinden ödünç alırlar.
+											Hatta bazen çalarlar bile.
+											Ama kesin olarak birbiri üzerine inşa edilirler
+											ve biz bunu matematiksel olarak inceleyebiliriz.
+											Mesela, bir konuşmadan bir meme-ome alıp
+											onu diğer tüm konuşmalardaki meme-ome'larla karşılaştırabiliriz.
+											Eğer ikisi arasında bir benzerlik varsa,
+											arada bir bağlantı oluşturabilir ve bunu da bir grafik olarak gösterebiliriz.
+											tıpkı Eric ve benim kurduğumuz bağlantı gibi.
+									","
+											So each idea has its own meme-ome,
+											and each idea is unique with that,
+											but of course, ideas, they borrow from each other,
+											they kind of steal sometimes,
+											and they certainly build on each other,
+											and we can go through mathematically
+											and take the meme-ome from one talk
+											and compare it to the meme-ome from every other talk,
+											and if there's a similarity between the two of them,
+											we can create a link and represent that as a graph,
+											just like Eric and I are connected.
+									","
+											Donc chaque idée
+a son propre « mème-ome »,
+											chaque idée est unique,
+											mais bien sûr, les idées,
+s'inspirent les unes des autres
+											parfois même elles puisent
+les unes des autres,
+											et puis elles s'appuient évidement
+les unes sur les autres.
+											Ainsi, on peut faire
+une analyse mathématique,
+											prendre le « mème-ome »
+d'une conférence
+											et le comparer aux « mème-ome »
+de toutes les autres conférences,
+											et s'il y a une similarité
+avec une autre conférence,
+											on peut créer un lien
+et illustrer ça sur un graphique,
+											et c'est sur ce même principe
+qu'Eric et moi sommes reliés.
+									","
+											Jede Idee hat also ihr Meme-Ome
+											und damit ist jede Idee einzigartig,
+											aber natürlich leihen sie sich voneinander,
+											manchmal klauen sie gewissermaßen
+											und sicherlich bauen sie aufeinander auf.
+											Wir können sie mathematisch durchlaufen
+											und das Meme-One eines Vortrages
+											mit dem jedes anderen Vortrages vergleichen
+											und wenn zwischen zweien eine Ähnlichkeit besteht,
+											können wir einen Querverweis schaffen 
+und diesen als Graphen darstellen,
+											genauso wie Eric und ich verbunden sind.
+									",Mapping ideas worth spreading,Eric Berlow and Sean Gourley,7:55,"TED Fellows,algorithm,complexity,data,technology"
+"
+","
+","
+","
+","
+",Mapping ideas worth spreading,Eric Berlow and Sean Gourley,7:55,"TED Fellows,algorithm,complexity,data,technology"
+"
+											Isto é a teoria, ótimo.
+											Agora vamos ver como funciona na prática.
+											Portanto, o que temos aqui é a pegada global
+											de todas as palestras TED dos útimos quatro anos
+											a explodirem por todo o mundo
+											de Nova Iorque à pequena Nova Zelândia 
+ali no canto.
+											O que fizemos foi analisar 25% 
+das palestras de topo
+											e começámos a verificar onde ocorriam as ligações,
+											onde é que se ligavam umas às outras.
+											A palestra de Cameron Russell sobre 
+a imagem e a beleza
+											tinha ligações em toda a Europa.
+											Depois, havia uma outra conversa bem maior 
+acerca de Israel e da Palestina
+											que irradiava desde o Médio Oriente.
+											E obtivemos algo mais lato,
+											uma espécie de grande conjunto de dados com uma verdadeira pegada global,
+											evocando uma conversa
+											que se está a estabelecer em todo o lado.
+									","
+											Yani teori bu ve müthiş bir şey.
+											Pratikte nasıl işlediğine bir bakalım.
+											Burada, elimizde şuan New York'dan
+											ta Yeni Zellanda'ya kadar son dört yılda
+											dünyanın her yerinde yapılan
+											TEDx Konuşmalarının iz düşümleri var.
+											Yaptığımız şey, bunların en iyi yüzde 25'ini çözümlemek,
+											bağlantıların nerelerde olduğunu ve
+											birbirleriyle nasıl ilişkilendirildiklerini anlamaya başlamak oldu.
+											Görüntü ve güzellik hakkında konuşan Cameron Russell
+											Avrupa'dan bağlanmış.
+											Filistin ve İsrail hakkında Ortadoğu'dan gelen
+											daha büyük bir konuşmamız da var.
+											Elimizde biraz daha büyük,
+											her yerde yapılan bir konuşmanın
+											gerçek anlamda küresel bir ayak izini anımsatmış
+											olan bir konuşma var.
+									","
+											So that's theory, that's great.
+											Let's see how it works in actual practice.
+											So what we've got here now is the global footprint
+											of all the TEDx Talks over the last four years
+											exploding out around the world
+											from New York all the way down to little old New Zealand in the corner.
+											And what we did on this is we analyzed the top 25 percent of these,
+											and we started to see where the connections occurred,
+											where they connected with each other.
+											Cameron Russell talking about image and beauty
+											connected over into Europe.
+											We've got a bigger conversation about Israel and Palestine
+											radiating outwards from the Middle East.
+											And we've got something a little broader
+											like big data with a truly global footprint
+											reminiscent of a conversation
+											that is happening everywhere.
+									","
+											C'est la théorie, c'est formidable.
+											Voyons comment ça marche en pratique.
+											Donc ici, nous avons l'empreinte mondiale
+											de toutes les conférences TEDx
+											des 4 dernières années
+											de New York jusqu'à la Nouvelle-Zélande 
+en bas à droite.
+											Nous avons donc analysé
+le top de 25 % des conférences,
+											et nous avons commencé
+à chercher où étaient les connections,
+											où elles se connectaient entre elles.
+											Cameron Russell 
+qui parle d'image et de beauté
+											est connecté à l'Europe.
+											Nous avons une conversation plus étendue 
+sur l'Israël et la Palestine
+											rayonnant vers l'extérieur
+à partir du Moyen-Orient.
+											Et nous avons quelque chose
+d'un peu plus large
+											comme les données volumineuses
+avec une empreinte véritablement mondiale
+											qui évoque une conversation
+											qui se passe partout dans le monde.
+									","
+											Das ist also die Theorie, das ist großartig.
+											Lassen Sie uns betrachten,
+wie das in der Praxis aussieht.
+											Das hier ist der globale Fußabdruck
+											aller TEDx-Talks der letzten 4 Jahre,
+											die auf der ganzen Welt entstehen,
+											von New York bis zum kleinen Neuseeland 
+hier in der Ecke.
+											Wir haben hier die oberen 25% analysiert
+											und begannen zu sehen, 
+wo die Verbindungen entstanden,
+											wo sie miteinander verbunden waren.
+											Cameron Russell, 
+die über Image und Schönheit spricht,
+											verbindet nach Europa.
+											Wie haben eine größere Unterhaltung
+über Israel und Palästina,
+											die von Mittleren Osten ausgeht.
+											Und wir haben etwas allgemeineres,
+											wie Big Data, mit einem wirklich 
+globalen Fußabdruck,
+											der von einem Dialog zeugt,
+											der überall passiert.
+									",Mapping ideas worth spreading,Eric Berlow and Sean Gourley,7:55,"TED Fellows,algorithm,complexity,data,technology"
+"
+","
+","
+","
+","
+",Mapping ideas worth spreading,Eric Berlow and Sean Gourley,7:55,"TED Fellows,algorithm,complexity,data,technology"
+"
+											A partir daí, debatemo-nos com
+											o que podemos realmente fazer com 
+uma projeção geográfica,
+											mas, felizmente, a tecnologia informática permite-nos
+											chegar ao espaço multidimensional.
+											Assim, pegámos na nossa projeção em rede
+											e aplicámos-lhe um sistema de física,
+											e as palestras semelhantes agruparam-se 
+como que em colisão,
+											enquanto as diferentes se afastaram,
+											e chegámos a isto, que é algo bastante bonito.
+									","
+											Yani bundan yola çıkarak, coğrafi izdüşümle
+											yapabileceğimiz şeylerin sınırlarını zorluyoruz.
+											Şansımıza, bilgisayar teknolojisi çok boyutlu boşluğa
+											açılmamıza olanak sağlıyor.
+											Biz de ağ izdüşümünü alıyoruz ve
+											buna bir fizik motoru uyguluyoruz.
+											Bu şekilde benzer konuşmalar eşleşirken
+											farklı olanları da ayrılıyor.
+											Aldığımız netice ise oldukça güzel.
+									","
+											So from this, we kind of run up against the limits
+											of what we can actually do with a geographic projection,
+											but luckily, computer technology allows us to go out
+											into multidimensional space.
+											So we can take in our network projection
+											and apply a physics engine to this,
+											and the similar talks kind of smash together,
+											and the different ones fly apart,
+											and what we're left with is something quite beautiful.
+									","
+											Donc sur cette base, 
+on se heurte un peu aux limites
+											de ce qu'on peut faire
+avec une projection géographique,
+											mais heureusement, 
+la technologie informatique permet
+											d'utiliser un espace multidimensionnel.
+											Ainsi nous pouvons prendre
+notre projection de réseau
+											et trier les conférences par l’intermédiaire 
+d'un moteur physique,
+											qui fait en sorte de regrouper
+les conférences qui sont similaires
+											et d’écarter celles qui diffèrent,
+											et on obtient quelque chose d'assez beau.
+									","
+											Damit stoßen wir irgendwie an die Grenzen dessen,
+											was wir mit einer geografischen Projektion schaffen.
+											Glücklicherweise aber, erlauben es uns
+die Computerwissenschaften,
+											uns in den multidimensionalen Raum zu begeben.
+											Wir können also unsere Projektion
+des Netzwerks heranziehen
+											und darauf eine Physik-Engine anwenden,
+											und die ähnlichen Vorträge kollidieren miteinander,
+											die unterschiedlichen fliegen auseinander
+											und das Ergebnis ist etwas ziemlich Schönes.
+									",Mapping ideas worth spreading,Eric Berlow and Sean Gourley,7:55,"TED Fellows,algorithm,complexity,data,technology"
+"
+","
+","
+","
+","
+",Mapping ideas worth spreading,Eric Berlow and Sean Gourley,7:55,"TED Fellows,algorithm,complexity,data,technology"
+"
+											EB: Só quero salientar que cada um dos nós 
+é uma palestra,
+											que estão interligados se partilharem 
+ideias semelhantes
+											e que isto decorre da leitura mecânica
+											das transcrições integrais de palestras;
+											e que os tópicos que saltam à vista
+											não são nem ""tags"" nem palavras-chaves.
+											Eles decorrem da estrutura em rede
+											de ideias interligadas. Continua.
+									","
+											EB: Burada göstermek istediğim şey, her düğüm bir konuşma.
+											Benzer fikirleri paylaşıyorlarsa, bağlanıyorlar.
+											Bunu yapan, tüm konuşmaların
+											yazıya dökülmüş halini okuyabilen bir makine.
+											Sonra, tüm bu ortaya çıkan konular,
+											etiketlerden veya kilit kelimelerden değiller.
+											Birbiriyle bağlı fikirlerin
+											ağ yapısından geliyorlar. Sen devam et.
+									","
+											EB: So I want to just point out here that every node is a talk,
+											they're linked if they share similar ideas,
+											and that comes from a machine reading
+											of entire talk transcripts,
+											and then all these topics that pop out,
+											they're not from tags and keywords.
+											They come from the network structure
+											of interconnected ideas. Keep going.
+									","
+											EB : Alors, je veux juste souligner ici 
+que chaque nœud est une conférence,
+											et qu'elles sont reliées si elles partagent
+des idées similaires.
+											Ceci est déterminé
+par une lecture informatique
+											des transcriptions des conférences,
+											et toutes ces thématiques
+qui apparaissent
+											ne surgissent pas des mots-clés.
+											Elle proviennent
+de la structure du réseau
+											des idées interconnectées. 
+Continue.
+									","
+											EB: Ich möchte nur darauf hinweisen,
+dass jeder Knotenpunkt ein Vortrag ist.
+											Sie sind verbunden, wenn sie
+ähnliche Ideen miteinander teilen,
+											das entsteht indem eine Maschine
+											die gesamten Abschriften durchliest.
+											Und all diese Themen, die herausspringen,
+											kommen nicht von Tags oder Stichworten.
+											Sie kommen aus der Netzstruktur
+											miteinander verbundener Ideen.
+Macht bitte weiter so.
+									",Mapping ideas worth spreading,Eric Berlow and Sean Gourley,7:55,"TED Fellows,algorithm,complexity,data,technology"
+"
+","
+","
+","
+","
+",Mapping ideas worth spreading,Eric Berlow and Sean Gourley,7:55,"TED Fellows,algorithm,complexity,data,technology"
+"
+											SG: Claro. Apressei-me um bocado,
+											mas ele faz-me abrandar.
+											Temos a educação ligada à narração de histórias
+											em triangulação junto dos ""media"" sociais.
+											Temos, como é óbvio, o cérebro humano 
+mesmo ao lado dos cuidados de saúde,
+											o que seria de esperar,
+											mas também temos os jogos vídeo, 
+que são adjacentes,
+											dado que os dois espaços comunicam entre si.
+									","
+											SG: Kesinlikle. Onu hızlı geçecektim,
+											ama bu beni yavaşlatacak.
+											Sosyal medyanın hemen yanında,
+											üçgensel yapıda hikayeciliğe bağlı eğitim var.
+											Tabii ki, sağlık hizmetinin hemen yanında insan beyni var.
+											Aynen beklediğiniz gibi.
+											Ama iki boşluk birbiriyle bağlandığından
+											hemen bitişikte video oyunları da var.
+									","
+											SG: Absolutely. So I got a little quick on that,
+											but he's going to slow me down.
+											We've got education connected to storytelling
+											triangulated next to social media.
+											You've got, of course, the human brain right next to healthcare,
+											which you might expect,
+											but also you've got video games, which is sort of adjacent,
+											as those two spaces interface with each other.
+									","
+											SG: Absolument. J'ai survolé ce point
+un peu trop rapidement
+											mais il est là pour me ralentir.
+											On voit que l'éducation est connectée
+à la narration d'histoires
+											triangulées avec les médias sociaux.
+											On a, bien sûr, le cerveau humain, 
+juste à côté de la santé,
+											ce dont on aurait pu se douter,
+											mais on a aussi les jeux vidéo,
+qui sont à côté,
+											car ces deux espaces
+communiquent entre eux.
+									","
+											SG: Ganz genau.
+Ich war ein bisschen schnell damit,
+											aber er bremst mich schon.
+											Bildung ist verbunden mit Geschichtenerzählen,
+											im Dreieck mit sozialen Medien
+											Natürlich haben wir das menschliche Gehirn
+direkt neben der Gesundheitsversorgung,
+											was Sie vielleicht erwartet haben,
+											wir haben aber auch Videospiele in der Nähe,
+											da die beiden Bereiche 
+sich miteinander kurzschließen.
+									",Mapping ideas worth spreading,Eric Berlow and Sean Gourley,7:55,"TED Fellows,algorithm,complexity,data,technology"
+"
+","
+","
+","
+","
+",Mapping ideas worth spreading,Eric Berlow and Sean Gourley,7:55,"TED Fellows,algorithm,complexity,data,technology"
+"
+											Mas quero mostrar-vos um conjunto
+											que me é particularmente caro, que é o do ambiente.
+											E quero fazer uma ampliação
+											e ver se conseguimos maior resolução.
+											À medida que nos aproximamos, 
+o que começamos a ver,
+											aplicamos de novo o sistema de física,
+											vemos que há uma conversa
+											que é composta de muitas outras 
+de menor dimensão.
+											A estrutura começa a emergir
+											e vemos como que um comportamento fractal
+											das palavras e da linguagem que usamos
+											para descrever aquilo que achamos importantes
+											em todo o mundo.
+											Assim, no topo, temos economia alimentar 
+e alimentação local,
+											temos gases de efeito de estufa, energia solar 
+e resíduos nucleares.
+											O que encontramos é uma variedade de 
+conversas de menor dimensão,
+											ligadas umas às outras através das ideias
+											e da linguagem que partilham entre si
+											e assim criando um conceito mais abrangente 
+de ambiente.
+											E a partir daqui, claro que podemos
+											ampliar para ver o que é que preocupa os jovens.
+											E ver que eles falam de tecnologia energética 
+e de fusão nuclear.
+											É esta a sua relevância
+											no que diz respeito à conversa sobre o ambiente.
+											Se fizermos a divisão por sexos,
+											vemos que as mulheres dão grande importância
+											à economia alimentar, mas de uma forma 
+otimista e esperançosa.
+									","
+											Ama benim için özellikle önemli olan bir kümeyi
+											size göstermek istiyorum. Bu küme çevre.
+											Buraya biraz daha yakından bakmak ve
+											çözünürlüğü biraz daha netleştirmek istiyorum.
+											Yani buraya girdiğimizde, görmeye başladığımız şey,
+											fizik motorunu bir daha uygularsak,
+											herhangi bir konuşmanın aslında
+											birçok küçük konuşmadan oluştuğunu görürüz.
+											Yapı ortaya çıkmaya başladı.
+											Dünyanın her yerinde
+											bizim için önemli olan şeyleri anlatırken
+											kullandığımız dilin ve kelimelerin bir çeşit kesirsel
+											davranışını görebiliyoruz.
+											Zirvede gıda ekonomisi ve yerel gıda var,
+											sera gazları, güneşsel ve nükleer atıklar var.
+											Elde ettiğiniz, her biri paylaştıkları dil ve
+											fikirler yoluyla birbirine bağlı,
+											daha geniş bir çevre kavramı oluşturan
+											çeşitli daha küçük konuşmalar.
+											Tabiki, buradan şöyle
+											yakınlaşabilir ve gençlerin neye baktığını görebilirsiniz.
+											Gençler enerji teknolojisi ve nükleer füzyona bakıyorlar.
+											Bu çevre hakkındaki konuşmalar için
+											onların sesinin yankısı.
+											Eğer cinsiyet hatlarını bölersek,
+											kadınların daha çok yiyecek ekonomisi,
+											umut ve iyimserlikte yankı bulduklarını görebiliriz.
+									","
+											But I want to take you into one cluster
+											that's particularly important to me, and that's the environment.
+											And I want to kind of zoom in on that
+											and see if we can get a little more resolution.
+											So as we go in here, what we start to see,
+											apply the physics engine again,
+											we see what's one conversation
+											is actually composed of many smaller ones.
+											The structure starts to emerge
+											where we see a kind of fractal behavior
+											of the words and the language that we use
+											to describe the things that are important to us
+											all around this world.
+											So you've got food economy and local food at the top,
+											you've got greenhouse gases, solar and nuclear waste.
+											What you're getting is a range of smaller conversations,
+											each connected to each other through the ideas
+											and the language they share,
+											creating a broader concept of the environment.
+											And of course, from here, we can go
+											and zoom in and see, well, what are young people looking at?
+											And they're looking at energy technology and nuclear fusion.
+											This is their kind of resonance
+											for the conversation around the environment.
+											If we split along gender lines,
+											we can see females resonating heavily
+											with food economy, but also out there in hope and optimism.
+									","
+											Mais je veux vous emmener
+dans une grappe
+											qui m'importe particulièrement
+qui est l'environnement.
+											Et je veux zoomer là-dessus
+											et voir si on peut obtenir
+une plus grande résolution.
+											En fait, ce dont on s'aperçoit,
+											en appliquant ce moteur physique,
+											c'est qu'une conversation
+											se compose en réalité
+de plusieurs petites conversations.
+											La structure commence à émerger,
+											et on voit un comportement fractal
+											des mots et du langage que l'on utilise
+											pour décrire les choses
+qui sont importantes pour nous
+											tout autour du monde.
+											On a l'économie alimentaire
+et la nourriture locale en haut,
+											les gaz à effet de serre, le solaire
+et les déchets nucléaires.
+											Ce qu'on obtient est une gamme
+de petites conversations,
+											chacune reliées aux autres
+à travers les idées
+											et la langue qu'elles partagent,
+											créant un concept
+plus large de l'environnement.
+											Et bien sûr, à partir d'ici
+on peut zoomer
+											et voir, et bien, 
+que regardent les jeunes ?
+											Ils s'intéressent aux technologies de l'énergie
+et à la fusion nucléaire.
+											C'est ce à quoi ils s'intéressent
+											dans les conversations qui tournent 
+autour de la thématique de l'environnement.
+											Si nous séparons selon le sexe,
+											nous pouvons voir que les femmes
+s'intéressent fortement
+											à l'économie alimentaire, 
+mais aussi à l'espoir et à l'optimisme.
+									","
+											Ich möchte Sie aber in einen Cluster mitnehmen,
+											der mir besonders wichtig ist
+und das ist die Umwelt.
+											Und ich möchte näher heranzoomen
+											und schauen, ob wir noch
+eine höhere Auflösung bekommen.
+											Wenn wir uns hier annähern, sehen wir,
+											– wir wenden wieder die Physik-Engine an –
+											erkennen wir, dass eine Unterhaltung
+											eigentlich aus vielen kleineren besteht.
+											Ihre Struktur tritt in Erscheinung,
+											wodurch wir ein fraktales Verhalten
+											der Wörter und der Sprache beobachten,
+die wir tagtäglich verwenden,
+											um die Dinge zu beschreiben,
+die uns wichtig sind,
+											auf der ganzen Welt.
+											Oben haben wir also Lebensmittelwirtschaft
+und regionale Lebensmittel,
+											Treibhausgase, Solarenergie und Atommüll.
+											Wir erhalten eine Reihe kleinerer Unterhaltungen,
+											die untereinander durch ihre gemeinsamen Ideen
+											und ihre Sprache verbunden sind
+											und so eine vielseitigere Auffassung
+der Umwelt schaffen.
+											Von hier aus, können wir natürlich
+											hineinzoomen und herausfinden, 
+wofür interessieren sich junge Leute.
+											Und Sie interessieren sich für
+Energietechnologie und Kernfusion.
+											Das ist ihre eigene Resonanz
+											zu der Unterhaltung rund um die Umwelt.
+											Wenn wir nach Geschlechtern trennen,
+											sehen wir, dass Lebensmittelwirtschaft
+											bei Frauen starken Widerhall findet,
+aber auch Hoffnung und Optimismus.
+									",Mapping ideas worth spreading,Eric Berlow and Sean Gourley,7:55,"TED Fellows,algorithm,complexity,data,technology"
+"
+","
+","
+","
+","
+",Mapping ideas worth spreading,Eric Berlow and Sean Gourley,7:55,"TED Fellows,algorithm,complexity,data,technology"
+"
+											Portanto, podemos fazer muitas coisas espantosas,
+											e agora passo a palavra ao Eric.
+									","
+											Yani burada yapabileceğimiz bir sürü heyecan verici şey var.
+											Bir sonraki kısmı Eric'e havale ediyorum.
+									","
+											And so there's a lot of exciting stuff we can do here,
+											and I'll throw to Eric for the next part.
+									","
+											Et donc on peut faire
+des tas de choses passionnantes,
+											et je vais laisser la parole à Eric
+pour la prochaine partie.
+									","
+											Es gibt also eine Menge aufregender Dinge,
+die wir hier machen können
+											und ich übergebe für den nächsten Teil an Eric.
+									",Mapping ideas worth spreading,Eric Berlow and Sean Gourley,7:55,"TED Fellows,algorithm,complexity,data,technology"
+"
+","
+","
+","
+","
+",Mapping ideas worth spreading,Eric Berlow and Sean Gourley,7:55,"TED Fellows,algorithm,complexity,data,technology"
+"
+											EB: Bom, quero salientar que
+											não podemos chegar a este tipo de perspetiva
+											a partir de uma simples busca das ""tags"" 
+do YouTube.
+											Regressemos à visão anterior da conversa global
+											e olhemos para todas as palestras.
+											Bom, quando confrontados com conteúdos 
+tão vastos, muitas vezes
+											tentamos simplificá-los.
+											Podemos, por exemplo, perguntarmo-nos
+											quais são as palestras com maior popularidade.
+											E assim emergem algumas delas.
+											Há uma sobre gratidão.
+											Há uma outra sobre nutrição e saúde pessoal.
+											E claro que tinha de haver uma sobre 
+a pornografia, não é?
+											E podíamos dizer, bom, gratidão foi no ano passado.
+											E agora? O que é que está mais na berra?
+											E assim chegamos à conclusão de que 
+o tema mais popular agora
+											tem a ver com a privacidade digital.
+									","
+											EB: Evet, yani, söylemem gereken,
+											bu tür bir bakış açısını
+											YouTube'da basit bir etiket aramasından elde edemezsiniz.
+											Şimdi çevrenin de dışına çıkıp tüm küresel konuşmalara geri
+											dönelim ve konuşmalara birlikte bakalım.
+											Sıklıkla bu miktarda içerikle karşı karşıya kaldığımızda,
+											onu basitleştirmek için birkaç şey yaparız.
+											Mesela, en çok tutulan konuşmalar
+											hangileridir diyebiliriz.
+											Sonra birkaçı yüzeye çıkar.
+											Minnettarlıkla alakalı bir konuşma var.
+											Kişisel sağlık ve beslenme ile alakalı başka bir tane var.
+											Tabii ki, porno ile ilgili de bir tane olmalı, değil mi?
+											Sonra, minnettarlık geçen seneydi diyebiliriz.
+											Şimdi ne tutuluyor? Şimdi en revaçta olan konuşma ne?
+											Yeni yeni tutulmaya başlayan konuşmanın
+											dijital mahremiyet hakkında olduğunu görebiliriz.
+									","
+											EB: Yeah, I mean, just to point out here,
+											you cannot get this kind of perspective
+											from a simple tag search on YouTube.
+											Let's now zoom back out to the entire global conversation
+											out of environment, and look at all the talks together.
+											Now often, when we're faced with this amount of content,
+											we do a couple of things to simplify it.
+											We might just say, well,
+											what are the most popular talks out there?
+											And a few rise to the surface.
+											There's a talk about gratitude.
+											There's another one about personal health and nutrition.
+											And of course, there's got to be one about porn, right?
+											And so then we might say, well, gratitude, that was last year.
+											What's trending now? What's the popular talk now?
+											And we can see that the new, emerging, top trending topic
+											is about digital privacy.
+									","
+											EB : Oui, je voudrais d'abord souligner
+											qu'on ne peut pas obtenir
+ce genre de perspective
+											par une simple recherche
+de mots-clés sur YouTube.
+											Faisons maintenant un zoom arrière
+sur la totalité des conversations
+											et regardons l'ensemble 
+des conférences.
+											Souvent, lorsqu'on est confronté
+à cette quantité de contenu,
+											on fait quelques opérations 
+pour simplifier.
+											Nous pourrions dire,
+et bien,
+											quelles sont les conférences
+les plus populaires ?
+											Et quelques-unes remontent à la surface.
+											Il y a une conférence
+à propos de la gratitude.
+											Il y en a une autre
+sur la santé et la nutrition.
+											Et bien sûr, 
+il y en a une sur le porno !
+											Et alors, nous pourrions dire :
+la gratitude, c'était l'an dernier.
+											Qu'est-ce qui est en vogue ? 
+Qu'est-ce qui est populaire en ce moment ?
+											Et nous pouvons voir que
+le nouveau thème le plus en vogue
+											est celui de l'intimité numérique.
+									","
+											EB: Ja, ich möchte nur darauf hinweisen,
+											dass man diese Blickweise
+											nicht durch eine einfache Stichwortsuche
+auf YouTube erhalten kann.
+											Wir zoomen jetzt heraus
+auf die gesamte globale Unterhaltung,
+											aus der Umwelt heraus, und sehen uns
+die Gesamtheit der Vorträge an.
+											Bei einer solchen Menge an Inhalten
+											tun wir meistens ein paar Dinge,
+um es einfacher zu gestalten.
+											Man könnte auch einfach sagen,
+											welche sind die beliebtesten Vorträge?
+											Und einige treten zutage.
+											Da gibt es einen Vortrag über Dankbarkeit.
+											Ein anderer handelt von
+individueller Gesundheit und Ernährung
+											Und selbstverständlich gehört einer
+über Pornografie dazu, oder?
+											Dan könnten wir sagen,
+Dankbarkeit, das war letztes Jahr.
+											Was ist gerade im Trend?
+Welcher Vortrag ist zurzeit beliebt?
+											Und wir können erkennen,
+dass das neue, aufstrebende Thema
+											die digitale Privatsphäre ist.
+									",Mapping ideas worth spreading,Eric Berlow and Sean Gourley,7:55,"TED Fellows,algorithm,complexity,data,technology"
+"
+","
+","
+","
+","
+",Mapping ideas worth spreading,Eric Berlow and Sean Gourley,7:55,"TED Fellows,algorithm,complexity,data,technology"
+"
+											É ótimo. Simplifica as coisas.
+											Mas há tanto material criativo
+											enterrado no fundo.
+											O que eu detesto. 
+Como é que podemos trazer à superfície
+											aquilo que talvez seja realmente 
+criativo e interessante?
+											Bom, podemos voltar à estrutura em rede das ideias
+											para o fazermos.
+											Lembrem-se, é essa estrutura em rede
+											que cria estes tópicos emergentes.
+											Digamos que pegamos em dois deles,
+											por exemplo cidades e genética, 
+e vemos se existem palestras
+											que façam, de uma forma criativa, a ponte entre 
+estas duas disciplinas tão diferentes.
+											Bom — essencialmente este tipo de ""remix"" criativo
+											é uma das marcas da inovação.
+											Aqui está uma palestra de Jessica Green
+											acerca da ecologia microbiana dos edifícios,
+											que define literalmente um novo campo.
+											E podíamos voltar àqueles tópicos e, 
+por exemplo, ver
+											quais são as palestras que são essenciais 
+para aquelas conversas.
+											No grupo das cidades, uma das mais importantes
+											foi a de Mitch Joachim acerca das cidades ecológicas
+											e, no grupo sobre genética,
+											temos uma palestra sobre biologia sintética 
+de Craig Venter.
+											Ambas são palestras que ligam muitas outras 
+dentro da sua área disciplinar.
+											Podíamos ir noutra direção e, por exemplo, ver
+											quais são as palestras que sintetizam, 
+de uma forma geral,
+											muitos tipos diferentes de áreas.
+											Para isto usámos uma medida de 
+diversidade ecológica.
+											Por exemplo, uma palestra de Steven Pinker 
+sobre a história da violência,
+											muito sucinta.
+									","
+											Bu muhteşem. İşleri kolaylaştırıyor.
+											Ama dipte gömülen
+											çok fazla orijinal içerik var.
+											Bundan nefret ediyorum. Çok orijinal ve ilgi çekici şeyleri
+											nasıl su yüzüne çıkartabiliriz?
+											Bunu yapmak için fikirlerin ağ yapısına geri
+											dönmemiz lazım.
+											Unutmayın, ortaya çıkan bu konuları
+											oluşturan bu ağ yapısı ve
+											diyelim ki şehirler ve genetik gibi
+											iki tanesini alabiliyoruz ve acaba, bu iki gerçekten farklı disiplini
+											orijinal bir biçimde birbirine bağlayan hiç konuşma var mı?
+											Aslında, bu çeşit orijinal karışımlar
+											yeniliğin köşe taşlarından biridir.
+											Burada binaların mikrobik ekolojisi
+											hakkında Jessica Green tarafından yapılmış bir konuşma var.
+											Gerçekten yeni bir alanı tanımlıyor.
+											Tabi bu konu başlıklarına geri dönüp bu küçük konuşmalara
+											hangi kapsamlı konuşmaların merkez teşkil ettiğini söyleyebiliriz.
+											Şehirler kümesinde en merkezde olanlardan birisi
+											ekolojik şehirler hakkında Mitch Joachim tarafından yapılan konuşma.
+											Genetik kümesinde ise,
+											Craig Venter tarafından yapılmış sentetik biyoloji hakkında bir konuşma var.
+											Bunlar kendi disiplinlerinde birçok konuşmayı bağlayan konuşmalar.
+											Bu kez diğer yöne gidip
+											birçok farklı alanı sentezleyen konuşmaların
+											hangileri olduğunu söyleyebiliriz.
+											Bunu elde etmek için ekolojik çeşitlilik ölçüsünü kullandık.
+											Steven Pinker'ın şiddetin tarihi hakkındaki
+											çok sentetik konuşması gibi.
+									","
+											So this is great. It simplifies things.
+											But there's so much creative content
+											that's just buried at the bottom.
+											And I hate that. How do we bubble stuff up to the surface
+											that's maybe really creative and interesting?
+											Well, we can go back to the network structure of ideas
+											to do that.
+											Remember, it's that network structure
+											that is creating these emergent topics,
+											and let's say we could take two of them,
+											like cities and genetics, and say, well, are there any talks
+											that creatively bridge these two really different disciplines.
+											And that's — Essentially, this kind of creative remix
+											is one of the hallmarks of innovation.
+											Well here's one by Jessica Green
+											about the microbial ecology of buildings.
+											It's literally defining a new field.
+											And we could go back to those topics and say, well,
+											what talks are central to those conversations?
+											In the cities cluster, one of the most central
+											was one by Mitch Joachim about ecological cities,
+											and in the genetics cluster,
+											we have a talk about synthetic biology by Craig Venter.
+											These are talks that are linking many talks within their discipline.
+											We could go the other direction and say, well,
+											what are talks that are broadly synthesizing
+											a lot of different kinds of fields.
+											We used a measure of ecological diversity to get this.
+											Like, a talk by Steven Pinker on the history of violence,
+											very synthetic.
+									","
+											Donc c'est très bien.
+Ça simplifie les choses.
+											Mais en même temps, 
+il y a tellement de contenu créatif
+											que l'on néglige
+quand on procède de cette manière.
+											Et je déteste ça. 
+Comment faire émerger les choses
+											qui sont peut-être
+vraiment créatives et intéressantes ?
+											Eh bien, nous pouvons revenir
+à la structure du réseau d'idées
+											pour faire ça.
+											N'oubliez pas : 
+c'est cette structure en réseau
+											qui crée ces thématiques émergentes.
+											Supposant qu'on souhaite
+choisir deux d'entre elles,
+											comme les villes et la génétique 
+et voir s'il existe des conférences
+											qui combinent ces deux disciplines
+très différentes, de façon créative ?
+											Et c'est ce genre de mélange créatif
+											qui est l'une des marques de fabrique
+de l'innovation.
+											Et bien en voici une presentée
+par Jessica Green
+											sur l'écologie microbienne des bâtiments.
+											Elle traite littéralement 
+d'un nouveau domaine.
+											Et nous pourrions revenir
+à ces thématiques et se demander :
+											quelles sont les conférences centrales
+de ces conversations ?
+											Dans la grappe sur les villes,
+une des plus centrales
+											est celle de Mitch Joachim 
+sur les villes écologiques,
+											et dans la grappe sur la génétique,
+											on a une conférence sur la biologie synthétique
+présentée par Craig Venter.
+											Ce sont des conférences qui lient
+de nombreuses autres au sein de leur discipline.
+											On pourrait à l'opposé se demander
+											quelles sont les conférences
+qui font la synthèse
+											de nombreux types de domaines différents.
+											Nous avons utilisé une mesure
+de la diversité écologique pour obtenir cela.
+											Par exemple, une conférence présentée par 
+Steven Pinker sur l'histoire de la violence,
+											est très synthétique.
+									","
+											Das ist großartig. Es vereinfacht die Dinge.
+											Aber so viel kreativer Inhalt
+											ist einfach ganz unten vergraben.
+											Und ich hasse das. Wie bekommen wir
+das Zeug an die Oberfläche,
+											das möglicherweise echt kreativ und interessant ist?
+											Wir können zur Netzstruktur
+der Ideen zurückgehen,
+											um das zu erreichen.
+											Erinnern Sie sich, jene Netzstruktur
+											erzeugt diese aufstrebenden Themen
+											und angenommen wir könnten zwei davon nehmen,
+											z.B. Städte und Genetik, und schauen,
+ob es irgendwelche Vorträge gibt,
+											die zwischen diesen zwei sehr unterschiedlichen Disziplinen eine Brücke schlagen.
+											Im Wesentlichen 
+ist diese Art kreativer Remix
+											ein Gütesiegel für Innovation.
+											Hier ist einer von Jessica Green
+											über die mikrobielle Ökologie von Gebäuden.
+											Er definiert buchstäblich ein neues Themenfeld.
+											Und wir könnten zu jenen Themen
+zurückgehen und fragen,
+											welche Vorträge sind wesentlich
+für jene Unterhaltungen?
+											Im Städte-Cluster ist einer von Mitch Joachim
+											über ökologische Städte einer der zentralsten.
+											Und im Genetik-Cluster haben wir einen Vortrag
+											über synthetische Biologie von Craig Venter.
+											Diese Vorträge koppeln viele andere
+innerhalb ihrer Disziplin.
+											Wir könnten es auch umdrehen und fragen,
+											welche Vorträge verschmelzen weitgehend
+											viele verschiedene Themenfelder.
+											Wir haben ein Maß für ökologische Vielfalt verwendet,
+um das zu herauszufinden.
+											Zum Beispiel ein Vortrag von Steven Pinker
+über die Geschichte der Gewalt,
+											sehr künstlich.
+									",Mapping ideas worth spreading,Eric Berlow and Sean Gourley,7:55,"TED Fellows,algorithm,complexity,data,technology"
+"
+","
+","
+","
+","
+",Mapping ideas worth spreading,Eric Berlow and Sean Gourley,7:55,"TED Fellows,algorithm,complexity,data,technology"
+"
+											E, claro, depois há umas que são tão 
+únicas e especiais
+											que estão numa espécie de estratosfera, 
+num local especial que lhes é próprio,
+											a que chamamos o índice Colleen Flanagan.
+											E para quem não sabe quem ela é, 
+a Colleen é uma artista.
+											Perguntei-lhe: ""Como é que é estares
+											""na estratosfera do nosso espaço de ideias?""
+											E, aparentemente, cheira a bacon.
+											Não faço ideia.
+											Portanto, usamos estes temas centrais em rede
+											para descobrirmos palestras únicas,
+											as que sintetizam criativamente 
+muitos campos diferentes,
+											as que são essencias para o seu tema,
+											e as que são realmente criativas a fazer a ponte 
+entre campos díspares.
+											Ok? Nunca as teríamos encontrado 
+com a nossa obsessão
+											com o que está mais na berra.
+											E tudo isto advém da arquitetura da complexidade
+											ou dos modelos de como as coisas se ligam entre si.
+									","
+											Sonra, benzersiz, kendine özgü konuşmalar da var.
+											Bunlar sanki stratosferdeki kendi özel yerlerindeler.
+											Buna Colleen Flanagan endeksi diyoruz.
+											Colleen'ı tanımıyorsanız, o bir sanatçı.
+											Ona bir gün sordum: ""Fikir evrenimizin
+											stratosferinde olmak nasıl bir şey?"" diye
+											Açıkçası pastırma gibi kokuyor.
+											Bilemezdim.
+											Yani bu ağ motiflerini;
+											orjinal bir biçimde bir sürü farklı alanı sentezleyen,
+											kendi alanlarında merkezi yere sahip olan ve
+											gerçekten ayrı alanlar arasında köprü kuran
+											benzersiz konuşmaları bulmak için kullanıyoruz.
+											Tamam mı? Bu aralar neyin revaçta olduğu takıntısıyla
+											bunları asla bulamazdık.
+											Bunların tamamı karmaşıklık mimarisinden
+											ya da nesnelerin bağlanış modelinden gelir.
+									","
+											And then, of course, there are talks that are so unique
+											they're kind of out in the stratosphere, in their own special place,
+											and we call that the Colleen Flanagan index.
+											And if you don't know Colleen, she's an artist,
+											and I asked her, ""Well, what's it like out there
+											in the stratosphere of our idea space?""
+											And apparently it smells like bacon.
+											I wouldn't know.
+											So we're using these network motifs
+											to find talks that are unique,
+											ones that are creatively synthesizing a lot of different fields,
+											ones that are central to their topic,
+											and ones that are really creatively bridging disparate fields.
+											Okay? We never would have found those with our obsession
+											with what's trending now.
+											And all of this comes from the architecture of complexity,
+											or the patterns of how things are connected.
+									","
+											Et puis, bien sûr, il y a des conférences
+qui sont si uniques, qu'on a l'impression
+											qu'elles se trouvent dans la stratosphère,
+dans leur propre endroit spécial,
+											et on appelle ça
+l'index Colleen Flanagan.
+											Et si vous ne connaissez pas Colleen,
+et bien c'est une artiste,
+											à qui j'ai d'ailleurs demandé,
+« C'est comment là-bas
+											dans la stratosphère
+de notre espace d'idée ? »
+											Et apparemment, ça sent le bacon.
+											Apparemment.
+											Ainsi, nous utilisons
+ces motifs de réseau
+											pour trouver des conférences
+qui sont uniques,
+											celles qui sont une synthèse créative
+de nombreux domaines différents,
+											celles qui sont centrales 
+pour leur thématique,
+											et celles qui combinent 
+des domaines disparates de façon créative.
+											Nous ne les aurions jamais trouvé
+avec notre obsession
+											de la nouveauté.
+											Et tout cela vient
+de l'architecture de la complexité,
+											ou de la façon dont les choses sont liées.
+									","
+											Dann gibt es natürlich Vorträge,
+die so einzigartig sind,
+											dass sie irgendwie oben in der Stratosphäre liegen,
+an ihrem eigenen, besonderen Platz,
+											und das nennen wir den Coolen-Flanagan-Index.
+											Falls Sie Colleen nicht kennen, 
+sie ist eine Künstlerin,
+											und ich habe sie gefragt: ""Wie ist es da draußen
+											in der Stratosphäre unseres Ideenraums?""
+											Und offenbar riecht es nach Speck.
+											Keine Ahnung.
+											Wir verwenden also diese Netzwerkmotive,
+											um einzigartige Vorträge zu finden,
+											solche, die auf kreative Weise viele 
+verschiedene Felder miteinander verschmelzen,
+											solche, die wesentlich für ihr Thema sind,
+											und solche, die wirklich kreativ zwischen grundverschiedenen Feldern Brücken schlagen.
+											Okay? Ohne unsere Besessenheit davon,
+was jetzt gerade im Trend liegt,
+											hätten wir sie nie gefunden.
+											Und das alles entsteht
+aus der Architektur der Komplexität,
+											oder den Mustern, wie die Dinge verbunden sind.
+									",Mapping ideas worth spreading,Eric Berlow and Sean Gourley,7:55,"TED Fellows,algorithm,complexity,data,technology"
+"
+","
+","
+","
+","
+",Mapping ideas worth spreading,Eric Berlow and Sean Gourley,7:55,"TED Fellows,algorithm,complexity,data,technology"
+"
+											SG: É isso mesmo.
+											Encontramo-nos num mundo
+											que é de uma complexidade monumental
+											e temos estado a usar algoritmos para o filtrar
+											e assim podermos navegar através dele.
+											E esses algoritmos, se bem que úteis,
+											são também muito, muito estreitos, 
+e podemos fazer melhor,
+											porque nos apercebemos de que 
+a sua complexidade não é aleatória.
+											Tem uma estrutura matemática,
+											e podemos utilizar essa estrutura
+											para explorarmos coisas como o mundo das ideias
+											para ver o que anda a ser dito, 
+o que não anda a ser dito,
+											e a sermos um pouco mais humanos
+											e, com sorte, um pouco mais inteligentes.
+									","
+											SG: Kesinlikle doğru.
+											Müthiş karmaşık
+											bir dünyada bulunuyoruz ve
+											bunu bir çeşit filtrelemek için algoritmaları kullanıyoruz.
+											Böylece bazı şeyleri daha iyi anlayabiliyoruz.
+											Bu algoritmalar çok kullanışlı olmalarına rağmen,
+											aynı zamanda çok ama çok dardırlar ve bundan daha iyisini yapabiliriz.
+											Çünkü karmaşıklıklarının rastgele olmadığını fark edebiliyoruz.
+											Matematiksel bir yapısı var ve
+											bu matematiksel yapıyı;
+											fikirlerin dünyası gibi şeyleri keşfetmek,
+											nelerin söylenip nelerin söylenmediğini görmek,
+											biraz daha fazla insan ve
+											biraz daha akıllı olmak için kullanabiliriz.
+									","
+											SG: So that's exactly right.
+											We've got ourselves in a world
+											that's massively complex,
+											and we've been using algorithms to kind of filter it down
+											so we can navigate through it.
+											And those algorithms, whilst being kind of useful,
+											are also very, very narrow, and we can do better than that,
+											because we can realize that their complexity is not random.
+											It has mathematical structure,
+											and we can use that mathematical structure
+											to go and explore things like the world of ideas
+											to see what's being said, to see what's not being said,
+											and to be a little bit more human
+											and, hopefully, a little smarter.
+									","
+											SG : Donc, c'est exactement ça.
+											Nous sommes dans un monde
+											qui est extrêmement complexe,
+											et nous avons utilisé des algorithmes
+pour le simplifier
+											pour pouvoir y naviguer.
+											Ces algorithmes, tout en étant utile,
+											sont également très, très limités,
+et nous pouvons faire mieux que cela,
+											parce qu'on peut se rendre compte
+que cette complexité n'est pas aléatoire.
+											Elle a une structure mathématique,
+											et nous pouvons utiliser
+cette structure mathématique
+											pour explorer des choses
+comme le monde des idées
+											pour voir ce qui est dit, 
+ce qui n'est pas dit,
+											et pour être un peu plus humain
+											et, je l'espère, 
+un peu plus intelligent.
+									","
+											SG: Das stimmt genau.
+											Wir finden uns wieder in einer Welt,
+											die enorm komplex ist
+											und bisher haben wir Algorithmen verwendet,
+um sie einigermaßen herunterzufiltern,
+											damit wir uns in ihr zurechtfinden.
+											Und obgleich diese Algorithmen nützlich sind,
+											sind sie auch sehr, sehr beschränkt,
+und das können wir besser,
+											denn wir können uns dessen bewusst werden,
+dass ihre Komplexität nicht beliebig ist.
+											Sie hat eine mathematische Struktur
+											die wir verwenden können,
+											um Sachen, wie die Welt der Ideen, zu erkunden,
+											um zu sehen, was die Leute zu sagen haben,
+und was sie nicht sagen
+											und um ein wenig menschlicher zu sein
+											und hoffentlich ein bisschen klüger.
+									",Mapping ideas worth spreading,Eric Berlow and Sean Gourley,7:55,"TED Fellows,algorithm,complexity,data,technology"
+"
+","
+","
+","
+","
+",Mapping ideas worth spreading,Eric Berlow and Sean Gourley,7:55,"TED Fellows,algorithm,complexity,data,technology"
+"
+											Muito obrigado.
+									","
+											Teşekkürler.
+									","
+											Thank you.
+									","
+											Merci.
+									","
+											Vielen Dank.
+									",Mapping ideas worth spreading,Eric Berlow and Sean Gourley,7:55,"TED Fellows,algorithm,complexity,data,technology"
+"
+","
+","
+","
+","
+",Mapping ideas worth spreading,Eric Berlow and Sean Gourley,7:55,"TED Fellows,algorithm,complexity,data,technology"
+"
+											(Aplausos)
+									","
+											(Alkış)
+									","
+											(Applause)
+									","
+											(Applaudissements)
+									","
+											(Beifall)
+									",Mapping ideas worth spreading,Eric Berlow and Sean Gourley,7:55,"TED Fellows,algorithm,complexity,data,technology"
+"
+","
+","
+","
+","
+",Mapping ideas worth spreading,Eric Berlow and Sean Gourley,7:55,"TED Fellows,algorithm,complexity,data,technology"

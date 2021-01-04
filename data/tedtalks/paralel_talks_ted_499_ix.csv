@@ -1,0 +1,579 @@
+fr,en,es,tr,title,speaker,duration,tags
+"
+","
+","
+","
+","How to organize, add and multiply matrices",Bill Shillito,4:29,"TED-Ed,animation,economics,math"
+"
+											Maintenant, je suis sûr que vous savez
+											que dans tout ce que vous faîtes dans la vie,
+											vous avez besoin des chiffres.
+											En particulier, pourtant,
+											certains domaines n'ont pas seulement 
+besoin de quelques chiffres,
+											il leur en faut beaucoup.
+											Comment suivre la trace 
+de tous ces chiffres ?
+											Et bien, les mathématiciens de l'époque
+											de la Chine antique
+											avaient trouvé un moyen de représenter
+											des tableaux contenant 
+de nombreux chiffres en même temps.
+											Maintenant on appelle ça une « matrice »,
+											lorsqu'elles sont plusieurs, 
+on dit « des matrices ».
+											Les matrices sont partout.
+											Elles sont partout autour de nous,
+											même là dans cette pièce.
+											Désolé, revenons-en au sujet.
+											Cependant, les matrices sont vraiment partout.
+											On s'en sert dans les affaires,
+											l'économie,
+											la cryptographie,
+											la physique,
+											l'électronique,
+											et l'infographie.
+											Une des raisons pour laquelle 
+les matrices sont si cool
+											c'est qu'on peut y mettre plein d'information
+											et ensuite transformer 
+une grande série de problèmes différents
+											en un seul problème.
+											Donc, pour utiliser des matrices, on doit 
+comprendre comment elles fonctionnent.
+											Il s'avère qu'on peut traiter les matrices
+											simplement comme des nombres ordinaires.
+											On peut les additionner,
+											les soustraire
+											et même les multiplier.
+											On ne peut pas les diviser,
+											mais ça c'est une autre histoire.
+											Ajouter des matrices est vraiment simple.
+											Tout ce que vous avez à faire 
+est d'ajouter les entrées correspondantes
+											dans l'ordre où elles sont.
+											Donc les premières entrées s'ajoutent,
+											les secondes,
+											les troisièmes,
+											et ainsi de suite.
+											Bien sûr, vos matrices doivent avoir 
+les mêmes dimensions
+											mais c'est vraiment intuitif.
+											Vous pouvez aussi multiplier la matrice entière
+											par un nombre, appelé scalaire.
+											Multiplier simplement 
+chaque entrée par ce nombre.
+											Mais attendez ! Il y a plus !
+											En fait, vous pouvez multiplier 
+une matrice par une autre.
+											Cependant, ce n'est pas 
+comme lorsqu'on les additionnent
+											où on fait ça entrée par entrée.
+											C'est plus incroyable
+											et cool une fois que vous avez compris le truc.
+											Voilà comment ça fonctionne.
+											Disons que vous avez deux matrices.
+											Disons qu'elles sont toutes les deux de 2 par 2,
+											c'est-à-dire deux lignes par deux colonnes.
+											Ecrivez la première matrice à gauche
+											et la seconde matrice juste à côté
+											et faisons-la glisser un peu plus haut,
+											comme si nous allions faire un grand tableau.
+											Le produit qu'on obtient 
+en multipliant les matrices ensemble
+											sera exactement entre les deux.
+											Nous allons aussi dessiner 
+un quadrillage pour nous aider.
+											Maintenant, regardez la première ligne 
+de la première matrice
+											et la première colonne 
+de la deuxième matrice.
+											Voyez comme il y a 
+deux nombres dans chaque ?
+											Multipliez le premier nombre de la ligne
+											par le premier nombre de la colonne :
+											1 x 2 = 2.
+											Maintenant faites les suivants :
+											3 x 3 = 9.
+											Maintenant additionnez les :
+											2 + 9 = 11.
+											Placez ce nombre 
+dans la case en haut à gauche
+											pour qu'elle corresponde 
+avec la colonne et la ligne
+											que nous avons utilisées pour le calcul.
+											Vous voyez comment ça fonctionne ?
+											Vous pouvez faire la même chose 
+avec les autres entrées.
+											-4 + 0 = -4.
+											4 + -3 = 1.
+											- 8 + 0 = -8.
+											Donc voilà votre réponse.
+											Pas si mal, n'est-ce pas ?
+											Il y a un truc cependant.
+											Tout comme avec les additions,
+											vos matrices doivent avoir la même taille.
+											Regardez ces deux matrices.
+											2 + 8 = 16.
+											3 x 4 = 12.
+											3 fois
+											attendez un instant,
+											il n'y a plus de lignes dans la seconde matrice.
+											Nous n'avons plus de place.
+											Donc, ces matrices ne peuvent être multipliées.
+											Le nombre de colonnes de la première matrice
+											doit être égal au nombre de lignes 
+de la seconde matrice.
+											Tant que vous faites attention
+											à faire correspondre les dimensions,
+											c'est vraiment facile.
+											Comprendre la multiplication des matrices
+											est seulement le commencement, en fait.
+											On peut faire bien plus de choses avec.
+											Par exemple, disons que vous voulez
+											coder un message secret.
+											Prenons « Règles de mathématiques ».
+											Quoique, pourquoi quelqu'un voudrait 
+garder ça secret,
+											ça me dépasse.
+											Transformons les lettres en chiffres,
+											vous pouvez placer les nombres 
+dans une matrice
+											puis une clef d'encodage dans une autre.
+											Vous les multipliez
+											et vous avez une nouvelle matrice encodée.
+											La seule façon de décoder la nouvelle matrice
+											et de lire le message
+											est d'avoir la clef,
+											cette seconde matrice.
+											Il y a même une branche 
+des sciences mathématiques
+											qui utilise constamment les matrices,
+											ça s'appelle l'Algèbre linéaire.
+											Si vous avez une chance 
+d'étudier l'algèbre linéaire,
+											faites-le, c'est vraiment génial.
+											Mais souvenez-vous,
+											une fois que vous saurez 
+comment utilisez les matrices,
+											vous pouvez faire presque n'importe quoi.
+									","
+											By now, I'm sure you know
+											that in just about anything you do in life,
+											you need numbers.
+											In particular, though,
+											some fields don't just need a few numbers,
+											they need lots of them.
+											How do you keep track of all those numbers?
+											Well, mathematicians dating back
+											as early as ancient China
+											came up with a way to represent
+											arrays of many numbers at once.
+											Nowadays we call such an array a ""matrix,""
+											and many of them hanging out together, ""matrices"".
+											Matrices are everywhere.
+											They are all around us,
+											even now in this very room.
+											Sorry, let's get back on track.
+											Matrices really are everywhere, though.
+											They are used in business,
+											economics,
+											cryptography,
+											physics,
+											electronics,
+											and computer graphics.
+											One reason matrices are so cool
+											is that we can pack so much information into them
+											and then turn a huge series of different problems
+											into one single problem.
+											So, to use matrices, we need to learn how they work.
+											It turns out, you can treat matrices
+											just like regular numbers.
+											You can add them,
+											subtract them,
+											even multiply them.
+											You can't divide them,
+											but that's a rabbit hole of its own.
+											Adding matrices is pretty simple.
+											All you have to do is add the corresponding entries
+											in the order they come.
+											So the first entries get added together,
+											the second entries,
+											the third,
+											all the way down.
+											Of course, your matrices have to be the same size,
+											but that's pretty intuitive anyway.
+											You can also multiply the whole matrix
+											by a number, called a scalar.
+											Just multiply every entry by that number.
+											But wait, there's more!
+											You can actually multiply one matrix by another matrix.
+											It's not like adding them, though,
+											where you do it entry by entry.
+											It's more unique
+											and pretty cool once you get the hang of it.
+											Here's how it works.
+											Let's say you have two matrices.
+											Let's make them both two by two,
+											meaning two rows by two columns.
+											Write the first matrix to the left
+											and the second matrix goes next to it
+											and translated up a bit,
+											kind of like we are making a table.
+											The product we get when we multiply the matrices together
+											will go right between them.
+											We'll also draw some gridlines to help us along.
+											Now, look at the first row of the first matrix
+											and the first column of the second matrix.
+											See how there's two numbers in each?
+											Multiply the first number in the row
+											by the first number in the column:
+											1 times 2 is 2.
+											Now do the next ones:
+											3 times 3 is 9.
+											Now add them up:
+											2 plus 9 is 11.
+											Let's put that number in the top-left position
+											so that it matches up with the rows and columns
+											we used to get it.
+											See how that works?
+											You can do the same thing to get the other entries.
+											-4 plus 0 is -4.
+											4 plus -3 is 1.
+											-8 plus 0 is -8.
+											So, here's your answer.
+											Not all that bad, is it?
+											There's one catch, though.
+											Just like with addition,
+											your matrices have to be the right size.
+											Look at these two matrices.
+											2 times 8 is 16.
+											3 times 4 is 12.
+											3 times
+											wait a minute,
+											there are no more rows in the second matrix.
+											We ran out of room.
+											So, these matrices can't be multiplied.
+											The number of columns in the first matrix
+											has to be the same as the number of rows in the second matrix.
+											As long as you're careful
+											to match up your dimensions right, though,
+											it's pretty easy.
+											Understanding matrix multiplication
+											is just the beginning, by the way.
+											There's so much you can do with them.
+											For example, let's say you want
+											to encrypt a secret message.
+											Let's say it's ""Math rules"".
+											Though, why anybody would want to keep this a secret
+											is beyond me.
+											Letting numbers stand for letters,
+											you can put the numbers in a matrix
+											and then an encryption key in another.
+											Multiply them together
+											and you've got a new encoded matrix.
+											The only way to decode the new matrix
+											and read the message
+											is to have the key,
+											that second matrix.
+											There's even a branch of mathematics
+											that uses matrices constantly,
+											called Linear Algebra.
+											If you ever get a chance to study Linear Algebra,
+											do it, it's pretty awesome.
+											But just remember,
+											once you know how to use matrices,
+											you can do pretty much anything.
+									","
+											Estoy seguro de que ya saben
+											que para cualquier cosa
+que hagan en la vida,
+											se necesitan números.
+											En particular
+											en algunas áreas con
+pocos números no alcanza,
+											se necesitan muchos números.
+											¿Cómo llevar registro de todos esos números?
+											Bueno, ya los matemáticos
+											de la antigua China
+											idearon una forma de representar
+											conjuntos de números de una vez.
+											Hoy en día a ese conjunto
+lo llamamos ""matriz""
+											y cuando hay varias juntas, ""matrices"".
+											Las matrices están en todos lados.
+											Estamos rodeados de matrices,
+											incluso en esta misma sala.
+											Lo siento, retomemos el hilo.
+											Las matrices están en todos lados.
+											Se usan en los negocios,
+											en economía,
+											en criptografía,
+											en física,
+											en electrónica,
+											y en gráficos informáticos.
+											Una de las razones de su genialidad
+											es que permiten empaquetar
+mucha información
+											y entonces reducir varios
+problemas diferentes
+											a un problema simple.
+											Pero para usar matrices tenemos
+que saber cómo funcionan.
+											Resulta que se puede
+operar con matrices
+											de igual forma que con los números.
+											Se las puede sumar,
+											restar,
+											e incluso multiplicar.
+											No se las puede dividir
+											pero eso es un tema aparte.
+											Sumar matrices es bastante simple.
+											Simplemente hay que sumar
+las entradas correspondientes
+											por orden de llegada.
+											Las primeras entradas se suman juntas,
+											las segundas entradas,
+											la tercera,
+											y así siguiendo.
+											Claro, las matrices deben 
+tener el mismo tamaño,
+											pero eso es bastante intuitivo
+de todos modos.
+											Se puede multiplicar toda la matriz
+											por un número, llamado escalar,
+											con solo multiplicar
+cada entrada por ese número.
+											Pero esperen, ¡hay más!
+											Se puede multiplicar
+una matriz por otra matriz.
+											Pero no es como sumar matrices,
+											donde uno suma entrada por entrada.
+											Es más singular
+											y bastante genial una vez
+que le tomamos la mano.
+											Funciona así.
+											Digamos que tenemos dos matrices.
+											Ambas de dos por dos,
+											es decir, dos filas y dos columnas.
+											Escribamos la primer
+matriz a la izquierda
+											y la segunda matriz a su lado,
+											y desplacémosla un poco,
+											como si estuviésemos haciendo una tabla.
+											El producto que obtenemos
+al multiplicar matrices
+											irá en el espacio intermedio.
+											Trazaremos una cuadrícula
+para orientarnos.
+											Ahora, veamos la primera fila
+de la primera matriz
+											y la primera columna
+de la segunda matriz.
+											¿Ven cómo hay dos números en cada una?
+											Multipliquemos el primer número de la fila
+											por el primer número de la columna:
+											1 por 2 es 2.
+											Ahora los siguientes:
+											3 por 3 es 9.
+											Ahora sumémoslos:
+											2 más 9 es 11.
+											Pongamos ese número en
+la esquina superior izquierda
+											para que concuerde
+con la fila y la columna
+											que usamos en el cálculo.
+											¿Ven cómo funciona?
+											Hacemos lo mismo para
+obtener las otras entradas.
+											-4 más 0 es -4.
+											4 más -3 es 1.
+											-8 más 0 es -8.
+											Esta es la respuesta.
+											No está mal, ¿no?
+											Pero hay un truco.
+											Al igual que en la suma,
+											las matrices deben tener
+el tamaño correcto.
+											Veamos estas dos matrices.
+											2 por 8 es 16.
+											3 por 4 es 12.
+											3 por...
+											¡Momento!
+											No hay más filas en la segunda matriz.
+											Nos quedamos sin espacio.
+											Estas matrices no se pueden multiplicar.
+											La cantidad de columnas de la primera matriz
+											tiene que ser igual que la cantidad
+de filas de la segunda matriz.
+											Con solo tener cuidado
+											de hacer coincidir las dimensiones correctamente,
+											es bastante fácil.
+											Entonces, la multiplicación de matrices
+											es sólo el comienzo, por cierto.
+											Sirven para muchas cosas.
+											Por ejemplo, digamos que queremos
+											encriptar un mensaje secreto.
+											Supongamos que dice ""Reglas matemáticas"".
+											¿Por qué alguien quisiera
+mantener esto en secreto?
+											No lo sé.
+											Reemplazando las letras por números,
+											podemos colocar los números en una matriz
+											y en otra matriz,
+la clave de encriptación.
+											Multiplicamos ambas matrices
+											y obtenemos una nueva matriz codificada.
+											La única forma de decodificar la nueva matriz
+											para leer el mensaje
+											es teniendo la clave,
+											esa segunda matriz.
+											Hay incluso una rama de la matemática
+											que usa matrices todo el tiempo
+											llamada álgebra lineal.
+											Si alguna vez tienen la oportunidad
+de estudiar álgebra lineal
+											háganlo, está muy bueno.
+											Y recuerden,
+											una vez que aprenden a usar matrices,
+											pueden hacer casi todo.
+									","
+											Artık hayatta yaptığınız
+											her şey için sayılara muhtaç olduğunuzu
+											anladığınıza eminim.
+											Buna karşın özellikle
+											bazı alanlara sadece birkaç sayı yetmez,
+											birçoğu gerekir.
+											Peki tüm bu sayıları nasıl takip edeceğiz?
+											Eski Çin kadar eski zamanlara
+											uzanan matematikçiler
+											sayı dizilerini tek seferde
+											göstermenin yolunu bulmuşlardı.
+											Bugün böyle bir diziye
+""matris"" adını veriyoruz
+											ve birçoğuna ise ""matrisler"" denir.
+											Matrisler her yerde.
+											Hepsi etrafımızda,
+											hatta şu an bu odada.
+											Afedersiniz, konuya dönelim.
+											Matrisler gerçekten her yerde.
+											İş hayatında,
+											ekonomide,
+											kriptografide,
+											fizikte,
+											elektronikte
+											ve bilgisayar grafiklerinde kullanılıyor.
+											Matrislerin mükemmel olmasının bir nedeni
+											çok fazla bilgiyi onlarla paketleyebiliriz
+											ve sonra devasa sayıdaki
+farklı problemleri
+											tek bir probleme dönüştürürüz.
+											Matrisleri kullanmak için
+nasıl çalıştıklarını öğrenmeliyiz.
+											Matrisleri aynen düz sayılar gibi
+											kullanabileceğiniz anlaşılıyor.
+											Onları toplayabilir, çıkarabilir,
+											hatta çarpabilirsiniz.
+											Bölme yapamazsınız,
+											ki bu kendisi için bir tavşan deliğidir.
+											Matrisleri toplamak çok kolaydır.
+											Tek yapmanız gereken aynı sırada gelen
+											karşılıklı terimleri toplama.
+											Yani ilk terimler birlikte toplanır,
+											ikinci terimler, üçüncüler,
+											hepsi.
+											Elbette matrisleriniz aynı boyutta olmalı
+											ki bu zaten anlaşılıyor.
+											Tüm matrisi skalar adı verilen
+											bir sayıyla da çarpabilirsiniz.
+											Sadece her terimi bu sayıyla çarpın.
+											Bekleyin, dahası var!
+											Bir matrisi diğeriyle de çarpabilirsiniz.
+											Fakat terim terim yaptığınız
+toplamaya benzemez.
+											Yapılışını anladığınızda
+											göreceksiniz ki kendine has ve çok hoştur.
+											İşte nasıl yapıldığı.
+											İki matrisiniz olsun.
+											İki çarpı iki boyutunda olsunlar,
+											yani iki satır, iki sütun.
+											İlk matrisi sola yazın
+											ve ikincisini peşine koyup
+											biraz öteleyin,
+											sanki bir tablo yapıyoruz gibi.
+											Matrisleri çarpınca bulacağımız çarpım
+											tam da ortalarında yer alacak.
+											Yardımcı olması için bazı
+kılavuz çizgileri de çizeceğiz.
+											Öncelikle ilk matrisin ilk satırına
+											ve ikinci matrisin ilk sütununa bakın.
+											Her ikisinde de iki sayı var.
+											Satırdaki ilk sayıyı
+											sütundaki ilk sayıyla çarpın:
+											1 çarpı 2, 2 eder.
+											Şimdi bir sonrakini yapın:
+											3 çarpı 3, 9 eder.
+											Şimdi bunları toplayın:
+											2 artı 9, 11 eder.
+											Bu sayıyı en üst sol konuma koyalım,
+											böylece kullandığımız satır ve sütunla
+											eş konumda bulunsun.
+											Nasıl olduğunu anladınız mı?
+											Aynı şekilde diğer
+terimleri de bulabilirsiniz.
+											-4 artı 0, -4 eder.
+											4 artı -3, 1 eder.
+											-8 artı 0, -8 eder.
+											İşte cevabınız.
+											Hiç de kötü değil, doğru mu?
+											Fakat bir mesele var.
+											Toplamada olduğu gibi,
+											matrisler doğru boyutta olmalı.
+											Şu iki matrise bakın.
+											2 çarpı 8, 16 eder.
+											3 çarpı 4, 12 eder.
+											3 çarpı
+											bir dakika,
+											ikinci matriste daha fazla satır yok.
+											Yer kalmadı.
+											Yani bu matrisler çarpılamaz.
+											İlk matrisin sütun sayısı
+											ikincinin satır sayısına eşit olmalı.
+											Boyutların aynı olması konusunda
+											dikkatli davrandığınız sürece
+											çok kolay.
+											Matris çarpmasını anlamak
+											konunun sadece başlangıç kısmı.
+											Bunlarla yapabileceğiniz çok şey var.
+											Örneğin, bir gizli mesajı
+											şifrelemek istediğinizi varsayalım.
+											Mesela ""Matematik Kuralları"" olsun.
+											Bunun neden gizli olması
+gerektiği meselesini
+											bir kenara bırakalım.
+											Harfleri sayılarla göstererek
+											sayıları bir matrise koyabilir
+											ve bir diğerine de şifre anahtarını.
+											Bunları çarpıp
+											yeni bir şifrelenmiş matris
+elde edersiniz.
+											Yeni matrisi çözmenin
+ve mesajı okumanın tek yolu
+											şifreye sahip olmaktır,
+											yani ikinci matrise.
+											Matematiğin sürekli olarak matrisleri
+kullanan bir branşı da mevcuttur:
+											Doğrusal Cebir.
+											Doğrusal Cebir çalışma
+şansını yakalarsanız yapın,
+											çok harika.
+											Fakat unutmayın,
+											matrisleri nasıl
+kullanacağınızı bilirseniz
+											çok daha fazlasını yapabilirsiniz.
+									","How to organize, add and multiply matrices",Bill Shillito,4:29,"TED-Ed,animation,economics,math"
+"
+","
+","
+","
+","How to organize, add and multiply matrices",Bill Shillito,4:29,"TED-Ed,animation,economics,math"

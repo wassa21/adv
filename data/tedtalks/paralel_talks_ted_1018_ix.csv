@@ -1,0 +1,856 @@
+fr,en,tr,es,pt,title,speaker,duration,tags
+"
+","
+","
+","
+","
+",What's an algorithm?,David J. Malan,4:42,"animation,TED-Ed,algorithm,math,computers,technology"
+"
+											Qu'est ce qu'un algorithme ?
+											En informatique,
+											un algorithme est un ensemble d'instructions
+											pour résoudre un problème 
+étape après étape.
+											Généralement, les algorithmes 
+sont exécutés par des ordinateurs
+											mais les humains 
+ont aussi des algorithmes.
+											Par exemple, comment feriez-vous
+											pour compter le nombre de personnes 
+dans une pièce ?
+											Eh bien, si vous êtes comme moi,
+											vous désignez probablement 
+chaque personne,
+											une à la fois,
+											et commencez à compter à partir de 0 :
+											1, 2, 3, 4 et ainsi de suite.
+											Eh bien ça, c'est un algorithme.
+											En fait, essayons de l'exprimer
+											de manière un peu plus formelle, 
+en pseudocode
+											une syntaxe presque française
+											qui ressemble à un langage de programmation
+											Soit n égal 0.
+											Pour chaque personne 
+dans la pièce, faire n = n + 1
+											Comment interpréter ce pseudocode ?
+											Eh bien, la ligne 1 déclare, pour ainsi dire,
+											une variable appelée n
+											et initialise sa valeur à zéro.
+											Ça veut dire qu'au début de notre algorithme
+											la chose avec laquelle nous comptons
+											a une valeur de zéro.
+											Après tout, avant d'avoir commencé à compter,
+											on avait encore rien compté .
+											Appeler cette variable n 
+est simplement une convention.
+											J'aurais pu l'appeler presque
+n'importe comment.
+											Maintenant, la ligne 2 marque 
+le début de la boucle,
+											une séquence d'étapes qui se répète
+un certain nombre de fois.
+											Donc, dans notre exemple, 
+l'étape que nous prenons
+											c'est le comptage des personnes 
+dans la salle.
+											Après la ligne 2 vient la ligne 3,
+											qui décrit exactement comment on va procéder.
+											L'indentation sous-entend 
+que c'est la ligne 3
+											qui va se répéter.
+											Donc, ce que dit le pseudocode,
+											c'est qu'après avoir commencé à zéro,
+											pour chaque personne dans la pièce,
+											nous allons augmenter n de 1.
+											Alors, cet algorithme est-il correct ?
+											Eh bien, jetons un coup d’œil là-dessus.
+											Est-ce que ça marche 
+si il y a 2 personnes dans la salle ?
+											Voyons ça.
+											À la ligne 1, nous initialisons n à zéro.
+											Pour chacune de ces deux personnes,
+											nous incrémentons n par 1.
+											Dans le premier parcours
+à travers la boucle,
+											nous mettons à jour n de zéro à 1,
+											lors du second parcours 
+à travers cette même boucle,
+											nous mettons à jour n de 1 à 2.
+											Et donc, à la fin de cet algorithme, n vaut 2,
+											ce qui correspond 
+au nombre de personnes dans la salle.
+											Pour l'instant ça va.
+											Cependant, si on poussait 
+le raisonnement plus loin ?
+											Supposons qu'il y a zéro personnes dans la salle,
+											à part moi, qui fait le comptage..
+											À la ligne 1, nous initialisons 
+à nouveau n à zéro.
+											Cependant, cette fois, la ligne 3 
+ne s'exécute pas du tout
+											puisqu'il n'y a personne dans la pièce,
+											et donc, n reste à zéro,
+											ce qui correspond en effet 
+au nombre de personnes dans la salle.
+											Assez simple, non ?
+											Mais compter les personnes une à une 
+est plutôt inefficace, non ?
+											Bien sûr, nous pouvons faire mieux !
+											Pourquoi ne pas les compter deux par deux ?
+											Au lieu de compter 1, 2, 3, 4, 5, 6, 7, 8 et ainsi de suite,
+											pourquoi ne pas compter
+											2, 4, 6, 8 etc ?
+											Ça semble bien plus rapide, 
+et ça l'est assurément.
+											Nous allons exprimer
+cette optimisation en pseudocode.
+											Soit n égal zéro.
+											Pour chaque paire de personnes dans la salle,
+											la valeur de n prend n + 2.
+											C'est un changement assez simple, pas vrai ?
+											Plutôt que de compter les gens un par un,
+											nous les comptons deux par deux.
+											Cet algorithme est donc 
+deux fois plus vite que le dernier.
+											Mais est-ce correct ?
+											Nous allons voir.
+											Est-ce que ça marche 
+si il y a 2 personnes dans la salle ?
+											À la ligne 1, nous initialisons n à zéro.
+											Pour cette paire de personnes, 
+nous incrémentons n par 2.
+											Et donc, à la fin de cet algorithme, n vaut 2,
+											ce qui, en effet, correspond au nombre 
+de personnes dans la salle.
+											Supposons ensuite 
+qu'il y a zéro personnes dans la salle.
+											À la ligne 1, nous initialisons n à zéro.
+											Comme précédemment, 
+la ligne 3 ne s'exécute pas du tout
+											car il n'y a aucune paire de personnes 
+dans la pièce,
+											et donc, n reste à zéro,
+											ce qui correspond en effet au nombre 
+de personnes dans la salle.
+											Mais que se passe-t-il 
+s'il y a 3 personnes dans la salle ?
+											Comment s’exécute cet algorithme ?
+											Nous allons voir.
+											À la ligne 1, nous initialisons n à zéro.
+											Pour une paire de ces personnes,
+											nous incrémentons n par 2,
+											mais alors quoi ?
+											Il n'y a pas une autre paire complète 
+de personnes dans la salle,
+											par conséquent, la ligne 2 ne s'applique plus.
+											Et donc, à la fin de cet algorithme,
+											n vaut encore 2, ce qui n'est pas correct.
+											En effet, on dit que cet algorithme 
+est buggé
+											parce qu'il comporte une erreur.
+											Nous allons réparer ça
+en apportant du pseudocode.
+											Soit n égal zéro.
+											Pour chaque paire de personnes dans la salle,
+											la valeur de n = n + 2.
+											Si 1 personne reste non appariée,
+											n prend la valeur n + 1.
+											Pour résoudre ce problème particulier,
+											nous avons introduit à la ligne 4 une condition,
+											qu'on appelle aussi une branche,
+											qui ne s'exécute que
+s'il y a une personne
+											qu'on a pas pu apparier avec une autre.
+											Donc, maintenant, qu'il y ait 1, 3
+											ou tout nombre impair de personnes 
+dans la salle,
+											cet algorithme les comptera.
+											Pouvons-nous faire mieux encore ?
+											Eh bien, nous pourrions compter par 3, 4 
+ou même par 5 et 10,
+											mais au-delà de ça, ça va devenir
+											un peu plus difficile à pointer.
+											À la fin de la journée,
+											qu'ils soient exécuté par des ordinateurs
+ou par des humains,
+											les algorithmes ne sont 
+qu'un ensemble d'instructions
+											permettant de résoudre les problèmes.
+											Ce n'en était que trois parmi tant d'autres.
+											Quel problème pourriez-vous résoudre 
+avec un algorithme ?
+									","
+											What's an algorithm?
+											In computer science,
+											an algorithm is a set of instructions
+											for solving some problem, step-by-step.
+											Typically, algorithms are executed by computers,
+											but we humans have algorithms as well.
+											For instance, how would you go about counting
+											the number of people in a room?
+											Well, if you're like me,
+											you probably point at each person,
+											one at a time,
+											and count up from 0:
+											1, 2, 3, 4 and so forth.
+											Well, that's an algorithm.
+											In fact, let's try to express it
+											a bit more formally in pseudocode,
+											English-like syntax
+											that resembles a programming language.
+											Let n equal 0.
+											For each person in room, set n = n + 1.
+											How to interpret this pseudocode?
+											Well, line 1 declares, so to speak,
+											a variable called n
+											and initializes its value to zero.
+											This just means that at the beginning of our algorithm,
+											the thing with which we're counting
+											has a value of zero.
+											After all, before we start counting,
+											we haven't counted anything yet.
+											Calling this variable n is just a convention.
+											I could have called it almost anything.
+											Now, line 2 demarks the start of loop,
+											a sequence of steps that will repeat some number of times.
+											So, in our example, the step we're taking
+											is counting people in the room.
+											Beneath line 2 is line 3,
+											which describes exactly how we'll go about counting.
+											The indentation implies that it's line 3
+											that will repeat.
+											So, what the pseudocode is saying
+											is that after starting at zero,
+											for each person in the room,
+											we'll increase n by 1.
+											Now, is this algorithm correct?
+											Well, let's bang on it a bit.
+											Does it work if there are 2 people in the room?
+											Let's see.
+											In line 1, we initialize n to zero.
+											For each of these two people,
+											we then increment n by 1.
+											So, in the first trip through the loop,
+											we update n from zero to 1,
+											on the second trip through that same loop,
+											we update n from 1 to 2.
+											And so, by this algorithm's end, n is 2,
+											which indeed matches the number of people in the room.
+											So far, so good.
+											How about a corner case, though?
+											Suppose that there are zero people in the room,
+											besides me, who's doing the counting.
+											In line 1, we again initialize n to zero.
+											This time, though, line 3 doesn't execute at all
+											since there isn't a person in the room,
+											and so, n remains zero,
+											which indeed matches the number of people in the room.
+											Pretty simple, right?
+											But counting people one a time is pretty inefficient, too, no?
+											Surely, we can do better!
+											Why not count two people at a time?
+											Instead of counting 1, 2, 3, 4, 5, 6, 7, 8, and so forth,
+											why not count
+											2, 4, 6, 8, and so on?
+											It even sounds faster, and it surely is.
+											Let's express this optimization in pseudocode.
+											Let n equal zero.
+											For each pair of people in room,
+											set n = n + 2.
+											Pretty simple change, right?
+											Rather than count people one at a time,
+											we instead count them two at a time.
+											This algorithm's thus twice as fast as the last.
+											But is it correct?
+											Let's see.
+											Does it work if there are 2 people in the room?
+											In line 1, we initialize n to zero.
+											For that one pair of people, we then increment n by 2.
+											And so, by this algorithm's end, n is 2,
+											which indeed matches the number of people in the room.
+											Suppose next that there are zero people in the room.
+											In line 1, we initialize n to zero.
+											As before, line 3 doesn't execute at all
+											since there aren't any pairs of people in the room,
+											and so, n remains zero,
+											which indeed matches the number of people in the room.
+											But what if there are 3 people in the room?
+											How does this algorithm fair?
+											Let's see.
+											In line 1, we initialize n to zero.
+											For a pair of those people,
+											we then increment n by 2,
+											but then what?
+											There isn't another full pair of people in the room,
+											so line 2 no longer applies.
+											And so, by this algorithm's end,
+											n is still 2, which isn't correct.
+											Indeed this algorithm is said to be buggy
+											because it has a mistake.
+											Let's redress with some new pseudocode.
+											Let n equal zero.
+											For each pair of people in room,
+											set n = n + 2.
+											If 1 person remains unpaired,
+											set n = n + 1.
+											To solve this particular problem,
+											we've introduced in line 4 a condition,
+											otherwise known as a branch,
+											that only executes if there is one person
+											we could not pair with another.
+											So now, whether there's 1 or 3
+											or any odd number of people in the room,
+											this algorithm will now count them.
+											Can we do even better?
+											Well, we could count in 3's or 4's or even 5's and 10's,
+											but beyond that it's going to get
+											a little bit difficult to point.
+											At the end of the day,
+											whether executed by computers or humans,
+											algorithms are just a set of instructions
+											with which to solve problems.
+											These were just three.
+											What problem would you solve with an algorithm?
+									","
+											Algoritma nedir?
+											Bilgisayar biliminde,
+											bir problemi çözmek için adım adım
+											takip edilen şeye algoritma denir.
+											Genellikle, bilgisayarlar
+											tarafından uygulansa da
+											biz insanların da algoritması vardır.
+											Örneğin, bir odadaki insanları
+											nasıl sayarsınız?
+											Eğer benim gibiyseniz
+											herhalde her kişiyi işaret ederek,
+											teker teker
+											ve 0'dan başlayarak:
+											1, 2 ,3, 4 falan filan.
+											İşte bu bir algoritmadır.
+											Bir programlama diline
+											benzer bir şekilde
+											sözdizimi kuralları çerçevesinde
+											açıklamaya çalışalım.
+											n, 0'a eşit olsun.
+											Odadaki her kişi için n = n + 1 yapın.
+											Bunu nasıl açıklarım?
+											Diyelim ki birinci satır
+											n isminde bir değişken olsun
+											ve ilk değeri sıfıra eşit olsun.
+											Demek ki algoritmamızın başında
+											saydığımız şeyin değeri
+											sıfıra eşit.
+											Ne de olsa saymaya başlamadan önce
+											hiçbir şey saymamıştık.
+											Bu değişkene genelde böyle dendiği için n dedim.
+											Herhangi bir şey diyebilirdim.
+											Şimdi, ikinci satır çevrimi başlatıyor,
+											yani, belli bir süre kendini tekrar eden adımlar atacak.
+											Örneğimizde, bu adımlar
+											odadakileri sayma adımları.
+											İkinci satırdan sonra üçüncüncü satırda
+											nasıl sayım yapacağımız tarifleniyor.
+											Üçüncü satırdaki girinti, bu satır
+											kendini tekrar edecek demektir.
+											Dolayısıyla, bu adımlar diyor ki
+											Sıfırdan başla,
+											odadaki her kişi için
+											n'yi bir artır.
+											Şimdi, bu algoritma doğru oldu mu?
+											Biraz deneme yapalım.
+											İki kişinin olduğu bir odada bu algoritma çalışır mı?
+											Görelim.
+											Birinci satırda n'yi sıfıra eşitleyerek başlıyoruz.
+											İki kişiden her biri için,
+											n'yi bir artırıyoruz.
+											Yani, ilk çevrimde
+											n'yi sıfırdan 1'e güncelliyorum.
+											Aynı çevrimi kullanarak
+											n'yi 1'den 2'ye güncelliyorum.
+											Ve dolayısıyla, algoritma bittiğinde
+											n, odadaki kişi sayısı kadar, yani 2'dir.
+											İyi gidiyor.
+											İstisnai bir durumda peki?
+											Odada sayı sayan kendim dışında
+											hiç kimsenin olmadığını düşünelim.
+											Birinci satırda, yine n'yi sıfıra eşitliyorum.
+											Şimdi, odada kimse olmadığı için
+											üçüncü satıra hiçbir zaman gidemiyorum
+											ve dolayısıyla, n
+											odadaki kişi sayısı olan sıfır ile aynı oluyor.
+											Kolay, değil mi?
+											Ancak insanları teker teker saymak
+											oldukça verimsiz, değil mi?
+											Kesinlikle daha iyisini yapabiliriz!
+											Neden insaları çifter çifter saymayalım?
+											1, 2, 3, 4, 5, 6, 7, 8,
+											falan diye saymak yerine
+											neden 2, 4, 6, 8
+											diye saymayalım.
+											Kesinlikle daha hızlı olacaktır.
+											Gelin bu iyileştirmeyi
+											kodlama mantığıyla tanımlayalım.
+											n'in değeri sıfır olsun.
+											Odadaki her çift için,
+											n = n + 2 yapalım.
+											Epey kolay bir değişiklik oldu, değil mi?
+											İnsanları birer birer saymaktansa,
+											ikişer ikişer sayıyoruz.
+											Böylece bu algoritma iki kat hızlandı.
+											Doğru mu?
+											Görelim.
+											Odada iki kişi olduğunda doğru çalışır mı?
+											Birinci satırda, n'i sıfıra eşitleyelim.
+											Her çift için n'i iki artıralım.
+											Dolayısıyla, algortima sonunda n'in değeri
+											odadaki insan sayısıyla
+											aynı olacak şekilde iki oldu.
+											Farzedin ki şimdi odada kimse yok.
+											Birinci satırda, n'i sıfıra eşitleyelim.
+											Daha önceki gibi, odada hiçbir çift olmadığı için
+											üçüncü satıra hiçbir zaman gidemiyorum
+											ve dolayısıyla, n
+											odadaki insan sayısıyla
+											aynı olacak şekilde sıfır kalıyor.
+											Fakat ya odada üç kişi olsaydı?
+											Bu algoritma nasıl çalışırdı?
+											Görelim.
+											Birinci satırda, n'i sıfıra eşitleyelim.
+											Her çift için
+											n'i iki artıralım,
+											sonra?
+											Odada sayacak başka bir çift kalmadıği için
+											ikinci satırı uygulayamıyorum.
+											dolayısıyla bu algoritma bittiğinde
+											n'in değeri hala iki ve bu yanlış.
+											Gerçekten bu algoritma hatalı çıktı,
+											çünkü içinde bir yanlış var.
+											Buna yeni bir kodlama yapalım.
+											n'in değeri sıfıra eşit olsun.
+											Odadaki her çift için,
+											n = n + 2 olsun.
+											Eğer bir kişi kalırsa
+											n = n + 1 olsun.
+											Bu problemi çözmek için,
+											dördüncü satırda bir koşul
+											ya da ayrım ekledik.
+											Böylece odada saymadığımız
+											tek kişi kalırsa çalışacak.
+											Şimdi, odada ister bir ister 3
+											veya herhangi bir tek sayıda kişi olsun,
+											bu algoritma onları
+											doğru bir şekilde sayacaktır.
+											Bundan daha iyisini yapabilir miyiz?
+											Aslında üçerli veya dörderli
+											veya hatta beşerli ve onarlı
+											bir şekilde sayabiliriz, ancak bu şekilde
+											insanları işaret ederek saymak zorlaşabilir.
+											Özetle, ister bilgisayarlar
+											ister insanlar tarafından gerçekleştirilsin
+											algoritmalar problem çözmek için
+											geliştirilmiş adımlardır.
+											Bu sadece bir örnekti.
+											Algoritma kullanarak 
+hangi problemi çözerdiniz?
+									","
+											¿Qué es un algoritmo?
+											En informática,
+											un algoritmo es
+una serie de instrucciones
+											para solucionar
+algún problema, paso a paso.
+											Típicamente, los algoritmos son
+ejecutados exclusivamente por computadoras,
+											pero los humanos también
+tenemos algoritmos.
+											Por ejemplo, ¿cómo harías para contar
+											el número de personas
+en una habitación?
+											Bueno, si tú
+eres como yo,
+											probablemente señales
+a cada persona,
+											de una por una,
+											y cuentas
+desde 0:
+											1, 2, 3, 4
+y así sucesivamente.
+											Bueno, eso
+es un algoritmo.
+											De hecho, tratemos
+de expresarlo
+											un poco más formalmente
+en pseudocódigo,
+											es como la sintaxis 
+en el idioma,
+											que se asemeja a un
+lenguaje de programación.
+											Fijemos ""n"" igual a 0.
+											Para cada persona en la habitación
+fijemos n = n + 1.
+											¿Cómo interpretamos
+este pseudocódigo?
+											Bueno, la línea 1 declara,
+por así decirlo,
+											una variable llamada ""n""
+											e inicia su valor
+a cero.
+											Esto solo significa que al principio
+de nuestro algoritmo,
+											la cosa con la que
+estamos contando
+											tiene un valor de cero.
+											Después de todo,
+antes de empezar a contar,
+											no habíamos contado nada.
+											Llamar a esta variable ""n""
+es solo una convención.
+											Pude haberla llamado
+prácticamente de cualquier forma.
+											Ahora, la línea 2 indica
+el inicio de un ciclo,
+											una secuencia de pasos que se repetirán
+un cierto número de veces.
+											Entonces, en nuestro ejemplo,
+el paso que tomamos
+											es contar a las personas
+en la habitación.
+											Debajo de la línea 2
+está la línea 3,
+											la cual describe exactamente
+cómo vamos a ir contando.
+											La sangría implica 
+que es la línea 3
+											la que vamos a repetir.
+											Entonces, lo que el
+pseudocódigo dice
+											es que después
+de empezar en cero,
+											para cada persona
+en la habitación,
+											incrementaremos el valor
+de ""n"" en 1.
+											Ahora, ¿está correcto
+este algoritmo?
+											Bueno, pongámoslo
+a prueba.
+											¿Funciona si hay
+dos personas en la habitación?
+											Veamos.
+											En la línea 1, iniciamos 
+el valor de ""n"" a cero.
+											Para cada una de 
+las dos personas,
+											incrementamos el valor
+de ""n"" en 1.
+											Entonces, en el primer viaje
+a través del ciclo,
+											actualizamos ""n"" 
+de cero a 1,
+											en el segundo viaje
+por el mismo ciclo,
+											actualizamos ""n""
+de 1 a 2.
+											Entonces, para los fines de 
+este algoritmo,""n"" es igual a 2,
+											lo que en efecto coincide con el número
+de personas que hay en la habitación.
+											Hasta ahora, todo bien.
+											¿Qué tal un caso atípico?
+											Supón que hay cero personas
+en la habitación,
+											sin incluirme a mí porque
+yo hago el conteo.
+											En la línea 1, de nuevo 
+iniciamos el valor de ""n"" a cero.
+											Pero esta vez, la línea 3
+no se ejecuta
+											porque no hay personas
+en la habitación,
+											así que, ""n""
+continúa siendo cero,
+											lo cual efectivamente coincide con 
+el número de personas en la habitación.
+											Muy simple, ¿cierto?
+											Pero, contar personas de una por una
+es muy ineficiente ¿no?
+											Seguro, podemos hacerlo mejor.
+											¿Por qué no contamos
+de dos personas a la vez?
+											En vez de contar 1, 2, 3, 4, 5, 6, 7, 8, 
+y así sucesivamente,
+											¿por qué no contamos
+											2, 4, 6, 8, y
+así sucesivamente?
+											Incluso suena más rápido,
+y de seguro lo es.
+											Expresemos esta optimización
+en pseudocódigo.
+											Fijemos ""n"" igual a cero.
+											Para cada par de personas
+en la habitación,
+											hagamos n = n + 2.
+											Un cambio muy sencillo
+¿cierto?
+											En vez de contar personas
+de una por una,
+											vamos a contar
+dos a la vez.
+											Por lo tanto, este algoritmo
+es el doble de rápido.
+											Pero, ¿es correcto?
+											Veamos.
+											¿Funciona si hay dos personas
+en la habitación?
+											En la línea 1, iniciamos 
+el valor de ""n"" a cero.
+											Para este par de personas,
+incrementamos el valor de ""n"" en 2.
+											Y así, para los fines de 
+este algoritmo el valor de ""n"" es 2,
+											Que es efectivamente el número
+de personas en la habitación.
+											Ahora supongamos que hay
+cero personas en la habitación.
+											En la línea 1, iniciamos 
+el valor de ""n"" a cero.
+											Como antes, la línea 3
+no se ejecuta
+											ya que no hay ningún par 
+de personas en la habitación,
+											por lo tanto,
+""n"" continúa siendo cero,
+											lo que en efecto coincide con 
+el número de personas en la habitación.
+											Pero, ¿qué pasa si hay
+3 personas en la habitación?
+											¿Cómo le va
+a este algoritmo?
+											Veamos.
+											En la línea 1, iniciamos 
+el valor de ""n"" a cero.
+											Para un par de estas personas,
+											incrementamos el valor
+de ""n"" en 2,
+											y después ¿qué?
+											No hay otro par completo
+de personas en la habitación,
+											así que la línea 2
+ya no aplica.
+											Entonces, para los fines
+de este algoritmo,
+											""n"" es otra vez 2,
+lo cual no es correcto.
+											De hecho, este algoritmo
+tiene un ""bug""
+											porque contiene un error.
+											Tratemos otra vez
+con pseudocódigo nuevo.
+											Fijemos ""n"" igual a cero.
+											Para cada par de personas
+en la habitación,
+											haz n = n + 2.
+											Si una persona
+queda sin par,
+											haz n = n + 1.
+											Para solucionar
+este problema en particular,
+											hemos insertado en
+la línea 4 una condición,
+											también llamada
+como ramificación,
+											que solo se ejecuta
+si hay una persona
+											que no tiene pareja.
+											Ahora, sin importar
+si hay 1 o 3
+											o cualquier número impar
+de personas en la habitación,
+											este algoritmo
+los contará.
+											¿Lo podremos mejorar?
+											Bueno, podríamos contar
+de 3, o de 4, hasta de 5 o 10,
+											pero se volvería
+											un poco difícil
+de direccionar.
+											Al final de cuentas,
+											ya sea que los ejecuten
+computadoras o humanos,
+											los algoritmos solo son
+una serie de instrucciones
+											que solucionan problemas.
+											Estos solo fueron tres.
+											¿Qué problema solucionarías
+usando un algoritmo?
+									","
+											O que é um algoritmo?
+											Na informática, um algoritmo
+é um conjunto de instruções
+											para resolver um problema, passo a passo.
+											Habitualmente, os algoritmos
+são executados por computadores,
+											mas as pessoas também têm algoritmos.
+											Por exemplo, como é que vocês contam
+o número de pessoas numa sala?
+											Se forem como eu, provavelmente
+apontam para cada pessoa, uma por uma,
+											e contam a partir do zero:
+											1, 2, 3, 4, etc.
+											Isso é um algoritmo.
+											Vamos tentar exprimi-lo
+											um pouco mais formalmente,
+em pseudocódigo,
+											uma sintaxe no idioma, parecida
+com uma linguagem de programação.
+											Vamos usar N igual a 0.
+											Para cada pessoa na sala,
+conjunto N = N + 1.
+											Como interpretar este pseudocódigo?
+											A linha 1 declara, por assim dizer,
+uma variável N
+											e inicializa o seu valor como zero.
+											Isso significa que, no início
+do nosso algoritmo,
+											a coisa com que vamos contar
+tem um valor de zero.
+											Afinal, antes de começarmos a contar,
+ainda não contámos nada.
+											Chamar N a esta variável
+é apenas uma convenção.
+											Podia ter-lhe chamado 
+outra coisa qualquer.
+											A linha 2 marca o início de um ciclo,
+											uma sequência de passos
+que vão repetir uma série de vezes.
+											No nosso exemplo, 
+o passo que vamos fazer
+											é contar as pessoas na sala.
+											Por baixo da linha 2 está a linha 3,
+											que descreve exatamente
+como vai continuar a contagem.
+											A indentação implica que é a linha 3
+que se vai repetir.
+											Assim, o que o pseudocódigo nos diz
+											é que, depois de começar em zero,
+											para cada pessoa na sala,
+											vamos aumentar N em mais um.
+											Este algoritmo estará correto?
+											Vamos fazer uma verificação.
+											Funcionará, se estiverem
+duas pessoas na sala?
+											Vejamos.
+											Na linha 1, começamos com N igual a zero.
+											Para cada uma dessas duas pessoas,
+aumentamos N em mais um.
+											Assim, no primeiro passo do ciclo,
+											atualizamos N de zero para 1.
+											No segundo passo do mesmo ciclo,
+											atualizamos N de 1 para 2.
+											Assim, no término deste algoritmo,
+N é igual a 2,
+											o que condiz com o número
+de pessoas na sala.
+											Até aqui, tudo bem.
+											Mas e se a situação for outra?
+											Suponhamos que há zero pessoas na sala,
+											para além de mim,
+que estou a fazer a contagem.
+											Na linha 1, inicializamos de novo 
+com N igual a zero.
+											Mas, desta vez, a linha 3 não é executada
+											porque não há mais ninguém na sala.
+											Portanto, mantém-se em zero,
+											o que condiz com o número
+de pessoas na sala.
+											É muito simples, não é?
+											Mas contar as pessoas, uma a uma,
+também é muito pouco eficaz.
+											Certamente, podemos fazer melhor.
+											Podemos contar
+duas pessoas de cada vez?
+											Em vez de contar
+1, 2, 3, 4, 5, 6, 7, 8, etc.
+											porque é que não contamos
+2, 4, 6, 8, etc.?
+											Parece ser mais rápido e claro que é.
+											Vamos exprimir esta otimização
+em pseudocódigo.
+											Vamos pôr N igual a zero.
+											Para cada par de pessoas na sala
+pomos N = N + 2.
+											É uma mudança simples.
+											Em vez de contarmos
+as pessoas, uma a uma,
+											contamos duas pessoas de cada vez.
+											Este algoritmo é duas vezes
+mais rápido do que o anterior.
+											Mas estará correto? Vejamos.
+											Funciona se houver duas pessoas na sala?
+											Na linha 1, começamos com N igual a zero.
+											Para um par de pessoas,
+aumentamos N em mais 2.
+											Assim, no término do algoritmo, N é 2.
+											o que condiz com o número
+de pessoas na sala.
+											Suponhamos agora que há
+zero pessoas na sala.
+											Na linha 1, começamos com N igual a zero.
+											Tal como há bocado, a linha 3
+não é executada
+											porque não há nenhum par
+de pessoas na sala,
+											portanto, mantém-se zero,
+											o que condiz com o número
+de pessoas na sala.
+											E se houvesse três pessoas na sala?
+											Como é que este algoritmo funciona?
+											Vejamos.
+											Na linha 1, começamos com N igual a zero.
+											Para um par de pessoas,
+aumentamos N em mais 2.
+											E depois?
+											Não há outro par de pessoas na sala.
+											Por isso a linha 2 não pode ser aplicada.
+											Assim, no término deste algoritmo,
+											N continua a ser 2,
+o que não está correto.
+											Dizemos que este algoritmo é defeituoso
+porque tem um erro.
+											Tentemos com um novo pseudocódigo.
+											Consideramos N igual a zero.
+											Para cada par de pessoas na sala,
+											é N = N + 2.
+											Se uma pessoa ficar sem par,
+											será N = N + 1.
+											Para resolver este problema especial,
+											introduzimos na linha 4 uma condição,
+											que também é conhecida por ramificação,
+											que só se executa se houver
+uma só pessoa
+											que não pode fazer par com outra.
+											Agora, quer haja uma ou três pessoas
+											ou qualquer número ímpar
+de pessoas na sala,
+											este algoritmo não deixa de as contar.
+											Podemos melhorar ainda mais?
+											Podemos contar em grupos
+de três, de quatro ou de cinco ou dez,
+											mas, para além disso,
+											vai ser um pouco difícil de resolver.
+											Afinal de contas, quer sejam executados
+											por computadores ou por pessoas,
+											os algoritmos são
+um conjunto de instruções
+											com os quais resolvemos problemas.
+											Estes foram apenas três.
+											Que problema gostariam
+de resolver com um algoritmo?
+									",What's an algorithm?,David J. Malan,4:42,"animation,TED-Ed,algorithm,math,computers,technology"
+"
+","
+","
+","
+","
+",What's an algorithm?,David J. Malan,4:42,"animation,TED-Ed,algorithm,math,computers,technology"

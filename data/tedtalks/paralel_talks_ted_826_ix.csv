@@ -1,0 +1,2690 @@
+en,es,pt,tr,fr,de,title,speaker,duration,tags
+"
+","
+","
+","
+","
+","
+",Teaching kids real math with computers,Conrad Wolfram,17:19,"computers,education,math,technology,code"
+"
+											We've got a real problem with math education right now.
+											Basically, no one's very happy.
+											Those learning it
+											think it's disconnected,
+											uninteresting and hard.
+											Those trying to employ them
+											think they don't know enough.
+											Governments realize that it's a big deal for our economies,
+											but don't know how to fix it.
+											And teachers are also frustrated.
+											Yet math is more important to the world
+											than at any point in human history.
+											So at one end we've got falling interest
+											in education in math,
+											and at the other end we've got a more mathematical world,
+											a more quantitative world than we ever have had.
+									","
+											Tenemos un problema real con actual formación en matemáticas.
+											Básicamente, nadie está muy contento.
+											Los que aprenden
+											creen que es algo aislado
+											difícil y sin interés.
+											Los que tratan de aplicarla
+											creen que no saben lo suficiente.
+											Los gobiernos se dan cuenta que algo bueno para la economía
+											pero no saben cómo adecuarla.
+											Y los maestros también están frustrados.
+											Sin embargo la matemática es ahora aún más importante para el mundo
+											que en cualquier otro momento de la historia.
+											Por un lado tenemos el interés decreciente
+											por la educación matemática
+											y por el otro un mundo más matemático,
+											un mundo más cuantitativo de lo que nunca antes tuvimos.
+									","
+											Temos um problema real com o ensino da matemática neste momento.
+											Basicamente, ninguém está muito feliz.
+											Os que a aprendem
+											acham-na desligada,
+											desinteressante e difícil.
+											Os que tentam usá-la
+											pensam que não sabem o suficiente.
+											Os Governos reconhecem que é importante para as economias,
+											mas não sabem como resolver o problema.
+											E os professores também estão frustrados.
+											No entanto, a matemática é mais importante para o mundo
+											do que em qualquer outra altura na história da humanidade.
+											De um lado temos
+											perda de interesse no ensino da matemática,
+											e por outro temos um mundo mais matemático,
+											um mundo mais quantitativo, que alguma vez tivemos.
+									","
+											Günümüzde matematik eğitimi ile ilgili ciddi bir sorunumuz var.
+											Temelde hiçkimse çok mutlu değil.
+											Öğrenenler onun
+											ilgi çekici olmadığını, tutarsız ve zor
+											olduğunu düşünüyorlar.
+											Bunları işe alanlar ise
+											yeterince bilmediklerini düşünüyorlar.
+											Hükümetler bunun ekonomilerimiz için ne kadar önemli olduğunun farkındalar
+											ama sorunu nasıl çözeceklerini bilmiyorlar.
+											Öğretmenler de kızgınlar.
+											Oysa matematik dünya için insanlık tarihinin
+											herhangi bir anından çok daha önemlidir.
+											Yani bir yanda matematik eğitimine
+											giderek azalan bir ilgi
+											diğer yanda da gitgide daha matematikselleşen,
+											daha sayısal bir dünyamız var.
+									","
+											Nous avons un vrai problème avec l'enseignement des maths de nos jours.
+											En fait, personne n'est vraiment content.
+											Ceux qui apprennent
+											pensent que c'est abstrait,
+											inintéressant et difficile.
+											Ceux qui essayent de les utiliser
+											pensent qu'ils n'en savent pas assez.
+											Les gouvernements réalisent que c'est un gros problème pour l'économie,
+											mais ne savent pas comment le résoudre.
+											Et les enseignants sont aussi frustrés.
+											Pourtant les maths sont plus importantes pour le monde
+											qu'à n'importe quel autre moment de l'histoire de l'Homme.
+											D'un côté il y a un intérêt décroissant
+											pour l'apprentissage des maths,
+											et de l'autre il y a un monde encore plus mathématique,
+											encore plus quantitatif que par le passé.
+									","
+											Wir haben heutzutage ein echtes Problem mit dem Mathematikunterricht
+											Eigentlich ist niemand so wirklich glücklich damit.
+											Diejenigen, die Mathematik lernen,
+											halten sie für abgehoben,
+											uninteressant und schwierig.
+											Diejenigen, die versuchen sie anzuwenden,
+											denken sie wissen nicht genug.
+											Die Regierungen erkennen, dass es ein wichtiges Thema für unsere Wirtschaft ist,
+											aber sie wissen nicht, was man ändern könnte.
+											Und die Lehrer sind auch frustriert.
+											Dabei ist die Mathematik für die Welt jetzt wichtiger
+											als je zuvor in der Menschheitsgeschichte.
+											Wir haben also auf der einen Seite ein sinkendes Interesse
+											am Mathematikunterricht
+											und auf der anderen Seite eine immer mathematischere Welt,
+											eine quantitativere Welt, als wir sie jemals hatten.
+									",Teaching kids real math with computers,Conrad Wolfram,17:19,"computers,education,math,technology,code"
+"
+","
+","
+","
+","
+","
+",Teaching kids real math with computers,Conrad Wolfram,17:19,"computers,education,math,technology,code"
+"
+											So what's the problem, why has this chasm opened up,
+											and what can we do to fix it?
+											Well actually, I think the answer
+											is staring us right in the face:
+											Use computers.
+											I believe
+											that correctly using computers
+											is the silver bullet
+											for making math education work.
+											So to explain that,
+											let me first talk a bit about what math looks like in the real world
+											and what it looks like in education.
+											See, in the real world
+											math isn't necessarily done by mathematicians.
+											It's done by geologists,
+											engineers, biologists,
+											all sorts of different people —
+											modeling and simulation.
+											It's actually very popular.
+											But in education it looks very different —
+											dumbed-down problems, lots of calculating,
+											mostly by hand.
+											Lots of things that seem simple
+											and not difficult like in the real world,
+											except if you're learning it.
+											And another thing about math:
+											math sometimes looks like math —
+											like in this example here —
+											and sometimes it doesn't —
+											like ""Am I drunk?""
+											And then you get an answer that's quantitative in the modern world.
+											You wouldn't have expected that a few years back.
+											But now you can find out all about —
+											unfortunately, my weight is a little higher than that, but —
+											all about what happens.
+									","
+											Entonces, ¿cuál es el problema? ¿por qué este abismo?
+											¿qué podemos hacer para resolverlo?
+											En realidad, creo que la respuesta
+											está delante de nuestros ojos.
+											Usar computadoras.
+											Creo que
+											el uso correcto de computadoras
+											es la solución infalible
+											para hacer que funcione la educación matemática.
+											Para explicar eso,
+											en primer lugar, quisiera hablar un poco de las matemáticas en el mundo real
+											y de su aspecto en la educación.
+											Vean, en el mundo real
+											la matemática no es exclusiva de los matemáticos.
+											La usan geólogos,
+											ingenieros, biólogos,
+											todo tipo de personas diferentes...
+											en modelos y simulación.
+											Realmente es muy popular.
+											Pero en la educación es muy diferente...
+											problemas idiotizados, mucho cálculo...
+											sobre todo a mano.
+											Muchas cosas que parecen simples
+											y no difíciles como en el mundo real,
+											salvo si se las aprende.
+											Y algo más sobre la matemática:
+											a veces se parece a sí misma,
+											como en este ejemplo,
+											y a veces no,
+											como en ""¿estoy borracho?""
+											Y uno recibe una respuesta cuantitativa del mundo moderno.
+											No hubiéramos esperado esto hace unos años.
+											Pero ahora uno puede encontrar de todo—
+											por desgracia, mi peso es más alto que eso—
+											de todo lo que sucede.
+									","
+											Então qual é o problema? Por que se abriu este abismo,
+											e o que podemos fazer para o resolver?
+											Bem, na verdade, penso que a resposta
+											está mesmo à nossa frente.
+											Usar computadores.
+											Eu acredito que
+											usar correctamente os computadores
+											é a peça chave
+											para fazer o ensino da matemática funcionar.
+											Então para explicar isso,
+											deixem-me primeiro falar sobre como é a matemática no mundo real
+											e como é na educação.
+											Vejam, no mundo real
+											a matemática não é necessariamente feita por matemáticos.
+											É feita por geólogos,
+											engenheiros, biólogos,
+											todos os tipos de pessoas diferentes —
+											modelação e simulação.
+											É, na verdade, muito popular.
+											Mas na educação parece muito diferente —
+											problemas básicos, muitos cálculos —
+											na sua maioria feitos à mão.
+											Muitas coisas que parecem simples
+											e não difíceis como acontece na vida real,
+											excepto se estiverem a aprendê-las.
+											E outra coisa acerca da matemática:
+											a matemática algumas vezes parece-se com a matemática —
+											como neste exemplo aqui —
+											e às vezes não parece —
+											como ""Estou bêbedo?""
+											E depois têm uma resposta que é quantitativa no mundo moderno.
+											Não estariam à espera disto há uns anos atrás.
+											Mas agora pode encontrar-se tudo acerca —
+											infelizmente, o meu peso é um pouco superior a este, mas —
+											tudo sobre o que acontece.
+									","
+											Öyleyse sorun nedir, bu uçurum neden oluştu,
+											ve bunu düzeltmek için ne yapabiliriz?
+											Aslında, ben cevabın gözümüzün
+											önünde olduğunu düşünüyorum.
+											Bilgisayarları kullanmak.
+											İnanıyorum ki,
+											bilgisayarları akıllıca kullanmak
+											matematik eğitiminin işe yaramasını
+											sağlamak için altın bir fırsat.
+											Bunu şöyle açıklayabilirim,
+											ama önce matematiğin gerçek hayatta ve okulda nasıl göründüğü
+											hakkında biraz konuşayım.
+											Bakın, gerçek hayatta
+											matematiğin matematikçiler tarafından uygulanması gerekemez
+											Jeologlar, mühendisler,
+											biyologlar ve bir sürü farklı
+											insan tarafından uygulanır—
+											modelleme ve benzetim yöntemleri
+											Aslında oldukça popülerdir.
+											Ama iş eğitime gelince çok farklı görünür
+											zor anlaşılan problemler, bir sürü hesaplamalar—
+											çoğunlukla da elle yapılan.
+											Birçok şey basit gibi görünür
+											gerçek hayattaki gibi zor değildir.
+											tabii ki öğreniyorsanız.
+											matematik hakkındaki başka bir şey de:
+											matematik bazen matematik gibi görünür—
+											buradaki örnekte olduğu gibi—
+											ama bazen de görünmez—
+											""Sarhoş muyum?"" daki gibi.
+											sonra modern dünyada sayısal olan bir cevabınız olur.
+											Bunu birkaç yıl önce düşünemezdiniz.
+											Ama şimdi hepsini-
+											ne yazık ki, benim kilom ondan biraz fazla, ama—
+											olanların hepsini öğrenebilirsiniz.
+									","
+											Quel est donc le problème, pourquoi ce gouffre s'est-il ouvert,
+											et que pouvons-nous faire pour le refermer?
+											En fait, je crois que la réponse
+											est juste sous notre nez.
+											Utilisons les ordinateurs.
+											Je crois
+											qu'utiliser correctement les ordinateurs
+											est le remède miracle
+											pour que l'enseignement des maths marche.
+											Pour expliquer cela,
+											laissez-moi vous décrire les maths dans le monde réel
+											et les maths à l'école.
+											Voyez, dans le monde réel
+											il n'y a pas que les mathématiciens qui font des maths.
+											Les géologues,
+											les ingénieurs, les biologistes,
+											toutes sortes de gens —
+											modélisent et simulent.
+											C'est en fait très répandu.
+											Mais c'est très différent dans l'éducation —
+											des problèmes simplifiés, beaucoup de calculs —
+											la plupart à la main.
+											Plein de choses qui paraissent simple
+											et pas difficile comme dans le monde réel,
+											sauf si vous l'apprenez.
+											Un autre truc à propos des maths :
+											les maths ressemblent parfois à des maths —
+											comme cet exemple —
+											mais parfois non —
+											par exemple ""suis-je saoul?""
+											Vous obtenez une réponse quantitative dans notre monde moderne.
+											On n'y aurait jamais pensé il y a quelques années.
+											Mais de nos jours vous pouvez tout savoir —
+											malheureusement je suis en léger sur-poids —
+											tout savoir sur tout.
+									","
+											Was ist also das Problem, warum hat sich diese Kluft gebildet,
+											und was können wir tun um es zu lösen?
+											Ich denke, die Antwort
+											drängt sich geradezu auf.
+											Verwendet Computer.
+											Ich glaube,
+											dass der richtige Einsatz von Computern
+											die Wunderwaffe
+											für einen funktionierenden Mathematikunterricht ist.
+											Um das zu erklären,
+											lassen Sie mich zuerst ein bisschen darüber sprechen wie die Mathematik in der wirklichen Welt aussieht
+											und wie sie im Unterricht aussieht.
+											In der wirklichen Welt
+											wird Mathematik nicht notwendigerweise von Mathematikern betrieben.
+											Sie wird von Geologen,
+											Ingenieuren, Biologen,
+											allen möglichen Leuten verwendet –
+											Modellierung und Simulation.
+											Sie ist eigentlich ziemlich beliebt.
+											Aber im Unterricht sieht das ganz anders aus –
+											stark vereinfachte Probleme, viel Rechenarbeit –
+											hauptsächlich von Hand.
+											Vieles scheint einfach zu sein,
+											so wie in der realen Welt,
+											außer wenn man es lernt.
+											Und noch etwas über die Mathematik:
+											Mathematik sieht manchmal aus wie Mathematik –
+											wie in diesem Beispiel hier –
+											und manchmal tut sie es nicht –
+											wie „Bin ich betrunken?“
+											Darauf bekommt man in der heutigen Zeit eine quantitative Antwort.
+											Man hätte diese vor ein paar Jahren nicht erwartet.
+											Aber jetzt kann man alles herausfinden über –
+											leider bin ich ein bisschen schwerer als das –
+											über alles was passiert.
+									",Teaching kids real math with computers,Conrad Wolfram,17:19,"computers,education,math,technology,code"
+"
+","
+","
+","
+","
+","
+",Teaching kids real math with computers,Conrad Wolfram,17:19,"computers,education,math,technology,code"
+"
+											So let's zoom out a bit and ask,
+											why are we teaching people math?
+											What's the point of teaching people math?
+											And in particular, why are we teaching them math in general?
+											Why is it such an important part of education
+											as a sort of compulsory subject?
+											Well, I think there are about three reasons:
+											technical jobs
+											so critical to the development of our economies,
+											what I call ""everyday living"" —
+											to function in the world today,
+											you've got to be pretty quantitative,
+											much more so than a few years ago:
+											figure out your mortgages,
+											being skeptical of government statistics, those kinds of things —
+											and thirdly, what I would call something like
+											logical mind training, logical thinking.
+											Over the years
+											we've put so much in society
+											into being able to process and think logically. It's part of human society.
+											It's very important to learn that
+											math is a great way to do that.
+									","
+											Pero alejémonos un poco y preguntemos
+											¿por qué enseñamos matemática?
+											¿Cuál es la idea de enseñar matemática?
+											Y, en particular, ¿por qué enseñamos matemática en general?
+											¿Por qué es una parte tan importante de la educación,
+											esa suerte de asignatura obligatoria?
+											Bueno, creo que hay tres razones:
+											los trabajos técnicos,
+											tan críticos para el desarrollo de nuestras economías,
+											segundo, lo que llamo la vida cotidiana.
+											Para funcionar en el mundo de hoy,
+											uno tiene que ser bastante cuantitativo
+											mucho más de lo que era hace unos años.
+											Calcular sus hipotecas,
+											ser escéptico de las estadísticas del gobierno, esas cosas.
+											En tercer lugar, lo que llamaría
+											entrenamiento lógico, pensamiento lógico.
+											Con los años
+											hemos hecho mucho en la sociedad
+											para procesar y pensar de manera lógica; es parte de la sociedad humana.
+											Es muy importante aprender eso.
+											La matemática es buena para eso.
+									","
+											Vamos voltar atrás e perguntar,
+											porque estamos a ensinar matemática às pessoas?
+											Qual é o objectivo de ensinar matemática às pessoas?
+											E em particular, porque é que lhes estamos a ensinar matemática na generalidade?
+											Porque é que é uma parte tão importante da educação
+											como uma espécie de matéria obrigatória?
+											Bom, penso que existem cerca de três razões:
+											trabalhos técnicos,
+											tão críticos para o desenvolvimento das nossas economias,
+											o que chamo de ""vida do dia-a-dia"".
+											Para funcionar no mundo de hoje,
+											temos de ser bastante quantitativos,
+											muito mais do que há alguns anos atrás.
+											Calcular os vossos empréstimos,
+											olhar com cepticismo para as estatísticas governamentais, esse tipo de coisas.
+											E em terceiro lugar, o que eu chamaria de
+											""treino lógico da mente"", o pensamento lógico.
+											Ao longo dos anos
+											investimos tanto na sociedade para
+											sermos capazes de processar e pensar logicamente; faz parte da sociedade humana.
+											É muito importante aprender isso.
+											A matemática é uma óptima forma de o fazer.
+									","
+											Öyleyse biraz konudan uzaklaşalım ve soralım,
+											neden insanlara matematik öğretiyoruz?
+											İnsanlara matematik öğretmenin amacı nedir?
+											ve özellikle, neden onlara genel olarak matematik öğretiyoruz?
+											Neden matametik eğitimin bir çeşit zorunlu konu gibi
+											bu kadar önemli bir parçası?
+											Sanırım bunun üç nedeni var:
+											teknik işler
+											ekonomilerimizin işlemesi için çok kritiktir
+											ki buna ben gündelik yaşam diyorum.
+											bugünün dünyasında iş görebilmek için
+											oldukça niceliksel olmalısınız,
+											bir kaç yıl önce olduğunuza göre.
+											Mortgage taksitlerinizi hesaplamak için
+											hükumetin resmi istatistiklerine kuşkuyla yaklaşabilmek gibi şeyler
+											Üçüncü olarak, buna şöyle bir isim vermek istiyorum
+											mantıksal zihin eğitimi, mantıklı düşünme.
+											Yıllar içinde
+											topluma çok şey kattık
+											gözden geçirme ve mantıklı düşünme, insan toplumunun bir parçasıdır.
+											Şunu öğrenmek çok önemlidir
+											Matematik bunu yapmak için muhteşem bir yoldur.
+									","
+											Prenons un peu de recul et demandons-nous,
+											pourquoi enseigne-t-on les maths?
+											A quoi bon enseigner les maths aux gens?
+											Et en particulier, pourquoi leur apprendre les maths en général?
+											Pourquoi est-ce si important dans l'éducation
+											comme matière obligatoire?
+											Je crois qu'il y a 3 raisons :
+											les tâches techniques
+											tellement critiques au développement économique,
+											ce que j'appelle la vie quotidienne.
+											Pour vivre dans le monde actuel,
+											il faut savoir bien quantifier,
+											bien mieux que par le passé.
+											Comprendre votre prêt bancaire,
+											questionner les statistiques gouvernementales, ce genre de choses.
+											Troisièmement, ce que j'appellerais
+											le développement de l'esprit logique, la pensée logique.
+											Au cours du temps,
+											nous avons tellement investi pour
+											être capable de traiter et penser logiquement; cela fait partie de la société.
+											C'est très important d'apprendre ça.
+											Les maths sont parfaites pour ça.
+									","
+											Werfen wir einen Blick auf den größeren Zusammenhang und fragen wir uns:
+											warum unterrichten wir Mathematik?
+											Was hat es für einen Sinn Mathematik zu unterrichten?
+											Und im Speziellen, warum unterrichten wir alle in Mathematik?
+											Warum ist sie ein so wichtiger Teil der Ausbildung
+											ein Pflichtfach?
+											Also, ich denke es gibt ungefähr drei Gründe:
+											technische Berufe,
+											die so wichtig für die Entwicklung unserer Wirtschaften sind,
+											was ich das tägliche Leben nenne.
+											Um heute in der Welt zu bestehen,
+											muss man ganz schön quantitativ sein,
+											viel mehr als noch vor ein paar Jahren.
+											Seine Kredite verstehen,
+											Regierungsstatistiken kritisch betrachten, diese Art von Dingen.
+											Und drittens, was ich
+											logisches Hirntraining, logisches Denken, nennen würde.
+											Über die Jahre
+											haben wir so viel in die Gesellschaft investiert
+											um logisch vorzugehen und zu denken; es ist Teil der menschlichen Gesellschaft.
+											Es ist sehr wichtig, das zu erlernen.
+											Mathematik ist ein großartiger Weg das zu tun.
+									",Teaching kids real math with computers,Conrad Wolfram,17:19,"computers,education,math,technology,code"
+"
+","
+","
+","
+","
+","
+",Teaching kids real math with computers,Conrad Wolfram,17:19,"computers,education,math,technology,code"
+"
+											So let's ask another question.
+											What is math?
+											What do we mean when we say we're doing math,
+											or educating people to do math?
+											Well, I think it's about four steps, roughly speaking,
+											starting with posing the right question.
+											What is it that we want to ask? What is it we're trying to find out here?
+											And this is the thing most screwed up in the outside world,
+											beyond virtually any other part of doing math.
+											People ask the wrong question,
+											and surprisingly enough, they get the wrong answer,
+											for that reason, if not for others.
+											So the next thing is take that problem
+											and turn it from a real world problem
+											into a math problem.
+											That's stage two.
+											Once you've done that, then there's the computation step.
+											Turn it from that into some answer
+											in a mathematical form.
+											And of course, math is very powerful at doing that.
+											And then finally, turn it back to the real world.
+											Did it answer the question?
+											And also verify it — crucial step.
+											Now here's the crazy thing right now.
+											In math education,
+											we're spending about perhaps 80 percent of the time
+											teaching people to do step three by hand.
+											Yet, that's the one step computers can do
+											better than any human after years of practice.
+											Instead, we ought to be using computers
+											to do step three
+											and using the students to spend much more effort
+											on learning how to do steps one, two and four —
+											conceptualizing problems, applying them,
+											getting the teacher to run them through how to do that.
+									","
+											Entonces hagámonos otra pregunta.
+											¿Qué es la matemática?
+											¿Qué queremos decir cuando decimos que hacemos matemática...
+											...o que enseñamos matemática?
+											A grandes rasgos, creo que se trata de cuatro pasos
+											empezando por plantear la pregunta correcta.
+											¿Qué queremos preguntar? ¿Qué estamos tratando de encontrar aquí?
+											Y esto es lo más complicado del mundo exterior,
+											más que cualquier otro aspecto de la matemática.
+											La gente hace la pregunta equivocada
+											y, claro, obtiene la respuesta equivocada
+											por esa razón, o por otras.
+											Lo siguiente es tomar ese problema
+											y transformarlo de algo del mundo real
+											en algo matemático.
+											Esa es la fase dos.
+											Una vez hecho eso, luego sigue el paso computacional.
+											Transformar eso en una respuesta
+											con forma matemática.
+											Y, por supuesto, la matemática es muy potente para eso.
+											Y luego, finalmente, devolver eso al mundo real.
+											¿Responde la pregunta?
+											Y también lo comprueba... paso crucial.
+											Y eso es lo loco ahora.
+											En matemática
+											quizá pasamos cerca del 80% del tiempo
+											enseñando a hacer el paso 3 a mano.
+											Pero eso es algo que las computadoras pueden hacer
+											mejor que cualquier humano después de años de práctica.
+											En su lugar deberíamos estar usando computadoras
+											para hacer el paso 3
+											y que los estudiantes se esfuercen más
+											en aprender a hacer los pasos 1, 2 y 4...
+											conceptualizando problemas, aplicando los pasos,
+											haciendo que los profesores les digan cómo hacerlo.
+									","
+											Então vamos colocar outra questão.
+											O que é a matemática?
+											O que significa quando dizemos que estamos a fazer matemática,
+											ou a educar pessoas para fazerem matemática?
+											Bem, grosso modo, eu penso que consiste em quatro passos,
+											começando com colocar a questão correcta.
+											O que queremos perguntar? O que estamos a querer descobrir?
+											E esta é a coisa mais sem sentido no mundo exterior,
+											mais do que qualquer outra parte de fazer matemática.
+											As pessoas colocam a questão errada,
+											e, surpreendentemente, obtêm a resposta errada,
+											por essa razão, se não for por outras.
+											O passo seguinte é pegar nesse problema
+											do mundo real e transformá-lo
+											num problema matemático.
+											Esta é a fase dois.
+											Depois de fazer isso, segue-se a computação.
+											Converter o problema numa dada reposta
+											sob uma forma matemática.
+											E claro, a matemática é muito poderosa a fazer isso.
+											E depois, finalmente, voltar ao mundo real.
+											Será que a resposta respondeu à pergunta?
+											E também verificar isso — passo crucial.
+											Agora, aqui está a coisa sem sentido.
+											No ensino da matemática,
+											estamos a gastar talvez 80 por cento do tempo
+											a ensinar as pessoas a fazer o passo três à mão.
+											No entanto, esse é o passo que os computadores
+											conseguem fazer melhor que qualquer humano com anos de prática.
+											Em vez disso, devíamos estar a usar os computadores
+											para realizarem o passo três
+											e pôr os estudantes a fazer mais esforço
+											a aprender a realizar os passos um, dois e quatro —
+											conceptualizar problemas, aplicá-los,
+											pôr o professor a ensiná-los como fazê-lo.
+									","
+											Öyleyse başka bir soru soralım
+											Matematik nedir?
+											Matematik yapıyoruz derken neyi kastediyoruz
+											ya da insanlara matematik öğretiyoruz derken?
+											Bana kalırsa, kabaca dört aşamalıdır
+											doğru soruyu sormakla başlar
+											Sormak istediğimiz nedir? Bulmaya çalıştığımız şey nedir?
+											Bu matematik yapmanın diğer kısımlarının ötesinde
+											dünyadaki en kaçıkça şeydir.
+											İnsanlar yanlış soruyu soruyorlar,
+											pek de şaşırtıcı olmayan bir biçimde, bu yüzden
+											yanlış yanıtı alıyorlar.
+											Öyleyse şimdi yapılacak diğer şey bu sorunu alıp
+											bir gerçek dünya probleminden
+											bir matemetik problemine dönüştürmektir.
+											Bu da ikinci aşamadır.
+											Bunu yaptıktan sonra, bir de hesaplama aşaması vardır.
+											Bu hesabı da matematiksel formdaki
+											bir yanıta çevirmek.
+											Hiç kuşkusuz, matematik bunu yapmanın çok güçlü bir yoludur.
+											Sonunda, bulduğunuzun gerçek dünya karşılığını oturtursunuz.
+											Soruyu yanıtlayabildi mi?
+											ve ayrıca kanıtlayabildi mi, bu çok önemli bir aşamadır.
+											Şimdi, asıl delirtici şey şuradadır.
+											Matematik eğitiminde,
+											zamanın yaklaşık yüzde 80'ini
+											üçüncü aşamayı elle yapmayı öğreterek harcıyoruz.
+											Bu aşama; bilgisayarların insanlardan,
+											bu alanda yıllarca deneyim kazanmış insanlardan, daha iyi yaptığı bir aşamadır.
+											Bunun yerine, üçüncü aşamayı yapmak için
+											bilgisayarları kullanıyor olmalı
+											ve öğrencileri birinci, ikinci ve dördüncü aşama için
+											daha çok çaba harcamaya ve nasıl yapıldığı öğrenmeye
+											problemleri kavramsallaştırmaya, uygulamaya teşvik ediyor olmalı,
+											öğretmeni bütün bunların nasıl olacağını öğretmeye yöneltmeliydik.
+									","
+											Voici une autre question.
+											Que sont les maths ?
+											Qu'est-ce que ça veut dire ""faire des maths"",
+											ou enseigner les maths?
+											Je crois qu'il y a 4 étapes en gros,
+											la première étant de poser la bonne question.
+											Que voulons-nous demander? Que cherchons-nous à comprendre?
+											C'est le truc le plus foireux dans le monde extérieur,
+											devant certainement n'importe quelle autre partie des maths.
+											Les gens posent les mauvaises questions,
+											et étonnamment, obtiennent les mauvaises réponses,
+											pour cette raison, sinon pour d'autres.
+											L'étape suivante, c'est de prendre ce problème
+											et le transformer d'un problème du monde réel
+											en un problème mathématique.
+											C'est l'étape 2.
+											Une fois qu'on a fait ça, il y a l'étape de calcul.
+											Transformer le problème en une réponse
+											sous forme mathématique.
+											Et bien sûr, les maths sont très fortes pour ça.
+											Finalement, revenir dans le monde réel.
+											Est-ce que ça répond à la question?
+											Et aussi vérifier — étape cruciale.
+											Voilà le truc fou.
+											Dans l'enseignement des maths,
+											nous passons près de 80% du temps à expliquer aux
+											gens comment faire l'étape 3 à la main.
+											Pourtant c'est la seule étape que les ordinateurs
+											font mieux que n'importe qui d'expérimenté.
+											Au contraire, nous devrions utiliser les ordinateurs
+											pour l'étape 3
+											et faire passer aux étudiants beaucoup plus de temps
+											sur l'apprentissage des étapes 1, 2 et 4 —
+											conceptualiser les problèmes, les appliquer,
+											demander aux enseignants de leur montrer la démarche.
+									","
+											Stellen wir noch eine andere Frage.
+											Was ist Mathematik?
+											Was meinen wir, wenn wir sagen, dass wir Mathematik betreiben
+											oder es anderen Leuten beibringen?
+											Nun, ich denke, dass es grob gesagt etwa vier Schritte sind,
+											beginnend mit dem Stellen der richtigen Frage.
+											Was wollen wir wissen? Was versuchen wir herauszufinden?
+											Und das ist es, was da draußen in der Welt so verkehrt läuft
+											mehr als alles andere bei der Anwendung von Mathematik..
+											Die Leute stellen die falschen Fragen
+											und bekommen aus diesem Grund
+											promt die falschen Antworten.
+											Der nächste Schritt ist also, das Problem
+											aus der wirklichen Welt
+											in die Sprache der Mathematik zu übersetzen.
+											Das ist der zweite Schritt.
+											Wenn man das einmal hat, dann kommt die Berechnung..
+											Man erhält eine Antwort
+											in mathematischer Form.
+											Darin ist die Mathematik sehr gut.
+											Und schlussendlich, wandle es wieder um für die wirkliche Welt.
+											Ist die Frage damit beantwortet?
+											Überprüfe es – wichtiger Schritt.
+											Jetzt kommt das Verrückte an der Sache.
+											Im Mathematikunterricht
+											verwenden wir ungefähr 80% der Zeit
+											um die Menschen zu lehren, wie man Schritt drei von Hand erledigt.
+											Allerdings ist das der Schritt, den Computer
+											besser als jeder Mensch mit jahrelanger Übung ausführen können.
+											Stattdessen sollten wir Computer verwenden,
+											um Schritt drei auszuführen
+											und die Anstrengung der Schüler viel mehr auf die Schritte
+											eins, zwei und vier lenken –
+											Problemstellungen zu konzeptualisieren, sie anzuwenden,
+											den Lehrer dazu zu bringen, sie da durch zu begleiten.
+									",Teaching kids real math with computers,Conrad Wolfram,17:19,"computers,education,math,technology,code"
+"
+","
+","
+","
+","
+","
+",Teaching kids real math with computers,Conrad Wolfram,17:19,"computers,education,math,technology,code"
+"
+											See, crucial point here:
+											math is not equal to calculating.
+											Math is a much broader subject than calculating.
+											Now it's understandable that this has all got intertwined
+											over hundreds of years.
+											There was only one way to do calculating and that was by hand.
+											But in the last few decades
+											that has totally changed.
+											We've had the biggest transformation of any ancient subject
+											that I could ever imagine with computers.
+											Calculating was typically the limiting step,
+											and now often it isn't.
+											So I think in terms of the fact that math
+											has been liberated from calculating.
+											But that math liberation didn't get into education yet.
+											See, I think of calculating, in a sense,
+											as the machinery of math.
+											It's the chore.
+											It's the thing you'd like to avoid if you can, like to get a machine to do.
+											It's a means to an end, not an end in itself,
+											and automation allows us
+											to have that machinery.
+											Computers allow us to do that —
+											and this is not a small problem by any means.
+											I estimated that, just today, across the world,
+											we spent about 106 average world lifetimes
+											teaching people how to calculate by hand.
+											That's an amazing amount of human endeavor.
+											So we better be damn sure —
+											and by the way, they didn't even have fun doing it, most of them —
+											so we better be damn sure
+											that we know why we're doing that
+											and it has a real purpose.
+									","
+											Vean algo crucial aquí:
+											la matemática no es el cálculo.
+											La matemática es algo mucho más amplio que el cálculo.
+											Aunque es comprensible que todo esto se haya entrelazado
+											durante cientos de años.
+											Sólo había una manera de hacer el cálculo y era a mano.
+											Pero en las últimas décadas
+											eso cambió por completo.
+											Experimentamos la mayor transformación de cualquier tema antiguo
+											que se pueda imaginar con las computadoras.
+											El cálculo era típicamente el paso limitante,
+											y ahora a menudo no lo es.
+											Pienso que la matemática
+											se ha liberado del cálculo.
+											Pero esa liberación matemática todavía no llegó a la educación.
+											Vean, pienso el cálculo, en cierto sentido,
+											como la maquinaria de la matemática.
+											Es la tarea pesada.
+											Es eso que nos gustaría evitar si pudiéramos; lo que le dejaríamos a una máquina.
+											Es un medio hacia un fin, no un fin en sí mismo.
+											Y la automatización nos permite
+											tener esa maquinaria.
+											Las computadoras nos permiten eso.
+											Y esto no es un problema menor en modo alguno.
+											Estimé que hoy en todo el mundo
+											pasamos unas 106 vidas en promedio
+											enseñando a calcular a mano.
+											Es una cantidad increíble de actividad humana.
+											Así que mejor que estemos seguros...
+											y, por cierto, la mayoría no se divierte haciéndolo.
+											Así que mejor que estemos seguros
+											de saber por qué lo estamos haciendo
+											y que tiene un propósito real.
+									","
+											Vejam o ponto crucial aqui:
+											a matemática não é o mesmo que calcular.
+											A Matemática é um assunto muito mais vasto que o cálculo.
+											É compreensível que isto tudo se tenha misturado
+											ao longo de centenas de anos.
+											Só havia uma maneira de fazer cálculos: era à mão.
+											Mas nas últimas décadas
+											isso mudou completamente.
+											Tivemos a maior transformação de qualquer assunto clássico
+											que eu alguma vez pudesse imaginar, com os computadores.
+											Calcular era tipicamente o passo que limitava,
+											e deixou frequentemente de o ser.
+											Por isso, eu penso que a matemática
+											se libertou do cálculo.
+											Mas essa libertação ainda não chegou ao ensino da matemática.
+											Eu penso no cálculo, num sentido,
+											como o motor da matemática.
+											É a tarefa chata.
+											É a coisa que gostariam de evitar se pudessem, e de pôr uma máquina a fazê-la.
+											É um meio para um fim, não é um fim em si mesma.
+											E a automação permite-nos
+											ter esse tipo de maquinaria.
+											Os computadores permitem-nos fazer isso.
+											E isto não é um problema pequeno de nenhuma forma.
+											Eu estimei que, só hoje, em todo o mundo,
+											gastámos 106 vezes a média de vida mundial
+											a ensinar pessoas a calcular à mão.
+											É um esforço humano espantoso.
+											Por isso é melhor estarmos mesmo certos —
+											e a propósito, a maior parte nem se divertiu a fazê-lo.
+											É melhor estarmos mesmo certos
+											de que sabemos por que o estamos a fazer
+											e que tem um propósito real.
+									","
+											Bakın, buradaki kritik nokta şudur;
+											matematik, hesaplamakla aynı şey değildir.
+											Matematik, hesap yapmaktan çok daha geniş bir konudur.
+											Bu binlerce yıl içerisinde iç içe geçmiş oldukları
+											için aynı anlamda kullanılmaları anlaşılabilir bir durumdur.
+											Hesap yapmanın yalnızca bir yolu vardı, o da elle yapılıyordu.
+											Ancak son bir kaç onyılda
+											bu durum tümüyle değişti.
+											Bilgisayarlar ile
+											eski bilimler içinde aklınıza gelebilcek en büyük dönüşümü yaşadık.
+											Genelde hesaplamak kısıtlayıcı adımdı,
+											ve böyle olmadığı zamanlar çok azdı.
+											Bence, böyle söylemek doğru olursa matematiğin
+											hesaplama kısmından kurtulduğunu düşünüyorum.
+											Fakat bu kurtuluş işin eğitim kısmına daha ulaşmadı.
+											Bakın, ben hesap yapmayı, bir açıdan
+											matematiğin mekanik kısmı olarak düşünüyorum.
+											İşin sıkıcı kısmı,angaryasıdır.
+											Olanağınız olsa yapmaktan kaçınacağınız kısmı, bir makinesi olsa da yapsa dediğiniz kısmı.
+											Gerçekte istediğimiz sonuç değil, o yolda bir aşamadır.
+											Otomasyon bize
+											işi makineye yaptırma şansını veriyor.
+											Bilgisayarlar bize bu kolaylığı sağlıyor.
+											Ve bu ne açıdan bakarsanız bakın, küçük bir sorun değildir.
+											Hesabıma göre, bugün dünya çapında
+											ortalama 106 yaşam süresini
+											insanlar elle hesaplamayı öğreterek harcıyoruz.
+											Bu insan muazzam miktarda bir insan emeğidir.
+											Yani kesinlikle emin olmalıyız —
+											ve bu arada, çoğu yaptıkları işten keyif almıyorlar bile.
+											Yani, kesinlikle bunu neden yaptığımızı
+											bilmeliyiz ve yaptığımızın
+											ve gerçek bir amacı olmalı.
+									","
+											Voyez le point crucial :
+											Faire des maths ne veut pas dire calculer.
+											Les maths sont un domaine plus large que le calcul.
+											C'est compréhensible que tout se soit entremêlé
+											au cours des siècles.
+											Il n'y avait qu'une seule façon de calculer: à la main.
+											Mais cela a totalement changé
+											ces dernières décennies.
+											Nous avons eu la plus grande transformation imaginable
+											d'une matière ancienne grâce aux ordinateurs.
+											Le calcul était généralement l'étape contraignante,
+											et ce n'est pas rare.
+											Je pense donc au fait que les maths
+											ont été libérées du calcul.
+											Mais cette libération des maths n'a pas encore atteint l'éducation.
+											Dans un sens, je vois le calcul comme étant
+											les rouages des mathématiques.
+											C'est une corvée.
+											C'est le truc que l'on veut éviter quand on peut, le faire faire à une machine par exemple.
+											C'est un moyen, pas une fin en soi.
+											L'automatisation nous permet
+											d'avoir ce mécanisme.
+											Les ordinateurs nous permettent de faire ça.
+											Ce n'est certainement pas un petit problème.
+											J'ai estimé qu'aujourd'hui à travers le monde,
+											nous avons passé à peu près 106 vies moyennes
+											à enseigner le calcul manuel.
+											C'est un effort humain colossal.
+											Nous avons intérêt à être certain —
+											au fait, la plupart des gens ne s'amusaient même pas à faire ça.
+											Nous avons intérêt à être certain
+											que nous savons ce que nous faisons
+											et que cela a un but.
+									","
+											Sehen Sie, der wichtige Punkt ist hier:
+											Mathematik ist nicht gleich Rechnen.
+											Mathematik ist ein viel breiteres Thema als Rechnen.
+											Nun, es ist verständlich, dass das alles miteinander verwoben
+											über hunderte von Jahren wurde.
+											Es gab eben nur eine Art zu rechnen, und das war von Hand.
+											Aber in den letzten paar Jahrzehnten
+											hat sich das grundlegend geändert.
+											Wir erlebten die größte Transformation eines uralten Fachs,
+											die ich mir jemals vorstellen könnte, durch Computer.
+											Die Berechnung war typischerweise der limitierende Faktor,
+											und jetzt ist sie es oft nicht mehr.
+											Ich denke also im Sinne von
+											der Befreiung der Mathematik vom Rechenprozess.
+											Aber diese Befreiung der Mathematik ist noch nicht im Unterricht angekommen.
+											Sehen Sie, ich betrachte das Rechnen als eine Art
+											Handwerkszeug der Mathematik.
+											Es ist die lästige Pflicht.
+											Es ist das, was man vermeiden möchte, wenn man es mit Hilfe einer Maschine tun kann.
+											Es ist ein Mittel zum Zweck, nicht Selbstzweck.
+											Und die Automatisierung bietet uns
+											dieses Werkzeug.
+											Computer erlauben uns, das zu tun.
+											Und das keinesfalls ein kleines Problem.
+											Ich schätze, dass wir heute weltweit
+											durchschnittlich 106 Erdalter damit zugebracht haben,
+											Leuten beizubringen, von Hand zu rechnen.
+											Das ist eine erstaunliche menschliche Leistung.
+											Wir sollten uns also verdammt sicher sein –
+											nebenbei die meisten hatten noch nicht einmal Spaß daran.
+											Wir sollten uns also lieber verdammt sicher sein,
+											dass wir wissen warum wir das tun
+											und dass es einen echten Zweck erfüllt.
+									",Teaching kids real math with computers,Conrad Wolfram,17:19,"computers,education,math,technology,code"
+"
+","
+","
+","
+","
+","
+",Teaching kids real math with computers,Conrad Wolfram,17:19,"computers,education,math,technology,code"
+"
+											I think we should be assuming computers
+											for doing the calculating
+											and only doing hand calculations where it really makes sense to teach people that.
+											And I think there are some cases.
+											For example: mental arithmetic.
+											I still do a lot of that, mainly for estimating.
+											People say, ""Is such and such true?""
+											And I'll say, ""Hmm, not sure."" I'll think about it roughly.
+											It's still quicker to do that and more practical.
+											So I think practicality is one case
+											where it's worth teaching people by hand.
+											And then there are certain conceptual things
+											that can also benefit from hand calculating,
+											but I think they're relatively small in number.
+											One thing I often ask about
+											is ancient Greek and how this relates.
+											See, the thing we're doing right now
+											is we're forcing people to learn mathematics.
+											It's a major subject.
+											I'm not for one minute suggesting that, if people are interested in hand calculating
+											or in following their own interests
+											in any subject however bizarre —
+											they should do that.
+											That's absolutely the right thing,
+											for people to follow their self-interest.
+											I was somewhat interested in ancient Greek,
+											but I don't think that we should force the entire population
+											to learn a subject like ancient Greek.
+											I don't think it's warranted.
+											So I have this distinction between what we're making people do
+											and the subject that's sort of mainstream
+											and the subject that, in a sense, people might follow with their own interest
+											and perhaps even be spiked into doing that.
+									","
+											Creo que deberíamos dejar que las computadoras
+											hagan el cálculo
+											y sólo hacer cálculo a mano cuando tenga sentido enseñarle a la gente a hacerlo.
+											Creo que hay algunos casos.
+											Por ejemplo: la aritmética mental.
+											Yo la uso mucho, sobre todo para estimar.
+											La gente dice tal y tal es verdad,
+											y yo digo que no estoy seguro. Voy a pensarlo a groso modo.
+											Todavía es más rápido hacerlo y es más práctico.
+											Los aspectos prácticos son, creo,
+											donde vale la pena enseñar a mano.
+											Y luego hay ciertas aspectos conceptuales
+											que pueden beneficiarse del cálculo a mano
+											pero creo que son relativamente pocos.
+											Algo que pregunto a menudo es sobre
+											el griego antiguo y cómo se relaciona.
+											Vean, lo que estamos haciendo ahora
+											es forzar a la gente a aprender matemáticas.
+											Es un tema importante.
+											No estoy sugiriendo, ni remotamente, que si la gente quiere calcular a mano
+											o seguir sus propios intereses
+											en cualquier tema por extraño que sea...
+											debería hacerlo.
+											Eso es absolutamente correcto,
+											que la gente siga su propio interés.
+											Estoy algo interesado en la antigua Grecia
+											pero no creo que deberíamos forzar a toda la población
+											a aprender un tema como antigua Grecia.
+											No creo que se justifique.
+											Por eso hago la distinción entre lo que le pedimos a la gente que haga,
+											el tema predominante y el tema que,
+											en cierto sentido, la gente podría elegir porque le interesa
+											y quizá enriquecerse al hacerlo.
+									","
+											Eu penso que deveríamos deixar os computadores
+											fazerem os cálculos e fazermos
+											cálculos à mão apenas quando faz mesmo sentido ensinar isso.
+											E penso que há alguns que valem a pena.
+											Por exemplo: aritmética mental.
+											Ainda faço muita, essencialmente para estimar.
+											As pessoas dizem, é assim porque isto e aquilo,
+											e eu digo, hmn, não sei. Vou pensar por alto.
+											Ainda é mais rápido e mais prático fazer assim.
+											A praticidade é um caso
+											em que vale a pena ensinar as pessoas a fazer à mão.
+											E depois há certas coisas conceptuais
+											que beneficiam do cálculo à mão,
+											mas penso que são poucas.
+											Uma coisa que frequentemente pergunto é como é que
+											isto se relaciona com a Grécia Antiga.
+											O que estamos a fazer agora
+											é forçar as pessoas a aprender matemática.
+											É uma disciplina essencial.
+											Não estou a querer sugerir que, se houver interessados em calcular à mão,
+											ou a seguir os seus próprios interesses
+											em qualquer matéria, mesmo se for bizarra —
+											que não o devam fazer.
+											Isso está absolutamente certo
+											para que as pessoas sigam os seus interesses.
+											Eu estava interessado de alguma forma por Grego Antigo,
+											mas não acho que devamos forçar toda a população
+											a aprender uma disciplina como o Grego Antigo.
+											Não acho que isso seja fundamentado.
+											Por isso, distingo entre o que estamos a obrigar as pessoas a fazer
+											e o assunto que é relativamente principal
+											e o assunto que, de alguma forma, as pessoas podem seguir pelos seus interesses
+											e talvez serem espicaçadas a fazer isso.
+									","
+											Bence hesaplama işini bilgisayarlara
+											vermeli ve elle hesabı
+											yalnızca gerçekten işe yaradığı zamanlarda öğretmeliyiz.
+											Ve bence buna uygun bazı durumlar var.
+											Örneğin, zihinsel aritmetik.
+											Ben bunu çokça yapıyorum, genelde kestirme yaparken.
+											İnsanlar, kaç kere kaçın kaç ettiğini söylüyorlar
+											ve ben, bir dakika emin değilim. Kabaca bir hesaplayayım diyorum.
+											Bu yöntem hala daha çabuktur ve daha pratiktir.
+											Yani pratik olmak elle hesap yapmayı
+											işe yarar kılan durumlardan biridir.
+											Ve elle hesap yapmak konusunun yararlı olacağı
+											bazı kesin kavramsal şeyler vardır.
+											ama bence görece az sayıdadırlar.
+											Sık sık sorduğum şeylerden birisi
+											antik Yunan ve bunun konumuzla nasıl ilişkili olduğudur.
+											Bakın, bugün yaptığımız şey
+											insanları matematik öğrenmeye zorlamaktır.
+											Önemli bir konudur.
+											Eğer insanlar elle hesaba ilgililerse
+											ya da öğrenmek için özel amaçları varsa
+											konu ne kadar acayip olursa olsun
+											bunu öğrenmeliler, engellemeyi bir an için bile önermiyorum.
+											İnsanların kendi ilgi alanlarını
+											takip etmeleri, kesinlikle doğru bir şeydir.
+											Ben bir biçimde Antik Yunan hakkında ilgiliyimdir.
+											ancak tüm nüfusu Antik Yunan gibi bir konu hakkında
+											bilgi edinmeye zorlamamalıyız.
+											Bunun doğru olduğunu düşünmuyorum.
+											Yani insanlara yaptırdığımız şeylerde şöyle bir ayrım yapıyorum,
+											ana akım olan konu
+											ve bir bakımdan, insanların kendi ilgilerine göre takip ettikleri konu
+											ve belki de yapmaya teşvik edilebilecekleri konu.
+									","
+											Je crois que nous devrions adopter les ordinateurs
+											pour le calcul
+											et faire à la main seulement dans les cas où ça a un sens.
+											Je crois qu'il y a de nombreux cas concrets.
+											Par exemple : le calcul mental.
+											J'en fais encore beaucoup, surtout pour estimer.
+											Les gens disent ""ça fait ça ou ça"",
+											et je dis ""hmm je suis pas sûr"". Je calcule rapidement.
+											C'est quand même plus rapide et plus pratique.
+											Je pense que l'aspect pratique est un cas
+											où ça vaut le coup d'enseigner la méthode manuelle.
+											Puis il y a certaines choses conceptuelles
+											qui peuvent bénéficier du calcul à la main,
+											mais je pense qu'elles sont relativement peu nombreuses.
+											Une chose que je questionne souvent
+											c'est le Grec ancien et son utilité.
+											Voyez, à l'heure actuelle,
+											nous forçons les gens à apprendre les maths.
+											C'est une matière dominante.
+											Je ne suis pas en train de dire que si quelqu'un aime le calcul manuel ou
+											veut poursuivre sa propre passion
+											quelque soit le sujet —
+											il devrait le faire.
+											C'est absolument la bonne chose,
+											que les gens suivent leurs propres intérêts.
+											J'étais intéressé par le Grec ancien,
+											mais je ne pense pas qu'on devrait forcer toute la population
+											à apprendre une matière comme le Grec ancien.
+											Je ne crois pas que ce soit justifié.
+											Je fais cette distinction entre ce qu'on force les gens à faire
+											et les matières générales,
+											et la matière que quelqu'un va apprendre parce que ça lui plait
+											et peut-être même exceller dans ce domaine.
+									","
+											Ich denke, wir sollten Computern
+											das Rechnen überlassen
+											und das von Hand rechnen nur da lehren, wo es wirklich sinnvoll ist.
+											Es gibt da ein paar Fälle.
+											Zum Beispiel: Kopfrechnen.
+											Ich mache das immer noch häufig, hauptsächlich zum Abschätzen.
+											Wenn Leute mich fragen: Stimmt das?
+											dann sage ich: Hmmm, bin mir nicht sicher. Ich werde es mal grob überdenken.
+											Es ist immer noch schneller und praktischer.
+											Ich denke, dass es sich aus diesem Grund
+											lohnt, den Leuten das Rechnen von Hand beizubringen.
+											Außerdem gibt es ein paar bestimmte konzeptionelle Dinge,
+											die das Rechnen per Hand rechtfertigen,
+											aber ich glaube es sind sehr wenige.
+											Eine Sache, die ich mich oft frage,
+											ist Altgriechisch, und wie das zusammengehört.
+											Schauen Sie, was wir im Moment tun ist,
+											Leute zu zwingen, Mathematik zu erlernen.
+											Es ist ein Hauptfach.
+											Ich will es keinem verbieten, wenn er sich für das Rechnen von Hand interessiert
+											oder seinen Interessen
+											in einem Gebiet, wie bizarr es auch sein mag, nachgeht,
+											sie sollen das tun.
+											Es ist absolut richtig
+											von ihnen, ihre eigenen Interessen zu verfolgen.
+											Ich habe mich ein bisschen für Altgriechisch interessiert,
+											aber ich glaube nicht, dass wir die gesamte Bevölkerung dazu zwingen sollten,
+											ein Fach wie Altgriechisch zu lernen.
+											Ich glaube nicht, dass es berechtigt ist.
+											Ich unterscheide also zwischen den Dingen, die wir die Leute lernen lassen
+											und im irgendwie im Mainstream sind
+											und den Dingen, denen die Leute aus eigenem Interesse nachgehen
+											oder sich vielleicht sogar darin verbissen haben.
+									",Teaching kids real math with computers,Conrad Wolfram,17:19,"computers,education,math,technology,code"
+"
+","
+","
+","
+","
+","
+",Teaching kids real math with computers,Conrad Wolfram,17:19,"computers,education,math,technology,code"
+"
+											So what are the issues people bring up with this?
+											Well one of them is, they say, you need to get the basics first.
+											You shouldn't use the machine
+											until you get the basics of the subject.
+											So my usual question is, what do you mean by ""basics?""
+											Basics of what?
+											Are the basics of driving a car
+											learning how to service it, or design it for that matter?
+											Are the basics of writing learning how to sharpen a quill?
+											I don't think so.
+											I think you need to separate the basics of what you're trying to do
+											from how it gets done
+											and the machinery of how it gets done
+											and automation allows you to make that separation.
+											A hundred years ago, it's certainly true that to drive a car
+											you kind of needed to know a lot about the mechanics of the car
+											and how the ignition timing worked and all sorts of things.
+											But automation in cars
+											allowed that to separate,
+											so driving is now a quite separate subject, so to speak,
+											from engineering of the car
+											or learning how to service it.
+											So automation allows this separation
+											and also allows — in the case of driving,
+											and I believe also in the future case of maths —
+											a democratized way of doing that.
+											It can be spread across a much larger number of people
+											who can really work with that.
+									","
+											¿Qué le objeta la gente a esto?
+											Bueno, dicen que uno primero tiene que aprender lo básico.
+											No deberíamos usar la máquina
+											hasta no aprender lo básico del tema.
+											Mi pregunta habitual es: ¿qué significa lo básico?
+											¿Lo básico de qué?
+											Aprender lo básico de conducir un coche
+											¿ayuda para repararlo? ¿se lo diseña para tal fin?
+											Los fundamentos de la escritura, ¿sirven para afilar la pluma?
+											No lo creo.
+											Creo que hay que separar los fundamentos de lo que tratamos de hacer
+											del cómo se hace
+											y de la maquinaria del cómo se hace.
+											Y la automatización permite hacer esa separación.
+											Hace cien años es cierto que para conducir un coche
+											hacía falta saber mucho sobre la mecánica del coche
+											y cómo funcionaba el tiempo de encendido y todo tipo de cosas.
+											Pero la automatización en los coches
+											permitió separar eso,
+											por eso ahora conducir es un tema bastante separado, por así decirlo,
+											de la ingeniería del automóvil
+											o de aprender a repararlo.
+											La automatización permite esta separación
+											y también, en el caso de la conducción,
+											y creo también en el caso futuro de las matemáticas,
+											una manera de hacer que se democratice.
+											Se puede difundir a un número mucho mayor de personas
+											que realmente puede trabajar con eso.
+									","
+											Então quais são as questões que as pessoas levantam acerca disto?
+											Bem, uma delas é que é necessário saber os fundamentos primeiro.
+											Não se deve usar uma máquina
+											antes de se perceber os fundamentos de um assunto.
+											Por isso, a minha pergunta típica é: o que entendem por fundamentos?
+											Os fundamentos de quê?
+											Os fundamentos de guiar um carro
+											é aprender a fazer-lhe a manutenção, ou projectá-lo?
+											Os fundamentos para escrever é aprender a afiar uma pena?
+											Não me parece.
+											Penso que é necessário separar os fundamentos sobre o que se está a tentar fazer
+											da forma como isso é feito
+											e da maquinaria necessária para o fazer.
+											E a automação permite fazer essa separação.
+											Há cem anos atrás, era certamente verdade que para guiar um carro
+											era necessário saber muito sobre a mecânica do carro
+											e sobre como funcionavam os tempos de ignição e essas coisas.
+											Mas a automação nos carros
+											permitiu separar isso,
+											pelo que guiar é hoje em dia um assunto separado, digamos assim,
+											da engenharia do carro
+											ou de aprender a fazer-lhe a manutenção.
+											Assim, a automação permite esta separação
+											e também permite — no caso da condução,
+											e acredito que também em casos futuros da matemática —
+											um modo democratizado de o fazer.
+											Poder ser espalhada a um número muito maior de pessoas
+											que podem realmente trabalhar com isso.
+									","
+											İnsanların bunun karşısında öne sürdüğü konular nelerdir?
+											Bir tanesi, ilk olarak temel ögeleri elde etmektir.
+											Konunun temel ögelerini elde edene dek
+											makineyi kullanmamalısınız.
+											Bu durumda, benim en sık sorduğum soru, temel öge derken neyi kast ettikleridir?
+											Neyin temel ögeleri?
+											Bir arabayı kullanmayı öğrenmek mi,
+											onunla nasıl hizmet edileceğini öğrenmek mi veya onu tasarlanmak mı temeldir?
+											Yazı yazmanın temeli kurşun kalemi açmayı öğrenmek midir?
+											Hiç sanmıyorum.
+											Yapmaya çalıştığınız şeyin temel ögeleriyle
+											o işin nasıl yapıldığı konusunu ayırmanız gereklidir.,
+											ve yapılma mekanizmasının nasıl olduğunu.
+											Otomasyon size bu ayrımı yapabilme olanağı sunar.
+											Yüzyıl önce, bir arabayı kullanmak için
+											arabanın mekanik kısımlarıyla ilgili bir çok şey bilmeniz gerekliydi,
+											kontağın ateşleme zamanının çalışması gibi bir sürü şeyler.
+											Ancak araba üretimindeki otomasyon,
+											ayrımın yapılabilmesini olanaklı kıldı,
+											bu sayede arabayı sürmek kısmı, arabanın mühendislik kısmından
+											ya da onunla verilebilecek hizmetler kısmından
+											oldukça ayrı bir konu durumuna geldi.
+											Otomasyon bu ayrımı olanaklı kılar
+											ve ayrıca — sürücülük konusunda olduğu gibi,
+											inanıyorum ki gelecekte matematik konusunda da
+											bu ayrımın demokratik bir biçimde yapılmasına olanak sağlayacaktır.
+											Bu biçimde olmasından memnun olacak
+											çok büyük miktarda insana ulaşabilir.
+									","
+											Quels sont les problèmes en relation avec ça?
+											L'un d'eux, c'est qu'on nous dit qu'il faut commencer par les bases.
+											On ne devrait pas utiliser de machine
+											tant qu'on ne maîtrise pas les bases.
+											Ma question habituelle est : comment définir les bases?
+											Les bases de quoi?
+											Est-ce que les bases de la conduite
+											incluent comment entretenir sa voiture ou la concevoir?
+											Est-ce qu'aiguiser une plume fait partie des bases de l'écriture?
+											Je ne crois pas.
+											Je crois qu'il faut séparer ce que vous essayez de faire
+											de comment on le fait
+											et des mécanismes qui le font.
+											L'automatisation vous permet de faire cette séparation.
+											C'est sûr qu'il y a 100 ans il fallait s'y connaître en
+											mécanique pour pouvoir conduire une voiture, et savoir comment
+											l'allumage marchait et ce genre de choses.
+											Mais l'automatisation dans les voitures
+											permet de séparer ça,
+											pour que la conduite soit maintenant une matière à part,
+											différente de la conception de la voiture
+											ou de son entretien.
+											L'automatisation permet donc cette séparation
+											et permet aussi, dans le cas de la conduite,
+											et je pense aussi dans le cas des maths,
+											une façon démocratisée de le faire.
+											Cela peut être étendu à beaucoup plus de gens
+											qui peuvent l'utiliser.
+									","
+											Was sind also die Probleme, die Leute darin sehen?
+											Nun gut, eines davon ist, wie sie sagen, dass man zuerst die Grundbegriffe drauf haben muss.
+											Man sollte die Maschine nicht verwenden,
+											bevor man die Grundbegriffe der Materie verstanden hat.
+											Meine übliche Gegenfrage ist, was meinen sie mit Grundbegriffen?
+											Grundbegriffe wovon?
+											Sind die Grundbegriffe des Autofahrens
+											ein Auto zu warten oder es zu entwerfen?
+											Sind die Grundbegriffe des Schreibens zu lernen wie man eine Feder spitzt?
+											Ich glaube nicht.
+											Ich glaube man muss unterscheiden zwischen den Grundbegriffen dessen, was man tun will,
+											und wie man das macht
+											und wie der mechanische Ablauf funktioniert.
+											Und die Automatisierung erlaubt es uns diese Unterscheidung zu machen.
+											Vor hundert Jahren war es sicherlich richtig, dass man, um ein Auto zu fahren,
+											vieles über die Mechanik des Autos
+											und wie die Zündung funktioniert und alle möglichen Dinge wissen musste.
+											Aber die Automatisierung in Autos
+											erlaubte es, diese Dinge zu trennen,
+											so ist das Fahren heute etwas anderes,
+											als das Bauen eines Autos
+											und das Erlernen seiner Wartung.
+											Automatisierung erlaubt also diese Trennung
+											und erlaubt auch – im Falle des Autofahrens,
+											und ich glaube auch in der Zukunft der Mathematik –
+											einen demokratischen Zugang.
+											Es kann auf eine viel größere Anzahl von Menschen aufgeteilt werden,
+											die tatsächlich damit arbeiten können.
+									",Teaching kids real math with computers,Conrad Wolfram,17:19,"computers,education,math,technology,code"
+"
+","
+","
+","
+","
+","
+",Teaching kids real math with computers,Conrad Wolfram,17:19,"computers,education,math,technology,code"
+"
+											So there's another thing that comes up with basics.
+											People confuse, in my view,
+											the order of the invention of the tools
+											with the order in which they should use them for teaching.
+											So just because paper was invented before computers,
+											it doesn't necessarily mean you get more to the basics of the subject
+											by using paper instead of a computer
+											to teach mathematics.
+											My daughter gave me a rather nice anecdote on this.
+											She enjoys making what she calls ""paper laptops.""
+											(Laughter)
+											So I asked her one day, ""You know, when I was your age,
+											I didn't make these.
+											Why do you think that was?""
+											And after a second or two, carefully reflecting,
+											she said, ""No paper?""
+											(Laughter)
+											If you were born after computers and paper,
+											it doesn't really matter which order you're taught with them in,
+											you just want to have the best tool.
+									","
+											Los fundamentos traen aparejada otra cosa.
+											La gente confunde, en mi opinión,
+											el orden de la invención de las herramientas
+											con el orden en que deberían usarlas para la enseñanza.
+											Sólo porque el papel se inventó antes que las computadoras
+											no necesariamente significa que uno entiende mejor lo básico del tema
+											usando papel en vez de computadoras
+											para enseñar matemáticas.
+											Tengo una anécdota bastante buena de mi hija sobre esto.
+											Ella disfruta haciendo lo que llama portátiles de papel.
+											(Risas)
+											Un día le dije: ""Sabes, cuando tenía tu edad,
+											no hacía esos dibujos.
+											¿Por qué crees que lo hacía?""
+											Y después de pensar seriamente uno o dos segundos
+											dijo: ""¿No había papel?""
+											(Risas)
+											Si uno nació después de las computadoras y del papel,
+											en realidad no importa el orden en que nos enseñan con ellos,
+											uno sólo quiere tener la mejor herramienta.
+									","
+											Há outra coisa que surge com os fundamentos.
+											As pessoas confundem, na minha opinião,
+											a ordem da invenção das ferramentas
+											com a ordem em que devem usá-las para ensinar.
+											Só porque o papel foi inventado antes dos computadores,
+											não significa necessariamente que se aprenda mais os fundamentos de um tema
+											usando papel em vez dos computadores
+											para ensinar matemática.
+											A minha filha contou-me uma anedota gira sobre isto.
+											Ela gosta de fazer o que ela chama ""portáteis de papel"".
+											(risos)
+											Então perguntei-lhe um dia, ""Sabes, quando tinha a tua idade,
+											Eu não fazia isso.
+											Porque é que achas que era?""
+											E depois de reflectir com cuidado por um segundo ou dois,
+											ela respondeu, ""Não havia papel?""
+											(risos)
+											Se nasceram depois dos computadores e papel,
+											não importa nada qual a ordem em que vos ensinam,
+											vocês só querem ter a melhor ferramenta.
+									","
+											İşin temelleriyle birlikte ortaya çıkan başka bir şey daha var.
+											Benim bakışıma göre, insanlar
+											araçların icat sırasıyla
+											öğrenme amacıyla kullanılma sırasını karıştırıyorlar.
+											Yani kağıt, bilgisayardan önce icat edildi diye
+											işin temelini öğrenmek için
+											matematik öğretmek için
+											bilgisayar yerine kağıtla uğraşmanız gerekmez.
+											Kızım bu konu hakkında güzel bir kısa hikaye anlattı.
+											Kendisi ""kağıttan dizüstü"" dediği şeyler yapmaktan hoşlanıyor.
+											(Kahkaha)
+											Bir ona şöyle dedim "" Biliyor musun, ben senin yaşındayken,
+											böyle şeyler yapmazdım.
+											Neden yapmazdım sence?""
+											Birkaç saniye dikkatle düşündükten sonra
+											""Kağıt mı yoktu?"" dedi.
+											(kahkaha)
+											Bilgisayarlardan ve kağıttan sonra doğmuşsanız
+											hangi sırayla onlarla eğitim aldığınız gerçekten önemli değildir,
+											sadece en iyi aracı kullanmak istersiniz.
+									","
+											Il y a autre chose à propos des bases.
+											Les gens confondent, selon moi,
+											l'ordre d'apparition des outils avec
+											l'ordre dans lequel ils devraient être enseignés.
+											Que le papier ait été inventé avant l'ordinateur,
+											ne veut pas nécessairement dire qu'on comprend mieux les bases
+											en utilisant le papier à la place de l'ordinateur
+											pour enseigner les mathématiques.
+											J'ai une anecdote assez amusante avec ma fille.
+											Elle aime faire ce qu'elle appelle des ordinateurs en papier.
+											(Rires)
+											Un jour je lui ai dit ""tu sais, quand j'avais ton âge,
+											je n'en faisais pas.
+											Pourquoi à ton avis?""
+											Après une seconde d'intense réflexion,
+											elle m'a dit, ""pas de papier?""
+											(Rires)
+											Quand vous êtes nés après les ordinateurs et le papier,
+											l'ordre dans lequel on vous apprend à les utiliser n'a pas vraiment d'importance,
+											vous voulez juste avoir les meilleurs outils.
+									","
+											Es gibt da noch etwas, das im Zusammenhang mit den Grundbegriffen auftaucht.
+											Meiner Ansicht nach gibt es eine Verwechslung
+											der Reihenfolge in der Werkzeuge erfunden werden
+											mit der Reihenfolge, in der sie für den Unterricht gebraucht werden sollen.
+											Nur weil das Papier vor dem Computer erfunden wurde,
+											heißt das nicht notwendigerweise, dass man den Grundbegriffen eines Themas näher kommt,
+											nur weil man Papier statt eines Computers
+											zum Unterrichten von Mathematik verwendet.
+											Meine Tochter lieferte mir eine nette Anekdote dazu.
+											Ihr macht es Spaß, wie sie es nennt, Papier-Laptops zu basteln.
+											(Gelächter)
+											Ich habe sie also eines Tages gefragt, „Weißt du, als ich so alt war wie du,
+											habe ich so etwas nicht gemacht.
+											Warum glaubst du war das so?“
+											Und nach kurzem, sorgfältigem Überlegen
+											sagte sie: „Kein Papier?“
+											(Gelächter)
+											Wenn man mit Computern und Papier aufgewachsen ist,
+											ist es eigentlich egal, in welcher Reihenfolge man mit ihnen unterrichtet wird,
+											man will einfach das beste Werkzeug zur Verfügung haben.
+									",Teaching kids real math with computers,Conrad Wolfram,17:19,"computers,education,math,technology,code"
+"
+","
+","
+","
+","
+","
+",Teaching kids real math with computers,Conrad Wolfram,17:19,"computers,education,math,technology,code"
+"
+											So another one that comes up is ""Computers dumb math down.""
+											That somehow, if you use a computer,
+											it's all mindless button-pushing,
+											but if you do it by hand,
+											it's all intellectual.
+											This one kind of annoys me, I must say.
+											Do we really believe
+											that the math that most people are doing in school
+											practically today
+											is more than applying procedures
+											to problems they don't really understand, for reasons they don't get?
+											I don't think so.
+											And what's worse, what they're learning there isn't even practically useful anymore.
+											Might have been 50 years ago, but it isn't anymore.
+											When they're out of education, they do it on a computer.
+											Just to be clear, I think computers can really help with this problem,
+											actually make it more conceptual.
+											Now, of course, like any great tool,
+											they can be used completely mindlessly,
+											like turning everything into a multimedia show,
+											like the example I was shown of solving an equation by hand,
+											where the computer was the teacher —
+											show the student how to manipulate and solve it by hand.
+											This is just nuts.
+											Why are we using computers to show a student how to solve a problem by hand
+											that the computer should be doing anyway?
+											All backwards.
+									","
+											Se dice también que las ""computadoras embrutecen la matemática"".
+											Que, en cierta forma, usar computadoras
+											es presionar botones sin sentido,
+											pero hacerlo a mano
+											es usar el intelecto.
+											Debo decir que esto me irrita.
+											¿Realmente creemos...
+											...que la matemática que la mayoría hace en la escuela...
+											...en la práctica hoy...
+											...es más que aplicar procedimientos...
+											...a problemas que no comprenden, por razones que no entienden?
+											No lo creo.
+											Y lo peor es que lo que están aprendiendo ya no es útil en la práctica.
+											Quizá lo era hace 50 años, pero ya no lo es.
+											Fuera del sistema educativo lo hacen en una computadora.
+											Para ser claro, creo que las computadoras pueden ayudar en este problema,
+											pueden hacerlo más conceptual.
+											Claro, como cualquier gran herramienta
+											puede ser usada sin sentido,
+											como convertir todo en un espectáculo multimedia,
+											como el ejemplo que mostré de resolver una ecuación a mano,
+											con la computadora como maestra...
+											mostrándole a los estudiantes cómo resolverlo a mano.
+											Eso es una locura.
+											¿Por qué usar computadoras para enseñarle a los estudiantes a resolver problemas a mano
+											que el equipo debe hacer de todos modos?
+											Todo al revés.
+									","
+											Outra frase que surge muito é ""os computadores estupidificam a matemática"".
+											Que de alguma forma, se usarem um computador,
+											é tudo sobre clicar em botões sem pensar,
+											mas se fizerem à mão,
+											é tudo intelectual.
+											Esta chateia-me, devo dizer.
+											Acreditamos mesmo que
+											a matemática que a maior parte das pessoas tem na escola
+											praticamente hoje
+											é mesmo mais do que aplicar procedimentos
+											a problemas que elas não compreendem, por razões que não entendem?
+											Não me parece.
+											E o que é pior é que, o que elas estão a aprender lá já nem sequer é útil na prática.
+											Talvez tenha sido há 50 anos atrás, mas já não é.
+											Quando terminarem a sua educação, elas vão fazê-lo num computador.
+											Só para esclarecer, eu penso que os computadores podem realmente ajudar neste problema,
+											torná-lo de facto mais conceptual.
+											Claro que, como qualquer boa ferramenta,
+											os computadores podem ser utilizados completamente sem critério,
+											transformando tudo numa apresentação multimédia,
+											como no exemplo que vi de resolver uma equação à mão,
+											onde o computador é que era o professor —
+											mostrar ao aluno como manipular e resolver equações à mão.
+											Isto é de doidos.
+											Porque é que estamos a usar computadores para mostrar a um aluno como se resolve um problema à mão
+											que o computador é que devia estar a fazer?
+											Está tudo ao contrário.
+									","
+											Başka birisi ""bilgisayarların matematiği aptallaştıracağını söylüyor
+											yani bir biçimde, eğer bilgisayar kullanırsanız
+											yalnızca boş boş tuşlara basmak olacağını savlıyor
+											ama elle hesaplarsanız.
+											bu tümüyle entelektüel bir iş durumuna geçiyor.
+											Bu türden iddaaların sinirimi bozduğunu söylemeliyim.
+											Gerçekten inanıyor muyuz
+											bugün uygulanan yöntemle,
+											çoğu insanın okullarda yaptığı matematiğin
+											anlamadıkları problemlere, anlayamadıkları nedenlerden ötürü
+											uyguladıkları işlemler dizisinden fazlası olduğuna?
+											Hiç sanmıyorum.
+											Daha da kötüsü, öğrendiklerinin pratik anlamda bir yararı bile yok.
+											Elli yıl önce belki vardı ama artık yok.
+											Eğitimleri bittikten sonra, bilgisayarla yapacaklar bunları.
+											Daha anlaşılır söylemek gerekirse, bilgisayarların bu sorunu çözmekte yardımcı olacağını düşünüyorum,
+											olayı gerçekten daha kavramsal duruma getirerek.
+											Şimdi elbette, her güzel araç gibi
+											tümüyle akılsızca da kullanılabilirler,
+											her şeyi bir çoklu ortam gösterisine çevirmek gibi işlerde,
+											bana gösterilen bir örnekte, bilgisayar bir öğretmenmişcesine
+											elle hesaplamayı
+											öğrenciye gösteriyor ve elle nasıl hesaplayacağını anlatıyordu.
+											Bu delilikten başka bir şey değil.
+											Neden hesap işini bilgisayar kendisi yapabilecekken,
+											öğrencilere el hesabı yapmayı bilgisayarlara anlattırıyoruz?
+											İşi tersten yapıyoruz.
+									","
+											Une autre qui revient c'est que ""les ordinateurs font baisser le niveau des maths"".
+											Que quelque part, si on utilise un ordinateur,
+											on presse juste des boutons sans réfléchir,
+											mais si on le fait à la main
+											ça devient intellectuel.
+											Celle-là m'énerve un peu, je dois le reconnaître.
+											Croit-on vraiment
+											que les maths que la plupart des gens font à l'école
+											quasiment tous les jours
+											demandent plus qu'appliquer des procédures
+											à des problèmes qu'ils ne comprennent pas, pour des raisons qu'ils ne comprennent pas?
+											Je ne crois pas.
+											Pire, ce qu'ils apprennent là n'est pratiquement plus utile de nos jours.
+											Il y a 50 ans peut-être, mais plus maintenant.
+											Quand ils sortent de l'école, ils le font sur un ordinateur.
+											Pour être clair, je crois que les ordinateurs peuvent vraiment aider dans ce cas,
+											rendre les choses plus conceptuelles en fait.
+											Bien sûr, comme n'importe quel outil génial
+											on peut l'utiliser sans réfléchir,
+											tout transformer en présentation multimédia,
+											comme cet exemple de résolution manuelle d'équation que l'on m'a montré,
+											où le professeur était en fait l'ordinateur —
+											montrant à l'étudiant comment la résoudre manuellement.
+											C'est simplement fou!
+											Pourquoi utiliser un ordinateur pour expliquer à un étudiant comment résoudre un problème à la main
+											alors que cet ordinateur devrait le faire à sa place?
+											Tout à l'envers.
+									","
+											Ein weiterer Kritikpunkt der aufkommt ist „Computer verdummen die Mathematik“.
+											So auf die Art, dass wenn man einen Computer benutzt,
+											alles nur hirnloses Knöpfedrücken ist,
+											aber wenn man es mit der Hand macht,
+											ist es alles intellektuell.
+											Das stört mich irgendwie, muss ich sagen.
+											Glauben wir wirklich,
+											dass die Mathematik, die täglich in den Schulen
+											praktiziert wird heutzutage,
+											wirklich mehr ist als das Anwenden von Prozeduren
+											auf Probleme, die die Schüler nicht verstehen, aus Gründen die sie nicht kapieren?
+											Ich glaube nicht.
+											Und was noch schlimmer ist, was sie lernen nützt ihnen nichts.
+											Vor ca. 50 Jahren vielleicht schon, aber jetzt nicht mehr.
+											Wenn sie aus der Ausbildung draußen sind, werden sie auf einem Computer rechnen.
+											Um mich klar auszudrücken, ich glaube Computer können bei diesem Problem helfen,
+											es wirklich konzeptioneller machen.
+											Natürlich, wie bei jedem guten Werkzeug,
+											können sie völlig gedankenlos eingesetzt werden,
+											und alles in eine Multimedia-Show verwandeln,
+											wie im folgenden Beispiel, als für das Lehren einer Gleichung von Hand,
+											der Computer der Lehrer war -
+											und dem Schüler zeigte, wie man sie per Hand umformt und löst.
+											Das ist einfach nur verrückt.
+											Warum verwenden wir Computer um einem Schüler zu zeigen, wie er ein Problem von Hand lösen kann,
+											was eigentlich sowieso vom Computer erledigt werden sollte?
+											Völlig verkehrt.
+									",Teaching kids real math with computers,Conrad Wolfram,17:19,"computers,education,math,technology,code"
+"
+","
+","
+","
+","
+","
+",Teaching kids real math with computers,Conrad Wolfram,17:19,"computers,education,math,technology,code"
+"
+											Let me show you
+											that you can also make problems harder to calculate.
+											See, normally in school,
+											you do things like solve quadratic equations.
+											But you see, when you're using a computer,
+											you can just substitute.
+											You can make it a quartic equation. Make it kind of harder, calculating-wise.
+											Same principles applied —
+											calculations, harder.
+											And problems in the real world
+											look nutty and horrible like this.
+											They've got hair all over them.
+											They're not just simple, dumbed-down things that we see in school math.
+											And think of the outside world.
+											Do we really believe that engineering and biology
+											and all of these other things
+											that have so benefited from computers and maths
+											have somehow conceptually gotten reduced by using computers?
+											I don't think so — quite the opposite.
+											So the problem we've really got in math education
+											is not that computers might dumb it down,
+											but that we have dumbed-down problems right now.
+											Well, another issue people bring up
+											is somehow that hand calculating procedures
+											teach understanding.
+											So if you go through lots of examples,
+											you can get the answer,
+											you can understand how the basics of the system work better.
+											I think there is one thing that I think very valid here,
+											which is that I think understanding procedures and processes is important.
+											But there's a fantastic way to do that in the modern world.
+											It's called programming.
+									","
+											Déjenme mostrarles
+											que también se pueden hacer problemas más difíciles de calcular.
+											Vean, normalmente en la escuela
+											uno resuelve ecuaciones de segundo grado.
+											Pero con una computadora
+											uno puede sustituir cosas.
+											Hacerla de cuarto grado; hacerla más difícil, en términos de cálculo.
+											Se aplican los mismos principios...
+											a cálculos más difíciles.
+											Y los problemas del mundo real
+											son raros y horribles como este.
+											Tienen pelos por todos lados.
+											No son las cosas simples, simplificadas, que vemos en la matemática de la escuela.
+											Piensen en el mundo exterior.
+											¿Realmente creemos que la ingeniería, la biología...
+											...y todas estas otras disciplinas...
+											...que se beneficiaron con las computadoras y la matemática...
+											...se reducen conceptualmente por el uso de computadoras?
+											No lo creo; todo lo contrario.
+											El problema de la educación matemática
+											no es que las computadoras la degraden
+											sino que ahora tenemos problemas degradados.
+											Otro tema que menciona la gente
+											es que el procedimiento de cálculo a mano
+											enseña a comprender.
+											Así, si uno ve muchos ejemplos
+											puede entender la respuesta...
+											uno puede entender mejor los fundamentos del sistema.
+											Creo que hay una cosa muy válida aquí
+											y es que los procedimientos y procesos de aprendizaje son importantes.
+											Pero hay una manera fantástica de hacerlo en el mundo moderno.
+											Se llama programación.
+									","
+											Deixem-me mostrar-vos
+											que também é possível tornar os cálculos mais difíceis de realizar.
+											Normalmente na escola,
+											resolvem-se problemas como equações de segundo grau.
+											Mas quando se está a usar um computador,
+											pode-se também substituir o grau.
+											Tornar a equação de quarto grau; torná-la mais difícil de calcular.
+											Aplicando os mesmos princípios —
+											cálculos mais difíceis.
+											E os problemas no mundo real
+											são complexos e horríveis como este.
+											São mesmo muito cabeludos.
+											Não são apenas coisas simples e estupidificadas que vemos no ensino da matemática.
+											E pensem no mundo que nos rodeia.
+											Acreditamos mesmo que a engenharia e a biologia
+											e todas as outras matérias
+											que têm beneficiado tanto de computadores e da matemática,
+											foram conceptualmente reduzidas por utilizarem computadores?
+											Não me parece; bem pelo contrário.
+											Então, o problema que realmente temos no ensino da matemática
+											não são os computadores a estupidificarem a educação,
+											mas o facto de termos problemas básicos e estúpidos neste momento.
+											Bom, outro tema que as pessoas levantam
+											é de que os procedimentos de cálculo manual
+											ensinam a compreender.
+											Então, se analisarem muitos exemplos,
+											podem encontrar a solução —
+											podem compreender melhor como os fundamentos do sistema funcionam.
+											Eu acho que há uma coisa muito válida neste raciocínio,
+											acho que compreender os procedimentos e processos é importante.
+											Mas há um meio fantástico para o fazer no mundo moderno.
+											Chama-se programação.
+									","
+											Bakın size göstereyim,
+											hesaplanması daha zor problemler de yapabilirsiniz.
+											Bildiğiniz gibi okulda olağan olarak,
+											ikinci dereceden denklemleri çözmek gibi işler yaparsınız.
+											Ama bilgisayar kullandığınızda,
+											bunu değiştirebilirsiniz.
+											Dördüncü dereceden bir fonksiyon yapabilirsiniz, hesap açısından daha zor duruma getirirsiniz.
+											Aynı ilkeler uygulanır —
+											hesaplamalar, daha zor olur.
+											Gerçek dünyadaki problemler
+											bu gördüğünüz gibi karmaşık ve delimsirektir.
+											Arapsaçı gibi karmakarışıktırlar.
+											Okuldaki matematik dersinde gördüğümüz, yalın, bilerek basitleştirilmiş şeyler değillerdir.
+											Dışardaki dünyayı düşünün.
+											Mühendislikteki, biyolojideki ve diğer bilimlerdeki
+											problemlerin, bilgisayarlardan bu kadar
+											çok yararlanan bu işlerin,
+											bilgisayar kullanıldığı için, kavramsal olarak indirgendiğine inanıyor musunuz?
+											Hiç sanmıyorum; bence tam tersi.
+											Yani aslında,matematik eğitimdeki sorunumuz,
+											bilgisayarların işi basitleştirip, bizi kolaya alıştırması değil
+											tersine bizim kullandığımız yöntemle problemleri basite indirgiyor oluşumuzdur.
+											Ayrıca, insanlar şunu da öne sürüyorlar
+											elle hesaplama süreci, bir biçimde
+											konuyu anlamayı öğretir.
+											Yani bir çok örnek çözerseniz,
+											yanıtları elde ederseniz,
+											sistemin temel ögelerini ve nasıl çalıştığınız daha iyi anlarsınız.
+											Bence burada oldukça yerinde olan bir şey var,
+											işlemleri ve süreçleri anlamak çok önemlidir.
+											Fakat bunu günümüz dünyasında yapmanın şahane bir yolu var.
+											Adına programlama deniyor.
+									","
+											Laissez-moi vous montrer
+											qu'on peut aussi rendre les problèmes plus durs à calculer.
+											Normalement à l'école,
+											on apprend, entre autres, à résoudre des équations quadratiques.
+											Mais quand on se sert d'un ordinateur,
+											on peut simplement substituer.
+											Prenons une équation quartique; compliquons les calculs.
+											Les même principes s'appliquent —
+											mais les calculs sont plus durs.
+											Les problèmes du monde réel
+											ont l'air aussi horribles et difficiles.
+											Ils sont tout poilus.
+											Ils ne sont pas faciles et simplifiés comme ceux qu'on voit à l'école.
+											Pensez au monde extérieur.
+											Croyez-vous vraiment que l'ingénierie et la biologie
+											et toutes ces choses
+											qui ont tellement bénéficié de l'ordinateur et des maths
+											ont d'une façon été réduits par l'usage de l'informatique?
+											Je ne crois pas, bien au contraire.
+											Le problème actuel dans l'enseignement des maths
+											n'est pas que les ordinateurs simplifient les choses,
+											mais que nous avons simplifié les problèmes.
+											Un autre problème que les gens mentionnent
+											est que quelque part faire les calculs à la main
+											aide à comprendre.
+											En faisant plusieurs exemples,
+											vous obtenez la réponse,
+											vous comprenez mieux comment marche le système.
+											Je crois qu'il y a une chose très juste là-dedans,
+											c'est qu'il est important de comprendre les procédures et les processus.
+											Mais il y a quelque chose de génial pour faire ça de nos jours.
+											Ça s'appelle la programmation.
+									","
+											Lassen Sie mich Ihnen zeigen,
+											dass man Probleme auch komplizierter kann kann.
+											Normalerweise, im Schulunterricht,
+											macht man Sachen wie das Lösen von quadratischen Gleichungen.
+											Aber wenn man einen Computer benutzt,
+											kann man einfach substituieren.
+											Machen wir daraus eine biquadratische Gleichung; machen wir es ein bisschen schwieriger, von der Berechnung her.
+											Die gleichen Prinzipien werden verwendet –
+											die Berechnungen: schwieriger.
+											Und die Probleme der wirklichen Welt
+											sehen so irre und schrecklich aus wie das hier.
+											Sie sind verzwickt.
+											Sie sind nicht einfach nur simple, vereinfachte Dinge, die wir in der Schulmathematik sehen.
+											Und denken Sie an die Welt da draußen.
+											Glauben wir wirklich, dass Technik und Biologie
+											und all die anderen Gebiete,
+											die so von Computern und Mathematik profitiert haben,
+											durch den Einsatz von Computern konzeptionell reduziert wurden?
+											Ich glaube nicht, ganz im Gegenteil.
+											Also, das Problem, das wir im Mathematikunterricht wirklich haben
+											ist nicht, dass Computer die Dinge vereinfachen könnten,
+											sondern dass wir jetzt vereinfachte Probleme haben.
+											Gut, ein anderer Punkt, den manche einwerfen ist,
+											dass das händische Rechnen von Abläufen
+											das Verständnis lehrt.
+											Wenn man also viele Beispiele durchrechnet,
+											kann man die Antwort finden –
+											man kann besser verstehen, wie die zugrundeliegenden Begriffe des Systems funktionieren.
+											Ich glaube, daran ist ein Punkt, der große Gültigkeit hat,
+											nämlich dass ich denke, dass das Verständnis von Prozeduren und Prozessen wichtig ist.
+											Aber es gibt einen fantastischen Weg, genau das in der heutigen Zeit zu tun:
+											er heißt Programmierung.
+									",Teaching kids real math with computers,Conrad Wolfram,17:19,"computers,education,math,technology,code"
+"
+","
+","
+","
+","
+","
+",Teaching kids real math with computers,Conrad Wolfram,17:19,"computers,education,math,technology,code"
+"
+											Programming is how most procedures and processes
+											get written down these days,
+											and it's also a great way
+											to engage students much more
+											and to check they really understand.
+											If you really want to check you understand math
+											then write a program to do it.
+											So programming is the way I think we should be doing that.
+											So to be clear, what I really am suggesting here
+											is we have a unique opportunity
+											to make maths both more practical
+											and more conceptual, simultaneously.
+											I can't think of any other subject where that's recently been possible.
+											It's usually some kind of choice
+											between the vocational and the intellectual.
+											But I think we can do both at the same time here.
+											And we open up so many more possibilities.
+											You can do so many more problems.
+											What I really think we gain from this
+											is students getting intuition and experience
+											in far greater quantities than they've ever got before.
+											And experience of harder problems —
+											being able to play with the math, interact with it,
+											feel it.
+											We want people who can feel the math instinctively.
+											That's what computers allow us to do.
+									","
+											La programación es la forma de escribir la mayoría
+											de los procesos y procedimientos de hoy
+											y es una gran manera
+											de involucrar mucho más a los estudiantes
+											y de verificar que hayan entendido realmente.
+											Si realmente quieren verificar que entienden algo
+											escriban un programa que lo haga.
+											La programación es la manera en que creo deberíamos hacerlo.
+											Para ser claro, lo que estoy sugiriendo aquí
+											es que tenemos una oportunidad única
+											de hacer la matemática más práctica
+											y conceptual, a la vez.
+											No se me ocurre otro tema donde esto haya sido posible recientemente.
+											Por lo general es una elección
+											entre lo vocacional y lo intelectual.
+											Pero creo que podemos hacer ambas a la vez aquí.
+											Y abrimos muchas más oportunidades.
+											Se pueden resolver muchos más problemas.
+											Creo que con esto los estudiantes
+											ganan en intuición y experiencia
+											en mucho mayores cantidades que nunca antes.
+											Experiencia de problemas más difíciles...
+											poder jugar con la matemática, interactuar con ella,
+											sentirla.
+											Queremos que la gente pueda sentir la matemática instintivamente.
+											Eso es lo que nos permiten las computadoras.
+									","
+											Programação é a forma como a maioria dos procedimentos e processos
+											são escritos hoje em dia,
+											e é também uma forma muito boa
+											de cativar muito mais os alunos
+											e para verificar que eles realmente compreendem.
+											Se realmente quiserem verificar se compreendem matemática
+											então escrevam um programa para o fazer.
+											Por isso, programar é a forma que eu penso que deveríamos usar para o fazer.
+											Para ser claro, o que eu estou mesmo a sugerir aqui
+											é que tenhamos a oportunidade única
+											de tornar a matemática mais prática
+											e mais conceptual, ao mesmo tempo.
+											Não consigo pensar noutro assunto qualquer em que tal tenha sido possível recentemente.
+											É geralmente uma espécie de escolha
+											entre a vocação e o intelecto.
+											Mas eu penso que podemos fazer ambos ao mesmo tempo aqui.
+											E abrimos tantas mais possibilidades.
+											Podem-se fazer tantos mais problemas.
+											O que realmente acho que ganhamos com isto
+											são os estudantes a ter intuição e experiência
+											em muito maiores quantidades do que alguma vez tiveram.
+											E a experiência de problemas mais difíceis —
+											estarem aptos a brincar com a matemática, interagir com ela,
+											senti-la.
+											Queremos pessoas que possam sentir a matemática instintivamente.
+											É isso que os computadores nos permitem fazer.
+									","
+											Programlama; bu günlerde işlemlerin ve süreçlerin,
+											çoğunun yazılma biçimidir
+											ayrıca öğrencileri konuya daha çok
+											çekmenin güzel bir yoludur
+											ve gerçekten anlayıp anlamadıklarını denetlemeyi de sağlar.
+											Eğer matematiği gerçekten anlayıp anlamadığınızı görmek istiyorsanız
+											bunu yapmak için bir program yazın.
+											Öyleyse bu işi yapmamız gereken yol, programlamadır.
+											Açıkca söylersem, burada söylediğim şey
+											matematiği hem daha pratik
+											hem de daha kavramsal duruma aynı zamanda getirebilecek
+											eşşiz bir fırsata sahip olduğumuzdur.
+											Bunun olanaklı olacağı başka bir konu düşünemiyorum.
+											Sıklıkla bu meslek eğitimi olanla
+											entelektüel olan arasında bir seçimdir
+											Ancak ben, burada ikisinide aynı anda yapabileceğimizi düşünüyorum.
+											ve çok fazla olasılığa da açık kapı bırakmış olacağız.
+											Çok daha fazla problem çözebileceksiniz.
+											Bu işten asıl kazanacağımız şeyin
+											öğrencilerin daha önce hiç öğrenmedikleri kadar
+											problem çözme sezisi ve deneyimi kazanacak olmalarıdır.
+											Daha zor problemleri deneyimleme şansı,
+											matematikle oynama ve etkileşime girebilme olanağı,
+											matematiği hissedebilme imkanı kazacaklar.
+											Matematiği içgüdüsel olarak hisseden insanlar istiyoruz.
+											Bilgisayarlar bize bunun olanağını sağlayacak.
+									","
+											De nos jours, la plupart des procédures et processus
+											sont écrites avec la programmation,
+											c'est aussi un super moyen
+											d'impliquer beaucoup plus les étudiants
+											et de vérifier qu'ils comprennent bien.
+											Si vous voulez vérifier que vous comprenez bien les maths
+											écrivez un programme pour le faire.
+											Je crois que nous devrions utiliser la programmation pour faire ça.
+											En clair, la théorie que je suis en train de proposer
+											est que nous avons une occasion unique
+											de rendre les maths plus pratiques
+											et plus conceptuelles à la fois.
+											Je ne vois pas d'autre domaine où cela a été possible récemment.
+											C'est d'habitude un choix
+											entre le professionnel et l'intellectuel.
+											Mais je pense qu'on peut faire ici les deux en même temps.
+											Cela ouvre tellement de possibilités.
+											On peut faire tellement plus de problèmes.
+											La véritable avancée avec ça c'est que
+											les élèves développent de l'intuition et de l'expérience
+											beaucoup plus qu'ils ne le pouvaient avant.
+											De l'expérience avec des problèmes plus compliqués,
+											en étant capable de jouer avec les maths, d'interagir,
+											de les sentir.
+											Nous voulons des gens capables de sentir les maths instinctivement.
+											C'est ce que l'ordinateur permet de faire.
+									","
+											Programmierung ist die Art, wie die meisten Abläufe und Prozesse
+											heutzutage niedergeschrieben werden,
+											und sie ist auch ein großartiger Weg,
+											um Schüler mehr einzubinden
+											und zu überprüfen, ob sie wirklich verstehen.
+											Wenn du wirklich überprüfen willst, ob du Mathematik verstehst,
+											dann schreibe ein Programm dafür.
+											Programmieren ist also das, was wir meiner Meinung nach tun sollten.
+											Um es auf den Punkt zu bringen, was ich hier nahelege ist,
+											dass wir hier eine einzigartige Chance haben,
+											Mathematik sowohl praktischer
+											als auch konzeptioneller zu machen, beides gleichzeitig.
+											Mir fällt kein anderes Fach ein, wo das in letzter Zeit möglich gewesen wäre.
+											Normalerweise ist es eine Entscheidung
+											zwischen dem Beruflichen und dem Intellektuellen.
+											Aber ich denke, wir können hier beides gleichzeitig machen.
+											Und wir eröffnen so viel mehr Möglichkeiten.
+											Man kann so viel mehr Fragestellungen angehen.
+											Was ich glaube zu gewinnen ist,
+											dass Schüler eine Intuition und Erfahrung
+											in viel größerer Mengen bekommen können als jemals zuvor.
+											Und die Erfahrung mit schwierigeren Problemen –
+											fähig sein, mit der Mathematik zu spielen, mit ihr zu interagieren,
+											sie zu fühlen.
+											Wir wollen Leute, die die Mathematik instinktiv spüren können.
+											Das ist es, was Computer uns erlauben zu tun.
+									",Teaching kids real math with computers,Conrad Wolfram,17:19,"computers,education,math,technology,code"
+"
+","
+","
+","
+","
+","
+",Teaching kids real math with computers,Conrad Wolfram,17:19,"computers,education,math,technology,code"
+"
+											Another thing it allows us to do is reorder the curriculum.
+											Traditionally it's been by how difficult it is to calculate,
+											but now we can reorder it
+											by how difficult it is to understand the concepts,
+											however hard the calculating.
+											So calculus has traditionally been taught very late.
+											Why is this?
+											Well, it's damn hard doing the calculations, that's the problem.
+											But actually many of the concepts
+											are amenable to a much younger age group.
+											This was an example I built for my daughter.
+											And very, very simple.
+											We were talking about what happens
+											when you increase the number of sides of a polygon
+											to a very large number.
+											And of course, it turns into a circle.
+											And by the way, she was also very insistent
+											on being able to change the color,
+											an important feature for this demonstration.
+											You can see that this is a very early step
+											into limits and differential calculus
+											and what happens when you take things to an extreme —
+											and very small sides and a very large number of sides.
+											Very simple example.
+											That's a view of the world
+											that we don't usually give people for many, many years after this.
+											And yet, that's a really important practical view of the world.
+											So one of the roadblocks we have
+											in moving this agenda forward
+											is exams.
+											In the end, if we test everyone by hand in exams,
+											it's kind of hard to get the curricula changed
+											to a point where they can use computers
+											during the semesters.
+									","
+											Otra cosa que nos permiten es ordenar el plan de estudios.
+											Tradicionalmente se ha ordenado por grado de dificultad de cálculo
+											pero ahora podemos reordenarlo
+											por el grado de dificultad para entender los conceptos,
+											por difícil que sea el cálculo.
+											Tradicionalmente el cálculo se enseñaba muy tarde.
+											¿Por qué?
+											Bueno, es bien difícil hacer los cálculos, ese es el problema.
+											Pero en realidad muchos de los conceptos
+											son adecuados para grupos mucho más jóvenes.
+											Este es un ejemplo que preparé para mi hija.
+											Es muy, muy simple.
+											Estábamos hablando de lo que sucede
+											si uno aumenta la cantidad de lados de un polígono
+											a un número muy grande.
+											Por supuesto, se transforma en círculo.
+											Y, por cierto, ella insistió mucho
+											en poder cambiar el color,
+											algo importante para esta demostración.
+											Pueden ver que este es un paso muy temprano
+											en el tema límites y cálculo diferencial;
+											y lo que sucede si uno lleva las cosas a un extremo...
+											una gran cantidad de lados muy pequeños.
+											Un ejemplo muy simple.
+											Es una visión del mundo
+											que no solemos darle a la gente sino hasta muchos, muchos años después.
+											Y, sí, es una visión práctica del mundo realmente importante.
+											Por eso uno de los obstáculos
+											para llevar este programa adelante
+											son los exámenes.
+											Al final, si se toma examen a mano a todo el mundo
+											es medio difícil cambiar el plan de estudios
+											para que puedan usar computadoras
+											durante el semestre.
+									","
+											Outra coisa que nos permitem fazer é reestruturar o plano curricular.
+											Tradicionalmente, tem sido reordenado pela dificuldade de cálculo,
+											mas agora podemos reordená-lo
+											por quão difícil é de compreender os conceitos,
+											independentemente da dificuldade dos cálculos.
+											Por isso, o cálculo tem sido ensinado tradicionalmente muito tarde.
+											Porque é que é assim?
+											Bom, é muito difícil fazer os cálculos, esse é o problema.
+											Mas, na verdade, muitos dos conceitos
+											são acessíveis a uma faixa etária muito mais baixa.
+											Este foi um exemplo que construí para a minha filha.
+											E muito, muito simples.
+											Estivemos a falar sobre o que acontece
+											quando se aumenta o número de lados de um polígono
+											para um número muito grande.
+											E como é óbvio, este transforma-se num círculo.
+											E a propósito, ela também foi muito insistente
+											em que fosse possível mudar a cor,
+											uma característica importante para esta demonstração.
+											Podem ver que este é um passo muito inicial
+											para introduzir os limites e o cálculo diferencial
+											e o que acontece quando se levam as coisas a um extremo —
+											e números de lados muito baixos e muito elevados.
+											Um exemplo muito simples.
+											Esta é uma visão do mundo
+											que geralmente não damos às pessoas durante muitos, muitos anos depois disto.©
+											Ainda assim, é uma perspectiva do mundo muito prática e importante.
+											Uma das barreiras que temos
+											em avançar nesta agenda
+											são os exames.
+											No fim, se testarmos toda a gente com exames escritos,
+											é algo difícil alterar os planos curriculares
+											a um ponto onde eles possam utilizar computadores
+											durante os semestres.
+									","
+											Bize olanak sağlacağı bir başka şey de müfredatı yeniden düzenlemek olacaktır.
+											Geleneksel olarak, hesaplama işinin zorluğuna göre düzenliyorduk,
+											şimdiyse hesaplama kısmı ne denli zor olursa olsun,
+											kavramları anlamanın zorluğuna göre hazırlanmış
+											yeni bir düzenleme yapabiliriz.
+											Analiz geleneksel olarak çok geç öğretilir.
+											Peki bunun nedeni nedir?
+											Çünkü hesaplamaları yapmak acayip zordur da ondan.
+											Fakat öğretilen kavramların çoğu
+											daha küçük yaşlardakilerın anlayabileceği şeylerdir.
+											Bu kızım için hazırladığım bir örnek,
+											çok, çok basit bir örnek.
+											Bir çokgenin kenar sayılarını
+											çok büyük bir sayıya
+											arttırırsak ne olacacağı hakkında konuşuyorduk.
+											Elbette bir daireye dönüşür.
+											Bu arada, kızım rengi de değiştirebilme
+											konusunda oldukça ısrarlıydı,
+											bu uygulamanın önemli bir özelliği de bu.
+											Gördüğünüz gibi bu, limit ve diferansiyel analize
+											doğru atılmış çok erken bir adım
+											durumları maksimum ya da minimuma götürdüğünüzde
+											çok az sayıda ya da çok fazla sayıda kenarlı durumlarda ne olduğunu görebilmeniz için.
+											Çok basit bir örnek.
+											Dünyaya bu şekilde bakma yöntemini
+											insanlara bunun üzerinden uzun yıllar geçmeden vermiyoruz.
+											Oysa bu bakış açısı dünyaya uygulamalı bakmak için çok önemlidir.
+											Bu davamızı ilerletirken
+											karşılaşacağımız engellerden bir tanesi de
+											sınavlardır.
+											İşin sonunda, herkesi yine elle hesap yöntemleri ile sınarsak
+											müfredatı dönemler sırasında herkesin bilgisayar kullandığı
+											bir biçime değiştirmek
+											pek de kolay olmayacaktır.
+									","
+											Cela nous permet aussi de réarranger le programme.
+											Traditionnellement c'est selon le niveau de difficulté de calcul,
+											mais maintenant on peut le réordonner
+											selon le niveau de difficulté à comprendre les concepts,
+											quelle que soit la difficulté de calcul.
+											D'habitude le calcul est enseigné tardivement.
+											Pourquoi cela?
+											C'est sacrément difficile de calculer, c'est ça le problème.
+											Mais en fait la plupart des concepts
+											sont adaptables à une génération plus jeune.
+											Voici un exemple que j'ai construit pour ma fille.
+											Très, très simple.
+											Nous discutions de ce qu'il se passe
+											quand on augmente le nombre de côtés d'un polygone
+											à un nombre très grand.
+											Bien sûr, ça devient un cercle.
+											Au fait, elle a beaucoup insisté pour
+											pouvoir changer la couleur,
+											indispensable pour cette démonstration.
+											Vous voyez que c'est un premier pas vers
+											les limites et le calcul différentiel
+											et ce qu'il se passe quand on pousse les choses à l'extrême —
+											de très petits côtés et un très grand nombre de côtés.
+											Exemple très simple.
+											C'est une vision du monde
+											qu'on ne montre pas aux gens avant de nombreuses années.
+											En fait, c'est une vision pratique du monde très importante.
+											Une des barrières qui nous empêche
+											de faire avancer ce programme,
+											c'est les examens.
+											Au final, si on évalue tout le monde manuellement,
+											c'est plutôt difficile de faire changer le programme
+											pour y intégrer l'utilisation de l'ordinateur
+											au cours de l'année.
+									","
+											Noch etwas, es erlaubt uns den Lehrplan umzuordnen.
+											Traditionell wurde nach der Schwierigkeit der Berechnung geordnet,
+											aber jetzt könnten wir ihn danach umstellen,
+											wie schwierig es ist, die Konzepte zu verstehen,
+											egal wie schwierig die Berechnungen sind.
+											Die Infinitesimalrechnung wurde traditionell sehr spät unterrichtet.
+											Warum?
+											Tja, es ist verdammt schwierig die Rechnungen durchzuführen, das ist das Problem.
+											Aber eigentlich sind viele der Konzepte
+											für eine viel jüngere Altersgruppe zugänglich.
+											Das ist ein Beispiel, das ich für meine Tochter erstellt habe.
+											Und sehr, sehr einfach.
+											Wir reden davon, was passiert,
+											wenn man die Anzahl der Seiten eines Polygons
+											auf eine sehr große Zahl erhöht.
+											Und selbstverständlich wird daraus ein Kreis.
+											Und übrigens, sie hat sehr darauf bestanden,
+											die Farbe wählen zu können,
+											ein wichtiges Feature für diese Demonstration.
+											Sie sehen, dass ist ein sehr früher Schritt
+											in Richtung Grenzwerte und Differentialrechnung
+											und was passiert, wenn man Dinge auf die Spitze treibt –
+											sehr kurze Seiten und eine sehr große Anzahl von Seiten.
+											Sehr einfaches Beispiel.
+											Das ist eine Sicht der Welt,
+											die wir Schülern normalerweise erst viele, viele Jahre später geben.
+											Und dennoch ist es eine wirklich wichtige, praktische Sicht auf die Dinge.
+											Eine der Hürden,
+											die wir im Vorantreiben dieser Vorstellungen vorfinden,
+											sind Prüfungen.
+											Letztlich, wenn wir jede Prüfung von Hand lösen lassen,
+											wird es ziemlich schwierig, die Lehrpläne dahingehend zu verändern,
+											dass Computer
+											während des Semesters eingesetzt werden können.
+									",Teaching kids real math with computers,Conrad Wolfram,17:19,"computers,education,math,technology,code"
+"
+","
+","
+","
+","
+","
+",Teaching kids real math with computers,Conrad Wolfram,17:19,"computers,education,math,technology,code"
+"
+											And one of the reasons it's so important —
+											so it's very important to get computers in exams.
+											And then we can ask questions, real questions,
+											questions like, what's the best life insurance policy to get? —
+											real questions that people have in their everyday lives.
+											And you see, this isn't some dumbed-down model here.
+											This is an actual model where we can be asked to optimize what happens.
+											How many years of protection do I need?
+											What does that do to the payments
+											and to the interest rates and so forth?
+											Now I'm not for one minute suggesting it's the only kind of question
+											that should be asked in exams,
+											but I think it's a very important type
+											that right now just gets completely ignored
+											and is critical for people's real understanding.
+									","
+											Es una de las razones por las que es tan importante...
+											por eso son muy importantes las computadoras en los exámenes.
+											Porque podemos hacer preguntas, preguntas reales,
+											preguntas como: ¿cuál es la mejor póliza de seguro de vida?
+											Preguntas reales que la gente se hace en la vida cotidiana.
+											Y ven que este no es un modelo tonto.
+											Es un modelo real al que podemos refinar para optimizar lo que sucede.
+											¿Cuántos años de cobertura necesito?
+											¿Cómo impacta eso al pago
+											y a las tasas de interés, etc.?
+											No estoy siquiera sugiriendo que esta sea la única clase de preguntas
+											que deberíamos hacer en los exámenes
+											pero creo que es un tipo de pregunta
+											que en este momento se ignora por completo
+											y es fundamental para que la gente realmente entienda.
+									","
+											E uma das razões porque é tão importante —
+											então é muito importante ter computadores nos exames.
+											E assim podemos fazer questões, questões reais,
+											questões como ""qual é a melhor apólice de seguro de vida a adquirir?"" —
+											questões reais que as pessoas têm no seu dia-a-dia.
+											E vejam, isto não é um modelo redutor.
+											Este é um modelo real onde nos pode ser pedido para optimizar o que acontece.
+											Quantos anos de cobertura é que eu preciso?
+											Quais são os impactos a nível de pagamentos
+											e às taxas de juro, e por aí em diante?
+											Agora, não estou nem por sombras a sugerir que é o único tipo de questões
+											que deve ser feita nos exames,
+											mas penso que é um tipo muito importante
+											que neste momento é complemente ignorada
+											e é crítica para a compreensão efectiva por parte das pessoas.
+									","
+											Bu kadar önemli olmasının nedenlerinden birisi budur,
+											yani sınavlara bilgisayarlı sistemi sokmak çok önemlidir.
+											Böylece sorular sorabiliriz, gerçek sorular,
+											""Alınabilecek en iyi yaşam sigortası hangisidir?"" gibi sorular
+											insanların günlük yaşamlarında karşılaştıkları cinsten sorular.
+											Görüyorsunuz, bu basitleştirilmiş bir model değil.
+											Bu neler olabileceğini hesaba kattığımız gerçek bir model,
+											Kaç yıllık korunmaya gerek duyacağım?
+											Faiz oranları, ödeme miktarlarını
+											ve diğerlerini ne belirliyor?
+											Şimdi sınavlarda yalnızca bu tip sorular
+											sorulmasını asla önermiyorum,
+											ama bu tip sorular çok önemlidir,
+											ve şu anda bu sorular tümüyle görmezden gelinmektedir,
+											oysa bu tip sorular insanların gerçekten anlamaları için çok önemlidir.
+									","
+											C'est l'une des raisons pour laquelle c'est important —
+											c'est donc très important d'autoriser l'ordinateur aux examens.
+											Ensuite on pourra poser de vraies questions,
+											comme comment choisir la meilleure police d'assurance?
+											Des questions que les gens se posent tous les jours.
+											Vous voyez, ce n'est pas un modèle simplifié dans ce cas.
+											C'est un modèle réel où on peut demander d'optimiser le résultat.
+											De combien d'années de couverture ai-je besoin?
+											Qu'est-ce qui a une influence sur les paiements,
+											sur les taux d'intérêts, etc...?
+											Je ne suis pas du tout en train de dire que c'est le seul type de question
+											à poser aux examens,
+											mais je crois que c'est un type de question
+											important mais complètement ignoré actuellement
+											et qui est important pour la bonne compréhension.
+									","
+											Und einer der Gründe, warum das so wichtig ist –
+											also, es ist sehr wichtig, Computer in die Prüfungen miteinzubeziehen.
+											Und dann können wir Fragen stellen, echte Fragen,
+											Fragen wie: „Welche ist die beste Lebensversicherung?“ –
+											echte Fragen, die die Leute im täglichen Leben haben.
+											Und wie Sie sehen können, ist das kein heruntergebrochenes, vereinfachtes Modell.
+											Das ist ein reales Modell, dass man verbessern kann.
+											Wieviele Jahre Schutz brauche ich?
+											Wie wirkt sich das auf Zahlungen
+											und Zinsen und so weiter aus?
+											Ich möchte hier keineswegs suggerieren, dass das die einzige Art von Fragen sein sollte,
+											die in Prüfungen gestellt werden sollte,
+											aber es ist ein wichtiger Typus,
+											der augenblicklich vollkommen ignoriert wird
+											und der für das wirkliche Verständnis der Leute entscheidend ist.
+									",Teaching kids real math with computers,Conrad Wolfram,17:19,"computers,education,math,technology,code"
+"
+","
+","
+","
+","
+","
+",Teaching kids real math with computers,Conrad Wolfram,17:19,"computers,education,math,technology,code"
+"
+											So I believe [there is] critical reform
+											we have to do in computer-based math.
+											We have got to make sure
+											that we can move our economies forward,
+											and also our societies,
+											based on the idea that people can really feel mathematics.
+											This isn't some optional extra.
+											And the country that does this first
+											will, in my view, leapfrog others
+											in achieving a new economy even,
+											an improved economy,
+											an improved outlook.
+											In fact, I even talk about us moving
+											from what we often call now the ""knowledge economy""
+											to what we might call a ""computational knowledge economy,""
+											where high-level math is integral to what everyone does
+											in the way that knowledge currently is.
+											We can engage so many more students with this,
+											and they can have a better time doing it.
+											And let's understand:
+											this is not an incremental sort of change.
+											We're trying to cross the chasm here
+											between school math and the real-world math.
+											And you know if you walk across a chasm,
+											you end up making it worse than if you didn't start at all —
+											bigger disaster.
+											No, what I'm suggesting
+											is that we should leap off,
+											we should increase our velocity
+											so it's high,
+											and we should leap off one side and go the other —
+											of course, having calculated our differential equation very carefully.
+									","
+											Por eso creo que debemos hacer una reforma
+											fundamental en matemática informatizada.
+											Tenemos que asegurarnos
+											de poder impulsar nuestras economías,
+											y también nuestras sociedades,
+											basados en la idea de que la gente pueda sentir las matemáticas.
+											Esto no es algo opcional.
+											El país que lo haga primero
+											en mi opinión, aventajará a los otros
+											con una nueva economía e, incluso,
+											con una economía mejorada,
+											con mejores perspectivas.
+											De hecho, hablo incluso de pasar
+											de lo que llamamos a menudo economía del conocimiento
+											a lo que podríamos llamar economía del conocimiento computacional,
+											en la que la matemática de alto nivel esté integrada a todo
+											del mismo modo que lo está hoy el conocimiento.
+											Con esto podemos atraer a muchos más estudiantes
+											y al hacerlo pueden pasarla mejor.
+											Y, entendámoslo,
+											este no es un cambio de tipo incremental.
+											Estamos tratando de cruzar el abismo
+											que separa a la matemática escolar de la del mundo real.
+											Y saben que si caminamos por una grieta
+											terminamos peor que si no lo hubiéramos hecho en absoluto...
+											un gran desastre.
+											No, lo que estoy sugiriendo
+											es que debemos saltar,
+											deberíamos aumentar la velocidad
+											porque es alto
+											y debemos saltar de un lado e ir al otro...
+											por supuesto, tras calcular la ecuación diferencial con mucho cuidado.
+									","
+											Por isso, acredito que há que fazer uma reforma estrutural
+											no ensino da matemática baseado em computador.
+											Temos que ter a certeza
+											que podemos alavancar as nossas economias,
+											e também as nossas sociedades,
+											com base na ideia de que as pessoas podem realmente sentir a matemática.
+											Isto não é uma opção extra.
+											E o país que fizer isto primeiro
+											vai, na minha opinião, ultrapassar outros
+											em alcançar uma nova economia até
+											uma economia melhorada,
+											uma visão melhorada.
+											De facto, eu até falo de mudarmos
+											do que chamamos hoje a economia do conhecimento
+											para o que poderemos chamar a economia do conhecimento computacional,
+											onde a matemática de alto nível está integrada no que toda a gente faz
+											da forma que o conhecimento actualmente está.
+											Podemos cativar tantos mais estudantes com isto,
+											e eles podem divertir-se mais a fazê-lo.
+											E, é necessário perceber,
+											isto não é uma mudança incremental.
+											Estamos a tentar atravessar o abismo
+											entre a matemática da escola e a matemática do mundo real.
+											E sabem que se andarem sobre um abismo,
+											acabam por ficar pior do que como estavam no início —
+											é um desastre maior.
+											Não, o que estou a sugerir
+											é que devemos arrancar
+											devemos aumentar a nossa velocidade
+											para que seja elevada
+											e devemos saltar de um lado do abismo para o outro —
+											claro, tendo calculado a equação diferencial com muito cuidado.
+									","
+											Bu yüzden bilgisayar tabanlı matematikte
+											bir reform yapmamız gerektiğine inanıyorum.
+											Ekonomilerimizi ve toplumlarımızı
+											ileriye doğru taşımanın yolunun
+											insanların matematiği hissetmeleri
+											fikrinden geçtiği düşüncesi üzerine kurduğumuzdan emin olmalıyız.
+											Bu fazladan seçmeli bir katkı değildir.
+											Bunu ilk yapan ülke
+											benim görüşüme göre, diğer ülkeleri
+											yeni hatta gelişmiş bir ekomomi
+											ve ilerlemiş bir görünüm
+											elde etme konusunda çok geride bırakacaktır.
+											Hatta, şimdi bilgi ekonomisi dediğimiz ekonomiden
+											bilgisayarlı bilgi ekonomisi diyebileceğimiz
+											bir ekonomiye doğru geçebileceğimizden söz ediyorum,
+											bu ekonomide, nasıl şu an bilgi herkesin
+											yaptığı işin bir parçasıysa, yüksek matematik de işin bir parçası olacaktır.
+											Çok daha fazla öğrencinin ilgisini bu şekilde çekebiliriz,
+											ve bunu yaparken daha iyi zaman geçirebilirler.
+											Şunu anlamalıyız,
+											bu artımlı bir değişim değildir.
+											Biz burada okul matematiği ile
+											gerçek dünyadaki matematik arasındaki büyük uçurumdan atlamaya uğraşıyoruz.
+											Bilirsiniz, eğer bir uçurumda yürümeye kalkışırsanız,
+											hiç başlamasaydık daha iyiydi diyeceğiniz bir duruma düşersiniz.
+											Büyük bir felaket olur.
+											Hayır, benim önerdiğim
+											uçurumun üstünden sıçramalıyız,
+											hızımızı arttırmalı,
+											yükseldi işte,
+											bir yandan atlayıp öbürüne ulaşmalıyız.
+											Elbette, diferansiyel denklemizi çok dikkatli hesaplamamız gerekiyor.
+									","
+											Je crois en la réforme critique
+											que l'on doit faire pour les maths informatiques.
+											Nous devons faire en sorte
+											de pouvoir faire avancer l'économie,
+											et nos sociétés,
+											en se basant sur l'idée que les gens ressentent les mathématiques.
+											Ce n'est pas une option.
+											Le pays qui fera cela en premier
+											va, selon moi, distancer les autres
+											en établissant une nouvelle économie,
+											une économie améliorée,
+											une meilleure perspective.
+											En fait, je parle même de passer de
+											ce qu'on appelle l'économie de connaissance
+											à ce qu'on pourrait appeler l'économie de connaissance calculatoire,
+											où les maths de haut niveau sont intégrées à ce que tout le monde fait
+											de la même façon que la connaissance aujourd'hui.
+											On peut séduire tellement plus d'étudiants grâce à ça,
+											et ils peuvent y prendre plus de plaisir.
+											Et comprenons bien,
+											ce n'est pas un changement incrémental.
+											Nous essayons de franchir le gouffre
+											entre les maths scolaires et celles du monde réel.
+											Si vous essayez à moitié,
+											vous tombez dans une situation pire que si vous n'aviez rien fait —
+											un plus grand désastre.
+											Ce que je suggère
+											c'est de sauter le pas,
+											augmenter notre vitesse pour
+											qu'elle soit élevée,
+											et sauter le pas d'un coup —
+											en prenant le soin de calculer notre équation différentielle bien entendu.
+									","
+											Ich glaube also daran, dass wir eine entscheidende Reform
+											in Computer-basierter Mathematik angehen müssen.
+											Wir müssen sicherstellen,
+											dass unsere Wirtschaften sich weiterentwickeln,
+											auch unsere Gesellschaften,
+											basierend auf der Idee, dass die Menschen Mathematik wirklich fühlen können.
+											Das ist nicht einfach so ein optionales Extra.
+											Und das Land, das es zuerst tut,
+											wird in meinen Augen andere weit überholen
+											beim Erreichen einer neuen Wirtschaft,
+											einer besseren Wirtschaft,
+											besseren Perspektiven.
+											Tatsächlich spreche ich sogar von einer Weiterentwicklung
+											von dem, was wir heute als Wissensgesellschaft bezeichnen,
+											zu etwas, das wir eine Computer-Wissensgesellschaft nennen könnten,
+											in der Mathematik auf hohem Niveau ein integraler Bestandteil davon ist, was jeder tut,
+											auf die Art, wie es mit dem Wissen heute ist.
+											Wir können so viel mehr Schüler damit erreichen,
+											und sie hätten mehr Freude daran.
+											Und man muss verstehen,
+											dass das nicht eine schrittweise Veränderung sein kann.
+											Wir versuchen die Kluft hier
+											zwischen Schulmathematik und der realer Mathematik zu überwinden.
+											Und Sie wissen, wenn man über eine Kluft geht,
+											wird es viel schlimmer als wäre man gar nicht erst losgegangen –
+											größeres Desaster.
+											Nein, was ich vorschlage ist,
+											dass wir abspringen sollten,
+											wir sollten unsere Geschwindigkeit
+											so erhöhen,
+											dass wir von einer Seite abspringen und auf die andere kommen –
+											natürlich sollten wir unsere Differentialgleichung sehr sorgfältig durchgerechnet haben.
+									",Teaching kids real math with computers,Conrad Wolfram,17:19,"computers,education,math,technology,code"
+"
+","
+","
+","
+","
+","
+",Teaching kids real math with computers,Conrad Wolfram,17:19,"computers,education,math,technology,code"
+"
+											(Laughter)
+									","
+											(Risas)
+									","
+											(risos)
+									","
+											(Kahkahalar)
+									","
+											(Rires)
+									","
+											(Gelächter)
+									",Teaching kids real math with computers,Conrad Wolfram,17:19,"computers,education,math,technology,code"
+"
+","
+","
+","
+","
+","
+",Teaching kids real math with computers,Conrad Wolfram,17:19,"computers,education,math,technology,code"
+"
+											So I want to see
+											a completely renewed, changed math curriculum
+											built from the ground up,
+											based on computers being there,
+											computers that are now ubiquitous almost.
+											Calculating machines are everywhere
+											and will be completely everywhere in a small number of years.
+											Now I'm not even sure if we should brand the subject as math,
+											but what I am sure is
+											it's the mainstream subject of the future.
+											Let's go for it,
+											and while we're about it,
+											let's have a bit of fun,
+											for us, for the students and for TED here.
+									","
+											Por eso quiero ver
+											un plan de estudios matemáticos totalmente renovado,
+											construido desde cero,
+											basado en que las computadoras estén allí,
+											en computadoras ahora casi omnipresentes.
+											Las máquinas de cálculo están por doquier
+											y estarán absolutamente en todas partes en pocos años.
+											Ahora, yo no estoy seguro si deberíamos llamarla matemática
+											pero de lo que sí estoy seguro
+											es que se trata de la asignatura principal del futuro.
+											Vamos por ella.
+											Y mientras lo hacemos
+											divirtámonos un poco,
+											nosotros, los estudiantes y TED.
+									","
+											Então, eu quero ver
+											um currículo de matemática completamente renovado e alterado
+											construído da base para cima,
+											baseado no facto de os computadores existirem,
+											computadores que hoje em dia são quase omnipresentes.
+											As máquinas de calcular estão em todo o lado
+											e vão estar completamente em todo o lado dentro de poucos anos.
+											Agora, nem tenho a certeza de que devamos chamar a este tema matemática,
+											mas o que tenho a certeza é que
+											é o tema principal do futuro.
+											Vamos a ele.
+											E enquanto estamos prestes a fazê-lo,
+											tenhamos um pouco de diversão,
+											para nós, para os estudantes e para a TED aqui.
+									","
+											Görmek istediğim, kökünden tümüyle yenilenmiş,
+											bilgisayarların var olduğu hesaba katılarak
+											baştan yazılmış,
+											değiştirilmiş bir matematik müfredatı.
+											Bilgisayarlar artık neredeyse her yerde var,
+											hesap makineleri her yerdeler
+											ve kısa süre sonra tümüyle her yerde var olacaklar.
+											Artık bu konuya matematik adını verip vermemekte bile emin değilim,
+											fakat emin olduğum şey şudur,
+											geleceğin konusu işte bu olacaktır.
+											Bunun için uğraşalım,
+											ve hazır uğraşırken
+											biraz da eğlenelim.
+											kendimiz için, öğrenciler için ve TED için.
+									","
+											Je veux voir
+											un programme mathématique tout nouveau,
+											reconstruit depuis la base,
+											basé sur la présence des ordinateurs,
+											ordinateurs qui sont déjà omniprésents.
+											Les machines à calculer sont partout
+											et seront vraiment partout dans quelques années.
+											Je ne suis pas sûr que l'on doive appeler ça mathématiques,
+											mais ce dont je suis certain
+											c'est que c'est la matière dominante du futur.
+											Lançons nous!
+											Et tant qu'on y est,
+											amusons-nous un peu,
+											nous, les étudiants et TED ici.
+									","
+											Ich möchte also
+											einen komplett erneuerten, geänderten Mathematiklehrplan sehen,
+											von Grund auf neu aufgebaut,
+											auf die Verwendung von Computern gestützt,
+											Computer die jetzt fast allgegenwärtig sind.
+											Rechenmaschinen sind überall
+											und werden in ein paar Jahren wirklich überall sein.
+											Ich bin mir nicht einmal sicher, ob wir das Fach Mathematik nennen sollten,
+											aber worin ich mir sicher bin ist,
+											dass es das Hauptfach der Zukunft ist.
+											Lass es uns anpacken!
+											Und während wir dabei sind,
+											lass uns ein bisschen Spaß haben,
+											für uns, für die Schüler, und für TED hier.
+									",Teaching kids real math with computers,Conrad Wolfram,17:19,"computers,education,math,technology,code"
+"
+","
+","
+","
+","
+","
+",Teaching kids real math with computers,Conrad Wolfram,17:19,"computers,education,math,technology,code"
+"
+											Thanks.
+									","
+											Gracias.
+									","
+											Obrigado.
+									","
+											Teşekkürler.
+									","
+											Merci.
+									","
+											Danke.
+									",Teaching kids real math with computers,Conrad Wolfram,17:19,"computers,education,math,technology,code"
+"
+","
+","
+","
+","
+","
+",Teaching kids real math with computers,Conrad Wolfram,17:19,"computers,education,math,technology,code"
+"
+											(Applause)
+									","
+											(Aplausos)
+									","
+											(Aplausos)
+									","
+											(Alkışlar)
+									","
+											(Applaudissements)
+									","
+											(Applaus)
+									",Teaching kids real math with computers,Conrad Wolfram,17:19,"computers,education,math,technology,code"
+"
+","
+","
+","
+","
+","
+",Teaching kids real math with computers,Conrad Wolfram,17:19,"computers,education,math,technology,code"

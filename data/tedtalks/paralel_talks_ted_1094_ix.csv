@@ -1,0 +1,1780 @@
+es,tr,fr,de,title,speaker,duration,tags
+"
+","
+","
+","
+",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+											El primer robot del que voy a hablar se llama STriDER,
+											que significa ""Robot Experimental
+											Dinámico Trípode Auto-excitado"".
+											Es un robot de tres patas
+											inspirado en la Naturaleza.
+											Pero ¿alguien ha visto en la Naturaleza
+											un animal de tres patas?
+											Probablemente no. ¿Y entonces por qué lo llamamos
+											robot bioinspirado? ¿Cómo puede funcionar?
+											Pero antes de eso veamos la cultura popular.
+											Ya conocen la novela y la película ""La Guerra de los Mundos"" de H.G. Wells.
+											Y lo que ven aquí es
+											un videojuego muy popular.
+											En la ficción se describe a estas criaturas alienígenas
+											como robots de tres patas que aterrorizan a la Tierra.
+											Pero mi robot STriDER no se mueve de esta manera.
+									","
+											Anlatacağım ilk robotun adı: STriDER.
+											Uzun yazılışı: Özuyarımlı
+											Üç ayaklı Dinamik Deneysel Robot.
+											O üç ayaklı bir robot ve
+											doğadan esinlenildi.
+											Ama siz hiç doğada
+											üç ayaklı bir hayvan gördünüz mü?
+											Muhtemelen hayır. Peki neden buna
+											biyolojiden esinlenilmiş robot diyorum? Nasıl çalışır?
+											Ama bundan önce, popüler kültüre bakalım.
+											H.G. Wells'in ""Dünyaların Savaşı"" kitabını ve filmini bilirsiniz.
+											Ve burada gördüğünüz çok popüler bir
+											video oyunu.
+											Kurguda bu uzaylı yaratıkları, dünyayı tehdit eden
+											üç ayaklı robotlar olarak tanımlıyorlar.
+											Ama benim robotum, STriDER, böyle hareket etmiyor.
+									","
+											Alors, le premier robot que je vous présente se nomme STriDER.
+											Cela signifie Robot Expérimental ...
+											... Tripède Dynamique Auto-Stimulé
+											Il a trois pattes,
+											concept inspiré de la nature.
+											Mais avez-vous déjà rencontré quelque chose dans la nature...
+											qui ait trois pattes?
+											Probablement que non. Donc pourquoi est-ce que je dis
+											que c'est un robot inspiré de la nature? Comment fonctionnerait-il?
+											Mais avant tout cela, jettons un oeil à la culture-pop.
+											Vous connaissez H.G. Wells et son roman (et film) ""La Guerre Des Mondes"" (War of Worlds).
+											Ce que vous voyez ici est un jeu vidéo
+											très populaire.
+											Dans le roman, on y décrit les créatures extra-terrestres terrorisant la planète
+											comme des robots dotés de trois pattes.
+											Mais mon robot, STrider, ne se déplace pas de cette façon.
+									","
+											Also, der erste Roboter über den ich sprechen will heißt STriDER.
+											Das steht für Selbsterregter
+											Dreifüßiger Dynamischer Experimenteller Roboter.
+											Es ist ein Roboter, der drei Beine hat,
+											dies ist von der Natur inspiriert
+											Aber haben Sie schon einmal irgendetwas in der Natur gesehen
+											ein Tier gesehen, das drei Beine hat?
+											Wahrscheinlich nicht. Also, warum ich nenne ihn dann
+											einen biologisch inspirierten Roboter? Wie könnte das funktionieren?
+											Aber zuerst wollen wir einen Blick auf die Popkultur werfen.
+											Sie kennen also H.G. Wells Kieg der Welten als Buch und Film.
+											Und was Sie hier sehen können ist ein sehr beliebtes
+											Videospiel
+											In der Fiktion werden diese Außerirdischen
+											als dreifüßige Roboter, welche die Erde terrorisieren beschrieben.
+											Aber mein Roboter STriDER, bewegt sich nicht auf diese Weise.
+									",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+","
+","
+","
+",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+											Esto es una simulación dinámica animada.
+											Les enseñaré cómo funciona el robot:
+											Voltea su cuerpo 180 grados,
+											y balancea una pata entre las otras dos para detener la caída.
+											Así es como camina. Pero si nos observamos nosotros
+											los seres humanos, al caminar con dos piernas
+											lo que hacemos es que en realidad no usamos un músculo
+											para levantar así la pierna y andar como un robot, ¿verdad?
+											Lo que de verdad hacemos es balancear una pierna y detener la caída,
+											levantarnos de nuevo, balancear la pierna y detener la caída.
+											Usando nuestra propia dinámica, la física de nuestro cuerpo
+											igual que un péndulo.
+											A este concepto lo llamamos locomoción dinámica pasiva.
+											Lo que hacemos es levantarnos y convertir
+											energía potencial en energía cinética
+											energía potencial en energía cinética.
+											Es un proceso de caída constante.
+											Así, aunque no hay nada en la Naturaleza con este aspecto
+											en realidad nos hemos inspirado en la biología
+											y hemos aplicado a este robot los principios del caminar.
+											Por tanto es un robot biológicamente inspirado.
+									","
+											Bu bir gerçek dinamik simülasyon animasyonu.
+											Size robotun nasıl çalıştığını göstereceğim.
+											Vücudunu 180 derece döndürüyor.
+											Bir ayağını iki ayağının arasından sallayıp, düşüşü yakalıyor.
+											İşte böyle yürüyor. Fakat kendimize baktığımızda
+											insan, iki ayaklı yürüme,
+											yaptığınız böyle kas kullanarak ayağınızı kaldırıp,
+											robot gibi yürüme değil. Değil mi?
+											Yaptığınız aslında ayağınızı sallamak ve düşüşü yakalamak,
+											tekrar doğrul, salla ayağını ve düşüşü yakala.
+											Var olan dinamiğinizi kullanarak, vücudunuzun fiziğini,
+											aynen bir sarkaç gibi.
+											Biz buna pasif dinamik hareket konsepti diyoruz.
+											Doğrulurken yaptığınız,
+											potansiyel enerjiden kinetik enerjiye,
+											potansiyel enerjiden kinetik enerjiye.
+											Daimi bir düşüş işlemi.
+											Her ne kadar doğada buna benzeyen bir şey yoksa da,
+											biz gerçekten biyolojiden esinlendik
+											ve bu robota yürümenin prensiplerini
+											uyguladık, bu yüzden o biyolojiden esinlenilmiş bir robot.
+									","
+											Voici une animation de la simulation dynamique réelle.
+											Je vais vous montrer comment ce robot fonctionne.
+											Il fait pivoter son corps de 180 degrés.
+											Il balance la jambe centrale entre les deux autres pour rattraper la chute.
+											C'est donc de cette façon qu'il marche. Mais quand vous nous regardez
+											marcher, nous les êtres humains, avec deux jambes,
+											nous n'utilisons pas vraiment de muscle
+											pour lever une jambe et marcher comme un robot. Pas vrai?
+											Ce que nous faisons vraiment c'est lancer une jambe devant et arrêter la chute,
+											se relever, lancer l'autre jambre et rattraper la chute encore une fois.
+											Le tout, en utilisant notre dynamique interne, la physique de notre corps,
+											à la manière d'un pendule.
+											Nous appelons cela le concept de locomotion dynamique passive.
+											Ce que vous faites lorsque vous vous levez,
+											c'est de transformer de l'énergie potentielle en énergie cinétique...
+											potentielle à cinétique...
+											C'est un processus continu de chutes.
+											Donc même s'il n'y a rien dans la nature qui ressemble à cela,
+											nous avons vraiment été inspirés par la biologie
+											et nous avons appliqué les principes de la marche
+											à ce robot, d'où l'inspiration biologique.
+									","
+											Dies ist also, eine tatsächliche dynamisch simulierte Animation.
+											Ich werde ihnen nun zeigen wie der Roboter funktioniert.
+											Er dreht seinen Körper um 180 Grad.
+											Er schwingt einen Fuß zwischen den beiden andern hindurch, um den Fall abzufangen.
+											So geht er also. Aber sehen sie nur auf uns
+											die Menschen, wir gehen auf zwei Füßen,
+											wir benutzen nicht wirklich unsere Muskeln
+											um den Fuß zu heben und wie ein Roboter zu gehen. Stimmts?
+											Was wir tatsächlich tun, ist unseren Fuß nach vorne zu bewegen und den Fall zu abfangen,
+											wieder aufzustehen, den Fuß nach vorne zu bewegen und wieder den Fall zu abfangen.
+											Man bedient sich des im eigenen Körperbau eingebauten Kräftespiels,
+											genauso wie ein Pendel.
+											Wir nennen dies das Konzept der Fortbewegung durch passives Kräftespiel.
+											Was sie tun, wenn sie aufstehen ist,
+											potentielle Energie umwandeln zu kinetischer Energie,
+											potentielle Energie zu kinetischer Energie.
+											Es ist ein Prozess des ständigen Fallens.
+											Und obwohl es nichts in der Natur gibt, dass so aussieht wie das,
+											wurden wir tatsächlich von der Biologie inspiriert.
+											und weil wir die Gesetzmäßigkeiten des Gehens
+											an diesem Roboter angewendet haben, ist es ein biologisch inspirierter Roboter.
+									",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+","
+","
+","
+",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+											Lo que ven aquí es lo próximo que queremos hacer.
+											Queremos plegar las patas y dispararlo en un movimiento de largo alcance.
+											Entonces despliega sus patas... casi parece de Star Wars.
+											Al aterrizar amortigua el impacto y comienza a caminar.
+											Lo que ven por aquí, esto amarillo, no es un rayo de la muerte.
+											Es solo para ilustrar que si tienen cámaras
+											o diferentes tipos de sensores
+											ya que es alto, mide 1,80 metros,
+											puede ver por encima de obstáculos como arbustos y demás.
+									","
+											Burada gördüğünüz, bizim bir sonra yapmak istediğimiz.
+											Bacakları bükmek ve uzun mesafe hareketi için fırlatmak istiyoruz.
+											Ayaklarını yere basıyor, Yıldız Savaşları'na benziyor.
+											Yere indiğinde, sarsıntıyı emiyor ve yürümeye başlıyor.
+											Burada gördüğünüz, bu sarı şey, ölüm ışını değil.
+											Bu sadece size, eğer kameralarınız veya farklı
+											türde sensörleriniz olsa
+											çünkü o uzun, 1.8 metre uzunluğunda,
+											çalı gibi şeylerin ötesini görebildiğinizi gösterebilmek için.
+									","
+											Ce que vous voyez ici est ce que nous souhaitons faire par la suite.
+											Nous aimerions plier les jambes et propulser le tout en l'air pour des déplacements à longue portée.
+											And il pourra déployer ses jambes, comme dans La Guerre Des Étoiles (Star Wars).
+											À l'atterrissage, le choc est absorbé et il recommence à marcher.
+											Ce que vous voyez ici, la chose jaune, n'est pas un rayon de mort.
+											C'est simplement pour vous montrer que si vous avez des caméras
+											ou d'autres sortes de senseurs,
+											grâce à sa taille, 1,80 mètre,
+											vous pouvez voir au dessus d'obstacles comme des buissons et d'autres choses du genre.
+									","
+											Was Sie hier sehen können, ist was wir als nächstes tun wollen.
+											Wir wollen die Beine zusammenfalten und ihn über weite Distanzen schießen.
+											Und er verwendet die Beine, es sieht fast aus wie in Star Wars
+											um beim landen den Stoß abzufangen und er beginnt zu gehen.
+											Was sie hier sehen, dieses gelbe Ding, das ist kein Todesstrahl,
+											das wird nur benutzt um zu zeigen, dass wenn man Kameras hat
+											oder andere Sensoren
+											weil er hoch ist, er ist 1 Meter 80 groß,
+											man über Hindernisse über Büsche und dererlei hinwegsehen kann.
+									",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+","
+","
+","
+",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+											Tenemos dos prototipos.
+											La primera versión, al fondo, se llama STriDER I.
+											El del frente, más pequeño, es STriDER II.
+											El problema que tuvimos con STriDER I
+											es que tenía un cuerpo demasiado pesado. Tenía muchos motores
+											para alinear las articulaciones y demás.
+											Decidimos sintetizar un mecanismo
+											para librarnos de tantos motores, y con un único motor
+											podemos coordinar todos los movimientos.
+											Es una solución mecánica al problema, en lugar de emplear mecatrónica.
+											Ahora el cuerpo central es lo bastante ligero como para caminar en el laboratorio.
+											Este fue el primer paso que dio con éxito.
+											Aún no es perfecto
+											así que todavía tenemos mucho trabajo por delante.
+									","
+											İki tane modelimiz var.
+											İlk model, arkadaki, o STriDER I.
+											Öndeki, küçük olan ise STriDER II.
+											STriDER I'de yaşadığımız problem
+											vücudunun çok ağır olmasıydı. Çok fazla motor vardı,
+											bilirsiniz, eklemleri hizalama ve o tür şeyler.
+											Bu yüzden mekanik bir işleyiş sentezlemeye kadar verdik,
+											bu sayede tüm motorlardan kurtulacak ve bir motorla
+											tüm hareketleri koordine edecektik.
+											Bu, mekatronik kullanmak yerine problemin mekanik bir çözümü.
+											Artık üst vücut, robotun laboratuvarda yürüyebileceği kadar hafif.
+											Bu ilk başarılı adımdı.
+											Halen mükemmel değil. Kahvesi yere dökülüyor,
+											daha yapacak çok işimiz var.
+									","
+											Nous avons donc deux prototypes.
+											La première version, en arrière, c'est STriDER I.
+											En avant, la plus petite, c'est STriDER II.
+											Le problème que nous avons rencontré avec STriDER I est que
+											son corps était trop lourd. Nous avions tant de moteurs,
+											vous savez, pour aligner les joints et ce genre de choses.
+											Alors nous avons décidé de créer un mécanisme mécanique
+											pour éliminer tous les moteurs et donc à l'aide d'un seul
+											pouvoir coordonner tous les mouvements.
+											C'est une solution mécanique à un problème, à la place d'utiliser la mécatronique.
+											Avec ce changement, le corps du haut est suffisamment léger pour marcher dans un laboratoire.
+											Ce fut la première étape véritablement réussie.
+											Ce n'est pas encore parfait.
+											Nous avons encore bien du pain sur la planche.
+									","
+											Wir halben also zwei Prototypen.
+											Die erste Version, die Hintere, das ist STriDER I.
+											Der Vordere, der kleinere, ist STriDER II.
+											Das Problem, welches wir mit STriDER I hatten ist,
+											dass das Gehäuse einfach zu schwer war. Wir hatten zu viele Motoren,
+											sie wissen schon, welche die Gelenke adjustierten und dergleichen.
+											Also entschieden wir uns einen mechanischen Mechanismus einzubauen
+											mit dessen Hilfe wir und all die Motoren sparen konnten. Und mit einem einzigen Motor
+											können wir all diese Bewegungen koordinieren.
+											Wir benutzen Mechanik, um dieses Problem zu lösen anstelle von Mechatronik.
+											Mit dieser Anpassung ist der obere Teil des Gehäuses leicht genug um im Labor zu gehen.
+											Dies war der erste äußerst erfolgreiche Schritt.
+											Er ist noch nicht perfekt. Sein Kaffee fällt hinunter,
+											wir haben als noch eine Menge Arbeit vor uns
+									",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+","
+","
+","
+",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+											El segundo robot del que quiero hablar se llama IMPASS:
+											""Plataforma Móvil Inteligente con Sistema Activo Radial"".
+											Es un robot con un híbrido de ruedas y patas.
+											Se puede entender como una rueda sin llanta
+											o una rueda radial.
+											pero los radios entran y salen del eje individualmente
+											así que es un híbrido de rueda y patas.
+											Literalmente estamos reinventando la rueda.
+											Permítanme demostrarles cómo funciona.
+											En este video utilizamos una estrategia
+											que llamamos estrategia reactiva.
+											Usando solamente los sensores en los extremos
+											intenta caminar sobre un terreno cambiante
+											un terreno blando que se deforma y cambia
+											y solo con la información táctil
+											consigue cruzar por este tipo de terreno.
+									","
+											Tanıtmak istediğim ikinci robotun adı IMPASS.
+											Uzun yazılışı: Uyarılan Tekerlek Sistemli Akıllı Hareketlilik Platformu.
+											O, tekerlek-bacaklı melez bir robot.
+											Dışı olmayan bir tekerlek düşünün,
+											veya bir jant teli.
+											fakat teller göbekten ayrı ayrı girip çıkıyorlar. İşte o
+											tekerlek-bacaklı bir melez.
+											Kelimenin tam anlamıyla tekerleği yeniden
+											icat ediyoruz. Nasıl çalıştığını göstereyim.
+											Bu videoda duyarlı yaklaşma dediğimiz
+											bir yaklaşımı kullanıyoruz.
+											Sadece ayaktaki dokunsal sensörleri kullanarak,
+											değişken bir arazide yürümeye çalışıyor,
+											basılınca değişen yumuşak bir arazi.
+											Sadece dokunsal bilgiyle
+											bu tür arazilerden başarıyla geçiyor.
+									","
+											Le deuxième robot dont je veux vous parler s'appelle IMPASS.
+											Ça signifie Platerforme de Mobilité Intelligente avec un Système de Tiges Réactives. (trad. libre)
+											C'est donc un robot hybride patte-roue.
+											Pensez à une roue sans contour,
+											seulement avec les rayons.
+											Par contre, les rayons bougent individuellement par rapport au moyeu central.
+											C'est donc un hybride roue-jambe.
+											Dans les faits, nous réinventons la roue ici!
+											Laissez-moi vous montrer comment il fonctionne.
+											Dans ce vidéo nous utilisons une approche
+											appelée Approche Réactive.
+											En utilisant uniquement les capteurs tactiles sur les pieds,
+											il tente de se déplacer sur un terrain changeant,
+											un terrain flexible qui est modifié lorsqu'il s'appuie dessus.
+											Et simplement par l'information tactile,
+											Il parvient à traverser ce genre de terrain avec succès.
+									","
+											Der zweite Roboter über den ich sprechen möchte heißt IMPASS.
+											Das steht für Intelligentes Mobiles Plattform System mit Beweglichen Speichen.
+											Es ist also ein Rad-Fuß-Hybrid-Roboter.
+											Denken Sie an ein felgenloses Rad
+											oder ein Speichenrad
+											Aber die Speichen bewegen sich unabhängig voneinander in und aus der Radnabe
+											Er ist also ein Rad-Fuß-Hybrid.
+											Wir erfinden hier tatsächlich das Rad neu.
+											Ich werde ihnen zeigen wie er funktioniert.
+											Also, in diesem Video zeigen wir eine Methode,
+											die reaktives Verfahren genannt wird.
+											Lediglich die Berührungssensoren an den Füßen benutzend,
+											versucht er über sich veränderndes Terrain zu gehen,
+											ein weiches Terrain das sich wegrücken und verändern lässt.
+											Und nur durch ertastete Informationen
+											überquert er derartiges Terrain.
+									",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+","
+","
+","
+",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+											Pero cuando encuentra un terreno extremo,
+											en este caso el obstáculo mide más del triple
+											de altura que el robot,
+											entonces entra en modo deliberado,
+											en el cual usa un detector láser
+											y un sistema de cámaras para medir el obstáculo
+											y planifica cuidadosamente el movimiento de los radios
+											y los coordina de manera que exhibe
+											esta movilidad tan impresionante.
+											Probablemente no hayan visto aún nada como esto.
+											Es un robot de muy alta movilidad
+											que hemos desarrollado, llamado IMPASS.
+											¡Ah! ¿no es genial eso?
+									","
+											Ama, çok zorlu bir araziyle karşılaştığında,
+											bu durumda, bu engel robotun boyunun
+											üç katı yükseklikte,
+											Lazer uzaklıkölçer ve kamera sistemleri
+											kullanarak, engeli ve boyunu
+											belirlemek için önceden planlanmış bir moda geçiyor,
+											ve bu çok çok etkileyici hareketliliği göstermek için
+											ayakların hareketini dikkatlice planlıyor
+											ve koordine ediyor.
+											Muhtemelen hiç böyle bir şey görmemişsinizdir.
+											IMPASS adını verdiğimiz
+											son derece hareketli bir robot.
+											Ah, harika değil mi?
+									","
+											Par contre, lorsqu'il rencontre un obstacle majeur,
+											dans ce cas-ci c'est trois fois sa propre hauteur
+											qu'il rencontre,
+											alors il se met en mode délibéré
+											où il utilise une sonde de distance au laser
+											et des caméras pour identifier l'obstacle et sa taille,
+											afin de planifier précisément le déplacement de ses tiges
+											et coordonner le tout pour parvenir
+											à ce genre de mobilité impressionnante.
+											Vous n'avez probablement rien vu de ce genre dans le monde réel.
+											Il s'agit d'un robot à mobilité très élevée
+											que nous avons conçu et qui se nomme IMPASS.
+											N'est-ce pas génial?
+									","
+											Aber wenn er sehr extremes Terrain überqueren soll,
+											in diesem Fall hat das Hindernis mehr als die dreifache
+											Höhe des Roboters,
+											schaltet der er auf einen Planungs-Modus um,
+											in diesem verwendet er eine LASER-Abstandsmessgerät
+											und Kameras, um das Hindernis und dessen Größe zu erfassen
+											und dann plant er vorsichtig die Bewegung der Radspeichen
+											und stimmt diese so auf einander ab, dass er sich auf diese
+											ausnehmend beeindruckende Weise fortbewegen kann.
+											Sie haben wahrscheinlich bis jetzt nichts dergleichen gesehen.
+											Dies ist ein hoch mobiler Roboter,
+											den wir entwickelt und IMPASS genannt haben
+											Ah! ist das nicht cool?
+									",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+","
+","
+","
+",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+											Cuando conducimos un coche
+											para dirigirlo utilizamos un método
+											llamado ""dirección Ackermann"".
+											Las ruedas delanteras giran así.
+											En muchos robots pequeños con ruedas
+											se usa un método llamado ""dirección diferencial""
+											en el que las ruedas izquierda y derecha giran en sentidos opuestos.
+											Con IMPASS podemos hacer muchos tipos de movimientos.
+											Por ejemplo, en este caso, aunque ambas ruedas se conectan
+											al mismo eje, rotando con la misma velocidad angular,
+											simplemente cambiamos la longitud de los radios,
+											el diámetro efectivo, y así gira a izquierda y derecha.
+											Estos son solo algunos ejemplos
+											de todo lo que podemos hacer con IMPASS.
+									","
+											Arabanızı sürerken,
+											direksiyondayken, Ackermann adı verilen
+											direksiyon sistemini kullanırsınız.
+											Ön tekerlekler böyle döner.
+											Bu gibi küçük tekerlekli robotların çoğunda
+											diferansiyel yönlendirme denilen, sağ ve sol
+											tekerleklerin ters yöne döndüğü bir metot kullanılır.
+											IMPASS için çok çok farklı hareketler yapabiliriz.
+											Örneğin, bu durumda, her ne kadar sağ ve sol tekerlek tek dingille
+											birbirine bağlıysa da, aynı hız açısıyla dönüyorlar.
+											Biz basitçe bacağın yüksekliğini değiştiriyoruz.
+											Bu da çapı etkiliyor, ve o sola dönüyor, sağa dönüyor.
+											İşte bunlar IMPASS ile yapabildiğimiz
+											zarif şeylere birkaç örnek.
+									","
+											Lorsque vous conduisez votre véhicule,
+											lorsque vous effectuez un virage, vous utilisez une méthode appelée
+											virage Ackermann (Ackermann steering).
+											Les roues avant se déplacent ainsi.
+											Pour la plupart des petits robots dotés de roues,
+											la méthode utilisée est plutôt celle de virage différentiel
+											où les roues droite et gauche tournent dans des directions opposées.
+											Pour IMPASS, nous pouvons effectuer plusieurs types de déplacement.
+											Dans cet exemple, même si les roues droite et gauche sont connectées
+											par un moyeu unique, tournant à la même vitesse angulaire,
+											en modifiant seulement la longueur des tiges,
+											on en modifie le diamètre et donc il tourne à gauche, tourne à droite...
+											Voilà donc quelques exemples des jolies choses
+											que nous pouvons effectuer avec IMPASS.
+									","
+											Wenn sie mit dem Auto fahren,
+											wenn Sie ihr Auto lenken, verwenden sie eine Methode,
+											welche Achsschenkellenkung genannt wird.
+											Die Vorderräder rotieren auf diese Weise.
+											Für die meisten kleinrädrigen Roboter
+											wird eine Methode verwendet, die man Differentiallenkung nennt,
+											bei ihr drehen sich das rechte und das linke Rad in verschiedene Richtungen.
+											IMPASS kann sich verschiedenster Arten der Fortbewegung bedienen.
+											Zum Beispiel: In diesem Fall, obwohl das linke und das rechte Rad mit einer
+											einzigen Achse verbunden sind und sich daher gleich schnell drehen,
+											ändern wir einfach die Länge der Speiche,
+											das beeinflusst den Durchmesser und dann dreht er sich links und dreht sich nach rechts.
+											Dies sind nur Beispiele einiger netter Dinge,
+											die wir tun können mit IMPASS.
+									",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+","
+","
+","
+",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+											Este robot se llama CLIMBeR (escalador)
+											""Robot con patas de comportamiento inteligente adaptado suspendido por cable""
+											He hablado con muchos científicos del laboratorio de Propulsores de la NASA
+											son famosos sus vehículos exploradores de Marte
+											y los científicos, los geólogos siempre me dicen
+											que los lugares más interesantes para la ciencia
+											son siempre los precipicios
+											pero los exploradores actuales no llegan allí.
+											Esto nos inspiró a construir un robot
+											capaz de escalar un entorno estructurado como un precipicio
+									","
+											Bu robotun adı CLIMBeR,
+											Kablolu Bacaklı Akıllı Eşleştirme Davranışlı Robot
+											Birçok NASA JPL bilim insanıyla konuşuyorum,
+											JPL'de Mars gezginleriyle meşhurlar.
+											Bilim insanları ve jeologlar her daim bana
+											gerçekten ilginç bilimin, bilimce-zengin
+											yerlerin hep kayalıklarda olduğunu söylüyorlar.
+											Fakat mevcut gezginler oralara gidemiyor.
+											Bundan esinlenerek, yapısal kayalıklara
+											tırmanabilen bir robot yapmak istedik.
+									","
+											Ce robot est nommé CLIMBeR, pour
+											Robot Jambiste Suspendu à Comportement Mimétique Intelligent (trad. libre)
+											Nous avons parlé à plusieurs scientifiques du JPL de la NASA (note: Jet Propulsion Laboratory);
+											où ils sont très connus pour avoir conçu les véhicules d'exploration de Mars.
+											Et ces scientifiques, géologues, me disent toujours
+											que le vrai côté intéressant de la science,
+											les sites riches en informations géologiques sont toujours les falaises.
+											Mais les véhicules d'exploration actuels ne peuvent s'y rendre.
+											Donc, en nous basant là dessus, nous avons souhaité concevoir un robot
+											capable de grimper un environnement structuré en falaise.
+									","
+											Dieser Roboter heißt CLIMBeR
+											Kabel-aufgehängter Intelligenter Passend Verhaltender Roboter mit Gliedmaßen.
+											Ich habe also mit vielen NASA JPL Wissenschaftlern gesprochen,
+											JPL ist berühmt für die Mars Rovers.
+											Und die Wissenschaftler, die Geologen sagen mir immer,
+											dass die tasächlich interessante Wissenschaft,
+											die wissenschaftlich interessanten Gebiete, immer an Klippen sind.
+											Aber die jetzigen Rover können diese nicht erreichen,
+											Also, machte ich mich, inspiriert von dem was sie wollten, daran einen Roboter zu bauen,
+											der Klippen mit Strukturen erklettern kann.
+									",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+","
+","
+","
+",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+											Y este es CLIMBeR.
+											Veamos qué hace. Tiene tres patas, y aunque no se ve bien
+											tiene un cabrestante con un cable por encima.
+											Intenta averiguar el mejor lugar para poner un pie
+											y cuando consigue averiguarlo
+											calcula en tiempo real la distribución de fuerzas
+											cuánta fuerza necesita ejercer sobre la superficie
+											para no volcar ni resbalar.
+											Cuando se ha estabilizado levanta una pata
+											y con ayuda del cabrestante puede seguir escalando.
+											También sirve para misiones de búsqueda y rescate.
+									","
+											İşte bu CLIMBeR.
+											Peki ne yapıyor, üç ayağı var. Muhtemelen görmek zordur,
+											ama tepesinde bir vinç ve kablo var.
+											Ve ayağını koyacağı en uygun yeri bulmaya çalışıyor.
+											Ve onu bulur bulmaz,
+											eş zamanlı olarak, güç dağılımını hesaplıyor.
+											Yüzeye ne kadar güç uygulamalı ki
+											devrilmesin ve kaymasın.
+											Onu dengelediği an, ayağını kaldırır,
+											ve vinçle birlikte bu tür şeylere tırmanabilir.
+											Ayrıca arama kurtarma uygulamaları için.
+									","
+											Voici donc CLIMBeR.
+											Alors ce qu'il fait: il a trois jambes. C'est probablement difficile à voir,
+											mais il a aussi un treuil et un câble sur le dessus.
+											Il tente alors de trouver le meilleur appui où placer son pied
+											et lorsqu'il a trouvé,
+											il calcule en temps réel la distribution des forces.
+											Quelle force il doit exercer sur la surface
+											pour ne pas glisser ni perdre l'équilibre.
+											Une fois stabilisé, il lève un autre pied
+											et alors, grâce au treuil, il peut grimper ce genre de paroi.
+											Aussi utile pour des missions de recherche et sauvetage.
+									","
+											Also, dies ist CLIMBeR.
+											So funktioniert er: er hat drei Beine. Wahrscheinlich ist es schwer zu erkennen,
+											aber er hat eine Seilwinde und ein Seil an der Oberseite
+											und er versucht die beste Stelle für seinen Fuß zu finden.
+											Wenn er sie gefunden hat
+											dann errechnet er fast gleichzeitig die Kräfteverteilung,
+											und wie viel Kraft er auf die Oberfläche übertragen muss
+											um nicht wegzukippen oder abzurutschen.
+											Wenn er sicher steht, hebt er ein Bein
+											und mithilfe der Seilwinde ist es möglich, derartige Oberflächen hinauf zu klettern.
+											Auch Finden-und-Retten-Missionen.
+									",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+","
+","
+","
+",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+											Hace cinco años estuve trabajando en el laboratorio de Propulsores de la NASA
+											durante el verano como investigador contratado
+											y ya tenían un robot de seis patas llamado LEMUR.
+											Y en él se basa este otro. Este robot se llama MARS.
+											""Sistema robótico con múltiples miembros"". Es un robot hexápodo.
+											Hemos desarrollado un planificador de movimientos adaptativo.
+											Hemos conseguido una capacidad de carga interesante.
+											A los alumnos les gusta divertirse. Y aquí se ve...
+											...que está caminando por un terreno no estructurado.
+											Intenta caminar sobre roca sólida
+											dentro del área delimitada
+											pero según la humedad y el grosor del grano de la arena
+											cambia la manera en que se hunden las patas.
+											Intenta adaptar sus movimientos para atravesar estos terrenos.
+											Y también hace cosas graciosas. Como pueden imaginar,
+											recibimos a muchos visitantes en nuestro laboratorio.
+											Cuando tenemos visita, MARS se acerca al teclado
+											y teclea ""Hola, me llamo MARS""
+											""Bienvenidos a RoMeLa""
+											el ""Laboratorio de Mecanismos Robóticos de Virginia Tech"".
+									","
+											Beş sene önce yazın gerçekten NASA JPL'de
+											fakülte üyesi olarak çalıştım.
+											LEMUR adı verilen altı ayaklı bir robotları vardı.
+											Bu aslında ona dayalı. Bu robotun adı MARS,
+											Çok Uzantılı Robotik Sistem. O altı ayaklı bir robot.
+											Uyarlamalı yürüyüş planlayıcımızı geliştirdik.
+											Orada aslında çok ilginç bir yük dağılımı var.
+											Öğrenciler eğlenmeyi sever. Ve burada yapısal olmayan
+											bir arazide yürürken görüyorsunuz.
+											Biçimsiz bir arazide yürümeye çalışıyor,
+											kumlu bölge,
+											fakat nem miktarı ve kum tanelerinin büyüklüğüne göre
+											ayağın toprağa batma modeli değişir.
+											Bu tür şeylerin üzerinden başarıyla geçmek için yürüyüşünü ayarlamaya çalışıyor.
+											Ayrıca, eğlenceli şeyler de yapıyor, tahmin edersiniz.
+											Laboratuvarımıza çok ziyaretçi geliyor.
+											Ziyaretçiler gelince MARS, bilgisayarın başına geçip
+											yazmaya başlıyor: ""Merhaba, benim adım MARS.""
+											Virginia Tech'teki RoMeLa,
+											Robotik Mekanizmalar Laboratuvarı'na hoşgeldiniz.
+									","
+											Il y a cinq ans j'ai en fait travaillé au JPL de la NASA
+											durant l'été comme membre de la faculté.
+											Et ils avaient déjà un robot à 6 pattes nommé LEMUR.
+											Donc ceci s'en inspire. Il s'appelle MARS,
+											pour Système Robotique Multi-Pattes. Il s'agit donc d'un hexapode.
+											Nous avons conçu une planification de démarche adaptative.
+											Vous voyez ici une charge utile fort intéressante.
+											Les étudiants aiment bien avoir s'amuser. Et vous voyez ici qu'il
+											marche sur un terrain non-structuré.
+											Il tente de marcher sur un terrain grossier,
+											une surface sablonneuse,
+											mais selon l'humidité du terrain et la taille des grains de sable,
+											le modèle d'enfoncement du pied varie.
+											Donc il tente d'adapter sa démarche pour traverser efficacement ce genre de choses.
+											Il peut aussi faire des trucs rigolos, comme vous pouvez l'imaginer.
+											Nous recevons tant de visiteurs au labo,
+											que lorsqu'ils arrivent, MARS se déplace jusqu'à l'ordinateur,
+											et commence à écrire ""Bonjour, mon nom est MARS.
+											Bienvenue à RoMeLa,
+											le Laboratoire des Mécanismes Robotiqes à Virginia Tech.""
+									","
+											Vor fünf Jahren arbeitete ich tatsächlich bei NASA JPL,
+											während eines Sommerpraktikums.
+											Und dort gab es schon damals einen sechsfüßigen Roboter namens LEMUR.
+											Also dieser hier basiert tatsächlich darauf. Dieser Roboter heißt MARS,
+											Multi-Fortsatz Roboter System. Er ist also ein sechsfüßiger Roboter.
+											Wir haben unseren anpassungsfähigen Gang-Planer entwickelt.
+											Hier haben wir eine wirklich interessante Ladung.
+											Die Studenten machen gern Blödsinn. Und hier können sie sehen wie er
+											über unstrukturiertes Terrain geht.
+											Er versucht auf grobkörnigem Terrain zu gehen,
+											einem Sandfeld,
+											abhängig von der Feuchtigkeit oder der Größe der Sandkörner
+											verändert sich die das Rechenmodell für das Einsinken.
+											Daher versucht er seinen Gang anzupassen um derartiges Terrain zu überqueren.
+											Und er kann auch ein paar lustige Sachen. Wie Sie sich sicher vorstellen können,
+											haben wir eine Menge Besucher in unserem Labor.
+											Wenn die Besucher also kommen, geht Mars zum Computer,
+											beginnt zu schreiben: ""Hallo mein Name ist MARS.
+											Willkommen bei RoMeLa,
+											dem Roboter Mechanik Labor von Virgina Tech.""
+									",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+","
+","
+","
+",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+											Este es un robot ameboide.
+											No hay tiempo ahora para entrar en detalles técnicos
+											pero les mostraré algunos de los experimentos.
+											Estos son algunas de las primeras pruebas de viabilidad.
+											Almacenamos energía potencial en la piel elástica para hacerlo moverse.
+											O hacemos que se mueva empleando tensores activos
+											hacia adelante y atrás. Se llama ChIMERA.
+											También hemos trabajado con algunos científicos
+											e ingenieros de la Universidad de Pensilvania
+											para idear una versión accionada químicamente
+											de este robot ameboide
+											Hacemos esto por aquí...
+											...y como por arte de magia se mueve.
+									","
+											Bu robot bir amip robotu.
+											Bunun teknik detaylarına girecek zamanımız yok,
+											size sadece birkaç deney göstereceğim.
+											Bunlar, ilk yapılabilirlik deneylerinden bazıları.
+											Hareket etmesi için esnek deride potansiyel enerji saklıyoruz.
+											Veya ileri ve geri gitmesi için,
+											aktif gerilim kabloları kullanıyoruz. Onun adı ChIMERA.
+											Ayrıca, UPenn'den bazı bilim insanlarıyla ve
+											mühendislerle bu amip robotun
+											kimyasal yolla harekete geçen bir versiyonu
+											üzerinde çalışıyoruz.
+											Bir şeye bir şey yapıyoruz,
+											Ve tıpkı sihir gibi, o hareket ediyor. Damla.
+									","
+											Ceci est un robot-amibe.
+											Nous n'avons pas assez de temps pour entrer dans les détails techniques,
+											je vais simplement vous montrer quelques expériences.
+											Donc voici quelques uns des tests de faisabilité.
+											Nous emmagasinons de l'énergie potentielle dans la peau élastique pour le faire bouger.
+											Ou bien on utilise un cordon à tension active pour le faire se déplacer
+											d'avant en arrière. Son nom est ChiMERA.
+											Nous avons également travaillé avec quelques chercheurs
+											et ingénieurs de l'UPenn (Université de Pennsylvanie)
+											pour aboutir avec une version réagissant chimiquement
+											de ce robot-amibe.
+											Nous faisons quelque chose à quelque chose
+											et, comme par magie, il bouge! Le blob!
+									","
+											Dies Roboter ist ein Amöben-Roboter.
+											Nun, wir haben nicht genug Zeit um uns mit den technischen Details zu beschäftigen,
+											Ich will ihnen einfach ein paar der Experimente zeigen.
+											Dies ist eine frühe Machbarkeitsstudie.
+											Wir speichern potentielle Energie in der elastischen Hülle und versetzen ihn in Bewegung.
+											oder wir benutzten ein Seil unter Spannung, um ihn
+											vorwärts und rückwärts zu bewegen. Er heißt ChIMERA.
+											Wir haben auch mit ein Wissenschaftlern
+											und Ingenieuren vom UPenn zussanmmengearbeitet
+											um eine chemisch gesteuerten Version
+											dieses Amöben-Roboters zu entwickeln.
+											Wir vermischen also etwas mit irgendetwas anderem
+											und wie durch Magie, bewegt er sich, der Tropfen.
+									",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+","
+","
+","
+",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+											Este robot es un proyecto muy reciente. Se llama RAPHaEL.
+											""Mano robótica propulsada por aire con ligamentos elásticos""
+											Hay muchas manos robóticas realmente buenas en el mercado.
+											El problema es que son demasiado caras, decenas de miles de dólares.
+											Por eso no son muy prácticas para aplicaciones protésicas
+											ya que no son asequibles.
+											Queríamos abordar este problema de una manera diferente
+											en lugar de usar motores eléctricos y actuadores electromecánicos
+											usamos aire comprimido.
+											Hemos desarrollado estos nuevos actuadores para articulaciones.
+											Con ellos es posible cambiar la fuerza
+											con solo cambiar la presión de aire
+											y llega a ser capaz de aplastar una lata vacía de refresco
+											y de sostener objetos frágiles como un huevo crudo
+											o como en este caso, una lámpara.
+											Lo mejor es que solo costó 200 dólares hacer el primer prototipo.
+									","
+											Bu robot yeni projelerden biri. Adı RAPHaEL.
+											Havayla Çalışan Esnek Bağlı Robotik El.
+											Piyasada bir sürü zarif, çok iyi robotik eller var.
+											Sorun ise onların çok pahalı olması, onbinlerce dolar.
+											Protez uygulamaları için muhtemelen çok pratik değiller,
+											çünkü satın alınabilir değiller.
+											Çok farklı bir yönden bu sorunun üstesinden geleceğiz.
+											Elektrikli motorlar, elektromekanik çalıştırıcılar yerine
+											sıkıştırılmış hava kullanıyoruz.
+											Bu acayip çalıştırıcıları eklemler için geliştirdik.
+											Uyumludur. Sadece hava basıncını değiştirerek
+											gerçekten gücü değiştirebilirsiniz.
+											Ve gerçekten boş bir teneke kutuyu ezebilir.
+											Bu pişmemiş yumurta gibi çok hassas objeleri tutabilir
+											veya bu durumda bir ampülü.
+											En güzel tarafı ise, bu ilk modeli yapmak sadece 200 dolar tuttu.
+									","
+											Ce robot est un très récent projet. Il se nomme RAPHaEL.
+											Main Robotique à Ligaments Élastiques Alimenté à l'Air.
+											Il existe plusieurs mains robotisées très intéressantes sur le marché.
+											Le problème c'est qu'elles sont trop chères, dans les dizaines de milliers de dollars.
+											Donc, pour des prothèses, ce n'est probablement pas vraiment pratique,
+											car ce n'est pas abordable.
+											Nous voulions attaquer ce problème d'un angle différent.
+											À la place d'utiliser des moteurs électriques, déclencheurs électromécaniques
+											nous utilisons de l'air comprimé.
+											Nous avons développé ces nouveaux déclencheurs pour les jointures.
+											C'est flexible, vous pouvez changer la force
+											et modifiant simplement la pression d'air.
+											Donc vous pouvez écraser une canette d'aluminium vide.
+											Vous pouvez également saisir des objets délicats tel un oeuf cru,
+											ou dans ce cas une ampoule électrique.
+											Le plus beau: le prototype a coûté seulement 200 dollars à fabriquer.
+									","
+											Dieser Roboter ist ein sehr neues Projekt. Er heißt RAPHaEL.
+											Robotische LuftBetriebene Hand mit Elastischen Fortsätzen
+											Es gibt sehr viele sehr nette, sehr gute Roboterhände auf dem Markt.
+											Das einzige Problem ist, dass sie zu teuer sind, zehntausende Dollars.
+											Daher sind sie für die Verwendung als Prothesen nicht all zu praktikabel,
+											weil sie nicht erschwinglich sind.
+											Wir wollen dieses Problem auf eine sehr andere Weise angehen.
+											Anstelle von elektrischen Motoren und elektrischen Bedienteilen
+											verwenden wir Druckluft.
+											Wir entwickelten diese neuartigen Steuerelemente für Gelenke.
+											Sie sind nachgiebig. Man kann tatsächlich die Kraft verändern,
+											indem man einfach den Luftdruck ändert.
+											Und er kann tatsächlich eine Getränkedose zerdrücken.
+											Er kann sehr zerbrechliche Objekte aufheben, wie ein rohes Ei
+											oder in diesem Fall eine Glühbirne.
+											Und das Beste ist, es hat nur 200$ gekostet den ersten Prototypen herzustellen.
+									",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+","
+","
+","
+",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+											Este robot pertenece a una familia de robots serpiente
+											que llamamos HyDRAS,
+											""Serpiente Robótica Articulada con Hiper Grados de Libertad"".
+											Es un robot capaz de escalar estructuras.
+											Esto es un brazo de HyDRAS.
+											Es un brazo robótico con doce grados de libertad
+											y lo mejor es la interfaz de usuario.
+											Este cable de aquí es una fibra óptica
+											y esta alumna, probablemente usándolo por primera vez,
+											es capaz de articularlo de muchas maneras.
+											En Irak por ejemplo, en zonas de guerra
+											se encuentran bombas cerca de la carretera.
+											Se suelen enviar vehículos radiocontrolados con brazos robóticos.
+											Lleva mucho tiempo y dinero
+											adiestrar a un operador para manejar esos brazos tan complejos
+											y en este otro caso resulta muy intuitivo.
+											Este otro alumno, quizás usándolo por primera vez, puede hacer
+											manipulaciones complejas de objetos.
+											Así de fácil, es muy intuitivo.
+									","
+											Bu robot aslında yılan robotlar ailesinden,
+											adı HyDRAS.
+											Yüksek Serbestlik Dereceli Robotik Eklemli Yılankavi.
+											Bu, yapılara tırmanabilen bir robot.
+											Bu HyDRAS'ın kolu.
+											O, 12 serbestlik dereceli robotik bir kol.
+											Ama harika tarafı kullanıcı arayüzüdür.
+											Şurdaki kablo, optik fiber bir kablodur.
+											Bu öğrenci, muhtemelen ilk kez kullanıyor,
+											ama onu çok farklı şekillerde hareket ettirebiliyor.
+											Örneğin Irak'ta, bilirsiniz, savaş bölgesi,
+											yol kenarı bombaları var. Şu anda kolu olan
+											uzaktan kumandalı araçları yolluyorsunuz.
+											Öyle karmaşık bir kolu çalıştırmak için,
+											birini eğitmek çok zaman alıyor ve çok pahalı.
+											Bu durumda ise çok sezgisel.
+											Bu öğrenci, muhtemelen ilk kez kullanıyor, çok karmaşık yönlendirmeler yapıyor,
+											nesneleri kaldırıyor, hareket ettiriyor,
+											aynen böyle, çok sezgisel.
+									","
+											Ce robot fait partie d'une famille de robots serpent
+											que l'on appelle HyDRAS, pour
+											Serpentin Robotique Articulé à Hyper Dégré de Liberté
+											C'est un robot qui peut grimper des structures.
+											C'est un des bras de HyDRAS.
+											Ce bras robotique a 12 degrés de liberté.
+											Mais la partie super c'est l'interface utilisateur.
+											Le câble que vous voyez est une fibre optique.
+											Et cette étudiante, probablement à sa première tentative,
+											peut l'articuler de plusieurs manières.
+											Alors par exemple en Iraq, vous savez, en zone de guerre,
+											il y a des bombes de bord de route. Présentement on envoie
+											un robot télécommandé armé.
+											Cela requiert énormément de temps et d'argent
+											pour entraîner un opérateur pour ce bras complexe.
+											Dans ce cas, c'est très intuitif.
+											Cet étudiant, aussi à ces premiers essais, peut effectuer des manipulations complexes,
+											saisir des objets et manoeuvrer
+											juste comme ça, de façon naturelle.
+									","
+											Dieser Roboter gehört eigentlich einer Roboterart an,
+											die wir HyDRAS nennen,
+											Über Grade-von-Freiheit frei-bewegliche Roboter-Schlange.
+											Dieser Roboter kann Strukturen erklettern.
+											Dies ist der Arm eines HyDRAS.
+											Er ist ein Roboterarm mit 12 Freiheitsgraden.
+											Aber die coole Sache daran ist die Benutzerschnittstelle.
+											Dieses Kabel dort, besteht aus Glasfaser.
+											Und diese Studentin, sie verwendet es vermutlich zum ersten Mal,
+											aber sie kann ihn auf die verschiedensten Weisen bewegen.
+											Zum Beispiel im Irak, Sie wissen schon, im Kriegsgebiet
+											gibt es Straßenbomben. Derzeit schickt man ein
+											ferngesteuertes bewaffnetes Fahrzeug.
+											Und es kostet viel Zeit und Geld
+											um den Operator zu lehren diesen komplexen Arm zu bedienen.
+											In diesem Fall verläuft das sehr intuitiv.
+											Diese Studentin, die ihn wahrscheinlich zum ersten Mal benutzt, führt sehr komplexe Handgriffe aus,
+											sie hebt Objekte auf und hantiert mit ihnen
+											einfach so, sehr intuitiv.
+									",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+","
+","
+","
+",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+											Y este es nuestro robot estrella.
+											Tenemos incluso un club de fans del robot DARwIn
+											""Robot Dinámico Antropomorfo con Inteligencia"".
+											Como saben, estamos muy interesados en
+											robots humanoides que caminan
+											y decidimos construir un pequeño humanoide.
+											Eso fue en 2004. Por entonces algo así
+											era realmente revolucionario.
+											Era más bien un estudio de viabilidad.
+											¿Qué motores deberíamos usar?
+											¿Es acaso posible? ¿Qué tipo de control deberíamos hacer?
+											Este modelo no tiene ningún sensor.
+											Se controla en bucle abierto.
+											Como muchos ya sabrán, si no tiene sensores
+											y encuentra alguna perturbación... ya saben lo que ocurre.
+											(Risas)
+									","
+											Bu robot şu anda bizim favorimiz.
+											Bu robot için bir fan kulübümüz var, adı DARwIn,
+											Dinamik İnsansı Akıllı Robot.
+											Bildiğiniz üzere, biz insansı robot ve
+											insansı yürümeyle çok ilgileniyoruz,
+											bu yüzden küçük bir insansı robot yapmaya karar verdik.
+											Bu 2004'teydi, o zamanlar
+											bu çok çok devrimsel bir gelişmeydi.
+											Bu daha çok bir yapılabilirlik çalışmasıydı,
+											ne tür motorlar kullanmalıyız?
+											Hatta mümkün mü? Ne tür kontroller yapmalıyız?
+											Bunun hiç sensörleri yok.
+											Açık döngülü bir denetim.
+											Muhtemelen bilenleriniz vardır, eğer hiç sensörleriniz yoksa
+											ve bozukluklar varsa, ne olacağını tahmin edersiniz.
+											(Gülüşmeler)
+									","
+											Voici maintenant notre robot star.
+											Il existe même un fan club pour ce robot: DARwin,
+											Robot Anthropomorphique Dynamique Avec Intelligence.
+											Comme vous le savez, nous sommes très intéressés
+											à créer un robot humanoïde, capable de marcher comme nous,
+											donc nous avons décidé de construire un petit robot humanoïde.
+											Ceci était en 2004, à cette époque
+											c'était quelque chose de vraiment révolutionnaire.
+											Il s'agissait davantage d'une étude de faisabilité:
+											quels genres de moteurs devrions-nous utiliser?
+											Est-ce seulement possible? Quel type de contrôles intégrer?
+											Donc, celui-ci n'a pas beaucoup de capteurs.
+											C'est un contrôle en boucle ouverte.
+											Pour ceux d'entre vous qui le savez, si vous n'avez pas de capteurs,
+											et qu'il y a une quelconque perturbation, vous savez ce qu'il arrive...
+											(Rires)
+									","
+											Nun, dieser Roboter ist unser derzeitiger Starroboter.
+											Es gibt wirklich einen Fanclub für diesen Roboter, DARwin,
+											Dynamischer Menschenähnlicher Roboter Mit Intelligenz.
+											Wie Sie wissen interessieren wir uns sehr für
+											humanoide Roboter, den menschlichen Gang,
+											daher haben wir beschlossen einen kleinen humanoiden Roboter zu bauen.
+											Das war 2004, zu dieser Zeit
+											war das ziemlich revolutionär.
+											Es war mehr eine Möglichkeitsstudie
+											welche Art von Motoren sollten wir verwenden?
+											Ist es tatsächlich möglich?
+											Dieser hier hat keinerlei Sensoren.
+											Es läuft nach einer Programmschleife.
+											Für diejenigen unter ihnen, die wahrscheinlich wissen, wenn man keine Sensoren hat
+											und es irgendwelche Störungen gibt, Sie wissen ja was passiert.
+											(Gelächter)
+									",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+","
+","
+","
+",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+											Basándonos en ese éxito, el año siguiente
+											hicimos un diseño mecánico en serio
+											empezando por la cinemática.
+											Y así nació DARwIn en 2005.
+											Se levanta, camina... impresionante.
+											Pero todavía, como pueden ver
+											tiene un cable, un cordón umbilical. Aún usábamos alimentación externa
+											y computación externa.
+									","
+											Bu başarının üstüne, ertesi sene
+											kinematikten başlayarak uygun bir
+											mekanik tasarım yaptık.
+											Ve böylece, 2005'te DARwIn doğdu.
+											Ayağa kalkıyor. Yürüyor, çok etkileyici.
+											Fakat yine de, gördüğünüz gibi,
+											bir kablosu var, göbek bağı. Bu yüzden, halen harici güç kaynağı ve
+											harici iletişim kullanıyoruz.
+									","
+											Donc d'après cette réussite, l'année suivante
+											nous avons conçu le bon design mécanique
+											à partir de la cinématique.
+											Et donc, DARwin I est né en 2005.
+											Il peut se lever. Il marche, très impressionnant.
+											Par contre, comme vous le voyez,
+											il a un câble, un cordon ombilical. Donc on utilise toujours une source de puissance externe,
+											et de la communication de l'extérieur.
+									","
+											Basierend auf diesem Erfolg, im nächsten Jahr
+											gingen wir das genaue mechanische Design an
+											beginnend bei der Bewegungslehre.
+											Und siehe da DARwin I wurde 2005 geboren.
+											Er kann aufstehen, er geht, sehr eindrucksvoll.
+											Aber wie sie sehen können
+											hängt er noch immer an einer Nabelschnur. Das heißt wir verwenden noch immer eine externe Energiequelle
+											und externe Recheneinheiten.
+									",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+","
+","
+","
+",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+											Ya en 2006 era hora de divertirse.
+											Démosle inteligencia. Le dimos la potencia de cálculo necesaria:
+											Procesador Pentium M a 1,5 gigahercios
+											dos cámaras Firewire, giróscopos, acelerómetros
+											sensores de presión y torsión en los pies, baterías de polímero de litio...
+											y ahora DARwIn es completamente autónomo.
+											Ya no se controla a distancia.
+											No hay cables. Mira alrededor, busca la pelota,
+											sigue mirando, busca la pelota, e intenta jugar al fútbol
+											de forma autónoma, con inteligencia artificial.
+											Veamos qué tal le va. Este fue nuestro primer intento.
+											y... ¡gol!
+									","
+											2006'da artık gerçekten eğlenme zamanı.
+											Biraz zeka verelim. İhtiyacı olan tüm işlemci gücünü verelim,
+											1.5 GHz Pentium M çip,
+											iki Firewire kamera, sekiz jiroskop, ivmeölçer,
+											ayakta dört dönme momenti sensörü, lityum bataryalar.
+											Ve artık DARwIn II tamamen özerk.
+											Uzaktan kumandalı değil.
+											Yular yok. Etrafına bakıyor, topu arıyor,
+											etrafına bakıyor, topu arıyor, futbol oynamaya çalışıyor,
+											özerk olarak, yapay zeka.
+											Nasıl yaptığına bakalım. Bu bizim ilk denememiz,
+											ve... Video: Gooolll!
+									","
+											Donc, en 2006, nous avons commencé à nous amuser.
+											Donnons-lui l'intelligence. Nous l'avons doté de toute la puissance informatique nécessaire,
+											un processeur Pentium M de 1,5 GHz,
+											deux caméras FireWire, 8 gyroscopes, des accéléromètres
+											4 capteurs de moments, des batteries au lithium.
+											Et depuis, DARwin II est complètement autonome.
+											Il n'est plus télécommandé.
+											Il n'y a plus de câble. Il regarde autour, cherche le ballon,
+											regarde encore, cherche le ballon et tente de jouer au foot
+											de façon autonome, avec l'intelligence artificielle.
+											Voyons comment il se débrouille. Ceci est notre tout premier essai,
+											et... vidéo: BUUUUT!
+									","
+											Im Jahr 2006 also, war es Zeit wirklich Spaß zu haben.
+											Verpassen wir ihm Intelligenz. Wir gegen ihm all die Rechenleistung die er braucht,
+											einen 1.5 Gigahertz Pentium M Chip
+											zwei Firewire-Kameras, acht Giromotoren, einen Beschleunigungsmesser,
+											vier Drehmoment-Sensoren auf den Füßen, Lithium-Ionen-Akkus
+											Und nun war DARwin II vollständig selbstständig.
+											Er ist nicht ferngesteuert
+											Es gibt keine Fangleinen. Er sieht sich um sucht den Ball,
+											schaut sich um, sucht nach dem Ball und er versucht Fußball zu spielen,
+											unabhängige, künstliche Intelligenz.
+											Mal sehen wie er sich macht. Dies war unser aller erster Versuch,
+											und.... Video: Tooooor!
+									",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+","
+","
+","
+",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+											Hay una competición llamada RoboCup.
+											No sé cuántos de ustedes conocen la RoboCup.
+											Es un campeonato internacional de robots futbolistas autónomos.
+											Y la meta final de RoboCup es
+											que para el año 2050
+											robots autónomos humanoides de nuestro tamaño
+											jueguen al fútbol contra los campeones del mundo humanos...
+											...y ganen.
+											Esa es la meta real. Es muy ambiciosa,
+											pero creemos que podemos conseguirlo.
+									","
+											Gerçekten RoboCup denilen bir yarışma var.
+											Kaçınız RoboCup'ı duydu bilmiyorum.
+											Uluslararası bir özerk robot futbol yarışması.
+											Ve RoboCup'ın hedefi, gerçek hedefi,
+											2050 yılında,
+											istiyoruz ki tam boyutlu, özerk insansı robotlar,
+											gerçek Dünya Kupası şampiyonlarına karşı futbol oynasın
+											ve kazansın.
+											Bu gerçek bir hedef, çok tutkulu bir hedef,
+											fakat biz gerçekten yapabileceğimize inanıyoruz.
+									","
+											Sachez qu'il existe une compétition nommée RoboCup.
+											Je ne sais pas si plusieurs d'entre vous la connaissez.
+											C'est une compétition internationale de robots autonomes jouant au football.
+											L'objectif de la RoboCup, le véritable objectif, consiste à,
+											d'ici l'an 2050,
+											avoir des robots humanoïdes pleine grandeur, complètement autonomes,
+											qui disputeront un match contre les gagnants humains de la Coupe Du Monde...
+											et gagneront!
+											C'est véritablement le but. C'en est un très ambitieux
+											mais nous croyons vraiment pouvoir y arriver.
+									","
+											Und es gibt tatsächlich einen Wettbewerb der sich RoboCup nennt.
+											Ich weiß nicht wie viele von Ihnen schon vom RoboCub gehört haben.
+											Es handelt sich um ein unabhängiges Roboter Fußballtunier
+											Und das Ziel des RoboCups, das tatsächliche Ziel ist es,
+											im Jahr 2050
+											unabhängige humanoide Roboter in Originalgröße zu haben,
+											die Fußball gegen die menschlichen Weltmeisterschaftsgewinner spielen
+											und gewinnen.
+											Das ist ein wirkliches Ziel. Es ist ein sehr ehrgeiziges Ziel,
+											aber glauben fest, dass wir es erreichen können.
+									",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+","
+","
+","
+",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+											Esto fue el año pasado en China.
+											Fuimos el primer equipo estadounidense que se clasificó
+											para la competición de robots humanoides.
+											Esto fue este año, en Austria.
+											Van a ver la acción, tres contra tres,
+											completamente autónomos.
+											¡Así se hace, sí!
+											Los robots se siguen la pista unos a otros
+											y juegan en equipo entre ellos.
+											Es impresionante. En realidad es un congreso de investigación
+											en forma de evento competitivo, que es más divertido.
+											Lo que ven ahí es el bello trofeo
+											de la copa Louis Vuitton.
+											Es un trofeo al mejor humanoide
+											y queremos ganarlo por primera vez para los Estados Unidos
+											el año que viene. Veremos si hay suerte.
+											Gracias.
+											(Aplausos)
+									","
+											Bu, Çin'de geçen sene.
+											Biz Birleşik Devletler'de insansı robot yarışmasında kalifiye
+											olan ilk takımdık.
+											Bu bu sene, Avusturya'daydı.
+											Birazdan aksiyonu göreceksiniz, üçe karşı üç,
+											tümüyle özerk.
+											İşte böyle. Evet!
+											Robotlar izliyor ve oynuyorlar,
+											takımlar kendi aralarında oynuyorlar.
+											Çok etkileyici. Bu gerçekten bir araştırma olayının,
+											daha heyecan verici bir yarışmaya dönüştürülmesidir.
+											Burada gördüğünüz, bu çok güzel
+											Louis Vuitton Kupası ödülü.
+											Bu en iyi insansı robot için
+											ve biz önümüzdeki sene bunu ilk kez Birleşik Devletler'e getirmeyi istiyoruz,
+											o yüzden bize şans dileyin.
+											Teşekkürler.
+											(Alkışlar)
+									","
+											Donc nous voici l'année dernière en Chine.
+											Nous avons été la toute première équipe américaine à se qualifier
+											dans la compétition de robot humanoïde.
+											Ici c'est cette année, en Autriche.
+											Vous allez voir l'action, 3 contre 3,
+											de façon complètement autonome.
+											Voilà. Oui!
+											Les robots suivent le ballon et jouent
+											en équipe entre eux.
+											C'est très impressionnant. C'est vraiment un événement de recherche
+											enrobé par une compétition plus excitante.
+											Ce que vous voyez ici, c'est la magnifique
+											Coupe Louis Vuitton.
+											Elle est décernée au meilleur humanoïde,
+											et nous aimerions bien la rapporter pour la toute première fois aux États-Unis
+											l'année prochaine, donc souhaitez-nous bonne chance!
+											Merci!
+											(Applaudissements)
+									","
+											So, das war letztes Jahr in China.
+											Wir waren das erste Team aus den Vereinigten Staaten das sich qualifiziert hat
+											für den Wettbewerb humanoider Roboter.
+											Dieses Jahr war er in Österreich.
+											Sie werden nun das tatsächliche Spiel sehen, drei gegen drei,
+											vollständig unabhängig.
+											Na bitte. Ja!
+											Die Roboter finden und spielen,
+											Teams spielen zusammen.
+											Es ist sehr eindrucksvoll. Es ist ein echtes Forschungstreffen
+											verpackt in einem sehr spannenden Wettbewerb.
+											Was Sie hier sehen können ist wunderschön
+											den Louis Vuitton Cup Pokal.
+											Also, der ist für den besten Humanoiden,
+											und wir wünschen uns ihn als erstes US-Amerikanisches Team zu gewinnen,
+											nächstes Jahr, also halten sie uns die Daumen.
+											Danke sehr.
+											(Applaus)
+									",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+","
+","
+","
+",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+											DARwIn también tiene muchos otros talentos.
+											El año pasado dirigió a la Orquesta Sinfónica de Roanoke
+											para el concierto de vacaciones.
+											Esta es la siguiente generación: DARwIn IV
+											más inteligente, más rápido, más fuerte
+											y está intentando demostrar sus habilidades
+											""Soy un macho, soy fuerte"".
+											""Sé hacer movimientos de Jackie Chan,
+											movimientos de artes marciales"".
+											(Risas)
+											Y se va caminando. Este es DARwIn IV,
+											podrán verlo luego en la recepción.
+											Estamos convencidos de que será el primer robot corredor
+											humanoide de los Estados Unidos. Estén al tanto.
+									","
+											DARwIn'in daha çok yetenekleri var.
+											O, geçen sene gerçekten Roanoke Senfoni Orkestrası'nın
+											tatil konserini yönetti.
+											Bu gelecek nesil robot, DARwIn IV,
+											daha akıllı, daha hızlı, daha güçlü.
+											Ve yeteneklerini göstermeye çalışıyor.
+											""Maçoyum, güçlüyüm.""
+											Bazı Jackie Chan hareketleri de yapabiliyor.
+											Dövüş sanatları hareketleri.
+											(Gülüşmeler)
+											Ve yürüyüp gidiyor. İşte bu DARwIn IV,
+											tekrar, onu lobide görebileceksiniz.
+											Biz bunun Birleşik Devletler'de koşan ilk insansı robot
+											olacağına gerçekten inanıyoruz. O yüzden, bekleyin.
+									","
+											DARwin a aussi beacoup d'autres talents.
+											L'an passé il a dirigé l'Orchestre Symphonique de Roanoke
+											pour le concert des Fêtes.
+											Voici la prochaine génération, le DARwin IV,
+											plus intelligent, rapide et fort.
+											Et il tente de vous montrer son agileté.
+											""Je suis macho, je suis fort.
+											Je peux aussi faire des mouvements d'arts martiaux
+											à la Jackie Chan""
+											(Rires)
+											Et il quitte. Donc c'était DARwin IV,
+											encore une fois, vous pourrez le voir dans le lobby.
+											Nous croyons vraiment qu'il s'agira du premier robot
+											humanoïde capable de courir des États-Unis. Donc, à suivre!
+									","
+											DARwin hat auch viele andere Talente.
+											Letztes Jahr dirigierte er tatsächlich das Roanoke Symphonie Orchester
+											beim Ferienkonzert.
+											Dies ist die nächste Robotergeneration DARwin IV,
+											er ist schlauer, schneller und stärker.
+											und er versucht mit seinen Fähigkeiten anzugeben.
+											""Ich bin ein Macho, ich bin stark""
+											Ich kann sogar Jackie Chan nachmachen
+											Kampfsport-Bewegungen.
+											(Lachen)
+											Und er geht davon. Dies ist also DARwin IV,
+											wiederum ist er in der Lobby zu sehen.
+											Wir glauben tatsächlich, dass dies der erste laufende
+											humanoide Roboter in den US sein wird. Also, bleiben sie dran.
+									",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+","
+","
+","
+",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+											Ya les he mostrado algunos de nuestros fantásticos robots.
+											Pero ¿cuál es el secreto de nuestro éxito?
+											¿De dónde sacamos estas ideas?
+											¿Cómo desarrollamos ideas como éstas?
+											Tenemos un vehículo completamente autónomo
+											capaz de conducir en entorno urbano. Ganamos medio millón de dólares
+											en el DARPA Urban Challenge.
+											Tenemos también el primer vehículo del mundo
+											que puede ser dirigido por un invidente.
+											Lo llamamos el reto del conductor ciego, muy interesante.
+											Y hay muchos otros proyectos robóticos de los que querría hablar.
+											Estos son solo los premios que ganamos en otoño de 2007
+											en competiciones robóticas y cosas así.
+									","
+											Pekala, size heyecan verici robotlarımızı işbaşında gösterdim.
+											Peki, başarımızın sırrı nedir?
+											Nereden buluyoruz bu fikirleri?
+											Bu fikirleri nasıl geliştiriyoruz?
+											Şehir ortamında sürebildiğimiz
+											tamamen özerk bir aracımız var. DARPA Şehir Yarışması'nda
+											yarım milyon dolar kazandık.
+											Ayrıca körler tarafından sürülebilen
+											dünyanın ilk aracını ürettik.
+											Biz ona kör sürüş düellosu diyoruz, çok heyecan verici
+											ve hakkında konuşmak istediğim diğer birçok robotik projesi.
+											Bunlar sadece 2007 güzünde robotik yarışlardan
+											ve o tür şeylerden kazandığımız ödüller.
+									","
+											Très bien, donc je vous ai montré quelques uns de nos plus excitants robots au travail.
+											Mais quel est le secret de notre succès?
+											D'où viennent ces idées?
+											Comment arrivons-nous à développer ce genre d'idées?
+											Nous avons un véhicule complètement autonome
+											qui peut se déplacer dans un environnement urbain. Nous avons gagné un demi-million de dollars
+											à la compétition DARPA Urban Challenge.
+											Nous avons également le tout premier
+											véhicule de la planète qui puisse être conduit par un aveugle.
+											Nous l'appelons le défi du conducteur aveugle, c'est très excitant
+											et plusieurs autres projets de robotique dont j'aimerais vous entretenir.
+											Voici les prix que nous avons gagné à l'automne 2007 seulement,
+											lors de compétitions de robotique et ce genre de choses.
+									","
+											In Ordnung, ich habe Ihnen also einige der spannenden Roboter gezeigt an denen wir arbeiten.
+											Aber was ist das Geheimnis unseres Erfolges?
+											Wie kommen wir auf all diese Ideen?
+											Woher nehmen wir all die Ideen?
+											Wir haben ein vollkommen selbständiges Fahrzeug,
+											dass in der Stadt fahren kann. Wir gewannen eine halbe Million Dollar
+											bei der DARPA Urban Calllenge.
+											Wir haben auch das weltweit erst Fahrzeug,
+											dass von Blinden gefahren werden kann.
+											Wir nennen das die Blinder-Fahrer-Herausforderung, sehr spannende Sache
+											und viele andere Roboterprojekte über die ich sprechen möchte.
+											Dies sind allein die Preise, die wir im Herbst 2007 gewonnen haben,
+											bei Roboter Wettbewerben und dererlei.
+									",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+","
+","
+","
+",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+											Tenemos cinco secretos.
+											El primero: ¿de dónde obtenemos esta inspiración,
+											esta chispa de imaginación?
+											Esta es una historia real, mi historia personal.
+											Cuando me voy a la cama, a las 3 ó 4 de la mañana,
+											me acuesto, cierro los ojos y empiezo a ver líneas y círculos
+											y diferentes formas flotando
+											que se ensamblan y forman mecanismos
+											y entonces pienso ""Ah, este es bueno"".
+											Junto a mi cama tengo un cuaderno,
+											un diario con un bolígrafo que tiene una luz LED
+											porque no quiero encender la luz y despertar a mi esposa.
+									","
+											Bizim gerçekten beş sırrımız var.
+											İlki, biz bu ilhamı nereden buluyoruz,
+											bu hayalgücü kıvılcımını nereden alıyoruz?
+											Bu gerçek bir hikaye, benim kişisel hikayem.
+											Geceleri, uyumaya gittiğimde, sabahın 3 veya 4'ü,
+											Uzanırım, gözlerimi kaparım ve bu çizgileri, daireleri ve etrafta
+											dolanıp duran farklı şekilleri görürüm
+											ve bunlar bir araya gelir, bu tür mekanizmaları oluştururlar.
+											Ve, ""Aha, işte bu harika."" diye düşünürüm
+											Yatağımın hemen yanında bir not defteri tutarım,
+											bir günlük, üzerinde ışık, LED ışık olan, bir kalemle birlikte,
+											çünkü ışığı açıp eşimi uyandırmak istemem.
+									","
+											Dans les faits, nous avons 5 secrets.
+											Premièrement, comment trouver cette inspiration,
+											où aller pour avoir cet éclair de génie?
+											Voici une histoire vraie, mon histoire.
+											Le soir lorsque je me couche, vers 3 ou 4 heures du matin,
+											je m'étends, je ferme mes yeux et je vois ces lignes et cercles
+											et ces différentes formes qui flottent autour de moi,
+											elles s'assemblent et composent ce genre de mécanismes.
+											Et alors je pense: ""Ah! Ceci, c'est super!""
+											Donc, juste à côté de mon lit, je garde un cahier de notes,
+											un journal, avec un stylo spécial doté d'une lumière, une DEL,
+											pour éviter d'allumer la lumière et réveiller ma femme.
+									","
+											Also wir haben fünf Geheimnisse.
+											Erstens, woher haben wir unsere Inspiration
+											woher bekommen wir diesen Funken der Vorstellungskriaft
+											Dies ist eine wahre Geschichte, meine eigene Geschichte.
+											Wenn ich Nachts in Bett gehe, um 3 oder 4 in der Früh,
+											Lege ich mich nieder und schließe meine Augen und ich sehe diese Linien und Kreise
+											and andere Formen herum schweben
+											und diese gliedern sich und formen diese Mechanismen.
+											und ich denke: ""Ah das ist cool.""
+											Also, habe ich gleich neben meinem Bett ein Notizbuch,
+											ein Tagebuch, mit einem speziellen Stift, der ein LED-Licht hat,
+											weil ich das Licht, um meine Frau nicht zu wecken, nicht einschalten will.
+									",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+","
+","
+","
+",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+											Veo estos dibujos, lo garabateo todo, dibujo cosas,
+											y me vuelvo a la cama.
+											Cada día por la mañana
+											lo primero que hago antes del café
+											antes de lavarme los dientes, abro mi cuaderno.
+											Muchas veces está vacío.
+											A veces hay algo, a veces es un sinsentido
+											y la mayor parte del tiempo ni yo entiendo mi propia letra
+											¿Qué se puede esperar a las cuatro de la mañana?
+											Así que necesito descifrar lo que escribí.
+											Pero a veces encuentro una idea ingeniosa
+											y tengo un momento eureka.
+											Corro a mi despacho, me siento ante el ordenador
+											anoto las ideas y hago bocetos
+											y lo guardo todo en una base de datos de ideas.
+											Cuando recibimos una petición de propuestas
+											busco si hay algo que coincida
+											entre mis ideas potenciales
+											y el problema. Si algo coincide, escribimos una propuesta de investigación,
+											conseguimos financiación, y así empezamos nuestros proyectos de investigación.
+									","
+											Gördüğüm her şeyi karalıyorum, bir şeyler çiziyorum,
+											ve uyuyorum.
+											Her gün sabahları,
+											günün ilk kahvesini içmeden önce,
+											daha dişlerimi fırçalamadan, defterimi açarım.
+											Çoğu zaman boştur,
+											bazen bir şeyler vardır, bazen işe yaramaz,
+											fakat çoğu zaman kendi el yazımı bile okuyamam.
+											Sabahın 4'ü, ne bekliyordunuz yani, değil mi?
+											Yazdığımı deşifre etmem gerekiyor.
+											Fakat bazen orada o dahice fikri görürüm,
+											ve o ""buldum"" anını yaşarım.
+											Doğruca ofisime gider, bilgisayarımın başına oturur,
+											bu fikirleri yazarım, bir şeyler çizerim
+											ve bir fikirler listesi tutarım.
+											Önermeler için çağrılar olduğunda
+											potansiyel fikirlerim ile problem
+											arasında bir eşleşme
+											bulmaya çalışırım, eğer eşleşme varsa bir araştırma önerisi yazarız,
+											araştırma fonunu alırız, işte araştırma programlarımızı böyle başlatırız.
+									","
+											Donc je vois cela, gribouille le tout par écrit, ajoute quelques schémas,
+											et je retourne au lit.
+											Chaque matin,
+											la toute première chose que je fais avant la première tasse de café,
+											avant de me brosser les dents, c'est d'ouvrir ce calepin.
+											Souvent il est vide,
+											parfois il s'y trouve quelque chose d'inutile,
+											mais la plupart du temps je ne peux simplement pas me relire.
+											Et donc ... 4 heures du matin, à quoi vous attendez-vous?
+											Donc je dois déchiffrer ce que j'ai écrit.
+											Mais quelques fois je vois cette brillante idée là dedans,
+											et j'ai cette épiphanie.
+											Je cours à mon ordinateur, dans mon bureau à la maison,
+											je tape ces idées avec les schémas,
+											et je maintiens un base de données d'idées.
+											Alors quand nous recevons un appel pour une soumission,
+											je tente de trouver une solution possible entre
+											mes idées possibles
+											et le problème. S'il y a correspondance nous préparons une soumission,
+											obtenons les fonds de recherche et c'est comme ça que nos programmes de recherche naissent.
+									","
+											Also, ich sehe das alles und schreibe alles auf und zeichne Dinge
+											und dann gehe ich schlafen.
+											Jeden Morgen,
+											ist die erste Sache, die ich mache – noch vor meinem ersten Kaffee –
+											bevor ich mir die Zähne putze, öffne ich mein Notizbuch.
+											Oft ist es leer,
+											aber manchmal finde ich etwas das totaler Schwachsinn ist,
+											aber meistens kann ich nicht einmal meine eigene Handschrift lesen.
+											Na ja, 4 in der Früh, was kann man schon erwarten, stimmts?
+											Ich muss also entziffern was ich geschrieben habe.
+											Aber manchmal sehe ich diese geniale Idee dort
+											und ich habe diesen ""Eureka-Moment""
+											Ich laufe direkt in meinem Heimbüro, setze mich an meinem Computer,
+											tippe die Ideen ein und mache Skizzen
+											und ich habe eine Datenbank voller Ideen.
+											Wenn uns also jemand fragt ob wir eine Idee zur Lösung eines Problems haben
+											versuche ich eine Übereinstimmung mit meinen
+											möglichen Ideen zu finden
+											und das Problem kann, wenn es eine Übereinstimmung gibt und wir einen Vorschlag einreichen
+											gefördert werden und so starten wir unsere Projekte.
+									",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+","
+","
+","
+",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+											Pero solo la chispa de imaginación no basta.
+											¿Cómo desarrollamos estas ideas?
+											En RoMeLa, el Laboratorio de Mecanismos Robóticos,
+											celebramos magníficas sesiones de tormentas de ideas.
+											Nos reunimos, debatimos sobre problemas técnicos
+											y sociales, y hablamos sobre todo eso.
+											Pero antes de empezar ponemos una regla de oro.
+											La regla es:
+											nadie critica las ideas de otro,
+											nadie critica ninguna opinión.
+											Esto es crucial, porque a menudo los alumnos tienen miedo
+											o incomodidad por lo que otros puedan pensar de ellos
+											por sus opiniones e ideas.
+									","
+											Fakat sadece bir hayal gücü kıvılcımı yetersizdir.
+											Bu tür fikirleri nasıl geliştiriyoruz?
+											RoMeLa, Robotik Mekanizmalar Labaratuvarı'nda
+											bu fantastik beyin fırtınası oturumlarımız vardır.
+											Bir araya geliriz, problemler ve sosyal sorunlar
+											hakkında tartışırız ve konuşuruz.
+											Fakat başlamadan önce şu altın kuralı koyarız.
+											Kural şudur:
+											Kimse kimsenin fikirlerini eleştirmeyecek.
+											Hiç kimse hiçbir fikri eleştirmeyecek.
+											Bu önemlidir, çünkü çoğu zaman, öğrenciler,
+											başkalarının kendi düşünceleri ve fikirleri hakkında
+											ne düşüneceğinden çekinirler.
+									","
+											Mais une simple étincelle d'imagination n'est pas suffisante.
+											Comment arrivons-nous à développer ce genre d'idées?
+											À notre labo, RoMeLa,
+											nous tenons de fantastiques séances de tempêtes d'idées.
+											Donc nous nous rassemblons et discutons de problèmes,
+											même des problèmes sociaux et nous en parlons.
+											Mais avant de commencer, nous instaurons cette règle sacrée:
+											la voici:
+											Personne ne critique les idées de l'autre.
+											Personne ne s'oppose à une opinion.
+											C'est important car souvent les étudiants craignent
+											ou se sentent mal à l'aide face aux avis des autres
+											quant à leurs idées et pensées.
+									","
+											Aber nur von einem Funken der Vorstellungskraft zu sprechen ist nicht genug.
+											Wie entwickeln wir diese Ideen weiter?
+											In unserem Labor RoMeLa, dem Roboter Mechanik Labor,
+											haben wir diese fantastischen Brainstorming-Sitzungen.
+											Wir treffen uns also und wir besprechen die Probleme
+											und die sozialen Probleme und reden darüber.
+											Aber bevor wir anfangen, setzen wir eine goldene Regel fest
+											Diese Regel ist:
+											""Niemand kritisiert eines anderen Ideen.
+											Niemand kritisiert irgendeine Meinung.""
+											Das ist wichtig, denn oft fürchten sich Studenten
+											oder sind sich nicht sicher wie andere denken mögen
+											über ihre Meinungen und Gedanken.
+									",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+","
+","
+","
+",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+											Al hacerlo así, resulta sorprendente
+											cómo los alumnos abren su mente.
+											Tienen ideas geniales, locas, brillantes.
+											Toda la sala se electriza de energía creativa.
+											Y así es como desarrollamos nuestras ideas.
+									","
+											Bir kez bunu yaptığınızda, öğrenciler
+											inanılmaz bir şekilde açılırlar.
+											O kaçık, harika, delice parlak fikirleri bulurlar,
+											bütün oda yaratıcı enerjiyle dolup taşar.
+											Ve işte biz fikirlerimizi böyle geliştiririz.
+									","
+											Par contre, une fois cette règle établie, c'est impressionnnant
+											de voir à quel point les étudiants se laissent aller.
+											Ils ont ces folles et brillantes idées,
+											toute la salle est électrifiée d'énergie créative.
+											Et c'est de cette façon que l'on obtient nos idées.
+									","
+											Wenn man das macht ist es unglaublich
+											wie sehr sich die Studenten öffnen.
+											Sie haben diese absolut wahnsinnigen, coolen, verrückten brillanten Ideen,
+											der ganze Raum ist wie unter Spannung mit kreativer Energie.
+											Und so entwickeln wir unsere Ideen.
+									",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+","
+","
+","
+",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+											Nos queda poco tiempo. Una cosa más que quiero decir es
+											que solo la chispa de la idea y su elaboración no bastan.
+											Hubo un momento genial en TED
+											creo que era Sir Ken Robinson, ¿no?
+											Dio una charla sobre cómo la educación
+											y la escuela matan la creatividad.
+											En realidad esa historia tiene dos caras.
+											Hay un límite en lo que se puede hacer
+											solo a base de ideas ingeniosas,
+											creatividad y buena intuición de ingeniero.
+											Si queremos hacer algo más que cacharrear,
+											si queremos ir más allá de una mera afición a la robótica
+											y abordar los grandes retos de la robótica
+											mediante investigación rigurosa,
+											necesitamos más que eso. Aquí es donde entra la escuela.
+									","
+											Vaktimiz azalıyor, bahsetmek istediğim bir şey daha var.
+											Bilirsiniz, sadece bir parlak fikir ve onu geliştirme yeterli değildir.
+											Çok güzel bir TED anısı vardı,
+											Sanırım Sir Ken Robinson olmalı, değil mi?
+											Eğitim ve okulun yaratıcılığı nasıl
+											öldürdüğü hakkında konuştu.
+											Aslında, hikayenin iki yüzü var.
+											Dahice fikirler, yaratıcılık ve iyi bir
+											mühendislik sezgisi ile
+											yapabilecekleriniz sınırlıdır.
+											Geçiştirmenin ötesine gitmek isterseniz,
+											robotik hobisinin ötesine gitmek isterseniz
+											ve robotik biliminin esas düellolarını özenli
+											araştırmalarla ele almak için
+											bundan daha fazlasına ihtiyacımız var. Burada okul devreye girer.
+									","
+											Bien, nous arrivons à la fin mais il y a une chose encore dont je veux vous parler.
+											Donc, simplement une étincelle d'idée et du développement ne sont pas suffisants.
+											Il y a eu un grand moment à TED,
+											je crois que c'était Sir Ken Robinson, n'est-ce pas?
+											Il a donné une conférence à propos de l'éducation
+											et disait que l'école tue la créativité.
+											Alors, dans les faits il y a deux côtés à cette histoire.
+											On ne peut réaliser
+											ces merveilleuses idées
+											avec la créativité et l'intuition d'ingénierie seulement.
+											Si vous souhaitez aller plus loin que la surface,
+											si vous voulez dépassez le stade du hobby en robotique
+											et aborder les grands challenges de la robotique
+											à travers de la recherche rigoureuse,
+											nous avons besoin de plus que cela. C'est là que l'école entre en compte.
+									","
+											Gut, uns geht die Zeit aus und ich will noch über eine andere Sache reden.
+											Sie wissen, dass das der Funke der Idee und die Entwicklung nicht genug sind.
+											Da gab es einen großartigen TED-Moment,
+											ich denke es war Sir Ken Robinson, oder?
+											Er sprach darüber wie wir Kinder erziehen sollten
+											und dass Schule Kreativität zerstört.
+											Nun, es gibt tatsächlich zwei Seiten der Geschichte.
+											Man kann nicht alles erreichen
+											nur mit genialen Ideen
+											und Kreativität und hervorragender Bau-Intuition.
+											Wenn man über das Basteln hinaus will
+											und wenn man über das Hobby Roboter hinaus will
+											und die wirklich großen Herausforderungen der Robotik angehen will
+											mithilfe genauester Forschung,
+											brauchen wir mehr als nur das. Das ist wo die Schule ins Spiel kommt.
+									",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+","
+","
+","
+",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+											Batman, cuando pelea contra los malos,
+											tiene su cinturón de armas, tiene un gancho arrojadizo,
+											tiene toda clase de artilugios.
+											Para nosotros los robóticos, ingenieros y científicos
+											estas herramientas son las asignaturas que se estudian en clase.
+											Matemáticas, ecuaciones diferenciales,
+											álgebra lineal, ciencias, física,
+											incluso, hoy en día, química y biología, como ya han visto.
+											Estas son las herramientas que necesitamos.
+											Y cuantas más herramientas tengamos, como Batman,
+											más efectivos seremos peleando contra los malos.
+											Tendremos más herramientas para atacar a los problemas grandes.
+											Por eso la educación es muy importante.
+									","
+											Batman, kötü adamlara karşı,
+											onun alet kemeri var, kancası var,
+											farklı türde çeşit çeşit aleti var.
+											Biz robotikçiler, mühendisler ve bilim insanları için
+											bu aletler, bunlar aldığınız dersler ve kurslardır.
+											Matematik, diferansiyel denklemler.
+											Doğrusal cebir, fen bilimleri, fizik,
+											hatta bugünlerde, kimya ve biyoloji, gördüğünüz gibi.
+											Tüm bunlar ihtiyacımız olan aletler.
+											Ne kadar çok alet varsa, Batman için
+											kötülere karşı o kadar etkili dövüşme,
+											bizim için, büyük problemleri çözmek için daha fazla araç demektir.
+											Bu yüzden eğitim çok önemlidir.
+									","
+											Batman, qui se bat contre les forces du mal,
+											il a sa ceinture d'outils, il a son grappin,
+											et toutes sortes de gadgets.
+											Pour nous, roboticiens, ingénieurs et chercheurs,
+											ces outils ce sont les leçons que nous apprenons en classe.
+											En Mathématiques, les Équations Différentielles,
+											J'ai l'algèbre linéaire, la science, la physique,
+											et même de nos jours, la chimie et la biologie, comme vous l'avez constaté.
+											Ce sont tous des outils dont nous avons besoin.
+											Donc, le plus d'outils nous avons, pour Batman
+											le plus efficace il est à combattre les méchants,
+											pour nous, le mieux équipés nous sommes à attaquer ces gros problèmes.
+											Alors l'éducation est très importante.
+									","
+											wenn Batman gegen die Bösewicht kämpft,
+											dann hat er seinen Ausrüstungsgürtel und seinen Enterhaken
+											und all diese verschiedenen Ausrüstungsgegenstände.
+											Für uns Robotiker, Ingenieure und Wissenschaftler,
+											sind diese Ausrüstungsgegenstände, Lehrgänge und Sparten über die wir in der Schule lernen.
+											Mathe, differenzieren.
+											Ich habe lineare Algebra, Naturwissenschaften, Physik,
+											heutzutage sogar Chemie und Biologie, wie Sie gesehen haben.
+											Dies sind all die Werkzeuge, die wir brauchen.
+											Das heißt, je mehr Ausrüstungsgegenstände für Batman man hat
+											desto effektiver bekämpft Batman die Bösen
+											für uns sind es mehr Werkzeuge um derartige Probleme anzugehen.
+											Auf diese Art ist Bildung sehr wichtig
+									",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+","
+","
+","
+",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+											Pero no se trata solamente de eso.
+											También hay que trabajar muy, muy duro.
+											Siempre digo a mis estudiantes:
+											primero trabaja con astucia y luego esfuérzate.
+											Esta foto se tomó a las tres de la madrugada.
+											Les aseguro que si vienen a las tres o cuatro de la mañana
+											tenemos alumnos trabajando allí,
+											y no porque yo se lo mande, sino porque nos estamos divirtiendo.
+											Lo que me lleva al último asunto:
+											no olviden divertirse.
+											Ese es el secreto de nuestro éxito. Nos divertimos muchísimo.
+											Estoy convencido de que la máxima productividad llega cuando uno se divierte.
+											Y eso es lo que estamos haciendo.
+											Eso es todo. Muchas gracias.
+											(Aplausos)
+									","
+											Dahası, bu kadar değil,
+											sadece bu değil, ayrıca gerçekten çok, çok çalışmalısınız.
+											Hep öğrencilerime söylerim,
+											akıllıca çalışın, sonra çok çalışın.
+											Arkadaki bu resim, bu sabahın üçü.
+											Garanti veriyorum, laboratuvarımıza sabah 3'te 4'te gelseniz,
+											orada çalışan öğrencilerimiz vardır,
+											ben onlara söylediğim için değil, çok eğlenceli olduğu için.
+											Ki bu da son konuya geliyor.
+											Eğlenmeyi unutmayın.
+											Başarımızın sırrı gerçekten budur, biz çok eğleniyoruz.
+											İnanıyorum ki en fazla verimlilik, eğlendiğimiz zaman gerçekleşir.
+											Ve bizim de yaptığımız bu.
+											İşte böyle. Çok teşekkür ediyorum.
+											(Alkışlar)
+									","
+											Et il ne s'agit pas seulement de cela
+											seulement, vous devez travailler extrêmement dur.
+											Alors je dis toujours à mes étudiants:
+											""Travaillez intelligemment, ensuite travaillez dur"".
+											Cette photo a été prise à 3:00 du matin.
+											Je vous garantis que si vous venez au labo à 3:00, 4:00
+											des étudiants travaillent là,
+											pas parce que je le leur demande, mais parce qu'ils s'amusent trop!
+											Ce qui m'amène au dernier point:
+											N'oubliez pas de vous amuser.
+											C'est réellement là le secret de notre réussite. Nous avons beaucoup trop de plaisir.
+											Je crois réellement que la plus grande productivité est atteinte lorsqu'on s'amuse.
+											Et c'est précisément ce que l'on fait.
+											Et voilà. Merci infiniment.
+											(Applaudissements)
+									","
+											Also geht es nicht nur darum
+											sonder nur darum, man muss auch sehr sehr hart arbeiten.
+											Ich sage also immer zu meinen Schülern
+											arbeitet schlau, dann arbeitet hart.
+											Dieses Bild im Hintergrund, das wurde um 3 in der Früh gemacht.
+											Ich garantiere wenn man um 3 oder 4 in der Früh in unser Labor kommt
+											dann arbeiten dort Studenten,
+											und das nicht weil ich es ihnen befehle sonder, weil wir zu viel Spaß haben.
+											Was uns zu unserem letzten Thema führt.
+											Vergiss nicht Spaß zu haben.
+											Das ist das tatsächliche Geheimnis unseres Erfolges. Wir haben zu viel Spaß.
+											Ich glaube fest daran, dass man die höchste Produktivität erreicht wenn man Spaß hat.
+											Und das ist was wir tun.
+											Bitte sehr. Vielen Dank.
+											(Applaus)
+									",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"
+"
+","
+","
+","
+",My seven species of robot — and how we created them,Dennis Hong,15:55,"AI,TEDx,engineering,robots,science,technology"

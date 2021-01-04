@@ -1,0 +1,1159 @@
+en,fr,title,speaker,duration,tags
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											I want to talk to you about one thing
+											and just one thing only,
+											and this has to do with when people ask me,
+											what do you do?
+											To which I usually respond,
+											I do computer music.
+									","
+											J'aimerais vous parler d'une chose
+											et d'une chose seulement.
+											Ça concerne ce que les gens me demandent :
+											que faites-vous?
+											Et ma réponse habituelle :
+											« Je fais de la musique électronique »
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											Now, a number of people
+											just stop talking to me right then and there,
+											and the rest who are left usually have
+											this blank look in their eye,
+											as if to say, what does that mean?
+											And I feel like I'm actually depriving them
+											of information by telling them this,
+											at which point I usually panic
+											and spit out the first thing that comes to my mind,
+											which is, I have no idea what I'm doing.
+											Which is true.
+											That's usually followed by a second thought,
+											which is, whatever it is that I'm doing,
+											I love it.
+											And today, I want to, well,
+											share with you something I love,
+											and also why.
+									","
+											À ce moment-là, une bonne partie des gens
+arrête immédiatement de me parler
+											et ceux qui restent ont généralement
+											ce regard vide
+											comme pour dire :
+qu'est ce que ça signifie ?
+											Et j'ai l'impression
+											de les priver d'information
+en ne leur disant que ça.
+											À ce moment-là, je panique souvent
+											et dis la première chose
+qui me vient à l'esprit :
+											« Je n'ai aucune idée de ce que je fais ».
+											Ce qui est vrai
+											et souvent suivit d'une seconde pensée :
+											« qu'importe ce que je fais,
+											j'adore ça.  »
+											Et aujourd'hui, je voudrais
+partager avec vous
+											quelque chose que j'aime
+											et pourquoi j'aime ça.
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											And I think we'll begin with just this question:
+											What is computer music?
+											And I'm going to try to do my
+best to provide a definition,
+											maybe by telling you a story
+											that goes through some of the stuff
+											I've been working on.
+									","
+											Et je crois qu'on va commencer
+par cette question :
+											Qu'est-ce que la musique électronique?
+											Et je vais faire de mon mieux
+pour vous donner la meilleure définition.
+											Peut-être en vous racontant l'histoire
+											de certaines choses
+sur lesquelles j'ai travaillé.
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											And the first thing, I think, in our story
+											is going to be something called ChucK.
+											Now, ChucK is a programming language for music,
+											and it's open-source, it's freely available,
+											and I like to think that it crashes equally well
+											on all modern operating systems.
+											And instead of telling you more about it,
+											I'm just going to give you a demo.
+											By the way, I'm just going to nerd out
+											for just a few minutes here,
+											so I would say, don't freak out.
+											In fact, I would invite all of you to join me
+											in just geeking out.
+											If you've never written a line
+of code before in your life,
+											do not worry.
+											I'll bet you'll be able to come along on this.
+									","
+											La première chose dans notre histoire
+											est un outil appelé Chuck.
+											Chuck est un langage
+de programmation pour la musique.
+											C'est open source, disponible gratuitement
+											et j'aime penser que ça plante aussi bien
+											sur tous les systèmes
+d'exploitation modernes.
+											Et plutôt
+que de vous en parler plus,
+											je vais juste vous faire
+une démonstration.
+											Au fait, je vais jouer mon geek
+pendant quelques minutes
+											donc, n'ayez pas peur.
+											Je vais vous inviterais
+même à me rejoindre
+											en jouant au geek.
+											Si vous n'avez jamais écrit
+une ligne de codes dans votre vie,
+											ne vous inquiétez pas.
+											Je parie que vous arriverez à suivre.
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											First thing I'm going to do is to make
+											a sine wave oscillator,
+											and we're going to called the sine wave generator
+											""Ge.""
+											And then we're going to connect ""Ge"" to the DAC.
+											Now this is kind of the abstraction
+											for the sound output on my computer. Okay?
+											So I've connected myself into the speaker.
+											Next, I'm going to say my frequency
+											is 440 hertz,
+											and I'm going to let time advance
+											by two seconds through this operation.
+											All right, so if I were to play this —
+											(Tone) —
+											you would hear a sine wave
+at 440 hertz for two seconds.
+											Okay, great. Now I'm going to copy and paste this,
+											and then just change some of these numbers,
+											220.5, 440 I shall leave it as that,
+											and .5 and 880.
+											By doubling the frequency,
+											we're actually going up in successive octaves,
+											and then we have this sequence —
+											(Tones) — of tones.
+											Okay, great, now I can imagine creating
+											all kinds of really horrible
+											single sine wave pieces of music with this,
+											but I'm going to do something
+that computers are really good at,
+											which is repetition.
+											I'm going to put this all in a while loop,
+											and you actually don't need to indent,
+											but this is purely for aesthetic reasons.
+											It's good practice.
+											And when we do this —
+											(Tones) —
+											that's going to go on for a while.
+											In fact, it's probably not going to stop
+											until this computer disintegrates.
+											And I can't really empirically prove that to you,
+											but I hope you'll believe me when I say that.
+											Next, I'm going to replace this 220
+											by math.random2f.
+											I'm going to generate a random number
+											between 30 and 1,000 and send that
+											to the frequency of me.
+											And I'm going to do this every half a second.
+											(Tones)
+											Let's do this every 200 milliseconds.
+											(Tones)
+											One hundred.
+											(Tones)
+											All right.
+											At this point, we've reached something
+											that I would like to think of as
+											the canonical computer music.
+											This is, to me, the sound that mainframes
+											are supposed to be making
+											when they're thinking really hard.
+											It's this sound, it's like,
+											the square root of five million.
+									","
+											Je vais d'abord créer
+un oscillateur d'onde sinus
+											et nous allons appeler « Ge »
+le générateur d'onde.
+											Puis on va connecter Ge au
+convertisseur numérique-analogique
+											Voilà le concept du son qui sortira
+de mon ordinateur, OK?
+											Donc je me suis connecté au haut-parleur.
+											Ensuite, je vais dire
+que ma fréquence est de 440 hertz.
+											Je vais laisser le temps avancer
+											de 2 secondes pendant cette opération.
+											Voila, donc si je jouais ça,
+											(Son)
+											vous auriez une onde sinusoïdale
+de 440 hertz pendant 2 secondes.
+											Parfait. Maintenant je fais copier-coller
+et je change quelques chiffres,
+											220,5 ; je laisse 440 tel quel ;
+											0,5 et 880.
+											En doublant la fréquence,
+											nous montons dans des octaves successives
+											donc on a cette séquence de tonalités.
+											Ok, parfait, maintenant je peux créer
+											pleins de morceaux de musique horribles
+avec des ondes sinusoïdales simples
+											mais je vais faire quelque chose que
+les ordinateurs savent très bien faire :
+											la répétition.
+											Je vais tout mettre en boucle.
+											Pas besoin de faire d'alinéa
+sauf pour des raisons esthétiques.
+											C'est un bon entraînement.
+											Et quand on fait ça —
+											(Sons)
+											Ça va continuer un moment.
+											En fait, ça ne va pas s'arrêter
+avant que l'ordinateur se désintègre.
+											Je ne peux pas vous
+le prouver empiriquement
+											mais j'espère que vous me croyez.
+											Ensuite, je vais remplacer 220
+											par math.random2f.
+											Je vais générer un chiffre au hasard
+											entre 30 et 1000 et envoyer ça
+à ma fréquence.
+											Et je vais faire ça chaque demi seconde.
+											(Sons)
+											Toutes les 200 millisecondes
+											(Sons)
+											100 millisecondes
+											(Sons)
+											Très bien.
+											À ce point, nous avons atteint
+ce que j'appellerais
+											la musique électronique par excellence.
+											Pour moi, c'est le bruit
+que les unités centrales
+											sont supposées faire
+quand elles fonctionnent à plein régime.
+											Ce son c'est comme :
+											la racine carrée de 5 millions
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											So is this computer music?
+											Yeah, I guess by definition,
+											it's kind of computer music.
+											It's probably not the kind of music you would listen to
+											cruising down the highway,
+											but it's a foundation of computer-generated music,
+											and using ChucK,
+											we've actually been building instruments
+											in the Stanford Laptop Orchestra,
+											based right here at Stanford Center for
+Computer Research in Music and Acoustics.
+									","
+											Donc est-ce ça, la musique électronique ?
+											Oui, par définition, je suppose,
+											c'en est en quelque sorte.
+											Ce n'est probablement pas le genre
+de musique qu'on écouterait
+											en roulant sur l'autoroute,
+											mais c'est la base de la musique
+générée par ordinateur.
+											Et en utilisant Chuck
+											on a pu fabriquer des instruments
+											pour le Stanford Laptop Orchestra,
+											au Centre de Recherche Informatique pour
+la Musique et l'Acoustique ici à Stanford.
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											Now the Laptop Orchestra is an ensemble of laptops,
+											humans and special hemispherical speaker arrays.
+											Now the reason we have these
+											is so that for the instruments that we create
+											out of the laptop, we want the sound to come
+											out of somewhere near the instrument
+											and the performer,
+											kind of much like a traditional, acoustic instrument.
+											Like, if I were to play a violin here,
+											the sound would naturally not come out of
+											the P.A. system, but from the artifact itself.
+											So these speakers are meant to emulate that.
+											In fact, I'm going to show you
+											how we actually built them.
+											The first step is to go to IKEA
+											and buy a salad bowl.
+											This is an 11-inch Blanda Matt.
+											That's the actual name,
+											and I actually use one of these
+											to make salad at home as well, I kid you not.
+											And the first step is you turn it upside down,
+											and then you drill holes in them,
+											six holes per hemi,
+											and then make a base plate,
+											put car speaker drivers in them
+											along with amplifiers in the enclosure,
+											and you put that all together and you have
+											these hemispherical speaker arrays.
+											Add people, add laptops,
+											you have a laptop orchestra.
+									","
+											Le Laptop Orchestra est un ensemble
+d'ordinateurs, d'hommes,
+											et une série de hauts-parleurs
+hémisphériques spéciaux.
+											Et on utilise ces hauts-parleurs car,
+											pour les instruments
+que nous créons sur ordinateur,
+											nous voulons que le son sorte
+											de quelque part près
+de l'instrument et de l'artiste,
+											un peu comme un instrument
+acoustique traditionnel.
+											Comme si je jouais du violon ici.
+											Le son ne va naturellement pas venir
+de la sono, mais de l'objet lui-même.
+											Donc ces hauts-parleurs
+sont faits pour imiter ça.
+											Je vais même vous montrer
+comment on les fabrique.
+											La première étape est d'aller
+à IKEA et d'acheter un saladier.
+											Un Blanda Matt 11 pouces,
+											c'est son vrai nom.
+											En fait j'en utilise aussi un
+											pour préparer la salade
+chez moi, je ne rigole pas.
+											La première étape
+est de le mettre à l'envers,
+											puis on perce des trous dedans
+											6 trous par hémisphère.
+											Ensuite faites une embase,
+											mettez un haut-parleur dedans
+											avec des amplificateurs dans l'enceinte,
+											on assemble le tout,
+											et voilà nos hauts-parleurs
+hémisphériques.
+											Ajoutez des gens et des ordinateurs
+vous avez un orchestre d'ordinateurs.
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											And what might a laptop orchestra sound like?
+											Well, let me give you a demonstration
+											of about 200 instruments we've created so far
+											for the Laptop Orchestra.
+											And what I'm going to do is
+actually come over to this thing.
+											This thing I have in front of me
+											actually used to be a commodity gaming controller
+											called a Gametrak.
+											This thing actually has a glove
+you can put on your hands.
+											It's tethered to the base,
+											and this will track the position of your hands
+											in real time.
+											It was originally designed as a golfing controller
+											to detect the motion of your swing.
+											That turned out to be a rather large
+											commercial non-success,
+											at which point they slashed prices to 10 dollars,
+											at which point computer music researchers
+											said, ""This is awesome!
+											We can prototype instruments out of this.""
+									","
+											Quel son produirait
+un orchestre électronique?
+											Laissez-moi vous faire une démonstration
+											d'un des quelques 200 instruments
+que nous avons créé jusqu'ici
+											pour le Laptop Orchestra.
+											Ce que je vais faire
+c'est m'approcher de cet objet.
+											Ceci était à l'origine utilisé
+comme une manette de jeu,
+											on appelle ça un Gametrak.
+											On a ici un gant qu'on peut enfiler.
+											Il est attaché à l'appareil
+											et va suivre la position de vos mains
+											en temps réel.
+											À l'origine, c'était censé
+être une manette de golf
+											qui détectait le mouvement de votre swing.
+											Ça s'est avéré être un assez grand
+											échec commercial
+											au point que leur prix
+est tombé à 10 dollars.
+											Les chercheurs en musique électronique
+											se sont alors dit : « C'est génial !
+											On peut faire des prototypes
+d'instruments à partir de ça ».
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											So let me show you one instrument we've created,
+											one of many, and this instrument
+											is called ""Twilight,""
+											and it's meant to go with this metaphor
+											of pulling a sound out of the ground.
+											So let me see if this will work.
+									","
+											Donc je vais vous montrer
+un instrument que nous avons créé,
+											parmi d'autres, et cet instrument
+est appelé « Twilight » (Crépuscule)
+											et c'est fait pour ressembler
+à cette métaphore :
+											tirer un son de la terre.
+											Voyons si ça fonctionne.
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											(Music)
+									","
+											(Musique)
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											And put it back.
+											And then if you go to the left,
+											right,
+											it sounds like an elephant in pain.
+									","
+											Et je le repose.
+											Ensuite si vous allez à gauche,
+											à droite.
+											Ça ressemble au cri
+d'un éléphant qui souffre.
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											This is a slightly metallic sound.
+											Turn it just a bit.
+									","
+											Ceci est un son légèrement métallique.
+											Je tourne un tout petit peu.
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											(Music)
+											It's like a hovering car.
+									","
+											(Musique)
+											C'est comme une voiture qui plane.
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											Okay.
+									","
+											Bien.
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											This third one is a ratchet-like interaction, so
+											let me turn it up.
+									","
+											La troisième est comme
+un enchaînement de cliquetis.
+											Je vais l'allumer.
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											(Music)
+									","
+											(Musique)
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											So it's a slightly different interaction.
+									","
+											C'est un concept légèrement différent.
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											The fourth one is a drone.
+									","
+											Le quatrième est un drone.
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											(Music)
+											And finally, let's see,
+											this is a totally different interaction,
+											and I think you have to imagine that there's
+											this giant invisible drum sitting right here on stage,
+											and I'm going to bang it.
+											(Drum)
+											(Laughter)
+											So there we go, so that's one of many instruments
+											in the Laptop Orchestra.
+									","
+											(Musique)
+											Et finalement, voyons voir,
+											c'est une idée totalement différente,
+											et je crois que vous devez imaginer
+											comme un tambour géant
+invisible, ici sur scène,
+											et je vais le frapper.
+											(Batterie)
+											(Rires)
+											Donc voila, c'est l'un
+des nombreux instruments
+											du Laptop Orchestra.
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											(Applause)
+									","
+											(Applaudissements)
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											Thank you.
+									","
+											Merci.
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											And when you put that together,
+											you get something that sounds like this.
+									","
+											Et quand vous mettez tout ça ensemble,
+											vous avez quelque chose
+qui ressemble à ça.
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											(Music)
+									","
+											(Musique)
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											Okay, and so, I think from the experience
+											of building a lot of instruments
+for the Laptop Orchestra,
+											and I think from the curiosity of wondering,
+											what if we took these
+											hopefully expressive instruments
+											and we brought it to a lot of people,
+											plus then a healthy bout of insanity —
+											put those three things together —
+											led to me actually co-founding a startup company
+											in 2008 called Smule.
+									","
+											Ok, et donc, je crois
+que de cette expérience
+											de fabriquer divers instruments
+pour cet orchestre
+											et de la curiosité de se demander :
+											« et si l'on prenait ces instruments,
+que j'espère expressifs
+											et que nous les présentions au public  »,
+											plus le grain de folie nécessaire.
+											Associez ces trois éléments —
+											voilà ce qui m'a poussé
+à co-fonder en 2008
+											une entreprise appelée Smule.
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											Now Smule's mission is to create
+											expressive, mobile music things,
+											and one of the first musical instruments
+											we created is called Ocarina.
+											And I'm going to just demo this for you real quick.
+											So Ocarina —
+											(Music) —
+											is based on this ancient flute-like instrument
+											called the ocarina,
+											and this one is the four-hole
+English pendant configuration,
+											and you're literally blowing into the microphone
+											to make the sound.
+											And there's actually a little ChucK script
+											running in here that's detecting
+											the strength of your blowing
+											and also synthesizing the sound.
+											(Music)
+											And vibrato is mapped to the accelerometer,
+											so you can get —
+											(Music)
+											All right. So let me play a little ditty for you,
+											a little Bach.
+											And here, you'll hear a little
+accompaniment with the melody.
+											The accompaniment actually follows the melody,
+											not the other way around.
+									","
+											La mission de Smule est de créer
+											des morceaux de musiques
+expressifs et mobiles,
+											et l'un des premiers instruments
+											que nous avons créé est appelé Ocarina.
+											Je vais vous en faire
+une très brève démonstration.
+											Donc Ocarina —
+											(Musique)
+											est basé sur une sorte de flûte ancienne
+											appelée l'ocarina,
+											et celle-ci est l'ocarina anglais
+à quatre trous.
+											Vous soufflez littéralement dans le micro
+											pour produire le son.
+											Il y a un petit script
+« Chuck » là-dedans
+											qui détecte la force de votre souffle
+et qui synthétise le son.
+											(Musique)
+											Le vibrato est détecté par l'accéléromètre
+											et vous obtenez
+											(Musique)
+											Voila. Donc laissez-moi
+vous jouer une petite chanson,
+											un petit Bach.
+											Et ici, vous allez entendre
+un accompagnement.
+											L'accompagnement suit la mélodie,
+											pas l'inverse.
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											(Music)
+									","
+											(Musique)
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											And this was designed
+											to let you take your time
+											and figure out where your expressive space is,
+											and you can just hang out here
+											for a while, for a really
+dramatic effect, if you want,
+											and whenever you're ready —
+									","
+											Et ça a été conçu
+											pour vous laisser le temps
+de trouver votre rythme musical.
+											Donc vous pouvez trainer là un moment
+pour un effet dramatique,
+											et quand vous êtes prêt —
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											(Music)
+									","
+											(Musique)
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											And on these longer notes,
+											I'm going to use more vibrato
+											towards the end of the notes
+											to give it a little bit more of an expressive quality.
+									","
+											Et sur ces longues notes,
+je vais utiliser plus de vibrato
+											vers la fin des notes
+											pour donner un caractère plus expressif.
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											(Music)
+									","
+											(Musique)
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											Huh, that's a nice chord to end this excerpt on.
+									","
+											Hum, c'est un bel accord
+pour finir cette démonstration.
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											(Applause)
+									","
+											(Applaudissements)
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											Thank you.
+									","
+											Merci.
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											So I think a good question to ask about Ocarina is,
+											is this a toy or it an instrument? Maybe it's both,
+											but for me, I think the more important question is,
+											is it expressive?
+											And at the same time, I think
+											creating these types of instruments
+											asks a question about the role of technology,
+											and its place for how we make music.
+											Apparently, for example,
+											not that long ago, like only a hundred years ago —
+											that's not that long in the course of human history —
+											families back then
+											used to make music together
+											as a common form of entertainment.
+											I don't think that's really happening
+											that much anymore.
+											You know, this is before radio, before recording.
+											In the last hundred years, with all this technology,
+											we now have more access to music
+											as listeners and consumers,
+											but somehow, I think we're making less music
+											than ever before.
+											I'm not sure why that would be.
+											Maybe it's because it's too easy just to hit play.
+											And while listening to music is wonderful,
+											there's a special joy to making music
+											that's all its own.
+											And I think that's one part
+											of the goal of why I do what I do
+											is kind of to take us back to the past a little bit. Right?
+									","
+											Donc je crois qu'une bonne question
+à se poser à propos d'Ocarina est :
+											« est-ce un jouet ou un instrument ? »
+											Peut-être les deux,
+											mais pour moi, la question
+la plus importante est :
+											« Est-ce que c'est expressif ? »
+											Et en même temps, je crois,
+											que créer ces instruments pose
+la question du rôle de la technologie
+											et de sa place dans la musique.
+											Par exemple,
+											il y a environ 100 ans —
+											ce n'est pas si long
+dans l'histoire humaine —
+											les familles en ce temps là
+faisaient de la musique ensemble
+											comme une forme
+de divertissement classique.
+											Je doute que ça se passe
+ainsi de nos jours.
+											C'était avant la radio
+ou les enregistrements.
+											Ces derniers 100 ans,
+avec la technologie
+											nous avons maintenant accès à la musique
+											comme auditeurs et consommateurs.
+											Mais, étrangement, je crois
+que nous faisons moins de musique
+											que jamais auparavant.
+											Je ne sais pas vraiment pourquoi.
+											Peut-être que c'est très facile
+d'appuyer sur play.
+											Et, même si écouter
+de la musique est formidable,
+											il y a un certain plaisir
+à faire de la musique
+											qui est tout différent.
+											Voilà en partie la raison
+											pour laquelle je fais ce que je fais.
+											C'est un peu comme voyager
+dans le passé, n'est-ce pas?
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											Now, if that's one goal, the other goal
+											is to look to the future and think about
+											what kind of new musical things can we make
+											that we don't perhaps yet have names for
+											that's enabled by technology, but ultimately
+											might change the way that humans make music.
+											And I'll just give you one example here,
+											and this is Ocarina's other feature.
+											This is a globe,
+											and here you're actually listening
+											to other users of Ocarina
+											blow into their iPhones to play something.
+											This is ""G.I.R."" from Texas,
+											""R.I.K."" I don't know why it's these
+three-letter names today, Los Angeles.
+											They're all playing pretty,
+											somewhat minimal music here.
+									","
+											En voilà une raison.
+											Une autre est de regarder
+le futur et d'imaginer
+											les nouvelles choses
+que nous pouvons faire,
+											qui n'ont peut-être pas encore de nom,
+											et qui découlent de la technologie,
+mais finalement
+											pourraient changer la manière
+dont on fait de la musique.
+											Et je vais juste vous montrer un exemple.
+											C'est une autre caractéristique d'Ocarina.
+											Voici un globe
+											et vous êtes en train d'écouter
+											ce que d'autres utilisateurs d'Ocarina
+											jouent en soufflant dans leur Iphone.
+											Là c'est « G.I.R. » du Texas.
+											« R.I.K. » — pourquoi ces noms à trois
+lettres aujourd'hui — de Los Angeles.
+											Ils jouent tous plutôt bien,
+											plutôt minimaliste dans ce cas.
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											(Music)
+									","
+											(Musique)
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											And the idea with this is that, well,
+											technology should not be foregrounded here,
+											and — (Laughter) —
+											we've actually opened this up.
+											The first thought is that, hey, you know
+											there's somebody somewhere out there
+											playing some music,
+											and this is a small but I think important
+											human connection to make
+											that perhaps the technology affords.
+									","
+											Et l'idée ici c'est
+											que la technologie ne devrait pas
+être au premier plan ici,
+											(Rires)
+											On ouvre ça
+											et on pense d'abord :
+											« Hé, il y a quelqu'un quelque part
+qui fait de la musique »,
+											et je trouve que ça crée un lien,
+petit mais important à faire,
+											que peut-être, la technologie nous permet.
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											As a final example,
+											and perhaps my favorite example,
+											is that in the wake of the 2011 earthquake
+											and tsunami disaster in Japan,
+											a woman reached out in one of our singing apps
+											to try to get people to join in to sing with her
+											on a version of ""Lean on Me.""
+											Now, in these apps, there's this thing that allows
+											any user to add their voice
+											to an existing performance by any other user
+											or group of users,
+											so in some sense, she's created this kind of
+											global ad hoc corral of strangers,
+											and within weeks, thousands of people
+											joined in on this,
+											and you can kind of see people
+coming from all around the world
+											and all these lines converging on the origin
+											where the first rendition of the song was sung,
+											and that's in Tokyo.
+											And this is what it sounds like 
+when there's 1,000 people.
+											This is 1,000 voices.
+									","
+											Comme dernier exemple,
+											peut-être mon préféré.
+											Après les tremblements de terre de 2011
+											et le désastre du Tsunami au Japon,
+											une femme a utilisé notre application
+											pour convaincre des gens
+de chanter avec elle
+											sur une version de « Lean on Me ».
+											Donc, sur cette application,
+il y a une chose qui permet
+											à un utilisateur d'ajouter sa voix
+											à un enregistrement existant
+fait par une autre utilisateur
+											ou groupe d'utilisateurs,
+											donc elle a en quelque sorte créé
+											cette chorale spontanée d'étrangers.
+											Et en quelques semaines,
+des milliers de gens
+											s'y sont joint.
+											Vous pouvez voir des gens
+venant du monde entier
+											et toutes ces lignes
+convergent vers l'endroit
+											où la première version
+a été chantée,
+											à Tokyo.
+											Et voilà à quoi ça ressemble
+quand on réunit 1000 personnes.
+											Donc 1000 voix.
+											(Musique)
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											(Recording) ♪ Sometimes in our lives ♪
+									","
+											« Parfois dans nos vies »
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											♪ We all have pain, we all have sorrow ♪
+									","
+											« Nous avons de la peine,
+nous avons du chagrin »
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											♪ But if we are wise ♪
+									","
+											« Mais si nous sommes sages »
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											♪ We know that there's always tomorrow ♪
+									","
+											« Nous savons qu'il y a toujours demain »
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											♪ Lean on me ♪
+									","
+											« Repose toi sur moi »
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											♪ When you're not strong ♪
+									","
+											« Quand tu manque de force »
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											♪ And I'll be your friend ♪
+									","
+											« Et je serai ton ami »
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											♪ I'll help you carry on ♪
+									","
+											« Je t'aiderai à continuer »
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											♪ For it won't be long ♪
+									","
+											« Car ce ne sera pas long »
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											♪ Till I'm gonna need ♪
+									","
+											« Avant que j'aie besoin »
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											♪ Somebody to lean on ♪
+									","
+											« De quelqu'un sur qui me reposer »
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											♪ Just lean on — ♪
+									","
+											« Repose toi »
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											Is this computer music?
+									","
+											Est-ce de la musique électronique?
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											(Applause)
+									","
+											(Applaudissements)
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											Was that computer music?
+											Yeah, I guess so; it's something that you really
+											couldn't have done without computers.
+											But at the same time, it's also just human,
+											and I think what I've essentially answered so far
+											is maybe why I do the stuff that I do,
+											and let's just finally return to the first question:
+											What is computer music?
+											And I think that the catch here is that,
+											at least to me, computer music
+											isn't really about computers.
+											It is about people.
+											It's about how we can use technology
+											to change the way we think
+											and do and make music,
+											and maybe even add to how we can
+											connect with each other through music.
+									","
+											C'est ça la musique par ordinateur?
+											Oui, je suppose; ça n'aurait
+vraiment pas été possible
+											sans ordinateur.
+											Mais en même temps, c'est aussi humain.
+											Je crois avoir globalement
+répondu à la question de départ :
+											c'est peut-être pour cela
+que je fait ce que je fais.
+											Retournons pour finir
+à la première question :
+											« Qu'est ce que la musique
+par ordinateur ? »
+											Et l'essentiel ici est que,
+											du moins pour moi,
+la musique électronique,
+											ne concerne pas vraiment les ordinateurs,
+											mais les gens.
+											Comment pouvons-nous
+utiliser la technologie
+											pour changer notre conception
+et notre façon de faire de la musique
+											et peut-être aussi comment nous pouvons
+											nous rencontrer grâce à la musique.
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											And with that, I want to say,
+											this is computer music, and thank you for listening.
+									","
+											Et là-dessus je voudrais dire :
+											voilà de la musique électronique,
+et merci d'avoir écouté.
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+											(Applause)
+									","
+											(Applaudissements)
+									",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"
+"
+","
+",The DIY orchestra of the future,Ge Wang,17:36,"TEDx,music,technology,live music,entertainment"

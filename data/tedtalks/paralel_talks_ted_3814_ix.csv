@@ -1,0 +1,779 @@
+en,es,pt,tr,title,speaker,duration,tags
+"
+","
+","
+","
+",Medical tech designed to meet Africa's needs,Soyapi Mumba,5:43,"TED Fellows,health care,software,medicine,Africa,Internet,health,HIV,technology"
+"
+											Like every passionate
+software engineer out there,
+											I closely follow technology
+companies in Silicon Valley,
+											pretty much the same way soccer fans
+follow their teams in Europe.
+											I read articles on tech blogs
+											and listen to podcasts on my phone.
+											But after I finish the article,
+											lock my phone and unplug the headphones,
+											I'm back in sub-Saharan Africa,
+											where the landscape is not quite the same.
+											We have long and frequent power outages,
+											low penetration of computers,
+											slow internet connections
+											and a lot of patients
+visiting understaffed hospitals.
+									","
+											Como todo ingeniero 
+de software apasionado,
+											sigo de cerca a las compañías 
+de tecnología de Silicon Valley,
+											más o menos como los fanáticos del fútbol 
+siguen a sus equipos en Europa.
+											Leo artículos sobre blogs de tecnología
+											y escucho podcasts en el teléfono.
+											Pero después de terminar el artículo,
+											bloqueo el teléfono 
+y desconecto los auriculares,
+											y estoy de vuelta 
+en el África subsahariana,
+											donde el paisaje no es el mismo.
+											Tenemos apagones de energía 
+prolongados y frecuentes,
+											baja penetración de computadoras,
+											lentas conexiones a Internet
+											y muchos pacientes que 
+visitan hospitales con poco personal.
+									","
+											Tal como todos
+os engenheiros de ""software"",
+											eu acompanho de perto as empresas
+de tecnologia de Silicon Valley,
+											da mesma forma que os adeptos do futebol
+acompanham as suas equipas,na Europa,
+											Eu leio artigos em blogues de tecnologia
+											e ouço ""podcasts"" no meu telemóvel.
+											Mas quando acabo de ler um artigo,
+											bloqueio o meu telemóvel,
+desligo os auscultadores
+											e regresso à África subsaariana,
+											onde o cenário é diferente.
+											Nós temos quebras de energia
+duradouras e frequentes,
+											existem poucos computadores,
+											a ligação à Internet é lenta
+											e muitos doentes tratados em 
+hospitais com falta de pessoal.
+									","
+											Her tutkulu yazılım mühendisi gibi
+											ben de Silikon Vadisi'ndeki şirketleri
+yakından takip ediyorum,
+											tıpkı Avrupa'da fanatiklerin
+futbol takımlarını takip ettiği gibi.
+											Teknoloji bloglarındaki yazıları okur,
+											telefonumdan dijital yayınlar dinlerim.
+											Yayınları bitirdikten sonra ise
+											telefonumu kapatır, 
+kulaklıkları çıkarırım,
+											manzaranın hiç de aynı olmadığı
+											Sahara altı Afrika'ya geri dönmüş olurum.
+											Burada sık sık, uzun süreli
+elektrik kesintileri olur,
+											bilgisayar alımları düşük,
+											internet bağlantıları yavaştır
+											ve çok sayıda hasta
+yetersiz çalışanlı hastanelere gider.
+									",Medical tech designed to meet Africa's needs,Soyapi Mumba,5:43,"TED Fellows,health care,software,medicine,Africa,Internet,health,HIV,technology"
+"
+","
+","
+","
+",Medical tech designed to meet Africa's needs,Soyapi Mumba,5:43,"TED Fellows,health care,software,medicine,Africa,Internet,health,HIV,technology"
+"
+											Since the HIV epidemic,
+											hospitals have been struggling
+to manage regular HIV treatment records
+											for increasing volumes of patients.
+											For such environments,
+											importing technology systems
+developed elsewhere has not worked,
+											but in 2006, I joined Baobab Health,
+											a team that uses locally based engineers
+											to develop suitable interventions
+											that are addressing
+health care challenges in Malawi.
+									","
+											Desde la epidemia de VIH,
+los hospitales
+											luchan por gestionar los historiales 
+de tratamiento del VIH
+											para un volumen de pacientes en aumento.
+											Para estos entornos
+importar sistemas tecnológicos
+											desarrollados en otros lugares 
+no funciona.
+											Pero en 2006, me uní a Baobab Health,
+											un equipo que emplea ingenieros locales
+											para desarrollar intervenciones adecuadas
+											que abordan los desafíos de 
+la atención médica en Malawi.
+									","
+											Desde a epidemia do VIH
+											que os hospitais se têm esforçado para 
+registar os tratamentos regulares de VIH
+											num número crescente de doentes.
+											Nestes ambientes,
+											a tecnologia desenvolvida
+noutros países não funcionou,
+											mas em 2006,
+juntei-me à Baobab Health
+											uma equipa que utiliza
+engenheiros residentes nos locais
+											para desenvolver soluções adequadas
+											para solucionar os problemas de saúde
+existentes no Malawi.
+									","
+											HIV salgınından bu yana
+											hastaneler, sayıları giderek artan
+normal HIV tedavisi vakalarıyla
+											baş etmekte güçlük çekiyor.
+											Bu tür ortamlarda
+											başka yerlerde geliştirilen
+teknoloji sistemleri ithali işe yaramıyor,
+											fakat 2006'da
+Malawi'deki sağlık sorunları için
+											uygun önlemler geliştiren
+											bölgedeki mühendislerle 
+çalışan bir ekip olan
+											Baobab Health organizasyonuna katıldım.
+									",Medical tech designed to meet Africa's needs,Soyapi Mumba,5:43,"TED Fellows,health care,software,medicine,Africa,Internet,health,HIV,technology"
+"
+","
+","
+","
+",Medical tech designed to meet Africa's needs,Soyapi Mumba,5:43,"TED Fellows,health care,software,medicine,Africa,Internet,health,HIV,technology"
+"
+											We designed an electronic
+health record system
+											that is used by health care workers
+while seeing patients.
+											And in the process we realized that we
+not only had to design the software,
+											we had to implement
+the infrastructure as well.
+											We don't have enough medical staff
+											to comprehensively examine every patient,
+											so we embedded clinical guidelines
+within the software
+											to guide nurses and clerks
+											who assist with handling
+some of the workload.
+									","
+											Diseñamos un sistema electrónico 
+de historiales de salud
+											utilizado por los trabajadores 
+de la salud al ver a pacientes.
+											Y en el proceso nos dimos cuenta de que 
+no solo teníamos que diseñar el software,
+											también teníamos que 
+implementar la infraestructura.
+											No tenemos suficiente personal médico
+											para examinar exhaustivamente 
+a cada paciente,
+											así que incorporamos las pautas 
+clínicas dentro del software
+											para guiar a enfermeras y empleados
+											para ayudar a gestionar 
+parte de la carga de trabajo.
+									","
+											Criámos um sistema eletrónico
+de registo de dados de saúde
+											que é usado por trabalhadores da saúde
+enquanto examinam doentes.
+											À medida que progredíamos, apercebemo-nos
+que não tínhamos de criar só o ""software"",
+											também tínhamos
+de implementar a infraestrutura.
+											Não temos suficiente pessoal médico
+											para examinar cuidadosamente 
+todos os doentes,
+											pelo que agregámos linhas de orientação
+clínica, no próprio ""software""
+											para ajudar enfermeiros e funcionários
+											que auxiliam no fluxo de trabalho.
+									","
+											Sağlık çalışanları tarafından
+hasta muayenesi sırasında kullanılan
+											elektronik bir sağlık kayıt 
+sistemi tasarladık.
+											Bu süreçte sadece 
+yazılımı tasarlamamız değil,
+											altyapıyı da uygulamaya sokmamız
+gerektiğini fark ettik.
+											Her hastayı kapsamlı bir şekilde
+muayene etmek için
+											yeterli tıbbi personelimiz yoktu,
+											biz de iş yükünde bize yardım eden
+hemşire ve çalışanlara
+											rehberlik edecek
+											yazılım için tıbbi prensipler geliştirdik.
+									",Medical tech designed to meet Africa's needs,Soyapi Mumba,5:43,"TED Fellows,health care,software,medicine,Africa,Internet,health,HIV,technology"
+"
+","
+","
+","
+",Medical tech designed to meet Africa's needs,Soyapi Mumba,5:43,"TED Fellows,health care,software,medicine,Africa,Internet,health,HIV,technology"
+"
+											Everyone has a birthday,
+											but not everyone knows their birthday,
+											so we wrote algorithms
+to handle estimated birthdates
+											as complete dates.
+											How do we follow up
+patients living in slums
+											with no street and house numbers?
+											We used landmarks to approximate
+their physical addresses.
+									","
+											Todos tenemos una fecha de nacimiento,
+											pero no todos conocen 
+su fecha de nacimiento,
+											así escribimos algoritmos para 
+manejar fechas de nacimiento estimadas
+											como fechas completas.
+											¿Cómo hacer un seguimiento de pacientes 
+que viven en barrios marginales,
+											sin números de calles y casas?
+											Usamos hitos para aproximar 
+sus direcciones físicas.
+									","
+											Todos têm uma data de nascimento,
+											mas nem todos sabem
+quando é essa data.
+											Por isso, criámos algoritmos, para lidar
+com datas de nascimento estimadas
+											como se fossem datas certas.
+											Mas como é que acompanhamos
+doentes que vivem em bairros de lata,
+											sem nome de rua nem número da casa?
+											Usamos pontos de referência para fazer
+uma aproximação ao endereço da casa.
+									","
+											Herkesin bir doğum günü var
+											ama herkes doğum gününü bilmez.
+											bu yüzden tahmini doğum tarihlerini
+derlemeleri için
+											algoritmalar yazdık.
+											Ev ve sokak numaraları olmayan
+gecekonduda yaşayan hastaları
+											nasıl takip edecektik?
+											Bunun için fiziksel adreslerine 
+yakın yer işaretleri kullandık.
+									",Medical tech designed to meet Africa's needs,Soyapi Mumba,5:43,"TED Fellows,health care,software,medicine,Africa,Internet,health,HIV,technology"
+"
+","
+","
+","
+",Medical tech designed to meet Africa's needs,Soyapi Mumba,5:43,"TED Fellows,health care,software,medicine,Africa,Internet,health,HIV,technology"
+"
+											Malawi had no IDs
+to uniquely identify patients,
+											so we had to implement unique patient IDs
+											to link patient records across clinics.
+											The IDs are printed as barcodes
+											on labels that are stuck
+on personal health booklets
+											kept by each patient.
+											With this barcoded ID,
+											a simple scan with a barcode reader
+											quickly pulls up the patient's records.
+											No need to rewrite their personal details
+											on paper registers at every visit.
+											And suddenly, queues became shorter.
+											This meant patients, typically mothers
+with little children on their backs,
+											had to spend less time
+waiting to be assisted.
+											And if they lose their booklets,
+											their records can still be pulled
+by searching with their names.
+									","
+											Malawi no tenía carnés de identidad para 
+identificar de forma única a los pacientes
+											así que tuvimos que implementar 
+un carné único de pacientes
+											para vincular los historiales de 
+los pacientes a través de las clínicas.
+											Los carnés se imprimen 
+como códigos de barras,
+											en etiquetas pegadas en folletos 
+de salud personales
+											mantenidos por cada paciente.
+											Con esta identificación 
+de código de barras,
+											con un simple escaneo con un lector 
+de código de barras
+											rápidamente se obtienen 
+los historiales del paciente.
+											No es necesario volver 
+a escribir sus datos personales
+											en el historial en papel 
+durante cada visita.
+											Y, de repente, las colas 
+se hicieron más cortas.
+											Esto significó que pacientes, generalmente
+madres con niños pequeños a sus espaldas,
+											tuvieron que pasar menos tiempo 
+esperando ser asistidas.
+											Y si pierden sus folletos,
+											sus historiales aún se pueden 
+extraer buscando por nombre.
+									","
+											No Malawi não há bilhetes de identidade
+para podermos identificar cada doente,
+											pelo que tivemos de criar
+identificações individuais
+											para relacionar os registos
+nas diversas clínicas.
+											Essas identificações são impressas
+como códigos de barras
+											em etiquetas coladas em cada 
+boletim de saúde pessoal
+											de cada doente.
+											Através deste código de barras,
+											basta usar um leitor digital
+											para se obter os registos do doente.
+											Assim, não é preciso voltar a escrever
+os detalhes pessoais em cada visita.
+											Assim, as filas de espera
+ficaram mais pequenas.
+											Isso implica que os doentes, tipicamente
+mães que trazem os filhos às costas,
+											passaram a esperar menos tempo 
+para serem atendidas.
+											Se os doentes perderem o seu boletim,
+											podemos aceder aos seus registos
+procurando pelo nome.
+									","
+											Malavi'de hastaları tanımlayacak
+için kimlik kartları yok,
+											bu yüzden hastaneler arası 
+hasta kaydını tutmak için
+											benzersiz hasta kimlikleri geliştirdik.
+											Kimlikler kişisel sağlık 
+dökümanları üzerine
+											hastalar tarafından saklanmak üzere
+											barkod olarak basıldı.
+											Bu barkodlu kimlikle
+											basit bir barkod okuyucu
+											hastanın kayıtlarını ortaya çıkarabilir.
+											Böylece her gekdiklerinde
+											kişisel bilgilerini kağıda 
+dökmeye gerek kalmadı.
+											Kurukları birden kısaldı.
+											bu da sırtlarında 
+çocuklarını taşıyan annelerin
+											yardım alabilmesi için 
+daha az beklemeleri demekti.
+											Dökümanlarını kaybetseler dahi
+											isimlerinden arama yapılarak
+kayıtlarına ulaşılabiliyor.
+									",Medical tech designed to meet Africa's needs,Soyapi Mumba,5:43,"TED Fellows,health care,software,medicine,Africa,Internet,health,HIV,technology"
+"
+","
+","
+","
+",Medical tech designed to meet Africa's needs,Soyapi Mumba,5:43,"TED Fellows,health care,software,medicine,Africa,Internet,health,HIV,technology"
+"
+											Now, the way we pronounce
+and spell names varies tremendously.
+											We freely mix R's and L's,
+											English and vernacular
+versions of their names.
+											Even soundex,
+											a standard method for grouping words
+by how similar they sound,
+											was not good enough.
+											So we had to modify it
+											to help us link and match
+existing records.
+									","
+											La forma de pronunciar y deletrear
+los nombres varía tremendamente.
+											Mezclamos libremente Rs y Ls,
+											versiones en inglés 
+y vernáculas de sus nombres.
+											Incluso con soundex,
+											un método estándar para agrupar 
+palabras por lo similares que suenan,
+											no fue lo suficientemente bueno,
+											por eso tuvimos que modificarlo
+											para ayudarnos a vincular 
+y unir los historiales existentes.
+									","
+											Contudo, o modo como pronunciamos
+e soletramos os nomes varia muito.
+											É frequente misturarmos
+os ""R"" com os ""L""
+											e também as versões dos nomes
+em inglês e na língua materna.
+											Até a técnica Soundex,
+											um método usado para agrupar palavras
+através da sua fonética similar,
+											não era suficientemente boa.
+											Assim, tivemos de modificá-la
+											para nos ajudar a encontrar
+e a relacionar os registos existentes.
+									","
+											İsimleri telaffuz şeklimiz
+müthiş bir şekilde değişiyor.
+											Kolaylıkla R ve L'leri karıştırıyorduk,
+											İsimlerinin İngilizce 
+ve yerel ağızlardaki versiyonları.
+											Soundex dediğimiz
+											telaffuz yakınlığına göre kelimelerin 
+standart şekilde gruplanması bile
+											yeterli değildi.
+											Mevcut kayıtlarla eşleşmesi için
+											düzenlememiz gerekiyordu.
+									",Medical tech designed to meet Africa's needs,Soyapi Mumba,5:43,"TED Fellows,health care,software,medicine,Africa,Internet,health,HIV,technology"
+"
+","
+","
+","
+",Medical tech designed to meet Africa's needs,Soyapi Mumba,5:43,"TED Fellows,health care,software,medicine,Africa,Internet,health,HIV,technology"
+"
+											Before the iPhone,
+											software engineers
+developed for personal computers,
+											but from our experience,
+											we knew our power system
+is not reliable enough
+											for personal computers.
+											So we repurposed touch screen
+point-of-sale terminals
+											that are meant for retail shops
+											to become clinical workstations.
+											At the time, we imported
+internet appliances called i-Openers
+											that were manufactured
+during the dot-com era
+											by a failed US company.
+											We modified their screens
+											to add touch sensors
+											and their power system
+to run from rechargeable batteries.
+									","
+											Antes del iPhone,
+											los ingenieros de software desarrollaban
+para computadoras personales,
+											pero desde nuestra experiencia,
+											sabíamos que nuestro sistema de energía 
+no es lo suficientemente confiable
+											para computadoras personales.
+											Así que reutilizamos terminales 
+de punto de venta con pantalla táctil
+											destinadas a tiendas minoristas
+											para convertirlas 
+en estaciones de trabajo en clínicas.
+											En aquel entonces, importamos dispositivos 
+de Internet llamados i-Openers
+											fabricados durante la era de las puntocom
+											por una compañía estadounidense fallida.
+											Modificamos sus pantallas,
+											agregamos sensores táctiles
+											y su sistema de energía para hacerlas 
+funcionar con baterías recargables.
+									","
+											Antes do iPhone,
+											os engenheiros de ""software""
+desenvolveram computadores pessoais
+											mas, pela nossa experiência,
+											sabíamos que o nosso gerador 
+não era suficientemente bom
+											para ser usado
+em computadores pessoais.
+											Assim, adaptámos os terminais
+de ecrã de contacto,
+											usados nas lojas a retalho,
+											para se tornarem postos
+de trabalho nas clínicas.
+											Na altura, importámos aplicações
+de Internet denominadas i-Openers
+											que tinham sido fabricadas
+há muito tempo
+											por uma companhia americana já falida.
+											Modificámos os visores
+											para adicionar sensores tácteis
+											e para o sistema de energia
+funcionar com baterias recarregáveis.
+									","
+											iPhone öncesinde
+											yazılım mühendisleri
+kişisel bilgisayarlar geliştirdi
+											ama tecrübemize dayanarak
+											elektrik sistemimizin kişisel 
+bilgisayarlar için yeterince güvenilir
+											olmadığını biliyorduk.
+											Bu yüzden perakende mağazalarının
+											tıbbi istasyonlara dönüşmeleri için
+											dokunmatik ekranlı 
+satış noktaları geliştirdik.
+											O sıralar dot-com döneminde
+											başarısız bir ABD şirketi 
+tarafından üretilmiş i-Openers adlı
+											internet araç gereçleri ithal ettik.
+											Dokunmatik sensörler eklemek
+											ve elektrik sistemlerinin
+											yenilenebilir bataryalar 
+kullanabilmesi için ekranlarını düzelttik.
+									",Medical tech designed to meet Africa's needs,Soyapi Mumba,5:43,"TED Fellows,health care,software,medicine,Africa,Internet,health,HIV,technology"
+"
+","
+","
+","
+",Medical tech designed to meet Africa's needs,Soyapi Mumba,5:43,"TED Fellows,health care,software,medicine,Africa,Internet,health,HIV,technology"
+"
+											When we started, we didn't find
+a reliable network to transmit data,
+											especially from rural hospitals.
+											So we built our own towers,
+											created a wireless network
+											and linked clinics in Lilongwe,
+											Malawi's capital.
+									","
+											Cuando comenzamos, no encontramos 
+una red confiable para transmitir datos,
+											especialmente en los hospitales rurales.
+											Así que construimos 
+nuestras propias torres,
+											creamos una red inalámbrica
+											y clínicas vinculadas en Lilongwe,
+											la capital de Malawi.
+									","
+											Quando começámos, não encontrámos
+nenhuma rede fiável para transmitir dados,
+											especialmente a partir
+de hospitais rurais.
+											Assim, construímos
+as nossas próprias torres,
+											criámos uma rede sem fios
+											e ligámos as clínicas em Lilongwe,
+											a capital do Malawi.
+									","
+											İlk başladığımızda veri transferi için
+güvenilir bir ağ bulamadık,
+											özellikle kırsal hastanelerden.
+											Biz de kendi kulelerimizi inşa ettik,
+											kablosuz bir ağ yarattık
+											ve Malawi'nin başkenti Lilongwe'deki
+											hastanelerle bağlantısını kurduk.
+									",Medical tech designed to meet Africa's needs,Soyapi Mumba,5:43,"TED Fellows,health care,software,medicine,Africa,Internet,health,HIV,technology"
+"
+","
+","
+","
+",Medical tech designed to meet Africa's needs,Soyapi Mumba,5:43,"TED Fellows,health care,software,medicine,Africa,Internet,health,HIV,technology"
+"
+											(Applause)
+									","
+											(Aplausos)
+									","
+											(Aplausos)
+									","
+											(Alkışlar)
+									",Medical tech designed to meet Africa's needs,Soyapi Mumba,5:43,"TED Fellows,health care,software,medicine,Africa,Internet,health,HIV,technology"
+"
+","
+","
+","
+",Medical tech designed to meet Africa's needs,Soyapi Mumba,5:43,"TED Fellows,health care,software,medicine,Africa,Internet,health,HIV,technology"
+"
+											With a team of engineers
+											working within a hospital campus,
+											we observed health care workers
+use the system
+											and iteratively
+build an information system
+											that is now managing HIV records
+											in all major public hospitals in Malawi.
+											These are hospitals serving
+over 2,000 HIV patients, each clinic.
+											Now, health care workers
+who used to spend days
+											to tally and prepare quarterly reports
+											are producing the same reports
+within minutes,
+											and health care experts
+from all over the world
+											are now coming to Malawi
+to learn how we did it.
+									","
+											Con un equipo de ingenieros
+											trabajando dentro del campus 
+de un hospital,
+											observamos que los trabajadores 
+de la salud usan el sistema
+											y construimos iterativamente 
+un sistema de información
+											que ahora gestiona 
+los historiales de VIH
+											en todos los principales 
+hospitales públicos en Malawi.
+											Estos son hospitales que atienden en 
+cada uno a más de 2000 pacientes con VIH.
+											Los trabajadores de la salud 
+que solían pasar días
+											contando y preparando 
+informes trimestrales
+											están produciendo 
+los mismos informes en minutos.
+											Y expertos en atención médica 
+de todo el mundo
+											ahora vienen a Malawi para aprender 
+cómo lo hicimos.
+									","
+											Com uma equipa de engenheiros
+											a trabalhar no campus de um hospital,
+											observámos trabalhadores
+da saúde a usar o sistema
+											e, interativamente, a construir
+um sistema de informação
+											que agora gere os registos de VIH
+											em todos os grandes hospitais
+públicos do Malawi.
+											Estes hospitais tratam de mais
+de 2000 doentes com VIH, em cada clínica.
+											Agora, os trabalhadores da saúde 
+que passavam os dias
+											a registar e a preparar
+relatórios trimestrais
+											conseguem produzi-los em minutos,
+											e especialistas da saúde
+de todo o mundo
+											vêm até ao Malawi
+para ver como é que conseguimos.
+									","
+											Hastane kampüsünde çalışan
+											bir mühendis ekibi ile
+											sağlık çalışanlarının
+sistemi kullandıklarını
+											ve sürekli bir bilgi sistemi 
+oluşturduklarını
+											bununla da Malavi'deki 
+tüm devlet hastanelerinde
+											HIV kayıtlarını 
+takip ettiklerini gözlemledik.
+											Her hastanede 2.000 üzerinde
+HIV hastasına bakan hastaneler bunlar.
+											Daha önce üç aylık rapor 
+hazırmalamak için
+											günlerce vakit harcayan sağlık çalışanları
+											şimdi aynı raporları 
+birkaç dakika içinde hazırlıyor
+											ve dünyanın dört bir yanından 
+sağlık uzmanları
+											bunu nasıl yaptığımızı
+öğrenmek için Malavi'ye geliyor.
+									",Medical tech designed to meet Africa's needs,Soyapi Mumba,5:43,"TED Fellows,health care,software,medicine,Africa,Internet,health,HIV,technology"
+"
+","
+","
+","
+",Medical tech designed to meet Africa's needs,Soyapi Mumba,5:43,"TED Fellows,health care,software,medicine,Africa,Internet,health,HIV,technology"
+"
+											(Applause)
+									","
+											(Aplausos)
+									","
+											(Aplausos)
+									","
+											(Alkışlar)
+									",Medical tech designed to meet Africa's needs,Soyapi Mumba,5:43,"TED Fellows,health care,software,medicine,Africa,Internet,health,HIV,technology"
+"
+","
+","
+","
+",Medical tech designed to meet Africa's needs,Soyapi Mumba,5:43,"TED Fellows,health care,software,medicine,Africa,Internet,health,HIV,technology"
+"
+											It is inspiring and fun
+											to follow technology trends
+across the globe,
+											but to make them work
+											in low-resourced environments
+											like public hospitals
+in sub-Saharan Africa,
+											we have had to become jacks-of-all-trades
+											and build whole systems,
+including the infrastructure,
+											from the ground up.
+									","
+											Es inspirador y divertido
+											seguir las tendencias tecnológicas 
+en todo el mundo,
+											pero para que funcionen
+											en entornos de escasos recursos
+											como los hospitales públicos 
+en el África subsahariana,
+											hemos tenido que saber de todos un poco
+											y construir sistemas completos, 
+incluida la infraestructura,
+											desde el principio.
+									","
+											É inspirador e divertido
+											seguir as tendências tecnológicas
+de todo o mundo,
+											mas para pô-las a funcionar
+											em ambientes pobres
+											como os hospitais públicos 
+na África subsaariana,
+											tivemos que nos tornar 
+os homens dos sete ofícios
+											e construir sistemas inteiros,
+incluindo a infraestrutura,
+											a partir do zero.
+									","
+											Dünyadaki teknolojik gelişmeleri
+takip etmek
+											ilham verici ve eğlenceli olsa da
+											bunların ancak Sahra altı Afrika'daki
+											kamu hastaneleri gibi
+											düşük kaynaklı ortamlarda 
+işe yaraması için
+											pek çok konuda uzman olup
+											altyapı dahil tüm sistemleri
+inşa etmemiz gerekti,
+											hem de sıfırdan başlayarak.
+									",Medical tech designed to meet Africa's needs,Soyapi Mumba,5:43,"TED Fellows,health care,software,medicine,Africa,Internet,health,HIV,technology"
+"
+","
+","
+","
+",Medical tech designed to meet Africa's needs,Soyapi Mumba,5:43,"TED Fellows,health care,software,medicine,Africa,Internet,health,HIV,technology"
+"
+											Thank you.
+									","
+											Gracias.
+									","
+											Obrigado.
+									","
+											Teşekkür ederim.
+									",Medical tech designed to meet Africa's needs,Soyapi Mumba,5:43,"TED Fellows,health care,software,medicine,Africa,Internet,health,HIV,technology"
+"
+","
+","
+","
+",Medical tech designed to meet Africa's needs,Soyapi Mumba,5:43,"TED Fellows,health care,software,medicine,Africa,Internet,health,HIV,technology"
+"
+											(Applause)
+									","
+											(Aplausos)
+									","
+											(Aplausos)
+									","
+											(Alkışlar)
+									",Medical tech designed to meet Africa's needs,Soyapi Mumba,5:43,"TED Fellows,health care,software,medicine,Africa,Internet,health,HIV,technology"
+"
+","
+","
+","
+",Medical tech designed to meet Africa's needs,Soyapi Mumba,5:43,"TED Fellows,health care,software,medicine,Africa,Internet,health,HIV,technology"

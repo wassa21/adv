@@ -1,0 +1,1818 @@
+en,pt,tr,fr,title,speaker,duration,tags
+"
+","
+","
+","
+",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+											In my lab, we build
+autonomous aerial robots
+											like the one you see flying here.
+											Unlike the commercially available drones
+that you can buy today,
+											this robot doesn't have any GPS on board.
+											So without GPS,
+											it's hard for robots like this
+to determine their position.
+											This robot uses onboard sensors,
+cameras and laser scanners,
+											to scan the environment.
+											It detects features from the environment,
+											and it determines where it is
+relative to those features,
+											using a method of triangulation.
+											And then it can assemble
+all these features into a map,
+											like you see behind me.
+											And this map then allows the robot
+to understand where the obstacles are
+											and navigate in a collision-free manner.
+									","
+											No meu laboratório, nós construímos
+robôs aéreos autónomos
+											como o que vocês veem aqui a voar.
+											Ao contrário de outros drones disponíveis
+comercialmente, que compramos hoje,
+											este robô não tem nenhum GPS a bordo.
+											Então, sem GPS,
+											é difícil para robôs como este
+determinar a sua posição.
+											Este robô usa sensores a bordo,
+câmaras e ""scanner"" a laser,
+											para fazer a análise do ambiente.
+											Ele deteta características do ambiente,
+											e determina onde está 
+em relação a essas características,
+											usando um método de triangulação.
+											Depois, pode reunir
+todas essas características num mapa,
+											como o que veem atrás de mim.
+											Este mapa, em seguida, permite 
+ao robô perceber onde estão os obstáculos
+											e navegar sem problemas de colisão.
+									","
+											Laboratuvarımda otonom 
+hava robotları geliştiriyoruz,
+											burada uçarken gördüğünüz gibi.
+											Bugün ticari olarak satılan
+mevcut dronların aksine,
+											bu robotun üzerinde GPS 
+(Küresel konumlandırma sistemi) yok.
+											GPS olmadan,
+											bunun gibi robotların yönlerini 
+saptamaları zordur.
+											Bu robot çevreyi taramak için 
+yerleşik sensörler, kameralar
+											ve lazer tarayıcılar kullanır.
+											Çevredeki özellikleri saptamak suretiyle,
+											nirengi metodunu kullanarak 
+bu özelliklere göreli olarak
+											nerede olduğunu saptar.
+											Sonra bütün bu özellikleri bir 
+harita olarak bir araya getirir,
+											arkamda görmüş olduğunuz gibi.
+											Ardından bu harita robotun engellerin 
+nerede olduğunu anlamasını
+											ve çarpmayacak şekilde gitmesini sağlar.
+									","
+											Dans mon labo, on construit des robots
+qui peuvent voler en autonomie,
+											comme celui que vous voyez ici.
+											Contrairement aux drones que l'on peut
+acheter dans le commerce de nos jours,
+											celui-ci n'est pas équipé de GPS.
+											Donc, sans GPS,
+											c'est difficile pour ce genre de robot
+de déterminer sa position.
+											Il est donc équipé de capteurs,
+caméras et lasers,
+											utilisés pour scanner son
+environnement.
+											Le robot détecte ce qui se trouve
+autour de lui,
+											et utilise ces données
+pour déterminer sa position relative
+											simplement en triangulant.
+											Il peut ensuite créer une carte
+à partir de ces données,
+											comme celle qui s'affiche derrière moi.
+											Cette carte permet ensuite au robot de
+savoir où se trouvent les obstacles
+											et donc de naviguer en évitant
+les collisions.
+									",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+","
+","
+","
+",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+											What I want to show you next
+											is a set of experiments
+we did inside our laboratory,
+											where this robot was able
+to go for longer distances.
+											So here you'll see, on the top right,
+what the robot sees with the camera.
+											And on the main screen —
+											and of course this is sped up
+by a factor of four —
+											on the main screen you'll see
+the map that it's building.
+											So this is a high-resolution map
+of the corridor around our laboratory.
+											And in a minute
+you'll see it enter our lab,
+											which is recognizable
+by the clutter that you see.
+									","
+											O que eu quero mostrar a seguir
+											é um conjunto de experiências 
+que fizemos no nosso laboratório,
+											onde este robô foi capaz
+de ir a maiores distâncias.
+											Veem aqui, no canto superior direito,
+o que o robô vê com a câmara.
+											No ecrã principal
+											— isto está acelerado quatro vezes —
+											no ecrã principal vão ver 
+o mapa que está a ser construído.
+											Este é um mapa de alta resolução
+do corredor em volta do nosso laboratório.
+											Dentro de instantes, vão vê-lo
+entrar no laboratório,
+											que é reconhecível
+pela desordem que estão a ver.
+									","
+											Size bundan sonra göstermek istediğim şey,
+											laboratuvarımızda 
+yaptığımız bir dizi deney,
+											bunlarla bu robotun daha uzun mesafeler 
+boyunca gitmesini sağladık.
+											Burada sağ üstte robotun kamerayla 
+ne gördüğüne bakabilirsiniz.
+											Ana ekranda ise —
+											ve elbette bu dört katına 
+hızlandırılmış hâli —
+											ana ekranda oluşturduğu 
+haritayı göreceksiniz.
+											Bu laboratuvarımızın çevresindeki 
+koridorun yüksek çözünürlüklü haritası.
+											Bir dakika içinde laboratuvarımıza 
+girdiğini göreceksiniz,
+											ki göreceğiniz karışıklıktan 
+bu anlaşılıyor.
+									","
+											Maintenant, je voudrais vous montrer
+											une série d'expériences réalisées
+dans notre laboratoire,
+											où ce robot a pu parcourir
+des distances plus grandes.
+											En haut à droite, vous pouvez voir
+ce que le robot voit à travers la caméra.
+											Et sur l'écran principal,
+											- la vitesse de la vidéo est multipliée
+par quatre -
+											vous pouvez voir la carte 
+que le robot dessine.
+											On a donc une carte en haute résolution
+du couloir autour du labo.
+											Et bientôt, vous allez le voir
+entrer dans le labo,
+											que l'on reconnaît facilement 
+au désordre qui y règne.
+									",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+","
+","
+","
+",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+											(Laughter)
+									","
+											(Risos)
+									","
+											(Gülüşmeler)
+									","
+											(Rires)
+									",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+","
+","
+","
+",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+											But the main point I want to convey to you
+											is that these robots are capable
+of building high-resolution maps
+											at five centimeters resolution,
+											allowing somebody who is outside the lab,
+or outside the building
+											to deploy these
+without actually going inside,
+											and trying to infer
+what happens inside the building.
+									","
+											Mas o ponto principal 
+que vos quero transmitir
+											é que estes robôs são capazes
+de construir mapas de alta resolução,
+											uma resolução de cinco centímetros,
+											permitindo que alguém que está fora 
+do laboratório, ou fora do edifício
+											os coloque sem ter que lá entrar,
+											e tentar deduzir o que acontece
+no interior do edifício.
+									","
+											Ancak size aktarmak 
+istediğim ana nokta şu ki,
+											bu robotlar beş santimetre çözünürlükle
+yüksek çözünürlüklü haritalar
+											yapma yeteneğine sahipler,
+											bu durum da laboratuvar dışındaki 
+veya bina dışındaki birinin
+											aslında içeri girmeden ve binanın 
+içinde olanları anlamaya
+											çalışmadan bunları 
+görevlendirmesini sağlıyor.
+									","
+											Ce que je voulais vous faire comprendre,
+											c'est que ces robots sont capables
+de dessiner des plans en haute résolution
+											à 5 cm près,
+											ce qui permet à quelqu'un à l'extérieur
+du laboratoire ou même du bâtiment
+											de les contrôler sans avoir besoin
+d'aller à l'intérieur,
+											et d’interagir avec ce qui se passe dans
+le bâtiment.
+									",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+","
+","
+","
+",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+											Now there's one problem
+with robots like this.
+											The first problem is it's pretty big.
+											Because it's big, it's heavy.
+											And these robots consume
+about 100 watts per pound.
+											And this makes for
+a very short mission life.
+											The second problem
+											is that these robots have onboard sensors
+that end up being very expensive —
+											a laser scanner, a camera
+and the processors.
+											That drives up the cost of this robot.
+									","
+											Agora, há um problema
+com robôs como este.
+											O primeiro problema é que é muito grande.
+											Como é grande, é pesado também.
+											Estes robôs consomem
+cerca de 200 watts por quilo,
+											Por isso o tempo 
+de uma missão é muito curto.
+											O segundo problema
+											é que estes robôs têm sensores a bordo
+que acabam por ser muito caros
+											— um ""scanner"" a laser, 
+uma câmara e os processadores.
+											Isso aumenta o custo deste robô.
+									","
+											Ancak bunun gibi robotlarla 
+ilgili bir sorun var.
+											İlk sorun, oldukça büyükler.
+											Büyük oldukları için ağırlar.
+											Bu robotlar libre (453,6 gr) 
+başına 100 vat harcıyorlar.
+											Bu da çok kısa bir uçuş süresi 
+anlamına geliyor.
+											İkinci sorun,
+											bu robotların üzerinde çok pahalıya 
+mal olan sensörler var —
+											bir lazer tarayıcı, 
+bir kamera ve işlemciler.
+											Bunlar da bu robotun fiyatını yükseltiyor.
+									","
+											Cela dit, ces robots posent un problème.
+											D'abord, ils sont grands.
+											Donc, ils sont lourds.
+											Et ils consomment environ 
+100 watts par livre,
+											donc les missions ne peuvent
+être que très courtes.
+											Ensuite, les capteurs
+dont ils sont équipés
+											finissent par revenir très cher :
+											un scanneur laser, une caméra,
+plus les processeurs.
+											Cela augmente encore le prix du robot.
+									",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+","
+","
+","
+",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+											So we asked ourselves a question:
+											what consumer product
+can you buy in an electronics store
+											that is inexpensive, that's lightweight,
+that has sensing onboard and computation?
+											And we invented the flying phone.
+									","
+											Então pensámos:
+											""Que produto podemos comprar 
+numa loja de eletrónica
+											""que seja barato, leve, e tenha 
+sensores de bordo e computação?""
+											E inventámos o telefone voador.
+									","
+											O yüzden kendimize bir soru sorduk:
+											Bir elektronik mağazasından 
+ucuz, hafif olup üzerinde
+											algılayıcı ve ölçümleyici olan 
+hangi tüketici ürününü alabilirsiniz?
+											Biz de uçan telefonu icat ettk.
+									","
+											Donc nous nous sommes posé la question :
+											quel bien de consommation peut-on
+acheter dans un magasin d'électronique,
+											qui soit bon marché, léger, programmable,
+et dispose de capteurs ?
+											Et nous avons inventé le téléphone volant.
+									",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+","
+","
+","
+",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+											(Laughter)
+									","
+											(Risos)
+									","
+											(Gülüşmeler)
+									","
+											(Rires)
+									",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+","
+","
+","
+",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+											So this robot uses a Samsung Galaxy
+smartphone that you can buy off the shelf,
+											and all you need is an app that you
+can download from our app store.
+											And you can see this robot
+reading the letters, ""TED"" in this case,
+											looking at the corners
+of the ""T"" and the ""E""
+											and then triangulating off of that,
+flying autonomously.
+											That joystick is just there
+to make sure if the robot goes crazy,
+											Giuseppe can kill it.
+									","
+											Este robô usa um smartphone Samsung Galaxy
+que podemos comprar em qualquer sítio
+											e só precisamos dum aplicativo
+											que podemos descarregar
+em qualquer loja de aplicativos.
+											Podem ver este robô
+a ler as letras, ""TED"", neste caso,
+											olhando para os cantos
+do ""T"" e do ""E""
+											e, depois, triangulando para longe deles,
+a voar autonomamente.
+											O ""joystick"" está ali só para 
+garantir que, se o robô enlouquecer,
+											Giuseppe pode matá-lo.
+									","
+											Bu robot, mağazadan alabileceğiniz 
+Samsung Galaxy akıllı telefonu kullanıyor
+											ve tek ihtiyacınız olan şey uygulama 
+mağazamızdan indirilebilen bir uygulama.
+											Bu robotun bu durumda ""TED"" harflerini 
+okuduğunu görüyorsunuz,
+											""T"" ve ""E""nin köşelerine bakıp 
+ondan üçgenleme yaparak
+											otonom olarak uçuyor.
+											Kumanda kolu orada, çünkü
+robot çılgın şeyler yaparsa,
+											Giuseppe işini bitirebilir.
+									","
+											Ce robot utilise donc un Samsung Galaxy,
+que vous pouvez acheter en magasin,
+											et tout ce dont vous avez besoin est
+de télécharger notre application.
+											Vous pouvez voir ce robot lire
+les lettres « TED »,
+											observer les coins du T et du E,
+											et voler en autonomie,
+en se repérant grâce à ça.
+											La manette est juste là au cas où :
+si le robot bascule du côté obscur,
+											Giuseppe pourra l'éliminer.
+									",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+","
+","
+","
+",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+											(Laughter)
+									","
+											(Risos)
+									","
+											(Gülüşmeler)
+									","
+											(Rires)
+									",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+","
+","
+","
+",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+											In addition to building
+these small robots,
+											we also experiment with aggressive
+behaviors, like you see here.
+											So this robot is now traveling
+at two to three meters per second,
+											pitching and rolling aggressively
+as it changes direction.
+											The main point is we can have
+smaller robots that can go faster
+											and then travel in these
+very unstructured environments.
+									","
+											Para além da construção
+destes pequenos robôs,
+											também fizemos experiências
+com comportamentos agressivos, como aqui.
+											Este robô está agora a voar
+a dois a três metros por segundo,
+											inclinando e girando agressivamente,
+quando muda de direção.
+											O importante é que podemos ter
+robôs mais pequenos e mais rápidos
+											a voar nestes ambientes 
+muito desestruturados.
+									","
+											Bu küçük robotları geliştirme yanında,
+											burada gördüğünüz gibi agresif 
+davranışlarla ilgili de deneyler yaptık.
+											İşte bu robot saniyede iki ila 
+üç metre hızla seyahat ediyor,
+											yön değiştirdikçe agresifçe 
+savrulup dönüyor.
+											Ana nokta, daha hızlı giden 
+ve bu yapılandırılmamış
+											çevrelerde yol alan daha küçük 
+robotlarımızın olabileceği.
+									","
+											En plus de ces petits robots,
+											nous travaillons sur des comportements
+plus agressifs, comme celui-ci.
+											Ce robot se déplace à deux ou trois
+mètres par seconde,
+											et il tangue et roule agressivement
+quand il change de direction.
+											L'essentiel, c'est que nous pouvons
+construire de robots plus petits,
+											qui se déplacent très vite dans 
+des milieux sans structure.
+									",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+","
+","
+","
+",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+											And in this next video,
+											just like you see this bird, an eagle,
+gracefully coordinating its wings,
+											its eyes and feet
+to grab prey out of the water,
+											our robot can go fishing, too.
+									","
+											No próximo vídeo,
+											assim como veem este pássaro, uma águia,
+
+											graciosamente coordenando
+as asas, os olhos e os pés
+											para tirar a presa da água,
+											o nosso robô também pode pescar.
+									","
+											Bir sonraki videoda gördüğünüz gibi,
+											aynı bu kuşun, kartalın zerafetle 
+sudan avını kapmak için
+											kanatlarını, gözlerini ve ayaklarını 
+koordine etmesi gibi,
+											robotumuz da balığa gidebilir.
+									","
+											Dans la vidéo suivante,
+											tout comme cet aigle coordonne avec grâce
+											ses ailes, ses yeux et ses serres pour
+sortir sa proie de l'eau,
+											vous pouvez voir notre robot
+partir à la pêche.
+									",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+","
+","
+","
+",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+											(Laughter)
+									","
+											(Risos)
+									","
+											(Gülüşmeler)
+									","
+											(Rires)
+									",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+","
+","
+","
+",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+											In this case, this is a Philly cheesesteak
+hoagie that it's grabbing out of thin air.
+									","
+											Neste caso, isto é uma sanduíche mista
+que ele está a apanhar de repente.
+									","
+											Burada birdenbire
+bir bonfile sandviçi kapıyor.
+									","
+											Dans son cas, il attrape
+un sandwich au vol.
+									",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+","
+","
+","
+",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+											(Laughter)
+									","
+											(Risos)
+									","
+											(Gülüşmeler)
+									","
+											(Rires)
+									",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+","
+","
+","
+",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+											So you can see this robot
+going at about three meters per second,
+											which is faster than walking speed,
+coordinating its arms, its claws
+											and its flight with split-second timing
+to achieve this maneuver.
+											In another experiment,
+											I want to show you
+how the robot adapts its flight
+											to control its suspended payload,
+											whose length is actually larger
+than the width of the window.
+											So in order to accomplish this,
+											it actually has to pitch
+and adjust the altitude
+											and swing the payload through.
+											But of course we want
+to make these even smaller,
+											and we're inspired
+in particular by honeybees.
+											So if you look at honeybees,
+and this is a slowed down video,
+											they're so small,
+the inertia is so lightweight —
+									","
+											Assim, vemos este robô a voar
+a cerca de três metros por segundo,
+											o que é mais rápido que andar,
+coordenando os braços, as garras
+											e o voo em frações de segundos
+para realizar esta manobra.
+											Numa outra experiência,
+											eu quero mostrar-vos
+como o robô adapta o seu voo
+											para controlar a sua carga suspensa,
+											cujo comprimento é maior
+do que a largura da janela.
+											A fim de conseguir isso,
+											ele tem de se inclinar 
+e ajustar a altitude
+											e equilibrar a carga para passar.
+											Mas é claro que queremos
+torná-los ainda mais pequenos,
+											e inspirámo-nos,
+em particular, nas abelhas.
+											Se observarem as abelhas
+— este é um vídeo em câmara lenta —
+											elas são tão pequenas,
+a inércia é tão leve...
+									","
+											Bu robotun saniyede yaklaşık üç metre 
+hızla gittiğini görüyorsunuz,
+											ki bu yürüyüş hızından fazla; 
+kollarını, pençelerini ve uçuşunu
+											yarım saniye zamanlamayla bu 
+manevraya ulaşmak için koordine ediyor.
+											Başka bir deneyde,
+											uzunluğu esasen bu pencerenin 
+genişliğinden büyük olan
+											askıdaki yükünü kontrol etmek için
+											uçuşunu nasıl ayarladığını 
+size göstermek istiyorum.
+											Bunu başarmak için
+											aslında irtifayı düşürüp ayarlaması
+											ve yükü içeriye doğru sallaması gerekiyor.
+											Ama elbette ki bunları 
+daha da küçük yapmak istiyoruz
+											ve özellikle bal arılarından esinlendik.
+											Eğer bal arılarına bakarsanız
+ve bu yavaşlatılmış bir video,
+											çok küçükler, 
+ataleti öylesine önemsiz ki —
+									","
+											Ce robot vole donc à environ 3 m/s,
+c'est-à-dire plus vite que
+											quelqu'un qui marche, en coordonnant
+ses bras, ses pinces et son vol
+											avec un timing à la seconde près qui lui
+permet d'effectuer cette manœuvre.
+											Dans une autre expérience,
+											je veux vous montrer comme le robot
+adapte son plan de vol
+											pour contrôler son chargement
+en suspension,
+											qui est plus long que la hauteur de
+la structure dans laquelle il doit passer.
+											Pour accomplir cet exploit,
+											il doit tanguer, ajuster son altitude,
+et faire passer le chargement
+											avec un effet de balancier.
+											Mais bien sûr, nous avons voulu faire
+encore plus petit,
+											en nous inspirant particulièrement
+des abeilles.
+											Regardez les abeilles, 
+dans cette vidéo ralentie.
+											Elles sont si petites,
+et soumises à si peu d'inertie,
+									",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+","
+","
+","
+",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+											(Laughter)
+									","
+											(Risos)
+									","
+											(Gülüşmeler)
+									","
+											(Rires)
+									",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+","
+","
+","
+",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+											that they don't care —
+they bounce off my hand, for example.
+											This is a little robot
+that mimics the honeybee behavior.
+											And smaller is better,
+											because along with the small size
+you get lower inertia.
+											Along with lower inertia —
+									","
+											... que elas não se preocupam
+— ricocheteiam na minha mão, por exemplo.
+											Este é um pequeno robô
+que imita o comportamento das abelhas.
+											Quanto mais pequeno, melhor,
+											porque, com um tamanho pequeno
+obtemos uma inércia menor.
+											Juntamente com uma inércia menor...
+									","
+											umursamıyorlar — 
+elimden sekiyorlar, örnek olarak.
+											Bu bal arısı davranışını
+taklit eden küçük bir robot.
+											Küçüldükçe daha iyi,
+											çünkü boyutunun küçüklüğüyle beraber 
+daha az atalet elde ediyorsunuz.
+											Düşük ataletle —
+									","
+											qu'elles n'en ont rien à faire :
+elles rebondissent sur ma main.
+											Ce petit robot imite le comportement
+des abeilles.
+											Et plus il est petit, mieux c'est,
+											car l'inertie diminue avec la taille.
+											Et plus l'inertie est faible...
+									",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+","
+","
+","
+",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+											(Robot buzzing, laughter)
+									","
+											(Zumbido do robô) (Risos)
+									","
+											(Robot vızıldıyor, gülüşmeler)
+									","
+											(Le robot bourdonne - Rires)
+									",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+","
+","
+","
+",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+											along with lower inertia,
+you're resistant to collisions.
+											And that makes you more robust.
+											So just like these honeybees,
+we build small robots.
+											And this particular one
+is only 25 grams in weight.
+											It consumes only six watts of power.
+											And it can travel
+up to six meters per second.
+											So if I normalize that to its size,
+											it's like a Boeing 787 traveling
+ten times the speed of sound.
+									","
+											... com uma inércia menor,
+somos resistentes a colisões.
+											Isso torna-nos mais robustos.
+											Assim, construímos robôs 
+pequenos como as abelhas.
+											Este, em especial,
+pesa apenas 25 gramas.
+											Consome apenas seis watts de potência.
+											e pode voar até seis metros por segundo.
+											Assim, em comparação com o seu tamanho,
+											é como um Boeing 787 a viajar
+a 10 vezes a velocidade do som.
+									","
+											düşük ataletle, 
+çarpışmalara dirençlisiniz.
+											Bu da sizi daha güçlü yapıyor.
+											Yani aynı bal arıları gibi
+küçük robotlar yapıyoruz.
+											Bu ise sadece 25 gram ağırlığında.
+											Yalnızca altı vat güç harcıyor.
+											Saniyede altı metreye 
+kadar yol alabiliyor.
+											Eğer büyüklüğüne göre normalize edersem,
+											bu Boeing 787'nin ses hızının 
+on katında yol alması gibi.
+									","
+											Plus l'inertie est faible,
+mieux vous résistez aux collisions.
+											Et cela vous rend plus solide.
+											Donc nous construisons des petits robots,
+comme des abeilles.
+											Celui-ci, par exemple, ne pèse que 25 g,
+											ne consomme que 6 W,
+											et peut voler jusqu'à 6 m/s.
+											Donc, si on met ça à l'échelle,
+											cela correspond à un Boeing 787 qui irait
+à 3 fois la vitesse du son.
+									",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+","
+","
+","
+",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+											(Laughter)
+									","
+											(Risos)
+									","
+											(Gülüşmeler)
+									","
+											(Rires)
+									",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+","
+","
+","
+",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+											And I want to show you an example.
+											This is probably the first planned mid-air
+collision, at one-twentieth normal speed.
+											These are going at a relative speed
+of two meters per second,
+											and this illustrates the basic principle.
+											The two-gram carbon fiber cage around it
+prevents the propellers from entangling,
+											but essentially the collision is absorbed
+and the robot responds to the collisions.
+											And so small also means safe.
+											In my lab, as we developed these robots,
+											we start off with these big robots
+											and then now we're down
+to these small robots.
+											And if you plot a histogram
+of the number of Band-Aids we've ordered
+											in the past, that sort of tailed off now.
+											Because these robots are really safe.
+									","
+											Quero mostrar um exemplo.
+											Esta provavelmente é a primeira
+colisão aérea planeada,
+											a um vigésimo da velocidade normal.
+											Estes vão a uma velocidade relativa
+de 2 metros/segundo,
+											e isto ilustra o princípio básico.
+											A gaiola de fibra de carbono, 
+de dois gramas, à volta deles
+											impede que as hélices se enredem,
+											mas, essencialmente, a colisão é 
+absorvida e o robô reage às colisões.
+											E mais pequeno 
+também significa mais seguro.
+											No meu laboratório, 
+ao desenvolver estes robôs,
+											começámos com estes robôs grandes
+											e agora, estamos com
+esses robôs pequenos.
+											Se traçarmos um histograma 
+da quantidade de pensos rápidos
+											que comprávamos, no passado
+											isso agora diminuiu.
+											Porque estes robôs são mesmo seguros.
+									","
+											Size bir örnek göstermek istiyorum.
+											Bu muhtemelen ilk planlanan havada 
+çarpışma, normal hızın yirmide biri.
+											Bunlar saniyede iki metre 
+relatif hızla gidiyor
+											ve bu temel prensibi gösteriyor.
+											Etrafındaki iki gramlık karbon fiber kafes
+pervanelerin dolaşmasını engelliyor;
+											ancak aslında çarpışma absorbe ediliyor 
+ve robot çarpışmaya cevap veriyor.
+											Bu kadar küçük olması güvenli 
+olması anlamına da geliyor.
+											Laboratuvarımda bu 
+robotları geliştirirken,
+											büyük robotlarla başlıyoruz
+											ve sonra bu küçük robotlara 
+kadar geliyoruz.
+											Geçmişte sipariş ettiğimiz 
+bantların sayısına dair bir
+											histogram çizerseniz, artık biraz azaldı.
+											Çünkü bu robotlar gerçekten güvenli.
+									","
+											Je vais vous montrer un exemple.
+											Voici probablement la première collision
+en vol planifiée, ralentie 20 fois.
+											La vitesse relative des robots
+est de 2 m/s,
+											ce qui illustre ce principe de base.
+											La cage en fibre de carbone, qui pèse 2 g,
+évite aux hélices de s'emmêler,
+											mais l'essentiel du choc est absorbé,
+et le robot réagit à la collision.
+											Donc, plus petit veut aussi dire plus sûr.
+											Dans mon labo,
+pour développer ces robots,
+											nous avons commencé avec des gros,
+											et maintenant nous en faisons
+des tout petits.
+											Et si vous faites un graphique
+de notre consommation de pansements,
+											vous verrez qu'elle est
+quasiment nulle maintenant.
+											Tout ça parce que ces robots sont
+vraiment sûrs.
+									",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+","
+","
+","
+",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+											The small size has some disadvantages,
+											and nature has found a number of ways
+to compensate for these disadvantages.
+											The basic idea is they aggregate
+to form large groups, or swarms.
+											So, similarly, in our lab,
+we try to create artificial robot swarms.
+											And this is quite challenging
+											because now you have to think
+about networks of robots.
+											And within each robot,
+											you have to think about the interplay
+of sensing, communication, computation —
+											and this network then becomes
+quite difficult to control and manage.
+											So from nature we take away
+three organizing principles
+											that essentially allow us
+to develop our algorithms.
+											The first idea is that robots
+need to be aware of their neighbors.
+											They need to be able to sense
+and communicate with their neighbors.
+									","
+											Ser pequeno tem algumas desvantagens,
+											e a natureza encontrou maneiras
+de compensar estas desvantagens.
+											A ideia básica é que eles se agregam
+para formar grandes grupos, ou enxames.
+											Do mesmo modo, no nosso laboratório,
+											tentámos criar
+enxames artificiais de robôs.
+											Isso é um grande desafio
+											porque agora temos 
+que pensar em redes de robôs.
+											E dentro de cada robô,
+											temos que pensar na interação
+da deteção, da comunicação, da computação
+											e essa rede torna-se
+muito difícil de controlar e de gerir.
+											Assim, fomos buscar à natureza,
+três princípios de organização
+											que, essencialmente, nos permitem
+desenvolver os nossos algoritmos.
+											A primeira ideia é que os robôs precisam
+de estar cientes dos seus vizinhos.
+											Precisam de poder sentir
+e comunicar com os vizinhos.
+									","
+											Küçük boyutun bazı dezavantajları var
+											ve bu dezavantajları telafi etmek için 
+doğa bir sürü yol bulmuş.
+											Ana fikir, büyük grupları veya sürüleri 
+oluşturmak için bir araya gelmeleri.
+											Benzer şekilde biz de laboratuvarımızda 
+yapay robot sürüleri yaratmaya çalışıyoruz.
+											Bu oldukça zor,
+											çünkü artık robot ağlarını 
+düşünmek zorundasınız.
+											Her robot için de
+											algılama, iletişim, hesaplama 
+etkileşimini düşünmek zorundasınız —
+											sonrasında bu ağı kontrol etmek ve 
+yönetmek oldukça zor hâle geliyor.
+											Bundan dolayı, doğadan aslında
+algoritmalarımızı geliştirmemizi
+											sağlayacak üç düzenleyici 
+prensip alıyoruz.
+											İlk fikir, robotların komşularının 
+farkında olmak zorunda olması.
+											Komşularını algılamak ve 
+iletişim kurmak durumundalar.
+									","
+											Leur petite taille a ses inconvénients,
+											mais la nature a trouvé
+des moyens de les compenser.
+											L'idée est de former de larges
+groupes, des essaims.
+											Donc, au labo, on essaye de faire la même
+chose, et de créer des essaims de robots.
+											C'est un gros défi,
+											parce qu'il faut réfléchir en termes de
+réseau de robots.
+											Et pour chaque robot,
+											il faut penser à la combinaison des sens,
+de la communication, de la programmation.
+											Le réseau devient vite difficile
+à contrôler et manœuvrer.
+											Donc nous nous inspirons des principes
+d'organisation de la nature
+											pour développer nos algorithmes.
+											La première idée est que chaque robot
+prenne son voisin en compte.
+											Il doit être capable de sentir
+et de communiquer avec ses voisins.
+									",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+","
+","
+","
+",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+											So this video illustrates the basic idea.
+											You have four robots —
+											one of the robots has actually been
+hijacked by a human operator, literally.
+											But because the robots
+interact with each other,
+											they sense their neighbors,
+											they essentially follow.
+											And here there's a single person
+able to lead this network of followers.
+											So again, it's not because all the robots
+know where they're supposed to go.
+											It's because they're just reacting
+to the positions of their neighbors.
+									","
+											Este vídeo ilustra a ideia.
+											Temos quatro robôs.
+											Um dos robôs foi sequestrado
+por um operador humano.
+											Mas como os robôs
+interagem uns com os outros,
+											eles sentem os seus vizinhos
+											e seguem um líder.
+											E aqui, uma única pessoa é capaz
+de liderar essa rede de seguidores.
+											Afinal, novamente, não é porque todos 
+os robôs sabem para onde devem ir.
+											É porque eles estão apenas a reagir
+às posições dos seus vizinhos.
+									","
+											Bu video, temel fikri açıklıyor.
+											Dört robotunuz var —
+											robotlardan biri insan operatör tarafından
+tam anlamıyla gasp edilmiş durumda.
+											Ancak robotlar birbirleriyle 
+etkileştiği için,
+											yanındakileri algılayarak
+											esasen takip ediyorlar.
+											İşte burada takipçi ağını
+yönlendiren tek bir kişi var.
+											Aslında bunun nedeni robotların 
+nereye gideceklerini bilmeleri değil,
+											yanındakilere tepki vermelerinden 
+dolayı böyle oluyor.
+									","
+											Cette vidéo illustre cette idée.
+											Il y a quatre robots,
+											et l'un d'entre eux a été littéralement
+détourné par un agent humain.
+											Mais puisque les robots interagissent
+les uns avec les autres,
+											ils localisent leur voisin,
+											et suivent le mouvement.
+											Et une seule personne peut contrôler
+tout un réseau.
+											Encore une fois, ce n'est pas parce que
+tous les robots savent où ils vont.
+											Ils réagissent juste 
+à la position de leurs voisins.
+									",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+","
+","
+","
+",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+											(Laughter)
+									","
+											(Risos)
+									","
+											(Gülüşmeler)
+									","
+											(Rires)
+									",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+","
+","
+","
+",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+											So the next experiment illustrates
+the second organizing principle.
+											And this principle has to do
+with the principle of anonymity.
+											Here the key idea is that
+											the robots are agnostic
+to the identities of their neighbors.
+											They're asked to form a circular shape,
+											and no matter how many robots
+you introduce into the formation,
+											or how many robots you pull out,
+											each robot is simply
+reacting to its neighbor.
+											It's aware of the fact that it needs
+to form the circular shape,
+											but collaborating with its neighbors
+											it forms the shape
+without central coordination.
+											Now if you put these ideas together,
+											the third idea is that we
+essentially give these robots
+											mathematical descriptions
+of the shape they need to execute.
+											And these shapes can be varying
+as a function of time,
+											and you'll see these robots
+start from a circular formation,
+											change into a rectangular formation,
+stretch into a straight line,
+											back into an ellipse.
+											And they do this with the same
+kind of split-second coordination
+											that you see in natural swarms, in nature.
+									","
+											A experiência seguinte ilustra
+o segundo princípio de organização.
+											Este princípio tem a ver
+com o princípio do anonimato.
+											Aqui a ideia fundamental é que
+											os robôs desconhecem
+a identidade dos vizinhos.
+											Pedimos-lhes para formarem um círculo.
+											Por mais robôs 
+que acrescentemos á formação,
+											ou por mais robôs que tiremos,
+											cada robô está simplesmente
+a reagir ao seu vizinho.
+											Está ciente do facto de que precisa
+formar um círculo,
+											mas em colaboração com os seus vizinhos
+											forma o círculo
+sem qualquer coordenação central.
+											Agora, se colocarmos
+estas ideias em conjunto,
+											a terceira ideia é que nós
+damos a estes robôs
+											descrições matemáticas
+da forma que eles precisam de executar.
+											Estas formas podem variar
+em função de tempo,
+											e vamos ver estes robôs,
+começarem com uma formação circular,
+											mudarem para um retângulo,
+esticarem-se numa linha reta,
+											e depois numa elipse.
+											Fazem isso com o mesmo
+tipo de coordenação ao segundo
+											que vemos nos enxames, na natureza.
+									","
+											Bir sonraki deney, ikinci düzenleyici 
+prensibi göstermektedir.
+											Bu prensip anonimlik prensibiyle ilgili.
+											Burada ana fikir,
+											robotların yakınındakilerin 
+kimliklerini bilmemesi.
+											Dairesel bir şekil oluşturmaları istendi
+											ve grubun içine kaç tane 
+robot katarsanız katın
+											ya da kaç robot çıkarırsanız çıkarın,
+											her robot sadece 
+yanındakine tepki veriyor.
+											Dairesel bir şekil oluşturması 
+gerektiğinin farkında;
+											ancak yanındakilerle işbirliği yaparak
+											merkezî bir eşgüdüm 
+olmadan şekli oluşturuyor.
+											Bu fikirleri bir araya koyunca
+											üçüncü fikir, robotlara esasen
+oluşturmaları gereken şeklin
+											matematiksel tanımlarını vermek.
+											Bu şekiller zamanın fonksiyonu 
+olarak çeşitlilik gösterebilir
+											ve bu robotların dairesel bir biçimle 
+başladığını, dikdörtgen biçime
+											dönüştüğünü, düz bir çizgi olarak 
+uzadığını, tekrar elips hâline
+											geldiğini göreceksiniz.
+											Bunu doğal sürülerde, 
+doğada gördüğünüz türden
+											yarım saniyelik eşgüdümle yapıyorlar.
+									","
+											La prochaine expérience illustre
+le deuxième principe d'organisation.
+											Ce principe, c'est celui de l'anonymat.
+											L'idée est la suivante :
+											les robots se fichent
+de l'identité de leurs voisins.
+											On leur a demandé de former un cercle,
+											et quel que soit le nombre de robots
+ajoutés à la formation,
+											ou retirés,
+											chaque robot réagit simplement
+par rapport à son voisin.
+											Il sait qu'il doit former un cercle,
+											mais en collaborant avec ses voisins,
+											il forme le cercle
+sans coordination globale.
+											Donc, si on tient compte
+de ces deux idées,
+											la troisième est que
+nous donnons à ces robots
+											des descriptions mathématiques
+de la formation à exécuter.
+											Ces formes peuvent varier dans le temps,
+											et vous verrez les robots
+commencer par un cercle,
+											pour passer à un triangle,
+s'étirer en ligne,
+											et finalement revenir à une ellipse.
+											Et ils font ça
+avec la même coordination instantanée
+											que l'on trouve dans les vrais essaims,
+dans la nature.
+									",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+","
+","
+","
+",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+											So why work with swarms?
+											Let me tell you about two applications
+that we are very interested in.
+											The first one has to do with agriculture,
+											which is probably the biggest problem
+that we're facing worldwide.
+											As you well know,
+											one in every seven persons
+in this earth is malnourished.
+											Most of the land that we can cultivate
+has already been cultivated.
+											And the efficiency of most systems
+in the world is improving,
+											but our production system
+efficiency is actually declining.
+											And that's mostly because of water
+shortage, crop diseases, climate change
+											and a couple of other things.
+									","
+											Então, porquê trabalhar com enxames?
+											Vou falar-vos de duas aplicações
+em que estamos muito interessados.
+											A primeira tem a ver com a agricultura,
+											que é provavelmente o maior problema
+que enfrentamos no mundo.
+											Como vocês bem sabem,
+											uma em cada sete pessoas
+nesta terra está subnutrida.
+											A maior parte da terra 
+que cultivamos já foi cultivada.
+											E a eficácia da maior parte dos sistemas
+no mundo está a melhorar,
+											mas a eficácia do nosso sistema 
+de produção está em declínio,
+											principalmente por causa
+da escassez da água,
+											das doenças das plantas,
+da alteração climática
+											e de mais outras coisas.
+									","
+											Peki neden sürülerle çalışılıyor?
+											Size çok ilgimizi çeken 
+iki uygulamadan bahsedeyim.
+											İlki tarımla ilgili,
+											ki bu muhtemelen dünyada 
+karşılaştığımız en önemli sorun.
+											Bildiğiniz gibi,
+											dünyada her yedi kişiden 
+biri yetersiz besleniyor.
+											Ekilebilecek toprakların 
+çoğu zaten ekili.
+											Dünyadaki sistemlerin 
+çoğunun verimi artıyor,
+											ancak üretim sistemlerinin 
+verimi aslında giderek düşüyor.
+											Bunun en büyük nedenleri, su kıtlığı, 
+ekinlerdeki hastalıklar, iklim değişimi
+											ve başka birkaç şey daha.
+									","
+											Mais pourquoi travailler
+avec des essaims ?
+											Laissez-moi vous parler des deux
+applications qui nous intéressent le plus.
+											La première concerne l'agriculture,
+											qui est certainement le défi mondial
+le plus important.
+											Comme vous le savez,
+											une personne sur sept est en situation
+de malnutrition.
+											Nous cultivons presque 
+toutes les terres cultivables.
+											L'efficacité de nombreux systèmes mondiaux
+ne cesse de s'améliorer,
+											mais notre système de production
+est en déclin.
+											Cela vient principalement du manque d'eau,
+des maladies, du changement climatique,
+											et d'autres facteurs.
+									",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+","
+","
+","
+",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+											So what can robots do?
+											Well, we adopt an approach that's
+called Precision Farming in the community.
+											And the basic idea is that we fly
+aerial robots through orchards,
+											and then we build
+precision models of individual plants.
+											So just like personalized medicine,
+											while you might imagine wanting
+to treat every patient individually,
+											what we'd like to do is build
+models of individual plants
+											and then tell the farmer
+what kind of inputs every plant needs —
+											the inputs in this case being water,
+fertilizer and pesticide.
+											Here you'll see robots
+traveling through an apple orchard,
+											and in a minute you'll see
+two of its companions
+											doing the same thing on the left side.
+											And what they're doing is essentially
+building a map of the orchard.
+											Within the map is a map
+of every plant in this orchard.
+									","
+											Então, o que podem fazer os robôs?
+											Nós adotámos uma abordagem que se chama
+Agricultura de Precisão na comunidade.
+											A ideia básica é que nós pomos
+robôs aéreos a voar nos pomares,
+											e construímos modelos de precisão
+de plantas individuais.
+											Tal como a medicina personalizada,
+											em que podemos imaginar querer
+tratar cada doente individualmente,
+											o que nós gostaríamos de fazer 
+é construir modelos de plantas individuais
+											e, depois, dizer ao agricultor
+que tipo de contributos cada planta precisa
+											em que os contributos, neste caso,
+											são a água, os fertilizantes
+e os pesticidas.
+											Aqui veem robôs a voar num pomar de maçãs,
+											e dentro de instantes verão
+dois dos seus companheiros
+											a fazer a mesma coisa no lado esquerdo.
+											Eles estão a construir um mapa do pomar.
+											Dentro do mapa há um mapa
+de cada planta neste pomar.
+									","
+											O zaman robotlar ne yapabilirler?
+											Toplumda Hassas Tarım olarak adlandırılan 
+bir yaklaşımı benimsiyoruz.
+											Ana fikir şu; hava robotlarını 
+bahçelerde uçurup
+											sonra bitkilerin tek tek 
+hassas modellerini geliştiriyoruz.
+											Her hastaya özel tedavi 
+
+											uygulanmasının istendiği, 
+kişiselleştirilen ilaçlarla olduğu gibi,
+											bizim yapmak istediğimiz şey de tek tek 
+bitkilerin modellerini geliştirmek
+											ve sonra çiftçiye her bitkinin ne tür 
+bir girdiye ihtiyacı olduğunu söylemek —
+											bu durumda girdiler, su, gübre 
+ve tarım ilaçlarıdır.
+											Burada elma bahçesinde 
+dolaşan robotları görüyorsunuz
+											ve bir dakika içinde 
+sol tarafta aynı şeyi
+											yapan iki üyeyi daha göreceksiniz.
+											Aslında yaptıkları şey 
+bahçenin bir haritasını çizmek.
+											Harita içinde, bu bahçedeki 
+her bitkinin bir haritası var.
+									","
+											Qu'y peuvent les robots ?
+											Nous avons adopté une approche appelée
+l'agriculture de précision.
+											Le principe est de faire voler 
+des robots dans des vergers,
+											pour construire des modèles
+informatiques précis de chaque plante.
+											Comme avec la médecine personnalisée,
+											où l'on traite chaque patient
+individuellement,
+											nous voulons modéliser chaque plante,
+											pour pouvoir dire à l'agriculteur
+ce dont elles ont besoin individuellement.
+											Ici, ce serait de l'eau, de l'engrais
+ou des pesticides.
+											Vous pouvez voir un robot se déplacer
+dans une plantation de pommiers,
+											et vous apercevrez bientôt
+deux de ses compagnons,
+											qui font le même travail à gauche.
+											En gros, ils sont en train
+de construire une carte du verger.
+											A l'intérieur de la carte,
+il y a une carte de chacun des arbres.
+									",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+","
+","
+","
+",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+											(Robot buzzing)
+									","
+											(Zumbido de robô)
+									","
+											(Robot vızıldıyor)
+									","
+											(le robot bourdonne)
+									",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+","
+","
+","
+",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+											Let's see what those maps look like.
+											In the next video, you'll see the cameras
+that are being used on this robot.
+											On the top-left is essentially
+a standard color camera.
+											On the left-center is an infrared camera.
+											And on the bottom-left
+is a thermal camera.
+											And on the main panel, you're seeing
+a three-dimensional reconstruction
+											of every tree in the orchard
+as the sensors fly right past the trees.
+											Armed with information like this,
+we can do several things.
+											The first and possibly the most important
+thing we can do is very simple:
+											count the number of fruits on every tree.
+											By doing this, you tell the farmer
+how many fruits she has in every tree
+											and allow her to estimate
+the yield in the orchard,
+											optimizing the production
+chain downstream.
+									","
+											Vamos ver o aspeto desses mapas.
+											No próximo vídeo, vamos ver as câmaras
+que estão a ser utilizadas neste robô.
+											Em cima à esquerda está 
+uma câmara padrão a cores.
+											No centro à esquerda está
+uma câmara de infravermelhos.
+											E em baixo à esquerda
+está uma câmara térmica.
+											No painel principal, vemos
+uma reconstrução a três dimensões
+											de todas as árvores no pomar à medida 
+que os sensores passam pelas árvores.
+											Munidos com estas informações,
+podemos fazer várias coisas.
+											A primeira coisa mais importante 
+que podemos fazer é muito simples:
+											contar o número de frutos em cada árvore.
+											Ao fazer isso, diremos ao agricultor
+quantos frutos há em cada árvore
+											o que lhe permitirá fazer 
+uma estimativa da colheita,
+											otimizando os passos seguintes
+da cadeia de produção.
+									","
+											Bu haritaların neye benzediğini görelim.
+											Bir sonraki videoda, bu robotta 
+kullanılan kameraları göreceksiniz.
+											Sol üstte esasen standart 
+renkli bir kamera var.
+											Solda ortada kızılötesi 
+bir kamera var.
+											Sol altta ise termal bir kamera var.
+											Ana panelde, sensörler ağaçların yanından 
+geçtikçe bahçedeki her ağacın
+											yeniden üç boyutlu olarak 
+oluşturulmasını görüyorsunuz.
+											Böyle bir bilgiyle donanınca 
+birçok şey yapabiliriz.
+											Yapabileceğimiz ilk ve muhtemelen 
+en önemli şey çok basit:
+											Her ağaçtaki meyve adetini saymak.
+											Böyle yaparak çiftçiye her ağaçtaki 
+meyve sayısını söylersiniz
+											ve bahçedeki hâsılatı 
+tahmin etmesini sağlarsınız,
+											bununla üretim zinciri boyunca 
+optimizasyon sağlarsınız.
+									","
+											Jetons un œil à ces cartes.
+											Dans la vidéo suivante, vous verrez
+les caméras utilisées par ce robot.
+											En haut à gauche, 
+une caméra classique ;
+											au milieu, une caméra infrarouge ;
+											et en bas, une caméra thermique.
+											Sur l'écran principal, vous voyez
+la reconstruction en 3D
+											de chaque arbre du verger,
+créée au fil de l'avancée des capteurs.
+											Avec ces informations,
+nous pouvons faire de nombreuses choses.
+											La première chose, qui est sans doute
+la plus importante, est très simple :
+											compter le nombre de fruits
+sur chaque arbre.
+											Quand l'agriculteur peut savoir combien
+de fruits il y a sur chaque arbre,
+											il peut évaluer le rendement du verger,
+											et donc optimiser 
+la chaîne de production en aval.
+									",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+","
+","
+","
+",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+											The second thing we can do
+											is take models of plants, construct
+three-dimensional reconstructions,
+											and from that estimate the canopy size,
+											and then correlate the canopy size
+to the amount of leaf area on every plant.
+											And this is called the leaf area index.
+											So if you know this leaf area index,
+											you essentially have a measure of how much
+photosynthesis is possible in every plant,
+											which again tells you
+how healthy each plant is.
+											By combining visual
+and infrared information,
+											we can also compute indices such as NDVI.
+											And in this particular case,
+you can essentially see
+											there are some crops that are
+not doing as well as other crops.
+											This is easily discernible from imagery,
+											not just visual imagery but combining
+											both visual imagery and infrared imagery.
+									","
+											A segunda coisa que podemos fazer
+											é agarrar em modelos de plantas, 
+fazer reconstruções tridimensionais,
+											e a partir disso, calcular
+o tamanho da copa das árvores,
+											e depois correlacionar o tamanho da copa
+											com o tamanho 
+da área foliar de cada planta.
+											Chama-se a isso o índice de área foliar.
+											Então, quando sabemos 
+este índice de área foliar,
+											temos basicamente uma medida de quanta
+fotossíntese é possível em cada planta,
+											o que nos diz quão saudável cada planta é.
+											Ao combinar informações
+visuais e de infravermelhos,
+											também podemos calcular índices, 
+tais como o NDVI.
+											Neste caso particular,
+podemos ver, essencialmente,
+											que há certas culturas
+que não estão tão bem como outras.
+											Isso é facilmente percetível
+a partir de imagens,
+											não apenas imagens visuais,
+											mas combinando imagens visuais 
+com imagens a infravermelho.
+									","
+											Yapabileceğimiz ikinci şey,
+											bitkilerin modellerini almak, 
+üç boyutlu olarak yeniden oluşturmak
+											ve böylece bitki örtüsünün 
+büyüklüğünü tahmin etmek,
+											sonra örtünün büyüklüğünü her bitkideki 
+yaprak alanın miktarı ile ilintilemek.
+											Buna yaprak alan indeksi denir.
+											Eğer yaprak alanı indeksini biliyorsanız,
+											aslında her bitkide ne kadar fotosentez 
+mümkün olduğuna dair ölçünüz olur,
+											bu da size her bitkinin ne kadar 
+sağlıklı olduğunu söyler.
+											Görsel ve kızılötesi 
+bilgiyi birleştirerek,
+											NDVI (normalize edilmiş fark bitki örtüsü 
+indeksi) gibi indisleri de hesaplayabiliriz.
+											Buradaki durumda, aslında 
+bazı ürünlerin diğer ürünler
+											kadar iyi durumda olmadığını görüyorsunuz.
+											Bu durum, görüntüde rahatlıkla 
+ayırt edilebiliyor;
+											sadece görsel imgeyle değil,
+											görsel imgeyi, kızılötesi 
+imgeyle birleştirerek.
+									","
+											Nous pouvons aussi
+prendre les mesures des plantes,
+											les reproduire en 3D,
+											et ainsi évaluer la taille de la canopée,
+puis mettre en relation
+											la taille de la canopée et
+le nombre de feuilles sur chaque plante.
+											On appelle cela 
+l'indice de surface feuillue.
+											Avec cet indice de surface feuillue,
+											on peut mesurer la capacité
+de photosynthèse de chaque plante,
+											ce qui indique leur niveau de santé.
+											En combinant les informations
+visuelles et infrarouge,
+											on peut aussi calculer des indices
+comme le NDVI.
+											Dans ce cas, on peut voir
+											que certaines plantes ne vont pas
+aussi bien que d'autres.
+											On peut le voir facilement sur l'image,
+											qui n'est pas seulement visuelle,
+mais combine
+											à la fois les images visuelles
+et l'infrarouge.
+									",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+","
+","
+","
+",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+											And then lastly,
+											one thing we're interested in doing is
+detecting the early onset of chlorosis —
+											and this is an orange tree —
+											which is essentially seen
+by yellowing of leaves.
+											But robots flying overhead
+can easily spot this autonomously
+											and then report to the farmer
+that he or she has a problem
+											in this section of the orchard.
+									","
+											E finalmente, uma coisa 
+que estamos interessados em fazer
+											é detetar o início precoce da clorose.
+											Esta é uma laranjeira
+											que se destaca sobretudo
+pelo amarelecimento das folhas.
+											Os robôs voadores podem
+facilmente detetar isso de forma autónoma
+											e, depois, informar o agricultor
+que há um problema
+											nesta secção do pomar.
+									","
+											Son olarak,
+											yapmak istediğimiz bir şey de kloroz 
+başlangıcını erkenden tespit etmek —
+											ve bu bir portakal ağacı —
+											bu aslında yaprakların 
+sararmasından anlaşılabilir.
+											Ancak tepede uçan robotlar bunu 
+kolaylıkla kendileri fark edebilir
+											ve sonra çiftçiye bahçenin 
+bu kısmında bir sorun
+											olduğunu raporlayabilirler.
+									","
+											Enfin, une des choses
+qui nous intéresse est
+											la détection des premiers
+symptômes de la chlorose,
+											on a pris un oranger en exemple,
+											qui se manifeste par 
+un jaunissement des feuilles.
+											Les robots qui volent au-dessus 
+des plantes peuvent la repérer facilement,
+											et informer l'agriculteur
+qu'il a un problème
+											dans cette partie du verger.
+									",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+","
+","
+","
+",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+											Systems like this can really help,
+											and we're projecting yields
+that can improve by about ten percent
+											and, more importantly, decrease
+the amount of inputs such as water
+											by 25 percent by using
+aerial robot swarms.
+									","
+											Sistemas como este podem ajudar,
+											e nós estamos a projetar colheitas que 
+podem melhorar em cerca de 10%.
+											Mais importante ainda, podem diminuir
+a quantidade de consumos,
+											como a água, em 25%, 
+usando enxames de robôs aéreos.
+									","
+											Bunun gibi sistemler 
+gerçekten yardımcı olabilir
+											ve hava robotu sürüleri kullanarak 
+hâsılatın yaklaşık yüzde 10 artabileceğini
+											ve daha da önemlisi su 
+gibi girdilerin miktarının
+											yüzde 25 oranında 
+azalabileceğini öngörüyoruz.
+									","
+											Ce genre de système peut être très utile,
+											et nous pensons pouvoir augmenter
+les rendements d'environ 10 %,
+											et, surtout, diminuer les dépenses,
+en eau par exemple, d'au moins 25%.
+											Tout ça grâce
+aux essaims de robots volants.
+									",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+","
+","
+","
+",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+											Lastly, I want you to applaud
+the people who actually create the future,
+											Yash Mulgaonkar, Sikang Liu
+and Giuseppe Loianno,
+											who are responsible for the three
+demonstrations that you saw.
+									","
+											Por último, quero aplaudir
+as pessoas que criam o futuro,
+											Yash Mulgaonkar, Sikang Liu
+e Giuseppe Loianno,
+											que são responsáveis pelas três
+demonstrações que viram.
+									","
+											Son olarak, aslında geleceği yaratan 
+insanları alkışlamanızı istiyorum,
+											Yash Mulgaonkar, Sikang Liu
+ve Giuseppe Loianno,
+											kendileri gördüğünüz 
+üç demodan sorumlular.
+									","
+											Pour finir, je vous demande d'applaudir
+ceux qui créent le futur :
+											Yash Mulgaonkar, Sikang Liu
+et Giuseppe Loianno,
+											qui ont réalisé les trois démonstrations
+que vous avez vues.
+									",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+","
+","
+","
+",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+											Thank you.
+									","
+											Obrigado.
+									","
+											Teşekkürler.
+									","
+											Merci.
+									",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+","
+","
+","
+",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+											(Applause)
+									","
+											(Aplausos)
+									","
+											(Alkış)
+									","
+											(Applaudissements)
+									",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"
+"
+","
+","
+","
+",The future of flying robots,Vijay Kumar,13:09,"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants"

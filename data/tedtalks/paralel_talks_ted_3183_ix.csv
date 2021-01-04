@@ -1,0 +1,598 @@
+es,pt,tr,fr,de,title,speaker,duration,tags
+"
+","
+","
+","
+","
+",Playing with DNA that self-assembles,Paul Rothemund,4:59,"DNA,MacArthur grant,complexity,computers,science"
+"
+											Hay un concepto universal y muy antiguo que las palabras tienen poder,
+											que los hechizos existen, y que si pudiéramos pronunciar las palabras adecuadas,
+											entonces, ¡pum! Vendría una avalancha
+											y aniquilaría a los hobbits, ¿correcto? Entonces ésta es una idea muy atractiva
+											porque somos flojos, como el aprendiz de hechicero,
+											o el mejor programador de computadoras del mundo.
+											Y entonces, esta idea nos ha impulsado.
+											Amamos la idea de que las palabras, al ser pronunciadas —
+											sólo son poco más que información,
+											pero evocan una acción física
+											en el mundo real que nos ayuda a realizar un trabajo.
+											Y entonces, desde luego, con muchas computadoras programables
+											y robots alrededor, esto es algo fácil de imaginar.
+											¿Cuántos de ustedes saben de lo que estoy hablando?
+											Levanten su mano derecha. Bien. ¿Cuántos de ustedes
+											no saben de lo que estoy hablando? Levanten su mano izquierda. Bien.
+											Bueno, Eso es genial. Fue muy fácil.
+											Ustedes tienen computadoras muy inseguras,
+											Entonces, la cuestión es que este es un tipo distinto de hechizo.
+											Este es un programa hecho con ceros y unos.
+											Puede ser pronunciado en una computadora. Hace algo como esto.
+											Lo importante es que podemos escribir en un lenguaje de alto nivel.
+											Un mago de las computadoras puede escribir esto.
+											Que se puede compilar en esto —en ceros y unos—
+											y se puede pronunciar por una computadora.
+											Y eso es lo que hace a las computadoras poderosas:
+											estos lenguajes de alto nivel pueden compilarse.
+											Entonces, estoy aquí para decirles que no necesitan una computadora
+											para hacer un hechizo. De hecho, lo que pueden hacer
+											a nivel molecular es que si codifican información
+											-Codifican un hechizo o programa como moléculas-
+											entonces la física puede interpretar esa información directamente
+											y correr el programa. Eso es lo que ocurre en las proteínas.
+											Cuando esta secuencia de aminoácidos se pronuncia como átomos,
+											estas pequeñas letras son pegajosas entre ellas.
+											Se colapsa en una estructura tridimensional que los convierte
+											en una nanomáquina que realmente corta el ADN.
+											Y lo interesante es que si cambias la secuencia,
+											cambias la forma tridimensional.
+											Y en su lugar obtienes una ""engrapadora"" de ADN. Estos son los tipos de
+											programas moleculares que queremos ser capaces de escribir,
+											pero el problema es, que no sabemos el lenguaje de máquina
+											de las proteínas; no tenemos un compilador para proteínas.
+											Así que me uní al creciente grupo de personas que intentan hacer
+											hechizos moleculares usando ADN. Usamos ADN porque es más barato.
+											Es más fácil de manejar. Es algo que entendemos muy bien.
+											Lo entendemos tan bien, de hecho, que pensamos que podemos realmente escribir
+											lenguajes de programación para ADN y tener compiladores moleculares.
+											Entonces, pensamos que podemos hacerlo. Y mi primera pregunta al hacerlo
+											-o una de mis preguntas al hacerlo- era: ¿Cómo puedes hacer
+											una forma arbitraria o un patrón con ADN? Y decidí usar
+											algo como origami de ADN, donde tomas una hebra larga de ADN
+											y la doblas en la forma o patrón que quieras.
+											Aquí hay una figura. De hecho pasé como un año en mi casa,
+											en ropa interior, codificanto, como Linus [Torvalds], en la imagen anterior.
+											Y este programa toma la figura, arroja 250 secuencias de ADN.
+											Estas como secuencias de ADN son lo que doblarán la cadena larga
+											en la forma que queremos hacer. Así que envías un e-mail
+											con estas secuencias a una compañía, y lo que hace
+											-la compañía los pronuncia en un sintetizador de ADN
+											Es una máquina como del tamaño de una fotocopiadora. Y lo que ocurre es,
+											que toman tu e-mail y cada letra en tu e-mail
+											la reemplazan con un grupo de 30 átomos, uno para cada letra,
+											A, T, C y G en ADN. Los alinean en la secuencia correcta,
+											y luego te los envían de vuelta por paquetería.
+											Así obtienes 250 de estos por correo en pequeños tubos,
+											los mezclas, agregas un poco de agua con sal,
+											y luego agregas esta cadena larga de las que les hablé,
+											que robamos de un virus. Y lo que ocurre entonces es,
+											que calientas todo esto casi ebullendo. Lo enfrías
+											a temperatura ambiente, y mientras lo haces,
+											lo que ocurre es que las pequeñas cadenas, hacen lo siguiente:
+											cada una de ellas une la hebra larga en un lugar,
+											luego tiene una segunda mitad que se une a la hebra larga
+											en un lugar distante, y junta las dos partes de la hebra larga
+											para que se puedan unir.
+											Y entonces el efecto total de las 250 de estas hebras es que doblan
+											la hebra larga en la figura que buscabas;
+											Aproximando esa figura. Lo hacemos de verdad en tubos de ensayo.
+											En cada pequeña gota de agua obtienes 50 billones de estos chicos.
+											Puedes verlos con un microscopio y observarlos en una superficie.
+											Y lo mejor es que si cambias la secuencia
+											y cambias el hechizo, puedes cambiar la secuencia de los ""ganchos""
+											Puedes hacer una molécula que sea como esto, y, saben,
+											le gusta estar con sus amigos.
+											Y muchos de ellos son bastante buenos.
+											Si cambias el hechizo otra vez, cambias la secuencia otra vez.
+											Obtienes triángulos de 130 nanómetros muy bonitos. Si lo haces nuevamente,
+											Puedes obtener patrones arbitrarios. Así en un rectángulo
+											puedes trazar patrones de norte y sur-américa, o las palabras ""DNA.""
+											Entonces eso es origami de ADN. Es una forma, hay muchas formas,
+											de lanzar hechizos moleculares usando ADN.
+											Lo que queremos hacer al final es aprender cómo programar
+											auto-ensamblaje para que podamos construir cualquier cosa, ¿correcto?
+											Queremos ser capaces de construir artefactos tecnológicos
+											que tal vez sean buenos para el mundo. Queremos aprender
+											cómo construir artefactos biológicos, como personas y ballenas y árboles.
+											Y si es el caso de que podemos alcanzar ese nivel de complejidad,
+											si nuestra habilidad para programar moléculas se vuelve así de buena,
+											entonces eso será realmente magia. Muchas gracias.
+											(Aplausos)
+									","
+											Há um conceito antigo e universal
+de que as palavras têm poder,
+											os feitiços existem e, se soubermos
+pronunciar as palavras certas,
+											então, zummm!
+											viria uma avalanche
+e dizimaria os ""hobbits"".
+											Esta é uma ideia muito cativante
+											porque somos preguiçosos,
+como o aprendiz de feiticeiro,
+											ou o maior programador
+de computadores do mundo.
+											Esta ideia exerce em nós grande atração.
+											Adoramos a ideia de que as palavras,
+quando pronunciadas,
+											são mais do que pura informação
+e evocam alguma ação física
+											no mundo real
+que nos ajuda a trabalhar.
+											Com um monte de computadores programáveis
+											e robôs à nossa volta,
+é algo fácil de imaginar.
+											Quem sabe do que é que estou a falar?
+											Levantem a mão direita.
+											Quem não sabe do que é que estou a falar?
+Levantem a mão esquerda. Ok.
+											Ótimo. Foi demasiado fácil.
+											Vocês têm computadores
+muito inseguros, não é?
+											Agora, trata-se de um tipo
+diferente de feitiço.
+											Este é um programa
+feito de zeros e uns.
+											Pode ser ""pronunciado"" num computador.
+Faz algo como isto.
+											O importante é escrever
+numa linguagem de alto nível.
+											Um mago dos computadores
+consegue escrever isto.
+											Pode ser compilado nisto
+— zeros e uns —
+											e ""pronunciado"" por um computador.
+											É o que torna os computadores poderosos:
+											estas linguagem de alto nível
+que podem ser compiladas.
+											Venho aqui dizer que não precisam
+de um computador
+											para escrever um feitiço.
+											A nível molecular,
+se codificarem informações,
+											se codificarem um feitiço
+ou programa como moléculas,
+											a física pode interpretar
+diretamente essas informações
+											e correr um programa.
+											É o que acontece com as proteínas.
+											Se esta sequência de aminoácidos
+for ""pronunciada"" como átomos,
+											estas pequenas letras aqui
+colam-se umas às outras.
+											E colapsa numa forma tridimensional
+											que a transforma numa nano-máquina
+que corta ADN.
+											O interessante é que,
+se mudarmos a sequência,
+											mudamos a forma como se dobra
+tridimensionalmente.
+											Agora, temos um agrafador de ADN.
+											É o tipo de programas moleculares
+que queremos poder escrever.
+											O problema é que não sabemos
+a linguagem de máquina das proteínas;
+											não temos um compilador para proteínas.
+											Juntei-me a um grupo de pessoas
+que tentam criar
+											feitiços moleculares usando ADN.
+											Usamos ADN porque é mais barato
+e mais fácil de manusear.
+											É uma coisa que compreendemos tão bem
+											que pensamos poder escrever
+linguagens de programação para ADN
+											e ter compiladores moleculares.
+											Pensamos conseguir fazê-lo.
+											Uma das minhas perguntas ao fazê-lo, foi:
+											Como é que se faz uma forma ou padrão
+à escolha a partir de ADN?
+											Decidi usar uma espécie de origami de ADN,
+em que se pega numa longa cadeia de ADN
+											e se dobra em qualquer forma
+ou padrão que se queira.
+											Esta é uma forma.
+											Passei cerca de um ano em casa,
+em roupa interior, a programar.
+											como o Linus na imagem.
+											Este programa pega numa forma
+e cospe 250 sequências de ADN.
+											São estas curtas sequências de ADN
+que irão dobrar a longa cadeia
+											nesta forma que queremos criar.
+											Enviamos um email com estas sequências
+a uma empresa
+											que as pronuncia num sintetizador de ADN.
+											É uma máquina com o tamanho
+de uma fotocopiadora.
+											Eles pegam no nosso email
+e em cada letra do nosso email,
+											e substituem-nas por aglomerados
+de 30 átomos, um por cada letra,
+											A, T, C e G no ADN.
+											Ligam-nas à sequência certa
+e enviam-nas por FedEx.
+											Recebemos 250 destes pelo correio
+em pequenos tubos.
+											Misturamos, juntamos
+um pouco de água salgada,
+											juntamos esta longa cadeia
+de que vos falei,
+											e que eu roubei a um vírus.
+											Aquecemos tudo quase até ferver.
+											Deixamos arrefecer à temperatura ambiente
+e, enquanto o fazemos,
+											aquelas pequenas cadeias fazem o seguinte:
+											cada uma dela mantém
+a cadeia longa no sítio,
+											e tem uma segunda parte que mantém
+aquela cadeia longa à distância
+											e aproxima as duas partes da cadeia longa
+											uma da outra, para que se colem.
+											E o efeito em rede
+de todas estas 250 cadeias
+											é dobrar a cadeia longa
+na forma que queremos
+											com uma forma aproximada.
+											Fazemos isto no tubo de ensaio.
+											Em cada pequena gota de água
+temos 50 mil milhões destes.
+											Podem ver ao microscópio
+e sobre uma superfície.
+											O que é fixe é que,
+se mudarmos a sequência
+											e mudarmos o feitiço, mudamos apenas
+a sequência dos agrafos.
+											Podemos fazer uma molécula
+com este aspeto,
+											e, claro, ele gosta de sair com os amigos.
+											Muitos são, de facto, bastante bons.
+											Se mudarmos de novo o feitiço,
+mudamos de novo a sequência.
+											Conseguimos belos triângulos
+de 30 nanómetros.
+											Se o fizermos de novo,
+conseguimos padrões à escolha.
+											Num retângulo podemos pintar padrões
+da América do Norte ou do Sul,
+											ou as letras ""ADN"".
+											É isto o origami ADN. É uma maneira.
+											Há muitas maneiras de lançar
+feitiços moleculares usando ADN.
+											O que queremos fazer, afinal,
+é aprender a programar a automontagem
+											para podermos construir tudo
+e mais alguma coisa.
+											Queremos poder construir
+artefactos tecnológicos
+											que sejam bons para o mundo.
+											Queremos aprender a construir
+artefactos biológicos,
+											como pessoas e baleias e árvores.
+											Se conseguirmos atingir
+um tal nível de complexidade,
+											se a nossa capacidade de programar
+moléculas se tornar assim tão boa,
+											isso seria verdadeiramente magia.
+											Muito obrigado.
+											(Aplausos)
+									","
+											Kelimelerin gücüne ve büyünün gerçekte var olduğuna dair çok eski ve evrensel
+											bir düşünce var. Sadece doğru kelimeleri telaffuz ediyorsunuz ve
+											sonrasında, whoooosh! Bilirsiniz, bir çığ gelip
+											""hobbit""leri yok edebilir, değil mi? Yani, bu çok cazip bir düşünce
+											çünkü biz tembeliz, tıpkı ""Sihirbazın Çırağı"" gibi | ç.n. ""The Sorcerer's Apprentice""
+											veya dünyanın en iyi Bilgisayar Programcısı gibi.
+											Yani, bu büyü yapma düşüncesi bizi kuvvetle çekiyor.
+											Kelimelerin telaffuz ettiğimizde, saf bilgiden
+											çok az fazlasını içermeye başlayıp, gerçek hayatta
+											bazı şeyleri yapmamıza yardım eden fiziksel bir
+											etkiyi oluşturabilecekleri düşüncesini çok severiz.
+											Ve tabi, etrafta bir çok programlanabilen bilgisayar
+											ve robot varken, bu hayal edilmesi kolay bir şey.
+											Şimdi, kaçınız neden bahsettiğimi anlıyor?
+											Sağ elinizi kaldırın. Peki.
+											Kaçınız anlamıyor? Sol elinizi kaldırın. Tamam.
+											Pekala. Mükemmel. Bu çok kolaydı.
+											Sizin beyinleriniz çok güvensiz var, tamam mı?
+											Şimdi, mesele şu ki, bu farklı bir tür büyü.
+											Bu, ""sıfır"" lar ve ""bir"" lerden oluşan bir bilgisayar programı.
+											Bir bilgisayar tarafından telaffuz edilebiliyor. Şöyle bir şey yapıyor.
+											Önemli olan çok daha yüksek bir dil kullanarak bunu yazabiliyor olmamız
+											Bunu bir bilgisayar sihirbazı yazabiliyor.
+											Şu şekilde toparlanabilir. ""sıfır ve bir"" rakamları
+											bilgisayar tarafından okunabiliyor.
+											Ve bilgisayarları çok etkili yapan şey de bu;
+											bu düzenlenebilir teknik yüksek diller.
+											Yani, sizin büyü yaratmak için bir bilgisayara ihtiyacınız olmadığını
+											söylemek için burdayım.. Aslında, molekuler seviyede
+											yapabileceginiz sey su ki; eğer bir bilgiyi kodlarsanız
+											bir büyüyü veya programı moleküller halinde kodlamış olursunuz
+											ve sonrasında, fizik kuralları o bilgiyi hemen canlandırır
+											ve bir programı çalıştırabilir. Proteinlerde olan budur.
+											Bu aminoasit sekansını (dizisini) açtığımız ve atomları halinde ""tellaffuz"" ettiğimizde,
+											bu küçük harflerin biribirlerine karşı yapışkanlık gösterdiğini görürüz.
+											Böylece birbirlerine yapışırlar ve DNA'yı kesen 3 boyutlu
+											bir nanomakineye dönüşecek şekilde katlanır
+											Ve ilginç olan şey, eğer diziyi değiştirirseniz
+											3 boyutlu katlanmayı da değiştirmiş olursunuz.
+											Ve bu yeni sekans ile yeni bir DNA birleştiricisi olmak için katlanırlar.
+											Bu kesici ve birleştiriciler aslında yazmak istediğimiz molekuler programlar
+											ancak sorun şu ki, proteinlerin makina dilini bilmiyoruz,
+											yani proteinlerin kullandığı dili anlayacak bir derleyicimiz yok.
+											Ben de DNA'yı kullanarak ""molekuler büyüler"" yapan,
+											bir gruba katıldım. DNA'yı kullanıyoruz, çünkü daha ucuz.
+											Hükmetmesi daha kolay. Gerçekten iyi anladığımız bir şey.
+											O kadar iyi anlıyoruz ki, aslında, DNA için proglamlama dili yazıp
+											moleküler düzenleyiciler elde edebileceğimizi düşünüyoruz.
+											Yani, bunu yapabiliriz. Benim bu konudaki sorum
+											yani sorularımdan bir tanesi şuydu:
+											DNA'dan istediginiz şekil veya modeli nasıl elde edebilirsiniz? Ben de,
+											uzun bir DNA ipliğini alıp katlayarak istediğiniz şekle veya kalıba
+											sokabildiğiniz bir DNA origamisi türünü kullanmaya karar verdim.
+											İşte bir şekil. Aslında bu şekil için, evimde, iç çamaşırlarımla bir yıl boyunca
+											az önce resmini gördüğünüz Linus (Torvalds) gibi kodlama yaptım. | ç.n. "" Linux işletim sistemi çekirdeğinin geliştiricisi""
+											ve bu program bir şekli alıyor ve 250 DNA dizisi ortaya çıkarıyor.
+											Uzun ipliği, bizim istediğimiz gibi bu şekilde katlayacak olan şey,
+											bu kısa DNA dizileridir. Şimdi, siz bir şirkete,
+											içinde bu DNA dizileri yazılı olan bir e-posta gönderiyorsunuz, yapılan şey—
+											şirket onları bir DNA sentezleyicisi üzerinden okutuyor.
+											O da, bir fotokopi makinesi boyutlarında bir makinedir. ve olan şey,
+											e-postanızı ve postanızdaki her harfi alıp,
+											her biri DNA'nın bir harfi ve 30 atomluk bir küme olan A,T,C ve G
+											ile değiştirirler. Onları doğru sekansta, dizide sıralarlar,
+											ve sonra size FedEx aracalığıyla gönderirler.
+											Bunların 250 tanesini küçük tüpler içinde postanızdan alırsınız
+											Ben bunları karıştırıyorum, biraz tuzlu su ekliyorum,
+											ve sonra size bahsettiğim (bir virüsten çaldığım)
+											bu uzun ipliği ekliyorum. Ve sonrasında olan şey,
+											tüm bu şeyleri kaynama sıcaklığına kadar ısıtıyorsunuz. Oda sıcaklığına
+											kadar soğutuyorsunuz ve siz bunları yaptıkça,
+											bu kısa iplikler, şimdi sıradaki şeyi yapmaya başlıyor:
+											kısa ipliklerin her biri, önce uzun ipliğe bir yerinden bağlanıyor,
+											sonra bunların yarısı uzun ipliğe uzak bir kısmından da bağlanıyor
+											ve uzun ipliğin o iki kısmını birbirine yaklaştırıp
+											biraraya getiriyor ve o kısımlar birbirine yapışıyor.
+											Ve bu 250 ipliğin hepsinin sonuç etkisi olarak,
+											uzun iplik önceden istediğiniz şekilde katlanıyor;
+											ve o şekle benziyor. Biz test ıtüpünde bunun gerçeğini yapıyoruz.
+											Her bir su damlasında, bunlardan 50 milyar tane elde ediyorsunuz.
+											Bir mikroskopla bakıp, onları yüzeyde görebilirsiniz.
+											ve işin eğlenceli kısmı, DNA sekansını (dizilimini) değiştirdiğinizde, yani
+											büyüyü değiştirdiğinizde, sadece birleştiricilerin dizisini değiştirmiş olursunuz.
+											Bir molekülün şu şekilde görünmesini sağlayabilirsiniz, yani, işte.
+											Bu da arkadaşlarıyla takılmayı sever, değil mi?
+											ve birçoğu biraradayken gayet güzeldir.
+											Büyüyü değiştirirseniz, dizilimi de değiştirmiş olursunuz.
+											130 nanometrelik çok hoş üçgenler elde edersiniz. Bunu bir daha yaparsanız,
+											istediğiniz şekilleri elde edebilirsiniz. Böyle bir dikdörtgen üzerinde
+											Kuzey ve Güney Amerika modellerini veya ""DNA"" kelimesini resmedebilirsiniz.
+											Yani, bu DNA origamisi. Bu sadece bir yolu. DNA'yı kullanarak
+											moleküler büyüler yapmanın birçok yolu var.
+											Sonuçta asıl yapmak istediğimiz şey, kendiliğinden düzen almanın
+											nasıl proglamlandığını öğrenmek, böylece istediğimiz her şeyi oluşturmak, değil mi?
+											Dünya için muhtemelen olumlu teknolojik yapılar
+											inşa edebilmeyi istiyoruz. İnsanlar, balinalar ve ağaçlar gibi
+											biyolojik yapılar oluşturmayı öğrenmek istiyoruz.
+											ve bu, bu seviyede bir zorluğa erişebileceğimiz bir durumsa,
+											molekül programlama becerimiz o kadar ileri gelişirse,
+											bu gerçekten bir sihir olur. Çok teşekkürler
+											(alkışlar)
+									","
+											Il y a un ancien concept universel où les mots ont un pouvoir,
+											où les formules magiques existent, et si l'on pouvait seulement prononcer les mots justes,
+											alors, rrrooouuu ! Une avalanche
+											emporterait les hobbits, non ? C'est une idée attrayante
+											parce que nous sommes paresseux, comme l'apprenti sorcier,
+											ou le meilleur programmeur au monde.
+											Et donc, cette idée a beaucoup d'empreinte sur nous.
+											Nous aimons l'idée que lorsque les mots sont prononcés —
+											ils sont à peine plus que de l'information pure,
+											mais ils évoquent une action physique
+											dans le monde réel et nous aident à faire quelque chose.
+											Avec la quantité d'ordinateurs programmables
+											et de robots autour de nous c'est une chose facile à imaginer.
+											Combien d'entre vous savent de quoi je parle ?
+											Levez la main droite. OK. Combien d'entre vous
+											ne savent pas de quoi je parle ? Levez la main gauche. OK.
+											Bon. C'est formidable. C'était beaucoup trop facile.
+											Vous avez des ordinateurs très incertains, OK ?
+											Le fait est que c'est une forme différente de formule magique.
+											C'est un programme d'ordinateur fait de zéros et de uns.
+											Il peut être prononcé par un ordinateur. Il fait quelque chose comme ça.
+											L'important c'est que nous pouvons l'écrire dans un langage de haut niveau.
+											Un magicien de l'informatique peut écrire ceci.
+											Il peut être compilé en zéros et en uns
+											et prononcé par un ordinateur.
+											C'est ce qui rend les ordinateurs puissants:
+											ces langages de haut niveau qui peuvent être compilés.
+											Je suis donc ici pour vous dire que vous n'avez pas besoin d'un ordinateur
+											pour avoir une formule magique. En fait, ce que vous pouvez faire
+											au niveau moléculaire c'est que si vous encodez de l'information —
+											vous codez une formule magique ou un programme avec des molécules —
+											la physique peut ensuite directement interpréter cette information
+											et exécuter un programme. C'est ce qui se passe dans les protéines.
+											Quand cette séquence d'acides aminés est prononcée avec des atomes,
+											ces petites lettres sont collantes l'une pour l'autre.
+											Elle s'effondre pour former une forme en 3D, ce qui la transforme
+											en une nanomachine capable de couper de l'ADN.
+											La chose intéressante est que si vous changez la séquence,
+											vous changez aussi le pliage en trois dimensions.
+											Ce qui donne une agrafeuse à ADN à la place. Ce sont le genre de
+											de programmes moléculaires que nous voulons être capable d'écrire,
+											mais le problème est que nous ne connaissons pas le langage machine des
+											protéines; nous n'avons pas de compilateur pour les protéines.
+											J'ai donc rejoint un groupe de personnes qui essayent de créer
+											des formules magiques moléculaires en utilisant de l'ADN. Nous utilisons de l'ADN parce que c'est moins cher.
+											C'est plus facile à manipuler. C'est quelque chose que nous comprenons vraiment bien.
+											En fait nous le comprenons si bien que nous pensons pouvoir écrire
+											des langages de programmation pour l'ADN et avoir des compilateurs moléculaires.
+											Nous pensons pouvoir le faire. Une de mes premières questions en faisant ça
+											a été : Comment peut-on créer
+											une forme ou un motif arbitraire avec de l'ADN ? J'ai décidé d'utiliser
+											un type d'origami d'ADN, où l'on prend un long brin d'ADN
+											et on le plie dans la forme ou le motif que l'on veut.
+											Voici une forme. J'ai passé environ un an à la maison,
+											en sous-vêtements, à coder, comme Linus [Torvalds], dans la photo précédente.
+											Ce programme prend une forme et recrache 250 séquences d'ADN.
+											Ce sont ces courtes séquences d'ADN qui vont plier le long brin
+											et lui donner la forme que l'on veut créer. Vous envoyez un courriel
+											avec ces séquences à une entreprise, et
+											l'entreprise les prononce sur un synthétiseur d'ADN.
+											C'est une machine de la taille d'un photocopieur.
+											Ils prennent votre courriel et chaque lettre qu'il contient
+											est remplacée par une grappe de 30 atomes, une grappe pour chaque lettre,
+											A, T, C, et G de l'ADN. Ils les ordonnent dans le bon ordre,
+											et vous les renvoient par FedEx.
+											Vous recevez 250 de ces choses dans de petits tubes dans votre boîtes aux lettres.
+											Je les mélange, j'ajoute un peu d'eau salée,
+											et j'ajoute ce long brin dont je vous parlais,
+											et que j'avais volé à un virus. Ensuite
+											vous chauffez le tout jusqu'à ébulition; Vous le refroidissez
+											à température ambiante et, en se faisant,
+											ces petits brins font la chose suivante :
+											chacun d'eux se lie au long brin à un endroit,
+											et ensuite la seconde moitié se lie plus loin
+											au long brin, et ces deux parties du long brin
+											se rejoignent, de sorte qu'elles soient collées ensemble.
+											Donc l'action finale de ces 250 brins est de plier
+											le long brin dans la forme que l'on recherche;
+											Cette forme sera approximative. Nous faisons ça dans un tube à essai.
+											Dans chaque petite goute d'eau vous ajoutez 50 milliards de ces machins.
+											Vous pouvez utiliser un microscope pour les voir.
+											Et ce qui est sympathique c'est que si vous changez la séquence
+											et la formule magique, vous changez la séquence des agrafes.
+											Vous pouvez créer une molécule qui ressemble à ça, et,
+											qui aime trainer avec ses potes.
+											Beaucoup d'entre elles ne sont pas mal du tout.
+											Si vous changez encore la formule magique, vous changez encore la séquence.
+											Vous obtenez de charmants triangles de 130 nanomètres. Si vous recommencez,
+											vous obtenez des motif arbitraires. Sur un rectangle
+											vous pouvez dessiner les motifs de l'Amérique du Nord et du Sud, ou les lettres ""DNA.""
+											Voilà l'origami d'ADN. C'est une façon de faire. Il y a beaucoup de façons
+											de lancer des sorts moléculaires en utilisant l'ADN.
+											Ce que nous voulons vraiment faire au final c'est apprendre à programmer
+											l'auto-assemblage pour pouvoir construire n'importe quoi, voyez-vous ?
+											Nous voulons être capables de construire des artéfacts technologiques
+											qui sont peut-être bons pour le monde. Nous voulons apprendre
+											à construire des artéfacts biologiques, comme les gens, les baleines et les arbres.
+											Et s'il est possible d'atteindre ce niveau de complexité,
+											si notre capacité à programmer des molécules atteint ce niveau,
+											alors ce sera vraiment magique. Merci beaucoup.
+											(Applaudissements)
+									","
+											Eine uralte und universelle Auffassung besagt, dass Worte Macht besitzen,
+											dass es Zaubersprüche gibt, bei denen man nur die richtigen Wörter aussprechen muss,
+											wodurch, woooooosh! Ihr wisst schon, eine Lawine ausgelöst wird
+											und die Hobbits weggefegt werden. Das ist doch eine verlockende Vorstellung,
+											weil wir ja sehr faul sind, wie der Zauberlehrling,
+											oder wie der beste Programmierer der Welt.
+											Diese Vorstellung ist also sehr verlockend für uns.
+											Wir lieben die Idee, dass Wörter, wenn ausgesprochen -
+											obwohl eigentlich nicht viel mehr als reine Information -
+											in der Realität doch Reaktionen hervorrufen,
+											die uns bei der Arbeit helfen.
+											Und natürlich, bei so vielen programmierbaren Computern
+											und Robotern um uns herum ist es leicht, sich das vorzustellen.
+											Wie viele von euch wissen, wovon ich hier spreche?
+											Hebt eure rechte Hand. OK. Wie viele von euch
+											wissen nicht, wovon ich spreche? Hebt eure linke Hand. OK.
+											Alles klar. Prima. Das war also zu einfach.
+											Leute, ihr habt wohl alle sehr unzuverlässige Computer, wie?
+											Nun, das ist jetzt eine andere Art von Zauberei.
+											Das ist ein Computerprogramm aus Nullen und Einsen.
+											Es kann mittels eines Computers gelesen werden. Das sieht ungefähr so aus.
+											Das Wichtigste ist, dass wir es in einer Programmiersprache schreiben können.
+											Ein Computer-Zauberer kann das schreiben.
+											Es kann zu so was zusammengestellt werden – in Nullen und Einsen -
+											und durch einen Computer gelesen werden.
+											Und das macht die Computer so leistungsstark:
+											diese Programmiersprachen, die zusammengesetzt werden können.
+											Und nun bin ich hier, um euch zu erzählen, dass man keinen Computer braucht,
+											um einen Zauberspruch zu erhalten. Tatsächlich kann man
+											auf molekularem Niveau Informationen so kodieren -
+											man kodiert einen Zauberspruch oder ein Programm als Moleküle -
+											dann kann die Physik diese Informationen direkt übersetzen
+											und ein Programm ablaufen lassen. Genau das geschieht in den Proteinen.
+											Wenn diese Aminosäuresequenz als Atome gelesen wird,
+											kleben diese Buchstaben aneinander.
+											Es kollabiert in eine dreidimensionale Struktur, so dass es sich in
+											eine DNA-schneidende Nanomaschine umwandelt.
+											Und das Interessante dabei ist, dass bei einer Veränderung der Sequenz
+											auch die dreidimensionale Struktur verändert wird.
+											Dann bekommt man stattdessen einen ""DNA-Tacker"". Das sind die Arten von
+											molekularen Programmen, die wir schreiben können wollen.
+											Aber das Problem ist, dass wir die Maschinensprache der
+											Proteine nicht kennen; es gibt keine Umwandlungsmaschinen für Proteine.
+											Deshalb habe ich mich einer immer größer werdenden Gruppevon Leuten angeschlossen, die versuchen
+											molekulare Zauberei mit der DNA zu vollführen. Wir benutzen die DNA, weil sie billiger ist.
+											Und deren Handhabung ist einfacher. Es ist etwas, was wir schon ziemlich gut verstehen.
+											Wir verstehen es tatsächlich schon so gut, dass wir glauben, wir können wirklich schon
+											DNA-Programmiersprachen schreiben und haben eine molekulare Umwandlungsmaschine.
+											Wie gesagt, wir denken, wir können das. Und meine erste Frage -
+											oder eine meiner Fragen – war: Wie kann man
+											x-beliebige Formen oder Muster aus DNA machen? Und ich entschied mich
+											eine Art von DNA-Origami zu benutzen, wobei man einen langen DNA-Strang nimmt
+											und ihn in eine beliebige Form oder Muster faltet, ganz wie man will.
+											Hier ist so eine Form. Tatsächlich habe ich etwa ein Jahr lang zu Hause
+											kodierend in meiner Unterwäsche verbracht, so wie Linus [Torvalds] auf einem der vorherigen Bilder.
+											Dieses Programm bekommt eine Form und spuckt dann 250 DNA-Sequenzen aus.
+											Diese kurzen DNA-Sequenzen dienen dazu, dass die langen Stränge sich
+											in die Form falten, die wir wollen. Man sendet eine Email
+											mit diesen Sequenzen an eine Firma,
+											und die Firma überträgt sie auf einen DNA-Synthesizer.
+											Das ist eine Maschine so ungefähr von der Größe eines Fotokopierers. Und was passiert, ist,
+											dass sie jeden Buchstaben in dieser Email nehmen und
+											ihn in ein Cluster aus 30 Atomen verwandeln, für jeden Buchstaben eins,
+											A, T, C und G für die DNA. Sie binden sie in der richtigen Reihenfolge zusammen ,
+											und senden sie per Kurierdienst zurück.
+											So bekommt man 250 kleine Röhrchen per Post.
+											Ich mische sie zusammen, füge ein wenig Salzwasser dazu,
+											und gebe diesen langen Strang dazu, den ich erwähnt habe,
+											den ich von einem Virus gestohlen habe. Und dann
+											erhitzt man das Ganze fast bis zum Sieden. Man kühlt es
+											auf Raumtemperatur ab, und während dessen
+											passiert Folgendes mit den kurzen Strängen:
+											Jeder einzelne von ihnen bindet diesen langen Strang an einer Stelle
+											und bindet mit der zweite Hälfte den langen Strang
+											an einer weiter entfernt liegenden Stelle, so dass zwei Teile des langen Strangs
+											aneinander schließen, sodass sie zusammenkleben.
+											Und das Nettoergebnis dieser 250 Stränge ist,
+											den langen Strang in die Form zu bringen, die wir wollen;
+											er wird sich an die Form angleichen. In Wirklichkeit machen wir das in einem Reagenzglas.
+											In jedem Wassertropfen erhält man 50 Milliarden dieser Typen.
+											Man kann sich ihre Oberfläche mit einem Mikroskop anschauen.
+											Und das Tolle daran ist, dass man dann, wenn man die Sequenz ändert
+											und den Zauberspruch ändert, auch die Sequenz dieser Verbindungen ändert.
+											Man kann ein Molekül machen, das so aussieht, und
+											es hängt nämlich ganz gern mit seinen Kumpels herum.
+											Und viele von denen sind wirklich ziemlich gut.
+											Wenn man den Zauberspruch wieder ändert, ändert man wieder die Sequenz.
+											Man bekommt schöne Dreiecke von 130 Nanometer Größe. Wenn man es wieder ändert,
+											kriegt man x-beliebige Muster. So kann man auf einem Rechteck
+											die Muster von Nord- und Südamerika oder die Buchstaben “DNA” malen.
+											Das also ist DNA-Origami. Das ist nur eine von vielen Möglichkeiten,
+											mit der DNA auf der Molekularebene zu zaubern.
+											Was wir am Ende wirklich erreichen wollen, ist zu lernen, wie wir
+											die Selbstanordnung so programmieren, dass wir alles Mögliche formen können.
+											Wir möchten technologische Artefakte bauen können,
+											die für die Welt von Nutzen sein könnten. Wir möchten lernen,
+											wie man biologische Artefakte baut, z.B. Menschen, Wale und Bäume.
+											Und falls wir dieses Niveau der Komplexität erreichen können,
+											wenn unsere Fähigkeit, solche Moleküle zu programmieren, wirklich so gut wird,
+											dann ist das wirkliche Magie. Vielen Dank.
+											(Applaus)
+									",Playing with DNA that self-assembles,Paul Rothemund,4:59,"DNA,MacArthur grant,complexity,computers,science"
+"
+","
+","
+","
+","
+",Playing with DNA that self-assembles,Paul Rothemund,4:59,"DNA,MacArthur grant,complexity,computers,science"

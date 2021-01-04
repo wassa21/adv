@@ -1,0 +1,542 @@
+en,es,pt,tr,fr,de,title,speaker,duration,tags
+"
+","
+","
+","
+","
+","
+",Demo: The Orb,Nick Sears,3:58,"demo,design,entertainment,invention,technology,animation"
+"
+											In 1962, Buckminster Fuller
+											presented the particularly audacious proposal for the Geoscope.
+											It was a 200-foot diameter geodesic sphere
+											to be suspended over the East River in New York City, in full view of the United Nations.
+											It was a big idea, for sure, and it was one that he felt could truly inform
+											and deeply affect the decision making of this body
+											through animations of global data, trends
+											and other information regarding the globe, on this sphere.
+											And today, 45 years later,
+											we clearly have no less need for this kind of clarity and perspective,
+											but what we do have is improved technology.
+									","
+											En 1952, Buckminster Fuller
+											presentó una propuesta particularmente audaz para el Geoscope.
+											Era una esfera geodesica de 200 pies de diámetro
+											que estaría suspendida sobre el Río Este en la ciudad de Nueva York, a la vista de las Naciones Unidas.
+											Era una gran idea, por supuesto, y era una que él sentía que verdaderamente podía informar
+											y profundamente afectar la toma de decisiones de este organismo
+											a través de animaciones de información global, tendencias
+											y otro tipo de información relacionada con el mundo, en esta esfera.
+											Y hoy, 45 años después,
+											está claro que no necesitamos más este tipo de claridad ni de pespectiva,
+											pero lo que sí tenemos es una tecnología que se ha perfeccionado.
+									","
+											Em 1952, Buckminster Fuller
+											apresentou uma proposta particularmente
+audaciosa para o Geoscope.
+											Era uma esfera geodésica
+de 61 metros de diâmetro
+											que ficaria suspensa sobre o East River
+em Nova Iorque, no campo de visão da ONU.
+											Era uma grande ideia, com certeza,
+e que ele sentia poder informar
+											e afetar profundamente
+a tomada de decisões deste corpo
+											através de animações de dados globais,
+											tendências e outras informações
+relativas ao globo, nesta esfera.
+											Hoje, 45 anos depois,
+											não temos menos necessidade
+deste tipo de clareza e perspetiva,
+											mas o que temos é tecnologia aperfeiçoada.
+									","
+											1952'de, Buckminster Fuller
+											Geoscope için kısmen faydalı bir teklif sundu.
+											Bu, New York'taki East River üzerinde, Birleşmiş Milletleri
+											tamamen gören, asılı durumda, 60 metre çapında jeodezik bir küreydi.
+											Büyük bir fikirdi elbette, ve bunun üzerindeki küresel veriler,
+											trendler ve diğer bilgilerin animasyonu üzerinden,
+											bu gövdenin yapım kararını derinden etkileyen
+											ve gerçekten bilgilendirildiğini hissettiği bir fikirdi.
+											Ve bugün, 45 yıl sonra,
+											bundan daha az olmayan anlaşırlılık ve perspektife ihtiyacımız var,
+											fakat yaptığımız ilerlemiş bir teknolojiye sahip.
+									","
+											En 1952, Buckminster Fuller
+											a présenté une proposition particulièrement audacieuse pour le Geoscope.
+											Il s'agissait d'une sphère géodésique d'un diamètre de 200 pieds (61 mètres)
+											destinée à être suspendue au-dessus de l'East River à New York City, bien à la vue de l'Organisation des Nations Unies.
+											C'était une grande idée, bien sûr, et il pensait vraiment qu'il pourrait ainsi vraiment informer
+											et profondément affecter les prises de décision de cet organisme
+											avec des animations de données mondiales, des tendances
+											et d'autres informations concernant le monde, sur cette sphère.
+											Et aujourd'hui, 45 ans plus tard,
+											il est clair que nous n'avons pas moins besoin de ce genre de clarté et de perspective,
+											mais par contre ce que nous avons, c'est une technologie améliorée.
+									","
+											Im Jahr 1952 machte Buckminster Fuller
+											machte fur das Geoscope einen besonders mutigen Vorschlag.
+											Es war eine 200-Fuss-Durchmesser geodätischen Kugel
+											um über den East River in New York City ausgesetzt werden, in voller Sicht der Vereinten Nationen.
+											Es war eine große Idee, das ist sicher, und es war eine Idee, fuehlte er, die
+											die Entscheidungsfindung dieses Gremiums wirklich informieren und tief berühren konnte
+											durch Animationen von globalen Daten, Trends
+											und andere Informationen über den Globus, auf dieser Kugel.
+											Und heute, 45 Jahre später,
+											wir haben eindeutig nicht weniger Bedarf für diese Art von Klarheit und Perspektive,
+											aber was wir haben, ist verbesserte Technologie.
+									",Demo: The Orb,Nick Sears,3:58,"demo,design,entertainment,invention,technology,animation"
+"
+","
+","
+","
+","
+","
+",Demo: The Orb,Nick Sears,3:58,"demo,design,entertainment,invention,technology,animation"
+"
+											Today we don't need one million light bulbs to create a spherical display.
+											We can use LEDs.
+											LEDs are smaller, they're cheaper, they're longer lasting, they're more efficient.
+											Most importantly for this, they're faster.
+											And this speed, combined with today's high-performance micro-controllers,
+											allows us to actually simulate, in this piece,
+											over 17,000 LEDs — using just 64.
+											And the way this happens is through the phenomenon of persistence of vision.
+											But as this ring rotates at about 1,700 rpm — that's 28 times per second.
+											The equator's speed is actually about 60 miles per hour.
+											There are four on-board micro-controllers
+											that, each time this ring rotates
+											it, as it passes the rear of the display,
+											it picks up a position signal.
+											And from that, the on-board micro-controllers
+											can extrapolate the position of the ring at all points around the revolution
+											and display arbitrary bitmap images and animations.
+									","
+											Hoy en día, no necesitamos un millón de focos para crear una pantalla esférica.
+											Podemos utilizar LEDs.
+											Los LEDs son más pequeños, baratos, durables y eficientes.
+											Y lo más importante para esto, son más rápidos.
+											Y esta velocidad, combinada con los micro controladores de alto rendimiento de hoy en día
+											nos permiten simular, en esta pieza,
+											más de 17,000 LEDs —utilizando sólo 64.
+											Y la manera en que esto sucede es a través del fenómeno de la persistencia de la visión.
+											Pero este anillo rota aproximadamente a 1,700 rpm —es decir, 28 veces por segundo.
+											La velocidad del ecuador es de alrededor de 60 millas por hora.
+											Existen cuatro micro controladores internos
+											que, cada vez que este anillo lo rota,
+											mientras pasa por la parte trasera del visualizador,
+											detecta una señal de ubicación
+											y de ahí, los micro controladores internos
+											pueden extrapolar la posición del anillo en todos los puntos de la revolución
+											y mostrar arbitrariamente imágenes y animaciones.
+									","
+											Hoje não precisamos de um milhão
+de lâmpadas para criar um ecrã esférico.
+											Podemos usar LEDs.
+											Os LEDs são mais pequenos, mais baratos,
+duram mais, são mais eficientes.
+											E, o que mais importa para isto,
+são mais rápidos.
+											Esta velocidade, combinada com os atuais
+microcontroladores de alto desempenho,
+											permitiram-nos simular, nesta peça,
+											mais de 17 000 LEDs — usando apenas 64.
+											Isto acontece através do fenómeno
+da persistência da visão.
+											Enquanto este aro roda a cerca de 1700 rpm
+— 28 vezes por segundo,
+											a velocidade do equador
+é de cerca de 97 km por hora.
+											Há quatro microcontroladores embutidos
+											que, cada vez que este aro roda,
+											quando passa na parte de trás do ecrã,
+											capta um sinal posicional.
+											A partir daí,
+os microcontroladores embutidos
+											podem extrapolar a posição do aro
+em todos os pontos da rotação
+											e exibir imagens bitmap
+e animações à escolha.
+									","
+											Bugün küresel görüntü yaratmak için bir milyon ampule ihtiyacımız yok.
+											LEDleri kullanabiliriz.
+											LEDler daha küçük ve ucuzdur, daha uzun süre dayanır, daha verimlidirler.
+											Daha önemlisi, hızlıdırlar.
+											Ve bu hız, günümüzde bize, 64 tanesini kullanarak
+											17.000 LEDi simule etmemizi sağlayan
+											yüksek performanslı mikro kontrolörleri ile oluşturulmuştur.
+											Bu da vizyonun kararlılığı olgusu sayesinde oluyor.
+											Bu halka dakikada 1700 devir yapıyor — yani saniyede 28 kez.
+											Ekvator'un hızı aslında saatte 98 km/h'dir.
+											Yerleştirilmiş dört mikro kontrolör var,
+											her seferinde halka dönerken, bir ekran
+											önünden geçiyor,
+											bir konum sinyali seçiyor
+											ve bundan, yerleştirilmiş mikro kontrolörler
+											dönüş çevresindeki bütün noktalardaki halkanın pozisyonunu hesaplayabilir
+											ve rastgele resim ve animasyonlar gösterebilir.
+									","
+											Aujourd'hui, nous n'avons pas besoin d'un million d'ampoules pour créer un écran sphérique.
+											Nous pouvons utiliser les LEDs.
+											Les LEDs sont plus petites, elles ont moins chères, elles durent plus longtemps, elles ont plus efficaces
+											Et ce qui importe le plus pour cette invention, elles sont plus rapides.
+											Et cette vitesse, combinée avec les micro-contrôleurs à haute performance d'aujourd'hui
+											nous a permis de simuler, dans cette invention,
+											plus de 17 000 LED — en en utilisant seulement 64.
+											Et l'effet est produit grâce au phénomène de la persistance rétinienne.
+											Mais, alors que cet anneau tourne à 1700 tours / minute environ - soit 28 fois par seconde.
+											La vitesse à l'équateur est en fait environ 96 kilomètres / heure.
+											Il y a quatre micro-contrôleurs embarqués
+											qui, chaque fois que cet anneau tourne
+											et qu'il passe devant la partie arrière de l'affichage,
+											et il reçoit un signal de position
+											à partir duquel les micro-contrôleurs embarqués
+											peuvent extrapoler la position de l'anneau à tous les points de la révolution
+											et afficher des images bitmap et des animations arbitraires.
+									","
+											Heute brauchen wir nicht eine Million Glühbirnen zu einer sphärische Anzeige zu schaffen.
+											Wir können LEDs nutzen.
+											LEDs sind kleiner, sie sind billiger, sie halten langer an, sie sind effizienter.
+											Vor allem für diese, sind sie schneller.
+											Und diese Geschwindigkeit, mit der heutigen Hochleistungs-Mikro-Controller kombiniert
+											erlaubt uns, tatsächlich zu simulieren, in diesem Stück,
+											über 17.000 LEDs - mit nur 64.
+											Und die Art und Weise dies geschieht, ist durch das Phänomen der Augenträgheit.
+											Aber während dieser Ring dreht sich rund 1.700 U / min - das ist 28 Mal pro Sekunde.
+											Die Geschwindigkeit des Äquators ist tatsächlich etwa 60 Meilen pro Stunde.
+											Es gibt vier On-Board-Mikro-Controller
+											die, jedes Mal diesen Ring dreht sich
+											während es passiert die Rückseite der Anzeige,
+											es nimmt eine Position Signal
+											und von diesem, die On-Board-Mikro-Controller
+											die Position des Ringes in allen Punkten rund um die Revolution extrapolieren
+											und Anzeige beliebiger Bitmap-Bilder und Animationen.
+									",Demo: The Orb,Nick Sears,3:58,"demo,design,entertainment,invention,technology,animation"
+"
+","
+","
+","
+","
+","
+",Demo: The Orb,Nick Sears,3:58,"demo,design,entertainment,invention,technology,animation"
+"
+											But this is really just the beginning.
+											In addition to higher resolution versions of this display,
+											my father and I are working on a new patent-pending design
+											for a fully volumetric display using the same phenomenon.
+											It achieves this by rotating LEDs about two axes.
+											So as you can see here, this is a, eleven-inch diameter circuit board.
+											These blocks represent LEDs.
+											And so you could see that as this disc rotates about this axis,
+											it will create a disc of light that we can control.
+											That's nothing new: that's a propeller clock;
+											that's the rims that you can buy for your car.
+											But what is new is that, when we rotate this disc about this axis,
+											this disc of light actually becomes a sphere of light.
+											And so we can control that with micro-controllers
+											and create a fully volumetric, three-dimensional display with just 256 LEDs.
+									","
+											Pero en realidad esto es sólo el comienzo.
+											Además de versiones de mayor resolución de visualización,
+											mi padre y yo estamos trabajando en un nuevo diseño con patente pendiente
+											para una pantalla completamente volumétrica usando el mismo fenómeno.
+											Ésto lo logra al hacer rotar los LEDs alrededor de dos ejes.
+											Así que, como puede ver aquí, este es un tablero de circuito de 11 pulgadas de diámetro.
+											Estos bloques representan los LEDs.
+											Y así puede ver que, mientras este disco rota alrededor de este eje,
+											creará un disco de luz que podemos controlar.
+											Eso no es nada nuevo, eso es un reloj de hélice.
+											Esos son los rines que puede comprar para su coche.
+											Pero lo que sí es nuevo, es que al rotar este disco alrededor de este eje,
+											ahora el disco de luz en realidad se convierte en una esfera de luz.
+											Y por lo tanto, podemos controlar esto con los micro controladores
+											y crear una pantalla tridimensional completamente volumétrica con sólo 256 LEDs.
+									","
+											Mas isto é apenas o começo.
+											Para além de versões
+de maior resolução deste ecrã,
+											o meu pai e eu estamos a trabalhar
+num novo ""design""
+											para um ecrã totalmente volumétrico
+usando o mesmo fenómeno.
+											Consegue isso fazendo rodar LEDs
+em dois eixos.
+											Como veem, esta é uma placa
+de circuitos com 28 cm de diâmetro.
+											Este blocos representam LEDs.
+											E podem ver que, à medida
+que este disco roda neste eixo,
+											vai criar um disco de luz
+que podemos controlar.
+											Não é nada de novo,
+é um relógio de hélice.
+											São as jantes que podem comprar
+para o vosso carro.
+											Mas o que é novo é que,
+quando rodamos este disco neste eixo,
+											este disco de luz torna-se efetivamente
+uma esfera de luz.
+											E conseguimos controlar isso
+com microcontroladores
+											e criar um ecrã totalmente volumétrico,
+tridimensional, com apenas 256 LEDs.
+									","
+											Bu gerçekten sadece bir başlangıç.
+											Bu görüntünün yüksek çözünürlükteki versiyonlarına ek olarak,
+											babamla ben aynı olguyu kullanarak tamamen hacimsel görüntü
+											için bekleyen yeni bir patent tasarımı üzerinde çalışıyoruz.
+											Bu LEDleri iki eksen üzerinde döndürerek elde ediliyor.
+											Burada gördüğünüz üzere, bu 27 santim çapında bir devre düzeneği.
+											Bu bloklar LEDleri temsil ediyor.
+											Bu diskin eksen üzerinde dönebildiğini görebiliyorsunuz,
+											kontrol edebileceğimiz bir ışık diski yaratıyor.
+											Bu yeni bir şey değil, bu bir döner saat.
+											Arabanız için alabileceğiniz jantlar.
+											Fakat yeni olan, bu disk eksen üzerinde döndüğünde,
+											şimdi ışık diski aslında bir ışık küresi oluyor.
+											Ve mikro kontrolörlerle kontrol edebiliriz ve
+											tam hacimli, 256 LEDle üç boyutlu görüntü oluşturabiliriz.
+									","
+											Mais ce n'est que le début.
+											En plus des versions de résolution plus élevées de cet affichage,
+											mon père et moi-même travaillons sur une nouvelle conception en instance de brevet
+											pour un affichage complètement volumétrique utilisant le même phénomène.
+											On arrive à ce résultat par une rotation des LEDs autour de deux axes.
+											Donc, comme vous pouvez le voir ici, il s'agit d'un circuit imprimé de 11-pouces (28 centimètres) de diamètre.
+											Ces blocs représentent des LEDs.
+											Et donc vous verriez alors que ce disque est en rotation sur cet axe,
+											il va créer un disque de lumière que nous pouvons contrôler.
+											Ce n'est rien de nouveau, c'est comme une horloge à hélice.
+											C'est comme les jantes que vous pouvez acheter pour votre voiture.
+											Mais ce qui est nouveau, c'est que lorsque nous faisons tourner ce disque sur cet axe,
+											alors ce disque de lumière devient en fait une sphère de lumière.
+											Et ainsi nous pouvons contrôler cela par des micro-contrôleurs
+											et créer un affichage volumétrique, en trois dimensions, avec seulement 256 LEDs.
+									","
+											Aber das ist eigentlich nur der Anfang.
+											Neben der höheren Auflösung Versionen von dieser Anzeige
+											mein Vater und ich arbeiten an einem neuen zum Patent angemeldete Design
+											für eine voll volumetrische Anzeige, dass das gleiche Phänomen nutzt.
+											Er erreicht dies durch die rotierenden LEDs um zwei Achsen.
+											Wie ihr hier sehen könnt, das ist eine 11-Zoll-Durchmesser Platine.
+											Diese Blöcke stellen LEDs.
+											Und wie so konnte man sehen, dass als die Platte dreht sich um dieser Achse,
+											Es wird eine Lichtsplatte formieren, die wir kontrollieren können.
+											Das ist nichts Neues, das ist ein Propeller Clock.
+											Das ist die Felge, die ihr für eure Auto kaufen können.
+											Aber was neu ist, ist, dass, wenn wir diese Platte um diese Achse drehen,
+											jetzt die Lichtsplatte wird eigentlich einer Lichtskugel.
+											Und wir können das mit Mikro-Controller kontrollieren
+											und erstellen eine voll volumetrischen, dreidimensionalen Anzeige mit nur 256 LEDs.
+									",Demo: The Orb,Nick Sears,3:58,"demo,design,entertainment,invention,technology,animation"
+"
+","
+","
+","
+","
+","
+",Demo: The Orb,Nick Sears,3:58,"demo,design,entertainment,invention,technology,animation"
+"
+											Now this piece is currently in process —
+											due out in May — but what we've done is we've put together a small demo,
+											just to show the geometric translation of points into a sphere.
+											I've got a little video to show you,
+											but keep in mind that this is with no electronic control,
+											and this is also with only four LEDs.
+											This is actually only about 1.5 percent of what the final display will be in May.
+											So, take a look.
+											And here you can see it's rotating about the vertical axis only, creating circles.
+											And then, as the other axis kicks in,
+											those actually blur into a volume.
+											And the shutter speed of the camera
+											actually makes it slightly less effective in this case.
+									","
+											Actualmente esta pieza está en proceso —
+											saldrá en Mayo, pero lo que hemos hecho es crear una pequeña demostración,
+											sólo para mostrar la traducción geométrica de puntos en una esfera.
+											Tengo para mostrarles un video corto,
+											pero tengan en cuenta que esto es sin control electrónico,
+											y que además funciona con sólo cuatro LEDs.
+											Esto es en realidad sólo el 1.5% de lo que será la pantalla terminada en Mayo.
+											Así que, echen un vistazo.
+											Y aquí puede ver que solamente está rotando alrededor del eje vertical, creando círculos.
+											Y después, mientras los otros ejes se integran
+											aquéllos se disipan en un volumen.
+											Y la velocidad del disparador de la cámara
+											en realidad lo hace ligeramente menos efectivo en este caso.
+									","
+											Esta peça está atualmente a ser produzida
+											— deve sair em maio,
+mas preparámos uma pequena demo,
+											para mostrar a tradução geométrica
+de pontos numa esfera.
+											Tenho um pequeno vídeo para vos mostrar,
+											mas tenham em mente
+que isto é sem controlo eletrónico,
+											e é apenas com quatro LEDs.
+											Na verdade, isto é apenas cerca de 1,5 %
+do que o ecrã será em maio.
+											Deem uma vista de olhos.
+											Aqui podem ver que está a rodar
+apenas no eixo vertical, criando círculos.
+											Depois, quando entra o outro eixo,
+											os dois misturam-se criando um volume.
+											A velocidade do obturador da câmara
+											torna-o ligeiramente
+menos eficiente neste caso.
+									","
+											Şimdi bu parça yapım aşamasında —
+											Mayıs'a kadar, fakat burada yaptığımız, kürenin içine noktaların geometrik çevirisini
+											göstermek için basit bir gösteri hazırlamak.
+											Size göstereceğim bir video var,
+											aklınızda bulunsun, bunun bir elektrik kontrolü yok ve
+											yalnızca 4 tane LED ile yapılmış.
+											Bu Mayıs'ta bitecek olan son görüntünün yalnızca yüzde 1,5'u.
+											Buyrun, izleyin.
+											Burada yalnızda dikey eksen üzerinde dönerek halkalar yarattığını görebilirsiniz.
+											Ve sonra, diğer eksen girince,
+											hacim içinde bulanıklaşıyor.
+											Ve kameranın estantane hızı
+											aslında bu olayda onu daha az etkin yapıyor.
+									","
+											Maintenant, cet appareil est actuellement en cours de fabrication —
+											la sortie est prévue pour Mai, mais ce que nous avons fait c'est que nous avons mis en place une petite démo,
+											juste pour montrer la traduction géométrique de points en une sphère.
+											J'ai une petite vidéo à vous montrer,
+											mais gardez à l'esprit qu'il n'y a pas ici de contrôle électronique,
+											et aussi qu'il y a seulement quatre LEDs.
+											C'est en fait seulement environ 1,5 % de ce que sera l'affichage final en Mai.
+											Alors, jetez un coup d'oeil.
+											Et ici, vous pouvez le voir, elle tourne autour de l'axe vertical seulement, en créant des cercles.
+											Et puis, alors que l'autre axe entre en fonction,
+											elles se fondent vraiment en un seul volume.
+											Et la vitesse d'obturation de la caméra
+											rend l'effet un peu moins évident dans ce cas précis.
+									","
+											Jetzt ist dieses Stück derzeit in Bearbeitung -
+											es erscheint in Mai, aber was wir getan haben ist, dass wir zusammen eine kleine Demo gestellt,
+											auf die Übersetzung von geometrischen Punkten in eine Sphäre zu zeigen.
+											Ich habe ein kleines Video für euch,
+											aber bedenkt euch, dass es ist ohne elektronische Regelung,
+											und es ist auch nur mit vier LEDs.
+											Das ist tatsächlich nur etwa 1,5 Prozent von was die endgültige Anzeige in May sein wird.
+											Also, guck mal.
+											Und hier könnt ihr sehen, es dreht sicht nur um die vertikale Achse, einfach Kreise.
+											Und dann, als die andere Achse ins Spiel kommt,
+											verschmieren sie tatsächlich in einem Inhalt.
+											Und die Verschlusszeit der Kamera
+											tatsächlich ist es etwas weniger effektiv in diesem Fall.
+									",Demo: The Orb,Nick Sears,3:58,"demo,design,entertainment,invention,technology,animation"
+"
+","
+","
+","
+","
+","
+",Demo: The Orb,Nick Sears,3:58,"demo,design,entertainment,invention,technology,animation"
+"
+											But this piece is due out in May.
+											It'll be on display at the Interactive Telecommunications Spring Show
+											in Greenwich Village in New York City — that's open to the public,
+											definitely invite you all to come and attend — it's a fantastic show.
+											There are hundreds of student innovators with fantastic projects.
+											This piece, actually, will be on display
+											down in the Sierra Simulcast Lounge
+											in the breaks between now and the end of the show.
+											So I'd love to talk to you all, and invite you
+											to come down and take a closer look.
+											It's an honor to be here. Thanks very much.
+									","
+											Pero esta pieza saldrá en Mayo.
+											Se mostrará en el Interactive Telecommunications Spring Show
+											en Greenwich Village en Nueva York —estará abierto al público,
+											por supuesto los invito a todos a asistir —es un espectáculo fantástico.
+											Hay cientos de estudiantes innovadores con proyectos fantásticos.
+											Esta pieza, en realidad, se mostrará
+											abajo en el Sierra Simulcast Lounge
+											en los descansos que haya desde ahora y hasta el fin del espectáculo.
+											Así que me encantaría hablar con todos ustedes, e invitarlos
+											a que vengan y vean el proyecto más de cerca.
+											Es un honor estar aquí, muchas gracias.
+									","
+											Esta peça deve sair em maio.
+											Estará em exibição no Interactive
+Telecommunications Spring Show
+											em Greenwich Village em Nova Iorque
+— e é aberto ao público,
+											Convido-vos a todos
+— é uma mostra fantástica.
+											Há centenas de estudantes inovadores
+com projetos fantásticos.
+											Esta peça estará em exibição
+no Sierra Simulcast Lounge
+											nos intervalos entre agora
+e o fim da mostra.
+											Gostaria muito de falar com todos,
+											e de vos convidar a ir até lá
+e ver mais de perto.
+											Muito obrigado.
+									","
+											Fakat bu parça Mayıs ayında bitecek.
+											Bu New York, Greenwich Village'ta halka açık olan
+											Interactive Telecommunications Spring Show'da olacak,
+											Kesinlikle gelip katılmanız için hepinizi davet ediyorum, fantastik bir gösteri olacak.
+											Yüzlerce mucit öğrenci fantastik projeleri ile orada olacaklar.
+											Bu parça aralarda ve
+											gösterinin sonunda Sierra
+											Simulcast Lounge'ta gösterimde olacak.
+											Sizinle sohbet çok hoşuma gitti, ve gelip
+											yakından bakmanız için sizi davet ediyorum.
+											Burada olmak bir şerefti, çok teşekkür ederim.
+									","
+											Cet appareil sortira en Mai.
+											Il sera exposé au Salon de Printemps des Télécommunications Interactives
+											de Greenwich Village à New York - c'est ouvert au public,
+											et nous vous invitons tous à venir y assister - c'est un salon fantastique.
+											Il y a des centaines d'étudiants innovateurs avec de magnifiques projets.
+											Ce dispositif en fait sera exposé
+											dans l'espace Sierra Simulcast
+											pendant les pauses entre maintenant et la fin de la séance.
+											J'aimerais donc vous parler à tous, et vous inviter
+											à venir regarder de plus près.
+											C'est un honneur d'�tre ici, merci beaucoup.
+									","
+											Aber dieses Stück erscheint erst im Mai.
+											Es wird an der Interactive Telecommunications Spring Show angezeigt,
+											in Greenwich Village in New York - das ist für die Öffentlichkeit zugänglich,
+											ich definitiv lade euch alle zu kommen und teilnehmen ein - es ist eine fantastische Show.
+											Es gibt Hunderte von Studenten Innovatoren mit phantastischen Projekten.
+											Dieses Stück, tatsächlich wird
+											in der Sierra Simulcast Lounge angezeigt,
+											in den Pausen zwischen jetzt und Ende der Show.
+											Ich wurde gerne mit euch reden, und euch einladen
+											herunter zu kommen und einen genaueren Blick zu werfen.
+											Es ist eine Ehre hier zu sein, danke sehr.
+									",Demo: The Orb,Nick Sears,3:58,"demo,design,entertainment,invention,technology,animation"
+"
+","
+","
+","
+","
+","
+",Demo: The Orb,Nick Sears,3:58,"demo,design,entertainment,invention,technology,animation"
+"
+											(Applause)
+									","
+											(Aplausos)
+									","
+											(Aplausos)
+									","
+											(Alkış)
+									","
+											(Applaudissements)
+									","
+											(Applaus)
+									",Demo: The Orb,Nick Sears,3:58,"demo,design,entertainment,invention,technology,animation"
+"
+","
+","
+","
+","
+","
+",Demo: The Orb,Nick Sears,3:58,"demo,design,entertainment,invention,technology,animation"

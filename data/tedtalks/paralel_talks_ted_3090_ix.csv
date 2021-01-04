@@ -1,0 +1,1729 @@
+en,es,tr,fr,title,speaker,duration,tags
+"
+","
+","
+","
+",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+											Today, I'm going to talk about AI and us.
+											AI researchers have always said
+											that we humans do not need to worry,
+											because only menial jobs
+will be taken over by machines.
+											Is that really true?
+											They have also said
+that AI will create new jobs,
+											so those who lose their jobs
+will find a new one.
+											Of course.
+											But the real question is:
+											How many of those
+who may lose their jobs to AI
+											will be able to land a new one,
+											especially when AI is smart enough
+to learn better than most of us?
+									","
+											El día de hoy 
+hablaré de la IA y de nosotros.
+											Los investigadores de IA 
+siempre han dicho
+											que los humanos no debemos preocuparnos,
+											porque los trabajos de baja categoría
+serán ocupados por las máquinas.
+											¿Es eso de verdad así?
+											También han dicho
+que la IA creará nuevos empleos,
+											así que aquellos que pierdan su trabajo,
+encontrarán uno nuevo.
+											Claro.
+											Pero la verdadera pregunta es:
+											¿Cuántos de los que 
+pierdan su trabajo por la IA
+											lograrán conseguir uno nuevo,
+											especialmente siendo la IA más inteligente
+											y capaz de aprender mejor 
+que la mayoría de nosotros?
+									","
+											Bugün Yapay Zekâ ve 
+biz hakkında konuşacağım.
+											Yapay zekâ araştırmacıları her zaman
+											biz insanların endişe etmesine 
+gerek olmadığını söyler
+											çünkü makineler sadece 
+önemsiz işleri devralacaktır.
+											Bu gerçekten de doğru mu?
+											Ayrıca yapay zekânın 
+yeni işler ortaya çıkaracağını,
+											böylelikle işini kaybedenlerin 
+yeni bir iş bulacağını söylerler.
+											Tabii ki öyle.
+											Fakat asıl soru şu:
+											Özellikle yapay zekâ çoğumuzdan daha iyi
+öğrenecek kadar geliştiğinde
+											işini yapay zekâya kaptıranların
+											kaç tanesi yeni bir iş bulabilir 
+durumda olacak?
+									","
+											Aujourd'hui, je vais parler 
+d'IA et de nous.
+											Les chercheurs en IA ont toujours dit que
+											nous, les êtres humains, 
+ne devons pas nous inquiéter
+											car seuls les emplois non qualifiés 
+seront repris par les machines.
+											Est-ce vraiment vrai ?
+											Ils ont également dit que l'IA
+créerait de nouveaux emplois,
+											donc ceux qui perdront leur travail
+en retrouveront.
+											Bien sûr.
+											Mais la véritable question 
+est de savoir :
+											parmi ceux qui perdraient leur emploi 
+à cause de l'IA,
+											combien en retrouveront un,
+											dès lors que l'IA a 
+des meilleures capacités d'apprentissage
+											que la plupart d'entre nous ?
+									",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+","
+","
+","
+",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+											Let me ask you a question:
+											How many of you think
+											that AI will pass the entrance examination
+of a top university by 2020?
+											Oh, so many. OK.
+											So some of you may say, ""Of course, yes!""
+											Now singularity is the issue.
+											And some others may say, ""Maybe,
+											because AI already won
+against a top Go player.""
+											And others may say, ""No, never. Uh-uh.""
+											That means we do not know
+the answer yet, right?
+											So that was the reason why
+I started Todai Robot Project,
+											making an AI which passes
+the entrance examination
+											of the University of Tokyo,
+											the top university in Japan.
+									","
+											Déjenme hacerles una pregunta:
+											¿Cuántos de Uds. piensan
+											que una IA aprobará un examen de admisión 
+de una universidad de élite para el 2020?
+											No muchos. De acuerdo.
+
+											Algunos podrán decir, ""¡Claro que sí!"".
+											Ahora la singularidad es el punto.
+											Otros podrán decir, ""Tal vez,
+											ya que una IA 
+venció a un gran jugador de Go"".
+											Y otros dirán, ""No, nunca. Jamás"".
+											Quiere decir que todavía 
+no sabemos la respuesta, ¿cierto?
+											Es por eso que inicié 
+el Proyecto Robot Todai,
+											crear una IA que apruebe 
+el examen de admisión
+											de la Universidad de Tokio,
+											la mejor en Japón.
+									","
+											İzninizle sormak istiyorum:
+											Kaçınız yapay zekânın
+											2020'lerde gözde bir üniversitenin
+giriş sınavını geçeceğini düşünüyor?
+											Bir çoğunuz. Peki.
+											Belki bazılarınız
+""Tabii geçer!"" diyordur.
+											Bir tuhaflık söz konusu.
+											Bazıları da ""Olabilir,
+											çünkü yapay zekâ zaten usta bir 
+Go oyuncusunu bile yendi"" diyebilir.
+											Bazıları da ""Hayır, asla."" diyebilir.
+											Yani henüz cevabı bilmiyoruz değil mi?
+											Todai Robot Projesini 
+başlatma sebebim buydu.
+											Japonya'nın ilk sıradaki 
+üniversitesi olan
+											Tokyo Üniversitesi'nin 
+giriş sınavını geçen
+											bir yapay zekâ üretmekti.
+									","
+											Permettez-moi de vous poser une question :
+											Combien d'entre vous pensent
+											que l'IA réussira l'examen d'entrée 
+d'une prestigieuse université d'ici 2020 ?
+											Oh, beaucoup. Ok.
+											Certains d'entre vous diront :
+« Bien sûr que oui ! »
+											Mais ça pose le problème 
+de la singularité.
+											Et d'autres diront : 
+« Peut-être,
+											vu que l'IA a déjà battu 
+le meilleur joueur de go. »
+											Et d'autres pourraient dire : 
+« Non, jamais. »
+											Ce qui veut dire que cette question
+reste encore sans réponse, n'est-ce pas ?
+											C'est donc pour cette raison que
+j'ai commencé le projet Todai Robot
+											et travaillé sur une IA capable de réussir
+un examen d'entrée
+											de l'université de Tokyo,
+											la meilleure université au Japon.
+									",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+","
+","
+","
+",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+											This is our Todai Robot.
+											And, of course, the brain of the robot
+is working in the remote server.
+											It is now writing a 600-word essay
+											on maritime trade in the 17th century.
+											How does that sound?
+									","
+											Este es nuestro Robot Todai.
+											Y claro, el cerebro del robot
+trabaja en un servidor de manera remota.
+											Ahora está escribiendo 
+un ensayo de 600 palabras
+											sobre comercio marítimo en el siglo XVII.
+											¿Qué les parece?
+									","
+											Bu bizim Todai Robotumuz.
+											Tabii ki robotun beyni 
+uzak sunucuda çalışıyor.
+											17. yüzyılda deniz ticareti üzerine
+											600 kelimelik makale yazabiliyor.
+											Bunu duymak nasıl?
+									","
+											Voici notre Todai Robot.
+											Bien entendu, le cerveau du robot est géré
+par un serveur à distance.
+											Il est capable d'écrire 
+une dissertation de 600 mots
+											sur le commerce maritime au XVIIe siècle.
+											Pas mal, non ?
+									",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+","
+","
+","
+",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+											Why did I take the entrance exam
+as its benchmark?
+											Because I thought we had to study
+the performance of AI
+											in comparison to humans,
+											especially on the skills and expertise
+											which are believed
+to be acquired only by humans
+											and only through education.
+											To enter Todai, the University of Tokyo,
+											you have to pass
+two different types of exams.
+											The first one is
+a national standardized test
+											in multiple-choice style.
+											You have to take seven subjects
+											and achieve a high score —
+											I would say like an 85 percent
+or more accuracy rate —
+											to be allowed to take
+the second stage written test
+											prepared by Todai.
+									","
+											¿Por qué usé como punto de referencia
+el examen de admisión?
+											Porque pensé que teníamos que estudiar
+el desempeño de la IA
+											en comparación con los humanos,
+											en especial en las escalas y experiencia
+											que se cree que son adquiridas 
+solo por los humanos
+											y solo a través de la educación.
+											Para ingresar a Todai,
+la Universidad de Tokio,
+											tienen que pasar 
+dos diferentes tipos de exámenes.
+											El primero es un examen 
+estandarizado nacional
+											de opción múltiple.
+											Consta de siete materias
+											y uno debe tener una calificación alta.
+											Diría que es necesario alrededor de 84 %
+											para poder pasar a la segunda etapa,
+un examen escrito
+											preparado por Todai.
+									","
+											Neden üniersite sınavını
+baz aldım?
+											Çünkü yapay zekânın performansını
+insana kıyaslayarak
+											çalışmamız gerektiğini düşündüm,
+											özellikle de sadece insanların
+											ve de sadece eğitimle edinilen
+											yetenek ve uzmanlıkla.
+											Todai Tokyo Üniversitesi'ne 
+girmek için
+											iki farklı sınavı geçmek gerekiyor.
+											İlki ulusal standartta
+											çoktan seçmeli bir test.
+											Yedi konu seçmeniz
+											ve yüksek puan almanız gerekir.
+											Todai tarafından hazırlanan
+											ikinci aşamadaki yazılı teste geçmek için
+											%84 veya daha fazla 
+doğruluk oranı olması gerekir.
+									","
+											Pourquoi avoir choisi l'examen d'entrée 
+comme point de référence ?
+											Parce que je me suis dit qu'il fallait 
+étudier les performances de l'IA
+											en les comparant 
+à celles des êtres humains,
+											en particulier les compétences 
+et l'expertise
+											dont l'acquisition est vue comme l'apanage
+de l'être humain
+
+											et possible grâce aux études uniquement.
+											Pour intégrer Todai, 
+l'Université de Tokyo,
+											il faut réussir deux types d'examen.
+											Le premier est 
+un test national standardisé
+											sous forme de questionnaire
+à choix multiples.
+											Il faut choisir sept sujets
+											et obtenir un score élevé —
+											je dirais plus ou moins 85%
+ou plus —
+											pour pouvoir accéder au test écrit
+de la deuxième phase,
+											préparé par Todai.
+									",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+","
+","
+","
+",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+											So let me first explain
+how modern AI works,
+											taking the ""Jeopardy!"" challenge
+as an example.
+											Here is a typical ""Jeopardy!"" question:
+											""Mozart's last symphony
+shares its name with this planet.""
+											Interestingly, a ""Jeopardy!""
+question always asks,
+											always ends with ""this"" something:
+											""this"" planet, ""this"" country,
+											""this"" rock musician, and so on.
+											In other words, ""Jeopardy!"" doesn't ask
+many different types of questions,
+											but a single type,
+											which we call ""factoid questions.""
+									","
+											Primero explicaré 
+cómo funciona una IA moderna,
+											tomando el reto de ""Jeopardy!""
+como ejemplo.
+											Esta es una típica pregunta
+de ""Jeopardy!"":
+											""La última sinfonía de Mozart 
+comparte su nombre con este planeta"".
+											Curiosamente, las preguntas de ""Jeopardy!""
+											siempre tienden a terminar con ""este"":
+											""este"" planeta, ""este"" país,
+											""este"" músico de rock, y así.
+											Quiero decir, que ""Jeopardy!"" no hace 
+una gran variedad de preguntas diferentes,
+											solo de un tipo,
+											las llamamos ""preguntas factoides"".
+									","
+											Şimdi öncelikle modern yapay zekânın 
+nasıl çalıştığını anlatayım.
+											""Riziko"" yu örnek alalım.
+											Tipik bir ""Riziko"" sorusu:
+											""Mozart'ın son senfonisi
+bu gezegenle aynı adı taşır.""
+											İlginçtir, ""Riziko"" soruları
+her zaman
+											""bu"" ile biten sorular sorar:
+											""bu"" gezegen, ""bu"" ülke,
+											""bu"" müzik grubu vesaire.
+											Yani ""Riziko"" çok çeşitli sorular sormaz,
+											tek çeşittir,
+											biz buna ""sahte soru"" diyoruz.
+									","
+											Je vais d'abord expliquer 
+comment fonctionne l'IA actuelle
+											en prenant « Jeopardy » comme exemple.
+											Voici une question type dans le jeu :
+											« La dernière symphonie de Mozart
+porte le nom de cette planète. »
+											Fait intéressant,
+les questions de Jeopardy
+											se terminent toujours par 
+« ce » ou « cette » quelque chose :
+											« cette » planète, « ce » pays,
+											« ce » musicien, etc.
+											En d'autres termes, 
+les questions ne sont pas variées,
+											mais sont d'un seul type,
+											qu'on appelle « questions factuelles ».
+									",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+","
+","
+","
+",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+											By the way, do you know the answer?
+											If you do not know the answer
+and if you want to know the answer,
+											what would you do?
+											You Google, right? Of course.
+											Why not?
+											But you have to pick appropriate keywords
+											like ""Mozart,"" ""last""
+and ""symphony"" to search.
+											The machine basically does the same.
+											Then this Wikipedia page
+will be ranked top.
+											Then the machine reads the page.
+											No, uh-uh.
+									","
+											Por cierto, ¿saben la respuesta?
+											Si no la conocen y quieren saberla,
+											¿qué es lo que harían?
+											Lo buscan en Google, ¿no?
+Claro.
+											¿Por qué no?
+											Pero necesitas elegir
+las palabras clave apropiadas
+											como ""Mozart"", ""última""
+y ""sinfonía"" para hacer la búsqueda.
+											Básicamente la máquina hace lo mismo.
+											Entonces nos aparece primero
+esta página de Wikipedia.
+											Luego la máquina lee la página.
+											No, no.
+									","
+											Sırası gelmişken sorayım, 
+cevabı biliyor musunuz?
+											Cevabı bilmiyorsanız ve 
+bilmek istiyorsanız
+											ne yaparsınız?
+											Google'da arardınız değil mi? Kesinlikle.
+											Neden olmasın?
+											Ama araştırmak için 
+""Mozart"", ""son"" ve ""senfoni"" gibi
+
+
+											uygun anahtar kelimeleri
+bulmak zorundasınız.
+											Makine de aslında aynı şeyi yapar.
+											Sonra en üstte 
+bu Wikipedia sayfası çıkar.
+											Sonra makine sayfayı okur.
+											Hayır hayır.
+									","
+											D'ailleurs, connaissez-vous la réponse ?
+											Si vous ne connaissez pas la réponse
+et voulez la découvrir,
+											que faites-vous ?
+											Vous allez sur Google, n'est-ce pas ? 
+Bien sûr.
+											Pourquoi pas ?
+											Mais il faut choisir les bons mots clés.
+											comme « Mozart », « dernière » et
+« symphonie ».
+											La machine fait à peu près la même chose.
+											Et cette page Wikipedia apparaît dans 
+les premiers résultats de recherche.
+											Puis, la machine lit la page.
+											Non.
+									",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+","
+","
+","
+",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+											Unfortunately, none of the modern AIs,
+											including Watson, Siri and Todai Robot,
+											is able to read.
+											But they are very good
+at searching and optimizing.
+											It will recognize
+											that the keywords ""Mozart,""
+""last"" and ""symphony""
+											are appearing heavily around here.
+											So if it can find a word which is a planet
+											and which is co-occurring
+with these keywords,
+											that must be the answer.
+											This is how Watson finds
+the answer ""Jupiter,"" in this case.
+									","
+											Desafortunadamente, ninguna IA moderna,
+											incluida Watson, Siri y Robot Todai,
+											puede leer.
+											Pero son buenas optimizando sus búsquedas.
+											Reconocerán
+											que las palabras clave ""Mozart"",
+""última"" y ""sinfonía""
+											aparecerán varias veces por aquí.
+											Si encuentra una palabra que es un planeta
+											y es concurrente con las palabras clave,
+											debe de ser la respuesta.
+											Así es como, en este caso, Watson
+encuentra la respuesta ""Júpiter"".
+									","
+											Maalesef modern yapay zekâların hiçbiri
+											-Watson, Siri ve Todai Robot dahil-
+											okuyamıyor.
+											Fakat araştırmak ve bunu 
+en iyi şekilde kullanmakta oldukça iyiler.
+											""Mozart"", ""son"" ve ""senfoni""
+											gibi anahtar kelimelerin
+
+											yoğunlaştığı yerleri fark eder.
+											Dolayısıyla gezegen adı olan
+											ve bu anahtar kelimelerle birlikte 
+geçen bir kelime bulabilir,
+											ki cevap budur.
+											Bu örnekte Watson ""Jüpiter"" 
+cevabını böyle bulur.
+									","
+											Malheureusement, aucune forme d'IA,
+											y compris Watson, Siri et Todai Robot,
+											ne sait lire.
+											En revanche, ils sont très bons 
+en recherche et en optimisation.
+											Ils remarqueront
+											que les mots clés « Mozart »,
+« dernière » et « symphonie »
+											reviennent souvent par ici.
+											Donc, s'ils trouvent le nom d'une planète
+											qui apparaît aux côtés de ces mots-clés,
+											ça doit être la bonne réponse.
+											C'est de cette manière que Watson trouve 
+« Jupiter » dans ce cas.
+									",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+","
+","
+","
+",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+											Our Todai Robot works similarly,
+but a bit smarter
+											in answering history yes-no questions,
+											like, ""'Charlemagne repelled the Magyars.'
+Is this sentence true or false?""
+											Our robot starts producing
+a factoid question,
+											like: ""Charlemagne repelled
+[this person type]"" by itself.
+											Then, ""Avars"" but not
+""Magyars"" is ranked top.
+											This sentence is likely to be false.
+											Our robot does not read,
+does not understand,
+											but it is statistically
+correct in many cases.
+									","
+											El Robot Todai trabaja de manera similar,
+pero es un poco más listo
+											respondiendo preguntas 
+""sí o no"" de historia como,
+											"" 'Carlomagno ahuyentó a los Magiares'. 
+¿Esto es verdadero o falso?"".
+											Nuestro robot 
+produce una pregunta factoide,
+											como, ""Carlomagno ahuyentó
+[este tipo de persona]"" por sí mismo.
+											Entonces, aparece primero ""Ávaros""
+pero no ""Magiares"".
+											Es probable que el enunciado sea falso.
+											Nuestro robot no lee,
+no comprende,
+											pero es correcto 
+estadísticamente en muchos casos.
+									","
+											Bizim Todai Robotumuz da 
+tarihle ilgili evet-hayır sorularını
+											cevaplarken benzeri şekilde ama
+biraz daha zekice çalışır.
+											Mesela ""Şarlman Macarları geri püskürttü.""
+cümlesi doğru mu yanlış mı?""
+											Robotumuz kendi kendine
+sahte bir soru üretmeye başlar,
+											şunun gibi: ""Şarlman [şu kimsleri]
+geri püskürttü.""
+											Sonra, Macarlar değil
+Avarlar üst sıraya geçer.
+											Bu cümlenin yanlış olması muhtemeldir.
+											Bizim robotumuz 
+okumaz, anlamaz
+											ama istatistiksel olarak 
+birçok durumda doğrudur.
+									","
+											C'est aussi ce que fait notre Todai Robot
+mais un peu plus intelligemment
+											quand il répond à des vrais ou faux
+sur des questions d'Histoire,
+											comme : « Charlemagne a repoussé
+les Magyars. Vrai ou faux ? »
+											Notre robot commence par 
+générer lui-même une question,
+											comme : « Charlemagne a repoussé 
+[cet individu]. »
+											Ensuite, « les Avars » mais pas 
+« les Magyars » obtient le meilleur score.
+											La phrase est probablement fausse 
+dans ce cas.
+											Notre robot ne sait pas lire, 
+ne comprend pas le sens des phrases,
+											mais a souvent raison.
+									",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+","
+","
+","
+",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+											For the second stage written test,
+											it is required to write
+a 600-word essay like this one:
+									","
+											Para la segunda etapa, el examen escrito,
+											se requiere escribir 
+un ensayo de 600 palabras como este:
+									","
+											İkinci aşamadaki yazılı sınavda
+											600 kelimelik şunun gibi
+bir makale yazmak gerekir.
+									","
+											En deuxième phase, pour la partie écrite,
+											il fallait rédiger une dissertation
+de 600 mots de ce genre :
+									",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+","
+","
+","
+",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+											[Discuss the rise and fall
+of the maritime trade
+											in East and Southeast Asia
+in the 17th century ...]
+									","
+											[Habla del alza y caída 
+del comercio marítimo
+											en el Este y Sureste de Asia 
+en el siglo XVII...]
+									","
+											[17. yüzyılda Doğu ve 
+Güneydoğu Asya'da
+											deniz ticaretinin 
+iniş ve çıkışlarından bahsedin.]
+									","
+											[Commentez l’ascension et la chute du commerce
+maritime en Asie de l'Est et du Sud-Est au XVIIe siècle
+											en 600 mots, en prenant en compte les politiques
+commerciales de ces pays et les activités commerciales
+des pays européens présents dans cette zone]
+									",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+","
+","
+","
+",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+											and as I have shown earlier,
+											our robot took the sentences
+from the textbooks and Wikipedia,
+											combined them together,
+											and optimized it to produce an essay
+											without understanding a thing.
+									","
+											y como mostré antes,
+											nuestro robot tomó enunciados
+de libros de texto y de Wikipedia,
+											los combinó,
+											y los optimizó para producir un ensayo
+											sin comprender nada.
+									","
+											Daha önce gösterdiğim gibi
+											robotumuz ders kitapları
+ve Wikipedia'dan cümleler alıp
+											bunları birleştirerek
+											bir makale oluşturmak üzere 
+düzene soktu,
+											hem de hiçbir şey anlamaksızın.
+									","
+											et comme je l'ai montré tout à l'heure,
+notre robot a analysé les phrases
+											à partir de manuels et de Wikipedia,
+											les a combinées,
+											et les a optimisées 
+afin de générer une dissertation
+											sans comprendre quoi que ce soit.
+									",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+","
+","
+","
+",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+											(Laughter)
+									","
+											(Risas)
+									","
+											(Kahkahalar)
+									","
+											(Rires)
+									",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+","
+","
+","
+",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+											But surprisingly, it wrote a better essay
+											than most of the students.
+									","
+											Pero, sorprendentemente, escribió 
+un bastante mejor ensayo
+											que los de muchos estudiantes.
+									","
+											Ama şaşırtıcı bir şekilde 
+çoğu öğrenciden
+											daha iyi bir makale yazdı.
+									","
+											Étonnamment, 
+il a rédigé une meilleure dissertation
+											que la plupart des étudiants.
+									",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+","
+","
+","
+",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+											(Laughter)
+									","
+											(Risas)
+									","
+											(Kahkahalar)
+									","
+											(Rires)
+									",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+","
+","
+","
+",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+											How about mathematics?
+											A fully automatic math-solving machine
+											has been a dream
+											since the birth of the word
+""artificial intelligence,""
+											but it has stayed at the level
+of arithmetic for a long, long time.
+											Last year, we finally succeeded
+in developing a system
+											which solved pre-university-level
+problems from end to end,
+											like this one.
+											This is the original problem
+written in Japanese,
+											and we had to teach it
+2,000 mathematical axioms
+											and 8,000 Japanese words
+											to make it accept the problems
+written in natural language.
+											And it is now translating
+the original problems
+											into machine-readable formulas.
+											Weird, but it is now ready
+to solve it, I think.
+											Go and solve it.
+											Yes! It is now executing
+symbolic computation.
+											Even more weird,
+											but probably this is the most
+fun part for the machine.
+									","
+											¿Qué tal las matemáticas?
+											Una máquina que automáticamente
+resuelve problemas
+											ha sido un sueño
+											desde el nacimiento de la palabra
+""inteligencia artificial"",
+											pero se ha mantenido
+al nivel de aritmética por mucho tiempo.
+											El año pasado, finalmente 
+logramos desarrollar un sistema
+											que resuelve por completo problemas
+de nivel preuniversitarios
+											como este.
+											Este problema 
+originalmente está escrito en japonés,
+											y tuvimos que enseñarle 
+2000 axiomas matemáticos
+											y 8000 palabras japonesas
+											para poder aceptar problemas 
+escritas en su lenguaje natural.
+											Y ahora traduce los problemas originales
+											a fórmulas legibles para la máquina.
+											Es raro, pero creo que ahora
+está lista para resolverlo.
+											Resuélvelo.
+											¡Sí! Ahora ejecuta computación simbólica.
+											Más raro,
+											es que probablemente esta es la parte 
+más divertida para la máquina.
+									","
+											Matematikte ne yaptı dersiniz?
+											Matematik çözebilen 
+tam otomatik bir makine
+											""yapay zekâ"" tabirinin
+											doğduğu andan itibaren
+hayalleri süslemektedir.
+											Fakat çok çok uzun zamandır 
+orta seviyede kalmıştır.
+											Geçen yıl nihayet 
+üniversite hazırlık seviyesinde
+											baştan sona problem çözen
+bir sistem geliştirdik,
+											tıpkı şunun gibi.
+											Problemin Japonca yazılmış orijinali bu
+											ve ona 2.000 matematik aksiyomu
+											ve 8.000 Japonca kelime 
+öğretmek zorundaydık.
+											Böylece doğal dilde yazılmış
+problemleri tanıyabilecekti.
+											Şimdi ise orijinal problemleri
+											makinenin okuyabildiği 
+formüllere çevirebiliyor.
+											Garip ama bence
+artık bunu çözmeye hazır.
+											Başla ve çöz.
+											Evet! Şu an sembolik bir 
+hesaplama yapıyor.
+											Daha da garibi,
+											hatta belki de makine için
+işin en eğlenceli kısmı bu.
+									","
+											Et en mathématiques ?
+											Une machine automatisée capable 
+de résoudre des opérations mathématiques
+											est un rêve qui existe
+											depuis la naissance de l'expression
+« intelligence artificielle »,
+											mais elle est restée 
+au stade de l'arithmétique
+											pendant très, très longtemps.
+											L'an dernier [en 2016], nous avons enfin
+réussi à développer un système
+											capable de résoudre 
+des problèmes de niveau pré-universitaire
+											de bout en bout,
+comme celui-ci.
+											Voici le problème original 
+écrit en japonais,
+											et nous avons dû lui apprendre 2 000
+axiomes mathématiques
+											et 8 000 mots en japonais
+											pour qu'il accepte les problèmes écrits
+en langage naturel.
+											Et il traduit maintenant 
+les problèmes originaux
+											sous forme de formules lisibles 
+par les machines.
+											C'est étrange,
+											mais il est maintenant capable
+de les résoudre, je pense.
+											Résous ce problème.
+											Oui ! Il est train d'exécuter
+des calculs symboliques.
+											Encore plus étrange,
+											mais c'est probablement la partie la plus
+amusante pour cette machine.
+									",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+","
+","
+","
+",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+											(Laughter)
+									","
+											(Risas)
+									","
+											(Gülüşmeler)
+									","
+											(Rires)
+									",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+","
+","
+","
+",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+											Now it outputs a perfect answer,
+											though its proof is impossible to read,
+even for mathematicians.
+											Anyway, last year our robot
+was among the top one percent
+											in the second stage written
+exam in mathematics.
+									","
+											Ahora produce la respuesta correcta,
+											aunque su prueba es imposible de leer, 
+hasta para los matemáticos.
+											El año pasado nuestro robot
+estuvo entre los mejores, entre el 1 %,
+											en la segunda etapa,
+en el examen escrito de matemáticas.
+									","
+											Şimdi mükemmel bir cevap çıkarıyor,
+											ancak matematikçilerin bile
+okuması mümkün değil.
+											Ama yine de robotumuz geçen sene
+ikinci seviye yazılı matematik sınavında
+											yüzde birlik kesimin arasındaydı.
+									","
+											Maintenant, 
+il génère une réponse parfaite,
+											bien que la démonstration soit impossible
+à lire même pour des mathématiciens.
+											Bref, l'année dernière, notre robot 
+se classait parmi les premiers 1 pour cent
+											pour l'épreuve de mathématiques qu'il a 
+passée en seconde phase de l'examen.
+									",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+","
+","
+","
+",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+											(Applause)
+									","
+											(Aplausos)
+									","
+											(Alkışlar)
+									","
+											(Applaudissements)
+									",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+","
+","
+","
+",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+											Thank you.
+									","
+											Gracias.
+									","
+											Teşekkürler.
+									","
+											Merci.
+									",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+","
+","
+","
+",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+											So, did it enter Todai?
+											No, not as I expected.
+											Why?
+											Because it doesn't understand any meaning.
+											Let me show you a typical error
+it made in the English test.
+									","
+											Así que, ¿ingresó a Todai?
+											No, no como lo esperaba.
+											¿Por qué?
+											Porque no entiende ningún significado.
+											Déjenme mostrarles un error típico 
+que cometió en el examen de inglés.
+									","
+											Todai'ye girdi mi dersiniz?
+											Hayır, tahminimin aksi oldu.
+											Neden mi?
+											Çünkü hiçbir şey anlamıyordu.
+											İngilizce testinde yapmış olduğu
+tipik bir hatayı göstereyim.
+									","
+											Donc, est-il entré à Todai ?
+											Non, contrairement à ce que j'espérais.
+											Pourquoi ?
+											Parce qu'il est incapable de comprendre.
+											Je vais vous montrer une erreur type
+qu'il a commise à son test d'anglais.
+									",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+","
+","
+","
+",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+											[Nate: We're almost at the bookstore.
+Just a few more minutes.
+											Sunil: Wait. ______ .
+Nate: Thank you! That always happens ...]
+									","
+											[Nate: Ya casi llegamos a la librería.
+Solo unos minutos más.
+											Sunil: Espera. ______ .
+Nate: ¡Gracias! Siempre sucede eso...]
+									","
+											İki kişi konuşuyor: [Nate: Birazdan 
+kitapçıda oluruz.Az kaldı.
+											Sunil: Bekle. ________.
+Nate: Teşekkürler! Bu hep oluyor...]
+									","
+											[Nate : Nous sommes presque arrivés à
+la libraire. Encore quelques minutes.
+											Sunil : Attends. ______ .
+Nate : Merci ! Ça arrive tout le temps...]
+									",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+","
+","
+","
+",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+											Two people are talking.
+											For us, who can understand
+the situation —
+									","
+											Dos personas hablan.
+											Para nosotros,
+que entendemos la situación.
+									","
+											İki kişi konuşuyor.
+											Durumu anlayabilirsek,
+									","
+											Deux personnes discutent.
+											Pour nous, la situation est claire —
+									",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+","
+","
+","
+",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+											[1. ""We walked for a long time.""
+2. ""We're almost there.""
+											3. ""Your shoes look expensive.""
+4. ""Your shoelace is untied.""]
+									","
+											[1. ""Caminamos por mucho tiempo"".
+2. ""Ya casi llegamos"".
+											3.""Tus zapatos parecen caros"".
+4.""Tu nudo está suelto"".]
+									","
+											[1. ""Uzun bir süre yürüdük.""
+2. ""Neredeyse geldik.""
+											3. ""Ayakkabıların pahalı görünüyor.""
+4. ""Bağcıkların çözülmüş.""]
+									","
+											[1. Nous avons beaucoup marché.
+2. Nous y sommes presque.
+											3. Tes chaussures ont l'air chers.
+4. Tes lacets sont défaits.]
+									",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+","
+","
+","
+",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+											it is obvious number four
+is the correct answer, right?
+											But Todai Robot chose number two,
+											even after learning 15 billion
+English sentences
+											using deep learning technologies.
+											OK, so now you might
+understand what I said:
+											modern AIs do not read,
+											do not understand.
+											They only disguise as if they do.
+									","
+											Es obvio que la respuesta correcta
+es la cuatro, ¿cierto?
+											Pero el Robot Todai escogió la dos,
+											a pesar de aprender 15 mil millones 
+de enunciados en inglés
+											utilizando tecnologías 
+para profundizar su aprendizaje.
+											Entonces ahora comprenderán lo que dije:
+											la IA moderna no lee,
+											no comprende.
+											Solo aparenta que sí lo hace.
+									","
+											doğru cevabın dört numara olduğu
+belli değil mi?
+											Fakat Todai Robot ikinciyi seçti,
+											derin öğrenme teknolojileri kullanarak
+											15 milyar İngilizce cümle
+öğrenmiş olduğu halde.
+											Şimdi ne demek istediğimi
+anlamış olmalısınız:
+											Modern yapay zekâlar okumaz,
+											anlamazlar.
+											Sadece ""mış gibi"" yapıyorlar.
+									","
+											Cela paraît évident que 4
+est la bonne réponse, non ?
+											Mais le robot a choisi 
+la réponse numéro 2,
+											même après avoir appris 15 milliards
+de phrases en anglais
+											grâce à des technologies
+d'apprentissage profond.
+											Ok, donc maintenant vous comprenez 
+peut-être mieux ce que je disais :
+											les IA modernes ne savent pas lire,
+											ne comprennent rien.
+											Ils font juste semblant.
+									",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+","
+","
+","
+",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+											This is the distribution graph
+											of half a million students
+who took the same exam as Todai Robot.
+											Now our Todai Robot
+is among the top 20 percent,
+											and it was capable to pass
+											more than 60 percent
+of the universities in Japan —
+											but not Todai.
+											But see how it is beyond the volume zone
+											of to-be white-collar workers.
+									","
+											Esta es la gráfica de distribución
+											de medio millón de estudiantes 
+que hicieron el mismo examen que el robot.
+											Nuestro Robot Todai está con el 20 %
+de los mejores estudiantes,
+											y fue capaz de aprobar
+											más del 60 % de 
+las universidades en Japón...
+											pero no Todai.
+											Pero noten cómo sobrepasa 
+la zona con mayor cantidad
+											de los que serán empleados de oficina.
+									","
+											Burada Todai Robotuyla aynı sınava giren
+											yarım milyon öğrencinin
+dağılım grafiğini görüyorsunuz.
+											Todai Robotumuz yüzde yirminin arasında
+											ve Japonya'daki üniversitelerin
+											%60'ına girebilirdi,
+											Todai hariç.
+											Ayrıca beyaz yakalı çalışanları
+gösteren alanın
+											ne kadar ötesinde olduğuna bakın.
+									","
+											Voici un graphique représentant
+la répartition
+											d'un demi million d'étudiants ayant
+passé le même examen que le Todai Robot.
+											Ici, notre robot se classe parmi 
+les premiers 20%
+											et il a réussi les examens d'entrée
+											de plus de 60%
+des universités japonaises —
+											mais pas celui de Todai.
+											Voyez comme il dépasse
+											les futurs cadres.
+									",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+","
+","
+","
+",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+											You might think I was delighted.
+											After all, my robot was surpassing
+students everywhere.
+											Instead, I was alarmed.
+											How on earth could this unintelligent
+machine outperform students —
+											our children?
+											Right?
+											I decided to investigate
+what was going on in the human world.
+											I took hundreds of sentences
+from high school textbooks
+											and made easy multiple-choice quizzes,
+											and asked thousands
+of high school students to answer.
+									","
+											Pueden pensar que estaba contenta
+											ya que mi robot sobrepasó 
+a estudiantes de todos lados.
+											En cambio, estaba alarmada.
+											¿Cómo era posible que esta máquina
+sin inteligencia superara estudiantes...
+											a nuestros hijos?
+											¿Cierto?
+											Decidí investigar qué pasaba 
+con los seres humanos.
+											Tomé cientos de enunciados 
+de libros de textos de preparatoria
+											e hice sencillos exámenes 
+de opción múltiple,
+											y pedí a miles de estudiantes 
+de preparatoria que los respondieran.
+									","
+											Çok sevindiğimi düşünmüş olmalısınız.
+											Ne de olsa robotum her yerde 
+öğrencileri geçiyordu.
+											Aksine paniğe kapıldım.
+											Nasıl olur da bu akılsız makine
+öğrencileri, çocuklarımızı
+											geçebiliyor?
+											Nasıl?
+											İnsan dünyasında neler olduğunu
+araştırmaya karar verdim.
+											Lise kitaplarından yüzlerce cümle aldım
+											ve çoktan seçmeli kolay testler hazırlayıp
+											binlerce lise öğrencisinden
+çözmelerini istedim.
+									","
+											Vous vous dites peut-être 
+que j'étais ravie.
+											Après tout, mon robot surpassait
+des étudiants venant de partout.
+											En réalité, ça m'a alarmée.
+											Comment est-ce possible qu'une machine
+sans intelligence réussisse mieux que
+											nos enfants ?
+											N'est-ce pas ?
+											J'ai décidé d'examiner ce qu'il se passe
+dans le monde des humains.
+											J'ai pris des centaines de phrases
+tirées de manuels scolaires
+											et j'ai créé des questionnaires
+à choix multiples faciles
+											et demandé à des milliers de lycéens
+d'y répondre.
+									",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+","
+","
+","
+",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+											Here is an example:
+									","
+											Aquí hay un ejemplo:
+									","
+											Örneğe bakalım:
+									","
+											En voici un exemple :
+									",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+","
+","
+","
+",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+											[Buddhism spread to ... ,
+Christianity to ... and Oceania,
+											and Islam to ...]
+									","
+											[El budismo se esparció a...,
+la cristiandad a... y Oceanía.,
+											y el Islam a...]
+									","
+											[Budizm çoğunlukla Güneydoğu Asya,,,
+Hristiyanlık Avrupa...,
+											İslamiyet Güney Afrika'ya yayıldı.]
+									","
+											[Le bouddhisme s'est étendu à..., 
+le christianisme à ... et l'Océanie,
+											et l'islam à ...]
+									",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+","
+","
+","
+",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+											Of course, the original problems
+are written in Japanese,
+											their mother tongue.
+									","
+											Claro, los problemas originales
+están escritos en japonés,
+											su lengua natal.
+									","
+											Tabii ki orijinal soru Japonca soruldu,
+											kendi ana dillerinde.
+									","
+											Bien évidemment, les questions originales 
+sont rédigées en japonais,
+											leur langue maternelle.
+									",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+","
+","
+","
+",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+											[ ______ has spread to Oceania.
+											1. Hinduism 2. Christianity
+3. Islam 4. Buddhism ]
+									","
+											[ ______ se esparció a Oceanía.
+											1. Hinduismo. 2. Cristiandad
+3. Islam 4. Budismo ]
+									","
+											[ _______ Okyanusya'ya yayıldı.
+											1. Hinduizm 2. Hristiyanlık.
+3. İslamiyet 4. Budizm]
+									","
+											[ ______ s'est étendu à l'Océanie.
+											1. L'hindouisme 2. le christianisme 
+3. l'islam 4. le bouddhisme]
+									",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+","
+","
+","
+",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+											Obviously, Christianity
+is the answer, isn't it?
+											It's written!
+											And Todai Robot chose
+the correct answer, too.
+											But one-third of junior
+high school students
+											failed to answer this question.
+											Do you think it is only the case in Japan?
+											I do not think so,
+											because Japan is always ranked
+among the top in OECD PISA tests,
+											measuring 15-year-old
+students' performance in mathematics,
+											science and reading
+											every three years.
+									","
+											Obviamente Cristiandad
+es la respuesta, ¿cierto?
+											¡Está escrita!
+											Y el Robot Todai también escogió 
+la respuesta correcta.
+											Pero un tercio 
+de los estudiantes de preparatoria
+											fallaron esta pregunta.
+											¿Piensan que es solo el caso en Japón?
+											No lo creo,
+											porque Japón siempre está en los rangos
+más altos en las pruebas de OECD PISA,
+											que miden el desempeño de estudiantes
+de 15 años en matemáticas,
+											ciencia y lectura
+											cada tres años.
+									","
+											Cevap Hristiyanlık çok net değil mi?
+											Zaten yazıyor.
+											Todai Robotumuz da doğru cevabı seçti.
+											Fakat öğrencilerin üçte biri
+											bu soruyu cevaplayamadı.
+											Sizce sadece Japonya'da mı böyle?
+											Sanmıyorum,
+											çünkü Japonya, 
+15 yaşındaki öğrencilerin
+											matematik, fen ve okuma performanslarını
+her üç yılda bir ölçen
+											OECD PISA testlerinde her zaman
+
+											en üst sıralarda yer alır.
+									","
+											La réponse est bien évidemment 
+le christianisme.
+											C'est écrit !
+											Et le Todai Robot a aussi choisi 
+la bonne réponse.
+											Mais un tiers des lycéens
+											ont mal répondu à cette question.
+											Pensez-vous que ça ne se passe 
+qu'au Japon ?
+											Je ne pense pas,
+											parce que le Japon obtient toujours 
+les meilleurs résultats
+											aux tests PISA de l'OCDE,
+											qui testent les performances d'étudiants 
+de 15 ans en mathématiques,
+											en sciences et en lecture,
+											tous les trois ans.
+									",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+","
+","
+","
+",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+											We have been believing
+											that everybody can learn
+											and learn well,
+											as long as we provide
+good learning materials
+											free on the web
+											so that they can access
+through the internet.
+											But such wonderful materials
+may benefit only those who can read well,
+											and the percentage
+of those who can read well
+											may be much less than we expected.
+											How we humans will coexist with AI
+											is something we have
+to think about carefully,
+											based on solid evidence.
+											At the same time,
+we have to think in a hurry
+											because time is running out.
+									","
+											Hemos estado creyendo
+											que cualquiera puede aprender
+											y aprender bien,
+											siempre que le proporcionemos 
+buenos materiales gratuitos en internet
+											para su aprendizaje
+											y tengan acceso en cualquier parte.
+											Pero tales maravillosos materiales 
+solo benefician a aquellos que leen bien,
+											y el porcentaje de los que leen bien
+											es más bajo de lo que esperamos.
+											Cómo los humanos coexistirán con la IA
+											es algo que tenemos que 
+pensar cuidadosamente,
+											basándonos en evidencias sólidas.
+											Al mismo tiempo, 
+tenemos que pensarlo rápidamente
+											porque el tiempo se nos está acabando.
+									","
+											Herkesin
+											öğrenebileceğine inanıyoruz,
+											daha iyi öğrenebilirler
+											ancak ücretsiz iyi öğrenim materyalleri
+											sunmamız gerekiyor ki
+											internet üzerinden erişebilsinler.
+
+											Fakat bu muhteşem materyallerin
+sadece iyi okuyabilenlere yararı olur
+											ve bu kişilerin sayıları
+											tahmin ettiğimizden daha az olabilir.
+											Biz insanların yapay zekâ ile
+											bir arada var olmaya nasıl devam edeceği
+somut verilere dayanarak
+											dikkatli düşünülmesi gereken bir konu.
+											Aynı zamanda acele etmeliyiz
+											çünkü vaktimiz daralıyor.
+									","
+											Nous avons toujours pensé
+											que tout le monde peut apprendre
+											et apprendre correctement,
+											à condition que les bons 
+outils d'apprentissage
+
+											soient accessibles librement en ligne,
+											pour qu'ils puissent y accéder
+via Internet.
+											Mais ce genre d'outils 
+ne sont peut-être efficaces
+											que pour ceux qui lisent correctement,
+											et le pourcentage des personnes
+qui lisent correctement
+											semble être bien plus faible
+que nous le pensions.
+											Déterminer comment les êtres humains
+cohabiteront avec l'IA
+											requiert une réponse mûrement réfléchie,
+											basée sur des preuves solides.
+											En même temps, il faut y réfléchir vite
+											parce qu'on commence à manquer de temps.
+									",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+","
+","
+","
+",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+											Thank you.
+									","
+											Gracias.
+									","
+											Teşekkür ederim.
+									","
+											Merci.
+									",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+","
+","
+","
+",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+											(Applause)
+									","
+											(Aplausos)
+									","
+											(Alkışlar)
+									","
+											(Applaudissements)
+									",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+","
+","
+","
+",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+											Chris Anderson: Noriko, thank you.
+									","
+											Chris Anderson: Noriko, gracias.
+									","
+											Chris Anderson: Noriko, teşekkürler.
+									","
+											Chris Anderson : Noriko, merci.
+									",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+","
+","
+","
+",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+											Noriko Arai: Thank you.
+									","
+											Noriko Arai: Gracias.
+									","
+											Noriko Arai: Ben teşekkür ederim.
+									","
+											Noriko Arai : Merci.
+									",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+","
+","
+","
+",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+											CA: In your talk, you so beautifully
+give us a sense of how AIs think,
+											what they can do amazingly
+											and what they can't do.
+											But — do I read you right,
+											that you think we really need
+quite an urgent revolution in education
+											to help kids do the things
+that humans can do better than AIs?
+									","
+											CA: En tu charla, bellamente nos has dado
+una explicación de cómo piensa una IA,
+											lo que hacen de manera asombrosa
+											y lo que no puede hacer.
+											Pero, si te entendí bien,
+											¿piensas que debemos tener
+una urgente revolución educativa
+											para ayudar a los chicos a hacer cosas 
+que los humanos pueden mejor que las IA?
+									","
+											CA: Anlattıklarınla bize yapay zekâların
+nasıl düşündüğü, neler yapabildikleri
+											ve yapamadıklarına dair
+											çok güzel bir anlayış kazandırdın.
+											Fakat, seni doğru anladıysam
+											çocukların insanların yapay zekâlardan
+daha iyi yapabildiği şeyleri yapması için
+											eğitimde çok acil devrime ihtiyacımız 
+olduğunu düşünüyorsun.
+									","
+											CA : Vous nous avez brillamment donné
+un aperçu des modes de réflexion de l'IA,
+											de ses capacités extraordinaires
+											et de ses limites.
+											Mais, si je comprends bien,
+											vous pensez qu'il est urgent de repenser
+notre système éducatif
+											pour aider les enfants à maîtriser
+ce que les humains font mieux que les IA ?
+									",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+","
+","
+","
+",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+											NA: Yes, yes, yes.
+											Because we humans
+can understand the meaning.
+											That is something
+which is very, very lacking in AI.
+											But most of the students
+just pack the knowledge
+											without understanding
+the meaning of the knowledge,
+											so that is not knowledge,
+that is just memorizing,
+											and AI can do the same thing.
+											So we have to think about
+a new type of education.
+									","
+											NA: Sí, sí, sí.
+											Porque los humanos 
+entendemos el significado.
+											Eso es algo de lo que carece mucho la IA.
+											Pero muchos estudiantes 
+solo cargan el conocimiento
+											sin comprender el significado
+de ese conocimiento,
+											y eso no es conocimiento,
+solo es memorizar,
+											y una IA puede hacer lo mismo.
+											Así que tenemos que pensar 
+en un nuevo estilo de educación.
+									","
+											NA: Evet öyle.
+											Çünkü biz insanlar
+manayı anlayabiliyoruz.
+											İşte bu yapay zekânın en çok 
+yoksun olduğu şey.
+											Fakat çoğu öğrenci,
+bilgiyi anlamaksızın
+											bilgi topluyor,
+											o zaman bu bilgi değil
+sadece ezberlemek oluyor
+											ve aynısını yapay zekâ da yapıyor.
+											Dolayısıyla yeni bir eğitim modeli
+düşünmemiz gerekiyor.
+									","
+											NA : Oui, oui, oui.
+											Parce que nous, les humains, nous sommes
+capables de comprendre.
+											C'est une aptitude qui fait cruellement 
+défaut à l'IA.
+											Mais la plupart des étudiants
+se contentent d'étudier
+											sans comprendre le sens
+de ce qu'ils étudient,
+											ce qui fait qu'ils n'apprennent rien, 
+ils ne font que mémoriser,
+											et l'IA est capable de le faire aussi.
+											Donc, nous devons réfléchir à 
+un nouveau système éducatif
+									",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+","
+","
+","
+",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+											CA: A shift from knowledge,
+rote knowledge, to meaning.
+									","
+											CA: Un cambio de conocimiento,
+de memorización a significado.
+									","
+											CA: Yani ezbere dayalı bilgiden
+anlamaya geçiş yapmalıyız.
+									","
+											CA : Passer de la mémorisation, 
+du par cœur, à la connaissance.
+									",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+","
+","
+","
+",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+											NA: Mm-hmm.
+									","
+											NA: Así es.
+									","
+											NA: Aynen.
+									","
+											NA : C'est ça.
+									",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+","
+","
+","
+",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+											CA: Well, there's a challenge
+for the educators. Thank you so much.
+									","
+											CA: Bueno, un reto para los educadores. 
+Muchas gracias.
+									","
+											CA: O halde eğitimcilere
+zorlu bir görev düşüyor. Çok teşekkürler.
+									","
+											CA : Voilà, le défi est lancé à 
+nos enseignants. Merci beaucoup.
+									",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+","
+","
+","
+",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+											NA: Thank you very much. Thank you.
+									","
+											NA: Muchas gracias. Gracias.
+									","
+											NA: Ben teşekkür ederim.
+Teşekkürler.
+									","
+											NA : Merci beaucoup. Merci.
+									",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+","
+","
+","
+",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+											(Applause)
+									","
+											(Aplausos)
+									","
+											(Alkışlar)
+									","
+											(Applaudissements)
+									",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"
+"
+","
+","
+","
+",Can a robot pass a university entrance exam?,Noriko Arai,13:37,"AI,education,intelligence,robots,teaching,technology"

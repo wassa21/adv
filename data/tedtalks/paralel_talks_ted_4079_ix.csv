@@ -1,0 +1,2547 @@
+en,es,tr,fr,de,title,speaker,duration,tags
+"
+","
+","
+","
+","
+",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+											Something happened in the early morning hours
+											of May 2nd, 2000, that had a profound effect
+											on the way our society operates.
+											Ironically, hardly anyone noticed at the time.
+											The change was silent, imperceptible,
+											unless you knew exactly what to look for.
+											On that morning, U.S. President Bill Clinton
+											ordered that a special switch be thrown
+											in the orbiting satellites of the Global Positioning System.
+											Instantaneously, every civilian GPS receiver
+											around the globe went from errors the size of a football field
+											to errors the size of a small room.
+									","
+											Algo sucedió en la madrugada del
+											2 de mayo de 2000,
+que tuvo un efecto importante
+											en el funcionamiento
+de nuestra sociedad.
+											Irónicamente, casi nadie
+lo advirtió entonces.
+											El cambio fue silencioso,
+imperceptible,
+											a menos que uno supiera
+exactamente dónde buscarlo.
+											Aquella mañana, el presidente
+de EE.UU., Bill Clinton,
+											ordenó desactivar un interruptor
+											en los satélites orbitales del Sistema
+de Posicionamiento Global (GPS).
+											De inmediato, todo receptor civil de GPS
+											en el mundo, pasó de tener errores
+del tamaño de un campo de fútbol
+											a errores del tamaño
+de una pequeña habitación.
+									","
+											2 Mayıs 2000 sabahı erken saatlerde,
+											toplumumuzun işleyişinde önemli bir
+											değişikliğe neden olan bir şey oldu.
+											İşe bakın ki, o sırada
+bunu çok az kişi fark etti.
+											Değişim, neyi aradığımızı
+tam olarak bilmedikçe
+											sessiz ve fark edilemezdi.
+											O sabah, Birleşik Devletler 
+Başkanı Bill Clinton,
+											(GPS) Küresel Konumlama 
+Sistemi'nin yörünge uyduları
+											üzerinde özel bir düğmeye
+basılmasını emretti.
+											Aniden, dünyadaki tüm
+sivil GPS alıcılarının
+											futbol sahası büyüklüğünde ki hataları
+											küçük bir oda boyutuna düştü.
+									","
+											Il s'est passé quelque chose dans les premières heures
+											du 2 Mai 2000, qui a eu un effet important
+											sur la façon dont notre société
+fonctionne aujourd'hui.
+											Paradoxalement, pratiquement 
+personne ne l'a remarqué à l'époque.
+											Le changement fut silencieux, imperceptible,
+											sauf pour ceux qui savaient 
+exactement quoi chercher.
+											Ce matin-là, le président Américain Bill Clinton
+											a ordonné que les sattellites 
+du Global Positioning System
+											passent à la vitesse supérieure.
+											Instantanément, tous les GPS civils
+											du monde ne faisaient plus des erreurs 
+de la taille d'un terrain de football
+											mais de la taille d'une petite pièce.
+									","
+											Am frühen Morgen 
+des 2. Mai 2000 geschah etwas,
+											das einen starken Einfluss darauf hatte,
+											wie unsere Gesellschaft funktioniert.
+											Ironischerweise bemerkte das 
+damals kaum einer.
+											Die Veränderung kam 
+leise und unmerklich,
+											außer man wusste genau, 
+wonach man suchte.
+											An diesem Morgen gab 
+US-Präsident Clinton den Befehl,
+											einen bestimmten Schalter 
+in den Satelliten
+											des globalen Navigations-
+Satellitensystems GPS umzulegen.
+											Augenblicklich verringerte sich 
+die Fehlerrate ziviler GPS-Empfänger
+											von der eines Fußballfeldes
+											zu der eines kleinen Raums.
+									",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+","
+","
+","
+","
+",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+											It's hard to overstate the effect that this change
+											in accuracy has had on us.
+											Before this switch was thrown, we didn't have
+											in-car navigation systems giving turn-by-turn
+											directions, because back then, GPS couldn't tell you
+											what block you were on, let alone what street.
+									","
+											No es fácil valorar el efecto
+que este cambio en la precisión
+											ha significado para nosotros.
+											Antes de desactivar el interruptor,
+no teníamos
+											autos con sistemas de navegación integrado
+que nos dieran instrucciones
+											en cada esquina, ya que entonces,
+el GPS no podía identificar
+											en qué cuadra nos encontrábamos,
+ni siquiera en qué calle.
+									","
+											Kesinlikteki bu değişimin
+üzerimizdeki etkisini
+											abartmak zor.
+											Bu düğmeye basılmadan önce,
+her dönüşü
+											tek tek gösteren bir araç
+içi navigasyon sistemimiz yoktu
+											çünkü o zamanlar, GPS,
+hangi cadde olduğunu bırakın
+											hangi mahallede 
+olduğunuzu dahi söyleyemezdi.
+									","
+											On ne peut pas exagérer
+les effets que ces changements
+											en matière de précision ont eu sur nous.
+											Avant que ce changement soit opéré, les GPS
+											dans nos voitures ne nous donnaient
+pas d'indications carrefour par carrefour
+											puisqu'à cette époque là, 
+les GPS étaient incapables de vous dire
+											à quel pâté de maisons vous vous trouviez 
+et encore moins dans quelle rue.
+									","
+											Den Effekt, den diese 
+Präzisionsänderung auf uns hatte,
+											kann man kaum überbewerten.
+											Bevor dieser Schalter umgelegt wurde,
+											gab es in Autos keine 
+wegweisenden Navigationssysteme,
+											weil das GPS uns nicht sagen konnte, 
+in welchem Stadtteil
+											geschweige denn in welcher Straße 
+wir uns befinden.
+									",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+","
+","
+","
+","
+",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+											For geolocation, accuracy matters,
+											and things have only improved over the last 10 years.
+											With more base stations, more ground stations,
+											better receivers and better algorithms,
+											GPS can now not only tell you what street you are on,
+											but what part of the street.
+									","
+											Para la geolocalización,
+la resolución es importante
+											y las cosas han mejorado
+en la última década.
+											Con más estaciones de base,
+más estaciones a nivel del suelo,
+											mejores receptores y mejores algoritmos,
+											los GPS pueden identificar 
+no sólo en qué calle nos encontramos,
+											sino en qué parte de la calle.
+									","
+											Konum belirleme için
+kesinlik çok önemlidir
+											ve gelişmeler sadece son 10 yıl
+içerisinde oldu.
+											Daha fazla baz istasyonu,
+daha fazla yer istasyonu,
+											daha iyi alıcılar ve daha iyi
+algoritmalar ile
+											GPS şu an sadece hangi
+caddede olduğunuzu değil,
+											caddenin hangi kısmında
+olduğunuzu bile gösterebilir.
+									","
+											Pour la géolocalisation,
+la précision a son importance,
+											et les choses n'ont fait que s'améliorer 
+ces dix dernières années.
+											Avec plus de récepteurs fixes,
+plus de stations terriennes,
+											de meilleurs récepteurs
+et de meilleurs algorithmes,
+											un GPS peut désormais vous dire 
+non seulement dans quelle rue vous vous trouvez
+											mais également dans quelle partie de la rue.
+									","
+											Für die Ortung ist Genauigkeit wichtig
+											und diese hat sich erst 
+in den letzten zehn Jahren verbessert.
+											Dank zahlreicherer 
+Basis- und Bodenstationen,
+											besserer Empfänger und Algorithmen
+											kann das GPS heute nicht nur die Straße,
+											sondern sogar 
+den Straßenabschnitt bestimmen.
+									",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+","
+","
+","
+","
+",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+											This level of accuracy
+											has unleashed a firestorm of innovation.
+											In fact, many of you navigated here today
+											with the help of your TomTom or your smartphone.
+											Paper maps are becoming obsolete.
+									","
+											Este nivel de precisión
+											ha desatado una tormenta de innovación.
+											De hecho, muchos de Uds.
+llegaron hoy aquí
+											con ayuda de su TomTom
+o de su smartphone.
+											Los mapas impresos
+se están volviendo obsoletos.
+									","
+											Bu kesinlik seviyesi,
+											bir yenileşim (inovasyon)
+fırtınası açığa çıkardı.
+											Hatta, bugün pek çoğunuz TomTom ya da
+											akıllı telefonunuz yardımıyla
+buraya geldi.
+											Kağıt haritaların süresi dolmaya başlıyor.
+									","
+											Ce niveau de précision
+											a déclenché une avalanche d'innovations.
+											En fait, vous êtes nombreux
+à être arrivés jusqu'ici aujourd'hui
+											à l'aide de votre TomTom
+ou de votre smartphone.
+											Les cartes papiers deviennent obsolètes.
+									","
+											Diese hohe Treffsicherheit
+											hat einen Sturm an Innovationen ausgelöst.
+											Viele von Ihnen haben Ihren Weg hierher
+											mit Hilfe Ihres TomToms 
+oder Smartphones gefunden.
+											Landkarten aus Papier sind überholt.
+									",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+","
+","
+","
+","
+",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+											But we now stand on the verge of another revolution
+											in geolocation accuracy.
+											What if I told you that the two-meter positioning
+											that our current cell phones and our TomToms give us
+											is pathetic compared to what we could be getting?
+											For some time now, it's been known that if you pay attention
+											to the carrier phase of the GPS signal,
+											and if you have an Internet connection,
+											then you can go from meter level to centimeter level,
+											even millimeter-level positioning.
+									","
+											Ahora estamos al borde
+de otra revolución
+											en geolocalización.
+											¿Qué tal si les dijera
+que la resolución de dos metros
+											de nuestros celulares
+y TomToms actuales,
+											es ridícula, comparada con
+lo que podríamos tener?
+											Desde hace algún tiempo, 
+si prestan atención
+											a la fase del portador
+de la señal de GPS,
+											y si tienen conexión a Internet,
+											pueden mejorar la exactitud
+de la posición de metros
+											a centímetros, incluso a milímetros.
+									","
+											Fakat şu an konum belirleme duyarlılığında
+											başka bir devrimin eşiğinde duruyoruz.
+											Size cep telefonlarımızın
+ve TomTomlarımızın
+											bize sunduğu iki metrelik konum
+belirlemenin ulaşabileceğimizle
+											karşılaştırıldığında, acınası halde
+olduğunu söylesem?
+											Bir süredir, GPS 
+sinyalinin taşıyıcı fazına
+											dikkat edilirse ve internet
+bağlantısı varsa,
+											o zaman metre seviyesinden
+santimetre seviyesine,
+											hatta milimetre seviyesine kadar
+
+											konum belirlemenin olduğu biliniyor.
+									","
+											Mais nous sommes actuellement 
+au début d'une autre révolution
+											dans la précision de la géolocalisation.
+											Et si je vous disais que la précision à 2 mètres
+											que nos téléphones et nos TomTom 
+actuels nous donnent
+											est pitoyable comparée 
+à ce que nous pourrions avoir ?
+											Depuis un moment déjà, 
+il est connu que si vous faites attention
+											à la phase de l'onde porteuse du signal GPS,
+											et si vous disposez d'une connection internet,
+											alors vous pouvez passer d'un positionnement 
+non plus au mètre près mais au centimètre,
+											et même au millimètre près.
+									","
+											Heute stehen wir auf der Schwelle 
+zu einer weiteren Revolution
+											in der Ortungsgenauigkeit.
+											Wären Sie überrascht, 
+wenn ich Ihnen erzähle,
+											dass die Zwei-Meter-Genauigkeit 
+unserer heutigen Handys und Navis
+											erbärmlich ist im Vergleich zu dem, 
+was möglich ist?
+											Seit einiger Zeit ist bekannt, 
+dass durch Messung
+											der Trägerphase des GPS-Signals
+											und mit Hilfe einer Internetverbindung
+											eine Genauigkeit im Zentimeter-, 
+wenn nicht sogar
+											im Millimeterbereich 
+erreicht werden kann.
+									",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+","
+","
+","
+","
+",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+											So why don't we have this capability on our phones?
+											Only, I believe, for a lack of imagination.
+											Manufacturers haven't built this carrier phase technique
+											into their cheap GPS chips
+											because they're not sure what the general public would do
+											with geolocation so accurate that you could pinpoint
+											the wrinkles in the palm of your hand.
+											But you and I and other innovators,
+											we can see the potential in this next leap in accuracy.
+											Imagine, for example, an augmented reality app
+											that overlays a virtual world to millimeter-level precision
+											on top of the physical world.
+											I could build for you a structure up here in 3D,
+											millimeter accurate, that only you could see,
+											or my friends at home.
+									","
+											Entonces, ¿por qué nuestros teléfonos 
+no tienen esta capacidad?
+											Opino que solo por falta de imaginación.
+											Los fabricantes no han incorporado
+esta técnica de fase portadora
+											en sus chips de GPS económicos,
+											porque no están seguros 
+del uso que el público en general
+											le daría a un sistema tan exacto
+que podría localizar
+											las líneas de la palma de la mano.
+											Pero Uds. y yo y otros innovadores,
+											podemos ver el potencial 
+de este nuevo salto a la precisión.
+											Imaginen, por ejemplo,
+una aplicación de realidad aumentada
+											que pueda sobreponer un mundo virtual 
+con precisión milimétrica,
+											al mundo físico, real.
+											Podría construir una estructura en 3D,
+											con precisión milimétrica,
+que solo vieran Uds.,
+											o mis amigos en casa.
+									","
+											Peki neden cep telefonlarımızda
+bu özellik yok?
+											Sanırım bunun sebebi hayal gücü eksikliği.
+											Üreticiler bu taşıyıcı faz tekniğini
+											ucuz GPS çiplerinin içine koymadılar
+											çünkü toplumun genelinin,
+avuç içindeki kırışıklığa kadar
+											noktalayabilme duyarlılığında
+olan bir konum belirleme ile
+											ne yapacağından emin değillerdi.
+											Fakat sizler, ben ve diğer yenilikçiler,
+											duyarlılıktaki bir sonraki atılımdaki
+potansiyeli görebiliriz.
+											Örneğin, fiziksel dünyada 
+milimetrelik bir kesinliği olan
+											sanal dünyada ise büyük bir
+gerçekliği kaplayan
+											bir uygulamayı hayal edin.
+											Burada sadece sizin ya da
+evdeki arkadaşlarımın
+											görebileceği milimetrelik doğruluğu olan
+											üç boyutlu bir yapı inşa edebilirim.
+									","
+											Alors pourquoi ne pouvons nous pas avoir 
+cette même capacité sur nos téléphones ?
+											Uniquement, je pense, par manque d'imagination.
+											Les constructeurs n'ont pas utilisé
+cette technique de phase de l'onde porteuse
+											pour les puces de leur GPS bon marché
+											parce qu'ils ne sont pas sûrs de ce que
+le grand public pourrait faire
+											d'une géolocalisation si précise 
+que vous pourriez localiser
+											les lignes dans la paume de votre main.
+											Mais vous, et moi, et d'autres innovateurs,
+											nous pouvons voir le potentiel 
+de ce prochain bond dans la précision.
+											Imaginez par exemple, 
+une application de réalité augmentée
+											qui bâtirait un monde virtuel au millimètre près
+											par dessus le monde réel.
+											Je pourrais fabriquer pour vous,
+juste ici, une structure en 3D,
+											précise au millimètre près, 
+que vous seulement pourriez voir,
+											ou mes amis à la maison.
+									","
+											Warum können unsere Handys das nicht?
+											Meiner Meinung nach liegt das 
+an fehlender Vorstellungskraft.
+											Die Hersteller haben 
+die Trägerphasentechnik
+											nicht in ihre billigen 
+GPS-Chips implementiert,
+											denn sie sind nicht sicher, 
+was die Öffentlichkeit
+											mit einer so präzisen 
+Ortung anfangen würde,
+											die sogar Falten auf der Handfläche 
+lokalisieren könnte.
+											Aber wir hier und andere Wegbereiter
+											können das Potential 
+dieser Genauigkeitserhöhung sehen.
+											Stellen Sie sich eine 
+Realitätserweiterungs-App vor,
+											die unsere physische 
+Umgebung millimetergenau
+											mit einer virtuellen Welt überlagert.
+											Ich könnte hier oben 
+eine millimetergenaue 3D-Struktur
+											darstellen lassen, die 
+nur Sie oder meine Freunde
+											zu Hause sehen können.
+									",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+","
+","
+","
+","
+",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+											So this level of positioning, this is what we're looking for,
+											and I believe that, within the next few years, I predict,
+											that this kind of hyper-precise, carrier phase-based positioning
+											will become cheap and ubiquitous,
+											and the consequences will be fantastic.
+									","
+											Este es el nivel de posicionamiento
+que estamos buscando,
+											y me atrevo a predecir que,
+en unos cuantos años,
+											este posicionamiento hiperpreciso, 
+basado en la fase portadora,
+											será económico y omnipresente,
+											y tendrá consecuencias fantásticas.
+									","
+											Konum belirlemenin bu kısmı,
+neyi aradığımızdır
+											ve inanıyorum ki önümüzdeki
+birkaç yıl içerisinde,
+											kesin doğruluğu ve taşıyıcı
+faz merkezli konumlamanın bu türünün,
+											ucuz ve her yerde bulunabileceğini
+											ve sonuçlarının olağanüstü
+olacağını tahmin ediyorum.
+									","
+											Donc ce niveau de positionnement, 
+c'est ce que nous voulons atteindre
+											et je crois que d'ici quelques années
+											ce type de positionnement extrêmement précis, 
+basé sur la phase de l'onde porteuse
+											va devenir peu cher et omniprésent
+											et les conséquences seront fantastiques.
+									","
+											Solch eine Ortungsgenauigkeit 
+wünschen wir uns.
+											Ich gehe davon aus, 
+dass in den nächsten Jahren
+											diese hyperpräzise Trägerphasenortung
+											erschwinglich und allgegenwärtig wird.
+											Mit fantastischen Folgen.
+									",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+","
+","
+","
+","
+",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+											The Holy Grail, of course, is the GPS dot.
+											Do you remember the movie ""The Da Vinci Code?""
+											Here's Professor Langdon examining a GPS dot,
+											which his accomplice tells him is a tracking device
+											accurate within two feet anywhere on the globe,
+											but we know that in the world of nonfiction,
+											the GPS dot is impossible, right?
+											For one thing, GPS doesn't work indoors,
+											and for another, they don't make devices quite this small,
+											especially when those devices have to relay
+											their measurements back over a network.
+									","
+											El Santo Grial, por supuesto,
+es el minireceptor del GPS.
+											¿Recuerdan la película
+""El código Da Vinci?""
+											Aquí tenemos al profesor
+Langdon examinando un mini GPS
+											y su cómplice le dice que es un dispositivo 
+que puede localizar
+											cualquier punto en el mundo
+con una precisión de 60 cm,
+											pero en el mundo real sabemos que
+											el eso es imposible, ¿no?
+											Primero, el GPS no funciona
+en interiores,
+											y, segundo, no se fabrican
+dispositivos tan pequeños,
+											sobre todo si esos aparatos
+tienen que basar
+											sus mediciones en una red.
+									","
+											Elbette ki kutsal kase GPS noktasıdır.
+											''Da Vinci'nin Şifresi'' filmini
+hatırlıyor musunuz?
+											Burada Profesör Langdon, 
+dünya üzerindeki herhangi bir yerde
+											hatasız takip cihazının
+suç ortağı GPS noktasını
+											koşuşturma içinde araştırıyordu,
+											fakat sanal olmayan bir dünyada,
+											GPS noktasının imkansız olduğunu
+biliyoruz, değil mi?
+											İlk olarak, GPS kapalı 
+mekanlarda çalışmıyor,
+											ikinci olaraksa, bu cihazları
+o kadar küçük yapmıyorlar,
+											özellikle bu cihazlar ölçümlerini
+
+											tekrar ağ üzerinden iletmek
+zorunda kaldıklarında.
+									","
+											Le saint Graal, bien sûr, est le point GPS.
+											Vous souvenez-vous du film
+""Da Vinci Code"" ?
+											Voici le professeur Langdon
+examinant un point GPS
+											lequel, lui explique son complice, 
+est un dispositif de pistage
+											précis à 60cm n'importe où sur le globe,
+											mais nous le savons bien, 
+dans le monde non-romanesque
+											le point GPS est impossible, n'est-ce pas ?
+											D'abord parce que le GPS 
+ne fonctionne pas en intérieur,
+											et parce qu'on ne produit pas
+de dispositifs aussi petits
+											particulièrement lorsque 
+ces dipositifs doivent renvoyer
+											leurs mesures à un réseau.
+									","
+											Der heilige Gral ist natürlich der GPS-Dot.
+											Erinnern Sie sich an den Film 
+""The Da Vinci Code – Sakrileg""?
+											Hier sehen wir Prof. Langdon 
+mit einem GPS-Dot,
+											einem Routen-Kontrollgerät,
+											das eine Genauigkeit 
+von 60 cm überall auf der Welt hat.
+											Aber der GPS-Dot ist in der realen Welt
+											ein Ding der Unmöglichkeit, nicht wahr?
+											Erstens funktioniert GPS nicht in Gebäuden
+											und zweitens gibt es keine 
+so kleinen GPS-Empfänger,
+											erst recht nicht, wenn die ihre Position
+											an ein Netzwerk senden müssen.
+									",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+","
+","
+","
+","
+",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+											Well, these objections were perfectly reasonable
+											a few years ago, but things have changed.
+											There's been a strong trend toward miniaturization,
+											better sensitivity, so much so that, a few years ago,
+											a GPS tracking device looked like this clunky box
+											to the left of the keys.
+											Compare that with the device released just months ago
+											that's now packaged into something the size of a key fob,
+											and if you take a look at the state of the art
+											for a complete GPS receiver, which is only a centimeter
+											on a side and more sensitive than ever,
+											you realize that the GPS dot will soon move
+											from fiction to nonfiction.
+									","
+											Bien, estas objeciones
+eran muy fundadas
+											hace algunos años,
+pero las cosas han cambiado.
+											Hay una fuerte tendencia
+hacia la miniaturización,
+											y a una mayor sensibilidad,
+al punto de que hace algunos años
+											un dispositivo GPS se parecía
+a esta gran caja que está
+											a la izquierda de las llaves.
+											Si la comparamos con un dispositivo
+lanzado hace algunos meses,
+											que entra en una caja
+del tamaño de un llavero,
+											y si vemos la última tecnología
+											en receptores GPS, que miden
+											un 1 cm de lado y son
+más sensibles que nunca,
+											nos daremos cuenta
+de que el mini GPS
+											pasará de la ficción
+a la realidad.
+									","
+											Birkaç yıl önce bu engeller 
+oldukça mantıklıydı
+											fakat şimdi işler değişti.
+											Minyatürleşmeye ve
+daha iyi duyarlılığa karşın,
+											güçlü bir akım var, çok güçlü,
+birkaç yıl önce,
+											bir GPS takip aleti, kontak anahtarı için
+											işe yaramaz bir kutu gibi gözüktü.
+											Henüz geçtiğimiz ay satışa
+sunulmuş cihazlarla
+											paketlenmiş olan anahtarlık 
+boyutundakileri karşılaştırın
+											ve tam bir GPS alıcısı için 
+teknoloji harikasına bakarsanız,
+											bir yön üzerinde her zamankinden hassas
+											bir santimetre ölçümü görebilir
+											ve GPS noktasının çok yakında
+hayal ürünü olmaktan
+											gerçeğe doğru hareket 
+edeceğini farkedebilirsiniz.
+									","
+											Eh bien, ces objections étaient 
+parfaitement acceptables
+											il y a quelques années
+mais les choses ont changé.
+											Il y a eu une forte tendance
+à la miniaturisation,
+											à une meilleure sensibilité,
+au point que, il y a quelques années
+											un dispositif de traçage GPS 
+ressemblait à cette imposante boîte
+											à gauche des clés.
+											Maintenant comparez-le 
+à ce dispositif sorti il y a quelques mois,
+											il est désormais conditionné 
+dans quelque chose de la taille d'un porte-clés,
+											et si vous jetez un oeil aux derniers modèles
+											de récepteur GPS, qui mesurent
+seulement quelques centimètres
+											et qui sont plus sensibles que jamais,
+											alors vous réalisez que 
+le point gps deviendra bientôt
+											une réalité.
+									","
+											Nun, vor ein paar Jahren 
+waren diese Einwände
+											vollkommen richtig, aber 
+seitdem hat sich einiges geändert.
+											Die Geräte wurden immer 
+kleiner und genauer,
+											sodass ein GPS-Verfolgungssystem 
+vor ein paar Jahren
+											aussah wie diese klobige Box,
+											hier links vom Schlüssel.
+											Vergleichen Sie das mit einer 
+vor kurzem eingeführten Version.
+											Jetzt passt das alles 
+in einen Schlüsselanhänger.
+											Sehen wir uns nun einen modernen
+											GPS-Empfänger mit einer 
+Seitenlänge von einem Zentimeter
+											und einer nie gekannten Genauigkeit an,
+											wird klar, dass der bisher fiktive GPS-Dot
+											bald Realität sein wird.
+									",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+","
+","
+","
+","
+",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+											Imagine what we could do with a world full of GPS dots.
+											It's not just that you'll never lose your wallet or your keys
+											anymore, or your child when you're at Disneyland.
+											You'll buy GPS dots in bulk, and you'll stick them on
+											everything you own worth more than a few tens of dollars.
+									","
+											Imaginen lo que se podría hacer
+con un mundo lleno de mini GPS.
+											No solo dejarán de perder
+el monedero o el llavero,
+											o a sus hijos en Disneylandia.
+											Comprarán mini GPS al por mayor
+para ponerlos
+											en cualquier pertenencia que valga
+más de algunas decenas de dólares.
+									","
+											Bir dünya dolusu GPS noktası ile 
+ne yapabildiğimizi hayal edin.
+											Sadece bir daha asla 
+cüzdanınızı ve anahtarlarınızı
+											ya da Disneyland'da iken 
+çocuklarınızı kaybetmeyecek olmanız değil.
+											Toptan GPS noktalarını satın
+alacaksınız ve onları sahip olduğunuz
+											birkaç on dolardan fazla değeri olan 
+her şeyin üzerinde bağlanacaksınız.
+									","
+											Imaginez ce que nous pourrions
+faire dans un monde débordant de points GPS.
+											Ce n'est pas seulement que vous 
+ne perdrez plus jamais votre portefeuille ou vos clés
+											ou vos enfant dans Disneyland.
+											Vous acheterez des points GPS en gros, 
+et vous les collerez sur
+											tous vos biens qui valent plus 
+de quelques dizaines de dollars.
+									","
+											Stellen Sie sich eine Welt 
+voller GPS-Dots vor.
+											Wir würden nie wieder 
+unseren Geldbeutel oder Schlüssel
+											geschweige denn unsere Kinder 
+im Disneyland verlieren.
+											Wir können alles, was mehr 
+als ein paar Euro wert ist,
+											mit GPS-Dots versehen.
+									",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+","
+","
+","
+","
+",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+											I couldn't find my shoes one recent morning,
+											and, as usual, had to ask my wife if she had seen them.
+											But I shouldn't have to bother my wife with that kind of triviality.
+											I should be able to ask my house where my shoes are.
+											(Laughter)
+									","
+											Una mañana no lograba encontrar mis zapatos,
+											y como siempre, pregunté a mi mujer
+si los había visto.
+											Pero no debería haber molestado a mi mujer
+con este tipo de trivialidades.
+											Debería poder preguntar a mi casa
+dónde están mis zapatos.
+											(Risas)
+									","
+											Geçenlerde bir sabah ayakkabılarımı 
+bulamıyordum ve her zamanki gibi
+											eşime ayakkabılarımı görüp görmediğini
+sormak zorunda kaldım.
+											Fakat böyle önemsiz bir 
+şeyle karımın canını sıkmamalıydım.
+											En iyisi ayakkabılarımın 
+yerini evime sormaktı.
+											(Kahkahalar)
+									","
+											L'autre matin je ne retrouvais 
+pas mes chaussures,
+											et, comme d'habitude, j'ai demandé à ma femme
+si elle ne les avait pas vues.
+											Mais je ne devrais pas avoir à ennuyer
+ma femme avec ce genre de futilités.
+											Je devrais pouvoir demander à ma maison
+où sont mes chaussures.
+											(Rires)
+									","
+											Als ich neulich morgens 
+meine Schuhe nicht finden konnte,
+											musste ich wie immer meine Frau fragen, 
+ob sie sie gesehen hatte.
+											Eigentlich sollte ich meine Frau nicht 
+mit sowas Trivialem nerven.
+											Mein Haus sollte mir sagen können, 
+wo meine Schuhe sind.
+											(Lachen)
+									",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+","
+","
+","
+","
+",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+											Those of you who have made the switch to Gmail,
+											remember how refreshing it was to go from
+											organizing all of your email to simply searching it.
+											The GPS dot will do the same for our possessions.
+									","
+											Los que han pasado a Gmail
+											se acuerdan del alivio
+que supuso pasar de
+											organizar todos los correos
+a poderlos buscar.
+											El mini GPS hará lo mismo
+con nuestras pertenencias.
+									","
+											Gmail'e dönenleriniz,
+											hatırlayın ne kadar da canlandırıcıydı,
+											hepsini düzenlemekten 
+basitçe aramaya geçmek.
+											GPS noktası da bizim 
+eşyalarımız için aynısını yapacak.
+									","
+											Ceux d'entre vous qui ont vécu 
+le changement sur Gmail,
+											rappelez-vous combien 
+ce fut rafraichissant de passer
+											d'une organisation fastidieuse de tous vos mails 
+à une simple recherche pour les retrouver.
+											Le point GPS va opérer le même changement 
+pour tous nos biens.
+									","
+											Diejenigen unter Ihnen, 
+die zu Googlemail gewechselt sind,
+											erinnern sich sicher, 
+wie wohltuend es ist,
+											E-Mails einfach zu suchen, 
+anstatt sie zu verwalten.
+											Der GPS-Dot erledigt dasselbe 
+für unsere Habseligkeiten.
+									",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+","
+","
+","
+","
+",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+											Now, of course, there is a flip side to the GPS dot.
+											I was in my office some months back
+											and got a telephone call.
+											The woman on the other end of the line, we'll call her Carol,
+											was panicked.
+											Apparently, an ex-boyfriend of Carol's from California
+											had found her in Texas and was following her around.
+											So you might ask at this point why she's calling you.
+											Well, so did I.
+											But it turned out there was a technical twist to Carol's case.
+											Every time her ex-boyfriend would show up,
+											at the most improbable times and the most improbable locations,
+											he was carrying an open laptop,
+											and over time Carol realized that he had planted
+											a GPS tracking device on her car,
+											so she was calling me for help to disable it.
+									","
+											Desde luego estará la otra cara
+de la moneda del mini GPS.
+											Hace algunos meses estaba
+en mi oficina
+											y recibí una llamada.
+											La mujer del otro lado de la línea,
+llamémosla Carol,
+											estaba aterrorizada.
+											Al parecer, un exnovio de Carol,
+de California,
+											había logrado encontrarla en Texas
+y la estaba siguiendo.
+											Ahora se preguntarán,
+¿Por qué llamar?
+											Yo también lo hice.
+											Pero descubrí que había una complicación
+técnica en el caso de Carol.
+											Cada vez que aparecía su exnovio,
+											en las horas y lugares más inesperados,
+											llevaba un portátil abierto,
+											y con el tiempo Carol entendió
+que él había puesto
+											un localizador GPS en su coche,
+											y me llamaba para
+que la ayudase a desactivarlo.
+									","
+											Elbette şimdi, GPS noktasının
+diğer bir tarafı da var.
+											Birkaç ay önce ofisimdeydim
+											ve telefon çaldı.
+											Hattın diğer ucundaki kadı,
+ona Carol diyelim,
+											telaşlıydı.
+											Anlaşılan, Carol'ın 
+California'dan eski erkek arkadaşı,
+											onu Teksas'ta bulmuş ve peşine düşmüştü.
+											Öyle ki, bu noktada neden beni
+aradığını sorabilirsiniz.
+											Çünkü, ben sordum.
+											Fakat Carol'ın durumu
+teknik bir hadiseye dönüştü.
+											Onun eski erkek arkadaşı
+her an karşısına çıkabilirdi,
+											olmayacak zamanlarda
+ve olmayacak yerlerde.
+											Açık bir laptop taşıyordu
+											ve zamanla Carol, arabasına sevgilisinin
+											bir GPS takip cihazı koyduğunu fark etti.
+											Bu nedenle cihazı etkisiz
+hale getirmem için beni aramıştı.
+									","
+											Bien entendu, il y a un revers au point GPS.
+											Quelques mois en arrière 
+j'étais dans mon bureau
+											lorsque j'ai reçu un coup de téléphone.
+											La femme à l'autre bout de la ligne, 
+nous l'appelerons Carole,
+											paniquait.
+											Apparemment, un ex-petit ami californien de Carole
+											l'avait retrouvée au Texas et la suivait partout.
+											A ce point du récit vous devez vous demandez
+« pourquoi est-ce vous qu'elle appelle ? »
+											Eh bien, je me suis posé la même question.
+											Mais il s'est avéré que le cas de Carole
+avait une tournure technique.
+											A chaque fois que son ex-petit ami se montrait,
+											aux moments et aux endroits les plus improbables,
+											il avait avec lui un ordinateur portable ouvert,
+											et avec le temps, Carole a réalisé qu'il avait placé
+											un dispositif de traçage GPS dans sa voiture,
+											et elle m'appelait pour que je l'aide à le désactiver.
+									","
+											Natürlich gibt es auch 
+Nachteile bei GPS-Dots.
+											Vor einigen Monaten war ich 
+in meinem Büro,
+											als ich einen Anruf bekam.
+											Eine panische Frau war 
+am anderen Ende der Leitung,
+											nennen wir sie Carol.
+											Offenbar hatte Carols 
+Ex-Freund aus Kalifornien sie
+											in Texas aufgespürt und verfolgt.
+											Sie fragen sich jetzt vielleicht, 
+warum sie mich angerufen hat.
+											Das hab ich mich auch gefragt.
+											Wie sich herausstellte, 
+spielte dabei Technik eine Rolle.
+											Jedesmal, wenn ihr Ex-Freund 
+zu den unmöglichsten Zeiten
+											an den unmöglichsten Orten auftauchte,
+											hatte er einen offenen Laptop bei sich.
+											Mit der Zeit bemerkte Carol, 
+dass er in ihrem Auto
+											einen GPS-Sender versteckt hatte.
+											Daher rief sie mich an, 
+um ihn auszuschalten.
+									",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+","
+","
+","
+","
+",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+											""Well, you should go to a good mechanic
+											and have him look at your car,"" I said.
+									","
+											""Bueno, debería ir a buen mecánico
+											para que le mire el coche"", le dije.
+									","
+											''İyi bir araba tamircisine gitmelisin
+											ve arabana baktırmalısın'' dedim.
+									","
+											« Vous devriez aller voir un bon mécanicien
+											et lui demander de regarder votre voiture » lui ai-je dis.
+									","
+											Ich riet zu einem guten Mechaniker,
+											der das Auto untersuchen sollte.
+									",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+","
+","
+","
+","
+",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+											""I already have,"" she told me.
+											""He didn't see anything obvious,
+											and he said he'd have to take the car apart piece by piece.""
+									","
+											""Ya lo hice"", me contestó.
+											""No vio nada que fuera evidente,
+											y dijo que debería desmontar
+el coche pieza por pieza"".
+									","
+											""Zaten baktırdım."" dedi bana.
+											""Tamirci bariz birşey göremedi,
+											ve arabayı parça parça 
+ayırması gerektiğini söyledi.""
+									","
+											« Je l'ai déjà fait » m'a-t-elle répondu.
+											« Il n'a rien vu de visible
+											et a dit qu'il devrait démonter 
+la voiture pièce par pièce ».
+									","
+											Doch das hatte sie bereits getan.
+											Er hatte auf den ersten Blick 
+nichts gefunden
+											und meinte, er müsse 
+das Auto komplett auseinanderbauen.
+									",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+","
+","
+","
+","
+",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+											""Well then, you'd better go to the police,"" I said.
+									","
+											""Bueno entonces deberías
+ir a la policía"", le dije.
+									","
+											""Peki o halde, polise
+gitmeniz en iyisi olur'' dedim.
+									","
+											« Dans ce cas, vous feriez mieux 
+d'aller voir la police » ai-je dis.
+									","
+											Also riet ich ihr, zur Polizei zu gehen,
+									",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+","
+","
+","
+","
+",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+											""I already have,"" she replied.
+											""They're not sure this rises to the level of harassment,
+											and they're not set up technically to find the device.""
+									","
+											""Ya lo hice"", me contestó.
+											""No están seguros de que
+se pueda considerar acoso
+											y no tienen el equipo técnico
+para encontrar el dispositivo"".
+									","
+											''Zaten gittim'' diye cevapladı.
+											''Taciz boyuta ulaştığına emin olamıyorlar
+											ve cihazı bulmak için teknik olarak
+bir şey kurmadılar.''
+									","
+											« Je l'ai déjà fait » m'a-t-elle répondu.
+											« Ils ne sont pas sûrs que cela puisse
+être considéré comme du harcèlement,
+											et ils ne sont pas équipés pour trouver le dispositif. »
+									","
+											was sie ebenfalls getan hatte.
+											Dort war man sich unsicher, 
+ob das bereits Belästigung war,
+											und war technisch nicht 
+in der Lage, den Sender zu finden.
+									",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+","
+","
+","
+","
+",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+											""Okay, what about the FBI?""
+									","
+											""Bien, ¿y qué me dice del FBI?""
+									","
+											'' Tamam, ya FBI? ''
+									","
+											« D'accord, et le FBI ? »
+									","
+											Das FBI
+									",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+","
+","
+","
+","
+",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+											""I've talked to them too, and same story.""
+									","
+											""Hablé con ellos también,
+y más de lo mismo"".
+									","
+											''Onlarla da konuştum
+ve yine aynı hikaye.''
+									","
+											« Je les ai contacté également, même histoire. »
+									","
+											hatte ihr das gleiche gesagt.
+									",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+","
+","
+","
+","
+",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+											We then talked about her coming to my lab
+											and us performing a radio sweep of her car,
+											but I wasn't even sure that would work,
+											given that some of these devices are configured
+											to only transmit when they're inside safe zones
+											or when the car is moving.
+									","
+											Entonces dijimos que viniera
+a mi laboratorio
+											para que barriéramos
+por radio su coche,
+											pero no estaba seguro
+de que funcionase,
+											ya que algunos aparatos
+están configurados
+											para la transmisión exclusivamente
+en zonas seguras
+											o cuando el coche se mueva.
+									","
+											Sonra laboratuvarıma gelişiyle ilgili
+											ve arabasına radyo taraması 
+yapmamız hakkında konuştuk,
+											ama işe yarayacağından bile emin değildim.
+											Tahminen bu cihazların bazıları,
+											sadece güvenli bölgelerdeyken
+veya araba seyir halindeyken
+											iletim yapacak şekilde yapılandırılmış.
+									","
+											Nous avons ensuite envisagé de nous
+rencontrer à mon laboratoire
+											et de réaliser un balayage radio de sa voiture,
+											mais je n'étais même pas certain du résultat
+											étant donné que certains
+de ces appareils sont configurés
+											pour transmettre uniquement dans des zones sures
+											ou lorsque la voiture est un mouvement.
+									","
+											Wir verabredeten uns in meinem Labor,
+											um ihr Auto nach Funkquellen zu untersuchen.
+											Ich war allerdings nicht sicher, 
+ob das klappen würde,
+											da manche Sender so eingestellt sind,
+											dass sie nur übertragen, 
+wenn sie in sicheren Zonen sind
+											oder sich das Auto bewegt.
+									",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+","
+","
+","
+","
+",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+											So, there we were.
+											Carol isn't the first, and certainly won't be the last,
+											to find herself in this kind of fearsome environment,
+											worrisome situation caused by GPS tracking.
+									","
+											Así que aquí estábamos.
+											Carol no es la primera,
+y desde luego no será la última
+											en encontrarse en un entorno hostil
+											o en una situación preocupante
+debido a un posicionador GPS.
+									","
+											İşte bu noktadaydık.
+											Carol ilk değildi ve son da olmayacaktı,
+											kendini bu tarz korkutucu bir çevrede,
+GPS takibinin neden olduğu
+											böyle can sıkı bir durumda bulanlardan.
+									","
+											Donc nous en étions là.
+											Carole n'est pas la première, 
+et ne sera sans doute pas la dernière
+											à se retrouver dans une situation effrayante de ce type,
+											une situation anxiogène causée par le traçage GPS.
+									","
+											Da waren wir also.
+											Carol ist nicht die erste und 
+wird nicht die letzte sein,
+											die sich in einer solch beängstigenden,
+											durch GPS-Verfolgung verursachten 
+Situation wiederfindet.
+									",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+","
+","
+","
+","
+",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+											In fact, as I looked into her case,
+											I discovered to my surprise that it's not clearly illegal
+											for you or me to put a tracking device on someone else's car.
+											The Supreme Court ruled last month that a policeman
+											has to get a warrant if he wants to do prolonged tracking,
+											but the law isn't clear about civilians doing this to one another,
+											so it's not just Big Brother we have to worry about,
+											but Big Neighbor. (Laughter)
+									","
+											De hecho, examinando su caso
+											descubrí, para mi sorpresa,
+que no es ilegal
+											poner un aparato de posicionamiento
+en el coche de otra persona.
+											El Tribunal Supremo dictaminó
+el mes pasado que un policía
+											precisa de una orden judicial si quiere
+hacer un seguimiento prolongado,
+											pero la ley no es clara en lo que se refiere
+a seguimientos entre ciudadanos,
+											así que no tenemos que preocuparnos
+solo del Gran Hermano,
+											sino también del Gran Vecino.
+(Risas).
+									","
+											Hatta, onun durumuna bakarken,
+											sizin, benim ve başkalarının
+arabalarına koyabileceğim
+											tam olarak yasal olmayan bir takip
+cihazı keşfetmek benim için süpriz oldu.
+											Anayasa mahkemesi geçen ay,
+eğer bir polis memuru temdit edilmiş
+											takibi yapmayı isterse, izin almak
+zorunda olduğu kararını verdi.
+											Fakat yasa, sivillerin bunu bir 
+başkasına yapması konusunda açık değil,
+											yani bu konuda endişe duymamız 
+gereken tek şey 'Büyük Birader' değildi.
+											Büyük Komşuydu.
+(Kahkahalar)
+									","
+											En fait, en étudiant son cas,
+											j'ai découvert, à ma grande surprise, 
+que cela n'était pas vraiment illégal
+											pour vous ou moi de placer un équipement 
+de traçage sur le véhicule de quelqu'un d'autre.
+											Le mois dernier, la Cour Suprême 
+a décidé qu'un policier
+											devait obtenir un mandat pour faire
+un traçage prolongé,
+											mais la loi n'est pas claire à propos 
+des civils se traçant les uns les autres,
+											nous ne devons donc pas seulement 
+nous inquiéter du ""Big Brother"",
+											mais également du ""Big Neighbor"" [Grand Voisin]. 
+(Rires)
+									","
+											Als ich ihren Fall untersuchte,
+											habe ich zu meiner Überraschung festgestellt, 
+dass es nicht eindeutig illegal ist,
+											GPS-Sender in fremden 
+Autos zu verstecken.
+											Der Oberste Gerichtshof 
+hat letzten Monat entschieden,
+											dass ein Polizist eine Erlaubnis 
+zur Langzeitbeschattung braucht,
+											aber das Gesetz ist im Falle 
+von Zivilisten nicht eindeutig.
+											Wir müssen also nicht nur 
+den Großen Bruder fürchten,
+											sondern auch den 
+Großen Nachbarn. (Lachen)
+									",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+","
+","
+","
+","
+",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+											There is one alternative that Carol could have taken,
+											very effective. It's called the Wave Bubble.
+											It's an open-source GPS jammer,
+											developed by Limor Fried,
+											a graduate student at MIT, and Limor calls it
+											""a tool for reclaiming our personal space.""
+											With a flip of the switch you create a bubble around you
+											within which GPS signals can't reside.
+											They get drowned out by the bubble.
+											And Limor designed this, in part, because, like Carol,
+											she felt threatened by GPS tracking.
+											Then she posted her design to the web,
+											and if you don't have time to build your own,
+											you can buy one.
+											Chinese manufacturers now sell thousands
+											of nearly identical devices on the Internet.
+									","
+											Existe una alternativa
+que Carol habría podido elegir,
+											y es muy eficaz.
+Se llama Wave Bubble.
+											Es un disturbador de GPS de código libre,
+											desarrollado por Limor Fried,
+											una estudiante del MIT,
+que lo define como
+											""un aparato para revindicar
+nuestro espacio personal"".
+											Pulsando un botón,
+creas una burbuja a tu alrededor
+											que las señales de GPS
+no pueden detectar.
+											Se quedan ahogados por la burbuja.
+											Limor la ha diseñado, en parte,
+porque como Carol,
+											se sentía amenazada por los GPS.
+											Luego publicó su diseño en la red,
+											y si no tienen tiempo para construir el propio,
+											pueden comprarlo.
+											Los fabricantes chinos venden miles
+											de aparatos similares por Internet.
+									","
+											Carol'ın alabileceği çok etkili olan
+tek bir alternatifi vardı.
+											Bunun adı Wave Bubble.
+											Açık kaynaklı bir GPS sinyal
+bozucudur (jammer)
+											Limor Fried tarafından geliştirildi.
+											MIT'den mezun bir öğrenci olan Limor,
+											ona ''kişisel alanımızı geri kazandıran
+bir cihaz'' diyor.
+											Bir düğmesini çevirmenle etrafında
+GPS sinyalleri
+											olmayan bir balon oluşturursun.
+											Balon sayesinde sinyaller bastırılır.
+											Limor bunu tasarladı çünkü
+GPS takip cihazı tarafından
+											tehdit edilen Carol gibi hissetti.
+											Sonra tasarımını internette yayınladı
+											ve eğer kendin yapacak 
+zamanı bulamıyorsan,
+											bir tane satın alabilirsin.
+											Artık Çinli üreticiler internette
+neredeyse aynı olan
+											bu cihazlardan binlerce satıyorlar.
+									","
+											Il y a une autre solution vers laquelle Carole 
+aurait pu se tourner,
+											très efficace. On l'appelle la ""Bulle d'onde"".
+											Il s'agit d'un brouilleur de GPS libre de droits,
+											développé par Limor Fried,
+											une étudiante diplômé de MIT, et que Limor appelle
+											« un outil pour se ré-approprier 
+notre espace personnel ».
+											En actionnant l'interrupteur 
+vous créez autour de vous une bulle
+											dans laquelle aucun signal GPS ne peut exister.
+											Les signaux sont rendus 
+inaudibles par la bulle.
+											Et Limor l'a conçu en partie parce que, comme Carole,
+											elle se sentait menacée par le traçage GPS.
+											Elle a ensuite posté sa création sur internet,
+											et si vous n'avez pas le temps de fabriquer le vôtre,
+											vous pouvez en acheter un.
+											Les fabricants chinois vendent maintenant des milliers
+											d'équipements quasimment identiques sur internet.
+									","
+											Eine Alternative hätte Carol 
+sehr wirksam geholfen.
+											Die sogenannte Wellenblase.
+											Das ist ein quelloffenes GPS-Störgerät,
+											das von Limor Fried,
+											einer Doktorandin am MIT, 
+entwickelt wurde. Sie nennt es
+											""ein Werkzeug zum Zurückerobern 
+der persönlichen Freiheit"".
+											Nach dem Einschalten bildet sich 
+eine Blase um einen herum,
+											die GPS-Signale nicht durchlässt.
+											Sie werden von der Blase überlagert.
+											Limor erfand es, weil sie sich
+											wie Carol von GPS-Ortung bedroht fühlte.
+											Sie hat dann ihren Entwurf 
+im Web veröffentlicht.
+											Wenn Sie keine Zeit haben, 
+es selber zu bauen,
+											können Sie es kaufen.
+											Chinesische Hersteller 
+verkaufen tausende
+											ähnlicher Geräte über das Internet.
+									",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+","
+","
+","
+","
+",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+											So you might be thinking, the Wave Bubble sounds great.
+											I should have one. Might come in handy if somebody ever puts a tracking device on my car.
+											But you should be aware that its use is very much illegal
+											in the United States.
+											And why is that?
+											Well, because it's not a bubble at all.
+											Its jamming signals don't stop at the edge
+											of your personal space or at the edge of your car.
+											They go on to jam innocent GPS receivers for miles around you. (Laughter)
+									","
+											Así que quizás estén pensando,
+la Wave Bubble es una gran idea.
+											Debería tener una. Podría ser útil si alguien
+pone un rastreador en mi coche.
+											Pero tienen que saber que su uso es ilegal
+											en Estados Unidos.
+											Y, ¿por qué?
+											Bueno, porque no es una burbuja.
+											Su disturbador de señales no termina
+											en tu espacio personal,
+o el de tu coche.
+											Siguen disturbando receptores GPS inocentes
+varios km a tu alrededor. (Risas)
+									","
+											Wawe Bubble 'ın kulağa hoş
+geldiğini düşünüyor olabilirsiniz.
+											Bir tane almalıyım. Birisi arabama 
+takip cihazı koyarsa faydalı olabilir.
+											Fakat Birleşmiş Devletler'de 
+bunu kullanmanın yasa dışı olduğunun
+											farkında olmalısınız.
+											Peki neden?
+											Çünkü tam olarak bir balon değil.
+											Bu sinyal bozucular senin alanında ya da
+											arabanın sınırında durmuyor.
+											Senden millerce uzaktaki masum
+											GPS alıcılarının sinyallerini de bozuyor.
+(Kahkahalar)
+									","
+											Vous devez donc penser que la
+Bulle d'onde a l'air fabuleuse.
+											Je devrais en avoir une. Cela pourrait s'avérer pratique si on plaçait un jour un dispositif de traçage sur ma voiture.
+											Mais vous devez également savoir que son 
+utilisation est formellement interdite
+											aux Etats-unis.
+											Et pourquoi ?
+											Et bien, parce que ce n'est pas du tout une bulle.
+											Le signal brouilleur ne s'arrête pas à la frontière
+											de votre espace personnel ou aux contours de votre voiture.
+											Il se propage et va brouiller d'innocents GPS
+à des kilomètres à la ronde. (Rires)
+									","
+											Vielleicht denken Sie jetzt, 
+dass die Wellenblase super ist.
+											Man sollte eine haben. Könnte praktisch sein, 
+falls mal ein Sender im Auto versteckt wird.
+											Sie sollten sich im Klaren sein, 
+dass das in den USA
+											absolut verboten ist.
+											Und warum?
+											Weil es eigentlich keine Blase ist.
+											Störsender wirken nicht nur um Sie herum
+											oder innerhalb des eigenen Fahrzeugs.
+											Sie stören auch unschuldige GPS-Empfänger 
+in einigen Kilometern Entfernung. (Lachen)
+									",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+","
+","
+","
+","
+",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+											Now, if you're Carol or Limor,
+											or someone who feels threatened by GPS tracking,
+											it might not feel wrong to turn on a Wave Bubble,
+											but in fact, the results can be disastrous.
+											Imagine, for example, you're the captain of a cruise ship
+											trying to make your way through a thick fog
+											and some passenger in the back turns on a Wave Bubble.
+											All of a sudden your GPS readout goes blank,
+											and now it's just you and the fog
+											and whatever you can pull off the radar system
+											if you remember how to work it.
+											They — in fact, they don't update or upkeep lighthouses
+											anymore, and LORAN, the only backup to GPS,
+											was discontinued last year.
+									","
+											Ahora, si eres Carol o Limor,
+											o alguien que se siente
+amenazado por los GPS,
+											no sería nada malo
+encender el Wave Bubble,
+											pero los resultados
+pueden ser desastrosos.
+											Imaginen, por ejemplo,
+que son el capitán de un crucero
+											que intenta salir de un banco de niebla
+											y algún pasajero enciende su Wave Bubble.
+											Y, de repente, su señal de GPS desaparece
+											y quedan a solas con la niebla
+											y lo que puedan detectar en el radar,
+											si recuerdan cómo funciona.
+											De hecho, ya no hay faros
+											y LORAN, la única alternativa al GPS
+											se interrumpió el año pasado.
+									","
+											Şimdi, Carol ya da Limor,
+											ya da GPS tarafından tehdit
+edilen kişilerden biriysen,
+											Wawe Bubble'ı kullanmanın yanlış bir 
+tarafı olmadığını hissedebilirsin,
+											fakat aslında, sonuçlar
+felaket getirebilir.
+											Düşünün ki, yoğun bir sis içinde
+yolunuzu bulmayı çalışan
+											bir yolcu gemisinin kaptanısınız
+											ve arkadaki bazı yolcular 
+Wawe Buble'ı açmış.
+											Aniden GPS okuyucunuz bozuluyor
+											ve şimdi sadece siz ve sis varsınız,
+											tabi eğer nasıl çalıştığını hatırlarsanız
+											radar sisteminden alabildikleriniz.
+											Onlar — aslında, deniz 
+fenerlerini artık yenilemiyor
+											ya da onarmıyorlar, 
+GPS'in tek kopyası LORAN
+											ve geçen yıl üretimden kalktı.
+									","
+											Maintenant, si vous êtes Carole, ou Limor,
+											ou quelqu'un qui se sent menacé par le traçage GPS,
+											cela pourrait paraître anondin d'allumer une Bulle d'onde,
+											mais dans les faits, les résultats peuvent être désastreux.
+											Imaginez par exemple, que vous soyez 
+le capitaine d'un bateau de croisière,
+											essayant de trouver votre route 
+à travers un épais brouillard
+											et qu'un passager du navire 
+allume une Bulle d'onde.
+											Subitement tous vos écrans GPS se vident,
+											à présent, il y a juste vous,
+et le brouillard,
+											et tout ce que vous pouvez faire 
+c'est sortir le système radar
+											si toutefois vous vous souvenez 
+comment ça marche.
+											En réalité, ils ne rénovent ou 
+n'entretiennent plus les phares,
+											et le LORAN, le seul plan de secours au GPS
+											a été interrompu l'an dernier.
+									","
+											Wenn Sie Carol oder Limor wären
+											oder sich durch GPS-Ortung 
+bedroht fühlten,
+											würden Sie eine Wellenblase 
+vielleicht nicht verteufeln,
+											aber tatsächlich können 
+die Folgen verheerend sein.
+											Stellen Sie sich beispielsweise vor, 
+Sie wären Kapitän eines Kreuzfahrtschiffes
+											und bahnen sich Ihren Weg 
+durch dichten Nebel.
+											Und ein Passagier aktiviert 
+eine Wellenblase.
+											Plötzlich würde Ihr GPS ausfallen
+											und dann wären Sie mit dem Nebel
+											und den Anzeigen Ihres Radars allein,
+											falls Sie sich noch daran erinnern, 
+wie das funktioniert.
+											Leuchttürme werden heute 
+nicht mehr betrieben.
+											LORAN, der einzige Ersatz für GPS,
+											wurde letztes Jahr eingestellt.
+									",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+","
+","
+","
+","
+",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+											Our modern society has a special relationship with GPS.
+											We're almost blindly reliant on it.
+											It's built deeply into our systems and infrastructure.
+											Some call it ""the invisible utility.""
+											So, turning on a Wave Bubble might not just cause inconvenience.
+											It might be deadly.
+									","
+											Nuestra sociedad tiene
+una relación especial con el GPS.
+											Nos fiamos de él casi ciegamente.
+											Está en la base de nuestros
+sistemas e infraestructuras.
+											Algunos lo definen como
+""la herramienta invisible"".
+											Así que encender Wave Bubble
+no solo podría causar problemas.
+											Podría ser fatal.
+									","
+											Modern toplumumuzun 
+GPS ile özel bir ilişkisi var.
+											Neredeyse körü körüne güveniyoruz ona.
+											Sistemimizin ve alt yapımıza 
+derin bir şekilde inşa edilmiş.
+											Bazıları buna ''görünmeyen fayda'' diyor.
+											Yani, Wawe Bubble'ı açmak 
+sadece zorluğa sebep olmayabilir.
+											Bu ölümcül olabilir.
+									","
+											Notre société actuelle a une relation spéciale au GPS.
+											Nous leur faisons une confiance quasi aveugle.
+											Il est profondément ancré dans
+nos systèmes et nos infrastructures.
+											Certains l'appellent ""l'aide invisible"".
+											Alors allumer une Bulle d'onde 
+pourrait ne pas seulement causer une gêne.
+											Cela pourrait être meurtrier.
+									","
+											Unsere moderne Gesellschaft ist inzwischen
+											völlig abhängig vom GPS.
+											Es ist eng in unsere Systeme 
+und Infrastruktur eingebunden.
+											Manche nennen es 
+""den unsichtbaren Dienstleister"".
+											Das Einschalten einer Wellenblase 
+erzeugt nicht nur Unannehmlichkeiten.
+											Es könnte tödlich enden.
+									",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+","
+","
+","
+","
+",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+											But as it turns out, for purposes of protecting your privacy
+											at the expense of general GPS reliability,
+											there's something even more potent
+											and more subversive than a Wave Bubble,
+											and that is a GPS spoofer.
+									","
+											Pero resulta que proteger la intimidad
+											a costa de la fiabilidad del GPS,
+											es algo más potente
+											y más subversivo que el Wave Bubble,
+											y es el falsificador señales GPS.
+									","
+											Fakat kişisel gizliliğini 
+korumak için kapattığında,
+											genel GPS güvenilirliğinin yayılması ile
+											Wawe Bubble'dan daha fazla
+tahrip edici
+											ve etkili bir şey var,
+											bu GPS aldatıcı (spoofer).
+									","
+											Mais il se trouve que, à des fins de
+protection de la vie privée
+											au détriment de la fiabilité générale des GPS,
+											il existe quelque chose d'encore plus puissant
+											et subversif que la Bulle d'onde,
+											il s'agit de l'usurpateur de GPS.
+									","
+											Um unsere Privatsphäre auf Kosten
+											der allgemeinen 
+GPS-Genauigkeit zu schützen,
+											gibt es noch etwas viel Wirksameres
+											und Subversiveres als die Wellenblase:
+											den GPS-Spoofer.
+									",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+","
+","
+","
+","
+",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+											The idea behind the GPS spoofer is simple.
+											Instead of jamming the GPS signals, you fake them.
+											You imitate them, and if you do it right, the device
+											you're attacking doesn't even know it's being spoofed.
+									","
+											La idea que está detrás del falsificador
+de señales de GPS es simple.
+											En vez de mezclar las señales
+del GPS, las falsifica.
+											Las imita, y si lo hace bien, el aparato
+											ni se entera de que es una falsificación.
+									","
+											GPS aldatıcının ardındaki düşünce basit.
+											GPS sinyallerini bozmanın yerine,
+onların sahtesini yaparsınız.
+											Onların taklidini yaparsın
+ve doğru yaparsan,
+											saldırdığın cihaz aldatıldığını
+anlamaz bile.
+									","
+											L'idée qui se cache derrière l'usurpateur de GPS est simple.
+											Au lieu de brouiller les signaux GPS,
+vous les contrefaites.
+											Vous les imitez, et si vous le faites
+correctement, l'appareil
+											que vous attaquez ne se rendra
+même pas compte qu'il est usurpé.
+									","
+											Hinter dem GPS-Spoofer 
+steckt eine einfache Idee.
+											Anstatt die GPS-Signale zu stören, 
+täuscht man sie vor.
+											Man imitiert sie. 
+Wenn man das richtig macht,
+											merken die Empfänger nichts 
+von der Täuschung.
+									",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+","
+","
+","
+","
+",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+											So let me show you how this works.
+											In any GPS receiver, there's a peak inside
+											that corresponds to the authentic signals.
+											These three red dots represent the tracking points
+											that try to keep themselves centered on that peak.
+											But if you send in a fake GPS signal,
+											another peak pops up, and if you can get these two peaks
+											perfectly aligned, the tracking points can't tell the difference,
+											and they get hijacked by the stronger counterfeit signal,
+											with the authentic peak getting forced off.
+											At this point, the game is over.
+											The fake signals now completely control this GPS receiver.
+									","
+											Les enseñaré cómo funciona.
+											Cada receptor GPS tiene un pico
+											que se corresponde
+con las señales auténticas.
+											Estos puntos rojos representan
+los puntos de búsqueda
+											que intentan centrarse en ese punto.
+											Pero si envían una señal GPS falsa,
+											surge otro pico y se pueden alinear
+											ambos puntos perfectamente,
+el rastreador no nota la diferencia
+											y es anulado por la falsa señal más potente
+											que oculta la señal verdadera.
+											En ese momento acaba el juego.
+											Las señales falsas toman
+el control del receptor GPS.
+									","
+											Nasıl çalıştığını göstereyim.
+											Her GPS alıcısının içinde,
+asıl sinyallerle haberleşen
+											bir tepe vardır.
+											Hedef takibini gösteren
+bu üç kırmızı nokta,
+											kendini tepenin merkezinde
+tutmaya çalışıyor.
+											Ama sahte bir sinyal gönderirseniz,
+											diğer tepe ortaya çıkar ve
+bu iki tepeyi mükemmel
+											şekilde hizalayabilirseniz,
+takip noktaları farkı söyleyemez,
+											gerçek tepe zorla atılarak güçlü sahte
+											sinyal tarafından kaçırılır.
+											Bu noktada oyun biter.
+											Sahte sinyaller GPS alıcısını 
+tamamen kontrol eder.
+									","
+											Laissez-moi vous montrer comme cela fonctionne.
+											Dans chaque récepteur GPS, il y a un pic
+											qui correspond aux signaux authentiques.
+											Ces trois points rouges représentent les points traceurs
+											qui tentent de rester centrés sur ce pic.
+											Mais si vous envoyez un faux signal GPS,
+											un autre pic apparaît, et si vous 
+parvenez à aligner parfaitement
+											ces deux pics, les points traceurs 
+ne peuvent pas faire la différence,
+											et il sont détournés par le signal 
+falsifié qui est plus puissant,
+											alors que le pic authentique
+est repoussé de force.
+											A ce moment, la partie est perdue.
+											Le faux signal contrôle
+désormais complètement le GPS.
+									","
+											Ich werde das Ihnen mal vorführen.
+											In jedem GPS-Empfänger 
+ist ein Peak eingebaut,
+											der sich mit den echten Signalen deckt.
+											Diese drei roten Punkte 
+stellen die Ortungspunkte dar,
+											die versuchen, 
+auf dem Peak zentriert zu bleiben.
+											Wenn man aber 
+ein gefälschtes GPS-Signal sendet,
+											taucht ein weiterer Peak auf. Bringt man 
+diese beiden Peaks perfekt in Deckung,
+											können die Ortungspunkte 
+den Unterschied nicht feststellen.
+											Sie werden vom stärkeren, 
+gefälschten Signal fixiert,
+											das den originalen Peak wegdrängt.
+											An dieser Stelle ist das Spiel verloren.
+											Jetzt kontrollieren die gefälschten 
+Signale den GPS-Empfänger.
+									",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+","
+","
+","
+","
+",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+											So is this really possible?
+											Can someone really manipulate
+											the timing and positioning of a GPS receiver
+											just like that, with a spoofer?
+											Well, the short answer is yes.
+											The key is that civil GPS signals
+											are completely open.
+											They have no encryption. They have no authentication.
+											They're wide open, vulnerable to a kind of spoofing attack.
+											Even so, up until very recently,
+											nobody worried about GPS spoofers.
+											People figured that it would be too complex
+											or too expensive for some hacker to build one.
+									","
+											¿Es esto posible?
+											¿Puede alguien manipular
+											el posicionamiento de un receptor GPS
+											de ese modo, con un simulador?
+											Bueno, sí.
+											La clave es que las señales
+de los GPS civiles
+											son completamente abiertas.
+											No están encriptadas.
+Carecen de autenticación.
+											Son vulnerables ante cualquier
+ataque de simuladores.
+											De hecho, hasta hace poco,
+											nadie tenía en cuenta
+a estos simuladores.
+											La gente creía que sería muy complicado
+											o muy costoso de construir.
+									","
+											Bu gerçekten mümkün müdür?
+											Biri gerçekten bir sinyal yanıltıcı ile
+											buna benzer bir GPS alıcısının
+											zamanlama ve konumlamasını 
+yönlendirebilir mi?
+											Kısaca evet.
+											Püf nokta; sivil GPS sinyalleri
+											tamamen açıktır.
+											Şifrelemeleri yok.
+Kimlik doğrulamaları yok.
+											Tamamen açıklar ve aldatma saldırılarına
+karşı korunmasızlar.
+											Öyle olsa bile, çok yakın zamana kadar,
+											hiç kimse GPS sahteciliği
+hakkında endişelenmedi.
+											İnsanlar, bilgisayar kosanlarının
+yapması için
+											çok karmaşık ya da çok pahalı
+olacağını düşündü.
+									","
+											Est ce que ceci est vraiment possible ?
+											Est ce que quelqu'un peu vraiment manipuler
+											l'horloge et la localisation d'un GPS
+											juste comme ça, avec un usurpateur ?
+											En un mot, oui.
+											Le point clé est que les signaux GPS civils
+											sont complètement exposés.
+											Ils ne sont pas encodés. I
+ls n'ont pas de certification.
+											Ils sont grands ouverts, 
+vulnérables aux attaques d'usurpateurs.
+											Néanmoins, jusqu'à il y a très peu de temps,
+											personne ne s'inquiétait des usurpateurs GPS.
+											Les gens s'imaginaient 
+que cela aurait été trop compliqué
+											ou trop cher pour les pirates d'en fabriquer un.
+									","
+											Geht das überhaupt?
+											Kann man die Zeitmessung
+											und Ortung eines Empfängers 
+wirklich so einfach
+											mit einem Spoofer manipulieren?
+											Kurz gesagt: Ja.
+											Zivile GPS-Signale sind
+											völlig offen zugänglich.
+											Sie sind nicht verschlüsselt und 
+brauchen keine Authentifizierung.
+											Sie sind völlig offen und anfällig 
+für jegliche Spooferattacke.
+											Trotzdem hat sich bis vor kurzem
+											niemand Sorgen um GPS-Spoofer gemacht.
+											Man dachte, für einen Hacker wäre es
+											zu kompliziert oder zu teuer, 
+einen zu bauen.
+									",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+","
+","
+","
+","
+",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+											But I, and a friend of mine from graduate school,
+											we didn't see it that way.
+											We knew it wasn't going to be so hard,
+											and we wanted to be the first to build one
+											so we could get out in front of the problem
+											and help protect against GPS spoofing.
+											I remember vividly the week it all came together.
+											We built it at my home, which means that
+											I got a little extra help from my three-year-old son Ramon.
+											Here's Ramon — (Laughter) —
+											looking for a little attention from Dad that week.
+											At first, the spoofer was just a jumble of cables
+											and computers, though we eventually got it packaged
+											into a small box.
+									","
+											Pero un compañero de graduación
+y yo mismo
+											no lo veíamos así.
+											Sabíamos que no sería tan difícil,
+											y quisimos ser los primeros
+en construirlo
+											así que encaramos la cuestión
+											de ayudar a proteger los GPS
+contra los simuladores.
+											Recuerdo perfectamente
+cuando nos reunimos.
+											Los construimos en mi casa,
+lo que significa que
+											Ramón, mi hijo de tres años,
+me ayudó.
+											Aquí está Ramón... (Risas)
+											reclamando algo de atención
+de su padre esa semana.
+											Al principio, el simulador
+era un montón de cables
+											y circuitos, que logramos empaquetar
+											en una pequeña caja.
+									","
+											Fakat ben ve üniversiteden bir arkadaşım,
+											bu şekilde düşünmedik.
+											Çok zor olmayacağını biliyorduk
+											ve bunu yapan ilk kişiler olmayı istedik.
+											Bu yüzden problemlerin önüne geçirebilir
+											ve GPS sahteciliğine karşı
+koruma sağlayabilirdik.
+											Hepsini bileştirdiğimiz haftayı
+ayrıntılarıyla hatırlıyorum.
+											Benim evimde yaptık ki,
+bu, üç yaşındaki oğlum
+											Ramon'dan ilave küçük bir yardım
+aldığım anlamına geliyor.
+											İşte Ramon — (Kahkahalar) —
+											o hafta babadan küçük bir ilgi bekliyor.
+											İlk olarak,sinyal aldatıcı
+kablolar ve bilgisayarlar
+											karmaşası halindeydi ve sonunda onu
+											küçük bir kutunun içine koyduk.
+									","
+											Mais un ami de troisième cycle et moi
+											ne voyions pas les chose de cette manière.
+											Nous savions que cela ne serait pas si difficile,
+											et nous voulions être les premiers à en fabriquer un
+											de manière à être réactifs face au problème
+											et aider à la protection contre les usurpateurs GPS.
+											Je me souviens de manière frappante 
+de la semaine où toutes les pièces se sont assemblées.
+											Nous l'avons fabriqué chez moi, ce qui veut dire que
+											j'ai reçu un peu d'aide supplémentaire de Ramon,
+mon fils de trois ans.
+											Voici Ramon — (Rires) —
+											demandant un peu d'attention
+de son papa cette semaine là.
+											Au début, l'usurpateur était juste un méli-mélo de câbles
+											et d'ordinateurs, bien que nous ayons
+finalement réussi à le conditionner
+											dans une petite boîte.
+									","
+											Ein Hochschulfreund von mir und ich
+											sahen das ein wenig anders.
+											Wir wussten, dass das nicht 
+so schwer sein kann.
+											Wir wollten die ersten sein, 
+die einen bauen,
+											um der Bedrohung 
+einen Schritt voraus zu sein
+											und beim Schutz 
+vor GPS-Spoofern zu helfen.
+											Ich erinnere mich gut an die Woche, 
+in der wir daran arbeiteten.
+											Wir bauten bei mir zu Hause,
+											weshalb uns mein dreijähriger 
+Sohn Ramon zur Seite stand.
+											Hier versucht Ramon – (Lachen) –
+											die Aufmerksamkeit 
+seines Papas zu gewinnen.
+											Zuerst war der Spoofer nur ein Wirrwarr
+											aus Kabeln und Computern. 
+Schließlich packten wir ihn
+											in eine kleine Kiste.
+									",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+","
+","
+","
+","
+",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+											Now, the Dr. Frankenstein moment,
+											when the spoofer finally came alive
+											and I glimpsed its awful potential,
+											came late one night when I tested the spoofer
+											against my iPhone.
+											Let me show you some actual footage from that
+											very first experiment.
+											I had come to completely trust this little blue dot
+											and its reassuring blue halo.
+											They seemed to speak to me.
+											They'd say, ""Here you are. Here you are."" (Laughter)
+											And ""you can trust us.""
+											So something felt very wrong about the world.
+											It was a sense, almost, of betrayal,
+											when this little blue dot started at my house,
+											and went running off toward the north
+											leaving me behind. I wasn't moving.
+											What I then saw in this little moving blue dot
+											was the potential for chaos.
+											I saw airplanes and ships veering off course, with the captain
+											learning only too late that something was wrong.
+											I saw the GPS-derived timing
+											of the New York Stock Exchange
+											being manipulated by hackers.
+											You can scarcely imagine the kind of havoc
+											you could cause if you knew what you were doing
+											with a GPS spoofer.
+									","
+											Ahora viene el momento
+Dr. Frankenstein.
+											Cuando el simulador cobró vida
+											y se me reveló todo su potencial;
+											una noche, cuando probé el simulador
+											con mi iPhone.
+											Les mostraré un vídeo del momento
+											del primer experimento.
+											Había llegado a confiar plenamente
+en ese puntito azul
+											y su tranquilizador halo azul.
+											Parecían hablarme.
+											Decían: ""aquí estás,
+aquí estás... (Risas)
+											puedes confiar en nosotros"".
+											Algo andaba muy mal en el mundo.
+											Fue una especie de traición
+											cuando el puntito azul salió de casa,
+											se corrió hacia el norte
+											dejándome atrás. Yo no me movía.
+											Lo que vi en ese puntito azul en movimiento
+											era el potencial del caos.
+											Vi aviones y barcos a la deriva,
+sus capitanes
+											dándose cuenta demasiado tarde
+de que algo iba mal.
+											Vi el posicionamiento GPS
+											de la Bolsa de Nueva York
+											manipulado por hackers.
+											No se pueden hacer una idea del desastre
+											que podrían ocasionar
+si supieran lo que hacen
+											con un simulador de GPS
+									","
+											Şimdi, Dr. Frankestein zamanı,
+											sinyal aldatıcı nihayetinde 
+canlanmaya başladı
+											ve geç geldiğim bir gece
+sinyal aldatıcıyı test ettiğimde,
+											IPhone'uma karşı korkunç
+											potansiyelini keşfettim.
+											Bu ilk deneyimden bazı
+											gerçek ölçümleri göstereyim.
+											Bu küçük mavi noktaya ve onun
+güven veren mavi halkasına
+											tam olarak inanmaya başlamıştım.
+											Benimle konuşuyor gibiydiler.
+											'' Buradasın. Buradasın.'' (Kahkahalar)
+											""Bize güvenebilirsin"" dediler.
+											Dünya hakkında bir şeyin çok 
+yanlış olduğunu hissettim.
+											Neredeyse bir çeşit ihanet hissiydi.
+											Bu küçük mavi noktayı 
+evimde çalıştırdığımda,
+											beni ardında bırakarak
+											kuzeye doğru gidiyordu.
+Ben hareket etmiyordum.
+											Sonra bu hareket eden 
+küçük mavi noktada gördüğüm şey,
+											olası bir karmaşaydı.
+											Bir yanlışlık olduğunu çok geç 
+anlayan kaptan yüzünden,
+											rotadan dönen uçaklar ve gemiler gördüm.
+											New York Borsa'sının GPS zamanlamasının
+											bilgisayar korsanları tarafından
+											manipüle edildiğini gördüm.
+											Eğer bir GPS aldatıcı ile
+ne yaptığını bilirseniz,
+											ne tür bir karışıklığa neden olabileceğini
+											hemen hemen hayal edebilirsiniz.
+									","
+											Le moment Dr. Frankenstein,
+											quand l'usurpateur prit enfin vie,
+											et que j'ai entrevu son terrible potentiel,
+											est intervenu tard une nuit lorsque je l'ai testé
+											contre mon iPhone.
+											Laissez-moi vous montrez quelques images
+											de cette toute première expérimentation.
+											J'en étais arrivé à faire une confiance aveugle 
+à ce petit point bleu
+											et à son halo bleu réconfortant.
+											Ils semblaient me parler.
+											Ils disaient, « Tu es ici. Tu es ici. »
+(Rires)
+											et « Tu peux nous croire. »
+											J'ai alors eu un mauvais sentiment sur le monde.
+											Ce fut un sentiment, presque, de trahison
+											lorsque ce petit point bleu, partant de ma maison,
+											s'est enfui vers le nord
+											me laissant derrière. Je ne bougeais pas.
+											Ce que j'ai ensuite vu dans
+ce petit point bleu en mouvement
+											était le potentiel de chaos.
+											J'ai vu des avions et des navires
+dévier de leur trajectoire, avec le capitaine
+											apprennant trop tard que quelque chose n'allait pas.
+											J'ai vu l'horloge GPS
+											de la bourse de New-York
+											manipulée par des pirates.
+											Vous pouvez à peine imaginer le genre de ravages
+											que vous pourriez causer si vous saviez ce que vous faites
+											avec un usurpateur GPS.
+									","
+											Der Dr.-Frankenstein-Moment,
+											als der Spoofer erwachte
+											und ich sein schreckliches 
+Potential erkannte,
+											kam zu später Stunde, 
+als ich den Spoofer
+											an meinem iPhone testete.
+											Ich zeige Ihnen Aufnahmen
+											von diesem ersten Experiment.
+											Ich vertraute völlig 
+auf diesen kleinen blauen Punkt
+											mit seinem blauen Heiligenschein.
+											Sie schienen zu sagen:
+											""Du bist hier, du bist hier."" (Lachen)
+											Und: ""Du kannst uns vertrauen.""
+											Daher geriet meine Welt 
+aus den Fugen
+											und ich fühlte mich 
+regelrecht betrogen,
+											als der kleine blaue Punkt 
+von meinem Haus weg
+											nach Norden wanderte
+											und mich zurückließ. 
+Ich bewegte mich nicht.
+											Was ich damals 
+in dem kleinen blauen Punkt sah,
+											war das Potential für Chaos.
+											Ich sah Flugzeuge und Schiffe 
+vom Kurs abkommen,
+											gelenkt von Kapitänen, 
+die zu spät den Fehler erkennen.
+											Ich stellte mir die New Yorker Börse
+											mit ihrer GPS-Zeitsteuerung vor,
+											wie sie von Hackern manipuliert wird.
+											Man kann sich kaum 
+die Verwüstung vorstellen,
+											die man anrichten kann, 
+wenn man mit einem GPS-Spoofer
+											umzugehen weiß.
+									",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+","
+","
+","
+","
+",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+											There is, though, one redeeming feature
+											of the GPS spoofer.
+											It's the ultimate weapon against an invasion of GPS dots.
+											Imagine, for example, you're being tracked.
+											Well, you can play the tracker for a fool,
+											pretending to be at work when you're really on vacation.
+											Or, if you're Carol, you could lure your ex-boyfriend
+											into some empty parking lot
+											where the police are waiting for him.
+									","
+											No obstante, hay una salvedad
+											en el simulador GPS.
+											Es el arma definitiva contra
+una invasión de mini GPS.
+											Imaginen, por ejemplo,
+que los están siguiendo.
+											Bien, pueden engañar al GPS,
+											fingiendo que están en el trabajo
+cuando están de vacaciones.
+											O, en el lugar de Carol,
+pueden despistar al exnovio hacia
+											algún aparcamiento desierto
+											donde esté la policía esperándole.
+									","
+											Fakat GPS aldatıcının,
+											iyi bir tarafı vardır.
+											GPS noktalarının istilasına 
+karşı nihai silahtır.
+											Örneğin, takip edildiğinizi hayal edin.
+											Aslında tatildeyken sanki işteymiş gibi
+											takipçiyi aptal yerine koyabilirsiniz.
+											Ya da Carol gibiyseniz,
+eski erkek arkadaşınızı
+											polisin onu beklediği
+											boş bir otoparka çekebilirsiniz.
+									","
+											Il y a cependant une caractéristique de l'usurpateur GPS
+											qui compense ses défauts.
+											C'est l'arme ultime contre l'invasion de points GPS.
+											Imaginez par exemple que vous soyez suivi.
+											Vous pouvez alors prendre le traqueur à son propre piège,
+											en lui faisant croire que vous êtes
+au travail alors que vous êtes en vacances.
+											Ou, si vous êtes Carole, vous pouvez 
+appâter votre ex-petit ami
+											jusqu'à un parking vide
+											où la police l'attend.
+									","
+											Es gibt jedoch etwas Positives
+											an GPS-Spoofern.
+											Sie sind die beste Waffe 
+gegen eine Invasion der GPS-Dots.
+											Stellen Sie sich vor, 
+Sie werden verfolgt.
+											Sie können den Verfolger 
+zum Narren halten
+											und so tun, als wären Sie auf Arbeit, 
+wenn Sie eigentlich im Urlaub sind.
+											Wären Sie Carol, 
+könnten Sie Ihren Ex-Freund
+											auf einen leeren Parkplatz locken,
+											wo die Polizei auf ihn wartet.
+									",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+","
+","
+","
+","
+",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+											So I'm fascinated by this conflict, a looming conflict,
+											between privacy on the one hand
+											and the need for a clean radio spectrum on the other.
+											We simply cannot tolerate GPS jammers and spoofers,
+											and yet, given the lack of effective legal means
+											for protecting our privacy from the GPS dot,
+											can you really blame people for wanting to turn them on,
+											for wanting to use them?
+									","
+											Este conflicto me fascina porque plantea,
+											por un lado, la privacidad
+											y por otro, la necesidad de mantener
+un espectro de radio despejado.
+											No podemos tolerar la presencia
+de simuladores de GPS,
+											y, dada la ausencia
+de medidas legales
+											para proteger nuestra privacidad
+de los mini GPS,
+											¿pueden culpar a la gente
+por querer instalarlos,
+											por querer usarlos?
+									","
+											Bu çekişmeden çok etkilendim,
+bir elde gizlilik
+											diğerinde açık bir radyo,
+spektrum ihtiyacı
+											arasında ki belli belirsiz 
+bir anlaşmazlık.
+											Kolay kolay GPS sinyal bozuculara 
+ve yanıltıcılara müsamaha edemeyiz
+											ve malesef yasal anlamda etkili
+GPS noktalarında,
+											gizliliğimizi korumadaki eksikliklerle
+
+											sizce insanları gerçekten
+onları kullanmak için
+											açmak istemeleri yüzünden
+suçlayabilir misiniz?
+									","
+											Je suis fasciné par ce conflit, un conflit imminent,
+											entre d'un côté la vie privée,
+											et le besoin d'un spectre radio propre de l'autre.
+											Nous ne pouvons tout simplement 
+pas tolérer les brouilleurs GPS et les usurpateurs,
+											et pourtant, vu le manque de moyens légaux efficaces
+											pour protéger notre vie privée des points GPS,
+											peut-on vraiment blâmer les gens 
+de vouloir les allumer,
+											de vouloir s'en servir ?
+									","
+											Mich fasziniert dieser 
+sich abzeichnende Konflikt
+											zwischen Privatsphäre einerseits
+											und dem Bedarf nach einem 
+freiem Funkspektrum andererseits.
+											Wir können GPS-Störgeräte 
+und Spoofer nicht tolerieren.
+											Die Gesetzeslage versagt jedoch dabei,
+											unsere Privatsphäre wirksam 
+vor GPS-Dots zu schützen.
+											Kann man es da 
+jemandem vorwerfen,
+											sie einzuschalten 
+und nutzen zu wollen?
+									",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+","
+","
+","
+","
+",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+											I hold out hope that we'll be able to reconcile
+											this conflict with some sort of,
+											some yet uninvented technology.
+											But meanwhile, grab some popcorn,
+											because things are going to get interesting.
+									","
+											Tengo la esperanza de poder resolver
+											este conflicto con algún tipo
+											de tecnología aún por inventar.
+											Pero mientras tanto,
+procúrense unas palomitas,
+											porque el asunto se va
+a poner muy interesante.
+									","
+											Henüz icat edilmemiş
+bazı teknoloji türleri ile
+											bu anlaşmazlığı uzlaştırabileceğimiz
+											umudunu taşıyorum.
+											Fakat bu sırada,cbiraz patlamış mısır alın
+											çünkü işler ilginç bir hal alacak.
+									","
+											Je m'accroche à l'espoir que
+nous serons en mesure de résoudre
+											ce conflit grâce à une sorte de technologie
+											non encore inventée.
+											Mais en attendant, prenez du pop-corn
+											car les choses vont devenir intéressantes.
+									","
+											Ich habe die Hoffnung, 
+dass wir diesen Konflikt
+											mit Hilfe einer noch nicht entwickelten
+											Technologie lösen können.
+											In der Zwischenzeit 
+machen Sie es sich bequem,
+											denn es bleibt spannend.
+									",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+","
+","
+","
+","
+",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+											Within the next few years,
+											many of you will be the proud owner of a GPS dot.
+											Maybe you'll have a whole bag full of them.
+											You'll never lose track of your things again.
+											The GPS dot will fundamentally reorder your life.
+											But will you be able to resist the temptation
+											to track your fellow man?
+											Or will you be able to resist the temptation
+											to turn on a GPS spoofer or a Wave Bubble
+											to protect your own privacy?
+									","
+											En los próximos años
+											muchos de Uds. tendrán un mini GPS.
+											Quizá tengan varios.
+											Nunca volverán a perder nada.
+											El mini GPS reordenará sus vidas.
+											¿Pero podrán resistir la tentación
+											de seguir a su vecino?
+											¿Podrán resistirse a
+											instalar un simulador GPS
+o un Wave Bubble
+											para proteger su intimidad?
+									","
+											Gelecek birkaç yıl içinde,
+											birçoğunuz GPS noktasının
+gururlu sahipleri olacaksınız.
+											Belki çantalarınız ağzına
+kadar onlarla dolu olacak.
+											Eşyalarınızın izlerini asla 
+kaybetmeyeceksiniz.
+											GPS noktası yaşamlarınızı 
+yeniden düzenleyecek.
+											Fakat bu yeni dostunuzu
+takip etme cazibesine
+											karşı koyabilecek misiniz?
+											Ya da kendi gizliliğinizi 
+korumak için
+											bir GPS yanıltıcının ya da 
+Wave Buble'ın cazibesine
+											karşı koyabilecek misiniz?
+									","
+											Dans les prochaines années
+											beaucoup d'entre vous seront 
+les heureux propriétaires de points GPS.
+											Peut-être en aurez-vous un plein sac.
+											Vous ne perdrez plus jamais la trace de vos objets.
+											Le point GPS va fondamentalement changer vos vies.
+											Mais serez-vous capable de résister à la tentation
+											de tracer votre copain ?
+											Ou saurez-vous résister à la tentation
+											d'allumer un usurpateur GPS ou une Bulle d'onde
+											pour protéger votre intimité ?
+									","
+											Innerhalb der nächsten Jahre
+											werden viele von Ihnen GPS-Dots erwerben.
+											Vielleicht sogar in größeren Mengen.
+											Sie werden Ihre Sachen nicht mehr verlieren.
+											Der GPS-Dot wird Ihr Leben 
+grundlegend verändern.
+											Werden Sie der Versuchung 
+widerstehen können,
+											andere zu verfolgen?
+											Werden Sie der Versuchung 
+widerstehen können,
+											mit einem GPS-Spoofer 
+oder einer Wellenblase
+											Ihre eigene Privatsphäre zu schützen?
+									",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+","
+","
+","
+","
+",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+											So, as usual, what we see just beyond the horizon
+											is full of promise and peril.
+											It'll be fascinating to see how this all turns out.
+									","
+											Como de costumbre, lo que percibimos
+en el horizonte
+											está lleno de promesas y de peligros.
+											Será fascinante ver
+en qué acaba todo esto.
+									","
+											Yani, her zaman olduğu gibi ufuğun
+ötesinde gördüğümüz şey,
+											sözler ve risklerin tümüdür.
+											Bunların nasıl gerçeğe dönüşeceğini 
+görmek büyüleyici olacaktır.
+									","
+											Ainsi, comme à l'accoutumée, 
+ce que nous voyons juste derrière l'horizon
+											est plein de promesses et de dangers.
+											Cela sera fascinant de voir
+comment les choses vont se passer.
+									","
+											Wie immer ist das, 
+was auf uns zukommt,
+											voller Versprechen und Gefahren.
+											Es bleibt spannend zu sehen, 
+was dabei heraus kommt.
+									",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+","
+","
+","
+","
+",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+											Thanks. (Applause)
+									","
+											Gracias.
+(Aplausos)
+									","
+											Teşekkürler. (Alkışlar)
+									","
+											Merci. 
+(Applaudissements)
+									","
+											Vielen Dank. (Applaus)
+									",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"
+"
+","
+","
+","
+","
+",How to fool a GPS,Todd Humphreys,15:45,"TEDx,global issues,hack,security,technology"

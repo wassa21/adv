@@ -1,0 +1,1561 @@
+en,es,tr,fr,de,title,speaker,duration,tags
+"
+","
+","
+","
+","
+",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+											Let me share with you today an original discovery.
+											But I want to tell it to you the way it really happened —
+											not the way I present it in a scientific meeting,
+											or the way you'd read it in a scientific paper.
+											It's a story about beyond biomimetics,
+											to something I'm calling biomutualism.
+											I define that as an association between biology and another discipline,
+											where each discipline reciprocally advances the other,
+											but where the collective discoveries that emerge are beyond any single field.
+											Now, in terms of biomimetics,
+											as human technologies take on more of the characteristics of nature,
+											nature becomes a much more useful teacher.
+											Engineering can be inspired by biology
+											by using its principles and analogies when they're advantageous,
+											but then integrating that with the best human engineering,
+											ultimately to make something actually better than nature.
+									","
+											Permítanme que comparta hoy con ustedes un descubrimiento original.
+											Pero quiero contarlo del modo en que ocurrió realmente.
+											No de la manera en que lo presento en un encuentro científico,
+											o como lo podríais leer en un artículo científico.
+											Es una historia que va más allá de la biomimética,
+											a lo que yo llamo ""biomutualismo"".
+											Defino esto como un asociación entre la biología y alguna otra disciplina.
+											Donde cada disciplina recíprocamente contribuye al avance de la otra,
+											y los descubrimientos que emergen conjuntamente van más allá de cada campo individual.
+											Ahora, en términos de la biomimética,
+											en la medida en que las tecnologías humanas se acercan a las características de la naturaleza,
+											la naturaleza se convierte en un maestro mucho más útil.
+											La ingeniería puede inspirarse en la biología
+											utilizando sus principios y analogías cuando son ventajosos.
+											Y entonces integrando esto con la mejor ingeniería humana
+											para llegar a hacer algo que en realidad supera la naturaleza.
+									","
+											Bugün sizlerle orijinal bir keşfi paylaşmak istiyorum.
+											Keşif nasıl gerçekleştiyse ben de size öyle aktaracağım.
+											Yani, bilimsel bir toplantıda sunacağım şekilde
+											veya bir bilim dergisinde okuyacağınız haliyle anlatmayacağım.
+											Anlatacağım, biyomimetiğin ötesinde bir hikaye.
+											Biyokarşılıklılık olarak adlandırdığım olguyla ilgili bir hikaye.
+											Bu terimi, biyoloji ve diğer bir disiplin arasındaki ilişki olarak tanımlıyorum.
+											Biyokarşılıklılıkta disiplinler birbirlerini geliştirir,
+											ancak yapılan ortak keşifler tek bir alana ait olmanın çok ötesindedir.
+											Biyomimetik açısından bakıldığında,
+											insan eliyle yaratılan teknolojiler tabiata benzedikçe
+											tabiat çok daha yararlı bir öğretmene dönüşür.
+											Mühendislik, kendisine avantaj sağladığında
+											biyolojinin ilke ve analojilerini kullanarak ilham alabilir.
+											Tabii, nihayetinde tabiattan daha iyi bir şey yapmak için,
+											bu ilhamı en iyi mühendislikle birleştirmek gerekiyor.
+									","
+											Laissez-moi partager aujourd'hui avec vous une découverte inédite.
+											Mais je veux vous raconter comment ça s'est vraiment passé.
+											Et non comment je le présente dans les réunions scientifiques,
+											ou comment vous le liriez dans une publication scientifique.
+											Cette histoire dépasse le biomimétisme,
+											pour atteindre ce que j'appelle le biomutualisme.
+											Je définis cela comme l'association de la biologie et d'une autre discipline.
+											Où chaque discipline aide réciproquement l'autre,
+											mais où les découvertes collectives dépassent chaque spécialité prise séparément.
+											En ce qui concerne le biomimétisme,
+											alors que les technologies humaines adoptent de plus plus les caractéristiques de la nature,
+											la nature devient un professeur beaucoup plus utile.
+											L'ingénierie peut être inspirée par la biologie
+											en reprenant ses principes et analogies quand ils sont utiles.
+											Mais en y intégrant le meilleur de l'ingénierie humaine,
+											pour obtenir finalement quelque chose de meilleur que la nature.
+									","
+											Lassen Sie mich heute eine Erstentdeckung mit Ihnen teilen.
+											Aber ich möchte es Ihnen so erzählen, wie es wirklich passiert ist.
+											Und nicht so, wie ich es auf einer wissenschaftlichen Konferenz vorstellen würde
+											oder wie Sie es in einer wissenschaftlichen Publikation lesen könnten.
+											Es ist eine Geschichte, die über Bionik hinausgeht,
+											hin zu etwas, das ich Biosymbiose nenne.
+											Ich definiere diesen Begriff als die Verbindung zwischen Biologie und einer weiteren Disziplin,
+											wobei sich die Disziplinen gegenseitig voranbringen,
+											wobei aber die daraus hervorgehenden gemeinsamen Entdeckungen über die einzelnen Fachgebiete hinausgehen.
+											Nun, was die Bionik anbelangt,
+											so wird, je mehr Eigenschaften der Natur menschliche Technologien annehmen,
+											die Natur ein immer nützlicherer Lehrer.
+											Die Ingenieurwissenschaft kann sich durch die Biologie inspirieren lassen,
+											indem sie deren Prinzipien und Analogien nutzt, wenn sie einen Vorteil bieten.
+											Aber dann kann sie diese mit der besten menschlichen Ingenieurskunst verbinden,
+											um letztendlich etwas herzustellen, das besser ist als die Lösung der Natur.
+									",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+","
+","
+","
+","
+",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+											Now, being a biologist, I was very curious about this.
+											These are gecko toes.
+											And we wondered how they use these bizarre toes
+											to climb up a wall so quickly.
+											We discovered it. And what we found was
+											that they have leaf-like structures on their toes,
+											with millions of tiny hairs that look like a rug,
+											and each of those hairs has the worst case of split-ends possible:
+											about 100 to 1000 split ends that are nano-size.
+											And the individual has 2 billion of these nano-size split ends.
+											They don't stick by Velcro or suction or glue.
+											They actually stick by intermolecular forces alone,
+											van der Waals forces.
+											And I'm really pleased to report to you today
+											that the first synthetic self-cleaning, dry adhesive has been made.
+											From the simplest version in nature, one branch,
+											my engineering collaborator, Ron Fearing, at Berkeley,
+											had made the first synthetic version.
+											And so has my other incredible collaborator,
+											Mark Cutkosky, at Stanford —
+											he made much larger hairs than the gecko,
+											but used the same general principles.
+									","
+											Siendo un biólogo, sentía una gran curiosidad acerca de esto.
+											Estos son dedos de gecos.
+											Y nos preguntábamos cómo los gecos utilizan estos dedos tan extraños
+											para trepar por una pared tan rápidamente.
+											Lo descubrimos. Y lo que encontramos fue
+											que los gecos tienen estructuras como hojuelas en los dedos
+											con millones de pequeños vellos que les hace parecer como una alfombra.
+											Y cada uno de estos vellos tiene el peor caso de extremos partidos posible,
+											alrededor de 100 a 1000 extremos partidos, de tamaño nanométrico
+											Y el individuo tiene 2000 millones de estos extremos partidos.
+											No se adhieren por Velcro, o succión, o un adhesivo.
+											En realidad se adhieren únicamente por fuerzas entre moléculas,
+											fuerzas de van der Waals.
+											I realmente me complace anunciarles hoy
+											que se ha hecho el primer adhesivo sintético seco, que no deja residuos.
+											Partiendo de la versión más simple en la naturaleza, una rama,
+											mi colaborador en temas de ingeniería, Ron Fearing de Berkeley,
+											ha hecho la primera versión sintética.
+											Y lo mismo ha hecho mi otro colaborador increíble,
+											Mark Cutkosky, de Stanford.
+											Él ha hecho vellos mucho mayores que los del geco,
+											pero utilizando los mismos principios generales.
+									","
+											Bir biyolog olarak, bu konuyu çok merak ediyordum.
+											Bunlar kertenkele parmakları.
+											Bu garip parmakları bir duvara bu kadar hızlı tırmanırken
+											nasıl kullandıklarını merak ettik.
+											Ve nasıl olduğunu keşfettik;
+											parmaklarında yaprağa benzeyen kısımlar bulunuyor ve
+											bunların da üstünde halı gibi görünen milyonlarca minik kıl var.
+											Her bir kıl ucu maksimum sayıda çatallaşmış,
+											nano ölçülerde yaklaşık 100 ila 1000 çatallı uçlar.
+											Bu bireyde nano ölçüdeki çatallı uçlardan 2 milyar tane var.
+											Tutunma cırt cırt, emme veya tutkalla sağlanmıyor.
+											Aslında sadece moleküller arası güçler yardımıyla tutunuyorlar.
+											van der Waals güçleri.
+											Bugün sizlere ilk sentetik, kendi kendini temizleyen,
+											kuru yapıştırıcının üretildiğini duyurmaktan çok memnunum.
+											Doğadaki en basit versiyonu, bir dalı kullanan
+											Berkeley'deki mühendis arkadaşım Ron Fearing
+											ilk sentetik versiyonu yapmıştı.
+											Stanford'daki arkadaşım Mark Cutkosky de
+											bir sentetik versiyon yaptı.
+											Kertenkelede bulunanlardan çok daha büyük kıllar yaptı,
+											fakat aynı genel ilkeyi kullandı.
+									","
+											Étant biologiste, ce sujet a excité ma curiosité.
+											Voici des doigts de gecko.
+											Nous nous demandions comment ils utilisaient ces doigts bizarres
+											pour grimper si rapidement au mur.
+											Nous l'avons découvert : ils ont
+											des structures comme des feuilles sur leurs doigts,
+											avec des millions de petits poils comme un tapis.
+											Et chacun de ces doigts a les pires fourches qu'on puisse trouver
+											entre 100 et 1000, qui sont nanométriques.
+											Un individu a 2 milliards de ces fourches nanométriques.
+											Elles ne collent pas grâce à un Velcro, à la succion ou à une colle.♪
+											Elles collent en fait seulement grâce aux forces intermoléculaires,
+											les forces de Van der Waal.
+											Je suis très heureux de vous annoncer aujourd'hui
+											que le premier adhésif auto-nettoyant de synthèse a été créé.
+											A partir de sa version la plus simple dans la nature, une branche.
+											mon collègue d'ingénierie, Ron Fearing, à Berkeley,
+											a créé la première version de synthèse.
+											Mon autre collaborateur incroyable, Mark Cutkosky,
+											à Stanford, a fait de même.
+											Il a créé des poils beaucoup plus larges que ceux du gecko,
+											mais a utilisé les mêmes principes généraux.
+									","
+											Nun, da ich Biologe bin, machte mich dies besonders neugierig.
+											Dies sind Gecko-Zehen.
+											Und wir haben uns gefragt, wie sie diese bizarren Zehen nutzen,
+											um dermaßen schnell eine Wand hinaufzuklettern.
+											Wir haben es herausgefunden. Und was wir entdeckt haben, ist,
+											dass sie diese blattähnlichen Strukturen an den Zehen haben,
+											die mit Millionen winziger Härchen aussehen wie ein Teppich.
+											Und jedes dieser Härchen hat die schlimmstmögliche Form von Spliss,
+											etwa 100 bis 1000 gespaltene Haarenden in Nanogröße.
+											Und jedes einzelne Tier hat 2 Milliarden dieser gespaltenen Haarenden in Nanogröße.
+											Sie haften weder wie ein Klettverschluss noch durch Saugwirkung oder Klebstoff.
+											Tatsächlich haften sie allein aufgrund intermolekularer Kräfte,
+											den Van-der-Waals-Kräften.
+											Und ich freue mich sehr, Ihnen heute die Herstellung
+											des ersten synthetischen, selbstreinigenden Trockenklebemittels verkünden zu dürfen.
+											Ausgehend von der einfachsten in der Natur vorkommenden Form, einer einzelnen Verzweigung,
+											hat mein Ingenieurskollege Ron Fearing von der Universität Berkeley
+											die erste synthetische Version hergestellt.
+											Das gleiche gilt für meinen anderen hervorragenden Kollegen,
+											Mark Cutkosky von der Universität Stanford.
+											Er hat Haare hergestellt, die viel größer sind als die des Geckos,
+											dabei aber die gleichen Prinzipien angewendet.
+									",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+","
+","
+","
+","
+",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+											And here is its first test.
+											(Laughter)
+											That's Kellar Autumn, my former Ph.D. student,
+											professor now at Lewis and Clark,
+											literally giving his first-born child up for this test.
+											(Laughter)
+									","
+											Y aquí tienen su primera prueba.
+											(Risas)
+											Éste es Kellar Autumn, mi antiguo estudiante de Doctorado,
+											que ahora es profesor en Lewis and Clark,
+											literalmente entregando su primogénito para esta prueba.
+											(Risas)
+									","
+											İşte, ilk denemesi.
+											(Kahkaha)
+											Bu Kellar Autumn, eski doktora öğrencim,
+											kendisi şu anda Lewis and Clark'ta profesör,
+											kendi çocuğunu deneyde kullanıyor.
+											(Kahkaha)
+									","
+											Voici son premier test.
+											(Rires)
+											Voici Kellar Autumn, un ancien doctorant de mon labo,
+											désormais professeur à Lewis and Clark,
+											offrant littéralement son aîné pour ce test.
+											(Rires)
+									","
+											Und dies ist der erste Test.
+											(Gelächter)
+											Hier sehen Sie Kellar Autumn, meinen ehemaligen Doktoranden,
+											der jetzt Professor am Lewis &amp; Clark College ist,
+											wie er sprichwörtlich seinen Erstgeborenen hergibt, um diesen Test machen zu können.
+											(Gelächter)
+									",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+","
+","
+","
+","
+",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+											More recently, this happened.
+									","
+											Más recientemente, sucedió esto.
+									","
+											Bu, daha yakın bir tarihte gerçekleşti.
+									","
+											Plus récemment a eu lieu ceci.
+									","
+											Vor kurzem ist dann das hier passiert:
+									",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+","
+","
+","
+","
+",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+											Man: This the first time someone has actually climbed with it.
+									","
+											Hombre: Esta es la primera vez que alguien ha escalado realmente con esto.
+									","
+											Adam: Bugün ilk kez biri bununla duvara tırmandı.
+									","
+											Homme : c'est la première fois que quelqu'un grimpe avec.
+									","
+											Mann: Dies ist das erste Mal, dass tatsächlich jemand damit geklettert ist.
+									",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+","
+","
+","
+","
+",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+											Narrator: Lynn Verinsky, a professional climber,
+											who appeared to be brimming with confidence.
+									","
+											Narrador: Lynn Verinsky, una escaladora profesional,
+											que parece estar llena de confianza.
+									","
+											Konuşmacı: Lynn Verinsky, profesyonel bir tırmanışçı,
+											görünüşe bakılırsa kendine güveni tamdı.
+									","
+											Narrateur : Lynn Verinsky, un grimpeur professionnel,
+											qui semble déborder de confiance.
+									","
+											Sprecher: Lynn Verinsky, eine Profikletterin,
+											die nur so vor Zuversicht zu strotzen schien.
+									",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+","
+","
+","
+","
+",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+											Lynn Verinsky: Honestly, it's going to be perfectly safe. It will be perfectly safe.
+									","
+											Lynn Verinsky: Honradamente, va a ser perfectamente seguro. Será perfectamente seguro.
+									","
+											Lynn Verinsky: Gerçekten, gayet güvenli olacak. Son derece güvenli.
+									","
+											Lynn Verinsky : Honnêtement, cela sera parfaitement sûr. Parfaitement sûr.
+									","
+											Lynn Verinsky: Ganz ehrlich, das ist hundertprozentig sicher. Es ist vollkommen sicher.
+									",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+","
+","
+","
+","
+",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+											Man: How do you know?
+									","
+											Hombre: ¿Cómo lo sabe?
+									","
+											Adam: Nereden biliyorsun?
+									","
+											Homme : Comment le savez-vous?
+									","
+											Mann: Woher wissen Sie das?
+									",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+","
+","
+","
+","
+",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+											Lynn Verinsky: Because of liability insurance. (Laughter)
+									","
+											Lynn Verinsky: Por el seguro de responsabilidad.
+									","
+											Lynn Verinsky: Malî sorumluluk sigortam var çünkü.
+									","
+											Lynn Verinsky : A cause de l'assurance responsabilité civile.
+									","
+											Lynn Verinsky: Wegen der Haftpflichtversicherung.
+									",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+","
+","
+","
+","
+",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+											Narrator: With a mattress below and attached to a safety rope,
+											Lynn began her 60-foot ascent.
+											Lynn made it to the top in a perfect pairing
+											of Hollywood and science.
+									","
+											Narrador: Con un colchón debajo y atada a una cuerda de seguridad,
+											Lynn comenzó su escalada de 20 metros.
+											Lynn llegó al tope en una combinación perfecta
+											de Hollywood y ciencia.
+									","
+											Konuşmacı: Aşağıya konmuş bir minder ve bağlandığı güvenlik halatı eşliğinde
+											Lynn 60 foot'luk tırmanışına başladı.
+											Hollywood ile bilimin mükemmel bir karışımı ile
+											Lynn tepeye ulaştı.
+									","
+											Narrateur : Avec un matelas en dessous et attaché à une corde de rappel,
+											Lynn commence son ascension de 20 mètres.
+											Lynn arrive au sommet dans un parfait mélange
+											de science et de trucages hollywoodiens.
+									","
+											Sprecher: Mit einer Matte auf dem Boden und mit einem Seil gesichert,
+											begann Lynn ihren 18-Meter-Aufstieg.
+											Lynn erreichte die Höhe mit einer perfekten Mischung
+											von Hollywood und Wissenschaft.
+									",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+","
+","
+","
+","
+",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+											Man: So you're the first human being to officially emulate a gecko.
+									","
+											Hombre: De modo que eres la primera persona que oficialmente emula a un geco.
+									","
+											Adam: Böylece resmi olarak bir kertenkelenin hareketlerini kopyalayan ilk insan oldun.
+									","
+											Homme : Vous êtes donc le premier être humain à officiellement vous comporter en gecko.
+									","
+											Mann: Sie sind nun also offiziell der erste Mensch, der einen Gecko nachgeahmt hat.
+									",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+","
+","
+","
+","
+",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+											Lynn Verinsky: Ha! Wow. And what a privilege that has been.
+									","
+											Lyn Verinsky: Ajá! Caramba. Y qué privilegio ha sido el mío.
+									","
+											Lynn Verinsky: Öyle mi ? Vay be, ne büyük ayrıcalık!
+									","
+											Lynn Verinsky : Super! Quel privilège!
+									","
+											Lynn Verinsky: Ha! Wow. Und was für eine Ehre das war.
+									",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+","
+","
+","
+","
+",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+											Robert Full: That's what she did on rough surfaces.
+											But she actually used these on smooth surfaces —
+											two of them — to climb up, and pull herself up.
+											And you can try this in the lobby,
+											and look at the gecko-inspired material.
+											Now the problem with the robots doing this
+											is that they can't get unstuck,
+											with the material.
+											This is the gecko's solution. They actually peel their toes away
+											from the surface, at high rates,
+											as they run up the wall.
+									","
+											Robert Full: Ésto es lo que ella hizo sobre superficies rugosas.
+											Pero realmente los utilizó tambien sobre superficies lisas,
+											dos de ellas, para escalar, tirando de su propio peso.
+											Y pueden probarlo por sí mismos en el recibidor,
+											y ver el material inspirado por los gecos.
+											Ahora bien, el problema cuando los robots intentan hacer esto
+											es que no pueden despegarse,
+											con el material.
+											Ésta es la solución de los gecos. En realidad ellos separan sus dedos pelándolos
+											de la superficie, a altas velocidades,
+											al tiempo que escalan la pared.
+									","
+											Robert Full: Pürüzlü yüzeylerde böyle yaptı.
+											Fakat, pürüzsüz yüzeylerde bunların ikisini
+											tırmanmak ve kendisini yukarı çekmek için kullandı.
+											Bunu siz de lobide deneyebilir,
+											kertenkeleden esinlenilerek üretilen malzemelere bakabilirsiniz.
+											Robotlar bu eylemi yaparken ortaya çıkan sorun
+											malzemeyle yüzeyden
+											ayrılamamaları.
+											Bu, kertenkelenin çözümü. Duvardan yukarı ızlıca koşarken,
+											çok büyük bir hızla parmaklarını
+											duvardan adeta soyar gibi ayırıyorlar.
+									","
+											Robert Full : Voilà ce qu'elle faisait sur des surfaces rugueuses.
+											Mais elle a en fait utilisé ces choses-là sur des surfaces lisses,
+											en l'occurrence deux, pour grimper et arriver en haut.
+											Vous pouvez essayer cela dans le hall,
+											et observer le matériel simili-gecko.
+											Le problème avec les robots qui font cela
+											est qu'on ne peut plus les décoller,
+											avec ce type d'équipement.
+											Voici la solution du gecko. En fait, il décolle ses doigts
+											de la surface, à grande vitesse,
+											en courant sur le mur.
+									","
+											Robert Full: Das hat sie an rauen Oberflächen gemacht.
+											Aber sie hat auch an glatten Oberflächen zwei von diesen hier verwendet,
+											um nach oben zu klettern und sich nach oben zu ziehen.
+											Sie können das in der Lobby ausprobieren
+											und sich das durch den Gecko inspirierte Material ansehen.
+											Das Problem bei Robotern, die dies tun, ist,
+											dass sie sich nicht mehr lösen können,
+											wenn sie dieses Material verwenden.
+											Dies ist die Lösung der Geckos. Sie rollen ihre Zehen
+											mit großer Geschwindigkeit von der Oberfläche weg,
+											während sie die Wand hinauflaufen.
+									",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+","
+","
+","
+","
+",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+											Well I'm really excited today to show you
+											the newest version of a robot, Stickybot,
+											using a new hierarchical dry adhesive.
+											Here is the actual robot.
+											And here is what it does.
+											And if you look,
+											you can see that it uses
+											the toe peeling,
+											just like the gecko does.
+											If we can show some of the video, you can see it climbing up the wall.
+											(Applause)
+											There it is.
+											And now it can go on other surfaces because of the new adhesive
+											that the Stanford group was able to do
+											in designing this incredible robot.
+											(Applause)
+									","
+											Bueno, me emociona realmente mostrarles
+											la última versión de un robot, Stikybot,
+											que utiliza un nuevo adhesivo seco jerárquico.
+											Aquí tienen el robot.
+											Y esto es lo que hace.
+											Y si se fijan,
+											pueden ver que utiliza
+											el despegue de los dedos,
+											tal y como lo hace el geco.
+											Si podemos mostrarle algo del video, podrán verlo subir trepando la pared.
+											(Aplausos)
+											Aquí lo tienen.
+											Y ahora puede trepar otras superficies a causa del nuevo adhesivo,
+											que el grupo de Standford pudo hacer,
+											al proyectar este robot increíble.
+											(Aplausos)
+									","
+											Bugün sizlere Stickybot adlı robotun
+											hiyerarşik kuru yapışkan kullanan en yeni versiyonunu
+											göstereceğim için çok heyecanlıyım.
+											İşte, bahsettiğim robot.
+											Bakın neler yapabiliyor.
+											Baktığınızda
+											tıpkı kertenkele gibi
+											parmak soyma hareketini yaptığını
+											görebilirsiniz.
+											Videonun bir kısmını gösterirsek, duvara tırmandığını görebilirsiniz.
+											(Alkış)
+											İşte, buyrun.
+											Standford grubunun bu müthiş robotu tasarlarken
+											geliştirdiği yeni yapışkan sayesinde
+											artık diğer yüzeylerde de gezebiliyor.
+											(Alkış)
+									","
+											Je suis vraiment heureux aujourd'hui de vous montrer
+											la dernière version du robot Stickybot,
+											qui utilise une nouvelle colle à séchage hiérarchique.
+											Voici le robot.
+											Voici ce qu'il fait.
+											En regardant bien,
+											vous voyez qu'il utilise
+											le décollement de ses doigts,
+											comme le gecko.
+											Si on peut passer une vidéo, vous le verrez grimper le long du mur.
+											(Applaudissements)
+											Voilà.
+											Il peut aller sur d'autres surfaces grâce à la nouvelle colle,
+											que le Stanford group a créée
+											en concevant ce robot incroyable.
+											(Applaudissements)
+									","
+											Nun, ich freue mich sehr, Ihnen heute
+											die neuste Version eines Roboters - Stickybot (Klebebot) - zeigen zu können,
+											der ein neues, hierarchisches Trockenklebemittel verwendet.
+											Hier haben wir den Roboter.
+											Und das ist, was er tut.
+											Wenn Sie genau hinsehen,
+											können Sie erkennen,
+											dass er die Zehen aufrollt,
+											genau wie ein Gecko.
+											Und wenn wir Ihnen einen Auschnitt des Videos zeigen können, sehen Sie ihn eine Wand hinaufklettern.
+											(Applaus)
+											Da ist er.
+											Und jetzt kann er auch an anderen Oberflächen haften, dank des neuen Klebemittels,
+											das die Forschungsgruppe in Stanford erzeugen konnte,
+											als sie diesen unglaublichen Roboter entworfen haben.
+											(Applaus)
+									",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+","
+","
+","
+","
+",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+											Oh. One thing I want to point out is, look at Stickybot.
+											You see something on it. It's not just to look like a gecko.
+											It has a tail. And just when you think you've figured out nature,
+											this kind of thing happens.
+											The engineers told us, for the climbing robots,
+											that, if they don't have a tail,
+											they fall off the wall.
+											So what they did was they asked us
+											an important question.
+											They said, ""Well, it kind of looks like a tail.""
+											Even though we put a passive bar there.
+											""Do animals use their tails when they climb up walls?""
+											What they were doing was returning the favor,
+											by giving us a hypothesis to test,
+											in biology, that we wouldn't have thought of.
+									","
+											Ah. Algo que quiero señalar es, miren a Stickybot.
+											Verán algo en el robot. Y no sirve sólo para que parezca un geco.
+											Tiene una cola. Y es que cuando te crees que has entendido la naturaleza,
+											esta clase de cosas sucede.
+											Los ingenieros nos dijeron, de los robots trepadores,
+											que si no tienen una cola
+											se desprenden de la pared y caen.
+											De modo que hicieron
+											una pregunta importante.
+											Dijeron, ""Bueno, parece como una cola.""
+											A pesar que lo que pusimos es una barra pasiva.
+											""¿Utilizan los animales sus colas cuando trepan las paredes?""
+											Lo que hicieron fué devolvernos el favor,
+											dándonos una hipótesis que probar,
+											en biología, en la que no habríamos pensado.
+									","
+											Ha, bir noktaya dikkati çekmek istiyorum, Stickybot'a bakın.
+											Üzerinde bir şey görüyorsunuz. Sadece kertenkele gibi görünmesi için konmadı.
+											Bir kuyruğu var. Tam da tabiatı çözdüğünüzü sandığınızda
+											böyle bir şey oluveriyor.
+											Mühendisler, tırmanan robotlarla ilgili olarak
+											kuyrukları olmazsa
+											duvardan düştüklerini söylediler.
+											Bu nedenle de bize
+											önemli bir soru sordular.
+											""Şey, az çok bir kuyruğa benziyor."" dediler.
+											Oraya pasif bir bar koysak da.
+											""Hayvanlar duvara tırmanırken kuyruklarını kullanıyorlar mı?""
+											Yardımımıza karşılık verip,
+											bize, biyolojide cevabını bulmamız için
+											üzerinde hiç düşünmediğimiz bir hipotezi sunmuş oldular.
+									","
+											Oh, une chose à noter. Regardez Stickybot.
+											Vous voyez quelque chose dessus. Ce n'est pas seulement pour ressembler à un gecko.
+											Il a une queue. Quand vous croyez avoir compris la nature,
+											c'est ce qui arrive.
+											Les ingénieurs nous ont dit, les robots grimpeurs,
+											s'ils n'ont pas de queue,
+											ils tombent du mur.
+											Ils nous ont posé une question,
+											une question importante.
+											Ils ont dit : ""Hé, cela ressemble à une queue.""
+											Bien qu'on a mis une barre passive ici.
+											""Les animaux utilisent-ils leur queue pour grimper aux murs?""
+											Ils nous ont retourné la politesse,
+											en nous donnant une hypothèse à tester,
+											en biologie, à laquelle nous n'aurions pas pensé.
+									","
+											Oh. Eine weitere Sache, auf die ich hinweisen wollte. Sehen Sie sich Stickybot an.
+											Sie können etwas an ihm sehen. Und das ist nicht bloß, damit er aussieht wie ein Gecko.
+											Er hat einen Schwanz. Und immer wenn man denkt, man hätte die Natur verstanden,
+											passiert so etwas.
+											Die Ingenieure sagten uns, dass die Kletterroboter,
+											wenn sie keinen Schwanz haben,
+											von der Wand fallen.
+											Also haben sie uns
+											eine wichtige Frage gestellt.
+											Sie sagten: ""Nun, es sieht irgendwie aus wie ein Schwanz.""
+											Auch wenn wir nur einen unbeweglichen Stab montiert haben.
+											""Verwenden Tiere ihre Schwänze, wenn sie Mauern hinaufklettern?""
+											Was sie getan haben, war, dass sie sich revanchiert haben,
+											indem sie uns eine Hypothese gegeben haben,
+											die wir in der Biologie testen konnten und auf die wir so nicht gekommen wären.
+									",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+","
+","
+","
+","
+",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+											So of course, in reality, we were then panicked,
+											being the biologists, and we should know this already.
+											We said, ""Well, what do tails do?""
+											Well we know that tails store fat, for example.
+											We know that you can grab onto things with them.
+											And perhaps it is most well known
+											that they provide static balance.
+											(Laughter)
+											It can also act as a counterbalance.
+											So watch this kangaroo.
+											See that tail? That's incredible!
+											Marc Raibert built a Uniroo hopping robot.
+											And it was unstable without its tail.
+											Now mostly tails limit maneuverability,
+											like this human inside this dinosaur suit.
+											(Laughter)
+											My colleagues actually went on to test this limitation,
+											by increasing the moment of inertia of a student, so they had a tail,
+											and running them through and obstacle course,
+											and found a decrement in performance,
+											like you'd predict.
+											(Laughter)
+											But of course, this is a passive tail.
+											And you can also have active tails.
+									","
+											Así que por supuesto, en realidad nos dió pánico,
+											porque siendo los biólogos, ya deberíamos haber sabido esto.
+											Dijimos, ""Bueno, ¿qué hacen las colas?""
+											Sabemos que las colas acumulan grasa, por ejemplo.
+											Sabemos que puedes asirte a objetos utilizando las colas.
+											Y lo que quizás todos saben
+											que las colas proveen balance estático.
+											(Risas)
+											Pueden también actuar como contrapeso.
+											Así que observen este canguro.
+											¿Ven ésa cola? ¡Es increíble!
+											Marc Raibert construyó un robot saltador ""Uniroo""
+											Y era inestable sin su cola.
+											Ahora bien, mayormente las colas limitan la maniobrabilidad
+											Como este humano dentro del disfraz de dinosaurio.
+											(Risas)
+											Mis colegas realmente probaron esta limitación
+											incrementando el momento de inercia de un estudiante, así que le pusieron una cola,
+											y le hicieron correr una carrera de obstáculos,
+											y encontraron que perdió agilidad.
+											Como era predecible.
+											(Risas)
+											Pero por supuesto, esta es una cola pasiva.
+											Y también puedes tener colas activas.
+									","
+											Elbette, bunun üzerine aslında panikledik,
+											biyologlar olarak bunu biliyor olmamız gerekiyordu.
+											""Peki, kuyruk ne işe yarar?"" dedik.
+											Mesela, kuyrukların yağ depolamada kullanıldığını biliyoruz.
+											Nesnelere tutunurken kullanıldığını biliyoruz.
+											Belki de en çok bilinen özellikleri ise,
+											statik denge sağlayabilmeleri.
+											(Kahkaha)
+											Kuyruk aynı zamanda karşı denge de oluşturur.
+											Şimdi, bu kanguruyu izleyin.
+											Kuyruğu görüyor musunuz? İnanılmaz!
+											Marc Raibert Uniroo adında zıplayan bir robot yaptı.
+											Robot, kuyruğu olmadan dengesini kuramıyordu.
+											Bir de, kuyruklar çoğu zaman manevra kabiliyetini kısıtlar.
+											Tıpkı dinozor kılığındaki bu insanda olduğu gibi.
+											(Kahkaha)
+											Meslekdaşlarım bu sınırlandırmayı test ettiler.
+											Öğrencinin atalet momentumunu arttırdılar, yani kuyruk eklediler ve
+											engellerin arasından koşturdular.
+											Sonuç olarak, performanslarında düşüş kaydettiler.
+											Tahmin edebileceğiniz gibi.
+											(Kahkaha)
+											Elbette, bu pasif bir kuyruk.
+											Bunun yanında aktif kuyruklar da var.
+									","
+											Bien sûr, en réalité, nous étions paniqué,
+											étant les biologistes, nous aurions dû déjà savoir.
+											On a dit : ""Eh bien, à quoi sert la queue?""
+											Nous savons que la queue stocke de la graisse, par exemple.
+											Nous savons qu'on peut attraper des choses avec.
+											Et peut-être le plus connu :
+											elle assure un équilibre à l'arrêt.
+											(Rires)
+											Elle peut agir comme contrepoids.
+											Observez ce kangourou.
+											Vous voyez la queue? C'est incroyable!
+											Marc Rabert a construit un robot sauteur, l'Uniroo.
+											Il était instable sans sa queue.
+											Mais la plupart du temps la queue diminue la manœuvrabilité.
+											Comme pour cet humain en costume de dinosaure.
+											(Rires)
+											Mes collègues ont en fait testé cette limitation,
+											en augmentant le moment d'inertie d'un étudiant : on lui met une queue,
+											il traverse en courant un parcours d'obstacles,
+											et constate une diminution de la performance.
+											Comme vous l'auriez prédit.
+											(Rires)
+											Mais bien sûr, c'est une queue passive.
+											Il existe des queues actives.
+									","
+											Nun, natürlich gerieten wir da ein wenig in Panik,
+											denn als Biologen sollten wir das bereits wissen.
+											Wir haben uns gefragt: ""Nun, was tun Schwänze?""
+											Nun ja, wir wissen, dass Schwänze zum Beispiel als Fettspeicher dienen.
+											Wir wissen, dass man sie zum Greifen verwenden kann.
+											Und die vielleicht am besten bekannte Tatsache ist,
+											dass sie ein statisches Gleichgewicht verleihen.
+											(Gelächter)
+											Er kann als Gegengewicht dienen.
+											Betrachten Sie einmal dieses Känguru.
+											Sehen Sie diesen Schwanz? Das ist unglaublich.
+											Marc Raibert baute den Hüpfroboter Uniroo.
+											Ohne seinen Schwanz war dieser Roboter instabil.
+											Im Allgemeinen schränken Schwänze die Wendigkeit ein.
+											So wie bei diesem Menschen in seinem Dinosaurieranzug.
+											(Gelächter)
+											Meine Kollegen haben diese Einschränkung tatsächlich getestet,
+											indem sie das Trägheitsmoment der Studenten erhöhten - sie hatten also einen Schwanz bekommen -
+											und sie durch einen Hindernisparcours rennen ließen.
+											Dabei haben sie eine Abnahme der Leistungsfähigkeit festgestellt,
+											genau wie erwartet.
+											(Gelächter)
+											Aber hierbei handelt es sich natürlich um einen passiven Schwanz.
+											Man kann aber auch einen aktiven Schwanz haben.
+									",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+","
+","
+","
+","
+",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+											And when I went back to research this, I realized
+											that one of the great TED moments in the past,
+											from Nathan,
+											we've talked about an active tail.
+									","
+											Y cuando retorné a investigar esto, me di cuenta
+											que en uno de los grandes momentos TED en el pasado,
+											de Nathan,
+											hablamos acerca de una cola activa.
+									","
+											Dönüp bunu araştırmaya koyulduğumda ise
+											Geçmişteki en müthiş TED konferanslarından birinde,
+											Nathan'ın
+											aktif kuyruklardan bahsetmiş olduğunu farkettim.
+									","
+											Quand j'ai repris mes recherches sur ce sujet, j'ai réalisé
+											qu'un des grands moments de TED, fut
+											grâce à Nathan,
+											quand nous avons parlé d'une queue active.
+									","
+											Und als ich mich daran machte, dies zu erforschen, wurde mir klar,
+											dass wir bei einem der großartigen TED-Vorträge der Vergangenheit,
+											von Nathan,
+											über einen aktiven Schwanz gesprochen haben.
+									",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+","
+","
+","
+","
+",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+											Video: Myhrvold thinks tail-cracking dinosaurs
+											were interested in love, not war.
+									","
+											Vídeo: Myhrvold piensa que los dinosaurios que restallaban las colas
+											estaban interesados en el amor, no en la guerra.
+									","
+											Video: Myhrvold kuyruklarını hızla yere vuran dinozorların
+											savaşla değil aşkla ilgilendiklerini düşünüyor.
+									","
+											Video : Myhrvold pense que les dinosaures à longue queue
+											étaient intéressés par l'amour, pas par la guerre.
+									","
+											Video: Myhrvold geht davon aus, dass die Dinosaurier, die ihren Schwanz durch die Luft peitschten,
+											dies für die Liebe taten und nicht für den Kampf.
+									",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+","
+","
+","
+","
+",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+											Robert Full: He talked about the tail being a whip for communication.
+											It can also be used in defense.
+											Pretty powerful.
+											So we then went back and looked at the animal.
+											And we ran it up a surface.
+											But this time what we did is we put a slippery patch
+											that you see in yellow there.
+											And watch on the right what the animal is doing with its tail
+											when it slips. This is slowed down 10 times.
+											So here is normal speed.
+											And watch it now slip,
+											and see what it does with its tail.
+											It has an active tail that functions as a fifth leg,
+											and it contributes to stability.
+											If you make it slip a huge amount, this is what we discovered.
+											This is incredible.
+											The engineers had a really good idea.
+									","
+											Robert Full: Él habló acerca de la cola como un látigo para la comunicación
+											Puede también ser usado como defensa.
+											Muy poderoso.
+											De modo que retornamos y miramos al animal.
+											Y le hicimos subir una superficie.
+											Pero esta vez le pusimos una zona resbaladiza
+											que pueden ver aquí en amarillo.
+											Y observen a la derecha, lo que el animal está haciendo con su cola
+											cuando resbala. Esta escena está ralentizada 10 veces.
+											Así que aquí la tienen a velocidad normal.
+											Y véanlo ahora resbalar,
+											y vean lo que hace con su cola.
+											Tiene una cola activa que funciona como una quinta pata.
+											Y que contribuye a la estabilidad.
+											Si le hacemos resbalar una gran distancia, ésto es lo que descubrimos.
+											Esto es increíble.
+											Los ingenieros tuvieron una idea realmente buena.
+									","
+											Robert Full: Kuyruğun iletişimi sağlayan kamçı gibi kullanıldığından söz ediyor.
+											Aynı zamanda savunma amaçlı da kullanılabilir.
+											Son derece güçlü.
+											Böylelikle geri dönüp hayvanı inceledik.
+											Bir yüzeye tırmandırdık.
+											Fakat bu sefer, burda sarı renkli olarak gördüğünüz
+											kaygan bir yama yerleştirdik.
+											Ve sağ tarafta, hayvan kaydığı zaman kuyruğunu nasıl kullanıyor izledik.
+											Bu görüntü 10 kat yavaşlatılmış.
+											İşte bu da normal hızdaki görüntü.
+											Bakın şimdi kayıyor ve
+											kuyruğuyla ne yaptığına bir bakın.
+											Beşinci bir bacak işlevine sahip aktif bir kuyruğu var.
+											Dengesini kurmasına yardımcı oluyor.
+											Çok fazla kaymasını sağladığımızda ise işte bunu keşfettik.
+											İnanılmaz bir şey.
+											Mühendisler çok parlak bir fikir bulmuşlardı.
+									","
+											Robert Full : Il parlait de la queue comme d'un moyen de communication.
+											Elle pouvait être utile pour se défendre.
+											Plutôt puissante.
+											Nous nous sommes intéressés à nouveau à l'animal.
+											Nous l'avons fait courir sur une surface.
+											Mais cette fois-ci, on a mis une bande glissante,
+											que vous voyez ici, en jaune.
+											Regardez sur la droite, ce que l'animal fait avec sa queue
+											quand il glisse. Ceci est ralenti 10 fois.
+											A vitesse normale.
+											Regardez-le glisser,
+											et observez ce qu'il fait avec sa queue.
+											Sa queue est active et fonctionne comme une 5ème jambe.
+											Et contribue à la stabilité.
+											Si on le fait beaucoup glisser, voici ce que nous avons constaté.
+											C'est incroyable.
+											Les ingénieurs ont vraiment eu une bonne idée.
+									","
+											Robert Full: Er sprach darüber, dass der Peitschenschwanz ein Kommunikationsmittel ist.
+											Er kann aber auch zur Verteidigung genutzt werden.
+											Ziemlich schlagkräftig.
+											Wir gingen also ins Labor zurück und sahen uns das Tier genauer an.
+											Wir ließen es eine Fläche hinauflaufen.
+											Aber diesmal hatten wir einen rutschigen Streifen angebracht,
+											den Sie hier gelb sehen können.
+											Und achten Sie rechts einmal darauf, was das Tier mit seinem Schwanz tut,
+											wenn es abrutscht. Das hier ist um den Faktor 10 verlangsamt.
+											Das ist die Normalgeschwindigkeit.
+											Und jetzt beobachten Sie, wie es wegrutscht
+											und was es mit seinem Schwanz tut.
+											Es hat einen aktiven Schwanz, der als fünftes Bein dient
+											und der zur Stabilität beiträgt.
+											Wenn man den Gecko dazu bringt, weit zu rutschen, tut er das hier, wie wir entdeckt haben.
+											Das ist unglaublich.
+											Die Ingenieure hatten da eine wirklich gute Vermutung.
+									",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+","
+","
+","
+","
+",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+											And then of course we wondered,
+											okay, they have an active tail, but let's picture them.
+											They're climbing up a wall, or a tree.
+											And they get to the top and let's say there's some leaves there.
+											And what would happen if they climbed on the underside of that leaf,
+											and there was some wind, or we shook it?
+											And we did that experiment, that you see here.
+											(Applause)
+											And this is what we discovered.
+											Now that's real time. You can't see anything.
+											But there it is slowed down.
+									","
+											Y entonces, por supuesto, nos preguntamos,
+											vale, tienen una cola activa, pero imaginémosles.
+											Están trepando una pared, o un árbol.
+											Y llegan al tope y digamos que hay algunas hojas allí.
+											Y ¿qué pasaría si treparan a la cara inferior de ésa hoja,
+											y soplara una ráfaga, o la sacudiéramos?
+											E hicimos ése experimento, que pueden ver aquí.
+											(Aplausos)
+											Y ésto es lo que descubrimos.
+											Ahora ésto es a velocidad normal. No se puede ver nada.
+											Pero aquí está a cámara lenta.
+									","
+											Tabii, sonrasında şunu merak ettik;
+											peki, aktif bir kuyrukları var, dilerseniz bir kez resmedelim.
+											Bir duvara veya ağaca tırmanıyorlar.
+											Tepeye çıkıyorlar, diyelim o noktada bir miktar yaprak var.
+											Peki bu yaprakların alt tarafına tırmanmış olsalar ve
+											bir rüzgar çıksa, ya da biz dalı sallasak ne olacaktı?
+											Burada gördüğünüz deneyi gerçekleştirdik.
+											(Alkış)
+											Sonucunda da bunu keşfettik.
+											Bu gerçek zamanlaması. Hiçbir şey göremezsiniz.
+											İşte bu ağır çekimde.
+									","
+											Ensuite bien sûr, on s'est demandé :
+											OK, la queue est active, mais imaginons-les en action.
+											Ils grimpent sur un mur, ou sur un arbre.
+											Arrivé en haut, imaginons qu'il y ait des feuilles.
+											Que se passerait-il s'ils grimpaient sur la face inférieure d'une feuille,
+											et s'il y avait du vent, ou si on l'agitais?
+											Nous avons fait l'expérience, que vous voyez là.
+											(Applaudissements)
+											Voici ce que nous avons découvert.
+											C'est en vitesse réelle. On ne voit rien.
+											Voici au ralenti.
+									","
+											Und dann haben wir uns natürlich gefragt:
+											""Okay, sie haben einen aktiven Schwanz, aber stellen wir uns das mal genau vor.
+											Sie klettern eine Wand hoch, oder einen Baum.
+											Und wenn sie oben ankommen, sind, sagen wir einmal, Blätter dort.
+											Was würde passieren, wenn sie an die Unterseite des Blattes kletterten
+											und es käme eine Böe oder wir würden das Blatt schütteln?""
+											Also haben wir das Experiment durchgeführt, das Sie hier sehen können.
+											(Applaus)
+											Und dies haben wir entdeckt.
+											Diese Aufnahme ist in Echtzeit. Da können Sie gar nichts erkennen.
+											Aber hier haben wir sie verlangsamt.
+									",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+","
+","
+","
+","
+",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+											What we discovered was the world's fastest air-righting response.
+											For those of you who remember your physics, that's a zero-angular-momentum
+											righting response. But it's like a cat.
+											You know, cats falling. Cats do this. They twist their bodies.
+											But geckos do it better.
+											And they do it with their tail.
+											So they do it with this active tail as they swing around.
+											And then they always land in the sort of superman skydiving posture.
+											Okay, now we wondered, if we were right,
+											we should be able to test this in a physical model, in a robot.
+									","
+											Lo que descubrimos fué la reacción aérea de enderezamiento más rápida del mundo
+											Para aquellos que recuerden su física, ésta es una respuesta de enderezamiento,
+											sin cambio de momento angular. Pero es como un gato.
+											Ya saben, gatos cayendo. Los gatos hacen esto. Retuercen sus cuerpos.
+											Pero los gecos lo hacen mejor.
+											Y lo hacen con su cola.
+											Así que lo hacen con esta cola activa girándola alrededor
+											Y entonces tocan el suelo en una postura como la de superman aterrizando.
+											Vale, nos preguntamos, si llevamos razón,
+											deberíamos poder probar esto en un modelo físico, en un robot.
+									","
+											Dünyadaki en hızlı havada denge sağlama yanıtını keşfetmiş olduk.
+											Fizik derslerini hatırlayanlarınız varsa, bahsettiğim şey sıfır açısal momentum yanıtı.
+											Fakat, kedilerin yaptığına benziyor.
+											Bildiğiniz gibi, kediler düşerken şu hareketi yaparlar. Vücutlarını kıvırırlar.
+											Ancak, kertenkeleler bu konuda daha başarılı.
+											Bunu kuyruklarıyla yapıyorlar.
+											Sallanırken işte bu aktif kuyruğu kullanarak hareket ediyorlar.
+											Ayrıca, yere daima Süpermen'in havadaki duruşuna benzer bir edayla iniyorlar.
+											Sonra dedik ki: Eğer haklıysak,
+											aynı şeyi fiziksel bir modelde, bir robotta da deneyebiliriz.
+									","
+											Ceci est la réaction de rééquilibrage la plus rapide au monde.
+											Pour ceux que se souviennent des cours de physique, c'est une réponse de
+											rééquilibrage à moment cinétique nul. Mais comme un chat.
+											Vous le savez, les chats tombent. Ils font ceci. Ils tordent leur corps.
+											Les geckos le font mieux.
+											Et ils le font avec leur queue.
+											Ils le font avec leur queue active qu'ils battent.
+											Ils atterrissent donc toujours dans la position de Superman.
+											Bien sûr, nous nous sommes demandés : si nous avions raison,
+											nous devrions pouvoir le tester sur un modèle physique, un robot.
+									","
+											Was wir entdeckt haben, ist der weltweit schnellste Stellreflex im freien Fall.
+											Für diejenigen von Ihnen, die sich an den Physikunterricht erinnern: Das ist eine Drehung
+											bei einem Anfangsdrehimpuls von null. Aber das ist wie bei Katzen.
+											Sie wissen schon: fallende Katzen. Katzen machen das. Sie verdrehen ihren Körper.
+											Aber Geckos können das viel besser.
+											Und sie schaffen das durch ihren Schwanz.
+											Sie erreichen dies durch ihren aktiven Schwanz, indem sie ihn herumschwingen.
+											Und dann landen sie immer in dieser Superman-Fallschirmsprung-Pose.
+											Okay, nun haben wir uns gedacht, wenn wir Recht haben,
+											sollten wir in der Lage sein, das an einem physikalischen Modell, einem Roboter, zu testen.
+									",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+","
+","
+","
+","
+",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+											So for TED we actually built a robot,
+											over there, a prototype, with the tail.
+											And we're going to attempt the first air-righting response
+											in a tail, with a robot.
+											If we could have the lights on it.
+											Okay, there it goes.
+											And show the video.
+											There it is.
+											And it works just like it does in the animal.
+											So all you need is a swing of the tail to right yourself.
+											(Applause)
+									","
+											Así que para TED realmente construímos un robot,
+											allí está, un prototipo, con la cola.
+											Y vamos a intentar la primera respuesta de enderezamiento
+											en una cola, con un robot.
+											Si podemos tener las luces sobre el robot.
+											Vale, aquí va.
+											Y mostramos el vídeo.
+											Aquí está.
+											Y funciona justo como lo hace en el animal.
+											Así que todo lo que necesitas es un vaivén de la cola para enderezarte.
+											(Aplauso)
+									","
+											Sonuçta, TED için kuyruklu bir robot,
+											görmüş olduğunuz prototipi ürettik.
+											Bir robot kullanarak, kuyruktaki havada denge sağlama yanıtını
+											test edeceğiz.
+											Üzerine ışık alabilir miyiz lütfen ?
+											Tamam, işte başlıyor.
+											Video'yu görelim.
+											Buyrun.
+											Tıpkı hayvandaki gibi çalışıyor.
+											Dengeni sağlamak için tek gereken kuyruğun bir hareketi.
+											(Alkış)
+									","
+											Pour TED, nous avons vraiment construit un robot,
+											ici, un prototype, avec une queue.
+											Voici la première tentative de réponse de rééquilibrage
+											par la queue, avec un robot.
+											Si on pouvait éclairer ceci.
+											OK, c'est parti.
+											Lancez la vidéo.
+											Voilà.
+											Cela fonctionne comme chez l'animal.
+											Il suffit simplement d'un battement de queue pour rééquilibrer.
+											(Applaudissements)
+									","
+											Also haben wir für TED einen Roboter gebaut
+											– hier drüben –, einen Prototyp mit Schwanz.
+											Und wir werden zum ersten Mal den Stellreflex
+											mithilfe eines Schwanzes an einem Roboter testen.
+											Könnten wir bitte einen Scheinwerfer auf ihn richten?
+											Okay, los gehts.
+											Zeigen Sie bitte das Video.
+											Da haben wir es.
+											Und es funktioniert ganz genau so wie beim Tier.
+											Man braucht also nichts als eine Bewegung mit dem Schwanz, um sich auszurichten.
+											(Applaus)
+									",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+","
+","
+","
+","
+",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+											Now, of course, we were normally frightened
+											because the animal has no gliding adaptations,
+											so we thought, ""Oh that's okay. We'll put it in a vertical wind tunnel.
+											We'll blow the air up, we'll give it a landing target, a tree trunk,
+											just outside the plexi-glass enclosure, and see what it does.
+											(Laughter)
+											So we did. And here is what it does.
+											So the wind is coming from the bottom. This is slowed down 10 times.
+											It does an equilibrium glide. Highly controlled.
+											This is sort of incredible. But actually it's quite beautiful,
+											when you take a picture of it.
+											And it's better than that, it — just in the slide — maneuvers in mid-air.
+											And the way it does it, is it takes its tail
+											and it swings it one way to yaw left, and it swings its other way to yaw right.
+											So we can maneuver this way.
+											And then — we had to film this several times to believe this —
+											it also does this. Watch this.
+											It oscillates its tail up and down like a dolphin.
+											It can actually swim through the air.
+											But watch its front legs. Can you see what they are doing?
+											What does that mean for the origin of flapping flight?
+											Maybe it's evolved from coming down from trees,
+											and trying to control a glide.
+											Stay tuned for that.
+											(Laughter)
+									","
+											Ahora bien, por supuesto, estábamos normalmente asustados
+											porque el animal no tiene adaptaciones para planear,
+											así que pensamos, ""Bueno, le pondremos en un tunel de viento vertical
+											Le soplaremos para que vuele, y le daremos un lugar para aterrizar, un tronco de árbol,
+											justo fuera de la caja transparente, y veremos lo que hace.
+											(Risaas)
+											Así lo hicimos. Y aquí está lo que hace.
+											Así que el viento viene de debajo. Esto está ralentizado 10 veces.
+											Hace un planeado de equilibrio. Altamente controlado.
+											Esto parece increíble. Pero es realmente muy bello,
+											cuando lo fotografías.
+											Y más aún, mientras se desliza, maniobra en medio del aire.
+											Y el modo en que lo hace, es que mueve su cola
+											y la tuerce en una dirección para girar a la izquierda, y en la otra dirección para girar a la derecha.
+											Así que podemos maniobrar de esta manera.
+											Y entonces — tuvimos que filmarlo varias veces para poder creerlo —
+											También hace esto. Véanlo
+											Oscila su cola hacia arriba y hacia abajo como un delfín.
+											Puede realmente nadar por el aire.
+											Pero observen sus patas frontales. ¿Pueden ver lo que está haciendo?
+											Qué significado tiene esto para el origen del vuelo por aleteado?
+											Quizás ha evolucionado a partir de la caída desde los árboles,
+											y el intento de controlar el planeo.
+											Mantengan la sintonía, que ya volvemos a ésto.
+											(Risas)
+									","
+											Sonraki aşamada doğal olarak korktuk,
+											çünkü hayvanın havada süzülmek için gerekli uzvu yok.
+											Biz de, ""Olsun, o zaman kertenkeleyi dikey bir rüzgar tüneline koyarız"" diye düşündük.
+											Bu deneyde, tünele hava vereceğiz, pleksiglas bariyerin hemen dışındaki
+											ağaç gövdesini iniş hedefi olarak belirleyip sonucu seyredeceğiz.
+											(Kahkaha)
+											Dediklerimi yaptık. İşte kertenkelenin yanıtı.
+											Rüzgar dipten geliyor. Bu görüntüler 10 kat yavaşlatılmış.
+											Son derece kontrollü bir denge süzülüşü gerçekleştiriyor.
+											Bu neredeyse inanılmaz. Aslına bakarsanız,
+											resmini çektiğinizde gayet güzel olduğunu göreceksiniz.
+											Daha fazlası da var. Tek bir kayma hareketiyle, havada asılı halde manevra yapıyor.
+											Manevrayı şöyle gerçekleştiriyor:
+											kuyruğunu bir taraftan sola diğer taraftan sağa sallıyor.
+											Böylece, bu yöne doğru hareket edebiliyor.
+											Buna inanabilmek için birkaç kez filme çekmemiz gerekti.
+											Aynı zamanda şunu da yapabiliyor. İzleyin.
+											Tıpkı bir yunus gibi kuyruğunu aşağı yukarı sallıyor.
+											Aslında havada yüzüyor.
+											Ön ayaklarına bir bakın. Hareketini görebiliyor musunuz?
+											Peki bu kanat çırpma hareketinin kökeniyle ilgili ne anlama geliyor?
+											Belki de, ağaçlardan aşağıya düşerken
+											süzülmeyi kontrol etme çabasından evrimleşmiştir.
+											Dikkatli izleyin yani.
+											(Kahkaha)
+									","
+											Bien sûr, vous étiez normalement inquiets
+											parce que l'animal n'est pas adapté au vol plané,
+											alors nous nous sommes dit : ""OK. Mettons-le dans une soufflerie verticale.
+											On souffle de l'air, on détermine une aire d'atterrissage, un tronc d'arbre,
+											juste à côté de la barrière en plexi, et voyons ce que se passe.
+											(Rires)
+											On l'a fait. Voilà le résultat.
+											Le vent arrive d'en bas. Ceci est ralenti dix fois.
+											Cela crée une pente d'équilibre. Hautement contrôlée.
+											C'est incroyable. Mais c'est vraiment beau
+											quand on le photographie.
+											C'est en fait mieux que ça : il arrive à évoluer entre deux courants.
+											Il fait cela en utilisant sa queue
+											et en la balançant d'un côté puis de l'autre pour rester droit.
+											On peut se déplacer ainsi.
+											Ensuite — nous avons dû filmer à plusieurs reprises pour y croire —
+											Il fait aussi cela. Regardez.
+											Il fait bouger sa queue de haut en bas comme un dauphin.
+											Il nage réellement dans l'air.
+											Observez ses pattes avant. Vous voyez ce qu'elles font?
+											Y a-t-il un lien avec les battements d'ailes?
+											Cela vient peut-être du besoin de descendre des arbres
+											tout en contrôlant un vol plané
+											La suite dans un instant...
+											(Rires)
+									","
+											Jetzt waren wir natürlich besorgt,
+											weil das Tier keine Anpassung an den Gleitflug aufweist,
+											also dachten wir uns: ""Na gut, dann stecken wir ihn in einen vertikalen Windkanal.
+											Wir blasen die Luft nach oben, wir bauen ihm ein Landeziel auf, einen Baumstamm,
+											der sich gerade außerhalb der Plexiglasumrandung befindet und sehen nach, was er tut.
+											(Gelächter)
+											Und so haben wirs auch gemacht. Und er tut das hier.
+											Der Wind kommt also von unten. Dies hier ist um den Faktor 10 verlangsamt.
+											Er macht einen stationären Gleitflug. Hochkontrolliert.
+											Das ist irgendwie unglaublich. Aber es ist wirklich schön,
+											wenn man ein Foto davon macht.
+											Und es wird noch besser. Beim nach vorne Gleiten manövriert er mitten in der Luft.
+											Und so macht er es: Er nimmt seinen Schwanz
+											und schwingt ihn in eine Richtung, um nach links zu gieren und in die andere, um nach rechts zu gieren.
+											Man kann also so manövrieren.
+											Und dann – wir mussten das mehrfach filmen um es zu glauben –
+											macht er auch das hier. Sehen Sie nur.
+											Es macht wellenförmige Auf- und Abbewegungen mit dem Schwanz, ganz wie ein Delphin.
+											Er kann tatsächlich durch die Luft schwimmen.
+											Aber achten Sie auf seine Vorderbeine. Können Sie sehen, was sie machen?
+											Was bedeutet das für den Ursprung des Schlagflugs?
+											Vielleicht entwickelte er sich durch das Herunterkommen von Bäumen
+											und dem Versuch, den Gleitflug zu kontrollieren.
+											Bleiben Sie dran, was das angeht.
+											(Gelächter)
+									",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+","
+","
+","
+","
+",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+											So then we wondered, ""Can they actually maneuver with this?""
+											So there is the landing target. Could they steer towards it
+											with these capabilities? Here it is in the wind tunnel.
+											And it certainly looks like it.
+											You can see it even better from down on top.
+											Watch the animal.
+											Definitely moving towards the landing target.
+											Watch the whip of its tail as it does it. Look at that.
+											It's unbelievable.
+									","
+											Así que entonces nos preguntamos, ""¿Pueden realmente maniobrar con esto?""
+											Así que ahí está el punto de aterrizaje. ¿Podrían conducirse hacia este punto
+											con éstas capacidades? Aquí está en el tunel de viento
+											Y ciertamente parece que puede
+											Pueden verlo aún mejor desde arriba.
+											Miren al animal.
+											Definitivamente se mueve hacia el punto de aterrizaje.
+											Vean los coletazos según lo hace. Véanlo.
+											Es increíble!
+									","
+											Merak ettik, ""Acaba gerçekten böylelikle manevra yapabiliyorlar mı?""
+											İniş hedefimiz burada. Bu yeteneklerle hedefe doğru
+											yönelebilirler mi? Kertenkelemiz rüzgar tünelinde.
+											Kesinlikle yönelebiliyor.
+											Aşağıdan yukarı baktığınızda daha da iyi görebilirsiniz.
+											Hayvanı izleyin.
+											Kesinlikle iniş hedefine doğru gidiyor.
+											Kuyruğunu nasıl kamçı gibi hareket ettirdiğine bakın.
+											İnanılmaz bir şey.
+									","
+											Nous sommes alors demandés : ""Peuvent-ils manœuvrer ainsi?""
+											Voici l'aire atterrissage. Y arriveront-ils en utilisant
+											ces capacités? Le voici dans la soufflerie.
+											On le dirait bien.
+											On le voit encore mieux depuis en dessous.
+											Observez l'animal.
+											Il se déplace vraiment vers l'aire d'atterrisage.
+											Observez le fouettement de sa queue. Regardez ça.
+											C'est incroyable.
+									","
+											Und dann haben wir uns gefragt: ""Können sie damit wirklich steuern?""
+											Hier haben wir also das Landeziel. Würden sie mit diesen Fähigkeiten
+											darauf zusteuern können? Hier sehen wir ihn im Windkanal.
+											Und es sieht ganz so aus.
+											Von oben betrachtet, kann man es noch besser erkennen.
+											Achten Sie auf das Tier.
+											Es bewegt sich eindeutig auf das Landeziel zu.
+											Beachten Sie auch, wie es den Schwanz hin- und herschwingt. Sehen Sie sich das nur an.
+											Das ist unglaublich.
+									",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+","
+","
+","
+","
+",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+											So now we were really confused,
+											because there are no reports of it gliding.
+											So we went, ""Oh my god, we have to go to the field,
+											and see if it actually does this.""
+											Completely opposite of the way you'd see it on a nature film, of course.
+											We wondered, ""Do they actually glide in nature?""
+											Well we went to the forests of Singapore and Southeast Asia.
+											And the next video you see is the first time we've showed this.
+									","
+											Así que ahora estábamos realmente confundidos.
+											Porque no hay reportes de gecos planeando.
+											Así que dijimos, ""Dios mío! tenemos que ir al campo,
+											y ver si realmente hace esto.""
+											Completamente opuesto al modo en que lo veríais en un filme sobre la naturaleza, por supuesto.
+											Nos preguntamos, ""Realmente planean en la naturaleza?""
+											Bien, fuímos a los bosques de Singapur y el sudeste asiático.
+											Y el próximo vídeo que verán es la primera vez que hemos mostrado esto.
+									","
+											Bu noktada gerçekten kafamız karışmıştı.
+											Çünkü, kertenkelenin havada süzülebildiğine dair bir kayıt yok.
+											Bunun üzerine, ""Hemen araziye çıkıp,""
+											gerçekten de bu hareketi yapabiliyor mu görmemiz lazım."" dedik.
+											Bir doğa filminde göreceklerinizin tam aksi yönde elbette.
+											""Doğada da havada süzülerek gidebiliyorlar mı?"" diye sorduk.
+											Sonra da Singapur ve Güneydoğu Asya'nın ormanlarına gittik.
+											Şimdi izleyeceğiniz videoyu ilk kez gösteriyoruz.
+									","
+											A ce moment-là, nous étions complètement perdus.
+											Car il n'y a pas d'e publication sur le vol plané du gecko.
+											On s'est dit : ""Mon Dieu, nous devons aller sur le terrain
+											voir comment il fait ça.""
+											Exactement l'inverse de ce que vous verriez dans un film animalier, bien sûr.
+											On s'est demandé : ""Est-ce qu'ils font du vol plané dans la nature?""
+											Nous sommes allés dans les forêts de Singapour et d'Asie du Sud-Est.
+											La vidéo que vous allez voir est montrée ici pour la première fois.
+									","
+											Jetzt waren wir wirklich verwirrt.
+											Denn es gibt keine Berichte über gleitende Geckos.
+											Also sagten wir uns: ""Oh mein Gott, wir müssen eine Felduntersuchung machen
+											und überprüfen, ob er das wirklich macht.""
+											Natürlich vollkommen anders, als sie das in einem Naturfilm sehen würden.
+											Wir haben uns gefragt: ""Gleiten sie wirklich in der freien Wildbahn?""
+											Wir gingen also in die Wälder Singapurs und Südostasiens.
+											Das nächste Video, das Sie sehen werden, haben wir noch nie vorher gezeigt.
+									",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+","
+","
+","
+","
+",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+											This is the actual video — not staged, a real research video —
+											of animal gliding down. There is a red trajectory line.
+											Look at the end to see the animal.
+											But then as it gets closer to the tree,
+											look at the close-up. And see if you can see it land.
+											So there it comes down. There is a gecko at the end of that trajectory line.
+											You see it there? There? Watch it come down.
+											Now watch up there and you can see the landing. Did you see it hit?
+											It actually uses its tail too,
+											just like we saw in the lab.
+									","
+											Este es el vídeo actual, no preparado, un vídeo real de investigación,
+											de un animal en una caída con planeamiento — hay una línea roja de trayectoria.
+											Miren al final para ver el animal.
+											Pero entonces según se acerca al árbol,
+											miren la imagen en close-up. Y traten de verlo aterrizar.
+											Así que aquí viene bajando. Hay un geco al final de ésta línea de trayectoria.
+											Lo ven? Allí? Véanlo cómo cae.
+											Ahora miren el close-up y pueden ver el aterrizaje. Vieron el impacto?
+											En realidad utiliza su cola también.
+											Exactamente como lo vimos en el laboratorio.
+									","
+											Bu gerçek video, sahne için montajlanmamış, gerçek bir araştırma videosu.
+											Hayvanı, şurada gördüğünüz kırmızı çizgi boyunda havada süzülürken gösteriyor.
+											Hayvanı görebilmek için sona bakın.
+											Ama sonra da ağaca yaklaştığında
+											yakın çekim görüntüsüne bakın. Bakalım inişini görebilecek misiniz.
+											İşte iniyor. Bu çizginin sonunda bir kertenkele var.
+											Görüyor musunuz? Bakın burada. İnişini seyredin.
+											Şimdi de yukarı bakın, nasıl iniş yaptığını görün. Çarptığını gördünüz mü?
+											Aslında kuyruğunu da kullanıyor.
+											Tıpkı laboratuvarda gördüğümüz gibi.
+									","
+											C'est la vidéo brute, pas arrangée, une vidéo de recherche
+											d'un animal en plein vol plané. Voici la trajectoire en rouge.
+											Regardez le bout de la trajectoire pour voir l'animal.
+											Mais quand il se rapproche de l'arbre,
+											regardez l'agrandissement. Essayez de le voir atterrir.
+											Le voici en bas. Il y a un gecko en bas de cette ligne rouge.
+											Vous le voyez? Et ici? Regardez-le descendre.
+											Maintenant, regardez là en haut et vous verrez l'atterrissage. Vous l'avez vu toucher?
+											Il utilise aussi sa queue.
+											Comme dans le laboratoire.
+									","
+											Das ist die Originalaufnahme, es ist nichts gestellt, ein echtes Forschungsvideo
+											von nach unten gleitenden Tieren. In rot ist eine Flugbahn eingezeichnet.
+											Am Ende sehen Sie das Tier.
+											Aber wenn es dichter an den Baum herankommt,
+											achten Sie auf die Nahaufnahme und versuchen Sie zu erkennen, wie es landet.
+											Da kommt es also runter. Da haben wir den Gecko am Ende der Flugbahn.
+											Können Sie ihn sehen? Da? Da kommt er runter.
+											Wenn Sie jetzt hier oben hinschauen, können Sie die Landung sehen. Haben Sie gesehen, wie er ankommt?
+											Er verwendet tatsächlich auch den Schwanz.
+											Genau wie wir es im Labor gesehen haben.
+									",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+","
+","
+","
+","
+",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+											So now we can continue this mutualism
+											by suggesting that they can make an active tail.
+											And here is the first active tail, in the robot,
+											made by Boston Dynamics.
+											So to conclude, I think we need to build biomutualisms, like I showed,
+											that will increase the pace of basic discovery in their application.
+											To do this though, we need to redesign education in a major way,
+											to balance depth with interdisciplinary communication,
+											and explicitly train people how to contribute to, and benefit from other disciplines.
+											And of course you need the organisms and the environment to do it.
+											That is, whether you care about security, search and rescue or health,
+											we must preserve nature's designs,
+											otherwise these secrets will be lost forever.
+											And from what I heard from our new president,
+											I'm very optimistic. Thank you.
+											(Applause)
+									","
+											Así que ahora podemos continuar el mutualismo
+											sugiriendo a los ingenieros que pueden hacer una cola activa.
+											Y aquí tienen la primera cola activa, en el robot,
+											hecha por Boston Dynamics.
+											Así que para concluír, creo que necesitamos construír biomutualismos, como les mostré,
+											lo que incrementará el ritmo de los descubrimientos básicos, en su aplicación.
+											Para hacer esto, sin embargo, necesitamos rediseñar profundamente la educación,
+											para balancear la profundidad con la comunicación interdisciplinaria.
+											Y explícitamente enseñar a la gente cómo contribuir a, y beneficiarse de, otras disciplinas.
+											Y por supuesto necesitas los organismos y el entorno para hacerlo.
+											Esto es, igualmente si te interesan la seguridad, el salvamento, o la salud,
+											debemos preservar los diseños naturales,
+											porque de otro modo estos secretos se perderán para siempre.
+											Y por lo que he oído de nuestro nuevo presidente,
+											me siento muy optimista. Gracias.
+											(Aplausos)
+									","
+											Kertenkelelerin kuyruklarını aktif hale getirebildiklerini söyleyerek
+											bu karşılıklılıktan söz etmeye devam edelim.
+											Bu da Boston Dynamics'in ürettği,
+											ilk aktif robot kuyruğu.
+											Sonuç olarak, uygulamada keşif hızını arttırmamızı sağlayacak,
+											size gösterdiğime benzer biyokarşılıklılıklar kurmamız gerektiğini düşünüyorum.
+											Fakat bunu gerçekleştirebilmek için eğitimi temelden,
+											derinliği disiplinler arası iletişim ile dengeleyecek şekilde yeniden tasarlamamız gerekiyor.
+											Ayrıca, insanları bilinçli olarak diğer disiplinlerden faydalanmaları ve onlara katkı sağlamaları yönünde eğitmeliyiz.
+											Bunu yapmak için de elbette canlılara ve çevreye ihtiyacınız var.
+											Yani, ister güvenlik ister araştırma ve kurtarma veya sağlıkla ilgilenin
+											tabiatın tasarımlarını korumamız gerekiyor,
+											yoksa bu sırlar sonsuza dek kaybedilecek.
+											Yeni başkanımızdan duyduğuma dayanarak da
+											gayet iyimser olduğumu söyleyebilirim. Teşekkür ederim.
+											(Alkış)
+									","
+											Nous pouvons continuer cette mutualisation
+											en proposant de créer une queue active.
+											Voici donc la première queue active, sur un robot,
+											créée par Boston Dynamics.
+											Pour conclure, je pense qu'il faut encourager le biomutualisme, comme je l'ai montré,
+											cela accélèrera le rythme des découvertes, et leur application.
+											Pour ceci, nous devons modifier l'éducation d'une manière radicale,
+											pour équilibrer la réflexion avec la communication inter-disciplinaire.
+											Former concrètement les gens, et bénéficier des autres disciplines.
+											Bien sûr, il faut aussi les organisations et l'environnement pour.
+											En clair, que ce soit en sécurité, en sauvetage ou en santé,
+											nous devons protéger les schémas de la nature,
+											autrement ils seront perdus à jamais.
+											Mais d'après ce que notre nouveau président a dit,
+											je suis très optimiste. Merci.
+											(Applaudissements)
+									","
+											Jetzt können wir also unsere Symbiose fortsetzen,
+											indem wir ihnen vorschlagen, einen aktiven Schwanz zu entwerfen.
+											Und hier haben wir den ersten aktiven Schwanz des Roboters,
+											hergestellt von Boston Dynamics.
+											Abschließend möchte ich sagen, dass wir meiner Meinung nach mehr Biosymbiosen eingehen sollten, wie ich sie gezeigt habe,
+											die durch ihre Umsetzung die Geschwindigkeit erhöhen, mit der grundlegende Entdeckungen gemacht werden.
+											Um dies tun zu können, muss allerdings das Bildungswesen grundlegend geändert werden,
+											um eine Balance zwischen Tiefe und interdisziplinärem Informationsaustausch zu erreichen.
+											Außerdem müssen wir den Menschen explizit beibringen, wie sie von anderen Disziplinen profitieren und selbst einen Beitrag zu ihnen leisten können.
+											Und natürlich brauchen wir auch die Organismen und die Umwelt dazu.
+											Deshalb müssen wir, egal ob Ihnen Sicherheit, Suchen und Retten oder die Gesundheit am Herzen liegen,
+											die Entwürfe der Natur erhalten,
+											sonst gehen diese Geheimnisse für immer verloren.
+											Und nach allem, was ich von unserem neuen Präsidenten gehört habe,
+											bin ich sehr zuversichtlich. Vielen Dank.
+											(Applaus)
+									",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"
+"
+","
+","
+","
+","
+",Learning from the gecko's tail,Robert Full,11:54,"animals,biology,biomechanics,design,materials,robots,technology"

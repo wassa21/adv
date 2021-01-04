@@ -1,0 +1,1014 @@
+en,es,pt,tr,fr,de,title,speaker,duration,tags
+"
+","
+","
+","
+","
+","
+",Is Pivot a turning point for web exploration?,Gary Flake,6:25,"data,demo,interface design,technology,web"
+"
+											If I can leave you with one big idea today,
+											it's that the whole of the data
+											in which we consume
+											is greater that the sum of the parts,
+											and instead of thinking about information overload,
+											what I'd like you to think about is how
+											we can use information so that patterns pop
+											and we can see trends that would otherwise be invisible.
+									","
+											Si puedo dejarlos este día con una sola gran idea,
+											es que el cúmulo de datos
+											que consumimos
+											es mayor que la suma de las partes,
+											y, en lugar de verlo como una sobrecarga de información,
+											Lo que quiero que piensen es en cómo
+											podemos utilizar esa información para resaltar patrones
+											y ver tendencias que de otro modo serian invisibles.
+									","
+											Se puder deixar-vos com uma grande ideia hoje,
+											é a de que o total da informação
+											que nós consumimos
+											é maior do que a soma das partes
+											e, em vez de pensarem em sobrecarga de informação,
+											gostaria que pensassem sobre como é que
+											podemos usar a informação para que surjam padrões
+											e para que possamos ver tendências que de outra forma seriam invisíveis.
+									","
+											Bugün size büyük bir fikir verecek olursam,
+											o fikir, tükettiğimiz tüm
+											verilerin, kendilerini
+											oluşturan parçalardan büyük olduğudur,
+											ve düşünmenizi istediğim, bunu bilgi bombardımanı
+											olarak görmektense, normalde
+											bu bilgiye bakarak görülemeyecek model
+											ve akımları ortaya çıkarmak için kullanılabileceğidir.
+									","
+											Si je peux vous transmettre une grande idée aujourd'hui,
+											c'est que l'ensemble des données
+											que nous consommons
+											est plus grand que la somme des parties,
+											et, plutôt que de penser à la saturation d'information,
+											ce que j'aimerai vous montrer c'est comment
+											nous pouvons utiliser l'information de sorte que les structures ressortent
+											et nous pouvons voir émerger des tendances qui sans cela seraient invisibles.
+									","
+											Falls ich Ihnen heute eine Sache näherbringen möchte
+											ist es, dass die Gesamtheit der Daten,
+											die wir konsumieren,
+											größer ist als die Summe ihrer Einzelteile
+											und anstatt dabei an Informationsüberladung zu denken
+											möchte ich, dass Sie darüber nachdenken wie
+											wir Information so nutzen können, dass sich Muster ergeben
+											und wir so Trends erkennen, die ansonsten nicht sichtbar geworden wären.
+									",Is Pivot a turning point for web exploration?,Gary Flake,6:25,"data,demo,interface design,technology,web"
+"
+","
+","
+","
+","
+","
+",Is Pivot a turning point for web exploration?,Gary Flake,6:25,"data,demo,interface design,technology,web"
+"
+											So what we're looking at right here is a typical mortality chart
+											organized by age.
+											This tool that I'm using here is a little experiment.
+											It's called Pivot, and with Pivot what I can do
+											is I can choose to filter in one particular cause of deaths — say, accidents.
+											And, right away, I see there's a different pattern that emerges.
+											This is because, in the mid-area here,
+											people are at their most active,
+											and over here they're at their most frail.
+											We can step back out again
+											and then reorganize the data by cause of death,
+											seeing that circulatory diseases and cancer
+											are the usual suspects, but not for everyone.
+											If we go ahead and we filter by age —
+											say 40 years or less —
+											we see that accidents are actually
+											the greatest cause that people have to be worried about.
+											And if you drill into that, it's especially the case for men.
+									","
+											Así que lo que estamos viendo aquí es una tabla típica de mortalidad
+											organizada por edad.
+											Esta herramienta que uso es un pequeño experimento.
+											Se llama Pivot, y con Pivot lo que puedo hacer
+											es filtrar una causa en particular de muertes, digamos accidentes.
+											E inmediatamente vemos que se hace evidente un patrón diferente.
+											Esto es porque, en la sección central aquí,
+											las personas están su etapa mas activa,
+											y aquí están en la mas frágil.
+											Podemos nuevamente volver atrás
+											y reorganizar los datos por causa de muerte,
+											viendo que las enfermedades circulatorias y el cáncer
+											son los sospechosos usuales, aunque no para todos.
+											Si filtramos por edad,
+											digamos menores de 40 años,
+											vemos que los accidentes son realmente
+											la principal causa de la que la gente debe preocuparse.
+											Y si te adentras mas en eso, es mas común en el caso de los hombres.
+									","
+											O que estamos a ver aqui é um gráfico de mortalidade típico
+											organizado por idade.
+											Esta ferramenta que estou a utilizar é uma pequena experiência.
+											Chama-se Pivot e com ela o que posso fazer
+											é optar por filtrar uma causa de morte em particular, por exemplo por acidentes.
+											E, imediatamente, vejo que é criado um padrão diferente.
+											Isto porque, nesta área central,
+											as pessoas estão no pico da sua actividade
+											e aqui estão no pico da sua vulnerabilidade.
+											Podemos voltar ao início
+											e reorganizar a informação por causa de morte,
+											vendo que as doenças circulatórias e os cancros
+											são os suspeitos do costume, mas não para toda a gente.
+											Se seguirmos em frente e filtrarmos por idade,
+											por exemplo por idade menor ou igual a 40 anos,
+											vemos que os acidentes são de facto
+											a causa de morte mais preocupante para as pessoas.
+											E analisando em detalhe, mais preocupante para os homens.
+									","
+											Burada gördüğümüz, yaşa göre sıralanmış tipik bir
+											ölüm oranı tablosudur.
+											Bu kullandığım araç ise küçük bir deney.
+											Adı Pivot ve Pivot ile bu ölümleri
+											atıyorum kazalar gibi tek bir sebepe göre filtreleyebilirim.
+											Ve, anında, farklı bir şablonun ortaya çıktığını görüyorum.
+											Çünkü, bu orta alanda,
+											insanlar en aktif çağlarındalar,
+											ve burada en narin dönemlerindeler.
+											Tekrar bir adım geriye gidebilir
+											ve verileri ölüm sebeplerine göre yeniden düzenleyebiliriz,
+											görüyoruz ki dolaşımla ilgili hastalıklar ve kanser
+											olağan şüphelilerdir fakat herkes için değil.
+											Öne gidip yaşa göre filtrelersek,
+											atıyorum 40 yaş ve altı
+											görüyoruz ki kazalar aslında
+											insanların en çok endişe etmesi gereken nedendir.
+											Ve daha derine inerseniz, bu durum özellikle erkekler için geçerlidir.
+									","
+											Donc ce que nous avons là est un tableau de mortalité classique
+											organisé par âge.
+											L'outil que j'utilise ici est une petite expérience.
+											Il s'appelle Pivot, et avec Pivot je peux
+											choisir de focaliser sur une cause de décès en particulier, disons les accidents.
+											Et, immédiatement, je vois une tendance différente qui émerge.
+											C'est parce que, dans la zone du milieu,
+											les gens sont les plus actifs,
+											et ici ils sont les plus fragiles.
+											On peut s'éloigner à nouveau
+											et réorganiser les données par causes de décès,
+											on voit que les maladies cardio-vasculaires et le cancer
+											sont les suspects habituels, mais pas pour tout le monde.
+											Si on continue et qu'on filtre par âge,
+											disons 40 ans ou moins,
+											on voit que les accidents sont en fait
+											la plus grande cause dont les gens devraient se soucier.
+											Et si on creuse encore un peu, c'est particulièrement vrai pour les hommes.
+									","
+											So, was wir hier sehen ist ein typisches Sterbediagramm
+											nach Alter angeordnet.
+											Das Programm, das ich hier benutze, ist ein kleines Experiment.
+											Es heißt Pivot und was ich mit Pivot machen kann
+											ist, dass ich nach einer bestimmten Todesursache filtern kann, sagen wir Unfälle.
+											Und sofort sehe ich ein anderes Muster, das sich ergibt.
+											Und zwar, weil im Mittelbereich hier
+											die Menschen am aktivsten sind
+											und sie hier drüben am gebrechlichsten sind.
+											Wir können einen Schritt weiter rausgehen
+											und ordnen die Daten dann neu
+											und sehen, dass Kreislauferkrankungen und Krebs
+											die üblichen Verdächtigen sind, jedoch nicht für jeden.
+											Wenn wir nun weitergehen und nach Alter sortieren,
+											sagen wir 40 Jahre oder jünger
+											sehen wir, dass Unfälle sogar
+											die Hauptursache ist über die sich die Menschen Sorgen machen sollten.
+											Und wer weiterforscht sieht, dass ist dies besonders bei Männern zutrifft.
+									",Is Pivot a turning point for web exploration?,Gary Flake,6:25,"data,demo,interface design,technology,web"
+"
+","
+","
+","
+","
+","
+",Is Pivot a turning point for web exploration?,Gary Flake,6:25,"data,demo,interface design,technology,web"
+"
+											So you get the idea
+											that viewing information, viewing data in this way,
+											is a lot like swimming
+											in a living information info-graphic.
+											And if we can do this for raw data,
+											why not do it for content as well?
+											So what we have right here
+											is the cover of every single Sports Illustrated
+											ever produced.
+											It's all here; it's all on the web.
+											You can go back to your rooms and try this after my talk.
+											With Pivot, you can drill into a decade.
+											You can drill into a particular year.
+											You can jump right into a specific issue.
+											So I'm looking at this; I see the athletes
+											that have appeared in this issue, the sports.
+											I'm a Lance Armstrong fan, so I'll go ahead and I'll click on that,
+											which reveals, for me, all the issues
+											in which Lance Armstrong's been a part of.
+									","
+											Así que entienden la idea
+											de que ver la información y los datos en esta manera,
+											es como nadar
+											en una infografía viviente de información.
+											Y si podemos hacer esto con datos crudos,
+											¿Por qué no lo hacemos también para contenido?
+											Así que lo que tenemos aquí,
+											es la portada de todas las Sports Illustrated
+											que se han producido.
+											Todo esta aquí. En la web.
+											Pueden regresar a sus habitaciones e intentar esto después de mi platica.
+											Con Pivot pueden reducirlo a una década.
+											O reducirlo a un año en particular.
+											O puedes brincar directo a una edición en particular.
+											Asi que estoy viendo esto, veo atletas
+											que han aparecido en esta edición, los deportes.
+											Soy un fan de Lance Armstrong, así que le daré clic a eso,
+											que me revela, todas las ediciones
+											en las que está Lance Armostrong.
+									","
+											Assim vocês percebem a ideia
+											de que visualizar informação, visualizar dados desta forma
+											é muito parecido a nadar
+											num infográfico com informação viva.
+											E se podemos fazer isto para dados em bruto,
+											porque não fazê-lo para conteúdo também?
+											Então, o que temos aqui mesmo,
+											é a capa de cada uma das edições da Sports Illustrated
+											alguma vez produzidas.
+											Estão todas aqui. Está tudo na internet.
+											Podem voltar aos vossos quartos e experimentar isto depois da minha conversa.
+											Com a Pivot, podem analisar por década.
+											Podem analisar por um ano em particular.
+											Podem saltar logo para uma edição em específico.
+											Então, eu estou a ver esta: Vejo os atletas
+											que aparecerem nesta edição, os desportos...
+											Sou um fã do Lance Armstrong, por isso vou seguir e clicar ali,
+											o que me mostra todas as edições
+											em que o Lance Armstrong apareceu.
+									","
+											Bilgiyi ve verileri
+											bu şekilde görüntülemenin tıpkı canlı bir
+											bilgi denizinde yüzmek
+											gibi olduğunu anladınız.
+											Ve eğer bunu ham veriler için yapabiliyorsak,
+											neden içerik için de yapmalıyım?
+											Burada gördüğümüz,
+											şimdiye kadarki tüm Sports Illustrated dergilerinin
+											kapaklarıdır.
+											Hepsi burda, hepsi internette.
+											Konuşmamdan sonra eve gidip kendiniz deneyebilirsiniz.
+											Pivot ile, on yıllık ayrıntılara inebilirsiniz.
+											Belli bir yıla inebilirsiniz.
+											Doğrudan bir sayıya atlayabilirsiniz.
+											Buna bakıyorum, bu sayıda görünen
+											atletlere bakıyorum, spor dalları.
+											Ben Lance Armstrong'un hayranıyım, o yüzden buna tıklayacağım
+											bu da bana Lance Armstrong'un
+											geçtiği tüm sayıları ortaya çıkarıyor.
+									","
+											Bref, vous comprenez l'idée
+											que voir l'information, voir les données de cette façon,
+											ressemble beaucoup à nager
+											dans un bain vivant de données graphiques.
+											Et si nous pouvons faire cela avec des données brutes,
+											pourquoi ne pas le faire avec du contenu aussi ?
+											Donc ce que nous avons ici,
+											c'est la couverture de chaque numéro de Sports Illustrated
+											jamais paru.
+											Tout est là. Tout est en ligne.
+											Vous pouvez rentrer chez vous et essayer après ma présentation.
+											Avec Pivot, vous pouvez zoomer sur une décennie.
+											Vous pouvez zoomer sur une année particulière.
+											Vous pouvez vous rendre directement sur un numéro spécifique.
+											Donc je regarde ça; je vois les athlètes
+											qui sont apparus dans ce numéro, les sports.
+											Je suis un fan de Lance Armstrong, donc je vais cliquer là-dessus,
+											ce qui me révèle tous les numéros
+											dans lesquels Lance Armstrong est mentionné.
+									","
+											Sie erkennen also,
+											dass das Ansehen von Informationen und Daten in dieser Weise
+											sehr an Schwimmen in einer
+											lebendigen Informationsgrafik erinnert.
+											Und wenn wir dies für Rohdaten machen können
+											warum nicht auch für Inhalte selbst?
+											Was wir nun hier haben
+											sind die Titelbilder jeder einzelnen ""Sports Illustrated"",
+											die jemals gedruckt wurden.
+											Es ist alles hier. Es ist alles online.
+											Sie können es gerne nach meinem Vortrag in Ihren Zimmern testen.
+											Mit Pivot können sie eintauchen in ein Jahrzehnt.
+											Sie können eintauchen in ein bestimmtes Jahr.
+											Sie können direkt zu einer bestimmten Ausgabe springen.
+											Wenn ich nun hier schaue, sehe ich die Athleten,
+											die in dieser Ausgabe erscheinen und die Sportarten.
+											Ich bin ein Lance Armstrong Fan, also klicke ich hierhin
+											wodurch sich mir alle Ausgaben zeigen
+											in denen Lance Armstrong erwähnt wird.
+									",Is Pivot a turning point for web exploration?,Gary Flake,6:25,"data,demo,interface design,technology,web"
+"
+","
+","
+","
+","
+","
+",Is Pivot a turning point for web exploration?,Gary Flake,6:25,"data,demo,interface design,technology,web"
+"
+											(Applause)
+									","
+											(Aplausos)
+									","
+											(Aplausos)
+									","
+											(Alkış)
+									","
+											(Applaudissements)
+									","
+											(Applaus)
+									",Is Pivot a turning point for web exploration?,Gary Flake,6:25,"data,demo,interface design,technology,web"
+"
+","
+","
+","
+","
+","
+",Is Pivot a turning point for web exploration?,Gary Flake,6:25,"data,demo,interface design,technology,web"
+"
+											Now, if I want to just kind of take a peek at these,
+											I might think,
+											""Well, what about taking a look at all of cycling?""
+											So I can step back, and expand on that.
+											And I see Greg LeMond now.
+											And so you get the idea that when you
+											navigate over information this way —
+											going narrower, broader,
+											backing in, backing out —
+											you're not searching, you're not browsing.
+											You're doing something that's actually a little bit different.
+											It's in between, and we think it changes
+											the way information can be used.
+									","
+											Ahora si solo quieren darle un vistazo a esto,
+											podríamos pensar,
+											""¿Qué tal si vemos todo lo relacionado con el ciclismo?""
+											Así que puedo volver, y expandir eso.
+											Y ahora veo a Greg Lemond.
+											Así tienes una idea de que cuando
+											navegas la información de esta manera,
+											acotando, expandiendo,
+											adentrándote, retirándote,
+											no estás buscando, no estás navegando.
+											Estas haciendo algo ligeramente distinto.
+											Es un intermedio, y pensamos que cambia
+											la forma en que se aprovecha la información.
+									","
+											Agora, se eu quiser apenas espreitar estas edições,
+											eu posso pensar,
+											""Bem, que tal espreitar todas as edições de ciclismo?""
+											Então eu posso voltar atrás e expandir essas edições.
+											E vejo Gred Lemond agora.
+											E assim vocês têm uma ideia de que quando
+											navegam na informação desta forma,
+											indo mais ao detalhe ou à superfície
+											voltando atrás ou saindo da análise,
+											vocês não estão a procurar, não estão a navegar.
+											Estão a fazer algo que é na realidade um pouco diferente.
+											Está a meio termo e nós pensamos que isto muda
+											a forma como a informação pode ser usada.
+									","
+											Eğer bunlara bir göz atmak istersem,
+											Şöyle düşünebilirim,
+											""Bisiklete binme ile ilgili sayılara baksam mı?""
+											Bir adım geriye gider ve bunu açarım.
+											Ve şimdi Greg Lemond'u görürüm.
+											Anlıyorsunuz ki; bilgi üzerinde
+											bu şekilde gidip gelerek,
+											daha dar, daha genişe,
+											daha öne, daha geriye
+											gitmekle, bir şey aramıyorsunuz, gezinmiyorsunuz.
+											Aslında biraz daha farklı olan bir şey yapıyorsunuz.
+											Arada bir şeydir ve bunun bilgiyi kullanma
+											şeklini değiştireceğini düşünüyoruz.
+									","
+											A présent, si je veux juste y jeter un coup d'oeil,
+											je pourrais me dire,
+											""Bien, et si on regardait tout ce qui parle de cyclisme ?""
+											Donc je peux prendre un peu de recul, et explorer cette idée.
+											Et je vois Greg Lemond maintenant.
+											Et vous commencez à comprendre l'idée que quand vous
+											naviguez dans l'information de cette façon,
+											en affinant, en élargissant
+											en vous approchant, vous éloignant
+											vous ne cherchez pas, vous ne naviguez pas.
+											Vous faites quelque chose qui est en réalité un peu différent.
+											C'est entre les deux, et nous pensons que cela change
+											la façon dont l'information peut être utilisée.
+									","
+											Jetzt, wenn ich nur einen gröberen Überblick bekommen möchte,
+											könnte ich denken
+											""Ok, was wenn ich mir alles mit dem Thema Fahrradfahren ansehe?""
+											Also gehe ich einen Schritt zurück und erweitere die Sichtweise.
+											Nun sehe ich Greg Lemond.
+											Und so bekommt man eine Idee davon, dass wenn man
+											auf diese Art Informationen durchsucht,
+											gezielter, breiter,
+											reinzoomen, rauszoomen,
+											dann sucht man nicht oder surft nicht einfach nur.
+											Man macht etwas, das eigentlich ein wenig anders ist.
+											Es ist etwas dazwischen und wir denken es ändert
+											die Art und Weise wie Informationen genutzt werden können.
+									",Is Pivot a turning point for web exploration?,Gary Flake,6:25,"data,demo,interface design,technology,web"
+"
+","
+","
+","
+","
+","
+",Is Pivot a turning point for web exploration?,Gary Flake,6:25,"data,demo,interface design,technology,web"
+"
+											So I want to extrapolate on this idea a bit
+											with something that's a little bit crazy.
+											What we're done here is we've taken every single Wikipedia page
+											and we reduced it down to a little summary.
+											So the summary consists of just a little synopsis
+											and an icon to indicate the topical area that it comes from.
+											I'm only showing the top 500
+											most popular Wikipedia pages right here.
+											But even in this limited view,
+											we can do a lot of things.
+											Right away, we get a sense of what are the topical domains
+											that are most popular on Wikipedia.
+											I'm going to go ahead and select government.
+											Now, having selected government,
+											I can now see that the Wikipedia categories
+											that most frequently correspond to that
+											are Time magazine People of the Year.
+											So this is really important because this is an insight
+											that was not contained within any one Wikipedia page.
+											It's only possible to see that insight
+											when you step back and look at all of them.
+									","
+											Así que quiero extrapolar un poco esta idea
+											algo que es un poco loco.
+											Lo que hemos hecho es que hemos tomado todas las páginas de wikipedia
+											y las hemos reducido a un pequeño resumen.
+											El resumen consiste en una pequeña sinopsis
+											y un ícono que indica el área de tópicos de la que proviene.
+											Solo estoy mostrando las 500
+											páginas mas populares de Wikipedia.
+											Pero aún en esta vista limitada,
+											podemos hacer muchas cosas.
+											De inmediato, podemos tener un sentir de los topicos
+											más populares en Wikipedia.
+											Voy a aventurarme a seleccionar gobierno.
+											Ahora, habiendo seleccionado gobierno,
+											puedo ver que las categorías de Wikipedia
+											que más frecuentemente corresponden a eso
+											son la revista Time Personas del Año.
+											Esto es verdaderamente importante porque esto revela
+											algo que no estaba contenido en ninguna página de Wikipedia.
+											Solo es posible dar esa mirada
+											cuando das un paso atrás y lo ves todo.
+									","
+											Por isso, eu quero extrapolar um pouco esta ideia
+											usando algo que é um pouco louco.
+											E o que fizemos aqui foi pegar em cada página da Wikipedia
+											e reduzimo-la a um curto sumário.
+											O sumário consistiu em apenas uma pequena sinopse
+											e num ícone para indicar a categoria de origem.
+											Estou apenas a mostrar as 500
+											páginas mais populares da Wikipedia.
+											Mas, mesmo nesta vista limitada,
+											podemos fazer imensas coisas.
+											Imediatamente, temos uma ideia dos principais tópicos
+											que são mais populares na Wikipedia.
+											Vou continuar e seleccionar ""governo"".
+											Agora, depois de seleccionar ""governo"",
+											posso ver que as categorias da Wikipedia
+											que mais frequentemente lhes correspondem
+											são a revista Time - Personalidades do Ano.
+											Então isto é realmente importante porque isto é um conhecimento
+											que não está disponível numa só página da Wikipedia
+											Só é possível ver esse conhecimento
+											quando nos distanciamos e olhamos para todas elas.
+									","
+											Bu fikri bir sonuca bağlamak istiyorum
+											biraz çılgınca bir şey.
+											Burada yaptığımız şey, tüm Vikipedi sayfalarını aldık
+											ve azıcık bir kısaltmaya indirgedik.
+											Kısaltma, ufak bir özetten
+											ve hangi konudan geldiğini belirten bir ikondan oluşuyor.
+											Size burada sadece en popüler
+											500 Vikipedi sayfasını gösteriyorum.
+											Fakat bu kısıtlı görüntüyle bile,
+											birçok şey yapabiliriz.
+											Anında, Vikipedi'deki en popüler konuların ne olduğununa
+											dair bir fikir edinebiliriz.
+											Devam edeceğim ve devlet konusunu seçeceğim.
+											Şimdi, devlet konusunu seçerek,
+											bu konuyla en fazla ilgili olan olan kategorilerin
+											Time Dergisi Yılın İnsanları
+											olduğunu görebilirim.
+											Bu gerçekten çok önemli çünkü bu tek başına
+											hiçbir Vikipedi sayfasında yer almayan bir kavramadır.
+											Bu kavramayı sadece geri gidip
+											hepsine bakınca görmek mümkündür.
+									","
+											Et je voudrais extrapoler sur cette idée un peu
+											avec quelque chose qui est légèrement fou.
+											Ce que nous avons fait ici c'est que nous avons pris chaque page de Wikipédia
+											et les avons réduite à un petit résumé.
+											Donc le résumé est juste constitué de petits synopsis
+											et d'une icône pour indiquer le thème dont il provient.
+											Je ne montre ici que les 500 premières pages
+											les plus populaires de Wikipédia.
+											Mais même dans cette vue limitée,
+											on peut faire un tas de choses.
+											Immédiatement, on a une idée des domaines thématiques
+											qui sont les plus populaires sur Wikipédia.
+											Je vais me lancer et choisir gouvernement.
+											Maintenant, ayant selectionné gouvernement,
+											je peux désormais voir que les catégories de Wikipédia
+											qui correspondent le plus fréquement à cela
+											sont les Personnalités de l'Année du magazine Time.
+											Et c'est important car c'est une infromation
+											qui n'était contenue dans aucune des pages de Wikipédia.
+											Il n'est possible de faire cette observation
+											qu'en prenant du recul et en les regardant toutes.
+									","
+											Ich möchte diese Idee nun ein bisschen weiter ausführen
+											mit etwa was ein bisschen verrückt ist.
+											Was wir hier gemacht haben ist, wir haben jede einzelne Wikipediaseite genommen
+											und sie auf eine kleine Zusammenfassung reduziert.
+											Die Zusammenfassung enthält eine kurze Übersicht
+											und ein Symbol für den Bereich aus dem sie kommt.
+											Ich zeige nur mal die Top 500
+											der populärsten Wikipediaseiten.
+											Aber sogar in dieser eingeschränkten Ansicht
+											können wir eine Menge Dinge tun.
+											Sofort bekommen wir einen Eindruck über die Themen,
+											die auf Wikipedia am populärsten sind.
+											Ich werde nun das Thema 'Regierung' wählen.
+											Nun, nachdem ich 'Regierung' gewählt habe
+											erkenne ich, dass die Wikipediakategorien,
+											die sich am meisten damit decken
+											Time Magazines ""Menschen des Jahres"" sind.
+											Dies ist wirklich wichtig, da dies eine Erkenntnis ist,
+											die nicht in einer einzelnen Wikipediaseite steckt.
+											Das ist nur zu erkennen
+											wenn man einen Schritt zurückgeht und das Ganze betrachtet.
+									",Is Pivot a turning point for web exploration?,Gary Flake,6:25,"data,demo,interface design,technology,web"
+"
+","
+","
+","
+","
+","
+",Is Pivot a turning point for web exploration?,Gary Flake,6:25,"data,demo,interface design,technology,web"
+"
+											Looking at one of these particular summaries,
+											I can then drill into the concept of
+											Time magazine Person of the Year,
+											bringing up all of them.
+											So looking at these people,
+											I can see that the majority come from government;
+											some have come from natural sciences;
+											some, fewer still, have come from business —
+											there's my boss —
+											and one has come from music.
+											And interestingly enough,
+											Bono is also a TED Prize winner.
+											So we can go, jump, and take a look at all the TED Prize winners.
+											So you see, we're navigating the web for the first time
+											as if it's actually a web, not from page-to-page,
+											but at a higher level of abstraction.
+									","
+											Viendo uno de estos resúmenes en particular,
+											Puedo entonces indagar en el concepto de
+											la revista Time Personas del Año,
+											y verlas todas.
+											Así que viendo a estas personas,
+											puedo ver que la mayoría de ellas viene del gobierno.
+											Algunos vienen de ciencias naturales.
+											Unos cuantos, vienen del mundo de los negocios.
+											Ahí esta mi jefe.
+											Y uno de ellos viene de la música.
+											Y de mayor interés,
+											Bono también es un ganador del premio TED.
+											Así que podemos saltar y dar un vistazo a todos los ganadores del premio TED.
+											Como ven, estamos navegando la Web por primera vez
+											como si realmente fuera una red, no de página en página,
+											sino a un nivel mayor de abstracción.
+									","
+											Olhando para um destes sumários em particular,
+											posso depois ir ao detalhe da
+											revista Time - Personalidade do Ano,
+											e visualizar todas as Personalidades.
+											Assim, ao olhar para estas Personalidades,
+											posso ver que a maioria delas tem vêm do governo.
+											Algumas vêm das ciências naturais.
+											Algumas, ainda menos, vêm do mundo dos negócios.
+											Aqui está o meu patrão.
+											E uma vem do mundo da música.
+											E é bastante interessante porque
+											o Bono também é um vencedor do TED Prize (Prémios TED).
+											Então podemos dar uma olhadela em todos os vencedores do TED Prize (Prémios TED).
+											Vocês vejam, nós estamos a navegar na internet pela primeira vez
+											como se fosse realmente uma rede, não página a página,
+											mas num nível superior de abstracção.
+									","
+											Bu özel özetlerin birine bakınca
+											Time Dergisi Yılın İnsanı konseptine
+											inebilir ve hepsini bir araya
+											getirebilirim.
+											Bu insanlara bakınca
+											çoğunluğun devlet yönetiminden geldiğini görebilirim.
+											Bazıları doğa bilimlerinden gelme.
+											Bazıları, az da olsa, iş dünyasından geliyor.
+											Bu benim patronum.
+											Ve bir tanesi müzikten geliyor.
+											İlginç ama şarkıcı Bono
+											aynı zamanda TED Ödülü sahibidir.
+											Bu sayede gidip, atlayıp, tüm TED Ödülü kazananlara bakabiliriz.
+											Görüyorsunuz ki, interneti sanki ilk kez gerçekten
+											bir ağmış gibi, sayfa sayfa değil de,
+											daha üst seviyede bir soyutlama ile geziyoruz.
+									","
+											En regardant l'un de ces résumés en particulier,
+											je peux maintenant creuser le concept de
+											Personnalité de l'Année du magazine Time,
+											en les affichant toutes.
+											En regardant ces personnes,
+											je vois que la majorité viennent du gouvernement.
+											Certains viennent des sciences naturelles.
+											D'autres, moins nombreux encore, viennent du monde des affaires.
+											Voilà mon patron.
+											Et un vient du monde de la musique.
+											Et de façon interessante,
+											Bono est également un lauréat du Prix TED.
+											Ainsi on peut continuer, passer, et jeter un oeil à tous les lauréats du Prix TED.
+											Et vous voyez, nous parcourons le réseau pour la première fois
+											comme si c'était effectivement un réseau, pas de page en page,
+											mais à un plus haut degré d'abstraction.
+									","
+											Schauend auf eine bestimmte dieser Zusammenfassungen
+											kann ich dann in das Thema
+											Time Magazines ""Menschen des Jahres"" hinein gehen,
+											und alle zusammen sehen.
+											Wenn ich nun all diese Personen betrachte
+											erkenne ich, dass die Mehrheit davon Regierungsbeamte sind.
+											Manche kommen aus der Wissenschaft.
+											Manche, noch weniger, kommen aus der Wirtschaft.
+											Hier ist mein Chef.
+											Und einer kommt aus dem Musikbereich.
+											Und interessanterweise
+											ist Bono auch ein TED Prize Gewinner.
+											So können wir nun springen und einen Blick auf alle TED Prize Gewinner werfen.
+											Man sieht, wir surfen im Netz das erste Mal
+											als ob es auch wirklich ein Netz ist, nicht nur von Seite zu Seite,
+											sondern viel abstrakter.
+									",Is Pivot a turning point for web exploration?,Gary Flake,6:25,"data,demo,interface design,technology,web"
+"
+","
+","
+","
+","
+","
+",Is Pivot a turning point for web exploration?,Gary Flake,6:25,"data,demo,interface design,technology,web"
+"
+											And so I want to show you one other thing
+											that may catch you a little bit by surprise.
+											I'm just showing the New York Times website here.
+											So Pivot, this application —
+											I don't want to call it a browser; it's really not a browser,
+											but you can view web pages with it —
+											and we bring that zoomable technology
+											to every single web page like this.
+											So I can step back,
+											pop right back into a specific section.
+											Now the reason why this is important is because,
+											by virtue of just viewing web pages in this way,
+											I can look at my entire browsing history
+											in the exact same way.
+											So I can drill into what I've done
+											over specific time frames.
+											Here, in fact, is the state
+											of all the demo that I just gave.
+											And I can sort of replay some stuff that I was looking at earlier today.
+											And, if I want to step back and look at everything,
+											I can slice and dice my history,
+											perhaps by my search history —
+											here, I was doing some nepotistic searching,
+											looking for Bing, over here for Live Labs Pivot.
+											And from these, I can drill into the web page
+											and just launch them again.
+											It's one metaphor repurposed multiple times,
+											and in each case it makes the whole greater
+											than the sum of the parts with the data.
+									","
+											Quiero mostrarles una cosa más
+											que pueda quizá sorprenderles un poco.
+											Solo estoy mostrando aquí el sito del New York Times.
+											Y Pivot, esta herramienta —
+											No quiero llamarla un navegador; realmente no es un navegador,
+											pero puedes ver paginas Web con ella —
+											y traemos la tecnología de acercamiento
+											a cada página web como esta.
+											Puedo regresar,
+											dar un brinco atrás a una sección especifica.
+											Ahora, la razón por lo que es importante es porque,
+											por el hecho simple de ver páginas Web de esta manera,
+											puedo ver mi historial de navegación completo
+											exactamenrte en la misma manera.
+											Y puedo adentrarme en lo que he hecho
+											en periodos de tiempo específicos.
+											Aquí, de hecho, aparece el estado
+											de toda la demostración que acabo de dar.
+											Y puedo hacer una reproducción de algunas de las cosas que veía esta mañana.
+											Y, si quiero regresar y ver todo,
+											puedo rebanar y recortar mi historial
+											quizá por el historial de búsquedas.
+											Aquí, estaba haciendo un poco de búsqueda nepotista,
+											buscando por Bing, por aquí los Live Labs Pivot.
+											Y desde aquí puedo adentrarme a la página web
+											y volverlos a ejecutar.
+											Es una metáfora que tiene un nuevo propósito cada vez,
+											y en cada caso hace que la suma sea más grande
+											que la suma de sus partes con los datos.
+									","
+											E por isso eu quero mostrar-vos uma outra coisa
+											que pode apanhar-vos um pouco de surpresa.
+											Estou apenas aqui a mostrar o site do New York Times.
+											A Pivot, esta aplicação —
+											eu não quero chamar-lhe browser; não é bem um browser,
+											mas podem ver páginas web com ela —
+											e nós trazemos essa tecnologia escalável
+											para cada página web como esta.
+											Agora posso fazer zoom out e
+											voltar a seleccionar uma secção específica.
+											A razão pela qual isto é importante é que,
+											apenas visualizando as páginas web desta forma,
+											posso ver todo o meu histórico de navegação
+											exactamente da mesma forma.
+											Então eu posso analisar o que eu já fiz
+											em determinadas alturas.
+											Aqui, de facto, está o registo
+											de toda a demonstração que acabei de dar.
+											E eu posso reproduzir algumas coisas que estive a ver hoje.
+											E, se eu quiser fazer zoom out e visualizar tudo,
+											posso editar a minha história
+											talvez através do meu histórico de pesquisa.
+											Aqui, estava a fazer umas pesquisas,
+											procurando no Bing por ""Live Labs Pivot"".
+											E delas, posso analisar a página web
+											e lançar os resultados novamente.
+											É uma metáfora reutilizada múltiplas vezes,
+											e, em cada caso, torna o todo maior
+											que a soma de todas as partes.
+									","
+											Size sürpriz gelebilecek başka bir şey
+											daha göstermek istiyorum.
+											Burada gördüğünüz New York Times'ın sitesi.
+											Pivot, bu uygulama,
+											tarayıcı demek istemiyorum, gerçekten bir tarayıcı değil,
+											fakat onunla sayfaları görüntüleyebilirsiniz —
+											ve bu yakınlaşma-uzaklaşma teknolojisini
+											bunun gibi her siteye getiriyoruz.
+											Bir adım geri gidebilirim,
+											belli bir kısma tekrar dönebilirim.
+											Bunun önemli olmasının sebebi şudur:
+											Sayfaları sadece bu şekilde görünteleyerek,
+											bütün bir tarama geçmişime aynı şekilde
+											göz atabilirim.
+											Belirli zaman aralıklarında ne
+											yaptığıma bakabilirim.
+											Bu kısım, aslında,
+											vermiş olduğum gösteridir.
+											Ve bu sabah bakmış olduğu şeyleri tekrar oynatabilirim.
+											Ve geriye gidip bir şeye bakmak istiyorsam,
+											geçmişimi belki de aramaya
+											göre parçalara bölebilirim.
+											Burada işimle ilgili olarak Bing ve
+											Live Labs Pivot ile ilgili arama yapıyordum
+											Ve bunlardan, web sayfasına gidebilir ve
+											ve tekrar başlatabilirim.
+											Birçok defa yeniden amaçlanan bir mecaz,
+											ve bu durumda bütünü parçalarının
+											toplamından daha büyük yapıyor.
+									","
+											Et aussi je voudrais vous montrer une autre chose
+											qui pourrait bien vous prendre un peu par surprise.
+											Je vous montre juste le site web du New York Times là.
+											Donc Pivot, cette application —
+											je ne veux pas l'appeler un navigateur; ce n'est vraiment pas un navigateur,
+											mais vous pouvez visiter des pages web avec —
+											et nous introduisons cette technologie de zoom
+											pour chaque page web comme ceci.
+											Donc je peux m'éloigner,
+											revenir directement à une section particulière.
+											Et la raison pour laquelle c'est important c'est que,
+											étant capable de consulter des pages web de cette façon
+											je peux regarder tout l'historique de ma navigation
+											exactement de la même manière.
+											Donc je peux creuser dans ce que j'ai fait
+											au cours de certains laps de temps.
+											La, en fait, c'est l'état
+											de toute la démo que je viens de donner.
+											Et je peux rejouer certains trucs que j'ai consulté plus tôt aujourd'hui.
+											Et, si je veux m'éloigner et tout regarder
+											je peux décortiquer mon historique
+											peut-être mon historique de recherche.
+											Là, je faisais des recherches népotiques,
+											faisant des recherches pour Bing, ici pour le Live Labs Pivot.
+											Et à partir de ça, je peux plonger dans la page web
+											et simplement les lancer à nouveau.
+											C'est une métaphore réutilisée de multiples fois,
+											et à chaque fois ça rend le tout plus grand
+											que la somme des parties avec les données.
+									","
+											Und so möchte ich Ihnen was anderes zeigen
+											was eine kleine Überraschung sein könnte.
+											Ich zeige Ihnen hier einfach nur die New York Times Website.
+											Pivot, diese Anwendung —
+											Ich möchte es nicht einen Browser nennen; es ist wirklich kein Browser,
+											aber man kann Webseiten damit ansehen —
+											und wir bringen diese Zoom-Technologie
+											zu jeder einzelnen Webseite wie dieser.
+											Ich kann also einen Schritt zurückgehen,
+											und direkt zu einer spezifischen Sektion springen.
+											Das ist deshalb wichtig, weil man nur durch das
+											Anschauen von Webseiten in dieser Art und Weise,
+											den ganzen Internet-Verlauf auf die gleiche
+											Art und Weise betrachten kann.
+											Ich kann also in meinen Verlauf hineinzoomen
+											in einem bestimmten Zeitrahmen.
+											Hier ist der Stand der gesamten Demonstration,
+											die ich bis hierhin gehalten habe.
+											Und ich kann sozusagen alles, was ich heute bisher angesehen habe, wieder zurückholen.
+											Und, wenn ich wieder einen Schritt rausgehe und auf alles schaue,
+											kann ich meinen Verlauf neu anordnen
+											vielleicht nach meiner Such-Vergangenheit.
+											Hier, habe ich nach 'nepotistisch' gesucht,
+											hier nach Bing, oder hier nach Live Labs Pivot.
+											Und von hier kann ich in die Seite hineingehen
+											und sie wieder aufrufen.
+											Es ist eine Metapher, die immer wieder verwendet wird,
+											und jedes Mal macht es das Gesamtbild
+											größer als die Summe der Datenteile.
+									",Is Pivot a turning point for web exploration?,Gary Flake,6:25,"data,demo,interface design,technology,web"
+"
+","
+","
+","
+","
+","
+",Is Pivot a turning point for web exploration?,Gary Flake,6:25,"data,demo,interface design,technology,web"
+"
+											So right now, in this world,
+											we think about data as being this curse.
+											We talk about the curse of information overload.
+											We talk about drowning in data.
+											What if we can actually turn that upside down
+											and turn the web upside down,
+											so that instead of navigating from one thing to the next,
+											we get used to the habit of being able to go from many things to many things,
+											and then being able to see the patterns
+											that were otherwise hidden?
+											If we can do that, then instead of being trapped in data,
+											we might actually extract information.
+											And, instead of dealing just with information,
+											we can tease out knowledge.
+											And if we get the knowledge, then maybe even there's wisdom to be found.
+									","
+											Así que ahora, en este mundo,
+											pensamos en los datos como una maldición.
+											Hablamos acerca de la maldición de la sobrecarga de información.
+											Hablamos acerca de ahogarnos en datos.
+											¿Qué tal si le damos la vuelta a esto
+											y ponemos de cabeza la web,
+											para que en lugar de ir de una cosa a la siguiente,
+											nos acostumbremos al hábito de poder ir de muchas cosas a muchas cosas,
+											y luego poder ver los patrones
+											que de otra manera estarían ocultos?
+											Si podemos hacer eso, entonces en vez de estar atrapados en datos,
+											podremos realmente extraer información.
+											Y si, en lugar de solo tratar con la información,
+											podamos extraerle conocimiento,
+											y si tenemos el conocimiento, entonces quizá podamos encontrar sabiduría.
+									","
+											Neste momento, neste mundo,
+											nós pensamos sobre dados e informação como sendo uma maldição.
+											Falamos sobre a maldição das quantidades astronómicas de informação.
+											Falamos sobre afogarmo-nos em dados e informação.
+											E se pudermos realmente alterar isso completamente
+											e alterar a internet completamente,
+											de forma a que em vez de saltarmos de uma coisa para outra,
+											nos habituássemos a passar de muitas coisas para outras tantas,
+											e assim podermos ver os padrões
+											que estariam de outra forma escondidos?
+											Se conseguirmos fazer isso, então, em vez de estarmos encurralados em dados,
+											talvez possamos na verdade extrair informação.
+											E, em vez de lidarmos apenas com informação,
+											podemos originar conhecimento.
+											E, se tivermos o conhecimento, então talvez ainda haja sabedoria por alcançar.
+									","
+											Şu anda, bu dünyada,
+											veriyi bir lanet olarak görüyoruz.
+											Aşırı enformasyon lanetinden söz ediyoruz.
+											Veriler içinde boğulmaktan söz ediyoruz.
+											Peki ya bunu tersine çevirirsek
+											ve interneti tersine çevirirsek,
+											bir şeyden bir başka şeye gitmektense,
+											birçok şeyden başka birçok şeye gitme alışkanlığını edinirsek,
+											ve normalde saklı olan kalıpları
+											görebilmeye başlarsak?
+											Eğer bunu yapabilirsek, veriler arasında hapsolmaktansa
+											bunlardan bilgi çıkartabiliriz.
+											Ve sadece bilgi ile uğraşmanın ötesinde
+											bilgiyi didikleyebiliriz.
+											Ve bilgiyi elde edersek, belki bulunmayı bekleyen bilgelik de vardır.
+									","
+											Et à cet instant, dans ce monde,
+											on pense que les données sont cette malédiction.
+											On parle du problème de la surcharge d'information.
+											On parle d'être noyé sous les données.
+											Et si on pouvait en fait retourner la situation
+											et renverser le web,
+											de sorte que au lieu d'une chose à l'autre,
+											on prenne l'habitude d'aller d'un ensemble de choses à un autre ensemble de choses,
+											et ce faisant d'être capable de discerner les tendances
+											qui sans cela auraient été cachées?
+											Si nous pouvons faire ça, alors, plutôt que d'être prisonnier des données,
+											nous pourrions en fait extraire de l'information.
+											Et, plutôt que seulement gérer l'information,
+											nous pouvons en extraire de la connaissance.
+											Et si nous avons la connaissance, alors il y a peut-être même de la sagesse à en tirer.
+									","
+											Im Moment, in dieser Welt,
+											denken wir, dass Daten ein Fluch sind.
+											Wir reden von dem Fluch des Informationsüberflusses.
+											Wir reden vom ""Ertrinken in Informationen"".
+											Was, wenn wir diese Situation umdrehen könnten
+											und das Internet auf den Kopf stellen,
+											so dass wir anstatt immer von einem zum anderen zu gehen,
+											beginnen von vielen Dingen zu vielen Dingen gehen zu können,
+											und dadurch Muster erkennen,
+											welche ansonsten verborgen geblieben wären?
+											Falls wir dies tun können, dann wird diese bisherige Datenfalle,
+											vielleicht eine neue Quelle sinnvoller Informationen.
+											Und, anstatt sich einfach nur in Informationen zu bewegen,
+											können wir Wissen daraus bekommen.
+											Und wenn wir Wissen erfahren, dann können wir vielleicht sogar Weisheiten daraus ziehen.
+									",Is Pivot a turning point for web exploration?,Gary Flake,6:25,"data,demo,interface design,technology,web"
+"
+","
+","
+","
+","
+","
+",Is Pivot a turning point for web exploration?,Gary Flake,6:25,"data,demo,interface design,technology,web"
+"
+											So with that, I thank you.
+									","
+											Así que con eso, les doy las gracias.
+									","
+											E com isto, agradeço-vos.
+									","
+											Bununla, size teşekkür ediyorum.
+									","
+											Et avec ça, je vous remercie.
+									","
+											Damit höre ich auf, vielen Dank.
+									",Is Pivot a turning point for web exploration?,Gary Flake,6:25,"data,demo,interface design,technology,web"
+"
+","
+","
+","
+","
+","
+",Is Pivot a turning point for web exploration?,Gary Flake,6:25,"data,demo,interface design,technology,web"
+"
+											(Applause)
+									","
+											(Aplausos)
+									","
+											(Aplausos)
+									","
+											(Alkış)
+									","
+											(Applaudissements)
+									","
+											(Applaus)
+									",Is Pivot a turning point for web exploration?,Gary Flake,6:25,"data,demo,interface design,technology,web"
+"
+","
+","
+","
+","
+","
+",Is Pivot a turning point for web exploration?,Gary Flake,6:25,"data,demo,interface design,technology,web"

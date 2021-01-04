@@ -1,0 +1,1166 @@
+es,pt,tr,en,fr,de,title,speaker,duration,tags
+"
+","
+","
+","
+","
+","
+",The Infinite Hotel Paradox,Jeff Dekofsky,5:46,"animation,TED-Ed,math"
+"
+											En la década de 1920,
+											el matemático alemán David Hilbert
+											creó un famoso ejercicio mental
+											para mostrarnos lo difícil que es
+											entender el concepto de infinito.
+											Imaginen un hotel con una cantidad
+infinita de habitaciones
+											y un gerente nocturno muy eficiente.
+											Una noche, el Hotel Infinito 
+está completamente lleno,
+											totalmente ocupado con una 
+cantidad infinita de huéspedes.
+											Un hombre llega al hotel
+											y pide una habitación.
+											En vez de despacharlo,
+											el gerente nocturno decide 
+conseguirle una habitación.
+											¿Cómo?
+											Fácil... le pide al huésped
+de la habitación núm. 1
+											que se pase a la habitación núm. 2,
+											al huésped de la habitación núm. 2
+a la habitación núm. 3,
+											y así sucesivamente.
+											Todos los huéspedes se mueven
+de la habitación número ""n""
+											a la habitación número ""n+1"".
+											Como hay una cantidad infinita
+de habitaciones,
+											hay una habitación 
+para cada huésped.
+											Esto deja la habitación núm. 1
+vacía para el nuevo huésped.
+											El proceso puede repetirse
+											para cualquier número infinito 
+de nuevos huéspedes.
+											Si, digamos, llega un autobús
+											con 40 nuevos huéspedes
+en busca de habitaciones,
+											entonces todos los huéspedes 
+alojados se pasan
+											de la habitación número ""n""
+											a la habitación número ""n+40"",
+											vaciando así las 40 
+primeras habitaciones.
+											Pero ahora un autobús 
+infinitamente largo
+											con un infinito numerable de pasajeros
+											llega para alquilar cuartos.
+											Infinito numerable es la clave.
+											Ahora, el bus infinito con 
+cantidad de pasajeros infinita
+											deja inicialmente atónito 
+al gerente nocturno,
+											pero este se da cuenta 
+de que hay una forma
+											de darle hospedaje a todos.
+											Le pide al huésped 
+de la habitación núm. 1
+											que se pase a la habitación núm. 2.
+											Luego le pide al huésped
+de la habitación núm. 2
+											que se pase a la habitación núm. 4,
+											al huésped de la habitación 3
+											que se pase a la habitación 6,
+											y así sucesivamente.
+											Todos los huéspedes se pasan 
+de la habitación número ""n""
+											a la habitación número ""2n"",
+											llenando únicamente las habitaciones 
+con número infinitos pares.
+											Al hacer esto, se han vaciado
+											todas las habitaciones con 
+números infinitos impares,
+											que son ocupados por las personas
+											que venían en el bus infinito.
+											Todo el mundo está feliz
+y el negocio del hotel
+											prospera más que nunca.
+											Bueno, de hecho está prosperando
+											exactamente de la misma 
+forma que siempre,
+											cobrando una suma infinita
+de dólares por noche.
+											Se corre la voz sobre 
+este hotel increíble.
+											Viene gente de todas partes.
+											Una noche ocurre lo más inesperado.
+											El gerente nocturno mira hacia afuera
+											y ve una cola infinita
+											de buses infinitamente largos,
+											todos con una cantidad 
+numerable infinita de pasajeros.
+											¿Qué puede hacer?
+											Si no puede conseguirles habitaciones
+											el hotel perderá
+											una cantidad infinita de dinero,
+											y él ciertamente perderá el trabajo.
+											Con suerte se acuerda
+											que alrededor del año 300 a.C.
+											Euclides demostró que hay 
+una cantidad infinita
+											de números primos.
+											Así que para lograr lo que 
+parece una tarea imposible
+											de conseguir camas infinitas
+											para los buses infinitos
+											con una cantidad infinita 
+de viajeros cansados,
+											el gerente nocturno le asigna
+a todos los huéspedes existentes
+											el primer número primo, 2,
+											elevado al número de la habitación 
+en la que están hospedados.
+											Así que el huésped de la habitación 7
+											se pasa a la habitación 2^7,
+											que es la habitación 128.
+											El gerente nocturno 
+toma a todas las personas
+											en el primero de los buses infinitos
+											y le asigna las habitaciones
+											del próximo número primo, 3,
+											elevado al número correspondiente
+a sus asientos en el bus.
+											Así que la persona 
+del asiento 7 del primer bus,
+											se hospedará en la habitación 3^7
+											o la habitación 2187.
+											Así continúa para todos 
+en el primer bus.
+											A los pasajeros del segundo bus
+											se les asignan según los exponentes
+de 5, el próximo número primo.
+											El siguiente bus, 
+según los exponentes de 7.
+											Así continúa con los buses que siguen:
+											según los exponentes de 11,
+											los exponentes de 13,
+											los exponentes de 17, etc.
+											Como cada uno de estos números
+											solo tienen el 1 y números naturales
+											como exponentes de estos números primos
+que funcionan como base,
+											no hay una superposición en los números.
+											A todos los pasajeros de los buses
+se les asigna una habitación
+											empleando un sistema 
+de asignación único,
+											basados en números primos únicos.
+											De esta forma, 
+el gerente nocturno puede alojar
+											a todos los pasajeros 
+en todos los buses.
+											Sin embargo, habrá habitaciones
+que quedarán vacías,
+											como la habitación 6,
+											porque el 6 no es la potencia 
+de ningún número primo.
+											Con suerte sus jefes no eran 
+muy buenos en matemáticas,
+											así que su trabajo está asegurado.
+											Las estrategias del gerente nocturno
+son solo posibles
+											porque aunque el Hotel Infinito
+											es ciertamente una pesadilla logística,
+											solo tiene que lidiar
+con números infinitos bajos,
+											principalmente, los infinitos contables
+											de los números naturales,
+											como 1, 2, 3, 4 y así por el estilo.
+											Georg Cantor denominó este nivel 
+de infinito álef-cero.
+											Usamos número naturales 
+en las habitaciones,
+											así como en los 
+asientos de los buses.
+											Si tuviésemos que lidiar con 
+niveles de infinito más altos,
+											como el de los números reales,
+											estas estrategias estructuradas
+											no serían posible
+											porque no hay manera
+											de que podamos incluir sistemáticamente 
+todos los números.
+											El Hotel Infinito de los 
+Números Reales tendría
+											habitaciones con números 
+negativos en el sótano,
+											habitaciones con fracciones,
+											de modo que el huésped de la 
+habitación 1/2 siempre sospechará
+											que tiene menos espacio que el huésped 
+en la habitación número 1.
+											Habitaciones a la raíz cuadrada,
+como la habitación radical de 2,
+											la habitación pi,
+											donde los huéspedes esperan 
+recibir postres gratis.
+											¿Qué gerente nocturno que se respete
+											querría trabajar allí
+											así sea por un salario infinito?
+											Pero en el Hotel Infinito de Hilbert,
+											donde nunca hay una vacante,
+											y siempre hay más cuartos,
+											los escenarios que enfrenta
+el siempre muy diligente
+											y quizás demasiado hospitalario
+gerente nocturno
+											nos sirve para recordarnos
+											lo difícil que es
+											para nuestras mentes 
+relativamente finitas
+											entender un concepto tan grande 
+como el infinito.
+											Quizás puedan ayudar a abordar 
+estos problemas
+											después de una buena 
+noche de descanso.
+											Aunque honestamente, 
+quizás tengamos
+											que cambiarlos de habitación 
+a las 2 de la mañana.
+									","
+											Nos anos 20,
+											o matemático alemão David Hilbert
+											concebeu um famoso exercício intelectual
+											para nos mostrar como é difícil
+											assimilar o conceito de infinito.
+											Imaginem um hotel 
+com um número infinito de quartos
+											e um gerente muito diligente.
+											Numa noite, 
+o Hotel Infinito está completamente cheio,
+											totalmente esgotado 
+com um número infinito de hóspedes.
+											Um homem entra no hotel
+											e pede um quarto.
+											Em vez de o rejeitar,
+											o gerente decide arranjar-lhe um quarto.
+											Como?
+											É fácil. Pede ao hóspede do quarto 1
+											para mudar para o quarto 2,
+											ao hóspede do quarto 2
+para mudar para o quarto 3,
+											e assim em diante.
+											Todos os hóspedes mudam do quarto número ""n""
+											para o quarto número ""n+1"".
+											Uma vez que o número de quartos é infinito,
+											há um novo quarto 
+para cada um dos hóspedes existentes.
+											Isto deixa o quarto 1 livre para o novo cliente.
+											O processo pode ser repetido
+											para qualquer número finito de novos hóspedes.
+											Imaginemos que um autocarro descarrega
+											40 novas pessoas à procura de quarto.
+											Então, cada hóspede já existente muda
+											do quarto número ""n""
+											para o quarto número ""n+40"",
+											vagando assim os primeiros 40 quartos.
+											Mas agora um autocarro infinitamente grande
+											com um número de passageiros infinito contável
+											encosta para alugar quartos.
+											Infinito contável é a chave.
+											O autocarro infinito de passageiros infinitos
+											deixa o gerente perplexo ao início,
+											mas ele apercebe-se de que há forma
+											de alojar cada pessoa nova.
+											Ele pede ao hóspede do quarto 1
+											para mudar para o quarto 2.
+											Depois pede ao hóspede do quarto 2
+											para mudar para o quarto 4,
+											ao hóspede do quarto 3
+											para mudar para o quarto 6,
+											e assim em diante.
+											Cada hóspede actual muda do quarto número ""n""
+											para o quarto número ""2n"",
+											enchendo apenas 
+os quartos dos números infinitos pares.
+											Desta forma, esvaziou
+											todos os quartos infinitos ímpares,
+											que são então ocupados pelas pessoas
+											que saem do autocarro infinito.
+											Todos ficam felizes e o negócio do hotel
+											está a florescer mais que nunca.
+											Na verdade, está a florescer
+											exactamente na mesma quantidade de sempre,
+											fazendo um número infinito de dólares por noite.
+											A notícia espalha-se sobre este incrível hotel.
+											As pessoas chegam de toda a parte.
+											Numa noite, o impensável acontece.
+											O gerente olha lá para fora
+											e vê uma fila infinita
+											de autocarros infinitamente grandes,
+											cada um com um número infinito contável 
+de passageiros.
+											O que pode ele fazer?
+											Se não arranjar quartos para eles,
+											o hotel irá perder
+											uma soma infinita de dinheiro,
+											e ele perderá de certeza o emprego.
+											Felizmente, ele recorda-se
+											que por volta do ano 300 a.C.
+											Euclides provou 
+que existe uma quantidade infinita
+											de números primos.
+											Portanto, para realizar 
+esta tarefa aparentemente impossível
+											de encontrar camas infinitas
+											para autocarros infinitos
+											de infinitos viajantes cansados,
+											o gerente atribui a cada actual hóspede
+											o primeiro número primo, 2,
+											elevado à potência 
+do número do seu quarto actual.
+											Portanto, o actual ocupante do quarto 7
+											vai para o quarto 2^7,
+											que é o quarto 128.
+											Depois o gerente pega nas pessoas
+											do primeiro autocarro infinito
+											e atribui-lhes o número de quarto
+											do primo seguinte, 3,
+											elevado à potência 
+do número do seu assento no autocarro.
+											Então, a pessoa do assento 7 
+do primeiro autocarro
+											vai para o quarto número 3^7
+											ou o quarto número 2187.
+											Isto continua para todo o primeiro autocarro.
+											Aos passageiros do segundo autocarro
+											são atribuídas potências do próximo primo, 5.
+											Ao autocarro seguinte, potências do 7.
+											Os autocarros que se seguem:
+											potências do 11,
+											potências do 13,
+											potências do 17, etc.
+											Visto que cada um destes números
+											tem apenas 1 e as potências dos números naturais
+											do seu número primo base como factores,
+											não há sobreposições de números de quarto.
+											Todos os passageiros se dispersam pelos quartos
+											usando um esquema único 
+de atribuição de quartos
+											baseado em números primos únicos.
+											Desta forma, o gerente pode acomodar
+											cada passageiro de cada autocarro.
+											No entanto, haverá muitos quartos por preencher,
+											como o quarto 6,
+											visto que 6 não é potência 
+de nenhum número primo.
+											Felizmente, os patrões dele 
+não são muito bons a matemática,
+											poranto, o emprego dele está salvo.
+											As estratégias do gerente apenas são possíveis,
+											porque, apesar do Hotel Infinito
+											ser um pesadelo logístico,
+											apenas lida com o nível mais baixo do infinito.
+											Sobretudo, com o infinito contável
+											dos número naturais:
+											1, 2, 3, 4, e por aí em diante.
+											Georg Cantor chamou 
+a este nível de infinito aleph-zero.
+											Usamos números naturais 
+para os números dos quartos
+											bem como para os números dos assentos 
+nos autocarros.
+											Se estivéssemos a lidar 
+com ordens mais elevadas de infinito,
+											tal como as dos números reais,
+											estas estratégias estruturadas
+											não seriam mais possíveis,
+											visto não termos forma
+											de incluir sistematicamente todos os números.
+											O Hotel Infinito de Números Reais tem
+											quartos com números negativos na cave,
+											quartos fraccionais.
+											Portanto, o tipo do quarto 1/2 suspeita sempre
+											que tem menos espaço que o tipo do quarto 1.
+											Quartos de raiz quadrada, 
+como o quarto radical 2
+											e o quarto Pi,
+											em que os hóspedes esperam sobremesa gratuita.
+											Que gerente que se preze
+											quereria trabalhar aqui
+											mesmo por um salário infinito?
+											Mas no Hotel Infinito de Hilbert,
+											onde nunca há nenhuma vaga
+											e há sempre quarto para mais um,
+											Os cenários enfrentados pelo sempre diligente
+											e talvez demasiado hospitaleiro gerente
+											servem para nos recordar
+											de como é difícil
+											para as nossas mentes relativamente finitas
+											compreender um conceito 
+tão grande como o infinito.
+											Talvez consigas ajudar 
+a lidar com estes problemas
+											depois de uma boa noite de sono.
+											Mas, sinceramente, talvez precisemos
+											que mudes de quarto às 2h da manhã.
+									","
+											1920'lerde,
+											Alman matematikçi David Hilbert
+											sonsuzluk kavramını anlamamızın
+											ne kadar zor olduğunu bize göstermek için
+											ünlü bir düşünce deneyi tasarladı.
+											Sonsuz sayıda odası olan bir otel
+											ve çok çalışkan bir gece müdürü hayal edin.
+											Bir gece, sonsuz otel sonsuz sayıda konukla
+											tamamen dolu, bütün odalar ayırtılmıştır.
+											Otele bir adam girer
+											ve bir oda ister.
+											Gece müdürü, adamı geri çevirmek yerine
+											ona bir oda açmaya karar verir.
+											Nasıl mı?
+											Kolay, 1 numaralı odadaki konuktan
+											2 numaralı odaya taşınmasını,
+											2 numaralı odadakinden 3'e taşınmasını rica eder,
+											ve böyle devam eder.
+											Bütün konuklar ""n"" oda numarasından
+											""n+1"" oda numarasına taşınır.
+											Zaten sonsuz sayıda oda olduğu için
+											oteldeki her konuk için yeni bir oda vardır.
+											Böylece yeni müşteri için 1 numaralı oda boşalır.
+											Bu işlem her sınırlı sayıda
+											yeni müşteri için tekrarlanabilir.
+											Eğer, diyelim ki, bir tur otobüsü otele
+											oda isteyen 40 yeni kişi getirse,
+											otelde olan bütün konuklar sadece
+											""n"" numaralı odadan
+											""n+40"" numaralı odaya taşınırlar,
+											böylece ilk 40 odayı boşaltmış olurlar.
+											Ama şimdi sonsuz büyüklükte bir otobüs
+											sayısal olarak sonsuz yolcuyla
+											oda tutmak için otele yanaşır.
+											""Sayısal olarak sonsuz"" anahtar kelimelerdir.
+											Şimdi, sonsuz yolculu sonsuz otobüs
+											ilk bakışta gece müdürünün kafasını karıştırır
+											ama gece müdürü her yeni kişiyi
+											yerleştirmek için bir yol olduğunu fark eder.
+											1 numaralı odadaki konuktan
+											2 numaralı odaya geçmesini rica eder.
+											Sonra 2 numaralı odadaki konuktan
+											4 numaralı odaya geçmesini,
+											3 numaralı odadaki konuktan
+											6 numaraya geçmesini ister,
+											ve böyle devam eder.
+											Her mevcut konuk ""n"" numaralı odadan
+											""2n"" numaralı odaya taşınır,
+											böylece sadece sonsuz çift sayılı odaları doldururlar.
+											Bu sayede gece müdürü
+											sonsuz çoklukta bütün tek sayılı odaları boşaltmış
+											ve bu odalara da
+											sonsuz otobüsten inen insanları yerleştirmiştir.
+											Herkes mutludur ve otelin işleri de
+											her zamankinden daha tıkırındadır.
+											Yani, aslında tamamen her zamankiyle
+											aynı miktarda kazanmaktadırlar,
+											zaten bir gecede hesaba sonsuz dolar yatmaktadır.
+											Bu inanılmaz otelin şanı yayılır.
+											Uzaktan yakından insanlar akın eder.
+											Bir gece, inanılmaz bir şey gerçekleşir.
+											Gece müdürü dışarı bakar ve
+											sayısal olarak sonsuz yolcu taşıyan
+											sonsuz büyüklükte otobüslerden
+											sonsuz bir sıra görür.
+											Ne yapabilir?
+											Eğer hepsine birer oda bulamazsa
+											otel sonsuz miktarda
+											para kaybedecektir
+											ve kendisi kesin işini kaybedecektir.
+											Neyse ki
+											M.Ö. 300 yılı civarında
+											Öklid'in sonsuz sayıda asal sayı olduğunu
+											kanıtladığını hatırlıyordur.
+											Sonsuz sayıda otobüs dolusu
+											sonsuz sayıda yorgun yolcuya
+											sonsuz sayıda yatak bulmak gibi
+											neredeyse imkansız bir görevi tamamlamak için
+											gece müdürü bütün mevcut konukları
+											ilk asal sayı olan 2'nin
+											mevcut oda sayılarıyla üssüne yükselterek çıkan sayılı odaya yerleştirir.
+											Yani, 7 numaralı odanın mevcut sakini
+											2^7 numaralı odaya,
+											yani 128 numaralı odaya gider.
+											Sonra, gece müdürü
+											sonsuz otobüslerin ilkindeki insanları
+											bir sonraki asal olan 3'ü
+											otobüsteki koltuk sayılarıyla üssüne yükselterek
+											sonuçta çıkan sayılı odalara yerleştirir.
+											Mesela, ilk otobüste 7 numaralı koltukta oturan kişi
+											3^7 numaralı odaya gider,
+											yani 2,187 numaralı oda.
+											Bu ilk otobüsteki herkes için devam eder.
+											İkinci otobüsteki yolcular
+											bir sonraki asal olan 5'in üslerine yerleştirilir.
+											Bir sonraki otobüs, 7'nin üslerine.
+											Her otobüs bunu takip eder:
+											11'in üsleri,
+											13'ün üsleri,
+											17'nin üsleri, vs.
+											Bu sayıların her biri çarpan olarak
+											sadece 1 ve asal sayılarının
+											doğal sayı olan üslerine sahip olduğu için,
+											çakışan hiçbir oda numarası yoktur..
+											Bütün otobüslerin yolcuları farklı asal sayılara
+											dayanan farklı yerleştirme düzenleriyle
+											odalarına dağılır.
+											Bu şekilde, gece müdürü her otobüsteki
+											her yolcuyu ağırlayabilir.
+											Buna rağmen, bir sürü oda boş kalacaktır
+											Örneğin, 6 numaralı oda,
+											çünkü 6 hiç bir asal sayının üssü değildir.
+											Şans eseri, patronları matematikte o kadar iyi değil,
+											yani işi güvende.
+											Gece müdürünün stratejilerinin mümkün olmasının tek sebebi,
+											Sonsuz Otel her ne kadar
+											mantıksal bir kabus olsa da,
+											sadece sonsuzluğun en alt katmanıyla ilgileniyor.
+											Esas olarak, doğal sayıların
+											sayılabilir sonsuzluğu bu,
+											1, 2 ,3, 4 ve devamı.
+											Georg Canter sonsuzluğun bu seviyesini alef-sıfır diye isimlendirmiştir.
+											Oda sayıları ve otobüslerdeki koltuk sayıları için
+											doğal sayılar kullanılır.
+											Eğer sonsuzluğun daha yüksek düzenleriyle uğraşıyor olsaydık,
+											örneğin gerçek sayıların kullanıldığı sonsuzluk,
+											sistematik olarak her sayıyı dahil edecek
+											bir yöntemimiz olmadığı için
+											bu yapılandırılmış stratejiler
+											artık mümkün olmazdı.
+											Gerçek Sayılı Sonsuz Otel'in
+											bodrum katta negatif sayılı odaları,
+											kesirli odaları vardır,
+											yani 1/2 numaralı odadaki her zaman 1 numaralı
+											odadaki adamdan daha az yeri olduğundan şüphelenir.
+											Kök 2 veya pi gibi numaralı
+											karekök odalarda
+											konuklar ikram tatlı bekler.
+											Hangi özsaygısı olan gece müdürü
+											sonsuz bir maaşa rağmen
+											orada çalışmak ister ki?
+											Fakat asla boş odası olmayan
+											ve her zaman yer bulabileceğiniz
+											Hilbert'in Sonsuz Oteli'nde,
+											her vakit çalışkan ve belki de fazla misafirperver
+											gece müdürünün karşılaştığı durumlar
+											bize nispeten sonlu akıllarımızın
+											sonsuzluk kadar büyük bir kavramı
+											anlamasının ne kadar zor
+											olduğunu hatırlatır.
+											Belki de güzel bir uykudan sonra
+											bu problemlerin çözümünde yardımcı olabilirsiniz.
+											Ama doğrusu, sabahın 2'sinde
+											odanızı değiştirmemiz gerekebilir.
+									","
+											In the 1920's,
+											the German mathematician David Hilbert
+											devised a famous thought experiment
+											to show us just how hard it is
+											to wrap our minds
+around the concept of infinity.
+											Imagine a hotel with an infinite
+number of rooms
+											and a very hardworking night manager.
+											One night, the Infinite Hotel
+is completely full,
+											totally booked up
+with an infinite number of guests.
+											A man walks into the hotel
+and asks for a room.
+											Rather than turn him down,
+											the night manager decides
+to make room for him.
+											How?
+											Easy, he asks the guest in room number 1
+											to move to room 2,
+											the guest in room 2 to move to room 3,
+											and so on.
+											Every guest moves from room number ""n""
+											to room number ""n+1"".
+											Since there are an infinite
+number of rooms,
+											there is a new room
+for each existing guest.
+											This leaves room 1 open
+for the new customer.
+											The process can be repeated
+											for any finite number of new guests.
+											If, say, a tour bus unloads
+40 new people looking for rooms,
+											then every existing guest just moves
+											from room number ""n""
+											to room number ""n+40"",
+											thus, opening up the first 40 rooms.
+											But now an infinitely large bus
+											with a countably infinite
+number of passengers
+											pulls up to rent rooms.
+											countably infinite is the key.
+											Now, the infinite bus
+of infinite passengers
+											perplexes the night manager at first,
+											but he realizes there's a way
+											to place each new person.
+											He asks the guest in room 1
+to move to room 2.
+											He then asks the guest in room 2
+											to move to room 4,
+											the guest in room 3 to move to room 6,
+											and so on.
+											Each current guest moves
+from room number ""n""
+											to room number ""2n"" —
+											filling up only the infinite
+even-numbered rooms.
+											By doing this, he has now emptied
+											all of the infinitely many
+odd-numbered rooms,
+											which are then taken by the people
+filing off the infinite bus.
+											Everyone's happy and the hotel's business
+is booming more than ever.
+											Well, actually, it is booming
+exactly the same amount as ever,
+											banking an infinite number
+of dollars a night.
+											Word spreads about this incredible hotel.
+											People pour in from far and wide.
+											One night, the unthinkable happens.
+											The night manager looks outside
+											and sees an infinite line
+of infinitely large buses,
+											each with a countably infinite
+number of passengers.
+											What can he do?
+											If he cannot find rooms for them,
+the hotel will lose out
+											on an infinite amount of money,
+											and he will surely lose his job.
+											Luckily, he remembers
+that around the year 300 B.C.E.,
+											Euclid proved that there
+is an infinite quantity
+											of prime numbers.
+											So, to accomplish this
+seemingly impossible task
+											of finding infinite beds
+for infinite buses
+											of infinite weary travelers,
+											the night manager assigns
+every current guest
+											to the first prime number, 2,
+											raised to the power
+of their current room number.
+											So, the current occupant of room number 7
+											goes to room number 2^7,
+											which is room 128.
+											The night manager then takes the people
+on the first of the infinite buses
+											and assigns them to the room number
+											of the next prime, 3,
+											raised to the power of their seat
+number on the bus.
+											So, the person in seat
+number 7 on the first bus
+											goes to room number 3^7
+											or room number 2,187.
+											This continues for all of the first bus.
+											The passengers on the second bus
+											are assigned powers of the next prime, 5.
+											The following bus, powers of 7.
+											Each bus follows:
+											powers of 11, powers of 13,
+											powers of 17, etc.
+											Since each of these numbers
+											only has 1 and the natural number powers
+											of their prime number base as factors,
+											there are no overlapping room numbers.
+											All the buses' passengers
+fan out into rooms
+											using unique room-assignment schemes
+											based on unique prime numbers.
+											In this way, the night
+manager can accommodate
+											every passenger on every bus.
+											Although, there will be
+many rooms that go unfilled,
+											like room 6,
+											since 6 is not a power
+of any prime number.
+											Luckily, his bosses
+weren't very good in math,
+											so his job is safe.
+											The night manager's strategies
+are only possible
+											because while the Infinite Hotel
+is certainly a logistical nightmare,
+											it only deals with the lowest
+level of infinity,
+											mainly, the countable infinity
+of the natural numbers,
+											1, 2, 3, 4, and so on.
+											Georg Cantor called this level
+of infinity aleph-zero.
+											We use natural numbers
+for the room numbers
+											as well as the seat numbers on the buses.
+											If we were dealing
+with higher orders of infinity,
+											such as that of the real numbers,
+											these structured strategies
+would no longer be possible
+											as we have no way
+to systematically include every number.
+											The Real Number Infinite Hotel
+											has negative number rooms in the basement,
+											fractional rooms,
+											so the guy in room 1/2 always suspects
+											he has less room than the guy in room 1.
+											Square root rooms, like room radical 2,
+											and room pi,
+											where the guests expect free dessert.
+											What self-respecting night manager
+would ever want to work there
+											even for an infinite salary?
+											But over at Hilbert's Infinite Hotel,
+											where there's never any vacancy
+											and always room for more,
+											the scenarios faced by the ever-diligent
+											and maybe too hospitable night manager
+											serve to remind us of just how hard it is
+											for our relatively finite minds
+											to grasp a concept as large as infinity.
+											Maybe you can help tackle these problems
+											after a good night's sleep.
+											But honestly, we might need you
+											to change rooms at 2 a.m.
+									","
+											Dans les années 20,
+											le mathématicien allemand David Hilbert
+											conçut une célèbre expérience de l'esprit
+											pour nous montrer comme il est difficile
+											d'appréhender le concept d'infini.
+											Imaginons un hôtel
+avec un nombre de chambres infini
+											et un réceptionniste très travailleur.
+											Un soir, l'Hôtel Infini est plein,
+											complètement réservé
+par un nombre infini de clients.
+											Un homme arrive à l'hôtel
+											et demande une chambre.
+											Plutôt que de le renvoyer,
+											le réceptionniste décide
+de lui faire de la place.
+											Comment ?
+											Facile : il demande au client
+de la chambre 1
+											de passer dans la chambre 2,
+											au client de la chambre 2
+de passer dans la chambre 3,
+											etc.
+											Chaque client passe
+de la chambre numéro « n »
+											à la chambre numéro « n+1 ».
+											Comme il y a un nombre infini de chambres,
+											il existe une nouvelle chambre
+pour chaque client déjà installé.
+											Cela laisse la chambre 1
+disponible pour le nouveau client.
+											Le procédé peut être répété
+											pour tout nombre fini de nouveaux clients.
+											Si, par exemple, un bus déverse
+											40 personnes à la recherche de chambres,
+											alors chaque client existant
+passe simplement
+											de la chambre numéro « n »
+											à la chambre numéro « n+40 »,
+											libérant ainsi les 40 premières chambres.
+											Mais imaginons qu'un bus infiniment grand
+											amène un nombre infini dénombrable
+de passagers
+											à la recherche d'une chambre.
+											Infini dénombrable est le mot-clé ici.
+											Le bus infiniment long avec
+un nombre infini de passagers
+											rend le réceptionniste perplexe,
+											puis il réalise qu'il y a un moyen
+											de trouver une chambre
+pour chaque nouveau client.
+											Il demande au client de la chambre 1
+											de passer dans la chambre 2.
+											Puis il demande au client de la chambre 2
+											de passer dans la chambre 4,
+											au client de la chambre 3
+											de passer dans la chambre 6,
+											et ainsi de suite.
+											Chaque client existant passe 
+de la chambre « n »
+											à la chambre « 2n »,
+											n'occupant ainsi que les chambres infinies
+de numéro pair.
+											Ainsi, le réceptionniste a libéré
+											toutes les chambres infinies
+de numéro impair,
+											qui sont alors données aux gens
+											provenant du bus infiniment long.
+											Tout le monde est content
+et le business de l'hôtel
+											progresse mieux que jamais.
+											Enfin, il progresse exactement
+											au même rythme que d'habitude,
+											encaissant un nombre infini de dollars
+chaque nuit.
+											La rumeur se répand à propos
+de cet hôtel incroyable.
+											Les gens affluent des
+quatre coins du monde.
+											Un soir, l'inimaginable arrive.
+											Le réceptionniste de nuit regarde dehors
+											et voit une ligne infinie
+											de bus infiniment longs,
+											chacun contenant un nombre de passagers
+infini dénombrable.
+											Que faire?
+											S'il ne leur trouve pas de chambres,
+											l'hôtel va perdre
+											un montant infini d'argent,
+											et lui va sûrement perdre son emploi.
+											Heureusement, il se souvient
+											que vers l'année 300 avant J.C.,
+											Euclide a prouvé qu'il existe
+une quantité infinie
+											de nombres premiers.
+											Et donc, pour accomplir
+ce qui semble impossible -
+											trouver une infinité de chambres
+											pour une infinité de bus
+											contenant une infinité 
+de voyageurs fatigués -
+											le réceptionniste alloue
+à chaque client existant
+											une nouvelle chambre dont le numéro est
+le premier nombre premier, 2,
+											à la puissance du numéro
+de leur chambre existante.
+											Ainsi l'occupant actuel de la chambre 7
+											déménage dans la chambre 2 puissance 7,
+											soit la chambre 128.
+											Le réceptionniste prend
+ensuite les passagers
+											du premier des bus infinis
+											et leur alloue le numéro de chambre
+											3, nombre premier suivant,
+											à la puissance du numéro
+de leur siège dans le bus.
+											Ainsi le voyageur assis au siège 7
+du premier bus
+											va dans la chambre 3 puissance 7,
+											soit la chambre 2187.
+											Et ainsi de suite pour l'ensemble
+du premier bus.
+											Aux passagers du deuxième bus
+											sont donnés les numéros de chambre
+de la puissance du nombre premier 5.
+											Pour le bus suivant, les puissances de 7.
+											Chaque bus suit :
+											puissances de 11,
+											puissances de 13,
+											puissances de 17, etc.
+											Comme chacun de ces nombres
+											a comme facteurs unique 1
+et les puissances
+											de nombre entier de leur nombre premier,
+											il n'y a pas duplication
+de numéro de chambre.
+											Tous les passagers des bus se répandent
+dans les chambres
+											utilisant des méthodes uniques
+d'allocation de chambres
+											basées sur des nombre premiers uniques.
+											Ainsi, le réceptionniste peut
+trouver une chambre
+											pour chaque passager de chaque bus.
+											Mais de nombreuses chambres
+vont rester libres,
+											comme la chambre 6,
+											puisque 6 n'est pas la puissance
+d'un nombre premier.
+											Heureusement, ses patrons
+ne sont pas très doués en maths,
+											donc le réceptionniste n'a rien à craindre
+pour son travail !
+											Les stratégies du réceptionniste ne sont
+possibles
+											que parce que l'Hôtel Infini,
+											un véritable cauchemar logistique,
+											n'a affaire qu'au plus bas niveau de l'infini,
+											l'infini que l'on peut compter,
+											celui des nombres entiers naturels,
+											1, 2, 3, 4 etc.
+											Georg Cantor appelle ce niveau d'infini
+l'aleph-zéro.
+											Les numéros de chambre sont
+des nombres entiers
+											comme les numéros de siège dans les bus.
+											Si on avait affaire à des ordres
+d'infini plus élevés,
+											comme celui des nombres rééls,
+											ces stratégies structurées
+											ne seraient plus possibles
+											puisque l'on n'a aucun moyen
+											d'inclure systématiquement
+tous les nombres.
+											L'Hôtel Infini des Nombres Réels possède
+											des chambres de numéro négatif
+au sous-sol,
+											des chambres fractionnelles -
+											l'hôte de la chambre 1/2
+pense toujours
+											qu'il a moins de place
+que celui dans la chambre 1 -
+											et des chambres racine carrée,
+comme la chambre racine de deux
+											et la chambre pi,
+											dans laquelle les clients s'attendent 
+à du lait gratuit.
+											Quel réceptionniste qui se respecte
+											voudrait y travailler,
+											même pour un salaire infini ?
+											Mais à l'Hôtel Infini de Hilbert,
+											où il n'y a jamais de chambre libre
+											mais toujours de la place disponible,
+											les scénarios auxquels est confronté
+le réceptionniste,
+											toujours assidu et peut-être
+trop accueillant,
+											nous rappellent
+											combien il est toujours difficile
+											pour nos esprits relativement finis
+											d'appréhender un concept aussi vaste
+que l'infini.
+											Peut-être vous pourrez aider
+à résoudre ce problème
+											après une bonne nuit de sommeil.
+											Mais honnêtement,
+nous aurons peut-être besoin
+											que vous changiez de chambre
+à deux heures du matin...
+									","
+											In den zwanziger Jahren
+											erdachte David Hilbert, 
+ein deutscher Mathematiker,
+											ein berühmtes Gedankenexperiment,
+											das demonstrieren sollte, 
+wie schwer es ist,
+											das Konzept von Unendlichkeit 
+zu verstehen.
+											Stellt euch ein Hotel 
+mit unendlich vielen Zimmern vor
+											und einen sehr emsigen Nachtportier.
+											Eines Nachts ist 
+das Unendliche Hotel ausgebucht,
+											eine unendliche Anzahl von Gästen 
+belegt die Zimmer.
+											Ein Mann kommt ins Hotel
+											und möchte ein Zimmer.
+											Anstatt ihn abzuweisen,
+											entschließt sich der Nachtportier, 
+Platz für ihn zu schaffen.
+											Wie?
+											Ganz einfach, 
+er bittet den Gast in Zimmer 1,
+											ins Zimmer 2 umzuziehen,
+											der Gast in Zimmer 2 
+zieht ins Zimmer 3,
+											und so weiter.
+											Jeder Gast bewegt sich 
+von Zimmer Nummer n
+											zu Zimmer Nummer n+1.
+											Da es unendlich viele Zimmer gibt,
+											gibt es für jeden Hotelgast ein Zimmer.
+											Somit wird Zimmer 1 
+frei für den neuen Kunden.
+											Dieser Prozess kann für jede
+											endliche Anzahl an Gästen 
+wiederholt werden.
+											Sagen wir, ein Tourbus
+											kippt 40 Zimmersuchende aus,
+											dann bewegt sich jeder Hotelgast
+											einfach von Zimmer Nummer n
+											zu Zimmer Nummer n+40.
+											So werden die ersten 40 Zimmer frei.
+											Nun kommt aber 
+ein unendlich großer Bus an
+											und bringt eine abzählbar 
+unendliche Menge an Passagieren,
+											die gern ein Zimmer hätten.
+											Abzählbar unendlich ist das Schlüsselwort.
+											Der unendliche Bus mit 
+unendlich vielen Passagieren
+											verwirrt den Nachtportier zuerst,
+											doch dann sieht er eine Möglichkeit,
+											jeden neuen Gast unterzubringen.
+											Er bittet den Gast in Zimmer 1,
+											ins Zimmer 2 zu ziehen.
+											Dann bittet er den Gast in Zimmer 2,
+											ins Zimmer 4 zu ziehen,
+											den Gast in Zimmer 3,
+											in Zimmer 6 zu ziehen,
+											und so weiter.
+											So zieht jeder aktuelle Gast 
+von Zimmer Nummer n
+											ins Zimmer Nummer 2n,
+											wodurch nur die unendlichen 
+geraden Zahlen genutzt werden.
+											Dadurch hat er nun Platz
+											in allen unendlichen ungeraden 
+Hotelzimmern geschaffen,
+											die dann von den Leuten besetzt werden,
+											die aus dem unendlichen Bus strömen.
+											Alle sind glücklich und das Hotelgeschäft
+											blüht mehr denn je.
+											Na ja, es blüht eigentlich
+											genau so wie sonst auch,
+											denn es bringt unendlich 
+viele Dollars pro Nacht ein.
+											Dieses unglaubliche Hotel 
+spricht sich nun herum.
+											Von überall her strömen die Leute.
+											Eines Nachts passiert das Undenkbare.
+											Der Nachtportier schaut hinaus
+											und sieht eine unendliche Schlange
+											unendlich großer Busse,
+											von denen alle abzählbar unendlich 
+viele Passagiere bringen.
+											Was kann er tun?
+											Wenn er keinen Platz für sie findet,
+											dann wird das Hotel
+											einen unendlich hohen Geldbetrag verlieren,
+											und sicherlich verliert er seinen Job.
+											Zum Glück fällt ihm ein,
+											dass um 300 v. u. Z.
+											Euklid bewies, dass es 
+eine unendliche Menge
+											an Primzahlen gibt.
+											Um also diese scheinbar 
+unmögliche Aufgabe zu bewältigen,
+											unendlich viele Betten
+											für unendlich viele Reisende
+											in unendlich vielen Bussen zu finden,
+											teilt der Nachtportier jedem Hotelgast
+											die erste Primzahl zu, 2,
+											mit ihrer aktuellen Zimmernummer 
+als Exponenten.
+											Der aktuelle Bewohner von Zimmer 7 also
+											bekommt Zimmer 2 hoch 7,
+											also Zimmer 128.
+											Der Nachtportier nimmt dann die Leute
+											aus dem ersten der unendlich vielen Busse
+											und gibt ihnen die Zimmerzahl
+											der nächsten Primzahl, 3,
+											mit der Sitzplatznummer im Bus 
+als Exponenten.
+											Die Person auf Sitz 7 im ersten Bus also
+											bekommt Zimmer 3^7,
+											also Zimmer 2187.
+											Das setzt sich so für den ersten Bus fort.
+											Die Passagiere im zweiten Bus
+											bekommen Exponenten 
+der nächsten Primzahl, 5.
+											Der folgende Bus erhält
+Exponenten von 7.
+											Und so geht es weiter:
+											Exponenten von 11,
+											Exponenten von 13,
+											Exponenten von 17 und so weiter.
+											Da die Faktoren
+											jeder dieser Zahlen
+											nur 1 und ihre eigene natürliche Zahl sind,
+											überlappen die Zimmernummern nicht.
+											Alle Passagiere in den Bussen 
+verteilen sich mittels
+											einzigartiger Zuteilungsmuster 
+auf die Räume,
+											die auf einzigartigen Primzahlen basieren.
+											So kann der Nachtportier jeden Passagier
+											in jedem Bus unterbringen.
+											Es wird aber viele unbelegte Zimmer geben,
+											etwa Zimmer 6,
+											da 6 keine Potenz von einer Primzahl ist.
+											Zum Glück waren seine Chefs 
+nicht sehr gut in Mathe,
+											also ist sein Job sicher.
+											Die Strategien des Nachtportiers 
+sind nur möglich,
+											weil das Unendliche Hotel
+											zwar ein logistischer Alptraum ist,
+											sich aber nur mit der niedrigsten Klasse 
+der Unendlichkeit befasst:
+											nämlich der zählbaren Unendlichkeit
+											der natürlichen Zahlen,
+											1, 2, 3, 4, und so weiter.
+											Georg Cantor nannte 
+diese Klasse Aleph-Funktion.
+											Für die Zimmernummern 
+und die Sitzplätze in den Bussen
+											verwenden wir natürliche Zahlen.
+											Würden wir uns mit höheren Klassen
+der Unendlichkeit befassen,
+											wie etwa mit den reellen Zahlen,
+											wären diese strukturierten Ansätze
+											nicht länger möglich,
+											da wir nicht länger
+											jede Zahl systematisch 
+einschließen können.
+											Das Unendliche Hotel der reellen Zahlen
+											hat im Keller Zimmer 
+mit negativen Zahlen,
+											Räume mit Brüchen,
+											und der Typ in Zimmer 0,5 
+hat ständig Angst,
+											weniger Platz zu haben 
+als der in Zimmer 1.
+											Quadratwurzelzimmer, 
+also Zimmer Wurzel 2
+											und Zimmer Pi,
+											das möglicherweise kreisrund ist.
+											Welcher Nachtportier,
+											der etwas auf sich hält, würde selbst
+											für ein unendliches Gehalt 
+so etwas auf sich nehmen?
+											Aber in Hilberts Unendlichem Hotel,
+											in dem es nie freie Zimmer gibt,
+											und jeder Gast noch einen Platz findet,
+											helfen uns die Situationen, 
+denen der eifrige
+											und vielleicht auch 
+zu gastfreundliche Nachtportier
+											ausgesetzt ist,
+											als Erinnerungshilfe dafür,
+											wie schwer es für unsere 
+recht endlichen Gemüter ist,
+											ein Konzept von unendlicher Größe 
+zu verstehen.
+											Vielleicht könnt ihr beim Lösen 
+dieser Probleme helfen,
+											nach einer Mütze voller Schlaf.
+											Aber seid gewarnt: Vielleicht müsst ihr
+											morgens um 2 das Zimmer wechseln.
+									",The Infinite Hotel Paradox,Jeff Dekofsky,5:46,"animation,TED-Ed,math"
+"
+","
+","
+","
+","
+","
+",The Infinite Hotel Paradox,Jeff Dekofsky,5:46,"animation,TED-Ed,math"

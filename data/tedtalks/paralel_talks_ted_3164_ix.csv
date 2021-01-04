@@ -1,0 +1,1080 @@
+en,es,pt,tr,fr,de,title,speaker,duration,tags
+"
+","
+","
+","
+","
+","
+",Animating a photo-real digital face,Paul Debevec,6:06,"TEDx,art,computers,design,film,technology,visualizations,animation"
+"
+											One of the biggest challenges in computer graphics
+											has been being able to create a photo-real,
+											digital human face.
+											And one of the reasons it is so difficult is that, unlike aliens and dinosaurs,
+											we look at human faces every day.
+											They are very important to how we communicate with each other.
+											As a result, we're tuned in to the subtlest things
+											that could possibly be wrong with a computer rendering,
+											in order to believe whether these things are realistic.
+									","
+											Uno de los mayores retos en computación gráfica
+											ha sido el poder crear un rostro
+											humano digital fotorrealista.
+											Y una de las razones por las que es tan difícil, a diferencia de alienígenas y dinosaurios,
+											es porque observamos caras humanas todos los días.
+											Son muy importantes para la forma en que nos comunicamos con los demás.
+											Como resultado, estamos afinando las cosas más sutiles
+											que probablemente pudieran estar erradas en un renderizado computacional,
+											a fin de considerar si estas cosas son realistas.
+									","
+											Um dos maiores desafios
+em gráficos de computador
+											tem sido ser capaz de criar
+um rosto humano digital foto-realista.
+											Uma das razões de ser tão difícil é que,
+											ao contrário dos extraterrestres
+e dinossauros,
+											olhamos para rostos humanos todos os dias.
+											São importantes para a forma
+como comunicamos uns com os outros.
+											Em resultado, estamos sintonizados
+nas coisas mais subtis
+											que possam estar erradas
+com uma renderização de computador,
+											para podermos acreditar
+que estas coisas são realistas.
+									","
+											Bilgisayar grafiklerinin en büyük zorluklarından bir tanesi
+											gerçek bir resim yaratabilmek,
+											dijital insan yüzü.
+											Bunun oldukça zor olmasının nedenlerinden biri, uzaylılar ve dinazorlar dışında,
+											insan yüzüne her gün bakıyor olmamızdır.
+											Birbirimizle nasıl iletişim kurduğumuz ile çok önemlidir.
+											Sonuç olarak, gerçekçi olabileceğine inanmak için
+											bilgisayarın dönüştürdüğü sırada
+											olabilecek yanlışlık için hassas ayarlamalar yaptık.
+									","
+											Un des plus grands défis dans l'image de synthèse
+											a toujours été de créer un visage humain
+											photo-réaliste.
+											Et une des raisons pour cela, à l'inverse des aliens ou des dinosaures,
+											est que nous regardons des visages humains tous les jours.
+											Et ceux-ci sont très importants dans la façon dont nous communiquons entre nous.
+											Et nous sommes donc sensibles aux moindres détails
+											potentiellement erronés d'une image de synthèse,
+											nous empêchant de croire que ce visage puisse être réaliste.
+									","
+											Eine der größten Herausforderungen in der Computergrafik
+											war es, ein fotoreales
+											menschliches Gesicht herzustellen.
+											Und einer der Gründe, warum dies so schwierig ist, ist, dass wir im Gegensatz zu Aliens und Dinosaurier
+											jeden Tag menschliche Gesichter sehen.
+											Sie sind sehr wichtig für unsere Kommunikationsweise.
+											Deshalb reagieren wir auf die kleinsten Details,
+											die möglicherweise falsch durch den Computer generiert sein könnten,
+											wenn es um deren glaubwürdige Realistik geht.
+									",Animating a photo-real digital face,Paul Debevec,6:06,"TEDx,art,computers,design,film,technology,visualizations,animation"
+"
+","
+","
+","
+","
+","
+",Animating a photo-real digital face,Paul Debevec,6:06,"TEDx,art,computers,design,film,technology,visualizations,animation"
+"
+											And what I'm going to do in the next five minutes
+											is take you through a process
+											where we tried to create a reasonably photo-realistic computer-generated face,
+											using some computer graphics technology we've developed,
+											and also some collaborators at a company called Image Metrics.
+											And we're going to try to do a photo-real face
+											of an actress named Emily O'Brien, who is right there.
+											And that's actually a completely computer-generated rendering of her face.
+											By the end of the talk, we're going to see it move.
+									","
+											Y lo que voy a hacer en los próximos cinco minutos
+											es llevarles a través de un proceso
+											donde intentamos crear un rostro generado por computadora razonablemente fotorrealista,
+											usando algo de la tecnología de computación gráfica que hemos desarrollado,
+											y también algunos colaboradores de una compañía llamada Image Metrics.
+											Y vamos a intentar hacer una cara fotorrealista
+											de una actriz llamada Emily O'Brian, quien está justo allí.
+											Y ese es, de hecho, un renderizado totalmente generado en computadora de su cara.
+											Hacia el final de la charla, lo vamos a ver moverse.
+									","
+											Nos próximos cinco minutos
+											vou conduzir-vos através de um processo
+											em que tentámos criar um rosto gerado
+por computador razoavelmente realista,
+											usando alguma tecnologia de gráficos
+de computador que desenvolvemos,
+											e também alguns colaboradores
+na empresa Image Metrics.
+											Vamos tentar fazer um rosto foto-realista
+											de uma atriz chamada Emily O'Brien,
+que está mesmo ali.
+											Esta é uma renderização do rosto dela
+totalmente gerada por computador.
+											No final da palestra,
+vamos vê-lo a mexer-se.
+									","
+											Önümüzdeki beş dakikada yapacağım şey
+											geliştirdiğimiz bilgisayar grafik teknolojisini kullanarak,
+											fotoğraf gerçekliğinde bilgisayarla geliştirilmiş bir yüz yapmaya çalıştığımız
+											ve Image Metrics şirketinde bazı ortaklarımızla beraber yaptığımız
+											sürece sizi götüreceğim
+											Şu an burada bulunan aktris Emily O'Brien'ın
+											fotoğraf gerçekliğindeki yüzünü yapmaya çalışacağız.
+											Bu aslında onun tamemen bilgisayar tarafından dönüştürülen yüzü.
+											Konuşmanın sonunda, onun hareket ettiğini göreceğiz.
+									","
+											Et ce que je vais faire pendant les cinq prochaines minutes
+											est de vous faire partager un processus
+											grâce auquel nous avons essayé de créer un visage de synthèse photo-réaliste,
+											en utilisant une technologie d'image de synthèse que nous avons développé
+											avec nos collaborateurs chez Image Metrics.
+											Nous allons essayer de reproduire le visage de l'actrice
+											Emily O'Brian, ici présente, de manière réaliste.
+											Et voici une image de synthèse de son visage, entièrement reconstituée.
+											D'ici la fin de cette présentation, vous la verrez bouger.
+									","
+											In den nächsten fünf Minuten werde ich
+											Sie durch einen Prozess führen,
+											in welchem wir versucht haben, ein fotorealistisches computergeneriertes menschliches Gesicht herzustellen,
+											mit Hilfe von Computergrafik-Technologie, die wir entwickelt haben,
+											und mit Hilfe einiger Mitarbeiter einer Firma namens Image Metrics.
+											Wir werden versuchen, ein fotoreales Gesicht
+											einer Schauspielerin namens Emily O'Brien, die genau dort ist, herzustellen.
+											Dies hier ist übrigens eine ausschließlich computergenerierte Bildsynthese ihres Gesichts.
+											Im Laufe der Vorführung werden wir sehen, wie es sich bewegt.
+									",Animating a photo-real digital face,Paul Debevec,6:06,"TEDx,art,computers,design,film,technology,visualizations,animation"
+"
+","
+","
+","
+","
+","
+",Animating a photo-real digital face,Paul Debevec,6:06,"TEDx,art,computers,design,film,technology,visualizations,animation"
+"
+											The way that we did this is we tried to start with Emily herself,
+											who was gracious enough to come to our laboratory
+											in Marina Del Rey, and sit for a session in Light Stage 5.
+											This is a face-scanning sphere, with 156 white LEDs all around
+											that allow us to photograph her
+											in a series of very controlled illumination conditions.
+											And the lighting that we use these days looks something like this.
+											We shoot all of these photographs in about three seconds.
+									","
+											La forma en que lo hicimos fue que, para comenzar, ensayamos con la propia Emily,
+											quien fue tan amable de venir a nuestro laboratorio
+											en Marina Del Rey, y posar para una sesión en la Light Stage 5.
+											Ésta es una esfera para escanear rostros, con 156 ""LEDs"" blancos en todo su contorno,
+											que nos permite fotografiarla
+											en una serie de condiciones de iluminación muy controladas.
+											Y la iluminación que usamos estos días se ve algo parecida a ésta.
+											Tomamos todas estas fotografías en aproximadamente tres segundos.
+									","
+											Tentámos começar com a própria Emily,
+											que teve a amabilidade de ir
+ao nosso laboratório
+											em Marina Del Rey, e ficar sentada
+para uma sessão no Light Stage 5.
+											Isto é uma esfera de digitalização da cabeça,
+com 156 LEDs brancos a toda a volta,
+											que nos permitem fotografá-la
+											numa série de condições de iluminação
+muito controladas.
+											O tipo de luz que andamos a usar
+é algo deste género.
+											Registamos todas estas fotografias
+em cerca de três segundos.
+									","
+											İzledğimiz yol Marina Del Rey'deki laboratuarımıza gelip,
+											Light Stage 5 oturumun için bekleyen nazik
+											Emily'nin kendisi ile başlamaya çalışmaktı.
+											Bu yüz tarama küresi, etrafında 156 adet beyaz LED lambaları ile,
+											oldukça kontrol edilebilen ışık durumları serisi içerisinde
+											onun fotoğrafını çekmemize izin veriyor.
+											Bu günlerde kullandığımız ışıklandırma bunun gibi bir şeye benziyor.
+											Bütün bu fotoğrafları üç saniye içinde çektik.
+									","
+											Notre méthode fut d'abord d'essayer avec Emily en personne,
+											qui a gentiment accepté de venir dans notre laboratoire
+											de Marina Del Rey, et de participer à une session de Light Stage 5.
+											C'est une sphère faite de 156 DEL blanches tout autour qui scannent son visage
+											et nous permettent de le photographier
+											dans un ensemble d'éclairages extrêmement contrôlés.
+											Et l'éclairage que nous utilisons en ce moment ressemble à ceci.
+											Nous prenons toutes ces photos en environ trois secondes.
+									","
+											Wir taten dies, indem wir versuchten mit Emily selbst zu beginnen, die so liebenswürdig war,
+											zu uns ins Labor in Marina del Rey zu kommen
+											und für eine Session in der Lichtbühne 5 zu posieren.
+											Das ist ein Bereich, der das Gesicht mit 156 weißen LEDs rundherum scannt,
+											was uns erlaubt, Sie in einer Folge von
+											sehr kontrollierten Beleuchtungskonditionen zu fotografieren.
+											Und die Beleuchtung, die wir heutzutage brauchen, sieht ungefähr so aus.
+											Wir machen all diese Fotos in ungefähr drei Sekunden
+									",Animating a photo-real digital face,Paul Debevec,6:06,"TEDx,art,computers,design,film,technology,visualizations,animation"
+"
+","
+","
+","
+","
+","
+",Animating a photo-real digital face,Paul Debevec,6:06,"TEDx,art,computers,design,film,technology,visualizations,animation"
+"
+											And we basically capture enough information
+											with video projector patterns that drape over the contours of her face,
+											and different principle directions of light from the light stage,
+											to figure out both the coarse-scale
+											and the fine-scale detail of her face.
+											If we zoom in on this photograph right here,
+											we can see it's a really nice photograph to have of her,
+											because she is lit from absolutely everywhere at the same time
+											to get a nice image of her facial texture.
+									","
+											Y básicamente, capturamos suficiente información
+											con los patrones de video-proyector extendidos sobre los contornos de su cara,
+											y con las direcciones de las diferentes fuentes de luz de la Light Stage,
+											como para resolver tanto el grano grueso
+											como el detalle del grano fino de su cara.
+											Si ampliamos esta fotografía justo aquí,
+											podemos ver que es una fotografía muy buena de ella,
+											porque está absolutamente iluminada desde todos lados al mismo tiempo
+											para conseguir una buena imagen de su textura facial.
+									","
+											Captamos informações suficientes
+											com padrões de projetor de vídeo
+que varrem os contornos do seu rosto,
+											e diferentes princípios de direções de luz
+a partir do palco de luz,
+											para calcular quer a grande escala
+											quer os detalhes
+da pequena escala do seu rosto.
+											Se aproximarmos esta fotografia aqui,
+											vemos que é uma bela foto para ter dela,
+											porque ela está iluminada
+de todos os lados ao mesmo tempo
+											para se ter uma boa imagem
+da sua textura facial.
+									","
+											Basitçe yüzün hem detaylarıyla hem de
+											kabaca ortaya çıkarmak için onun yüzünün
+											çevresel hatlarını örten video projektör modelleriyle ve
+											ışık safhasındaki ışığın farklı prensipteki yönleriyle
+											yeteri kadar bilgi topladık
+											Burada fotoğrafa yakınlaşırsak,
+											onun gerçekten iyi bir fotoğraf olduğunu görebiliriz,
+											çünkü yüzünün dokusunun iyi bir resmini elde edebilmek için
+											aynı anda tamamen her yerden ışıklandırılmıştır.
+									","
+											Et nous obtenons suffisamment d'informations
+											avec des modèles de projection vidéo qui enrobent les contours de son visage,
+											et les diverses orientations principales de lumière,
+											pour reconstituer à la fois la definition haute
+											et basse des détails de son visage.
+											Si nous zoomons sur cette photo ici,
+											nous pouvons voir que c'est un très beau cliché à avoir
+											car elle est éclairée d'absolument partout à la fois
+											et cela donne une belle image de la texture de son visage.
+									","
+											und fangen grundsätzlich genügend Information mit Hilfe von
+											Videoprojektoren-Mustern ein, welche die Konturen ihres Gesichtes drapieren,
+											und mittels verschiedener prinzipieller Richtungen von Licht von der Lichtbühne,
+											um die groben und feinen Details
+											der Dimensionen ihres Gesichts herauszufinden.
+											Wenn wir genau in dieses Foto hier hineinzoomen,
+											können wir sehen, dass dies ein schönes Foto von ihr ist,
+											denn Sie wird von absolut überall gleichzeitig beleuchtet,
+											sodass wir ein schönes Bild ihrer Gesichtsstrukturen erhalten.
+									",Animating a photo-real digital face,Paul Debevec,6:06,"TEDx,art,computers,design,film,technology,visualizations,animation"
+"
+","
+","
+","
+","
+","
+",Animating a photo-real digital face,Paul Debevec,6:06,"TEDx,art,computers,design,film,technology,visualizations,animation"
+"
+											And in addition, we've actually used polarizers on all the lights —
+											just like polarized sunglasses can block
+											the glare off of the road,
+											polarizers can block the shine off of the skin,
+											so we don't get all those specular reflections to take this map.
+											Now, if we turn the polarizers around just a little bit,
+											we can actually bring that specular reflection
+											of the skin back in,
+											and you can see she looks kind of shiny and oily at this point.
+											If you take the difference between these two images here,
+											you can get an image lit from the entire sphere of light
+											of just the shine off of Emily's skin.
+									","
+											Y además, en efecto, hemos utilizado polarizadores para todas las luces —
+											exactamente como los lentes de sol polarizados pueden bloquear
+											el resplandor del pavimento,
+											los polarizadores pueden bloquear el brillo de la piel,
+											así que no usamos todos esos reflejos especulares para hacer este mapa.
+											Ahora, si giramos los polarizadores sólo un poco,
+											podemos, realmente, devolver esa reflexión especular
+											a la piel,
+											y pueden ver que luce bastante brillante y grasosa en este punto.
+											Si tomas la diferencia entre estas dos imágenes aquí,
+											puedes obtener una imagen iluminada por toda la esfera luz
+											de únicamente el brillo de la tez de Emily.
+									","
+											Para além disso, usámos polarizadores
+em todas as luzes
+											— tal como os óculos de sol polarizados
+conseguem bloquear
+											o encandeamento na estrada,
+											os polarizadores conseguem
+bloquear o brilho da pele,
+											para que não tenhamos todos os reflexos
+especulares a tomar conta deste mapa.
+											Ora, se rodarmos só um pouco
+os polarizadores
+											podemos trazer de volta
+aquela reflexão especular da pele.
+											e vemos que ela agora
+parece algo brilhante e oleosa.
+											Se tirarmos a diferença
+entre estas duas imagens aqui,
+											podemos obter uma imagem iluminada
+a partir de toda a esfera de luz
+											só do brilho da pele de Emily.
+									","
+											Buna ek olarak, bütün ışık üzerinde polarizör kullandık —
+											yoldaki parıldamayı önleyen güneş gözlükleri gibi
+											polarize edildi,
+											polarizatörler deriden yansıyan parlamaları engelleyebilir,
+											bu yüzden bu yolu izlemek için yansıtıcıları kullanmadık.
+											Şimdi, bir parça polarizatörlere dönersek eğer,
+											Yüzün düzgün yansımasını gerçekten
+											geri getirebiliriz ve
+											bu noktada biraz parlak ve yağlı gözüktüğünü görebilirsiniz.
+											İki imaj arasındaki farkı alırsanız burada,
+											Emily'nin teninden yansıyan parıltının ışığın tüm küresinden
+											resmin aydınlığını elde edebilirsiniz.
+									","
+											Et en plus, nous avons utilisé des filtres polarisateurs sur toutes les lumières
+											de la même façon que les lunettes polarisées
+											peuvent bloquer les reflets sur la route,
+											les filtres polarisateurs bloquent la brillance de la peau,
+											et nous obtenons une texture sans reflets spéculaires.
+											Maintenant, si nous tournons un peu ces filtres,
+											nous pouvons en fait réintroduire
+											les reflets spéculaires sur la peau
+											et vous pouvez voir que sa peau semble très brillante et huilée maintenant.
+											Si l'on soustrait les différences entre ces deux images là,
+											on peut obtenir une image éclairée par toute la sphère de lumière
+											ou bien uniquement la brillance de la peau d'Emily.
+									","
+											Zusätzlich haben wir eigentlich bei allen Lichtern Polarisierer gebraucht.
+											So wie polarisierte Sonnenbrillen
+											die Blendung durch die Straße verhindern können,
+											können Polarisierer das Glänzen der Haut verhindern,
+											sodass wir in der Aufnahme keine spiegelnden Reflektionen erhalten.
+											Wenn wir nun die Polarisierer nur ein wenig umdrehen,
+											können wir jene spiegelnde Reflektion der Haut
+											wieder zurückbringen,
+											und Sie können sehen, dass sie an dieser Stelle etwas glänzend und ölig aussieht.
+											Wenn man den Unterschied zwischen diesen beiden Bildern hier nimmt,
+											kann man eine Aufnahme erhalten, die nur von der Lichtsphäre
+											des Glanzes der Haut von Emily beleuchtet ist.
+									",Animating a photo-real digital face,Paul Debevec,6:06,"TEDx,art,computers,design,film,technology,visualizations,animation"
+"
+","
+","
+","
+","
+","
+",Animating a photo-real digital face,Paul Debevec,6:06,"TEDx,art,computers,design,film,technology,visualizations,animation"
+"
+											I don't think any photograph like this had ever been taken
+											before we had done this.
+											And this is very important light to capture,
+											because this is the light that reflects off the first surface of the skin.
+											It doesn't get underneath the translucent
+											layers of the skin and blur out.
+											And, as a result, it's a very good cue
+											to the detailed shape of the skin-pore structure
+											and all of the fine wrinkles that all of us have,
+											the things that actually make us look like real humans.
+									","
+											Creo que ninguna fotografía así se había tomado
+											antes de que hubiésemos hecho ésta.
+											Y ésta es una luz muy importante de captar,
+											porque es la luz que se refleja en el primer estrato de la piel.
+											No alcanza las capas traslúcidas
+											inferiores de la piel y se dispersa.
+											Y, como resultado, es una referencia muy buena
+											para la forma detallada de la estructura de los poros de la piel
+											y la totalidad de finas arrugas que todos tenemos,
+											cosas que efectivamente nos hacen lucir como humanos reales.
+									","
+											Creio que nunca foi tirada
+uma fotografia como esta
+											antes de termos feito isto.
+											Trata-se de luz
+muito importante para captar,
+											porque é esta luz que é refletida
+na primeira superfície da pele.
+											Não atravessa
+as camadas translúcidas da pele
+											para a seguir se esbater.
+											O que resulta é uma pista muito boa
+											para a forma detalhada
+da estrutura dos poros da pele
+											e para todas as pequenas rugas
+que todos nós temos,
+											as coisas que nos fazem ter
+o aspeto de humanos verdadeiros.
+									","
+											Bunu biz yapmadan önce böyle bir fotoğrafın
+											çekildiğini düşünmüyorum.
+											Bu yakalanması için önemli bir ışık,
+											çünkü bu tenin ilk yüzeyinden yansıyan ışıktır.
+											O tenin altındaki yarı saydam katmana ulaşmaz ve
+											netlik azalmaz.
+											Ve, sonuç olarak, gözenekli tenin detaylı şekli için
+											önemli bir ipucudur
+											ve sahip olduğumuz bütün ince kırışıklıklar,
+											bunlar bizi gerçek insanlar gibi görünmemizi sağlıyor.
+									","
+											Je crois qu'aucune photo de ce type n'a jamais été prise
+											avant la nôtre.
+											Et cette lumière est extrêmement importante à saisir,
+											car c'est la lumière qui se reflète à la surface de la peau.
+											Elle ne pénètre pas au delà des couches
+											translucides de la peau pour s'y dissiper.
+											Et le résultat est une très bonne indication
+											de la forme détaillée de la structure poreuse de la peau
+											et de toutes les fines rides que nous avons tous,
+											exactement le genre de chose qui nous donnent l'aspect de vrais humains.
+									","
+											Ich glaube nicht, dass jemals solch ein Foto gemacht wurde,
+											bevor wir es gemacht hatten.
+											Es ist sehr wichtig, dieses Licht zu erfassen,
+											denn es reflektiert die erste Oberfläche der Haut.
+											Es geht nicht unter die lichtdurchlässige Schicht
+											der Haut und verschwimmt.
+											Daher ist dies ein sehr guter Hinweis auf
+											die detaillierte Form der Hautporen-Struktur
+											und auf all die feinen Falten, die wir alle haben,
+											eben das, was uns eigentlich menschlich aussehen lässt.
+									",Animating a photo-real digital face,Paul Debevec,6:06,"TEDx,art,computers,design,film,technology,visualizations,animation"
+"
+","
+","
+","
+","
+","
+",Animating a photo-real digital face,Paul Debevec,6:06,"TEDx,art,computers,design,film,technology,visualizations,animation"
+"
+											So, if we use information that comes off of this specular reflection,
+											we can go from a traditional face scan
+											that might have the gross contours of the face and the basic shape,
+											and augment it with information
+											that puts in all of that skin pore structure and fine wrinkles.
+											And, even more importantly,
+											since this is a photometric process that only takes three seconds to capture,
+											we can shoot Emily
+											in just part of an afternoon,
+											in many different facial poses and facial expressions.
+									","
+											Bien, si usamos la información proveniente de esta reflexión especular
+											podemos ir de un tradicional rostro escaneado
+											que podría tener los burods contornos de la cara y la forma básica,
+											y mejorarlo con la información
+											que introduce toda esa estructura de poros y finas arrugas.
+											Y, aún más importante,
+											ya que es un proceso fotométrico que sólo toma tres segundos capturar,
+											podemos fotografiar a Emily
+											en apenas parte de una tarde,
+											en poses y expresiones faciales muy diversas .
+									","
+											Se usarmos informação obtida
+a partir desta reflexão especular
+											podemos ir de uma digitalização
+tradicional do rosto
+											que talvez tenha os contornos
+sem detalhe do rosto e o perfil básico,
+											e incrementá-la com informação
+											que acrescenta toda essa estrutura
+de poros da pele e de rugas detalhadas.
+											E, ainda mais importante,
+											como este é um processo fotométrico
+que demora apenas três segundos a captar,
+											podemos fotografar a Emily
+em apenas uma parte da tarde,
+											em muitas poses faciais
+e expressões faciais diferentes.
+									","
+											Bu yüzden, bu açığa çıkan düzgün yansıma bilgisini kullanırsak eğer
+											basit şekli ve yüzün bütün çevresel hatlarına sahip olabilen bu düzgün
+											yanısmandan meydana çıkan bilgiyi kullanırız,
+											ve bütün bu tenin gözenekli yapısını ve ince kırışıklıkların bilgisini
+											arttırabiliriz.
+											ve daha önemlisi,
+											yakalamak için üç saniye süren bir fotometrik süreçten itibaren,
+											öğleden sonra bir ara da bir çok farklı
+											yüz pozları ve yüz ifadeleriyle
+											Emily'i çekmeye başlayabiliriz.
+									","
+											Donc, si nous utilisons ces données venant des reflets spéculaires
+											nous pouvons aller d'un scan traditionnel de visage
+											qui pourrait avoir les contours grossiers et la forme basique du visage,
+											et ajouter les informations
+											nécessaires à cette structure poreuse et aux fines rides de la peau.
+											Et, plus important encore,
+											puisque c'est un processus photométrique qui ne prend que trois secondes,
+											nous pouvons photographier Emily
+											seulement en une partie de l'après-midi,
+											en de nombreuses positions et expressions faciales.
+									","
+											Wenn wir also die Information nutzen, die von dieser spiegelnden Reflektion kommt,
+											können wir mit einem traditionellen Gesichtsscan beginnen,
+											der die groben Konturen des Gesichtes und die Grundform wiedergibt,
+											und ihn durch diejenige Information ergänzen,
+											welche die ganze Poren-Struktur und alle feine Falten einbezieht.
+											Was noch wichtiger ist,
+											da dies ja ein fotometrischer Prozess ist, den man in nur drei Sekunden erfassen kann:
+											wir können Emily in einem Zeitraum von
+											weniger als einem einzigen Nachmittag
+											in mehreren verschiedenen Gesichtsposen und -ausdrücken aufnehmen.
+									",Animating a photo-real digital face,Paul Debevec,6:06,"TEDx,art,computers,design,film,technology,visualizations,animation"
+"
+","
+","
+","
+","
+","
+",Animating a photo-real digital face,Paul Debevec,6:06,"TEDx,art,computers,design,film,technology,visualizations,animation"
+"
+											So, here you can see her moving her eyes around, moving her mouth around.
+											And these we're actually going to use to create a photo-real digital character.
+											If you take a look at these scans that we have of Emily,
+											you can see that the human face does an enormous amount of amazing things
+											as it goes into different facial expressions.
+											You can see things. Not only the face shape changes,
+											but all sorts of different skin buckling and skin wrinkling occurs.
+											You can see that the skin pore structure changes enormously
+											from stretched skin pores
+											to the regular skin texture.
+											You can see the furrows in the brow and how the microstructure changes there.
+											You can see muscles pulling down at flesh to bring her eyebrows down.
+											Her muscles bulging in her forehead when she winces like that.
+									","
+											Bien, aquí pueden verla moviendo sus ojos alrededor, moviendo su boca alrededor.
+											Y estas, efectivamente, vamos a utilizarlas para crear un personaje digital fotorrealista.
+											Si echan una mirada a estas imágenes que obtuvimos de Emily,
+											pueden ver que el rostro humano realiza una enorme cantidad de cosas asombrosas
+											al formar distintas expresiones faciales.
+											Pueden ver cosas. No solo cambia la forma de la cara,
+											sino que ocurren todo tipo de plegamientos y fruncimientos de la piel.
+											Pueden ver que la estructura porosa de la piel cambia enormemente,
+											desde los poros estirados,
+											hasta la textura regular de la piel.
+											Pueden ver los surcos en el ceño y como cambia la microestructura allí.
+											Pueden ver los músculos tirando la carne para llevar sus cejas hacia abajo.
+											Sus músculos sobresaliendo en la frente cuando gesticula así.
+									","
+											Aqui podem vê-la a mover os olhos,
+a mover a boca.
+											Vamos usar estes movimentos para criar
+uma personagem digital foto-realista.
+											Se derem uma olhadela
+a estas digitalizações da Emily,
+											vemos que o rosto humano faz
+uma quantidade enorme de coisas espantosas
+											à medida que passa
+por diferentes expressões faciais.
+											Vemos coisas. Não só as mudanças
+da forma do rosto,
+											mas todo o tipo de diferentes
+curvaturas e rugas da pele.
+											Vemos que a estrutura de poros da pele
+muda enormemente
+											desde poros distendidos,
+											até à textura regular da pele.
+											Vemos os sulcos da sobrancelha
+e como a microestrutura ali muda.
+											Vemos músculos a puxar os tecidos
+para trazer as sobrancelhas para baixo.
+											Os músculos arqueando-se na testa
+quando ela se contrai desta forma.
+									","
+											Burada gözlerini oynattığını, ağzını oynattığını görebilirsiniz.
+											Ve bunları bir fotoğraf gerçekliğinde dijital karakter yaratmak için kullanacağız.
+											Emily'e ait olan bu taramalara bir bakarsanız eğer,
+											farklı yüz ifadelerinle birlikte insan yüzünün devasal boyutta ki
+											harikulade şeylerini görebilirsiniz.
+											Görebilirsiniz. Sadece yüz şeklinin değiştiğini değil,
+											aynı zamanda bütün farklı ten buruşmalarını ve ten kırışıklığının oluştuğunu görebilirsiniz.
+											Gerilmiş olan deri gözeneklerinden normal deri dokusuna
+											deri gözeneklerinin devasal bir şekilde değiştiğini
+											görebilirsiniz.
+											Kaşlardaki kırışıklığı görebilirsiniz ve mikro yapının nasıl değiştiğini görebilirsiniz.
+											Kaşları aşağıya getirmek için kaslarının aşağıya çektiğini görebilirsiniz.
+											Böyle ürktüğü zaman alnındaki kasları şişiyor.
+									","
+											Ici, vous pouvez la voir bouger ses yeux et sa bouche.
+											Et nous nous en servirons pour créer notre personnage de synthèse photo-realiste.
+											Si vous regardez ces scans que nous avons d'Emily,
+											vous pouvez voir que le visage humain est capable d'un nombre impressionnant de choses
+											lorsqu'il exprime différents sentiments.
+											Vous pouvez voir ces choses. Non seulement le visage change,
+											mais plein de plis et de rides apparaissent.
+											Vous pouvez voir que la structure poreuse de la peau change
+											énormément entre les pores étirées
+											et la texture habituelle de la peau.
+											Vous pouvez voir les froncements du front, et comment la micro-structure change là.
+											Vous pouvez voir les muscles tirer vers le bas pour faire descendre ses sourcils.
+											Ses muscles se bomber sur son front lorsqu'elle grimace comme cela.
+									","
+											Hier kann man sehen, wie sie ihre Augen und ihren Mund bewegt.
+											Beides werden wir hauptsächlich brauchen, um einen fotorealen, digitalen Charakter zu kreieren.
+											Wenn Sie einen Blick auf diese Scans werfen, die wir von Emily haben,
+											können Sie sehen, dass das menschliche Gesicht eine riesige Menge von erstaunlichen Dingen ausdrückt,
+											indem es verschiedene Gesichtsausdrücke annimmt.
+											Man kann erkennen, dass sich nicht nur die Gesichtsform verändert,
+											sondern dass auch alle möglichen verschiedenen Falten auftreten.
+											Man kann sehen, dass sich die Poren-Struktur enorm verändert,
+											von gestreckten Poren bis hin zu einer
+											regelmäßigen Hautstruktur.
+											Sie können die Furchen in den Augenbrauen sehen und wie sich dort die Mikrostruktur verändert.
+											Sie können Muskeln sehen, die das Fleisch herunterziehen, um ihre Augenbrauen zu senken,
+											und ihre Muskeln, die an ihrer Stirn herausragen, wenn sie so zusammenzuckt.
+									",Animating a photo-real digital face,Paul Debevec,6:06,"TEDx,art,computers,design,film,technology,visualizations,animation"
+"
+","
+","
+","
+","
+","
+",Animating a photo-real digital face,Paul Debevec,6:06,"TEDx,art,computers,design,film,technology,visualizations,animation"
+"
+											In addition to this kind of high-resolution geometry,
+											since it's all captured with cameras, we've got a great texture map to use for the face.
+											And by looking at how the different color channels of the illumination,
+											the red and the green and the blue,
+											diffuse the light differently,
+											we can come up with a way of shading the skin on the computer.
+											Then, instead of looking like a plaster mannequin,
+											it actually looks like it's made out of living human flesh.
+									","
+											Además de este tipo de geometría de alta resolución,
+											ya que todo se capturó con cámaras, contamos con un gran mapa de texturas que utilizar para su cara.
+											Y al explorar cómo los diferentes canales de color de la iluminación,
+											el rojo, y el verde y el azul,
+											esparcen la luz diferentemente,
+											podemos conseguir una forma de matizar la piel en la computadora.
+											Entonces, en vez de lucir como un maniquí de yeso,
+											efectivamente, luce como hecho de carne y hueso.
+									","
+											Além deste tipo de geometria
+de alta-resolução,
+											como é tudo captado com câmaras,
+											temos um excelente mapa de texturas
+para usar para o rosto.
+											Ao ver como os diferentes canais
+de cor da iluminação,
+											o vermelho e o verde e o azul,
+difundem a luz de forma diferente,
+											podemos criar uma forma
+de sombrear a pele no computador.
+											Depois, em vez de parecer
+um manequim de gesso,
+											parece ser feita de tecido humano vivo.
+									","
+											Bu yüksek çözünürlük geometrisine ek olarak,
+											kameralarla çekildiğinden beri, yüz için kullanmak üzere müthiş bir doku haritasına sahibiz.
+											Işıklandırmanın farklı renk kanallarının,
+											kırmızı, yeşil ve mavinin
+											ışığı nasıl farklı dağıttıklarına bakarak
+											bilgisayarda tenin gölgelendirmesinin bir yolunu bulabiliriz.
+											Sonra, plastik bir manken görünümü yerine,
+											gerçek canlı insan derisinden yapılmış gibi gözüküyor.
+									","
+											En plus de toute cette sorte de géométrie haute résolution,
+											puisque c'est pris avec des caméras, on a un superbe plan de textures pour son visage.
+											Et en observant comment les différents canaux de colorimétrie,
+											le rouge, le vert et le bleu,
+											diffusent la lumière de façon différente,
+											nous pouvons trouver une façon d'ajouter des tons à la peau sur l'ordinateur.
+											Et ainsi, plutôt que de ressembler a un mannequin de plâtre,
+											cela semble être fait de chair humaine bien vivante.
+									","
+											Zusätzlich zu dieser Art von Geometrie mit hoher Auflösung,
+											erhalten wir, da ja alles mit der Kamera erfasst wird, eine großartige Aufnahme der Strukturkarte, die wir für das Gesicht brauchen.
+											Indem wir uns ansehen, wie die verschiedenen Farbenkanäle der Beleuchtung,
+											der rote und der grüne und der blaue,
+											das Licht unterschiedlich streuen,
+											können wir auf eine Lösung kommen, wie man die Haut im Computer schattieren kann.
+											Dann sieht sie, anstatt einer Gipspuppe zu gleichen,
+											so aus, als wäre sie von lebendigem, menschlichem Fleisch.
+									",Animating a photo-real digital face,Paul Debevec,6:06,"TEDx,art,computers,design,film,technology,visualizations,animation"
+"
+","
+","
+","
+","
+","
+",Animating a photo-real digital face,Paul Debevec,6:06,"TEDx,art,computers,design,film,technology,visualizations,animation"
+"
+											And this is what we used
+											to give to the company Image Metrics
+											to create a rigged, digital version of Emily.
+											We're just seeing the coarse-scale geometry here.
+											But they basically created a digital puppet of her,
+											where you can pull on these various strings,
+											and it actually moves her face in ways that are
+											completely consistent with the scans that we took.
+											And, in addition to the coarse-scale geometry,
+											they also used all of that detail
+											to create a set of what are called ""displacement maps""
+											that animate as well.
+											These are the displacement maps here.
+											And you can see those different wrinkles actually show up as she animates.
+									","
+											Y esto es lo que hicimos
+											para entregarlo a la compañía Image Metrics
+											para crear una versión articulada de Emily.
+											Estamos apenas viendo la geometría en grueso aquí.
+											Pero, básicamente, crearon un títere digital de ella,
+											donde ustedes pueden halar de las diversas cuerdas,
+											y efectivamente, mover su cara en formas que son
+											completamente consistentes con las imágenes que tomamos.
+											Y, además de la geometría en grueso,
+											también usaron todo aquel detalle
+											para crear un juego de los llamados ""mapas de desplazamiento""
+											que también dan animación.
+											Estos aquí son los mapas de desplazamiento.
+											Y de hecho, pueden ver esas diversas arrugas manifestándose mientras ella cobra animación.
+									","
+											Foi isto que usámos
+											para dar à empresa Image Metrics
+											para criarem uma versão
+completa, digital, da Emily.
+											Aqui, estamos apenas a ver
+a geometria de escala grosseira.
+											Mas eles basicamente criaram
+uma marioneta digital dela,
+											em que se podem puxar vários cordéis,
+											que movem o rosto dela de formas
+totalmente consistentes
+											com as digitalizações que fizemos.
+											Além da geometria de escala grosseira,
+											eles usaram também todo aquele detalhe
+											para criar o que se chama
+""mapas de deslocação""
+											que também são animados.
+											Isto aqui são os mapas de deslocação.
+											Vemos as diferentes rugas a surgir
+à medida que ela é animada.
+									","
+											Emily'nin hileli, dijital versiyonunu yaratmak için
+											Image Metrics şirketine verdiğimiz
+											şey budur.
+											Burada geniş ölçekli geometri görüyoruz.
+											Fakat basitçe farklı çizgiler çekebileceğiniz onun
+											dijital bir kuklasını yarattılar,
+											ve o aslında onun yüzünü çektiğimiz
+											taramalarla tamamen uygun şekilde hareket ettririyor.
+											Ve, bu geniş ölçekli geometriye ek olarak,
+											animasyon da yapılabilen ""yeri değiştirilmiş haritalar""
+											olarak adlandırılan bir seri yaratmak için
+											bütün bu detayları da kullandılar.
+											bunlar yeri değiştirilmiş haritalardır.
+											Animasyonu yapıldığında farklı kırışıklıkların gerçekten ortaya çıktığını görebilirsiniz.
+									","
+											Et nous nous sommes servis de ça
+											au service de l'entreprise Image Metrics
+											pour créer une version numérique d'Emily.
+											Nous ne voyons que les formes basiques ici.
+											Mais ils ont en gros créé une marionnette numérique d'elle,
+											sur laquelle nous pouvons tirer sur ces différentes ficelles,
+											et elles font bouger son visage de façon complètement
+											en accord avec les scans que nous avons pris.
+											Et, en plus des formes basiques,
+											ils ont également utilisé tous ces détails
+											pour créer une série de ""plans de déplacement""
+											qui peuvent être animées également.
+											Voici les plans de déplacement.
+											Et vous pouvez voir les différentes rides apparaître lorsqu'elle s'anime.
+									","
+											Dies war es, was wir
+											der Firma Image Metrics zur Verfügung stellten,
+											um eine manipulierte, digitale Version von Emily zu erschaffen.
+											Hier sehen wir gerade die grobskalige Geometrie.
+											Im Grunde aber hat man eine digitale Puppe von ihr erschaffen,
+											bei der man an diesen verschiedenen Fäden ziehen kann,
+											und tatsächlich bewegt das ihr Gesicht so, dass
+											es vollständig konsistent ist mit den Scans, die wir aufgenommen haben.
+											Zusätzlich zur grobskaligen Geometrie
+											wurden all diese Details auch dazu verwendet,
+											eine Reihe von sogenannten ""Verformungskarten"" zu erstellen,
+											die ebenfalls animierend wirken können.
+											Diese hier sind diese ""Verformungskarten"".
+											Man kann sehen,dass diese verschiedene Falten auftauchen, sobald sie animiert wird.
+									",Animating a photo-real digital face,Paul Debevec,6:06,"TEDx,art,computers,design,film,technology,visualizations,animation"
+"
+","
+","
+","
+","
+","
+",Animating a photo-real digital face,Paul Debevec,6:06,"TEDx,art,computers,design,film,technology,visualizations,animation"
+"
+											So the next process was then to animate her.
+											We actually used one of her own performances to provide the source data.
+											So, by analyzing this video with computer vision techniques,
+											they were able to drive the facial rig
+											with the computer-generated performance.
+											So what you're going to see now, after this,
+											is a completely photo-real digital face.
+											We can turn the volume up a little bit if that's available.
+									","
+											Así que el siguiente proceso fue darle luego animación a ella.
+											En realidad, usamos una de sus propias actuaciones para estipular los datos originales.
+											Bien, analizando este video con técnicas de visión por computadora,
+											ellos pudieron manejar el dispositivo facial
+											con la ejecución generada en el computador.
+											Por lo tanto, lo que van a ver ahora, después de esto,
+											es un rostro digital completamente fotorrealista.
+											Podemos subir un poco el volumen si es posible.
+									","
+											Então, o processo seguinte foi animá-la.
+											Usámos uma das suas representações
+para fornecer os dados.
+											Ao analisar este vídeo com técnicas
+de visão computacional,
+											eles conseguiram conduzir
+o equipamento do rosto
+											com a performance gerada por computador.
+											O que vamos ver a seguir, depois disto,
+											é um rosto foto-realista
+totalmente digital.
+											Podemos subir o volume um pouco.
+									","
+											Bu yüzden bir sonraki süreç onun animasyonuydu.
+											Aslında kaynak verisini sağlamak için onun kendi performanslarından birini kullandık.
+											Bu yüzden, bilgisayar görme teknikleri ile bu videoyu analiz ederek,
+											Bilgisayarla üretilen performans ile
+											yüz hilesini oluşturabilirdik.
+											Bu yüzden bundan sonra göreceğiniz şey,
+											tamamen fotoğraf gerçekliğinde dijital bir yüzdür.
+											mümkünse sesini biraz daha açabiliriz.
+									","
+											Donc le processus suivant était de l'animer.
+											Nous avons en fait utilisé une de ses performance comme source de données.
+											Et en analysant la vidéo avec des méthodes de tracking par ordinateur,
+											ils ont été capable de synchroniser le modèle de son visage
+											avec la performance générée par l'ordinateur.
+											Ce que vous allez voir maintenant, après ceci,
+											est un visage entièrement numérique et photo-réaliste.
+											On peut augmenter le volume un petit peu si possible.
+									","
+											Daher bestand der nächste Schritt darin, sie zu animieren.
+											Wir verwendeten hauptsächlich einen ihrer eigenen Auftritte als Datenquelle.
+											Indem man dieses Video mit Computervision-Techniken analysierte,
+											konnte man die Gesichtsanimation
+											mit der computergenerierten Tätigkeit vornehmen.
+											Was Sie jetzt gleich sehen werden, ist also ein
+											vollständiges, fotoreales, digitales Gesicht.
+											Wir können die Lautstärke erhöhen, falls dies möglich ist.
+									",Animating a photo-real digital face,Paul Debevec,6:06,"TEDx,art,computers,design,film,technology,visualizations,animation"
+"
+","
+","
+","
+","
+","
+",Animating a photo-real digital face,Paul Debevec,6:06,"TEDx,art,computers,design,film,technology,visualizations,animation"
+"
+											Emily: Image Metrics is a markerless, performance-driven animation company.
+											We specialize in high-quality facial animation
+											for video games and films.
+											Image Metrics is a markerless, performance-driven animation company.
+											We specialize in high quality facial animation
+											for video games and films.
+									","
+											EMILY: Image Metrics es una compañía de animación sin marcadores orientada por resultados.
+											Nos especializamos en animación facial de alta calidad
+											para videojuegos y películas.
+											Image Metrics es una compañía de animación sin marcadores orientada por resultados.
+											Nos especializamos en animación facial de alta calidad
+											para videojuegos y películas.
+									","
+											A Image Metrics é uma empresa de animação
+que não recorre a marcadores.
+											Especializamo-nos em animação
+facial de alta-qualidade
+											para jogos de vídeo e filmes.
+											A Image Metrics é uma empresa de animação,
+que não recorre a marcadores.
+											Especializamo-nos em animação
+facial de alta-qualidade
+											para jogos de vídeo e filmes.
+									","
+											Emily: Image Metrics işaretsizdir (bir tür uygulama metodu), performans odaklı animasyon şirketidir.
+											Video oyunları ve filmler için
+											yüksek kalitede yüz animasyonları yapıyoruz.
+											Image Metric işaretsizdir, performans odaklı animasyon şirketidir.
+											Video oyunları ve filmler için
+											yüksek kalitede yüz animasyonları yapıyoruz.
+									","
+											Emily : Image Metrics est une entreprise d'animation sans tracking, basée sur la performance humaine.
+											Nous sommes spécialisés dans l'animation haute résolution de visages
+											pour films et jeux vidéos.
+											Image Metrics est une entreprise d'animation sans tracking, basée sur la performance humaine.
+											Nous sommes spécialisés dans l'animation haute résolution de visages
+											pour films et jeux vidéos.
+									","
+											Emily: Image Metrics ist eine markenfreie, leistungsgesteuerte Animationsfirma.
+											Wir sind auf Gesichtsanimation von hoher Qualität
+											für Videospiele und Filme spezialisiert.
+											Image Metrics ist eine markenfreie,leistungsgesteuerte Animationsfirma.
+											Wir sind auf Gesichtsanimation von hoher Qualität
+											für Videospiele und Filme spezialisiert.
+									",Animating a photo-real digital face,Paul Debevec,6:06,"TEDx,art,computers,design,film,technology,visualizations,animation"
+"
+","
+","
+","
+","
+","
+",Animating a photo-real digital face,Paul Debevec,6:06,"TEDx,art,computers,design,film,technology,visualizations,animation"
+"
+											Paul Debevec: So, if we break that down into layers, here's that diffuse component
+											we saw in the first slide.
+											Here is the specular component animating.
+											You can see all the wrinkles happening there.
+											And there is the underlying wireframe mesh.
+											And that is Emily herself.
+									","
+											PAUL DEBEVEC: Bien, si desglosamos eso en capas, aquí está aquel difuso componente
+											que vimos en la primera diapositiva.
+											Aquí está el componente especular en animación.
+											Pueden ver cómo todas las arrugas se presentan allí.
+											Y allí está la malla de la armadura lineal subyacente.
+											Y esa es la propia Emily.
+									","
+											Paul Debevec: Se separarmos em camadas,
+aqui está aquele componente difuso
+											que vimos no primeiro slide.
+											Aqui está o componente
+especular a ser animado.
+											Vemos todas as rugas ali.
+											E aqui está a estrutura
+de malha subjacente.
+											Esta é a própria Emily.
+									","
+											Paul Debevec: Bu yüzden bunu katmanlara ayırırsak, ilk katmanda gördüğünüz
+											bileşeni yayıyor.
+											Burada yansıtıcı bileşen animasyonudur.
+											Orada oluşan kırışıkların hepsini görebilirsiniz.
+											Ve altında yatan bir tel kafes örgüsüdür.
+											Ve Emily'nin kendisi.
+									","
+											Paul Debevec : En décomposant tout ceci en couches, voici la texture diffuse
+											que nous avons vu en première partie.
+											Voici l'animation des reflets spéculaires.
+											Vous pouvez voir toutes les rides apparaître ici.
+											Et voici la maquette de base.
+											Et voici la vraie Emily.
+									","
+											Paul Debevec: Wenn wir dies in Schichten zerlegen, haben wir hier das diffuse Bestandteil,
+											das wir im ersten Dia gesehen haben.
+											Hier animiert der spiegelnde Bestandteil.
+											Man kann da all die Falten sehen, die entstehen.
+											Und hier ist das zugrundeliegende Drahtgitter-Geflecht.
+											Und dies ist Emily selbst.
+									",Animating a photo-real digital face,Paul Debevec,6:06,"TEDx,art,computers,design,film,technology,visualizations,animation"
+"
+","
+","
+","
+","
+","
+",Animating a photo-real digital face,Paul Debevec,6:06,"TEDx,art,computers,design,film,technology,visualizations,animation"
+"
+											Now, where are we going with this here?
+											We've gone a little bit beyond Light Stage 5. This is Light Stage 6,
+											and we're looking at taking this technology
+											and applying it to whole human bodies.
+											This is Bruce Lawmen, one of our researchers in the group,
+											who graciously agreed to get captured running in the Light Stage.
+											And let's take a look at a computer-generated version
+											of Bruce, running in a new environment.
+											And thank you very much.
+											(Applause)
+									","
+											Ahora, ¿adónde vamos con esto?
+											Hemos ido un poquito más allá de la Light Stage 5. Ésta es Light Stage 6.
+											Y estamos estudiando usar esta tecnología
+											y aplicarla a cuerpos humanos enteros.
+											Éste es Bruce Lawmen, uno de nuestros investigadores en el equipo,
+											quien gentilmente aceptó ser captado al correr en la Light Stage.
+											Y vamos a echar un vistazo a la versión generada por computadora
+											de Bruce, corriendo en un nuevo ambiente.
+											Y muchísimas gracias.
+											Aplausos
+									","
+											Para onde vamos nós com isto?
+											Fomos um pouco para além
+do Light Stage 5. Isto é o Light Stage 6.
+											Procuramos pegar nesta tecnologia
+e aplicá-la a corpos humanos inteiros.
+											Este é o Bruce Lawmen,
+um dos nossos investigadores,
+											que permitiu que o digitalizássemos
+enquanto corria no Light Stage.
+											Vamos dar uma olhadela
+a uma versão do Bruce
+											gerada por computador,
+a correr num ambiente novo.
+											Muito obrigado.
+											(Aplausos)
+									","
+											Şimdi, bununla nereye gideceğiz?
+											Bir parça Light Stage 5'in ötesine gideceğiz. Bu Light Stage 6.
+											Bu teknolojiyi almayı ve bütün insan vücuduna
+											uyguluyoruz.
+											Bu Bruce Lawmen, grubumuzdaki araştırmacılarından biri,
+											kibarlıkla Light Stage'te görüntüsünün çekilmesini kabul etti.
+											Yeni bir platformda çalışan Bruce'un bilgisayarda
+											üretilmiş bir versiyonunu bakalım.
+											Ve çok teşekkür ederim.
+											(Alkış)
+									","
+											Alors maintenant, que faire de tout ça?
+											Nous sommes allés un peu plus loin que le Light Stage 5. Voici Light Stage 6.
+											Et nous étudions la possibilité d'utiliser cette technologie
+											en l'appliquant sur le corps humain complet.
+											Voici Bruce Lawmen, un des chercheurs du groupe,
+											qui a gentiment accepté de se faire numériser en courant.
+											Et voilà ce que ça donne dans la version générée par ordinateur
+											de Bruce, courant dans un nouvel environnement.
+											Merci beaucoup.
+											(Applaudissements)
+									","
+											Wohin wird uns all dies führen?
+											Wir sind ein bisschen über Lichtbühne 5 hinaus gegangen. Dies ist Lichtbühne 6.
+											Und wir haben vor, diese Technologie zu übernehmen
+											und auf den ganzen menschlichen Körper anzuwenden.
+											Das ist Bruce Lawmen, einer unserer Forscher in der Gruppe,
+											der liebenswürdigerweise damit einverstanden war, fotografiert zu werden, während er in der Lichtbühne herumlief.
+											Zum Schluss noch ein Blick auf das computergenerierte Modell von Bruce,
+											das in einer neuen Umgebung umherläuft.
+											Vielen Dank.
+											(Applaus)
+									",Animating a photo-real digital face,Paul Debevec,6:06,"TEDx,art,computers,design,film,technology,visualizations,animation"
+"
+","
+","
+","
+","
+","
+",Animating a photo-real digital face,Paul Debevec,6:06,"TEDx,art,computers,design,film,technology,visualizations,animation"

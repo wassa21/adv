@@ -1,0 +1,856 @@
+en,es,tr,pt,fr,de,title,speaker,duration,tags
+"
+","
+","
+","
+","
+","
+",How the progress bar keeps you sane,Daniel Engber,3:47,"design,computers,history,Internet,interface design,programming"
+"
+											How many people are bored at their desk
+											for how many hours every day
+											and how many days a week
+and how many weeks a year
+											for how many years in their life?
+									","
+											¿Cuántas personas
+están aburridas en sus escritorios
+											durante cuántas horas al día
+y cuántos días a la semana
+											y cuántas semanas al año,
+											durante cuántos años de su vida?
+									","
+											Kaç kişi her gün saatlerce
+											masalarında sıkılmış bekliyor
+											ve hayatları boyunca haftanın,
+hatta yılın kaç gününü
+											bu şekilde geçiriyorlar?
+									","
+											Quantas pessoas estão
+aborrecidas na sua secretária
+											durante quantas horas por dia,
+											quantos dias por semana
+e quantas semanas por ano
+											durante quantos anos da sua vida?
+									","
+											Combien de personnes
+s'ennuient à leur bureau
+											pendant combien d'heures par jour,
+de jours par semaine,
+											de semaines par an,
+et d'années de leur vie ?
+									","
+											Wie viele Menschen sitzen täglich
+											stundenlang gelangweilt am Schreibtisch?
+											Für wie viele Tage und Wochen im Jahr,
+											und wie viele Jahre ihres Lebens?
+									",How the progress bar keeps you sane,Daniel Engber,3:47,"design,computers,history,Internet,interface design,programming"
+"
+","
+","
+","
+","
+","
+",How the progress bar keeps you sane,Daniel Engber,3:47,"design,computers,history,Internet,interface design,programming"
+"
+											[Small thing. Big idea.]
+									","
+											[Cosa pequeña. Idea grande.]
+									","
+											[Küçük şey. Büyük fikir.]
+
+									","
+											[Uma coisa pequena.
+Uma grande ideia.]
+									","
+											[Petite chose]
+											[Grande idée]
+									","
+											[Kleines Ding. Große Idee.]
+									",How the progress bar keeps you sane,Daniel Engber,3:47,"design,computers,history,Internet,interface design,programming"
+"
+","
+","
+","
+","
+","
+",How the progress bar keeps you sane,Daniel Engber,3:47,"design,computers,history,Internet,interface design,programming"
+"
+											[Daniel Engber on
+the Progress Bar]
+									","
+											[Daniel Engber habla
+de la barra de progreso]
+									","
+											[Daniel Engber
+İlerleme Çubuğu üzerine.]
+									","
+											[Daniel Engber acerca
+da Barra do Progresso]
+									","
+											[Daniel Engber à propos de
+la barre de progression]
+									","
+											[Daniel Engber:
+Der Fortschrittsbalken]
+									",How the progress bar keeps you sane,Daniel Engber,3:47,"design,computers,history,Internet,interface design,programming"
+"
+","
+","
+","
+","
+","
+",How the progress bar keeps you sane,Daniel Engber,3:47,"design,computers,history,Internet,interface design,programming"
+"
+											The progress bar is just
+an indicator on a computer
+											that something's happening
+inside the device.
+											The classic one that's been used
+for years is a horizontal bar.
+											I mean, this goes back
+to pre-computer versions of this
+											on ledgers, where people would fill in
+a horizontal bar from left to right
+											to show how much of a task
+they had completed at a factory.
+											This is just the same thing on a screen.
+									","
+											La barra de progreso en una computadora
+											es lo que indica que algo está pasando
+dentro del aparato.
+											La barra clásica que se ha utilizado
+durante años es horizontal
+											y es la versión que se usaba
+antes de las computadoras,
+											en libros de contabilidad,
+											donde se rellenaba una barra horizontal
+de izquierda a derecha
+											para indicar qué parte de una tarea
+se había completado en una fábrica.
+									","
+											İlerleme çubuğu
+cihazın içinde olan bir şey için
+											bilgisayarda gösterilen bir işaret sadece.
+											Yıllardır kullanılan klasik şekli
+yatay bir çubuk.
+											Bilgisayar öncesinde de
+bu yöntem kullanılıyordu,
+											fabrikalarda bir işin ne kadarını
+tamamladıklarını göstermek için
+											insanlar büyük defterlere
+soldan sağa bir çubuk çizerlerdi.
+											Şimdi aynı şey ekran üzerinde.
+									","
+											A barra de progresso
+é apenas um indicador num computador
+											que algo está a acontecer
+dentro do aparelho.
+											A barra clássica, que tem sido
+usada ao longo dos anos, é horizontal.
+											Ou seja, começou a ser usada
+antes de ser implementada no computador
+											em livros de registos, onde era
+preenchida da esquerda para a direita
+											para ilustrar quanto de uma tarefa
+fora completada numa fábrica.
+											É o mesmo que ocorre num ecrã.
+									","
+											La barre de progression n'est
+qu'un indicateur sur un ordinateur
+											qui signale une activité
+à l'intérieur de l'appareil.
+											La barre classique utilisée
+depuis des années est horizontale.
+											Ça remonte aux versions d'avant
+les ordinateurs, dans les registres
+											où on remplissait une barre horizontale
+de gauche à droite,
+											pour montrer l'état d'avancement
+d'une tâche dans une usine.
+											Il s'agit de la même chose
+mais sur un écran.
+									","
+											Der Fortschrittsbalken ist
+eine Anzeige im Computer,
+											dass irgend etwas im Gerät passiert.
+											Ein altgedienter Klassiker
+ist ein horizontaler Balken.
+											Der geht zurück auf
+vor-Computer-Versionen
+											in Registern, bei denen Fabrikarbeiter
+von links nach rechts ausfüllten,
+											wie viel von einer Aufgabe
+sie bereits erfüllt hatten.
+											Das ist dasselbe auf dem Bildschirm.
+									",How the progress bar keeps you sane,Daniel Engber,3:47,"design,computers,history,Internet,interface design,programming"
+"
+","
+","
+","
+","
+","
+",How the progress bar keeps you sane,Daniel Engber,3:47,"design,computers,history,Internet,interface design,programming"
+"
+											Something happened in the 70s
+											that is sometimes referred
+to as ""the software crisis,""
+											where suddenly, computers
+were getting more complicated
+											more quickly than anyone
+had been prepared for,
+											from a design perspective.
+											People were using percent-done
+indicators in different ways.
+											So you might have a graphical
+countdown clock,
+											or they would have a line of asterisks
+											that would fill out
+from left to right on a screen.
+											But no one had done
+a systematic survey of these things
+											and tried to figure out:
+											How do they actually affect
+the user's experience
+											of sitting at the computer?
+									","
+											Esto es lo mismo, pero en una pantalla.
+											En los años 70 ocurrió algo
+											que a veces se denomina
+la ""crisis de la programación"",
+											en la cual, de repente, las computadoras
+se volvieron más complicadas
+											más rápidamente de lo que alguien
+pudo anticipar y prepararse
+											desde una perspectiva del diseño.
+											Las personas usaban indicadores
+de porcentaje de completado
+											de maneras diferentes,
+											por ejemplo, un reloj gráfico
+que contaba hacia atrás
+											o una línea de asteriscos
+que se rellenaban de izquierda a derecha
+											en la pantalla.
+											Pero nadie había hecho
+un estudio sistemático
+											para saber cómo las barras 
+afectan en realidad
+											la experiencia del usuario
+que se sienta frente a la computadora.
+									","
+											70'li yıllarda
+											''yazılım krizi'' dediğimiz 
+bir şey yaşandı,
+											birdenbire bilgisayarlar
+tasarımsal açıdan
+											insanların hazırlıklı olduğundan
+çok daha hızlı bir şekilde
+											karmaşıklaşmaya başladı.
+											İnsanlar farklı şekillerde
+yüzde üzerinden göstergeler kullanıyordu.
+											Yani grafik bir geri sayım
+saatiniz varmış gibi
+											ya da onların
+ekranı soldan sağa dolduracak
+											bir dizi asterisk işareti varmış gibi.
+											Ancak kimse bunlara dair
+bir anket yapıp
+											şunu anlamaya çalışmadı:
+											Bunlar bilgisayarın başında oturma
+kullanıcı deneyimini
+											aslında nasıl etkiliyor?
+									","
+											Aconteceu uma coisa, nos anos 70,
+											que, por vezes, é referida
+como a ""crise de software"",
+											em que, de repente, os computadores
+estavam a ficar mais complicados
+											mais rapidamente do que se esperava,
+											numa perspetiva de ""design"".
+											As pessoas estavam a usar os indicadores
+de percentagem de maneiras diferentes.
+											Podia haver um relógio
+de contagem regressiva
+											ou haver uma linha de asteriscos
+											que preenchiam um ecrã
+da esquerda para a direita.
+											Mas ninguém tinha feito
+uma pesquisa sistemática destas coisas,
+											tentando descobrir
+											como as barras de progresso
+afetam a experiência do utilizador
+											sentado no computador.
+									","
+											Dans les années 1970,
+											il y a eu, ce qu'on appelle parfois,
+« la crise du logiciel »,
+											où soudain, les ordinateurs
+sont devenus plus compliqués,
+											plus vite qu'on ne le pensait,
+											du point de vue de la conception.
+											Les indicateurs en pourcentage
+s'utilisaient de différentes manières.
+											On pouvait trouver
+un compte à rebours graphique
+											ou une ligne d’astérisques,
+											qui se remplissait
+de gauche à droite sur l'écran.
+											Mais personne n'avait fait de sondage
+systématique sur ces choses-là
+											et essayé de comprendre
+											quel est leur effet réel
+sur ce que perçoit l'utilisateur
+											assis devant son ordinateur ?
+									","
+											In den 1970-ern passierte etwas
+											mit der Bezeichnung ""Softwarekrise"",
+											als Computer plötzlich
+viel komplizierter wurden,
+											als irgendjemand gerechnet hätte –
+											aus Designer-Perspektive.
+											Leute benutzen Prozent-erledigt-
+Indikatoren unterschiedlich:
+											Es gibt die grafische Countdown-Uhr
+											oder eine Zeile Sternchen (""Asteriske"")
+											die von links nach rechts
+den Bildschirm füllten.
+											Aber niemand hatte je eine 
+systematische Studie gemacht
+											um herauszufinden:
+											Wie wirkt sich das auf das
+Nutzer-Erlebnis aus,
+											wenn man am Computer sitzt?
+									",How the progress bar keeps you sane,Daniel Engber,3:47,"design,computers,history,Internet,interface design,programming"
+"
+","
+","
+","
+","
+","
+",How the progress bar keeps you sane,Daniel Engber,3:47,"design,computers,history,Internet,interface design,programming"
+"
+											This graduate student named Brad Myers,
+											in 1985, decided he would study this.
+											He found that it didn't really matter
+											if the percent-done indicator
+was giving you the accurate percent done.
+											What mattered was
+that it was there at all.
+											Just seeing it there
+made people feel better,
+											and that was the most surprising thing.
+											He has all these ideas
+about what this thing could do.
+											Maybe it could make people
+relax effectively.
+											Maybe it would allow people
+to turn away from their machine
+											and do something else
+of exactly the right duration.
+											They would look and say,
+""Oh, the progress bar is half done.
+											That took five minutes.
+											So now I have five minutes
+to send this fax,""
+											or whatever people were doing in 1985.
+											Both of those things are wrong.
+											Like, when you see that progress bar,
+											it sort of locks your attention
+in a tractor beam,
+											and it turns the experience of waiting
+											into this exciting narrative
+that you're seeing unfold in front of you:
+											that somehow, this time you've spent
+waiting in frustration
+											for the computer to do something,
+											has been reconceptualized as:
+											""Progress! Oh! Great stuff is happening!""
+									","
+											En 1985, un estudiante de postgrado,
+Brad Myers, decidió estudiarlo.
+											Descubrió que en realidad no importaba
+											si el indicador de porcentaje completado
+daba el porcentaje correcto.
+											Lo importante era que
+simplemente estuviera allí.
+											Con solo ver el indicador,
+las personas se sentían mejor,
+											y eso fue lo más sorprendente.
+											Myers tiene todo tipo de ideas
+sobre lo que podría hacer esta cosa.
+											Quizás podría hacer que las personas
+se relajen más eficazmente.
+											Quizás le permitiría a la persona
+alejarse de la máquina
+											y hacer otra cosa durante precisamente
+la duración que queda.
+											Al verla dirían:
+											""La barra de progreso está a medio
+camino y eso llevó cinco minutos.
+											Entonces ahora tengo cinco minutos
+para mandar este fax"",
+											o lo que fuera que se hiciera en 1985.
+											Esas dos ideas son incorrectas.
+											Cuando se ve la barra de progreso,
+											se concentra la atención
+en un rayo que atrae,
+											y eso convierte la experiencia de esperar
+en una narrativa emocionante
+											que se desarrolla frente a uno,
+											y en que, en cierto modo, este tiempo
+que se ha pasado esperando con frustración
+											a que la computadora hiciera algo
+											se ha reconceptualizado a:
+											""¡Progreso! ¡Oh!
+¡Están pasando grandes cosas!""
+									","
+											Brad Myers adlı bu lisansüstü öğrencisi
+											1985 yılında bunu araştırmaya karar verdi.
+											Yüzdeli göstergenin
+aslında doğru yüzdeyi
+											gösterip göstermediğinin
+pek de önemli olmadığını buldu.
+											Asıl önemli olan
+göstergenin orada olmasıydı.
+											Onu orada görmek insanları rahatlatıyordu
+											ve işin şaşırtıcı kısmı da buydu.
+											Bu şeyin neler yapabileceği hakkında
+bir sürü fikri vardı.
+											Belki de insanları etkili bir şekilde 
+rahatlatabiliyordu.
+											Belki de insanların makineden
+uzaklaşmasını sağlıyor
+											ve tam da o aralıkta başka bir şey
+yapmalarına imkan sağlıyordu.
+											Bakıp şöyle diyebiliyorlardı,
+''Çubuğun yarısı dolmuş.
+											Beş dakika sürdü.
+											Bu faksı göndermek için de
+beş dakikam var''
+											veya 1985 yılında
+insanlar ne yapıyorlarsa.
+											Bunların ikisi de yanlış.
+											İlerleme çubuğunu gördüğünüzde
+											dikkatinizi adeta mıknatıs gibi çekiyor
+											ve bekleme deneyimini
+											önünüzde çözülen heyecanlı 
+bir anlatı hâline getiriyor:
+											bilgisayarın bir şey yapmasını 
+sabırsızlıkla bekleyerek
+											harcadığınız bu zaman
+											şu şekilde algılanıyor:
+											''İlerleme. Harika bir şey oluyor!''
+									","
+											Este estudante licenciado,
+chamado Brad Myers,
+											decidiu, em 1985, estudar isso.
+											Descobriu que, na verdade,
+não interessava
+											se o indicador de percentagem
+estava a dar a percentagem precisa.
+											O que interessava era que estivesse lá.
+											Só de vê lo, as pessoas sentiam-se melhor,
+											e essa foi a coisa mais surpreendente.
+											Ele teve muitas ideias sobre
+qual seria o efeito disso.
+											Talvez pudesse fazer
+as pessoas descontraírem-se.
+											Talvez permitisse que as pessoas
+se afastassem da máquina
+											e fizessem outra coisa
+que durasse o mesmo tempo.
+											Podiam olhar e dizer: ""A barra
+de progresso vai em metade.
+											""Isso levou cinco minutos.
+											""Então, agora eu tenho cinco minutos
+para enviar este fax""
+											ou o que quer que as pessoas
+estivessem a fazer em 1985.
+											Ambas as coisas estão erradas.
+											Quando vemos a barra de progresso,
+											a nossa atenção fica presa
+num feixe de atração,
+											e transforma a experiência de esperar
+											nesta emocionante narrativa que vocês
+estão a ver na vossa frente:
+											o tempo que gastámos, frustrados,
+											à espera que o computador
+faça alguma coisa,
+											foi transformado em:
+											""Progresso! Oh!
+Está a acontecer qualquer coisa!""
+									","
+											Brad Myers, étudiant en licence,
+											a décidé d'étudier ça en 1985.
+											Il a trouvé que le fait que l'indicateur
+											montre le pourcentage exact ou pas
+n'avait pas d'importance.
+											L'important était
+la présence même de la barre.
+											On se sentait mieux rien qu'en la voyant,
+											et c'était là le plus surprenant.
+											Il avait plein d'idées quant à ce que
+cette barre pouvait faire.
+											Elle pouvait nous aider
+à nous détendre de manière efficace.
+											Elle pouvait nous permettre
+de nous détourner de notre machine
+											et de faire autre chose
+pendant exactement la même durée.
+											On la regardait et on disait :
+« Oh, la barre de progression est à 50%.
+											Ça a pris cinq minutes.
+											Donc j'ai cinq minutes
+pour envoyer ce fax »,
+											ou pour faire toute autre chose
+qu'on faisait en 1985.
+											Ces deux choses sont fausses.
+											Quand on voit cette barre,
+											elle retient notre attention
+dans un rayon tracteur,
+											et elle transforme
+la perception de l'attente
+											en un récit passionnant
+qui se déroule devant nos yeux :
+											d'une manière ou d'une autre,
+ce temps d'attente frustrant
+											devant l'ordinateur qui exécute une tâche,
+											a été reconceptualisé ainsi :
+											« En cours ! Oh ! Il se passe
+des choses géniales ! »
+									","
+											Brad Myers, ein Aufbaustudent,
+											entschloss sich 1985, dies zu untersuchen.
+											Er fand heraus, dass es nicht wichtig war,
+											ob der 5%-erledigt-Marker
+dir den exakten Prozentwert gab.
+											Wichtig war nur,
+dass da überhaupt etwas war.
+											Leute fühlten sich besser,
+wenn sie etwas sahen,
+											und das war überraschend!
+											Er hat all diese Ideen,
+was dieses Ding machen könnte:
+											Vielleicht könnten Leute
+besser entspannten.
+											Vielleicht könnten Leute
+sich von der Maschine abwenden
+											und etwas anderes tun,
+was genauso lange dauert.
+											Sie würden sagen: ""Oh,
+der Statusbalken ist halb durch.
+											Das dauerte 5 Minuten.
+											Dann hab ich noch 5 Minuten
+um dieses Fax zu schicken"",
+											oder was man 1985 halt so tat.
+											Beide diese Ideen sind falsch.
+											Denn wenn man den Statusbalken sieht,
+											zieht der die Aufmerksamkeit
+wie ein Bannstrahl,
+											und verwandelt die Erfahrung des Wartens
+											in diese spannende Geschichte,
+die vor dir ausgebreitet wird:
+											dass irgendwie diese Zeit
+frustrierenden Wartens,
+											bis der Computer etwas macht,
+											verwandelt wird in:
+											""Fortschritt! Tolle Dinge passieren!""
+									",How the progress bar keeps you sane,Daniel Engber,3:47,"design,computers,history,Internet,interface design,programming"
+"
+","
+","
+","
+","
+","
+",How the progress bar keeps you sane,Daniel Engber,3:47,"design,computers,history,Internet,interface design,programming"
+"
+											[Progress...]
+									","
+											[Progreso...]
+									","
+											[İlerleme...]
+									","
+											[Progresso ...]
+									","
+											[En cours...]
+									","
+											[Fortschritt …]
+									",How the progress bar keeps you sane,Daniel Engber,3:47,"design,computers,history,Internet,interface design,programming"
+"
+","
+","
+","
+","
+","
+",How the progress bar keeps you sane,Daniel Engber,3:47,"design,computers,history,Internet,interface design,programming"
+"
+											But once you start thinking
+about the progress bar
+											as something that's more
+about dulling the pain of waiting,
+											well, then you can start fiddling
+around with the psychology.
+									","
+											Pero una vez que uno empieza a pensar
+en la barra de progreso
+											como algo cuyo objetivo
+es atenuar el dolor de esperar,
+											pues, puede empezar a juguetear
+con la psicología.
+									","
+											Ancak ilerleme çubuğunu
+beklemenin acısını dindiren
+											bir şeyden daha fazlası olarak
+düşünmeye başladığınızda
+											işte o zaman işin psikolojik
+yanıyla da ilgilenebilirsiniz.
+									","
+											Mas quando começamos a pensar
+na barra de progresso
+											como algo que é sobretudo
+acalmar o aborrecimento da espera,
+											podemos começar
+a brincar com a psicologia.
+									","
+											Mais quand on commence
+à voir la barre de progression
+											comme quelque chose qui atténue
+la pénibilité de l'attente,
+											on peut alors commencer
+à bidouiller la manière de la penser.
+									","
+											Aber wenn man den Statusbalken begreift
+											als etwas, dass nur
+die Qual des Wartens mildern soll,
+											dann kann man mit
+der Psyche herumspielen:
+									",How the progress bar keeps you sane,Daniel Engber,3:47,"design,computers,history,Internet,interface design,programming"
+"
+","
+","
+","
+","
+","
+",How the progress bar keeps you sane,Daniel Engber,3:47,"design,computers,history,Internet,interface design,programming"
+"
+											So if you have a progress bar
+that just moves at a constant rate —
+											let's say, that's really
+what's happening in the computer —
+											that will feel to people
+like it's slowing down.
+											We get bored.
+											Well, now you can start
+trying to enhance it
+											and make it appear to move
+more quickly than it really is,
+											make it move faster at the beginning,
+like a burst of speed.
+											That's exciting, people feel like,
+""Oh! Something's really happening!""
+											Then you can move back into a more
+naturalistic growth of the progress bar
+											as you go along.
+											You're assuming that people are focusing
+on the passage of time —
+											they're trying to watch grass grow,
+											they're trying to watch a pot of water,
+waiting for it to boil,
+											and you're just trying
+to make that less boring,
+											less painful and less frustrating
+											than it was before.
+									","
+											Así que si tenemos una barra de progreso
+que se mueve a paso constante
+											— digamos que esto es realmente
+lo que ocurre en la computadora —
+											parecerá que se está desacelerando.
+											Nos aburrimos.
+											Ahora podemos tratar de mejorarla
+											y hacerla parecer que se mueve
+más rápido de lo que lo hace,
+											hacerla mover más rápido al principio,
+como con una explosión de velocidad.
+											Es emocionante, la gente piensa,
+""¡Está pasando algo de verdad!""
+											Luego se puede volver a una subida
+más natural de la barra de progreso.
+											Se supone que las personas se centran
+en el paso del tiempo,
+											tratan de ver crecer el pasto,
+											tratan de mirar una olla de agua
+esperando a que hierva,
+											y tratamos de hacerlo menos aburrido,
+											menos doloroso y menos frustrante
+											que antes.
+									","
+											Sabit bir hızda ilerleyen 
+bir ilerleme çubuğuna bakıyorsanız —
+											Bilgisayarda şu an olanın
+bu olduğunu varsayalım —
+											bu durum insanlarda
+ilerleme yavaşlıyor hissi yaratacaktır.
+											Sıkılıyoruz.
+											Şimdi buna hız kazandırmaya çalışabilir
+											ve olduğundan daha hızlı
+ilerliyor izlenimi yaratabilir,
+											en başta süper hızlı ilerletebiliriz.
+											Heyecanlı olur, insanlar 
+''Bu işi oluyor!'' hissine kapılır.
+											Sonra ilerleme çubuğunun biraz daha
+doğal bir hızda ilerlemesi için
+											biraz geri adım atarız.
+											İnsanların aradan geçen zamana
+odaklandığını sanıyorsunuz —
+											çimlerin büyüdüğünü görmek istiyor,
+											bir kap suyu izleyip
+kaynadığını görmek istiyor
+											ve sadece bunu daha az sıkıcı
+hâle getiriyorsunuz,
+											önceleri olduğundan daha acısız
+											ve daha az sinir bozucu.
+									","
+											Se houver uma barra de progresso
+que se move a uma taxa constante
+											que, digamos, é realmente
+o que acontece no computador,
+											Isso fará com que as pessoas sintam
+que a velocidade diminui.
+											Ficamos aborrecidos.
+											Agora podemos começar
+a tentar melhorá-lo.
+											e fazer com que pareça mover-se
+mais rapidamente do que se move,
+											fazer com que ele se mova mais depressa
+no começo, como uma explosão.
+											Isso é empolgante, sentimos:
+""Oh! Algo está realmente a acontecer!""
+											Depois podemos voltar a um crescimento
+mais realista da barra
+											com a continuação.
+											Assumimos que as pessoas estão
+a concentrar-se na passagem do tempo
+											— estão a tentar ver a relva a crescer,
+											estão a olhar para uma panela com água,
+à espera que ela ferva,
+											e estão a tentar tornar isso menos chato,
+											menos custoso e menos frustrante
+do que era antes.
+									","
+											Donc si on a une barre de progression
+qui se déplace à un rythme constant —
+											disons que c'est ce qui se passe
+vraiment à l'intérieur de l'ordinateur —
+											on aura l'impression qu'elle ralentit.
+											On s'en lasse.
+											On peut désormais commencer
+à essayer de l'améliorer
+											et créer l'illusion
+qu'elle avance plus vite,
+											en la faisant bouger plus vite au début, 
+comme une explosion de vitesse.
+											C'est excitant.
+											On penserait : « Oh ! Il se passe
+vraiment quelque chose ! »
+											On peut ensuite revenir à une barre de
+progression avançant plus naturellement
+											au fur et à mesure.
+											On suppose que les gens
+se concentrent sur le passage du temps —
+											ils essaient de regarder l'herbe pousser,
+											de regarder l'eau arriver à ébullition,
+											et on essaie seulement de rendre cela
+											moins ennuyeux, 
+moins douloureux et moins frustrant
+											qu'il ne l'était avant.
+									","
+											Wenn der Fortschrittsbalken
+sich konstant bewegt –
+											weil das vielleicht ist,
+was wirklich im Computer passiert –
+											fühlen die Leute,
+als ob er sich verlangsame.
+											Wir langweilen uns.
+											Jetzt kann man anfangen, ihn zu verbessern
+											und ihn wirken lassen,
+als bewege er sich schneller.
+											Oder am Anfang schneller,
+wie ein Tempo-Anschub.
+											Das ist aufregend, und Leute denken:
+""Oh! Da passiert wirklich was!""
+											Dann kann man das auf ein natürliches 
+Wachstum des Balkens zurückfahren,
+											je weiter er kommt.
+											Man glaubt, dass Leute sich auf 
+das Zeitverstreichen konzentrieren
+											– Gras beim Wachsen zusehen,
+											oder dem Topf Wasser beim Kochen zusehen –
+											und man versucht bloß,
+es weniger langweilig,
+											weniger schmerzhaft
+und frustrierendzu machen
+											als es vorher war.
+									",How the progress bar keeps you sane,Daniel Engber,3:47,"design,computers,history,Internet,interface design,programming"
+"
+","
+","
+","
+","
+","
+",How the progress bar keeps you sane,Daniel Engber,3:47,"design,computers,history,Internet,interface design,programming"
+"
+											So the progress bar at least gives you
+											the vision of a beginning and an end,
+											and you're working towards a goal.
+											I think in some ways,
+it mitigates the fear of death.
+											Too much?
+									","
+											Así que la barra de progreso 
+da por lo menos
+											la visión de un principio y un fin,
+											que se trabaja hacia un objetivo.
+											Creo que, en cierta forma,
+mitiga el miedo a la muerte.
+											¿Es decir demasiado?
+									","
+											Yani ilerleme çubuğu en azından
+											size bir başlangıç 
+ve bitiş noktası sunuyor
+											ve bir amaca doğru ilerliyorsunuz.
+											Bence bazı yönlerden
+ölüm korkusunu hafifletiyor.
+											Abarttım mı?
+									","
+											Então, a barra de progresso,
+pelo menos,
+											dá-nos a visão de um começo e de um fim,
+											e trabalhamos para um objetivo.
+											Eu acho que, de certa forma,
+mitiga o medo da morte.
+											É demasiado?
+									","
+											Donc la barre de progression
+nous donne au moins
+											une vision du début et de la fin,
+											et on travaille vers un but.
+											Je pense qu'à certains égards,
+elle atténue la peur de la mort.
+											C'en est trop ?
+									","
+											Wenigstens gibt einem
+der Fortschrittsbalken
+											eine Vision des Anfangs vom Ende,
+											und man arbeite auf ein Ziel hin.
+											Ich glaube, ein wenig
+lindert das die Angst vorm Tod.
+											Zu viel?
+									",How the progress bar keeps you sane,Daniel Engber,3:47,"design,computers,history,Internet,interface design,programming"
+"
+","
+","
+","
+","
+","
+",How the progress bar keeps you sane,Daniel Engber,3:47,"design,computers,history,Internet,interface design,programming"

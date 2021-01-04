@@ -1,0 +1,3176 @@
+en,es,pt,tr,fr,de,title,speaker,duration,tags
+"
+","
+","
+","
+","
+","
+",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+											So I think data can actually make us more human.
+											We're collecting and creating all kinds of data about how we're living our lives,
+											and it's enabling us to tell some amazing stories.
+											Recently, a wise media theorist Tweeted,
+											""The 19th century culture was defined by the novel,
+											the 20th century culture was defined by the cinema,
+											and the culture of the 21st century
+											will be defined by the interface.""
+											And I believe this is going to prove true.
+											Our lives are being driven by data,
+											and the presentation of that data is an opportunity
+											for us to make some amazing interfaces that tell great stories.
+											So I'm going to show you a few of the projects
+											that I've been working on over the last couple years
+											that reflect on our lives and our systems.
+									","
+											Creo que los datos realmente nos pueden hacer más humanos.
+											Estamos creando y guardando muchísimos datos acerca de cómo vivimos nuestras vidas
+											y esto nos está permitiendo contar algunas historias increíbles.
+											Hace poco un sagaz teórico de los medios twiteó:
+											""La cultura del siglo 19 fue definida por la novela,
+											la cultura del siglo 20 fue definida por el cine,
+											y la cultura del siglo 21
+											será definida por la interfaz.""
+											Y creo que esto va a terminar resultando cierto.
+											Nuestras vidas están siendo gobernadas por los datos,
+											y la presentación de esos datos nos da la oportunidad
+											de hacer unas interfaces increíbles que cuenten grandes historias.
+											Así que les voy a mostrar algunos de los proyectos
+											en los que he estado trabajando durante los últimos dos años
+											que reflexionan sobre nuestras vidas y nuestros sistemas.
+									","
+											Penso que os dados podem
+tornar-nos mais humanos.
+											Recolhemos e criamos todo o tipo de dados
+sobre o ambiente da nossa vida,
+											e isso permite-nos contar
+histórias fascinantes.
+											Há pouco, um sábio teórico
+dos ""media"" ""twittou"":
+											""A cultura do século XIX
+foi definida pelo romance,
+											""a cultura do século XX
+foi definida pelo cinema,
+											""e a cultura do século XXI
+vai ser definida pela interface.""
+											Acredito que isto vai ser verdade.
+											A nossas vida está
+a ser guiada por dados.
+											A apresentação desses dados
+é uma oportunidade
+											de criar interfaces extraordinárias
+que contam grandes histórias.
+											Vou mostrar alguns projetos
+											em que tenho trabalhado,
+recentemente,
+											que refletem a nossa vida
+e os nossos sistemas.
+									","
+											Pekala, verilerin bizi daha insancıl kılabileceğini düşünüyorum.
+											Biz, hayatımızı nasıl yaşadığımız hakkında her türlü veriyi topluyor ve yaratıyoruz,
+											ve bu bazı şaşırtıcı hikayeler anlatmamızı sağlıyor.
+											Son zamanlarda, akıllı bir medya teorisyeni Tweeter mesajında şöyle dedi,
+											19. yüzyıl kültürünü roman tanımlamıştı,
+											20. yüzyıl kültürünü sinema tanımlamıştı,
+											ve 21. yüzyılın kültürünü de
+											arayüz tanımlayacak.""
+											Ve bunun doğruluğunun ortaya çıkacağına inanıyorum.
+											Hayatlarımıza veriler yön veriyor,
+											ve bu verilerin sunumu büyük hikayeler anlatmak için
+											bazı şaşırtıcı arayüzler yapmada bizim için bir fırsattır.
+											Ben de son birkaç yıldır üzerinde çalıştığım
+											yaşamlarımızı ve sistemlerimizi derinlemesine irdeleyen
+											projelerden bazılarını göstereceğim.
+									","
+											Moi je pense que les données peuvent en fait nous rendre plus humains.
+											Nous récoltons et créons toutes sortes de données sur notre environnement de vie,
+											et cela nous permet de raconter des histoires étonnantes.
+											Récemment, un sage théoricien des medias a tweeté,
+											""La culture du 19ème siècle était définie par le roman,
+											la culture du 20ème siècle était définie par le cinéma,
+											et la culture du 21ème siècle
+											sera définie par l'interface.""
+											Et je crois que cela va se vérifier.
+											Nos vies sont pilotées par les données,
+											et la présentation des ces données est pour nous une opportunité
+											de créer des interfaces étonnantes qui racontent de grandes histoires.
+											Je vais donc vous montrer quelques-uns des projets
+											sur lesquels j'ai travaillé ces deux dernières années
+											et qui reflètent nos vies et nos systèmes.
+									","
+											Ich denke Daten können uns tatsächlich noch menschlicher machen.
+											Wir sammeln und produzieren alle möglichen Arten von Daten, die uns unsere Lebensweise aufzeigen,
+											und sie erlauben uns, verblüffende Geschichten zu erzählen.
+											Vor kurzem hat ein weiser Medientheoretiker Folgendes getwittert:
+											Im 19. Jahrhundert wurde die Kultur durch den Roman definiert,
+											Im 20. Jahrhundert durch das Kino,
+											und die Kultur des 21. Jahrunderts
+											wird durch das Interface definiert werden.
+											Und ich denke, es wird sich bewahrheiten.
+											Unser Leben wird durch Daten bestimmt,
+											und die Präsentation dieser Daten ist für uns eine Chance
+											fantastische Interfaces zu erschaffen, die großartige Geschichten erzählen können.
+											Ich werde euch einige Projekte zeigen,
+											an denen ich über die letzten Jahre gearbeitet habe,
+											die ein Licht auf unser Leben und unsere Systeme werfen.
+									",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+","
+","
+","
+","
+","
+",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+											This is a project called Flight Patterns.
+											What you're looking at is airplane traffic
+											over North America for a 24-hour period.
+											As you see, everything starts to fade to black,
+											and you see people going to sleep.
+											Followed by that, you see on the West coast
+											planes moving across, the red-eye flights to the East coast.
+											And you'll see everybody waking up on the East coast,
+											followed by European flights coming in the upper right-hand corner.
+											Everybody's moving from the East coast to the West coast.
+											You see San Francisco and Los Angeles
+											start to make their journeys down to Hawaii in the lower left-hand corner.
+									","
+											Este es un proyecto llamado Patrones de Vuelo.
+											Lo que estamos viendo es el tráfico de aviones
+											sobre América del Norte durante un período de 24 horas.
+											Como pueden ver, todo comienza a oscurecer
+											y pueden ver a la gente yéndose a dormir.
+											Pueden ver después de eso en la costa oeste
+											a los aviones moviéndose a la costa este, los vuelos nocturnos.
+											Y verán a todos despertándose en la costa este,
+											seguidos por los vuelos europeos llegando en la esquina superior derecha.
+											Todo el mundo se mueve de la costa este a la costa oeste.
+											Pueden ver a San Francisco y a Los Ángeles
+											empezar a hacer sus viajes hacia Hawái, en la esquina inferior izquierda.
+									","
+											Este é um projeto
+chamado Flight Patterns.
+											Estão a ver o tráfego aéreo
+											sobre os EUA 
+num período de 24 horas.
+											Como vemos, começa tudo a escurecer
+											e vemos pessoas a adormecer.
+											Depois, vemos na costa oeste
+											os aviões na direção da costa este,
+são voos noturnos.
+											Vemos as pessoas a acordar na costa este,
+											e de seguida a chegada de voos europeus,
+no canto superior direito.
+											Toda a gente migra da costa leste
+para a costa oeste.
+											Vemos San Francisco e Los Angeles
+											a começarem as viagens até ao Hawai
+no canto inferior esquerdo.
+									","
+											Bu, Uçuş Modelleri adlı bir proje.
+											Baktığınız şey ise, 24 saatlik bir süre için
+											Kuzey Amerika üzerindeki uçak trafiğidir.
+											Gördüğünüz gibi, her şey koyulaşmaya başlar,
+											ve uyumaya giden insanları görürsünüz.
+											Bunun ardından, Batı yakasında uçakların karşıya,
+											gece uçuşlarının Doğu yakasına hareket ettiğini görürüz.
+											Ve sağ üst köşedeki gelen Avrupa uçuşlarının ardından,
+											Doğu kıyısında herkesin uyandığını göreceksiniz.
+											Herkes Doğu yakasından Batı yakasına doğru hareket ediyor.
+											San Fransisco ve Los Angeles uçaklarının
+											sol alt köşedeki Hawaii'ye doğru seyahat etmeye başladığını görüyorsunuz.
+									","
+											Voici un projet nommé Flight Patterns.
+											Ce que vous voyez là est le trafic aérien
+											au-dessus de l'Amérique du Nord pendant 24h.
+											Comme vous voyez, tout se fond jusqu'à devenir noir,
+											et vous voyez les gens s'endormir.
+											Après ça, vous voyez sur la côte Ouest
+											des avions qui traversent, les vols à l'oeil rouge vers la côte Est.
+											Et vous allez voir tout le monde s'éveiller sur la côte Est,
+											suivis par les vols européens qui arrivent dans le coin en haut à droite.
+											Tout le monde migre de la côte Est à la côte Ouest.
+											Vous voyez San Francisco et Los Angeles
+											commencer leur voyage vers Hawaii dans le coin en bas à gauche.
+									","
+											Das ist ein Projekt mit dem Namen Flight Patterns.
+											Was ihr seht, sind die Flugbewegungen
+											über Nordamerika über einen Zeitraum von 24-Stunden.
+											Wie ihr seht, verdunkelt sich alles
+											und ihr könnt sehen wie die Menschen zu Bett gehen.
+											Darauf folgend seht ihr, wie an der Westküste
+											einige Flüge das Land überqueren, die Red-eye Flüge zur Ostküste.
+											Und dann seht ihr wie die Menschen an der Ostküste aufwachen,
+											gefolgt von europäischen Flügen, die oben rechts reinkommen.
+											Alle bewegen sich von der Ostküste zu Westküste.
+											Ihr seht San Francisco und Los Angeles
+											wie sie sich auf dem Weg nach Hawaii begeben, in der unteren linken Ecke.
+									",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+","
+","
+","
+","
+","
+",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+											I think it's one thing to say there's 140,000 planes
+											being monitored by the federal government at any one time,
+											and it's another thing to see that system as it ebbs and flows.
+											This is a time-lapse image of that exact same data,
+											but I've color-coded it by type,
+											so you can see the diversity of aircraft that are in the skies above us.
+											And I started making these, and I put them into Google Maps
+											and allow you to zoom in and see individual airports
+											and the patterns that are occurring there.
+											So here we can see the white represents low altitudes,
+											and the blue are higher altitudes.
+											And you can zoom in. This is taking a look at Atlanta.
+											You can see this is a major shipping airport,
+											and there's all kinds of activity there.
+											You can also toggle between altitude
+											for model and manufacturer.
+											See again, the diversity.
+											And you can scroll around and see
+											some of the different airports and the different patterns that they have.
+											This is scrolling up the East coast.
+											You can see some of the chaos that's happening in New York
+											with the air traffic controllers
+											having to deal with all those major airports next to each other.
+									","
+											Creo que es una cosa decir que en cada momento
+											hay 140 mil aviones siendo monitoreados por el gobierno federal,
+											y otra cosa es ver ese sistema mientras va fluyendo de lado a lado.
+											Esta es una imagen del lapso de tiempo de esos mismos datos,
+											pero le he puesto color a cada tipo,
+											para que puedan ver todos los distintos aviones que están en los cielos encima de nosotros.
+											Y empecé a hacer estos y los puse en Google Maps
+											y pueden hacerles zoom y ver aeropuertos específicos
+											y los patrones que se están produciendo allí.
+											Y aquí podemos ver como el blanco representa altitudes bajas
+											y el azul representa altitudes superiores.
+											Y puedes acercarte. Aquí estamos viendo a Atlanta.
+											Pueden ver que este es un aeropuerto de carga muy importante,
+											y hay muchas cosas distintas pasando.
+											También se puede ir mirando la altitud
+											cambiándo entre modelos y fabricantes.
+											Vean de nuevo la diversidad.
+											Y pueden moverse alrededor y ver
+											algunos de los diferentes aeropuertos y los diferentes patrones que muestran.
+											Aquí nos movemos hacia arriba por la costa este.
+											Pueden ver un poco del caos que tienen en Nueva York
+											porque los controladores de tránsito aéreo
+											tienen que lidiar con todos esos aeropuertos importantes muy cercanos.
+									","
+											Acho que uma coisa é dizer
+que há 140 000 aviões
+											seguidos pelo governo federal
+num dado momento,
+											e outra coisa é observar
+esse sistema a desenvolver-se.
+											Isto é uma imagem acelerada
+destes mesmos dados,
+											codificados com cores por tipo,
+											e assim podem ver a diversidade
+de aviões que voam sobre nós.
+											Comecei a fazer isto e depois
+coloquei no Google Maps.
+											Podem fazer zoom e observar
+os aeroportos individualmente,
+											e os padrões que estão a ocorrer.
+											Aqui o branco representa baixas altitudes,
+											e o azul representa altas altitudes.
+											Podemos fazer zoom. 
+Aqui estamos a observar Atlanta.
+											Trata-se de um aeroporto de carga,
+											há aqui todo o tipo de atividade.
+											É possível também distinguir
+a partir da altitude,
+											por modelo e fabricante.
+											De novo, a diversidade.
+											Podemos explorar e ver
+											alguns dos aeroportos
+e os seus diferentes padrões.
+											Aqui estamos sobre a costa este.
+											Vemos um pouco do caos
+que existe em Nova Yorque
+											com os controladores aéreos
+											a terem de lidar com todos os principais
+aeroportos próximos uns dos outros.
+									","
+											Herhangi bir zamanda federal hükümet tarafından izlenen
+											140,000 uçak olduğunu söylemek başka şey,
+											o sistemin gelgit akışını gördüğünü söylemek ise başka bir şey.
+											Bu aynı verinin hızlandırılmış görüntüsü,
+											fakat türüne göre renkli kodlu yaptım,
+											böylece yukarıda gökyüzünde bulunan uçak çeşitliliğini görebilirsiniz.
+											Ve bunları yapmaya başladım, onları Google Maps'e koydum
+											ve orada ortaya çıkan tek tek havaalanları ile desenleri
+											görmeniz için yakınlaştırmanıza izin verdim.
+											Yani burada beyazın düşük rakımı, mavinin de yüksek
+											rakımı temsil ettiğini görebiliyoruz.
+											Ve yakınlaştırabiliyorsunuz. Atlanta'ya bir göz atalım.
+											Bunun büyük bir nakliye havaalanı olduğunu görebilirsiniz,
+											ve orada tüm faaliyet çeşitleri mevcut.
+											Ayrıca, model ve üretici için rakım arasında
+											geçiş yapabilirsiniz.
+											Şu çeşitliliğe tekrar bakın.
+											Ve bunu, etrafında kaydırabilirsiniz ve
+											sahip oldukları farklı havaalanları ile farklı desenleri bir arada görebilirsiniz.
+											Doğu yakasına kadar böyle kaydırılır.
+											Hava trafik kontrolörleri ile New York'ta oluşan keşmekeşin
+											birazını görebilirsiniz,
+											yan yana tüm bu büyük havaalanları ile uğraşmak zorundalar.
+									","
+											Je pense que c'est une chose de dire qu'il y a 140 000 avions
+											suivis par le gouvernement fédéral à un instant donné,
+											et c'est une autre chose de voir ce système dans son flux et reflux.
+											C'est une prise de vue accélérée de l'exacte même donnée,
+											mais je l'ai codée en couleur par type,
+											pour que l'on puisse voir la diversité des avions dans le ciel au-dessus de nos têtes.
+											Et j'ai commencé à faire ces vues et je les ai intégrées à Google Maps
+											vous pouvez zoomer et voir chaque aéroport
+											et les motifs qui se dessinent.
+											Ici nous voyons que le blanc représente les basses altitudes,
+											et le bleu ce sont les altitudes plus élevées.
+											Et vous pouvez zoomer. Là, c'est une vue d'Atlanta.
+											Vous pouvez voir ici un important aéroport de fret,
+											et il y a toutes sortes d'activités là-bas.
+											Vous pouvez aussi basculer d'une altitude à l'autre
+											par modèle et fabricant.
+											Voyez, encore, la diversité.
+											Et vous pouvez faire défiler l'ensemble et voir
+											quelques-uns des différents aéroports et leurs différents motifs.
+											Voilà une vue en remontant la côte Est.
+											Vous voyez un peu du chaos qui anime New York
+											avec les contrôleurs aériens
+											qui doivent gérer tous ces aéroports majeurs proches les uns des autres.
+									","
+											Ich denke, es ist eine Sache zu sagen dass es 140,000 Flugzeuge gibt,
+											die durch die Bundesregierung jederzeit beobachtet werden,
+											und eine andere, die Ströme des System zu sehen.
+											Das ist ein Zeitraffer-Bild der exakt gleichen Daten,
+											jedoch habe ich es nach Typen eingefärbt,
+											so könnt ihr die Vielfalt der Flugzeuge sehen, die sich am Himmel über uns bewegen.
+											Und ich fing an, diese zu erstellen und sie in Google Maps zu setzen
+											und es erlaubt euch rein zu zoomen und die einzelnen Flughäfen zu sehen,
+											und die Muster, die hier entstehen.
+											Hier sehen wir die weißen, die für die tiefen Flughöhen stehen
+											und die blauen zeigen die hohen Flughöhen.
+											Und man kann rein zoomen. Das hier zeigt Atlanta.
+											Man sieht dass es ein wichtiger Frachtflughafen ist,
+											und dass sich dort alle möglichen Aktivitäten abspielen.
+											Man kan zwischen den Höhen flippen
+											und verschiedene Modelle und Fabrikanten anzeigen lassen.
+											Hier wieder, die Vielfalt.
+											Und man kann herum scrollen und
+											einige der verschiedenen Flughäfen und unterschiedlichen Muster sehen, die es gibt.
+											Hier scrollen wir die Ostküste hoch.
+											Ihr könnt das Chaos von New York sehen,
+											mit der Luftverkehrskontrolle,
+											die mit all den grossen Flughäfen nebeneinander klar kommen muss.
+									",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+","
+","
+","
+","
+","
+",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+											So zooming back out real quick,
+											we see, again, the U.S. — you get Florida down in the right-hand corner.
+											Moving across to the West coast,
+											you see San Francisco and Los Angeles —
+											big low-traffic zones
+											across Nevada and Arizona.
+											And that's us down there in L.A. and Long Beach on the bottom.
+											I started taking a look as well at different perimeters,
+											because you can choose what you want to pull out from the data.
+											This is looking at ascending versus descending flights.
+											And you can see, over time, the ways the airports change.
+											You see the holding patterns that start to develop
+											in the bottom of the screen.
+											And you can see, eventually the airport actually flips directions.
+									","
+											Y saliéndonos rápidamente vemos,
+											de nuevo los EE.UU.; pueden ver a Florida en la esquina derecha.
+											Moviéndose por la costa oeste,
+											pueden ver a San Francisco y a Los Ángeles;
+											grandes zonas de bajo tráfico
+											a lo largo de Nevada y Arizona.
+											Y nosotros estamos ahí abajo en Los Ángeles y Long Beach en el borde inferior.
+											También empecé a mirar diferentes parámetros,
+											porque pueden elegir qué quieren obtener de los datos.
+											Aquí estamos mirando vuelos ascendentes versus descendentes.
+											Y pueden ver, con el tiempo, cómo cambian los aeropuertos.
+											Pueden ver los ciclos de espera que se comienzan a desarrollar
+											en la parte inferior de la pantalla.
+											Y pueden ver que después de un tiempo se invierte la dirección del aeropuerto.
+									","
+											Voltando atrás,
+											vemos de novo os EUA
+— a Florida está no canto inferior direito.
+											Movendo para a costa oeste,
+											vemos San Francisco e Los Angeles,
+											grandes zonas de tráfego baixo
+											pelo Nevada e Arizona.
+											E estes somos nós em L.A.
+e Long Beach no fundo.
+											Comecei por olhar
+para parâmetros diferentes,
+											porque podem escolher
+o que querem retirar dos dados.
+											Aqui estamos a ver as descolagens
+versus aterragens.
+											Vemos como, com o tempo,
+os aeroportos mudam.
+											Vemos os padrões
+que começam a desenvolver-se
+											no fundo do ecrã.
+											Vemos que, por fim,
+o aeroporto muda a direção.
+									","
+											Öyleyse bunu hızlıca uzaklaştırdığımızda,
+											tekrar, ABD'yi görüyoruz — sağ aşağı köşesinde Florida'yı bulursunuz.
+											Batı yakasına ilerlediğimizde,
+											San Francisco ve Los Angeles'ı görüyorsunuz —
+											Nevada ve Arizona'nın karşısında
+											trafik bölgeleri son derece az.
+											Ve LA ile onun altındaki Long Beach 'de işte biz bulunuyoruz.
+											Farklı görüş alanı sınırlarına da bakmaya başladım,
+											çünkü verilerden neyi çekip almak istiyorsanız seçebilirsiniz.
+											Artan uçuşlara karşılık azalan uçuşlara bir bakış bu.
+											Ve zaman içinde havaalanlarının değiştiği yolları görebilirsiniz.
+											Ekranın altında oluşmaya başlayan beklemedeki
+											uçuş yollarını görüyorsunuz.
+											Ve sonunda havaalanının gerçekten yönünü çevirdiğini görebilirsiniz.
+									","
+											En dézoomant très vite
+											nous voyons, à nouveau, les Etats-Unis — vous avez la Floride en bas à droite.
+											En se déplaçant jusqu'à la côte Ouest,
+											vous voyez San Francisco et Los Angeles —
+											de grandes zones à faible trafic
+											le long du Nevada et de l'Arizona.
+											Et nous voici là, à Los Angeles et Long Beach en bas.
+											J'ai aussi commencé jeter un oeil aux différents paramètres,
+											car on peut choisir ce que l'on veut extraire des données.
+											Voilà une vue comparant les vols ascendants et descendants.
+											Et vous voyez, dans le temps, comment les aéroports changent.
+											Vous voyez les motifs persistants qui commencent à se développer
+											en bas de l'écran.
+											Et vous voyez finalement l'aéroport qui change vraiment de directions.
+									","
+											Jetzt zoomen wir schnell raus
+											und sehen wieder die USA – da ist Florida unten in der rechten Ecke.
+											Bewegen wir uns über die Westküste,
+											sieht man San Francisco und Los Angeles–
+											grosse verkehrsfreie Zonen
+											über Nevada und Arizona.
+											Und das sind wir hier in L.A. und Long Beach am unteren Rand.
+											Ich habe auch einen Blick auf die verschiedenen Perimeter geworfen,
+											da man auswählen kann was man aus der Datenmenge hervorheben möchte.
+											Das hier zeigt die Abflüge im Vergleich zu den Anflügen.
+											Und man kann sehen, wie sich die Flughäfen über die Zeit verändern.
+											Man sieht die Warteschleifen,
+											die unten auf dem Bildschirm entstehen
+											Und man sieht wie der Flughafen schliesslich die Richtung wechselt.
+									",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+","
+","
+","
+","
+","
+",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+											So this is another project that I worked on with the Sensible Cities Lab at MIT.
+											This is visualizing international communications.
+											So it's how New York communicates
+											with other international cities.
+											And we set this up as a live globe in the Museum of Modern Art in New York
+											for the Design the Elastic Mind exhibition.
+											And it had a live feed with a 24-hour offset,
+											so you could see the changing relationship
+											and some demographic info
+											coming through AT&amp;T's data and revealing itself.
+											This is another project I worked on with Sensible Cities Lab
+											and CurrentCity.org.
+											And it's visualizing SMS messages being sent in the city of Amsterdam.
+											So you're seeing the daily ebb and flow
+											of people sending SMS messages from different parts of the city,
+											until we approach New Year's Eve, where everybody says, ""Happy New Year!""
+									","
+											Y este es otro proyecto en el que trabajé con el Laboratorio de Ciudades Sensibles del MIT.
+											Aquí estamos visualizando las comunicaciones internacionales.
+											Y es como Nueva York se comunica
+											con otras ciudades internacionales.
+											Y lo pusimos como un globo terráqueo en vivo en el Museo de Arte Moderna
+											para la exhibición de ""Diseño y la Mente Elástica"".
+											Y tenía una transmisión en vivo con 24 horas de retardo,
+											por lo que se podía ver la relación cambiante
+											y algo de información demográfica
+											que iba revelándose a través de los datos que enviaba AT&amp;T.
+											Este es otro proyecto en el que trabajé con el Laboratorio de Ciudades Sensibles
+											y CurrentCity.org.
+											Y es la visualización de mensajes SMS enviados en la ciudad de Ámsterdam.
+											Así que están viendo el flujo de como
+											las personas envían mensajes SMS desde diferentes partes de la ciudad,
+											hasta que nos acercamos a la víspera de Año Nuevo, donde todos dicen: ""¡Feliz Año Nuevo!"" (Risas)
+									","
+											Este é outro projeto em que trabalhei
+com as Sensible Cities Lab no MIT.
+											É a visualização
+de comunicações internacionais.
+											É como Nova Iorque comunica
+com outras cidades internacionais.
+											Colocámos isto como um globo ao vivo,
+no Museu de Arte Moderna em Nova Iorque
+											para a exposição
+""Design the Elastic Mind"".
+											Teve uma transmissão ao vivo durante 24h
+											e era possível ver o desenrolar da relação
+											e informação demográfica
+											vinda dos dados da AT&amp;T
+e revelando-se.
+											Este é um projeto em que trabalhei
+com o Sensible Cities Lab
+											e CurrentCity.org.
+											Mostra a quantidade de SMS
+enviadas na cidade de Amesterdão.
+											Vemos o fluxo diário
+											de mensagens enviadas
+de diferentes partes da cidade,
+											até à noite de Ano Novo,
+em que todos dizem ""Feliz Ano Novo!""
+									","
+											Pekala bu, MIT'de Akıllı Şehirler Laboratuvarı ile üzerinde çalıştığım bir başka proje.
+											Bu, uluslararası iletişimi görselleştirme oluyor.
+											Dolayısıyla New York'un diğer uluslararası
+											şehirlerle nasıl iletişim kurduğunu gösteriyor.
+											Ve bunu, New York Modern Sanat Müzesi'nde Esnek Zihini Tasarla sergisi için
+											canlı bir küre olarak kurduk.
+											Ve o, 24 saat boyunca canlı yayın yapıyordu;
+											böylece AT&amp;T verileri yoluyla gelen ve
+											kendini açığa alan demografik
+											bilgilerin bazılarını ve değişen ilişkiyi görebiliyordunuz.
+											Bu, benim Akıllı Şehirler Laboratuvarı ve CurrentCity.org ile
+											üzerinde çalıştığım bir diğer proje.
+											İçeriği ise, Amsterdam kentinde gönderilen SMS mesajlarının görüntülenmesi.
+											Yani şehrin farklı yerlerinden gelen insanların
+											gönderdiği SMS mesajlarının günlük gelgit akışını görüyoruz,
+											ta ki herkesin ""Yeni Yılınız Kutlu Olsun!"" dediği Yılbaşı'na gelene kadar.
+									","
+											Voilà un autre projet sur lequel j'ai travaillé avec le Sensible Cities Lab du MIT.
+											Voilà une vue des communications internationales.
+											Et voilà comment New York communique
+											avec d'autres villes internationales.
+											Et nous avons mis cela en place comme un globe en live au Musée d'Art Moderne de New York
+											à l'occasion de l'exposition Design The Elastic Mind.
+											Et il a été alimenté par un flux pendant 24h,
+											donc on pouvait voir la relation évoluer,
+											et des infos démographiques
+											qui provenaient des données AT&amp;T et se révélaient.
+											Voici un autre projet sur lequel j'ai travaillé avec le Sensible Cities Lab
+											et CurrentCity.org.
+											Et cela montre des SMS envoyés dans la ville d'Amsterdam.
+											Vous voyez le flux et reflux quotidien
+											des gens qui envoient des SMS des différentes parties de la ville
+											jusqu'à l'approche du Nouvel An où tout le monde dit ""Bonne année !""
+									","
+											Das hier ist ein anderes Projekt, das ich zusammen mit dem Sensible Cities Lab am MIT gemacht habe.
+											Es zeigt internationale Verbindungen.
+											Das ist wie New York
+											mit anderen internationalen Städten kommuniziert.
+											Und wir stellten das auf, als einen live Globus im Museum of Modern Art in New York
+											für die Design the Elastic Mind Ausstellung.
+											Es hatte einen live Einspeisung mit einem 24-Stunden Abstand
+											sodass man die sich verändernde Beziehungen sehen kann,
+											und einige demographische Informationen
+											die sich durch AT&amp;Ts Daten offenbaren.
+											Das ist ein anderes Projekt, das ich zusammen mit dem Sensible Cities Lab
+											und CurrentCity.org gemacht habe.
+											Und es zeigt SMSs, die in der Stadt Amsterdam geschickt wurden.
+											Man sieht den täglichen Rhythmus
+											der Menschen, die aus den unterschiedlichen Teilen der Stadt SMSs verschicken,
+											bis wir uns Silvester nähern und alle ""Frohes neues Jahr!"" sagen.
+									",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+","
+","
+","
+","
+","
+",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+											(Laughter)
+									","
+											hasta que nos acercamos a la víspera de Año Nuevo, donde todos dicen: ""¡Feliz Año Nuevo!"" (Risas)
+									","
+											(Risos)
+									","
+											(Gülüşmeler)
+									","
+											(Rires)
+									","
+											(lacht)
+									",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+","
+","
+","
+","
+","
+",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+											So this is an interactive tool
+											that you can move around and see different parts of the city.
+											This is looking at another event. This is called Queen's Day.
+											So again, you get this daily ebb and flow
+											of people sending SMS messages from different parts of the city.
+											And then you're going to see people start to gather in the center of the city
+											to celebrate the night before,
+											which happens right here.
+											And then you can see people celebrating the next day.
+											And you can pause it and step back and forth and see different phases.
+									","
+											Y esta es una herramienta interactiva
+											donde puedes moverte y ver distintas partes de la ciudad.
+											Aquí estamos viendo otro evento, llamado el Día de la Reina.
+											Así que de nuevo, se observa este flujo variable diario
+											de personas que envían mensajes SMS desde diferentes partes de la ciudad.
+											Y luego vamos a ver a la gente empezando a congregarse en el centro de la ciudad
+											para celebrar la noche anterior,
+											lo que se ve justo aquí.
+											Y después se puede ver a la gente celebrando el día siguiente.
+											Y puedes poner pausa y retrocederlo o adelantarlo y ver las diferentes fases.
+									","
+											Esta é uma ferramenta interativa
+											que podemos movimentar
+e ver diferentes partes da cidade.
+											Aqui vemos outro acontecimento.
+Este é o Dia da Rainha.
+											De novo, temos o fluxo diário
+											de SMS enviadas
+de diferentes partes da cidade.
+											Agora vão ver as pessoas
+a reunir-se no centro da cidade
+											para festejar a noite anterior,
+											o que acontece exatamente aqui.
+											Depois vemos as pessoas
+a festejarem o dia seguinte.
+											Podemos parar, avançar e recuar
+e ver fases diferentes.
+									","
+											Öyleyse şehrin etrafında
+											hareket edip farklı yerlerini görebileceğiniz etkileşimli bir araçtır bu.
+											Başka bir olaya bakalım. Buna, Kraliçe'nin Günü deniyor.
+											Yani yine, şehrin farklı yerlerinden gelen insanların
+											gönderdiği SMS mesajlarının günlük gelgit akışını elde ediyorsunuz.
+											Ve sonra, kutlamalar için bir gece önce şehir merkezinde toplanmaya başlayan
+											insanları göreceksiniz,
+											tam da burada gerçekleşiyor.
+											Ve sonra ertesi gün kutlama yapan insanları görebilirsiniz.
+											Ve bunu durdurabilir ve ileri ve geri adım atarak farklı aşamalara bakabilirsiniz.
+									","
+											Donc c'est un outil interactif
+											que vous pouvez déplacer partout, pour voir différentes parties de la ville.
+											Ici nous observons un autre événement. On l'appelle le Jour de la Reine.
+											Là encore, vous avez ce flux et reflux quotidien
+											des gens qui envoient des SMS des différentes parties de la ville.
+											Et vous allez voir des gens se rassembler dans le centre-ville
+											pour faire la fête la veille
+											comme ça se passe juste là.
+											Ensuite vous voyez les gens faire la fête le lendemain.
+											Et vous pouvez faire pause et avancer et reculer pour voir différentes phases.
+									","
+											Also das ist ein interaktives Werkzeug
+											das man durch die verschiedenen Teilen der Stadt bewegen kann.
+											Das hier zeigt ein anderes Ereignis. Es heisst Königinnentag.
+											Und wieder sieht man den Rhythmus
+											der Menschen die SMSs aus den verschiedenen Teilen der Stadt verschicken.
+											Und dann sieht man Menschen, die sich im Stadtzentrum ansammeln
+											um die letzte Nacht zu feiern,
+											was genau hier passiert.
+											Und dann sieht man Menschen, die am nächsten Tag feiern.
+											Und man kann es anhalten und vor und zurück gehen um die unterschiedlichen Phasen zu sehen.
+									",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+","
+","
+","
+","
+","
+",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+											So now on to something completely different.
+											Some of you may recognize this.
+											This is Baron Wolfgang von Kempelen's mechanical chess playing machine.
+											And it's this amazing robot that plays chess extremely well,
+											except for one thing: it's not a robot at all.
+											There's actually a legless man that sits in that box
+											and controls this chess player.
+											This was the inspiration for a web service by Amazon
+											called the Mechanical Turk — named after this guy.
+											And it's based on the premise that there are certain things
+											that are easy for people, but really difficult for computers.
+											So they made this web service and said,
+											""Any programmer can write a piece of software
+											and tap into the minds of thousands of people.""
+											The nerdy side of me thought, ""Wow, this is amazing.
+											I can tap into thousands of people's minds.""
+											And the other nerdy side of me thought,
+											""This is horrible. This is completely bizarre.
+											What does this mean for the future of mankind,
+											where we're all plugged into this borg?""
+											I was probably being a little extreme.
+											But what does this mean when we have no context for what it is that we're working on,
+											and we're just doing these little labors?
+									","
+											Entonces ahora cambiémonos a algo totalmente diferente.
+											Algunos de ustedes podrán reconocer esto.
+											Esta es la máquina mecánica del barón Wolfgang von Kempelen que juega ajedrez.
+											Y es un robot increíble que juega ajedrez muy muy bien,
+											excepto por una cosa: en realidad no es un robot.
+											De hecho, hay un hombre sin piernas que se sienta en esa caja
+											y controla a este jugador de ajedrez.
+											Esa fue la inspiración para un servicio web de Amazon
+											llamado Mechanical Turk (o Turco Mecánico) en honor a este tipo.
+											Y se basa en la premisa de que hay ciertas cosas
+											que son fáciles para la gente, pero muy difíciles para las computadoras.
+											Por lo que hicieron este servicio web y dijeron:
+											""Cualquier programador puede escribir un programa
+											y tener disponibles las mentes de miles de personas.""
+											Mi lado nerd pensó: ""Wow, esto es increíble.
+											Tendré disponibles las mentes de miles de personas.""
+											Y mi otro lado nerd pensó:
+											""Esto es horrible. Esto es demasiado extraño.
+											¿Qué significa esto para el futuro de la humanidad,
+											donde todos estaremos conectados a esta cosa gigantesca?""
+											Probablemente estaba siendo un poco extremo.
+											Pero ¿qué significa cuando no conocemos el contexto para lo que estamos haciendo,
+											y sólo estamos haciendo estos pequeños trabajos?
+									","
+											Agora, uma coisa totalmente diferente.
+											Talvez reconheçam isto.
+											É a máquina de jogar xadrez
+do Barão Wolfgang von Kempelen.
+											É um robô extraordinário
+que joga xadrez muito bem,
+											só que não é um robô.
+											É um homem sem pernas
+que se senta nessa caixa
+											e controla este jogador de xadrez.
+											Esta foi a inspiração
+para um serviço web da Amazon
+											chamada Mechanical Turk,
+em homenagem a este homem.
+											Baseia-se na premissa
+de que certas coisas
+											são fáceis para as pessoas,
+mas difíceis para os computadores.
+											Fizeram este serviço web e disseram:
+											""Um programador
+pode fazer um software
+											""e colocá-lo na mente
+de milhares de pessoas.""
+											Pensei:
+""Uau, isto é extraordinário.
+											""Posso entrar na mente
+de milhares de pessoas.""
+											Mas pensei também:
+											""Isto é horrível,
+é completamente bizarro.
+											""Que significa isto
+para o futuro da humanidade,
+											""em que estamos todos
+ligados a este borg?""
+											Eu devia estar a ser radical.
+											Mas o que acontece, quando não temos
+o contexto do que estamos a fazer
+											e só fazemos este trabalhos?
+									","
+											Şimdi tamamen farklı bir şeye dönelim.
+											Bazılarınız bunu tanıyabilir.
+											Bu, Baron Wolfgang von Kempelen'in mekanik satranç oynama makinesi.
+											Ve satrancı son derece iyi oynayan ise işte bu şaşırtıcı robot,
+											bir şey hariç: bu aslında hiç de bir robot değil.
+											Esasen o kutuda satranç oyuncusunu kontrol eden
+											bacaksız bir adam oturuyor.
+											Bu, Amazon tarafından bir web hizmeti için ilham kaynağı oldu
+											adına Mekanik Türk denilen — ki adını bu adamdan aldı.
+											Ve bu, bazı şeyler vardır ki insanlar için kolay ama
+											bilgisayarlar için gerçekten de zordur fikrine dayanıyor.
+											Böylece, bu web hizmetini yaptılar ve şöyle dediler,
+											""Herhangi bir programcı bir yazılım yazabilir ve
+											binlerce insanın zihnine dokunabilir.""
+											İnek öğrenci tarafımla şöyle düşündüm, ""Vay, işte bu şaşırtıcı.
+											binlerce insanın zihnine dokunabilirim.""
+											Oysa öbür inek öğrenci tarafımla da şöyle düşündüm,
+											""Bu korkunç. Bu tamamen tuhaf.
+											Bu, insanlığın geleceği açısından ne anlama geliyor,
+											hepimiz bu yapay insanımsıya takılı halde mi olacağız?""
+											Herhalde biraz aşırıya kaçmıştım.
+											Fakat üzerinde çalıştığımız şey için bir içerik olmadığında ve sadece bu küçük işleri
+											yaptığımızda bu ne anlama geliyor?
+									","
+											Passons maintenant à quelque chose de totalement différent.
+											Certains d'entre vous connaissent peut-être.
+											Voici la machine à jouer aux échecs du baron Wolfgang von Kempelen.
+											C'est un robot étonnant qui joue très bien aux échecs,
+											sauf pour un détail : ce n'est pas du tout un robot.
+											C'est en fait un homme sans jambes qui est assis dans cette boite
+											et contrôle ce joueur d'échecs.
+											Cela a inspiré un web service d'Amazon
+											appelé le Turc Mécanique — d'après le nom de ce type.
+											Et c'est basé sur le postulat que certaines choses
+											sont faciles pour les gens, mais vraiment compliquées pour les ordinateurs.
+											Alors ils ont fait ce web service et dit
+											""N'importe quel programmeur peut écrire un bout de code
+											et puiser dans les esprits de milliers de gens.""
+											Mon côté nerd a pensé ""Wahou, c'est fou.
+											Je peux puiser dans les esprits de milliers de gens.""
+											Et mon autre côté nerd a pensé
+											""C'est horrible. C'est totalement bizarre.
+											Qu'est-ce que ça implique pour le futur de l'humanité,
+											que nous sommes tous branchés à ce borg ?""
+											J'étais sans doute un peu extrême.
+											Mais qu'est-ce que ça veut dire quand nous n'avons pas le contexte pour ce sur quoi nous travaillons
+											et nous faisons juste ces petites tâches.
+									","
+											So jetzt zu etwas ganz anderem.
+											Manche von euch werden das erkennen.
+											Das ist Baron Wolfgang von Kempelens mechanisches Schachtürke.
+											Und dieser erstaunliche Roboter spiel Schach extrem gut,
+											abgesehen von einer Sache: es ist überhaupt kein Roboter.
+											Es ist ein beinloser Mann, der in der box sitzt
+											und diesen Schachspieler kontrolliert.
+											Das war die Inspiration für einen Webdienst von Amazon,
+											der Mechanical Turk – nach diesem Typen benannt.
+											Es basiert auf der Prämisse dass es Dinge gibt,
+											die einfach für Menschen, aber wirklich schwierig für Computer sind.
+											Also haben sie diesen Webdienstleistung gemacht und gesagt:
+											""Jeder Programmierer kann eine Software schreiben
+											und auf den Geist von tausenden von Menschen zugreifen.""
+											Die nerdige Seite von mir dachte: ""Wow, das ist Wahnsinn.
+											Ich kann auf den Geist von tausenden von Menschen zugreifen.""
+											Und die andere Seite von mir dachte:
+											""Das ist ja schrecklich. Das ist absolut grotesk.
+											Was bedeutet das für die Zukunft der Menschheit,
+											in der wir alle in diesem Cyborg eingestöpselt sind?""
+											I habe vielleicht ein bisschen übertrieben.
+											Aber was bedeutet das, wenn wir keinen Kontext zu dem haben, woran wir arbeiten,
+											und wir nur noch diese kleinen Aufgaben erledigen?
+									",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+","
+","
+","
+","
+","
+",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+											So I created this drawing tool.
+											I asked people to draw a sheep facing to the left.
+											And I said, ""I'll pay you two cents for your contribution.""
+											And I started collecting sheep.
+											And I collected a lot, a lot of different sheep.
+											Lots of sheep.
+											I took the first 10,000 sheep that I collected,
+											and I put them on a website called TheSheepMarket.com
+											where you can actually buy collections of 20 sheep.
+											You can't pick individual sheep,
+											but you can buy a single plate block of stamps as a commodity.
+											And juxtaposed against this grid,
+											you see actually, by rolling over each individual one,
+											the humanity behind this hugely mechanical process.
+											I think there's something really interesting
+											to watching people as they go through this creative toil —
+											something we can all relate to,
+											this creative process of trying to come up with something from nothing.
+											I think it was really interesting to juxtapose this humanity
+											versus this massive distributed grid.
+											Kind of amazing what some people did.
+									","
+											Así que creé esta herramienta de dibujo.
+											Le pedí a la gente que dibujara una oveja mirando hacia la izquierda.
+											Y les dije: ""Te pagaré dos centavos por lo que me des.""
+											Y empecé a recolectar ovejas.
+											Y recibí muchas, muchas ovejas diferentes.
+											Un montón de ovejas.
+											Tomé las primeras 10 mil ovejas recibidas
+											y las puse en un sitio web llamado TheSheepMarket.com
+											donde se pueden comprar colecciones de 20 ovejas.
+											No pueden elegir ovejas específicas,
+											pero pueden comprar un bloque de estampillas para tenerlas.
+											Y yuxtapuesto sobre esta grilla
+											se ve en realidad, cuando pasas sobre cada oveja,
+											la humanidad detrás de este proceso sumamente mecánico.
+											Creo que hay algo realmente interesante
+											al ver a la gente a medida que avanzan a través de este trabajo creativo;
+											algo que todos podemos comprender,
+											este proceso creativo de tratar de obtener algo partiendo de nada.
+											Creo que fue muy interesante yuxtaponer esta humanidad
+											con esta enorme red distribuida.
+											Es un poco asombroso lo que hicieron algunas personas.
+									","
+											Então, criei esta ferramenta.
+											Pedi que desenhassem
+uma ovelha virada para a esquerda:
+											""Pago-te 2 cêntimos
+pela tua contribuição.""
+											Comecei a colecionar ovelhas.
+											Colecionei muitas ovelhas diferentes.
+											Imensas ovelhas.
+											Peguei nas primeiras 10 000 ovelhas,
+											e coloquei-as num website
+chamado TheSheepMarket.com
+											onde podem comprar
+coleções de 20 ovelhas.
+											Não podem escolher ovelhas individuais,
+											mas podem comprar um bloco de selos
+como um produto.
+											Sobrepostos contra esta rede,
+											ao passar por cada uma
+individualmente,
+											vemos a humanidade por detrás
+deste enorme processo mecânico.
+											Acho que há algo de interessante
+											em observar as pessoas
+quando usam esta ferramenta criativa,
+											algo com que todos
+nos podemos relacionar,
+											este processo criativo de tentar
+fazer algo a partir do nada.
+											Acho que foi realmente interessante
+sobrepor esta humanidade
+											contra esta rede de distribuição maciça.
+											É incrível o que algumas pessoas fizeram.
+									","
+											O yüzden bu çizim aracını yarattım.
+											İnsanlardan sola bakan bir koyun çizmelerini istedim.
+											Ben de, ""Size katkılarınız için iki sent ödeyeceğim"" dedim.
+											Ve koyun toplamaya başladım.
+											Ve ben, bir sürü farklı koyun topladım.
+											Bir sürü koyun.
+											Toplanan ilk 10.000 koyunu aldım,
+											ve onları, 20 koyunluk koleksiyonlardan alabileceğiniz
+											TheSheepMarket.com adlı websitesine koydum.
+											Tek tek koyun seçemezsiniz,
+											ama tek plaka blok halindeki pulları bir eşya gibi satın alabilirsiniz.
+											Ve bu sistem karşısında yan yana
+											her birinin üzerine yuvarlanarak, bu kocaman mekanik
+											işlemin arkasındaki insanlığı görüyorsunuz aslında.
+											İnsanları bu yaratıcı uğraştan geçerken
+											izlemenin çok ilginç bir şey olduğunu düşünüyorum —
+											hepimizin ilgili olduğu bir şey,
+											hiç yoktan birşeyler elde edilmeye çalışılan yaratıcı bir süreç bu.
+											Bence, dağıtılmış bu büyük sistemin üzerine insaniyeti
+											bindirmek gerçekten ilginçti.
+											Bazı insanların yaptıkları inanılmaz gibiydi.
+									","
+											Alors j'ai créé cet outil pour dessiner.
+											J'ai demandé aux gens de dessiner un mouton qui regarde à gauche.
+											Et j'ai dit ""Je vous payerai 2 cents pour votre contribution.""
+											Et j'ai commencé à collectionner les moutons.
+											J'ai réuni beaucoup, beaucoup de moutons différents.
+											Des tas de moutons.
+											J'ai pris les premiers 10 000 moutons que j'avais réunis,
+											et je les ai mis sur un site appelé TheSheepMarket.com
+											où vous pouvez en fait acheter des collections de 20 moutons.
+											Vous ne pouvez pas choisir un mouton à l'unité
+											mais vous pouvez acheter un block de vignettes comme matière première.
+											Et juxtaposée à la grille
+											vous pouvez vous en passant la souris sur chaque mouton,
+											l'humanité derrière cet immense processus mécanique.
+											Je pense qu'il y a quelque chose de vraiment intéressant
+											à regarder les gens passer par ce labeur créatif —
+											quelque chose qui nous parle à tous,
+											ce processus créatif d'essayer d'inventer quelque chose à partir de rien.
+											Je trouve que c'était vraiment intéressant de mettre en regard cette humanité
+											avec cette grille massive et disséminée.
+											C'est assez étonnant ce que certaines personnes ont fait.
+									","
+											Also habe ich dieses Zeicheninstrument kreiert.
+											Und ich habe Menschen gebeten ein Schaf zu zeichnen, das nach links zeigt.
+											Und ich sagte: ""Ich zahle euch 2 Cents für euren Beitrag.""
+											Und ich fing an, Schafe zu sammeln.
+											Und ich sammelte viele, viele verschiedene Schafe.
+											Viele Schafe.
+											Ich nahm die ersten 10,000 Schafe, die ich sammelte
+											und stellte sie auf eine Website mit dem Namen TheSheepMarket.com,
+											wo man einen Bestand von 20 Schafe kaufen kann.
+											Man kann keine einzelnen Schafe auswählen,
+											Aber man kann einen ganzen Klotz als Massenware kaufen.
+											Und entgegen diesem Gitter,
+											kann man an und für sich, indem man über jeden einzelnen rollt,
+											die Menschlichkeit hinter diesem riesigen mechanischen Prozess sehen.
+											Ich denke es ist etwas wirklich interessantes,
+											zuzusehen wie Menschen kreativ schuften –
+											etwas das wir alle kennen,
+											diesen kreativen Prozess, aus dem Nichts etwas zu erschaffen.
+											Ich denke es war wirklich interessant diese Menschheit
+											gegenüber diesem massiven dezentralisierten Gitter zu setzen.
+											Es ist ziemlich erstaunlich, was manche gemacht haben.
+									",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+","
+","
+","
+","
+","
+",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+											So here's a few statistics from the project.
+											Approximate collection rate of 11 sheep per hour,
+											which would make a working wage of 69 cents per hour.
+											There were 662 rejected sheep
+											that didn't meet ""sheep-like"" criteria and were thrown out of the flock.
+											(Laughter)
+											The amount of time spent drawing ranged from four seconds to 46 minutes.
+											That gives you an idea of the different types of motivations and dedication.
+											And there were 7,599 people that contributed to the project,
+											or were unique IP addresses —
+											so about how many people contributed.
+											But only one of them out of the 7,599 said this.
+											(Laughter)
+											Which I was pretty surprised by.
+											I expected people to be wondering, ""Why did I draw a sheep?""
+											And I think it's a pretty valid question.
+									","
+											Y aquí hay algunas estadísticas del proyecto.
+											La tasa de recepción aproximada fue de 11 ovejas por hora
+											lo que resultaría en un salario de 69 centavos de dólar por hora.
+											Hubo 662 ovejas rechazadas
+											que no cumplieron los criterios ""ovejunos"" y fueron expulsadas de la manada.
+											(Risas)
+											El tiempo tomado para producir el dibujo varió de cuatro segundos a 46 minutos.
+											Eso te da una idea de los diferentes grados de motivación y dedicación.
+											Hubieron 7.599 personas que contribuyeron al proyecto
+											o que al menos fueron direcciones IP únicas;
+											entonces fue alrededor de esa cantidad.
+											Pero sólo uno de ellos, de los 7.599, dijo esto:
+											¿Por qué? ¿Por qué haces esto? (Risas)
+											Lo cual me sorprendió mucho.
+											Esperaba que la gente se preguntara: ""¿Por qué dibujé una oveja?""
+											Y creo que es una pregunta bastante válida.
+									","
+											Estas são algumas estatísticas do projeto.
+											Uma recolha de cerca
+de 11 ovelhas por hora,
+											o que daria um custo de trabalho
+de 69 cêntimos por hora.
+											Foram rejeitadas 662 ovelhas
+											que não cumpriram os critérios
+e foram retiradas do rebanho.
+											(Risos)
+											O total de tempo gasto a desenhar
+variou de 4 segundos a 46 minutos.
+											Isto dá-vos uma ideia
+das diferentes motivações e dedicações.
+											E foram 7599 pessoas
+que contribuíram para o projeto,
+											ou únicos endereços de IP.
+											Foi esta a quantidade de contribuições.
+											Mas só uma destas 7599 pessoas
+disse...isto:
+											[Porque é que está a fazer isto?]
+											(Risos)
+											Fiquei bastante surpreendido.
+											Esperava que as pessoas perguntassem:
+""Porque é que eu desenhei uma ovelha?""
+											E acho que é uma pergunta válida.
+									","
+											Öyleyse işte size projeden birkaç istatistik.
+											Saat başına yaklaşık 11 koyun toplama oranı,
+											ki bu saat başına 69 sentlik bir çalışma ücreti olur.
+											Orada koyun ölçütlerini karşılamayıp
+											reddedilen 662 adet koyun vardı ve sürünün dışına atıldılar.
+											(Gülüşmeler)
+											Çizim için harcanan zaman miktarı dört saniye ile 46 dakika arasında değişmekteydi.
+											Bu, size, motivasyonlar ve adanmışlık farkları ile ilgili bir fikir verir.
+											Projeye katkıda bulunan 7.599 kişi veya tekil IP adresi vardı,
+											böylece yaklaşık kaç kişinin
+											katkıda bulunduğunu bilmiş olduk.
+											Ancak 7,599'un içinden sadece bir tanesi bunu dedi:
+											(Neden, neden bunu yapıyorsun?) (Gülüşmeler)
+											Ki bu beni baya şaşırtmıştı.
+											İnsanların şunu merak etmesini bekledim, ""Neden bir koyun çizdim?""
+											Ve bunun çok geçerli bir soru olduğunu düşünüyorum.
+									","
+											Voici quelques statistiques sur le projet.
+											Un taux d'ajout de 11 moutons par jour
+											ce que représente un salaire de 69 cents par heure.
+											662 moutons ont été rejetés
+											car ils n'entraient pas dans les critères et on les a sortis du troupeau.
+											(Rires)
+											Le temps passé à dessiner allait de 4 secondes à 46 minutes.
+											Cela vous donne une idée des différents types de motivations et d'engagement.
+											Et il y a eu 7 599 contributeurs au projet,
+											en tout cas qui avaient une adresse IP unique —
+											ça représente à peu près le nombre de personnes qui ont contribué.
+											Mais un seul de ces 7 599 personnes a dit ceci.
+											(Rires)
+											Ce qui m'a plutôt surpris.
+											Je m'attendais à ce que les gens se demandent ""Pourquoi j'ai choisi un mouton?""
+											Et je trouve que c'est une question plutôt pertinente.
+									","
+											Hier sind einpaar Statistiken des Projektes.
+											Eine Sammlungsgeschwindigkeit von etwa 11 Schafe pro Stunde,
+											was einen Stundenlohn von 68 cents entspricht.
+											Es wurden 662 Schafe zurückgewiesen,
+											da sie die schafähnlichen Kriterien nicht erfüllten und aus der Herde geworfen worden sind.
+											(lacht)
+											Der Zeitaufwand der Zeichnungen bewegt sich zwischen 4 Sekunden und 46 Minuten.
+											Das verschafft einen Eindruck über die verschiedenen Grade der Motivation und Hingabe.
+											Und es haben 7,599 Menschen zu dem Projekt beigetragen,
+											oder waren einzelne IP Adressen –
+											soviel dazu wie viele Menschen dazu beigetragen haben.
+											Aber nur einer der 7,599 Menschen sagte dies:
+											(""Warum machst du das?"")
+											Was mich ziemlich überrascht hat.
+											Ich habe erwartet dass Menschen sich fragen ""Warum musste ich ein Schaf zeichnen?""
+											Und ich denke es ist eine überaus zulässige Frage.
+									",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+","
+","
+","
+","
+","
+",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+											And there's a lot of reasons why I chose sheep.
+											Sheep were the first animal
+											to be raised from mechanically processed byproducts,
+											the first to be selectively bred for production traits,
+											the first animal to be cloned.
+											Obviously, we think of sheep as followers.
+											And there's this reference to ""Le Petit Prince""
+											where the narrator asks the prince to draw a sheep.
+											He draws sheep after sheep.
+											The narrator's only appeased when he draws a box.
+											And he says, ""It's not about a scientific rendering of a sheep.
+											It's about your own interpretation and doing something different.""
+											And I like that.
+									","
+											Y hay muchas razones por las que elegí ovejas.
+											Las ovejas fueron los primeros animales
+											que fueron criados con subproductos procesados mecánicamente,
+											los primeros en ser selectivamente criados para características productivas,
+											el primer animal en ser clonado.
+											Obviamente, pensamos en ovejas como seguidoras.
+											Y está esta conexión a ""Le Petit Prince"" (El Principito)
+											donde el narrador le pide al príncipe que dibuje una oveja.
+											Él dibuja oveja tras oveja.
+											El narrador sólo queda satisfecho cuando dibuja una caja.
+											Y él dice: ""No se trata de una representación científica de una oveja.
+											Se trata de tu propia interpretación y de hacer algo diferente.""
+											Y eso me gusta.
+									","
+											Escolhi uma ovelha por várias razões.
+											A ovelha foi o primeiro animal criado
+											a partir de subprodutos
+processados mecanicamente,
+											a primeira a ser criada para reprodução,
+											o primeiro animal a ser clonado.
+											Pensamos nas ovelhas como seguidoras.
+											E há esta referência a ""O Principezinho""
+											em que se pede ao príncipe
+para desenhar uma ovelha.
+											Ele desenha ovelha atrás de ovelha.
+											O narrador só se acalma
+quando ele desenha uma caixa e diz:
+											""Não tens que desenhar uma ovelha exata,
+											""o que interessa é a tua interpretação,
+é fazeres algo diferente.""
+									","
+											Koyunu seçmemin de bir çok nedeni var.
+											Koyun, mekanik olarak işlenmiş
+											yan ürünlerle yetiştirilen ilk hayvandı,
+											üretim özellikleri için de seçici olarak ilk yetiştirilen,
+											ayrıca klonlanan ilk hayvandı.
+											Besbelli, takipçiler olarak koyunu düşünürüz.
+											Anlatıcının prensten bir koyun çizmesini istediği
+											""Küçük Prens"" kitabına bir atıf da var.
+											Arka arkaya koyun çizer durur.
+											Anlatıcı sadece bir kutu çizdiği zaman yatışır.
+											Ve şöyle der, ""Bunun bir koyunun bilimselleştirilmesi ile ilgisi yok.
+											Kendi yorumun ve farklı bir şey yapıyor olmanla ilgilidir.""
+											Ve bunu sevdim.
+									","
+											Et il y a beaucoup de raisons pour lesquelles j'ai choisi un mouton.
+											Le mouton a été le premier animal
+											qui a été élevé avec des produits dérivés produits mécaniquement,
+											le premier qui a été sélectionné pour ses caractéristiques de reproduction,
+											le premier qui a été cloné.
+											Manifestement nous voyons les moutons comme des suiveurs.
+											Ensuite il y a la référence au ""Petit Prince""
+											où le narrateur demande au prince de dessiner un mouton.
+											Il dessine un mouton après l'autre.
+											Le narrateur ne s'apaise que quand il dessine une boite.
+											Et il dit ""Tu n'as pas besoin de dessiner un mouton scientifiquement exact.
+											Ce qui compte c'est ton interprétation et faire quelque chose de différent.""
+											Et j'aime ça.
+									","
+											Und es gibt viele Gründe warum ich das Schaf ausgewählt habe.
+											Schafen waren die ersten Tiere,
+											die mit mechanisch verarbeitete Abfallprodukte aufgezogen worden sind,
+											die ersten die selektiv für ihre Erzeugniseigenschaften gezüchtet worden sind,
+											die ersten geklonten Tiere.
+											Offensichtlich betrachte wir Schafe als folgsam.
+											Und da ist diese Referenz zu ""Der kleine Prinz"",
+											wo der Erzähler den kleinen Prinz bittet ein Schaf zu zeichnen.
+											Er zeichnet ein Schaf nach dem anderen.
+											Der Erzähler ist erst dann zufrieden als er eine Box zeichnet.
+											Und er sagt: ""Es geht nicht um die naturgetreue Darstellung eines Schafes.
+											Sondern um deine eigene Interpretation und darum etwas anderes zu machen.""
+											Ich mag das.
+									",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+","
+","
+","
+","
+","
+",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+											So this is a clip from Charlie Chaplin's ""Modern Times.""
+											It's showing Charlie Chaplin dealing with some of the major changes
+											during the Industrial Revolution.
+											So there were no longer shoe makers,
+											but now there are people slapping soles on people's shoes.
+											And the whole idea of one's relationship to their work changed a lot.
+											So I thought this was an interesting clip
+											to divide into 16 pieces
+											and feed into the Mechanical Turk with a drawing tool.
+											This basically allowed — what you see on the left side is the original frame,
+											and on the right side you see that frame
+											as interpreted by 16 people
+											who have no idea what it is they're doing.
+									","
+											Y este es un clip de ""Tiempos modernos"" de Charlie Chaplin.
+											Muestra a Charlie Chaplin enfrentándose a algunos de los cambios principales
+											de la Revolución Industrial.
+											En ese entonces, ya no eran fabricantes de zapatos,
+											sino que ahora habían personas pegando suelas en los zapatos de la gente.
+											Y la idea de la relación entre una persona y su trabajo cambió mucho.
+											Así que pensé que era un clip interesante para
+											dividir en 16 pedazos
+											y meter en el Turco Mecánico con una herramienta de dibujo.
+											Básicamente, esto permitió: lo que se ve en el lado izquierdo es el original,
+											y en el lado derecho se ve la imagen
+											interpretada por 16 personas
+											que no tienen idea de qué es lo que están haciendo.
+									","
+											Esta é uma cena de ""Tempos Modernos""
+de Charlie Chaplin.
+											Mostra Charlie Chaplin a lidar
+com algumas das alterações
+											durante a Revolução Industrial.
+											Já não havia sapateiros,
+											mas havia pessoas a pôr solas
+em sapatos.
+											Toda a ideia de relação com o trabalho
+mudou imenso.
+											Achei que esta
+era uma cena interessante
+											para dividir em 16 partes
+											e colocá-las no Turco Mecânico
+com uma ferramenta de desenho.
+											Do lado esquerdo,
+vemos a cena original,
+											e no lado direito vemos essa imagem
+											interpretada por 16 pessoas
+											que não faziam ideia
+do que estavam a fazer.
+									","
+											İşte bu Charlie Chaplin'in ""Modern Zamanlar""ından bir klip.
+											Bu, Sanayi Devrimi sırasında önemli bazı değişiklikler ile
+											uğraşan Charlie Chaplin'i gösteriyor.
+											Yani artık ayakkabı üreticileri yoktu,
+											insanların ayakkabılarına taban çakanlar vardı.
+											Ve birinin işi ile olan ilişkisi fikri çok değişti.
+											O yüzden bunun, bir çizim aracı ile
+											16 parçaya bölünüp
+											Mekanik Türk'ün beslenmesi için ilginç bir klip olduğunu düşündüm.
+											Bu, temelde şuna izin verdi - sol tarafta gördüğünüz orijinal karedir,
+											sağ tarafta ise, ne yaptıkları hakkında
+											hiçbir fikri olmayan 16 kişi
+											tarafından yorumlanmış kareyi görüyorsunuz.
+									","
+											Voici un extrait des Temps Modernes de Charlie Chaplin.
+											Cela montre Charlie Chaplin aux prises avec quelques changements majeurs
+											pendant la révolution industrielle.
+											Il n'y avait plus de fabricants de chaussures,
+											mais il y avait des gens qui flanquaient des semelles sur les chaussures.
+											Et l'idée globale de la relation de chacun à son travail, avait beaucoup changé.
+											Alors j'ai pensé que c'était une vidéo intéressante
+											qu'on pouvait découper en 16 morceaux
+											et je les ai injectés dans le Turc mécanique avec un outil de dessin.
+											Cela a permis en fait — ce que vous voyez à gauche est l'image originale,
+											et à droite vous voyez cette image
+											interprétée par 16 personnes
+											qui n'avaient aucune idée de ce qu'ils étaient en train de faire.
+									","
+											Das hier ist ein Ausschnitt aus Charlie Chaplins ""Moderne Zeiten"".
+											Es zeigt wie Charlie Chaplin mit einige der grossen Veränderungen
+											während der Industriellen Revolution zurecht kommt.
+											Da gab es keine Schuhmacher mehr,
+											sondern Menschen, die Sohlen auf anderer Leute s Schuhe klatschen.
+											Es hat das Verständnis der Beziehung zwischen dem Arbeiter und sein Handwerk enorm verändert.
+											Also dachte ich, es ist ein interessanter Ausschnitt
+											um in 16 Teile zu zerlegen
+											und in den Mechanical Turk mit einem Zeichnungswerkzeug einzuspeisen.
+											Im Grund kann man dadurch – was ihr auf der linken Seite seht ist das Originalframe,
+											und auf der rechten Seite seht ihr den Frame
+											wie er von 16 Leuten interpretiert wurde,
+											die keine Ahnung hatten, was sie machen.
+									",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+","
+","
+","
+","
+","
+",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+											And this was the inspiration for a project
+											that I worked on with my friend Takashi Kawashima.
+											We decided to use the Mechanical Turk for exactly what it was meant for,
+											which is making money.
+											So we took a hundred dollar bill and divided it into 10,000 teeny pieces,
+											and we fed those into the Mechanical Turk.
+											We asked people to draw what it was that they saw.
+											But here there was no sheep-like criteria.
+											People, if they drew a stick figure or a smiley face,
+											it actually made it into the bill.
+											So what you see is actually a representation of how well people did
+											what it was they were asked to do.
+											So we took these hundred dollar bills,
+											and we put them on a website called TenThousandsCents.com,
+											where you can browse through and see all the individual contributions.
+											And you can also trade real hundred-dollar bills for fake hundred-dollar bills
+											and make a donation to the Hundred Dollar Laptop Project,
+											which is now known as One Laptop Per Child.
+											This is again showing all the different contributions.
+											You see some people did beautiful stipple renderings,
+											like this one on top —
+											spent a long time making realistic versions.
+											And other people would draw stick figures or smiley faces.
+											Here on the right-hand side in the middle
+											you see this one guy writing, ""$0.01!!! Really?""
+											That's all I'm getting paid for this?
+									","
+											Y esta fue la inspiración para un proyecto
+											en el cual trabajé con mi amigo Takashi Kawashima.
+											Decidimos utilizar el Turco Mecánico para su propósito original,
+											el cual es generar dinero.
+											Así que tomamos un billete de 100 dólares y lo dividimos en 10 mil trozos pequeñísimos
+											y los metimos al Turco Mecánico.
+											Le pedimos a la gente que dibujara lo que veían.
+											Pero aquí no hay criterios “ovejunos”.
+											Si la gente dibujaba una persona a rayas o una carita sonriente,
+											quedaba efectivamente metida en el billete.
+											Así que lo que vemos es en realidad una representación de cuan bien la gente hizo
+											lo que se le pidió que hiciera.
+											Así que tomamos estos billetes de cien dólares
+											y los pusimos en un sitio web llamado TenThousandsCents.com,
+											donde pueden ir y navegar por todas las distintas contribuciones.
+											Y también pueden cambiar billetes reales de 100 dólares por estos billetes falsos
+											y hacer una donación al Proyecto de Laptops de Cien Dólares,
+											que ahora se conoce como Un Computador Por Niño.
+											Nuevamente, aquí se ven todos los distintos aportes.
+											Pueden ver que algunos hicieron hermosas versiones con punteado,
+											como esta acá arriba;
+											pasaron mucho tiempo haciendo versiones realistas.
+											Y otras personas que dibujaron personas a rayas o caritas sonrientes.
+											Aquí en el lado derecho al medio
+											verán que un tipo escribió: ""$¡¡¡0.01!!! ¿En serio?
+											¿Es todo lo que me pagarán por esto?""
+									","
+											Isto foi a inspiração para um projeto
+											em que trabalhei
+com Takashi Kawashima.
+											Decidimos usar o Turco Mecânico
+para aquilo que foi concebido,
+											que é fazer dinheiro.
+											Pegámos em cem notas de um dólar,
+dividimo-las em 10 000 partes,
+											e introduzimo-las no Turco Mecânico.
+											Pedimos às pessoas
+que desenhassem o que viam.
+											Mas não havia nenhum critério.
+											Se as pessoas desenhassem um rabisco
+ou uma cara sorridente,
+											isso era inserido na nota.
+											Vemos a representação
+do que as pessoas fizeram
+											o que lhes foi pedido para fazer.
+											Pegámos nestas cem notas de um dólar,
+											e colocámo-las no website
+TenThousandsCents.com,
+											onde podem ver
+todas as contribuições individuais.
+											Podem trocar notas verdadeiras de 100 dólares por notas de 100 dólares falsas
+											e fazer uma doação para o Hundred Dollar Laptop Project,
+											que é agora conhecido por One Laptop Per Child.
+											Isto está de novo a mostrar todas as diferentes contribuições.
+											Podem ver que houve pessoas que fizeram representações detalhadas.
+											como esta aqui no topo -
+											passaram muito tempo a fazerem versões realísticas.
+											E outras pessoas desenhavam rabiscos ou caras sorridentes.
+											Aqui no lado direito no meio
+											vêem esta pessoa escrevendo ""$0.01!!! A sério?""
+											É tudo o que vou receber por isto?
+									","
+											Ayrıca bu, arkadaşım Takashi Kawashima ile
+											çalıştığım bir proje için esin kaynağı oldu.
+											Biz, Mekanik Türk tam olarak ne için tasarlandıysa onu bunun için kullanmayı kararlaştırdık,
+											ki bu da para kazanmak.
+											Dolayısıyla yüz dolarlık bir banknot aldık ve onu 10.000 ufacık parçaya ayırdık,
+											ve bununla Mekanik Türk'ü besledik.
+											İnsanlardan ne gördülerse onu çizmelerini istedik.
+											Ama burada hiç koyuna benzer kriterler yoktu.
+											İnsanlar, bir çöp adam veya gülen bir yüz çizdilerse,
+											bu, sahiden banknot haline geldi.
+											Yani gördüğünüz şey aslında insanlardan yapmaları istenilen şeyi
+											ne kadar iyi yaptıklarının bir temsilidir.
+											Sonra bu yüz dolarlık banknotları aldık,
+											ve göz gezdirip tüm bireysel katkıları görebileceğiniz
+											TenThousandsCents.com adı verilen web sitesine koyduk.
+											Ayrıca gerçek yüz dolarlık banknotları sahte yüz dolarlık banknotlarla takas edebilirsiniz
+											ve şu anda Çocuk Başına Bir Dizüstü Bilgisayar olarak bilinen
+											Yüz Dolarlık Dizüstü Bilgisayar Projesi için bağış yapabilirsiniz.
+											Bu da yapılan tüm farklı katkıları gösteriyor.
+											Bazılarının noktalarla güzel resimler yaptığını görüyorsunuz,
+											yukarıdaki bunun gibi —
+											gerçekçi sürümler yapmak için uzun zaman harcadılar.
+											Diğerleri ise çöp adamlar veya gülen yüzler çizmek istedi.
+											Burada sağ tarafta ortada, adamın birinin
+											ne yazdığını görüyorsunuz, ""0,01 $! Gerçekten mi?""
+											Bunun için aldığım ödemenin hepsi bu mu?
+									","
+											Et ça a été l'inspiration pour un projet
+											sur lequel j'ai travaillé avec mon ami Takashi Kawashima.
+											Nous avons décidé d'utiliser le Turc mécanique pour sa raison d'être précise,
+											qui était de rapporter de l'argent.
+											Alors nous avons pris une centaine de dollars et les avons divisé en 10 000 morceaux minuscules
+											et nous les avons placés dans le Turc Mécanique.
+											Nous avons demandé aux gens dire ce qu'ils voyaient.
+											Mais là il n'y avait pas de critère de ""mouton ressemblant"".
+											Les gens, s'ils tiraient un personnage en bâtons ou un smiley,
+											ça entrait dans le billet.
+											Donc ce que vous voyez est vraiment une représentation de la manière dont
+											les gens ont bien fait ce qui leur était demandé.
+											Nous avons donc pris ces cent billets d'un dollar,
+											et nous les avons mis sur un site appelé TenThousandsCents.com,
+											où vous pouvez passer en revue toutes les contributions individuelles.
+											Et vous pouvez aussi échanger des vrais billets de cent dollars contre des faux billets de cent dollars
+											et faire un don au projet Hundred Dollar Laptop,
+											qui est aussi connu désormais sous le nom Un Laptop par enfant.
+											Voilà encore toutes les différentes contributions.
+											Vous voyez que certains ont fait de très beaux rendus pointillés
+											comme celui-ci en haut —
+											ils ont passé du temps à faire des versions réalistes.
+											Et d'autres ont dessiné des personnages en bâtons ou des smileys.
+											Ici à droite au milieu
+											vous voyez le type qui écrit ""$0.01!!! Really?""
+											C'est tout ce que vous me donnez pour ça ?
+									","
+											Und das war die Inspiration für ein Projekt,
+											das ich zusammen mit meinem Freund Takashi Kawashima gemacht habe.
+											Wir haben uns entschieden den Mechanical Turk genau dafür einzusetzen, wofür er geschaffen wurde:
+											Um Geld zu machen.
+											Also haben wir ein Hundert-Dollar-Schein genommen und in 10,000 winzig kleine Teile zerlegt,
+											und diese in den Mechanical Turk eingespeist.
+											Wir baten die Leute zu zeichnen, was sie darin sahen.
+											Aber es gab keine Schafähnlichkeitskriterein.
+											Menschen, die ein Strichmännchen oder ein Smiley gemalt haben,
+											wurden auch tatsächlich in dem Schein aufgenommen.
+											Was ihr seht ist effektiv eine Repräsentation davon wie gut sich die Leute indem gemacht haben,
+											worum sie gebeten worden sind.
+											Also haben wir diese Hundert-Dollar-Scheine genommen,
+											und sie auf die Website namens TenThousandsCents.com gesetzt,
+											auf der man durch alle individuellen Beiträge browsen kann.
+											Und man kann auch echte Hundert-Dollar-Scheine gegen unechte Hundert-Dollar-Scheine eintauschen
+											und eine Spende an das Hundert-Dollar-Laptop Projekt machen,
+											das unter dem Namen One Laptop Per Child bekannt ist.
+											Das hier zeigt wieder all die verschiedenen Beiträge.
+											Man sieht, dass manche Menschen wunderschöne gestreifte Darstellungen gemacht haben,
+											wie dieses hier oben–
+											sie haben sich viel Zeit genommen um realistische Versionen zu zeichnen.
+											Und andere Menschen haben Strichmännchen oder Smileys gezeichnet.
+											Hier auf der rechten Seite in der Mitte
+											seht ihr diesen Typen, der geschrieben hat: ""$0.01!!! Im Ernst?""
+											Das ist alles, was ich dafür kriege?
+									",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+","
+","
+","
+","
+","
+",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+											(Laughter)
+									","
+											(Risas)
+									","
+											(Risos)
+									","
+											(Gülüşmeler)
+									","
+											(Rires)
+									","
+											(lacht)
+									",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+","
+","
+","
+","
+","
+",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+											So the last Mechanical Turk project I'm going to talk to you about
+											is called Bicycle Built for 2000.
+											This is a collaboration with my friend Daniel Massey.
+											You may recognize these two guys.
+											This is Max Mathews and John Kelly from Bell Labs in the '60s,
+											where they created the song ""Daisy Bell,""
+											which was the world's first singing computer.
+											You may recognize it from ""2001: A Space Odyssey.""
+											When HAL's dying at the end of the film he starts singing this song,
+											as a reference to when computers became human.
+											So we resynthesized this song.
+											This is what that sounded like.
+											We broke down all the individual notes
+											in the singing as well as the phonemes in the singing.
+									","
+											Y el último proyecto del Turco Mecánico del que les voy a hablar
+											se llama Bicicleta Construida para 2000.
+											Esta es una colaboración con mi amigo Daniel Massey.
+											Puede que reconozcan a estos dos tipos.
+											Son Max Mathews y John Kelly de los Laboratorios Bell en los años 60,
+											donde crearon la canción ""Daisy Bell"",
+											que fue la primera canción cantada por un computador.
+											Quizás puedan reconocerla de ""2001: Una odisea del espacio"".
+											Cuando HAL está muriendo al final de la película empieza a cantar esta canción,
+											referenciando cuando los computadores se hicieron humanos.
+											Así que re-sintetizamos esta canción.
+											Y así es como termino sonando.
+											Dividimos todas las notas
+											y también los fonemas en el canto.
+									","
+											O último projecto Mechanical Turk de que vos vou falar
+											é chamado Bicycle Built for 2000.
+											Esta é uma colaboração com o meu amigo Daniel Massey.
+											Talvez reconheçam estes dois tipos.
+											Este é Max Mathews and John Kelly do Bell Labs nos anos 60,
+											onde criaram a canção ""Daisy Bell,""
+											que foi o primeiro computador cantor mundial.
+											Talvez reconheçam isto de ""2001: Uma odisseia no espaço.""
+											Quando HAL está a morrer no final do filme ele começa a cantar esta canção,
+											como referência a quando os computadores se tornaram humanos.
+											E nós re-sintetizámos esta canção.
+											Isto é como soava no início.
+											Nós decomposémos tudo em notas individuais
+											na canção assim como nos fonemas na canção.
+									","
+											Hakkında konuşacağım son Mekanik Türk projesine ise,
+											2000 Kişi İçin Üretilmiş Bisiklet deniyor.
+											Arkadaşım Daniel Massey ile yapılmış bir işbirliği bu.
+											Bu iki adamı tanıyor olabilirsiniz.
+											Bunlar, 1960'larda Bell Laboratuvarları'ndan Max Mathews ile John Kelly,
+											burada dünyanın ilk şarkı söyleyen bilgisayarına
+											ithafen ""Daisy Bell"" (Papatya Çanı) adlı şarkıyı yaratmışlardı.
+											Onu ""2001: A Space Odyssey""den tanıyabilirsiniz.
+											HAL filmin sonunda ölürken o, bilgisayarların insana dönüştüğü
+											zamana ilişkin olarak bu şarkıyı söylemeye başlar.
+											O yüzden bu şarkıyı yeniden sentezledik.
+											Sesi kulağa böyle geliyordu.
+											Şarkıdaki tek tek notaların tamamının
+											yanı sıra şarkıdaki ses birimlerini de bozduk.
+									","
+											Bon, le dernier projet Turc mécanique dont je vais vous parler
+											porte le nom de Bicyclette construite pour 2000.
+											C'est une collaboration avec mon ami Daniel Massey.
+											Vous reconnaîtrez peut-être ces deux types.
+											Ce sont Max Mathews et John Kelly du Bell Labs dans les années 60
+											où ils ont créé la chanson ""Daisy Bell"",
+											qui a été le premier ordinateur chantant au monde.
+											Vous reconnaîtrez peut-être dans ""2001 : l'Odyssée de l'espace""
+											quand HAL est en train de mourir à la fin et commence à chanter cette chanson
+											comme une référence au moment où les ordinateurs sont devenus humains.
+											Donc nous avons reproduit cette chanson.
+											Voilà à quoi ça ressemblait.
+											Nous avons décomposé toutes les notes
+											et les phonèmes dans la chanson.
+									","
+											Das letzte Mechanical Turk Projekt, von dem ich euch erzählen werde
+											heisst Bicycle Built for 2000.
+											Das ist eine Zusammenarbeit mit meinem Freund Daniel Massey.
+											Ihr erkennt vielleicht diese zwei Typen.
+											Das sind Max Mathews und John Kelly von Bell Labs in den 60er,
+											als sie das Lieb ""Daisy Bell"" geschaffen haben,
+											was das welterste singende Computer war.
+											Ihr kennt es vielleicht aus ""2001: A Space Odyssey.""
+											Als HAL am Ende des Films stirbt, fängt er an, das Lieb zu singen,
+											als eine Referenz auf die Vermenschlichung des Computers.
+											Also haben wir dieses Lied resynthetisiert.
+											So klang es.
+											We brachen alles in einzelne Töne herunter
+											beim Singen und beim Phänomen des Singens.
+									",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+","
+","
+","
+","
+","
+",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+											Daisy Bell: ♫ Daisy, Daisy ... ♫
+									","
+											Daisy Bell: ♫ Daisy, Daisy... ♫
+									","
+											Daisy Bell: ♫ Daisy, Daisy ... ♫
+									","
+											Papatya Çanı: ♫ Papatya, Papatya ... ♫
+									","
+											Daisy Bell: ♫ Daisy, Daisy ... ♫
+									","
+											Daisy Bell: ♫ Daisy, Daisy ... ♫
+									",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+","
+","
+","
+","
+","
+",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+											Aaron Koblin: And we took all of those individual pieces,
+											and we fed them into another Turk request.
+											This is what it would look like if you went to the site.
+											You type in your code,
+											but you first test your mic.
+											You'd be fed a simple audio clip.
+											(Honk)
+											And then you'd do your best to recreate that with your own voice.
+											After previewing it and confirming it's what you submitted,
+											you could submit it into the Mechanical Turk with no other context.
+											And this is what we first got back from the very first set of submissions.
+									","
+											Aaron Koblin: Y tomamos todos los trozos independientes
+											y los metimos en otra petición para el Turco Mecánico.
+											Así se vería si ustedes fueran al sitio.
+											Le escriben su código
+											pero primero deben probar su micrófono.
+											Se les entregaría un simple clip de audio.
+											(Honk)
+											Y después tratarían de repetir eso lo más parecido posible con sus propias voces.
+											Después de escucharlo y confirmar que es efectivamente lo que grabaron
+											podrían entregarlo al Turco Mecánico, sin más contexto que eso.
+											Y esto es lo que obtuvimos del primer grupo de grabaciones entregadas.
+									","
+											Aaron Koblin: E nós pegámos em todas estas peças individuais,
+											e colocámo-las em outro Turk.
+											Isto é como parecerá se entrarem no site.
+											Digitam o vosso código,
+											mas primeiro devem testar o vosso microfone.
+											Receberiam um clip de áudio muito simples.
+											(Buzina)
+											E depois dariam o vosso melhor para recrear isso com a vossa voz.
+											Depois de reverem e confirmarem e submeterem,
+											podem submeter isso no Mechanical Turk sem mais nenhum contexto.
+											E isto foi o que obtivemos com as primeiras submissões.
+									","
+											Aaron Koblin: Ve hepimiz bu ayrı parçaların hepsini aldık,
+											ve onları başka bir Türk isteğiyle besledik.
+											Eğer siteye giderseniz bu, şöyle bir şeye benzeyecektir.
+											Kodunuzu girin, ama öncelikle
+											mikrofonunuzu test edin.
+											Basit bir ses klipi ile beslenmiş olursunuz.
+											(Korna sesi)
+											Ve sonra kendi sesinizle onu yeniden yaratmak için elinizden geleni yaparsınız.
+											Önizlemeyi yaptıktan ve sunduğunuzun bu olduğunu onayladıktan sonra,
+											başka bir içerik olmadan Mekanik Türk'ün içine gönderebilirsiniz.
+											Ve başvuruların en önceki setinden aldığımız ilk geri dönüş budur.
+									","
+											Aaron Koblin: Et nous avons pris toutes les pièces unitaires,
+											et nous les avons entrées dans une autre requête Turc.
+											Voici à quoi ça ressemblerait si vous alliez sur le site.
+											Vous tapez votre code,
+											et testez d'abord votre micro.
+											On vous fournirait un simple clip audio.
+											(Klaxon)
+											Et alors vous feriez de votre mieux pour le recréer avec votre propre voix.
+											Après l'avoir visualisé et confirmé comme votre contribution,
+											vous pourriez le soumettre au Turc mécanique sans aucun contexte additionnel.
+											Et voici ce que nous avons reçu du tout premier jeu de soumissions.
+									","
+											Aaron Koblin: Und wir nahmen all diese einzelnen Stücke
+											und speisten sie in eine weitere Mechanical Turk Anfrage.
+											Das ist was ihr sehen würdet, wenn ihr zu der Website geht.
+											Man tippt den Code ein,
+											Aber erst muss man das Mikro testen.
+											Man bekommt einen einfachen Audioclip.
+											(tuut)
+											Und man versucht es mit seiner eigenen Stimme so gut es geht nachzumachen.
+											Nachdem der Vorschau und der Bestätigung das es, was man einreichen will,
+											konnte man beim Mechanical Turk einreichen ohne weiteren Kontext.
+											Und das ist was wir mit dem allerersten Rücksendungen zurückbekommen haben.
+									",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+","
+","
+","
+","
+","
+",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+											Recording: ♫ Daisy, Daisy ♫
+											♫ give me your answer do ♫
+											♫ I'm half crazy ♫
+											♫ all for the love of you ♫
+											♫ It can't be a stylish marriage ♫
+											♫ I can't afford a carriage ♫
+											♫ But you'll look sweet upon the seat ♫
+											♫ of a bicycle built for two ♫
+									","
+											Grabación: ♫ Daisy, Daisy ♫
+											♫ Dame tu respuesta ♫
+											♫ Estoy medio loco ♫
+											♫ todo por tu amor ♫
+											♫ No puede ser un matrimonio elegante ♫
+											♫ No puedo pagar un carruaje ♫
+											♫ Pero te verías hermosa en el asiento ♫
+											♫ de una bicicleta construida para dos ♫
+									","
+											Gravando: ♫ Daisy, Daisy ♫
+											♫ dá-me a tua resposta ♫
+											♫ Estou meio louco ♫
+											♫ pelo teu amor ♫
+											♫ Não pode ser um casamento elegante ♫
+											♫ Não posso pagar uma carruagem ♫
+											♫ Mas estarás linda sobre esse assento ♫
+											♫ de uma bicicleta feita para dois ♫
+									","
+											Kayıt: ♫ Papatya, Papatya ♫
+											♫ Cevap ver bana ♫
+											♫ Deli divaneyim ♫
+											♫ senin tüm aşkına ♫
+											♫ Bu şık bir evlilik olamaz ♫
+											♫ Bir arabaya param yetmez ♫
+											♫ Ama iki kişi için yapılmış bir bisikletin ♫
+											♫ oturağında tatlı görüneceksin ♫
+									","
+											Enregistrement en cours : ♫ Daisy, Daisy ♫
+											♫ give me your answer do ♫
+											♫ I'm half crazy ♫
+											♫ all for the love of you ♫
+											♫ It can't be a stylish marriage ♫
+											♫ I can't afford a carriage ♫
+											♫ But you'll look sweet upon the seat ♫
+											♫ of a bicycle built for two ♫
+									","
+											Aufnahme: ♫ Daisy, Daisy ♫
+											♫ give me your answer do ♫
+											♫ I'm half crazy ♫
+											♫ all for the love of you ♫
+											♫ It can't be a stylish marriage ♫
+											♫ I can't afford a carriage ♫
+											♫ But you'll look sweet upon the seat ♫
+											♫ of a bicycle built for two ♫
+									",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+","
+","
+","
+","
+","
+",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+											AK: So James Surowieki has this idea of the wisdom of crowds,
+											that says that a whole bunch of people are smarter than any individual.
+											We wanted to see how this applies to collaborative, distributed music making,
+											where nobody has any idea what it is they're working on.
+											So if you go to the BicycleBuiltforTwoThousand.com
+											you can actually hear what all this sounds like together.
+											I'm sorry for this.
+									","
+											AK: Así que James Surowieki tiene esta idea de la sabiduría de las multitudes;
+											que dice que un montón de gente es más inteligente que cualquier individuo.
+											Queríamos ver cómo aplicaba esto a la colaboración, a la creación distribuida de música,
+											donde nadie tenía idea de en qué estaban trabajando.
+											Así que si van a la página BicycleBuiltforTwoThousand.com
+											pueden escuchar como suena realmente todo esto junto.
+											Me disculpo por esto.
+									","
+											AK: James Surowieki teve esta ideia da sabedoria das multidões
+											que diz que um conjunto de pessoas é mais esperto do que uma individual.
+											Queríamos ver como isto se aplicava à colaboração, a criação distribuída de música,
+											onde ninguém sabia em que é que estava a trabalhar.
+											Por isso se forem ao BicycleBuiltforTwoThounsand.com
+											podem ouvir o que tudo isto soa em conjunto.
+											Desculpem-me por isto.
+									","
+											AK: James Surowieki'nin kalabalıkların bilgeliği hakkında şöyle bir fikri var,
+											yani, bir sürü insan herhangi bir bireyden daha akıllıdır.
+											Üzerinde çalıştıkları şey hakkında kimsenin herhangi bir fikrinin olmadığı ortak,
+											dağıtılmış müzik yapma işine bunun nasıl uygulanacağını görmek istedik.
+											İşte, BicycleBuiltforTwoThousand.com'a giderseniz
+											tüm bunların birlikte aslında nasıl duyulduğunu dinleyebilirsiniz.
+											Bunun için üzgünüm.
+									","
+											AK : Alors James Surowieki a cette idée de la sagesse des foules,
+											qui dit qu'un groupe de gens est plus intelligent que n'importe quel individu.
+											Nous voulions voir comment ceci s'applique au collboratif, à la création de musique distribuée,
+											où personne n'a la moindre idée de ce sur quoi il travaille.
+											Donc si vous allez sur BicycleBuiltforTwoThousand.com
+											vous pouvez vraiment entendre ce que ça donne tout ensemble.
+											Désolé pour ça.
+									","
+											AK: James Surowieki hatte diese Idee der Weisheit der Masse
+											das besagt, das eine Menge Leute schlauer sind als ein einzelner.
+											Wir wollten sehen wie es sich anwenden lässt auf das gemeinschaftliche, verteilte Musik machen,
+											wo keiner weiss woran sie arbeiten.
+											Geht man also zu BicycleBuiltforTwoThousand.com,
+											kann man tatsächlich höre wie alles zusammen klingt.
+											Ich entschuldige mich dafür.
+									",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+","
+","
+","
+","
+","
+",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+											(Noise)
+									","
+											(Ruido)
+									","
+											(Barulho)
+									","
+											(Gürültü)
+									","
+											(Bruit)
+									","
+											(Lärm)
+									",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+","
+","
+","
+","
+","
+",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+											Chorus: ♫ Daisy, Daisy ♫
+											♫ Give me your answer do ♫
+											♫ I'm half crazy ♫
+											♫ all for the love of you ♫
+											♫ It can't be a stylish marriage ♫
+											♫ I can't afford a carriage ♫
+											♫ But you'd look sweet upon the seat ♫
+											♫ of a bicycle built for two ♫
+									","
+											Coro: ♫ Daisy, Daisy ♫
+											♫ Dame tu respuesta ♫
+											♫ Estoy medio loco ♫
+											♫ todo por tu amor ♫
+											♫ No puede ser un matrimonio elegante ♫
+											♫ No puedo pagar un carruaje ♫
+											♫ Pero te verías hermosa en el asiento ♫
+											♫ de una bicicleta construida para dos ♫
+									","
+											Refrão: ♫ Daisy, Daisy ♫
+											♫ Dá-me a tua resposta ♫
+											♫ Estou meio louco ♫
+											♫ pelo teu amor ♫
+											♫ não pode ser um casamento elegante ♫
+											♫ não posso alugar uma carruagem ♫
+											♫ Mas estarás linda sobre esse assento ♫
+											♫ de uma bicicleta feita para dois ♫
+									","
+											Nakarat: ♫ Papatya, Papatya ♫
+											♫ Cevap ver bana ♫
+											♫ Deli divaneyim ♫
+											♫ senin tüm aşkına ♫
+											♫ Bu şık bir evlilik olamaz ♫
+											♫ Bir arabaya param yetmez ♫
+											♫ Ama iki kişi için yapılmış bir bisikletin ♫
+											♫ oturağında tatlı görüneceksin ♫
+									","
+											Chorus: ♫ Daisy, Daisy ♫
+											♫ Give me your answer do ♫
+											♫ I'm half crazy ♫
+											♫ all for the love of you ♫
+											♫ It can't be a stylish marriage ♫
+											♫ I can't afford a carriage ♫
+											♫ But you'd look sweet upon the seat ♫
+											♫ of a bicycle built for two ♫
+									","
+											Chor: ♫ Daisy, Daisy ♫
+											♫ Give me your answer do ♫
+											♫ I'm half crazy ♫
+											♫ all for the love of you ♫
+											♫ It can't be a stylish marriage ♫
+											♫ I can't afford a carriage ♫
+											♫ But you'd look sweet upon the seat ♫
+											♫ of a bicycle built for two ♫
+									",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+","
+","
+","
+","
+","
+",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+											AK: So stepping back for a quick second,
+											when I was at UCLA going to grad school,
+											I was also working at a place called the Center for Embedded Network Sensing.
+											And I was writing software to visualize laser scanners.
+											So basically motion through 3D space.
+											And this was seen by a director in L.A. named James Frost
+											who said, ""Wait a minute.
+											You mean we can shoot a music video without actually using any video?""
+											So we did exactly that.
+											We made a music video for one of my favorite bands, Radiohead.
+											And I think one of my favorite parts of this project
+											was not just shooting a video with lasers,
+											but we also open sourced it,
+											and we made it released as a Google Code project,
+											where people could download a bunch of the data and some source code
+											to build their own versions of it.
+											And people were making some amazing things.
+											This is actually two of my favorites:
+											the pin-board Thom Yorke and a LEGO Thom Yorke.
+											A whole YouTube channel of people submitting really interesting content.
+											More recently, somebody even 3D-printed Thom Yorke's head,
+											which is a little creepy, but pretty cool.
+									","
+											AK: Así que dando un paso atrás por un segundo,
+											cuando estaba estudiando para mi postgrado en la UCLA
+											también trabajaba en un lugar llamado el Centro para la Detección de Redes Embebidas.
+											Y estaba escribiendo software para visualizar escáneres láser.
+											Básicamente escaneando movimiento en espacio 3D.
+											Y esto fue visto por un director en Los Ángeles llamado James Frost
+											quien dijo: ""Esperen un minuto.
+											¿Esto significa que podemos filmar un videoclip sin utilizar nada de video?""
+											Así que hicimos precisamente eso.
+											Hicimos un videoclip para una de mis bandas favoritas, Radiohead.
+											Y creo que una de mis partes favoritas de este proyecto
+											no fue sólo grabar un video con rayos láser,
+											sino que también abrimos su código al público
+											y lo dejamos como un proyecto Google Code
+											donde la gente podía descargar el código fuente y muchos datos
+											para construir sus propias versiones del clip.
+											E hicieron algunas cosas increíbles.
+											Aquí tenemos dos de mis favoritos:
+											el Thom Yorke de agujas y el Thom Yorke de LEGO.
+											Un canal de YouTube completo en el que personas subían contenido realmente interesante.
+											Hace poco, alguien incluso imprimió la cabeza de Thom Yorke en 3D
+											lo cual es un poco raro, pero bien cool.
+									","
+											AK: Voltando atrás por um segundo,
+											quando eu estava na UCLA indo para a universidade,
+											estava também a trabalhar num lugar chamado Center for Embedded Network Sensing.
+											E estava a escrever software para scanners de laser visual.
+											Basicamente movimento em espaço 3D.
+											E isto foi visto por um director em LA chamado James Frost
+											que disse, ""Espera aí.
+											Quer dizer que nós podemos fazer um video de música sem usar na verdade um vídeo?""
+											E nós fizemos exactamente isso.
+											Nós fizemos um video musical para uma das minhas bandas preferidas, Radiohead.
+											E eu acho que uma das minhas partes preferidas do projecto
+											não foi apenas fazer um video com lasers,
+											mas também por ser de código aberto,
+											e nós lançamo-lo como um projecto Google Code,
+											onde as pessoas podiam fazer o download de uma série de dados e algum código de fonte
+											para construírem a sua própria versão.
+											E as pessoas estavam a fazer coisas maravilhosas.
+											Estas são na verdade duas das minhas preferidas:
+											a versão pin-boar de Thom Yorke e a versão LEGO de Thom Yorke.
+											Imensas pessoas do canal YouTube a submeterem material muito interessante.
+											Recentemente, alguém até imprimiu a cabeça de Thom Yorke em 3D,
+											o que é um pouco assustador, mas muito fixe.
+									","
+											AK: Bir saniyeliğine geriye dönersek,
+											UCLA'da yüksek lisansımı yaparken,
+											aynı zamanda Gömülü Ağ Algılama Merkezi denilen bir yerde çalışıyordum.
+											Ve görsel lazer tarayıcılar için yazılım yazıyordum.
+											Yani temelde bu, 3 boyutlu uzayda hareket idi.
+											Ve L.A.'de James Frost adlı bir yönetmen bunu gördü ve
+											şöyle dedi, ""Bir dakika bekleyin.
+											Aslında herhangi bir görüntü kullanmadan bir müzik videosu çekebileceğimizi mi demek istiyorsunuz?""
+											İşte tam da bunu yaptık.
+											En sevdiğim gruplardan biri olan Radiohead için bir müzik videosu yaptık.
+											Ve bence, bu projenin en sevdiğim kısımlarından biri
+											sadece lazer ile bir video çekmek değildi,
+											ayrıca bunu açık kaynak kodlu yaptık,
+											ve bunu, insanların kendi sürümlerini yapmaları için
+											bir grup veriyi ve bazı kaynak kodları indirebilecekleri bir Google Kodu projesi
+											olarak yayımladık.
+											Ve insanlar bazı inanılmaz şeyler yapıyorlardı.
+											Aslında şunlar benim favorilerimden ikisi:
+											Thom Yorke'un not tahtasından yapılmış bir sureti ile LEGOdan yapılmışı.
+											Bütün YouTube kanalı ahalisi gerçekten ilginç içerikler göndermekteydi.
+											Hatta daha yakın zamanlarda birisi Thom Yorke'un başını 3 boyutlu olarak bastı,
+											bu biraz ürkütücü, ama oldukça hoş.
+									","
+											AK : alors en revenant en arrière un instant,
+											quand j'étais à UCLA à l'université,
+											je travaillais aussi au Center for Embedded Network Sensing.
+											Et je codais un logiciel pour les scanners à laser visuel.
+											Donc principalement du mouvement dans un espace 3D.
+											Et un réalisateur de L.A. appelé James Frost l'a vu
+											et a dit ""Attendez une minute.
+											Vous voulez dire qu'on peut tourner un clip musical sans utiliser de vidéo ?""
+											Et on a fait exactement ça.
+											Nous avons fait une vidéo musicale d'un de mes groupes favoris, Radiohead.
+											Et je crois qu'une de mes parties préférées du projet
+											ce n'était pas de tourner une vidéo avec des lasers,
+											mais le fait de le rendre Open Source,
+											et comment nous l'avons sorti en tant que projet Google Code
+											avec lequel les gens pouvaient télécharger un paquet de données et du code source
+											pour construire leur propre version.
+											Et les gens ont fait des choses étonnantes.
+											Voici deux de mes préférées :
+											le tableau d'affichage Thom Yorke et un LEGO Thom Yorke.
+											Une chaîne Youtube entière où les gens postent des contenus vraiment intéressants.
+											Plus récemment, quelqu'un a même imprimé en 3D la tête de Thom Yorke
+											qui fait un peu peur, mais est assez sympa.
+									","
+											AK: Geht man einen Schritt zurück,
+											als ich an der UCLA studiert habe,
+											habe ich an einem Ort mit dem Namen Center for Embedded Network Sensing gearbeitet.
+											Und ich schrieb Software um Laserscanner zu visualisieren.
+											Also im Grunde Bewegung durch einen 3D Raum.
+											Und es wurde von einem Regisseur in L.A. mit dem Namen James Frost gesehen,
+											der gesagt hat: ""Moment mal-
+											du meinst wir können ein Musikvideo drehen ohne überhaupt Video zu benutzen?""
+											Also haben wir genau das gemacht.
+											Wir machten ein Musikvideo für eine meiner Lieblingsbands, Radiohead.
+											Und ich denke, was ich am Projekt am liebsten mochte,
+											war nicht nur das Drehen mit Lasern,
+											sondern auch die Tatsache, dass wir es über Open Source zur Verfügung gestellt haben,
+											und wir haben es als ein Google Code Projekt veröffentlicht
+											wo man eine ganze Menge Daten und einige Source Codes downloaden konnte
+											um die eigene Version zu bauen.
+											Und es gab Menschen die erstaunliche Dinge gemacht haben.
+											Das sind zwei meiner Lieblinge:
+											Der Nagelbrett Thom Yorke und ein LEGO Thom Yorke.
+											Ein ganzes Youtube Channel auf dem Menschen wirklich interessante Inhalte geladen haben.
+											Vor kurzem hat sogar jemand Thom Yorkes Kopf 3D ausgedruckt,
+											was ein bisschen unheimlich ist, aber ziemlich cool.
+									",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+","
+","
+","
+","
+","
+",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+											So with everybody making so much amazing stuff
+											and actually understanding what it was they were working on,
+											I was really interested in trying to make a collaborative project
+											where people were working together to build something.
+											And I met a music video director named Chris Milk.
+											And we started bouncing around ideas
+											to make a collaborative music video project.
+											But we knew we really needed the right person
+											to kind of rally behind and build something for.
+											So we put the idea on the back burner for a few months.
+											And he ended up talking to Rick Rubin,
+											who was finishing up Johnny Cash's final album
+											called ""Ain't No Grave.""
+											The lyrics to the leading track are ""Ain't no grave can hold my body down.""
+											So we thought this was the perfect
+											project to build a collaborative memorial
+											and a virtual resurrection for Johnny Cash.
+									","
+											Y con todo el mundo haciendo tantas cosas increíbles
+											y comprendiendo de verdad qué era lo que hacían,
+											realmente me interesó tratar de hacer un proyecto colaborativo
+											donde las personas pudieran trabajar en conjunto para construir algo.
+											Y me junté con un director de video clips llamado Chris Milk.
+											Y empezamos a lanzarnos ideas
+											para hacer un proyecto de video clips colaborativos.
+											Pero sabíamos que necesitábamos la persona precisa
+											a quien le pudiéramos construir algo que valiera la pena.
+											Así que dejamos la idea en un segundo plano por unos meses.
+											Y él terminó hablando con Rick Rubin
+											quien estaba terminando el último álbum de Johnny Cash
+											llamado ""Ain't No Grave"" (""No hay tumba"").
+											La letra de la canción inicial es ""No hay tumba que pueda mantener mi cuerpo sepultado.""
+											Así que pensamos que este era el proyecto perfecto
+											para construir un memorial colaborativo
+											y una resurrección virtual para Johnny Cash.
+									","
+											Com tantas pessoas a fazerem coisas tão interessantes
+											e entendendo na verdade o que estavam a fazer,
+											Estava realmente interessado em fazer um projeto colaborativo
+											onde as pessoas trabalhariam juntas para construir algo.
+											Conheci um director de vídeos de música chamado Chris Milk.
+											E começámos a saltar entre ideias
+											para fazer um projecto vídeo-musical colaborativo.
+											Mas nós sabíamos que precisávamos mesmo da pessoa certa
+											para nos suportar e contruir alguma coisa.
+											Por isso deixámos a ideia em banho-maria por uns meses.
+											E ele acabou por falar com Rick Rubin,
+											que estava a terminar o ultimo álbum de Johnny Cash
+											chamado ""Ain't No Grave.""
+											A letra da canção principal dizia ""Nenhum túmulo pode manter o meu corpo em baixo.""
+											E nós pensámos que isto era perfeito
+											para construir um projecto memorial colaborativo
+											e uma ressurreição virtual para Johnny Cash,
+									","
+											Bu yüzden herkesin bu kadar şaşırtıcı şeyler yapmasıyla
+											ve onların ne üzerinde çalıştığını gerçekten anlamakla,
+											insanların bir şey inşa etmek için birlikte çalıştıkları ortak bir proje
+											yapmaya çalışma işine ilgi duydum.
+											Ve Chris Milk adlı bir müzik videosu yönetmeni ile bir araya geldim.
+											Böylece biz, ortak bir müzik videosu projesi
+											için bazı fikirler etrafında dönmeye başladık.
+											Ama, az çok arkasında toplanmak ve bir şeyler kurmak için
+											gerçekten doğru kişiye ihtiyacımız olduğunu da biliyorduk.
+											Bu yüzden birkaç aylığına bu fikri rafa kaldırdık.
+											O da kendini, Johnny Cash'in son albümü
+											""Hiç Mezar Yok""u bitirmekte olan Rick Rubin ile
+											konuşurken buldu.
+											Albümdeki en önemli parçanın sözleri ""Hiçbir mezar bedenimi zaptedemez"" dir.
+											Dolayısıyla bunun, Johnny Cash için
+											sanal bir diriliş ve ortak bir anıt oluşturmada
+											mükemmel bir proje olduğunu düşündüm.
+									","
+											Alors avec tous ces gens qui produisent tant de choses étonnantes
+											et comprennent vraiment ce sur quoi ils travaillaient
+											j'avais vraiment envie d'essayer de faire un projet collaboratif
+											où les gens travailleraient ensemble pour construire quelque chose.
+											Et j'ai rencontré un réalisateur musical, Chris Milk.
+											Et nous avons commencé à lancer des idées
+											pour faire un projet de vidéo musicale collaborative.
+											Mais nous savions que nous avions vraiment besoin de la bonne personne
+											pour rallier tout le monde derrière elle et donner envie de construire.
+											Alors nous avons mis l'idée en veilleuse quelques mois.
+											Et il a fini par parler à Rick Rubin,
+											qui terminait l'album de Johnny Cash
+											""Ain't No Grave.""
+											Les paroles du morceau principal sont ""Aucune tombe ne peut plaquer mon corps au sol""
+											Alors nous avons pensé que c'était le projet idéal
+											pour construire un mémorial collaboratif
+											et une résurrection virtuelle pour Johnny Cash.
+									","
+											Da alle so viele fantastische Sachen machen
+											und dabei wirklich wissen woran sie arbeiteten,
+											war ich wirklich daran interessiert ein Gemeinschaftsprojekt auszuprobieren,
+											bei dem Menschen zusammenarbeiten um etwas zu erschaffen.
+											Und ich traf ein Musikvideo Regisseur namens Chris Milk.
+											Und wir liessen uns viele Ideen durch den Kopf gehen
+											wie man ein gemeinschaftliches Musikvideoprojekt machen konnt.
+											Aber wir wussten, dass wir auf jeden Fall die richtige Person brauchten
+											um uns dahinter zu stellen und für den wir etwas aufbauen konnten.
+											Also haben wir die Idee ein paar Monate lang auf Sparflamme gehalten.
+											Und landeten dann schliesslich bei Rick Rubin,
+											der gerade das letzte Album von Johnny Cash fertig stellte,
+											welches ""Ain't No Grave."" heissen soll.
+											Der Text zum Haupttrack ging so: ""Ain't no grave can hold my body down.""
+											Also haben wir gedacht, es ist das perfekte Projekt
+											um eine kollektives Denkmal zu bauen,
+											eine virtuelle Wiederauferstehung von Johnny Cash.
+									",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+","
+","
+","
+","
+","
+",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+											So I teamed up with my good friend Ricardo Cabello, also known as Mr. doob,
+											who's a much better programmer than I am,
+											and he made this amazing Flash drawing tool.
+											As you know,
+											an animation is a series of images.
+											So what we did was cross-cut a bunch of archival footage of Johnny Cash,
+											and at eight frames a second,
+											we allowed individuals to draw a single frame
+											that would get woven into
+											this dynamically changing music video.
+											So I don't have time to play the entire thing for you,
+											but I want to show you two short clips.
+											One is the beginning of the music video.
+											And that's going to be followed by a short clip
+											of people who have already contributed to the project
+											talking about it briefly.
+									","
+											Así que me junté con mi buen amigo Ricardo Cabello, también conocido como Sr. Doob,
+											quien es un programador mucho mejor que yo,
+											y él hizo esta asombrosa herramienta de dibujo en Flash.
+											Como ustedes saben,
+											una animación es una serie de imágenes.
+											Así que lo que hicimos fue juntar muchos videos de archivo de Johnny Cash,
+											y en ocho cuadros por segundo
+											dejamos que cada persona dibujara uno de esos cuadros
+											que se uniría a este entramado de
+											este video musical que cambia dinámicamente.
+											No me alcanza el tiempo para mostrárselos entero
+											pero les quiero mostrar dos breves clips.
+											Uno de ellos es el principio del video.
+											Y eso va a ser seguido por un breve clip
+											de personas que ya han contribuido al proyecto
+											hablando brevemente sobre el video.
+									","
+											Por isso reuni-me com o meu bom amigo Ricardo Cabello, conhecido como Mr. doob,
+											que é um programador muito melhor do que eu,
+											e ele fez esta ferramenta maravilhosa de desenho Flash.
+											Como vocês sabem,
+											uma animação é uma série de imagens.
+											Por isso o que fizemos foi cortar uma série de imagens do arquivo de Johnny Cash,
+											e em oito frames por segundo,
+											nós permitimos que individuos desenhassem um frame apenas
+											que iria misturar-se com os outros
+											nesta alteração dinâmica de video de música.
+											Não tenho tempo de mostrar tudo,
+											mas quero mostrar-vos dois breves clips.
+											Um é o inicio do video de música.
+											E esse vai ser seguido por um breve clip
+											de pessoas que já contribuíram realmente para o projecto
+											falando sobre isso brevemente.
+									","
+											Ben de benden çok daha iyi bir programcı olan aynı zamanda Bay Doob olarak
+											bilinen dostum Ricardo Cabello ile bir takım oluşturdum,
+											ve o, bu şaşırtıcı Flash çizim aracını yaptı.
+											Bildiğiniz gibi,
+											animasyon bir görüntüler dizisidir.
+											O yüzden şunu yaptık, Johnny Cash'in arşiv görüntülerinden bir demet alıp çapraz kestik,
+											ve saniyede sekiz karede,
+											bu dinamik olarak değişen müzik videosunun
+											içine dokunmuş olması için insanların
+											tek bir kare çizmelerine izin verdik.
+											Sizin için tüm bu şeyi oynatmaya zamanım yok,
+											ama iki kısa klip göstermek istiyorum.
+											Bir tanesi müzik videosunun başlangıcı.
+											Ve bunu, şimdiden projeye katkıda bulunan
+											insanların ondan kısaca bahsettiği özet bir klip
+											takip edecek.
+									","
+											Alors j'ai fait équipe avec mon bon ami Ricardo Cabello aussi connu sous le nom de M. Doob,
+											qui est un bien meilleur programmeur que moi,
+											et il a fait cet étonnant outil de dessin en Flash.
+											Comme vous le savez,
+											une animation est une série d'images.
+											Et ce que nous avons fait c'est couper des séquences d'archives de Johnny Cash,
+											et à 8 images par seconde,
+											nous avons permis à des gens de dessiner une image unique
+											qui serait intégrée dans
+											cette vidéo musicale qui change de façon dynamique.
+											Bien, je n'ai pas le temps de vous le montrer en entier,
+											mais je voulais vous montrer deux courts extraits.
+											L'un est le début du clip vidéo.
+											Et juste après vous verrez un clip court
+											où des gens qui ont contribué au projet
+											en parlent brièvement.
+									","
+											So tat ich mich zusammen mit meinem guten Freund Ricardo Cabello, auch bekannt als Mr. doob,
+											der ein viel besserer Programmierer ist als ich,
+											und er machte dieses fantastische Zeichenwerkzeug.
+											Wie ihr wisst,
+											besteht eine Animation aus einer Abfolge von Bildern.
+											Also haben wir querbeet einen Haufen Archivaufnahmen von Johnny Cash genommen
+											und mit 8 Frames pro Sekunde
+											haben wir Einzelpersonen erlaubt ein einziger Frame zu zeichnen,
+											der verwebt wird in
+											dieses dynamisch sich verändernde Musikvideo.
+											Ich werde euch nicht das ganze abspielen,
+											aber ich möchte euch zwei kurze Ausschnitte zeigen.
+											Das erste ist der Anfang des Musikvideos.
+											Gefolgt von einem kurzen Clip
+											von Menschen, die sich schon daran beteiligt haben,
+											und es kurz vorstellen.
+									",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+","
+","
+","
+","
+","
+",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+											(Music)
+									","
+											(Música)
+									","
+											(Música)
+									","
+											(Müzik)
+									","
+											(Musique)
+									","
+											(Musik)
+									",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+","
+","
+","
+","
+","
+",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+											(Video) Johnny Cash: ♫ There ain't no grave ♫
+											♫ can hold my body down ♫
+											♫ There ain't no grave ♫
+											♫ can hold body down ♫
+											♫ When I hear the trumpet sound ♫
+											♫ I'm going to ride right out of the ground ♫
+											♫ Ain't no grave ♫
+											♫ can hold my body ... ♫
+									","
+											(Video) Johnny Cash: ♫ No hay ninguna tumba ♫
+											♫ que pueda mantener mi cuerpo sepultado ♫
+											♫ No hay ninguna tumba ♫
+											♫ que pueda mantener mi cuerpo sepultado ♫
+											♫ Cuando escuche la trompeta sonar ♫
+											♫ voy a salir cabalgando de la tierra ♫
+											♫ No hay tumba ♫
+											♫ que pueda mantener mi cuerpo... ♫
+									","
+											(Vídeo) Johnny Cash: ♫ Nenhuma sepultura ♫
+											♫ pode prender o meu corpo em baixo ♫
+											♫ Nenhuma sepultura ♫
+											♫ pode prender o meu corpo em baixo ♫
+											♫ Quando eu ouço o som do trompete ♫
+											♫ Eu vou levantar-me do chão ♫
+											♫ Nenhuma sepultura ♫
+											♫ pode prender o meu corpo ... ♫
+									","
+											(Görüntü) Johnny Cash: ♫ Hiç mezar yok ♫
+											♫ bedenimi zaptedebilecek ♫
+											♫ Hiç mezar yok ♫
+											♫ bedeni zaptedebilecek ♫
+											♫ Trompet sesini duyduğumda ♫
+											♫ Yerden sağ salim çıkacağım ♫
+											♫ Hiç mezar yok ♫
+											♫ bedenimi zaptede ... ♫
+									","
+											(Vidéo) Johnny Cash: ♫ There ain't no grave ♫
+											♫ can hold my body down ♫
+											♫ There ain't no grave ♫
+											♫ can hold body down ♫
+											♫ When I hear the trumpet sound ♫
+											♫ I'm going to ride right out of the ground ♫
+											♫ Ain't no grave ♫
+											♫ can hold my body ... ♫
+									","
+											(Video) Johnny Cash: ♫ There ain't no grave ♫
+											♫ can hold my body down ♫
+											♫ There ain't no grave ♫
+											♫ can hold body down ♫
+											♫ When I hear the trumpet sound ♫
+											♫ I'm going to ride right out of the ground ♫
+											♫ Ain't no grave ♫
+											♫ can hold my body ... ♫
+									",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+","
+","
+","
+","
+","
+",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+											(Applause)
+									","
+											(Aplausos)
+									","
+											(Aplausos)
+									","
+											(Alkış)
+									","
+											(Applaudissements)
+									","
+											(Applaus)
+									",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+","
+","
+","
+","
+","
+",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+											AK: What better way to pay tribute to the man
+											than to make something for one of his songs.
+									","
+											AK: ¿Qué mejor manera de rendir homenaje al hombre
+											que hacer algo por una de sus canciones.
+									","
+											AK: Que melhor maneira de prestar tributo ao homem
+											do que fazer algo por uma das suas canções.
+									","
+											AK: Bu adamı onurlandırmak için onun şarkılarından
+											biri için bir şeyler yapmaktan daha iyi bir yol var mı?
+									","
+											AK : Quelle meilleure manière de rendre hommage à l'homme
+											que de faire quelque chose pour une de ses chansons.
+									","
+											AK: Man könnte den Mann nicht besser ehren,
+											als etwas zu einem seiner Lieder beizutragen.
+									",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+","
+","
+","
+","
+","
+",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+											Collaborator: I felt really sad when he died.
+											And I just thought it'd be wonderful,
+											it'd be really nice to contribute something to his memory.
+									","
+											Colaborador: Me sentí muy triste cuando murió.
+											Y sólo pensé que sería maravilloso,
+											que sería muy bueno aportar algo a su memoria.
+									","
+											Colaborador: Senti-me realmente triste quando ele morreu.
+											Apenas pensei que isto seria maravilhoso,
+											seria realmente muito bom contribuir de algum modo para a sua memória.
+									","
+											Katılımcı: O öldüğünde kendimi çok üzgün hissettim.
+											Ve ben sadece düşündüm de harika olurdu,
+											onun anısına bir şeylerle katkıda bulunmak gerçekten iyi olurdu.
+									","
+											Collaborateur : j'ai été vraiment triste quand il est mort.
+											Et je me suis dit que ça serait merveilleux
+											ça serait vraiment super de faire quelque chose en sa mémoire.
+									","
+											Teilnehmer: Ich war traurig, als er starb.
+											Und dachte, es wäre wunderbar,
+											es wäre wirklich nett etwas zu seinem Andenken beizutragen.
+									",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+","
+","
+","
+","
+","
+",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+											Collaborator Two: It really allows
+											this last recording of his
+											to be a living, breathing memorial.
+									","
+											Colaborador Dos: Logra realmente que
+											su última grabación se vuelva
+											un memorial vivo, que respire.
+									","
+											Colaborador dois: Isto realmente permite
+											que esta última gravação
+											seja uma memória viva, que respira.
+									","
+											İkinci Katılımcı: Onun bu son kayıtı
+											gerçekten yaşayan,
+											nefes alan bir yadigar olmasını sağlıyor.
+									","
+											Collaborateur 2 : ça fait vraiment
+											de son dernier enregistrement
+											un mémorial vivant, qui respire.
+									","
+											Teilnehmer zwei: Es erlaubt seiner letzten Aufnahme
+											seiner letzten Aufnahme wirklich
+											ein lebendiges, atmendes Denkmal zu sein.
+									",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+","
+","
+","
+","
+","
+",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+											Collaborator Three: For all of the frames to be drawn by fans,
+											each individual frame,
+											it's got a very powerful feeling to it.
+									","
+											Colaborador Tres: Por todos los cuadros que dibujan y dibujarán sus fans,
+											cada cuadro específico
+											conlleva un sentimiento muy poderoso.
+									","
+											Colaborador três: Cada frame desenhado pelos fãs,
+											cada frame individual,
+											tem um grande sentimento posto em si.
+									","
+											Üçüncü Katılımcı: Hayranları tarafından çizilecek karelerin hepsi için,
+											her bir kare,
+											içinde çok güçlü duygular barındırıyor.
+									","
+											Collabortateur 3 : Que toutes les images soient dessinées par des fans,
+											chaque image individuelle,
+											ça donne une impression très puissante à l'ensemble.
+									","
+											Teilnehmer drei: Alle dieser Frames, die von Fans gezeichnet sind,
+											jedes einzelne,
+											erzeugt ein gewaltiges Gefühl.
+									",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+","
+","
+","
+","
+","
+",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+											Collaborator Four: I've seen everybody
+											from Japan, Venezuela, to the States,
+											to Knoxville, Tennessee.
+									","
+											Colaborador Cuatro: He visto a todo el mundo
+											desde Japón, Venezuela, a Estados Unidos,
+											a Knoxville, Tennessee.
+									","
+											Colaborador quatro: Vi pessoas
+											do Japão, Venezuela, até aos EUA,
+											até Knoxville, Tennessee.
+									","
+											Dördüncü Katılımcı: Herkesi gördüm
+											Japonya, Venezuela, Birleşik Devletler'den
+											Knoxville, Tennessee'ye kadar.
+									","
+											Collaborateur 4 : j'ai vu tout le monde
+											du Japon, du Venezuela, aux Etats-Unis,
+											à Knoxville, Tennessee.
+									","
+											Teilnehmer vier: Ich habe alle möglichen Leute gesehen,
+											aus Japan, Venezuela, den USA,
+											aus Knoxville, Tennessee.
+									",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+","
+","
+","
+","
+","
+",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+											Collaborator Five: As much as is different from frame to frame,
+											it really is personal.
+											Collaborator Six: Watching the video in my room,
+											I could see me not understanding at the beginning of it.
+											And I just worked and worked through problems,
+											until my little wee battles that I was fighting within the picture
+											all began to resolve themselves.
+											You can actually see the point when I know what I'm doing,
+											and a lot of light and dark comes into it.
+											And in a weird way,
+											that's what I actually like about Johnny Cash's music as well.
+											It's the sum total of his life,
+											all the things that had happened —
+											the bad things, the good things.
+											You're hearing a person's life.
+									","
+											Colaborador Cinco: Por mucho que sea diferente de cuadro a cuadro,
+											es realmente personal.
+											Colaborador Seis: Viendo el video en mi habitación
+											notaba que al principio me costaba entenderlo.
+											Y sólo trabajé y fui solucionando los problemas,
+											hasta que todas las pequeñas batallas que luchaba dentro de la imagen
+											comenzaron a resolverse por sí solas.
+											Y pueden ver el momento cuando sé lo que estoy haciendo
+											y le llega mucha luz y oscuridad.
+											Y, de una manera extraña, al mismo tiempo
+											es lo que me gusta de la música de Johnny Cash.
+											Es la suma total de su vida,
+											todo lo que había sucedido;
+											las cosas malas y las cosas buenas.
+											Están escuchando la vida de una persona.
+									","
+											Colaborador cinco: Na medida em que é diferente de frame para frame,
+											é realmente pessoal.
+											Colaborador seis: Vendo o vídeo na minha sala,
+											vi que não entendia isto no ínicio.
+											Trabalhei e trabalhei no problema
+											até que todas as pequenas batalhas que eu estava a travar com a imagem
+											começaram a resolver-se por si mesmas.
+											Posso realmente ver o sentido quando eu sei o que estou a fazer,
+											e imensa luz e escuridão acaba por vir.
+											E, de uma forma estranha,
+											é isso que eu gosto na música de Johnny Cash.
+											É a soma total da sua vida,
+											todas as coisas que aconteceram -
+											as coisas más, as coisas boas.
+											Estamos a ouvir a vida de uma pessoa.
+									","
+											Beşinci Katılımcı: Bir kareden diğerine her ne kadar fark varsa,
+											bu gerçekten kişisel.
+											Altıncı Katılımcı: Odamda videoyu izlerken,
+											başlangıcında kendimi onu anlamazken görebiliyordum.
+											Ve ben, çalıştım ve sorunlar ile uğraştım,
+											ta ki resmin içinde mücadele ettiğim ufacık minik savaşlar
+											kendiliğinden çözülmeye başlayana dek.
+											Yani aslında ne yaptığımı bildiğim zaman o noktayı görebilirim,
+											ve ışık ile karanlık bolca içine dolar.
+											Ve garip bir şekilde,
+											gerçekten de Johnny Cash'in müziğin hakkında sevdiğim şey budur.
+											Bu, onun hayatının toplamı,
+											cereyan eden şeylerin hepsinin —
+											kötü şeyler, iyi şeyler.
+											Bir kişinin yaşamından söz ediliyor.
+									","
+											Collaborateur 5 : C'est tellement différent d'image en image,
+											c'est vraiment personnel.
+											Collaborateur 6 : en regardant cette vidéo dans ma chambre,
+											je me voyais dans l'incompréhension au début.
+											Et j'ai travaillé et travaillé sur les problèmes,
+											jusqu'à ce que mes petites batailles de détails dans l'image
+											commencent à toutes se résoudre.
+											Alors je vois le moment où je sais ce que je suis en train de faire,
+											et beaucoup de lumière et d'ombre entre.
+											Et curieusement,
+											c'est aussi ce que j'aime dans la musique de Johnny Cash.
+											C'est la somme de sa vie,
+											toutes les choses qui étaient arrivées —
+											les mauvaises, les bonnes.
+											Vous entendez la vie d'une personne.
+									","
+											Teilnehmer fünf: Jedes Frame ist unterschiedlich
+											und wirklich persönlich.
+											Teilnehmer sechs: Als ich dieses Video in meinem Zimmer anschaute,
+											konnte ich sehen, wie ich es anfangs nicht begriff.
+											Und ich arbeitete mich durch die Probelme
+											bis meine winzig kleine Auseinandersetzungen, die ich mit dem Bild führte
+											sich alle langsam lösten.
+											Ich konnte so wirklich sehen, an welchem Punkt ich begann zu begreifen, was ich tat
+											und eine Menge helle und dunkle Stellen kamen dazu.
+											Auf einer seltsamen Art
+											war es genau das, was ich an Johnny Cashs Musik so mag.
+											Es ist die Endsumme seines Lebens,
+											alles, was passiert ist–
+											die schlechten Dinge, die guten Dinge.
+											Du hörst das Leben einer Person.
+									",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+","
+","
+","
+","
+","
+",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+											AK: So if you go to the website JohnnyCashProject.com,
+											what you'll see is the video playing above.
+											And below it are all the individual frames
+											that people have been submitting to the project.
+											So this isn't finished at all,
+											but it's an ongoing project where people can continue to collaborate.
+											If you roll over any one of those individual thumbnails,
+											you can see the person who drew that individual thumbnail
+											and where they were located.
+											And if you find one that you're interested in,
+											you can actually click on it and open up an information panel
+											where you're able to rate that frame,
+											which helps it bubble up to the top.
+											And you can also see the way that it was drawn.
+											Again, you can get the playback and personal contribution.
+											In addition to that, it's listed, the artist's name, the location,
+											how long they spent drawing it.
+											And you can pick a style. So this one was tagged ""Abstract.""
+											But there's a bunch of different styles.
+											And you can sort the video a number of different ways.
+											You can say, ""I want to see the pointillist version
+											or the sketchy version or the realistic version.
+											And then this is, again, the abstract version,
+											which ends up getting a little bit crazy.
+									","
+											AK: Así que si van a la página web JohnnyCashProject.com,
+											lo que verán en la parte superior es el vídeo.
+											Y debajo de él están todos los cuadros individuales
+											que la gente ha estado enviando al proyecto.
+											Así que esto no está para nada terminado,
+											es un proyecto que aún sigue en el que la gente puede seguir colaborando.
+											Si pasas encima de cualquiera de los cuadros
+											se puede ver a la persona que dibujo esa imagen
+											y donde estaba situado.
+											Y si encuentran uno que les interesa,
+											puede hacer clic sobre él y desplegar un panel de información
+											donde puede ponerle una nota a ese cuadro,
+											lo que lo ayuda a ir subiendo en el ranking.
+											Y también pueden ver la forma en la que se dibujó.
+											Nuevamente, pueden ver el video y la contribución de la persona.
+											Además de eso, se lista el nombre del artista, la ubicación,
+											el tiempo que pasó dibujándolo.
+											Y pueden elegir un estilo. Este fue etiquetado como ""Abstracto"".
+											Pero hay un montón de estilos diferentes.
+											Y pueden ordenar los videos de varias maneras diferentes.
+											Pueden decir: ""Quiero ver la versión puntillista
+											o la versión trazada o la versión realista"".
+											Y entonces esto es, de nuevo, la versión abstracta,
+											que termina poniéndose media loca.
+									","
+											AK: Se forem ao site JohnnyCashProject.com,
+											o que vão ver é o vídeo que está a passar em cima.
+											E em baixo todos os frames individuais
+											que as pessoas têm submetido para o projecto.
+											Isto ainda não está terminado de todo,
+											este é um projecto contínuo onde as pessoas podem continuar a colaborar.
+											Se passarem sobre qualquer uma destas miniaturas individuais,
+											podem ver quem foi a pessoa que desenhou essa miniatura individual
+											e onde elas se localizam.
+											E se encontrarem uma que vos interesse,
+											podem clicar nele e abrir um painel informativo
+											onde podem classificar o frame,
+											o que o ajuda a subir ao topo
+											Também podem ver a forma como foi desenhado.
+											De novo, podem ver o contributo pessoal.
+											Além disso, está listado o nome do artista, a localização,
+											quanto tempo levaram para desenhá-lo.
+											E podem escolher um estilo. Este aqui foi classificado como ""Abstrato"".
+											Mas há toda uma série de estilos diferentes.
+											E podem misturar o video de diferentes maneiras.
+											Vocês podem dizer, ""Eu quero ver a versão em pontos
+											ou a versão de esboço ou a versão real.
+											E aqui de novo, a versão abstracta,
+											que acaba por se tornar um pouco maluca.
+									","
+											AK: Öyleyse, JohnnyCashProject.com adlı web sitesine giderseniz,
+											yukarıda oynuyan videoyu göreceksiniz.
+											Ve altında insanların projeye teslim ettikleri
+											tek tek tüm kareler bulunuyor.
+											Aslında bitmiş sayılmaz,
+											ama bu, insanların işbirliğine devam edebileceği süregelen bir projedir.
+											Eğer imleci tek tek bu küçük resimlerin biri üzerine getirirseniz,
+											o tek küçük resmi çizen kişiyi ve onun nerede bulunduğunu
+											görebilirsiniz.
+											Ve eğer ilgilendiğiniz birini bulursanız,
+											sahiden üzerine tıklayabilir ve o kareyi derecelendirebileceğiniz
+											bir bilgi paneli açabilirsiniz, ki bu da
+											onun yukarı taşınmasına yardımcı olur.
+											Ve o karenin çizildiği yöntemi de görebilirsiniz.
+											Yine, videoyu oynatabilir ve kişisel katkıları öğrenebilirsiniz.
+											Buna ek olarak, sanatçının adı, konumu, bunu çizmek için
+											ne kadar zaman harcadıkları listelenir.
+											Ve bir stil seçebilirsiniz. Mesela bu, ""Soyut"" diye etiketlenmiş.
+											Ama bir sürü farklı stiller de var.
+											Ve videoyu birkaç farklı yoldan sıralayabilirsiniz.
+											""Noktacı sürümünü veya kabataslak sürümünü
+											veya gerçekçi halini görmek istiyorum "", diyebilirsiniz.
+											Ve bu, yine soyut bir versiyonu,
+											biraz çılgınlaşırken son buluyor.
+									","
+											AK : Si vous allez sur le site JohnnyCashProject.com,
+											ce que vous verrez c'est la vidéo ci-dessus.
+											Et en-dessous ce sont les images individuelles
+											que les gens ont postées pour le projet.
+											Donc ce n'est pas du tout un travail fini,
+											c'est un projet toujours ouvert auquel les gens peuvent continuer à collaborer.
+											Si vous passez la souris sur n'importe laquelle de ces vignettes individuelles,
+											vous verrez la personne qui a dessiné cette image
+											et où elle se trouve géographiquement.
+											Et si vous en trouvez une qui vous intéresse,
+											vous pouvez cliquer dessus et ouvrir une fiche d'information
+											où vous pouvez lui donner une note,
+											ce l'aide à remonter dans la liste.
+											Vous pouvez aussi voir comment elle a été dessinée.
+											Là encore, vous pouvez jouer la vidéo et vous la contribution personnelle.
+											En plus de ça, sont notés le nom de l'artiste, sa localisation,
+											le temps qu'il a mis à dessiner l'image.
+											Et vous pouvez choisir un style. Celle-ci a été taguée ""Asbtract.""
+											Il y a un tas de styles différents.
+											Et vous pouvez arranger la vidéo de beaucoup de façons différentes.
+											Vous pouvez dire ""je veux voir la version pointilliste
+											ou la version schématique ou la version réaliste.""
+											Et voici encore la version abstraite,
+											qui finit de façon un peu folle.
+									","
+											AK: Wenn ihr zu der Website JohnnyCashProject.com geht,
+											wird ihr das Video oben sehen.
+											Und darunter alle einzelnen Frames,
+											die Menschen bei dem Projekt eingereicht haben.
+											Aber es ist noch gar nicht abgeschlossen
+											sondern ein fortlaufendes Projekt, an dem sich Menschen weiter beteiligen können.
+											Wenn man über eines der individuellen Thumbnails geht,
+											kann man die Person sehen, die dieses einzelne Thumbnail gezeichnet hat,
+											und wo sie sind.
+											Und wenn man ein interessantes findet,
+											kann man es anklicken und ein Informationsfeld öffnet sich,
+											wo man den Frame bewerten kann,
+											was ihn hilft bis nach oben zu tragen.
+											Und man kan auch sehen, wie es gezeichnet worden ist.
+											Und wieder bekommt man die Wiederholung und persönlichen Informationen.
+											Darüber hinaus sind Name, Ort des Künstler aufgelistet
+											und wie lange sie daran gezeichnet haben.
+											Man kann auch einen Stil aussuchen. Dieses hier heisst ""Abstrakt"".
+											Aber da sind ein Haufen verschiedener Stile.
+											Und man kann das Video in einer Vielzahl verschiedener Weisen sortieren.
+											Man kann sagen: ""Ich will die pointillistische Version sehen.""
+											oder die skizzenhafte Version oder die realistische Version.
+											Und das ist wieder die abstrakte Version,
+											das am Ende etwas verrückt wird.
+									",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+","
+","
+","
+","
+","
+",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+											So the last project I want to talk to you about is another collaboration with Chris Milk.
+											And this is called ""The Wilderness Downtown.""
+											It's an online music video for the Arcade Fire.
+											Chris and I were really amazed
+											by the potential now with modern web browsers,
+											where you have HTML5 audio and video
+											and the power of JavaScript to render amazingly fast.
+											And we wanted to push the idea of the music video that was meant for the Web
+											beyond the four-by-three or sixteen-by-nine window
+											and try to make it play out and choreograph throughout the screen.
+											But most importantly, I think,
+											we really wanted to make an experience that was unlike the Johnny Cash Project,
+											where you had a small group of people spending a lot of time
+											to contribute something for everyone.
+											What if we had a very low commitment,
+											but delivered something individually unique to each person who contributed?
+									","
+											Y el último proyecto que quería mostrarles es otra colaboración con Chris Milk.
+											Y esto se llama ""El Centro de la Ciudad Silvestre.""
+											Es un video de música en línea de la banda The Arcade Fire.
+											Chris y yo estábamos muy sorprendidos
+											por el potencial actual de los navegadores web,
+											donde tienen audio y video de HTML5
+											y el poder de JavaScript para cargarlo increíblemente rápido.
+											Y queríamos impulsar la idea de un video musical hecho para la Web
+											más allá de la ventana de 4:3 o 16:9
+											y tratar de que corriera fuera de esta y se coreografiara por toda la pantalla.
+											Pero lo más importante, creo,
+											es que queríamos crear una experiencia distinta a la del proyecto de Johnny Cash,
+											donde había un pequeño grupo de personas que pasaron mucho tiempo
+											contribuyendo algo para muchos.
+											¿Qué pasaría si hubiera algo que necesitara un aporte mínimo
+											que al mismo tiempo entregara algo único e individual para cada persona que contribuyera?
+									","
+											A última colaboração de que vos quero falar é outra colaboração com Chris Milk.
+											E é chamada ""The Wilderness Downtown.""
+											É um vídeo de música online dos The Arcade Fire.
+											Chris e eu estávamos realmente maravilhados
+											pelo potencial dos navegadores de web modernos,
+											onde temos áudio e vídeo em HTML5
+											e o poder do JavaScript para se tornar realmente rápido.
+											Queríamos usar a ideia de video de música feito para a web
+											para além da janela quatro por três ou 16/9
+											e tentar tocar e coreografar através do ecrã.
+											Mas, mais importante, acho eu,
+											queríamos mesmo fazer uma experiência que era diferente do projecto Johnny Cash,
+											onde tinhamos um grupo pequeno de pessoas a gastar imenso tempo
+											para contribuir com algo para todos.
+											E se nós tivéssemos um compromisso muito baixo,
+											mas retribuíssemos com algo único e individual a cada pessoa que contribuiu?
+									","
+											Pekala, sizinle hakkında konuşmak istediğim son proje Chris Milk ile yapılan başka bir işbirliği.
+											Ve buna ""El Değmemiş Şehir Merkezi"" deniyor.
+											Arcade Fire için çevrimiçi bir müzik videosu bu.
+											Chris ve ben gerçekten
+											HTML5 ses ve video ile bunları inanılmaz hızlı işlemek için
+											JavaScript gücüne sahip modern web tarayıcıları ile
+											sağlanan şimdiki potansiyele çok şaşırdık.
+											Ve biz, 4:3 ya da 16:9 ekran oranlarının ötesinde Web için yapılmış olan
+											müzik videosu fikrini zorlamak istedik
+											ve bunu ekran boyunca sonuna kadar oynatıp koreografisini yapmaya çalıştık.
+											Ama bence en önemlisi,
+											Johnny Cash Projesi'nin aksine, herkes için bir şeylere katkıda bulunan
+											küçük bir grup insanın çok fazla zaman harcadığı bir deneyimi
+											gerçekten yapmak istedik.
+											Ya taahhütte bulunanlar sınırlı olsaydı,
+											ama katkıda bulunan ayrı ayrı her kişi onlara özel bir şeyler teslim etseydi?
+									","
+											Bien. Le dernier projet dont je veux vous parler est une autre collaboration avec Chris Milk.
+											Elle s'appelle ""The Wilderness Downtown.""
+											C'est une vidéo musicale pour The Arcade Fire.
+											Chris et moi-même étions très surpris
+											du potentiel actuel avec les navigateurs web modernes,
+											avec l'HTML 5 audio et vidéo
+											et la puissance du Javascript pour un rendu incroyablement rapide.
+											Et nous voulions promouvoir l'idée d'une vidéo musicale faite pour le web
+											au-delà de la fenêtre 4/3 ou 16/9
+											et essayer de la faire jouer et la chorégraphier partout dans l'écran.
+											Mais plus important encore, je pense,
+											nous voulions vraiment faire une expérience différente du projet Johnny Cash,
+											où nous aurions un petit groupe de personnes passant beaucoup de temps
+											pour produire quelque chose pour tous.
+											Et si nous avions un engagement très bas,
+											mais arrivions à créer quelque chose d'unique pour chaque contributeur ?
+									","
+											Das letzte Projekt, über den ich euch erzählen will, ist eine weitere Zusammenarbeit mit Chris Milk.
+											Und es heisst ""The Wilderness Downtown.""
+											Es ist ein online Musikvideo für die Band The Arcade Fire.
+											Chris und ich waren wirklich erstaunt
+											über das Potential der modernen Webbrowser,
+											wo man HTML5 Audio und Video hat
+											und die Kraft von JavaScript um wahnsinnig schnell zu rendern.
+											Wir wollten die Idee des Musikvideos, das für den Web gedacht ist
+											über die 3 auf 4 oder 16/9 Fenster erweitern
+											und versuchen es spielerisch über den Bildschirm zu choreografieren.
+											Aber ich denke am Wichtigsten ist,
+											dass wir wirklich eine Erfahrung machen wollten, welches anders als das Johnny Cash Projekt,
+											an welchem eine kleine Anzahl Menschen viel Zeit verbrachten,
+											um etwas für alle zu schaffen.
+											Was ist, wenn man mit einem sehr kleinen Beitrag
+											etwas individuelles, einzigartig für jede Person, die etwas beiträgt, bieten könnte?
+									",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+","
+","
+","
+","
+","
+",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+											So the project starts off by asking you to enter the address
+											of the home where you grew up.
+											And you type in the address —
+											it actually creates a music video specifically for you,
+											pulling in Google maps and Streetview images
+											into the experience itself.
+											So this should really be seen at home with you typing in your own address,
+											but I'm going to give you a little preview of what you can expect.
+									","
+											Y entonces el proyecto comienza pidiéndoles que ingresen la dirección
+											del hogar donde se criaron.
+											Y cuando escribes la dirección,
+											lo que hace es crear un video musical específicamente para ti,
+											agregando los mapas de Google y las imágenes de Streetview
+											a la experiencia misma.
+											Y deberían ver esto en sus casas ingresándole sus propias direcciones
+											pero les voy a dar una pequeña muestra de lo que podrían esperar.
+									","
+											Por isso o projecto começa por pedir para introduzirem o vosso endereço
+											ou da casa onde cresceram.
+											E vocês introduzem o endereço -
+											na verdade isso cria um video de música especialmente para ti,
+											extraindo imagens do Google Maps e imagens Streetview
+											na experiência em si mesmo.
+											Por isso isto deve ser visto em casa com vocês introduzindo o vosso endereço,
+											mas vou mostrar-vos um pouco daquilo que podem esperar.
+									","
+											Böylece proje, büyüdüğünüz ev adresini girmenizi
+											sorarak başlamaktadır.
+											Ve adresi yazarsınız —
+											aslında deneyim, kendi içine Google Maps ve
+											Streetview görüntülerini çekerek, özellikle sizin için
+											bir müzik videosu oluşturur.
+											Yani, kendi adresinizi yazmanızla gerçekten bunun evden görülmesi gerekiyor,
+											ama ne ummanız gerektiğine dair size küçük bir önizleme vereceğim.
+									","
+											Le projet commence en vous demandant d'entrer l'adresse
+											où vous avez grandi.
+											Et vous tapez l'adresse —
+											et ça crée une vidéo musicale spécialement pour vous,
+											en intégrant des images de Google Maps et Streetview
+											dans l'expérience elle-même.
+											Vous devriez vraiment voir ça chez vous en tapant votre propre adresse
+											mais je vais vous donner un petit aperçu de ce à quoi vous pouvez vous attendre.
+									","
+											Dieses Projekt fängt damit an, dich nach der Adresse
+											zu fragen, wo du aufgewachsen bist.
+											Wenn man die Adresse eingibt,
+											generiert es ein Video eigens für dich,
+											in dem es Google maps und Streetview Bilder
+											in die Erfahrung miteinbindet.
+											Das hier sollte wirklich bei euch zu Hause mit eurer eigenen Adresse angeschaut werden,
+											aber ich werde euch eine kleine Vorschau von dem zeigen, was ihr erwarten könnt.
+									",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+","
+","
+","
+","
+","
+",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+											(Video) Win Butler: ♫ Now our lives are changing fast ♫
+											♫ Now our lives are changing fast ♫
+											♫ Hope that something pure can last ♫
+											♫ Hope that something pure can last ♫
+											♫ Ooh we used to wait ♫
+											♫ Ooh we used to wait ♫
+											♫ Ooh we used to wait ♫
+											♫ Sometimes it never came ♫
+											♫ Sometimes it never came ♫
+											♫ Still moving through the pain ♫
+											♫ We used to wait for it ♫
+											♫ We used to wait for it ♫
+											♫ We used to wait for it ♫
+									","
+											(Video) Win Butler: ♫ Ahora nuestras vidas están cambiando rápidamente ♫
+											♫ Ahora nuestras vidas están cambiando rápidamente ♫
+											♫ La esperanza de que algo puro pueda durar ♫
+											♫ La esperanza de que algo puro pueda durar ♫
+											♫ Ooh solíamos esperar ♫
+											♫ Ooh solíamos esperar ♫
+											♫ Ooh solíamos esperar ♫
+											♫ Habían veces que nunca llegaba ♫
+											♫ Habían veces que nunca llegaba ♫
+											♫ Moviéndonos aún a través del dolor ♫
+											♫ Solíamos esperarlo ♫
+											♫ Solíamos esperarlo ♫
+											♫ Solíamos esperarlo ♫
+									","
+											(Video) Win Butler: ♫ Agora as nossas vidas estão a mudar rapidamente ♫
+											♫ Agora as nossas vidas estão a mudar rapidamente ♫
+											♫ Espero que algo puro possa durar ♫
+											♫ Espero que algo puro possa durar ♫
+											♫ Ooh nós costumávamos esperar ♫
+											♫ Ooh nós costumávamos esperar ♫
+											♫ Ooh nós costumávamos esperar ♫
+											♫ Ás vezes nunca vinha ♫
+											♫ Ás vezes nunca vinha ♫
+											♫ Ainda a movermo-nos pela dor ♫
+											♫ Costumávamos esperar por isso ♫
+											♫ Costumávamos esperar por isso ♫
+											♫ Costumávamos esperar por isso ♫
+									","
+											(Görüntü) Win Butler: ♫ Şimdi hayatlarımız hızla değişiyor ♫
+											♫ Şimdi hayatlarımız hızla değişiyor ♫
+											♫ Umarım saf bir şey dayanabilir ♫
+											♫ Umarım saf bir şey dayanabilir ♫
+											♫ Ooh biz beklerdik ♫
+											♫ Ooh biz beklerdik ♫
+											♫ Ooh biz beklerdik ♫
+											♫ Bazen o hiç gelmedi ♫
+											♫ Bazen o hiç gelmedi ♫
+											♫ Yine acı ile hareket ediyoruz ♫
+											♫ Bunun için beklerdik ♫
+											♫ Bunun için beklerdik ♫
+											♫ Bunun için beklerdik ♫
+									","
+											(Vidéo) Win Butler : ♫Aujourd'hui nos vies changent vite♫
+											♫Aujourd'hui nos vies changent vite♫
+											♫J'espère que quelque chose de pur peut durer♫
+											♫J'espère que quelque chose de pur peut durer♫
+											♫Ooh on attendait♫
+											♫Ooh on attendait♫
+											♫Ooh on attendait♫
+											♫Parfois ça n'arrivait jamais♫
+											♫Parfois ça n'arrivait jamais♫
+											Toujours à évoluer dans la douleur
+											On l'attendait
+											On l'attendait
+											On l'attendait
+									","
+											(Video) Win Butler: ♫ Now our lives are changing fast ♫
+											♫ Now our lives are changing fast ♫
+											♫ Hope that something pure can last ♫
+											♫ Hope that something pure can last ♫
+											♫ Ooh we used to wait ♫
+											♫ Ooh we used to wait ♫
+											♫ Ooh we used to wait ♫
+											♫ Sometimes it never came ♫
+											♫ Sometimes it never came ♫
+											♫ Still moving through the pain ♫
+											♫ We used to wait for it ♫
+											♫ We used to wait for it ♫
+											♫ We used to wait for it ♫
+									",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+","
+","
+","
+","
+","
+",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+											AK: So I think, if there's one thing to take away from my talk today,
+											it's that an interface can be a powerful narrative device.
+											And as we collect more and more personally and socially relevant data,
+											we have an opportunity, and maybe even an obligation,
+											to maintain the humanity and tell some amazing stories
+											as we explore and collaborate together.
+									","
+											AK: Y creo que, si hay una idea que pueden tomar de mi charla de hoy,
+											es que una interfaz puede ser un recurso narrativo poderoso.
+											Y a medida que recolectamos más y más datos personales y socialmente relevantes
+											tenemos una oportunidad, y tal vez incluso la obligación,
+											de preservar su humanidad y contar unas historias increíbles
+											mientras exploramos y colaboramos juntos.
+									","
+											AK: Acho que, se há alguma coisa para guardar da minha conversa de hoje,
+											é que a interface pode ser um instrumento narrativo poderoso.
+											E à medida que recolhemos mais e mais dados pessoais e sociais relevantes,
+											temos a oportunidade e talvez até a obrigação,
+											de preservar a humanidade e contar algumas histórias maravilhosas
+											à medida que exploramos e colaboramos juntos.
+									","
+											AK: Bu yüzden düşünüyorum da , bugün beni konuşmamdan alıkoyacak
+											bir şey varsa, o da, bir arayüzün güçlü bir anlatı cihazı olabilmesidir.
+											Ve biz daha kişisel ve sosyal olarak alakalı verileri topladıkça,
+											birlikte keşfettiğimiz ve işbirliği yaptığımız müddetçe,
+											insanlığı korumak ve bazı şaşırtıcı hikayeler anlatmak gibi
+											bir fırsatımız, belki de bir zorunluluğumuz olacaktır.
+									","
+											AK : Alors je crois que s'il y a une chose à retenir de ma présentation d'aujourd'hui,
+											c'est qu'une interface peut être un outil puissant de narration.
+											Et alors que nous collectons de plus en plus de données personnelles et sociales pertinentes
+											nous avons une opportunité, et peut-être même une obligation
+											de maintenir l'humanité et de raconter des histoires étonnantes
+											en explorant et en collaborant ensemble.
+									","
+											AK: Ich denke, wenn es eine Sache gibt, die ihr von meiner Rede heute mitnehmen sollt,
+											ist dass ein Interface ein starkes erzählerisches Instrument sein kann.
+											Und da wir mehr und mehr persönliche und sozial relevante Daten sammeln,
+											haben wir die Chance, und vielleicht sogar die Pflicht,
+											die Menschlichkeit zu bewahren und so manche beeindruckende Geschichten zu erzählen,
+											indem wir zusammen forschen und arbeiten.
+									",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+","
+","
+","
+","
+","
+",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+											Thanks a lot.
+									","
+											Muchas gracias.
+									","
+											Muito obrigado.
+									","
+											Çok teşekkürler.
+									","
+											Merci beaucoup.
+									","
+											Vielen Dank.
+									",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+","
+","
+","
+","
+","
+",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+											(Applause)
+									","
+											(Aplausos)
+									","
+											(Aplausos)
+									","
+											(Alkış)
+									","
+											(Applaudissements)
+									","
+											(Applaus)
+									",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"
+"
+","
+","
+","
+","
+","
+",Visualizing ourselves ... with crowd-sourced data,Aaron Koblin,18:18,"collaboration,data,design,technology,visualizations,crowdsourcing,art"

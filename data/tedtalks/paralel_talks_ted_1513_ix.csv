@@ -1,0 +1,2687 @@
+en,es,tr,fr,de,title,speaker,duration,tags
+"
+","
+","
+","
+","
+",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+											Most of the talks
+											that you've heard in the last several fabulous days
+											have been from people who have the characteristic
+											that they have thought about something,
+											they are experts, they know what's going on.
+											All of you know about the topic
+											that I'm supposed to talk about.
+											That is, you know what simplicity is,
+											you know what complexity is.
+											The trouble is, I don't.
+											And what I'm going to do is share with you
+											my ignorance on this subject.
+									","
+											La mayoría de las charlas
+											que hemos escuchado en los últimos días
+											han sido de personas que se caracterizan por
+											haber pensado en algo;
+											son expertos, saben lo que está pasando.
+											Todos aquí saben del tema
+											del que se supone que debo hablar.
+											Es decir, ya saben qué es la simplicidad,
+											ya saben qué es la complejidad.
+											El problema es que yo no lo sé.
+											Y lo que voy a hacer es compartir con Uds.
+											mi ignorancia en esta materia.
+									","
+											Son bir kaç gündür
+											duyduğunuz muhteşem konuşmaların çoğu
+											bir şey hakkında düşünmüş olan, uzmanlaşmış,
+											neler olduğu hakkında bir fikri olan
+											karaktere sahip insanların konuşmaları.
+											Hepiniz bahsetmem gereken
+											konu hakkında bilgilisiniz.
+											Yani, basitlik nedir biliyorsunuz,
+											karmaşıklık nedir biliyorsunuz.
+											Sorun şu ki, ben bilmiyorum.
+											Ve şimdi yapacağım şey, konu hakkındaki
+											bilgisizliğimi sizlerle paylaşmak.
+									","
+											La plupart des présentations
+											auxquelles vous avez pu assister au cours de ces fabuleuses dernières journées,
+											étaient présentées par des gens qui avaient en commun la caractéristique
+											d'avoir réfléchi sur un sujet,
+											d'être expert et, de savoir de quoi il s'agit.
+											Vous connaissez tous le sujet
+											dont je suis supposé parler.
+											Autrement dit, vous savez ce que c'est que la simplicité,
+											vous savez ce que c'est que la complexité.
+											Le problème, c'est que moi, je ne le sais pas.
+											Et ce que je vais faire, c'est partager avec vous
+											mon ignorance à ce sujet.
+									","
+											Die meisten Vorträge
+											die Sie in den vergangenen sieben grossartigen Tagen gehört haben
+											wurden durch Leute gehalten, welche die Eigenschaft haben,
+											dass sie über etwas nachgedacht haben,
+											sie sind Experten, sie wissen worum es geht.
+											Alle von Ihnen wissen über das Thema,
+											über das ich zu Ihnen sprechen soll.
+											Das heisst, Sie wissen was Einfachheit ist,
+											und Sie wissen was Komplexität ist.
+											Das Problem ist, ich weiss es nicht.
+											Und ich werde mit Ihnen
+											meine Unwissenheit zum Thema teilen.
+									",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+","
+","
+","
+","
+",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+											I want you to read this,
+											because we're going to come back to it in a moment.
+											The quote is from
+											the fabled Potter Stewart
+											opinion on pornography.
+											And let me just read it,
+											the important details here:
+											""Shorthand description, ['hardcore pornography'];
+											and perhaps I could never succeed in intelligibly defining it.
+											But I know it when I see it.""
+											I'm going to come back to that in a moment.
+									","
+											Quiero que lean esto
+											porque vamos a volver a esto en un momento.
+											La cita es de
+											la legendaria opinión de
+											Potter Stewart sobre la pornografía.
+											Si me permiten voy a leer
+											los detalles importantes.
+											""Descripción breve, pornografía dura;
+											quizá nunca consiga definirla de manera inteligible,
+											pero la reconozco cuando la veo"".
+											Regresaré a eso en un momento.
+									","
+											Şunu okumanızı istiyorum
+											çünkü bir dakika içinde buna geri döneceğiz.
+											Bu alıntı, efsanevi
+											Potter Stewart'ın pornografi
+											konusundaki fikri.
+											İzin verin okuyayım,
+											önemli detaylar var burada.
+											""Kısaltılmış tarif; sert pornografi;
+											ve belki de hiçbir zaman zekice tanımlamada başarılı olamayacağım.
+											Ama gördüğümde ne olduğunu bilirim.""
+											Buna birazdan tekrar geleceğim.
+									","
+											Je veux que vous lisiez ceci
+											parce que nous allons y revenir dans un instant.
+											La citation est tirée
+											du fameux avis de Potter Stewart
+											sur la pornographie.
+											Laissez-moi vous la lire,
+											les détails sont ici importants.
+											""Description abrégée, pornographie patente;
+											et peut-être je ne pourrais jamais réussir à la définir de façon intelligible.
+											Mais je le sais quand je le vois. ""
+											J'y reviendrai dans un instant.
+									","
+											Ich möchte, dass Sie dies lesen,
+											weil wir gleich darauf zurück kommen werden.
+											Das Zitat stammt von
+											dem sagenhaften Potter Stewart
+											Gutachten über Pornographie.
+											Und lassen Sie mich es Ihnen vorlesen,
+											diese wichtigen Details hier.
+											""Kurzbeschreibung, Hardcore Pornographie;
+											und vielleicht werde ich es nie schaffen, es klar zu definieren.
+											Doch ich erkenne es, wenn ich es sehe.""
+											Ich werde gleich darauf zurückkommen.
+									",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+","
+","
+","
+","
+",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+											So, what is simplicity?
+											It's good to start with some examples.
+											A coffee cup — we don't think about coffee cups,
+											but it's much more interesting than one might think —
+											a coffee cup is a device,
+											which has a container and a handle.
+											The handle enables you to hold it
+											when the container is filled with hot liquid.
+											Why is that important?
+											Well, it enables you to drink coffee.
+											But also, by the way, the coffee is hot,
+											the liquid is sterile;
+											you're not likely to get cholera that way.
+											So the coffee cup, or the cup with a handle,
+											is one of the tools used by society
+											to maintain public health.
+											Scissors are your clothes,
+											glasses enable you to see things
+											and keep you from being eaten by cheetahs
+											or run down by automobiles,
+											and books are, after all, your education.
+									","
+											Entonces, ¿qué es la simplicidad?
+											Es bueno comenzar con algunos ejemplos.
+											Una taza de café, no pensamos en las tazas de café,
+											pero es más interesante de lo que parece.
+											Una taza de café es un objeto, sí,
+											que tiene un recipiente, sí, y una manija, sí.
+											La manija permite sostener la taza
+											cuando el recipiente se llena con líquido caliente, sí.
+											¿Por qué es eso importante?
+											Bueno, nos permite beber café.
+											Pero también, por cierto, el café está caliente,
+											el líquido está esterilizado.
+											Probablemente uno no [poco claro] de esa manera.
+											Por eso la taza de café, la taza con manija,
+											es un utensilio usado por la sociedad
+											para preservar la salud pública.
+											Las tijeras son la ropa.
+											Los anteojos permiten ver las cosas,
+											e impiden que nos coma un guepardo
+											o que nos atropelle un auto.
+											Y los libros son, después de todo, la educación.
+									","
+											Yani, nedir basitlik?
+											Bazı örneklerle başlamak iyi olacak.
+											Bir kahve bardağı, kahve bardakları hakkında düşünmeyiz,
+											ama onlar düşündüğünüzden çok daha fazla ilginç olabilirler.
+											Bir kahve bardağı bir araçtır, evet,
+											bir haznesi vardır, evet ve tutacağı, evet.
+											Tutacak sizin onu taşımanızı sağlarken
+											haznesi sıcak sıvı ile doludur, evet.
+											Bu neden önemlidir?
+											Kahvenizi içebilmenizi sağlar.
+											Ama aynı zamanda kahve sıcakken,
+											sıvı sterildir.
+											Bu şekilde koleraya yakalanma olasılığınız yoktur.
+											Yani kahve bardağı, ya da tutacaklı bardak,
+											toplum tarafından halk sağlığını
+											sağlamak için kullanılan aletlerden biridir.
+											Makaslar kıyafetlerinizdir.
+											Gözlükler şeyleri görmenizi sağlar,
+											ve sizi çitalar tarafından yenmekten ya da
+											bir araba tarafından ezilmekten korurlar.
+											Ve kitaplar, her şeyden öte, eğitiminizdir.
+									","
+											Alors, qu'est-ce que la simplicité ?
+											C'est une bonne idée de commencer avec quelques exemples.
+											Une tasse à café, on n'y pense pas, aux tasses à café,
+											mais c'est beaucoup plus intéressant que l'on pourrait penser.
+											Une tasse à café est un ustensile, oui,
+											qui comprend un récipient, oui, et une poignée, oui.
+											La poignée vous permet de la tenir
+											quand le récipient est rempli de liquide chaud, ouais.
+											Pourquoi est-ce important?
+											Eh bien, ça vous permet de boire du café.
+											Mais aussi, le café est chaud,
+											le liquide est stérile,
+											et il y a peu de chances que vous attrapiez des microbes de cette façon.
+											Ainsi, la tasse à café, ou la tasse avec une poignée,
+											est un des outils qu'utilise la société
+											pour préserver la santé publique.
+											Les ciseaux sont pour vos vêtements.
+											Les lunettes vous permettent de voir les choses,
+											et vous empêchent d'être mangé par les guépards
+											ou écrasé par les automobiles.
+											Et les livres sont là, après tout, pour votre éducation.
+									","
+											Nun also, was ist Einfachheit?
+											Es ist sinnvoll, mit einigen Beispielen zu beginnen.
+											Eine Kaffeetasse, wir denken nicht an Kaffeetassen,
+											doch es ist viel interessanter als man denken möchte.
+											Eine Kaffeetasse ist ein Gerät, ja,
+											welches einen Behälter, jawohl, und einen Griff hat, jawohl.
+											Der Griff erlaubt es Ihnen, es zu halten
+											wenn der Behälter mit heisser Flüssigkeit gefüllt ist, jawohl.
+											Wieso ist dies wichtig?
+											Nun, es ermöglicht Ihnen Kaffee zu trinken.
+											Doch dadurch, dass der Kaffee heiss ist,
+											ist die Flüssigkeit keimfrei.
+											Sie werden kaum Cholera bekommen davon.
+											Also ist die Kaffeetasse, oder die Tasse mit Griff,
+											eines von der Gesellschaft benutzten Werkzeuge
+											um die öffentliche Gesundheit zu erhalten.
+											Scheren sind Ihre Kleider.
+											Brillen ermöglichen Ihnen, Dinge zu sehen
+											und verhindern, dass Sie von Geparden gefressen werden
+											oder von Autos überfahren zu werden.
+											Und Bücher sind eigentlich Ihre Bildung.
+									",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+","
+","
+","
+","
+",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+											But there's another class of simple things,
+											which are also very important.
+											Simple in function,
+											but not at all simple in how they're constructed.
+											And the two here are just examples.
+											One is the cellphone, which we use every day.
+											And it rests on a complexity,
+											which has some characteristics
+											very different from those that my friend
+											Benoit Mandelbrot discussed,
+											but are very interesting.
+											And the other, of course, is a birth control pill,
+											which, in a very simple way,
+											fundamentally changed the structure of society
+											by changing the role of women in it
+											by providing to them
+											the opportunity to make reproductive choices.
+									","
+											Pero existe otro tipo de cosas simples
+											que también son muy importantes.
+											Cosas funcionalmente simples
+											pero para nada simples en la forma de construcción.
+											Y aquí hay dos ejemplos de eso.
+											Uno es el celular que usamos a diario.
+											El celular depende de una complejidad
+											que tiene algunas características
+											muy diferentes a las que mi amigo
+											Benoit Mandelbrot expuso
+											pero que son muy interesantes.
+											El otro ejemplo es la píldora anticonceptiva
+											que, de manera muy simple,
+											cambió fundamentalmente la estructura de la sociedad
+											cambiando el papel de las mujeres en ella;
+											dándoles la oportunidad
+											de tomar decisiones reproductivas.
+									","
+											Ama basit şeylerin aynı zamanda çok önemli olan,
+											bir diğer sınıfı vardır.
+											İşleyişte basit,
+											ama yapılışlarıyla o kadar da basit olmayan.
+											Ve buradaki iki şey sadece örnek.
+											Biri cep telefonu, her gün kullanıyoruz.
+											Ve bu bir karmaşıklığa dayanır,
+											ki arkadaşım Benoit Mandelbrot'un
+											tartıştıklarından farklı
+											bazı karakteristik özellikleri vardır,
+											ama bunlar çok ilginçtir.
+											Ve diğeri elbette, doğum kontrol hapı,
+											basit bir şekilde,
+											toplumun yapısında, kadının rolünü değiştirip
+											onlara üreme seçimi yapabilmeleri konusunda
+											imkan sağlayarak
+											toplumun yapısını tamamen değiştirmiştir.
+									","
+											Mais il ya une autre catégorie d'objets simples,
+											qui sont également très importants.
+											Simples par leur fonction,
+											mais pas du tout simples dans la façon dont ils sont construits.
+											Et les deux que voici n'en sont que des exemples.
+											Le premier est le téléphone portable, que nous utilisons tous les jours.
+											Et il repose sur une complexité,
+											qui a certaines caractéristiques
+											très différentes de celles dont mon ami
+											Benoit Mandelbrot a discuté,
+											mais qui sont très intéressantes.
+											Et l'autre, bien sûr, est une pilule contraceptive,
+											qui, d'une manière très simple,
+											a fondamentalement changé la structure de la société
+											en y changeant le rôle des femmes,
+											en leur apportant
+											la possibilité de faire des choix en matière de reproduction.
+									","
+											Doch es gibt eine weitere Kategorie einfacher Dinge,
+											die auch sehr wichtig sind.
+											Einfach in der Funktion,
+											doch überhaupt nicht einfach konstruiert.
+											Und die zwei hier sind Beispiele dafür.
+											Das eine ist das Mobiltelefon, das wir täglich benutzen.
+											Es beruht auf einer Komplexität,
+											welche Eigenschaften aufweist,
+											die sehr verschieden sind von jenen, die mein Freund
+											Benoit Mandelbrot besprochen hat,
+											die jedoch sehr interessant sind.
+											Und das andere Beispiel ist die Verhütungspille,
+											welche auf sehr einfache Weise
+											die Gesellschaftsstruktur fundamental verändert hat
+											indem sie die gesellschaftliche Rolle der Frauen verändert hat
+											indem sie ihnen ermöglichte,
+											zu entscheiden ob sie Nachwuchs möchten oder nicht.
+									",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+","
+","
+","
+","
+",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+											So, there are two ways of thinking about this word, I think.
+											And here I've corrupted
+											the Potter Stewart quotation
+											by saying that we can think about something —
+											which spans all the way from scissors
+											to the cell phone,
+											Internet and birth control pills —
+											by saying that they're simple,
+											the functions are simple,
+											and we recognize what that simplicity is
+											when we see it.
+									","
+											Creo que existen dos maneras de pensar acerca de esta palabra.
+											Y aquí he alterado
+											la cita de Potter Stewart
+											diciendo que podemos pensar en algo
+											que abarque desde las tijeras
+											hasta los celulares,
+											Internet y las píldoras anticonceptivas
+											diciendo que estas cosas son simples,
+											las funciones son simples,
+											y que reconocemos qué es la simplicidad
+											cuando la vemos.
+									","
+											Bu kelime hakkında düşünmenin iki yolu var sanırım.
+											Ve burada Potter Steward'tan
+											yaptığım alıntıyı bozuyor; makaslardan
+											cep telefonuna, internet ve doğum kontrol haplarına
+											kadar geniş yelpazedeki şeyleri düşündüğümüzde
+											bunların basit olduklarını
+											işlevlerinin basit olduğunu
+											söyleyerek değiştiriyorum
+											işlevleri basittir -
+											ve basitliği gördüğümüzde
+											tanıyoruz.
+									","
+											Voilà deux façons de penser à ce mot, je crois.
+											Et là, j'ai détourné
+											la citation de Potter Stewart
+											en disant que nous pouvons penser à quelque chose
+											qui va des ciseaux
+											au téléphone cellulaire,
+											à Internet et à la pilule contraceptive
+											en disant qu'ils sont simples —
+											les fonctions sont simples —
+											et nous reconnaissons ce qu'est la simplicité
+											lorsque nous la voyons.
+									","
+											Ich denke, es gibt zwei Möglichkeiten über dieses Wort nachzudenken.
+											Und hier habe ich das Zitat
+											von Potter Stewart verändert,
+											indem ich sage, dass wir über etwas nachdenken können,
+											das von Schere bis zum Mobiltelefon
+											alles beinhaltet,
+											Internet und Verhütungspillen
+											indem wir sagen dass sie einfach sind —
+											die Funktionen sind einfach —
+											und wir erkennen, was diese Einfachheit ist
+											wenn wir sie sehen.
+									",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+","
+","
+","
+","
+",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+											Or there may be another way of doing it,
+											which is to think about the problem in terms of what —
+											if you associate with moral philosophers —
+											is called the teapot problem.
+											The teapot problem I'll pose this way.
+											Suppose you see a teapot,
+											and the teapot is
+											filled with hot water.
+											And you then ask the question:
+											Why is the water hot?
+											And that's a simple question.
+											It's like, what is simplicity?
+											One answer would be:
+											because the kinetic energy of the water molecules is high
+											and they bounce against things rapidly —
+											that's a kind of physical science argument.
+											A second argument would be:
+											because it was sitting on a stove with the flame on —
+											that's an historical argument.
+											A third is that I wanted hot water
+											for tea —
+											that's an intentional argument.
+											And, since this is coming from a moral philosopher,
+											the fourth would be that it's part of God's plan for the universe.
+											All of these are possibilities.
+									","
+											O puede haber otra forma de hacerlo,
+											que es pensar el problema en términos de lo que,
+											si lo relacionamos con los filósofos morales,
+											se llama el ""problema de la tetera"".
+											El problema de la tetera... lo voy a plantear así.
+											Supongamos que vemos una tetera
+											y la tetera está
+											llena de agua caliente.
+											Y uno entonces se pregunta:
+											¿Por qué el agua está caliente?
+											Esa es una pregunta simple.
+											Es como preguntar ¿qué es la simplicidad?
+											Una respuesta sería:
+											porque la energía cinética de las moléculas del agua es alta
+											y las moléculas rebotan rápidamente contra las cosas.
+											Ese es un argumento de la ciencia física.
+											Un segundo argumento sería:
+											porque estaba en una estufa con la llama encendida.
+											Ese es un argumento histórico.
+											Un tercer argumento sería que yo quería agua caliente
+											para el té.
+											Ese es un argumento de intención.
+											Y, viniendo de un filósofo moral,
+											el cuarto argumento sería que es parte del plan divino para el Universo.
+											Todas estas son posibilidades.
+									","
+											Ya da belki bunu yapmanın başka bir yolu var,
+											yani sorunları ""NE"" olgusu üzerinden düşünmek gibi,
+											eğer ahlakçı filozoflarla ilişkilendirirseniz
+											bu çaydanlık sorunu olarak adlandırılır.
+											Çaydanlık sorunu şekilde ortaya koyacağım.
+											Bir çaydanlık gördüğünüzü varsayın,
+											ve bu çaydanlık
+											sıcak suyla dolu.
+											Ve sonra şu soruyu sorarsınız:
+											Su neden sıcak?
+											Ve bu basit bir sorudur.
+											Şunun gibi: Basitlik nedir?
+											Cevaplardan biri şu olabilir:
+											Çünkü su moleküllerinin kinetik enerjisi yüksektir ve
+											şeyler etrafında hızlı bir şekilde zıplarlar.
+											Bu bir tür fizik bilimi akıl yürütmesidir.
+											İkincisi şu olabilir:
+											Çünkü yanan bir ocağın üzerinde duruyordu.
+											Bu tarihsel bir akıl yürütmedir.
+											Üçüncüsü, çay için sıcak su
+											istedim.
+											Bu kasıtlı bir akıl yürütmedir.
+											Ve ahlakçı bir filozoftan gelmesinden dolayı,
+											dördüncüsü, bunun evren hakkında Tanrı'nın bir planı olduğu, olabilir.
+											Tüm bunlar ihtimallerdir.
+									","
+											Une autre manière de faire, peut-être,
+											serait de penser au problème en termes de,
+											si on se réfère aux philosophes moralistes,
+											ce qu'on, appelle ""le problème de la théière"".
+											Voilà comment je poserais le ""problème de la théière""
+											Supposons que vous voyiez une théière,
+											et cette théière
+											est pleine d'eau chaude.
+											Et puis, vous posez la question :
+											""Pourquoi l'eau est-elle chaude ?""
+											C'est une question simple.
+											Comme ""Qu'est-ce que la simplicité?""
+											Une réponse pourrait être :
+											""Parce que l'énergie cinétique des molécules d'eau est élevée,
+											et elles rebondissent rapidement contre les parois.""
+											C'est un peu le raisonnement de la physique.
+											Un autre raisonnement pourrait être :
+											""Parce qu'elle était sur une cuisinière, avec le feu allumé.""
+											C'est le raisonnement historique.
+											Un troisième est que je voulais de l'eau chaude
+											pour mon thé.
+											C'est le raisonnement intentionnel.
+											Et, puisque cela vient d'un philosophe moraliste,
+											le quatrième serait que cela fait partie du plan de Dieu pour l'Univers.
+											Tous représentent une possibilité.
+									","
+											Oder es mag eine andere Möglichkeit geben es zu tun,
+											indem man über das Problem nachdenkt,
+											was Moralphilosophen als das
+											Teekannen-Problem bezeichnen.
+											Ich möchte das Teekannen-Problem so darstellen.
+											Nehmen wir an, Sie sehen eine Teekanne,
+											und die Teekanne ist
+											gefüllt mit heissem Wasser.
+											Und Sie fragen sich dann:
+											Wieso ist das Wasser heiss?
+											Und das ist eine einfache Frage.
+											Es ist wie: Was ist Einfachheit?
+											Eine Antwort wäre:
+											Weil die kinetische Energie der Wassermoleküle hoch ist
+											und sie schnell gegeneinander prallen.
+											Das ist eine Art physikalisches Argument.
+											Ein zweites Argument wäre:
+											Weil sie auf einem eingeschalteten Herd stand.
+											Das ist ein historisches Argument.
+											Ein drittes ist, dass ich heisses Wasser wollte
+											für meinen Tee.
+											Das ist ein intentionales Argument.
+											Und, weil dies alles von einem Moralphilosophen kommt,
+											wäre das vierte Argument, dass dies Gottes Plan für das Universum ist.
+											All dies sind Möglichkeiten.
+									",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+","
+","
+","
+","
+",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+											The point is that you get into trouble
+											when you ask a single question
+											with a single box for an answer,
+											in which that single question actually is many questions
+											with quite different meanings,
+											but with the same words.
+											Asking, ""What is simplicity?"" I think falls in that category.
+											What is the state of science?
+											And, interestingly, complexity
+											is very highly evolved.
+											We have a lot of interesting information
+											about what complexity is.
+											Simplicity, for reasons
+											that are a little bit obscure,
+											is almost not pursued,
+											at least in the academic world.
+									","
+											La idea es que uno se mete en problemas
+											cuando uno hace una pregunta simple
+											con poco espacio para una respuesta,
+											en donde esa pregunta simple se convierte en muchas preguntas
+											con distintos significados
+											pero con las mismas palabras.
+											Preguntar qué es la simplicidad, creo, cae en esa categoría.
+											¿Cuál es el estado de la ciencia?
+											Curiosamente, la complejidad
+											se encuentra sumamente desarrollada.
+											Tenemos mucha información interesante
+											acerca de lo que es la complejidad.
+											La simplicidad, por razones
+											no del todo claras,
+											casi nunca se estudia,
+											al menos no en el mundo académico.
+									","
+											Önemli olan nokta, tek bir soru sorduğunuzda
+											ve cevabı için tek bir kutu olduğunda,
+											bu tek sorunun aslında içinde
+											bir çok farklı anlam barındıran bir çok sorunun bulunması
+											ama aynı kelimelerle ifade ediliyor olması durumunda
+											başınızın derde girdiğidir.
+											Basitlik nedir? diye sormak, sanırım bu kategoriye girer.
+											Bilimin durumu nedir?
+											Ve ilginç bir şekilde, karmaşıklık
+											yüksek derecede gelişmiştir.
+											Karmaşıklığın ne olduğuna dair
+											ilginç birçok bilgi var.
+											Basitlik, anlaşılması biraz
+											güç nedenlerden dolayı,
+											adeta aranmıyor,
+											en azından akademik dünyada.
+									","
+											Le fait est qu'on commence à avoir des problèmes
+											quand on pose une unique question
+											avec une seule réponse possible,
+											et que dans cette unique question il y a de multiples questions,
+											avec des significations relativement différentes,
+											mais qui emploient les mêmes mots.
+											Je pense que demander ""Qu'est-ce que la simplicité"" rentre dans cette catégorie.
+											Quel est l'état de la Science?
+											Et, de façon intéressante, la complexité
+											est hautement évoluée.
+											Nous avons beaucoup d'informations intéressantes
+											sur ce qu'est la complexité.
+											La simplicité, pour d'assez
+											obscures raisons,
+											n'est presque pas étudiée,
+											du moins pas dans le monde académique.
+									","
+											Der Punkt ist, dass Sie Schwierigkeiten bekommen
+											wenn Sie eine einzelne Frage stellen
+											mit einem begrenzten Antwortraum,
+											wobei diese einzelne Frage tatsächlich viele Fragen darstellt
+											mit ziemlich verschiedenen Bedeutungen,
+											doch mit den selben Worten.
+											Zu fragen ""Was ist Einfachheit"" fällt meiner Meinung nach in diese Kategorie.
+											Was ist der Stand der Wissenschaft?
+											Interessanterweise ist die Komplexität
+											sehr hoch entwickelt.
+											Wir haben viele interessante Informationen darüber,
+											was Komplexität ist.
+											Aus etwas schleierhaften Gründen
+											wird der Einfachheit
+											fast nicht auf den Grund gegangen,
+											mindestens nicht in der akademischen Welt.
+									",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+","
+","
+","
+","
+",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+											We academics — I am an academic —
+											we love complexity.
+											You can write papers about complexity,
+											and the nice thing about complexity is
+											it's fundamentally intractable in many ways,
+											so you're not responsible for outcomes. (Laughter)
+											Simplicity — all of you really would like
+											your Waring Blender in the morning
+											to make whatever a Waring Blender does,
+											but not explode or play Beethoven.
+											You're not interested in the limits of these things.
+											So what one is interested in
+											has a lot to do with the rewards of the system.
+											And there's a lot of rewards in thinking
+											about complexity and emergence,
+											not so much in thinking about simplicity.
+											One of the things I want to do
+											is to help you with a very important task —
+											which you may not know that you have very often —
+											which is to understand
+											how to sit next to a physicist at a dinner party
+											and have a conversation. (Laughter)
+											And the words that I would like you to focus on
+											are complexity and emergence,
+											because these will enable you to start the conversation
+											and then daydream about other things.
+									","
+											A los académicos, yo soy un académico,
+											nos encanta la complejidad.
+											Uno puede escribir artículos sobre la complejidad.
+											Y lo bueno de la complejidad
+											es que es, en esencia, intratable en muchos sentidos
+											por lo que uno no es responsable de los resultados. (Risas)
+											La simplicidad... a todos nos gustaría
+											que la licuadora por la mañana
+											hiciera lo que hacen las licuadoras
+											y no explotara o tocara Beethoven.
+											No nos interesan las limitaciones de estas cosas.
+											Lo que nos interesa
+											tiene mucho que ver con las recompensas del sistema.
+											Y hay varias recompensas si uno piensa
+											sobre la complejidad y la emergencia,
+											pero no tanto si uno piensa en la simplicidad.
+											Algo que quiero hacer
+											es ayudarles a resolver una tarea muy importante
+											que quizá no se den cuenta que hacen seguido,
+											que es entender
+											cómo sentarse al lado de un físico en una fiesta
+											y entablar una conversación. (Risas)
+											Y quiero que se concentren en dos palabras:
+											complejidad y emergencia;
+											esto les permitirá comenzar la conversación
+											y luego sí divaguen sobre otras cosas.
+									","
+											Biz akademisyenler - Ben bir akademisyenim -
+											karmaşıklığı severiz.
+											Karmaşıklık hakkında yazılar yazabilirsiniz.
+											Ve karmaşıklığın hoş tarafı,
+											bir çok açıdan temel olarak ele avuca sığmamasıdır,
+											yani sonuçlarında sorumlu olmazsınız.
+											Basitlik - hepiniz Waring marka karıştırıcınızın
+											sabahları Waring karıştırıcısının
+											yapması gerekeni yapmasını istersiniz
+											patlamasını ya da Beethoven çalmasını değil.
+											Bu tarz şeylerin sınırları ile ilgilenmezsiniz.
+											Yani birinin ne hakkında meraklı olduğu
+											sistemin ödülleriyle çok ilgilidir.
+											Karmaşıklık ve ortaya çıkışı hakkında
+											düşünmenin bir çok ödülü varken,
+											basitlikle ilgili düşündüğünüzde çok fazla yoktur.
+											Yapmak istediklerimden birisi de
+											siz böyle bir göreve sahip olduğunuzu bilmeseniz de
+											çok önemli bir görevde size yardımcı olmak;
+											bu görev, akşam yemeğinde
+											bir fizikçinin yanına oturup nasıl sohbet edeceğinizi
+											anlamanızdır.
+											Ve odaklanacağım kelimeler
+											karmaşıklık ve doğuşu olacak
+											çünkü bunlar sohbeti başlatmanızı sağlar ve
+											sonrasında diğer konularda hayal kurmanızı.
+									","
+											Nous, les universitaires —Je suis un universitaire—
+											nous adorons la complexité.
+											On peut écrire des articles sur la complexité.
+											Et ce qu'il y a de bien avec la complexité,
+											c'est qu'elle est fondamentalement insoluble à de nombreux égards,
+											alors, vous n'êtes pas responsable des conséquences.
+											La simplicité— Chacun de vous aimerait vraiment
+											que, le matin, votre mixer à jus de fruits
+											fasse ce que doit faire tout mixer à jus de fruits,
+											mais pas exploser, ou se mettre à jouer du Beethoven.
+											Ça ne vous intéresse pas de pousser aussi loin les limites.
+											Ce à quoi on s'intéresse
+											est en relation étroite avec les récompenses du système.
+											Et il y a beaucoup de récompenses à penser
+											à la complexité et à l'émergence,
+											et beaucoup moins à penser à la simplicité.
+											Une des choses que je veux faire,
+											c'est de vous aider dans une tâche très importante,
+											dont vous ne savez pas qu'elle est très courante,
+											et qui est de comprendre
+											comment s'asseoir à côté d'un physicien à un dîner
+											et tenir une conversation.
+											Et les mots sur lesquels j'aimerais que vous vous concentriez
+											sont ""complexité"" et ""émergence"",
+											parce qu'ils vous permettront de démarrer la conversation,
+											et puis de vous laisser aller à rêvasser d'autre chose.
+									","
+											Wir Akademiker — ich bin selbst ein Akademiker —
+											wir lieben die Komplexität.
+											Wir können Artikel über Komplexität schreiben.
+											Und das Schöne an Komplexität ist,
+											dass sie grundsätzlich schwer zu bewältigen ist,
+											so dass man nicht für die Resultate verantwortlich ist.
+											Einfachheit — alle von Ihnen hätten wirklich gerne
+											dass Ihr Mixer morgens tut,
+											was immer ein Mixer tun soll,
+											doch nicht explodieren oder Beethoven spielen soll.
+											Sie sind nicht interessiert an den Beschränkungen dieser Dinge.
+											Worin man interessiert ist
+											hat viel mit der Belohnung durch das System zu tun.
+											Und es gibt viel Belohnung,
+											über Komplexität und Emergenz nachzudenken,
+											und nicht so sehr über Einfachheit.
+											Was ich tun möchte,
+											ist Ihnen bei einer wichtigen Aufgabe zu helfen,
+											welche Sie nicht oft zu haben glauben,
+											es geht darum, zu verstehen
+											wie man bei einem Abendessen neben einem Physiker sitzen
+											und eine Konversation führen kann.
+											Und die Wörter, auf die Sie sich konzentrieren sollten,
+											sind Komplexität und Emergenz,
+											weil diese Ihnen ermöglichen werden, ein Gespräch zu starten
+											und dann über andere Dinge zu sinnieren.
+									",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+","
+","
+","
+","
+",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+											(Laughter)
+									","
+											(Risas)
+									","
+											(Gülüşmeler)
+									","
+											(Rires)
+									","
+											(Gelächter)
+									",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+","
+","
+","
+","
+",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+											All right, what is complexity in this view of things,
+											and what is emergence?
+											We have, actually, a pretty good working definition of complexity.
+											It is a system, like traffic,
+											which has components.
+											The components interact with one another.
+											These are cars and drivers. They dissipate energy.
+											It turns out that, whenever you have that system,
+											weird stuff happens,
+											and you in Los Angeles
+											probably know this better than anyone.
+											Here's another example,
+											which I put up because
+											it's an example of really important current science.
+											You can't possibly read that. It's not intended that you read it,
+											but that's a tiny part
+											of the chemical reactions going on
+											in each of your cells at any given moment.
+											And it's like the traffic that you see.
+											The amazing thing about the cell is that
+											it actually does maintain a fairly stable
+											working relationship with other cells,
+											but we don't know why.
+											Anyone who tells you that we understand life,
+											walk away.
+									","
+											Muy bien, ¿qué es la complejidad viéndola desde esta perspectiva?
+											¿Qué es emergencia?
+											Tenemos una definición de complejidad que funciona bastante bien.
+											Es un sistema, como el tráfico,
+											que tiene componentes.
+											Los componentes interactúan entre sí.
+											Estos son los autos y los conductores, que disipan energía.
+											Resulta que, cuando se tiene ese sistema,
+											suceden cosas curiosas
+											y aquí en Los Ángeles
+											probablemente sepan esto mejor que nadie.
+											Aquí hay otro ejemplo
+											que elegí porque
+											es un ejemplo de la ciencia actual realmente importante.
+											Es imposible que puedan leer eso. No es la idea que lo hagan.
+											Esa es una pequeña parte
+											de las reacciones químicas que suceden
+											en nuestras células en un momento cualquiera.
+											Y es como el tráfico que ven.
+											Lo sorprendente de la célula es que
+											mantiene una relación de trabajo
+											bastante estable con otras células.
+											Pero no sabemos por qué.
+											Cuando alguien les diga que entiende la vida,
+											aléjense. (Risas)
+									","
+											Pekâlâ, bu şeylerin ışığında karmaşıklık nedir?
+											Ve belirme-ortaya çıkış nedir?
+											Aslında karmaşıklığın gayet işe yarayan bir tanımlaması var.
+											Bu bir sistem, trafik gibi,
+											bir çok bileşeni var.
+											Bileşenler birbirleriyle ilişki halindeler.
+											Bunlar arabalar ve sürücüler. Enerji harcarlar.
+											Anlaşılıyor ki, ne zaman bu sisteme sahip olsanız,
+											tuhaf şeyler oluyor,
+											ve Los Angeles’lı biri olduğunuzda
+											muhtemelen bunu herkesten iyi anlarsınız.
+											Şimdi vereceğim
+											diğer bir örnek
+											gerçekten önemli bir güncel bilim örneği.
+											Bunu muhtemelen okuyamazsınız. Sizin okumanız maksadıyla yazılmamış.
+											Ama bu her bir hücrenizde
+											herhangi bir anda devam eden
+											kimyasal reaksiyonların küçük bir parçası.
+											Ve gördüğünüz trafik gibi.
+											Hücre ile ilgili muhteşem olan şey
+											diğer hücrelerle gayet kararlı bir
+											çalışma ilişkisi sürdürmesidir.
+											Ama nedenini bilmiyoruz.
+											Her kim size hayatı anladığımızı söylerse,
+											uzaklaşın.
+									","
+											Bien, alors qu'est-ce que la complexité, de ce point de vue ?
+											Et qu'est-ce que l'émergence ?
+											En fait, nous avons une définition de la complexité qui fonctionne assez bien.
+											Il s'agit d'un système, comme la circulation [automobile],
+											qui possède des composants.
+											Les composants interagissent les uns avec les autres.
+											Ici, les voitures et les conducteurs. Ils dispersent l'énergie.
+											Il s'avère qu'à chaque fois que vous avez un tel système,
+											d'étranges choses se mettent à survenir,
+											et vous, ici à Los Angeles,
+											vous savez cela mieux que quiconque.
+											Et voici un autre exemple,
+											que je vous propose parce que
+											c'est un exemple de la science actuelle qui compte vraiment.
+											Ce n'est possible que vous arriviez à déchiffrer ceci, et ce n'était pas le but.
+											Mais c'est une toute petite partie
+											des réactions chimiques qui se produisent
+											en permanence, dans chacune de vos cellules.
+											Et c'est comme pour la circulation automobile, ici,
+											ce qui est étonnant à propos de la cellule, c'est
+											qu'en fait elle maintient une relation de travail
+											assez stable avec les autres cellules.
+											Mais on ne sait pas pourquoi.
+											Si quelqu'un vous dit que nous comprenons ce qu'est la vie,
+											fuyez.
+									","
+											Nun gut, was ist Komplexität im Angesicht dieser Dinge?
+											Und was ist Emergenz?
+											Wir haben tatsächlich eine ziemlich gute Arbeitsdefinition von Komplexität.
+											Es ist ein System, wie der Verkehr,
+											welches über Komponenten verfügt.
+											Die Komponenten stehen in Wechselwirkung zueinander.
+											Dies sind Fahrzeuge und Fahrer. Sie verströmen Energie.
+											Es stellt sich heraus, wenn immer Sie dieses System haben,
+											geschehen komische Sachen,
+											und Sie in Los Angeles
+											wissen das vermutlich besser als alle anderen.
+											Hier ist ein weiteres Beispiel
+											welches ich hier bringe, weil es
+											ein Beispiel wirklich wichtiger aktueller Wissenschaft ist.
+											Sie können es unmöglich lesen. Es ist nicht die Meinung, dass Sie es lesen.
+											Doch dies ist ein winziger Teil
+											der chemischen Reaktionen,
+											die in jeder Ihrer Zellen zu jeder Zeit ablaufen.
+											Es ist wie der Verkehr den Sie sehen,
+											das Erstaunliche an der Zelle ist,
+											dass sie einen ziemlich stabilen Zustand
+											der Zusammenarbeit mit anderen Zellen unterhält.
+											Doch wir wissen nicht weshalb.
+											Wenn Ihnen irgend jemand erzählt, dass wir
+											das Leben verstehen, laufen Sie weg.
+									",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+","
+","
+","
+","
+",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+											And let me reduce this to the simplest level.
+											We've heard from Bill Gates recently.
+											All of us, to some extent, study
+											this thing called a Bill Gates.
+											Terrific. You learn everything you can about that.
+											And then there's another kind of thing that you might study,
+											and you study that hard.
+											That's a Bono, this is a Bono.
+											But then, if you know everything you can know about those two things,
+											and you put them together,
+											what can you say about this combination?
+											The answer is, not a lot.
+											And that's complexity.
+											Now, imagine building that up to a city, or to a society,
+											and you've got, obviously, an interesting problem.
+									","
+											Y déjenme llevar esto al nivel más sencillo.
+											Hemos escuchado hablar de Bill Gates recientemente.
+											Todos nosotros, en cierta medida, estudiamos
+											este fenómeno llamado Bill Gates.
+											Fabuloso. Uno aprende todo lo que puede acerca del asunto.
+											Y luego hay otro tema que uno podría estudiar
+											y uno lo hace con entusiasmo.
+											El tema es un Bono; este es Bono.
+											Pero luego, si uno sabe todo lo que puede sobre esos dos temas
+											y los junta:
+											¿qué podemos decir de esta combinación?
+											La respuesta es: no mucho.
+											Eso es la complejidad.
+											Ahora, imaginen llevar eso a la construcción de una ciudad o una sociedad;
+											tendríamos, obviamente, un problema interesante.
+									","
+											Ve izin verin bunu en basit seviyesine indireyim.
+											Yakınlarda Bill Gates'den duyduk.
+											Hepimiz, bir noktaya kadar,
+											Bill Gates denen şeyi çalıştık.
+											Dehşet. Bununla ilgili öğrenebileceğiniz her şeyi öğrendiniz.
+											Ve sonra çalışabileceğiniz başka tür bir şey var,
+											ve bunu sıkı bir şekilde çalışırsınız.
+											Bu bir Bono'dur. Bu Bono.
+											Ama sonra, eğer bu iki şey hakkında öğrenebileceğinizi öğrendiyseniz,
+											ve onları bir araya getirirseniz,
+											bu birleşim hakkında ne söyleyebilirsiniz.
+											Cevap: Fazla değil.
+											Ve bu karmaşıklıktır.
+											Şimdi, bunu bir şehre, bir topluma yaptığınızı hayal edin,
+											ve açıkçası, ilginç bir sorununuz var demektir.
+									","
+											Permettez-moi de ramener ceci au plus simple niveau.
+											Nous avons récemment écouté Bill Gates.
+											Chacun d'entre nous, dans une certaine mesure, nous avons étudié
+											cet objet appelée un Bill Gates.
+											Super. On apprend tout ce qu'on peut dessus.
+											Et puis arrive une autre sorte d'objet qu'on pourrait étudier,
+											et on s'y met aussi à fond.
+											C'est un Bono; C'est Bono lui-même.
+											Mais ensuite, en ayant appris tout ce que vous pouviez de ces deux objets,
+											si vous les rassemblez,
+											que pouvez-vous dire de cette combinaison ?
+											La réponse est : Pas grand chose.
+											C'est ça, la complexité.
+											Maintenant, imaginez cela à l'échelle d'une cité, ou d'une société,
+											et vous avez manifestement un intéressant problème.
+									","
+											Und lassen Sie mich das so weit wie möglich vereinfachen.
+											Wir haben kürzlich von Bill Gates gehört.
+											Alle von uns interessieren uns auf eine Weise
+											für dieses Ding, das wir einen Bill Gates nennen.
+											Unglaublich. Sie lernen alles darüber, was Sie können.
+											Und dann gibt es eine andere Sache, die Sie studieren können,
+											und Sie studieren hart darüber.
+											Das ist ein Bono; dies ist Bono.
+											Und dann, wenn Sie denken Sie wissen alles Mögliche über diese zwei Dinge,
+											und Sie zusammen stellen,
+											was können Sie über diese Kombination sagen?
+											Die Antwort ist: Nicht viel.
+											Und das ist Komplexität.
+											Nun, stellen Sie sich vor, dies zu erweitern, zu einer Stadt oder einer Gesellschaft,
+											und Sie haben offensichtlich ein interessantes Problem.
+									",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+","
+","
+","
+","
+",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+											All right, so let me give you an example
+											of simplicity
+											of a particular kind.
+											And I want to introduce a word
+											that I think is very useful,
+											which is stacking.
+											And I'm going to use stacking for a kind of simplicity
+											that has the characteristic
+											that it is so simple
+											and so reliable
+											that I can build things with it.
+											Or I'm going to use simple to mean
+											reliable, predictable, repeatable.
+											And I'm going to use as an example the Internet,
+											because it's a particularly good example
+											of stacked simplicity.
+											We call it a complex system, which it is,
+											but it's also something else.
+									","
+											Muy bien, permítanme darles un ejemplo
+											de simplicidad
+											de un tipo particular.
+											Y después quiero introducir una palabra
+											que creo es muy útil,
+											que es la palabra ""apilamiento"".
+											Y voy a usar la palabra apilamiento para un tipo de simplicidad
+											que tiene la característica
+											que es tan simple
+											y tan confiable
+											que se pueden construir cosas con ella.
+											O voy a usar la palabra ""simple"" para expresar
+											confiable, predecible, repetible.
+											Voy a usar Internet como ejemplo
+											porque es un ejemplo particularmente bueno
+											de simplicidad apilada.
+											Lo llamamos un sistema complejo, y lo es,
+											pero también es algo más.
+									","
+											Pekâlâ, izin verin size basitlik ile ilgili
+											kendine özgü
+											bir örnek vereyim.
+											Ve sonra sizi çok faydalı olduğunu
+											düşündüğüm bir kelime ile
+											'istiflemek' ile tanıştırmak istiyorum.
+											Ve istiflemeyi bir tür basitlik için kullanacağım
+											ve çok basit ve çok güvenilir
+											bir karaktere sahip olduğu
+											için de onunla
+											bazı şeyler kurabileceğim.
+											Ya da 'basit'i güvenilir, tahmin edilebilir,
+											tekrarlanabilir anlamında kullanacağım.
+											Ve örnek olarak kullanacağım şey, internet
+											çünkü istiflenmiş basitlik için
+											gerçekten güzel bir örnek.
+											Karmaşık bir sistem olarak tanımlıyoruz ki öyle,
+											ama aynı zamanda başka bir şey de.
+									","
+											Bien, maintenant laissez-moi vous donner un exemple
+											de simplicité,
+											d'un genre assez particulier.
+											Et je voudrais aussi mettre en place un mot
+											dont je pense qu'il nous sera utile,
+											qui est ""empilage"".
+											Et je vais utiliser ""empilage"" pour une sorte de simplicité
+											qui a la caractéristique
+											d'être si simple
+											et si fiable
+											que je peux construire des choses avec.
+											Ou bien je vais utiliser ""simple"" pour dire
+											""fiable"", ""prévisible"", ""reproductible"".
+											Et je vais prendre Internet comme exemple,
+											parce que c'est un très bon exemple
+											de simplicité empilée.
+											Nous appelons ça un système complexe, et ça l'est,
+											mais c'est aussi quelque chose d'autre.
+									","
+											Nun gut, lassen Sie mich Ihnen ein Beispiel zeigen
+											von Einfachheit,
+											einer bestimmten Art.
+											Und dann möchte ich einen Begriff einführen
+											den ich für sehr brauchbar halte,
+											nämlich ""Aufstapeln"".
+											Und ich werde Aufstapeln benutzen für eine Art Einfachheit,
+											welche die Eigenschaft hat,
+											so einfach zu sein
+											und so zuverlässig
+											dass ich Dinge damit bauen kann.
+											Oder ich werde einfach verwenden für
+											zuverlässig, vorhersagbar, wiederholbar.
+											Und ich werde das Internet als Beispiel verwenden,
+											weil es ein aussergewöhnlich gutes Beispiel ist
+											für aufgestapelte Einfachheit.
+											Wir nennen es ein komplexes System, was es auch ist,
+											doch es ist auch etwas anderes.
+									",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+","
+","
+","
+","
+",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+											The Internet starts with mathematics,
+											it starts with binary.
+											And if you look at the list of things on the bottom,
+											we are familiar with the Arabic numbers
+											one to 10 and so on.
+											In binary, one is 0001,
+											seven is 0111.
+											The question is: Why is binary
+											simpler than Arabic?
+											And the answer is, simply,
+											that if I hold up three fingers, you can count that easily,
+											but if I hold up this,
+											it's sort of hard to say that I just did seven.
+											The virtue of binary is that it's the simplest possible way
+											of representing numbers.
+											Anything else is more complicated.
+											You can catch errors with it,
+											it's unambiguous in its reading,
+											there are lots of good things about binary.
+											So it is very, very simple
+											once you learn how to read it.
+											Now, if you like to represent
+											this zero and one of binary,
+											you need a device.
+											And think of things in your life
+											that are binary,
+											one of them is light switches.
+											They can be on and off. That's binary.
+									","
+											Internet surge de la matemática.
+											Nace de lo binario.
+											Y si vemos la lista de cosas en la parte inferior
+											estamos familiarizados con los números arábigos
+											de 1 a 10, etc.
+											En binario, 1 es 0001
+											7 es 0111.
+											La pregunta es: ¿por qué lo binario
+											es más simple que lo arábigo?
+											Y la respuesta es sencillamente
+											que si levanto tres dedos se pueden contar muy fácilmente,
+											pero si levanto todos estos
+											es un poco difícil contar siete.
+											Tiene la virtud de ser la forma más sencilla posible
+											de representación numérica.
+											Cualquier otra forma es más complicada.
+											Se pueden detectar errores con ella.
+											Es inequívoco en su lectura.
+											Hay muchas cosas buenas en lo binario.
+											De modo que es muy, muy simple
+											una vez que uno sabe leerlo.
+											Ahora, si uno quiere representar
+											el cero y el uno binario
+											necesita un dispositivo.
+											Piensen en cosas de su vida
+											que sean binarias.
+											Una de ellas es el interruptor de luz.
+											Puede estar encendido o apagado. Eso es binario.
+									","
+											İnternet matematikle başlar.
+											İkili değerle başlar.
+											Ve eğer tabandaki şeylerin listesine bakarsanız,
+											birden ona kadar ve devamındaki
+											Arap rakamlarına aşinayız.
+											İkili değerle, bir 0001
+											yedi 0111.
+											Soru şu: Neden ikili değer
+											Arap rakamlarından daha basit.
+											Ve cevap basitçe şu,
+											eğer üç parmağınızı kaldırırsanız, bu kadar kolayca sayabilirsiniz,
+											ama bunu tutarsam,
+											az önce yedi yaptığımı söylemek zor gibi.
+											Bunun meziyeti, bu sayıları gösteren
+											en basit yöntemidir.
+											Başka her şey daha karışıktır.
+											Onunla hataları yakalayabilirsiniz.
+											Okunması da gayet açıktır.
+											İkili değerle ilgili bir çok güzel şey var.
+											Yani bir kez nasıl okuyacağınızı
+											anladığınızda çok, çok basittir.
+											Şimdi eğer bu ikili değerin sıfır ve birini
+											göstermek isterseniz,
+											bir alete ihtiyacınız olur.
+											Ve hayatınızdaki ikili değerdeki
+											şeyleri düşünün.
+											Bunlardan biri elektrik anahtarlarıdır.
+											Açık ya da kapalı olabilir. İkili değerdir bu.
+									","
+											L'Internet commence par des mathématiques.
+											Il commence avec du langage binaire.
+											Et si vous regardez la liste de ces choses, en bas,
+											[vous verrez que] nous sommes familiers avec les chiffres arabes,
+											de 1 à 10, etc.
+											En binaire, 1 c'est 0001,
+											et 7 c'est 0111.
+											La question est : Pourquoi le binaire est-il
+											plus simple que les chiffres arabes ?
+											Et la réponse est simplement
+											que si je lève 3 doigts, on arrive à les compter facilement,
+											mais si je fais comme ça,
+											c'est assez dur de voir que j'ai dit 7.
+											Le mérite est que c'est le moyen le plus simple de
+											représenter des chiffres.
+											Tous les autres sont plus compliqués.
+											On peut détecter les erreurs avec celui-ci.
+											Il est sans ambiguïté dans sa lecture.
+											Il y a plein d'avantages avec le binaire.
+											Il est donc très très simple
+											une fois que vous savez le lire.
+											Maintenant, si on veut se représenter
+											ce zéro et ce un [qui composent le] binaire,
+											il nous faut un dispositif.
+											Et penser aux choses de notre vie courante
+											qui sont binaires.
+											Parmi elles, les interrupteurs électriques.
+											Ils peuvent être sur ""marche"" ou ""arrêt"". C'est binaire.
+									","
+											Das Internet beginnt mit Mathematik.
+											Es startet mit dem Binären.
+											Und wenn Sie sich die Liste am unteren Ende anschauen,
+											wir kennen die arabischen Zahlen,
+											1 bis 10 und so weiter.
+											Eins entspricht binär 0001.
+											Sieben ist 0111.
+											Die Frage stellt sich: Weshalb ist binär
+											einfacher als Arabisch?
+											Und die Antwort ist einfach,
+											wenn ich drei Finger nach oben halte, können Sie das einfach zählen,
+											doch wenn ich dies aufhalte,
+											ist es schwierig zu sagen, dass ich Sieben angezeigt habe.
+											Der Vorzug ist es, dass es die einfachste Art ist
+											Zahlen darzustellen.
+											Alles andere ist komplizierter.
+											Sie können damit Fehler entdecken.
+											Es lässt sich unmissverständlich lesen.
+											Das Binäre hat viele gute Dinge.
+											Also ist es sehr, sehr einfach
+											wenn Sie einmal wissen, wie es zu lesen ist.
+											Nun, wenn Sie diese Null und Eins
+											des Binären darstellen möchten,
+											benötigen Sie ein Gerät.
+											Und denken Sie an Dinge in Ihrem Leben
+											die binär sind.
+											Eines davon ist der Lichtschalter.
+											Er kann ein- oder ausgeschaltet sein. Das ist binär.
+									",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+","
+","
+","
+","
+",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+											Now wall switches, we all know, fail.
+											But our friends who are condensed matter physicists
+											managed to come up, some 50 years ago,
+											with a very nice device, shown under that bell jar,
+											which is a transistor.
+											A transistor is nothing more than a wall switch.
+											It turns things on and off,
+											but it does so without moving parts
+											and it doesn't fail, basically, for a very long period of time.
+											So the second layer of simplicity
+											was the transistor in the Internet.
+											So, since the transistor is so simple,
+											you can put lots of them together.
+											And you put lots of them together and you come with
+											something called integrated circuits.
+											And a current integrated circuit
+											might have in each one of these chips
+											something like a billion transistors,
+											all of which have to work perfectly every time.
+											So that's the next layer of simplicity,
+											and, in fact, integrated circuits
+											are really simple in the sense that they,
+											in general, work really well.
+									","
+											Todos sabemos que los interruptores de pared fallan.
+											Pero nuestros amigos, físicos de la materia condensada,
+											se las ingeniaron para inventar, hace 50 años,
+											un dispositivo muy bueno que aparece bajo la campana de cristal,
+											que es el transistor.
+											Un transistor no es más que un interruptor de pared.
+											Enciende y apaga cosas
+											pero lo hace sin piezas móviles
+											y no falla, básicamente, durante un período muy largo de tiempo.
+											Entonces la segunda capa de simplicidad
+											fue el transistor e Internet.
+											Así, dado que el transistor es tan simple,
+											se puede poner muchos de ellos juntos.
+											Y poniendo muchos de ellos juntos uno obtiene
+											algo llamado circuitos integrados.
+											Y un circuito integrado actual
+											podría tener en cada uno de estos chips
+											algo así como mil millones de transistores
+											que tienen que funcionar perfectamente en todo momento.
+											Esa es la próxima capa de simplicidad
+											y, de hecho, los circuitos integrados
+											son realmente simples en el sentido que,
+											en general, funcionan muy bien.
+									","
+											Şimdi tüm duvar anahtarları, bildiğimiz gibi, bozulur.
+											Ama yoğun madde fizikçisi olan arkadaşlarımız
+											yaklaşık 50 yıl kadar önce, çok hoş bir alet buldular,
+											bu kavanozun altında görülen şeyi yaratmayı başardılar,
+											bu bir transistör.
+											Bir transistör, bir duvar anahtarından başka bir şey değildir.
+											Açıp kapar,
+											ama bunu parçaları hareket ettirmeden yapar,
+											ve temelde çok uzun zaman boyunca hata yapmaz.
+											Yani basitliğin ikinci katmanı
+											transistör ve internetti.
+											Transistör çok basit olduğu için,
+											bir çoğunu bir araya getirebilirsiniz.
+											Ve onlardan bir çoğunu bir araya getirip
+											entegre devre denilen şeyi üretirsiniz.
+											Ve güncel entegre bir devre
+											bu yongaların her birinde bir milyar
+											transistör gibi bir sayı barındırabilir,
+											her biri her defasında mükemmel şekilde çalışmak zorundadır.
+											Bu basitliğin diğer katmanı,
+											ve aslında entegre devreler
+											gerçekte şu anlamda basittir,
+											genel olarak gayet iyi çalışırlar.
+									","
+											Mais on sait tous que les interrupteurs muraux, ça tombe en panne.
+											Heureusement, nos amis les physiciens de la matière condensée
+											ont réussi à mettre au point, il y a près de 50 ans,
+											ce très bel appareil, que vous voyez sous cette cloche de verre,
+											qui est un transistor.
+											Un transistor n'est rien de plus qu'un interrupteur mural.
+											Il met les chose sur ""marche"" ou ""arrêt"",
+											mais il le fait sans pièces mobiles
+											et il ne tombe pas en panne, en fait, sur une très longue période de temps.
+											Ainsi, la deuxième couche de simplicité
+											a été le transistor et Internet.
+											Et, puisque le transistor est tellement simple,
+											on peut en assembler beaucoup.
+											Si vous en mettez plein ensemble, vous obtenez
+											quelque chose qu'on appelle les ""circuits intégrés"".
+											Et un circuit intégré courant
+											peut avoir dans chacune de ces puces
+											quelque chose comme un milliard de transistors,
+											qui, tous, doivent en permanence fonctionner parfaitement.
+											Voilà donc la couche suivante de simplicité,
+											et, en fait, les circuits intégrés
+											sont très simples, en ce sens
+											qu'en général, ils fonctionnent très bien.
+									","
+											Nun können Schalter kaputt gehen, wie wir alle wissen.
+											Doch unsere Freunde, die Feststoff-Physiker
+											haben vor etwa 50 Jahren ein sehr schönes
+											Gerät erfunden, das unter dieser Glocke gezeigt ist,
+											einen Transistor.
+											Ein Transistor ist nichts anderes als ein Schalter.
+											Es schaltet Dinge ein und aus,
+											doch er macht dies, ohne Dinge zu bewegen,
+											und es geht für eine sehr lange Zeit nicht kaputt.
+											Also war die zweite Schicht der Einfachheit
+											der Transistor und das Internet.
+											Da also der Transistor so einfach ist,
+											können Sie viele davon zusammen stellen.
+											Und wenn Sie viele davon zusammen stellen
+											erhalten Sie so etwas wie Integrierte Schaltkreise.
+											Und ein integrierter Schaltkreis
+											hat in jedem dieser Chips
+											etwa eine Milliarde Transistoren,
+											die alle jedes Mal perfekt arbeiten sollten.
+											Dies ist die nächste Schicht der Einfachheit,
+											und tatsächlich sind integrierte Schaltkreise
+											wirklich einfach im Sinne davon,
+											dass sie gewöhnlich wirklich gut funktionieren.
+									",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+","
+","
+","
+","
+",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+											With integrated circuits, you can build cellphones.
+											You all are accustomed to having your cellphones work
+											the large majority of the time.
+											In Boston ... Boston is a little bit like Namibia
+											in its cell phone coverage, (Laughter)
+											so that we're not accustomed to that all the time,
+											but some of the time.
+											But, in fact, if you have cell phones,
+											you can now go to this nice lady
+											who's somewhere like Namibia,
+											and who is extremely happy with the fact
+											that although she does not have
+											an master's degree in
+											electrical engineering from MIT,
+											she's nonetheless able to hack her cell phone
+											to get power in some funny way.
+											And from that comes the Internet.
+											And this is a map of bitflows across the continent.
+											The two blobs that are light in the middle there
+											are the United States and Europe.
+									","
+											Con circuitos integrados uno puede construir celulares.
+											Todos estamos acostumbrados a tener señal en nuestros celulares
+											la mayoría del tiempo.
+											En Boston, Boston es un poco como Namibia (Risas)
+											en cuanto a la cobertura de celulares
+											por eso no estamos acostumbramos a eso todo el tiempo,
+											sino a veces.
+											Pero, de hecho, si uno tiene celulares
+											puede acudir a donde esta buena señora
+											que vive en algún lugar de Namibia
+											y que está muy feliz con el hecho de
+											que, aunque ella no tiene
+											una maestría en
+											ingeniería eléctrica del MIT,
+											sin embargo, es capaz de modificar su teléfono celular
+											para conseguir energía de manera diferente.
+											Y de ahí surge Internet.
+											Y este es un mapa de flujo de bits entre continentes.
+											Las dos manchas luminosas allí en el centro
+											son Estados Unidos y Europa.
+									","
+											Entegre devrelerle, cep telefonları yapabilirsiniz.
+											Hepiniz cep telefonlarınızın çoğu zaman çalışıyor
+											olmasına alışkınsınızdır.
+											Boston'da, Boston cep telefonlarının kapsaması
+											açısından Namibya gibidir,
+											yani buna her zaman alışkın değiliz,
+											sadece bazen.
+											Ama, aslında, eğer cep telefonunuz varsa,
+											o zaman Namibya gibi bir yerde bulunan
+											şu hoş hanıma gidebilirsiniz,
+											ve onun MIT'den elektrik mühendisliği derecesi
+											olmadığı halde,
+											son derece mutlu bir şekilde
+											cep telefonunu kullanarak
+											komik bir şekilde enerji elde ettiğini
+											görürsünüz.
+											Ve buradan, internet geliyor.
+											Ve bu kıta boyunca bit (bilgi iletme birimi) akışı haritası.
+											Orada ortadaki parlak iki yuvarlak
+											ABD ve Avrupa.
+									","
+											Avec des circuits intégrés, vous pouvez fabriquer des téléphones cellulaires.
+											Vous êtes tous habitués à ce que vos téléphones cellulaires fonctionnent
+											la grande majorité du temps.
+											À Boston, Boston est un peu comme la Namibie
+											pour sa couverture cellulaire,
+											de sorte que nous n'avons pas l'habitude que ça marche tout le temps,
+											mais [seulement] de temps en temps.
+											Mais, si vous avez un téléphone cellulaire,
+											maintenant vous pouvez entrer en contact avec cette gentille dame,
+											qui vit quelque part, comme en Namibie,
+											et qui est extrêmement contente,
+											parce que, bien qu'elle n'ait pas
+											un diplôme de maîtrise
+											en ingénierie électrique du M.I.T (=Massachussetts Institute of Technology),
+											elle est néanmoins capable de bricoler son téléphone cellulaire
+											pour avoir du réseau, d'une manière assez amusante.
+											Et puis de là arrive l'Internet.
+											Et voici une carte des flux de données à travers les continents.
+											Les deux taches éclairées de l'intérieur,
+											ce sont les États-Unis et l'Europe
+									","
+											Mit integrierten Schaltkreisen können Sie Mobiltelefone bauen.
+											Sie sind sich alle gewöhnt, dass Ihre Mobiltelefone funktionieren
+											während der meisten Zeit.
+											Boston ist ein wenig wie Namibia
+											bezüglich der Mobilfunkabdeckung,
+											so dass wir nicht sie immer haben,
+											doch während einiger Zeit.
+											Doch tatsächlich, wenn Sie Mobiltelefone haben,
+											können Sie zu dieser netten Dame gehen,
+											die irgendwo wie Namibia ist,
+											und extrem glücklich ist mit der Tatsache,
+											dass obwohl sie
+											keinen Master-Abschluss in
+											Elektroingenieurwissenschaften des M.I.T. hat,
+											sie dennoch in der Lage ist, ihr Mobiltelefon
+											auf eine lustige Art zum Aufladen zu bringen.
+											Und daher kommt das Internet.
+											Und dies ist eine Karte des Datenstroms über die Kontinente.
+											Die zwei hellen Kleckse da in der Mitte
+											sind die Vereinigten Staaten und Europa.
+									",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+","
+","
+","
+","
+",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+											And then back to simplicity again.
+											So here we have what I think is one of the great ideas,
+											which is Google.
+											Which, in this simple portal
+											makes the claim
+											that it makes accessible
+											all of the world's information.
+											But the point is that
+											that extraordinary simple idea
+											rests on layers of simplicity
+											each compounded into a complexity
+											that is itself simple,
+											in the sense that it is completely reliable.
+									","
+											Y volviendo a la simplicidad otra vez.
+											Aquí tenemos la que creo es una de las ideas más geniales
+											que es Google
+											que, en este simple portal,
+											se atribuye el hecho
+											de hacer accesible
+											toda la información del mundo.
+											Pero el tema es
+											que esa idea simple, tan extraordinaria,
+											se basa en capas de simplicidad
+											cada una compuesta dentro de una complejidad
+											que es en sí misma simple,
+											en el sentido que es totalmente confiable.
+									","
+											Ve tekrar basitliğe dönüyoruz.
+											Yani burada, büyük fikirlerden biri olduğuna inandığım,
+											Google var,
+											bu basit portal içinde
+											tüm dünyanın
+											bilgisini ulaşabilir kılacağını
+											iddia ediyor.
+											Ancak önemli olan şu ki
+											olağanüstü basit fikir
+											her biri karmaşıklığa karışan
+											ki aslında içinde basit olan
+											basitlik katmanlarına dayanır,
+											bu anlamda tamamıyla güvenilirdir.
+									","
+											Et puis on revient de nouveau à la simplicité.
+											Et nous avons ici ce que je pense être l'une des grandes idées,
+											et c'est Google,
+											qui, dans ce simple portail,
+											revendique le fait
+											de rendre accessible
+											la totalité de l'information disponible dans le monde.
+											Ce qui est important,
+											c'est que cette idée extraordinairement simple
+											repose sur des couches de simplicité,
+											chacune participant à former une complexité
+											qui elle-même est simple,
+											dans le sens qu'elle est totalement fiable.
+									","
+											Zurück zur Einfachheit also.
+											Hier haben wir, was ich für eine der grossen Ideen halte,
+											nämlich Google,
+											welches in diesem simplen Portal
+											den Anspruch erhebt
+											alle Information der Welt
+											verfügbar zu machen.
+											Der Punkt ist, dass
+											diese aussergewöhnlich einfache Idee
+											auf Schichten der Einfachheit gründet,
+											zusammengefügt zu einer Komplexität
+											die in sich einfach ist,
+											im Sinne davon, dass sie total zuverlässig ist.
+									",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+","
+","
+","
+","
+",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+											All right, let me then finish off
+											with four general statements,
+											an example and two aphorisms.
+											The characteristics, which I think
+											are useful to think about for simple things:
+											First, they are predictable.
+											Their behavior is predictable.
+											Now, one of the nice characteristics
+											of simple things
+											is you know what it's going to do, in general.
+											So simplicity and predictability
+											are characteristics of simple things.
+											The second is, and this is a real world statement,
+											they're cheap.
+											If you have things that are cheap enough,
+											people will find uses for them,
+											even if they seem very primitive.
+											So, for example, stones.
+											You can build cathedrals out of stones,
+											you just have to know what it does.
+											You carve them in blocks and then you
+											pile them on top of one another,
+											and they support weight.
+									","
+											Muy bien, déjenme que termine
+											con cuatro declaraciones de carácter general,
+											un ejemplo y dos aforismos.
+											Las características que creo que
+											son útiles para pensar sobre las cosas simples:
+											primero, son predecibles.
+											Su comportamiento es predecible.
+											Uno de los rasgos buenos
+											de las cosas simples
+											es que, en general, uno sabe lo que va a pasar.
+											Entonces, la simplicidad y la predictibilidad
+											caracterizan a las cosas simples.
+											Segundo, y esta es una declaración del mundo real,
+											son económicas.
+											Si uno tiene cosas lo suficientemente baratas
+											la gente le encontrará usos
+											aún si parecen muy primitivas.
+											Por ejemplo, las piedras.
+											Uno puede construir catedrales de piedra,
+											sólo se tiene que saber para qué sirve.
+											Uno las corta en bloques, y luego
+											las apila unas sobre otras
+											y ellas soportan el peso.
+									","
+											Pekala, izin verin dört genel
+											açıklama, bir örnek ve iki
+											aforizmayla bitireyim.
+											Basit şeylerle ilgili düşünürken
+											faydalı olacağını düşündüğüm özellikler:
+											Birinci olarak, tahmin edilebilirdir.
+											Davranışları tahmin edilebilir.
+											Şimdi, basit şeylerin hoş özelliklerinden
+											bir tanesi,
+											genel olarak ne yapacağını bilmenizdir.
+											Yani basitlik ve tahmin edilebilirlik
+											basit şeylerin özellikleridir.
+											İkincisi, ve bu gerçek dünyaya ait bir beyandır,
+											ucuzdurlar.
+											Eğer yeterince ucuz şeylere sahipseniz,
+											insanlar onları kullanım yolları bulacaklardır,
+											çok ilkel görünse dahi.
+											Yani, mesela, taşlar.
+											Taşlarla katedraller inşa edebilirsiniz,
+											nasıl yapılacağını bilmeniz yeter.
+											Onları bloklar halinde oyar ve sonra
+											birbirleri üzerine yığarsınız,
+											ve ağırlığı taşırlar.
+									","
+											Hé bien, je vais en terminer
+											avec quatre déclarations générales,
+											un exemple et deux aphorismes.
+											Les caractéristiques que je crois
+											être utiles pour réfléchir à des choses simples :
+											D'abord, elles sont prévisibles.
+											Leur comportement est prévisible.
+											Une des caractéristiques agréables
+											des choses simples,
+											c'est que, généralement, on sait ce qu'elles vont faire.
+											Ainsi, la simplicité et la prévisibilité
+											sont caractéristiques des choses simples.
+											La seconde est, et c'est une déclaration triviale,
+											elles sont bon marché.
+											Si vous avez des choses suffisamment bon marché
+											les gens leur trouveront différents usages,
+											même si elles semblent très primitives.
+											Prenons, par exemple, les pierres.
+											Avec des pierres, vous pouvez construire des cathédrales,
+											il vous suffit de savoir ce que c'est.
+											Vous les sculptez en blocs, et puis vous
+											les empilez les unes sur les autres,
+											et elles supporteront le poids.
+									","
+											Gut, lassen Sie mich abschliessen
+											mit vier generellen Bemerkungen,
+											einem Beispiel und zwei Aphorismen.
+											Die Eigenschaften, die ich für nützlich halte,
+											um über einfache Dinge nachzudenken:
+											Erstens sind sie vorhersehbar.
+											Deren Verhalten ist vorhersehbar.
+											Nun ist eine der netten Eigenschaften
+											einfacher Dinge,
+											dass Sie wissen, was sie normalerweise tun werden.
+											Also sind Einfachheit und Vorhersehbarkeit
+											Eigenschaften einfacher Dinge.
+											Zweitens, und dies ist eine sehr realistische Bemerkung,
+											sind sie günstig.
+											Wenn Sie Dinge haben, die günstig genug sind,
+											werden Leute Gebrauch finden dafür,
+											auch wenn es sehr primitiv ausschauen mag.
+											Zum Beispiel Steine.
+											Sie können mit Steinen Kathedralen bauen,
+											sie brauchen bloss zu wissen, was es macht.
+											Sie schneiden sie in Blöcke, und dann
+											stapeln Sie sie aufeinander,
+											und sie tragen Gewicht.
+									",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+","
+","
+","
+","
+",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+											So there has to be function, the function has to be predictable
+											and the cost has to be low.
+											What that means is
+											that you have to have a high performance
+											or value for cost.
+											And then I would propose
+											as this last component
+											that they serve, or have the potential to serve,
+											as building blocks.
+											That is, you can stack them.
+											And stack can mean this way, or it can mean this way,
+											or it can mean in some arbitrary n-dimensional space.
+											But if you have something that has a function,
+											and it's really cheap,
+											people will find new ways of putting it together
+											to make new things.
+											Cheap, functional, reliable things
+											unleash the creativity of people
+											who then build stuff that you could not imagine.
+											There's no way of predicting the Internet
+											based on the first transistor.
+											It just is not possible.
+											So these are the components.
+									","
+											Entonces tiene que haber una función, la función tiene que ser predecible,
+											y el costo tiene que ser bajo.
+											Eso significa que
+											tiene que haber un rendimiento alto
+											o un valor por el costo.
+											Y después yo propondría
+											como último componente,
+											que sirven, o que tienen el potencial de servir,
+											como bloques de construcción.
+											Es decir, se los puede apilar.
+											Apilar de esta manera, o de esta otra,
+											o de manera arbitraria en el espacio n-dimensional.
+											Pero si uno tiene algo que cumple una función
+											y es muy barato
+											la gente encontrará nuevas maneras de juntarlos
+											para hacer cosas nuevas.
+											Las cosas baratas, funcionales y confiables
+											estimulan la creatividad de la gente,
+											que entonces construye cosas más alla de la imaginación.
+											No había manera de predecir Internet
+											a partir del primer transistor.
+											Es algo simplemente imposible.
+											Así que estos son los componentes.
+									","
+											Yani bir işlevi olmalı, işlevi tahmin edilebilir olmalı ve
+											maliyeti düşük olmalı.
+											Bunun anlamı,
+											yüksek bir performansınız ya da düşük maliyetiniz
+											olması gerektiğidir.
+											Ve sonra, son bileşen olarak
+											şunu önereceğim,
+											yapıtaşı olarak hizmet etmesi ya da edecek
+											potansiyeli olması.
+											Yani, onları yığabilirsiniz.
+											Ve yığma şu anlamdadır, ya da şu anlama gelebilir,
+											ya da keyfi ve boyutlu bir uzay anlamına gelebilir.
+											Ama eğer işlevi olan bir şeye sahipseniz,
+											ve gerçekten ucuzsa,
+											insanlar onu bir araya getirerek yeni şeyler
+											üretmenin yollarını bulacaktır.
+											Ucuz, işlevsel, güvenilir şeyler
+											insanların yaratıcılığını serbest bırakır,
+											böylece hayal edemeyeceğiniz şeyler inşa ederler.
+											İlk transistöre dayanarak interneti
+											tahmin etmenin yolu yoktur.
+											Basitçe bu mümkün değildir.
+											Yani bileşenler bunlardır.
+									","
+											Donc il doit y avoir une fonction, et la fonction doit être prévisible,
+											et le coût peu élevé.
+											Ce que ça signifie, c'est qu'il faut
+											avoir une excellente performance, ou une
+											forte valeur, pour le prix.
+											Alors je vous proposerais,
+											comme pour ce dernier composant,
+											qu'elles servent, ou aient le potentiel de servir,
+											de blocs de construction.
+											Qu'on puisse les empiler.
+											Et par empiler, j'entends dans ce sens, ou dans cet autre sens,
+											ou encore empiler dans n'importe quel espace donné à n dimensions.
+											Mais si vous avez quelque chose qui possède une fonction,
+											qui est vraiment bon marché,
+											les gens trouveront de nouvelles façons de les arranger
+											pour créer de nouvelles choses.
+											Ce qui est à la fois fiable, bon marché et fonctionnel
+											déchaine la créativité des gens
+											qui construisent alors des trucs que vous n'auriez pas imaginé.
+											Il n'y a aucun moyen de prédire l'Internet
+											en se basant sur le premier transistor.
+											Ce n'est simplement pas possible.
+											Voilà pour les composants.
+									","
+											Also muss eine Funktion bestehen, die Funktion muss vorhersehbar sein
+											und die Kosten müssen niedrig sein.
+											Dies bedeutet
+											dass Sie eine hohe Leistungsfähigkeit benötigen,
+											oder Gegenwert für die Kosten.
+											Und dann würde ich vorschlagen
+											bei dieser letzten Komponente
+											dass sie als Bausteine verwendet werden,
+											oder das Nutzenpotenzial hierzu haben,
+											das heisst, dass Sie sie aufeinander schichten können.
+											Und schichten kann dies bedeuten, oder das,
+											oder etwas beliebig anderes im Raum.
+											Doch wenn Sie etwas haben, das eine Funktion erfüllt,
+											und wirklich günstig ist,
+											werden die Menschen neue Möglichkeiten finden, es zusammen zu setzen
+											und neue Dinge daraus machen.
+											Günstige, funktionelle, zuverlässige Dinge
+											setzen die Kreativität von Menschen frei
+											die dann Dinge bauen, die Sie sich nicht vorstellen können.
+											Es wäre unmöglich gewesen, das Internet vorher zu sehen,
+											basierend auf dem ersten Transistor.
+											Es ist einfach nicht möglich.
+											Dies also sind die Komponenten.
+									",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+","
+","
+","
+","
+",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+											Now, the example
+											is something that I want to give you
+											from the work that we ourselves do.
+											We are very interested in
+											delivering health care in the developing world,
+											and one of the things that we wish to do in this particular business
+											is to find a way of doing medical diagnosis
+											at as close to zero cost
+											as we can manage.
+											So, how does one do that?
+											This is a world in which there's no electricity,
+											there's no money, there's no medical competence.
+											And I don't want to spend your time in going through the details,
+											but in the lower right-hand corner,
+											you see an example of the kind of thing that we have.
+											It's a little paper chip.
+											It has a few things printed on it
+											using the same technology
+											that you use for making comic books,
+											which was the inspiration for this particular idea.
+											And you put a drop, in this case, of urine at the bottom.
+											It wicks its way up into these little branches.
+											You know, no power required.
+											It turns colors. In this particular case,
+											you're reading kidney function.
+											And, since the health care worker
+											of much of this part of the world
+											is an 18 year-old with an AK-47,
+											who happens to be out of work and is willing
+											to go around and do this sort of thing,
+											he can take a picture of it with his cellphone,
+											send the picture back to where there is a doctor,
+											and the doctor can look at it.
+									","
+											Ahora quiero
+											darles un ejemplo
+											de nuestro propio trabajo.
+											Nos interesa mucho
+											brindar atención de salud al mundo en desarrollo.
+											Y una de las cosas que queremos hacer al respecto
+											es encontrar una manera de hacer el diagnóstico médico
+											a un costo tan cercano a cero
+											como podamos hacerlo.
+											Entonces, ¿cómo hacerlo?
+											Este es un mundo en el que no hay electricidad,
+											no hay dinero, no hay aptitud médica.
+											No quiero hacerles perder tiempo entrando en detalles
+											pero en la esquina inferior derecha
+											se ve un ejemplo del tipo de cosas que tenemos.
+											Es un pequeño chip de papel.
+											Tiene algunas cosas impresas
+											que usa la misma tecnología
+											empleada en la producción de cómics
+											que fue la inspiración para esta idea en particular.
+											Uno pone una gota de orina, en este caso en la parte de abajo.
+											Esta penetra y sube por esas ramitas.
+											No se requiere del uso de electricidad.
+											Se pone de colores. En este caso particular
+											se lee información renal.
+											Y, dado que el trabajador de salud
+											de esta parte del mundo
+											tiene 18 años y una AK-47,
+											y casualmente está sin trabajo, dispuesto
+											a salir de ronda y hacer este tipo de cosas,
+											puede tomarle una foto con su celular,
+											enviar la imagen a donde se encuentre un médico,
+											y el médico puede examinarla.
+									","
+											Şimdi vermek istediğim
+											örnek kendimizin yaptığı
+											işten bir örnek.
+											Gelişmiş dünyaya
+											sağlık hizmeti götürmekle çok ilgiliyiz.
+											Ve bu belirli iş alanında yapmak istediğimiz şeylerden biri,
+											medikal tanıyı mümkün olduğunca
+											sıfır maliyete yakın
+											yapmanın yolunu tutmak.
+											Peki, bu nasıl yapılır?
+											Bu, elektriğin olmadığı, paranın olmadığı,
+											tıbbi yeterliliğin olmadığı bir dünya.
+											Ve detaylara girerek zamanınızı almak istemiyorum,
+											ama sağ aşağıda bizim sahip
+											olduğumuz şeye benzer bir şeyin örneğini görüyorsunuz.
+											Küçük bir kağıt parçası.
+											Üzerine çizgi romanları basarken
+											kullanılan teknolojiye benzer,
+											ki bu fikrin ilhamı da budur,
+											bir teknolojiyle birkaç şey basılmış.
+											Ve altına bir damla damlatıyorsunuz, bu durumda, idrar.
+											Şu küçük dallara doğru yükseliyor.
+											Herhangi bir güç gerekmiyor.
+											Renkler değişiyor. Bu durumda,
+											böbrek işlevini okuyorsunuz.
+											Ve, bu dünyanın bu tarafındaki
+											sağlık çalışanları çoğunlukla
+											bu tür şeyleri yapmaya meraklı
+											18 yaşında AK-47'si olan
+											işsiz ve dünyayı gezmeye meraklı kişiler olduğu için,
+											o bunun cep telefonuyla fotoğrafını çekip
+											doktorun olduğu yere resmi yollayabilir,
+											ve doktor resme bakabilir.
+									","
+											Maintenant, l'exemple
+											que je vais vous donner est quelque chose
+											qui est issu du travail que nous effectuons.
+											Nous nous intéressons beaucoup à la manière
+											de délivrer des soins de santé dans les pays en voie de développement.
+											Et une des choses que nous souhaitons apporter dans ce domaine,
+											est de trouver une façon de poser un diagnostic médical
+											pour un coût aussi proche de zéro
+											que possible.
+											Alors comment faire ?
+											Il y a un monde dans lequel il n'y a pas d'électricité,
+											pas d'argent, pas de compétences médicales.
+											Et je ne veux pas vous faire perdre votre temps avec des détails,
+											mais dans le coin, en bas à droite,
+											vous pouvez voir un exemple du genre de chose que nous avons.
+											C'est un petit morceau de papier.
+											Il y a des choses imprimées dessus
+											en utilisant la même technologie
+											que pour fabriquer des bandes dessinées,
+											d'où est venue l'inspiration pour ce projet.
+											Et on dépose, dans ce cas précis, une goutte d'urine sur le bas.
+											Elle se répand le long de ces petites branches.
+											Vous voyez, pas besoin d'électricité.
+											Les couleurs changent. Sur cet exemple,
+											vous pouvez lire les fonctions rénales.
+											Et, comme l'auxiliaire de santé
+											dans cette partie du monde
+											est un garçon de 18 ans avec un AK-47,
+											qui se retrouve sans travail et a envie
+											de se promener et de faire ce genre de chose,
+											alors il peut prendre une photo avec son téléphone portable,
+											envoyer la photo là où il y a un docteur,
+											et le docteur peut la regarder.
+									","
+											Nun, das Beispiel
+											ist etwas, das ich Ihnen aus
+											unserer eigenen Arbeit vorstellen möchte.
+											Wir sind sehr interessiert daran,
+											Gesundheitspflege in Entwicklungsländer zu bringen.
+											Und eines der Dinge, das wir in diesem speziellen Geschäft tun möchten,
+											ist einen Weg in der medizinischen Diagnose zu finden,
+											der fast kostenlos ist
+											und somit zu bewältigen ist.
+											Nun, wie kommt man zu so etwas?
+											Dies ist eine Welt, in der es keinen Strom gibt,
+											es gibt kein Geld, es gibt keine medizinische Kompetenz.
+											Und ich möchte Sie nicht mit Details aufhalten,
+											doch in der unteren rechten Ecke
+											sehen Sie ein Beispiel dafür, was wir haben dafür.
+											Es ist ein kleines Kartonstück.
+											Es hat einige wenige Dinge darauf aufgedruckt
+											mit der selben Technologie,
+											mit denen Comic-Bücher hergestellt werden,
+											was uns zu dieser speziellen Idee inspiriert hat.
+											Und in diesem Fall bringen Sie einen Tropfen Urin unten an.
+											Es arbeitet sich in diese kleinen Äste hoch.
+											Sie sehen, es braucht keinen Strom dafür.
+											Es wird farbig. In diesem speziellen Fall
+											lässt sich Nierenfunktion ablesen.
+											Und, da es sich bei Gesundheitspflegenden
+											in diesen Teilen der Erde
+											um 18-Jährige mit einer AK-47 handelt,
+											die keine Arbeit haben und bereit sind,
+											herum zu ziehen und diese Art von Dingen zu tun,
+											können ein Bild davon mit ihrem Mobiltelefon machen,
+											das Bild einem Arzt senden,
+											und der Arzt kann es sich anschauen.
+									",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+","
+","
+","
+","
+",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+											So what you've done is to take a technology,
+											which is available everywhere,
+											make a device, which is extremely cheap,
+											and make it in such a fashion
+											that it is very, very reliable.
+											If we can pull this off,
+											if we can build more function,
+											it will be stackable.
+											That is to say, if we can make the basic technology
+											of one or two things work,
+											it will be applicable to a very, very
+											large variety of human conditions,
+											and hence, extendable in both
+											vertical and horizontal directions.
+											Part of my interest in this, I have to say,
+											is that I would like to — how do I put this politely? —
+											change the way, or maybe eviscerate,
+											the capital structure of the U.S. health care system,
+											which I think is fundamentally broken.
+									","
+											Lo que hemos hecho es tomar una tecnología
+											que está disponible en todas partes,
+											crear un dispositivo extremadamente barato,
+											y hacerlo de tal manera,
+											que sea muy, muy confiable.
+											Si conseguimos llevar esto a cabo,
+											si podemos construir más función,
+											esto será apilable.
+											Es decir, si podemos hacer que la tecnología básica
+											de una o dos cosas funcione,
+											será aplicable a una
+											gran variedad de condiciones humanas,
+											y, por tanto, se podrá extender
+											en dirección vertical como horizontal.
+											Parte de mi interés en esto, tengo que decir,
+											es que me gustaría, cómo decirlo cortésmente,
+											cambiar la forma, o extirpar tal vez,
+											la estructura capital del sistema de salud de EE.UU.
+											el cual creo que está fundamentalmente descompuesto.
+									","
+											Burada yaptığınız, her yerde ulaşılabilir olan
+											teknolojiyi alarak
+											gayet ucuz olan bir alet yapmak ve
+											bunu da çok çok güvenilebilir
+											bir dizaynda gerçekleştirmek.
+											Eğer bunu yapabilirsek,
+											daha fazla işlev kurabilirsek,
+											yığılabilir olacaktır.
+											Demek istediğim, eğer bir ya da iki basit teknolojili
+											şeyin çalışmasını sağlayabilirsek,
+											bir çok geniş çeşitlilikteki insani duruma
+											uygulanabilir olacaktır,
+											ve böylece, hep düşey hem de
+											dikey yönde genişleyebilir olacaktır.
+											Benim buna ilgimin bir kısmı, söylemeliyim ki,
+											bunu nasıl kibarca söyleyebilirim,
+											temel olarak bozulduğunu düşündüğüm
+											Amerikan sağlık sisteminin temel yapısını
+											değiştirmek ya da temizlemektir.
+									","
+											Donc ce que vous avez fait là, c'est de prendre une technologie
+											qui est disponible partout,
+											réaliser un dispositif, qui est extrêmement bon marché,
+											et le réaliser de telle façon,
+											qu'il soit très, très fiable.
+											Si on réussit à finaliser ça,
+											si on arrive à ajouter plus de fonctions,
+											ça deviendra empilable.
+											C'est à dire que, si on arrive à faire fonctionner
+											la technologie de base pour une ou deux choses,
+											elle sera applicable à une très très large
+											variété d'états pathologiques humains,
+											et, par conséquent, extensible dans les deux
+											directions, verticale et horizontale.
+											Une partie de mon intérêt pour cela, je dois dire,
+											c'est que je voudrais, comment puis-je dire ça poliment,
+											changer la façon dont, ou peut-être étriper,
+											la structure financière du système de santé américain,
+											qui, je pense, est fondamentalement vicié.
+									","
+											Was hier also geschehen ist, ist Technologie einzusetzen,
+											die überall verfügbar ist,
+											ein Gerät zu bauen, das extrem günstig ist,
+											und es in einer Art herzustellen,
+											die sehr, sehr zuverlässig ist.
+											Wenn wir dies durchziehen können,
+											wenn wir mehr Funktionalität einbauen können,
+											wird es stapelbar sein.
+											Das heisst, wenn wir die Basistechnologie
+											einer oder zwei Dinge zum Laufen bringen,
+											wird es anwendbar für eine sehr, sehr
+											grosse Vielzahl menschlicher Zustände,
+											und damit sowohl in
+											vertikaler und horizontaler Richtung ausbaubar.
+											Ich muss sagen, dass ein Teil meiner Motivation darin besteht,
+											dass ich gerne, wie kann ich dies nett ausdrücken,
+											die Kapitalstruktur im US-Gesundheitswesen
+											ändern, oder bedeutungslos machen möchte,
+											welche grundsätzlich am Ende ist.
+									",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+","
+","
+","
+","
+",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+											So, let me close —
+											(Applause)
+									","
+											Así que permítanme terminar
+											(Aplausos)
+									","
+											İzin verin,
+											(Alkışlar)
+									","
+											Alors, permettez-moi de conclure —
+											(Applaudissements)
+									","
+											Lassen Sie mich also abschliessen —
+											(Applaus)
+									",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+","
+","
+","
+","
+",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+											Let me close with my two aphorisms.
+											One of them is from Mr. Einstein,
+											and he says, ""Everything should be made
+											as simple as possible, but not simpler.""
+											And I think that's a very good way of thinking about the problem.
+											If you take too much out
+											of something that's simple, you lose function.
+											You have to have low cost,
+											but you also have to have a function.
+											So you can't make it too simple.
+											And the second is a design issue,
+											and it's not directly relevant, but it's a nice statement.
+									","
+											Permítanme terminar con dos aforismos.
+											Uno es del Sr. Einstein.
+											Él dice: ""Todo debería hacerse
+											tan simple como sea posible, pero no más simple que eso"".
+											Y me parece que es una muy buena manera de abordar el problema.
+											Si uno quita demasiado
+											a algo que es simple, pierde su función.
+											Tiene que ser de bajo costo
+											pero también tiene que tener una función.
+											Por eso no se puede hacer demasiado simple.
+											Y lo segundo es un tema de diseño,
+											no es algo directamente relevante pero es una buena frase.
+									","
+											İki aforizmayla kapatmama izin verin.
+											Bir tanesi Bay Einstein'dan.
+											'Her şey mümkün olduğunca basit yapılmalıdır
+											ama daha basit değil' der.
+											Ve bunun bir problem hakkında düşünmenin iyi bir yolu olduğunu sanıyorum.
+											Eğer zaten basit olan bir şeyden
+											çok fazla şey çıkarırsanız, işlevini kaybedersiniz.
+											Düşük maliyetli olmalı,
+											ama aynı zamanda işlevsel olmalı.
+											Yani çok basit yapamazsınız.
+											Ve ikincisi tasarım meselesi,
+											ve bu direk ilişkili değil ama hoş bir ifade.
+									","
+											Permettez-moi de terminer avec mes deux aphorismes.
+											L'un d'eux est de M. Einstein.
+											Et il dit: «Tout devrait être rendu
+											aussi simple que possible, mais pas plus simple.""
+											Et je pense que c'est une très bonne façon de penser le problème.
+											Si vous retranchez trop
+											de quelque chose qui est simple, vous perdez la fonction.
+											On doit avoir un coût faible,
+											mais on doit aussi avoir une fonction.
+											Alors, il ne faut pas le faire trop simple.
+											Le second aphorisme est un problème de conception,
+											il n'est pas directement pertinent, mais c'est une jolie pensée.
+									","
+											Lassen Sie mich abschliessen mit zwei Aphorismen.
+											Einer davon ist von Herrn Einstein.
+											Und er sagt: ""Alles sollte
+											so einfach wie möglich sein, doch nicht einfacher.""
+											Und ich denke, das ist eine sehr gute Art, über das Problem nachzudenken.
+											Wenn Sie zu viel aus etwas herausnehmen,
+											das einfach ist, verlieren Sie Funktionalität.
+											Sie brauchen niedrige Kosten,
+											doch Sie brauchen auch eine Funktion.
+											Also können Sie es nicht zu einfach machen.
+											Und das zweite ist ein Problem des Designs,
+											es ist nicht direkt relevant, doch es ist eine hübsche Feststellung.
+									",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+","
+","
+","
+","
+",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+											This is by de Saint-Exupery.
+											And he says, ""You know you've achieved perfection in design,
+											not when you have nothing more to add,
+											but when you have nothing more to take away.""
+											And that certainly is going in the right direction.
+											So, what I think one can begin to do
+											with this kind of
+											cut at the word simplicity,
+											which doesn't cover Brancusi,
+											it doesn't answer the question of
+											why Mondrian is better or worse
+											or simpler or less simpler than Van Gogh,
+											and certainly doesn't address the question
+											of whether Mozart is simpler than Bach.
+									","
+											Es de De Saint-Exupery.
+											Y él dice: ""Uno sabe que ha logrado la perfección en el diseño
+											no cuando ya no tiene nada que agregar
+											sino cuando ya no tiene nada que quitar"".
+											Y eso sin duda va en la dirección correcta.
+											Por lo tanto, lo que creo que puede empezarse a hacer
+											con este tipo de
+											recorte a la palabra simplicidad
+											que no explica a Rancuzzi,
+											que no responde a la pregunta de
+											por qué Mondrian es mejor o peor
+											o más o menos simple que Van Gogh
+											y ciertamente no aborda la pregunta
+											de si es más sencillo Mozart que Bach.
+									","
+											Bu Saint-Exupery'den.
+											'Tasarımda mükemmele ulaştığınızı, ekleyecek bir şey olmadığında değil,
+											çıkaracak bir şey olmadığında
+											anlarsınız' demiştir.
+											Ve bu kesinlikle doğru bir istikamette gidiyorsunuz demektir.
+											Yani, bence basitlik kelimesiyle
+											Rancuzzi'yi kapsamayan
+											bu tür bir dersle
+											yapılabilecek şey,
+											Modrian'ın neden Van Gogh'tan
+											daha iyi ya da kötü veya
+											Van Gogh'dan neden daha basit ya da karmaşık
+											olduğunun, ve Mozart'ın Bach'tan daha basit
+											olup olmadığı sorusunun cevabına işaret etmez.
+									","
+											Elle est de St-Exupéry.
+											Et il disait
+											non pas lorsque vous n'avez plus rien à ajouter,
+											mais quand vous n'avez plus rien à enlever.""
+											Et ça va certainement dans la bonne direction.
+											Alors, ce que je pense qu'on peut commencer à faire
+											avec cette espèce
+											de découpage du mot simplicité,
+											et ça ne recouvre pas Rancuzzi,
+											ça ne répond pas à la question de savoir
+											si Mondrian est meilleur ou pire,
+											ou bien plus ou moins simple que Van Gogh,
+											et ça ne règle certainement pas la question
+											si Mozart est plus simple que Bach
+									","
+											Es kommt von Saint-Exupery.
+											Und er sagt: ""Du weisst, dass du perfektes Design hast,
+											nicht, wenn du nichts mehr hinzuzufügen hast,
+											sondern wenn du nichts weiteres wegnehmen kannst.""
+											Und das geht bestimmt in die richtige Richtung.
+											Nun, ich denke, was man beginnen kann
+											mit dieser Herangehensweise an
+											das Wort Einfachheit,
+											welche nicht Rancuzzi abdeckt,
+											nicht die Frage beantwortet,
+											ob Mondrian besser oder schlechter ist
+											oder einfacher oder weniger einfach ist als Van Gogh,
+											und bestimmt nicht die Frage behandelt,
+											ob Mozart oder Bach einfacher ist.
+									",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+","
+","
+","
+","
+",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+											But it does make a point —
+											which is one which, in a sense,
+											differentiates the real world of people who make things,
+											and the world of people who think about things,
+											which is, there is an intellectual merit
+											to asking: How do we make things
+											as simple as we can,
+											as cheap as we can, as functional as we can
+											and as freely interconnectable as we can?
+											If we make that kind of simplicity in our technology
+											and then give it to you guys,
+											you can go off and do all kinds of fabulous things with it.
+									","
+											Pero sí pone énfasis sobre lo que,
+											en cierto sentido,
+											diferencia el mundo real de las personas que hacen cosas
+											del mundo de las personas que piensan en las cosas
+											que es, hay un mérito intelectual
+											en preguntar: ¿Cómo hacer que las cosas sean
+											tan simples como sea posible
+											tan baratas y funcionales como sea posible
+											y tan libremente interconectables como sea posible?
+											Si incorporamos ese tipo de simplicidad en nuestra tecnología
+											y luego se las damos a Uds.,
+											Uds. pueden salir a hacer todo tipo de cosas fabulosas con eso.
+									","
+											Ama, bir anlamda
+											gerçek hayatta bir şeyler yapan insanlarla
+											şeyler hakkında düşünen insanları ayırmada
+											bir noktayı işaret eder,
+											ki bu da, soru sormanın entelektüel
+											bir başarısıdır: Şeyleri olabildiğince
+											NASIL basitleştirebiliriz;
+											olabildiğince ucuz, olabildiğince işlevsel
+											ve kendi içinde rahatça bağlanabilir (yığılabilir) yapabiliriz?
+											Eğer teknolojimizde bu tür bir basitliğe ulaşabilirsek
+											ve sonra bunu size verirsek,
+											gidip tüm o muhteşem şeyleri yapabilirsiniz.
+									","
+											Mais ça règle un point
+											qui est celui qui, dans un sens,
+											différencie le monde réel des gens qui font les choses,
+											du monde des gens qui pensent aux choses,
+											et, il y a un mérite intellectuel à se le demander,
+											qui est :""Comment faire les choses
+											aussi simple que nous le pouvons,
+											aussi bon marché, aussi fonctionnelles qu'on peut,
+											et aussi librement interconnectables que possible ?
+											Si nous réalisons ce genre de simplicité dans notre technologie,
+											et puis qu'on vous le donne, à vous tous,
+											alors, vous allez pouvoir foncer, et faire des choses fabuleuses avec
+									","
+											Doch es macht die Feststellung,
+											die auf eine Weise unterscheidet
+											zwischen der realen Welt der Menschen, die Dinge herstellen,
+											und der Welt der Menschen, die über Dinge nachdenken,
+											was die intellektuelle Herausforderung beinhaltet
+											zu fragen: Wir machen wir Dinge
+											so einfach als möglich,
+											so günstig als möglich, so funktionell als möglich
+											und so frei verknüpfbar als möglich?
+											Wenn wir diese Art von Einfachheit in unsere Technologie bringen,
+											und es dann euch Leuten geben,
+											können Sie damit weggehen und viele fantastische Dinge damit tun.
+									",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+","
+","
+","
+","
+",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+											Thank you very much.
+									","
+											Muchas gracias.
+									","
+											Çok teşekkürler.
+									","
+											Merci beaucoup
+									","
+											Vielen Dank.
+									",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+","
+","
+","
+","
+",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+											(Applause)
+									","
+											(Aplausos)
+									","
+											(Alkışlar)
+									","
+											(Applaudissements)
+									","
+											(Applaus)
+									",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+","
+","
+","
+","
+",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+											Chris Anderson: Quick question.
+											So can you picture
+											that a science of simplicity
+											might get to the point where
+											you could look out at various systems —
+											say a financial system or a legal system, health system — and say,
+											""That has got to the point of danger
+											or dysfunctionality for the following reasons,
+											and this is how we might simplify it""?
+									","
+											Chris Anderson: Pregunta rápida.
+											Así que puedes imaginar
+											que una ciencia de la simplicidad
+											podría llegar al punto en que
+											uno podría analizar varios sistemas
+											digamos sistemas financieros, legales, de salud y decir
+											que se ha llegado a un punto peligroso
+											o disfuncional por las siguientes razones,
+											y esta es la manera en que debemos simplificarlo
+									","
+											Chris Anderson: Hızlı bir soru.
+											Yani bu basitlik bilimi ile
+											bir gün gelip bir çok sistemi;
+											diyelim finansal sistemi ya da
+											hukuki sistemi, sağlık sistemini ve diyelim
+											bir takım nedenlerden ötürü tehlikeli bir noktaya gelmiş,
+											hatta işlevsizleşmiş sistemleri
+											düzeltebileceğine inanıyor musunuz,
+											ve bunu basitleştirmenin yolu bu mudur?
+									","
+											Chris Anderson : Une question rapide
+											Pouvez-vous imaginer
+											qu'une science de la simpolicité
+											puisse arriver au point où
+											vous pourriez regarder divers systèmes,
+											disons un système financier, ou un système légal, ou encore un système de santé, et dire
+											qu'il est arrivé à un stade dangereux,
+											où il se met à dysfonctionner, pour telle et telle raison,
+											et dire comment on pourrait le simplifier ?
+									","
+											Chris Anderson: Eine kurze Frage.
+											Können Sie sich also vorstellen,
+											dass eine Wissenschaft der Einfachheit
+											zum Punkt gelangt,
+											wo man sich verschiedene Systeme anschauen kann,
+											vielleicht ein Finanz-, Rechts- oder Gesundheitssystem und sagen kann
+											das beinhaltet eine Gefahr
+											oder Fehlfunktion aus folgenden Gründen,
+											und hier ist, wie wir es vereinfachen könnten?
+									",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+","
+","
+","
+","
+",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+											George Whitesides: Yes, I think you could. Because if you look
+											at the components from which the system is made
+											and examine their fragility, or their stability,
+											you can probably build a kind of risk assessment based on that basis.
+									","
+											George Whitesides: Sí, creo que se podría porque si uno mira
+											a los componentes que constituyen el sistema
+											y examina su fragilidad, o su estabilidad,
+											probablemente uno pueda evaluar los riesgos sustentado en esa base.
+									","
+											George Whitesides: Evet, bence olabilir çünkü eğer sistemin
+											oluştuğu bileşenlere bakarsanız ve
+											hassasiyetini ya da istikrarını incelerseniz,
+											bu temele dayanarak muhtemelen bir tür risk değerlendirmesi yapabilirsiniz.
+									","
+											George Whitesides : Oui, je crois parce que si on examine
+											les composants dont le système est fait,
+											qu'on examine leur fragilité, ou leur stabilité,
+											on peut probablement établir une estimation des risques fondée sur ces bases.
+									","
+											George Whitesides: Ja, ich denke man könnte dies tun,
+											denn wenn Sie die Komponenten des Systems betrachten,
+											und deren Zerbrechlichkeit, oder Stabilität, betrachten,
+											können Sie darauf basierend vielleicht eine Risikobeurteilung vornehmen.
+									",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+","
+","
+","
+","
+",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+											CA: Have you started to do that?
+											I mean, with the health system, you got a sort of
+											radical solution on the cost side,
+											but in terms of the system itself?
+									","
+											CA: ¿Has empezado a hacer eso?
+											Quiero decir, con el sistema de salud, tienes un tipo de
+											solución radical por el lado de los costos,
+											pero en términos del sistema en sí...
+									","
+											CA: Bunu yapmaya başladınız mı?
+											Yani, sağlık sistemiyle, maliyet tarafında
+											bir tür radikal çözümünüz var
+											ama sistem açısından bakınca?
+									","
+											C.A. : Avez-vous déjà commencé à le faire ?
+											Je veux dire, concernant le système de santé, vous aviez une solution
+											plutôt radicale, pour l'aspect des coûts.
+											Mais qu'en est-il du système lui-même ?
+									","
+											CA: Haben Sie begonnen, das zu tun?
+											Ich meine, mit dem Gesundheitswesen haben Sie eine Art
+											radikaler Lösung auf der Kostenseite,
+											doch was ist mit dem System selber?
+									",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+","
+","
+","
+","
+",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+											GW: Well, no.
+											How do I put that simply? No.
+									","
+											GW: Pues, no.
+											Para decirlo de manera simple, no.
+									","
+											GW: Hayır.
+											Bunu nasıl basitçe anlatabilirim. hayır.
+									","
+											G.W. : Hé bien , non.
+											Pour le dire simplement, non.
+									","
+											GW: Nun, nein.
+											Wie soll ich das einfach ausdrücken, nein.
+									",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+","
+","
+","
+","
+",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+											CA: That was a simple, powerful answer. GW: Yes.
+									","
+											CA: Esa fue una respuesta simple, contundente. GW: Sí.
+									","
+											CA: Bu basit, güçlü bir cevaptı. GW: Evet.
+									","
+											C.A. : C'était une simple et puissante réponse. G.W. : Oui.
+									","
+											CA: Das war eine einfache, starke Antwort. GW: Ja.
+									",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+","
+","
+","
+","
+",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+											CA: So, in terms of
+											that diagnostic technology that you've got,
+											where is that, and when do you see that
+											maybe getting rolled out to scale.
+									","
+											CA: En términos de
+											esa tecnología de diagnóstico que tienes
+											¿dónde se utiliza? y ¿cuándo crees que
+											se podrá producir a gran escala?
+									","
+											CA: Sahip olduğunuz
+											diagnostik teknoloji açısından bakarsak,
+											bu belki ölçekten dışarı çıkma diye tanımlayabileceğimiz şey
+											nerede ve ne zaman görülebilir.
+									","
+											C.A.: Et, pour revenir
+											à cette technologie de diagnostic que vous possédez,
+											où en est-on, et quand la voyez-vous
+											possible à être déployée à grande échelle ?
+									","
+											CA: Nun, was Ihre
+											Diagnosetechnologie betrifft,
+											wo steht diese, und wann denken Sie
+											wird diese in grossem Umfang verfügbar sein.
+									",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+","
+","
+","
+","
+",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+											GW: That's coming out soon. I mean, the systems work,
+											and we have to find out how to manufacture them and do things of this kind,
+											but the basic technology works.
+									","
+											GW: Es algo que saldrá pronto, digo, el sistema funciona,
+											tenemos que encontrar la manera de fabricarlo y hacer cosas de este tipo
+											pero la tecnología básica funciona.
+									","
+											GW: Hızlı bir şekilde ortaya çıkıyor, yani sistemler çalışır,
+											ve onları nasıl üretebileceğimizi ve bu tür şeyleri yapabileceğimizi bulmalıyız,
+											ama basit teknoloji çalışır.
+									","
+											G.W. : Ça arrive bientôt, je veux dire, le système marche,
+											et on a encore à trouver comment fabriquer, et ce genre de choses,
+											mais la technologie de base fonctionne.
+									","
+											GW: Das wird bald auskommen, das System funktioniert,
+											und wir müssen herauskriegen, wie wir es herstellen und diese Art von Dingen tun können,
+											doch die Basistechnologie funktioniert.
+									",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+","
+","
+","
+","
+",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+											CA: You've got a company set up to ...
+											GW: A foundation, a foundation. Not-for-profit.
+									","
+											CA: Tienes una compañía montada para...
+											GW: Una fundación, una fundación, sin fines de lucro.
+									","
+											CA: Bir şirketiniz var -
+											GW: Bir vakıf, bir vakıf. Kar amacı gütmeyen.
+									","
+											C.A. : Vous avez une entreprise qui est prête pour—
+											G. W. : Une fondation, une fondation. Sans but lucratif.
+									","
+											CA: Sie haben ein Unternehmen gegründet, um zu —
+											GW: eine Stiftung, eine Stiftung. Nicht gewinnorientiert.
+									",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+","
+","
+","
+","
+",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+											CA: All right. Well, thank you so much for your talk. Thank you. (Applause)
+									","
+											CA: Muy bien. Bueno, muchas gracias por tu charla. Gracias.
+									","
+											CA: Pekâlâ. Peki, teşekkürler konuşmanız için. Teşekkürler.
+									","
+											C. A. : Parfait. Hé bien, merci beaucoup pour votre exposé. Merci.
+									","
+											CA: Alles klar. Nun, vielen Dank für Ihre Rede. Danke.
+									",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"
+"
+","
+","
+","
+","
+",Toward a science of simplicity,George Whitesides,18:35,"chemistry,complexity,design,history,simplicity,technology"

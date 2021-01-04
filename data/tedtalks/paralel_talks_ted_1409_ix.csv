@@ -1,0 +1,2664 @@
+en,es,pt,tr,fr,title,speaker,duration,tags
+"
+","
+","
+","
+","
+",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+											Let me show you something.
+									","
+											Les mostraré algo.
+									","
+											Vou mostrar-vos uma coisa.
+									","
+											Müsadenizle size bazı şeyler göstermek
+istiyorum.
+									","
+											Je vais vous montrer quelque chose.
+									",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+","
+","
+","
+","
+",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+											(Video) Girl: Okay, that's a cat
+sitting in a bed.
+											The boy is petting the elephant.
+											Those are people
+that are going on an airplane.
+											That's a big airplane.
+									","
+											(Video) Niña: Eso es un gato 
+sentado en una cama.
+											El niño está acariciando al elefante.
+											Esas son personas que van en un avión.
+											Ese es un avión grande.
+									","
+											(Vídeo) Menina: Isto é um gato
+sentado numa cama.
+											O rapaz está a fazer festas ao elefante.
+											Isso são pessoas a ir para um avião.
+											É um grande avião.
+									","
+											(Video) Kız: Tamam, burada yatağın üzerinde
+oturan bir kedi var.
+											Çocuk fili okşuyor.
+											Buradaki insanlar uçağa gidiyorlar.
+											Bu büyük bir uçak.
+									","
+											(Enfant) C'est un chat assis sur un lit.
+											Le garçon caresse l'éléphant.
+											Des gens montent dans un avion.
+											C'est un gros avion.
+									",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+","
+","
+","
+","
+",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+											Fei-Fei Li: This is
+a three-year-old child
+											describing what she sees
+in a series of photos.
+											She might still have a lot
+to learn about this world,
+											but she's already an expert
+at one very important task:
+											to make sense of what she sees.
+											Our society is more
+technologically advanced than ever.
+											We send people to the moon,
+we make phones that talk to us
+											or customize radio stations
+that can play only music we like.
+											Yet, our most advanced
+machines and computers
+											still struggle at this task.
+											So I'm here today
+to give you a progress report
+											on the latest advances
+in our research in computer vision,
+											one of the most frontier
+and potentially revolutionary
+											technologies in computer science.
+									","
+											Fei-Fei Li: Así describe una niña
+											de 3 años lo que ve
+en una serie de fotos.
+											Tal vez le falta mucho 
+por aprender sobre este mundo,
+											pero ya es experta
+en algo importante:
+											entender lo que ve.
+											Tecnológicamente, nuestra sociedad
+está más avanzada que nunca.
+											Enviamos personas a la luna,
+nuestros teléfonos nos hablan
+											o personalizan radios para reproducir
+solo la música que nos gusta.
+											Sin embargo, nuestras máquinas
+y computadoras más avanzadas
+											aún tienen problemas en ese aspecto.
+											Hoy estoy aquí
+para darles un reporte
+											de nuestros últimos avances
+en visión artificial,
+											una de las tecnologías potencialmente
+más revolucionarias
+											en la ciencia de la computación.
+									","
+											Fei-Fei Li: Esta é uma criança de 3 anos
+											a descrever o que vê num 
+conjunto de fotografias.
+											Ela poderá ter ainda muito
+para aprender neste mundo,
+											mas já é especialista
+numa tarefa muito importante:
+											dar sentido ao que vê.
+											A nossa sociedade
+está mais avançada do que nunca.
+											Enviamos pessoas para a lua,
+fazemos telefones que falam connosco
+											ou personalizamos estações de rádio
+que apenas tocam música de que gostamos.
+											No entanto, as nossas máquinas
+e computadores mais avançados
+											ainda têm dificuldade
+em realizar esta tarefa.
+											Por isso estou aqui hoje,
+para vos dar um relato
+											sobre os últimos avanços do nosso trabalho
+em visão computacional,
+											uma das tecnologias mais inovadoras
+e potencialmente mais revolucionárias
+											da ciência informática.
+									","
+											Fei-Fei Li: Üç yaşında
+küçük bir kız çocuğu
+											fotoğraflarda ne gördüğünü
+anlatıyor.
+											Henüz, dünya hakkında öğrenmesi
+gereken çok şey var
+											fakat çok önemli bir alanda
+uzman olmuş bile:
+											gördüklerini anlamlandırma.
+											Toplumumuz teknolojik olarak her
+zamankinden daha fazla ilerlemiş durumda.
+											İnsanları aya gönderiyoruz, bizimle
+konuşabilen ya da radyo kanallarını
+											sadece sevdiğimiz müzikleri çalması
+için düzenleyebilen telefonlar yapıyoruz.
+											En gelişmiş makinelerimiz 
+ve bilgisayarlarımız
+											hâlâ bu özelliği elde etmeye çalışıyorlar.
+											Bugün, bilgisayar görme yetisi üzerine
+yapılan ileri düzeydeki
+											araştırmalarımızın işleyişi hakkında size
+bilgi vermek için buradayım.
+											Bilgisayar biliminde, en önde ve devrim niteliğinde
+											olan teknolojik gelişmelerden biri.
+									","
+											(Fei-Fei Li) C'est une enfant de 3 ans
+											qui décrit ce qu'elle voit sur des photos.
+											Elle a peut-être encore
+beaucoup à apprendre,
+											mais elle est déjà experte 
+dans un domaine très important :
+											comprendre ce qu'elle voit.
+											Notre société est technologiquement 
+plus avancée que jamais.
+											On envoie des gens sur la Lune, 
+on fait des téléphones qui nous parlent,
+											on a des stations de radio
+qui ne passent que ce qu'on aime.
+											Pourtant, les machines et les ordinateurs
+les plus avancés
+											ont toujours du mal à faire ça.
+											Alors aujourd'hui je vais vous expliquer 
+où nous en sommes,
+											nos dernières recherches
+sur la vision par ordinateur,
+											l'une des technologies les plus novatrices
+et potentiellement révolutionnaires
+											en informatique.
+									",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+","
+","
+","
+","
+",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+											Yes, we have prototyped cars
+that can drive by themselves,
+											but without smart vision,
+they cannot really tell the difference
+											between a crumpled paper bag
+on the road, which can be run over,
+											and a rock that size,
+which should be avoided.
+											We have made fabulous megapixel cameras,
+											but we have not delivered
+sight to the blind.
+											Drones can fly over massive land,
+											but don't have enough vision technology
+											to help us to track
+the changes of the rainforests.
+											Security cameras are everywhere,
+											but they do not alert us when a child
+is drowning in a swimming pool.
+											Photos and videos are becoming
+an integral part of global life.
+											They're being generated at a pace
+that's far beyond what any human,
+											or teams of humans, could hope to view,
+											and you and I are contributing
+to that at this TED.
+											Yet our most advanced software
+is still struggling at understanding
+											and managing this enormous content.
+											So in other words,
+collectively as a society,
+											we're very much blind,
+											because our smartest 
+machines are still blind.
+									","
+											Es cierto, hemos inventado autos
+que conducen solos,
+											pero sin una visión inteligente,
+realmente no pueden distinguir
+											entre una bolsa arrugada de papel
+en el camino, que puede uno pisar,
+											y una roca del mismo tamaño,
+que debemos evitar.
+											Hemos creado fabulosas cámaras
+de muchos megapíxeles,
+											pero aún no podemos devolverle
+la vista a un ciego.
+											Los drones pueden volar sobre 
+grandes superficies de tierra,
+											pero no tienen tecnología
+											de visión suficiente
+											para ayudarnos a monitorear los 
+cambios en los bosques tropicales.
+											Hay cámaras de seguridad en todas partes,
+											pero no nos alertan cuando un niño
+se está ahogando en una piscina.
+											Las fotos y los videos se están volviendo
+parte integral de la vida global.
+											Se generan a un ritmo mucho mayor
+de lo que cualquier humano,
+											o equipo de humanos, podría ver,
+											y Uds. y yo contribuimos 
+a eso en este TED.
+											Aun así, nuestro software más avanzado
+tiene problemas para entender
+											y gestionar este enorme contenido.
+											En otras palabras, colectivamente
+como una sociedad,
+											somos muy ciegos,
+											porque nuestras máquinas
+más inteligentes aún son ciegas.
+									","
+											É verdade que já temos protótipos
+de carros que conduzem sozinhos,
+											mas sem visão inteligente,
+eles não conseguem distinguir
+											entre um saco de papel amarrotado,
+que o carro pode atropelar,
+											e uma pedra do mesmo tamanho, 
+que deve ser evitada.
+											Criámos fabulosas câmaras de megapixéis,
+											mas não conseguimos devolver
+a visão a pessoas cegas.
+											Os drones conseguem voar 
+sobre uma área extensa de terra,
+											mas não têm a tecnologia
+de visualização
+											necessária para detetar
+alterações nas florestas tropicais
+											Temos câmaras de segurança
+por todo o lado,
+											mas elas não nos alertam quando uma
+criança se está a afogar numa piscina.
+											As fotografias e os vídeos
+estão a tornar-se
+											parte integrante da vida em todo o mundo.
+											São gerados a um ritmo muito mais rápido
+do que qualquer ser humano,
+											ou equipas de seres humanos
+poderiam esperar ver.
+											Nós estamos neste momento a contribuir
+para este fenómeno, com este evento TED.
+											No entanto, até o software mais avançado
+tem ainda dificuldades em compreender
+											e gerir uma quantidade
+de dados tão grande.
+											Por outras palavras, enquanto sociedade,
+											nós somos bastante cegos,
+
+											porque as nossas máquinas
+mais inteligentes ainda são cegas.
+									","
+											Evet, kendini sürebilen araçların
+prototiplerine sahibiz,
+											fakat akıllı görme yetisine sahip olmadan,
+üzerinden geçilebilecek buruşmuş bir
+											kağıt torba ile sakınılması gereken aynı
+boyuttaki bir kaya
+											arasındaki farkı söyleyebilmeleri
+mümkün değil.
+											Mükemmel çözünürlükte kameralar
+yapmamıza rağmen,
+											görebilmelerini sağlayamamıştık.
+											İnsansız hava araçları koca bir araziyi
+uçabilirler,
+											ama yağmur ormanlarındaki değişimleri
+izlememize yardımcı olabilecek
+											düzeyde yeterli bir görüş kabiliyetine 
+sahip değiller.
+											Güvenlik kameraları her yerde,
+											fakat bir çocuk havuzda boğuluyorken 
+bizi uyaramıyorlar.
+											Fotoğraf ve videolar gündelik hayatın
+bir parçası haline geliyorlar.
+											Herhangi bir insan veya bazı 
+grupların görme umuduyla
+											hızlı bir şekilde çoğalıyorlar,
+											buradaki TED konuşmaları ile
+sizler ve ben de buna katkı sağlıyoruz.
+											En iyi yazılımımız hala bu devasa içeriği
+											anlamaya ve yönetmeye çabalıyor.
+											Başka bir anlamda,
+toplumun tamamı olarak
+											büyük bir görme kaybına sahibiz
+											çünkü en iyi makinelerimiz hala
+göremiyorlar.
+									","
+											Oui, nous avons des prototypes de voitures
+qui conduisent toutes seules,
+											mais sans la vision intelligente, 
+elles ne font pas la différence
+											entre un sac de papier roulé en boule,
+que l'on peut écraser,
+											et une pierre qu'il faut éviter.
+											Nous fabriquons des appareils photo 
+à mégapixels incroyables,
+											mais nous n'avons pas donné
+la vue aux aveugles.
+											Les drones peuvent parcourir 
+de grandes distances
+											mais la technologie 
+n'est pas assez avancée
+											pour suivre l'évolution 
+des forêts tropicales.
+											Il y a des caméras de sécurité partout,
+											mais elles ne savent pas nous alerter
+quand un enfant se noie dans une piscine.
+											La photo et la vidéo 
+font partie de notre vie.
+											Elles sont générées tellement vite
+qu'aucun humain
+											ou groupe d'humains ne peut tout voir,
+											Vous et moi, nous y contribuons, 
+avec cette conférence TED.
+											Pourtant nos programmes les plus avancés
+ont du mal à comprendre
+											et à gérer cet énorme contenu.
+											En d'autres termes, nous, la société,
+											sommes vraiment aveugles,
+											parce que nos plus intelligentes 
+machines sont encore aveugles.
+									",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+","
+","
+","
+","
+",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+											""Why is this so hard?"" you may ask.
+											Cameras can take pictures like this one
+											by converting lights into
+a two-dimensional array of numbers
+											known as pixels,
+											but these are just lifeless numbers.
+											They do not carry meaning in themselves.
+											Just like to hear is not
+the same as to listen,
+											to take pictures is not
+the same as to see,
+											and by seeing,
+we really mean understanding.
+											In fact, it took Mother Nature
+540 million years of hard work
+											to do this task,
+											and much of that effort
+											went into developing the visual
+processing apparatus of our brains,
+											not the eyes themselves.
+											So vision begins with the eyes,
+											but it truly takes place in the brain.
+									","
+											Se preguntarán:
+""¿Por qué es tan difícil?""
+											Las cámaras pueden tomar fotos como esta
+											convirtiendo luz en matrices 
+numéricas bidimensionales
+											conocidas como pixeles,
+											pero estos son solo números vacíos.
+											En sí mismos no tienen significado.
+											Al igual que oír no es
+lo mismo que escuchar,
+											tomar fotografías 
+no es lo mismo que ver;
+											y solo viendo podemos realmente entender.
+											De hecho, le tomó a la Madre Naturaleza
+540 millones de años de arduo trabajo
+											lograr esta tarea,
+											y mucho de ese esfuerzo
+											consistió en desarrollar el sistema
+de procesamiento visual en el cerebro,
+											no los ojos en sí.
+											La visión empieza en los ojos,
+											pero, en realidad, 
+ocurre en nuestro cerebro.
+									","
+											""Porque é isto tão difícil?""
+poderão perguntar.
+											As câmaras fotográficas 
+tiram fotografias como esta,
+											convertendo luzes 
+numa tabela com números,
+											conhecidos como pixéis,
+											mas são apenas números sem vida.
+											Por si só não têm significado.
+											Pela mesma razão que ouvir
+não é o mesmo que escutar,
+											tirar fotografias
+não é o mesmo que ver,
+											e por ver entenda-se compreender.
+											Na verdade, a Mãe Natureza precisou
+de 540 milhões de anos de trabalho duro
+											para realizar esta tarefa.
+											Muito desse esforço
+											foi para o desenvolvimento do mecanismo
+de processamento visual do cérebro,
+											e não para os olhos.
+											Portanto, a visão começa nos olhos,
+											mas onde realmente acontece é no cérebro.
+									","
+											""Neden bu kadar zor ki bu?""
+diye soracaksınız.
+											Kameralar burada da olduğu gibi
+fotoğraf çekebilirler,
+											ışığın iki boyutlu sayı dizilerine
+çevrilmiş hali ile,
+											ki bunlara pikseller diyoruz.
+											Fakat burada sadece ölü sayılar
+bulunmakta.
+											Kendi içlerinde herhangi bir anlam
+taşımıyorlar.
+											Nasıl ki duymak ile dinlemek aynı 
+anlama gelmiyorsa
+											fotoğraf çekmek ile görmek de
+aynı şeyi ifade etmiyor.
+											Görmek derken ciddi manada ""anlamayı""
+kastediyoruz.
+											Aslında, bu yetiye sahip olabilmemiz
+											tabiat ananın 540 milyon yılını aldı.
+											Bu çabanın çoğu, beynin görsel
+											işleme bölümünün gelişimine gitti
+											sadece gözlerin kendisine değil.
+											Yani görmek gözlerde başlıyor,
+											ama asıl olarak beynin bir bölümünde
+anlam kazanıyor.
+									","
+											« Pourquoi est-ce si difficile ? »,
+pourriez-vous demander.
+											Un appareil peut prendre une photo 
+comme celle-ci,
+											il convertit la lumière 
+en tableaux bidimensionnels
+											que l'on nomme pixels,
+											mais ce ne sont que des nombres sans vie.
+											Par eux-mêmes, ils ne signifient rien.
+											Tout comme entendre 
+n'est pas la même chose qu'écouter,
+											prendre une photo,
+ce n'est pas comme voir,
+											et par « voir », entendez « comprendre ».
+											En fait, Mère Nature a travaillé dur
+540 millions d'années
+											pour accomplir cette tâche,
+											et le plus gros de cet effort a été
+											le développement de l'appareil 
+qui produit la vision dans notre cerveau,
+											pas les yeux.
+											La vision commence avec les yeux,
+											mais tout se passe en fait dans le cerveau.
+									",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+","
+","
+","
+","
+",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+											So for 15 years now, starting
+from my Ph.D. at Caltech
+											and then leading Stanford's Vision Lab,
+											I've been working with my mentors,
+collaborators and students
+											to teach computers to see.
+											Our research field is called
+computer vision and machine learning.
+											It's part of the general field
+of artificial intelligence.
+											So ultimately, we want to teach
+the machines to see just like we do:
+											naming objects, identifying people,
+inferring 3D geometry of things,
+											understanding relations, emotions,
+actions and intentions.
+											You and I weave together entire stories
+of people, places and things
+											the moment we lay our gaze on them.
+									","
+											Durante 15 años, empezando
+desde mi doctorado en Caltech
+											y luego al frente del laboratorio
+Stanford Vision Lab,
+											he trabajado con mis mentores,
+colaboradores y estudiantes
+											para enseñar a las computadoras a ver.
+											Nuestro campo de investigación se llama
+											""visión artificial 
+y aprendizaje automático"".
+											Es parte del campo de 
+la inteligencia artificial.
+											Queremos enseñar a las máquinas
+a ver tal como nosotros lo hacemos:
+											nombrar objetos, identificar personas,
+inferir la geometría 3D de las cosas,
+											entender relaciones, emociones,
+acciones e intenciones.
+											Nosotros tejemos historias completas
+de la gente, los lugares y las cosas
+											simplemente con mirarlas.
+									","
+											Há já 15 anos, desde
+o meu doutoramento em Caltech,
+											e depois como diretora
+do laboratório Stanford's Vision,
+											tenho trabalhado com os meus mentores,
+colaboradores e estudantes
+											para ensinar os computadores a ver.
+											A nossa área de investigação chama-se
+											visão computacional
+e aprendizagem automática.
+											Faz parte do campo mais geral
+da inteligência artificial.
+											Em ultima análise, queremos ensinar
+as máquinas a ver, tal como nós vemos:
+											nomear objetos, identificar pessoas,
+inferir a geometria 3D das coisas,
+											entender relações, emoções,
+ações e intenções.
+											Todos imaginamos e criamos histórias
+sobre pessoas, lugares e objetos
+											mal lhes deitamos a vista em cima.
+									","
+											15 sene önce, Caltech'deki doktorama
+başladığımda
+											ve sonra Stanford Görsel Laboratuvarını
+yönlendirdiğimde
+											mentorlerim, iş ortaklarım ve
+öğrencilerimle birlikte
+											bilgisayarlara görmeyi öğretmek için
+çalışıyorduk.
+											Araştırma alanımız bilgisayar görme yetisi
+ve makine öğrenimi olarak anılıyordu.
+											Yapay zeka bölümünün genel bir dalı
+olarak geçiyordu.
+											Nihayetinde, makinelere tıpkı bizim gibi
+görebilmelerini öğretmek istedik,
+											nesnelerin isimlendirilmesi, insanların
+tanımlanması, 3B geometrileri tahmin
+											ilişkileri anlama, duygular, olaylar
+ve şiddet.
+											Şu anda insanların, yerlerin ve
+eşyaların bütün hikayesini
+											gözler önüne serip beraber dokuyalım.
+									","
+											Depuis maintenant 15 ans, d'abord en thèse à Caltech
+											puis à la tête du Vision Lab à Stanford,
+											je travaille avec mes mentors, 
+collaborateurs et étudiants
+											pour apprendre la vision aux ordinateurs.
+											Il s'agit de vision par ordinateur et
+d'apprentissage machine.
+											C'est un pan de la recherche sur 
+l'intelligence artificielle.
+											Le but est d'enseigner aux machines
+à voir comme nous :
+											nommer des objets, identifier des gens,
+déduire des formes géométriques 3D,
+											comprendre les relations, les émotions,
+les actions et les intentions.
+											Nous tissons constamment des histoires
+de gens, d'endroits, de choses
+											dès que nous posons les yeux dessus.
+									",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+","
+","
+","
+","
+",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+											The first step towards this goal
+is to teach a computer to see objects,
+											the building block of the visual world.
+											In its simplest terms,
+imagine this teaching process
+											as showing the computers
+some training images
+											of a particular object, let's say cats,
+											and designing a model that learns
+from these training images.
+											How hard can this be?
+											After all, a cat is just
+a collection of shapes and colors,
+											and this is what we did
+in the early days of object modeling.
+											We'd tell the computer algorithm
+in a mathematical language
+											that a cat has a round face,
+a chubby body,
+											two pointy ears, and a long tail,
+											and that looked all fine.
+											But what about this cat?
+											(Laughter)
+											It's all curled up.
+											Now you have to add another shape
+and viewpoint to the object model.
+											But what if cats are hidden?
+											What about these silly cats?
+											Now you get my point.
+											Even something as simple
+as a household pet
+											can present an infinite number
+of variations to the object model,
+											and that's just one object.
+									","
+											El primer paso hacia esta meta es
+enseñar a una computadora a ver objetos,
+											la unidad básica del mundo visual.
+											En términos más simples,
+imaginen este proceso
+											mostrando a las computadoras
+algunas imágenes de entrenamiento
+											de un objeto en particular,
+digamos gatos,
+											y diseñar un modelo que 
+aprenda de estas imágenes.
+											¿Qué tan difícil puede ser esto?
+											A fin de cuentas, un gato es solo 
+un conjunto de formas y colores,
+											y eso fue lo que hacíamos en los inicios
+de la modelización de objetos.
+											Decíamos al algoritmo
+de la computadora
+											en un lenguaje matemático
+											que un gato tiene cara redonda,
+cuerpo regordete,
+											dos orejas puntiagudas
+y cola larga,
+											y así quedaba bien.
+											Pero ¿qué me dicen de este gato?
+											(Risas)
+											Está todo retorcido.
+											Se debe agregar otra figura y otra 
+perspectiva al modelo del objeto.
+											¿Y si los gatos están escondidos?
+											¿Qué tal estos gatos tontos?
+											Ahora entienden mi idea.
+											Incluso algo tan simple
+como una mascota
+											puede tener un número infinito de 
+variaciones en el modelo del objeto,
+											y eso es solo un objeto.
+									","
+											O primeiro passo para este objetivo
+é ensinar um computador a ver objetos,
+											os blocos de construção do mundo visual.
+											Na sua forma mais simples, imaginem
+este processo de ensinar os computadores
+											como o ato de lhes mostrar 
+imagens de um dado objeto
+											para treino, por exemplo gatos,
+											e conceber um modelo que aprende
+a partir dessas imagens para treino.
+											Quão difícil será fazer isto?
+											Afinal de contas, um gato não é mais
+que um conjunto de formas e cores,
+											e foi o que fizemos nos primeiros
+tempos da modelação de objetos.
+											Dizíamos ao algoritmo do computador,
+em linguagem matemática,
+											que um gato tem uma face redonda,
+um corpo volumoso,
+											duas orelhas pontiagudas,
+uma cauda comprida,
+											e esse modelo parecia bem assim.
+											Mas o que acontece com este gato?
+											(Risos)
+											Está todo enrolado.
+											Agora vamos ter de adicionar
+outra forma e perspetiva ao modelo.
+											E se os gatos estiverem escondidos?
+											E quanto a estes gatos patetas?
+											Agora compreendem o meu problema.
+											Até mesmo algo tão simples
+quanto um animal doméstico
+											pode ter um número infinito
+de variações relativamente ao modelo
+											e estamos a falar de um único objeto.
+									","
+											Bu amaca doğru atılacak ilk adım
+bilgisayara gördüğü şeyleri öğretmek,
+											sanal dünyanın yapı taşı bu.
+											Basit anlamda bu öğretme
+sürecini bi hayal edin,
+											bilgisayara belirli bir nesnenin
+ya da bir kedinin diyelim
+											deneme amaçlı resimlerini göstermek
+gibi
+											ve bu resimlerden öğrenilmiş bir model
+tasarlamayı.
+											Bu ne kadar zor olabilir ki?
+											Sonuç olarak, bir kedi sadece
+şekillerin ve renklerin bir derlemesi
+											ve bu ilk zamanlarda yaptığımız
+nesne modellemesi.
+											Algoritmasını sayısal bir dille
+bilgisayara öğretmemiz gerekiyordu
+											bu kedi yuvarak bir yüze, 
+dolgun bir vücuda
+											iki noktada kulaklara ve uzun bir kuyruğa
+sahip
+											her şey yolunda gibi.
+											Peki, ya bu kedi?
+											(Gülüşmeler)
+											Hepsi iç içe.
+											Bu nesne için için farklı bir şekil
+ve farklı bir bakış açısı eklemeniz gerek.
+											Peki ya kediler gizlenirse?
+											Bu absürd kedilere ne demeli?
+											Şimdi ne demek istediğimi anladınız.
+											Evdeki kedi gibi basit bir şey için bile
+											sonsuz çeşitlilikte nesne modellemesi
+yapmak mümkün
+											ve bu sadece bir nesne.
+									","
+											Le premier pas est d'apprendre
+à l'ordinateur à voir des objets,
+											c'est l'élément de base du monde visuel.
+											Pour parler simplement, imaginez
+que ce processus d'apprentissage
+											consiste à montrer à l'ordinateur
+											des images d'un certain objet,
+par exemple des chats,
+											puis concevoir un modèle 
+qui puisse apprendre avec ces images.
+											Ça ne doit pas être bien difficile !
+											Après tout, un chat est un ensemble
+de formes et de couleurs.
+											Au début de la modélisation objet,
+c'est ce que nous avons fait.
+											On rentrait un algorithme 
+en langage mathématique
+											pour dire que le chat a un visage rond,
+un corps un peu dodu,
+											deux oreilles pointues et une longue queue
+											et tout allait bien.
+											Mais que fait-on pour celui-ci ?
+											(Rires)
+											Il est tout retourné.
+											Alors il faut ajouter d'autres formes
+et points de vue au modèle objet.
+											Et si le chat est caché ?
+											Et ces drôles de chats-là ?
+											Vous voyez ce que je veux dire.
+											Quelque chose d'aussi simple
+qu'un animal domestique
+											présente une infinité de variations
+du modèle objet.
+											Et ça n'est qu'un seul objet.
+									",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+","
+","
+","
+","
+",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+											So about eight years ago,
+											a very simple and profound observation
+changed my thinking.
+											No one tells a child how to see,
+											especially in the early years.
+											They learn this through
+real-world experiences and examples.
+											If you consider a child's eyes
+											as a pair of biological cameras,
+											they take one picture
+about every 200 milliseconds,
+											the average time an eye movement is made.
+											So by age three, a child would have seen
+hundreds of millions of pictures
+											of the real world.
+											That's a lot of training examples.
+											So instead of focusing solely
+on better and better algorithms,
+											my insight was to give the algorithms
+the kind of training data
+											that a child was given through experiences
+											in both quantity and quality.
+									","
+											Así que hace unos 8 años,
+											una observación simple y profunda
+cambió mi perspectiva.
+											Nadie le dice al niño cómo ver,
+											menos aún en los primeros años.
+											Ellos aprenden a través de ejemplos
+y experiencias del mundo real.
+											Si consideramos los ojos de un niño
+											como un par de cámaras biológicas,
+											toman una foto cada 200 milisegundos,
+											el tiempo promedio en que el ojo
+hace un movimiento.
+											Entonces, a los 3 años un niño ha visto
+cientos de millones de fotografías
+											del mundo real.
+											Esos son muchos ejemplares
+de entrenamiento.
+											Así que en lugar de enfocarnos
+solo en mejorar los algoritmos,
+											mi intención fue dotar a los algoritmos
+con los datos de entrenamiento
+											que un niño adquiere con la experiencia
+											tanto en cantidad como en calidad.
+									","
+											Então, há cerca de oito anos,
+											uma observação muito simples e profunda
+mudou a minha forma de pensar.
+											Ninguém diz a uma criança como se vê,
+											especialmente nos primeiros anos de vida.
+											As crianças aprendem isso através
+de experiências e exemplos da vida real.
+											Se considerarmos os olhos de uma criança
+											como duas máquinas fotográficas biológicas,
+											elas tiram uma fotografia a cada
+200 millisegundos aproximadamente,
+											o tempo médio que demora
+um movimento ocular.
+											Assim, aos três anos, uma criança
+terá visto centenas de milhões de imagens
+											do mundo real.
+											São imensos exemplos para treino.
+											Deste modo, em vez de me focar apenas
+em algoritmos cada vez melhores,
+											a minha ideia foi treinar os algoritmos
+com o mesmo tipo de dados
+											que uma criança recebe
+através das suas experiências,
+											tanto em quantidade como qualidade.
+									","
+											Yaklaşık sekiz yıl önce,
+											oldukça basit ama yoğun bir gözlem
+fikrimi değiştirdi.
+											Hiç kimse bir çocuğa nasıl görebileceğini
+öğretmez,
+											özellikle de erken yaşlarda.
+											Gerçek dünya tecrübeleri ve örnekleriyle
+öğrenirler bunu.
+											Bir çocuğun gözlerini düşünecek olursanız
+											sanki bir çift biyolojik kameraymış gibi,
+											yaklaşık her 200 milisaniyede
+bir fotoğraf çekerler,
+											göz hareketinden oluşmuş ortalama
+bir zaman dilimi.
+											Yani üç yaşında bir çocuk, gerçek hayatta
+yüz milyonlarca
+											fotoğraf görmüş olacak.
+											Bu oldukça fazla deneme örneği.
+											Sadece daha iyi algoritmalara
+odaklanmak yerine,
+											sezilerim algoritmalara bir tür
+eğitici veri vermek üzerineydi,
+											tıpkı bir çocuğa sayıca ve kalitece
+											deneyimleri yoluyla verilmiş gibi.
+									","
+											Il y a environ 8 ans,
+											une réflexion toute simple mais profonde
+a changé ma manière de penser.
+											Personne ne dit à un enfant comment voir,
+											surtout dans les premières années.
+											Il apprend par l'expérience,
+par des exemples quotidiens.
+											Pensez aux yeux d'un enfant
+											comme à deux appareils photo biologiques
+											qui prennent une photo 
+chaque 200 millisecondes,
+											la durée moyenne du mouvement de l’œil.
+											A 3 ans, un enfant a vu 
+des centaines de millions de photos
+											du monde réel.
+											Ça nous fait beaucoup d'exemples.
+											Alors plutôt que se concentrer
+sur l'amélioration des algorithmes,
+											mon idée a été de former les algorithmes
+avec le genre de données
+											qu'un enfant reçoit par l'expérience
+											tant en quantité qu'en qualité
+									",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+","
+","
+","
+","
+",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+											Once we know this,
+											we knew we needed to collect a data set
+											that has far more images
+than we have ever had before,
+											perhaps thousands of times more,
+											and together with Professor
+Kai Li at Princeton University,
+											we launched the ImageNet project in 2007.
+											Luckily, we didn't have to mount
+a camera on our head
+											and wait for many years.
+											We went to the Internet,
+											the biggest treasure trove of pictures
+that humans have ever created.
+											We downloaded nearly a billion images
+											and used crowdsourcing technology
+like the Amazon Mechanical Turk platform
+											to help us to label these images.
+											At its peak, ImageNet was one of
+the biggest employers
+											of the Amazon Mechanical Turk workers:
+											together, almost 50,000 workers
+											from 167 countries around the world
+											helped us to clean, sort and label
+											nearly a billion candidate images.
+											That was how much effort it took
+											to capture even a fraction
+of the imagery
+											a child's mind takes in
+in the early developmental years.
+									","
+											Al conocer esto
+											supimos que necesitábamos recolectar
+											muchas más imágenes que nunca,
+											tal vez miles de veces más;
+											y junto con el profesor Kai Li
+en la Universidad de Princeton,
+											lanzamos el proyecto ImageNet en 2007.
+											Por suerte, no tuvimos que ponernos
+una cámara en la cabeza
+											y esperar muchos años.
+											Entramos a Internet,
+											el banco de imágenes más grande
+creado por la humanidad.
+											Descargamos casi 
+1000 millones de imágenes
+											y usamos tecnología de crowdsourcing
+como la plataforma Amazon Mechanical Turk
+											para etiquetar estas imágenes.
+											En su mejor momento, ImageNet fue
+uno de los empleadores más importantes
+											de trabajadores en 
+Amazon Mechanical Turk:
+											Casi 50 000 trabajadores
+											de 167 países del mundo
+											nos ayudaron a limpiar,
+separar y etiquetar
+											casi 1000 millones 
+de imágenes candidatas.
+											Se necesitó todo ese esfuerzo
+											para capturar apenas una fracción
+de todas las imágenes
+											que un niño asimila en sus 
+primeros años de desarrollo.
+									","
+											Depois de percebermos isto,
+											sabíamos que teríamos de reunir
+um conjunto de dados
+											com muito mais imagens
+do que alguma vez tínhamos tido,
+											talvez mesmo milhares de vezes mais.
+											Juntamente com o Professor Kai Li
+na Universidade de Princeton,
+											iniciámos o projeto ImageNet, em 2007.
+											Felizmente, não precisámos de montar
+uma câmara na cabeça
+											e esperar vários anos.
+											Recorremos à Internet,
+											o maior tesouro de imagens 
+que o Homem alguma vez criou.
+											Descarregámos cerca 
+de mil milhões de imagens
+											e utilizámos tecnologias
+de contribuição voluntária,
+											como a plataforma Amazon Mechanical Turk,
+											para nos ajudar a rotular essas imagens.
+											No seu auge, o ImageNet
+era um dos maiores empregadores
+											da Amazon Mechanical Turk.
+											No total, quase 50 mil trabalhadores
+											de 167 países de todo o mundo
+											ajudaram-nos a limpar, ordenar e rotular
+											cerca de mil milhões
+de imagens candidatas.
+											Foi quanto custou captar
+											uma fração de todas as imagens
+											que uma criança vê nos seus
+primeiros anos de desenvolvimento.
+									","
+											Bunu anlayınca,
+											bir tür veri havuzuna
+											sahip olduğumuz resimlerden daha
+fazla, hatta binlerce kat daha fazla
+											ihtiyacımız olduğunu biliyorduk.
+											Princeton Üniversitesinden Prof. Kai Li
+ile birlikte
+											2007 senesinde ImageNet projesini
+başlattık.
+											Şanslıyız ki başımızın üzerine bir
+kamera alıp
+											yıllarca beklememize gerek kalmadı.
+											İnternete başvurduk.
+											İnsanların oluşturduğu en büyük
+resim definesi.
+											Yaklaşık bir milyar resim indirdik
+											ve crowdsourcing teknolojisini kullandık.
+Resimleri tanımlamada bize yardımcı olmada
+											Amazon Mechanical Turk platformu gibi.
+											ImageNet, Amazon Mechanical Turk
+çalışanlarına işveren en büyük
+											kurumlardan biri oldu.
+											Dünya genelinde 167 ülkeden
+											neredeyse 50,000 çalışan
+											yaklaşık bir milyar resmi
+											eleyip, sınıflandırma ve tanımlamada bize
+yardımcı oldu.
+											Bu çaba, erken gelişim dönemindeki
+											bir çocuğun algıladığı görüntülerin
+sadece belli bir bölümünü
+											elde edebilmemiz içindi.
+									","
+											Une fois que nous avons compris ça,
+											nous savions qu'il fallait collecter
+un ensemble de données
+											qui contienne bien plus d'images
+que jamais auparavant,
+											peut-être des milliers de fois plus.
+											Avec le professeur Kai Li
+de l'Université de Princeton,
+											nous avons donc lancé
+le projet ImageNet en 2007.
+											Heureusement, ce n'était pas la peine
+de se mettre une caméra sur la tête
+											et d'attendre plusieurs années.
+											Nous sommes allés sur Internet,
+											la plus grande mine de photos 
+que l'humain ait jamais créée.
+											Nous avons téléchargé 
+près d'un milliard d'images.
+											Des technologies de crowdsourcing
+comme le Turc Mécanique d'Amazon
+											nous ont aidés à cataloguer les images.
+											A son plus haut, ImageNet a été 
+l'un des plus gros employeurs
+											du Turc Mécanique d'Amazon :
+											près de 50 000 employés
+											dans 167 pays
+											nous ont aidés
+à nettoyer, trier, étiqueter
+											presque un milliard d'images.
+											C'est vous dire l'effort entrepris
+											pour capturer une fraction des images
+											qu'un enfant stocke 
+pendant ses premières années.
+									",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+","
+","
+","
+","
+",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+											In hindsight, this idea of using big data
+											to train computer algorithms
+may seem obvious now,
+											but back in 2007, it was not so obvious.
+											We were fairly alone on this journey
+for quite a while.
+											Some very friendly colleagues advised me
+to do something more useful for my tenure,
+											and we were constantly struggling
+for research funding.
+											Once, I even joked to my graduate students
+											that I would just reopen
+my dry cleaner's shop to fund ImageNet.
+											After all, that's how I funded
+my college years.
+									","
+											Viendo en retrospectiva, 
+esta idea de usar muchos datos
+											para entrenar algoritmos
+puede parecer obvia ahora.
+											Sin embargo, en 2007
+no era tan evidente.
+											Estuvimos solos en este viaje
+por un buen rato.
+											Algunos colegas me sugerían
+hacer algo más útil para mi cátedra,
+											y con frecuencia teníamos problemas
+para conseguir financiamiento.
+											Incluso llegué a decir
+a mis alumnos, como broma,
+											que tendría que reabrir mi tintorería 
+para financiar ImageNet.
+											Después de todo, así fue como
+financié mis años de universidad.
+									","
+											Em retrospetiva, esta ideia
+de usar grandes volumes de dados
+											para treinar algoritmos em computadores
+pode hoje parecer óbvia,
+											mas em 2007 não era assim tão óbvia.
+											Estivemos sozinhos neste percurso
+durante algum tempo.
+											Alguns colegas amáveis aconselharam-me
+a fazer algo mais útil no meu mandato,
+											e estávamos constantemente a lutar
+por financiamento para a investigação.
+											Uma vez até disse, a brincar,
+aos meus alunos
+											que ia reabrir a minha loja
+de limpeza a seco,
+											para financiar o ImageNet.
+											Afinal de contas,
+foi assim que eu financiei
+											os meus estudos na universidade.
+									","
+											Nihayet, bilgisayar algoritmalarını
+eğitmek için
+											big datanın kullanılması fikri
+şu anda mümkün hale geldi,
+											fakat 2007 senesine dönersek,
+bu mümkün değildi.
+											Bu yolculukta uzun bir süre tam
+anlamıyla kendi başımızaydık.
+											Samimi bazı arkadaşlarım kadrom için daha
+kullanışlı şeyler yapmamı tavsiye ettiler,
+											ve aynı zamanda araştırma fonu oluşturmak
+için durmaksızın çabalıyorduk.
+											Hatta, master öğrencilerime ImageNet fonu
+											için kuru temizleme mağazamı tekrar açma
+konusunda şaka yapıyordum.
+											Üniversite yıllarımda bu şekilde
+geçiniyordum.
+									","
+											Aujourd'hui, cette idée 
+d'utiliser ces masses de données
+											pour construire des algorithmes
+peut paraître évidente,
+											mais pas en 2007.
+											Pendant longtemps, nous étions bien seuls.
+											Des collègues me conseillaient de trouver 
+autre chose pour devenir titulaire,
+											et c'était une bataille constante
+pour trouver des crédits de recherche.
+											Je disais en plaisantant à mes étudiants
+											que je pourrais reprendre ma laverie
+pour financer ImageNet.
+											Après tout, j'avais financé mes études
+grâce à elle.
+									",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+","
+","
+","
+","
+",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+											So we carried on.
+											In 2009, the ImageNet project delivered
+											a database of 15 million images
+											across 22,000 classes
+of objects and things
+											organized by everyday English words.
+											In both quantity and quality,
+											this was an unprecedented scale.
+											As an example, in the case of cats,
+											we have more than 62,000 cats
+											of all kinds of looks and poses
+											and across all species
+of domestic and wild cats.
+											We were thrilled
+to have put together ImageNet,
+											and we wanted the whole research world
+to benefit from it,
+											so in the TED fashion,
+we opened up the entire data set
+											to the worldwide
+research community for free.
+											(Applause)
+									","
+											Seguimos adelante.
+											En 2009, el proyecto ImageNet juntó
+											una base de datos con 
+15 millones de imágenes
+											de 22 000 tipos de objetos
+											organizados por palabra
+en inglés de uso cotidiano.
+											En cantidad y calidad,
+											tuvieron una escala sin precedentes.
+											Por ejemplo, en el caso de los gatos,
+											tenemos más de 62 000 gatos
+											con todo tipo de apariencias y poses
+											y todo tipo de gatos
+domésticos y salvajes.
+											Estábamos entusiasmados
+por haber creado ImageNet
+											y queríamos que todo el mundo de 
+la investigación se beneficiara,
+											así que, al estilo TED,
+abrimos toda la base de datos
+											a la comunidad mundial de 
+investigadores de forma gratuita.
+											(Aplausos)
+									","
+											E assim continuámos o trabalho.
+											Em 2009, o ImageNet disponibilizou
+											uma base de dado
+com 15 milhões de imagens
+											ao longo de 22 mil classes
+de objetos e coisas,
+											organizados por palavras
+inglesas de uso comum.
+											Tanto em quantidade como em qualidade,
+											tratou-se de uma escala sem precedentes.
+											Como exemplo disto temos,
+no caso dos gatos,
+											mais de 62 mil gatos
+											de todos os tipos e em variadas poses,
+											assim como todas as espécies
+de gatos domésticos e selvagens.
+											Estávamos muito entusiasmados
+por termos construído o ImageNet
+											e queríamos que toda a pesquisa mundial
+pudesse beneficiar dele,
+											por isso, à boa maneira do TED,
+disponibilizámos toda a base de dados
+											para a comunidade de pesquisa
+mundial, gratuitamente.
+											(Aplausos)
+									","
+											Sonra devam ettik.
+											2009 senesinde, ImageNet projesi
+											her gün ingilizce kelimelerle 22,000
+											nesne ve eşya sınıfı ile
+											15 milyonluk bir resim veritabanına
+ulaştı.
+											Sayı ve kalite olarak,
+											emsalsiz bir ölçekti bu.
+											Örneğin, kedi kategorisinde,
+											görünüş ve poz
+											ile evcil ve yaban türlerinin tümüyle
+											62 binden fazla kedi bulunmakta.
+											Bunları ImageNet olarak toparladığımızdan
+heyecanlıydık
+											ve sonra bütün dünya araştırmalarında
+bunlardan faydalanılsın istedik,
+											bu yüzden TED fashion'da bütün veri
+havuzumuzu
+											global araştırma topluluklarına ücretsiz
+bir şekilde açtık.
+											(Alkış)
+									","
+											Mais nous avons continué.
+											En 2009, le projet ImageNet avait
+											une base de données 
+de 15 millions d'images,
+											22 000 classes d'objets et de choses
+											organisées avec des mots d'anglais 
+du quotidien.
+											Tant en quantité qu'en qualité,
+											une telle échelle de grandeur 
+était une première.
+											Par exemple, les chats,
+											nous avons plus de 62 000 chats,
+											toutes sortes d'apparences et de poses,
+											toutes les espèces,
+domestiques et sauvages.
+											C'était formidable d'avoir bâti ImageNet,
+											et nous voulions en faire profiter 
+le monde de la recherche.
+											Alors, à la manière de TED,
+nous avons donné l'accès aux données
+											à la recherche, gratuitement 
+et dans le monde entier.
+											(Applaudissements)
+									",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+","
+","
+","
+","
+",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+											Now that we have the data
+to nourish our computer brain,
+											we're ready to come back
+to the algorithms themselves.
+											As it turned out, the wealth
+of information provided by ImageNet
+											was a perfect match to a particular class
+of machine learning algorithms
+											called convolutional neural network,
+											pioneered by Kunihiko Fukushima,
+Geoff Hinton, and Yann LeCun
+											back in the 1970s and '80s.
+											Just like the brain consists
+of billions of highly connected neurons,
+											a basic operating unit in a neural network
+											is a neuron-like node.
+											It takes input from other nodes
+											and sends output to others.
+											Moreover, these hundreds of thousands
+or even millions of nodes
+											are organized in hierarchical layers,
+											also similar to the brain.
+											In a typical neural network we use
+to train our object recognition model,
+											it has 24 million nodes,
+											140 million parameters,
+											and 15 billion connections.
+											That's an enormous model.
+											Powered by the massive data from ImageNet
+											and the modern CPUs and GPUs
+to train such a humongous model,
+											the convolutional neural network
+											blossomed in a way that no one expected.
+											It became the winning architecture
+											to generate exciting new results
+in object recognition.
+											This is a computer telling us
+											this picture contains a cat
+											and where the cat is.
+											Of course there are more things than cats,
+											so here's a computer algorithm telling us
+											the picture contains
+a boy and a teddy bear;
+											a dog, a person, and a small kite
+in the background;
+											or a picture of very busy things
+											like a man, a skateboard,
+railings, a lampost, and so on.
+											Sometimes, when the computer
+is not so confident about what it sees,
+											we have taught it to be smart enough
+											to give us a safe answer
+instead of committing too much,
+											just like we would do,
+											but other times our computer algorithm
+is remarkable at telling us
+											what exactly the objects are,
+											like the make, model, year of the cars.
+									","
+											Ahora que tenemos los datos para nutrir
+el cerebro de nuestra computadora,
+											estamos listos para volver
+a los algoritmos.
+											La abundancia de información
+aportada por ImageNet
+											fue el complemento perfecto para 
+un tipo particular de algoritmos
+											de aprendizaje automático llamado 
+red neuronal convolucional,
+											ideado por Kunihiko Fukushima,
+Geoff Hinton y Yann LeCun
+											en los años 70 y 80.
+											Como el cerebro que tiene miles de 
+millones de neuronas muy bien conectadas,
+											la unidad operativa fundamental
+en una red neuronal
+											es un nodo con forma de neurona.
+											Toma datos de otros nodos
+											los procesa y los manda
+a otros nodos.
+											Además, estos cientos de miles
+o incluso millones de nodos
+											se organizan en capas jerárquicas,
+											algo parecido al cerebro.
+											En una red neuronal típica 
+que usamos para entrenar
+											nuestro modelo de 
+reconocimiento de objetos
+											hay 24 millones de nodos,
+											140 millones de parámetros
+											y 15 000 millones de conexiones.
+											Es un modelo enorme.
+											Alimentado por la información 
+masiva de ImageNet
+											y las CPUs y GPUs modernas que 
+entrenan este inmenso modelo,
+											la red neuronal convolucional
+											tuvo un éxito inesperado.
+											Se volvió la ingeniería ganadora
+											para generar nuevos y emocionantes
+resultados en reconocimiento de objetos.
+											Esta es una computadora que nos dice
+											que la foto tiene un gato
+											y dónde está el gato.
+											Desde luego hay más cosas
+aparte de los gatos
+											así que hay un algoritmo
+informático que nos dice
+											que hay un niño y un oso
+de peluche en la foto;
+											un perro, una persona
+y un papalote al fondo;
+											o una foto de cosas muy ocupadas
+											como un hombre, una patineta,
+un barandal, una lámpara etc.
+											A veces, cuando la computadora
+no está segura de lo que ve,
+											le hemos enseñado
+											a darnos una respuesta segura
+en lugar de comprometer su respuesta,
+											tal como lo haríamos nosotros.
+											Pero otras veces nuestro algoritmo 
+informático es muy acertado al decirnos
+											qué son los objetos exactamente,
+											como la marca, modelo 
+y año de los coches.
+									","
+											Agora que já temos os dados para alimentar
+o cérebro do nosso computador,
+											estamos prontos para voltar
+a trabalhar nos algoritmos.
+											Como se veio a perceber, a riqueza
+de informações fornecidas pelo ImageNet
+											era perfeita para uma classe particular
+de algoritmos de aprendizagem automática
+											designada por ""rede neural convoluta"",
+											lançada por Kunihiko Fukushima,
+Geoff Hinton e Yann LeCun,
+											nos anos 70 e 80.
+											À semelhança do cérebro,
+											formado por milhares de milhões
+de neurónios altamente ligados,
+											uma operação unitária básica
+numa rede neural
+											é idêntica a um nodo de neurónios.
+											Esse nodo recebe e envia informações
+											de outros nodos e para outros nodos.
+											Além disso, essas centenas de milhares
+ou mesmo milhões de nodos
+											estão organizados em camadas hierárquicas,
+											à semelhança do que se passa no cérebro.
+											Numa rede neural típica que usamos,
+											para treinar o modelo
+de reconhecimento de objetos
+											existem 24 milhões de nodos,
+											140 milhões de parâmetros
+											e 15 mil milhões de ligações.
+											É um modelo enorme.
+											Abastecido pelos imensos dados do ImageNet
+											dos CPUs e GPUs modernos para treinar
+um modelo tão pesado quanto este,
+											a rede neural convoluta
+											floresceu de um modo que ninguém esperava.
+											Tornou-se na arquitetura vencedora
+											para a geração de resultados
+sensacionais no reconhecimento de objetos.
+											Aqui temos um computador a dizer-nos
+											que esta imagem tem um gato
+											e a localização do gato na imagem.
+											É claro que há mais coisas além de gatos,
+											e assim temos aqui um algoritmo
+de computador a dizer-nos
+											que a imagem contém um rapaz
+e um ursinho de peluche,
+											um cão, uma pessoa
+e um pequeno papagaio ao fundo,
+											ou uma imagem com muitos elementos,
+											tais como um homem, um ""skate"",
+grades, um poste de iluminação, etc.
+											Por vezes, quando o computador 
+não está seguro do que vê,
+											ensinámo-lo a ser
+suficientemente inteligente
+											para nos dar uma resposta segura
+em vez de se comprometer demasiado,
+											tal como nós faríamos.
+											Mas outras vezes o nosso algoritmo
+é brilhante a dizer exatamente
+											quais são os objetos na imagem,
+											como a marca, o modelo
+e o ano de fabrico dos carros.
+									","
+											Artık, bilgisayarımızın beynini besleyecek
+veriye sahibiz,
+											algoritmaların kendilerine
+dönecek kadar da hazırız.
+											ImageNet projesinin sağladığı
+bilgi zenginliği, sonunda
+											""evrişimli sinirsel ağ"" olarak ifade
+edilen makine öğrenme algoritmalarının
+											özel bir sınıfıyla mükemmel bir şekilde
+eşleşmişti,
+											öncülüğünü Kunihiko Fukushima,
+Geoff Hinton ve Yann LeCun'un yaptığı
+											1970 ve 80'lerin öncesindeki bir alan.
+											Beyinde meydana gelen milyarlarca
+yüksek bağlantılı sinirler gibi,
+											sinir ağının basit bir çalışma birimine
+											""nöron benzeri"" düğümü deniyor.
+											Başka düğümlerden girdi alıyorlar
+											ve diğer düğümlere gönderiyorlar.
+											Dahası, bu yüzbinlerce hatta milyonlarca
+düğüm
+											hiyerarşik tabakalarla düzenleniyorlar
+											tıpkı beyin gibi.
+											Normal bir sinir ağında nesne tanıma
+modelimizi eğitmek için,
+											24 milyon düğüm,
+											140 milyon değişken,
+											ve 15 milyar bağlantı kullandık.
+											Bu muazzam bir modeldi.
+											ImageNet'den elde edilen büyük veri ile
+											oldukça muazzam bir modeli eğitmek için
+kullanılan modern CPU ve GPU'lar sayesinde
+											evrişimli sinirsel ağ
+											hiçbirimizin hayal edemeyeceği bir şekilde
+gelişti.
+											Nesne tanımlamada etkileyeci
+yeni sonuçlar üretmek için
+											başarılı bir mimari olmaya başladı.
+											Bu bilgisayarın bize söylediği,
+											bu fotoğrafta bir kedinin olduğu
+											ve kedinin nerede olduğu.
+											Elbette orada kedilerden daha fazlası var,
+											burada ise bilgisayar algoritmasının
+bize söylediği
+											resimde bir çocuk ile oyuncak bir ayının;
+											bir köpeğin, bir kişinin ve arkaplanda
+küçük bir uçurtmanın;
+											ya da çok karışık bir resimin
+											bir adam, bir kaykay, korkuluklar, lamba
+direği v.b. gibi şeyler olduğu.
+											Bazen, bilgisayar ne gördüğü hakkında emin
+olamayınca
+											çok fazla düşünmek yerine yeterince
+											mantıklı bir cevap vermesini öğrettik,
+											tıpkı bizim yapacağımız gibi
+											fakat başka zamanlarda bilgisayar
+algoritmamız bize dikkate değer şeyler
+											tam olarak nesnelerin ne olduğunu
+											marka, model ve üretim yılı gibi şeyleri
+söylüyor.
+									","
+											Maintenant que nous avons les données
+pour nourrir notre cerveau informatique,
+											nous pouvons revenir sur les algorithmes.
+											Il se trouve que la manne d'informations
+désormais dans ImageNet
+											allait parfaitement avec 
+un certain type d'algorithmes,
+											le réseau de neurones à convolution,
+											développé par Kunihiko Fukushima,
+Geoff Hinton et Yann LeCun
+											dans les années 1970 et 80.
+											Tout comme le cerveau est composé 
+de milliards de neurones connectés,
+											l'unité de base d'un réseau neuronal
+											est le nœud de type neurone.
+											Il reçoit des informations d'autres nœuds
+											et en envoie à d'autres.
+											De plus, ces centaines de milliers
+voire millions de nœuds
+											sont organisés en couches hiérarchiques,
+											similaires au cerveau.
+											Dans le réseau neuronal classique
+que nous utilisons,
+											il y a 24 millions de nœuds,
+											140 millions de paramètres,
+											et 15 milliards de connexions.
+											C'est un modèle énorme.
+											Avec la puissance des données d'ImageNet
+											et les processeurs modernes
+pour traiter cet énorme modèle,
+											le réseau de neurones à convolution
+											s'est transformé de manière inattendue.
+											Il est devenu l'architecture idéale
+											pour générer des résultats fabuleux
+en reconnaissance d'objets.
+											Ceci est un ordinateur qui nous dit
+											que la photo contient un chat
+											et où est ce chat.
+											Bien sûr, il y a
+autre chose que des chats.
+											Ici un algorithme nous dit
+											que la photo contient un garçon
+et un ours en peluche,
+											un chien, une personne, 
+et un cerf-volant en arrière-plan.
+											Ici, beaucoup d'activités
+											avec un homme, un skateboard, une rampe,
+un lampadaire, etc.
+											Parfois l'ordinateur n'est pas trop sûr,
+											nous lui avons appris à être 
+assez intelligent
+											pour donner une réponse sûre,
+sans trop s'engager,
+											c'est ce que nous ferions.
+											D'autres fois, l'algorithme 
+a la capacité incroyable
+											de nous dire exactement 
+ce qu'est l'objet :
+											marque, modèle, année d'une voiture.
+									",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+","
+","
+","
+","
+",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+											We applied this algorithm to millions
+of Google Street View images
+											across hundreds of American cities,
+											and we have learned something
+really interesting:
+											first, it confirmed our common wisdom
+											that car prices correlate very well
+											with household incomes.
+											But surprisingly, car prices
+also correlate well
+											with crime rates in cities,
+											or voting patterns by zip codes.
+									","
+											Aplicamos este algoritmo a millones
+de imágenes de Google Street View
+											de cientos de ciudades
+de Estados Unidos
+											y hemos aprendido algo muy interesante:
+											primero, confirmó nuestra idea
+											de que los precios de los autos
+se relacionan bien
+											con los ingresos del hogar.
+											Pero sorprendentemente, los precios
+de los autos se relacionan también
+											con las tasas de criminalidad
+en la ciudades
+											o los patrones de votación
+por código postal.
+									","
+											Aplicámos este algoritmo a milhões
+de imagens do Google Street View
+											a centenas de cidades norte-americanas
+											e aprendemos algo muito interessante:
+											primeiro, confirmou a sabedoria comum
+											que diz que os preços dos carros
+estão fortemente correlacionados
+											com os rendimentos familiares.
+											Mas, surpreendentemente, os preços
+dos carros também estão correlacionados
+											com as taxas de criminalidade em cidades,
+											ou padrões de votação por código postal.
+									","
+											Bu algoritmayı Google Sokak Görüntüleme
+ile yüzlerce Amerika şehrinden
+											alınmış resimlere uyguladık
+											ve gerçekten ilginç şeyler öğrendik:
+											öncelikle, hepimizin bildiği gibi araç
+											fiyatlarının aile gelir düzeyiyle
+											doğrudan ilişkili olduğunu teyit etti
+											fakat ilginçtir ki, araç fiyatları aynı
+zamanda
+											şehirdeki suç oranları
+											ya da posta kodlarından oy verme alanları
+ile de bağlantılı.
+									","
+											Nous avons utilisé cet algorithme sur
+des millions d'images Google Street View,
+											dans des centaines de villes américaines,
+											et nous avons découvert 
+quelque chose de très intéressant.
+											D'abord, il a été confirmé
+											que le prix des voitures
+											et le revenu des foyers sont liés.
+											Mais, étonnamment, le prix des voitures
+											et le taux de crimes dans les villes
+sont également liés,
+											même chose avec la répartition
+géographique des votes.
+									",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+","
+","
+","
+","
+",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+											So wait a minute. Is that it?
+											Has the computer already matched
+or even surpassed human capabilities?
+											Not so fast.
+											So far, we have just taught
+the computer to see objects.
+											This is like a small child
+learning to utter a few nouns.
+											It's an incredible accomplishment,
+											but it's only the first step.
+											Soon, another developmental
+milestone will be hit,
+											and children begin
+to communicate in sentences.
+											So instead of saying
+this is a cat in the picture,
+											you already heard the little girl
+telling us this is a cat lying on a bed.
+									","
+											Un minuto. ¿Eso es todo?
+											¿Acaso la computadora ya sobrepasó
+las capacidades humanas?
+											No tan rápido.
+											Hasta ahora solo hemos enseñado
+a la computadora a ver objetos.
+											Es como un niño pequeño
+que aprende a decir palabras.
+											Es un logro increíble,
+											pero es apenas el primer paso.
+											Pronto daremos otro paso
+											y los niños empiezan
+a comunicarse con frases.
+											Así que en lugar de decir
+que hay un gato en la foto,
+											la niña ya dice que el gato
+está sobre la cama.
+									","
+											Mas esperem. É mesmo assim?
+											O computador já conseguiu mesmo igualar
+ou até ultrapassar as capacidades humanas?
+											Vamos com calma.
+											Até agora, apenas ensinámos
+o computador a ver objetos.
+											Isto é o equivalente a uma criança
+que aprende a pronunciar alguns nomes.
+											É um feito incrível,
+											mas é apenas o primeiro passo.
+											As crianças atingem rapidamente
+um novo marco no seu desenvolvimento,
+											começando a comunicar com frases.
+											Ou seja, em vez de dizer
+que há um gato na imagem,
+											já ouvimos a menina dizer-nos
+que é um gato deitado numa cama.
+									","
+											Peki biraz düşünün, bu oldu mu?
+											Bilgisayar henüz insan kabiliyetlerine
+erişebildi mi hatta daha üstün geldi mi ?
+											Hayır, o kadar hızlı değil.
+											Şu ana dek, sadece bilgisayara nesneleri
+görmesini öğrettik.
+											Bu küçük bir çocuğun bir kaç kelime
+söylemesini öğrenmesi gibi bir sey.
+											İnanılmaz bir başarıdır bu,
+											fakat bu sadece ilk adımdır.
+											Sonrasında, başka bir gelişimsel dönüm
+noktası açığa çıkar,
+											ve çocuk cümlelerle iletişim kurmaya
+başlar.
+											Yani, ""bu resimdeki bir kedidir""
+demek yerine
+											dinlediğiniz gibi küçük kız bize ""bu
+yatağın üzerinde uzanan bir kedidir"" diyor
+									","
+											Attendez un peu... c'est tout ?
+											Est-ce que l'ordinateur atteint, 
+voire surpasse, les capacités humaines ?
+											Pas si vite.
+											Jusque là, nous avons appris 
+aux ordinateurs à voir des objets,
+											comme un jeune enfant apprend
+à prononcer quelques noms.
+											C'est déjà incroyable,
+											mais ce n'est que la première étape.
+											Bientôt, nous atteindrons un autre niveau,
+											l'enfant commence à faire des phrases.
+											Au lieu de dire que 
+c'est un chat sur la photo,
+											comme nous l'a dit la petite fille 
+tout à l'heure.
+									",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+","
+","
+","
+","
+",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+											So to teach a computer
+to see a picture and generate sentences,
+											the marriage between big data
+and machine learning algorithm
+											has to take another step.
+											Now, the computer has to learn
+from both pictures
+											as well as natural language sentences
+											generated by humans.
+											Just like the brain integrates
+vision and language,
+											we developed a model
+that connects parts of visual things
+											like visual snippets
+											with words and phrases in sentences.
+									","
+											Así que para enseñar a una computadora
+a ver una foto y generar frases
+											la conjunción de mucha información
+y el algoritmo de aprendizaje automático
+											debe dar otro paso.
+											Ahora, la computadora tiene 
+que aprender de fotografías
+											así como de frases en lenguaje natural
+											generado por humanos.
+											De la forma en que el cerebro 
+integra visión y lenguaje,
+											desarrollamos un modelo que 
+conecta partes de cosas visuales
+											como fragmentos visuales
+											con palabras y frases en oraciones.
+									","
+											Para ensinar um computador
+a gerar frases a partir de uma imagem,
+											é agora preciso que o casamento
+											entre o volume de dados
+e a aprendizagem automática
+											dê mais um passo.
+											Agora, o computador terá que aprender,
+não só a partir de imagens,
+											como também frases naturais da linguagem
+											geradas pelos seres humanos.
+											Tal como o cérebro integra
+a visão e a linguagem,
+											nós desenvolvemos um modelo
+que relaciona partes de coisas visuais,
+											tais como fragmentos visuais,
+											com palavras e expressões em frases.
+									","
+											Bilgisayarı resimleri görmek ve cümle
+kurmak için eğitmek,
+											big data ile makine öğrenim algoritmasının
+beraberliği için
+											bir adım daha atılmalı.
+											Şimdilik, bilgisayarın her resimden
+											insanlar tarafından oluşturulmuş kadar
+											iyi cümleler öğrenmesi gerek.
+											Beynin görsellik ve dili bütünleştirdiği
+gibi,
+											biz de ufak görsel parçacıklar
+gibi görsel şeylerle
+											cümlelerdeki kelime ve ifadeleri
+											birleştirecek bir model geliştirdik.
+									","
+											Pour apprendre à l'ordinateur à générer 
+des phrases à partir d'une photo,
+											le mariage entre les données
+et l'algorithme d'apprentissage
+											doit franchir une autre étape.
+											L'ordinateur doit apprendre 
+à partir des photos,
+											en utilisant des phrases 
+en langage naturel
+											générée par l'être humain.
+											Tout comme le cerveau 
+combine vision et langage,
+											notre modèle connecte 
+les parties de choses visuelles,
+											des petits bouts visuels,
+											avec des mots ou groupes de mots,
+pour en faire des phrases.
+									",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+","
+","
+","
+","
+",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+											About four months ago,
+											we finally tied all this together
+											and produced one of the first
+computer vision models
+											that is capable of generating
+a human-like sentence
+											when it sees a picture for the first time.
+											Now, I'm ready to show you
+what the computer says
+											when it sees the picture
+											that the little girl saw
+at the beginning of this talk.
+									","
+											Hace unos 4 meses
+											finalmente juntamos todo esto
+											y produjimos uno de los primeros
+modelos de visión artificial
+											que puede generar frases
+como las de un humano
+											cuando ve una foto por primera vez.
+											Ahora estoy lista para mostrarles
+lo que dice la computadora
+											cuando ve la fotografía
+											que la niña vio al inicio de esta charla.
+									","
+											Há cerca de 4 meses,
+											conseguimos finalmente conjugar tudo isto
+											e produzir um dos primeiros
+modelos de visão computacional
+											capaz de gerar uma frase semelhante
+à gerada por um ser humano,
+											quando vê uma imagem pela primeira vez.
+											Agora, estou pronta para vos mostrar
+o que o computador diz
+											quando vê a imagem
+											que a menina viu no início desta palestra.
+									","
+											Yaklaşık dört ay önce,
+											sonunda bütün bunları bağladık
+											ve bir fotoğrafı ilk kez gördüğünde
+											bir insan gibi cümle kurabilme
+yeteneğine sahip
+											ilk bilgisayar görme modelinden
+bir tane yaptık.
+											Şu anda, bilgisayarın konuşmamızın başında
+											küçük kızın gördüğü resimleri gördüğünde
+											neler söylediğini size göstermeye hazırım.
+									","
+											Il y a environ 4 mois,
+											nous avons enfin réussi
+											à créer l'un des premiers 
+modèles de vision artificielle
+											capagle de générer une phrase
+comme un être humain
+											qui découvre une image.
+											Aujourd'hui, je suis prête à vous montrer
+ce que dit l'ordinateur
+											quand il voit la photo
+											que la petite fille voyait tout à l'heure.
+									",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+","
+","
+","
+","
+",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+											(Video) Computer: A man is standing
+next to an elephant.
+											A large airplane sitting on top
+of an airport runway.
+									","
+											(Video) Computadora:
+Un hombre está junto a un elefante.
+											Un avión grande está encima
+de una pista de aeropuerto.
+									","
+											(Vídeo) Computador: 
+Um homem está ao pé de um elefante.
+											Um avião de grande porte 
+poisado na pista de um aeroporto.
+									","
+											(Video) Bilgisayar:
+Bir adam filin yanında duruyor.
+											Geniş bir uçak, uçak pistinin üstünde
+oturuyor.
+									","
+											(Vidéo) L'ordinateur :
+Un homme est debout à coté d'un éléphant.
+											Un grand avion est assis 
+sur une piste d'aéroport.
+									",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+","
+","
+","
+","
+",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+											FFL: Of course, we're still working hard
+to improve our algorithms,
+											and it still has a lot to learn.
+											(Applause)
+									","
+											FFL: Desde luego, seguimos
+trabajando para mejorar los algoritmos
+											y aún tiene mucho que aprender.
+											(Aplausos)
+									","
+											FFL: Claro que ainda estamos a trabalhar
+arduamente para melhorar os algoritmos,
+											e o computador ainda tem
+muito que aprender.
+											(Aplausos)
+									","
+											FFL: Tabii, hala sıkı bir şekilde
+algoritmamızı geliştirmek için çalışıyoruz
+											ve henüz öğreneceği çok sey var.
+											(Alkış)
+									","
+											FFL : Bien sûr, il y a encore 
+beaucoup de travail sur les algorithmes,
+											l'ordinateur a encore
+beaucoup à apprendre,
+											(Applaudissements)
+									",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+","
+","
+","
+","
+",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+											And the computer still makes mistakes.
+									","
+											Y la computadora aún comete errores.
+									","
+											O computador ainda faz erros.
+									","
+											Bilgisayar henüz hatalar yapmakta.
+									","
+											et il fait encore des erreurs.
+									",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+","
+","
+","
+","
+",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+											(Video) Computer: A cat lying
+on a bed in a blanket.
+									","
+											(Video) Computadora: Un gato 
+recostado en la cama en una sábana.
+									","
+											(Vídeo) Computador:
+Um gato deitado numa cama num cobertor.
+									","
+											Bilgisayar: Bir kedi battaniyenin içinde
+yatakta uzanıyor.
+									","
+											(Vidéo) Ordinateur : un chat est couché
+sur un lit dans une couverture.
+									",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+","
+","
+","
+","
+",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+											FFL: So of course, when it sees
+too many cats,
+											it thinks everything
+might look like a cat.
+									","
+											FFL: Y cuando ha visto
+demasiados gatos,
+											cree que todo lo que ve
+parece un gato.
+									","
+											FFL: Claro que, depois de ver
+muitos gatos,
+											ele pensa que tudo é um gato.
+									","
+											FFL: Tabii, oldukça fazla kedi
+gördüğünden
+											herşeyin kediye benzeyebileceğini
+düşünüyor.
+									","
+											FFL : Bien sûr, s'il voit trop de chats,
+											il pense que tout 
+est peut-être un chat.
+									",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+","
+","
+","
+","
+",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+											(Video) Computer: A young boy
+is holding a baseball bat.
+											(Laughter)
+									","
+											(Video) Computadora: Un niño 
+tiene un bate de béisbol.
+											(Risas)
+									","
+											(Video) Computador: Um menino
+segura um taco de basebol.
+											(Risos)
+									","
+											Bilgisayar: Genç erkek bir beysbol
+sopasını tutuyor.
+											(Gülüşmeler)
+									","
+											(Vidéo) Ordinateur : un garçon
+tient une batte de base-ball.
+											(Rires)
+									",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+","
+","
+","
+","
+",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+											FFL: Or, if it hasn't seen a toothbrush,
+it confuses it with a baseball bat.
+									","
+											FFL: O si nunca ha visto
+un cepillo de dientes,
+											lo confunde con un bate de béisbol.
+									","
+											FFL: Ou, se o computador
+nunca viu uma escova de dentes,
+											confunde-a com um taco de basebol.
+									","
+											FFL: Ya da, henüz bir diş fırçası
+görmemişse, beysbol sopasıyla karıştırıyor
+									","
+											FFL : Ou alors, s'il n'a jamais vu 
+de brosse à dents, elle devient une batte.
+									",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+","
+","
+","
+","
+",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+											(Video) Computer: A man riding a horse
+down a street next to a building.
+											(Laughter)
+									","
+											(Video) Computadora: Un hombre 
+montando un caballo junto a un edificio.
+											(Risas)
+									","
+											(Vídeo) Computador: Um homem a cavalo
+desce uma rua ao pé de um edifício.
+											(Risos)
+									","
+											Bilgisayar: Bir adam binanın kenarından
+atını sokak aşağı sürüyor.
+											(Gülüşmeler)
+									","
+											(Vidéo) Ordinateur : Un homme se promène
+à cheval près d'un bâtiment.
+											(Rires)
+									",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+","
+","
+","
+","
+",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+											FFL: We haven't taught Art 101
+to the computers.
+									","
+											FFL: No le hemos enseñado
+arte elemental a las computadoras.
+									","
+											FFL: Não ensinámos aos computadores
+a disciplina de Introdução à Arte.
+									","
+											FFL: Henüz bilgisayarlara Sanat 101
+dersini öğretmedik.
+									","
+											Nous n'avons pas enseigné 
+l'histoire de l'art à l'ordinateur.
+									",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+","
+","
+","
+","
+",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+											(Video) Computer: A zebra standing
+in a field of grass.
+									","
+											(Video) Computadora: Una cebra
+en un campo de hierba.
+									","
+											(Vídeo) Computador: 
+Uma zebra num relvado.
+									","
+											Bilgisayar: Bir zebra otlukların içinde
+duruyor.
+									","
+											(Vidéo) L'ordinateur : Un zèbre 
+se trouve dans un pré.
+									",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+","
+","
+","
+","
+",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+											FFL: And it hasn't learned to appreciate
+the stunning beauty of nature
+											like you and I do.
+									","
+											FFL: Y no ha aprendido a apreciar
+la belleza deslumbrante
+											de la naturaleza,
+como lo hacemos nosotros.
+									","
+											FFL: Também não aprenderam ainda
+a apreciar o esplendor da natureza,
+											como vocês e eu fazemos.
+									","
+											FFL: Ve henüz doğanın büyüleci güzelliğini
+											takdir etmeyi bizim gibi öğrenmedi.
+									","
+											FFL : Et il ne sait pas apprécier
+la beauté de la nature
+											comme vous et moi.
+									",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+","
+","
+","
+","
+",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+											So it has been a long journey.
+											To get from age zero to three was hard.
+											The real challenge is to go
+from three to 13 and far beyond.
+											Let me remind you with this picture
+of the boy and the cake again.
+											So far, we have taught
+the computer to see objects
+											or even tell us a simple story
+when seeing a picture.
+									","
+											Así que ha sido un largo camino.
+											Pasar de los 0 a los 3 años fue difícil.
+											El verdadero reto es llegar 
+a los 13 y mucho más todavía.
+											Recordemos nuevamente esta foto
+del niño y el pastel.
+											Hasta ahora, le hemos enseñado
+a la computadora a ver objetos
+											o incluso darnos una pequeña 
+historia cuando ve la foto.
+									","
+											Portanto, tem sido um longo percurso.
+											Ir dos zero aos três anos foi difícil.
+											O verdadeiro desafio será ir
+dos três anos aos treze e para além disso.
+											Vou mostrar-vos novamente
+esta imagem do rapaz e do bolo.
+											Até agora, ensinámos
+o computador a ver objetos
+											ou mesmo a contar-nos uma pequena história
+quando vê uma imagem.
+									","
+											Uzun bir yolculuktu.
+											Sıfırdan üç yaşına getirmek oldukça zordu.
+											Asıl zor olan üç yaşından on üç yaş ve
+daha ötesine götürebilmek.
+											Size bu resmi tekrar hatırlatmak istiyorum,
+çocuk ve kekin olduğu.
+											Şu ana dek, bilgisayara nesneleri
+görebilmesini
+											hatta gördüğü resimden küçük bir hikaye
+anlatmasını bile öğrettik.
+									","
+											Ça a donc été un long voyage.
+											Aller de 0 à 3 ans a été difficile.
+											Le vrai défi est d'aller de 3 à 13
+et bien au-delà.
+											Revoici l'image du garçon avec le gâteau.
+											Jusque là, nous avons appris
+à l'ordinateur à voir des objets
+											ou à créer une petite histoire
+d'après une photo.
+									",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+","
+","
+","
+","
+",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+											(Video) Computer: A person sitting
+at a table with a cake.
+									","
+											(Video) Computadora: Una persona sentada
+a la mesa con un pastel.
+									","
+											(Vídeo) Computador: Uma pessoa
+sentada à mesa com um bolo.
+									","
+											Bilgisayar: Biri yaş pastanın olduğu
+masada oturuyor.
+									","
+											(Vidéo) L'ordinateur : Une personne 
+assise à une table avec un gâteau.
+									",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+","
+","
+","
+","
+",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+											FFL: But there's so much more 
+to this picture
+											than just a person and a cake.
+											What the computer doesn't see
+is that this is a special Italian cake
+											that's only served during Easter time.
+											The boy is wearing his favorite t-shirt
+											given to him as a gift by his father
+after a trip to Sydney,
+											and you and I can all tell how happy he is
+											and what's exactly on his mind
+at that moment.
+									","
+											FFL: Pero hay mucho más
+en esta fotografía
+											que simplemente una persona y un pastel.
+											Lo que la computadora no ve es que 
+este es un pastel especial italiano
+											exclusivo de Pascua.
+											El niño viste su camiseta favorita,
+											que le regaló su papá
+tras un viaje a Sídney,
+											y nosotros podemos decir
+qué tan feliz está
+											y qué pasa por su mente
+en ese momento.
+									","
+											FFL: Mas há muito mais nesta imagem
+											do que somente uma pessoa e um bolo.
+											O que o computador não consegue ver
+é que se trata de um bolo italiano especial
+											que só se serve durante a Páscoa.
+											O rapaz está a usar
+a sua T-shirt preferida
+											que o pai lhe ofereceu
+após uma viagem a Sydney.
+											Tanto eu como vocês conseguimos ver
+como o rapaz está feliz
+											e o que se passa exatamente
+na sua mente nesse momento.
+									","
+											FFL: Fakat bu resimde sadece bir kişi ve
+pastadan
+											daha fazlası var.
+											Bilgisayarın göremediği şey,
+onun sadece Paskalya süresince
+											servis edilen özel bir İtalyan pastası
+olduğu.
+											Çocuk, babası tarafından Sidney gezisinden
+sonra kendisine hediye edilen
+											en sevdiği tişörtünü giyiyor,
+											hepimiz onun nasıl mutlu olduğunu
+											ve şu anda kafasından geçenleri
+söyleyebiliriz.
+									","
+											FFL : Mais il y a beaucoup plus
+											qu'une personne et un gâteau.
+											Ce que l'ordinateur ne voit pas
+est que c'est un gâteau italien spécial
+											servi uniquement à Pâques.
+											Le garçon porte son t-shirt préféré,
+											celui que lui a offert son père
+après un voyage à Sydney,
+											et vous et moi voyons bien
+à quel point il est heureux
+											et ce qu'il pense à ce moment.
+									",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+","
+","
+","
+","
+",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+											This is my son Leo.
+											On my quest for visual intelligence,
+											I think of Leo constantly
+											and the future world he will live in.
+											When machines can see,
+											doctors and nurses will have
+extra pairs of tireless eyes
+											to help them to diagnose
+and take care of patients.
+											Cars will run smarter
+and safer on the road.
+											Robots, not just humans,
+											will help us to brave the disaster zones
+to save the trapped and wounded.
+											We will discover new species, 
+better materials,
+											and explore unseen frontiers
+with the help of the machines.
+									","
+											Ese es mi hijo Leo.
+											En mi búsqueda de inteligencia visual,
+											pienso constantemente en él
+											y en el futuro en que va a vivir.
+											Cuando las máquinas puedan ver,
+											los médicos y enfermeras tendrán
+un par extra de ojos incansables
+											para ayudarlos a diagnosticar
+y cuidar de los pacientes.
+											Los autos andarán de forma
+inteligente y segura en los caminos.
+											Robots, y no solo humanos,
+											nos ayudarán a desafiar zonas de desastre
+para salvar heridos y atrapados.
+											Descubriremos nuevas especies,
+mejores materiales,
+											y exploraremos fronteras nunca vistas
+con ayuda de las máquinas.
+									","
+											Este é o meu filho Leo.
+											Na minha busca pela inteligência visual,
+											penso frequentemente no Leo
+											e no mundo em que ele viverá no futuro.
+											Quando as máquinas conseguirem ver,
+											médicos e enfermeiros irão ter
+um par adicional de olhos incansáveis
+											para os ajudar a diagnosticar
+e cuidar dos seus doentes.
+											Os automóveis irão andar na estrada
+de modo mais inteligente e seguro.
+											Os robôs, não apenas os seres humanos,
+											irão ajudar-nos a enfrentar
+											zonas de catástrofe,
+salvando feridos e encarcerados.
+											Iremos descobrir novas espécies,
+melhores materiais,
+											e explorar limites nunca antes vistos
+com a ajuda de máquinas.
+									","
+											Bu benim oğlum Leo.
+											Görsel zeka araştırmalarımda,
+											durmaksızın Leo'yu
+											ve içinde yaşayacağı geleceği düşünüyorum.
+											Makineler görebildiğinde,
+											doktor ve hemşireler, tanı koymak ve
+hastalarla ilgilenmek için
+											ek olarak yorulmayan
+göz çiftlerine sahip olacaklar.
+											Arabalar yollarda daha güvenli
+daha akıllı bir şekilde gidecek.
+											Robotlar, sadece insanlar değil,
+											enkaz bölgelerinde tutsak ve yaralıları
+kurtarmada bizimle göğüs gerecekler.
+											Yeni tür, daha iyi malzemeler bulacak
+											ve makinelerin yardımıyla, görünmeyen
+sınırları keşfedeceğiz.
+									","
+											C'est mon fils Léo.
+											Au cours de ma quête
+de l'intelligence visuelle,
+											Léo était constamment dans mes pensées
+											ainsi que le monde dans lequel il vivra.
+											Quand les machines pourront voir,
+											les médecins et infirmières auront
+une paire d'yeux infatigables en plus
+											pour les aider au diagnostic
+et au soin des patients.
+											Les voitures seront plus intelligentes
+et plus sûres.
+											Des robots, pas seulement des humains,
+											nous aideront à sauver des vies
+dans des zones sinistrées.
+											Nous découvrirons de nouvelles espèces,
+de meilleurs matériaux,
+											nous explorerons d'autres frontières,
+avec l'aide des machines.
+									",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+","
+","
+","
+","
+",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+											Little by little, we're giving sight
+to the machines.
+											First, we teach them to see.
+											Then, they help us to see better.
+											For the first time, human eyes
+won't be the only ones
+											pondering and exploring our world.
+											We will not only use the machines
+for their intelligence,
+											we will also collaborate with them
+in ways that we cannot even imagine.
+									","
+											Poco a poco, damos a las máquinas
+el don de la vista.
+											Primero les enseñamos a ver.
+											Luego ellas nos ayudarán a ver mejor.
+											Por primera vez, los ojos humanos
+no serán los únicos
+											que exploren nuestro mundo.
+											No solo usaremos máquinas
+por su inteligencia,
+											también colaboraremos con ellas de 
+formas que ni siquiera imaginamos.
+									","
+											Pouco a pouco, estamos a dar
+às máquinas a capacidade de ver.
+											Primeiro, ensinamo-las a ver.
+											Depois, elas ajudam-nos a ver melhor.
+											Pela primeira vez, os olhos humanos
+não estarão sozinhos
+											na exploração e compreensão
+do nosso mundo.
+											Iremos usar máquinas
+não somente pela sua inteligência,
+											mas também para colaborar com elas
+											de formas que ainda
+não conseguimos imaginar.
+									","
+											Azar azar, makinelere görme yetisini
+veriyoruz.
+											Önce, biz onlara görmeyi öğretiyoruz.
+											Sonra, onlar daha iyi görebilmemiz için
+bize yardım ediyor.
+											Öncelikle, dünyamızı keşfetmek
+ve düşünmek için gözlerimiz
+											sadece insan gözleri olmayacak.
+											Makineleri sadece zekaları için
+kullanmıyor,
+											aynı zamanda hayal bile edemeyeceğimiz bir
+şekilde onlarla iş birliği yapıyoruz.
+									","
+											Petit à petit, nous donnons la vue
+aux machines.
+											D'abord nous leur apprenons à voir.
+											Puis c'est elles
+qui nous aident à mieux voir.
+											Pour la première fois, les yeux humains
+ne seront pas les seuls
+											à questionner et explorer notre monde.
+											En plus d'utiliser les machines
+pour leur intelligence,
+											nous collaborerons avec elles
+de manière inédite.
+									",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+","
+","
+","
+","
+",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+											This is my quest:
+											to give computers visual intelligence
+											and to create a better future
+for Leo and for the world.
+									","
+											Esta es mi misión:
+											dar a las computadoras 
+inteligencia visual
+											y crear un mejor futuro
+para Leo y para el mundo.
+									","
+											Esta é a minha missão:
+											dar inteligência visual aos computadores
+											e criar um futuro melhor
+para o Leo e para o mundo.
+									","
+											Benim araştırmam bu:
+											bilgisayarlara görsel zekayı vermek
+											ve Leo için, dünya için daha iyi bir
+gelecek oluşturmak.
+									","
+											C'est ma quête :
+											donner aux ordinateurs
+l'intelligence visuelle
+											et créer un meilleur avenir 
+pour Léo et pour le monde.
+									",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+","
+","
+","
+","
+",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+											Thank you.
+									","
+											Gracias.
+									","
+											Obrigada.
+									","
+											Teşekkürler.
+									","
+											Merci.
+									",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+","
+","
+","
+","
+",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+											(Applause)
+									","
+											(Aplausos)
+									","
+											(Aplausos)
+									","
+											(Alkış)
+									","
+											(Applaudissements)
+									",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"
+"
+","
+","
+","
+","
+",How we're teaching computers to understand pictures,Fei-Fei Li,17:58,"AI,photography,sight,technology"

@@ -1,0 +1,2603 @@
+en,tr,de,pt,title,speaker,duration,tags
+"
+","
+","
+","
+",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+											Mark Twain summed up
+what I take to be
+											one of the fundamental problems
+of cognitive science
+											with a single witticism.
+											He said, ""There's something
+fascinating about science.
+											One gets such wholesale
+returns of conjecture
+											out of such a trifling
+investment in fact.""
+											(Laughter)
+									","
+											Mark Twain, benim bilişsel bilimlerin
+											temel sorunlarından biri olarak
+gördüğüm şeyi
+											tek bir espriyle özetledi.
+											""Bilimle ilgili inanılmaz bir şey var.
+											İncir çekirdeğini doldurmayan
+gerçeğe yatırımla,
+											varsayımların toptan satış
+kârını elde edebilirsiniz.""
+											(Gülüşmeler)
+									","
+											Mark Twain hat das,
+
+											was ich als grundsätzliches Problem 
+der Kognitionswissenschaft sehe,
+											in einem einzigen Satz zusammengefasst.
+											Er sagte: ""Wissenschaft hat
+etwas Faszinierendes an sich.
+											So eine geringe Investition in Fakten
+											liefert einen so reichen Ertrag
+an Voraussagen.""
+											(Gelächter)
+									","
+											Mark Twain resumiu o que eu considero
+											um dos problemas fundamentais
+da ciência cognitiva
+											apenas numa piada.
+											Ele disse: ""Há algo
+fascinante na ciência.
+											""Obtêm-se retornos profundos 
+da conjetura
+											""a partir de investigações
+superficiais da verdade"".
+											(Risos)
+									",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+","
+","
+","
+",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+											Twain meant it as a joke,
+of course, but he's right:
+											There's something
+fascinating about science.
+											From a few bones, we infer
+the existence of dinosuars.
+											From spectral lines,
+the composition of nebulae.
+											From fruit flies,
+											the mechanisms of heredity,
+											and from reconstructed images
+of blood flowing through the brain,
+											or in my case, from the behavior
+of very young children,
+											we try to say something about
+the fundamental mechanisms
+											of human cognition.
+											In particular, in my lab in the Department
+of Brain and Cognitive Sciences at MIT,
+											I have spent the past decade
+trying to understand the mystery
+											of how children learn so much
+from so little so quickly.
+											Because, it turns out that
+the fascinating thing about science
+											is also a fascinating
+thing about children,
+											which, to put a gentler
+spin on Mark Twain,
+											is precisely their ability
+to draw rich, abstract inferences
+											rapidly and accurately
+from sparse, noisy data.
+											I'm going to give you
+just two examples today.
+											One is about a problem of generalization,
+											and the other is about a problem
+of causal reasoning.
+											And although I'm going to talk
+about work in my lab,
+											this work is inspired by
+and indebted to a field.
+											I'm grateful to mentors, colleagues,
+and collaborators around the world.
+									","
+											Twain bunu şaka amaçlı söyledi
+tabii ki de, ama haklı:
+											Bilimle ilgili inanılmaz bir şey var.
+											Birkaç kemikten, dinozorların
+varlığına ulaşıyoruz.
+											Tayf çizgilerinden,
+bulutsuların dizilimine;
+											meyve sineklerinden,
+											kalıtım düzeneklerine
+											ve beynin içinde akan kanın
+yeniden oluşturulan görüntülerinden,
+											ya da benim durumumda, çok küçük
+çocukların davranışından,
+											insan bilişinin temel düzenekleriyle
+ilgili bir şeyler
+											söylemeye çalışıyoruz.
+											Özellikle, MIT'teki Beyin ve Bilişsel
+Bilimler Bölümü'ndeki laboratuvarımda,
+											geçen on yılı, çocukların çok az bilgiyle
+bu kadar çok bilgiyi çok hızlıca
+											nasıl öğrendiğini
+anlamaya çalışarak harcadım.
+											Çünkü, bilimle ilgili
+büyüleyici olan şey,
+											aynı zamanda çocuklarla ilgili
+olarak da büyüleyici bir şey oluyor,
+											Mark Twain'in bakışıyla
+ele alırsak,
+											bu durum, tam olarak çocukların
+yetersiz ve belirsiz veriden
+											hızlıca ve doğruca zengin ve soyut
+çıkarımlar yapma yeteneği demek.
+											Bugün size yalnızca iki örnek vereceğim.
+											Birisi genelleme sorunuyla ilgili,
+											diğeriyse nedensel akıl yürütme
+sorunuyla ilgili.
+											Ve laboratuvarımdaki çalışmamla
+ilgili konuşacak olsam da,
+											bu çalışma alanımda teşekkür borçlu
+olduğum kişilerden ilham alıyor.
+											Dünyadaki tüm danışmanlara, meslektaşlara
+ve işbirlikçilere minnettârım.
+									","
+											Twain meinte das als Scherz,
+aber er hat Recht.
+											Wissenschaft hat etwas 
+Faszinierendes an sich.
+											Von ein paar Knochen schließen wir 
+auf die Existenz von Dinosauriern,
+											von Spektrallinien auf
+die Komposition von Nebelflecken.
+											Von Fruchtfliegen schließen wir
+auf die Mechanismen der Erblehre
+											und von rekonstruierten Bildern
+auf den Blutfluss im Gehirn,
+											oder wie ich, vom
+Verhalten kleiner Kinder
+											auf grundsätzliche Vorgänge
+der menschlichen Wahrnehmung.
+											Im Labor am Fachbereich für Neuro-
+und Kognitionswissenschaften am MIT
+											habe ich die letzten 10 Jahre versucht, 
+das Geheimnis zu verstehen,
+											wie Kinder aus so wenig Informationen
+so viel und so schnell lernen können.
+											Denn das Faszinierende an der Wissenschaft
+ist auch das Faszinierende an Kindern,
+											nämlich, um Mark Twain zu paraphrasieren:
+											ihre Fähigkeit, aus spärlichen
+und undeutlichen Daten
+											schnell und genau 
+abstrakte Schlüsse zu ziehen.
+											Ich werde Ihnen heute nur 
+zwei Beispiele vorstellen.
+											Das eine ist ein Problem 
+der Verallgemeinerung,
+											und das andere ist ein Problem 
+kausaler Begründungen.
+											Obwohl ich über meine
+Laborarbeit sprechen werde,
+											ist diese Arbeit von einem ganzen Gebiet
+inspiriert und diesem verpflichtet.
+											Ich bin meinen Mentoren, Kollegen und 
+Mitarbeitern auf der ganzen Welt dankbar.
+									","
+											Claro que Twain disse isto a brincar,
+mas está correto:
+											Há algo fascinante na ciência.
+											A partir de alguns ossos, inferimos
+a existência de dinossauros.
+											A partir de linhas espetrais,
+a composição de nebulosas.
+											A partir de moscas-da-fruta,
+											os mecanismos da hereditariedade,
+											e de imagens reconstruídas do sangue 
+que flui através do cérebro,
+											ou no meu caso, do comportamento
+de crianças muito novas,
+											tentamos dizer algo
+sobre os mecanismos fundamentais
+											da cognição humana.
+											No meu laboratório no Departamento
+de Ciências Cognitivas no MIT,
+											passei a última década
+a tentar perceber o mistério
+											de como as crianças aprendem tanto
+a partir de tão pouco e tão rapidamente.
+											Porque acontece que a coisa
+fascinante na ciência
+											também é uma coisa fascinante
+nas crianças.
+											Mudando um pouco a frase de Mark Twain,
+											é exatamente a capacidade que elas têm
+para criar inferências ricas e abstratas
+											com rapidez e precisão,
+a partir de dados soltos, ruidosos.
+											Hoje vou dar apenas dois exemplos.
+											Um é sobre um problema de generalização,
+											e o outro é sobre um problema
+de raciocínio causal.
+											Apesar de falar sobre o trabalho 
+no meu laboratório,
+											este trabalho é inspirado 
+e derivado de um campo.
+											Estou grata a mentores, colegas,
+e colaboradores de todo o mundo.
+									",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+","
+","
+","
+",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+											Let me start with the problem
+of generalization.
+											Generalizing from small samples of data
+is the bread and butter of science.
+											We poll a tiny fraction of the electorate
+											and we predict the outcome
+of national elections.
+											We see how a handful of patients
+responds to treatment in a clinical trial,
+											and we bring drugs to a national market.
+											But this only works if our sample
+is randomly drawn from the population.
+											If our sample is cherry-picked
+in some way —
+											say, we poll only urban voters,
+											or say, in our clinical trials
+for treatments for heart disease,
+											we include only men —
+											the results may not generalize
+to the broader population.
+									","
+											Genelleme sorunuyla başlayalım.
+											Küçük veri örneklerinden genelleme yapmak
+bilimin ekmek teknesidir.
+											Küçücük bir seçmen kitlesine anket yaparız
+											ve ulusal seçimlerin sonucunu öngörürüz.
+											Bir klinik deneyde bir avuç insanın
+tedaviye verdiği tepkiye bakar
+											ve ilaçları ülke pazarına süreriz.
+											Fakat böyle bir şey, ancak örneğimiz
+ana kitleden rastgele alınırsa işe yarar.
+											Örneğimiz bir şekilde
+keyfî olarak seçilmişse,
+											diyelim ki yalnızca şehirdeki seçmenleri
+											ya da diyelim ki kalp hastalığı
+tedavisi klinik deneylerimizde
+											yalnızca erkekleri dâhil ettik —
+											sonuçlar daha geniş ana kitleye
+genellenemeyebilir.
+									","
+											Fangen wir mit dem Problem
+der Verallgemeinerung an.
+											In der Wissenschaft ist es üblich,
+Stichproben zu verallgemeinern.
+											Wir befragen einen kleinen Teil 
+der Wählerschaft
+											und sagen das Ergebnis
+nationaler Wahlen voraus.
+											Wir sehen, wie wenige Patienten auf eine 
+Behandlung in einer Studie reagieren
+											und bringen Medikamente auf den Markt.
+											Aber das funktioniert nur,
+											wenn Stichproben willkürlich aus
+der Grundgesamtheit gezogen wurden.
+											Wenn Stichproben auf eine Art 
+absichtlich ausgewählt wurden,
+											indem z. B. nur städtische Wähler
+											oder in klinischen Versuchen für 
+die Behandlung von Herzkrankheiten
+											nur Männer untersucht wurden,
+											kann man die Ergebnisse 
+nicht verallgemeinern.
+									","
+											Vou começar com o problema
+da generalização.
+											Generalizar a partir de poucos dados
+é o pão nosso de cada dia na ciência.
+											Sondamos uma pequena fração de eleitores
+											e prevemos o resultado
+das eleições nacionais.
+											Vemos como alguns pacientes reagem
+ao tratamento num ensaio clínico,
+											e colocamos drogas no mercado nacional.
+											Mas isto só funciona se a nossa amostra
+for obtida aleatoriamente da população.
+											Se a nossa amostra for enviesada
+de alguma maneira
+											— digamos, sondamos apenas
+eleitores urbanos,
+											ou então, nos nossos ensaios clínicos
+para tratamento de doenças do coração,
+											incluímos apenas homens —
+											os resultados podem não representar
+a população mais ampla.
+									",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+","
+","
+","
+",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+											So scientists care whether evidence
+is randomly sampled or not,
+											but what does that have to do with babies?
+											Well, babies have to generalize
+from small samples of data all the time.
+											They see a few rubber ducks
+and learn that they float,
+											or a few balls and learn that they bounce.
+											And they develop expectations
+about ducks and balls
+											that they're going to extend
+to rubber ducks and balls
+											for the rest of their lives.
+											And the kinds of generalizations
+babies have to make about ducks and balls
+											they have to make about almost everything:
+											shoes and ships and sealing wax
+and cabbages and kings.
+									","
+											Bu yüzden bilim insanları, bulgunun
+rastgeleliğine önem verir,
+											ama bunun bebeklerle ne ilgisi var?
+											Şöyle ki, bebekler sürekli küçük veri
+örneklerinden genellemek zorundadır.
+											Birkaç oyuncak ördek görürler ve
+batmadan durduğunu öğrenirler
+											ya da birkaç topun zıpladığını öğrenirler.
+											Ördekler ve toplarla ilgili
+
+											yaşamları boyunca
+oyuncak ördek ve toplara ekleyecekleri
+											beklentiler edinirler.
+											Ve bebekler, ördekler ve toplarla ilgili
+yapması gereken bu tür genellemeleri
+											neredeyse her şey için yapmak zorundadır:
+											ayakkabılar, gemiler, mühür mumları,
+lahanalar, krallar...
+									","
+											Wissenschaftler prüfen also genau,
+ob Stichproben zufällig gewählt wurden.
+											Aber was hat das mit Babys zu tun?
+											Babys müssen die ganze Zeit 
+aus kleinen Stichproben verallgemeinern.
+											Sie sehen ein paar Gummienten
+und lernen, dass sie schwimmen,
+											oder ein paar Bälle und lernen, 
+dass sie hüpfen.
+											Dann entwickeln sie Erwartungen 
+über Enten und Bälle,
+											die sie für den Rest ihres Lebens
+auf Gummienten und -bälle ausweiten.
+											Diese Verallgemeinerungen, 
+die Babys bei Enten und Bällen anwenden,
+											müssen sie bei fast allem anwenden:
+											bei Schuhen, Schiffen,
+Siegellack, Käfigen und Königen.
+									","
+											Então, os cientistas preocupam-se
+se as amostras são aleatórias ou não,
+											mas o que é que tem isto a ver com bebés?
+											Bem, os bebés precisam de generalizar
+pequenas amostras de dados o tempo todo.
+											Veem alguns patos de borracha
+e aprendem que eles flutuam,
+											ou veem algumas bolas
+e aprendem que elas saltam.
+											Desenvolvem expetativas
+sobre patos e bolas
+											que vão alargar aos 
+patos de borracha e bolas
+											para o resto da vida.
+											O tipo de generalizações que os bebés
+têm que fazer sobre patos e bolas,
+											precisam fazer sobre quase tudo o resto:
+											sapatos, barcos, lacre, couves e reis.
+									",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+","
+","
+","
+",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+											So do babies care whether
+the tiny bit of evidence they see
+											is plausibly representative
+of a larger population?
+											Let's find out.
+											I'm going to show you two movies,
+											one from each of two conditions
+of an experiment,
+											and because you're going to see
+just two movies,
+											you're going to see just two babies,
+											and any two babies differ from each other
+in innumerable ways.
+											But these babies, of course,
+here stand in for groups of babies,
+											and the differences you're going to see
+											represent average group differences
+in babies' behavior across conditions.
+											In each movie, you're going to see
+a baby doing maybe
+											just exactly what you might
+expect a baby to do,
+											and we can hardly make babies
+more magical than they already are.
+											But to my mind the magical thing,
+											and what I want you to pay attention to,
+											is the contrast between
+these two conditions,
+											because the only thing
+that differs between these two movies
+											is the statistical evidence
+the babies are going to observe.
+											We're going to show babies
+a box of blue and yellow balls,
+											and my then-graduate student,
+now colleague at Stanford, Hyowon Gweon,
+											is going to pull three blue balls
+in a row out of this box,
+											and when she pulls those balls out,
+she's going to squeeze them,
+											and the balls are going to squeak.
+											And if you're a baby,
+that's like a TED Talk.
+											It doesn't get better than that.
+											(Laughter)
+											But the important point is it's really
+easy to pull three blue balls in a row
+											out of a box of mostly blue balls.
+											You could do that with your eyes closed.
+											It's plausibly a random sample
+from this population.
+											And if you can reach into a box at random
+and pull out things that squeak,
+											then maybe everything in the box squeaks.
+											So maybe babies should expect
+those yellow balls to squeak as well.
+											Now, those yellow balls
+have funny sticks on the end,
+											so babies could do other things
+with them if they wanted to.
+											They could pound them or whack them.
+											But let's see what the baby does.
+									","
+											Peki bebekler gördükleri
+küçücük bulgu parçasının
+											daha büyük bir ana kitleyi
+temsil edişini umursar mı?
+											Haydi öğrenelim.
+											Size iki video göstereceğim,
+											bir deneyin iki koşulunu
+da gösteren videolar
+											ve yalnızca iki video izleyeceğiniz için
+											yalnızca iki bebek göreceksiniz
+											ve herhangi iki bebek birbirinden
+sayısız farklılıklar gösterir.
+											Fakat bu bebekler, tabii ki,
+bebek gruplarını temsil ediyor
+											ve göreceğiniz farklılıklar
+											bebeklerin davranışındaki koşullar arası
+ortalama grup farklılıklarını temsil ediyor.
+											Her videoda, bir bebeğin belki de
+											bir bebekten tam da bekleyeceğiniz
+şeyi yaptığını göreceksiniz
+											ve bebekleri olduklarından daha sihirli
+yapmamız mümkün değildir.
+											Fakat benim zihnimde, sihirli olan şey
+											ve dikkat etmenizi istediğim şey
+											bu iki koşul arasındaki zıtlık,
+											çünkü bu iki video arasındaki
+tek farklı şey
+											bebeklerin gözlemleyeceği
+istatistiksel bulgu.
+											Bebeklere mavi ve sarı toplarla dolu
+bir kutu göstereceğiz
+											ve eski yüksek lisans öğrencim, şimdiki
+Stanford'lu meslektaşım Hyowon Gweon,
+											bu kutudan art arda
+üç mavi top çekecek
+											ve bu topları çektiğinde
+onları sıkacak
+											ve toplar ses çıkaracak.
+											Ve bebekseniz, bu tam
+TED Konuşması gibidir.
+											Bundan daha iyisi olamaz.
+											(Gülüşmeler)
+											Fakat önemli olan şey şu ki çoğu topun
+mavi olduğu bir kutudan art arda
+											üç mavi top çekmek gerçekten kolaydır.
+											Bunu gözleriniz kapalı da yapabilirsiniz.
+											Ana kitleden çekilen toplar
+olası biçimde rastgele bir örnektir.
+											Ve kutunun içinden rastgele çektiğiniz
+toplar ses çıkarıyorsa, belki
+											kutudaki tüm toplar ses çıkarıyordur.
+											Bu yüzden belki bebekler sarı topların da
+ses çıkarmasını bekliyordur.
+											Bu sarı topların ucunda
+komik çubuklar takılı,
+											bebekler isterlerse sarı toplara
+farklı şeyler de yapabilir.
+											Alıp yere vurabilirler.
+											Ama bir görelim ne yapıyorlar.
+									","
+											Kümmern sich Babys, ob der
+kleine Beweis, den sie sehen,
+											ein plausibler Repräsentant
+einer größeren Population ist?
+											Finden wir es heraus.
+											Ich werde Ihnen zwei Videos zeigen,
+eins für jede Bedingung eines Experiments,
+											und weil Sie nur zwei Videos sehen werden,
+sehen Sie auch nur zwei Babys,
+											und zwei Babys unterscheiden 
+sich in unzähligen Dingen.
+											Aber diese Babys hier sollen
+für Gruppen von Babys stehen,
+											und die Unterschiede, 
+die Sie sehen werden,
+											stehen für durchschnittliche 
+Gruppenunterschiede
+											von Babys gegenüber Bedingungen.
+											In jedem Video werden Sie ein Baby sehen,
+											das genau das tut,
+was Sie erwarten würden,
+											und wir können die Babys kaum
+faszinierender machen als sie schon sind.
+											Für mich ist das Faszinierende,
+											und das worauf Sie achten sollten,
+											der Unterschied zwischen 
+den beiden Bedingungen,
+											denn der einzige Unterschied
+zwischen den beiden Videos
+											ist der statistische Beweis, 
+den die Babys beobachten werden.
+											Wir werden den Babys eine Box mit 
+blauen und gelben Bällen zeigen,
+											und meine damalige Masterstudentin,
+jetzt Kollegin in Stanford, Hyowon Gweon,
+											wird nacheinander drei blaue Bälle 
+aus der Box nehmen,
+											und sie dann drücken
+											und die Bälle werden quietschen.
+											Für die Babys ist das wie ein TED-Vortrag.
+											Etwas Besseres gibt es nicht.
+											(Gelächter)
+											Aber das Entscheidende ist, dass es sehr
+einfach ist, nacheinander drei blaue Bälle
+											aus einer Box mit mehrheitlich
+blauen Bällen zu ziehen.
+											Sie könnten das mit
+geschlossenen Augen machen.
+											Das ist also eine willkürliche 
+Stichprobe einer Grundgesamtheit.
+											Fassen Sie willkürlich in eine Box
+und ziehen Dinge heraus, die quietschen,
+											dann könnte alles quietschen,
+was in der Box ist.
+											Also würden Babys vielleicht erwarten,
+dass auch die gelben Bälle quietschen.
+											Die gelben Bälle haben 
+an einem Ende lustige Stiele,
+											sodass Babys auch mit ihnen
+trommeln oder schlagen könnten.
+											Aber schauen wir mal, was das Baby macht.
+									","
+											Será que os bebés reparam
+se os pedacinhos de evidências que veem
+											são representantes plausíveis
+de uma população mais ampla?
+											Vamos descobrir.
+											Vou mostrar dois filmes,
+											um para cada uma
+de duas situações de uma experiência.
+											Como vocês vão ver apenas dois filmes,
+											verão apenas dois bebés,
+											e quaisquer dois bebés diferem entre si
+de várias maneiras.
+											Mas estes bebés, claro,
+representam grupos de bebés.
+											As diferenças que vão ver
+											representam as diferenças médias 
+de grupos de bebés em cada situação.
+											Em cada filme, vocês vão ver
+um bebé a fazer,
+											talvez exatamente o que vocês
+esperam que um bebé faça,
+											e dificilmente podemos tornar os bebés
+mais mágicos do que já são.
+											Mas para mim, a coisa mágica,
+											na qual quero que vocês prestem atenção,
+											é o contraste entre estas duas situações,
+											porque a única coisa que difere 
+entre estes dois filmes
+											são as evidências estatísticas
+que os bebés vão observar.
+											Vamos mostrar aos bebés
+uma caixa de bolas azuis e amarelas.
+											A minha ex-aluna, que agora é minha
+colega em Stanford, Hyowon Gweon,
+											vai tirar da caixa
+três bolas azuis de seguida.
+											Ao tirar as bolas, ela vai apertá-las,
+											e as bolas vão chiar.
+											Para um bebé,
+é como estar numa palestra do TED.
+											Não há nada melhor que isto.
+											(Risos)
+											Mas o que importa é que é fácil
+tirar três bolas azuis de seguida
+											de uma caixa com uma maioria
+de bolas azuis.
+											Podíamos fazer isto de olhos fechados.
+											É plausível que sejam evidências
+aleatórias desta população.
+											Se tiramos duma caixa, ao acaso,
+qualquer coisa que chia,
+											então talvez tudo dentro da caixa chie.
+											Talvez os bebés devessem esperar que 
+as bolas amarelas também chiassem.
+											Mas as bolas amarelas
+têm bastões engraçados na ponta,
+											para os bebés fazerem
+outras coisas com elas, se quiserem.
+											Podem amassá-las ou bater com elas.
+											Mas vamos ver o que o bebé faz.
+											(Vídeo)
+									",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+","
+","
+","
+",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+											(Video) Hyowon Gweon: See this?
+(Ball squeaks)
+											Did you see that?
+(Ball squeaks)
+											Cool.
+											See this one?
+											(Ball squeaks)
+											Wow.
+									","
+											(Video) Hyowon Gweon: Bunu görüyor musun?
+(Top ses çıkarıyor)
+											Gördün mü?
+(Top ses çıkarıyor)
+											Çok güzel.
+											Bunu görüyor musun?
+											(Top ses çıkarıyor)
+											Vay be.
+									","
+											(Video) Hyowon Gweon: Siehst du das?
+(Der Ball quietscht)
+											Hast du das gesehen?
+(Der Ball quietscht.)
+											Cool.
+											Siehst du den hier?
+											(Der Ball quietscht.)
+											Wow.
+									","
+											Hyowon Gweon: Vês isto?
+											(Bola chia)
+											Viste?
+											(Bola chia)
+											Fixe.
+											Vês esta?
+											(Bola chia)
+											Uau.
+									",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+","
+","
+","
+",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+											Laura Schulz: Told you. (Laughs)
+									","
+											Laura Schulz: Dedim size. (Gülüşmeler)
+									","
+											Laura Schulz: Das meinte ich. (Lacht)
+									","
+											Laura Schulz: Eu não disse?
+									",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+","
+","
+","
+",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+											(Video) HG: See this one?
+(Ball squeaks)
+											Hey Clara, this one's for you.
+You can go ahead and play.
+											(Laughter)
+									","
+											(Video) HG: Bunu görüyor musun?
+(Top ses çıkarıyor)
+											Bak Clara, bu sana.
+Alıp oynayabilirsin.
+											(Gülüşmeler)
+									","
+											(Video) HG: Siehst du das?
+(Der Ball quietscht.)
+											Hey Clara, der hier ist für dich.
+Damit kannst du spielen.
+											(Gelächter)
+									","
+											HG: Estás a ver esta?
+											(Bola chia)
+											Ei, Clara, esta é para ti.
+Podes brincar, se quiseres.
+											(Risos)
+									",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+","
+","
+","
+",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+											LS: I don't even have to talk, right?
+											All right, it's nice that babies
+will generalize properties
+											of blue balls to yellow balls,
+											and it's impressive that babies
+can learn from imitating us,
+											but we've known those things about babies
+for a very long time.
+											The really interesting question
+											is what happens when we show babies
+exactly the same thing,
+											and we can ensure it's exactly the same
+because we have a secret compartment
+											and we actually pull the balls from there,
+											but this time, all we change
+is the apparent population
+											from which that evidence was drawn.
+											This time, we're going to show babies
+three blue balls
+											pulled out of a box
+of mostly yellow balls,
+											and guess what?
+											You [probably won't] randomly draw
+three blue balls in a row
+											out of a box of mostly yellow balls.
+											That is not plausibly
+randomly sampled evidence.
+											That evidence suggests that maybe Hyowon
+was deliberately sampling the blue balls.
+											Maybe there's something special
+about the blue balls.
+											Maybe only the blue balls squeak.
+											Let's see what the baby does.
+									","
+											LS: Konuşmama bile gerek yok, değil mi?
+											Pekâlâ, bebeklerin mavi topların
+özelliklerini sarı toplara
+											genellemesi güzel
+											ve bizi taklit ederek
+öğrenebilmeleri etkileyici
+											fakat bebeklerle ilgili olarak
+bunları uzun süredir biliyoruz.
+											Gerçekten ilginç olan soru şu:
+											bebeklere tam olarak
+aynı şeyi gösterirsek ne olur?
+											Birebir aynı olduğuna emin olabiliriz,
+çünkü gizli bir bölmemiz var
+											ve aslında topları oradan çekiyoruz,
+											ancak bu sefer, değiştirdiğimiz
+tek şey bulgunun çekildiği
+											görünürdeki ana kitlenin kendisi.
+											Bu sefer, bebeklere üç mavi topu
+											çoğunlukla sarı topların olduğu
+kutudan çekerek göstereceğiz
+											ve bilin bakalım ne olacak?
+											Çoğunluğun sarı toplar olduğu
+kutudan art arda üç mavi topu
+											[muhtemelen] çekemezsiniz.
+											Böyle bir şey muhtemelen
+rastgele örnekli bulgu olmaz.
+											Böyle bir bulgu, Hyowon'un kasıtlı olarak
+mavi topları çektiği izlenimini verebilir.
+											Belki toplarla ilgili özel bir şey var.
+											Belki yalnızca mavi toplar ses çıkarıyor.
+											Bakalım bebek ne yapıyor.
+									","
+											Laura Schulz: Das ist deutlich, oder?
+											Es ist super, dass Babys 
+Eigenschaften blauer Bälle
+											auf gelbe Bälle übertragen,
+											und beeindruckend, dass sie 
+davon lernen, uns nachzuahmen.
+											Dies wissen wir aber schon seit langem.
+											Die wirklich interessante Frage ist,
+											was passiert, wenn wir Babys 
+genau dasselbe zeigen
+											und es auch genau dasselbe ist,
+da wir ein Geheimfach haben,
+											aus dem wir die Bälle 
+tatsächlich herausnehmen.
+											Dieses Mal ändern wir nur 
+die Grundgesamtheit,
+											aus dem der Beweis stammt.
+											Dieses Mal werden wir den Babys 
+drei blaue Bälle zeigen,
+											die aus einer Box mit mehrheitlich
+gelben Bällen gezogen werden.
+											Raten Sie mal, was passiert?
+											Sie werden höchstwahrscheinlich 
+keine 3 blauen Bälle hintereinander
+											aus einer Box mit
+überwiegend gelben ziehen.
+											Das wäre also keine zufällige Stichprobe.
+											Diese Stichprobe würde unterstellen, dass 
+Hyowon absichtlich blaue Bälle zieht.
+											Vielleicht sind die blauen Bälle
+ja etwas Besonderes.
+											Vielleicht quietschen
+nur die blauen Bälle.
+											Schauen wir uns an, was das Baby macht.
+									","
+											LS: Nem preciso dizer nada, certo?
+											Tudo bem, é bom que os bebés
+generalizem as propriedades
+											das bolas azuis para as amarelas.
+											É impressionante que os bebés
+aprendam por imitação,
+											mas já sabemos estas coisas 
+sobre bebés há muito tempo.
+											A questão mais interessante
+											é o que acontece quando mostramos
+exatamente a mesma coisa,
+											e podemos garantir que é a mesma coisa
+pois temos um compartimento secreto
+											e tiramos as bolas de lá.
+											Mas, desta vez, vamos mudar
+a população aparente
+											a partir da qual foram obtidas as evidências .
+											Desta vez, vamos mostrar
+aos bebés três bolas azuis
+											tiradas de uma caixa com 
+a maioria de bolas amarelas,
+											e adivinhem?
+											Não é provável tirarmos
+três bolas azuis de seguida
+											de uma caixa com a maioria 
+de bolas amarelas.
+											Isto não é uma prova
+de uma amostra aleatória plausível.
+											Estas evidências indicam
+											que Hyowon escolheu
+as bolas azuis, de propósito.
+											Talvez haja algo especial 
+nas bolas azuis.
+											Talvez apenas as bolas azuis chiem.
+											Vamos ver o que o bebé faz.
+									",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+","
+","
+","
+",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+											(Video) HG: See this?
+(Ball squeaks)
+											See this toy?
+(Ball squeaks)
+											Oh, that was cool. See?
+(Ball squeaks)
+											Now this one's for you to play.
+You can go ahead and play.
+									","
+											(Video) HG: Bunu görüyor musun?
+(Top ses çıkarıyor)
+											Bu oyuncağı görüyor musun?
+(Top ses çıkarıyor)
+											Aman da ne güzel. Gördün mü?
+(Top ses çıkarıyor)
+											Bak bu da senin için.
+Alıp oynayabilirsin.
+									","
+											(Video) HG: Siehst du das?
+(Der Ball quietscht.)
+											Siehst du das Spielzeug?
+(Der Ball quietscht.)
+											Oh, das war cool. Siehst du?
+(Der Ball quietscht.)
+											Der hier ist für dich zum Spielen.
+Damit kannst du spielen.
+									","
+											(Vídeo) HG: Vês isto?
+											(Bola chia)
+											Vês este brinquedo?
+											(Bola chia)
+											Oh, isto foi fixe! Vês?
+											(Bola chia)
+											Agora, esta é para tu brincares.
+Podes brincar se quiser.
+									",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+","
+","
+","
+",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+											(Fussing)
+(Laughter)
+									","
+											(Mızıldanıyor)
+(Gülüşmeler)
+									","
+											(Gejammer) (Gelächter)
+									","
+											(Balbucios)
+									",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+","
+","
+","
+",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+											LS: So you just saw
+two 15-month-old babies
+											do entirely different things
+											based only on the probability
+of the sample they observed.
+											Let me show you the experimental results.
+											On the vertical axis, you'll see
+the percentage of babies
+											who squeezed the ball in each condition,
+											and as you'll see, babies are much
+more likely to generalize the evidence
+											when it's plausibly representative
+of the population
+											than when the evidence
+is clearly cherry-picked.
+											And this leads to a fun prediction:
+											Suppose you pulled just one blue ball
+out of the mostly yellow box.
+											You [probably won't] pull three blue balls
+in a row at random out of a yellow box,
+											but you could randomly sample
+just one blue ball.
+											That's not an improbable sample.
+											And if you could reach into
+a box at random
+											and pull out something that squeaks,
+maybe everything in the box squeaks.
+											So even though babies are going to see
+much less evidence for squeaking,
+											and have many fewer actions to imitate
+											in this one ball condition than in
+the condition you just saw,
+											we predicted that babies themselves
+would squeeze more,
+											and that's exactly what we found.
+											So 15-month-old babies,
+in this respect, like scientists,
+											care whether evidence
+is randomly sampled or not,
+											and they use this to develop
+expectations about the world:
+											what squeaks and what doesn't,
+											what to explore and what to ignore.
+									","
+											LS: Az önce 15 aylık iki bebeğin
+											yalnızca gözlemledikleri örneğin
+											olasılığına dayanarak bambaşka
+şeyler yapışını gördünüz.
+											Deneysel sonuçlara bakalım.
+											Dikey eksende, her iki durumda da
+topu sıkan bebeklerin
+											yüzdesini görüyorsunuz
+											ve gördüğünüz gibi, bebekler;
+bulgu, ana kitlenin muhtemel temsilcisi
+											olduğunda bulguyu genellemeye,
+											bulgu keyfî olarak seçildiğindeki durumda
+genellemekten daha yatkınlar.
+											Ve bu, eğlenceli bir öngörüye çıkıyor:
+											Çoğu sarı top olan kutudan yalnızca bir
+mavi top çektiğinizi varsayın.
+											Sarı top kutusundan art arda üç kez
+mavi topu muhtemelen çekemezsiniz,
+											ama rastgele yalnızca
+bir mavi top çekebilirsiniz.
+											Olasılıksız bir örnek değil.
+											Ve bir kutudan rastgele bir şey çekip de
+											çektiğiniz şey ses çıkarıyorsa, belki
+kutudaki her şey ses çıkarıyordur.
+											Bu yüzden, bebekler bu tek top koşulunda
+izlediğiniz bir önceki koşula göre
+											ses çıkaran daha az bulgu görseler de
+											ve taklit edecekleri daha az eylem olsa da
+											bebeklerin daha çok
+top sıkacağını öngördük
+											ve bulduğumuz da tam olarak bu oldu.
+											15 aylık bebekler, bu hususta,
+tıpkı bilim adamları gibi
+											bulgunun rastgele örneklenip
+örneklenmediğini önemsiyor
+											ve bunu dünyayla ilgili beklentiler
+edinmek için kullanıyorlar:
+											Ne ses çıkarır, ne ses çıkarmaz,
+											ne keşfedilmeli, ne görmezden gelinmeli?
+									","
+											LS: Sie haben gerade zwei
+15-Monate alte Babys
+											völlig unterschiedliche Dinge tun sehen,
+											und das nur, weil die Wahrscheinlichkeit 
+der Stichprobe unterschiedlich war.
+											Hier die Ergebnisse des Experiments.
+											Auf der vertikalen Achse sehen Sie
+den Prozentsatz der Babys,
+											die den Ball in jedem Fall gedrückt haben,
+											und wie Sie sehen werden, 
+ist es wahrscheinlicher,
+											dass sie die Stichprobe verallgemeinern,
+											wenn es ein plausibler Repräsentant
+der Grundgesamtheit ist,
+											als wenn die Stichprobe absichtlich
+ausgewählt wurde.
+											Das führt zu einer lustigen Vorhersage:
+											Angenommen, Sie ziehen nur einen blauen 
+Ball aus der mehrheitlich gelben Box.
+											Sie würden wahrscheinlich nicht zufällig
+hintereinander 3 blaue Bälle ziehen,
+											aber Sie könnten zufällig nur einen
+blauen Ball herausziehen.
+											Das wäre keine unmögliche Stichprobe.
+											Wenn Sie zufällig in eine Box greifen
+											und etwas herausziehen, das quietscht,
+dann quietscht vielleicht alles darin.
+											Selbst wenn Babys weniger Beweise
+für das Quietschen sehen
+											und sie weniger Aktionen zur Nachahmung
+in dieser Ein-Ball-Bedingung haben,
+											als in der Bedingung,
+die Sie gerade gesehen haben,
+											vermuteten wir, dass Babys 
+mehr Bälle drücken würden
+											und das ist genau das,
+was wir herausfanden.
+											Also zählt für 15-Monate alte Babys, 
+genauso wie für Wissenschaftler,
+											ob eine Stichprobe zufällig 
+gezogen wurde oder nicht,
+											und sie nutzen dieses Wissen, um 
+Vermutungen über die Welt anzustellen:
+											was quietscht und was nicht,
+											was man entdecken und
+was man ignorieren kann.
+									","
+											LS: Pronto, acabaram de ver 
+dois bebés de 15 meses
+											a fazer coisas totalmente diferentes,
+											com base apenas na probabilidade
+da amostra que observaram.
+											Vou mostrar os resultados experimentais.
+											No eixo vertical, temos
+a percentagem de bebés
+											que apertaram a bola em cada situação.
+											Como podemos ver, os bebés 
+tendem a generalizar as evidências
+											quando há uma amostra representativa
+plausível da população
+											em vez de uma amostra
+escolhida propositadamente.
+											Isto leva a uma previsão divertida:
+											suponham que tirávamos uma bola azul
+da caixa com maioria de bolas amarelas.
+											Provavelmente, não tirávamos
+três bolas azuis de seguida,
+											mas podíamos tirar aleatoriamente 
+uma bola azul.
+											Isso não é uma amostra improvável.
+											Se pudéssemos mexer
+numa caixa ao acaso
+											e tirar qualquer coisa que chie,
+talvez todas as coisas da caixa chiem.
+											Então, mesmo que os bebés estejam
+a ver menos evidências para o chiar,
+											e tenham muitas menos ações para imitar
+											nesta situação de uma bola
+que acabámos de ver,
+											previmos que os próprios bebés
+apertariam mais,
+											e foi exatamente isso que vimos.
+											Então, os bebés de 15 meses,
+como se fossem cientistas,
+											reparam se as evidências são
+amostras aleatórias ou não,
+											e usam isso para desenvolver
+expetativas sobre o mundo:
+											o que chia e o que não chia,
+											o que explorar e o que ignorar.
+									",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+","
+","
+","
+",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+											Let me show you another example now,
+											this time about a problem
+of causal reasoning.
+											And it starts with a problem
+of confounded evidence
+											that all of us have,
+											which is that we are part of the world.
+											And this might not seem like a problem
+to you, but like most problems,
+											it's only a problem when things go wrong.
+											Take this baby, for instance.
+											Things are going wrong for him.
+											He would like to make
+this toy go, and he can't.
+											I'll show you a few-second clip.
+											And there's two possibilities, broadly:
+											Maybe he's doing something wrong,
+											or maybe there's something
+wrong with the toy.
+											So in this next experiment,
+											we're going to give babies
+just a tiny bit of statistical data
+											supporting one hypothesis over the other,
+											and we're going to see if babies
+can use that to make different decisions
+											about what to do.
+									","
+											Şimdi size bir başka örnek göstereyim,
+											bu seferki nedensel
+akıl yürütme sorunuyla ilgili.
+											Ve hepimizin yaşadığı bir şaşırtıcı bulgu
+											sorunuyla başlıyor,
+											dünyanın parçası olmamızın sorunu.
+											Ve size bir sorun gibi görünmeyebilir,
+fakat çoğu sorun gibi,
+											yalnızca işler yoldan çıkınca
+sorun hâlini alıyor.
+											Örneğin bu bebeği ele alalım.
+											Onun için işler yolunda gitmiyor.
+											Bu oyuncağı çalıştırmak
+istiyor ve yapamıyor.
+											Birkaç saniyelik videoyu göstereceğim.
+											Ve kabaca iki olasılık var:
+											Belki bir şeyleri yanlış yapıyor
+											ya da belki oyuncakta
+bir bozukluk var.
+											Diğerini izleyen bu deneyde,
+											bebeklere, bir varsayımı diğerine göre
+destekleyen yalnızca küçücük
+											istatistiksel veri parçası vereceğiz
+											ve bebekler, yapacakları
+şeye karar verirken bunu
+											kullanabilecekler mi göreceğiz.
+									","
+											Sehen wir uns ein weiteres Beispiel an,
+											dieses Mal ein Problem
+des kausalen Denkens.
+											Es beginnt mit dem Problem
+widersprüchlicher Beweise,
+											das jeder hat,
+											was der Grund dafür ist, 
+dass wir Teil der Welt sind.
+											Es mag für Sie nicht wie ein Problem 
+aussehen, aber wie die meisten Probleme
+											ist es nur dann ein Problem,
+wenn Dinge schief gehen.
+											Nehmen wir z. B. dieses Baby.
+											Für ihn gehen die Dinge schief.
+											Er möchte dieses Spielzeug 
+in Gang setzen und es geht nicht.
+											Ich zeige Ihnen einen kurzes Video.
+											Grob gesagt, gibt es zwei Möglichkeiten:
+											Entweder er macht etwas falsch
+											oder das Spielzeug ist kaputt.
+											Im nächsten Experiment
+											geben wir den Babys
+nur wenige statistische Daten,
+											um die eine Hypothese gegenüber 
+der anderen vorzuziehen,
+											um zu sehen, ob die Babys das nutzen,
+um andere Entscheidungen zu treffen.
+									","
+											Agora vou mostrar outro exemplo,
+											desta vez sobre um problema
+de raciocínio causal.
+											Começa com um problema
+de evidências confusas
+											que todos nós temos,
+											ou seja, que fazemos parte do mundo.
+											Isto pode não vos parecer um problema 
+mas, como a maioria dos problemas,
+											só é um problema
+quando as coisas não correm bem.
+											Vejam este bebé, por exemplo.
+											As coisas não lhe correm bem.
+											Ele queria que este brinquedo tocasse, 
+mas não consegue.
+											Vou mostrar-vos um vídeo
+de alguns segundos.
+											Há duas possibilidades:
+											Talvez ele esteja a fazer algo mal,
+											ou talvez haja algo de errado
+com o brinquedo.
+											Portanto, nesta próxima experiência,
+											vamos dar aos bebés
+apenas alguns dados estatísticos
+											apoiando uma hipótese sobre a outra.
+											Vamos ver se os bebés conseguem 
+tomar decisões diferentes
+											quanto ao que fazer.
+									",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+","
+","
+","
+",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+											Here's the setup.
+											Hyowon is going to try to make
+the toy go and succeed.
+											I am then going to try twice
+and fail both times,
+											and then Hyowon is going
+to try again and succeed,
+											and this roughly sums up my relationship
+to my graduate students
+											in technology across the board.
+											But the important point here is
+it provides a little bit of evidence
+											that the problem isn't with the toy,
+it's with the person.
+											Some people can make this toy go,
+											and some can't.
+											Now, when the baby gets the toy,
+he's going to have a choice.
+											His mom is right there,
+											so he can go ahead and hand off the toy
+and change the person,
+											but there's also going to be
+another toy at the end of that cloth,
+											and he can pull the cloth towards him
+and change the toy.
+											So let's see what the baby does.
+									","
+											Böyle bir kurgumuz var.
+											Hyowon oyuncağı çalıştırmayı
+deneyecek ve başaracak.
+											Sonra ben iki kez deneyeceğim
+ve ikisinde de başarısız olacağım
+											ve sonra Hyowon yeniden
+deneyip başaracak
+											ve bu durum, kurul boyunca yüksek
+lisans öğrencilerimle teknoloji
+											durumumu kabaca özetliyor.
+											Fakat buradaki önemli nokta,
+sorunun oyuncakla ilgili olmadığı;
+											kişiyle ilgili olduğuyla ilgili küçük
+bulgu sağlanıyor.
+											Kimi insanlar bu oyuncağı çalıştırabiliyor
+											kimileri yapamıyor.
+											Şimdi, bebek oyuncağı alınca
+bir seçim yapacak.
+											Annesi hemen yanında,
+											bu yüzden oyuncağı ona verip
+kişiyi değiştirebilir,
+											fakat kumaşın ucunda başka bir
+oyuncak daha bulunacak
+											ve kumaşı kendine çekerek
+oyuncağı değiştirebilir.
+											Haydi bakalım bebek ne yapıyor.
+									","
+											Und so läuft es ab:
+											Hyowon wird versuchen,
+das Spielzeug in Gang zu setzen
+											und wird Erfolg haben.
+											Ich werde es versuchen und 
+beide Male keinen Erfolg haben
+											und dann wird Hyowon es erneut versuchen
+und wieder Erfolg haben.
+											Das fasst die Beziehung 
+zu meinen Masterstudenten
+											in der Technik allgemein zusammen.
+											Aber das Wichtige hier ist, dass es
+einen kleinen Beweis dafür erbringt,
+											dass das Problem nicht mit dem Spielzeug,
+sondern mit der Person zusammenhängt.
+											Einige Leute können das Spielzeug 
+in Gang setzen, andere eben nicht.
+											Bekommt das Baby das Spielzeug,
+wird es die Wahl haben.
+											Seine Mutter ist in der Nähe,
+											also könnte er das Spielzeug
+an eine andere Person weitergeben,
+											aber es wird noch ein anderes
+Spielzeug auf dem Tuch geben,
+											und er kann das Tuch zu sich ziehen
+und das Spielzeug tauschen.
+											Schauen wir, was das Baby macht.
+									","
+											Aqui está a experiência.
+											A Hyowon vai tentar fazer
+com que o brinquedo toque e consegue.
+											Depois, eu vou tentar duas vezes e falhar.
+											A Hyowon vai tentar de novo 
+e vai conseguir,
+											e isto resume a minha relação
+com os meus alunos de pós-graduação
+											em tecnologia.
+											Mas o importante aqui é fornecer
+um pouco de evidências
+											de que o problema
+não é o brinquedo, é a pessoa.
+											Algumas pessoas fazem o brinquedo tocar,
+											e outras não.
+											Agora, quando o bebé pega no brinquedo,
+ele tem uma escolha.
+											A mãe dele está ali,
+											para ele poder entregar o brinquedo
+e mudar de pessoa,
+											mas também haverá outro brinquedo,
+no final daquele pano.
+											Ele pode puxar o pano 
+e mudar de brinquedo.
+											Então vamos ver o que o bebé faz.
+											(Vídeo)
+									",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+","
+","
+","
+",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+											(Video) HG: Two, three. Go!
+(Music)
+											LS: One, two, three, go!
+											Arthur, I'm going to try again.
+One, two, three, go!
+											YG: Arthur, let me try again, okay?
+											One, two, three, go!
+(Music)
+											Look at that. Remember these toys?
+											See these toys? Yeah, I'm going
+to put this one over here,
+											and I'm going to give this one to you.
+											You can go ahead and play.
+											LS: Okay, Laura, but of course,
+babies love their mommies.
+											Of course babies give toys
+to their mommies
+											when they can't make them work.
+											So again, the really important question
+is what happens when we change
+											the statistical data ever so slightly.
+											This time, babies are going to see the toy
+work and fail in exactly the same order,
+											but we're changing
+the distribution of evidence.
+											This time, Hyowon is going to succeed
+once and fail once, and so am I.
+											And this suggests it doesn't matter
+who tries this toy, the toy is broken.
+											It doesn't work all the time.
+											Again, the baby's going to have a choice.
+											Her mom is right next to her,
+so she can change the person,
+											and there's going to be another toy
+at the end of the cloth.
+											Let's watch what she does.
+									","
+											(Video) HG: İki, üç. Başla!
+(Müzik)
+											LS: Bir, iki, üç, başla!
+											Arthur, yeniden deneyeceğim.
+Bir, iki, üç, başla!
+											YG: Arthur, ben yeniden
+deneyeyim, olur mu?
+											Bir, iki, üç, başla!
+(Müzik)
+											Şuna bak. Bu oyuncakları hatırladın mı?
+											Oyuncakları görüyor musun?
+Tamam, bunu buraya koyuyorum
+											ve bunu da sana veriyorum.
+											Alıp oynayabilirsin.
+											LS: Tamam Laura, ama tabii ki
+bebekler annelerini severler.
+											Tabii ki bebekler
+oyuncakları çalıştıramayınca
+											annelerine verir.
+											Bu yüzden yine, önemli soru,
+istatistiksel veriyi çok azıcık
+											değiştirince ne olacağıdır.
+											Bu sefer, bebekler oyuncağın bir öncekiyle
+aynı biçimde çalışıp bozulduğunu görecek,
+											fakat bulgunun dağılımını değiştireceğiz.
+											Bu sefer, Hyowon bir kez başarıp bir kez
+yapamayacak, bende de aynısı olacak.
+											Ve oyuncağı kimin denediğinin önemi
+olmayacak, oyuncak bozuk izlenimi verecek.
+											Oyuncak her denemede çalışmıyor.
+											Yine, bebek bir seçim yapacak.
+											Annesi hemen yanında, bu yüzden
+bebek deneyeni değiştirebilir
+											ve kumaşın ucunda başka
+bir oyuncak daha olacak.
+											Bebek ne yapıyor izleyelim.
+									","
+											(Video) HG: Zwei, drei. Los!
+(Musik)
+											LS: Eins, zwei, drei, los!
+											Arthur, ich versuche es noch einmal.
+Eins, zwei, drei, los!
+											YG: Arthur, lass es mich nochmal 
+versuchen, ja?
+											Eins, zwei, drei, los!
+(Musik)
+
+											Schau. Erinnerst du dich 
+an die Spielsachen?
+											Siehst du sie? Ich lege das eine hierüber
+											und das andere gebe ich dir.
+											Damit kannst du spielen.
+											LS: Okay, Laura, aber natürlich
+lieben Babys ihre Mütter.
+											Natürlich geben Babys
+ihren Müttern das Spielzeug,
+											wenn sie es selbst 
+nicht in Gang setzen können.
+											Also ist die wichtige Frage, 
+was passieren wird,
+											wenn wir die statistischen Daten 
+wieder leicht ändern.
+											Jetzt sehen die Babys, dass das Spielzeug 
+funktioniert und auch versagt,
+											aber wir ändern die Beweisverteilung.
+
+											Dieses Mal wird Hyowon einmal Erfolg haben
+und einmal versagen, genauso wie ich.
+											Das lässt vermuten, dass es egal ist,
+wer es versucht, denn es ist kaputt.
+											Es funktioniert nicht jedes Mal.
+											Wieder wird das Baby die Wahl haben.
+											Ihre Mutter sitzt neben ihr,
+also kann sie die Person wechseln,
+											und es wird auch ein weiteres Spielzeug 
+am Ende des Tuchs geben.
+											Schauen wir, was sie tut.
+									","
+											HG: Dois, três. Vai!
+											(Música)
+											LS: Um, dois, três, vai!
+											Arthur, vou tentar novamente.
+											Um, dois, três, vai!
+											HG: Arthur, vou tentar de novo, está bem?
+											Um, dois, três, vai!
+											(Música)
+											Vê isto. 
+Lembras-te destes brinquedos?
+											Vês estes brinquedos? 
+Sim, vou pôr este aqui,
+											e vou dar-te este.
+											Podes brincar se quiseres.
+
+											LS: Ok, Laura, mas é óbvio
+que os bebés amam as mamãs.
+											É claro que os bebés vão dar
+os brinquedos às mamãs
+											quando não conseguem pô-los a funcionar.
+											Novamente, o que importa
+é o que acontece,
+											quando mudamos ligeiramente
+os dados estatísticos.
+											Desta vez, os bebés vão ver o brinquedo
+funcionar e falhar pela mesma ordem,
+											mas mudamos a distribuição das evidências.
+											Desta vez, a Hyowon vai conseguir 
+uma vez e falhar uma vez, e eu também.
+											Isto sugere que não importa quem tenta, 
+o brinquedo está avariado.
+											Ele nunca funciona.
+											De novo, a bebé vai poder escolher.
+											A mãe está mesmo ao lado dela,
+então ela pode mudar a pessoa,
+											e haverá outro brinquedo no fim do pano.
+											Vamos ver o que ela faz.
+									",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+","
+","
+","
+",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+											(Video) HG: Two, three, go!
+(Music)
+											Let me try one more time.
+One, two, three, go!
+											Hmm.
+									","
+											(Video) HG: İki, üç, başla!
+(Müzik)
+											Bir kere daha deneyeyim.
+Bir, iki, üç, başla!
+											Hımm.
+									","
+											(Video) HG: Zwei, drei, los!
+(Musik)
+											Lass es mich nochmal versuchen.
+Eins, zwei drei, los!
+											Hmm.
+									","
+											(Vídeo)
+											HG: Dois, três, vai!
+											(Música)
+											Deixa-me tentar de novo. 
+Um, dois, três, vai!
+											Hum.
+									",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+","
+","
+","
+",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+											LS: Let me try, Clara.
+											One, two, three, go!
+											Hmm, let me try again.
+											One, two, three, go!
+(Music)
+											HG: I'm going
+to put this one over here,
+											and I'm going to give this one to you.
+											You can go ahead and play.
+											(Applause)
+									","
+											LS: Ben deneyeyim Clara.
+											Bir, iki, üç, başla!
+											Hımm, bir daha deneyeyim.
+											Bir, iki, üç, başla!
+(Müzik)
+											HG: Bunu buraya koyuyorum
+											ve bunu da sana veriyorum.
+											Alıp oynayabilirsin.
+											(Alkış)
+									","
+											LS: Lass es mich versuchen, Clara.
+											Eins, zwei, drei, los!
+											Hmm, lass es mich nochmal versuchen.
+											Eins, zwei, drei, los!
+(Musik)
+											HG: Ich lege dieses hier dorthin
+											und gebe dir das hier.
+											Damit kannst du spielen.
+											(Gelächter) (Applaus)
+									","
+											LS: Deixa-me tentar, Clara.
+											Um, dois, três, vai!
+											Hum, deixa-me tentar de novo.
+											Um, dois, três, vai!
+											(Música)
+											HG: Vou deixar este aqui,
+											e vou dar-te este.
+											Podes brincar, se quiseres.
+											(Aplausos)
+									",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+","
+","
+","
+",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+											LS: Let me show you
+the experimental results.
+											On the vertical axis,
+you'll see the distribution
+											of children's choices in each condition,
+											and you'll see that the distribution
+of the choices children make
+											depends on the evidence they observe.
+											So in the second year of life,
+											babies can use a tiny bit
+of statistical data
+											to decide between two
+fundamentally different strategies
+											for acting in the world:
+											asking for help and exploring.
+											I've just shown you
+two laboratory experiments
+											out of literally hundreds in the field
+that make similar points,
+											because the really critical point
+											is that children's ability
+to make rich inferences from sparse data
+											underlies all the species-specific
+cultural learning that we do.
+											Children learn about new tools
+from just a few examples.
+											They learn new causal relationships
+from just a few examples.
+											They even learn new words,
+in this case in American Sign Language.
+									","
+											LS: Size deney sonuçlarını göstereyim.
+											Dikey eksende,
+çocukların her durumla ilgili
+											seçimlerini görüyorsunuz
+											ve çocukların yaptığı seçimlerin dağılımı
+											gözlemledikleri bulguya bağlı.
+											Yaşamın ikinci yılında,
+											bebekler küçücük
+istatistiksel veri parçasını,
+											temelde farklı stratejiler arasında
+dünyada eylemde bulunmak için
+											karara varırken kullanabiliyorlar:
+											yardım istemek ve keşfetmek.
+											Size az önce iki laboratuvar deneyini
+											alandaki abartısız yüzlerce benzer noktaya
+vurgu yapanların arasından gösterdim,
+											çünkü esas önemli mesele
+											çocukların belirsiz verilerden zengin
+çıkarımlar yapabilme yeteneği
+											türümüze özgü kültürel
+öğrenmemizin temelini oluşturuyor.
+											Çocuklar yeni araçları yalnızca
+birkaç örnekten öğreniyor.
+											Nedensel ilişkilerini yalnızca
+birkaç örnekten öğreniyor.
+											Hatta yeni sözcükleri bile öğreniyorlar,
+bu örnekte Amerikan İşaret Dili'ni.
+									","
+											LS: Hier die Ergebnisse des Experiments.
+											Auf der vertikalen Achse
+sehen Sie die Verteilung der Wahl,
+											die die Kinder in jeder Bedingung
+getroffen haben.
+											Sie sehen, dass die Verteilung
+der Wahl, die die Kinder treffen,
+											vom Beweis abhängt, den die Kinder sehen.
+											Also können Babys
+in ihrem zweiten Lebensjahr
+											das bisschen an 
+statistischen Daten nutzen,
+											um zwischen zwei völlig verschiedenen
+Strategien zu wählen,
+											wie man sich in der Welt verhalten kann:
+											nach Hilfe fragen und selbst entdecken.
+											Ich habe Ihnen gerade zwei
+von hunderten Laborexperimenten
+											in diesem Bereich gezeigt, 
+die Ähnliches aussagen,
+											denn der wirklich entscheidende Punkt ist,
+											dass die Fähigkeit der Kinder,
+											aus wenigen Daten zahlreiche
+Schlussfolgerungen zu ziehen,
+											zu unserem kulturtypischen Lernen gehört.
+											Kinder lernen über neue Werkzeuge
+aus wenigen Beispielen.
+											Sie lernen neue kausale Zusammenhänge
+aus wenigen Beispielen.
+											Sie lernen sogar neue Wörter, in diesem
+Fall amerikanische Zeichensprache.
+									","
+											LS: Vou mostrar
+os resultados experimentais.
+											No eixo vertical, temos a distribuição
+de escolhas das crianças
+											para cada situação.
+											Podemos ver que as escolhas 
+que as crianças fazem
+											dependem das evidências observadas.
+											Então, no segundo ano de vida,
+											os bebés podem usar alguns
+dados estatísticos
+											para decidir entre duas estratégias
+fundamentalmente diferentes
+											para agir no mundo:
+											pedir ajuda e explorar.
+											Eu só mostrei duas 
+experiências de laboratório
+											entre centenas de outras
+que mostram resultados parecidos,
+											pois o ponto essencial
+											é mostrar que a capacidade das crianças
+de fazerem deduções com poucos dados
+											está por trás de toda a aprendizagem 
+cultural específica que fazemos.
+											As crianças aprendem novas ferramentas
+a partir de alguns exemplos.
+											Aprendem novas relações causais
+a partir de alguns exemplos.
+											Até aprendem novas palavras,
+neste caso em linguagem gestual.
+									",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+","
+","
+","
+",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+											I want to close with just two points.
+											If you've been following my world,
+the field of brain and cognitive sciences,
+											for the past few years,
+											three big ideas will have come
+to your attention.
+											The first is that this is
+the era of the brain.
+											And indeed, there have been
+staggering discoveries in neuroscience:
+											localizing functionally specialized
+regions of cortex,
+											turning mouse brains transparent,
+											activating neurons with light.
+											A second big idea
+											is that this is the era of big data
+and machine learning,
+											and machine learning promises
+to revolutionize our understanding
+											of everything from social networks
+to epidemiology.
+											And maybe, as it tackles problems
+of scene understanding
+											and natural language processing,
+											to tell us something
+about human cognition.
+											And the final big idea you'll have heard
+											is that maybe it's a good idea we're going
+to know so much about brains
+											and have so much access to big data,
+											because left to our own devices,
+											humans are fallible, we take shortcuts,
+											we err, we make mistakes,
+											we're biased, and in innumerable ways,
+											we get the world wrong.
+											I think these are all important stories,
+											and they have a lot to tell us
+about what it means to be human,
+											but I want you to note that today
+I told you a very different story.
+											It's a story about minds and not brains,
+											and in particular, it's a story
+about the kinds of computations
+											that uniquely human minds can perform,
+											which involve rich, structured knowledge
+and the ability to learn
+											from small amounts of data,
+the evidence of just a few examples.
+											And fundamentally, it's a story
+about how starting as very small children
+											and continuing out all the way
+to the greatest accomplishments
+											of our culture,
+											we get the world right.
+									","
+											Konuşmamı iki hususla kapatmak istiyorum.
+											Benim dünyamı, beyin ve bilişsel
+bilimler alanını, son birkaç yıldır
+											takip ediyorsanız,
+											üç büyük fikir ilginizi çekmiştir.
+											Birincisi, bu çağ beyin çağıdır.
+											Ve aslında, sinirbilimde insanı
+afallatan keşifler yapıldı:
+											beyin kabuğunun işlevselce özelleşmiş
+bölgelerinin yerinin belirlenmesi,
+											fare beyinlerinin şeffaflaştırılması,
+											sinir hücrelerinin
+ışıkla etkinleştirilmesi.
+											İkinci büyük fikir,
+											bu çağ, büyük veri
+ve makine öğrenimi çağıdır
+											ve makine öğrenimi,
+sosyal ağlardan salgınbilimine
+											her şeyi anlayışımızı
+değiştirmeye söz veriyor.
+											Ve belki makine öğrenimi, mekan algılama
+											ve doğal dil işleme sorunlarıyla
+											bize insan bilişi hakkında
+bir şeyler anlatmak için uğraşıyor.
+											Ve duyacağınız üçüncü büyük fikir,
+											beyin hakkında o kadar çok şey
+bilmemiz ve büyük veriye o kadar çok
+											erişimimizin olması iyi olacak,
+											çünkü işler kendi
+irademize bırakıldığında,
+											insanlar yanılabilir,
+kestirmeleri seçiyoruz
+											konuşurken duraksıyoruz,
+hatalar yapıyoruz,
+											önyargılıyız ve birçok biçimde
+											dünyaya kötülük yapıyoruz.
+											Bence bunların hepsi önemli hikâyeler
+											ve insan olmanın anlamı üzerine
+bize söyleyecekleri çok şey var,
+											fakat bir kenara yazmanızı istiyorum,
+bugün size çok başka bir hikâye anlattım.
+											Anlattığım zihin hakkında,
+beyin hakkında değil
+											ve özellikle, yalnızca insan
+zihninin gerçekleştirebildiği türde,
+											zengin, yapılandırılmış bilgi
+ve küçük miktarda veriden;
+											yalnızca birkaç örneğin bulgusundan
+öğrenme yeteneğini içeren türde
+											hesaplamalar hakkında bir hikâye,
+yalnızca birkaç örneğin bulgusu.
+											Ve temelde, küçük bir
+çocuk olarak başlayıp
+											kültürümüzdeki en büyük
+başarılara giden yolda
+											devam ederek,
+											dünyayı düzeltişimizin hikâyesidir.
+									","
+											Ich möchte mit 2 Bemerkungen abschließen.
+											Wenn Sie meine Welt, den Bereich
+der Neuro- und Kognitionswissenschaft
+											über die letzten Jahre verfolgt hätten,
+											wären Ihnen drei 
+besondere Erkenntnisse aufgefallen.
+											Die erste ist, dass jetzt
+die Ära des Gehirns ist.
+											Tatsächlich gab es atemberaubende 
+Entdeckungen in den Neurowissenschaften:
+											die Lokalisierung funktionsspezifischer
+Regionen des Kortex,
+											das Transparentmachen eines Mäusegehirns
+											und die Aktivierung 
+von Neuronen mit Licht.
+											Eine zweite große Erkenntnis ist,
+											dass jetzt die Ära der ""Big Data"" 
+und des maschinellen Lernens ist,
+											und maschinelles Lernen verspricht unser
+Verstehen von allem zu revolutionieren,
+											seien es soziale Netzwerke 
+oder Epidemiologie.
+											Vielleicht können wir damit
+Probleme wie Szenenverständnis
+											oder natürliche
+Sprachverarbeitung angehen,
+											sodass wir etwas über
+die menschliche Wahrnehmung lernen.
+											Die letzte große Erkenntnis, von der Sie
+gehört haben könnten, besagt,
+											dass es gut ist, dass wir so viel über 
+das Gehirn herausfinden
+											und so viele Daten haben.
+											Sind wir nämlich uns selbst
+überlassen, sind wir fehlbar.
+											Wir nehmen Abkürzungen,
+wir irren, wir machen Fehler,
+											wir haben Vorurteile und
+verstehen die Welt oft falsch.
+											Ich glaube, dass sind alles 
+wichtige Erkenntnisse,
+											und sie sagen uns viel darüber, 
+was es heißt, Mensch zu sein,
+											aber ich möchte Sie daran erinnern, 
+dass ich Ihnen etwas anderes erzählt habe:
+											die Erkenntnis über 
+den Verstand und nicht das Gehirn,
+											und im Besonderen ist es die Erkenntnis
+											über die Arten von Berechnungen,
+											die nur der menschliche Verstand
+durchführen kann,
+											die strukturiertes Wissen
+und die Fähigkeit zu lernen beinhalten,
+											sei es von wenigen Daten oder Beispielen.
+											Grundsätzlich ist es
+die Erkenntnis darüber,
+											wie wir als kleine Kinder
+damit anfangen und weitermachen,
+											bis zu den großen Errungenschaften
+unserer Kultur,
+											bis wir die Welt richtig verstehen.
+									","
+											Vou concluir com apenas dois pontos.
+											Se vocês têm estado a acompanhar
+as ciências cognitivas e do cérebro
+											dos últimos anos,
+											terão reparado em três grandes ideias.
+											A primeira é que estamos
+na era do cérebro.
+											De facto, houve descobertas
+surpreendentes na neurociência:
+											a localização funcional
+de regiões especializadas do córtex,
+											tornando transparentes cérebros de ratos,
+											ativando neurónios com luz.
+											A segunda grande ideia
+											é que estamos na era dos megadados
+e da aprendizagem das máquinas,
+											e isto promete revolucionar
+a nossa compreensão de tudo,
+											desde as redes sociais
+até à epidemiologia.
+											Talvez ao enfrentar problemas
+de compreensão contextual
+											e de processamento de linguagem natural,
+											isto nos possa dizer algo
+sobre a cognição humana.
+											E a última grande ideia
+											é que talvez seja uma boa ideia
+virmos a saber muito sobre o cérebro
+											e termos muito acesso aos megadados,
+											pois, se ficarmos entregues a nós próprios,
+											os seres humanos são falíveis,
+usamos atalhos,
+											erramos, cometemos erros,
+											somos preconceituosos
+e, de várias maneiras,
+											interpretamos mal o mundo.
+											Penso que estas histórias são importantes,
+											e elas dizem-nos muito sobre 
+o que significa ser humano,
+											mas quero que vocês percebam que 
+vos contei uma história muito diferente.
+											É uma história sobre mentes
+e não sobre o cérebro.
+											Em particular, é uma história
+sobre os tipos de cálculos
+											que só as mentes humanas
+podem fazer,
+											o que envolve o conhecimento
+rico e estruturado
+											e a capacidade de aprender a partir
+de pequenas quantidades de dados,
+											das evidências de alguns exemplos.
+											Essencialmente, é uma história
+sobre como as crianças
+											começam e continuam o seu caminho
+											para as maiores realizações
+da nossa cultura.
+											Conseguimos assim, 
+interpretar bem o mundo.
+									",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+","
+","
+","
+",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+											Folks, human minds do not only learn
+from small amounts of data.
+											Human minds think
+of altogether new ideas.
+											Human minds generate
+research and discovery,
+											and human minds generate
+art and literature and poetry and theater,
+											and human minds take care of other humans:
+											our old, our young, our sick.
+											We even heal them.
+											In the years to come, we're going
+to see technological innovations
+											beyond anything I can even envision,
+											but we are very unlikely
+											to see anything even approximating
+the computational power of a human child
+											in my lifetime or in yours.
+											If we invest in these most powerful
+learners and their development,
+											in babies and children
+											and mothers and fathers
+											and caregivers and teachers
+											the ways we invest in our other
+most powerful and elegant forms
+											of technology, engineering and design,
+											we will not just be dreaming
+of a better future,
+											we will be planning for one.
+									","
+											Arkadaşlar, insan zihni yalnızca
+küçük miktarda veriyle öğrenmez.
+											İnsan zihni, bütün fikirleri
+bir arada düşünür.
+											İnsan zihni,
+araştırma ve keşif yaratır,
+											insan zihni; sanat, edebiyat,
+şiir ve tiyatro yaratır
+											ve insan zihni diğer insanlarla ilgilenir:
+											yaşlılarımızla, gençlerimizle,
+hastalarımızla.
+											Hatta insanları iyileştiriyoruz.
+											Gelecek yıllarda, zihnimde
+canlandırabileceğimin bile ötesinde
+											teknolojik yenileşmeler göreceğiz,
+											fakat benim ya da sizin yaşamınız boyunca
+											bir insan çocuğunun
+hesaplama gücüne yaklaşacak güçte bile
+											bir şeyin görülmesi olası değil.
+											Bu en güçlü öğrenicilere
+ve onların gelişimine;
+											bebeklere ve çocuklara,
+											annelere ve babalara,
+											bakıcılara ve öğretmenlere,
+											diğer teknolojinin, mühendisliğin
+ve tasarımın en güçlü ve zeki türlerine
+											yatırım yaptığımız gibi yaparsak,
+											yalnızca daha iyi bir geleceğin
+hayalini kuruyor olmayacağız,
+											iyi bir geleceği planlıyor olacağız.
+									","
+											Der menschliche Verstand lernt nicht 
+nur aus kleinen Datenmengen.
+											Der menschliche Verstand
+entwickelt neue Ideen.
+											Er erzeugt Forschung und Entdeckungen,
+											sowie Kunst, Literatur,
+Dichtung und Theater.
+											Der menschliche Verstand
+kümmert sich um andere Menschen:
+											die alten, jungen oder kranken Menschen.
+											Wir heilen sie sogar.
+											In den kommenden Jahren werden wir
+technologische Innovationen sehen,
+											die weit über das hinaus gehen, 
+was man sich überhaupt vorstellen kann,
+											aber es wird sehr unwahrscheinlich sein,
+
+											dass wir noch in meinem Leben
+oder Ihrem etwas sehen werden,
+											dass dem Urteilsvermögen eines 
+menschlichen Kindes nahe kommt.
+											Wenn wir in diese mächtigen Lerner
+und ihre Entwicklung investieren,
+											in Babys, Kinder, Mütter, Väter,
+Erzieher und Lehrer,
+											genauso wie wir in die mächtigen
+und eleganten Formen
+											der Technologie, Ingenieurskunst
+und Design investieren,
+											werden wir nicht nur 
+von einer besseren Zukunft träumen,
+											wir werden sie tatsächlich planen.
+									","
+											A mente humana não aprende
+apenas com pequenas quantidades de dados.
+											A mente humana pensa em novas ideias.
+											A mente humana gera
+pesquisa e descoberta.
+											A mente humana gera
+arte, literatura, poesia e teatro.
+											A mente humana cuida
+de outros seres humanos:
+											dos nossos velhos, dos nossos jovens, 
+dos nossos doentes.
+											Nós até os curamos.
+											Nos próximos anos, vamos ver
+inovações tecnológicas
+											para além de qualquer coisa
+que eu possa imaginar,
+											mas é muito improvável
+											que venhamos a ver um computador com 
+o mesmo poder da mente de uma criança
+											durante a minha vida ou a vossa.
+											Se investirmos nestes poderosos 
+aprendizes e no seu desenvolvimento,
+											nos bebés e nas crianças,
+											nas mães e nos pais
+											nos cuidadores e nos professores,
+											da mesma forma que investimos
+noutras formas mais poderosas e elegantes
+											de tecnologia, da engenharia e do ""design"",
+											não vamos apenas sonhar
+com um futuro melhor,
+											vamos estar a planeá-lo.
+									",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+","
+","
+","
+",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+											Thank you very much.
+									","
+											Çok teşekkür ederim.
+									","
+											Vielen Dank.
+									","
+											Muito obrigada.
+									",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+","
+","
+","
+",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+											(Applause)
+									","
+											(Alkış)
+									","
+											(Applaus)
+									","
+											(Aplausos)
+									",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+","
+","
+","
+",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+											Chris Anderson: Laura, thank you.
+I do actually have a question for you.
+											First of all, the research is insane.
+											I mean, who would design
+an experiment like that? (Laughter)
+											I've seen that a couple of times,
+											and I still don't honestly believe
+that that can truly be happening,
+											but other people have done
+similar experiments; it checks out.
+											The babies really are that genius.
+									","
+											Chris Anderson: Laura, teşekkür ederiz.
+Sana soracağım bir sorum var.
+											Öncelikle, bu çılgınca bir araştırma.
+											Demek istediğim, kim böyle
+bir deney tasarlar ki? (Gülüşmeler)
+											Birkaç kez izledim
+											ve hâlâ gerçekten bunun
+olabileceğine inanmıyorum,
+											fakat diğer insanlar da benzer
+deneyler yaptı ve sonuçlar örtüşüyor.
+											Bebekler gerçekten tam bir dâhi.
+									","
+											Chris Anderson: Laura, danke.
+Ich hätte eine Frage.
+											Erst einmal: Ihre Forschung ist Wahnsinn.
+											Wer würde ein derartiges
+Experiment zusammenstellen? (Gelächter)
+											Ich habe das schon ein paar Mal gesehen
+											und ich kann es immer noch nicht glauben, 
+dass das wirklich passiert.
+											Aber andere Leute haben ähnliche 
+Experimente erfolgreich durchgeführt.
+											Die Babys sind einfach genial.
+									","
+											Chris Anderson: Laura, obrigado.
+Tenho uma pergunta para si.
+											Em primeiro lugar,
+esta pesquisa é uma loucura.
+											Quero dizer, quem iria projetar
+uma experiência como esta?
+											Eu vi isto algumas vezes,
+											e ainda não acredito que isto 
+pode estar a acontecer,
+											mas outras pessoas fizeram experiências
+semelhantes; e verifica-se.
+											Os bebés são realmente geniais.
+									",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+","
+","
+","
+",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+											LS: You know, they look really impressive
+in our experiments,
+											but think about what they
+look like in real life, right?
+											It starts out as a baby.
+											Eighteen months later,
+it's talking to you,
+											and babies' first words aren't just
+things like balls and ducks,
+											they're things like ""all gone,""
+which refer to disappearance,
+											or ""uh-oh,"" which refer
+to unintentional actions.
+											It has to be that powerful.
+											It has to be much more powerful
+than anything I showed you.
+											They're figuring out the entire world.
+											A four-year-old can talk to you
+about almost anything.
+											(Applause)
+									","
+											LS: Biliyor musun, deneylerimizde
+gerçekten şaşırtıcı görünüyor,
+											fakat gerçek yaşamda
+nasıl olduklarını bir düşün.
+											Bebek olarak başlıyor.
+											On sekiz ay sonra,
+seninle konuşuyor
+											ve bebeklerin ilk sözcükleri
+yalnızca top ya da ördek değil,
+											""hepsi gitti"" gibi ortadan
+kaybolmayla ilgili şeyler ya da
+											""a-aa"" gibi istemsiz
+eylemlerle ilgili şeyler.
+											Bebeğin güçlü olması gerekiyor.
+											Gösterdiğim herhangi bir şeyden
+daha güçlü olması gerekiyor.
+											Koca dünyayı anlamlandırıyorlar.
+											Dört yaşında bir çocuk neredeyse
+her şey hakkında konuşabilir.
+											(Alkış)
+									","
+											LS: Sie sehen sehr beeindruckend
+in unseren Experimenten aus,
+											aber bedenken wir, wie sie
+im wirklichen Leben aussehen.
+											Es beginnt als Baby.
+											Achtzehn Monate später spricht es
+											und seine ersten Worte sind nicht nur 
+Dinge wie Ball und Ente,
+											sondern etwas wie ""alles weg"", 
+das sich auf das Verschwinden bezieht,
+											oder ""oh-oh"", das sich auf 
+ungewollte Handlungen bezieht.
+											Das Baby muss so leistungsstark sein.
+											Es muss leistungsstärker als alles
+andere sein, das ich gezeigt habe.
+											Sie begreifen die ganze Welt.
+											Ein 4-jähriges Kind kann zu Ihnen
+über fast alles sprechen.
+											(Applaus)
+									","
+											LS: Eles parecem muito impressionantes
+nas nossas experiências,
+											mas pense em como eles são
+na vida real.
+											Nasce um bebé. Dezoito meses depois, 
+está a falar connosco.
+											As primeiras palavras
+não são coisas como bolas e patos,
+											são coisas como ""não há"",
+que se refere ao desaparecimento,
+											ou ""uh-oh"", que se refere
+a ações não intencionais.
+											É preciso ser poderoso,
+											muito mais poderoso
+do que tudo o que eu mostrei.
+											Estão a tentar descobrir 
+o mundo inteiro.
+											Uma criança de quatro anos
+pode conversar sobre quase tudo.
+											(Aplausos)
+									",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+","
+","
+","
+",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+											CA: And if I understand you right,
+the other key point you're making is,
+											we've been through these years
+where there's all this talk
+											of how quirky and buggy our minds are,
+											that behavioral economics
+and the whole theories behind that
+											that we're not rational agents.
+											You're really saying that the bigger
+story is how extraordinary,
+											and there really is genius there
+that is underappreciated.
+									","
+											CA: Sizi doğru anladıysam,
+dikkat çektiğiniz diğer bir husus
+											yıllardır şu konuşma ortada dönüyor,
+											beynimiz ve zihnimiz acayip ve kusurlu,
+											davranışsal ekonomi
+ve ardındaki bütün kuramlar
+											mantıklı varlıklar olmadığımızı söyler.
+											Gerçekten de büyük
+hikâyenin olağanüstü olduğunu
+											ve gerçekten gereğinden az değer verilen
+bir dâhinin varlığından bahsediyorsunuz.
+									","
+											CA: Wenn ich Sie richtig verstehe,
+machen Sie die andere Kernaussage,
+											dass nach all den Jahren
+der Gespräche darüber,
+											wie sonderbar und fehlbar
+unser Verstand ist,
+											die Verhaltensökonomie und all
+die Theorien dahinter besagen,
+											dass wir nicht rational handeln.
+											Aber eigentlich sagen Sie,
+dass wir erkennen sollen,
+											wie außergewöhnlich und genial wir sind,
+was nicht ausreichend gewürdigt wird.
+									","
+											CA: Se percebi bem,
+o outro ponto que levanta
+											é que temos passado estes anos 
+com esta conversa toda
+											do quão peculiar e confusas 
+são as nossas mentes,
+											que a economia comportamental
+e outras teorias que dizem
+											que não somos agentes racionais.
+											Acha realmente que a nossa mente
+é extraordinária,
+											e que há um génio ali que é subestimado?
+									",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+","
+","
+","
+",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+											LS: One of my favorite
+quotes in psychology
+											comes from the social
+psychologist Solomon Asch,
+											and he said the fundamental task
+of psychology is to remove
+											the veil of self-evidence from things.
+											There are orders of magnitude
+more decisions you make every day
+											that get the world right.
+											You know about objects
+and their properties.
+											You know them when they're occluded.
+You know them in the dark.
+											You can walk through rooms.
+											You can figure out what other people
+are thinking. You can talk to them.
+											You can navigate space.
+You know about numbers.
+											You know causal relationships.
+You know about moral reasoning.
+											You do this effortlessly,
+so we don't see it,
+											but that is how we get the world right,
+and it's a remarkable
+											and very difficult-to-understand
+accomplishment.
+									","
+											LS: Ruhbilimdeki
+en sevdiğim alıntılardan biri
+											toplumsal ruhbilimci
+Solomon Asch'tan gelir
+											ve Solomon, ruhbilimin
+temel görevinin zâten ortada olanın
+											örtüsünü kaldırmak olduğunu söylemiştir.
+											Her gün önem sırasına göre
+verdiğiniz birçok karar vardır,
+											bu kararlar dünyayı düzeltir.
+											Nesneleri ve özelliklerini bilirsiniz.
+											Önüne engel gelince tanırsınız.
+Karanlıkta tanırsınız.
+											Bir odadan diğerine yürüyebilirsiniz.
+											Başkalarının ne düşündüğünü
+anlarsınız. Onlarla konuşursunuz.
+											Uzayda hareket edersiniz.
+Sayıları bilirsiniz.
+											Nedensel ilişkileri bilirsiniz.
+Ahlâkî akıl yürütmeyi bilirsiniz.
+											Bunları çabasız yaparsınız,
+bu yüzden pek bir şey görmeyiz,
+											fakat dünyayı böyle
+anlamlandırırız, bu dikkate değerdir
+											ve anlaması çok zor bir başarımdır.
+									","
+											LS: Eines meiner Lieblingszitate 
+in der Psychologie ist
+											von dem Sozialpsychologen Salomon Asch.
+											Er sagte: ""Die Grundaufgabe
+der Psychologie ist,
+											den Schleier der Selbstverständlichkeit 
+von den Dingen zu nehmen.""
+											Es gibt Größenordnungen
+von Entscheidungen,
+											die man täglich trifft, 
+die die Welt richtig erfassen.
+											Wir erkennen Gegenstände
+und ihre Eigenschaften,
+											auch wenn sie verdeckt 
+oder im Dunkeln sind.
+											Wir können durch Räume laufen
+											und herausfinden, was andere
+denken und mit ihnen reden.
+											Wir können ins All fliegen, kennen Zahlen,
+											kausale Zusammenhänge
+und haben moralisches Urteilsvermögen.
+											Wir tun das ohne Mühe,
+deshalb sehen wir es nicht,
+											aber so sehen wir die Welt.
+											Es ist eine bemerkenswerte
+und schwer nachvollziehbare Leistung.
+									","
+											LS: Uma das minhas citações favoritas
+em psicologia
+											é do psicólogo social Solomon Asch,
+											que disse que a tarefa fundamental
+da psicologia
+											é remover o véu
+da autoevidência das coisas.
+											Há milhões de tipos de escolhas
+que fazemos todos os dias,
+											que nos fazem ver bem o mundo.
+											Conhecemos os objetos
+e as suas propriedades.
+											Sabemos quando estão ocultos.
+Conhecemo-los no escuro.
+											Podemos andar por salas,
+											descobrir o que as outras 
+pessoas estão a pensar e falar com elas.
+											Podemos navegar no espaço.
+Conhecemos os números.
+											Conhecemos as relações causais
+e o raciocínio moral.
+											Fazemos isto sem esforço,
+por isso nem reparamos,
+											mas é assim que vemos o mundo,
+e é uma realização notável
+											e muito difícil de perceber.
+									",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+","
+","
+","
+",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+											CA: I suspect there are people
+in the audience who have
+											this view of accelerating
+technological power
+											who might dispute your statement
+that never in our lifetimes
+											will a computer do what
+a three-year-old child can do,
+											but what's clear is that in any scenario,
+											our machines have so much to learn
+from our toddlers.
+											LS: I think so. You'll have some
+machine learning folks up here.
+											I mean, you should never bet
+against babies or chimpanzees
+											or technology as a matter of practice,
+											but it's not just
+a difference in quantity,
+											it's a difference in kind.
+											We have incredibly powerful computers,
+											and they do do amazingly
+sophisticated things,
+											often with very big amounts of data.
+											Human minds do, I think,
+something quite different,
+											and I think it's the structured,
+hierarchical nature of human knowledge
+											that remains a real challenge.
+									","
+											CA: Sanırım izleyicilerimiz arasında
+teknolojinin hızlanan gücünü
+											benimseyen sizin
+üç yaşındaki çocuğun
+											yapabileceklerini bir bilgisayarın
+hiçbir zaman yapamayacağı
+											açıklamanıza itiraz
+edecek insanlar olabilir,
+											fakat net olan şey şu, her durumda
+											makinelerimizin bebeklerimizden
+öğreneceği çok şey var.
+											LS: Bence de. Burada makine
+öğrenimiyle ilgilenen arkadaşlar vardır.
+											Diyorum ki, asla bebekleri şempanzelerle
+											ya da teknolojiyle kıyaslamayın,
+											fakat bu yalnızca
+nicelik farklılığı değil.
+											Tür farklılığı.
+											İnanılmaz güçlü bilgisayarlarımız var
+											ve inanılmaz karmaşık
+şeyler yapıyorlar,
+											sıklıkla büyük miktarda veriyle.
+											İnsan zihni, bence,
+oldukça farklı bir şey yapıyor
+											ve bence, asıl zorlayıcı olan şey,
+											insan zihninin yapısal, basamaklı doğası.
+									","
+											CA: Einige Leute im Publikum 
+denken vermutlich,
+											dass die Technik sich
+sehr schnell verbessern wird,
+											was Ihre Behauptung
+in Frage stellen könnte,
+											dass ein Computer niemals das tun wird,
+was ein 3-jähriges Kind tun kann.
+											Aber in jedem Fall ist klar,
+											dass Maschinen noch sehr viel
+von Babys lernen müssen.
+											LS: Genau. Das werden einige aus dem
+Bereich des maschinellen Lernens sagen.
+											Ich denke, man sollte allgemein
+nie gegen Babys, Schimpansen
+											oder Technik wetten,
+											denn es gibt nicht nur
+einen Unterschied in der Quantität,
+											sondern auch in der Art und Weise.
+											Wir haben unglaublich
+leistungsstarke Computer
+											und sie tun anspruchsvolle Dinge,
+											oft mit riesigen Datenmengen.
+											Ich finde, dass den menschlichen Verstand
+etwas völlig anderes ausmacht,
+											nämlich die strukturierte, hierarchische
+Natur des menschlichen Wissens,
+											das eine wahre Herausforderung ist.
+									","
+											CA: Eu suspeito que há pessoas na plateia
+											que têm uma visão do poder
+tecnológico crescente
+											que podem refutar a sua afirmação
+de que, nunca na nossa vida,
+											haverá um computador que faça o mesmo
+que uma criança de três anos,
+											mas está claro que, em qualquer cenário,
+											as nossas máquinas têm muito
+a aprender com as nossas crianças.
+											LS: Acho que sim. Temos aqui pessoas
+de aprendizagem de máquina.
+											Quero dizer, não devemos apostar
+contra bebés ou chimpanzés
+											ou tecnologia, como uma questão prática,
+											mas não é apenas
+uma diferença na quantidade,
+											é uma diferença no tipo.
+											Temos computadores
+incrivelmente poderosos,
+											que fazem coisas
+incrivelmente sofisticadas,
+											muitas vezes com grandes
+quantidades de dados.
+											A mente humana faz algo
+completamente diferente.
+											Acho que é a natureza hierárquica 
+e estruturada do conhecimento humano
+											que continua a ser um desafio real.
+									",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+","
+","
+","
+",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+											CA: Laura Schulz, wonderful
+food for thought. Thank you so much.
+									","
+											CA: Laura Schulz, üstünde düşünülecek
+harika bir konuşmaydı. Çok teşekkürler.
+									","
+											CA: Laura Schulz, danke für 
+den wunderbaren Gedankenanstoß.
+									","
+											CA: Laura Schulz,
+uma conversa maravilhosa. Obrigado.
+									",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+","
+","
+","
+",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+											LS: Thank you.
+(Applause)
+									","
+											LS: Teşekkürler
+(Alkış)
+									","
+											LS: Danke.
+(Applaus)
+									","
+											LS: Obrigada.
+											(Aplausos)
+									",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"
+"
+","
+","
+","
+",The surprisingly logical minds of babies,Laura Schulz,20:18,"brain,children,cognitive science,mind,science,youth,physiology,behavioral economics,education,data"

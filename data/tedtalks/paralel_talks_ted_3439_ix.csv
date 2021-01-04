@@ -1,0 +1,1886 @@
+fr,en,tr,de,es,title,speaker,duration,tags
+"
+","
+","
+","
+","
+",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+											Je veux que vous imaginiez être un de mes étudiants au labo.
+											Je veux que vous créiez un design inspiré biologiquement.
+											Et voilà donc le défi:
+											Vous allez m'aider à créer un prototype de contact paramétré, en 3D et dynamique.
+											Ce qui se traduit par : M'aideriez-vous à construire un pied?
+											Or c'est un vrai défi et je veux réellement que vous m'aidiez.
+											Bien sûr, pour ce défi il y a un lot à gagner.
+											Pas exactement le Prix TED, mais en exclusivité, un t-shirt de notre labo.
+											Alors envoyez-moi vos idées sur la façon de concevoir un pied.
+									","
+											I want you to imagine that you're a student in my lab.
+											What I want you to do is to create a biologically inspired design.
+											And so here's the challenge:
+											I want you to help me create a fully 3D, dynamic, parameterized contact model.
+											The translation of that is, could you help me build a foot?
+											And it is a true challenge, and I do want you to help me.
+											Of course, in the challenge there is a prize.
+											It's not quite the TED Prize, but it is an exclusive t-shirt from our lab.
+											So please send me your ideas about how to design a foot.
+									","
+											Sizden, benim laboratuvarımda öğrenci olduğunuzu düşünmenizi istiyorum.
+											Sizden istediğim şey ise biyolojik olarak harika bir dizayn oluşturmanız.
+											Ve işte göreviniz :
+											Bana, tamamıyla 3D, dinamik, parametreli kontak bir model oluşturmam için yardım etmenizi istiyorum.
+											Bunun çevirisi ise, bana bir ayak inşa etmem için yardım eder misiniz?
+											Ve bu gerçek bir görev ve bana yardım etmenizi istiyorum.
+											Tabii ki, bu görevde bir de ödül var.
+											Bu bir TED Ödülü sayılmaz, ama laboratuvarımızdan ayrıcalıklı bir tişört.
+											Pekala, bana bir ayak oluşturmak hakkında ürettiğiniz fikirleri gönderin.
+									","
+											Stellen Sie sich einmal vor, Sie sind Student in meinem Labor.
+											Und ich möchte, dass Sie ein biologisch inspiriertes Design schaffen.
+											Hier ist die Aufgabe:
+											Helfen Sie mir dabei, ein dynamisches, parameterisiertes Kontaktmodell in 3D zu bauen.
+											Übersetzt heißt das: Können Sie mir helfen, einen Fuß zu bauen?
+											Und das ist eine Herausforderung, bei der Sie mir helfen müssen.
+											Die Aufgabe bringt natürlich einen Preis mit sich.
+											Vielleicht nicht der TED Prize, aber doch ein exklusives T-Shirt aus unserem Labor.
+											Also bitte senden Sie mir Ihre Ideen, wie man einen Fuß designt.
+									","
+											Quiero que imaginen que son estudiantes de mi laboratorio.
+											Quiero que creen un diseño inspirado en biología.
+											Entonces este es el desafío:
+											Quiero que me ayuden a crear un modelo de contacto totalmente 3D, dinámico y parametrizado.
+											Traducido sería: ¿me ayudarían a contruir un pie?
+											Es que es un verdadero reto y realmente quiero que me ayuden
+											Claro, en el reto hay un premio.
+											No será el TED Prize pero es una camiseta exclusiva de nuestro laboratorio.
+											Así que mándenme sus ideas sobre cómo diseñar un pie.
+									",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+","
+","
+","
+","
+",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+											Si on veut concevoir un pied, que doit-on faire?
+											On doit d'abord savoir ce qu'est un pied.
+											Dans le dictionnaire on lit, ""extrémité inférieure d'une jambe
+											en contact direct avec le sol en position debout ou en marche""
+											C'est la définition traditionnelle.
+											Mais pour faire une vraie recherche, que devez-vous faire?
+											Vous devez étudier la littérature et voir ce qu'on sait des pieds.
+											Alors vous allez étudier la littérature. (Rires)
+									","
+											Now if we want to design a foot, what do we have to do?
+											We have to first know what a foot is.
+											If we go to the dictionary, it says, ""It's the lower extremity of a leg
+											that is in direct contact with the ground in standing or walking""
+											That's the traditional definition.
+											But if you wanted to really do research, what do you have to do?
+											You have to go to the literature and look up what's known about feet.
+											So you go to the literature. (Laughter)
+									","
+											Şimdi bir ayak oluşturmak istiyorsak, neler yapmamız gerekiyor?
+											Öncelikle ayağın ne olduğunu bilmeliyiz.
+											Eğer sözlüğe başvurursak, bize ''Bu ayakta dururken ya da yürüken zeminle direkt bağlantısı olan
+											bacağın en uç noktası.""
+											Bu geleneksel bir tanım.
+											Ancak gerçekten araştırmak istersek eğer, ne yapmamız gerekiyor?
+											Literatüre yönelmeniz ve ayakla ilgili bilinenleri araştırmanız gerekir.
+											Literatüre yöneldiniz. ( Gülüşmeler )
+									","
+											Was gehört zum Design eines Fußes dazu?
+											Zuerst müssen wir wissen, was ein Fuß ist.
+											Im Wörterbuch steht: ""Die untere Extremität eines Beins,
+											das beim Stehen oder Laufen in direktem Bodenkontakt steht.""
+											Das ist die traditionelle Definition.
+											Aber was gehört zu einer richtigen Recherche darüber?
+											Wir müssen schauen, was in der bekannten Literatur über Füße steht.
+											Also wenden wir uns der Literatur zu. (Lachen)
+									","
+											Ahora, si queremos diseñar un pie, ¿qué tenemos que hacer?
+											Primero tenemos que saber qué es un pie.
+											Si vamos al diccionario, dice: ""Es la extremidad inferior de una pierna
+											que está en contacto directo con el suelo cuando se está de pie o caminando""
+											Esa es la definición tradicional.
+											Pero si deseamos realmente investigar, ¿qué tenemos que hacer?
+											Hay que ir a la literatura y ver qué se sabe sobre el pie.
+											Así que vamos a la literatura. (Risas)
+									",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+","
+","
+","
+","
+",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+											Peut-être que vous connaissez bien cette littérature.
+											Le problème c'est qu'il y a beaucoup de pieds différents.
+											Comment faire?
+											Il faut observer tous les pieds et extraire des principes de fonctionnement.
+											Et je veux que vous m'aidiez à le faire dans ce clip vidéo.
+											En regardant, cherchez des principes
+											et pensez aussi aux expériences que vous pourriez élaborer
+											afin de comprendre le fonctionnement d'un pied.
+									","
+											Maybe you're familiar with this literature.
+											The problem is, there are many, many feet.
+											How do you do this?
+											You need to survey all feet and extract the principles of how they work.
+											And I want you to help me do that in this next clip.
+											As you see this clip, look for principles,
+											and also think about experiments that you might design
+											in order to understand how a foot works.
+									","
+											Belki de bu literatüre yakınsınızdır.
+											Problem şu ki, burada birçok ayak var.
+											Bunu nasıl yapacaksınız?
+											Bütün ayakları araştırmanız gerekiyor ve nasıl çalıştıklarını çıkartmalısınız.
+											Ve sizden bir sonraki klipte bunu yapmak için yardım etmenizi istiyorum.
+											Bu klipte gördüğünüz gibi, ayağın nasıl çalıştığını anlamak için,
+											prensiplere ve aynı zamanda dizayn etmeyi düşündüğünüz
+											deneylere bakıyoruz.
+									","
+											Vielleicht ist Ihnen diese Art Literatur bekannt.
+											Problematisch ist aber, dass es viele, viele Füße gibt.
+											Wie macht man das?
+											Wir müssen alle Füße untersuchen und die Prinzipien ihrer Funktionsweise herausarbeiten.
+											Und im nächsten Video sollen Sie mir dabei helfen.
+											Achten Sie in diesem Video auf Gemeinsamkeiten
+											und denken Sie über Experimente nach, mithilfe derer Sie
+											die Funktionsweise eines Fußes verstehen können.
+									","
+											Quizá estén familiarizados con esta literatura.
+											El problema es que hay muchos, muchos pies.
+											¿Cómo se hace?
+											Hay que inspeccionar todos los pies y extraer principios de cómo funcionan.
+											Y quiero que me ayuden a hacer eso en el siguiente video.
+											Mientras ven este video busquen los principios
+											y piensen también en los experimentos que podrían diseñar
+											para entender cómo funciona un pie.
+									",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+","
+","
+","
+","
+",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+											Voyez-vous des thèmes communs? Des principes?
+											Que feriez-vous?
+											Quelles expériences tenteriez-vous?
+											Wow. (Applaudissements)
+											Notre recherche sur la biomécanique du déplacement animal
+											nous a permis de créer un plan détaillé pour un pied.
+											C'est un design inspiré par la nature mais ce n'est pas la copie d'un des pieds que l'on vient de voir,
+											c'est une synthèse des atouts secrets de nombreux pieds différents.
+									","
+											See any common themes? Principles?
+											What would you do?
+											What experiments would you run?
+											Wow. (Applause)
+											Our research on the biomechanics of animal locomotion
+											has allowed us to make a blueprint for a foot.
+											It's a design inspired by nature, but it's not a copy of any specific foot you just looked at,
+											but it's a synthesis of the secrets of many, many feet.
+									","
+											Yakın gelen herhangi bir ana fikirler oldu mu? Prensipler?
+											Ne yapacaksınız?
+											Hangi deneyimlerden faydalanacaksınız?
+											Harika. ( Alkış )
+											Hayvan hareket biyomekaniği üzerine olan araştırmamız,
+											bizi bir ayak şablonuna yöneltiyor.
+											Bu doğadan ilham alınarak yapılmış bir dizayn, ama her hangi bir ayaktan kopyalanmış değil şuna bir bakın,
+											ancak bu bir çok ama bir çok ayağın sırlarının bir sentezi.
+									","
+											Sehen Sie Gemeinsamkeiten? Grundprinzipien?
+											Was würden Sie tun?
+											Welche Experimente würden Sie durchführen?
+											Wow. (Beifall)
+											Durch unsere Forschung zur Biomechanik der Fortbewegung von Tieren
+											konnten wir einen Bauplan eines Fußes erstellen.
+											Den Entwurf hat die Natur inspiriert, er ist aber keine Kopie der soeben gesehenen spezifischen Füße,
+											sondern eine Synthese der Geheimnisse vieler, vieler Füße.
+									","
+											¿Ven algunos temas comunes? ¿Principios?
+											¿Qué harían?
+											¿Qué experimentos realizarían?
+											¡Guau! (Aplausos)
+											Nuestra investigación de la biomecánica de la locomoción animal
+											nos ha permitido hacer un plano del pie.
+											Es un diseño inspirado en la Naturaleza pero no es copia de un pie específico que uno vio
+											sino una síntesis de los secretos de muchos, muchos pies.
+									",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+","
+","
+","
+","
+",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+											On se rend compte que les animaux peuvent aller partout.
+											Ils se déplacent sur des substrats qui varient — comme on a pu le voir —
+											en probabilité de contact, en mouvement de surface
+											et en type de points d'ancrage présents.
+											Pour étudier comment marche un pied,
+											on va devoir simuler ces surfaces, ou simuler ces débris.
+											Cela fait, voilà une nouvelle expérience qu'on a tentée :
+											on a pris un animal qu'on a fait courir — cette araignée —
+											sur une surface où 99% de la zone de contact a été retirée
+											Mais ça ne l'a même pas ralentie.
+											Elle coure toujours à l'équivalent pour nous de 480 km/h.
+									","
+											Now it turns out that animals can go anywhere.
+											They can locomote on substrates that vary as you saw —
+											in the probability of contact, the movement of that surface
+											and the type of footholds that are present.
+											If you want to study how a foot works,
+											we're going to have to simulate those surfaces, or simulate that debris.
+											When we did that, here's a new experiment that we did:
+											we put an animal and had it run — this grass spider —
+											on a surface with 99 percent of the contact area removed.
+											But it didn't even slow down the animal.
+											It's still running at the human equivalent of 300 miles per hour.
+									","
+											Şimdi bu hayvanların her yere gidebileceği düşüncesine dönüşüyor.
+											Gördüğünüz gibi —
+											temas olasılığında, o zemindeki hareketi
+											ve mevcut ayaklıklar türünün substratlarını yönetebiliyorlar
+											Eğer ayağın nasıl çalıştığını öğrenmek isterseniz,
+											bu yüzeyleri ya da bu enkazı simüle edeceğiz.
+											Bunu yaptığımız zaman, oluşturduğumuz yeni bir deney çıkıyor ortaya :
+											bir hayvan koyacağız ve koşturacağız — bu çim örümceği —
+											deneyde %99 kontak kurabileceği alanlar kaldırıldı.
+											Ancak bu bile hayvanı yavaşlatamadı.
+											Hala insanların ölçümüne göre saatte 300 mil koşuyor.
+									","
+											Jetzt stellt sich heraus, dass Tiere überall hin können.
+											Sie können sich auf sehr verschiedenen Untergründen fortbewegen –
+											sie variieren in der Kontaktwahrscheinlichkeit, der Bewegung der Oberfläche
+											und den gegebenen Auftrittsmöglichkeiten.
+											Wenn wir untersuchen, wie ein Fuß funktioniert,
+											müssen wir diese Oberflächen oder Hindernisse simulieren.
+											Dabei führten wir ein neues Experiment durch:
+											Wir ließen ein Tier – hier eine Grasspinne –
+											über eine Oberfläche laufen, von der 99 % der Kontaktfläche entfernt worden waren.
+											Aber das verringerte die Geschwindigkeit des Tiers kein bisschen.
+											Es läuft immer noch mit einer Geschwindigkeit von fast 500 km/h.
+									","
+											Ahora resulta que los animales pueden ir donde sea.
+											Pueden desplazarse en superficies que, como vieron, varían en
+											la probabilidad de contacto, el movimiento de esa superficie
+											y el punto de apoyo de los pies que están presentes.
+											Si se quiere estudiar cómo funcionan los pies
+											vamos a tener que simular esas superficies, o simular esas piedras.
+											Luego de eso hicimos un experimento:
+											pusimos un animal y lo hicimos correr, a esta araña de pasto,
+											en una superficie con el 99% del área de contacto retirada.
+											Pero ni siquiera eso redujo su velocidad.
+											Aun esta corriendo al equivalente humano de 480 km por hora.
+									",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+","
+","
+","
+","
+",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+											Alors comment fait-elle? Observez plus attentivement.
+											Quand on ralenti 50 fois, on voit comment sa jambe touche le débris simulé.
+											Sa jambe agit comme un pied.
+											Et en fait, elle utilise les autres parties de sa jambe
+											plus fréquemment que le pied à proprement parler.
+											Le pied est réparti le long de toute la jambe.
+											Vous pouvez faire une autre expérience avec un cafard
+											auquel vous retirez un pied.
+											Je fais passer des cafards, regardez bien leurs pieds.
+											Sans pied, voilà ce qui se passe. Il ne ralentit même pas.
+											Sans cet appui, il peut courir exactement à la même vitesse.
+											Pas de problème pour le cafard — et leur jambe repousse, si ça vous inquiète.
+											Comment font-ils?
+											Regardez bien : la vidéo est ralentie cent fois
+											et regardez ce qu'il fait du reste de sa jambe.
+											Elle agit, encore une fois, comme un pied réparti.
+											Très efficace.
+									","
+											Now how could it do that? Well, look more carefully.
+											When we slow it down 50 times we see how the leg is hitting that simulated debris.
+											The leg is acting as a foot.
+											And in fact, the animal contacts other parts of its leg
+											more frequently than the traditionally defined foot.
+											The foot is distributed along the whole leg.
+											You can do another experiment where you can take a cockroach with a foot,
+											and you can remove its foot.
+											I'm passing some cockroaches around. Take a look at their feet.
+											Without a foot, here's what it does. It doesn't even slow down.
+											It can run the same speed without even that segment.
+											No problem for the cockroach — they can grow them back, if you care.
+											How do they do it?
+											Look carefully: this is slowed down 100 times,
+											and watch what it's doing with the rest of its leg.
+											It's acting, again, as a distributed foot —
+											very effective.
+									","
+											Şimdi bunu nasıl yapıyor? Evet, daha dikkatli bakalım.
+											Bunu 50 kez yavaşlattığımızda bacağın bu simüle edilmiş enkazı nasıl ittiğini görüyoruz.
+											Bacak sanki ayakmış gibi hareket ediyor.
+											Ama adeta, ayağın geleneksel tanımından ziyade
+											hayvan bacağının diğer parçalarıyla daha hızlı kontak kuruyor.
+											Ayak bütün bacak boyunca dağılmış.
+											Ayakla ilgili bir hamam böceği kullanarak farklı bir deney yapabilirsiniz
+											ve bacağından ayırabilirsiniz.
+											etrafa birkaç hamam böceği yolluyorum. Ayaklarına bir bakın.
+											Ayağı olmadan, ne oluyor bakın. Asla yavaşlamıyor.
+											Bu sekme olmadan aynı hızla koşamaz.
+											Bu hamam böceği için önemli değil — eğer dikkatli davranırsanız onları tekrar büyütebilir.
+											Bunu nasıl yapıyorlar?
+											Dikkatli bakın : bu 100 kez yavaşlatılmışı,
+											ve bacağını dinlendirirken ne yaptığını izleyin.
+											Yayılmış bir ayak gibi tekrar tekrar hareket ediyor —
+											çok etkili.
+									","
+											Wie gelang ihm das nur? Schauen Sie genauer hin.
+											Verlangsamen wir die Bewegung 50-mal, sehen wir, wie das Bein das Hindernis berührt.
+											Das Bein handelt wie ein Fuß.
+											Und das Tier lässt andere Teile seines Beins
+											viel öfter als den traditionell definierten Fuß Kontakt herstellen.
+											Der Fuß ist über das ganze Bein verteilt.
+											Hier ist ein anderes Experiment, wo der Fuß
+											einer Kakerlake entfernt wird.
+											Ich lasse ein paar Kakerlaken herumgehen. Schauen Sie sich ihre Füße an.
+											Ohne einen Fuß tut sie dies. Sie verlangsamt sich noch nicht einmal.
+											Sie kann ohne dieses Segment die Geschwindigkeit beibehalten.
+											Kein Problem für die Schabe – die Füße wachsen auch wieder nach.
+											Wie stellen sie das an?
+											Schauen Sie genau hin: Einhundertfach verlangsamt
+											sehen wir nun, was sie mit ihrem Bein anstellt.
+											Und wieder fungiert es als erweiterter Fuß –
+											sehr effektiv.
+									","
+											Ahora, ¿cómo pudo hacerlo? Bien, miremos más detenidamente.
+											Cuando reducimos la velocidad 50 veces vemos cómo la pata está golpeando ese escombro simulado.
+											La pata actúa como pie.
+											Y, de hecho, el animal hace contacto con otras partes de su pata
+											más seguido que con el pie definido tradicionalmente.
+											El pie está distribuído en toda la pata.
+											Pueden hacer otro experimento donde se toma una cucaracha con un pie
+											y se le quita el pie.
+											Estoy pasando algunas cucarachas en el auditorio. Miren sus pies.
+											Sin un pie esto es lo que hace. Ni siquiera se desacelera.
+											Puede correr a la misma velocidad sin siquiera esa parte.
+											No es problema para la cucaracha; pueden regenerarlas, si les preocupa.
+											¿Cómo lo hacen?
+											Miren detenidamente: 100 veces más lento
+											miren qué hace con el resto de sus patas.
+											Actúa, nuevamente, como un pie distribuido.
+											Muy eficaz.
+									",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+","
+","
+","
+","
+",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+											La question ainsi posée est, ce type de pied est il courant?
+											La première fois, l'attitude de l'animal suivant nous a ébahi.
+											Messieurs les journalistes, ceci est non-officiel —
+											regardez ce que l'on voit!
+											Voici une pieuvre bipède déguisée en noix de coco roulante.
+											Elle a été découverte par Christina Huffard
+											et filmée par Sea Studios, ici-même à Monterey.
+									","
+											Now, the question we had is, how general is a distributed foot?
+											And the next behavior I'll show you of this animal just stunned us the first time that we saw it.
+											Journalists, this is off the record; it's embargoed.
+											Take a look at what that is!
+											That's a bipedal octopus that's disguised as a rolling coconut.
+											It was discovered by Christina Huffard
+											and filmed by Sea Studios, right here from Monterey.
+									","
+											Şimdi, çözmemiz gereken soru, dağıtılmış ayak nasıl genel olabilir?
+											Ve size hayretle izleyeceğiniz bu hayvanın bir sonraki davranışını göstereceğim.
+											Yazarlar, bu kayıt dışı; ambargo edilmiş.
+											Ne olduğuna bakın!
+											Bu yuvarlanan hindistan cevizi kılıklı iki ayaklı bir ahtapot.
+											Bu Christina Huffard tarafından keşfedildi
+											ve burada Monterey'den olan Sea Stüdyolarında filme alındı.
+									","
+											Unsere Frage war aber: Wie allgemein ist ein erweiterter Fuß?
+											Bei dem nächsten Verhalten waren wir beim ersten Sehen einfach nur verblüfft.
+											Journalisten, das ist nicht für die Öffentlichkeit bestimmt.
+											Schauen Sie mal, was das ist!
+											Das ist ein zweifüßiger Oktopus, der als rollende Kokosnus verkleidet ist.
+											Er wurde von Christina Huffard entdeckt,
+											und von Sea Studios gefilmt, genau hier aus Monterey.
+									","
+											Ahora, la pregunta que nos hicimos es ¿cuán general es un pie distribuido?
+											El próximo comportamiento que les mostraré de este animal nos sorprendió la primera vez que lo vimos.
+											Periodistas, esto es confidencial
+											¡miren qué es!
+											Es un pulpo bípedo disfrazado de coco rodante.
+											Fue descubierto por Christina Huffard
+											y filmado por Sea Studios, aquí en Monterrey.
+									",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+","
+","
+","
+","
+",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+											Nous avons également décrit une autre espèce de pieuvre bipède.
+											Celle-ci se déguise en algue flottante.
+											Elle marche sur deux jambes et lève ses bras pour se camoufler.
+											(Applaudissements)
+											Et regardez ce qu'elle fait de ses pieds pour traverser des terrains difficiles.
+											Elle utilise ce beau pied réparti, faisant comme si les obstacles n'existaient même pas.
+											Réellement extraordinaire.
+									","
+											We've also described another species of bipedal octopus.
+											This one disguises itself as floating algae.
+											It walks on two legs and it holds the other arms up in the air so that it can't be seen.
+											(Applause)
+											And look what it does with its foot to get over challenging terrain.
+											It uses that beautiful distributed foot to make it as if those obstacles are not even there —
+											truly extraordinary.
+									","
+											Üstelik iki ayaklı ahtapotun bir başka cinsini daha tanımladık.
+											Bu da kendini yüzen bir yosunmuş gibi davranarak gizliyor.
+											İki ayak üzerinde yürüyor ve diğer kollarını görülmemek için havaya kaldırıyor.
+											(Alkış)
+											Ve zorlu zemin üzerinde ne yaptığına bakın.
+											Bu güzelce yayılmış ayakları engeller yokmuş gibi kullanıyor —
+											gerçekten olağanüstü.
+									","
+											Wir haben auch eine andere Spezies des zweifüßigen Oktopus entdeckt.
+											Der hier tarnt sich als treibende Algen.
+											Er läuft auf zwei Beinen und hält die anderen Arme hoch, damit er nicht gesehen wird.
+											(Beifall)
+											Und schauen Sie, was er tut, um den Fuß über schwieriges Terrain zu bewegen.
+											Dieser wunderbare erweiterte Fuß lässt die Hindernisse wie gar keine erscheinen –
+											wahrhaftig außergewöhnlich.
+									","
+											También describimos otras especies de pulpos bípedos.
+											Este se disfraza de alga flotante.
+											Camina en dos patas y deja las otras en el aire para que no se vean.
+											(Aplausos)
+											Y miren lo que hace con su pie para reponerse de terrenos complicados.
+											Usa su pie distribuido para hacer como que esos obstáculos no estuvieran allí.
+											Realmente extraordinario.
+									",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+","
+","
+","
+","
+",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+											En 1951, Escher fait ce dessin. Il pensait avoir créé un animal fantaisiste.
+											Mais nous savons que l'art imite la vie
+											et il semble que la nature a créé cet animal il y a 3 millions d'années.
+											C'est un stomatopode, qui ressemble à une crevette,
+											et voilà comment il se déplace sur les plages de Panama :
+											il roule sur lui-même et peut même rouler sur une pente ascendante.
+											C'est le pied réparti ultime; son corps entier est utilisé comme un pied.
+									","
+											In 1951, Escher made this drawing. He thought he created an animal fantasy.
+											But we know that art imitates life,
+											and it turns out nature, three million years ago, evolved the next animal.
+											It's a shrimp-like animal called the stomatopod,
+											and here's how it moves on the beaches of Panama:
+											it actually rolls, and it can even roll uphill.
+											It's the ultimate distributed foot: its whole body in this case is acting like its foot.
+									","
+											1951 de, Escher bu çizimi yaptı. Bir hayvan fantazisi oluşturabileceğini düşündü.
+											Ama bunun imitasyon hayat sanatı olduğunu biliyoruz
+											ve bu doğaya dönüşüyor, bir sonraki hayvan, üç milyon yıl öncen gelişti.
+											Bu karidese benzeyen stomatpod adnda bir hayvan
+											ve burada Panama plajlarında nasıl hareket eder onu görüyoruz :
+											aslında yuvarlanıyor ve
+											Bu en son yayılmış ayak : bu olaydaki kendi bacağı varmış gibi hareket eden bir gövde.
+									","
+											1951 zeichnete Escher dieses Bild. Er dachte, er hätte Tier-Fantasy gezeichnet.
+											Aber da bekanntlich die Kunst das Leben imitiert,
+											stellt sich heraus, dass die Natur vor drei Millionen Jahren das nächste Tier entwickelte.
+											Es ist ein Shrimp-ähnliches Tier namens Stomatopode.
+											So bewegt es sich an den Stränden von Panama:
+											Es rollt regelrecht und kann sogar bergauf rollen.
+											Es ist der ultimative erweiterte Fuß: Der gesamte Körper agiert in diesem Fall als Fuß.
+									","
+											En 1951 Escher hizo este dibujo. Pensaba que creaba una fantasía animal.
+											Pero sabemos que el arte imita la vida
+											y se vuelve naturaleza, hace tres millones de años, evolucionó el siguiente animal.
+											Es un animal tipo camarón llamado estomatópodo
+											y así es como se mueve en las playas de Panamá:
+											en verdad rueda, y hasta puede hacerlo cuesta arriba.
+											Es el pie distribuido definitivo; todo su cuerpo en este caso hace las veces de pie.
+									",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+","
+","
+","
+","
+",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+											Alors, pour ajouter à notre prototype la première fonctionnalité importante,
+											nous voulons en faire un pied à contact réparti.
+											Non seulement pour ce qu'on appelle le pied, mais pour toute la jambe,
+											et même le corps.
+											Est-ce que cela peut nous aider à dessiner de nouveaux robots?
+											Nous avons été inspiré par la biologie pour ce robot appelé RHex,
+											construit ces dernières années par d'extraordinaires ingénieurs.
+											Le pied de RHex était très simple au début,
+											et il a évolué jusqu'à être ce demi-cercle.
+											Et pourquoi? La vidéo va vous le montrer.
+											Regardez comment le robot utilise sa jambe pour surmonter les difficultés du terrain.
+											Ce que vous voyez, c'est l'utilisation de la jambe semi-circulaire comme un pied à contact réparti.
+											Regardez-le dépasser ça.
+											On le voit bien dans ces débris.
+											Extraordinaire.
+											Très simple mais magnifique.
+									","
+											So, if we want to then, to our blueprint, add the first important feature,
+											we want to add distributed foot contact.
+											Not just with the traditional foot, but also the leg,
+											and even of the body.
+											Can this help us inspire the design of novel robots?
+											We biologically inspired this robot, named RHex,
+											built by these extraordinary engineers over the last few years.
+											RHex's foot started off to be quite simple,
+											then it got tuned over time, and ultimately resulted in this half circle.
+											Why is that? The video will show you.
+											Watch where the robot, now, contacts its leg in order to deal with this very difficult terrain.
+											What you'll see, in fact, is that it's using that half circle leg as a distributed foot.
+											Watch it go over this.
+											You can see it here well on this debris.
+											Extraordinary. No sensing, all the control is built right into the tuned legs.
+											Really simple, but beautiful.
+									","
+											O zaman, bizim planımıza ilk önemli özelliği ,
+											dağılmış ayak kontağını eklemek istiyoruz.
+											Yalnızca geleneksel ayakla değil, aynı zamanda bacak
+											ve hatta vücutla.
+											Bu bize roman robotları hakkında ilham vermeye yardımcı olabilir mi?
+											Biz biyolojik olarak adı RHex olan bu robottan ilham aldık,
+											son birkaç yılda bu olağanüstü mühendisler tarafından inşa edilmiş.
+											RHex'in ayağı çok basit olmaya başladı,
+											daha sonra ayarlandı ve bu yarım daireye ulaşıldı.
+											Peki neden? Video size gösterecek.
+											Robotun nerede olduğunu seyredin, şimdi, bu zorlu araziyle başa çıkabilmek için ayağıyla kontakt kurmaya başladı.
+											Aslında, göreceğiniz şey, dağıtılmış bir bacak gibi bu yarım daireyi kullanıyor.
+											İzleyin böyle gidecek.
+											Bu yıkıntının üzerinde daha iyi görebilirsiniz.
+											Olağanüstü. Algılama yok, bütün kontrol ayarlanmış bacakların içine inşa edilmiş.
+											Gerçekten basit, ancak güzel.
+									","
+											Wenn wir dann unserem Bauplan das erste wichtige Feature geben wollen,
+											dann ist das also erweiterter Fußkontakt.
+											Nicht nur mit dem traditionellen Fuß, auch mit dem Bein
+											und selbst mit dem Körper.
+											Kann uns das dabei helfen, neuartige Roboter zu entwerfen?
+											Wir sorgten für die biologische Inspiration dieses Roboters namens RHex,
+											der von diesen fantastischen Ingenieuren in den letzten paar Jahren gebaut wurde.
+											Der Fuß von RHex fing zunächst ganz einfach an,
+											mit der Zeit wurde an ihm herumgeschraubt und schließlich wurde es dieser HalbkreIs.
+											Wieso das? Das Video zeigt es Ihnen.
+											Schauen Sie, wo der Roboter auf diesem schwierigen Untergrund Kontakt mit seinem Bein herstellt.
+											Sie sehen, dass er den Halbkreisfuß als erweiterten Fuß einsetzt.
+											Schauen Sie, wie er hier läuft.
+											Sie können es bei dem Hindernis gut sehen.
+											Außergewöhnlich. Kein Tasten, alle Kontrollen sind direkt in die Beine eingebaut.
+											Sehr einfach, aber schön.
+									","
+											Así, si queremos agregarle a nuestro diseño la primera característica importante
+											queremos agregarle contacto de pie distribuido.
+											No sólo con el pie tradicional sino también a la pata
+											y a todo el cuerpo.
+											¿Puede esto inspirar el diseño de nuevos robots?
+											Nos inpiró, biológicamente, este robot llamado RHex
+											construido por esos ingenieros extraordinarios en los últimos años.
+											El pie del RHex comenzó como algo muy simple
+											luego se fue refinando con el tiempo y finalmente terminó en este semicírculo.
+											¿Por qué? Lo verán en el video.
+											Miren dónde hace contacto el robot con su pata para sortear este terreno difícil.
+											Van a ver que, de hecho, está usando esa pata semicircular como pie distribuido.
+											Mírenlo en movimiento.
+											Pueden verlo bien en estos escombros.
+											Extraordinario. Sin sentido, todo el control está en las patas adaptadas
+											Realmente simple pero hermoso.
+									",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+","
+","
+","
+","
+",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+											Vous avez peut-être remarque quelque chose d'autre quand les animaux
+											couraient sur ce terrain difficile.
+											Mon assistant va m'aider pour ce coup-là.
+											Quand tu as touché la patte du cafard — on peut lui trouver un micro?
+											Quand tu as touché la patte du cafard, qu'as-tu senti?
+											Tu as remarqué quelque chose?
+									","
+											Now, you might have noticed something else about the animals
+											when they were running over the rough terrain.
+											And my assistant's going to help me here.
+											When you touched the cockroach leg — can you get the microphone for him?
+											When you touched the cockroach leg, what did it feel like?
+											Did you notice something?
+									","
+											Şimdi, hayvanlar engebeli arazi üzerinde koşarken
+											onlar hakkında başka bir şey fark etmiş olabilirsiniz
+											Ve asistanım burada bana yardım edecek.
+											Hamam böceğinin bacağına dokunduğunuzda — ona bir mikrofon verebilir misin?
+											Hamam böceğinin bacağına dokunduğunuzda, ne hissettiniz?
+											Dikkatinizi çeken bir şey oldu mu?
+									","
+											Vielleicht ist Ihnen an den Tieren noch etwas aufgefallen,
+											während Sie den unebenen Boden überquerten.
+											Und hier hilft mein Assistent.
+											Als du das Bein der Schabe angefasst hast – können wir ihm ein Mikro geben?
+											Als du das Bein der Schabe angefasst hast, wie fühlte sich das an?
+											Ist dir etwas aufgefallen?
+									","
+											Ahora, habrán notado algo más en los animales
+											cuando corrían por el terreno desparejo.
+											Mi asistente me va a ayudar con esto.
+											Cuando tocaste la pata de la cucaracha. ¿pueden ponerle el micróono?
+											Cuando tocaste la pata de la cucaracha, ¿qué sentiste?
+											¿Notaste algo?
+									",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+","
+","
+","
+","
+",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+											Garçon: C'est épineux.
+									","
+											Boy: Spiny.
+									","
+											Çocuk: Dikenli.
+									","
+											Junge: Stachelig.
+									","
+											Niño: espinoso.
+									",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+","
+","
+","
+","
+",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+											Robert Full: Épineux hein? Très épineux même? Ça fait un peu mal.
+											Peut-être que tu peux le donner au conservateur et voir s'il a le courage de le toucher.
+											(Rires)
+									","
+											Robert Full: It's spiny, right? It's really spiny, isn't it? It sort of hurts.
+											Maybe we could give it to our curator and see if he'd be brave enough to touch the cockroach.
+											(Laughter)
+									","
+											Robert Full: Dikenli, öyle mi? Gerçekten dikenli, öyle değil mi? Acıtan bir tür.
+											Belki de bunu idarecimize vermeliyiz ve bu hamam böceğine dokunabilecek kadar cesaretli olup olmadığını görmeliyiz.
+											(Gülüşmeler)
+									","
+											Robert Full: Es ist stachelig, nicht? Sehr stachelig, oder? Es tut sogar weh.
+											Vielleicht können wir es unserem Kurator geben, vielleicht hat er den Mut, die Schabe anzufassen.
+											(Lachen)
+									","
+											Robert Full: Es espinoso, ¿verdad? Es muy espinoso, ¿cierto? Como que duele.
+											Tal vez podríamos dársela a nuestro curador y ver si es tan valiente como para tocar la cucaracha.
+											(Risas)
+									",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+","
+","
+","
+","
+",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+											Chris Anderson: Tu l'as touché?
+									","
+											Chris Anderson: Did you touch it?
+									","
+											Chris Anderson: Ona dokundun mu?
+									","
+											Chris Anderson: Hast du's angefasst?
+									","
+											Chris Anderson: ¿La tocaste?
+									",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+","
+","
+","
+","
+",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+											RF: Si vous regardez attentivement vous verrez des épines
+											et jusqu'à quelques semaines, personne ne savait qu'il y en avait.
+											Ils se sont dit que c'était un moyen de défense et des capteurs sensoriels.
+											Nous avons découvert que ce n'est pas ça — voilà un segment d'épine.
+											Ils sont prévus pour se pencher facilement dans une direction
+											pour retirer la jambe des décombres,
+											mais ils se raidissent dans l'autre direction pour s'appuyer sur les disparités de la surface.
+									","
+											RF: So if you look carefully at this, what you see is that they have spines
+											and until a few weeks ago, no one knew what they did.
+											They assumed that they were for protection and for sensory structures.
+											We found that they're for something else — here's a segment of that spine.
+											They're tuned such that they easily collapse in one direction
+											to pull the leg out from debris,
+											but they're stiff in the other direction so they capture disparities in the surface.
+									","
+											RF: Şimdi buna dikkatlice bak, onların dikenleri olduğunu görüyorsun
+											ve bir kaç hafta öncesine kadar, kimse onların ne yaptığını bilmiyordu.
+											Onlar korunmak ve hissetmek için kullanılıyor.
+											Biz bunların başka bir şey için olduğunu bulduk — burada bu dikenin başka bir bölümü var.
+											Bunlar bir yönde enkazdan ayağı dışarı çekmek için
+											kolayca daraltılmak için ayarlanmış,
+											ama diğer yönde sertler yani yüzey farklılıklarını yakalayabiliyorlar.
+									","
+											Fell: Schauen Sie sich das Bein genau an, Sie sehen da die Stacheln,
+											und bis vor ein paar Wochen wusste niemand, wofür sie da sind.
+											Sie nahmen an, sie existierten zum Schutz und wegen der Sensorik.
+											Sie sind aber für etwas anderes – hier ein Segment des Stachels.
+											Sie sind so eingestellt, dass sie leicht in eine Richtung zusammenklappen,
+											um das Bein aus dem Geröll zu ziehen,
+											aber in die andere Richtung sind sie steif, so dass sie Unebenheiten auffangen können.
+									","
+											RF: Entonces si la miran con atención se ve que tienen espinas
+											y hasta hace pocas semanas nadie sabía qué hacían.
+											Se suponía que eran para protección, estructuras sensoriales.
+											Hallamos que siven para algo más; aquí hay un fragmento de esa espina.
+											Están dispuestas de manera que fácilmente caen en una dirección
+											para alejar la pata de los escombros
+											pero queda rígida en la otra dirección para capturar salientes en la superficie.
+									",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+","
+","
+","
+","
+",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+											Ces points d'ancrage ne manquent pas aux crabes car ils se déplacent sur du sable —
+											jusqu'à leur arrivée dans notre labo —
+											où ils découvrent leur problème avec ce genre de filets,
+											parce qu'ils n'ont pas d'épines.
+											Les crabes n'ont pas d'épines alors ils ont des difficultés sur ce genre de terrain abrupt.
+											Mais bien sûr, nous pouvons remédier à cela,
+											car nous pouvons créer des épines artificielles.
+											Nous pouvons fabriquer des épines qui s'accrochent aux débris synthétiques
+											et se couchent lors du retrait pour les retirer facilement.
+											Nous avons fait cela en fixant ces épines aux crabes,
+											comme vous le voyez ici, et nous les avons testées.
+											Est-ce que nous comprenons vraiment ce principe de mise au point? La réponse est, oui!
+											Ceci est ralenti 20 fois, le crabe traverse les décombres à toute vitesse.
+											(Rires) (Applaudissements)
+											Un petit peu mieux que la nature.
+									","
+											Now crabs don't miss footholds, because they normally move on sand —
+											until they come to our lab.
+											And where they have a problem with this kind of mesh,
+											because they don't have spines.
+											The crabs are missing spines, so they have a problem in this kind of rough terrain.
+											But of course, we can deal with that
+											because we can produce artificial spines.
+											We can make spines that catch on simulated debris
+											and collapse on removal to easily pull them out.
+											We did that by putting these artificial spines on crabs,
+											as you see here, and then we tested them.
+											Do we really understand that principle of tuning? The answer is, yes!
+											This is slowed down 20-fold, and the crab just zooms across that simulated debris.
+											(Laughter) (Applause)
+											A little better than nature.
+									","
+											Şimdi yengeçler ayaklıkları kaçırmazlar, çünkü bizim laboratuvarımıza gelene kadar —
+											kum üzerinde hareket ediyorlardı.
+											Ve onların bu tür ağlarla problemleri var,
+											çünkü dikenleri yok.
+											Yengeçler dikensizdir, o yüzden böyle engebeli araziler üzerinde problemleri var.
+											Ama elbette, bununla baş edebiliriz
+											çünkü biz yapay dikenler üretebiliriz.
+											Biz simüle enkazın üzerinde yakalamak için dikenler yapabiliriz
+											ve kolayca dışarı çıkarma giderimi üzerine yoğunlaşabiliriz
+											Burada gördüğünüz gibi, bunu yengeçlere yapay diken takarak yaptık
+											ve daha sonra onları test ettik.
+											Biz gerçekten ayarlamanın prensibini anladık mı? Cevap, evet anladık!
+											Bu 20 kez yavaşlatılmışı ve yengeç simüle enkaza yakınlaştı.
+											(Gülüşmeler) (Alkış)
+											Doğadan biraz daha iyi.
+									","
+											Krabben treten nie daneben, weil sie sich normalerweise auf Sand bewegen –
+											bis sie in unser Labor kommen.
+											Und dort haben sie ein Problem mit so einem Gitter,
+											denn ihnen fehlen die Stacheln.
+											Die Krabben haben keine Stacheln, also kommen sie auf unebenem Terrain weniger gut klar.
+											Aber natürlich können wir damit umgehen,
+											denn wir können künstliche Stacheln herstellen.
+											Wir können Stacheln herstellen, die auf simulierten Hindernissen greifen
+											und zur leichten Entfernung zusammenklappen.
+											Wir versahen die Krabben mit diesen künstlichen Stacheln
+											wie Sie hier sehen, und testeten sie dann.
+											Verstehen wir wirklich das Prinzip des Aufmotzens? Oh ja!
+											Das ist 20-fach verlangsamt und die Krabbe rast regelrecht über das Hindernis hinweg.
+											(Lachen) (Beifall)
+											Ein bisschen besser als die Natur.
+									","
+											Los cangrejos no necesitan puntos de apoyo porque normalmente se mueven en la arena
+											hasta que van a nuesto laboratorio.
+											Y tienen problemas con esta clase de malla
+											porque no tienen espinas.
+											A los cangrejos les faltan espinas por eso tienen problemas en estos terrenos desparejos.
+											pero por supuesto que podemos resolver eso
+											porque podemos producir espinas artificiales.
+											Podemos hacer espinas que se adhieran a escombros simulados
+											y caigan ante la remoción para retirarlas fácilmente.
+											Lo hicimos poniendo estas espinas artificiales a cangrejos
+											como ven aquí y luego las probamos.
+											¿Entendemos realmente ese principio de adaptación? La respuesta es: ¡sí!
+											Esto está 20 veces más lento y el cangrejo sale zumbando por los escombros simulados.
+											(Risas) (Aplausos)
+											Un poquito mejor que la Naturaleza.
+									",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+","
+","
+","
+","
+",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+											Alors à notre prototype, nous devons ajouter des épines bien réglées.
+											Ceci va-t-il nous aider à penser un design plus efficace pour des robots grimpeurs?
+											Eh bien, voici RHex, qui a des problèmes sur les rails lisses, comme on le voit ici.
+											Alors pourquoi ne pas ajouter une épine? Mes collègues l'ont fait à U Penn.
+											Dan Koditschek a mis des ongles d'acier — une version très simple — sur le robot —
+											et voilà RHex qui dépasse maintenant ces rails. Sans problème!
+											Comment fait-il?
+											Ralentissons la vidéo et voyons les épines en action.
+											Regardez la jambe pivoter et vous voyez le robot s'accrocher juste ici.
+											Il ne pouvait pas le faire avant, il glissait, se bloquait et basculait.
+											Regardons encore, juste ici — succès!
+									","
+											So to our blueprint, we need to add tuned spines.
+											Now will this help us think about the design of more effective climbing robots?
+											Well, here's RHex: RHex has trouble on rails — on smooth rails, as you see here.
+											So why not add a spine? My colleagues did this at U. Penn.
+											Dan Koditschek put some steel nails — very simple version — on the robot,
+											and here's RHex, now, going over those steel — those rails. No problem!
+											How does it do it?
+											Let's slow it down and you can see the spines in action.
+											Watch the leg come around, and you'll see it grab on right there.
+											It couldn't do that before; it would just slip and get stuck and tip over.
+											And watch again, right there — successful.
+									","
+											Planımıza göre, ayarlanmış dikenler eklemeliyiz.
+											Şimdi bu bize daha etkileyici olan tırmanma robotlarının dizaynı hakkında düşünmeye yardım edecek mi?
+											İşte bu RHex: RHex'in raylarda bir derdi var — burada gördüğünüz, pürüzsüz raylarda.
+											Neden bir diken eklemedik? İş arkadaşlarım bunu U.Penn.' de yapmışlardı.
+											Dan Koditschek robun üzerine — çok basit bir versiyon — çelik tırnaklar ekledi
+											ve işte RHex, şimdi, şu rayların üzerinde — şu çeliğin üzerinde gidiyor. Problem kalmadı!
+											Bunu nasıl yaptı?
+											Haydi bunu yavaşlatalım ve dikenlerin nasıl etki ettiğini görün.
+											Bacağın gelişini izleyin ve tam burada yakaladığını göreceksiniz.
+											Bunu daha önce yapamamıştı;
+											Ve tekrar izleyin, tam şurada — başarılı.
+									","
+											Wir mussten also unseren Bauplänen solche Stacheln geben.
+											Hilft uns das jetzt beim Entwerfen effektiverer kletternder Roboter?
+											Hier ist RHex: RHex hat auf Schienen Probleme – auf glatten Schienen wie denen hier.
+											Geben wir ihm Stacheln! So geschah es an der Universität von Pennsylvania.
+											Dan Koditschek versah den Roboter mit Stahlnägeln – einer sehr einfachen Version –
+											und hier sehen wir RHex über die Schienen gehen! Kein Problem!
+											Wie tut er das?
+											Verlangsamen wir, um die Stacheln in Aktion zu sehen.
+											Hier kommt das Bein an, und es hält sich genau dort fest.
+											Vorher konnte es das nicht, es rutschte einfach aus, steckte fest und fiel um.
+											Und hier schon wieder – erfolgreich.
+									","
+											Así, para nuestro diseño, necesitamos agregar espinas adaptadas.
+											Ahora, ¿nos ayudará esto a pensar el diseño de robots escaladores más efectivos?
+											Bien, este es RHex (RHex tiene problemas sobre rieles) sobre rieles lisos, como ven.
+											Entonces, ¿por qué no agregar espinas? Mis colegas lo hicieron en la Universidad de Pensilvania.
+											Dan Koditschek le puso uñas de acero (una versión muy simple) al robot
+											y aquí tenemos al RHex yendo por esos rieles de acero... ¡sin problemas!
+											¿Cómo lo hace?
+											Mirémoslo más lentamente para ver las espinas en acción.
+											Miren pasar la pata y la verán adherirse justo allí.
+											No podía hacerlo antes, se habría resbalado, atascado y caído.
+											Y miren de nuevo, justo allí... éxito.
+									",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+","
+","
+","
+","
+",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+											Ceci dit, ce pied réparti et ces épines
+											ne suffisent pas pour grimper des surfaces verticales.
+											C'est très, très difficile.
+											Mais regardez ces animaux le faire!
+											L'un de ceux que je vous fais passer grimpe des surfaces verticales en métal lisse.
+											La vitesse à laquelle il le fait est extraordinaire —
+											mais si vous ralentissez, vous voyez quelque chose d'encore plus extraordinaire.
+											C'est un secret. L'animal grimpe très bien en glissant et regardez —
+											il se débrouille en fait très mal pour s'accrocher à la surface.
+											On dirait presque qu'il nage sur cette surface.
+											On peut mieux représenter ce comportement si on le regarde comme un fluide.
+											Le pied réparti fonctionne en fait comme une rame.
+									","
+											Now just because we have a distributed foot and spines
+											doesn't mean you can climb vertical surfaces.
+											This is really, really difficult.
+											But look at this animal do it!
+											One of the ones I'm passing around is climbing up this vertical surface that's a smooth metal plate.
+											It's extraordinary how fast it can do it —
+											but if you slow it down, you see something that's quite extraordinary.
+											It's a secret. The animal effectively climbs by slipping and look —
+											and doing, actually, terribly, with respect to grabbing on the surface.
+											It looks, in fact, like it's swimming up the surface.
+											We can actually model that behavior better as a fluid, if you look at it.
+											The distributed foot, actually, is working more like a paddle.
+									","
+											Şimdi bizim dağıtılmış ayak ve dikenlere sahip olmamız
+											dikey yüzeylere tırmanabileceğiniz anlamına gelmiyor.
+											Bu gerçekten, ama gerçekten zor.
+											Ama bu hayvan yapıyor!
+											Bunlardan biri - buraları es geçiyorum - bu pürüzlü metal plakadan yapılmış dikey yüzeye tırmanıyor.
+											Bu alışılagelmişin dışında nasıl bu kadar hızlı olabiliyor —
+											ama eğer yavaşlatırsanız, bir şeylerin gerçekten farklı olduğunu görürsünüz.
+											Bu bir sır. Hayvan etkin bir şekilde kayarak tırmanıyor ve bakın —
+											ve faaliyet, aslında, son derece, saygıyla zemini kapıyor.
+											Aslında, yüzeye kadar yüzüyormuş gibi gözüküyor.
+											Buna bakarsak ,aslında bu davranışı bir sıvı olarak modelleyebiliriz.
+											Bu dağıtılmış ayak, aslında, bir yüzgeç gibi çalışıyor.
+									","
+											Nur weil wir jetzt einen erweiterten Fuß und Stacheln haben,
+											kann man noch lange nicht vertikale Oberflächen erklimmen.
+											Das ist echt, echt schwer.
+											Aber dieses Tier kann es!
+											Eines von den Tieren, die ich herumreiche, kann diese vertikale glatte Metallplatte hochklettern.
+											Und es tut das in einem verblüffenden Tempo –
+											Aber wenn man es verlangsamt, sehen wir etwas Beeindruckendes.
+											Ein Geheimnis. Das Tier klettert, indem es ausrutscht und
+											es kann eigentlich überhaupt nicht gut die Oberfläche greifen.
+											Es sieht eher so aus, als schwömme es die Oberfläche hoch.
+											Wir können dieses Verhalten besser als Flüssigkeit nachbauen.
+											Der erweiterte Fuß funkioniert eher wie ein Paddel.
+									","
+											Ahora bien, por sólo tener pies y espinas distribuidos
+											no significa que se pueda escalar superficies verticales.
+											Esto es realmente muy difícil.
+											¡Pero miren como lo hace este animal!
+											Uno de los que voy pasando está escalando esta superficie vertical que es una placa de metal lisa.
+											Es extraordinario lo rápido que puede hacerlo
+											pero en cámara lenta puede verse algo muy extraordinario.
+											Es un secreto. El animal efectivamente escala resbalando y miren
+											lo hace realmente mal respecto de la adhesión a la superficie
+											Parece, de hecho, que nada contracorriente la superficie.
+											Podemos modelar ese comportamiento mejor como fluído, si lo miran.
+											El pie distribuido, en realidad, funciona más como un remo.
+									",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+","
+","
+","
+","
+",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+											C'est également vrai pour ce lézard courant sur des sables mouvants.
+											Regardez ses pieds.
+											Ils fonctionnent comme une rame
+											même si l'interaction se fait avec une surface solide.
+											C'est assez proche de la découverte d'une de mes anciennes étudiantes
+											qui a compris comment les lézards courent sur l'eau.
+											Pouvons-nous utiliser cela pour améliorer notre robot?
+											Martin Buehler qui travaille maintenant chez Boston Dynamics, l'a fait.
+											Il a pris cette idée et a transformé RHex en Aqua RHex.
+											Maintenant voilà RHex avec des palmes,
+											converti en robot nageur extrêmement manœuvrable.
+									","
+											The same is true when we looked at this lizard running on fluidized sand.
+											Watch its feet.
+											It's actually functioning as a paddle
+											even though it's interacting with a surface that we normally think of as a solid.
+											This is not different from what my former undergraduate discovered
+											when she figured out how lizards can run on water itself.
+											Can you use this to make a better robot?
+											Martin Buehler did — who's now at Boston Dynamics —
+											he took this idea and made RHex to be Aqua RHex.
+											So here's RHex with paddles,
+											now converted into an incredibly maneuverable swimming robot.
+									","
+											Akışkan kum üzerinde ilerleyen bu kertenkeleye baktığımızda durumun aynı olduğunu görebiliriz.
+											Ayağını izleyin.
+											Bu aslında bir yüzgeç gibi çalışıyor olsa bile
+											katı olduğunu düşündüğümüz bir yüzeyle etkileşime giriyor.
+											O kertenkelelerin suyun üzerinde koşabildiğini düşünürken
+											ben de eski önlisansımda bulmuştum bunu.
+											Bunu daha iyi bir robot yapmak için kullanabilir misin?
+											— Şu anda Boston Dynamics'te olan —Martin Buehler
+											bu fikri RHex'i Aqua RHex yapmak için kullandı.
+											İşte yüzgeçli RHex,
+											şimdi inanılmaz manevra kabiliyeti olan bir yüzme robot oldu.
+									","
+											Dasselbe gilt bei dieser Eidechse, die über verflüssigten Sand läuft.
+											Schauen Sie auf die Füße.
+											Sie fungieren als Paddel,
+											obwohl sie mit einer Oberfläche interagieren, die wir eigentlich für fest halten.
+											Das unterscheidet sich nicht von den Entdeckungen meiner früheren Studentin,
+											die herausfand, wie Eidechsen auf dem Wasser selbst laufen.
+											Können wir das für bessere Roboter verwenden?
+											Martin Buehler – nun bei Boston Dynamics – gelang es,
+											er nahm diese Idee und verwandelte RHex in den Aqua RHex.
+											Hier ist RHex mit Paddeln,
+											jetzt in einen unglaublich manövrierfähigen schwimmenden Roboter umgewandelt.
+									","
+											Lo mismo vale si miramos esta lagartija que corre en un lecho fluidizado.
+											Miren sus pies.
+											En realidad funcionan como remos
+											si bien está interactuando con una superficie que normalmente pensamos como sólida.
+											Esto no difiere de lo que mi antigua estudiante de licenciatura descubrió
+											cuando ella imaginaba cómo pueden correr las lagartijas en el agua.
+											¿Puede usarse esto para construir mejores robots?
+											Martin Buehler hizo (está en Boston Dynamics ahora)
+											tomó esta idea e hizo de RHex un Aqua RHex.
+											Así tenemos un RHex con remos
+											ahora convertido en un robot nadador increíblemente versátil.
+									",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+","
+","
+","
+","
+",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+											Pour les surfaces inégales cependant, les animaux ont des griffes.
+											Et vous les avez senties si vous les avez attrapés.
+											Tu les as touchés?
+									","
+											For rough surfaces, though, animals add claws.
+											And you probably feel them if you grabbed it.
+											Did you touch it?
+									","
+											Pürüzlü yüzeyler için de olsa, hayvanlar pençeler ekliyor.
+											Ve onu yakaladıysanız büyük ihtimalle onları hissedeceksiniz.
+											Ona okunabilir misin?
+									","
+											Für unebene Oberflächen jedoch haben Tiere Klauen.
+											Und wahrscheinlich spüren Sie die, wenn Sie das angefasst haben.
+											Hast du's angefasst?
+									","
+											En superficies irregulares, animales con garras.
+											Y seguro las sienten si los tocan.
+											¿Las tocaron?
+									",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+","
+","
+","
+","
+",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+											CA: Oui
+									","
+											CA: I did.
+									","
+											CA: Dokundum.
+									","
+											Anderson: Hab ich.
+									","
+											CA: Yo lo hice.
+									",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+","
+","
+","
+","
+",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+											RF: Et ils s'accrochent très bien aux surfaces avec ces griffes.
+											Mark Cutkosky à l'Université de Stanford, un de mes collaborateurs, est un ingénieur extraordinaire
+											qui a développé cette technique appelée Shape Deposition Manufacturing
+											qui consiste à inclure des griffes dans un pied artificiel.
+											Voilà la version simplifiée du pied d'un nouveau robot que vous verrez tout à l'heure.
+											Alors rajoutons des griffes à notre prototype.
+											En regardant les animaux qui manœuvrent dans tous types de surfaces,
+											on voit qu'ils utilisent des mécanismes hybrides
+											qui incluent des griffes, des épines, des poils, des coussinets collants,
+											une adhésion capillaire et toute sorte d'autres choses.
+											Ces mécanismes viennent de différents insectes.
+											Voilà une fourmi qui grimpe une surface verticale.
+											Observons cette fourmi.
+									","
+											RF: And they do really well at grabbing onto surfaces with these claws.
+											Mark Cutkosky at Stanford University, one of my collaborators, is an extraordinary engineer
+											who developed this technique called Shape Deposition Manufacturing,
+											where he can imbed claws right into an artificial foot.
+											And here's the simple version of a foot for a new robot that I'll show you in a bit.
+											So to our blueprint, let's attach claws.
+											Now if we look at animals, though, to be really maneuverable in all surfaces,
+											the animals use hybrid mechanisms
+											that include claws, and spines, and hairs, and pads, and glue, and capillary adhesion
+											and a whole bunch of other things.
+											These are all from different insects.
+											There's an ant crawling up a vertical surface.
+											Let's look at that ant.
+									","
+											RF: Ve bu pençelerle yüzeylere tutunma işini gerçekten iyi yapıyorlar.
+											Standford Üniversitesi'nde ki iş ortaklarımdan Mark Cutkosky,
+											pençeleri bu yapay ayağın içine gömebildi ve bu teknik
+											Şekil Biriktirme İmalatı olarak biliniyor.
+											İşte burada size birazını göstereceğim yeni robotun basit bir versiyonu var.
+											Plana dönelim ve pençeleri ekleyelim.
+											Şimdi hayvanlara bakarsak eğer, gerçekten bütün zeminlerde manevra yapabiliyor olsa da,
+											hayvanlar, pençeler, dikenler, kıllar, yüzgeçler, yapışkanlar,
+											kılcal adezyon ve bunun gibi bir sürü
+											melez mekanizmaları kullanırlar.
+											Bunların hepsi farklı böceklerden.
+											Burada dikey zemin üzerinde sürünerek ilerleyen bir karınca var.
+											Haydi şu karıncaya bakalım.
+									","
+											Fell: Und sie können sich mit diesen Klauen sehr gut an Oberflächen festhalten.
+											Mark Cutkosky an Stanford, einer meiner Partner, ist ein außergewöhnlicher Ingenieur,
+											der eine Technik namens Shape Deposition Manufacturing (etwa: ""Formanreicherung"") entwickelte,
+											wo er Klauen direkt in einen künstlichen Fuß einbetten kann.
+											Und hier ist eine einfache Version eines Fußes für einen neuen Roboter, den ich Ihnen gleich zeige.
+											Fügen wir unserem Bauplan also Klauen hinzu.
+											Die Tiere, die wirklich gut auf allen Oberflächen manövrieren können,
+											verwenden Hybridmechanismen,
+											die Klauen und Stacheln, Härchen und Ballen, Kleber und kapillare Adhäsion einsetzen,
+											und noch eine Menge anderer Dinge.
+											Die hier sind alle von unterschiedlichen Insekten.
+											Hier krabbelt eine Ameise eine senkrechte Oberfläche hoch.
+											Schauen wir sie uns an.
+									","
+											RF: Y se adhieren muy bien a las superficies con estas garras.
+											Mark Cutkosky de la Universidad de Stanford, colaborador mío, es un ingeniero fuera de serie
+											que desarrolló esta técnica llamada Fabricación por Deposición de Forma
+											que le permite incrustar garras en un pie artificial.
+											Y aquí está una versión de un pie para un nuevo robot que les mostraré en un momento.
+											Así, para nuestro diseño, agreguemos garras.
+											Si miramos a los animales, para ser realmente versátil en todas las superficies,
+											los animales usan mecanismos híbridos
+											como son garras, espinas, pelos, almohadillas, pegamento, adhesión capilar
+											y un montón de otras cosas.
+											Estas son todas de diferentes insectos.
+											Hay una hormiga arrastrándose por una superficie vertical.
+											Miremos esa hormiga.
+									",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+","
+","
+","
+","
+",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+											Voici son pied. Vous pouvez voir les poils, les griffes et cette chose ici.
+											Voici le pied quand il est en l'air.
+											Regardez ce qui arrive quand le pied se pose sur votre sandwich.
+											Vous voyez ce qui se passe?
+											Ce coussinet sort. Et c'est là que se trouve la colle.
+											Voici une vue du dessous d'un pied de fourmi
+											quand les griffes ne peuvent s'accrocher à rien, le coussinet sort sans que la fourmi ne fasse quoi que ce soit.
+											Il se projette tout simplement.
+											C'était une photo dure à prendre — Je pense que c'est un pied de fourmi sur des fils très fins.
+											C'est assez difficile à faire.
+											Voilà à quoi cela ressemble de très près —
+											voici le pied de la fourmi et voilà la colle.
+									","
+											This is the foot of an ant. You see the hairs and the claws and this thing here.
+											This is when its foot's in the air.
+											Watch what happens when the foot goes onto your sandwich.
+											You see what happens?
+											That pad comes out. And that's where the glue is.
+											Here from underneath is an ant foot,
+											and when the claws don't dig in, that pad automatically comes out without the ant doing anything.
+											It just extrudes.
+											And this was a hard shot to get — I think this is the shot of the ant foot on the superstrings.
+											So it's pretty tough to do.
+											This is what it looks like close up —
+											here's the ant foot, and there's the glue.
+									","
+											Bu bir karınca ayağı. Kılları, pençeleri ve bu şeyi görüyorsunuz.
+											Bu ayağının havada olduğu zaman.
+											Ayak sandviçinize doğru geldiğinde ne oluyor izleyin.
+											Ne olduğunu görüyor musunuz?
+											Bu ped çıkıyor. Ve yapıştırıcının olduğu yerde.
+											Burada bir karıncanın ayağının tabanından
+											ve pençeler kazmadığın da, bu ped karınca hiçbir şey yapmadan otomatik olarak çıkıyor.
+											Sadece uzatıyor.
+											Bunu sicimler üzerinde karıncanın ayağını atması olarak düşünüyorum — ve atmak gerçekten çok zordu.
+											Yani bunu yapmak oldukça zor.
+											İşte burada karınca ayağı —
+											ve yakınen benzediği yapıştırıcı var.
+									","
+											Das ist der Fuß der Ameise. Die Härchen und Klauen und das Ding hier sind sichtbar.
+											Das passiert, wenn sein Fuß in der Luft ist.
+											Schauen Sie was passiert, wenn der Fuß auf Ihr Sandwich gerät.
+											Haben Sie's gesehen?
+											Der Ballen kommt heraus. Und dort ist der Kleber.
+											Hier sehen wir einen Ameisenfuß von unten,
+											und wenn die Klauen sich nicht eingraben, kommt der Ballen ohne Zutun der Ameise heraus.
+											Er fährt sich einfach aus.
+											Diese Aufnahme war echt schwer – das ist der Ameisenfuß auf Bindfäden.
+											War also ganz schön schwer.
+											So sieht es von Nahem aus –
+											hier ist der Ameisenfuß und hier der Kleber.
+									","
+											Este es el pie de una hormiga. Ven pelos, garras y esto de aquí.
+											Esto es cuando su pie está en el aire.
+											Miren lo que sucede cuando el pie entra en un sandwich.
+											¿Ven lo que sucede?
+											Aparece esa almohadilla, donde está el pegamento.
+											Aquí está un pie de hormiga visto desde abajo
+											y cuando las garras no se clavan aparece la almohadilla sin que la hormiga haga nada.
+											Simplmente sale.
+											Y esta toma fue muy difícil... pienso que esta es la toma de la hormiga en las supercuerdas.
+											Por eso es bastante difícil de hacer.
+											Así se ve de cerca
+											este es el pie de la hormiga y ese el pegamento.
+									",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+","
+","
+","
+","
+",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+											On a découvert que cette colle est probablement une mixture biphasée intéressante.
+											Cela aide sûrement la fourmi à tenir.
+											Alors nous rajoutons des coussinets collants à notre prototype.
+											Maintenant pour les surfaces lisses, nous pourrions nous inspirer de cela.
+											Mais nous avons trouvé mieux.
+											Le gecko est un excellent exemple de nano-technologie dans la nature.
+											Voilà ses pieds.
+											Ils ont l'air presque extra-terrestres. Le secret auxquels ils s'attachent
+											implique leur doigts poilus.
+											Ils peuvent grimper une surface en courant à un mètre par seconde,
+											faisant 30 pas pendant cette seconde — on les distingue à peine.
+											Si l'on ralentit, ils attachent leurs pieds à 8 millisecondes
+											et les détachent à 16 millisecondes.
+											Et quand vous regardez comment ils les détachent, c'est bizarre.
+											Ils pèlent leur pied hors de la surface comme un morceau de scotch.
+											Très étrange. Comment tiennent-ils?
+									","
+											And we discovered this glue may be an interesting two-phase mixture.
+											It certainly helps it to hold on.
+											So to our blueprint, we stick on some sticky pads.
+											Now you might think for smooth surfaces we get inspiration here.
+											Now we have something better here.
+											The gecko's a really great example of nanotechnology in nature.
+											These are its feet.
+											They're — almost look alien. And the secret, which they stick on with,
+											involves their hairy toes.
+											They can run up a surface at a meter per second,
+											take 30 steps in that one second — you can hardly see them.
+											If we slow it down, they attach their feet at eight milliseconds,
+											and detach them in 16 milliseconds.
+											And when you watch how they detach it, it is bizarre.
+											They peel away from the surface like you'd peel away a piece of tape.
+											Very strange. How do they stick?
+									","
+											Ve biz bu yapıştırıcının garip bir şekilde iki fazlı olabileceğini keşfettik.
+											Kesinlikle üzerinde tutmak için yardımcı oluyor.
+											Planımıza göre, yapışkan pedlerin üzerine çubuklar geçirdik.
+											Şimdi bizim pürüzsüz yüzeylerden ilham aldığımızı düşünebilirsiniz.
+											Burada daha iyi bir şeylerimiz var.
+											Kertenkeleninkiler doğadaki nanoteknolojiye gerçekten iyi bir örnek.
+											Bunlar onun bacağı.
+											Onlar — neredeyse uzaylı gibi. Ve işte sır, üzerinde sopa olan
+											kıllı ayaklarını barındırıyor.
+											Bir zemin üzerinde saniyede 30 adım atabilir, bir dakikada bir metre koşabilirler —
+											onları zorlukla görebilirsiniz.
+											Eğer bunu yavaşlatırsak, sekiz milisaniyede ayaklarını eklerler,
+											ve onları 16 milisaniyede çözerler.
+											Ve onların bunu yaptığını görmek çok tuhaftır.
+											Sizin bir parça bandı sıyırmanız gibi onlarda ayaklarını zeminden sıyırıyorlar.
+											Çok garip. Nasıl yapıyorlar?
+									","
+											Und dieser Kleber entpuppt sich als interessanter Zwei-Komponenten-Mix.
+											Das hilft ihr wirklich beim Festhalten.
+											In unseren Bauplan fügen wir also klebrige Ballen ein.
+											Daraus könnte man jetzt vielleicht für glatte Oberflächen Inspiration schöpfen.
+											Wir haben hier aber etwas besseres.
+											Der Gecko ist ein großartiges Beispiel von Nanotechnologie in der Natur.
+											Hier sind seine Füße.
+											Sie sehen fast wie von Außerirdischen aus. Und das Geheimnis, was sie haften lässt,
+											sind ihre haarigen Zehen.
+											Sie können mit 1 m/s eine Oberfläche emporlaufen,
+											30 Schritte in dieser einen Sekunde machen – man kann sie kaum sehen.
+											Wenn wir das nun verlangsamen, stellen ihre Füße in 8 ms Kontakt her
+											und lösen die Verbindung in 16 ms.
+											Und der Prozess des Ablösens ist bizarr.
+											Sie ziehen sie von der Oberfläche ab wie man ein Stück Klebeband abziehen würde.
+											Sehr seltsam. Wie haften sie nur?
+									","
+											Y descubrimos que este pegamento podría ser una mezcla interesante de 2 fases.
+											Desde luego que ayuda a sostener.
+											Así, para nuestro diseño, peguemos algunas almohadillas adherentes.
+											Podrían pensar que para superficies lisas nos inspiramos en esto.
+											Ahora tenemos algo mejor aquí.
+											La salamandra es un gran ejemplo de nanotecnología en la Naturaleza.
+											Estos son sus pies.
+											Son... casi parece un alien. Y el secreto que le permite adherirse
+											involucra sus dedos peludos.
+											Pueden recorrer una superficie a un metro por segundo
+											30 pasos en ese segundo... casi no se puede ver.
+											En cámara lenta, apoyan el pie en ocho milisegundos
+											y lo levantan en 16 milisegundos.
+											Y cuando miran como lo levantan, es raro.
+											Lo despegan de la superficie como si despegaran una cinta adhesiva.
+											Muy extraño. ¿Cómo se pegan?
+									",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+","
+","
+","
+","
+",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+											En regardant leurs pieds, on voit une structure appelées linalae qui ressemblent à des feuilles
+											avec des millions de poils.
+											Et chaque poil est le pire cas possible de pointes sèches et cassantes.
+											Entre une centaine et un millier de pointes cassées,
+											qui permettent en fait un contact très proche avec la surface.
+											Le gecko a un milliard de ces pointes de 200 nanomètres de longueur.
+											Et ils ne tiennent pas grâce à de la colle, comme le velcro ou des ventouses.
+											Nous avons découvert qu'ils marchent grâce à de simples forces intermoléculaires.
+											Alors à notre prototype, nous rajoutons des pointes cassantes.
+											Ceci à inspiré le design du premier scotch auto-nettoyant —
+											nous sommes fiers que le brevet ait été déposé.
+											Voici la version la plus simple dans la nature,
+											et voilà la tentative de mon collaborateur Ron Fearing
+											d'une version artificielle de cet adhésif, faite de polyuréthane.
+											Et voilà la première tentative de le faire fonctionner avec un poids.
+									","
+											If you look at their feet, they have leaf-like structures called linalae
+											with millions of hairs.
+											And each hair has the worst case of split ends possible.
+											It has a hundred to a thousand split ends,
+											and that's the secret, because it allows intimate contact.
+											The gecko has a billion of these 200-nanometer-sized split ends.
+											And they don't stick by glue, or they don't work like Velcro, or they don't work with suction.
+											We discovered they work by intermolecular forces alone.
+											So to our blueprint, we split some hairs.
+											This has inspired the design of the first self-cleaning dry adhesive —
+											the patent issued, we're happy to say.
+											And here's the simplest version in nature,
+											and here's my collaborator Ron Fearing's attempt
+											at an artificial version of this dry adhesive made from polyurethane.
+											And here's the first attempt to have it work on some load.
+									","
+											Eğer ayaklarına bakarsanız, yaprak gibi 'linalae' denilen milyonlarca kıldan oluşan
+											bir yapıya sahipler.
+											Ve her kılın bölünebilmek gibi kötü bir özelliği vardır.
+											Bu yüzlerceden binlerceye bölünebilmenin sırrı
+											yakın teması sağlamasıdır.
+											Kertenkele bu 200 nanometre büyüklüğünde bir milyon bölünmeye sahiptir.
+											Ve onlar yapışkanla yapıştırılarak ya da cırt cırtla ve ya emiş gücüyle çalışmıyor.
+											Biz bazı intermoleküler kuvvetlerle çalıştıklarını tespit ettik.
+											Planımıza göre, biraz kıl böldük.
+											Bu ilk kendi kendini temizleyen kuru yapıştırıcının dizaynına ilham kaynağı olmuştur —
+											patentini aldık ve bunu söylemekten mutluluk duyuyoruz.
+											Ve burada doğadaki en basit sürümü bulunuyor
+											ve iş arkadaşım Ron Fearing'in girişimi olan
+											poliüretandan yapılmış kuru yapıştırıcının yapay bir sürümü.
+											Ve burada bazı yükler üzerinde çalışmak için ilk girişimimiz.
+									","
+											Schauen wir uns ihre Füße an: blattförmige Lamellen
+											mit Millionen von Haaren.
+											Und jedes Haar hat furchtbaren Spliss.
+											Es hat hundert bis tausend gespaltene Enden,
+											und das ist das Geheimnis, es lässt intimen Kontakt zu.
+											Der Gecko hat eine Milliarde dieser Härchen von 200 nm Größe.
+											Und diese haften nicht mit Klebstoff, sie funktionieren nicht wie ein Klettverschluss und nicht wie Saugnäpfe.
+											Wir entdeckten, dass sie allein durch intermolekulare Kräfte funktionieren.
+											In unserem Bauplan spalteten wir also ein paar Haare.
+											Das hat das Design des ersten selbstreinigen Trockenklebers inspiriert –
+											und ich darf verkünden, dass das Patent ausgestellt ist.
+											Hier ist die einfachste Version in der Natur,
+											und hier versucht sich mein Partner Ron Fearing
+											an einer künstlichen Version dieses Trockenklebers aus Polyurethan.
+											Und hier ist mein erster Versuch, ihn zu belasten.
+									","
+											Si miran sus pies, tienen estructuras con forma de hoja llamadas linalae
+											con millones de pelos.
+											Y cada pelo tiene el peor caso posible de puntas rotas.
+											Tiene de cien a mil puntas rotas
+											y ese es el secreto porque permite contacto íntimo.
+											La salamandra tiene mil millones de estas puntas rotas de 200 nanómetros.
+											Y no se pegan con pegamento, ni funcionan como el velcro, ni funcionan con succión.
+											Descubrimos que funcionan sólo por fuerzas intermoleculares.
+											Así, para nuestro diseño, partimos algunos pelos.
+											Esto ha inspirado el diseño del primer adhesivo seco autolimpiante
+											patentado, nos complace decirlo.
+											Y aquí está la versión más simple en la Naturaleza
+											y aquí el intento de mi colaborador Ron Fearing
+											en una versión artificial de este adhesivo seco hecho de poliuretano.
+											Y aquí el primer intento de hacerlo funcionar con algo de carga.
+									",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+","
+","
+","
+","
+",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+											Il y a un grand intérêt pour cette recherche dans de nombreux domaines.
+											Vous pouvez imaginer des milliers d'utilisation, j'en suis sûr.
+											Beaucoup de gens l'ont fait et nous sommes enthousiastes à l'idée de réaliser ceci pour un produit.
+											Nous avons imaginé des produits, par exemple, celui-ci :
+											nous avons imaginé un pansement d'inspiration biologique en supprimant la colle.
+											Nous avons pris des poils d'une mue de gecko;
+											mis trois rouleaux de ceux-ci ensemble et fabriqué ce pansement.
+									","
+											There's enormous interest in this in a variety of different fields.
+											You could think of a thousand possible uses, I'm sure.
+											Lots of people have, and we're excited about realizing this as a product.
+											We have imagined products; for example, this one:
+											we imagined a bio-inspired Band-Aid, where we took the glue off the Band-Aid.
+											We took some hairs from a molting gecko;
+											put three rolls of them on here, and then made this Band-Aid.
+									","
+											Farklı alanlarda buna büyük ilgi var.
+											Eminim ki kullanabileceğiniz binlerce yer düşündünüz.
+											Birçok insanın var ve biz bunu hayata geçireceğimiz için heyecan duyuyoruz.
+											Ürünleri hayal ettik; örneğin, bu:
+											biyo-hayal yara bandı düşündük ve bu ürünün üzerinde yapıştırıcıyı kullandık.
+											Deri değiştiren bir kertenkeleden biraz kıl aldık;
+											buraya onlardan üç rulo koyduk, ve bu yara bandını yaptık.
+									","
+											Eine Reihe unterschiedlicher Gebiete interessiert sich sehr dafür.
+											Es gäbe dafür tausend verschiedene Anwendungen.
+											Viele haben das schon erkannt, und wir sind stolz, dies als Produkt umzusetzen.
+											Wir haben Produkte erdacht, zum Beispiel dieses:
+											Wir haben uns ein biologisch inspiriertes Pflaster erdacht, ein Pflaster ohne Kleber.
+											Wir nahmen ein paar Härchen von einem sich häutenden Gecko,
+											pappten hier drei Rollen davon daran und schufen dieses Pflaster.
+									","
+											Hay un enorme interés en esto en muchas campos diferentes.
+											Pueden imaginar mil usos posibles, estoy seguro.
+											Mucha gente lo hace y estamos entusiasmados de ver esto como un producto.
+											Hemos imaginado productos, por ejemplo, éste:
+											imaginamos un apósito bio-inspirado, donde quitamos el pegamento del apósito.
+											Tomamos algunos pelos de una salamandra;
+											pusimos tres ovillos de pelos y luego hicimos este apósito adhesivo.
+									",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+","
+","
+","
+","
+",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+											Voilà un étudiant volontaire —
+											nous avons 30 000 étudiants de premier cycle que nous pouvons mobiliser —
+											c'est seulement une marque au feutre rouge.
+											Mais cela fait un pansement incroyable.
+											Il est aéré, peut être enlevé facilement, ne cause pas d'irritation et tient sous l'eau.
+											Je pense que c'est un exemple extraordinaire de l'application inimaginable à la base
+											de recherches effectuées par curiosité sur la façon dont
+											les animaux grimpent sur certaines surfaces.
+											C'est juste un exemple de la raison pour laquelle il faut soutenir ce type de recherche curieuse.
+											Voilà, on retire le pansement.
+									","
+											This is an undergraduate volunteer —
+											we have 30,000 undergraduates so we can choose among them —
+											that's actually just a red pen mark.
+											But it makes an incredible Band-Aid.
+											It's aerated, it can be peeled off easily, it doesn't cause any irritation, it works underwater.
+											I think this is an extraordinary example of how curiosity-based research —
+											we just wondered how they climbed up something —
+											can lead to things that you could never imagine.
+											It's just an example of why we need to support curiosity-based research.
+											Here you are, pulling off the Band-Aid.
+									","
+											Bu gönüllü bir lisans öğrencisi —
+											30.000 lisans öğrencimiz var o zaman aralarından seçebiliriz —
+											bu aslında kırmızı bir kalem işareti.
+											Ama inanılmaz bir yara bandı yapabiliyor.
+											Bu gazlıdır, kolayca soyulabilir, tahriş etmez, sualtında çalışabilir.
+											Bence bu merakın olağanüstü -araştırma tabanlı- bir örneği
+											biz sadece onların nasıl bir şeye tırmandığını merak ediyoruz—
+											asla hayal edemeyeceğiniz şeylere yol açabilir.
+											Bu sadece neden araştırma tabanlı merakın desteğine ihtiyacımız olduğunun bir örneği.
+											İşte burada, yara bandını çıkartıyoruz.
+									","
+											Das ist ein studentischer Freiwilliger –
+											wir können aus einem Pool von 30.000 Erststudenten wählen –
+											das ist eigentlich nur von einem roten Stift.
+											Aber es ist ein unglaubliches Pflaster.
+											Es wird belüftet, man kann es leicht abziehen, es verursacht keine Reizungen und ist wasserfest.
+											Das ist ein außerordentliches Beispiel dafür, wie auf Neugier basierte Forschung –
+											wir wollten nur wissen, wie sie an etwas hochklettern –
+											zu Dingen führen kann, die man sich nicht vorstellen konnte.
+											Das ist nur ein Beispiel, warum wir Forschung aus Neugier unterstützen müssen.
+											Hier ziehen wir das Pflaster ab.
+									","
+											Esta es una estudiante voluntaria
+											tenemos 30.000 estudiantes así que podemos elegir
+											ese es en realidad sólo un marcador rojo.
+											Pero es un apósito adhesivo increíble.
+											Es aireado, se despega fácilmente, no provoca irritación, funciona bajo el agua.
+											Pienso que este es un muy buen ejemplo de cómo la investigación por curiosidad
+											(simplemente nos preguntábamos cómo escalaban algo)
+											puede llevar a cosas que nunca hubiéramos imaginado.
+											Es sólo un ejemplo de por qué tenemos que apoyar la investigación por curiosidad.
+											Aquí lo tienen, quitando el apósito adhesivo.
+									",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+","
+","
+","
+","
+",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+											Nous avons donc redéfini ce qu'est un pied.
+											La question est de savoir si nous pouvons utiliser ces secrets
+											pour inspirer le design d'un meilleur pied que ceux vus dans la nature?
+											Voici le nouveau projet :
+											nous essayons de créer le premier robot secouriste grimpeur — sans ventouses ni aimants —
+											qui peut seulement se déplacer sur un nombre limité de type de surfaces.
+											Je l'ai appelé RiSE pour ""Robot in Scansorial Environment "" — pour un environnement d'escalade —
+											et nous avons une équipe incroyable de biologistes et d'ingénieurs créant ce robot.
+											Voilà RiSE.
+											Il a six pattes et une queue. Le voilà sur une barrière et un arbre.
+											Voilà ses premiers pas sur un plan incliné.
+											Vous avez le son? On peut l'entendre grimper.
+											Le voilà qui grimpe vers vous, effectuant ses premiers pas sur un mur.
+											À ce moment il utilise seulement son pied le plus simple, ici, c'est tout à fait nouveau.
+											Mais nous pensons que la dynamique trouvée est la bonne pour le robot.
+									","
+											So we've redefined, now, what a foot is.
+											The question is, can we use these secrets, then,
+											to inspire the design of a better foot, better than one that we see in nature?
+											Here's the new project:
+											we're trying to create the first climbing search-and-rescue robot — no suction or magnets —
+											that can only move on limited kinds of surfaces.
+											I call the new robot RiSE, for ""Robot in Scansorial Environment"" — that's a climbing environment —
+											and we have an extraordinary team of biologists and engineers creating this robot.
+											And here is RiSE.
+											It's six-legged and has a tail. Here it is on a fence and a tree.
+											And here are RiSE's first steps on an incline.
+											You have the audio? You can hear it go up.
+											And here it is coming up at you, in its first steps up a wall.
+											Now it's only using its simplest feet here, so this is very new.
+											But we think we got the dynamics right of the robot.
+									","
+											Şimdi, ayak nedir yeniden bakalım.
+											Soru şu, bu sırları kullanabilir miyiz, daha sonra,
+											doğada gördüğümüzün aksine daha iyi bir ayak dizayn etmek için ilham alabilir miyiz?
+											İşte yeni proje:
+											biz, sadece sınırlı yüzeyler üzerine tırmanabilen ilk arama ve kurtarma robotunu
+											- emme veya mıknatıslar olmadan - oluşturmak için çalışıyoruz.
+											Yeni robotu açılımı 'Tırmanıcı Çevre içinde Robot' olan RiSE olarak adlandırdım, — bu bir tırmanış ortamı —
+											ve biz bu robot oluşturmak için Biyologlar ve Mühendislerden oluşan olağanüstü bir ekibe sahibiz.
+											Ve işte RiSE.
+											Bu altı bacaklıdır ve kuyruğu vardır. Burada biir çit ve bir ağaç üzerinde .
+											Ve işte bir eğim üzerinde RiSE'ın ilk adımı.
+											Ses geliyor mu? Yukarı çıkarken duyabilirsiniz.
+											Ve burada size geliyor, bu onun duvara kadar olan ilk adımı.
+											Bu çok yeni olduğu için, şimdilik sadece basit ayakları kullanıyor.
+											Ama robotun dinamik doğrularını bulduğumuzu düşünüyoruz.
+									","
+											Wir haben also jetzt umdefiniert, was ein Fuß ist.
+											Die Frage ist, ob wir diese Geheimnisse nutzen können,
+											um das Design eines besseren Fußes zu inspirieren, besser als das Design der Natur?
+											Hier ist das nächste Projekt:
+											Wir versuchen uns am ersten kletternden Such- und Berge-Roboter – ohne Saugnäpfe oder Magneten –
+											der sich nur auf einer begrenzten Auswahl von Oberflächen bewegen kann.
+											Ich nenne ihn RiSE: ""Roboter in Scan-sorischer Umgebung"" – eine Kletterumgebung also –
+											und ein außergewöhnliches Team von Biologen und Ingenieuren arbeitet an diesem Roboter.
+											Und hier ist RiSE.
+											Sechsbeinig mit Schwanz. Hier ist er auf einem Zaun und einem Baum.
+											Hier sind RiSEs erste Schritte auf einer Schrägung.
+											Gibt es auch Audio? Man kann es klettern hören.
+											Und hier kommt es auf uns zu, die ersten Schritte eine Wand hinauf.
+											Hier verwendet er nur seine einfachsten Füße, das ist also sehr neu.
+											Aber wir haben die Dynamik für ihn ganz gut verstanden.
+									","
+											Así hemos redefinido lo que es un pie.
+											La pregunta es si, entonces, podemos usar estos secretos
+											para inspirar el diseño de un mejor pie, mejor que el que vemos en la Naturaleza.
+											Este es el nuevo proyecto:
+											estamos intentando crear el primer robot trepador de búsqueda y rescate (sin succión o imanes)
+											que puede moverse sólo en unas pocas superficies.
+											Llamo al nuevo robot RiSE, por Robot en Entorno Escansorial (ReEE), que es un entorno empinado
+											y tenemos un equipo extraordinario de biólogos e ingenieros creando este robot.
+											Y aquí está el ReEE.
+											Tiene seis patas y cola. Aquí está en una cerca y un árbol.
+											Y aquí los primeros pasos del ReEE en una pendiente.
+											¿Tienen el audio? Pueden oirlo subir.
+											Y aquí viene hacia ustedes, en su primeros pasos pared arriba.
+											Ahora está usando sólo sus pies más simples, así que esto es muy nuevo.
+											Pero pensamos que entendimos la dinámica del robot.
+									",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+","
+","
+","
+","
+",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+											Mark Cutkosky cependant, mène le projet un peu plus loin encore.
+											C'est lui qui est capable de construire ces pieds et doigts manufacturés.
+											L'étape suivanet est de fabriquer des doigts adaptés,
+											d'essayer de rajouter des épines et des griffes et de les préparer pour de l'adhésif.
+											L'idée est de réussir d'abord les doigts et un pied,
+											puis de tenter de les faire escalader et finalement de les ajouter à un robot.
+											Et c'est exactement ce qu'il a fait.
+											Il a construit en fait, un robot-pied grimpeur inspiré par la nature.
+									","
+											Mark Cutkosky, though, is taking it a step further.
+											He's the one able to build this shape-deposition manufactured feet and toes.
+											The next step is to make compliant toes,
+											and try to add spines and claws and set it for dry adhesives.
+											So the idea is to first get the toes and a foot right,
+											attempt to make that climb, and ultimately put it on the robot.
+											And that's exactly what he's done.
+											He's built, in fact, a climbing foot-bot inspired by nature.
+									","
+											Mark Cutkosky, yinede, bir adım daha atıyor.
+											O, bu ayak ve parmakların şekil birikimlerini yapmakta bire birdir.
+											Bir sonraki adım ayağa dikenleri ve pençeleri ekleyerek,
+											kuru yapıştırıcıya uygun hale getirmektir.
+											Yani fikir ilk olarak parmakları ve ayağı elde etmek,
+											tırmanabilir yapın ve robota ekleyin.
+											Ve bu da onun tam olarak yaptığı şey.
+											O, aslında tırmanabilen ayağı doğadan ilham alarak yaptı.
+									","
+											Mark Cutkosky bringt das ganze noch einen Schritt weiter.
+											Er kann Füße und Zehen per Shape Deposition Manufacturing herstellen.
+											Im nächsten Schritt kommen passende Zehen
+											und das Befestigen von Stacheln und Klauen und trockende Haftmittel.
+											Zuerst sollen also die Zehen und der Fuß funktionieren,
+											dann wird der Aufstieg versucht und am Ende der Roboter gebaut.
+											Und genau das hat er getan.
+											Er hat quasi einen von der Natur inspirierten Fuß-boter gebaut.
+									","
+											Mark Cutkosky está yendo un paso más allá.
+											Es la persona capaz de constuir estos pies y dedos fabricados por deposición de forma.
+											El próximo paso es hacer dedos acordes
+											e intentar agregar espinas, garras y disponerlos en adhesivos secos.
+											Así, la idea es primero conseguir los dedos y un pie
+											intentar que trepe y finalmente colocarlo en el robot.
+											Y eso es exactamente lo que él ha hecho.
+											Construyó, de hecho, un pie-bot escalador inspirado por la Naturaleza.
+									",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+","
+","
+","
+","
+",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+											Voici le design de Cutkosky et de ses incroyables élèves.
+											Voilà les doigts de pieds mis au point — il y en a six,
+											et ils fonctionnent selon les principes discutés collectivement pour le prototype.
+											Donc il n'y a ni ventouses, ni colle,
+											et il sera à terme capable, une fois rattaché au robot —
+											inspiré biologiquement comme les animaux —
+											d'escalader tout type de surface.
+											Ici vous le voyez gravir la façade d'un bâtiment à Stanford.
+											La vidéo est accélérée — encore une fois, c'est le pied qui grimpe.
+											Ce n'est pas encore le robot entier, nous sommes en train d'y travailler —
+											là vous voyez comment il s'accroche.
+											Ces structures mises au point permettent aux épines, aux coussinets de frottement et enfin aux poils adhésifs
+											de s'accrocher à des surfaces très difficiles et inégales.
+											Et ils ont réussi à obtenir ça — ici c'est accéléré 20 fois —
+											Pouvez-vous l'imaginer escalader et sauver quelqu'un à l'étage? OK?
+											Vous pouvez voir maintenant que ce n'est pas impossible.
+											C'est un très grand défi. Mais nous en reparlerons.
+									","
+											And here's Cutkosky's and his amazing students' design.
+											So these are tuned toes — there are six of them,
+											and they use the principles that I just talked about collectively for the blueprint.
+											So this is not using any suction, any glue,
+											and it will ultimately, when it's attached to the robot —
+											it's as biologically inspired as the animal —
+											hopefully be able to climb any kind of a surface.
+											Here you see it, next, going up the side of a building at Stanford.
+											It's sped up — again, it's a foot climbing.
+											It's not the whole robot yet, we're working on it —
+											now you can see how it's attaching.
+											These tuned structures allow the spines, friction pads and ultimately the adhesive hairs
+											to grab onto very challenging, difficult surfaces.
+											And so they were able to get this thing — this is now sped up 20 times —
+											can you imagine it trying to go up and rescue somebody at that upper floor? OK?
+											You can visualize this now; it's not impossible.
+											It's a very challenging task. But more to come later.
+									","
+											Ve burada Cutkosky'nin ve onun inanılmaz öğrencilerinin tasarımı.
+											Bunlar ayarlanmış parmaklar — onlardan altı tane var,
+											ve onlar plan için topluca bahsettiğim prensipleri kullanır.
+											Bu yüzden bu herhangi bir emme, herhangi bir yapıştırıcı kullanılmıyor,
+											ve umuyorum ki eninde sonunda, robota iliştirildiğinde —
+											biyolojik olarak hayvandan esinlenilmiş —
+											her türlü zemine tırmanabilir.
+											Burada görüyorsunuz , ileri, Standford'daki binaya doğru çıkıyor.
+											Bu hızlandırıldı — tekrar, bu bir ayak tırmanışı.
+											Henüz bütün robot değil, bunun üzerinde çalışıyoruz-
+											şimdi nasıl takıldığını görebilirsiniz.
+											Bu ayarlanmış yapılar, zor yüzeylere tırmanmak için
+											dikenlere, sürtünme pedlerine ve son olarak yapışkan kıllara izin veriyor.
+											Ve onlar bunu başardı — şimdi bu kadar 20 kat hızlandırdı —
+											yukarı çıkıp üst kattaki birini kurtardığınızı hayal edebilir misiniz? Tamam?
+											Bunu görselleştirebilirsiniz; imkansız değil.
+											Bu çok zor bir iş. Ama dahası sonra gelecek.
+									","
+											Und hier ist das Design von Cutkosky und seinen großartigen Schülern.
+											Hier sind die aufgemotzten Zehen – es gibt sechs,
+											und sie alle verwenden die Prinzipien, die ich beim Bauplan erklärt habe.
+											Hier werden also keine Saugnäpfe, kein Kleber verwendet,
+											und wenn sie am Roboter befestigt sind –
+											der ist so biologisch inspiriert wie das Tier –
+											dann kann er hoffentlich jede Oberfläche emporklettern.
+											Hier sehen Sie es an der Seite eines Stanford-Gebäudes hochklettern.
+											Es ist beschleunigt – wie gesagt, es ist ein kletternder Fuß.
+											Es ist noch nicht der ganze Roboter. Wir arbeiten dran!
+											Hier können Sie sehen, wie es Kontakt herstellt.
+											Diese filigranen Strukturen erlauben es den Stacheln, Polstern und den Hafthärchen,
+											sich an sehr herausfordernden, schwierigen Oberflächen festzuhalten.
+											Sie konnten dieses Ding also – das ist ein 20-faches Zeitraffer –
+											stellen Sie sich vor, wie es hochklettert und jemanden aus dem oberen Stockwerk rettet!
+											Ds können Sie sich jetzt vorstellen. Es ist nicht unmöglich.
+											Das ist eine große Herausforderung. Aber das ist nur der Anfang.
+									","
+											Y aquí está el diseño de Cutkosky y de sus asombrosos estudiantes.
+											Y estos son dedos adaptados, hay seis de ellos
+											y usan los principios de los que les hablé, colectivamente para el diseño.
+											Entonces esto no usa succión ni pegamento
+											y finalmente, cuando esté anexado al robot,
+											(está tan inspirado en biología como el animal)
+											con suerte será capaz de escalar todo tipo de superficie.
+											Aquí lo ven, a continuación, subiendo un lado del edificio en Stanford.
+											Está acelerado, de nuevo, es un pie escalando.
+											Todavía no es el robot completo, estamos trabajando en eso
+											ahora pueden ver cómo se agarra.
+											Estas estructuras adaptadas permiten a las espinas, las almohadillas de fricción y pelos adhesivos
+											adherirse a superficies muy desafiantes y difíciles.
+											Y así fueron capaces de obtener esto, esto está acelerado 20 veces,
+											¿pueden imaginarlo intentando subir a rescatar a alguien en el piso superior? ¿bien?
+											Pueden visualizarlo ahora, no es imposible.
+											Es una tarea que supone un gran reto, pero hay mucho por venir.
+									",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+","
+","
+","
+","
+",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+											Pour finir : nous avons utilisé des design naturels secrets en observant la construction des pieds.
+											Nous avons appris que nous devons répartir le contrôle à plusieurs petites parties.
+											Il ne faut pas compter uniquement sur un contrôle central par l'ordinateur,
+											mais donner du contrôle via le réglage des pieds, des pattes et même du corps.
+											La nature donne des solutions hybrides et non pas une solution unique à ces problèmes,
+											et elles sont intégrées et très résistantes.
+											Troisièmement, nous croyons fermement qu'il ne faut pas imiter la nature mais s'inspirer de la biologie
+											et utiliser ces nouveaux principes avec les meilleurs solutions d'ingénierie existantes
+											pour créer — potentiellement — quelque chose de mieux que la nature.
+									","
+											To finish: we've gotten design secrets from nature by looking at how feet are built.
+											We've learned we should distribute control to smart parts.
+											Don't put it all in the brain,
+											but put some of the control in tuned feet, legs and even body.
+											That nature uses hybrid solutions, not a single solution, to these problems,
+											and they're integrated and beautifully robust.
+											And third, we believe strongly that we do not want to mimic nature but instead be inspired by biology,
+											and use these novel principles with the best engineering solutions that are out there
+											to make — potentially — something better than nature.
+									","
+											Bitirmek için: ayağın nasıl yapıldığını doğanın tasarım sırlarından öğrendik.
+											Kontrolü akıllı parçalara dağıtmamız gerektiğini öğrendik.
+											Hepsini beyine doldurmayın,
+											ama ayarlı ayakları, bacakları ve hatta vücudun bazı kontrol mekanizmalarını koyun.
+											Doğa bu sorunlar için melez çözümleri kullanır, tek bir çözüm yoktur,
+											ve onlar entegre edilip güzelce sağlamlaştırılmıştır.
+											Ve üçüncü olarak, biz doğayı taklit etmeye değil onun biyolojisinden ilham almaya inanıyoruz,
+											ve -potansiyel olarak - bir şeyi doğadan daha iyi yapmak için
+											bu yeni ilkeler var olan en iyi mühendislik çözümleridir.
+									","
+											Wir haben der Natur Design-Geheimnisse entlockt, indem wir uns den Bau von Füßen angeschaut haben.
+											Wir haben gelernt, dass wir die Kontrolle auf kluge Teile verteilen sollten.
+											Nicht alles in das Gehirn,
+											sondern einen Teil der Kontrolle in aufgepeppte Füße, Beine und sogar Körper.
+											Die Natur verwendet Hybridlösungen, nicht eine einzelne, für diese Probleme,
+											und sie sind integriert und wunderbar robust.
+											Und drittens glauben wir, dass wir die Natur nicht imitieren, sondern von der Biologie inspiriert werden wollen,
+											und diese neuen Prinzipien mit den besten technischen Möglichkeiten verbinden wollen,
+											um – möglicherweise – etwas besseres als die Natur zu schaffen.
+									","
+											Para terminar: obtuvimos secretos de la Naturaleza mirando cómo están hechos los pies.
+											Hemos aprendido que deberíamos distribuir el control a partes inteligentes.
+											No poner todo en el cerebro
+											sino poner algo de control en pies adaptados, en patas e incluso en el cuerpo.
+											Que la Naturaleza usa soluciones híbridas, no una solución simple, para estos problemas;
+											están integrados y son bellamente robustos.
+											Y tercero, creemos firmemente que no deseamos imitar la Naturaleza sino inspirarnos en la biología
+											y usar estos principios originales con las mejores soluciones de ingeniería existentes
+											para hacer, potencialmente, algo mejor que la Naturaleza.
+									",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+","
+","
+","
+","
+",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+											Le message est très clair :
+											que vous vous intéressiez à la recherche fondamentale de base
+											sur des animaux intéressants, bizarres et incroyables,
+											ou que vous vouliez construire un robot secouriste
+											qui vous aidera pendant un tremblement de terre ou à sauver quelqu'un des flammes,
+											ou que vous vous sentiez concerné par la médecine, nous devons préserver le design de la nature.
+											Sinon ces secrets seront perdus pour toujours.
+											Merci.
+									","
+											So there's a clear message:
+											whether you care about a fundamental, basic research
+											of really interesting, bizarre, wonderful animals,
+											or you want to build a search-and-rescue robot
+											that can help you in an earthquake, or to save someone in a fire,
+											or you care about medicine, we must preserve nature's designs.
+											Otherwise these secrets will be lost forever.
+											Thank you.
+									","
+											İşte burada çok anlaşılır bir mesaj var:
+											gerçekten ilginç, tuhaf, acayip hayvanların,
+											esas ve temel bir araştırmasıyla ilgilenirseniz de
+											veya bir depremden veya bir yangından birisini kurtarmak için
+											bir arama ve kurtarma robotu inşa etmek isterseniz de
+											ya da ilaçlarla ilgilenseniz de, doğanın tasarımlarını korumak zorundayız.
+											Diğer bir deyişle bu sırlar sonsuza kadar yok olacak.
+											Teşekkürler.
+									","
+											Die Botschaft ist also deutlich:
+											Ob man sich für fundamentale, tiefe Forschung interessiert
+											oder für sehr interessante, bizarre, wunderbare Tiere,
+											oder ob man einen Such- und Berge-Roboter bauen möchte,
+											der in einem Erdbeben hilft oder jemanden aus einem Feuer rettet,
+											oder ob man sich für Medizin interessiert, wir müssen die Baupläne der Natur retten.
+											Sonst sind die Geheimnisse für immer verloren.
+											Danke.
+									","
+											Entonces, hay un mensaje claro:
+											tanto si uno se preocupa por la investigación fundamental básica
+											de animales realmente interesantes, raros y maravillosos
+											como si se desea construir un robot de búsqueda y rescate
+											que pueda ayudar en terremotos, o salvar a alguien de un incendio
+											o si uno se interesa por la medicina, debemos preservar los diseños de la Naturaleza.
+											De otro modo estos secretos se perderán para siempre.
+											Gracias.
+									",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"
+"
+","
+","
+","
+","
+",The sticky wonder of gecko feet,Robert Full,19:24,"design,evolution,robots,science,technology"

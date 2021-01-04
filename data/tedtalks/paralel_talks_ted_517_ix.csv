@@ -1,0 +1,1290 @@
+en,es,tr,fr,de,title,speaker,duration,tags
+"
+","
+","
+","
+","
+",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+											About a year and a half ago,
+											Stephen Lawler, who also gave a talk
+											here at TED in 2007 on Virtual Earth,
+											brought me over to become the architect of Bing Maps,
+											which is Microsoft's online-mapping effort.
+											In the past two and a half, we've been very hard at work
+											on redefining the way maps work online.
+											And we really are seeing this in very different terms
+											from the kind of mapping and direction site
+											that one is used to.
+									","
+											Año y medio atrás
+											Stephen Lawler quien también dio una charla
+											aquí en TED en el 2007 sobre Microsoft Virtual Earth
+											me trajo para ser el arquitecto de Bing Maps,
+											que es el esfuerzo de mapas en línea de Microsoft.
+											En los últimos dos años y medio, hemos trabajado mucho
+											en redefinir el modo de funcionamiento de los mapas en línea.
+											Y, en realidad, estamos viéndolo en términos muy diferentes
+											del tipo de sitio de cartografía y direcciones
+											al que estamos acostumbrados.
+									","
+											Yaklaşık bir buçuk yıl önce
+											TED 2007'de Sanal Dünya hakkında bir
+											konuşma yapan Stephen Lawler
+											beni Microsoft'un online haritalama çalışması olan
+											Bing Maps'in mimarı olmam için davet etmişti.
+											Son iki buçuk yıldır, online haritaların çalışma şekillerini
+											yeniden tanımlamak için çok çalıştık.
+											Ve gerçekten de buna alıştığımız haritalama
+											ve yön sistemlerinden çok farklı
+											bir açıdan bakıyoruz.
+									","
+											Il y a environ un an et demi
+											Stephen Lawler qui a lui aussi fait une conférence
+											ici à TED en 2007 au sujet de Virtual Earth
+											m’a fait venir pour devenir l’architecte de Bing Maps,
+											le projet de cartographie en ligne de Microsoft.
+											Pendant les deux dernières années et demie, nous avons travaillé très dur
+											pour redéfinir la manière dont les cartographies en ligne fonctionnent.
+											Et nous voyons vraiment ça de façon très différente
+											des sites qui proposent des cartes et des directions
+											et auxquels on est habitués.
+									","
+											Vor etwa eineinhalb Jahren
+											machte mich Stephen Lawler, der 2007 einen TED-Vortrag
+											über Virtual Earth hielt,
+											zum Entwickler bei Bing Maps,
+											der Kartentechnologie von Microsoft.
+											In den vergangenen zweieinhalb Jahren haben wir hart daran gearbeitet,
+											die Art und Weise, wie Karten online funktionieren, neu zu definieren.
+											Wir verstehen darunter nämlich eine ganz andere Kategorie
+											als die typischen Karten mit Wegbeschreibungen,
+											die wir sonst so gewohnt sind.
+									",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+","
+","
+","
+","
+",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+											So, the first thing that you might notice about the mapping site
+											is just the fluidity of the zooming and the panning,
+											which, if you're familiar at all with Seadragon,
+											that's where it comes from.
+									","
+											Entonces, lo primero que uno observa en el sitio de mapas
+											es la fluidez del zoom y de los paneos
+											que, si conocen Seadragon,
+											es de donde proviene.
+									","
+											Şimdi, bu haritalama teknolojisi ile ilgili ilk dikkatinizi çekecek şey
+											yakınlaştırma (zoom) ve kaydırma fonksiyonlarindaki akıcılık,
+											ki Seadragon'a aşinaysanız
+											bu oradan gelen bir özellik.
+									","
+											La première chose que vous remarquerez à propos du site de cartographie,
+											est simplement la fluidité du zoom et du défilement,
+											qui, si vous êtes familier avec Seadragon
+											c'est de là que ça vient.
+									","
+											Das erste, was Ihnen hier vielleicht auffällt,
+											ist, wie flüssig man hiermit zoomen und schwenken kann.
+											Das kommt von Seadragon,
+											falls Sie das kennen.
+									",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+","
+","
+","
+","
+",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+											Mapping is, of course,
+											not just about cartography,
+											it's also about imagery.
+											So, as we zoom-in beyond a certain level
+											this resolves into a kind of Sim City-like
+											virtual view at 45 degrees.
+											This can be viewed from any of the cardinal directions
+											to show you the 3D structure of the city, all the facades.
+											Now, we see this space, this three-dimensional environment,
+											as being a canvas on which
+											all sorts of applications can play out,
+											and map's directions are really just one of them.
+									","
+											Los mapas son, por supuesto,
+											no sólo cartografía,
+											sino también imágenes.
+											Entonces, si amplificamos después de un cierto nivel
+											esto se convierte en una suerte de ""Sim City"",
+											una vista virtual a 45 grados.
+											Puede ser visto desde cualquier dirección
+											para enseñar la estructura 3D de la ciudad, las fachadas.
+											Ahora, vemos este espacio, un ambiente tridimensional
+											como un lienzo donde
+											puede representarse todo tipo de aplicaciones.
+											Y la función de direcciones es solamente un ejemplo.
+									","
+											Haritalama, elbette
+											sadece kartografi ile ilgili degil
+											aynı zamanda hayal gücü ile ilgili.
+											Böylece, belirli bir seviyenin ötesine zoom yaptığımizda
+											bu Sim City benzeri 45 derecelik
+											bir sanal bir görüntü haline dönüşüyor.
+											Bu görüntü, her bir yönden ayrı ayrı gözlenebilir ve
+											size şehrin 3 Boyutlu yapısını, tüm bina yüzlerini gösterebilir.
+											Şimdi, bu alanı, bu üç boyutlu ortamı
+											tüm farklı uygulamaların kendini gösterebileceği
+											bir tuval olarak düşünebiliriz.
+											Ve haritanın yönleri de bunlardan sadece biri.
+									","
+											Créer une carte est, bien sûr,
+											plus que simplement la cartographie,
+											c'est aussi de l'imagerie.
+											Donc, quand nous zoomons au-delà d'un certain niveau
+											on arrive à une sorte de vue virtuelle à 45 degrés
+											du genre Sim City.
+											On peut la regarder depuis n'importe lequel des points cardinaux,
+											pour voir la structure en 3D de la ville et de ses façades.
+											Maintenant, nous voyons cet espace, cet environnement en 3D
+											comme un canevas sur lequel
+											toutes sortes d'applications peuvent se greffer.
+											Et les directions en sont juste un exemple.
+									","
+											Mapping, also das Abbilden auf einer Karte,
+											ist natürlich nicht mehr nur Kartographie,
+											sondern hat auch mit bildlicher Darstellung zu tun.
+											Wenn wir beim Zoomen über ein bestimmtes Level hinaus gehen,
+											führt das zu einer Art Sim-City-ähnlicher
+											virtueller Darstellung im 45-Grad-Winkel.
+											Man kann sich das Bild aus jeder Himmelsrichtung anschauen,
+											und die Stadt mit allen Fassaden in 3D-Struktur sehen.
+											Wir sehen diesen dreidimenionalen Raum
+											als Leinwand, auf die wir
+											alle möglichen Anwendungen übertragen können.
+											Wegbeschreibung ist wirklich nur eine von vielen.
+									",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+","
+","
+","
+","
+",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+											If you click on this, you'll see
+											some of the ones that we've put out, just in the past couple of months
+											since we've launched.
+											So, for example, a couple of days after the disaster in Haiti,
+											we had an earthquake map that showed
+											before and after pictures from the sky.
+											This wonderful one which I don't have time to show you
+											is taking hyper-local blogs in real time
+											and mapping those stories, those entries
+											to the places that are referred to on the blogs.
+											It's wonderful.
+									","
+											Si uno le da clic verá
+											algunas de las que hemos publicado en los últimos meses
+											desde el lanzamiento.
+											Por ejemplo, un par de días después del desastre de Haití,
+											tuvimos un mapa del terremoto que mostraba
+											fotos aéreas de antes y después.
+											Una muy interesante, pero no tengo tiempo para enseñarla,
+											toma blogs hiper-locales en tiempo real
+											y asigna esas historias, esas entradas,
+											a los lugares mencionados en los blogs.
+											Es grandioso.
+									","
+											Eğer bunun üzerine tıklarsanız, daha önceden
+											bu ürün satışa çıkardıktan sonraki birkaç ay içinde
+											sisteme koyduklarımızı görebilirsiniz.
+											Örneğin, Haiti'deki felaketten birkaç gün sonra
+											deprem öncesi ve sonrası uydu fotoğraflarını içeren
+											bir haritamız vardı.
+											Size göstermem vakit darlığı nedeniyle mümkün değil ama
+											bir tanesi bölgesel blogları gerçek zamanlı olarak tarıyarak
+											bloglarda yer alan ve bahsedilen bu haber ve hikayeleri
+											haritalandırıyor.
+											Gerçekten harika.
+									","
+											Si vous cliquez ici, vous verrez
+											quelques unes de celles que l'on vient juste de sortir ces derniers mois,
+											depuis que nous avons lancé ce produit.
+											Par exemple, quelques jours après la catastrophe en Haïti,
+											nous avions une carte du tremblement de terre qui montrait
+											des vues aériennes avant et après.
+											Cette fantastique application que je n'ai pas le temps de vous montrer
+											incorpore les blogs hyper-locaux en temps réel
+											et joint ces histoires, ces billets
+											aux endroits mentionnés dans les blogs.
+											C'est merveilleux.
+									","
+											Wenn ich hierauf klicke, sehen Sie einige jener Anwendungen,
+											die wir in den letzten paar Monaten,
+											seit wir an den Start gegangen sind, herausgebracht haben.
+											Zum Beispiel hatten wir bereits ein paar Tage nach der Katastrophe in Haiti
+											eine Erdbebenkarte,
+											die Vorher-nachher-Bilder aus der Luft zeigte.
+											Diese wunderbare Anwendung, die ich Ihnen hier aus Zeitgründen leider nicht zeigen kann,
+											greift in Echtzeit auf Hyperlocal-Blogs zu
+											und bildet deren Geschichten und Einträge
+											auf die Orte in der Karte ab, die in den Blogs vorkommen.
+											Einfach wunderbar.
+									",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+","
+","
+","
+","
+",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+											But I'm going to show you some more candy sort of stuff.
+									","
+											Pero les enseñaré cosas más atractivas.
+									","
+											Ama ben size daha keyifli olanlarından birkaçını göstereceğim.
+									","
+											Mais je vais vous montrer d'autres choses qui sont impressionnantes.
+									","
+											Stattdessen zeige ich Ihnen jetzt noch ein paar echte Leckerbissen.
+									",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+","
+","
+","
+","
+",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+											So, we see the imagery, of course,
+											not stopping at the sky.
+											These little green bubbles represent
+											photosynths that users have made.
+											I'm not going to dive into them either, but photosynths are integrated into the map.
+											Everything that's cased in blue
+											is an area where we've taken imagery on the ground as well.
+									","
+											Podemos ver las imágenes, por supuesto,
+											y estas no paran en el cielo.
+											Esas pequeñas burbujas verdes representan
+											""photosynths"" creadas por los usuarios.
+											No voy a abrir una pero las ""photosynths"" están integradas a los mapas.
+											Todo lo que está delimitado en azul
+											es un área en el que hemos tomado imágenes en el suelo también.
+									","
+											Biliyorsunuz, görüntü aslında
+											gökyüzünde bitmiyor.
+											Bu yeşil balonlar kullanıcıların
+											yarattığı foto-sentetik (photosynth) görüntüler.
+											Bunların da detayına girmeyeceğim, ama foto-sentetikler ve harita bütünleşmiş.
+											Mavi renkli görülen yerler ise
+											yerdeki çekilmiş görselleri de eklediğimiz alanları gösteriyor.
+									","
+											Donc nous voyons les images bien sûr,
+											mais pas seulement les vues aériennes.
+											Ces petites bulles vertes représentent
+											des Photosynths créés par les utilisateurs.
+											Je ne vais pas entrer dans le détail, mais ces Photosynths sont intégrés dans la carte.
+											Tout ce qui est encadré en bleu
+											représente les zones où nous avons aussi pris des vues terrestres.
+									","
+											Wie wir sehen,
+											hört die Grafik natürlich nicht am Himmel auf.
+											Diese kleinen grünen Punkte sind
+											Photosynth-Bilder von Anwendern.
+											Auch die zeige ich jetzt nicht näher, aber solche Fotos sind in die Karte integriert.
+											Alles was hier blau eingerahmt ist,
+											ist ein Gebiet, für das wir auch Bilder vom Boden haben.
+									",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+","
+","
+","
+","
+",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+											And so, when you fly down —
+									","
+											Entonces, cuando uno vuela hacia abajo...
+									","
+											Şimdi öyle ki, aşağıya indiğinizde
+									","
+											Et donc, quand vous vous rapprochez du sol —
+									","
+											Wenn man also da hinunterfliegt -
+									",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+","
+","
+","
+","
+",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+											(Applause)
+									","
+											(Aplausos)
+									","
+											(Alkışlar)
+									","
+											(applaudissements)
+									","
+											(Applaus)
+									",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+","
+","
+","
+","
+",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+											Thank you. When you fly down to the ground,
+											and you see this kind of panoramic imagery,
+											the first thing that you might notice is that it's not just a picture,
+											there's just as much three-dimensional understanding of this environment
+											as there is of the three-dimensional city from above,
+											so if I click on something to get a closer view of it,
+											then, the fact that that transition looks as it does,
+											is a function of all of that geometry,
+											all of that 3D understanding behind this model.
+									","
+											Gracias. Cuando uno vuela hacia el suelo
+											y ve este tipo de imagen panorámica,
+											lo primero de lo que uno se da cuenta es que no es sólo una imagen,
+											hay tanta comprensión tridimensional del entorno
+											como lo debe haber de una ciudad tridimensional.
+											Si selecciono algo para verlo de más cerca,
+											entonces, el hecho que esta transición se vea así
+											es debido a toda esa geometría,
+											a todo ese entendimiento 3D detrás de este modelo.
+									","
+											Teşekkürler. Aşağıya inip
+											bu tip panaromik bir görüntü gördüğünüzde
+											ilk fark edeceğiniz şey bunun yanlızca bir resimden farklı olduğu.
+											bu üç boyutlu şehrin yukarıdan görünüşünde olduğu gibi
+											bu ortamda da aynı üç boyutlu yapı mevcut,
+											öyleyse, eğer herhangi bir cismi yakından görmek için üzerine tıklarsam,
+											ki aynen göründüğü gibi olan bu geçiş
+											bu modelin 3 boyutlu algılanışının ardındaki
+											geometrinin bir fonksiyonu aslında.
+									","
+											Merci. Quand vous vous rapprochez du sol
+											et que vous voyez cette sorte d'image panoramique,
+											la première chose que vous remarquerez c'est que ce n'est pas seulement une image,
+											il y a autant d'éléments tri-dimensionels dans cet environement
+											qu'il y en a dans la ville en 3D que nous avons vu du ciel,
+											donc si je clique sur quelque chose pour le voir de plus près,
+											alors la transition peut être rendue comme cela
+											grâce à toute cette géométrie,
+											à toute cette recherche en 3D qui est derrière ce modèle.
+									","
+											Danke. Wenn man zum Boden hinunterfliegt,
+											sieht man dieses Panoramabild,
+											und als erstes fällt wahrscheinlich auf, dass das nicht nur ein Bild ist,
+											sondern dass diese Umgebung genauso dreidimensional erfasst wird
+											wie die dreidimensionale Stadt von oben.
+											Wenn ich also auf etwas klicke, um es näher zu sehen,
+											sieht dieser Übergang so aus.
+											Das ist eine Funktion dieser Geometrie,
+											der 3D-Erfassung hinter dem Modell.
+									",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+","
+","
+","
+","
+",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+											Now, I'll show you a fun app
+											that — we've been working on a collaboration with our friends at Flickr.
+											This takes Flickr, georegistered imagery
+											and uses photosynth-like processes
+											to connect that imagery to our imagery, so —
+											I'm not sure if that's the one I actually meant to pull up, but —
+									","
+											Ahora, les mostraré una aplicación divertida.
+											Hemos estado trabajando en colaboración con nuestros amigos de Flickr.
+											Este toma imágenes geolocalizadas de Flickr
+											y utiliza procesos similares a ""photoshynths""
+											para conectarlas con nuestras imágenes.
+											No estoy seguro si esa es la que quería utilizar, pero...
+									","
+											Şimdi size bizim Flickr'deki arkadaşlarla birlikte üzerinde çalıştığımız
+											eğlenceli bir uygulama göstereceğim.
+											Bu uygulama, Flickr tarafından geo-register edilmiş görüntüleri
+											foto-sentetik benzeri bir süreç ile
+											bizim görüntülerimizle bağlantılıyor, böylece —
+											Şu anda göstermek istediğim resmin bu olduğundan çok emin değilim, ama —
+									","
+											Maintenant je vais vous montrer une appli très sympa
+											pour laquelle nous avons collaboré avec nos amis de Flickr.
+											Elle prend les images géo-localisées de Flickr
+											et utilise des processus similaires aux photosynths
+											pour connecter ces images aux nôtres, pour —
+											je ne suis pas sûr que ce soit l'image que je voulais cliquer, mais —
+									","
+											Ich zeige Ihnen jetzt eine witzige Anwendung,
+											an der wir zusammen mit unseren Freunden von Flickr arbeiten.
+											Sie nimmt ein lokalisiertes Bild von Flickr
+											und verbindet es, in einer Verarbeitung, die der
+											bei Photosynth ähnelt, mit unserer Grafik, -
+											ich weiß nicht, ob ich ausgerechnet dieses Bild haben wollte, aber -
+									",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+","
+","
+","
+","
+",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+											(Laughter)
+									","
+											(Risas)
+									","
+											(Kahkahalar)
+									","
+											(rires)
+									","
+											(Gelächter)
+									",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+","
+","
+","
+","
+",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+											But notice — this is, of course, a popular tourist site,
+											and there are lots of photos around here,
+											and these photos are all taken at different times.
+											So this one was taken around five.
+											So that's the Flickr photo,
+											that's our imagery.
+											So you really see how this kind of crowd-sourced imagery
+											is integrating, in a very deep way, into the map itself.
+									","
+											Pero vean... esto es, por supuesto, una atracción turística popular,
+											y hay muchas fotos aquí,
+											y estas fotos fueron tomadas en distintos momentos.
+											Esta fue tomada cerca de las cinco.
+											Esa es una imagen de Flickr,
+											esas son nuestras imágenes.
+											Así pueden ver como todas estas imágenes
+											se integran, de manera muy profunda, dentro del mapa.
+									","
+											Ama dikkat edin — burası elbette çok popüler bir turistik mekan,
+											ve burada pek çok resim çekilmiş,
+											bu resimlerin her biri de farklı zamanlarda çekilmiş.
+											Bu resim saat beş civarında çekilmiş.
+											İşte bu Flickr resmi,
+											bizim görüntümüz bu.
+											Böylece kalabalıklar tarafından teker teker oluşturulan bu görüntülerin
+											derinlemesine birleşerek aslında haritayı meydana getirdiğini görebilirsiniz.
+									","
+											Mais regardez — c'est, bien sûr, un site touristique populaire,
+											et il y a beaucoup de photos de cet endroit,
+											et ces photos ont été prises à différents moments.
+											Celle-ci à été prise vers 17 heures.
+											Donc ça c'est la photo de Flickr,
+											ça c'est notre imagerie.
+											Et vous voyez comment ces images venant des utilisateurs
+											s'intègrent presque nativement au coeur de la carte elle-même.
+									","
+											Sehen Sie, das hier ist ein beliebter Ort für Touristen,
+											von dem es viele Fotos gibt,
+											die alle zu verschiedenen Zeiten gemacht wurden:
+											Dies hier etwa um fünf Uhr.
+											Das ist das Flickr-Foto,
+											und das ist unsere Grafik.
+											Sie sehen, wie sich diese Bilder aus der Welt der Benutzer
+											fest in die Karte integrieren.
+									",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+","
+","
+","
+","
+",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+											(Applause)
+									","
+											(Aplausos)
+									","
+											(Alkışlar)
+									","
+											(applaudissements)
+									","
+											(Applaus)
+									",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+","
+","
+","
+","
+",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+											Thank you.
+									","
+											Gracias.
+									","
+											Teşekkürler.
+									","
+											Merci.
+									","
+											Vielen Dank.
+									",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+","
+","
+","
+","
+",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+											(Applause)
+									","
+											(Aplausos)
+									","
+											(Alkışlar)
+									","
+											(applaudissements)
+									","
+											(Applaus)
+									",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+","
+","
+","
+","
+",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+											There are several reasons why this is interesting
+											and one of them, of course, is time travel.
+											And I'm not going to show you some of the wonderful historic imagery in here,
+											but there are some with horses and carriages and so on as well.
+											But what's cool about this is that, not only is it augmenting
+											this visual representation of the world
+											with things that are coming in from users,
+											but it also is the foundation for augmented reality,
+											and that's something that I'll be showing you more of in just a moment.
+									","
+											Hay muchas razones por las que esto es interesante
+											y una de ellas, por supuesto, es el viaje en el tiempo.
+											No les mostraré las imágenes históricas y bellas que tenemos
+											pero hay unas con caballos y carruajes, además de otras cosas.
+											Pero lo bueno de esto es que no sólo aumenta
+											esta representación visual del mundo
+											con las cosas de los usuarios,
+											sino también es la base de la realidad aumentada
+											y eso es algo importante que les mostraré en un momento.
+									","
+											Bunun ilginç olmasının birkaç nedeni var.
+											ve bunlardan biri elbette zamanda yolculuk.
+											Ben size burada yer alan bazı harika tarihi görüntüleri göstermeyeceğim
+											ama aralarında içinde at ve at arabaları olan resimler de var.
+											Bunun müthiş olan yanı şu ki bu, bizim dünyayı
+											görsel olarak betimlememizi diğer kullanıcılardan
+											gelen katkılarla artırmakla kalmıyor,
+											aynı zamanda da artırılmış gerçekliğin temellerini de oluşturuyor,
+											ve bu size biraz sonra daha detaylı göstereceğim bir şey.
+									","
+											Il y a plusieurs raisons pour lesquelles ceci est intéressant
+											et l'une d'elles, bien sûr, est de pouvoir voyager dans le temps.
+											Et je ne vais pas vous montrer maintenant de superbes images historiques
+											mais il y en a aussi avec des chevaux et des carrosses et tout ça.
+											Mais ce qui est formidable avec ça, c'est que non seulement cela enrichit
+											cette représentation virtuelle du monde
+											avec des éléments qui viennent des utilisateurs,
+											mais c'est aussi la base de la réalité augmentée,
+											et c'est quelque chose que je vais vous montrer dans un instant.
+									","
+											Das ist aus verschiedenen Gründen interessant,
+											zum Beispiel für Zeitreisen.
+											Ich kann Ihnen jetzt nichts von den wunschönen historischen Bildern zeigen,
+											es gibt nämlich auch ein paar mit Pferden und Kutschen und so weiter.
+											Das Coole daran ist, dass es nicht nur darum geht,
+											die visuelle Darstellung der Welt mit dem zu erweitern,
+											was die Anwender dazu beisteuern,
+											sondern dass so auch die Grundlage für Augmented-Reality gelegt wird,
+											von der ich Ihnen gleich mehr zeigen werde.
+									",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+","
+","
+","
+","
+",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+											Now I just made a transition indoors. That's also interesting.
+											OK, notice there's now a roof above us.
+											We're inside the Pike Place Market.
+											And this is something that we're able to do with a backpack camera,
+											so, we're now not only imaging in the street
+											with this camera on tops of cars,
+											but we're also imaging inside.
+											And from here, we're able to do the same sorts of registration,
+											not only of still images, but also of video.
+									","
+											Ahora hice una transición a los interiores. Eso también es interesante.
+											Vean que ahora hay un techo encima nuestro.
+											Estamos adentro de Pike Place Market.
+											Esto es algo que podemos lograr con una cámara en una mochila,
+											así que no sólo tomamos imágenes en la calle
+											con la cámara encima de los autos
+											sino también tomamos imágenes del interior.
+											Y desde aquí, podemos hacer el mismo tipo de tomas,
+											no sólo de imágenes fijas sino de videos.
+									","
+											Şimdi iç mekanlara geçtim, bu da oldukça ilginç.
+											Tamam, dikkat edin, burada bir tavan var.
+											Pike Place Market'in içindeyiz.
+											Bu, bizim sırt çantamızda taşıdığımız bir kamera ile yapabileceğimiz bir şey.
+											Öyleyse, arabaların tepesindeki kameralarla
+											sadece sokakları görüntülemekle kalmıyoruz,
+											iç mekanları da görüntüleyebiliyoruz.
+											Ve daha da önemlisi, sadece durgun resimlerle değil, video çekimleri ile de
+											benzer bir şey yapmamız mümkün.
+									","
+											Je viens juste de faire une transition en intérieur. C'est intéressant aussi.
+											D'accord, remarquez que maintenant il y a toit au-dessus de nous.
+											Nous sommes à l'intérieur du marché de Pike Place.
+											Et c'est quelque chose que nous somme capables de faire avec un appareil dans un sac à dos.
+											Donc nous ne prenons pas seulement des images dans la rue,
+											avec cet appareil photo sur le toit de voitures,
+											nous prenons aussi des images à l'intérieur.
+											A partir de là nous sommes capables de faire la même sorte d'intégration,
+											non seulement d'images, mais aussi de vidéos.
+									","
+											Ich bin jetzt nach drinnen gegangen. Auch das ist interessant.
+											Sie sehen, dass jetzt ein Dach über uns ist.
+											Wir sind im Pike Place Markt.
+											Das machen wir mit einer Rucksackkamera.
+											Wir fotografieren also nicht nur auf der Straße
+											mit diesen Kameras auf Autodächern,
+											sondern wir machen auch Bilder von Innenräumen.
+											Und wir können hier dieselben Verknüpfungen herstellen,
+											nicht nur von Standbildern, sondern auch von Videos.
+									",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+","
+","
+","
+","
+",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+											So this is something that we're now going to try
+											for the first time, live,
+											and this is really, truly, very frightening.
+									","
+											Esto es algo que vamos a intentar ahora
+											por primera vez, en vivo,
+											y esto es en realidad muy aterrador.
+									","
+											Şimdi, ilk defa, canlı olaral
+											bir şey deneyeceğiz.
+											ve bu gerçekten de, çok korkutucu.
+									","
+											Et c'est quelque chose que nous allons essayer de faire maintenant
+											pour le première fois, en direct,
+											et ça, ça fait vraiment peur.
+									","
+											Das probieren wir jetzt mal aus,
+											zum ersten Mal live,
+											und davor habe ich jetzt wirklich einen ganz schönen Bammel.
+									",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+","
+","
+","
+","
+",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+											(Laughter)
+									","
+											(Risas)
+									","
+											(Gülüşmeler)
+									","
+											(rires)
+									","
+											(Gelächter)
+									",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+","
+","
+","
+","
+",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+											OK.
+									","
+											Bueno.
+									","
+											Tamam.
+									","
+											D'accord.
+									","
+											Okay.
+									",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+","
+","
+","
+","
+",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+											(Ringing)
+									","
+											(Sonido de celular)
+									","
+											(Telefon zili)
+									","
+											(sonnerie)
+									","
+											(Telefon läutet)
+									",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+","
+","
+","
+","
+",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+											All right, guys, are you there?
+									","
+											Muy bien, muchachos, ¿están ahí?
+									","
+											Tamam arkadaşlar, orada mısınız?
+									","
+											Bien, les gars, vous êtes là ?
+									","
+											Okay, Jungs, seid ihr da?
+									",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+","
+","
+","
+","
+",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+											(Noise)
+									","
+											(Ruido)
+									","
+											(Gürültü)
+									","
+											(bruit)
+									","
+											(Lärm)
+									",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+","
+","
+","
+","
+",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+											All right. I'm hitting it. I'm punching play.
+											I'm live. All right. There we go.
+											So, these are our friends in Pike Place Market, the lab.
+									","
+											Muy bien. Le voy a dar. Le voy a picar a correr.
+											Estoy en vivo. Muy bien. Aquí vamos.
+											Entonces, aquí están nuestros amigos en Pike Place Market.
+									","
+											Tamam. Düğmeye basıyorum,
+											Canlı yayındayım. Tamam. Hadi bakalım.
+											Bu gördükleriniz, Pike Place Market'tekiler bizim arkadaşlarımız,
+									","
+											Bien. J'appuie dessus. J'appuie sur ""lecture"".
+											Je suis en direct. Bien. C'est parti.
+											Donc, voici nos amis au marché Pike Place, le labo.
+									","
+											Okay. Ich gehe drauf. Ich drücke auf Wiedergabe.
+											Ich bin live. Okay. Los geht's.
+											Das hier sind unsere Freunde im Pike Place Markt, dem Labor.
+									",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+","
+","
+","
+","
+",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+											(Applause)
+									","
+											(Aplausos)
+									","
+											(Alkışlar)
+									","
+											(applaudissements)
+									","
+											(Applaus)
+									",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+","
+","
+","
+","
+",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+											So they're broadcasting this live.
+											OK, George, can you pan back over to the corner market?
+											Because I want to show points of interest.
+											No, no. The other way.
+											Yeah, yeah, back to the corner, back to the corner.
+											I don't want to see you guys yet.
+											OK, OK, back to the corner, back to the corner, back to the corner.
+											OK, never mind.
+									","
+											Esta transmisión es en vivo.
+											George, ¿puedes moverte hacia la esquina?
+											Porque quiero enseñar unos puntos de interés.
+											No, no. Hacia el otro lado.
+											Sí, sí. Hacia la esquina. Hacia la esquina.
+											No quiero verlos a Uds por ahora.
+											Sí. Sí. En la esquina.
+											Bueno, olvídenlo.
+									","
+											Şu anda canlı olarak bunu yayınlıyorlar.
+											Tamam, George, köşedeki markete yaklaşabilir misin?
+											İlginç bir şey göstermek istiyorum.
+											Hayır, hayır, diğer tarafa.
+											Evet, evet, köşeye doğru, köieye doğru.
+											Yok, henüz sizi göstermek istemiyorum.
+											Tamam tamam, köşeye geri dönelim, köşeye, köşeye.
+											Tamam, neyse boşver.
+									","
+											Ils transmettent ça en direct.
+											Bien, Georges, peux-tu reculer et filmer le coin du marché ?
+											Parce que je veux vous montrer un point d'intérêt.
+											Non, non, de l'autre côté.
+											Oui, oui, retourne vers le coin. Vers le coin.
+											Je ne veux pas encore vous voir les gars.
+											D'accord, d'accord. Retour vers le coin. Retour vers le coin, vers le coin.
+											D'accord, c'est pas grave.
+									","
+											Sie senden das jetzt live.
+											Okay, George, kannst du zurück zum Markt in der Ecke schwenken?
+											Weil ich ein paar Sehenswürdigkeiten zeigen will.
+											Nein, nein. Andersrum.
+											Ja, ja, zurück in die Ecke. Zurück in die Ecke.
+											Euch will ich jetzt noch nicht sehen.
+											Okay. Okay. Zurück in die Ecke. Zurück in die Ecke. Zurück in die Ecke.
+											Okay, egal.
+									",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+","
+","
+","
+","
+",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+											What I wanted to show you was these points of interest
+											over here on top of the image
+											because what that gives you a sense of is the way,
+											if you're actually on the spot,
+											you can think about this —
+											this is taking a step in addition to augmented reality.
+									","
+											Lo que quería enseñarles eran los puntos de interés
+											de la parte superior de la imagen
+											porque esto es lo que nos da la sensación
+											de que en realidad uno está en ese lugar...
+											piensen en esto...
+											esto es dar un paso más en la realidad aumentada.
+									","
+											Size bu görüntünün üzerindeki işaretlenmiş noktaları
+											göstermek istiyorum
+											çünkü bu noktalar sanki siz oradaymışsınız gibi
+											hissetmenizi sağlayan şeyler..
+											bunu çöyle düşünebilirsiniz —
+											bu, artırılmış gerçeklik için atılan ilave bir adım.
+									","
+											Ce que je voulais vous montrer c'est ces points d'intérêt
+											là, par dessus l'image,
+											parce que ça vous donne une idée de comment,
+											si vous êtes à cet endroit....
+											vous pouvez voir ça comme —
+											c'est aller un pas plus loin que la réalité augmentée.
+									","
+											Ich wollte Ihnen eigentlich diese Sehenswürdigkeiten
+											hier oben im Bild zeigen,
+											denn da bekommt man das Gefühl,
+											als wäre man tatsächlich da...
+											Das könnte man als einen Schritt ansehen,
+											der noch einen Schritt weiter geht als Augmented-Reality.
+									",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+","
+","
+","
+","
+",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+											What the hell are you guys — oh, sorry.
+									","
+											Qué demonios hacen... oh, lo siento.
+									","
+											Arkadaşlar siz ne yapıyorsunuz — ah, pardon.
+									","
+											Hey les gars qu'est-ce que vous — oh, désolé.
+									","
+											Was zum Teufel macht ihr da - oh, Entschuldigung.
+									",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+","
+","
+","
+","
+",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+											(Laughter)
+									","
+											(Risas)
+									","
+											(Kahkahalar)
+									","
+											(rires)
+									","
+											(Gelächter)
+									",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+","
+","
+","
+","
+",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+											We're doing two different —
+											OK, I'm hanging up now.
+											We're doing two different things here.
+											One of them is to take that real ...
+									","
+											Estamos haciendo dos...
+											...ahora voy a colgar.
+											Estamos haciendo dos cosas distintas aquí.
+											Una de ellas es tomar lo real...
+									","
+											İki değişik şey yapıyoruz...
+											Tamam, artık kapatıyorum.
+											Burada iki değişik şey yapıyoruz.
+											Bunlar birinde, gerçek olanı alıp...
+									","
+											Nous faisons deux ...
+											D'accord, je raccroche maintenant...
+											Nous faisons deux choses différentes ici.
+											L'une est de prendre cette vraie...
+									","
+											Wir machen zwei verschiedene...
+											Okay, ich lege jetzt auf.
+											Wir machen hier zwei verschiedene Dinge.
+											Erstens nehmen wir reale...
+									",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+","
+","
+","
+","
+",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+											(Laughter)
+									","
+											(Risas)
+									","
+											(Gülüşmeler)
+									","
+											(rires)
+									","
+											(Gelächter)
+									",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+","
+","
+","
+","
+",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+											All right, let me just take a moment and thank the team.
+											They've done a fantastic job of pulling this together.
+									","
+											Un momento, para agradecer al equipo.
+											Ellos han hecho un trabajo fantástico para lograr esto.
+									","
+											Tamam, bir dakika izin verin, ekibe teşekkür edeyim.
+											Bunu ortaya koyma konusunda harika bir iş çıkardılar.
+									","
+											D'accord, laissez moi remercier l'équipe.
+											Ils ont fait un boulot fantastique à faire marcher tout ça.
+									","
+											Okay, lassen Sie mich die Gelegenheit nutzen und dem Team danken.
+											Sie haben das ganz fantastisch hingekriegt.
+									",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+","
+","
+","
+","
+",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+											(Applause)
+									","
+											(Aplausos)
+									","
+											(Alkışlar)
+									","
+											(applaudissements)
+									","
+											(Applaus)
+									",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+","
+","
+","
+","
+",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+											I'm going to abandon them now and walk back outside.
+											And while I walk outside, I'll just mention that
+											here we're using this for telepresence,
+											but you can equally well use this
+											on the spot, for augmented reality.
+											When you use it on the spot, it means that
+											you're able to bring all of that metadata
+											and information about the world to you.
+											So here, we're taking the extra step of also broadcasting it.
+											That was being broadcast, by the way, on a 4G network
+											from the market.
+									","
+											Los voy a abandonar ahora y caminar hacia afuera.
+											Mientras hago esto, mencionaré que
+											aquí, utilizamos esto para ""tele presencia"",
+											pero también podemos usar esto
+											en el lugar, para realidad aumentada.
+											Cuando utilizamos esto en el lugar, significa que
+											es posible traer toda esa meta información
+											e información del mundo hacia uno.
+											Entonces aquí estamos dando el paso extra de transmitirlo.
+											Eso fue transmitido utilizando una red de 4G
+											del mercado.
+									","
+											Şimdi onlardan ayrılarak tekrar dışarıya çıkıyorum
+											Dışarı doğru yürürken, şunu belirtmek istiyorum
+											şu an bunu tele-sunum için yaptık ama
+											benzer şekilde bunu anında
+											artırılmış gerçeklik için de kullanabilirsiniz.
+											Bunu anında kullanmaktan kastım
+											dünya ile ilgili tüm verilere ve meta-verilere
+											anında ulaşabilecek olmanız.
+											Öyleyse burada, bir adım daha ileri giderek bunu yayınlıyoruz.
+											Bu arada, bu yayın, marketten
+											4G ağı aracılığıyla yapıldı.
+									","
+											Je vais les abandonner maintenant et retourner à l'extérieur.
+											Et pendant que je me dirige vers l'extérieur, je mentionnerai juste
+											que dans le cas présent nous utilisons ça pour la téléprésence,
+											mais vous pouvez aussi l'utiliser
+											immédiatement, pour la réalité augmentée.
+											Quand vous l'utilisez sur le champ, cela veut dire que
+											vous êtes capable d'accéder à toutes les métadonnées
+											et les informations sur le monde.
+											Et ici, nous faisons la démarche supplémentaire d'émettre aussi cette information.
+											Et au fait c'était transmis sur un réseau 4G
+											depuis le marché.
+									","
+											Ich verlasse sie jetzt und gehe wieder nach draußen.
+											Und während ich hinausgehe, sage ich noch kurz,
+											dass wir das hier jetzt zwar für die Telepräsenz nutzen,
+											aber man das genausogut
+											vor Ort nutzen, für Augmented-Reality.
+											Wenn man es vor Ort nutzt, heißt das, dass
+											man all diese vielen Metadaten und
+											Informationen über die Welt zu sich holen kann.
+											Wir machen also hier einen nächsten Schritt, indem wir es live übertragen.
+											Das wurde übrigens auf einem 4G-Netzwerk
+											von dem Markt aus gesendet.
+									",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+","
+","
+","
+","
+",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+											All right, and now there's one last TED talk
+											that Microsoft has given in the past several years.
+											And that's Curtis Wong, WorldWide Telescope.
+											So, we're going to head over to the dumpsters,
+											where it's traditional, after a long day at the market,
+											to go out for a break, but also stare up at the sky.
+											This is the integration
+											of WorldWide Telescope into our maps.
+									","
+											Bueno, hay una última TED talk
+											de Microsoft en los últimos años.
+											La de Curtis Wong y el telescopio virtual WWT (WorldWide Telescope).
+											Vamos a acercarnos a los contenedores de basura,
+											donde es tradicional que después de un largo día en el mercado,
+											uno vaya por un descanso pero también a admirar el cielo.
+											Esto es la integración
+											de nuestros mapas con el WWT.
+									","
+											Tamam, geçtiğimiz yıllarda Microsoft tarafından
+											verilen en az bir TED sunumu vardı.
+											Bu sunum Curtis Wong'un yaptığı Dünya Çapında Teleskop (WorldWide Telescope) sunumu.
+											Şimdi, pazar yerindeki uzun bir gün sonunda
+											adet olduğu üzere çöp alanını geçerek,
+											mola veriyor ve bu sırada gök yüzüne bakıyoruz.
+											Dünya Çapında Teleskop'un
+											bizim haritalarımıza entegrasyonu budur.
+									","
+											Bien, et maintenant il y a un dernier TED talk
+											que Microsoft a fait ces dernières années.
+											Et c'est Curtis Wong, le WorldWide Telescope.
+											Donc nous allons partir vers les bennes,
+											où il est traditionnel, après une longue journée au marché,
+											d'aller faire une pause, et de regarder le ciel.
+											Ça c'est l'intégration
+											du WorldWide Telescope avec nos cartes.
+									","
+											Jetzt gibt es einen TED-Vortrag, den letzten,
+											den Microsoft in den letzten Jahren gehalten hat.
+											Das war Curtis Wong, WorldWide Telescope.
+											Wir gehen jetzt rüber zu den Müllcontainern,
+											wo man üblicherweise nach einem langen Tag auf dem Markt
+											eine Pause macht, oder einfach nur in den Himmel schaut.
+											Hier ist das WorldWide Telescope
+											in unsere Karten integriert.
+									",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+","
+","
+","
+","
+",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+											(Applause)
+									","
+											(Aplausos)
+									","
+											(Alkışlar)
+									","
+											(applaudissements)
+									","
+											(Applaus)
+									",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+","
+","
+","
+","
+",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+											This is the current — thank you —
+											this is the current time. If we scrub the time,
+											then we can see how the sky will look at different times,
+											and we can get all of this very detailed
+											information about different times, different dates:
+											Let's move the moon a little higher in the sky,
+											maybe change the date.
+											I would like to kind of zoom in on the moon.
+											So, this is an astronomically complete
+											representation of the sky
+											integrated right into the Earth.
+									","
+											Esto es el tiempo... gracias...
+											Esto es el tiempo actual, pero si borramos el tiempo,
+											podemos ver como se ve el cielo en distintas horas,
+											y así podemos ver todo muy detallado,
+											información de distintas horas, distintas fechas.
+											Vamos a mover la luna un poco más arriba en el cielo,
+											también cambiar la fecha.
+											Me gustaría acercarme más a la luna.
+											Entonces, esto es una representación
+											astronómica completa del cielo
+											integrada con la Tierra.
+									","
+											Bu güncel — teşekkürler—
+											Bu şu an, ama zamanı değiştirecek olursak,
+											farklı zamanlarda gökyüzünün neye benzediğini görebiliriz,
+											böylece farklı zamanlar ve farklı tarihlerle ilgili
+											pek çok detaylı bilgiye erişebiliriz.
+											Ay'ı gökyüzünde biraz daha yukarıya çıkaralım.
+											tarihi değiştirebiliriz.
+											Ay'a zoom yapmak ( yakınlaştırmak) istiyorum.
+											Bu, gökyüzünün astronomik olarak
+											Dünya ile bütünleşmiş
+											tam bir temsili.
+									","
+											C'est le temps — merci —
+											C'est le temps présent, mais si nous effaçons le temps,
+											alors on peut voir à quoi le ciel ressemblera à différentes heures,
+											et nous pouvons avoir toutes ces informations
+											très détaillées sur des heures différentes, à des dates différentes.
+											Elevons un peu la lune dans le ciel,
+											peut-être que nous changeons la date.
+											Je voudrais zoomer un peu sur la lune.
+											Donc c'est une complète représentation
+											astronomique du ciel
+											intégrée avec la terre.
+									","
+											Das ist die aktuelle ... vielen Dank.
+											Das ist die aktuelle Zeit, aber wenn wir die löschen,
+											können wir sehen, wie der Himmel zu verschiedenen Uhrzeiten aussehen wird,
+											und bekommen sehr detaillierte
+											Informationen über verschiedene Zeitpunkte.
+											Schieben wir mal den Mond etwas höher,
+											und verändern vielleicht das Datum.
+											Ich würde gerne an den Mond heranzoomen.
+											Das hier ist eine astronomisch vollständige
+											Abbildung des Himmels, die
+											direkt in das Bild der Erde integriert wurde.
+									",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+","
+","
+","
+","
+",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+											All right now, I've overrun my time,
+											so I've got to stop.
+											Thank you all very much.
+									","
+											Se ha terminado mi tiempo,
+											así que tengo que parar.
+											Muchas gracias a todos.
+									","
+											Tamam, vaktimi aştım
+											artık durmam lazım.
+											Çok çok teşekkür ederim.
+									","
+											Bien, maintenant je dépasse mon temps de parole,
+											donc je dois m'arrêter.
+											Merci beaucoup à tous.
+									","
+											Okay, meine Zeit ist abgelaufen,
+											ich muss Schluss machen.
+											Ich danke Ihnen allen vielmals.
+									",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+","
+","
+","
+","
+",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+											(Applause)
+									","
+											(Aplausos)
+									","
+											(Alkışlar)
+									","
+											(applaudissements)
+									","
+											(Applaus)
+									",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"
+"
+","
+","
+","
+","
+",Augmented-reality maps,Blaise Agüera y Arcas,7:45,"cities,design,map,technology,virtual reality"

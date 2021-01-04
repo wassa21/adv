@@ -1,0 +1,2126 @@
+en,es,tr,fr,de,title,speaker,duration,tags
+"
+","
+","
+","
+","
+",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+											Time flies.
+											It's actually almost 20 years ago
+											when I wanted to reframe the way we use information,
+											the way we work together: I invented the World Wide Web.
+											Now, 20 years on, at TED,
+											I want to ask your help in a new reframing.
+									","
+											El tiempo vuela.
+											Fue hace casi 20 años
+											cuando quise reformular la forma en que usamos la información
+											la forma en la que trabajamos juntos — inventé la World Wide Web
+											Hoy, 20 años después, aquí en TED,
+											quiero pedirles ayuda para una nueva reformulación.
+									","
+											Zaman akıyor.
+											Bilgiyi kullanma ve birlikte çalışma
+											yolumuzu yeniden düzenlemek için Dünya Çapında Ağ'ı
+											icat etmemin üzerinden neredeyse 20 yıl geçmiş.
+											Şimdi, 20 yıl sonra, TED'de
+											yeni bir düzenleme için yardımınızı istiyorum.
+									","
+											Le temps passe vite.
+											Il y a maintenant presque 20 ans,
+											j'ai voulu restructurer la manière dont nous utilisons l'information,
+											la manière dont nous travaillons ensemble — et j'ai donc inventé la Toile, le World Wide Web.
+											Et maintenant, 20 ans après, ici à TED,
+											je vous demande votre aide pour une nouvelle restructuration.
+									","
+											Die Zeit vergeht wie im Flug.
+											Es ist tatsächlich fast 20 Jahre her,
+											als ich die Art und Weise neu ausrichten wollte, wie wir Informationen nutzen,
+											die Art und Weise wie wir zusammenarbeiten. Ich erfand das World Wide Web.
+											Nun, 20 Jahre später, hier bei TED
+											möchte ich Sie um eine erneute Neuausrichtung bitten.
+									",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+","
+","
+","
+","
+",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+											So going back to 1989,
+											I wrote a memo suggesting the global hypertext system.
+											Nobody really did anything with it, pretty much.
+											But 18 months later — this is how innovation happens —
+											18 months later, my boss said I could do it on the side,
+											as a sort of a play project,
+											kick the tires of a new computer we'd got.
+											And so he gave me the time to code it up.
+											So I basically roughed out what HTML should look like:
+											hypertext protocol, HTTP;
+											the idea of URLs, these names for things
+											which started with HTTP.
+											I wrote the code and put it out there.
+									","
+											Entonces, volviendo a 1989,
+											escribí un memo sugiriendo el sistema global de hipertexto.
+											Nadie hizo algo con él, realmente.
+											Pero 18 meses después — así es como ocurren las innovaciones —
+											18 meses después, mi jefe me dijo que podía hacerlo como un extra,
+											como una especie de proyecto lúdico,
+											probar una nueva computadora que teníamos.
+											Y me dio el tiempo para escribir el código.
+											Así que básicamente delineé lo que debería ser el HTML,
+											el protocolo de hipertexto — HTTP —
+											la idea de los URLs — estos nombres de cosas
+											que comienzan con HTTP.
+											Escribí el código y lo dejé por ahí.
+									","
+											1989'a döndüğümüzde, ben
+											global hipermetin sistemini öneren bir bildiri yazdım.
+											Neredeyse hiç kimse ilgilenmedi.
+											Fakat, 18 ay sonra — ki yenilikler böyle olur —
+											18 ay sonra, patronum, bunu yeni bilgisayarımız üzerinde
+											test etmek için, bir tür
+											yan uğraş olarak yapabileceğimi söyledi.
+											Ve bana onu kodlamam için zaman tanıdı.
+											Temelde HTML'in nasıl olması gerektiğini karaladım,
+											hipermetin protokolü — HTTP —
+											URL'ler fikri — şeyler için isimler
+											HTTP ile başladı.
+											Kodu yazdım ve ortaya koydum.
+									","
+											Retournons en 1989:
+											j'avais écrit à l'époque un mémo sur la mise en place d'un système d'hypertexte public.
+											Ça n'avait pas intéressé grand-monde à l'époque.
+											Mais 18 mois plus tard — vous savez, les innovations se produisent comme ça —
+											18 mois plus tard, mon patron m'a autorisé à y passer du temps,
+											comme un genre de projet expérimental,
+											pour tester un nouvel ordinateur que nous avions obtenu.
+											Et il me donna donc le temps de le coder.
+											Et j'ai donc écrit ce que devait être le langage HTML,
+											le procotole hypertexte — HTTP —
+											l'idée des liens URL, ces choses
+											qui commence par ""HTTP"".
+											J'ai écrit le code et je l'ai publié.
+									","
+											Lassen Sie uns ins Jahr 1989 zurückgehen.
+											Damals habe ich ein Memo verfasst, in dem ich das globale Hypertext-System vorschlug.
+											Es hat eigentlich kaum jemanden interessiert.
+											Aber 18 Monate später — so ereignen sich Innovationen —
+											18 Monate später sagte mir mein Vorgesetzter, ich könne es nebenbei machen,
+											als eine Art Projekt zum Herumspielen.
+											Einen neuen Computer ausprobieren, den wir bekommen hatten.
+											Also gab er mir die Zeit, es zu programmieren.
+											Ich habe im Wesentlichen skizziert, wie HTML aussehen sollte,
+											Hypertext-Protokoll — HTTP —
+											die Idee von URLs — diese Namen für Dinge,
+											die mit HTTP beginnen.
+											Ich habe den Code geschrieben und ihn bereitgestellt.
+									",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+","
+","
+","
+","
+",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+											Why did I do it?
+											Well, it was basically frustration.
+											I was frustrated — I was working as a software engineer
+											in this huge, very exciting lab,
+											lots of people coming from all over the world.
+											They brought all sorts of different computers with them.
+											They had all sorts of different data formats,
+											all sorts, all kinds of documentation systems.
+											So that, in all that diversity,
+											if I wanted to figure out how to build something
+											out of a bit of this and a bit of this,
+											everything I looked into, I had to connect to some new machine,
+											I had to learn to run some new program,
+											I would find the information I wanted in some new data format.
+											And these were all incompatible.
+											It was just very frustrating.
+											The frustration was all this unlocked potential.
+									","
+											¿Por qué lo hice?
+											Bueno, básicamente por frustración.
+											Estaba frustrado — trabajaba como ingeniero de software
+											en este laboratorio enorme y apasionante,
+											lleno de personas de todo el mundo.
+											Traían todo tipo de computadoras con ellos.
+											Tenían todo tipo de formatos diferentes de datos.
+											Todo tipo de sistemas de documentación.
+											Entonces, en toda esa diversidad,
+											si quería imaginarme cómo construir algo
+											con un poco de esto y algo de esto otro,
+											todo lo que veía, tenía que conectarme a alguna máquina nueva,
+											tenía que aprender a ejecutar algún programa nuevo,
+											en algún nuevo formato encontraría la información que quería.
+											Pero eran todos incompatibles.
+											Era muy frustrante.
+											La frustración por todo este potencial desaprovechado.
+									","
+											Neden yaptım?
+											Aslında temeli kafa karışıklığıydı.
+											Kafam karışmıştı — O ilginç ve kocaman laboratuvarda
+											bir yazılım mühendisiydim,
+											dünyanın her yanından birçok insan geliyordu.
+											Her türden farklı bilgisayarları kendileriyle getiriyorlardı.
+											Herbirinin farklı veri formatları vardı.
+											Her türden farklı dökümantasyon sistemleri.
+											Tüm bu çeşitlilik içinde
+											ne zaman bir parça şundan bir parça bundan
+											bir şeyler oluşturmak istesem
+											baktığım her şeyde, yeni bir makineye bağlanmak, yeni bir programın
+											nasıl çalışacağını öğrenmek zorundaydım,
+											bana gereken bilgiyi farklı bir veri formatında buluyordum.
+											Ve hepsi birbiriyle uyumsuzdu.
+											Çok sinir bozucuydu.
+											Tüm bu kafa karışıklığı bu potansiyelin kilidini açtı.
+									","
+											Pourquoi j'ai fait ça ?
+											Et bien parce que j'étais dans un état de frustration.
+											J'étais frustré — Je travaillais comme ingénieur logiciel
+											dans cet immense et exitant laboratoire de recherche,
+											où beaucoup de gens venait travailler de partout dans le monde.
+											Ils apportaient chacun des ordinateurs différents.
+											Ils utilisaient aussi des formats de données différents.
+											Toute une palette de systèmes de documentation différents.
+											Donc, avec toute cette diversité,
+											si je voulais y créer quelque chose
+											en prenant un morceau à droite, un morceau à gauche,
+											je devais à chaque fois me connecter à une nouvelle machine,
+											je devais apprendre à utiliser un nouveau logiciel,
+											et l'information que je voulais était dans un nouveau format de données.
+											Et ils étaient tous incompatibles.
+											C'était donc très frustrant.
+											Cette frustration provenait de tout ce potentiel enfermé.
+									","
+											Warum ich das getan habe?
+											Nun ja, es war im Wesentlichen Frustration.
+											Ich war frustriert. Ich arbeitete als Software-Entwickler
+											in diesem riesigen, sehr aufregenden Labor,
+											mit vielen Leuten aus der ganzen Welt.
+											Sie brachten die verschiedensten Arten von Computern mit sich.
+											Sie hatten alle möglichen verschiedenen Arten an Datenformaten.
+											Alle möglichen Dokumentationssysteme.
+											Wenn ich bei dieser Vielfalt
+											herausfinden wollte, wie etwas entwickelt werden musste,
+											mit einem bisschen von diesem und jenem,
+											bei allem, was ich mir ansah, musste ich mich mit einer neuen Maschine verbinden,
+											ich musste lernen, neue Programme zu starten,
+											und die Informationen, die ich benötigte, würde ich in einem neuen Datenformat finden.
+											Und all diese waren inkompatibel.
+											Es war einfach sehr frustrierend.
+											Die Frustration lag in all diesem Potenzial.
+									",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+","
+","
+","
+","
+",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+											In fact, on all these discs there were documents.
+											So if you just imagined them all
+											being part of some big, virtual documentation system in the sky,
+											say on the Internet,
+											then life would be so much easier.
+											Well, once you've had an idea like that it kind of gets under your skin
+											and even if people don't read your memo —
+											actually he did, it was found after he died, his copy.
+											He had written, ""Vague, but exciting,"" in pencil, in the corner.
+									","
+											De hecho, en todos esos discos había documentos.
+											Así que si uno los imaginaba a todos
+											como parte de algo más grande, de un sistema de documentación virtual en el cielo,
+											por ejemplo en Internet,
+											entonces la vida sería mucho más fácil.
+											Bien, cuando tienes una idea de esas, se te mete en la piel
+											y aún nadie leyera tu memo
+											en realidad él sí lo leyó, su copia fue encontrada después de su muerte.
+											Había escrito: “Impreciso pero apasionante”, a lápiz y en el margen.
+									","
+											Aslında tüm o disklerin üzerinde dokümanlar vardı.
+											Yani hepsinin uzayda, büyük,
+											sanal bir dokümantasyon sisteminin, farz edin ki internetin,
+											bir parçası olduğunu
+											düşünürseniz, hayat daha kolay olurdu.
+											Aklınıza böyle bir fikir girdikten sonra rahat durmanız mümkün değil
+											hatta insanlar bildirinizi okumasa bile —
+											aslında okudu, o öldükten sonra onun kopyası bulundu.
+											Köşeye şöyle yazmıştı: ""Muğlak, ama heyecan verici"".
+									","
+											En fait sur tous ces disques, il y avait des documents.
+											Donc si on pouvait tous les intégrer
+											dans un hypothétique grand système de documentation virtuel,
+											c'est à dire sur internet,
+											alors la vie serait beaucoup plus simple.
+											Et quand vous avez une idée comme ça, elle s'accroche vous,
+											et même si les gens n'ont pas lu votre mémo —
+											En fait il l'a lu, on a retrouvé sa copie après sa mort.
+											Il avait écrit ""vague mais intéressant"" au crayon dans un coin.
+									","
+											Tatsächlich waren auf all diesen Platten Dokumente.
+											Wenn Sie sich also vorstellten, dass all diese
+											Teil eines großen, virtuellen Dokumentationssystems im Himmel,
+											sagen wir im Internet, wären,
+											dann wäre das Leben so viel einfacher.
+											Wenn man einmal solch eine Idee hat, lässt es einen nicht mehr los,
+											und selbst wenn die Leute dein Memo nicht lesen —
+											er hat es tatsächlich gelesen, seine Kopie wurde nach seinem Tod gefunden.
+											Er schrieb ""Unklar, aber hochinteressant"", mit Bleistift in die Ecke.
+									",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+","
+","
+","
+","
+",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+											(Laughter)
+									","
+											(Risas)
+									","
+											(Gülüşmeler)
+									","
+											(Rires)
+									","
+											(Lachen)
+									",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+","
+","
+","
+","
+",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+											But in general it was difficult — it was really difficult to explain
+											what the web was like.
+											It's difficult to explain to people now that it was difficult then.
+											But then — OK, when TED started, there was no web
+											so things like ""click"" didn't have the same meaning.
+											I can show somebody a piece of hypertext,
+											a page which has got links,
+											and we click on the link and bing — there'll be another hypertext page.
+											Not impressive.
+											You know, we've seen that — we've got things on hypertext on CD-ROMs.
+											What was difficult was to get them to imagine:
+											so, imagine that that link could have gone
+											to virtually any document you could imagine.
+											Alright, that is the leap that was very difficult for people to make.
+											Well, some people did.
+											So yeah, it was difficult to explain, but there was a grassroots movement.
+											And that is what has made it most fun.
+											That has been the most exciting thing,
+											not the technology, not the things people have done with it,
+											but actually the community, the spirit of all these people
+											getting together, sending the emails.
+											That's what it was like then.
+									","
+											Pero en general era difícil, realmente muy difícil, explicar
+											cómo era la web.
+											Hoy es difícil explicarle a la gente que era difícil en ese entonces.
+											Pero entonces, bueno, cuando empezó TED, la web no existía
+											así que cosas como ""clic"" no tenían el mismo significado.
+											Puedo mostrarle a alguien un hipertexto,
+											una página con enlaces,
+											hacemos clic en el enlace y… ahí está, habrá otra página hipertextual.
+											No nos impresiona.
+											Ya saben, ya lo vimos, tenemos cosas con hipertexto en CD-ROMs.
+											Lo difícil era hacer que lo imaginaran.
+											Entonces, piensen que ese enlace pueda apuntar
+											prácticamente a cualquier documento que imaginen.
+											Bueno, ese es el salto que fue tan difícil para ellos.
+											Bien, algunos lo hicieron.
+											Aunque sí, era difícil de explicar, pero había un movimiento de bases.
+											Y eso lo hizo más divertido.
+											Fue lo más emocionante de todo,
+											no la tecnología ni las cosas que la gente hizo con ella
+											sino la comunidad y el espíritu de todas esas personas
+											juntas enviando correos electrónicos.
+											Así era en ese tiempo.
+									","
+											Ama genelde zordu, ağın neye benzediğini açıklamak
+											gerçekten zordu.
+											Şimdilerde insanlara anlatmak ne kadar zorsa o zaman da öyleydi.
+											Fakat yine de — pekala, TED başladığında ağ yoktu
+											Tıklamak gibi şeyler bir anlam ifade etmiyordu.
+											Birine bir hipermetin gösterebilirim,
+											linkleri olan bir sayfa,
+											ve linke tıkladığımızda, hop — başka bir hipermetin sayfası açılır.
+											Etkileyici değil.
+											Biliyorsunuz biz bunu daha önce gördük, CDler üzerinde hipermetin vardı.
+											Zor olan onları şöyle hayal etmekti.
+											Farz edin ki bu bağlantı gerçekte
+											aklınıza gelebilecek her dokümanda olabilsin.
+											Pekala, işte insanlar için yapması çok zor olan sıçrayış buydu.
+											Doğrusu, bazıları yaptı.
+											Buna rağmen, evet, açıklaması zordu ama tabandan gelen bir hareket vardı.
+											İşte onu eğlenceli yapan buydu.
+											En heyecanlı kısmı buydu,
+											teknolojinin kendisi değil, insanların o teknolojiyle yaptıkları değil,
+											aslında topluluktu, biraraya gelen, epostalar yollayan
+											tüm o insanların şevkiydi.
+											O zamanlar böyleydi.
+									","
+											Mais d'une façon générale il était très difficile
+											d'expliquer ce qu'était le web.
+											Il est difficile d'expliquer aujourd'hui combien c'était difficile à expliquer à ce moment-là.
+											Mais quand TED a été crée il n'y avait pas de web,
+											des mots comme ""cliquer"" n'avait pas le même sens.
+											Je pouvais montrer un bout d'hypertexte,
+											une page avec des liens,
+											on peut cliquer dessus, et hop, on se retrouve sur une autre page hypertexte.
+											Pas vraiment impressionant.
+											On avait déjà vu ça. On avait vu des liens hypertextes sur des CDROM.
+											Ce qui était difficile était de les faire imaginer...
+											Alors imaginez que ce lien peut vous emmener
+											sur n'importe quel document que vous puissiez imaginer.
+											C'est une barrière qui est très difficile à franchir pour certaines personnes.
+											Et bien quelques personnes ont réussi.
+											Alors oui. C'était difficile à expliquer mais il existait un mouvement de fond.
+											Et c'est ça qui aura été le plus sympa.
+											C'est ça qui aura été le plus existant.
+											Pas la technologie, pas ce que les gens ont fait avec,
+											Mais vraiment la communauté, l'esprit de tous ces gens
+											qui se réunissaient, s'envoyaient des emails.
+											C'était comme ça à cette époque.
+									","
+											Aber grundsätzlich war es schwierig. Es war wirklich schwierig zu erklären,
+											wie das Web sein würde.
+											Es ist schwierig den Leuten heute zu erklären, dass es damals schwierig war.
+											Aber dann — OK, als TED startete, gab es noch kein Web.
+											Also hatten Dinge wie ein Klick nicht dieselbe Bedeutung.
+											Ich kann irgendwem ein Stück Hypertext zeigen,
+											eine Seite, die Links hat,
+											und wir klicken auf den Link und bing — da ist eine andere Hypertext-Seite.
+											Nicht beeindruckend.
+											Wissen Sie, wir haben das bereits gesehen. Wir haben bereits Dinge als Hypertext auf CD-ROMs.
+											Es war schwierig, ihnen begreiflich zu machen,
+											also begreiflich, dass dieser Link zu
+											praktisch jedem Dokument verweisen könnte, das man sich vorstellen kann.
+											Das ist der Gedankensprung, der vielen Leuten schwer gefallen ist.
+											Nun ja, einigen Leuten gelang er.
+											Ja, es war schwierig zu erklären, aber dennoch gab es eine Graswurzelbewegung.
+											Und genau das ist es, was am meisten Spaß gemacht hat.
+											Das war das Aufregendste.
+											Nicht die Technologie, nicht die Dinge, die die Leute damit gemacht haben,
+											sondern vielmehr die Gemeinschaft, der Geist all dieser Leute.
+											Das Zusammenkommen, das Senden von E-Mails.
+											Das ist wie es damals war.
+									",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+","
+","
+","
+","
+",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+											Do you know what? It's funny, but right now it's kind of like that again.
+											I asked everybody, more or less, to put their documents —
+											I said, ""Could you put your documents on this web thing?""
+											And you did.
+											Thanks.
+											It's been a blast, hasn't it?
+											I mean, it has been quite interesting
+											because we've found out that the things that happen with the web
+											really sort of blow us away.
+											They're much more than we'd originally imagined
+											when we put together the little, initial website
+											that we started off with.
+											Now, I want you to put your data on the web.
+											Turns out that there is still huge unlocked potential.
+											There is still a huge frustration
+											that people have because we haven't got data on the web as data.
+									","
+											¿Saben qué? Es gracioso, pero el momento actual es casi igual.
+											Le pedí a todo el mundo, más o menos, que pusiera sus documentos.
+											Les dije: “¿Pueden poner sus documentos en esta web?”
+											y ustedes lo hicieron.
+											Gracias.
+											Fue un estallido, ¿no es cierto?
+											Quiero decir, fue muy interesante
+											porque nos dimos cuenta de que las cosas que pasaban con la web
+											realmente nos sacudían.
+											Mucho más de lo que imaginamos al principio
+											cuando elaboramos el primer sitio web
+											con el que empezamos.
+											Ahora, quiero que pongan datos en la web.
+											Resulta que todavía hay un gran potencial por delante.
+											Todavía hay una gran frustración
+											en la gente porque no tenemos datos en la web como tales.
+									","
+											Biliyor musunuz? Çok komik, ama şimdi durum yine aynen öyle.
+											Aşağı yukarı herkese, dokümanlarını koymalarını söyledim —
+											Dedim ki ""Dokümanlarını internete koyar mısınız?""
+											Ve koydunuz.
+											Teşekkürler.
+											Harika zamanlardı, değil mi?
+											Demek istediğim, çok ilginçti
+											çünkü internetle birlikte olanlar bizi gerçekten
+											son derece şaşırttı.
+											Başladığımız ilk web sitesini açtıktan sonra
+											olanlar aslen hayal ettiğimizden
+											çok daha fazlasıydı.
+											Şimdi verilerinizi internete koymanızı istiyorum.
+											Görünen o ki halen açılmayı bekleyen büyük bir potansiyel var.
+											Halen insanların kafası çok karışık
+											çünkü internete koyduğumuz veri veri değil
+									","
+											Et vous savez quoi... C'est marrant... Mais d'une certaine manière, c'est comme cela à nouveau.
+											Je demandais à tout le monde plus ou moins de mettre ses documents en ligne.
+											""Pourriez-vous mettre vos documents sur ce web-machin?""
+											Et... vous l'avez fait.
+											Merci.
+											Ça a été sympa non?
+											C'était vraiment intéressant,
+											car on s'est aperçu que ce qui se passait sur le web
+											nous dépassait réellement.
+											Il s'est passé bien plus de choses que ce que nous avions imaginé
+											lorsque nous avions créé
+											le premier site web.
+											Maintenant, je veux que vous mettiez vos données sur le web !
+											Ce qui se passe c'est qu'il reste encore un énorme potentiel inexploité.
+											Il y a toujours une énorme frustration.
+											Car nous n'avons pas de données sur le web en tant que données.
+									","
+											Wissen Sie was? Es ist lustig, aber jetzt ist die Situation wieder sehr ähnlich.
+											Ich habe mehr oder weniger jeden gebeten, seine Dokumente einzustellen.
+											Ich sagte: ""Könntet ihr eure Dokumente in dieses Web-Ding einstellen?""
+											Und ihr habt es getan.
+											Danke.
+											Es ist wie eine Explosion gewesen, nicht?
+											Ich meine, es ist sehr interessant gewesen,
+											da wir herausgefunden haben, dass uns die Dinge, die im Web passieren
+											wirklich sozusagen umhauen.
+											Es ist viel mehr als wir ursprünglich angenommen hatten,
+											als wir unsere erste Website zusammensetzten,
+											mit der wir angefangen hatten.
+											Jetzt möchte ich, dass Sie Ihre Daten ins Web stellen.
+											Es stellt sich heraus, dass es hier immer noch riesiges Potenzial gibt.
+											Es gibt immer noch große Frustration
+											unter den Leuten, da wir Daten nicht als Daten im Web haben.
+									",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+","
+","
+","
+","
+",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+											What do you mean, ""data""? What's the difference — documents, data?
+											Well, documents you read, OK?
+											More or less, you read them, you can follow links from them, and that's it.
+											Data — you can do all kinds of stuff with a computer.
+											Who was here or has otherwise seen Hans Rosling's talk?
+											One of the great — yes a lot of people have seen it —
+											one of the great TED Talks.
+											Hans put up this presentation
+											in which he showed, for various different countries, in various different colors —
+											he showed income levels on one axis
+											and he showed infant mortality, and he shot this thing animated through time.
+											So, he'd taken this data and made a presentation
+											which just shattered a lot of myths that people had
+											about the economics in the developing world.
+									","
+											¿Qué quiero decir con datos? ¿Cuál es la diferencia entre documentos y datos?
+											Ustedes leen documentos, ¿verdad?
+											Más o menos, los leen, pueden seguir enlaces desde ellos, y eso es todo.
+											Datos — se puede hacer cualquier cosa con una computadora.
+											¿Quién pudo ver la presentación de Hans Rosling?
+											Una de las mejores. Mucha gente la ha visto
+											una de las mejores TED Talks.
+											Hans hizo esta presentación
+											en la que mostró, para diferentes países y en varios colores,
+											mostró los niveles de ingresos en un eje
+											y la mortalidad infantil, en una animación a lo largo del tiempo.
+											Tomó estos datos e hizo una presentación
+											que destruyó muchos mitos que la gente tenía
+											sobre la economía de los países en desarrollo.
+									","
+											Ne demek bu şimdi? Fark nedir — dokümanlar, veri?
+											Dokümanları okursunuz, değil mi?
+											Öyle ya da böyle, okursunuz, üzerlerine takip linkleri koyarsınız ve bundan ibarettir.
+											Veri — bilgisayarla her türlü şeyi yapabilirsiniz.
+											İçinizden kimler Hans Rosling'in konuşmasını duydu veya izledi?
+											Çok harika — evet bir çok insan onu görmüş —
+											çok harika bir TED konuşmasıdır.
+											Hans bir sunum yaptı,
+											o sunumda farklı ülkeler için farklı renklerde
+											bir eksende gelir düzeylerini
+											diğerinde bebek ölümlerini ve bunların zaman içindeki değişimini gösterdi.
+											Yani o veri topladı ve bir sunum yaptı
+											ve bu sunum insanların gelişen dünya ekonomisi ile
+											ilgili fikirlerini yerle bir etti.
+									","
+											Qu'est ce que ça veut dire? Quelle est la différence entre document, données...
+											Et bien les documents vous les lisez, ok?
+											En gros vous pouvez les lire, suivre les liens, mais c'est tout.
+											Avec les données vous pouvez faire plein de trucs sur un ordinateur.
+											Qui a ici vu la présentation de Hans Rosling ?
+											Cool. Plein de personnes l'on vu.
+											C'est l'une des meilleurs présentation de TED.
+											Hans a fait cette présentation
+											dans laquelle il montre dans différents pays, dans différentes couleurs,
+											le niveau de revenus sur un axe
+											avec les taux de natalité sur un autre, et le tout animé à travers le temps.
+											Il a donc récupéré ces données et en a fait une présentation
+											qui démonte les idées préconçues qu'ont les gens
+											sur l'économie des pays émergents.
+									","
+											Was meinen Sie mit Daten? Was ist der Unterschied — Dokumente, Daten?
+											Dokumente liest man, OK?
+											Mehr oder weniger, man liest sie, man kann Links weiterverfolgen und das war's.
+											Mit Daten kann man alle möglichen Dinge mit einem Computer machen.
+											Wer war hier oder hat anderweitig Hans Roslings Vortrag gesehen?
+											Einer der großartigen — ja, viele Leute haben ihn gesehen —
+											einer der großartigen TED-Vorträge.
+											Hans hat diese Präsentation zusammengestellt,
+											in der er verschiedene Länder in verschiedenen Farben zeigte.
+											Er zeigte die Einkommenshöhen auf einer Achse
+											und er zeigte die Kindersterblichkeit, und er ließ es zeitlich ablaufen.
+											Er hat also diese Daten genommen und eine Präsentation erstellt,
+											die viele Mythen zerschlug, an die die Leute glaubten,
+											über die Wirtschaft in den Entwicklungsländern.
+									",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+","
+","
+","
+","
+",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+											He put up a slide a little bit like this.
+											It had underground all the data
+											OK, data is brown and boxy and boring,
+											and that's how we think of it, isn't it?
+											Because data you can't naturally use by itself
+											But in fact, data drives a huge amount of what happens in our lives
+											and it happens because somebody takes that data and does something with it.
+											In this case, Hans had put the data together
+											he had found from all kinds of United Nations websites and things.
+											He had put it together,
+											combined it into something more interesting than the original pieces
+											and then he'd put it into this software,
+											which I think his son developed, originally,
+											and produces this wonderful presentation.
+											And Hans made a point
+											of saying, ""Look, it's really important to have a lot of data.""
+											And I was happy to see that at the party last night
+											that he was still saying, very forcibly, ""It's really important to have a lot of data.""
+									","
+											Presentó una diapositiva como ésta.
+											Subyacentemente tenía todos los datos.
+											Sí, los datos son oscuros, cuadrados y aburridos.
+											Eso pensamos de los datos, ¿no?
+											Porque los datos en sí no se pueden usar en forma natural.
+											Pero, de hecho, los datos gobiernan gran parte de nuestras vidas
+											y eso pasa porque alguien toma esos datos y hace algo con ellos.
+											En este caso, Hans juntó un montón de datos
+											los tomó de todo tipo de sitios web de Naciones Unidas o parecidos.
+											Los juntó a todos,
+											los combinó en algo más interesante que las partes originales
+											y luego los puso dentro de este software,
+											desarrollado originalmente, creo, por su hijo
+											y produjo esta presentación maravillosa.
+											Hans dijo algo importante:
+											“Miren, es realmente importante tener muchos datos”.
+											Y me hizo feliz ver eso en la fiesta de anoche
+											donde él seguía diciendo, a viva voz, “Es realmente importante tener muchos datos”.
+									","
+											Buna benzer bir şeydi.
+											Tabanında sadece veriler vardı.
+											Veri kahverengi, kutu gibi ve sıkıcıdır,
+											ve biz onu öyle görüyoruz, değil mi?
+											Çünkü doğal olarak veriyi olduğu haliyle kullanamazsınız.
+											Fakat aslında, veriler hayatımızda olan biten çok şeyi yönlendirir
+											ve öyle olur çünkü birileri bu veriyi alır ve onunla bir şeyler yapar.
+											Bu durumda Hans, Birleşik Devletlerdeki
+											birçok siteden ve ordan burdan bu verileri toplayıp bir araya getirdi.
+											Onları bir araya koydu,
+											ve orijinal bileşenlerinden daha ilginç bir şey oluşturdu
+											ve onu sanırım ilk kez oğlunun
+											geliştirdiği bu yazılımın içine koydu,
+											ve o harika sunumu üretti.
+											Ve Hans bir noktaya değindi
+											""Bakın, birçok verinin olması gerçekten önemlidir.""
+											Ve geçen akşamki partide onu gördüğümde onun halen,
+											zorla da olsa, ""Birçok verinin olması gerçekten önemlidir"" demesi beni mutlu etti.
+									","
+											Il a utilisé un slide de ce type.
+											Derrière cette présentation il avait plein de données.
+											Les données c'est terne, carré, ennuyeux...
+											C'est l'image que nous en avons, n'est-ce pas ?
+											Car les données ne peuvent pas être utilisées naturellement tel quel.
+											Mais en réalité les données influencent en grande partie nos vies.
+											Cela arrive quand quelqu'un prend ces données et crée quelque chose avec.
+											Dans notre cas, Hans a rassemblé toutes les données,
+											il les a trouvé auprès des Nations-Unies, sur des sites webs.
+											Il les a rassemblées,
+											les a combinées pour donner quelque chose de plus intéressant
+											et alors il les a insérées dans son logiciel,
+											créé je crois par son fils,
+											pour donner cette merveilleuse présentation.
+											Et Hans a mis en avant le fait
+											qu'il était très important d'avoir beaucoup de données.
+											Et je suis heureux de l'avoir vu hier
+											demandant encore avec insistance plus de données.
+									","
+											Er hat eine Folie wie diese hier erstellt.
+											Sie basierte auf all diesen Daten.
+											OK, Daten sind braun, kastig und langweilig.
+											So denken wir darüber, oder nicht?
+											Das liegt daran, dass man Daten an sich normalerweise nicht verwenden kann.
+											Aber tatsächlich tragen Daten ganz wesentlich dazu bei, was in unserem Leben geschieht.
+											Und es passiert, da jemand die Daten nimmt und etwas daraus macht.
+											In diesem Fall hat Hans die Daten zusammengestellt.
+											Er hat sie auf allen möglichen Websites der Vereinten Nationen etc. gefunden.
+											Er hat sie zusammengestellt,
+											diese zu etwas Interessanterem kombiniert,
+											und dann hat er sie in diese Software überführt,
+											von der ich glaube, dass sie ursprünglich sein Sohn entwickelt hatte.
+											Und er hat diese wundervolle Präsentation erstellt.
+											Und Hans bestand darauf
+											zu sagen: ""Sehen Sie, es ist wirklich wichtig, viele Daten zu haben.""
+											Und ich war froh, dass er auf der Feier letzte Nacht
+											immer noch mit Nachdruck sagte: ""Es ist wirklich wichtig, viele Daten zu haben.""
+									",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+","
+","
+","
+","
+",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+											So I want us now to think about
+											not just two pieces of data being connected, or six like he did,
+											but I want to think about a world where everybody has put data on the web
+											and so virtually everything you can imagine is on the web
+											and then calling that linked data.
+											The technology is linked data, and it's extremely simple.
+											If you want to put something on the web there are three rules:
+											first thing is that those HTTP names —
+											those things that start with ""http:"" —
+											we're using them not just for documents now,
+											we're using them for things that the documents are about.
+											We're using them for people, we're using them for places,
+											we're using them for your products, we're using them for events.
+											All kinds of conceptual things, they have names now that start with HTTP.
+									","
+											Quiero que pensemos ahora acerca de
+											no sólo dos dimensiones de datos en conexión, o seis como hizo él,
+											sino en un mundo donde todos pongan datos en la web
+											y donde casi todo lo que puedan imaginarse esté en la web
+											y entonces los llamaremos “datos enlazados”.
+											Es la tecnología de datos enlazados; algo extremadamente simple.
+											Si uno quiere poner algo en la web por tres años
+											lo primero son esos nombres HTTP
+											esas cosas que empiezan con “http:”
+											las estamos usando no sólo para documentos,
+											las estamos usando para cosas a las que se refieren los documentos.
+											Las estamos usando para personas, para lugares,
+											las estamos usando para sus productos, para eventos.
+											Todo tipo de conceptos, ahora tienen nombres que empiezan con HTTP.
+									","
+											Şimdi kafa yormanızı istediğim şey,
+											iki parça veya O'nun yaptığı gibi altı parça verinin bağlanması değil,
+											düşünmek istediğim, herkesin internete veri koyduğu bir dünya
+											ve böylece aslında aklınıza gelen her şeyin internette olması,
+											ve buna ""bağlı veri"" demektir.
+											Teknoloji bağlı veridir ve son derece basittir.
+											Eğer internete bir şey koymak istiyorsanız, üç kural var:
+											ilki, bu HTTP isimleri —
+											""http:"" ile başlayan o şeyler —
+											artık onları sadece dokümanlar için değil,
+											dokümanların ne hakkında olduğu için de kullanacağız.
+											Onları insanlar için ve mekanlar için kullanacağız,
+											ürünler için kullanacağız, etkinlikler için kullanacağız.
+											Tüm kavramsal şeyler, onların artık HTTP ile başlayan isimleri olacak.
+									","
+											Et maintenant je voudrais que vous vous imaginiez,
+											pas seulement 2 morceaux de données connectés, ou même 6,
+											mais un monde où tout le monde aurait mis ses données sur le web.
+											Virtuellement tout ce que vous pouvez imaginer serait sur le web.
+											Et j'ai appelé cela ""Linked Data"" (""données liées"")
+											La technologie s'appelle ""Linked Data"" et elle est extrêmement simple.
+											Si vous voulez mettre quelque chose sur le web, il y a 3 règles.
+											La première chose est que nous utilisons toujours les adresses HTTP —
+											ces trucs qui commencent par http: —
+											Mais plus uniquement pour les documents,
+											on va les utiliser pour décrire les documents.
+											On va les utiliser pour des personnes, on va les utiliser pour des lieux,
+											on va les utiliser pour vos produits, pour des événements.
+											N'importe quel concept aura un nom commençant par http.
+									","
+											Ich möchte nun, dass wir darüber nachdenken
+											nicht nur zwei Datensätze miteinander zu verknüpfen, oder sechs wie er.
+											Ich möchte eine Welt in Erwägung ziehen, in der jeder Daten ins Web gestellt hat,
+											und somit ist praktisch alles, was man sich vorstellen kann, im Web.
+											Und ich nenne es verknüpfte Daten (linked data).
+											Die Technologie heißt verknüpfte Daten, und sie ist äußerst einfach.
+											Wenn Sie etwas ins Web stellen möchten, gibt es drei Regeln.
+											Erstens, diese HTTP-Namen —
+											diese Sachen, die mit http: beginnen —
+											werden jetzt nicht mehr nur für Dokumente verwendet,
+											sondern wir benutzen sie für Dinge, um die es in den Dokumenten geht.
+											Wir verwenden sie für Menschen, für Orte,
+											für Produkte, für Ereignisse.
+											Alle konzeptionellen Dingen haben nun Namen, die mit HTTP beginnen.
+									",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+","
+","
+","
+","
+",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+											Second rule, if I take one of these HTTP names and I look it up
+											and I do the web thing with it and I fetch the data
+											using the HTTP protocol from the web,
+											I will get back some data in a standard format
+											which is kind of useful data that somebody might like to know
+											about that thing, about that event.
+											Who's at the event? Whatever it is about that person,
+											where they were born, things like that.
+											So the second rule is I get important information back.
+									","
+											La segunda regla, si tomo uno de estos nombres que empiezan con HTTP y lo busco
+											lo busco en la web y recupero los datos
+											usando el protocolo HTTP de la web,
+											entonces tendré algunos datos en un formato estándar,
+											información útil que alguien podría querer conocer
+											al respecto, sobre ese evento.
+											¿Quién participa en el evento? Cualquier cosa sobre esa persona,
+											lugar de nacimiento, cosas como esas.
+											Entonces la segunda regla es que obtengo información importante.
+									","
+											İkinci kural, eğer ben bu HTTP isimlerinden birini alıp, arayıp
+											ve onunla bağlama şeyini yapıp ve veriyi
+											HTTP protokolünü kullanarak alırsam
+											standart formatta bir veri elde edeceğim
+											ve bu birilerinin bu şey, bu etkinlik hakkında bilmek isteyeceği
+											işe yarar bir veri olacak.
+											Kim vardı etkinlikte? O kişinin nerede doğduğu
+											gibi ne kadar veri filan varsa.
+											Yani ikinci kural bilgiyi geri alıyorum.
+									","
+											Deuxième règle: Si j'utilise une de ces adresses HTTP
+											le web va me renvoyer des informations,
+											en utilisant le protocole HTTP,
+											des données dans un format standard
+											Et ce sont des données utiles que quelqu'un aimerait connaitre,
+											à propos de cette chose: si c'est un événement,
+											qui s'y rend ? Si c'est un personne,
+											où est-elle née ? Ce genre de choses.
+											Donc la deuxième règle est qu'on me renvoie des informations importantes.
+									","
+											Zweitens, wenn ich einen dieser HTTP-Namen nehme und ihn nachschlage,
+											und ich im Web die Daten
+											über das HTTP-Protokoll abrufe,
+											werde ich einige Daten in einem Standardformat erhalten,
+											was ziemlich nützliche Daten sind, die jemand gerne
+											über die Sache oder das Ereignis hätte.
+											Wer ist bei diesem Ereignis? Was auch immer über diese Person,
+											wo sie geboren wurde, Sachen wie diese.
+											Die zweite Regel ist also, dass ich Informationen zurückerhalte.
+									",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+","
+","
+","
+","
+",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+											Third rule is that when I get back that information
+											it's not just got somebody's height and weight and when they were born,
+											it's got relationships.
+											Data is relationships.
+											Interestingly, data is relationships.
+											This person was born in Berlin; Berlin is in Germany.
+											And when it has relationships, whenever it expresses a relationship
+											then the other thing that it's related to
+											is given one of those names that starts HTTP.
+											So, I can go ahead and look that thing up.
+											So I look up a person — I can look up then the city where they were born; then
+											I can look up the region it's in, and the town it's in,
+											and the population of it, and so on.
+											So I can browse this stuff.
+									","
+											La tercera regla es que cuando obtengo esa información
+											no es sólo la altura, el peso y la fecha de nacimiento
+											sino las relaciones.
+											Los datos son relaciones.
+											Interesante. Los datos son relaciones.
+											Esta persona nació en Berlín, Berlín está en Alemania.
+											Y cuando tiene una relación, cada vez que exprese una relación
+											la otra cosa que está relacionada
+											recibe un nombre que empieza con HTTP.
+											Entonces, puedo ir hacia adelante y mirarla.
+											Si busco a una persona, puedo mirar la ciudad en la que nació
+											puedo ver la región en la que está, qué pueblos están allí,
+											y la población de la ciudad, etc.
+											Puedo explorar estas cosas.
+									","
+											Üçüncü kural, ben bu bilgiyi geri aldığımda
+											o sadece birinin boyu, kilosu ve nerede doğduğu bilgisinden ibaret değil,
+											onun bağları olmalı.
+											Veriler bağlardır.
+											İlginç biçimde, veriler bağlardır.
+											Bu kişi Berlin'de doğdu, Berlin Almanya'da.
+											Ve bağlar olduğunda, ne zaman bir bağ bilgisi içerse
+											bağlı olduğu diğer şeyin de
+											bu HTTP ile başlayan bir ismi olmalıdır.
+											Yani gidip bu şeyi arayabilmeliyim.
+											Böyle bir insanı aradığımda — doğduğu ili, ilin içinde olduğu bölgeyi
+											ilin ilçesini ve il nüfusunu,
+											ve benzeri şeyleri arayabilirim.
+											Yani şeyleri tarayabilirim.
+									","
+											La troisième règle est que quand je récupère ces informations,
+											ce ne sera pas uniquement le poids ou la taille ou le lieu de naissance de cette personne,
+											on me fournira également des relations.
+											Les données sont des relations.
+											C'est ce qui est intéressant, les données sont des relations.
+											Vous avez cette personne née à Berlin, Berlin est en Allemagne.
+											Dès lors qu'il y a une relation,
+											l'élément lié est nommé
+											avec un nom commençant par http.
+											Et à partir de son nom HTTP je peux accéder à cette ressource.
+											Je peux accéder à cette personne, ensuite je peux accéder à la ville ou elle est née,
+											à sa région, à sa ville,
+											à la population de sa ville,
+											et ainsi de suite... Je peux parcourir toutes ces choses.
+									","
+											Die dritte Regel ist, dass es beim Erhalten von Informationen
+											nicht nur um die Größe, das Gewicht und den Geburtsort von jemanden geht.
+											Es gibt Beziehungen.
+											Daten sind Beziehungen.
+											Interessanterweise sind Daten Beziehungen.
+											Diese Person wurde in Berlin geboren. Berlin liegt in Deutschland.
+											Und wenn sie Beziehungen haben, immer wenn sie eine Beziehung ausdrücken,
+											wird der zugehörigen Sache
+											einer dieser Namen zugeteilt, die mit HTTP beginnen.
+											Also kann ich hingehen und diese Sache nachschlagen.
+											Ich schlage also eine Person nach. Ich kann den Ort nachschlagen, in dem sie geboren wurde.
+											Ich kann die Region nachschlagen, in der er liegt sowie die zugehörige Stadt,
+											dessen Bevölkerung, und so weiter.
+											Ich kann also dies alles durchsuchen.
+									",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+","
+","
+","
+","
+",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+											So that's it, really.
+											That is linked data.
+											I wrote an article entitled ""Linked Data"" a couple of years ago
+											and soon after that, things started to happen.
+											The idea of linked data is that we get lots and lots and lots
+											of these boxes that Hans had,
+											and we get lots and lots and lots of things sprouting.
+											It's not just a whole lot of other plants.
+											It's not just a root supplying a plant,
+											but for each of those plants, whatever it is —
+											a presentation, an analysis, somebody's looking for patterns in the data —
+											they get to look at all the data
+											and they get it connected together,
+											and the really important thing about data
+											is the more things you have to connect together, the more powerful it is.
+									","
+											Así es, realmente.
+											Esto son datos enlazados.
+											Escribí un artículo titulado “Datos enlazados” hace un par de años
+											y poco después empezaron a suceder cosas.
+											La idea de los datos enlazados es que tengamos muchas
+											de estas cajas que Hans tenía,
+											y surgen muchas, muchas cosas.
+											No sólo es un montón de otras plantas.
+											No sólo es una raíz que nutre a una planta,
+											sino que por cada una de esas plantas, cualquiera sea,
+											una presentación, un análisis, alguien que busca patrones en los datos,
+											puedan revisar toda esta información
+											y la tengan conectada.
+											Y lo más importante acerca de los datos
+											es que, cuanto más cosas tengas conectadas, más poderoso es.
+									","
+											Aslında bundan ibaret.
+											Bu bağlı veridir.
+											Birkaç yıl önce ""Bağlı Veri"" başlıklı bir makale yazdım
+											ve ondan sonra bir şeyler olmaya başladı.
+											Bağlı veri fikri, Hans gibi bizim de bu kutulara
+											ve onlardan filizlenen
+											çok ama birçok şeylere sahip olduğumuzdur.
+											Sadece diğer bitkilerden bir demet değildir.
+											Sadece filizlenen bir fidan değildir,
+											fakat tüm bu bitkiler, onlar her neyse artık,
+											bir sunum, bir analiz, birilerinin veride kalıplar araması —
+											onların tüm veriye bakmaları
+											ve onları bir araya getirmeleri,
+											ve veriyle ilgili en önemli şey,
+											ne kadar çok bir araya getirirseniz, o kadar güçlü olduğudur.
+									","
+											Et voilà.
+											C'est ça, ""Linked Data"".
+											Il y a quelques années j'ai écrit un article intitulé Linked Data,
+											et peu de temps après les choses ont commencé à bouger.
+											Nous avons eu de plus en plus de ces boites
+											que Hans décrivait,
+											et nous avons vu de plus en plus de choses éclore.
+											Ce ne sont pas que des plantes.
+											Ce n'est pas seulement une racine qui fait vivre une plante.
+											Pour chacune de ces plantes, peu importe sa nature,
+											une présentation, une analyse, quelqu'un cherchant des tendances dans les données,
+											peut interroger toutes ces données.
+											et toutes ces données sont connectées.
+											La chose vraiment important sur les données, c'est que
+											plus vous avez de données connectés, plus elles deviennent puissant.
+									","
+											Das war es schon.
+											Das sind verknüpfte Daten.
+											Vor einigen Jahren schrieb ich einen Artikel mit dem Titel ""Linked Data"" (""Verknüpfte Daten"")
+											und kurz darauf haben die Dinge ihren Lauf genommen.
+											Die Vorstellung von verknüpften Daten ist, dass wir viele, viele
+											dieser Kästen haben, die auch Hans hatte.
+											Und so können wir viele, viele Dinge aufkeimen lassen.
+											Es ist nicht nur eine ganze Reihe anderer Pflanzen.
+											Es ist nicht nur eine Wurzel, die eine Pflanze beliefert,
+											sondern für jede dieser Pflanzen, was auch immer sie sind —
+											eine Präsentation, eine Analyse, jemand, der nach Mustern in den Daten sucht —
+											schauen sie sich alle diese Daten an
+											und sie bekommen sie miteinander verbunden.
+											Und das Wichtigste über Daten ist, dass
+											je mehr Dinge miteinander verbunden sind, desto mächtiger sind sie.
+									",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+","
+","
+","
+","
+",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+											So, linked data.
+											The meme went out there.
+											And, pretty soon Chris Bizer at the Freie Universitat in Berlin
+											who was one of the first people to put interesting things up,
+											he noticed that Wikipedia —
+											you know Wikipedia, the online encyclopedia
+											with lots and lots of interesting documents in it.
+											Well, in those documents, there are little squares, little boxes.
+											And in most information boxes, there's data.
+											So he wrote a program to take the data, extract it from Wikipedia,
+											and put it into a blob of linked data
+											on the web, which he called dbpedia.
+											Dbpedia is represented by the blue blob in the middle of this slide
+											and if you actually go and look up Berlin,
+											you'll find that there are other blobs of data
+											which also have stuff about Berlin, and they're linked together.
+											So if you pull the data from dbpedia about Berlin,
+											you'll end up pulling up these other things as well.
+											And the exciting thing is it's starting to grow.
+											This is just the grassroots stuff again, OK?
+									","
+											Entonces, datos enlazados.
+											El meme surgió de ahí.
+											Y en poco tiempo Chris Spitzer, de la Freie Universitat de Berlín,
+											fue una de las primeras personas en proponer cosas interesantes,
+											se dio cuenta que Wikipedia,
+											conocen Wikipedia, la enciclopedia online
+											que tiene muchos documentos interesantes.
+											Bueno, en esos documentos hay pequeños cuadros, pequeñas cajas.
+											Y en la mayoría de las cajas de información hay datos.
+											Entonces escribió un programa para tomar esos datos, extraerlos de Wikipedia,
+											y ponerlos dentro de un grupo de datos enlazados
+											en la web al que llamó Dbpedia.
+											Dbpedia está representada por la mancha azul en medio de la diapositiva
+											y si uno va y busca Berlín,
+											verá que allí hay otras manchas de datos
+											que tienen cosas sobre Berlín y están enlazadas.
+											Entonces si uno extrae los datos de Berlín desde Dbpedia,
+											terminará extrayendo estas otras cosas también.
+											Y lo más interesante es que esto está empezando a crecer.
+											Esto es sólo el principio, otra vez, ¿sí?
+									","
+											İşte, bağlı veri.
+											Bu mem öylece yayıldı.
+											Bir süre sonra Berlindeki Freie Üniversitesi'nden
+											ilginç şeyleri dile getiren ilk kişilerden biri olan Chris Bizer,
+											Vikipedi'yi fark etti —
+											Vikipedi'yi bilirsiniz, çevrimiçi ansiklopedi
+											onun içinde birçok ilginç dokümanlar var.
+											Bu dokümanların içinde, ufak kareler var, ufak kutucuklar.
+											Ve bilgi kutucuklarının çoğunda veriler var.
+											Ve O Vikipedi'den bu verileri toplayan bir program yazdı
+											ve onu internette dbpedia adını verdiği
+											bir bağlı veri havuzuna koydu
+											Dbpedia bu slaytın ortasındaki mavi damla ile gösterilmiştir
+											ve eğer gerçekten gidip Berlin'i ararsanız,
+											başka veri damlaları olduğunu görürsünüz
+											ve onlarda da Berlin hakkında şeyler var ve birbirine bağlılar.
+											Yani eğer Dbpedia'dan Berlin hakkında veri çekerseniz
+											diğer bütün şeyleri de çekmiş olursunuz.
+											Ve işin heyecanlı kısmı o giderek büyüyor.
+											Bu yine tabandan hareket olayı, değil mi?
+									","
+											Linked Data est donc apparu,
+											le concept, le mème a été essaimé.
+											et quelques temps après, Chris Spitzer, de l'Université Libre de Berlin,
+											qui fut l'un des premiers à publier des données interessantes,
+											remarqua que Wikipédia,
+											cette fameuse encyclopédie en ligne,
+											qui contient plein de documents intéressants,
+											possédait parfois des encadrés, des sortes de boites d'information.
+											Et que dans ces boites d'information, il y a des données.
+											Il a écrit un programme pour extraire ces données de wikipedia
+											et les stocker au format Linked Data sur le web.
+											Il a appelé son site DBpedia.
+											DBpedia est représenté au milieu de cette slide par le rond bleu.
+											et si vous continuez à faire des recherches sur Berlin,
+											vous vous apercevez qu'il y a d'autres zones de données
+											sur Berlin, et elles sont toutes connectées entre elles.
+											Donc si vous récupérez quelque chose de DBpedia sur Berlin,
+											vous vous retrouvez à récupérer les autres données en même temps.
+											La chose incroyable est que cela commença à grossir.
+											C'est à nouveau un mouvement de fond.
+									","
+											Also, verknüpfte Daten.
+											Das Mem verbreitete sich.
+											Und ziemlich bald war es Chris Bizer von der Freien Universität in Berlin,
+											der als einer der ersten interessante Dinge eingestellt hat.
+											Er stellte etwas in der Wikipedia fest.
+											Sie kennen Wikipedia, die Online-Enzyklopädie
+											mit vielen, vielen interessanten Dokumenten.
+											In diesen Dokumenten gibt es kleine Vierecke, kleine Kästen.
+											Und in den meisten Info-Kästen gibt es Daten.
+											Also schrieb er ein Programm, um die Daten zu entnehmen, um sie aus der Wikipedia auszulesen,
+											und er stellte sie als Sammlung von verknüpften Daten
+											ins Web, die er DBpedia nannte.
+											DBpedia wird dargestellt durch den blauen Klecks in der Mitte dieser Folie
+											und wenn Sie wirklich hingehen und Berlin nachschlagen,
+											werden Sie auch andere Datensammlungen finden,
+											die ebenfalls Material über Berlin enthalten, und sie sind miteinander verknüpft.
+											Wenn Sie also die Daten über Berlin aus DBpedia herausziehen,
+											werden sie schließlich auch diese anderen Dinge herausziehen.
+											Und das Aufregende ist, dass es zu wachsen beginnt.
+											Das ist nur das Graswurzelzeug wieder, OK?
+									",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+","
+","
+","
+","
+",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+											Let's think about data for a bit.
+											Data comes in fact in lots and lots of different forms.
+											Think of the diversity of the web. It's a really important thing
+											that the web allows you to put all kinds of data up there.
+											So it is with data. I could talk about all kinds of data.
+											We could talk about government data, enterprise data is really important,
+											there's scientific data, there's personal data,
+											there's weather data, there's data about events,
+											there's data about talks, and there's news and there's all kinds of stuff.
+											I'm just going to mention a few of them
+											so that you get the idea of the diversity of it,
+											so that you also see how much unlocked potential.
+									","
+											Pensemos un poco sobre los datos.
+											Los datos llegan, de hecho, de formas muy diferentes.
+											Piensen en la diversidad de la web, es algo muy importante
+											que la web permita poner todo tipo de datos allí.
+											Es igual con los datos. Puedo hablar sobre todo tipo de datos.
+											Podemos hablar de datos de gobierno, los de empresas son importantes,
+											hay datos científicos, datos personales,
+											datos del clima, acerca de eventos,
+											sobre charlas, hay noticias y todo tipo de cosas.
+											Sólo voy a mencionar unos pocos de ellos
+											para que tengan una idea de la diversidad,
+											así podrán ver el gran potencial.
+									","
+											Biraz veri hakkında düşünelim.
+											Veri çok çok farklı formatlarda geliyor
+											İnternetin çeşitliliğini düşünün, internete her türlü veriyi
+											koyabilmeniz gerçekten çok önemli bir şeydir.
+											İşte veri var. Her tür veri hakkında konuşabilirim.
+											Hükümet verileri hakkında konuşabiliriz, kurumsal veri gerçekten önemlidir,
+											bilimsel veriler var, kişisel veriler var,
+											hava verileri var, etkinlikler hakkında
+											konuşmalar hakkında veri var, haberler var ve bu gibi birçok şey.
+											Sadece birkaçına değineceğim
+											yani ne kadar çeşitli olduğunu anladınız,
+											ve ne kadar çok gizli potansiyeli olduğunu gördünüz.
+									","
+											Maintenant examinons ces données.
+											Les données apparaissent sous différentes formes.
+											Pensez à la diversité du web. C'est un élément primordial pour le web,
+											de pouvoir y ajouter n'importe quel type d'information.
+											Il en va de même avec les données. Il existe plein de types de données.
+											Il y a les données gouvernementales, des données d'entreprises, qui sont vraiment essentielles,
+											les données scientifiques, les données personnelles,
+											les données météorologiques, les données concernant les événements,
+											les données des discussions, les informations, toutes sortes de données.
+											Je vais en mentionner quelques unes
+											pour que vous ayez une idée de leur diversité,
+											et ainsi vous rendre compte de leur potentiel.
+									","
+											Lassen Sie uns kurz über Daten nachdenken.
+											Daten kommen tatsächlich in vielen verschiedenen Formen daher.
+											Denken Sie an die Vielfalt im Web. Es ist absolut wichtig,
+											dass es das Web erlaubt, alle Arten von Daten einzustellen.
+											So ist es mit Daten. Ich könnte über alle möglichen Arten von Daten sprechen.
+											Wir könnten über Regierungsdaten sprechen. Unternehmensdaten sind wirklich wichtig.
+											Es gibt wissenschaftliche Daten und persönliche Daten.
+											Es gibt Wetterdaten, Daten über Ereignisse,
+											über Vorträge, über Nachrichten und all diese Dinge.
+											Ich werde nur ein paar davon erwähnen,
+											so dass Sie eine Vorstellung von der Vielfalt
+											und dem vorhandenen Potenzial erhalten.
+									",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+","
+","
+","
+","
+",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+											Let's start with government data.
+											Barack Obama said in a speech,
+											that he — American government data would be available on the Internet
+											in accessible formats.
+											And I hope that they will put it up as linked data.
+											That's important. Why is it important?
+											Not just for transparency, yeah transparency in government is important,
+											but that data — this is the data from all the government departments
+											Think about how much of that data is about how life is lived in America.
+											It's actual useful. It's got value.
+											I can use it in my company.
+											I could use it as a kid to do my homework.
+											So we're talking about making the place, making the world run better
+											by making this data available.
+									","
+											Empecemos con los datos de gobierno.
+											Barack Obama dijo en un discurso
+											que los datos del gobierno estadounidense deberían estar disponibles en Internet
+											en formatos accesibles.
+											Y espero que los pongan como datos enlazados.
+											Eso es importante. ¿Por qué es importante?
+											No sólo por transparencia- sí, la transparencia de un gobierno es importante,
+											sino porque esos datos — son datos de todos los organismos de gobierno.
+											Piensen cuánta de esa información es sobre cómo se vive en EE.UU.
+											Es realmente útil, tiene valor.
+											Puedo usarla en mi compañía.
+											Puedo usarla si soy un chico para hacer mi tarea.
+											Entonces hablamos de hacer que el mundo funcione mejor
+											haciendo que los datos estén disponible.
+									","
+											Hükümet verileri ile başlayalım.
+											Barack Obama, konuşmasında
+											Amerikan hükümeti verilerinin internette erişilebilir formatlarda
+											yer alacağını söyledi.
+											Ve umuyorum onu bağlı veri olarak koyarlar.
+											Bu önemlidir. Bu neden önemlidir?
+											Sadece saydamlık için değil, evet hükümette saydamlık önemlidir,
+											fakat bu verinin — tüm hükümet birimlerinden toplanan bu verinin —
+											ne kadarının Amerikadaki yaşam hakkında olduğunu bir düşünün.
+											Gerçekten faydalıdır. Değerlidir.
+											Onu şirketimde kullanabilirim.
+											Öğrenci olarak ödevimi yaparken kullanabilirim.
+											Yani bu veriyi elverişli kılarak dünyayı daha iyi bir
+											yer yapmaktan söz ediyoruz.
+									","
+											Commençons par les données gouvernementales.
+											Barak Obama a dit dans un de ses discours que
+											les données du gouvernement américain seront disponibles sur internet
+											dans des formats accessibles.
+											Et j'espère qu'ils utiliseront le format ""Linked Data"".
+											C'est important. Pourquoi est-ce important?
+											Pas seulement pour la transparence. Bien sûr la transparence est importante.
+											Mais ces données proviennent de tous les départements gouvernementaux.
+											Alors pensez comment ces données montrent comment nous vivons en amérique.
+											C'est très utile, ça a de la valeur,
+											je peux l'utiliser pour ma société,
+											En tant qu'enfant, je peux l'utiliser pour faire mes devoirs.
+											Ce que je dis ici, c'est qu'on peut rendre la gestion du monde meilleure,
+											en rendant ces données disponibles.
+									","
+											Lassen Sie uns mit Regierungsdaten beginnen.
+											Barack Obama sagte in einer Rede,
+											dass amerikanische Regierungsdaten im Internet verfügbar sein würden —
+											in zugänglichen Formaten.
+											Und ich hoffe, dass sie diese als verknüpfte Daten einstellen werden.
+											Das ist wichtig. Warum ist es wichtig?
+											Nicht nur wegen der Transparenz. Ja, Transparenz innerhalb der Regierung ist wichtig.
+											Aber diese Daten — dies sind die Daten aller staatlichen Einrichtungen.
+											Bedenken Sie wie viele dieser Daten über den amerikanischen Lebensstil sind.
+											Sie sind wirklich nützlich. Sie haben einen Wert.
+											Ich kann sie in meiner Firma verwenden.
+											Ich könnte sie als Kind verwenden, um meine Hausaufgaben zu machen.
+											Wir sprechen also darüber eine bessere Welt zu ermöglichen,
+											indem diese Daten verfügbar gemacht werden.
+									",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+","
+","
+","
+","
+",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+											In fact if you're responsible — if you know about some data
+											in a government department, often you find that
+											these people, they're very tempted to keep it —
+											Hans calls it database hugging.
+											You hug your database, you don't want to let it go
+											until you've made a beautiful website for it.
+											Well, I'd like to suggest that rather —
+											yes, make a beautiful website,
+											who am I to say don't make a beautiful website?
+											Make a beautiful website, but first
+											give us the unadulterated data,
+											we want the data.
+											We want unadulterated data.
+											OK, we have to ask for raw data now.
+											And I'm going to ask you to practice that, OK?
+											Can you say ""raw""?
+									","
+											De hecho, si uno es responsable — si uno conoce algunos datos
+											de un organismo de gobierno, usualmente encuentra que
+											esta gente, está muy tentada a guardarla.
+											Hans llama a esto “abrazar” la base de datos.
+											Uno abraza la base de datos, no la soltamos
+											hasta que creamos un hermoso sitio web.
+											Bueno, me gustaría sugerir
+											que sí, hagamos un hermoso sitio web,
+											¿quién soy yo para decirte que no crees un lindo sitio web?
+											Háganlo, pero primero
+											dennos los datos sin modificar,
+											queremos los datos.
+											Queremos los datos sin modificar.
+											Ahora pediremos los datos en crudo.
+											Y quiero pedirles que practiquen eso, ¿está bien?
+											Digan ""crudos"".
+									","
+											Eğer bu işteyseniz — yani bir bakanlıktaki verilerin
+											birazını biliyorsanız, çoğu kez bu insanların
+											bu veriyi saklamak istediklerini görürsünüz.
+											Hans buna veritabanı kucaklama diyor.
+											Veritabanını kucaklarsan ve ona güzel bir site
+											yapana kadar gitmesine izin vermezsin.
+											Açıkçası bunun yerine,
+											tamam, yap bir güzel site,
+											ben kimim ki güzel site yapmayın diyorum?
+											Güzel bir site yap ama önce
+											bize el değmemiş veriyi ver,
+											veriyi istiyoruz.
+											El değmemiş, saf veriyi istiyoruz.
+											Artık ham veriyi istemek zorundayız.
+											Ve bunu denemenizi istiyorum, anlaştık mı?
+											""Ham"" diyin
+									","
+											En fait, si vous êtes décideur, et vous entendez parler
+											de données gouvernementales particulières,
+											vous verrez que ces gens ont souvent tendance à les garder pour eux.
+											Hans appelle ça le serrage de base de données.
+											Vous serrez votre base de données. Vous ne la laissez pas partir
+											tant que vous n'en avez pas fait un joli site web.
+											Ce que je suggère, c'est qu'avant de ...
+											... Oui, faites un joli site !
+											Je ne peux pas vous empêcher de faire un joli site.
+											Faites-en donc un joli site. Mais avant cela,
+											donnez-nous accès aux données non altérées.
+											On veut des données.
+											On veut des données non altérées.
+											Il faut que nous demandions des données brutes maintenant.
+											Et je vais vous demander de vous entrainer.
+											Pouvez vous dire ""Raw"" ?
+									","
+											Wenn Sie verantwortlich sind — wenn Sie von Daten
+											in einer staatlichen Einrichtung wissen, werden sie oftmals bemerken,
+											dass die Leute sehr versucht sind, diese für sich zu behalten.
+											Hans nennt dies Datenbank-Umarmung (""database hugging"").
+											Sie umarmen Ihre Datenbank. Sie möchten sie nicht gehen lassen
+											bevor Sie eine wunderschöne Website dafür erstellt haben.
+											Ich möchte eher nahelegen —
+											ja, erstellen Sie eine schöne Website.
+											Wie könnte ich auch sagen, man solle keine schöne Website erstellen?
+											Erstellen Sie eine schöne Website, aber zunächst —
+											geben Sie uns die unverfälschten Daten.
+											Wir möchten die Daten.
+											Wir möchten unverfälschte Daten.
+											OK, wir müssen jetzt nach Rohdaten fragen.
+											Und ich möchte Sie darum bitten, dies zu üben, OK?
+											Können Sie ""Roh"" sagen?
+									",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+","
+","
+","
+","
+",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+											Audience: Raw.
+									","
+											Audiencia: Crudos.
+									","
+											Seyirciler: Ham
+									","
+											Audience: Raw!
+									","
+											Publikum: ""Roh.""
+									",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+","
+","
+","
+","
+",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+											Tim Berners-Lee: Can you say ""data""?
+									","
+											Tim Bernes-Lee: ¿Pueden decir ""Datos""?
+									","
+											Tim Berners-Lee: ""Veri"" der misiniz?
+									","
+											Pouvez vous dire ""Data"" ?
+									","
+											Können Sie ""Daten"" sagen?
+									",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+","
+","
+","
+","
+",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+											Audience: Data.
+									","
+											Audiencia: Datos.
+									","
+											Seyirciler: Veri
+									","
+											Audience: Data!
+									","
+											Publikum: ""Daten.""
+									",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+","
+","
+","
+","
+",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+											TBL: Can you say ""now""?
+									","
+											TBL: ¿Pueden decir ""Ahora""?
+									","
+											TBL: ""Şimdi"" der misiniz?
+									","
+											Pouvez vous dire ""Now"" ?
+									","
+											Können Sie ""Jetzt"" sagen?
+									",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+","
+","
+","
+","
+",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+											Audience: Now!
+									","
+											Audiencia: ¡Ahora!
+									","
+											Seyirciler: Şimdi!
+									","
+											Audience: Now!
+									","
+											Publikum: ""Jetzt.""
+									",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+","
+","
+","
+","
+",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+											TBL: Alright, ""raw data now""!
+									","
+											TBL: Bien, ¡datos crudos ahora!
+									","
+											TBL: Pekala, şimdi ham veri!
+									","
+											Raw Data Now ! (Des Données Brutes Maintenant !)
+									","
+											Genau, Rohdaten jetzt!
+									",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+","
+","
+","
+","
+",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+											Audience: Raw data now!
+									","
+											Audiencia: ¡Datos crudos ahora!
+									","
+											Seyirciler: Şimdi ham veri!
+									","
+											Audience: Raw Data Now !
+									","
+											Publikum: ""Rohdaten jetzt!""
+									",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+","
+","
+","
+","
+",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+											Practice that. It's important because you have no idea the number of excuses
+											people come up with to hang onto their data
+											and not give it to you, even though you've paid for it as a taxpayer.
+											And it's not just America. It's all over the world.
+											And it's not just governments, of course — it's enterprises as well.
+									","
+											Practiquen eso. Es importante porque no tienen idea del número de excusas
+											que la gente puede esgrimir para aferrarse a sus datos
+											y no dárselos, aún cuando paguen por ellos a través de sus impuestos.
+											Y no es sólo EE.UU., es así en todo el mundo.
+											Y no son sólo los gobiernos, por supuesto, las empresas también.
+									","
+											Deneyin bunu. Bu önemlidir çünkü vatandaş olarak vergi vermenize rağmen
+											onların bu verileri elde tutmak ve size vermemek
+											için ne kadar çok mazeret ürettiğini tahmin bile edemezsiniz.
+											Ve bu sadece Amerika değil, tüm dünyada böyle.
+											Ve bu sadece hükümetlerde böyle değil tabii ki, kurumlar da öyle.
+									","
+											Pratiquez-le, c'est important. Car vous n'imaginez pas les excuses
+											que trouvent les gens pour retenir leurs données
+											pour vous empêcher d'y accéder, alors même que vous les avez payées avec vos impôts.
+											Et ce n'est pas qu'en Amérique. C'est la même chose partout dans le monde.
+											Et ce n'est pas uniquement les gouvernements. Les entreprises également.
+									","
+											Üben Sie das. Es ist wichtig, da Sie sich nicht vorstellen können, wie viele Ausreden
+											ich von Leuten höre, die an ihren Daten festhalten
+											und diese nicht mit Ihnen teilen, auch wenn Sie dafür als Steuerzahler gezahlt haben.
+											Und das gilt nicht nur für Amerika. Es betrifft die ganze Welt.
+											Und es gilt natürlich nicht nur für Regierungen. Es betrifft auch Unternehmen.
+									",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+","
+","
+","
+","
+",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+											So I'm just going to mention a few other thoughts on data.
+											Here we are at TED, and all the time we are very conscious
+											of the huge challenges that human society has right now —
+											curing cancer, understanding the brain for Alzheimer's,
+											understanding the economy to make it a little bit more stable,
+											understanding how the world works.
+											The people who are going to solve those — the scientists —
+											they have half-formed ideas in their head,
+											they try to communicate those over the web.
+											But a lot of the state of knowledge of the human race at the moment
+											is on databases, often sitting in their computers,
+											and actually, currently not shared.
+									","
+											Sólo voy a mencionar unas ideas más sobre los datos.
+											Aquí estamos en TED, y todo el tiempo somos conscientes
+											de los enormes desafíos que la sociedad enfrenta en este momento:
+											curar el cáncer, entender el cerebro de quienes tienen Alzheimer,
+											entender la economía para hacerla un poco más estable,
+											entender cómo funciona el mundo.
+											La gente que va a solucionar esto, los científicos,
+											tienen ideas pre-elaboradas en sus cabezas,
+											tratan de comunicarlas a través de la web.
+											Pero mucho del estado del conocimiento humano en este momento
+											está en bases de datos, casi siempre en sus computadoras,
+											y actualmente no es compartido.
+									","
+											Veri üzerine birkaç düşünceye daha değineceğim.
+											Burada TED'deyiz ve insanlığın karşılaştığı çok büyük
+											sorunlar için her daim bilinçliyiz: kanserin tedavisi
+											Alzheimer hastalarının beynini anlamak,
+											biraz daha istikrarlı yapmak için ekonomiyi anlamak,
+											dünyanın nasıl işlediğini anlamak.
+											Bunları çözecek olan insanlar — bilim insanları —
+											kafalarında düşünceyi yarıladılar,
+											bunları internet üzerinden iletmeye çalışıyorlar.
+											Fakat şu anda insan ırkının sahip olduğu bilgi birikimi
+											veritabanlarında, bilgisayarlarda öylece duruyor,
+											ve gerçekten şu an paylaşılmıyor.
+									","
+											Je vais juste vous faire part de quelques idées sur les données...
+											Nous sommes ici à TED, et nous sommes particulièrement conscient
+											des immenses challenges que l'humanité doit relever.
+											Eliminer le cancer. Comprendre le cerveau pour traiter l'Alzheimer.
+											Comprendre l'économie, la rendre plus stable.
+											Comprendre comment le monde fonctionne.
+											Ceux qui vont résoudre ces problèmes sont des scientifiques,
+											ils ont des tonnes d'idées dans leur tête,
+											ils essayent de les communiquer à travers le web.
+											Mais beaucoup de connaissances de la race humaine
+											se trouvent actuellement dans des bases de données
+											qui ne sont pas actuellement partagées.
+									","
+											Ich möchte noch ein paar weitere Gedanken über Daten loswerden.
+											Wir sind hier bei TED und die ganze Zeit sind wir uns bewusst
+											über die riesigen Herausforderungen der menschlichen Gesellschaft.
+											Krebs heilen, das Gehirn für die Alzheimer-Krankheit verstehen,
+											die Wirtschaft verstehen, um sie ein wenig stabiler zu machen,
+											verstehen wie die Welt funktioniert.
+											Die Menschen, die sich diesen Herausforderungen stellen sind Wissenschaftler.
+											Sie haben erste Ideen in ihren Köpfen
+											und versuchen diese über das Web zu kommunizieren.
+											Aber ein großer Teil des Wissensstandes von uns Menschen
+											befindet sich derzeit in Datenbanken, oft verborgen in unseren Computern
+											und wird gegenwärtig nicht mit anderen geteilt.
+									",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+","
+","
+","
+","
+",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+											In fact, I'll just go into one area —
+											if you're looking at Alzheimer's, for example,
+											drug discovery — there is a whole lot of linked data which is just coming out
+											because scientists in that field realize
+											this is a great way of getting out of those silos,
+											because they had their genomics data in one database
+											in one building, and they had their protein data in another.
+											Now, they are sticking it onto — linked data —
+											and now they can ask the sort of question, that you probably wouldn't ask,
+											I wouldn't ask — they would.
+											What proteins are involved in signal transduction
+											and also related to pyramidal neurons?
+											Well, you take that mouthful and you put it into Google.
+											Of course, there's no page on the web which has answered that question
+											because nobody has asked that question before.
+											You get 223,000 hits —
+											no results you can use.
+											You ask the linked data — which they've now put together —
+											32 hits, each of which is a protein which has those properties
+											and you can look at.
+											The power of being able to ask those questions, as a scientist —
+											questions which actually bridge across different disciplines —
+											is really a complete sea change.
+											It's very very important.
+											Scientists are totally stymied at the moment —
+											the power of the data that other scientists have collected is locked up
+											and we need to get it unlocked so we can tackle those huge problems.
+									","
+											De hecho, sólo voy a entrar en un área,
+											si vemos el Alzheimer, por ejemplo,
+											el descubrimiento de drogas, hay mucha información enlazada que está
+											apareciendo porque los científicos en ese campo se dieron cuenta
+											de que es una buena forma de salir de estos silos,
+											porque tienen la información de los genomas en una base de datos
+											en un edificio y los datos de las proteínas en otro.
+											Entonces, están uniendo unos con otros, datos enlazados,
+											y ahora pueden hacer el tipo de pregunta, que probablemente ustedes no pudieran hacer,
+											yo no podría preguntar pero ellos sí.
+											¿Qué proteínas están implicadas en la transducción de señales
+											y también relacionadas con las neuronas piramidales?
+											Bueno, ustedes tomarían ese trabalenguas y lo buscarían en Google.
+											Por supuesto, no hay página que tenga esa respuesta
+											porque nadie ha hecho esa pregunta antes.
+											Obtienes 223.000 entradas,
+											pero ningún resultado útil.
+											Consultas los datos enlazados, que ahora están juntos,
+											hay 32 coincidencias, cada una es una proteína que tiene esas propiedades
+											y uno las puede ver.
+											El potencial de poder hacer esas preguntas, como científico
+											preguntas que relacionan diversas disciplinas,
+											realmente es un cambio radical.
+											Es muy importante.
+											Los científicos están completamente desconcertados en este momento,
+											el poder de los datos que otros científicos han conseguido no está disponible
+											y necesitamos liberarlo para resolver esos enormes problemas.
+									","
+											Aslında bir alana değineceğim —
+											Alzheimer'a baktığınızda, örneğin,
+											ilaç keşfi — yeni yeni ortaya çıkan çok fazla bağlı veri var
+											çünkü bu alandaki bilim insanları
+											bu yığınlardan bir şeyler çıkarmanın harika bir yolu
+											olduğunu fark ettiler, çünkü bir veritabanında genler
+											başka bir veritabanında protein verileri var.
+											Ve şimdi buna yapıştılar — bağlı veri —
+											ve muhtemelen sormayacağınız soruları artık sorabiliyorlar.
+											Ben değil — onlar soracak.
+											Sinyal transdüksiyonunda yer alan ve ayrıca
+											piramitsel nöronlara bağlı proteinler hangileridir?
+											Bu ağız dolusu lafları alın ve Google'da aratın.
+											Tabii ki bu sorunun cevabını içeren hiçbir sayfa bulamazsınız
+											çünkü daha önce kimse sormadı bu soruyu.
+											223,000 tane sonuç —
+											ama hiçbirini kullanamazsınız.
+											Şimdi bir araya getirdikleri bağlı veriye sorarsınız
+											32 sonuç, herbiri bu özelliklere sahip proteinlerdir ve bunları
+											inceleyebilirsiniz.
+											Bir bilim insanı olarak farklı disiplinleri bir araya getiren
+											bu soruları sorabilme gücünüzün olması gerçekten
+											başlı başına bir değişim.
+											Bu çok çok önemlidir.
+											Şu anda bilim insanlarının yoluna tamamen
+											taş konulmuş durumda, diğer bilim insanlarının topladığı veriler kilitli
+											ve tüm bu büyük insanlık sorunlarını çözmek için bu kilidi açmalıyız.
+									","
+											En fait si vous prenez juste un domaine
+											comme Alzheimer, la recherche de médicaments par exemple,
+											vous vous apercevez qu'il y a beaucoup de ""Linked Data"" qui apparaissent
+											car les scientifiques de ce domaine se sont aperçu
+											que c'était une bonne manière de sortir de leurs silos.
+											Il y avait des données sur le génome dans cette base de données,
+											dans ce bâtiment, et il y avait des données sur les protéines dans une autre...
+											Et maintenant ils les ont réunies comme ""Linked Data""
+											et maintenant ils peuvent poser des questions que vous ne vous poseriez pas,
+											moi non plus, mais eux oui...
+											Quelles protéines sont utilisées dans la transduction des signaux
+											et qui sont en rapport avec les neurones pyramidaux?
+											Et bien vous prenez cette question, vous la mettez dans Google,
+											Bien-sûr il n'y a pas de page sur web qui répond à cette question,
+											car personne ne se l'est déjà posée.
+											Vous récupérez 223,000 réponses,
+											mais aucun résultat utilisable !
+											Vous interrogez les données cumulées du ""Linked Data"":
+											32 réponses, et chacune d'elle est une protéine
+											qui a cette propriété.
+											Et vous voyez la puissance de pouvoir poser ces questions pour un scientifique.
+											Des questions qui créent des ponts entre différentes disciplines.
+											C'est un changement radical.
+											C'est vraiment très important.
+											Et les scientifiques l'ont très bien compris.
+											Les données que d'autres scientifiques ont collectées sont enfermées
+											et nous devons les délivrer pour pouvoir nous atteler à ces grands problèmes.
+									","
+											Lassen Sie mich nur auf einen Bereich eingehen.
+											Wenn Sie sich z.B. die Alzheimer-Krankheit ansehen,
+											die Entwicklung neuer Medikamente — hier kommt gerade eine Menge an verknüpften Daten zum Vorschein,
+											da die Wissenschaftler auf diesem Gebiet feststellen,
+											dass dies eine großartige Möglichkeit ist, um die eingeschränkte Sichtweise zu verlassen,
+											da sie ihre Genomdaten in einer Datenbank
+											innerhalb eines Gebäudes und die Proteindaten in einer anderen hatten.
+											Nun verbinden sie beide miteinander — verknüpfte Daten —
+											und jetzt können sie Fragen stellen, die Sie vermutlich nicht stellen würden,
+											die ich nicht stellen würde, aber sie.
+											Welche Proteine sind bei der Signalübertragung beteiligt
+											und außerdem verwandt mit pyramidenförmigen Neuronen?
+											Nun ja, man nimmt eben diesen Zungenbrecher und gibt ihn bei Google ein.
+											Natürlich gibt es keine Seite im Web, die diese Frage beantwortet hat,
+											da noch niemand zuvor diese Frage gestellt hat.
+											Man erhält 223.000 Treffer,
+											aber keine brauchbaren Ergebnisse.
+											Nun fragen Sie die verknüpften Daten, die sie jetzt zusammengestellt haben.
+											32 Treffer, von denen jeder ein Protein mit diesen Eigenschaften ist
+											und Sie können sie sich ansehen.
+											Die Fähigkeit nun in der Lage zu sein, als Wissenschaftler solche Fragen zu stellen —
+											Fragen, die eine Brücke über verschiedene Fachrichtungen hinweg schlagen —
+											ist wirklich eine komplette Trendwende.
+											Das ist wirklich von sehr großer Bedeutung.
+											Die Wissenschaftler sind zurzeit völlig blockiert.
+											Die Fähigkeit der Daten anderer Wissenschaftler ist ihnen verschlossen
+											und wir müssen sie freigeben, so dass wir diese riesigen Probleme angehen können.
+									",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+","
+","
+","
+","
+",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+											Now if I go on like this, you'll think that all the data comes from huge institutions
+											and has nothing to do with you.
+											But, that's not true.
+											In fact, data is about our lives.
+											You just — you log on to your social networking site,
+											your favorite one, you say, ""This is my friend.""
+											Bing! Relationship. Data.
+											You say, ""This photograph, it's about — it depicts this person. ""
+											Bing! That's data. Data, data, data.
+											Every time you do things on the social networking site,
+											the social networking site is taking data and using it — re-purposing it —
+											and using it to make other people's lives more interesting on the site.
+											But, when you go to another linked data site —
+											and let's say this is one about travel,
+											and you say, ""I want to send this photo to all the people in that group,""
+											you can't get over the walls.
+											The Economist wrote an article about it, and lots of people have blogged about it —
+											tremendous frustration.
+											The way to break down the silos is to get inter-operability
+											between social networking sites.
+											We need to do that with linked data.
+									","
+											Ahora, ustedes pensarán que todos los datos vienen de grandes instituciones
+											y que no tienen nada que ver con ustedes.
+											Pero eso no es cierto.
+											De hecho, son datos sobre nuestras vidas.
+											Cuando ingresan en el sitio de su red social,
+											su red favorita, dicen, ""Este es mi amigo"".
+											¡Listo! Relaciones. Información.
+											Dices: ""Esta fotografía es sobre… muestra a esta persona"".
+											¡Listo! Eso es información. Datos, datos, datos.
+											Cada vez que haces algo en el sitio de la red social,
+											esa red está tomando los datos y usándolos, resignificándolos,
+											y usándolos para hacer más interesante la vida de otras personas en el sitio.
+											Pero, cuando vas a otro sitio de datos enlazados,
+											digamos que es un sitio de viajes,
+											y dices: ""Quiero enviar esta foto a todas las personas de este grupo"",
+											no puedes pasar por encima de sus muros.
+											The Economist publicó un artículo sobre esto, y muchas personas
+											lo reseñaron en sus blogs, tremenda frustración.
+											La forma de derribar estos silos es tener interoperabilidad
+											entre las distintas redes sociales.
+											Necesitamos hacer eso con datos enlazados.
+									","
+											Eğer böyle devam edersem, tüm verilerin büyük kurumlardan geldiğini ve
+											sizinle hiç ilgisi olmadığını sanacaksınız.
+											Ama bu doğru değil.
+											Aslında veri hayatımızdadır.
+											Gidip favori sosyal ağınıza bağlanırsınız,
+											ve ""Bu benim arkadaşım."" dersiniz.
+											Hop! Bağlantı. Veri.
+											Dersiniz ki ""Bu fotoğraf, bu kişiyi gösteriyor.""
+											Hop! Bu veridir. Veri, veri, veri.
+											Sosyal ağ sitenizde ne zaman bir şeyler yapsanız,
+											o sosyal ağ sitesi bu veriyi alır ve kullanır — onu yeniden amaçlar —
+											ve o sitedeki diğer insanların hayatını daha ilginç hale getirir.
+											Fakat başka bir bağlı veri sitesine gittiğinizde
+											ve farz edin ki bu seyahat ile ilgili bir site,
+											dersiniz ki, ""Bu fotoyu bu gruptaki herkese göndermek istiyorum,""
+											o vakit duvarları aşamazsınız.
+											Ekonomist dergisi bu konuda bir makale yazdı ve birçok insan bloglarında değindi
+											olağanüstü bir karmaşa.
+											Yığınları ayırmanın yolu sosyal ağ sitelerinin
+											birbiriyle uyumlu olmasını sağlamaktır.
+											Bunu bağlı veri ile yapmalıyız.
+									","
+											Si je continue, vous allez vous dire que toutes les données proviennent des grosses institutions
+											et que cela n'a rien à voir avec vous.
+											Et bien cela est faux.
+											Les données parlent de nos vies.
+											Vous vous connectez sur votre réseau social favori.
+											Vous selectionnez un ami,
+											et hop, une relation, une donnée.
+											Vous dites: cette photo représente cette personne, hop, une donnée.
+											Données, données, données.
+											A chaque fois que vous faite quelque chose dans un réseau social,
+											le site crée des données et les utilise, les retravaille,
+											et rend la vie des autres utilisateurs du site plus intéressante.
+											Mais si vous allez dans un autre réseau social,
+											disons spécialisé dans les voyages,
+											et que vous voulez envoyer une photo à toutes les personnes de ce groupe,
+											vous ne pourrez pas passer les murs.
+											""The Economist"" a écrit un article sur le sujet, de nombreux blogueurs en ont parlé.
+											C'est une énorme frustration
+											de ne pas pouvoir détruire les silos et apporter de l'interopérabilité
+											entre les réseaux sociaux.
+											Nous devons faire ça avec le ""Linked Data"".
+									","
+											Wenn ich nun so weitermache, werden Sie denken, dass all diese Daten aus riesigen Einrichtungen stammen
+											und nichts mit Ihnen zu tun haben.
+											Aber das stimmt nicht.
+											In Wirklichkeit drehen sich Daten um unser Leben.
+											Sie melden sich auf Ihrer bevorzugten sozialen Netzwerkseite an
+											und sagen: ""Das ist mein Freund.""
+											Bing! Beziehung. Daten.
+											Sie sagen: ""Diese Foto beschreibt diese Person.""
+											Bing! Das sind Daten. Daten, Daten, Daten.
+											Jedes Mal wenn Sie etwas auf Ihrer sozialen Netzwerkseite tun,
+											nimmt sich die soziale Netzwerkseite Daten und verwendet sie, wiederverwendet sie
+											und gebraucht sie, um das Leben anderer Leute auf der Seite interessanter zu machen.
+											Aber wenn Sie auf eine andere Website mit verknüpften Daten gehen —
+											sagen wir eine über Reisen —
+											und sie sagen ""Ich möchte dieses Foto an alle Leute dieser Gruppe senden"",
+											dann kommen Sie nicht über die Mauern.
+											Die Zeitschrift ""The Economist"" schrieb einen Artikel darüber und viele Leute haben darüber gebloggt.
+											Enorme Frustration.
+											Um diese Hürden zu überwinden benötigen wir Interoperabilität
+											zwischen sozialen Netzwerkseiten.
+											Wir müssen das mit verknüpften Daten tun.
+									",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+","
+","
+","
+","
+",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+											One last type of data I'll talk about, maybe it's the most exciting.
+											Before I came down here, I looked it up on OpenStreetMap
+											The OpenStreetMap's a map, but it's also a Wiki.
+											Zoom in and that square thing is a theater — which we're in right now —
+											The Terrace Theater. It didn't have a name on it.
+											So I could go into edit mode, I could select the theater,
+											I could add down at the bottom the name, and I could save it back.
+											And now if you go back to the OpenStreetMap. org,
+											and you find this place, you will find that The Terrace Theater has got a name.
+											I did that. Me!
+											I did that to the map. I just did that!
+											I put that up on there. Hey, you know what?
+											If I — that street map is all about everybody doing their bit
+											and it creates an incredible resource
+											because everybody else does theirs.
+											And that is what linked data is all about.
+											It's about people doing their bit
+											to produce a little bit, and it all connecting.
+											That's how linked data works.
+											You do your bit. Everybody else does theirs.
+											You may not have lots of data which you have yourself to put on there
+											but you know to demand it.
+											And we've practiced that.
+									","
+											Un último tipo de dato que voy a mencionar, quizá el más apasionante.
+											Antes de venir aquí lo busqué en OpenStreetMap.
+											OpenStreetMap es un mapa, pero también es una Wiki.
+											Te acercas con el zoom y el cuadrado es un teatro, donde estamos ahora,
+											el teatro The Terrace. No tiene un nombre.
+											Puedo ir al modo edición, seleccionar el teatro,
+											agregar el nombre al final, y guardarlo nuevamente.
+											Y si ahora vamos nuevamente a OpenStreetMap.org,
+											y encontramos este lugar, veremos que el teatro The Terrace ya tiene nombre.
+											Yo lo hice. ¡Yo!
+											Yo hice ese mapa. ¡Acabo de hacerlo!
+											Puse eso ahí y ¿saben algo?
+											Ese mapa de calles implica que cada uno hace su pequeño aporte
+											y crea un recurso increíble
+											porque cada uno hace lo suyo.
+											Y eso es lo que significan los datos enlazados.
+											Es gente haciendo su pequeño aporte
+											para producir algo, todo conectado.
+											Así es como funcionan los datos enlazados.
+											Haces tu parte. Todo el mundo hace su parte.
+											No tendrás mucha información para poner ahí
+											pero sabes cómo solicitarla.
+											Y hemos practicado eso.
+									","
+											Son bir veri türünden bahsedeceğim, belki de en heyecan verici olanı.
+											Buraya gelmeden önce, OpenStreetMap'te yerine baktım
+											OpenStreetMap bir haritadır ama aynı zamanda bir vikidir.
+											Odaklan ve oradaki karemsi şey bir tiyatro — şu an bulunduğumuz alan —
+											Terrace Tiyatrosu . Onun bir adı yoktu.
+											Düzenle moduna girebilirim, tiyatroyu seçebilirim,
+											altına isim ekleyebilirim ve ardından kaydedebilirim.
+											ve şimdi OpenStreetMap.org sitesine giderseniz
+											ve bu mekanı bulursanız, Terrace Tiyatrosunun artık bir ismi olduğunu göreceksiniz.
+											Ben yaptım. Ben.
+											Haritada yaptım onu, ben yaptım!
+											Onu oraya ekledim. Ve, ne biliyor musunuz?
+											O sokak haritası herkesin üzerine düşen parçayı yapmasından ibaret
+											ve muazzam bir kaynak oluşturur
+											çünkü herkes kendi sokağını ekliyor.
+											Ve işte bağlı veri tamamen bundan ibarettir.
+											İnsanların üzerine düşeni yapması
+											ufak bir katkı sağlaması ve hepsinin bağlanmasıdır.
+											Bağlı veri böyle işler.
+											Siz üzerinize düşeni yaparsanız, diğer herkes kendisinin.
+											Oraya koyacak çok fazla veriye sahip olmayabilirsiniz ama nasıl
+											talep edeceğinizi biliyorsunuz.
+											Ve biz bunu denedik.
+									","
+											Un dernier type de données, et peut-être le plus excitant.
+											Pour venir ici, j'ai utilisé OpenStreetMap.
+											OpenStreetMap est une carte mais aussi un wiki.
+											Zoomez, ce truc carré est un théatre, où nous nous trouvons actuellement,
+											le théatre Terrace. Il n'y avait pas de nom dessus.
+											Alors je suis allé dans le mode édition, j'ai sélectionné le théatre,
+											j'ai pu rajouter en bas le nom, puis sauvegarder,
+											et maintenant si vous allez sur openstreetmap.org,
+											retrouvez cet endroit, vous verrez que le théatre Terrace a maintenant un nom.
+											J'ai fait ça. Moi !
+											J'ai fait ça sur la carte. Je viens de faire ça.
+											Et vous savez quoi.
+											Street Map n'est constitué que de personnes ayant rajouté leur petite touche.
+											Et cela crée une ressource incroyable
+											car chacun apporte sa ressource.
+											""Linked Data"" c'est exactement ça.
+											Ce sont des gens qui produisent peu,
+											mais dont le peu est connecté avec tout le reste.
+											Voilà comment le ""Linked Data"" fonctionne.
+											Vous faites votre part, et tout les autres aussi.
+											Vous n'avez peut-être pas beaucoup de données vous-même,
+											mais vous pouvez en demander.
+											On vient de s'y entrainer.
+									","
+											Ich möchte noch über eine letzte Art von Daten sprechen, möglicherweise die interessanteste.
+											Bevor ich hierher kam, habe ich einen Blick auf OpenStreetMap geworfen.
+											OpenStreetMap ist eine Karte, aber es ist auch ein Wiki.
+											Zoomen Sie es heran und dieses Rechteck ist ein Theater, in dem wir uns jetzt befinden.
+											Das Terrace Theater. Es hatte auf der Karte noch keinen Namen.
+											Also konnte ich in den Bearbeiten-Modus gehen, es auswählen,
+											unten den Namen hinzufügen und das Ganze speichern.
+											Und wenn Sie jetzt auf OpenStreetMap.org
+											zurück zu diesem Platz gehen, werden Sie sehen, dass das Terrace Theater einen Namen hat.
+											Ich habe das gemacht. Ich!
+											Ich habe das auf die Karte gemacht. Ich habe das gerade noch gemacht!
+											Ich habe das dorthin gesetzt. Und wissen Sie was?
+											Bei diesem Straßenplan geht es darum, dass jeder seinen Teil dazu beiträgt
+											und so wird es zu einer wunderbaren Quelle,
+											da jeder seinen Teil bearbeitet.
+											Und darum geht es bei verknüpften Daten.
+											Es geht um Leute, die ihren Teil dazu beitragen,
+											um ein bisschen zu erstellen, so dass alles miteinander verbunden wird.
+											So funktionieren verknüpfte Daten.
+											Sie leisten Ihren Teil. Die anderen leisten ihren eigenen.
+											Sie haben vielleicht nicht viele Daten, die Sie dort einstellen könnten,
+											aber Sie wissen, sie einzufordern.
+											Und wir haben das geübt.
+									",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+","
+","
+","
+","
+",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+											So, linked data — it's huge.
+											I've only told you a very small number of things
+											There are data in every aspect of our lives,
+											every aspect of work and pleasure,
+											and it's not just about the number of places where data comes,
+											it's about connecting it together.
+											And when you connect data together, you get power
+											in a way that doesn't happen just with the web, with documents.
+											You get this really huge power out of it.
+											So, we're at the stage now
+											where we have to do this — the people who think it's a great idea.
+											And all the people — and I think there's a lot of people at TED who do things because —
+											even though there's not an immediate return on the investment
+											because it will only really pay off when everybody else has done it —
+											they'll do it because they're the sort of person who just does things
+											which would be good if everybody else did them.
+											OK, so it's called linked data.
+											I want you to make it.
+											I want you to demand it.
+											And I think it's an idea worth spreading.
+									","
+											Entonces, los datos enlazados, es algo enorme.
+											Sólo les conté muy pocas cosas.
+											Hay información en cada aspecto de nuestras vidas,
+											cada aspecto del trabajo y del placer,
+											y no es sólo la cantidad de fuentes de datos,
+											sino que están todas conectadas.
+											Y cuando conectas datos, tienes poder
+											en una forma que no ocurre con la web, con los documentos.
+											Obtienes este enorme poder.
+											Entonces, estamos en el momento
+											en que tenemos que hacer esto, la gente que piensa que es una gran idea.
+											Y todos, creo que hay mucha gente en TED que hace cosas porque,
+											aunque no haya un retorno inmediato de la inversión
+											porque solo veremos los frutos cuando todo el mundo lo haga,
+											lo harán porque son el tipo de personas que hacen cosas
+											que serán buenas si todo el mundo las hace.
+											Bien, entonces los llamamos datos enlazados.
+											Quiero que lo hagan.
+											Quiero que lo exijan.
+											Y creo que es una idea que merece ser difundida.
+									","
+											Yani, bağlı veri — muazzamdır.
+											Ben size sadece birkaç ufak kısmını anlattım.
+											Hayatımızın her anında veri var,
+											çalışma ve keyfin her yönünde,
+											ve bu sadece verinin geldiği yerlerin sayısından ibaret değildir,
+											onları bağlamak da önemlidir.
+											Ve veriyi bağladığınızda, sadece internet ve
+											dokümanlardan ibaret olmayan bir güç elde edersiniz.
+											Ondan çıkan bu muazzam güce kavuşursunuz.
+											Şimdi bunun harika bir fikir
+											olduğunu düşünen insanlar olarak bunu yapmamız gereken bir noktadayız.
+											Ve tüm insanlar — ve eminim TED'de hemen bir geri dönüş alınmazsa bile —
+											bu çalışmaya katkı sağlayacak insanlar var,
+											çünkü esas fayda herkes bunu yapmaya başladığında ortaya çıkacaktır
+											onlar bunu yapacaktır çünkü onlar başkaları da yaptığında
+											güzel olan işleri yapmakta öncüdürler.
+											İşte buna bağlı veri diyoruz.
+											Yapmanızı istiyorum.
+											Talep etmenizi istiyorum.
+											Ve bence bu yaymaya değer bir fikir.
+									","
+											Voilà. ""Linked Data"" est énorme.
+											Je viens de vous en expliquer une petite partie.
+											Il y a des données dans tout les aspects de nos vies,
+											dans tout les aspects du travail et des loisirs.
+											Et l'important n'est pas uniquement le nombre de sources des données,
+											c'est de pouvoir toutes les relier.
+											Et quand vous connectez les données,
+											vous obtenez une puissance qui n'existe pas avec le web des documents.
+											Vous en obtenez un pouvoir énorme.
+											Nous arrivons à une étape
+											où tous ceux qui pensent que c'est une bonne idée doivent agir.
+											Et il y a beaucoup de personnes à TED qui font des choses
+											même s'il n'y a pas un retour immédiat sur investissement,
+											car cela payera uniquement lorsque beaucoup de personnes l'auront fait.
+											Ils le feront car c'est le genre de personnes qui font des choses
+											qu'ils seraient bon que tout le monde fasse.
+											Cela s'appelle ""Linked Data"".
+											Je veux que vous le fassiez,
+											je veux que vous le demandiez,
+											et je pense que cette idée mérite d'être partagée.
+									","
+											Also, verknüpfte Daten — sie sind riesig.
+											Ich habe Ihnen nur einen sehr kleinen Teil erzählt.
+											Es gibt Daten zu jedem Aspekt in unserem Leben.
+											Jeder Aspekt hinsichtlich Arbeit und Vergnügen.
+											Und es geht nicht nur um die Anzahl an Orten, von denen Daten stammen.
+											Es geht darum, diese miteinander zu verbinden.
+											Und wenn man Daten miteinander verbindet, profitiert man davon
+											in einer Weise wie es mit dem Web bzw. Dokumenten alleine nicht möglich wäre.
+											Sie können diese wirklich riesige Leistungsfähigkeit herausholen.
+											Wir befinden uns zurzeit in einem Stadium,
+											in dem wir das tun müssen — die Menschen, die daran glauben, dass es eine großartige Idee ist.
+											Und ich glaube, dass es viele Mensch bei TED gibt, die Dinge tun,
+											obwohl es keine unmittelbare Rendite gibt,
+											da es sich nur dann auszahlen wird, wenn jeder sich beteiligt hat.
+											Sie werden es tun, da sie Menschen sind, die einfach Dinge tun,
+											die jeder besser tun sollte.
+											OK, es heißt verknüpfte Daten.
+											Ich möchte, dass Sie sie erstellen.
+											Ich möchte, dass Sie sie einfordern.
+											Und ich glaube, dass diese Idee es wert ist, verbreitet zu werden.
+									",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+","
+","
+","
+","
+",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+											Thanks.
+									","
+											Gracias.
+									","
+											Teşekkürler.
+									","
+											Merci.
+									","
+											Dankeschön.
+									",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+","
+","
+","
+","
+",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+											(Applause)
+									","
+											(Aplausos)
+									","
+											(Alkış)
+									","
+											(Applaudissements)
+									","
+											(Applaus)
+									",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"
+"
+","
+","
+","
+","
+",The next web,Tim Berners-Lee,16:23,"business,communication,design,invention,technology,web"

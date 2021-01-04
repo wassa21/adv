@@ -1,0 +1,1642 @@
+en,pt,tr,fr,de,title,speaker,duration,tags
+"
+","
+","
+","
+","
+",How to build an information time machine,Frederic Kaplan,10:20,"TEDx,computers,history,library,map,technology,books"
+"
+											This is an image of the planet Earth.
+											It looks very much like the Apollo pictures
+											that are very well known.
+											There is something different;
+											you can click on it,
+											and if you click on it,
+											you can zoom in on almost any place on the Earth.
+											For instance, this is a bird's-eye view
+											of the EPFL campus.
+											In many cases, you can also see
+											how a building looks from a nearby street.
+											This is pretty amazing.
+											But there's something missing in this wonderful tour:
+											It's time.
+											i'm not really sure when this picture was taken.
+											I'm not even sure it was taken
+											at the same moment as the bird's-eye view.
+											In my lab, we develop tools
+											to travel not only in space
+											but also through time.
+											The kind of question we're asking is
+											Is it possible to build something
+											like Google Maps of the past?
+											Can I add a slider on top of Google Maps
+											and just change the year,
+											seeing how it was 100 years before,
+											1,000 years before?
+											Is that possible?
+											Can I reconstruct social networks of the past?
+											Can I make a Facebook of the Middle Ages?
+											So, can I build time machines?
+											Maybe we can just say, ""No, it's not possible.""
+											Or, maybe, we can think of it from an information point of view.
+											This is what I call the information mushroom.
+											Vertically, you have the time.
+											and horizontally, the amount of digital information available.
+											Obviously, in the last 10 years, we have much information.
+											And obviously the more we go in the past, the less information we have.
+											If we want to build something like Google Maps of the past,
+											or Facebook of the past,
+											we need to enlarge this space,
+											we need to make that like a rectangle.
+											How do we do that?
+											One way is digitization.
+											There's a lot of material available —
+											newspaper, printed books, thousands of printed books.
+											I can digitize all these.
+											I can extract information from these.
+											Of course, the more you go in the past,
+the less information you will have.
+											So, it might not be enough.
+											So, I can do what historians do.
+											I can extrapolate.
+											This is what we call, in computer science, simulation.
+											If I take a log book,
+											I can consider, it's not just a log book
+											of a Venetian captain going to a particular journey.
+											I can consider it is actually a log book
+											which is representative of
+many journeys of that period.
+											I'm extrapolating.
+											If I have a painting of a facade,
+											I can consider it's not just that particular building,
+											but probably it also shares the same grammar
+											of buildings where we lost any information.
+									","
+											Esta é uma imagem do planeta Terra.
+											É muito semelhante às fotografias da Apollo,
+											que são muito conhecidas.
+											Há algo diferente;
+											podemos clicar na fotografia,
+											e se clicarmos nela
+											podemos ampliar, praticamente, 
+qualquer lugar na Terra.
+											Por exemplo, isto é uma visão aérea panorâmica
+											do campus da EPFL.
+											Na maioria dos casos, também podemos ver
+											como um edifício é visto a partir de 
+uma rua adjacente.
+											Isto é impressionante.
+											Mas há algo que falta nesta visita maravilhosa.
+											O tempo.
+											Eu não tenho a certeza de quando 
+esta fotografia foi tirada.
+											Nem sequer tenho a certeza de que foi tirada
+											na mesma altura em que a fotografia aérea foi tirada.
+											No meu laboratório desenvolvemos ferramentas
+											para viajar, não só no espaço,
+											mas também no tempo.
+											O tipo de perguntas que estamos a formular é:
+											""É possível construir algo
+											""como um Google Maps do passado?""
+											""Conseguirei eu adicionar um diapositivo 
+ao Google Maps
+											""e ajustar o ano
+											""e ver como como era 100 anos antes,
+											""1000 anos antes?""
+											""Isso é possível?""
+											""Conseguirei eu reconstruir redes sociais 
+do passado?""
+											""Conseguirei eu criar um Facebook da Idade Média?""
+											""Conseguirei eu construir máquinas do Tempo?""
+											Talvez possamos simplesmente dizer:
+""Não, não é possível.""
+											Ou talvez possamos pensar nisso 
+sob uma perspectiva de informação.
+											Isto é o que eu chamo de cogumelo da informação.
+											Na vertical, tem o tempo.
+											Na horizontal, a quantidade de informação 
+digital disponível.
+											Obviamente, nos últimos 10 anos 
+temos muita informação disponível.
+											E obviamente, quanto mais regredimos 
+no passado, menos informação temos.
+											Se queremos construir algo como 
+o Gogle Maps do passado,
+											ou o Facebook do passado,
+											precisamos de alargar este espaço,
+											precisamos de tornar isto num rectângulo.
+											Como fazemos isso?
+											Uma maneira é através da digitalização.
+											Há montes de material disponível
+											— jornais, livros impressos, 
+milhares de livros impressos.
+											Posso digitalizá-los todos.
+											Posso extrair informação de todos.
+											É claro, quanto mais regredimos no passado, 
+menos informação vamos ter.
+											Mas pode não ser suficiente.
+											Então, posso fazer o que os historiadores fazem.
+											Posso extrapolar.
+											Isto é o que nós chamamos, 
+em ciências de computação, simulação.
+											Se eu pegar num diário de bordo,
+											posso considerar que não é apenas 
+um diário de bordo
+											de um capitão veneziano numa viagem específica.
+											Posso considerar que é, na realidade, 
+um diário de bordo
+											que representa muitas viagens daquele período.
+											Estou a extrapolar.
+											Se eu tenho um quadro de uma fachada,
+											Posso considerar que não é apenas 
+desse edifício em particular,
+											mas que provavelmente partilha 
+da mesma gramática da forma
+											dos edifícios de que perdemos informação.
+									","
+											Bu, Dünyamız'a ait bir görsel
+											Daha çok Apollo uzay mekiklerinden birinden çekilmiş bir görsele benziyor
+											ki hemen herkesçe bilinir.
+											Ancak bir farkla;
+											üzerine tıklayabilirsiniz
+											ve eğer tıklarsanız,
+											Dünya'nın herhangi bir yerine kolaylıkla zoom yapabilir, yakınlaştırabilirsiniz.
+											Örneğin, bu bir kuş bakışı görüntü
+											EPFL Kampüsüne ait.
+											Birçok açıdan,
+											bir binanın hemen yanındaki caddeden bakıldığında nasıl göründüğüne bakabilirsiniz.
+											Bu oldukça şaşırtıcı.
+											Fakat bu muhteşem gezintide bir şey kayıp;
+											O da ""zaman"".
+											Bu fotoğrafın ne zaman çekildiğinden gerçekten emin olamıyorum.
+											Hatta bu fotoğrafın kuş bakışı görselle
+											aynı zamanda çekildiğinden bile emin olamıyorum.
+											Laboratuvarımda, öyle araçlar geliştiriyoruz ki
+											sadece mekanda gezinmeyi değil
+											zaman boyunca da gezinmeyi mümkün kılıyoruz.
+											Sormakta olduğumuz soru şu:
+											""Geçmişin Google Maps'ini
+											inşa etmek mümkün müdür?""
+											Google Maps üzerine bir kaydırma butonu ekleyebilir miyim
+											ve sadece yılı değiştirerek
+											100 yıl öncesinde nasıl olduğunu görebilir miyim
+											ya da 1000 yıl önce?
+											Bu mümkün mü?
+											Geçmişin sosyal ağlarını yeniden inşa edebilir miyim?
+											Orta Çağların Facebook'unu oluşturabilir miyim?
+											Öyleyse, bir zaman makinesi inşa edebilir miyim?
+											Belki kolayca ""Hayır, bu mümkün değil"" diyebiliriz.
+											Ya da, belki, bunu bilgi boyutunda düşünebiliriz.
+											Bu benim ""bilgi mantarı"" olarak adlandırdığım şey.
+											Dikey eksende zamana sahipsiniz
+											ve yatay eksende de, mümkün olan dijital bilgi miktarına.
+											Açıkça görülüyor ki, geçen 10 yılda, çok daha fazla bilgiye sahip olduk.
+											Ve belli ki ne kadar geçmişe gidersek, daha az bilgiye sahip olağız.
+											Geçmişe dair bir Google Maps inşa etmek istersek,
+											yada geçmişe dair Facebook,
+											bu alanı büyütme ihtiyacı duyacağız,
+											bunu bir dikdörtgene dönüştürmeye ihtiyacımız var.
+											Bunu nasıl yaparız?
+											Bir yolu dijitalleştirme.
+											Kullanabileceğimiz pek çok malzeme var—
+											gazeteler, basılı kitaplar, binlerce basılı kitap.
+											Tüm bunları dijital hale getirebilirim.
+											Hepsinden bilgi aktarabilirim.
+											Tabii ki, geçmişe ne kadar giderseniz, o kadar az bilgiye ulaşacaksınız.
+											Öyleyse, bu yeteri olmayabilir.
+											Bu yüzden, tarihçilerin yaptığını yapabilirim.
+											Tahminleyebilirim.
+											Biz bunu, bilgisayar bilimlerinde ""simulasyon"" olarak adlandırıyoruz.
+											Bir seyir defterini alırsam,
+											onun sadece bir seyir defteri değil
+											Venedikli bir kaptanın ayrıntılı ve özel bir yolculuğuna dair olduğunu düşünebilirim.
+											O kitabın aslında
+											ait olduğu dönemdeki pek çok yolculuğa dair bir temsilci olduğunu da düşünebilirim.
+											Tahminliyorum.
+											Eğer bir binanın yan yüzüne dair bir görsele sahipsem,
+											Kolayca tahmin ederim ki bu sadece o binaya özgü bir görüntüyü değil,
+											fakat muhtemelen hakkında herhangi bir bilgiye sahip olmadığımız
+											pek çok diğer binaya ait bilgiyi de içerebilir.
+									","
+											Voici une image de la planète Terre.
+											Elle ressemble beaucoup 
+aux images d'Apollo,
+											très célèbres.
+											Il y a une différence :
+											on peut cliquer sur cette image,
+											et si on le fait,
+											on peut zoomer sur quasiment 
+n'importe quel endroit du globe.
+											Par exemple, cette vue du ciel
+											du campus de l'EPFL.
+											Souvent, on peut voir également
+											à quoi ressemble un bâtiment 
+vu d'une rue à proximité.
+											C'est incroyable.
+											Mais il manque quelque chose 
+à cette belle visite :
+											le temps.
+											Je ne sais pas trop quand 
+cette photo a été prise.
+											Je ne suis même pas sûr 
+si elle a été prise
+											en même temps 
+que la vue du ciel.
+											Dans mon laboratoire, 
+nous développons des outils
+											pour voyager non seulement dans l'espace
+											mais aussi dans le temps.
+											La question que l'on se pose est
+											s'il est possible de construire 
+quelque chose
+											comme un Google Maps du passé ?
+											Peut-on ajouter un curseur 
+en haut de Google Maps
+											et changer l'année,
+											pour voir comment c'était 
+il y a 100 ans,
+											ou il y a 1000 ans ?
+											Est-ce que c'est possible ?
+											Peut-on reconstruire 
+des réseaux sociaux du passé ?
+											Peut-on créer un Facebook 
+du Moyen Age ?
+											En fait, peut-on créer 
+des machines à remonter le temps ?
+											On peut répondre simplement : 
+« Non, c'est impossible. »
+											Ou alors, on peut y réfléchir 
+du point de vue de l'information.
+											C'est ce que j'appelle 
+le champignon de l'information.
+											Verticalement, voici le temps,
+											et horizontalement, le nombre 
+d'informations numériques disponibles.
+											Evidemment, dans les 10 dernières années, 
+il y a beaucoup d'informations.
+											Et bien sûr, plus nous retournons vers le passé, 
+moins il y a d'informations.
+											Si nous voulons construire quelque chose 
+comme Google Maps du passé,
+											ou Facebook du passé,
+											il faut élargir cet espace,
+											il faut le faire comme un rectangle.
+											Comment s'y prend-on ?
+											Une façon, c'est la numérisation.
+											Il y a beaucoup de matériel disponible,
+											des journaux, des livres imprimés, 
+des milliers de livres imprimés.
+											Je peux tous les numériser.
+											Je peux en extraire les informations.
+											Bien sûr, plus on retourne dans le passé, 
+moins il y a d'informations.
+											Ce n'est peut-être pas suffisant.
+											Je peux alors faire ce que font 
+les historiens.
+											Je peux extrapoler.
+											C'est ce qu'on appelle, en informatique, 
+la simulation.
+											Si je prends un journal de bord,
+											je peux estimer que ce n'est pas 
+qu'un journal de bord
+											d'un capitaine vénitien 
+partant vers un voyage précis.
+											Je peux estimer que c'est un journal de bord
+											représentatif d'un grand nombre 
+de voyages de cette époque.
+											J'extrapole.
+											Si j'ai la peinture d'une façade,
+											je peux envisager que ce n'est pas 
+que ce bâtiment en particulier,
+											mais qu'il partage probablement 
+la même grammaire
+											que d'autres bâtiments 
+dont les informations ont été perdues.
+									","
+											Das ist ein Bild des Planeten Erde.
+											Es sieht so ähnlich aus
+											wie die bekannten Apollo-Bilder.
+											Etwas ist allerdings anders:
+											Man kann es anklicken,
+											und wenn man es anklickt,
+											kann man zu fast jedem Ort 
+auf der Erde zoomen.
+											Dies ist z. B. eine Vogelperspektive
+											auf den EPFL-Campus.
+											In vielen Fällen kann man auch sehen,
+											wie ein Gebäude von einer 
+nahegelegenen Straße aus aussieht.
+											Das ist ziemlich beeindruckend.
+											Aber eins fehlt 
+in dieser wunderbaren Reise:
+											Zeit.
+											Ich weiß nicht so genau,
+wann dieses Bild gemacht wurde.
+											Ich weiß noch nicht mal,
+											ob es im selben Moment 
+wie die Vogelperspektive gemacht wurde.
+											In meinem Labor entwickeln wir Werkzeuge,
+											mit denen wir nicht nur durch den Raum,
+											sondern auch durch die Zeit reisen können.
+											Wir stellen solche Fragen:
+											Ist es möglich, etwas wie
+											ein Google Maps 
+der Vergangenheit zu bauen?
+											Kann ich einen Schieberegler 
+über Google Maps legen
+											und einfach das Jahr ändern,
+											und sehen, wie es vor 100 Jahren
+											oder vor 1000 Jahren aussah?
+											Ist das möglich?
+											Kann ich soziale Netzwerke
+der Vergangenheit rekonstruieren?
+											Kann ich ein Facebook 
+des Mittelalters erstellen?
+											Also, kann ich Zeitmaschinen bauen?
+											Vielleicht antworten wir einfach: 
+""Nein, das ist unmöglich.""
+											Oder wir könnten darüber aus 
+einer Informationsperspektive nachdenken.
+											Ich nenne das hier den ""Informationspilz"".
+											Vertikal ist die Zeit abgetragen
+											und horizontal die verfügbare Menge 
+digitaler Information.
+											Für die letzten 10 Jahre haben wir 
+natürlich sehr viele Informationen.
+											Und klar, ke weiter wir zurückgehen, 
+desto weniger Informationen haben wir.
+											Wenn wir etwas wie 
+ein Google Maps oder Facebook
+											der Vergangenheit schaffen wollen,
+											müssen wir diesen Raum vergrößern.
+											Wir müssen ihn 
+zu einem Rechteck machen.
+											Wie machen wir das?
+											Eine Methode ist Digitalisierung.
+											Es gibt Unmengen an Material —
+											Zeitungen, gedruckte Bücher, 
+Tausende von gedruckten Büchern.
+											All diese kann ich digitalisieren.
+											Ich kann Informationen aus ihnen ziehen.
+											Je weiter man in die Vergangenheit geht,
+											desto weniger Informationen 
+gibt es natürlich.
+											Es könnte also zu wenig sein.
+											Dann kann ich das tun, 
+was Historiker tun.
+											Ich kann Dinge ableiten.
+											In der Informatik 
+nennen wir das Simulation.
+											Wenn ich ein Logbuch nehme,
+											kann ich annehmen, 
+dass es nicht nur das Logbuch
+											eines venezianischen Kapitäns 
+auf einer bestimmten Reise ist.
+											Ich kann annehmen, 
+dass dieses Logbuch
+											tatsächlich viele Reisen 
+dieser Zeit repräsentiert.
+											Ich leite ab.
+											Wenn ich das Gemälde einer Fassade habe,
+											kann ich annehmen, dass es nicht nur 
+dieses bestimmte Gebäude ist
+											sondern die Hauptaspekte 
+von anderen Gebäuden teilt,
+											von denen wir alle Informationen 
+verloren haben.
+									",How to build an information time machine,Frederic Kaplan,10:20,"TEDx,computers,history,library,map,technology,books"
+"
+","
+","
+","
+","
+",How to build an information time machine,Frederic Kaplan,10:20,"TEDx,computers,history,library,map,technology,books"
+"
+											So if we want to construct a time machine,
+											we need two things.
+											We need very large archives,
+											and we need excellent specialists.
+											The Venice Time Machine,
+											the project I'm going to talk to you about,
+											is a joint project between the EPFL
+											and the University of Venice Ca'Foscari.
+									","
+											Por isso, se queremos construir 
+uma máquina do tempo,
+											precisamos de duas coisas.
+											Precisamos de arquivos enormes
+											e precisamos de especialistas excelentes.
+											A Máquina do Tempo de Veneza,
+											o projecto sobre o qual vos vou falar,
+											é um projecto em parceria entre a EPFL
+											e a Universidade de Veneza Ca'Foscari
+									","
+											Öyleyse bir zaman makinesi inşa etmek istediğimizde,
+											iki şeye ihtiyacımız var demektir.
+											Çok kapsamlı arşivlere,
+											ve mükemmel uzmanlara.
+											size bahsedecek olduğum proje Venedik'e ait
+											Zaman Makinesine ait,
+											ki bu proje EPFL ve University of Venice Ca'Foscari ortak
+											projesidir.
+									","
+											Si on veut construire 
+une machine à remonter le temps,
+											il faut deux choses.
+											Il faut des archives très grandes,
+											et d'excellents experts.
+											La machine à remonter le temps 
+de Venise,
+											le projet dont je vais vous parler,
+											est un projet commun entre l'EPFL
+											et l'Université de Venise Ca' Foscari.
+									","
+											Für die Konstruktion einer Zeitmaschine
+brauchen wir also zwei Dinge.
+											Wir brauchen sehr große Archive
+											und großartige Spezialisten.
+											Die ""Venice Time Machine"",
+											das Projekt, über das ich spreche,
+											ist ein gemeinsames Projekt der EPFL
+											und der Universität Venedig Ca'Foscari.
+									",How to build an information time machine,Frederic Kaplan,10:20,"TEDx,computers,history,library,map,technology,books"
+"
+","
+","
+","
+","
+",How to build an information time machine,Frederic Kaplan,10:20,"TEDx,computers,history,library,map,technology,books"
+"
+											There's something very peculiar about Venice,
+											that its administration has been
+											very, very bureaucratic.
+											They've been keeping track of everything,
+											almost like Google today.
+											At the Archivio di Stato,
+											you have 80 kilometers of archives
+											documenting every aspect
+											of the life of Venice over
+more than 1,000 years.
+											You have every boat that goes out,
+											every boat that comes in.
+											You have every change that was made in the city.
+											This is all there.
+											We are setting up a 10-year digitization program
+											which has the objective of transforming
+											this immense archive
+											into a giant information system.
+											The type of objective we want to reach
+											is 450 books a day that can be digitized.
+											Of course, when you digitize, that's not enough,
+											because these documents,
+											most of them are in Latin, in Tuscan,
+											in Venetian dialect,
+											so you need to transcribe them,
+											to translate them in some cases,
+											to index them,
+											and this is obviously not easy.
+											In particular, traditional optical
+character recognition method
+											that can be used for printed manuscripts,
+											they do not work well on the handwritten document.
+											So the solution is actually to take inspiration
+											from another domain: speech recognition.
+											This is a domain of something 
+that seems impossible,
+											which can actually be done,
+											simply by putting additional constraints.
+											If you have a very good model
+											of a language which is used,
+											if you have a very good model of a document,
+											how well they are structured.
+											And these are administrative documents.
+											They are well structured in many cases.
+											If you divide this huge archive into smaller subsets
+											where a smaller subset
+actually shares similar features,
+											then there's a chance of success.
+									","
+											Há algo de muito peculiar sobre Veneza
+											é que a sua administração tem sido
+											muito, muito burocrática.
+											Eles têm mantido registos de tudo,
+											quase como o Google hoje em dia.
+											No Arquivo do Estado (Archivio di Stato)
+											há 80 kilómetros de arquivos
+											a documentar todos os aspectos
+											da vida de Veneza por mais de 1000 anos.
+											Está lá cada barco que saiu,
+											cada barco que entrou.
+											Estão lá todas as alterações 
+que foram feitas na cidade.
+											Está tudo lá.
+											Estamos a preparar 
+um plano de digitalização de 10 anos
+											que tem o objectivo de transformar
+											este arquivo imenso
+											num sistema de informação gigante.
+											O tipo de objectivo que queremos alcançar
+											é que sejam digitalizados 450 livros por dia.
+											É claro que quando digitalizamos, 
+isso não é suficiente.
+											porque estes documentos,
+											a maioria deles estão em latim, toscano,
+											num dialecto veneziano
+											e é preciso transcrevê-los,
+											traduzi-los, e em alguns casos,
+											indexá-los
+											e isto, obviamente, não é fácil.
+											Especificamente, o método de 
+reconhecimento óptico de carácteres
+											que pode ser aplicado a manuscritos impressos,
+											não funciona bem com documentos 
+escritos à mão.
+											Por isso, a solução é ir buscar inspiração
+											a outro domínio: reconhecimento de voz.
+											Isto é um domínio de algo que parece impossível,
+											que na realidade pode ser feito
+											simplesmente, acrescentando algumas restrições.
+											Se tiverem um modelo muito bom
+											de uma linguagem que é usada,
+											se tiverem um modelo muito bom 
+de um documento,
+											de quão bem eles estão estruturados.
+											E estes são documentos administrativos.
+											Em muitos casos eles estão bem estruturados.
+											Se dividirmos este arquivo enorme 
+em sub-conjuntos mais pequenos,
+											onde cada sub-conjunto partilha 
+características similares,
+											então temos hipótese de sermos bem sucedidos.
+									","
+											Venedik hakkında çok tuhaf birşey var,
+											o da son derece
+											bürokratik bir yönetimi olması.
+											(Geçmişten bugüne) her şeyin kaydını tutuyorlar,
+											tıpkı bugün Google'ın yaptığı gibi.
+											Atchivio Di Stato'da,
+											80 kilometrelik bir arşivde
+											hemen her konudaki dökümanlarla
+											Venedik'in geşmiş 1000 yılına dair tüm yaşam detaylarını içerir kayıtlara ulaşa bilirsiniz.
+											Venedik'ten ayrılan her teknenin,
+											yada giriş yapan her teknenin.
+											Şehirde yapılan her değişikliği öğrenebilirisiniz.
+											Hepsi oradadır.
+											Bizler 10 yıllık bir dijitale dönülştürme programı kuruyoruz.
+											Amacımız: bu uçsuz bucaksız arşivi
+											devasa bir bilgi sistemine
+											dönüştürebilmek.
+											Ulaşmak istediğimiz hedef
+											günde 450 kitabın sayısallaştırılabilmesi/ digital kitaba dönüştürülebilmesi.
+											Tabi ki sadece dijital hale dönüştürmeniz yeterli değil,
+											çünkü bu dökümanların çoğu
+											Latince, Toskana lehçesinde ve
+											Venedik lehçesinde,
+											öyle ki ,bunları uyarlamaya ihtiyaç duymaktasınız,
+											bazı durumlarda ise çeviri yapmanız,
+											indekslemeniz gerek,
+											ve tüm bunlar tabii ki hiç de kolay deiğl.
+											Kısmen, geleneksel optik karakter tanılama metodu
+											basılı el yazmaları için kullanılabilir,
+											ancak el yazılı metinlerde bu metod iyi sonuçlar vermemekte.
+											Sorunun çözümü farklı bir bilgi alanından esinlenilerek bulundu o da:
+											konuşma tanıma metodu.
+											bu alan imkansızmış gibi gelse de
+											aslında
+											kolayca ek kısıtlamalar eklenerek yapılabilir.
+											Eğer iyi bir modeliniz varsa
+											kullanılan bir dile dair,
+											eğer oldukça iyi bir de döküman örneğine sahipseniz,
+											nasılda iyi yapılandırılabilir.
+											Ve bunlar yönetimsel dökümanlar.
+											Pek çok konuda son derece iyi yapılandırılmışlar.
+											bu devasa arşivi eğer küçük alt gruplara ayırabilirseniz,
+											ve en alt gruplarda da aynı içeriklerin yer almasını sağlarsanız,
+											başarı için bir şansınız olacaktır.
+									","
+											Il y a quelque chose 
+de très particulier au sujet de Venise,
+											c'est que son administration est
+											très, très bureaucratique.
+											Ils ont gardé trace de tout,
+											presque comme Google aujourd'hui.
+											Aux Archives d'Etat,
+											il y a 80 kilomètres d'archives
+											retraçant chaque aspect
+											de la vie de Venise 
+sur plus de 1000 ans.
+											Il y a chaque bateau qui part,
+											chaque bateau qui arrive.
+											Il y a chaque changement 
+fait dans la ville.
+											Tout est là dedans.
+											Nous sommes en train de créer un programme 
+de numérisation de 10 ans
+											qui a pour objectif de transformer
+											ces énormes archives
+											en un système gigantesque d'information.
+											Nous avons pour type d'objectif
+											de pouvoir numériser 450 livres par jour.
+											Bien sûr, quand on numérise, 
+ce n'est pas suffisant,
+											car ces documents,
+											la plupart d'entre eux sont en latin, 
+en toscan,
+											en dialecte vénitien,
+											il faut donc les transcrire,
+											les traduire dans certains cas,
+											les indexer,
+											et évidemment, ce n'est pas simple.
+											La méthode de reconnaissance de caractère 
+optique traditionnelle, notamment,
+											qu'on peut utiliser 
+pour des manuscrits imprimés,
+											ne fonctionne pas bien 
+sur des documents écrits à la main.
+											La solution en fait, c'est de s'inspirer
+											d'un autre domaine : la reconnaissance vocale.
+											C'est un domaine d'une chose 
+qui semble impossible
+											mais qui peut être réalisée
+											en ajoutant simplement 
+des contraintes supplémentaires.
+											Si on a un très bon modèle
+											d'un langage utilisé,
+											si on a un très bon modèle d'un document,
+											bien structuré.
+											Ce sont des documents administratifs.
+											Ils sont bien structurés
+la plupart du temps.
+											Si on divise ces immenses archives 
+en de petits sous-ensembles,
+											où un petit sous-ensemble 
+partage des aspects similaires,
+											alors il y a un chance de réussite.
+									","
+											Etwas sehr Besonderes an Venedig ist,
+											dass die Administration schon immer
+											sehr, sehr bürokratisch gewesen ist.
+											Sie haben alles festgehalten,
+											fast wie Google heute.
+											Im Archivio di Stato
+gibt es 80 Kilometer Archive,
+											die jeden Aspekt des Lebens in Venedig
+											über mehr als 1000 Jahre dokumentieren.
+											Jedes Boot, das ablegt und ankommt, 
+ist da verzeichnet.
+											Man findet jede Veränderung, 
+die in der Stadt gemacht wurde.
+											Es ist alles da.
+											Wir bauen gerade ein 10-jähriges 
+Digitalisierungsprogramm auf,
+											welches dieses immense Archiv
+											in ein gigantisches 
+Informationssystem verwandeln soll.
+											Eines unserer Ziele ist es,
+											450 Bücher am Tag 
+digitalisieren zu können.
+											Digitalisieren reicht natürlich nicht aus,
+											weil die meisten Dokumente in Latein,
+											Toskanisch, 
+oder venezianischem Dialekt sind.
+											Sie müssen transkribiert werden,
+											in manchen Fällen übersetzt,
+sie müssen indiziert werden.
+											Das ist natürlich nicht einfach,
+											besonders, weil traditionelle 
+Schrifterfassungsmethoden
+											für gedruckte Manuskripte
+											nicht gut für Handschriften funktionieren.
+											Die Lösung ist, Inspiration
+											in einem anderen Feld 
+zu suchen: Spracherkennung.
+											Dies ist ein scheinbar 
+unmögliches Gebiet,
+											das tatsächlich funktioniert,
+											wenn man zusätzliche 
+Bedingungen hinzufügt.
+											Hat man von der genutzten Sprache
+ein sehr gutes Modell,
+											ein sehr gutes Modell 
+von einem Dokument —
+											wie gut sie strukturiert sind.
+											Dies sind Verwaltungsdokumente.
+											Sie sind in vielen Fällen gut strukturiert.
+											Wenn man dieses riesige Archiv 
+in kleinere Untergruppen aufteilt,
+											in denen kleinere Untergruppen 
+ähnliche Merkmale teilen,
+											dann ist Erfolg möglich.
+									",How to build an information time machine,Frederic Kaplan,10:20,"TEDx,computers,history,library,map,technology,books"
+"
+","
+","
+","
+","
+",How to build an information time machine,Frederic Kaplan,10:20,"TEDx,computers,history,library,map,technology,books"
+"
+											If we reach that stage, then there's something else:
+											we can extract from this document events.
+											Actually probably 10 billion events
+											can be extracted from this archive.
+											And this giant information system
+											can be searched in many ways.
+											You can ask questions like,
+											""Who lived in this palazzo in 1323?""
+											""How much cost a sea bream at the Realto market
+											in 1434?""
+											""What was the salary
+											of a glass maker in Murano
+											maybe over a decade?""
+											You can ask even bigger questions
+											because it will be semantically coded.
+											And then what you can do is put that in space,
+											because much of this information is spatial.
+											And from that, you can do things like
+											reconstructing this extraordinary journey
+											of that city that managed to
+have a sustainable development
+											over a thousand years,
+											managing to have all the time
+											a form of equilibrium with its environment.
+											You can reconstruct that journey,
+											visualize it in many different ways.
+											But of course, you cannot understand 
+Venice if you just look at the city.
+											You have to put it in a larger European context.
+											So the idea is also to document all the things
+											that worked at the European level.
+											We can reconstruct also the journey
+											of the Venetian maritime empire,
+											how it progressively controlled the Adriatic Sea,
+											how it became the most powerful medieval empire
+											of its time,
+											controlling most of the sea routes
+											from the east to the south.
+									","
+											Se alcançarmos esse estado, 
+depois, há mais outra coisa:
+											Conseguimos extrair eventos destes documentos.
+											Provavelmente, 10 biliões de eventos
+											podem ser extraídos deste arquivo.
+											E este sistema de informação gigante
+											pode ser pesquisado de muitas formas
+											Se fizermos uma pergunta como:
+											""Quem viveu neste palazzo em 1323?""
+											""Quanto custava um pargo no mercado Realto
+											""em 1434?""
+											""Qual era o salário
+											""de um vidreiro em Murano
+											""ao longo de uma década?""
+											Podemos fazer perguntas ainda maiores
+											porque está codificado semanticamente.
+											E depois, o que podemos fazer é 
+colocar isso em termos de espaço,
+											porque muita desta informação é espacial.
+											E, a partir daí, podemos fazer coisas como
+											reconstruir a viagem extraordinária
+											desta cidade que conseguiu ter 
+um desenvolvimento sustentável
+											ao longo de mil anos,
+											conseguindo sempre
+											um equilíbrio com o seu meio ambiente.
+											Podemos reconstruir essa viagem,
+											visualizá-la de muitas formas diferentes.
+											Mas claro, não conseguimos compreender 
+Veneza só por olharmos para a cidade.
+											Temos que a colocar 
+num contexto europeu mais amplo.
+											Por isso, a ideia é também documentar 
+todas as coisas
+											que funcionavam a um nível europeu.
+											Também conseguimos reconstruir a viagem
+											do império marítimo veneziano,
+											como controlou o Mar Adriático progressivamente,
+											como se tornou o império medieval mais poderoso
+											do seu tempo,
+											controlando a maior parte das rotas marítimas
+											de leste até sul.
+									","
+											Eğer o aşamaya gelebilirsek, farklı birşey ile karşılaşırız:
+											bu dökümanlardaki olaylardan bir bilgi özütü elde edebiliriz.
+											Aslında tahminen 10 milyar olay
+											bu arşivlerden çıkarılabilir.
+											Ve bu devasa bilgi sistemi
+											pek çok farklı yolla araştırılabilir konuma gelir.
+											Şöyle sorular sorabilirsiniz,
+											1323'te bu binada kim yaşamıştır?
+											1434 yılında Realto pazarında bir mercan balığı
+											kaçtan satılmaktadır?
+											Neden Murano'lu bir
+											camcının maaşı
+											ortalamanın üzerindeydi?
+											Daha büyük/kapsamlı sorular da sorabilirsiniz
+											çünkü (bu dijital arşiv) semantik/anlamsal olarak kodlanmış olacak.
+											Yapabileğiniz şudur, imleci harita üzerinde bir yere konumlarsınız
+											çünkü bu bilgilerin çoğu üçboyutlu.
+											Ve oradan,
+											binlerce yıldır sürdürülebilir bir kalkınma yaşamayı,
+											çevresiyle her daim bir denge
+											içerisinde olmayı başarmış
+											bu şehrin, bu sıradışı yolculuğunu
+											yeniden yaratabilirsiniz.
+											Bu seyahati
+											pek çok farklı biçimde gözünüzde canlandırmanız mümkün.
+											Fakat Venedik'i sadece kente bakarak anlayamazsınız.
+											Onu daha geniş bir Avrupa konsepti ile ele almanız gerekir.
+											Bu noktada düşüncemiz, olan her şeyi
+											Avrupa boyutunda kayda almak.
+											Bu yolculuğu aynı zamanda
+											Venedik deniz imparatorluğunun
+											nasıl zamanla Adriyatik denizini kontrol ettiğine
+											Venedik'in ortaçağ'ın güçlü bir imparatorluğuna nasıl dönüştüğüne
+											o zamanlarda
+											deniz yollarını
+											doğudan güneye nasıl kontrol ettiğine odaklamamız da mümkün.
+									","
+											Si cette étape est atteinte, 
+alors il y a autre chose :
+											on peut extraire des événements 
+de ces documents.
+											En fait, probablement 
+10 milliards d'événements
+											peuvent être extraits 
+de ces archives.
+											Et ce système d'information 
+gigantesque
+											peut être observé de 
+nombreuses manières.
+											On peut poser des questions comme :
+											« Qui vivait dans ce palais en 1323 ? »
+											« Combien coûte une dorade au marché de Realto
+											en 1434 ? »
+											« Quel était le salaire
+											d'un verrier à Murano
+											sur, disons, une décennie ? »
+											On peut même poser 
+des questions plus longues
+											car elles seront codées 
+sémantiquement.
+											Ce qu'on peut ensuite faire, 
+c'est de mettre tout cela dans l'espace,
+											car beaucoup d'informations 
+sont spatiales.
+											A partir de là, on peut faire des choses comme
+											reconstruire ce voyage extraordinaire
+											de cette ville qui a réussi à avoir 
+un développement durable
+											sur un millier d'années,
+											parvenant ainsi à avoir tout le temps
+											une forme d'équilibre avec son environnement.
+											On peut reconstruire ce voyage,
+											le visualiser de nombreuses 
+et différentes manières.
+											Mais bien évidemment, on ne peut pas comprendre
+Venise seulement en la regardant.
+											Il faut la placer dans un contexte 
+européen plus vaste.
+											L'idée, c'est aussi de documenter 
+toutes les choses
+											qui ont fonctionné au niveau européen.
+											On peut aussi reconstruire le voyage
+											de l'empire maritime vénitien,
+											comment il a conquis progressivement 
+la Mer Adriatique,
+											comment il est devenu l'empire 
+médiéval le plus puissant
+											de son époque,
+											en prenant le contrôle de la plupart 
+des routes maritimes
+											de l'est au sud.
+									","
+											Haben wir diesen Punkt erreicht, 
+gibt es noch etwas:
+											Wir können aus diesen Dokumenten 
+Ereignisse ableiten.
+											Wahrscheinlich können 
+ca. 10 Milliarden Ereignisse
+											aus diesem Archiv abgeleitet werden.
+											Dieses gigantische Informationssystem
+											kann auf viele Arten durchsucht werden.
+											Man kann Fragen stellen wie:
+											""Wer wohnte 1323 in diesem Palazzo?""
+											""Wie viel kostete 1434 eine Seebrasse
+											auf dem Rialto-Markt?""
+											""Wie hoch war das Gehalt
+											eines Glasbläsers aus Murano
+											in einem Jahrzehnt?""
+											Auch größere Fragen sind möglich,
+											weil sie semantisch kodiert werden.
+											Man kann das dann im Raum anordnen,
+											denn viele der Informationen sind räumlich.
+											Und davon ausgehend, kann man
+											die außergewöhnliche Reise
+											dieser Stadt rekonstruieren, 
+die es über 1000 Jahre geschafft hat,
+											eine nachhaltige Entwicklung zu haben,
+											und die ganze Zeit über
+											in einem Gleichgewicht 
+mit ihrer Umwelt zu leben.
+											Man kann die Reise rekonstruieren
+											und auf vielfältige 
+Art und Weise visualisieren.
+											Man kann Venedig nicht verstehen, 
+wenn man nur die Stadt sieht,
+											man muss einen größeren 
+europäischen Kontext sehen.
+											Die Idee ist also, 
+all die Dinge zu dokumentieren,
+											die auf europäischem Niveau abliefen.
+											Wir können auch die Entwicklung
+											des venezianischen Seereiches 
+rekonstruieren,
+											wie die Stadt nach und nach 
+die Adria kontrollierte
+											und wie sie das mächtigste 
+mittelalterliche Reich
+											dieser Zeit wurde,
+											welches die meisten Seerouten
+											von Osten nach Süden kontrollierte.
+									",How to build an information time machine,Frederic Kaplan,10:20,"TEDx,computers,history,library,map,technology,books"
+"
+","
+","
+","
+","
+",How to build an information time machine,Frederic Kaplan,10:20,"TEDx,computers,history,library,map,technology,books"
+"
+											But you can even do other things,
+											because in these maritime routes,
+											there are regular patterns.
+											You can go one step beyond
+											and actually create a simulation system,
+											create a Mediterranean simulator
+											which is capable actually of reconstructing
+											even the information we are missing,
+											which would enable us to have 
+questions you could ask
+											like if you were using a route planner.
+									","
+											Mas podemos fazer ainda outras coisas,
+											porque nestas rotas marítimas,
+											existem padrões regulares.
+											Podemos ir um passo mais além
+											e criar um sistema de simulação,
+											criar um simulador mediterrânico
+											que seja capaz de reconstruir
+											mesmo a informação que nos falta,
+											que nos possibilite fazer perguntas
+											como se estivéssemos a utilizar 
+um planeador de percursos.
+									","
+											Fakat başka şeyler de yapabilirsiniz,
+											çünkü o zamanlarda deniz yolları,
+											belirli güzergahlara sahipti.
+											Bir adım ileri gidebilir
+											ve bir simülasyon sistemi yaratabilirsiniz,
+											mesela sahip olmadığımız bilgileri bile
+											yeniden yaratma yeteneğine sahip
+											bir Akdeniz simülatörü oluşturabilirsiniz.
+											Ki bu simülatör bir rota planlayıcısı kullanırcasına
+											sorularımıza yanıt bulmamızı sağlayabilir.
+									","
+											Mais on peut faire même 
+d'autres choses,
+											car dans ces routes maritimes,
+											il y a des schémas récurrents.
+											On peut aller plus loin
+											et créer un système de simulation,
+											créer un simulateur méditerranéen
+											capable de reconstruire
+											même les informations manquantes,
+											ce qui nous permettrait 
+d'avoir des questions qu'on pourrait poser
+											comme si on utilisait un planificateur routier.
+									","
+											Aber man kann sogar noch mehr machen,
+											denn diese Seerouten
+											folgen geordneten Mustern.
+											Man kann einen Schritt weiter gehen
+											und eine Simulation bauen,
+											eine Simulation des Mittelmeeres,
+											mit der man sogar fehlende Informationen
+											rekonstruieren kann,
+											die uns Fragen erlauben würden,
+											die wir sonst einem Routenplaner stellen.
+									",How to build an information time machine,Frederic Kaplan,10:20,"TEDx,computers,history,library,map,technology,books"
+"
+","
+","
+","
+","
+",How to build an information time machine,Frederic Kaplan,10:20,"TEDx,computers,history,library,map,technology,books"
+"
+											""If I am in Corfu in June 1323
+											and want to go to Constantinople,
+											where can I take a boat?""
+									","
+											""Se eu estou em Corfu em Junho de 1323
+											""e quiser ir para Constantinopla,
+											""onde posso apanhar um barco?""
+									","
+											""Eğer 1323 yılında Cokfu'da olsaydım
+											Ve Constantinople'e gitmek isteseydim
+											tekneye ne zaman binmeliyim?""
+									","
+											« Si je suis à Corfou en juin 1323
+											et que je veux aller à Constantinople,
+											où puis-je prendre un bateau ? »
+									","
+											""Wenn ich im Juni 1323 auf Korfu bin
+											und nach Konstantinopel möchte,
+											wo kann ich ein Boot nehmen?""
+									",How to build an information time machine,Frederic Kaplan,10:20,"TEDx,computers,history,library,map,technology,books"
+"
+","
+","
+","
+","
+",How to build an information time machine,Frederic Kaplan,10:20,"TEDx,computers,history,library,map,technology,books"
+"
+											Probably we can answer this question
+											with one or two or three days' precision.
+									","
+											Provavelmente, podemos responder a esta questão
+											com um ou dois ou três dias de precisão.
+									","
+											Mühtemelen bu soruyu
+											2-3 günlük kesinlikle yanıtlayabilirdik.
+									","
+											On peut probablement répondre 
+à cette question
+											avec une précision d'un, deux, ou trois jours.
+									","
+											Wir können diese Frage
+											vermutlich auf ein, zwei 
+oder drei Tage genau beantworten.
+									",How to build an information time machine,Frederic Kaplan,10:20,"TEDx,computers,history,library,map,technology,books"
+"
+","
+","
+","
+","
+",How to build an information time machine,Frederic Kaplan,10:20,"TEDx,computers,history,library,map,technology,books"
+"
+											""How much will it cost?""
+									","
+											""Quanto custará?""
+									","
+											Bu yolculuk ne kadara mal olacak?
+									","
+											« Combien ça va coûter ? »
+									","
+											""Wie viel kostet das?""
+									",How to build an information time machine,Frederic Kaplan,10:20,"TEDx,computers,history,library,map,technology,books"
+"
+","
+","
+","
+","
+",How to build an information time machine,Frederic Kaplan,10:20,"TEDx,computers,history,library,map,technology,books"
+"
+											""What are the chance of encountering pirates?""
+									","
+											""Quais são as hipóteses de encontrar piratas?""
+									","
+											Korsanlarla karşılaşma ihtimali nedir?
+									","
+											« Quels sont les risques 
+de rencontrer des pirates ? »
+									","
+											""Wie hoch sind die Chancen, 
+auf Piraten zu treffen?""
+									",How to build an information time machine,Frederic Kaplan,10:20,"TEDx,computers,history,library,map,technology,books"
+"
+","
+","
+","
+","
+",How to build an information time machine,Frederic Kaplan,10:20,"TEDx,computers,history,library,map,technology,books"
+"
+											Of course, you understand,
+											the central scientific challenge
+of a project like this one
+											is qualifying, quantifying and representing
+											uncertainty and inconsistency
+at each step of this process.
+											There are errors everywhere,
+											errors in the document, it's
+the wrong name of the captain,
+											some of the boats never actually took to sea.
+											There are errors in translation, interpretative biases,
+											and on top of that, if you add algorithmic processes,
+											you're going to have errors in recognition,
+											errors in extraction,
+											so you have very, very uncertain data.
+									","
+											É claro, compreendemos
+											que o principal desafio científico 
+de um projecto como este
+											é qualificar, quantificar e representar
+											a incerteza e inconsistência 
+a cada passo deste processo.
+											Há erros em todo o lado,
+											erros nos documentos, 
+é o nome errado do capitão,
+											alguns barcos nunca chegaram a zarpar.
+											Há erros na tradução, interpretações parciais,
+											e em cima de tudo isso, se adicionarmos 
+os processos algorítmicos,
+											vamos ter erros no reconhecimento,
+											erros na extracção,
+											por isso temos informação muito, muito incerta.
+									","
+											Tabii ki, anlayabileceğiniz gibi,
+											böylesi bir projede temel bilimsel mücadele,
+											sürecin her aşamasında ortaya çıkan belirsizlik ve tutarsızlıkları
+											ölçmek, değerlendirmek ve göstermektir.
+											Hataları her yerde görmek mümkün,
+											dökümanlarda, kaptanın adı yanlış olabildiği gibi,
+											bazı botlar aslında denize hiç açılmamış.
+											Çevirilerdeki hatalar, açıklamalardaki önyargılar,
+											ve tüm bunların üzerinde, eğer algoritmik bir proses/süreç ekledi iseniz
+											tanımlama da da hatalarını olacaktır,
+											alıntılarda hatalar olacaktır.
+											Yani elinizdeki veride pek çok belirsizlik olacaktır.
+									","
+											Bien sûr, vous comprenez que
+											le défi scientifique central 
+d'un projet comme celui-ci,
+											c'est de qualifier, de quantifier 
+et de représenter
+											l'incertitude et les incohérences 
+à chaque étape du processus.
+											Il y a des erreurs partout,
+											des erreurs dans le document, 
+c'est le nom erroné du capitaine,
+											ou certains bateaux n'ont 
+jamais pris la mer.
+											Il y a des erreurs de traduction, 
+des partis pris dans l'interprétation,
+											et de surcroît, 
+si on ajoute les processus d'algorithme,
+											il y aura des erreurs dans la reconnaissance,
+											des erreurs dans l'extraction,
+											et on obtient donc des données 
+très, très incertaines.
+									","
+											Wissen Sie, natürlich ist die zentrale,
+											wissenschaftliche Herausforderung 
+bei so einem Projekt,
+											Ungewissheit und Lückenhaftigkeit 
+in jedem Schritt dieses Prozesses
+											zu qualifizieren, zu quantifizieren 
+und zu repräsentieren.
+											Überall finden sich Fehler,
+											Fehler im Dokument, 
+der falsche Name des Kapitäns,
+											manche Boote sind niemals 
+in See gestochen.
+											Es gibt Übersetzungsfehler, 
+interpretative Verzerrungen.
+											Dazu kommt noch, 
+dass bei einem Algorithmus
+											Erkennungsfehler 
+und Extraktionsfehler
+											auftreten werden,
+											sodass die Datenbasis 
+sehr, sehr unsicher ist.
+									",How to build an information time machine,Frederic Kaplan,10:20,"TEDx,computers,history,library,map,technology,books"
+"
+","
+","
+","
+","
+",How to build an information time machine,Frederic Kaplan,10:20,"TEDx,computers,history,library,map,technology,books"
+"
+											So how can we detect and
+correct these inconsistencies?
+											How can we represent that form of uncertainty?
+											It's difficult. One thing you can do
+											is document each step of the process,
+											not only coding the historical information
+											but what we call the meta-historical information,
+											how is historical knowledge constructed,
+											documenting each step.
+											That will not guarantee that we actually converge
+											toward a single story of Venice,
+											but probably we can actually reconstruct
+											a fully documented potential story of Venice.
+											Maybe there's not a single map.
+											Maybe there are several maps.
+											The system should allow for that,
+											because we have to deal with
+a new form of uncertainty,
+											which is really new for this type of giant databases.
+									","
+											Então como podemos detectar e 
+corrigir estas inconsistências?
+											Como podemos representar 
+essa forma de incerteza?
+											É difícil. Uma coisa que podemos fazer
+											é documentar cada etapa do processo,
+											não só codificando a informação histórica
+											mas também o que chamamos de 
+meta-informação histórica,
+											como o conhecimento histórico é construído,
+											documentando cada etapa.
+											Isto não garante que vamos convergir
+											para uma única história de Veneza,
+											mas, provavelmente, podemos reconstruir
+											uma potencial história de Veneza 
+totalmente documentada.
+											Talvez não haja um único mapa.
+											Talvez haja vários mapas.
+											O sistema deve permitir isso,
+											porque temos de lidar com 
+uma nova forma de incerteza,
+											que é mesmo nova para este tipo de 
+base de dados gigantes.
+									","
+											Peki tüm bunları nasıl saptayacak, düzelteceğiz?
+											Bu belirsizliği nasıl tanımlayacağız?
+											Bu zor. Yapabileceğiniz şey
+											süreçlerin herbir adımını kaydetmek,
+											tarihsel bilgiyi sadece kaydetmeyip,
+											meta-tarihsel bilgiyi de çağırarak
+											tarihsel bilgiyi inşa ederek
+											her adımı kaydetmek durumundayız.
+											Tabii ki tüm bunlar Venedik'in
+											tarihine yakınlaşmamızı garanti etmez
+											fakat muhtemelen gerçekten
+											Venedik'in tümü kayıt altına alınmış potansiyel hikayesine erişmiş olacağız.
+											Belki tek bir harita olmayacak.
+											Belki pek çok harita olacak.
+											Sistem buna izin veriyor,
+											çünkü belirsizliğin yeni bir şekli ile karşı karşıyayız,
+											ki bu boyutta bir veri tabanı için gerçekten yeni bir şekil.
+									","
+											Alors, comment peut-on détecter et 
+corriger ces incohérences ?
+											Comment peut-on représenter 
+cette forme d'incertitude ?
+											C'est difficile. Une chose qu'on peut faire,
+											c'est documenter
+chaque étape du processus,
+											non seulement en codant 
+les informations historiques
+											mais aussi ce qu'on appelle les informations 
+méta-historiques,
+											comment les connaissances historiques 
+sont construites,
+											en documentant chaque étape.
+											Ça ne nous assure pas 
+que l'on se dirige vraiment
+											vers une histoire unique de Venise,
+											mais certainement que l'on peut 
+vraiment reconstruire
+											une histoire potentielle de Venise 
+complètement documentée.
+											Il n'y a peut-être pas une seule carte.
+											Il y a peut-être plusieurs cartes.
+											Le système devrait nous le permettre
+											car on doit faire face à une nouvelle 
+forme d'incertitude
+											qui est réellement nouvelle 
+pour ce type de base de données immenses.
+									","
+											Wie können wir diese Ungereimtheiten 
+finden und korrigieren?
+											Wie können wir diese Form 
+der Ungewissheit darstellen?
+											Es ist schwierig.
+											Ein Ansatz ist, 
+jeden Schritt zu dokumentieren —
+											nicht nur die historischen 
+Daten zu kodieren,
+											sondern auch sogenannte 
+meta-historischen Informationen,
+											wie historisches Wissen konstruiert wurde,
+											und jeden Schritt zu dokumentieren.
+											Das garantiert nicht, dass wir tatsächlich
+											zu einer einzigen Geschichte 
+Venedigs zusammenfinden,
+											aber wir können vermutlich eine mögliche,
+											vollständig dokumentierte 
+Geschichte Venedigs rekonstruieren.
+											Vielleicht gibt es nicht nur eine,
+											sondern mehrere Karten.
+											Das System sollte dafür geeignet sein,
+											denn hier arbeiten wir mit 
+einer neuen Art von Unsicherheit,
+											die für diesen Datenbankentyp 
+absolut neu ist.
+									",How to build an information time machine,Frederic Kaplan,10:20,"TEDx,computers,history,library,map,technology,books"
+"
+","
+","
+","
+","
+",How to build an information time machine,Frederic Kaplan,10:20,"TEDx,computers,history,library,map,technology,books"
+"
+											And how should we communicate
+											this new research to a large audience?
+											Again, Venice is extraordinary for that.
+											With the millions of visitors that come every year,
+											it's actually one of the best places
+											to try to invent the museum of the future.
+											Imagine, horizontally you see the reconstructed map
+											of a given year,
+											and vertically, you see the document
+											that served the reconstruction,
+											paintings, for instance.
+											Imagine an immersive system that permits
+											to go and dive and reconstruct
+the Venice of a given year,
+											some experience you could share within a group.
+											On the contrary, imagine actually that you start
+											from a document, a Venetian manuscript,
+											and you show, actually, what
+you can construct out of it,
+											how it is decoded,
+											how the context of that document can be recreated.
+											This is an image from an exhibit
+											which is currently conducted in Geneva
+											with that type of system.
+									","
+											E como deveremos comunicar
+											esta nova pesquisa a uma vasta audiência?
+											Novamente, Veneza é extraordinária para isso.
+											Como os milhões de visitantes que 
+a visitam todos os anos,
+											é na realidade, um dos melhores lugares
+											para tentar inventar o museu do futuro.
+											Imaginem, horizontalmente, 
+vemos o mapa reconstruido
+											de um certo ano,
+											e verticalmente, vemos o documento
+											que serviu de base para a reconstrução,
+											quadros, por exemplo.
+											Imaginem um sistema imersivo que permita
+											ir e imergir e reconstruir a Veneza 
+de um certo ano,
+											é uma experiência que podemos 
+partilhar em grupo.
+											Pelo contrário, imaginem que, 
+na realidade, começamos
+											com um documento, um manuscrito veneziano,
+											e que vocês mostram o que pode ser 
+reconstruído a partir dele,
+											como é descodificado,
+											como o contexto desse documento 
+pode ser recriado.
+											Esta é uma imagem de uma exposição
+											que é actualmente feita em Geneva
+											com este tipo de sistema.
+									","
+											Ve nasıl iletişim kuracağız
+											bu yeni araştırma ile çok sayıdaki katılımı ile?
+											Tekrar söylemeliyim ki, Venedik bu konuda sıradışı bir yer.
+											Her yıl gelen milyolarca ziyaretçisiyle
+											bir gelecek müzesi icat etmek için
+											en iyi yerlerden birisi.
+											Hayal ediniz, yatay eksende belirtilen yılın
+											yapılandırılmış haritasını görüyorsunuz
+											ve dikey eksende de bu yapılandırmayı
+											mümkün kılan belgeleri...
+											resimler, örneğin.
+											Hayal edin üçboyutlu bir sistemin
+											size verilen yıllar aralığında Venedik'in tarihine dalmanıza
+											ve bu deneyimi diğer insanlarla beraber paylaşabilmenize imkan verdiğini düşünün.
+											Diğer taraftan, halay edin ki
+											Venedik lehçesinde bir belgeden başlayarak,
+											birşeylerin nasıl inşa edildiğine şahit oluyor,
+											bunların nasıl kodlandığını,
+											içeriğinin nasıl yeniden yapılandırıldığını görüyorsunuz.
+											Bu görsel Cenevre'de yürütülmekte olan
+											ve bu sisteme ait bir sergiyden alınma.
+											bir sergiye ait.
+									","
+											Comment doit-on communiquer
+											sur cette nouvelle recherche
+vers un public large ?
+											Encore une fois, Venise 
+est extraordinaire en la matière.
+											Avec ses millions de visiteurs chaque année,
+											elle est vraiment un des meilleurs endroits
+											pour essayer d'inventer le musée de l'avenir.
+											Imaginez, horizontalement, 
+on voit la carte reconstruite
+											d'une année donnée,
+											et verticalement, on voit le document
+											qui a permis la reconstruction,
+											des peintures, par exemple.
+											Imaginez un système immersif qui permet
+											d'aller, de plonger et de reconstruire 
+la Venise d'une année donnée,
+											une expérience qu'on peut partager 
+en groupe.
+											A l'inverse, imaginez qu'on démarre
+											par un document, un manuscrit vénitien,
+											et on montre ce qu'on peut en tirer,
+											comment il est décodé,
+											comment le contexte de ce document 
+peut être recréé.
+											Voici une image d'une exposition
+											qui se tient actuellement à Genève
+											avec ce genre de système.
+									","
+											Und wie sollten wir
+											diese neue Forschung 
+einer großen Zielgruppe darstellen?
+											Venedig ist auch dafür 
+außergewöhnlich gut geeignet.
+											Mit den Millionen Besuchern, 
+die jedes Jahr nach Venedig kommen,
+											ist es tatsächlich einer der besten Orte,
+											um den Versuch 
+eines Museums der Zukunft zu wagen.
+											Stellen Sie sich das vor: Horizontal 
+sieht man die rekonstruierte Karte
+											in einem bestimmten Jahr
+											und vertikal sieht man das Dokument,
+											das als Basis für die Rekonstruktion diente,
+											Gemälde zum Beispiel.
+											Ein umfassendes System, das es erlaubt, 
+hinzugehen, einzutauchen
+											und das Venedig eines bestimmten 
+Jahres auferstehen zu lassen,
+											als ein Erlebnis, das man 
+mit einer Gruppe teilen könnte.
+											Oder stellen Sie sich vor, dass Sie 
+tatsächlich bei einem Dokument anfangen.
+											Einem venezianischen Manuskript.
+											Und Sie zeigen, 
+was man daraus machen kann,
+											wie es dekodiert wird,
+											wie der Kontext des Dokuments 
+nachvollzogen werden kann.
+											Dies ist ein Bild aus einer Ausstellung,
+											die im Moment in Genf aufgebaut wird
+											mit dieser Art von System.
+									",How to build an information time machine,Frederic Kaplan,10:20,"TEDx,computers,history,library,map,technology,books"
+"
+","
+","
+","
+","
+",How to build an information time machine,Frederic Kaplan,10:20,"TEDx,computers,history,library,map,technology,books"
+"
+											So to conclude, we can say that
+											research in the humanities is about to undergo
+											an evolution which is maybe similar
+											to what happened to life sciences 30 years ago.
+											It's really a question of scale.
+											We see projects which are
+											much beyond any single research team can do,
+											and this is really new for the humanities,
+											which very often take the habit of working
+											in small groups or only with a couple of researchers.
+											When you visit the Archivio di Stato,
+											you feel this is beyond what any single team can do,
+											and that should be a joint and common effort.
+											So what we must do for this paradigm shift
+											is actually foster a new generation
+											of ""digital humanists""
+											that are going to be ready for this shift.
+									","
+											Para concluir, podemos dizer que
+											a pesquisa nas humanidades 
+está prestes a submeter-se
+											a uma evolução que, na realidade, é semelhante
+											ao que aconteceu às ciências da vida 
+há cerca de 30 anos atrás.
+											É mesmo uma questão de escala.
+											Vemos projectos que estão
+											muito além do que 
+uma equipa de investigação pode fazer
+											e isto é realmente novo para as humanidades,
+											que muitas vezes adquirem o hábito de trabalhar
+											em pequenos grupos ou apenas 
+com um par de investigadores.
+											Quando visitamos o Archivio di Stato,
+											sentimos que está além do que 
+qualquer equipa individual pode fazer,
+											e que deve ser um esforço comum e partilhado.
+											Por isso, o que devemos fazer 
+para esta mudança de paradigma
+											é fomentar uma nova geração
+											de ""humanistas digitais""
+											que vão estar prontos para esta mudança.
+									","
+											Toparlamak gerekirse,
+											diyebiliriz ki, beşeri bilimler belki de
+											yaşam bilimlerinde geçtiğimiz
+											30 yılda olana benzer bir evrimi geçirmek üzere.
+											Bu gerçekten bir ölçeklendirme.
+											Herhangi bir araştırma ekibinin yürütebileceğinden
+											çok daha büyük projeler görüyoruz
+											ki bu sıklıkla küçük gruplar halinde ya da
+											sadece bir kaç araştırmacının çalıştığı durumlara
+											alışık beşeri bilimler için gerçekten yeni bir durum.
+											Archivio Di Stato'yu ziyaret ettiğinizde,
+											hissedecekleriniz bunu gerçekleştirenin tek bir ekip değil,
+											işbirlikli ve yüksek eforlu bir takımlar çalışması olduğu gerçeğidir.
+											Bu durumda yapmamız gereken;
+											yaklaşımdaki bu dönüşüme hazır
+											""dijital beşeri bilimci""lardan oluşacak
+											yeni bir jenerasyonu yaratmaktır.
+									","
+											En conclusion, on peut dire que
+											la recherche dans les humanités 
+est sur le point de subir
+											une évolution à peu près similaire
+											à ce qui s'est passé dans les sciences 
+de la vie il y a 30 ans.
+											C'est en fait une question d'échelle.
+											On voit des projets qui sont
+											bien au-delà de ce qu'une seule équipe 
+de recherche peut réaliser,
+											et ça, c'est vraiment nouveau 
+dans les humanités,
+											où on a souvent pour habitude de travailler
+											en petits groupes ou seulement 
+avec deux chercheurs.
+											Lorsqu'on visite les Archives d'Etat à Venise,
+											on sent que c'est au-delà 
+de ce qu'une simple équipe peut réaliser,
+											et qu'il faut un effort partagé et commun.
+											Ce qu'il faut 
+pour ce changement de modèle,
+											c'est promouvoir une nouvelle génération
+											d' « humanistes numériques »
+											qui seront prêts pour ce changement.
+									","
+											Zusammenfassend können wir also sagen,
+											dass die Forschung 
+in den Geisteswissenschaften dabei ist,
+											eine Evolution zu durchlaufen, 
+die vielleicht mit dem vergleichbar ist,
+											was vor 30 Jahren 
+mit den Naturwissenschaften passierte.
+											Es ist eine Frage des Ausmaßes.
+											Wir sehen Projekte,
+											die weit über die Kapazität eines 
+einzelnen Forscherteams hinausgehen,
+											und das ist eine neue Entwicklung 
+für die Geisteswissenschaften,
+											die daran gewöhnt sind,
+											in kleinen Gruppen oder mit nur 
+ein paar Forschern zusammenzuarbeiten.
+											Im Archivio di Stato merkt man,
+											dass das weit über die Kapazitäten 
+eines einzelnen Teams geht
+											und dass es 
+eine Zusammenarbeit sein sollte.
+											Was wir für diesen 
+Paradigmenwechsel tun müssen,
+											ist eine neue Generation
+											der ""digital humanists"" zu fördern,
+											die bereit sind, 
+diese Anforderungen zu meistern.
+									",How to build an information time machine,Frederic Kaplan,10:20,"TEDx,computers,history,library,map,technology,books"
+"
+","
+","
+","
+","
+",How to build an information time machine,Frederic Kaplan,10:20,"TEDx,computers,history,library,map,technology,books"
+"
+											I thank you very much.
+									","
+											Muito obrigado.
+									","
+											Çok teşekkür ederim.
+									","
+											Je vous remercie beaucoup.
+									","
+											Vielen Dank!
+									",How to build an information time machine,Frederic Kaplan,10:20,"TEDx,computers,history,library,map,technology,books"
+"
+","
+","
+","
+","
+",How to build an information time machine,Frederic Kaplan,10:20,"TEDx,computers,history,library,map,technology,books"
+"
+											(Applause)
+									","
+											(Aplausos)
+									","
+											(Alkış)
+									","
+											(Applaudissements)
+									","
+											(Applaus)
+									",How to build an information time machine,Frederic Kaplan,10:20,"TEDx,computers,history,library,map,technology,books"
+"
+","
+","
+","
+","
+",How to build an information time machine,Frederic Kaplan,10:20,"TEDx,computers,history,library,map,technology,books"

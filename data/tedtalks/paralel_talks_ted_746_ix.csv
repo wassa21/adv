@@ -1,0 +1,2299 @@
+en,pt,tr,de,title,speaker,duration,tags
+"
+","
+","
+","
+",How a driverless car sees the road,Chris Urmson,15:29,"cars,technology,transportation,driverless cars"
+"
+											So in 1885, Karl Benz
+invented the automobile.
+											Later that year, he took it out
+for the first public test drive,
+											and — true story —
+crashed into a wall.
+											For the last 130 years,
+											we've been working around that least
+reliable part of the car, the driver.
+											We've made the car stronger.
+											We've added seat belts,
+we've added air bags,
+											and in the last decade, we've actually
+started trying to make the car smarter
+											to fix that bug, the driver.
+									","
+											Em 1885, Karl Benz inventou o automóvel.
+											Mais tarde, nesse ano,
+testou-o publicamente
+											e — é mesmo verdade — 
+embateu contra um muro!
+											Desde há 130 anos,
+											que trabalhamos nessa parte
+menos fiável do carro, o condutor.
+											Tornámos os carros mais fortes.
+											Colocámos cintos de segurança, ""airbags"",
+											e na última década, tentámos
+tornar o carro mais inteligente
+											para resolver esse problema, o condutor.
+									","
+											1885 yılında, Karl Benz
+otomobili icat etti.
+											O yılın sonunda, ilk kez halk içinde 
+test sürüşüne çıkardı
+											ve gerçek bir hikâye,
+bir duvara çarptı.
+											Son 130 yıldır,
+											arabanın en az güvenilir parçası olan
+sürücü üzerinde çalışıyoruz.
+											Arabayı daha güçlü yaptık.
+											Emniyet kemerleri ekledik,
+hava yastıkları ekledik
+											ve son on yılda, bu sürücü hatasını
+düzeltmek için arabayı
+											daha akıllı yapmaya çalıştık.
+									","
+											Im Jahr 1885 erfand 
+Carl Benz das Automobil.
+											Noch im gleichen Jahr unternahm
+er die erste öffentliche Testfahrt
+											und fuhr gegen eine Wand.
+											Seit 130 Jahren versuchen wir,
+											das Unzuverlässigste an einem
+Auto zu umgehen: den Fahrer.
+											Autos sind jetzt stabiler,
+											wir haben Gurte und Airbags eingebaut.
+											In den letzten Jahren haben wir versucht,
+das Auto selbst intelligenter zu machen,
+											um das Problem ""Fahrer"" zu lösen.
+									",How a driverless car sees the road,Chris Urmson,15:29,"cars,technology,transportation,driverless cars"
+"
+","
+","
+","
+",How a driverless car sees the road,Chris Urmson,15:29,"cars,technology,transportation,driverless cars"
+"
+											Now, today I'm going to talk to you
+a little bit about the difference
+											between patching around the problem
+with driver assistance systems
+											and actually having fully
+self-driving cars
+											and what they can do for the world.
+											I'm also going to talk to you
+a little bit about our car
+											and allow you to see how it sees the world
+and how it reacts and what it does,
+											but first I'm going to talk
+a little bit about the problem.
+											And it's a big problem:
+											1.2 million people are killed
+on the world's roads every year.
+											In America alone, 33,000 people
+are killed each year.
+											To put that in perspective,
+											that's the same as a 737
+falling out of the sky every working day.
+											It's kind of unbelievable.
+											Cars are sold to us like this,
+											but really, this is what driving's like.
+											Right? It's not sunny, it's rainy,
+											and you want to do anything
+other than drive.
+											And the reason why is this:
+											Traffic is getting worse.
+											In America, between 1990 and 2010,
+											the vehicle miles traveled
+increased by 38 percent.
+											We grew by six percent of roads,
+											so it's not in your brains.
+											Traffic really is substantially worse
+than it was not very long ago.
+									","
+											Hoje, vou falar um pouco sobre a diferença
+											entre diminuir esse problema com sistemas
+de assistência ao condutor
+											e ter carros totalmente autónomos
+											e o que eles podem fazer pelo mundo.
+											Também vou falar um pouco
+do nosso carro
+											e permitir que vejam como ele vê o mundo,
+como reage e o que faz,
+											mas primeiro, vou falar um
+pouco sobre o problema.
+											E é um grande problema:
+											Morrem 1,2 milhões de pessoas por ano
+nas estradas do mundo inteiro.
+											Só nos EUA, morrem
+33 000 pessoas por ano.
+											Para pôr isso em perspetiva,
+											é o mesmo que um Boeing 737
+cair do céu todos os dias úteis.
+											É quase inacreditável.
+											Os carros são-nos vendidos assim,
+											mas, na verdade, conduzir é assim.
+											Não há sol, está a chover,
+											e queremos fazer tudo menos conduzir.
+											O motivo para isso é:
+											O trânsito tem vindo a piorar.
+											Nos EUA, entre 1990 e 2010,
+											a distância percorrida por
+veículos aumentou em 38%.
+											Aumentámos em 6% o número de estradas,
+											por isso não e só na nossa mente.
+											O trânsito está realmente pior
+do que era há não muito tempo.
+											Tudo isto tem um alto custo
+para a humanidade.
+											Se agarrarmos no tempo médio de viagem
+nos EUA, que é de cerca de 50 minutos,
+											e multiplicarmos isso pelos 120 milhões
+de trabalhadores que temos,
+											obtemos cerca de
+seis mil milhões de minutos
+											desperdiçados em viagem todos os dias.
+											É um grande número,
+vamos colocá-lo em perspetiva.
+											Agarramos nos seis mil milhões de minutos
+											e dividimo-los pela esperança média
+de vida de uma pessoa,
+											o que resulta em 162 vidas
+											gastas todos os dias, desperdiçadas,
+											apenas para ir de do ponto A ao ponto B.
+											É inacreditável.
+											Depois, há aqueles
+que não têm o privilégio
+											de ficarem engarrafados no trânsito.
+											Este é Steve.
+											É um homem incrivelmente capaz,
+											mas acontece que é cego.
+											Isso implica que, em vez duma
+viagem de 30 minutos para o trabalho,
+											demora duas horas a encaixar
+pedaços de transportes públicos
+											ou pede boleia a amigos e família.
+											Não tem a mesma liberdade
+de movimentos que nós temos.
+											Devíamos fazer algo em relação a isso.
+											O senso comum diria
+									","
+											Bugün size, bu problemin etrafını
+sürücü asistan sistemi ile yamamak ve
+											tamamen sürücüsüz araba yapmak
+											arasındaki farktan ve onların dünya için
+											ne yapabileceğinden bahsedeceğim.
+											Ayrıca sizlere biraz
+arabamızdan bahsedeceğim,
+											dünyayı nasıl gördüğünü, nasıl tepki 
+verdiğini ve ne yaptığını göstereceğim;
+											ama öncelikle problem 
+hakkında konuşacağım.
+											Ve bu büyük bir problem:
+											Dünya'da her yıl 1,2 milyon
+insan trafikte can veriyor.
+											Sadece Amerika'da her yıl
+33.000 insan hayatını kaybediyor.
+											Başka bir şekilde
+ifade etmek gerekirse bu,
+											her iş günü bir 737'nin düşmesiyle aynı.
+											Bu inanılmaz bir şey.
+											Arabalar bize böyle satılıyor;
+											ama araba sürmek aslında böyle bir şey.
+											Değil mi? Güneşli değil, yağmurlu
+											ve araba sürmekten
+başka şeyler yapmak istiyorsunuz.
+											Bunun böyle olmasının nedeni:
+											Trafik gittikçe kötüleşiyor.
+											Amerika'da 1990 ve 2010 yılları arasında,
+											araba ile yapılan kilometre
+yüzde 38 artmış.
+											Yollarımız yüzde 6 oranında büyüdü,
+											yani sorun sizde değil.
+											Trafik gerçekten çok yakın zamana göre
+büyük ölçüde kötüleşti.
+									","
+											Ich erzähle Ihnen heute davon,
+welchen Unterschied es macht,
+											ob man das Problem nur mit Hilfe 
+von Assistenzsystemen angeht
+											oder völlig selbstständig
+fahrende Autos entwickelt,
+											und wie sie die Welt verändern können.
+											Ich werde Ihnen auch ein wenig
+von unserem Auto erzählen
+											und zeigen, wie es die Umgebung
+wahrnimmt und darauf reagiert.
+											Zunächst aber möchte ich noch ein
+wenig das Problem erläutern.
+											Denn es ist ein großes Problem:
+											1,2 Mio. Menschen weltweit sterben
+jedes Jahr bei Autounfällen.
+											Allein in den USA sind es 33 000 pro Jahr.
+											Um das mal ins Verhältnis zu setzen:
+											Das ist, also ob an jedem Arbeitstag 
+eine Boeing 737 abstürzen würde.
+											Das ist unglaublich.
+											So wie hier werden uns Autos verkauft.
+											Aber eigentlich sieht Fahren eher so aus.
+											Die Sonne scheint nicht, es regnet.
+											Sie wollen lieber alles 
+andere tun, als zu fahren.
+											Dafür gibt es einen Grund:
+											Der Verkehr wird immer schlimmer.
+											In den USA wurden zwischen 1990 und 2010
+											38 % mehr Kilometer gefahren als zuvor.
+											Es gibt nur 6 % mehr Straßen,
+											es ist also kein Trugschluss:
+											Der Verkehr ist heute deutlich 
+schlimmer als noch vor kurzer Zeit.
+									",How a driverless car sees the road,Chris Urmson,15:29,"cars,technology,transportation,driverless cars"
+"
+","
+","
+","
+",How a driverless car sees the road,Chris Urmson,15:29,"cars,technology,transportation,driverless cars"
+"
+											And all of this has a very human cost.
+											So if you take the average commute time
+in America, which is about 50 minutes,
+											you multiply that by the 120 million
+workers we have,
+											that turns out to be
+about six billion minutes
+											wasted in commuting every day.
+											Now, that's a big number,
+so let's put it in perspective.
+											You take that six billion minutes
+											and you divide it by the average
+life expectancy of a person,
+											that turns out to be 162 lifetimes
+											spent every day, wasted,
+											just getting from A to B.
+											It's unbelievable.
+											And then, there are those of us
+who don't have the privilege
+											of sitting in traffic.
+											So this is Steve.
+											He's an incredibly capable guy,
+											but he just happens to be blind,
+											and that means instead of a 30-minute
+drive to work in the morning,
+											it's a two-hour ordeal
+of piecing together bits of public transit
+											or asking friends and family for a ride.
+											He doesn't have that same freedom
+that you and I have to get around.
+											We should do something about that.
+									","
+											para agarrarmos nos sistemas
+de assistência ao condutor
+											e os melhorarmos cada vez mais,
+											até os transformar em carros autónomos.
+											Estou aqui para mostrar
+que isso é o mesmo que eu dizer
+											que, se treinar muito os meus saltos,
+um dia conseguirei voar.
+											Na verdade, temos que fazer
+algo um pouco diferente.
+											Então vou dizer-vos
+que os carros autónomos
+											são diferentes dos sistemas de assistência
+em três planos diferentes.
+											Vou começar por vos contar
+a nossa experiência.
+									","
+											Bunların hepsi insanlara zarar.
+											Yani Amerika'daki ortalama ulaşım
+süresi olan 50 dakikayı alın,
+											bunu sahip olduğumuz
+120 milyon çalışan ile çarpın,
+											sonuç olarak 6 milyar dakika
+											her gün yolda boşa harcanıyor.
+											Bu büyük bir rakam,
+başka bir şekilde ifade edelim.
+											Bu 6 milyar dakikayı alın
+											ve bir kişinin ortalama
+beklenen ömrüne bölün,
+											sonuç olarak her gün 162 ömür
+											harcanıyor, çöpe atılıyor,
+											sırf A'dan B'ye gitmek için.
+											Bu inanılmaz.
+											Dahası, trafikte oturma ayrıcalığına
+											sahip olmayanlar da var.
+											Bu Steve.
+											Acayip becerikli bir adam;
+											fakat ne yazık ki kör
+											ve bu da demek oluyor ki sabahları
+işe 30 dakikada gitmek yerine
+											toplu ulaşım bulmacası içinde
+iki saatlik bir çile ile
+											veya arkadaşlarına ve
+ailesine rica ile gidebiliyor.
+											Bizimki gibi bir etrafı dolaşma
+özgürlüğüne sahip değil.
+											Bu konuda bir şey yapmalıyız.
+									","
+											Dafür zahlen wir einen Preis.
+											Ein Pendler fährt in den USA 
+durchschnittlich ca. 50 Minuten.
+											Multiplizieren Sie das mit 
+unseren 120 Mio. Pendlern,
+											kommen Sie auf etwa 6 Mrd. Minuten,
+											die täglich beim Pendeln verloren gehen.
+											Eine riesige Zahl,
+also vergleichen wir das mal.
+											Wenn Sie 6 Mrd. Minuten
+											durch die durchschnittliche
+Lebenserwartung eines Menschen teilen,
+											kommen Sie auf 162 Leben.
+											So viele werden jeden Tag verschwendet,
+											nur um von A nach B zu kommen.
+											Das ist unglaublich.
+											Dann gibt es solche Menschen,
+											die gar nicht im Verkehr
+steckenbleiben können.
+											So wie Steve.
+											Er ist ein unheimlich fähiger Kerl,
+											aber leider ist er blind.
+											Statt morgens in 30 Minuten
+zur Arbeit zu fahren,
+											müht er sich mit den öffentlichen 
+Verkehrsmitteln ab — 2 Std. lang.
+											Es sei denn, er bittet Freunde 
+und Familie um eine Fahrt.
+											Er hat nicht dieselbe Freiheit wie wir, 
+um von A nach B zu kommen.
+											Das sollten wir ändern.
+									",How a driverless car sees the road,Chris Urmson,15:29,"cars,technology,transportation,driverless cars"
+"
+","
+","
+","
+",How a driverless car sees the road,Chris Urmson,15:29,"cars,technology,transportation,driverless cars"
+"
+											Now, conventional wisdom would say
+											that we'll just take
+these driver assistance systems
+											and we'll kind of push them
+and incrementally improve them,
+											and over time, they'll turn
+into self-driving cars.
+											Well, I'm here to tell you
+that's like me saying
+											that if I work really hard at jumping,
+one day I'll be able to fly.
+											We actually need to do
+something a little different.
+											And so I'm going to talk to you
+about three different ways
+											that self-driving systems are different
+than driver assistance systems.
+											And I'm going to start
+with some of our own experience.
+									","
+											Em 2013,
+											fizemos o primeiro teste
+de um carro autónomo
+											em que deixámos pessoas vulgares usá-lo.
+											Bem, quase vulgares...
+eram 100 funcionários da Google,
+											mas não estavam a trabalhar no projeto.
+											Demos-lhes o carro e pedimos
+que o usassem na sua vida quotidiana.
+											Mas ainda não era
+um verdadeiro carro autónomo.
+											Tinham que prestar atenção,
+											porque era um veículo experimental.
+											Tínhamos feitos muitos testes,
+mas ainda podia falhar.
+											Então demos-lhes duas horas de treino,
+											Colocámo-los no carro,
+deixámos que o usassem,
+											e as reações deles
+foram uma coisa incrível,
+											para alguém a tentar
+pôr um produto no mundo.
+											Todos disseram que o adoraram.
+											Tivemos um condutor de um Porsche,
+que nos disse, logo no primeiro dia:
+											""Isto é uma ideia estúpida.
+Em que é que estão a pensar?""
+											Mas no final, disse:
+""Eu queria ter um!
+											""E todos deviam ter um, porque as pessoas
+são uns condutores terríveis"".
+											Foi música para os nossos ouvidos,
+											mas depois começámos a observar
+o que as pessoas faziam dentro do carro,
+											e isso abriu-nos os olhos.
+											A minha história preferida
+é a deste senhor
+											que olha para o seu telemóvel
+e repara que a bateria está fraca.
+											Então, vira-se para trás no carro
+e vasculha na sua mochila,
+											saca do seu computador portátil,
+											coloca-o no banco,
+											vai de novo à mochila
+											procura, tira o carregador do telemóvel,
+											desenrola-o, coloca-o no portátil
+e liga o telemóvel.
+											Não tarda, o telemóvel está a carregar.
+											Faz isto tudo a 100 km/hora,
+na autoestrada.
+											Inacreditável!
+											Pensámos nisto e dissemos:
+""É óbvio, não é?
+									","
+											Yaygın inanışa bakarsak,
+											bu sürücü asistan sistemlerini alıp,
+											onları biraz çaba harcayarak 
+adım adım geliştirirsek
+											zamanla sürücüsüz
+arabalara dönüşecektir.
+											Bu benim şöyle demem gibi bir şey;
+											eğer zıplama üzerinde çok çalışırsam
+bir gün uçabilirim.
+											Aslında biraz daha farklı bir şey
+yapmak durumundayız.
+											Size sürücüsüz sistemleri
+
+											sürücü asistan sistemlerinden ayıran
+üç farklı yöntemi anlatacağım.
+											Kendi deneyimlerimizden
+biriyle başlayacağım.
+									","
+											Nach allgemeiner Meinung
+											sollten wir vorhandene
+Fahrerassistenzsysteme
+											immer schrittweise verbessern.
+											Irgendwann werden daraus
+selbstfahrende Autos.
+											Das wäre etwa damit zu vergleichen:
+											Wenn ich mich beim Springen
+nur richtig anstrengen würde,
+											könnte ich eines Tages fliegen.
+											Stattdessen sollten wir etwas anderes tun.
+											Ich möchte Ihnen drei Punkte vorstellen,
+											die selbstfahrende Systeme von
+Assistenzsystemen unterscheiden.
+											Ich fange mit dem an,
+was wir selbst erfahren haben.
+									",How a driverless car sees the road,Chris Urmson,15:29,"cars,technology,transportation,driverless cars"
+"
+","
+","
+","
+",How a driverless car sees the road,Chris Urmson,15:29,"cars,technology,transportation,driverless cars"
+"
+											So back in 2013,
+											we had the first test
+of a self-driving car
+											where we let regular people use it.
+											Well, almost regular —
+they were 100 Googlers,
+											but they weren't working on the project.
+											And we gave them the car and we allowed
+them to use it in their daily lives.
+											But unlike a real self-driving car,
+this one had a big asterisk with it:
+											They had to pay attention,
+											because this was an experimental vehicle.
+											We tested it a lot,
+but it could still fail.
+											And so we gave them two hours of training,
+											we put them in the car,
+we let them use it,
+											and what we heard back
+was something awesome,
+											as someone trying
+to bring a product into the world.
+											Every one of them told us they loved it.
+											In fact, we had a Porsche driver
+who came in and told us on the first day,
+											""This is completely stupid.
+What are we thinking?""
+											But at the end of it, he said,
+""Not only should I have it,
+											everyone else should have it,
+because people are terrible drivers.""
+											So this was music to our ears,
+											but then we started to look at what
+the people inside the car were doing,
+											and this was eye-opening.
+											Now, my favorite story is this gentleman
+											who looks down at his phone
+and realizes the battery is low,
+											so he turns around like this in the car
+and digs around in his backpack,
+											pulls out his laptop,
+											puts it on the seat,
+											goes in the back again,
+											digs around, pulls out
+the charging cable for his phone,
+											futzes around, puts it into the laptop,
+puts it on the phone.
+											Sure enough, the phone is charging.
+											All the time he's been doing
+65 miles per hour down the freeway.
+											Right? Unbelievable.
+											So we thought about this and we said,
+it's kind of obvious, right?
+											The better the technology gets,
+											the less reliable
+the driver is going to get.
+											So by just making the cars
+incrementally smarter,
+											we're probably not going to see
+the wins we really need.
+									","
+											""Quanto melhor fica a tecnologia,
+											""menos fiável será o condutor"".
+											Se só tornarmos os carros
+cada vez mais inteligentes,
+											provavelmente não veremos
+as vitórias de que precisamos.
+									","
+											2013 yılında,
+											sürücüsüz arabanın ilk testlerini yaptık
+											ve sıradan insanlara kullandırdık.
+											Yani neredeyse sıradan —
+100 Google çalışanıydılar;
+											fakat proje üzerinde çalışmıyorlardı.
+											Onlara arabaları verdik ve günlük
+yaşantılarında kullanmalarına izin verdik.
+											Fakat bunda, gerçek bir sürücüsüz arabada
+olmayan büyük bir yıldız işareti vardı:
+											Dikkatli olmaları gerekiyordu,
+											çünkü bu bir deney arabasıydı.
+											Çok test ettik,
+fakat hâlâ başarısız olabilirdi.
+											Onlara iki saat eğitim verdik.
+											Onları arabaya bindirdik,
+kullanmalarına izin verdik
+											ve dünyaya bir ürün
+getirmeye çalışan biri olarak
+											onlardan duyduklarımız harikaydı.
+											Onlardan her biri onu 
+sevdiklerini söyledi.
+											Hatta, bir Porsche sürücüsü
+ilk gün bize gelip şöyle dedi:
+											""Bu aptalca bir şey.
+Nesini düşünüyoruz ki?""
+											Ama sonunda, dedi ki,
+""Bunu sadece ben değil,
+											herkes almalı, çünkü
+insanlar çok kötü sürücüler.""
+											Duymak istediğimiz işte buydu.
+											Daha sonra insanların arabada
+ne yaptıklarına bakmaya başladık
+											ve bu şaşırtıcıydı.
+											Benim en sevdiğim hikâye şöyle,
+											beyefendi telefonuna bakıyor ve şarjın
+az olduğunu fark ediyor.
+											Sonra şöyle bir arabasında dönüyor
+ve sırt çantasını karıştırıyor,
+											dizüstü bilgisayarını çıkartıyor,
+											koltuğun üzerine koyuyor,
+											tekrar arkasına yöneliyor,
+											karıştırıyor, telefonunun şarj
+kablosunu çıkarıyor,
+											biraz uğraşıyor, kabloyu bilgisayara
+takıyor, telefonuna bağlıyor.
+											Nihayet telefon şarj oluyor.
+											Bu süre boyunca 100 km hızla
+otobanda ilerliyor.
+											İnanılmaz.
+											Bu konu hakkında düşündük
+ve durum ne kadar aşikâr, değil mi?
+											Teknoloji ne kadar ilerlerse,
+											sürücüler daha az güvenilir olacak.
+											Arabaları adım adım akıllı yaparak,
+											gerçekten ihtiyacımız olan
+kazanımları görmeyeceğiz.
+									","
+											Im Jahr 2013
+											machten wir den ersten Test
+mit selbstfahrenden Autos,
+											die normale Leute benutzen konnten.
+											Fast normale Leute —
+100 Google-Mitarbeiter,
+											aber sie waren nicht am Projekt beteiligt.
+											Wir gaben ihnen das Auto,
+um es im Alltag auszuprobieren.
+											Es gab es aber eine wichtige Besonderheit:
+											Sie mussten aufpassen,
+											schließlich war es ein Experiment.
+											Trotz intensiver Tests könnte es versagen.
+											Also schulten wir sie zwei Stunden lang,
+											setzten sie ins Auto
+und ließen sie es benutzen.
+											Das Feedback war fantastisch für jemanden,
+											der ein Produkt in die Welt setzen will.
+											Alle fanden es toll.
+											Einer war Porsche-Fahrer 
+und sagte uns am ersten Tag:
+											""Das ist totaler Unsinn,
+Was glauben wir eigentlich?""
+											Am Ende meinte er: 
+""Nicht nur ich sollte es haben,
+											sondern auch alle anderen.
+Menschen sind schreckliche Fahrer.""
+											Das war Musik in unseren Ohren.
+											Dann sahen wir uns an, 
+was die Leute im Auto taten.
+											Das öffnete uns die Augen.
+											Da gab es einen Herrn.
+											Er schaut auf sein Handy und bemerkt,
+dass der Akku fast leer ist.
+											Also dreht er sich ungefähr so um
+und durchsucht seinen Rucksack,
+											holt seinen Laptop raus,
+											legt ihn auf den Sitz,
+											dreht sich wieder um,
+											sucht weiter und findet das
+Ladekabel für sein Handy,
+											steckt es in den Laptop,
+danach in sein Handy.
+											Klar, das Telefon wird geladen.
+											Währenddessen fuhr er die ganze Zeit 
+mit 105 km/h den Freeway entlang.
+											Unglaublich.
+											Nach einiger Überlegung wurde uns klar:
+											Je besser die Technologie wird,
+											desto unzuverlässiger wird der Fahrer.
+											Wenn wir Autos nur
+schrittweise schlauer machen,
+											werden wir wahrscheinlich
+unsere Ziele nicht erreichen.
+									",How a driverless car sees the road,Chris Urmson,15:29,"cars,technology,transportation,driverless cars"
+"
+","
+","
+","
+",How a driverless car sees the road,Chris Urmson,15:29,"cars,technology,transportation,driverless cars"
+"
+											Let me talk about something
+a little technical for a moment here.
+											So we're looking at this graph,
+and along the bottom
+											is how often does the car
+apply the brakes when it shouldn't.
+											You can ignore most of that axis,
+											because if you're driving around town,
+and the car starts stopping randomly,
+											you're never going to buy that car.
+											And the vertical axis is how often
+the car is going to apply the brakes
+											when it's supposed to
+to help you avoid an accident.
+											Now, if we look at
+the bottom left corner here,
+											this is your classic car.
+											It doesn't apply the brakes for you,
+it doesn't do anything goofy,
+											but it also doesn't get you
+out of an accident.
+											Now, if we want to bring
+a driver assistance system into a car,
+											say with collision mitigation braking,
+											we're going to put some package
+of technology on there,
+											and that's this curve, and it's going
+to have some operating properties,
+											but it's never going to avoid
+all of the accidents,
+											because it doesn't have that capability.
+											But we'll pick some place
+along the curve here,
+											and maybe it avoids half of accidents
+that the human driver misses,
+											and that's amazing, right?
+											We just reduced accidents on our roads
+by a factor of two.
+											There are now 17,000 less people
+dying every year in America.
+									","
+											Deixem-me falar de algo
+um pouco técnico, por momentos.
+											Na parte inferior deste gráfico
+											está a frequência com que o carro trava,
+quando não devia.
+											Podemos ignorar a maior parte deste eixo
+											porque nunca iremos comprar um carro,
+											que pare de imprevisto,
+quando estamos a conduzir na cidade.
+											O eixo vertical é a frequência
+com que o carro trava,
+											quando deve, para nos ajudar
+a evitar um acidente.
+											Se olharmos aqui para
+o canto inferior esquerdo,
+											este é o carro clássico.
+											Não trava por nossa conta,
+não faz nada inesperado,
+											mas também não nos livra
+de um acidente.
+											Se quisermos introduzir um sistema
+de condução assistida num carro,
+											com travagem anti-colisão,
+											vamos introduzir aqui
+um conjunto de tecnologias.
+											Esta é a curva, que terá as suas
+propriedades de funcionamento,
+											mas nunca evitará todos os acidentes,
+											porque não tem essa capacidade.
+											Mas vamos escolher
+uma zona da curva por aqui.
+											O sistema talvez evite metade dos acidentes
+em que o condutor humano falha.
+											Isso é incrível, não é?
+											Acabamos de reduzir para metade
+os acidentes na estrada.
+											Agora há menos 17 000 mortes
+por ano nos EUA.
+									","
+											Biraz teknik bir şey
+anlatmama müsaade edin.
+											Bu grafiğe bakarsak, altta
+											gerekmediği hâlde arabanın
+ne sıklıkla fren yaptığını gösteriyor.
+											Bu eksenin çoğunu görmezden gelebiliriz,
+											çünkü şehir içinde kullanıyorsanız,
+araba rastgele durup kalkacaktır
+											ve bu arabayı asla 
+satın almayacaksınızdır.
+											Dikey eksen ise kazadan kaçınmada
+size yardımcı olmak için
+											ne kadar sıklıkla
+fren yaptığını gösteriyor.
+											Şimdi, sol alt köşeye bakarsak,
+											bu klasik arabanız.
+											Sizin için frene basmaz,
+aptalca bir şey yapmaz;
+											fakat sizi bir kazadan da kurtarmaz.
+											Şimdi, eğer bir arabaya sürücü
+asistan sistemi getirmek istiyorsak,
+											mesela çarpma azaltma frenini,
+											üzerine teknolojik bir
+paket koyacağız ve işte bu o eğri
+											ve araç bazı işletim
+özelliklerine sahip olacak,
+											fakat tüm kazalardan kurtulamayacak,
+											çünkü bu kapasiteye sahip değil.
+											Fakat biz buradaki
+eğri boyunca bir yer seçeceğiz
+											ve belki insan sürücülerin kaçırdığı
+kazaların yarısını önleyebilir
+											ve bu harika, değil mi?
+											Yollardaki kazaları iki kat azalttık.
+											Artık Amerika'da her yıl 17.000
+daha az insan ölüyor.
+									","
+											Ich werde nun kurz etwas technisch.
+											Dieses Diagramm zeigt
+von links nach rechts,
+											wie oft das Auto bremst,
+wenn es das nicht sollte.
+											Sie können das meiste 
+auf dieser Achse ignorieren,
+											denn wenn Sie in der Stadt herumfahren
+und das Auto immer mal wieder anhält,
+											werden Sie es niemals kaufen.
+											Von unten nach oben sehen Sie,
+wie oft das Auto richtigerweise bremst,
+											um so einen Unfall zu verhindern.
+											Schauen wir uns die Ecke links unten an:
+											Das ist ein Standardauto.
+											Es bremst nicht selbstständig,
+es tut nichts Merkwürdiges,
+											aber es verhindert auch keine Unfälle.
+											Wenn wir ein
+Fahrerassistenzsystem installieren,
+											das Auffahrunfälle vermeiden soll,
+											dann packen wir einige
+Technologien in das Auto.
+											Das sehen Sie hier.
+											Die Technologien sind gut,
+											aber sie können niemals 
+alle Unfälle verhindern.
+											Dafür sind sie einfach nicht ausgelegt.
+											Sehen wir uns diese Kurve an:
+											So könnte man vielleicht die Hälfte
+aller Unfälle verhindern.
+											Hervorragend, oder?
+											Wir haben gerade die Zahl
+der Autounfälle halbiert!
+											Jetzt sterben in den USA
+17 000 Menschen weniger pro Jahr.
+									",How a driverless car sees the road,Chris Urmson,15:29,"cars,technology,transportation,driverless cars"
+"
+","
+","
+","
+",How a driverless car sees the road,Chris Urmson,15:29,"cars,technology,transportation,driverless cars"
+"
+											But if we want a self-driving car,
+											we need a technology curve
+that looks like this.
+											We're going to have to put
+more sensors in the vehicle,
+											and we'll pick some
+operating point up here
+											where it basically never
+gets into a crash.
+											They'll happen, but very low frequency.
+											Now you and I could look at this
+and we could argue
+											about whether it's incremental, and
+I could say something like ""80-20 rule,""
+											and it's really hard to move up
+to that new curve.
+											But let's look at it
+from a different direction for a moment.
+											So let's look at how often
+the technology has to do the right thing.
+											And so this green dot up here
+is a driver assistance system.
+											It turns out that human drivers
+											make mistakes that lead
+to traffic accidents
+											about once every 100,000 miles in America.
+											In contrast, a self-driving system
+is probably making decisions
+											about 10 times per second,
+											so order of magnitude,
+											that's about 1,000 times per mile.
+											So if you compare the distance
+between these two,
+											it's about 10 to the eighth, right?
+											Eight orders of magnitude.
+											That's like comparing how fast I run
+											to the speed of light.
+											It doesn't matter how hard I train,
+I'm never actually going to get there.
+											So there's a pretty big gap there.
+									","
+											Mas, se queremos um carro autónomo,
+											precisamos de uma curva
+tecnológica deste género.
+											Precisaremos de mais sensores no veículo,
+											e escolheremos
+um ponto operacional por aqui,
+											onde, basicamente
+não haverá acidentes.
+											Ainda vão ocorrer, mas com
+muito pouca frequência.
+											Agora, podemos olhar para isto
+e podemos discutir
+											se é algo incremental
+e eu responderia ""regra dos 80:20"".
+											É muito difícil ultrapassar 
+aquela nova curva.
+											Mas vamos analisar de outra
+perspetiva, por momentos.
+											Vamos ver com que frequência é que
+a tecnologia tem que fazer a coisa certa.
+											Este ponto verde aqui é um sistema
+de assistência à condução.
+											Parece que os condutores nos EUA
+											fazem erros que provocam
+um acidente de trânsito
+											em cada 160 000 km.
+											Por outro lado, um carro autónomo
+provavelmente toma decisões
+											cerca de 10 vezes por segundo,
+											numa ordem de grandeza,
+											que corresponde a cerca 
+de 1000 decisões em cada 1,6 km.
+											Portanto, se compararem
+a distância entre estas duas coisas,
+											é cerca de 100 milhões.
+											Oito ordens de magnitude.
+											É como comparar a minha
+velocidade de corrida
+											com a velocidade da luz.
+											Por mais que eu treine,
+nunca vou chegar lá perto.
+											Portanto há aqui um fosso muito grande.
+									","
+											Eğer sürücüsüz araba istiyorsak,
+											bunun gibi bir teknoloji
+eğrisine ihtiyacımız var.
+											Araca daha fazla sensör
+koymak zorunda olacağız
+											ve burada bir işletim noktası alacağız
+											ki temelde hiç kazaya uğramayacak.
+											Olacaktır, ama çok düşük frekanslarda.
+											Şimdi bunun artan bir şey
+olup olmadığı hakkında tartışabiliriz
+											ve ben de ""80-20 kuralı""
+gibi bir şey diyebilirim
+											ve bu yeni eğriye varmak gerçekten zor.
+											Fakat hadi buna bir anlığına
+farklı bir yönden bakalım.
+											Teknolojinin ne sıklıkla doğru şeyi
+yapmak zorunda olduğuna bakalım.
+											Buradaki yeşil nokta 
+sürücü asistan sistemi.
+											Gördük ki insan sürücüler
+											Amerika'da her 160.000 kilometrede bir
+											trafik kazalarına
+neden olan hatalar yapıyor.
+											Aksine, sürücüsüz sistem saniyede
+											yaklaşık 10 kez karar veriyor,
+											yani bu orana göre,
+											1,6 kilometrede 1.000 kez karar verir.
+											Eğer bu ikisi arasındaki mesafeyi
+karşılaştırırsanız,
+											bu yaklaşık 100 milyondur, değil mi?
+											10 üzeri 8.
+											Bu benim koşma hızımı
+											ışık hızıyla karşılaştırmam demektir.
+											Ne kadar çalışırsam çalışayım,
+buna asla ulaşamayacağım.
+											Yani ortada büyük bir fark var.
+									","
+											Aber wenn wir selbstfahrende Autos wollen,
+											muss die Technologiekurve so aussehen.
+											Wir müssen mehr Sensoren
+in das Auto integrieren,
+											bis zu dem Punkt, an dem es praktisch
+											nie mehr in einen Unfall verwickelt wird.
+											Es wird noch passieren, aber sehr selten.
+											Jetzt könnten wir darüber diskutieren,
+											ob die Kurve stetig steigt, oder ob sie
+eher der 80/20-Regel entspricht.
+											Die obere Kurve ist
+sehr schwer zu erreichen.
+											Aber sehen wir es einmal anders.
+											Wie oft muss die Technologie
+die richtigen Entscheidungen treffen?
+											Dieser grüne Punkt hier ist 
+das Fahrerassistenzsystem.
+											Menschliche Fahrer machen Fehler,
+die Unfälle verursachen —
+											und zwar etwa alle 160 000 km in den USA.
+											Im Gegensatz dazu trifft
+ein selbstfahrendes System
+											etwa 10 Entscheidungen pro Sekunde.
+											Umgerechnet wären das
+etwa 600-mal pro Kilometer.
+											Wenn wir den Abstand zwischen
+beiden vergleichen,
+											ist das etwa 10 hoch 8.
+											8 Größenordnungen.
+											Das ist, wie wenn Sie mein Lauftempo
+											mit der Lichtgeschwindigkeit vergleichen.
+											Ganz egal, wieviel ich trainiere:
+Das kann ich nie erreichen.
+											Der Unterschied ist also ziemlich groß.
+									",How a driverless car sees the road,Chris Urmson,15:29,"cars,technology,transportation,driverless cars"
+"
+","
+","
+","
+",How a driverless car sees the road,Chris Urmson,15:29,"cars,technology,transportation,driverless cars"
+"
+											And then finally, there's how
+the system can handle uncertainty.
+											So this pedestrian here might be
+stepping into the road, might not be.
+											I can't tell,
+nor can any of our algorithms,
+											but in the case of
+a driver assistance system,
+											that means it can't take action,
+because again,
+											if it presses the brakes unexpectedly,
+that's completely unacceptable.
+											Whereas a self-driving system
+can look at that pedestrian and say,
+											I don't know what they're about to do,
+											slow down, take a better look,
+and then react appropriately after that.
+									","
+											Por fim, há a forma como
+o sistema lida com a incerteza.
+											Este peão aqui vai
+atravessar a estrada, ou não?
+											Não sei dizer, nem nenhum
+dos nossos algoritmos.
+											Se tivermos um sistema
+de assistência ao condutor,
+											significa que não vai reagir,
+porque, novamente,
+											é totalmente inaceitável
+que ele acione os travões inesperadamente.
+											Enquanto que um carro autónomo
+deteta o peão e diz:
+											""Não sei o que é que ele vai fazer,
+											"" vou abrandar, ver melhor, e depois
+reagir apropriadamente.""
+									","
+											Son olarak, sistemin
+belirsizliklerle nasıl baş ettiği var.
+											Buradaki yaya yola inecek olabilir,
+olmayabilir de.
+											Emin değilim, bizim
+algoritmalarımız da öyle;
+											ama bir sürücü asistan sisteminin
+olması durumunda
+											bir şey yapamaz,
+çünkü yine söylüyorum,
+											eğer frene umulmadık bir şekilde basarsa,
+bu asla kabul edilemez.
+											Hâlbuki sürücüsüz sistem
+yayaya bakıp şöyle diyebilir:
+											Ne yapacaklarını bilmiyorum,
+											yavaşla, daha iyi incele
+ve ondan sonra uygun bir tepki ver.
+									","
+											Betrachten wir nun schließlich, wie 
+das System mit Unsicherheit umgeht.
+											Dieser Fußgänger läuft vielleicht 
+auf die Straße — oder auch nicht.
+											Ich kann es nicht erkennen und
+unsere Algorithmen auch nicht.
+											Für ein Assistenzsystem heißt das,
+											dass es nichts unternehmen kann, 
+denn es wäre völlig inakzeptabel,
+											wenn es unerwartet bremsen würde.
+											Ein selbstfahrendes System sieht
+den Fußgänger und sagt:
+											""Keine Ahnung, was du tun wirst,
+											ich fahre langsamer, schaue genauer
+hin und reagiere dann entsprechend.""
+									",How a driverless car sees the road,Chris Urmson,15:29,"cars,technology,transportation,driverless cars"
+"
+","
+","
+","
+",How a driverless car sees the road,Chris Urmson,15:29,"cars,technology,transportation,driverless cars"
+"
+											So it can be much safer than
+a driver assistance system can ever be.
+											So that's enough about
+the differences between the two.
+											Let's spend some time talking about
+how the car sees the world.
+									","
+											Por isso, pode ser muito mais seguro
+do que qualquer sistema de assistência.
+											Basta de falar sobre as
+diferenças entre os dois.
+											Vamos falar um bocado
+sobre como o carro vê o mundo.
+									","
+											Yani bir sürücü asistan sisteminin
+asla olamayacağı kadar güvenlidir.
+											Bu ikisi arasındaki fark için 
+bu kadar yeter.
+											Şimdi arabanın dünyayı nasıl gördüğü
+konusunda biraz vakit harcayalım.
+									","
+											Es ist also viel sicherer, als ein
+Assistenzsystem je sein könnte.
+											Aber damit genug von den
+Unterschieden zwischen beiden.
+											Betrachten wir, wie das Auto 
+die Umgebung wahrnimmt.
+									",How a driverless car sees the road,Chris Urmson,15:29,"cars,technology,transportation,driverless cars"
+"
+","
+","
+","
+",How a driverless car sees the road,Chris Urmson,15:29,"cars,technology,transportation,driverless cars"
+"
+											So this is our vehicle.
+											It starts by understanding
+where it is in the world,
+											by taking a map and its sensor data
+and aligning the two,
+											and then we layer on top of that
+what it sees in the moment.
+											So here, all the purple boxes you can see
+are other vehicles on the road,
+											and the red thing on the side
+over there is a cyclist,
+											and up in the distance,
+if you look really closely,
+											you can see some cones.
+											Then we know where the car
+is in the moment,
+											but we have to do better than that:
+we have to predict what's going to happen.
+											So here the pickup truck in top right
+is about to make a left lane change
+											because the road in front of it is closed,
+											so it needs to get out of the way.
+											Knowing that one pickup truck is great,
+											but we really need to know
+what everybody's thinking,
+											so it becomes quite a complicated problem.
+											And then given that, we can figure out
+how the car should respond in the moment,
+											so what trajectory it should follow, how
+quickly it should slow down or speed up.
+											And then that all turns into
+just following a path:
+											turning the steering wheel left or right,
+pressing the brake or gas.
+											It's really just two numbers
+at the end of the day.
+											So how hard can it really be?
+									","
+											Este é o nosso veículo.
+											Ele começa por perceber
+onde está situado,
+											alinhando um mapa
+e os seus dados sensoriais.
+											Depois colocamos em cima disso
+o que ele vê no momento.
+											Todas as caixas roxas que aqui veem
+são outros veículos na estrada,
+											e a coisa vermelha ali ao lado
+é um ciclista,
+											e, à distância, se olharem bem de perto,
+											conseguem ver uns cones.
+											Aí sabemos onde o carro
+se encontra no momento,
+											mas temos que fazer melhor que isso:
+temos que prever o que vai acontecer.
+											Aqui a carrinha no canto superior direito
+vai mudar para a faixa da esquerda
+											porque a estrada
+à sua frente está fechada,
+											portanto terá que se desviar.
+											Reconhecer essa carrinha é ótimo,
+											mas precisamos de saber
+o que todos estão a pensar,
+											o que se torna num problema
+bastante complicado.
+											Podemos determinar como
+o carro deve responder no momento,
+											que trajetória deve seguir, com que
+velocidade deve abrandar ou acelerar.
+											Depois, tudo isso se torna
+no caminho a seguir:
+											virar o volante para a esquerda ou direita,
+acionar o travão ou o acelerador.
+											No final do dia são apenas dois números.
+											Até que ponto pode ser difícil?
+									","
+											İşte bu bizim aracımız.
+											İşe dünya üzerinde nerede
+olduğunu anlamakla başlar.
+											Haritayı ve sensör verilerini alıp hizalar
+											ve sonra biz bunun üstüne
+o an gördüğü şeyi koyarız.
+											İşte burada, gördüğünüz tüm mor kutular
+yoldaki diğer araçlar
+											ve oradaki köşedeki kırmızı 
+şey ise bir bisikletçi
+											ve uzakta, çok yakından bakarsanız,
+											bazı dubalar görebilirsiniz.
+											O zaman arabanın o an 
+nerede olduğunu biliyoruz;
+											fakat bundan daha iyisini yapmalıyız:
+Ne olacağını kestirmek zorundayız.
+											En üst sağda bir kamyonet
+sol şeride geçmek üzere,
+											çünkü ilerideki yol kapalı,
+											yani yoldan çıkması gerek.
+											Bir kamyonetin olduğunu bilmek harika;
+											ama herkesin ne düşündüğünü 
+bilmemiz gerek,
+											işte o zaman oldukça karışık bir
+problem hâline geliyor.
+											Farz edelim ki, o an arabanın nasıl
+tepki vereceğini kestirebiliyoruz,
+											yani hangi yörüngeyi izleyecek,
+ne ölçüde hızlanıp yavaşlayacak.
+											Hepsi sonunda bir yolu
+takip etmeye dönüşüyor:
+											Direksiyonu sola veya sağa çevirmek,
+frene veya gaza basmak.
+											Yani sonuçta iki tane numara.
+											Peki bu ne kadar zor olabilir?
+									","
+											Das ist unser Auto.
+											Zuerst bestimmt es seine Position,
+											indem es auf einer Karte 
+seine Sensordaten einträgt.
+											Darüber legen wir das, 
+was das Auto momentan sieht.
+											Diese violetten Kästchen sind 
+andere Fahrzeuge auf der Straße
+											und das rote Ding ist ein Radfahrer.
+											In der Entfernung sehen Sie
+noch einige Leitkegel.
+											Jetzt wissen wir, wo das Auto gerade ist.
+											Aber das reicht nicht: Wir müssen
+vorhersagen, was passieren wird.
+											Der Pickup-Truck oben rechts 
+will auf die linke Spur wechseln,
+											denn vor ihm ist die Straße gesperrt.
+											Also muss er ausweichen.
+											Es ist toll, wenn man das weiß,
+											aber wir müssen wissen,
+was jeder gerade denkt.
+											Damit wird es zur komplizierten Aufgabe.
+											Wenn wir das wissen, können wir bestimmen,
+wie sich das Auto verhalten sollte,
+											wo genau es lang fahren sollte, wie stark
+es bremsen und beschleunigen sollte.
+											Im Grunde geht es nur darum,
+einem Weg zu folgen,
+											also nach links oder rechts zu lenken,
+zu bremsen oder Gas zu geben.
+											Letztlich geht es nur um zwei Zahlen.
+											Wie schwierig kann das schon sein?
+									",How a driverless car sees the road,Chris Urmson,15:29,"cars,technology,transportation,driverless cars"
+"
+","
+","
+","
+",How a driverless car sees the road,Chris Urmson,15:29,"cars,technology,transportation,driverless cars"
+"
+											Back when we started in 2009,
+											this is what our system looked like.
+											So you can see our car in the middle
+and the other boxes on the road,
+											driving down the highway.
+											The car needs to understand where it is
+and roughly where the other vehicles are.
+											It's really a geometric
+understanding of the world.
+											Once we started driving
+on neighborhood and city streets,
+											the problem becomes a whole
+new level of difficulty.
+											You see pedestrians crossing in front
+of us, cars crossing in front of us,
+											going every which way,
+											the traffic lights, crosswalks.
+											It's an incredibly complicated
+problem by comparison.
+											And then once you have
+that problem solved,
+											the vehicle has to be able
+to deal with construction.
+											So here are the cones on the left
+forcing it to drive to the right,
+											but not just construction
+in isolation, of course.
+											It has to deal with other people moving
+through that construction zone as well.
+											And of course, if anyone's
+breaking the rules, the police are there
+											and the car has to understand that
+that flashing light on the top of the car
+											means that it's not just a car,
+it's actually a police officer.
+											Similarly, the orange box
+on the side here,
+											it's a school bus,
+											and we have to treat that
+differently as well.
+									","
+											Quando começámos, em 2009,
+											este era o nosso sistema.
+											Vemos o nosso carro no centro
+e as outras caixas na estrada,
+											a seguir pela autoestrada.
+											O carro tem que perceber onde está e
+a posição aproximada dos outros veículos.
+											É uma compreensão geométrica do mundo.
+											Quando começamos a conduzir
+em bairros e estradas da cidade,
+											o problema passa a ter
+toda uma nova dificuldade.
+											Vemos peões a passar à nossa frente,
+carros a passar à nossa frente,
+											em todas as direções,
+											semáforos, passadeiras.
+											Em comparação, é um problema
+incrivelmente complicado.
+											Depois, quando se tem
+esse problema resolvido,
+											o veículo tem que conseguir
+lidar com as obras.
+											Aqui estão os cones à esquerda
+a obrigá-lo a virar para a direita,
+											mas não são apenas
+as obras isoladas, claro.
+											Também tem que lidar com outros veículos
+que passam por essa zona de obras.
+											Claro, se alguém quebrar as regras,
+a polícia está lá.
+											O carro tem que perceber que aquela luz
+a piscar no topo do carro
+											significa que não é apenas um carro,
+é um carro da polícia.
+											Da mesma forma,
+a caixa laranja deste lado
+											é um autocarro escolar.
+											Também temos que o tratar
+de forma diferente.
+									","
+											2009 yılında başladığımız 
+noktaya dönersek,
+											sistemimiz böyle bir şeydi.
+											Arabamızı ortada ve diğer 
+kutuları yolda görebilirsiniz,
+											otobanda ilerliyor.
+											Araba nerede olduğunu ve kabaca
+diğer araçların nerede olduğunu bilmeli.
+											Bu dünyanın geometrik
+olarak anlaşılması demek.
+											Komşu sokaklarda ve
+şehirde sürmeye başladığımızda,
+											problem yeni bir boyut kazandı.
+											Önümüzden geçen yayaları
+ve araçları görüyorsunuz.
+											Her biri bir yere gidiyor,
+											trafik ışıkları, yaya geçitleri.
+											Kıyaslarsak, inanılmaz 
+karışık bir problem.
+											Bir kere bu problemi çözerseniz,
+											araç inşaatlarla baş etmek zorundadır.
+											Görüyorsunuz, soldaki dubalar
+onu sağa gitmeye zorluyor;
+											fakat tabii ki sadece
+tek başına inşaatlar değil.
+											İnşaat sahasında hareket eden
+diğer insanlarla da baş etmek zorunda.
+											Ve tabii ki, kuralları çiğneyen
+biri varsa, polis oradadır
+											ve arabanın üstünde yanıp sönen ışıklardan
+											bunun normal bir araba olmadığını,
+bir polis memuru olduğunu anlamalıdır.
+											Benzer şekilde, köşedeki turuncu kutu,
+											bir okul otobüsü
+											ve ona da farklı davranmamız gerekiyor.
+									","
+											Als wir 2009 angefangen haben,
+											sah unser System so aus.
+											Sie sehen unser Auto in der Mitte
+und die anderen Kästchen,
+											die auf der Autobahn fahren.
+											Das Auto muss wissen, wo es selbst ist
+und ungefähr, wo die anderen sind.
+											Es geht um ein geometrisches
+Verständnis der Umwelt.
+											Als wir begannen, in der 
+Innenstadt zu fahren,
+											wurde die Aufgabe viel schwieriger.
+											Da laufen Fußgänger vorbei, 
+Autos überqueren die Kreuzung,
+											fahren in verschiedene Richtungen,
+											es gibt Ampeln, Zebrastreifen.
+											Das ist im Vergleich viel komplizierter.
+											Wenn Sie dieses Problem gelöst haben,
+											muss das Auto noch mit
+Baustellen zurechtkommen.
+											Hier links sind die Pylonen, wir
+müssen also nach rechts wechseln.
+											Aber die Baustelle kommt nicht allein.
+											Das Auto muss mit anderen zurecht kommen,
+die sich durch die Baustelle bewegen.
+											Natürlich, falls jemand die Regeln
+bricht, taucht die Polizei auf.
+											Das Auto muss verstehen, was ein
+Blinklicht auf dem Wagendach bedeutet:
+											Das ist kein normales Auto,
+sondern ein Polizeiauto.
+											Mit diesem orangen Kasten ist das ähnlich:
+											Das ist ein Schulbus,
+											den müssen wir auch anders behandeln.
+									",How a driverless car sees the road,Chris Urmson,15:29,"cars,technology,transportation,driverless cars"
+"
+","
+","
+","
+",How a driverless car sees the road,Chris Urmson,15:29,"cars,technology,transportation,driverless cars"
+"
+											When we're out on the road,
+other people have expectations:
+											So, when a cyclist puts up their arm,
+											it means they're expecting the car
+to yield to them and make room for them
+											to make a lane change.
+											And when a police officer
+stood in the road,
+											our vehicle should understand
+that this means stop,
+											and when they signal to go,
+we should continue.
+									","
+											Quando estamos na estrada,
+as pessoas têm expetativas:
+											Assim, quando um ciclista
+levanta o braço,
+											quer dizer que espera
+que o carro lhe ceda a passagem
+											para ele poder mudar de direção.
+											E quando um policia está na estrada,
+											o nosso veículo deve perceber
+que isso quer dizer parar
+											e que, quando fazem sinal para avançar,
+deve continuar.
+									","
+											Yola çıktığımızda,
+diğer insanların beklentileri var:
+											Yani, bir bisikletçi kolunu kaldırdığında,
+											bu demektir ki arabanın onlara
+yol vermesini ve şerit değiştirmek için
+											yer açmasını bekliyorlar.
+											Ve polis memuru yolda dikiliyorsa,
+											aracımız bunun dur demek olduğunu anlamalı
+											ve devam et işaret yaptığında
+devam etmeliyiz.
+									","
+											Im Verkehr haben die anderen
+Teilnehmer Erwartungen.
+											Streckt ein Radfahrer den Arm aus,
+											erwartet er, dass ihm das Auto
+Vorrang einräumt
+											und ihn die Spur wechseln lässt.
+											Wenn ein Polizist auf der Straße steht,
+											sollte das Auto ""Stopp"" verstehen.
+											Wenn man uns weiterwinkt,
+sollten wir weiterfahren.
+									",How a driverless car sees the road,Chris Urmson,15:29,"cars,technology,transportation,driverless cars"
+"
+","
+","
+","
+",How a driverless car sees the road,Chris Urmson,15:29,"cars,technology,transportation,driverless cars"
+"
+											Now, the way we accomplish this
+is by sharing data between the vehicles.
+											The first, most crude model of this
+											is when one vehicle
+sees a construction zone,
+											having another know about it
+so it can be in the correct lane
+											to avoid some of the difficulty.
+											But we actually have a much
+deeper understanding of this.
+											We could take all of the data
+that the cars have seen over time,
+											the hundreds of thousands
+of pedestrians, cyclists,
+											and vehicles that have been out there
+											and understand what they look like
+											and use that to infer
+what other vehicles should look like
+											and other pedestrians should look like.
+											And then, even more importantly,
+we could take from that a model
+											of how we expect them
+to move through the world.
+											So here the yellow box is a pedestrian
+crossing in front of us.
+											Here the blue box is a cyclist
+and we anticipate
+											that they're going to nudge out
+and around the car to the right.
+											Here there's a cyclist
+coming down the road
+											and we know they're going to continue
+to drive down the shape of the road.
+											Here somebody makes a right turn,
+											and in a moment here, somebody's
+going to make a U-turn in front of us,
+											and we can anticipate that behavior
+and respond safely.
+									","
+											A forma de conseguirmos isto
+é partilhando informações entre veículos.
+											Este é o primeiro modelo, mais em bruto.
+											Quando um veículo vê uma zona de obras
+											informa os outros veículos
+para ficarem na faixa correta
+											para evitarem dificuldades.
+											Mas temos uma compreensão 
+mais profunda disso.
+											Podemos usar todos os dados
+que os carros foram vendo,
+											as centenas de milhares
+de peões, de ciclistas,
+											e de veículos que lá estiveram
+											e perceber como é que são
+											e usar isso para deduzir
+o que é que os outros veículos são
+											e o que é que são os peões.
+											Ainda mais importante,
+podemos obter isso de um modelo
+											de como prevemos
+que eles se desloquem.
+											Aqui, a caixa amarela é um peão
+a atravessar á nossa frente.
+											Aqui, a caixa azul é um ciclista
+											e prevemos que ele vai sair
+da estrada á sua direita.
+											Aqui, há um ciclista em sentido oposto
+											e sabemos que ele vai continuar 
+ao longo da estrada
+											Aqui, alguém faz uma viragem á direita,
+											e daqui a pouco, alguém
+vai inverter a marcha á nossa frente.
+											Podemos prever esse comportamento
+e reagir com segurança.
+									","
+											Bunu, veriyi diğer araçlarla
+paylaşarak başardık.
+											Bunun ilk ve kabataslak modelinde
+											bir araç bir inşaat sahası gördüğünde
+											bunu diğerine haber veriyor,
+böylece o da olumsuzluktan kaçınmak için
+											doğru şeride geçiyor.
+											Aslında daha derin bir anlayışa sahibiz.
+											Zamanla araçların gördüğü
+tüm verileri alıp,
+											oralarda olan yüz binlerce yaya,
+											bisikletli ve aracı,
+											onların neye benzediğini anlayıp,
+											diğer araçların ve diğer yayaların
+neye benzediği konusunda çıkarım
+											yapmak için kullanabiliriz.
+											Daha da önemlisi,
+bundan bir model çıkarıp
+											onların dünyada nasıl
+davrandıklarını bulabiliriz.
+											Buradaki sarı kutu önümüzde 
+karşıya geçen bir yaya.
+											Buradaki mavi kutu bir 
+bisikletli ve biz onun
+											arabanın yanından geçip
+sağa yöneleceğini öngörüyoruz.
+											Burada bir bisikletli aşağı yönde gidiyor
+											ve biz onun yol boyunca sürmeye
+devam edeceğini biliyoruz.
+											Burada birisi sağa dönüş yapıyor
+											ve burada bir anda, birisi
+önümüzde U dönüşü yapacak
+											ve biz bu davranışı öngörüp
+güvenli bir şekilde tepki verebiliriz.
+									","
+											Wir erreichen das, indem wir Daten
+zwischen den Fahrzeugen austauschen.
+											In einem ersten, einfachen Modell
+erkennt ein Auto eine Baustelle
+											und informiert andere Fahrzeuge,
+											damit diese die richtige Spur wählen.
+											Wir können heute aber
+noch viel mehr als das.
+											Wir haben alle Daten, die unsere Autos
+											mit der Zeit erfasst haben —
+hunderttausende Fußgänger,
+											Radfahrer und Fahrzeuge —
+											wir kennen ihr Aussehen.
+											Daraus können wir ableiten,
+wie andere Fahrzeuge
+											und andere Fußgänger aussehen sollten.
+											Daraus könnten wir dann
+sogar ein Modell ableiten,
+											das ihre Bewegungen vorhersagt.
+											Hier läuft gerade ein Fußgänger
+vor uns über die Straße.
+											Das Blaue ist ein Radfahrer
+und wir nehmen an,
+											dass er gleich ausscheren wird,
+um das geparkte Auto zu umfahren.
+											Hier kommt uns ein Radfahrer entgegen.
+											Wir wissen, dass er weiter
+dem Straßenverlauf folgen wird.
+											Hier biegt jemand rechts ab.
+											Hier wird gleich jemand vor uns wenden.
+											Wir erkennen das und können
+sofort sicher reagieren.
+									",How a driverless car sees the road,Chris Urmson,15:29,"cars,technology,transportation,driverless cars"
+"
+","
+","
+","
+",How a driverless car sees the road,Chris Urmson,15:29,"cars,technology,transportation,driverless cars"
+"
+											Now, that's all well and good
+for things that we've seen,
+											but of course, you encounter
+lots of things that you haven't
+											seen in the world before.
+											And so just a couple of months ago,
+											our vehicles were driving
+through Mountain View,
+											and this is what we encountered.
+											This is a woman in an electric wheelchair
+											chasing a duck in circles on the road.
+(Laughter)
+											Now it turns out, there is nowhere
+in the DMV handbook
+											that tells you how to deal with that,
+											but our vehicles were able
+to encounter that,
+											slow down, and drive safely.
+											Now, we don't have to deal
+with just ducks.
+											Watch this bird fly across in front of us.
+The car reacts to that.
+											Here we're dealing with a cyclist
+											that you would never expect to see
+anywhere other than Mountain View.
+											And of course, we have
+to deal with drivers,
+											even the very small ones.
+											Watch to the right as someone
+jumps out of this truck at us.
+											And now, watch the left as the car
+with the green box decides
+											he needs to make a right turn
+at the last possible moment.
+											Here, as we make a lane change,
+the car to our left decides
+											it wants to as well.
+											And here, we watch a car
+blow through a red light
+											and yield to it.
+											And similarly, here, a cyclist
+blowing through that light as well.
+											And of course,
+the vehicle responds safely.
+											And of course, we have people
+who do I don't know what
+											sometimes on the road, like this guy
+pulling out between two self-driving cars.
+											You have to ask, ""What are you thinking?""
+											(Laughter)
+									","
+											Agora, está tudo a correr bem
+para as coisas que vimos,
+											mas claro, encontramos imensas coisas
+que nunca tínhamos visto.
+											Há uns meses,
+											os nossos veículos
+estavam a percorrer a Mountain View,
+											e encontrámos isto.
+											Uma mulher numa cadeira de rodas elétrica,
+											às voltas, a perseguir um pato na estrada!
+											(Risos)
+											Acontece que, em parte alguma,
+no código da estrada,
+											se explica como reagir a isto.
+											Mas os nossos veículos
+foram capazes de gerir isso,
+											abrandar e seguir em segurança.
+											Mas não temos que lidar apenas com patos.
+											Observem este pássaro à nossa frente.
+											O carro reage a isso.
+											Aqui, estamos a lidar com um ciclista
+											como só encontramos em Mountain View.
+											E claro que temos que 
+lidar com condutores,
+											mesmo os mais pequenos.
+											Olhem para a direita,
+alguém salta deste camião.
+											E agora, olhem para a esquerda,
+o carro com caixa verde
+											decide, no último momento,
+que precisa de virar à direita.
+											Aqui, quando vamos mudar de faixa,
+o carro à nossa esquerda
+											decide que quer fazer o mesmo.
+											E aqui, vemos um carro
+a passar um sinal vermelho
+											e a continuar o seu caminho.
+											Do mesmo modo, aqui um ciclista
+passa também um sinal vermelho.
+											E claro, o nosso veículo
+responde de forma segura.
+											Há pessoas, como este homem,
+que, não sei como,
+											por vezes, atravessam a estrada
+entre dois carros autónomos.
+											Temos de perguntar:
+"" Em que é que estás a pensar?""
+											(Risos)
+									","
+											Gördüğümüz şeylerin hepsi iyi ve güzel,
+											fakat tabii ki, dünyada
+daha önce görmediğiniz
+											birçok şeyle karşılaşıyorsunuz.
+											Sonuçta birkaç ay önce,
+											araçlarımız Mountain View'de gidiyorlardı
+											ve karşımıza şöyle bir şey çıktı.
+											Akülü sandalyede bir bayan
+											yolda daireler çizerek ördek kovalıyor.
+(Gülüşmeler)
+											Görünen o ki, motorlu 
+taşıtlar el kitabında
+											bununla nasıl başa çıkacağınızı 
+anlatan bir bölüm yok;
+											fakat araçlarımız bununla baş edebildi,
+											yavaşladı ve güvenli 
+bir şekilde devam etti.
+											Fakat sadece ördeklerle uğraşmıyoruz.
+											Önümüzde uçan şu kuşa bakın.
+Araba ona tepki veriyor.
+											Burada bir bisikletli ile uğraşıyoruz,
+											ki böyle bir şeyi Mountain View
+haricinde görmeyi asla ummazsınız.
+											Tabii ki, sürücülerle de
+uğraşmak durumundayız,
+											ufak sürücüler dâhil.
+											Bakın sağ tarafta birisi bu 
+tırdan bize doğru atlıyor.
+											Şimdi de, bakın soldaki yeşil 
+kutudaki araba
+											en son anda sağa dönmeye karar veriyor.
+											Burada, biz şerit değiştirirken
+solumuzdaki araç da
+											şerit değiştirmek istiyor.
+											Burada ise, kırmızı ışıkta
+kaçan bir araba izliyoruz
+											ve ona yol veriyor.
+											Benzer şekilde, bir bisikletli
+ışıktan kaçıyor.
+											Tabii ki, araç güvenli
+bir şekilde yanıt veriyor.
+											Ve tabii ki, bazı insanlar var yolda,
+nedir bilemiyorum,
+											bazen şu adam gibi iki sürücüsüz
+araba arasından çıkıyor.
+											""Ne düşünüyordun acaba?"" 
+diye sorasınız geliyor.
+											(Gülüşmeler)
+									","
+											Das funktioniert alles prima
+für Dinge, die wir kennen.
+											Natürlich trifft man immer
+wieder auf Situationen,
+											die neu für uns sind.
+											Vor ein paar Monaten
+											fuhren unsere Autos durch Mountain View,
+											und dann geschah das:
+											Eine Frau in einem elektrischen Rollstuhl
+											verfolgte eine Ente auf der Straße.
+(Lachen)
+											In der Straßenverkehrsordnung
+steht leider nicht,
+											wie man damit umgehen sollte.
+											Aber unser Auto reagierte richtig.
+											Es bremste und fuhr vorsichtig.
+											Natürlich sind Enten nur die eine Sache.
+											Hier fliegt ein Vogel direkt vor
+uns vorbei. Das Auto reagiert.
+											Hier ist ein Radfahrer,
+											den es so wohl nur in Mountain View gibt.
+											Dann gibt es die Autofahrer,
+											selbst die Allerkleinsten.
+											Hier rechts springt uns jemand
+aus einem LKW entgegen.
+											Hier links entscheidet sich
+das Auto in der grünen Box
+											im allerletzten Moment fürs Abbiegen.
+											Hier wechseln wir die Spur
+											und der Fahrer links beschließt dasselbe.
+											Hier fährt jemand über eine rote Ampel,
+											und wir weichen aus.
+											Hier das gleiche mit einem Radfahrer.
+											Natürlich reagiert das Fahrzeug sicher.
+											Dann gibt es Leute, die Verrücktes tun.
+											Er hier drängelt sich zwischen
+zwei selbstfahrende Autos.
+											Da fragt man sich schon: 
+""Warum macht der das?!""
+											(Lachen)
+									",How a driverless car sees the road,Chris Urmson,15:29,"cars,technology,transportation,driverless cars"
+"
+","
+","
+","
+",How a driverless car sees the road,Chris Urmson,15:29,"cars,technology,transportation,driverless cars"
+"
+											Now, I just fire-hosed you
+with a lot of stuff there,
+											so I'm going to break one of these
+down pretty quickly.
+											So what we're looking at is the scene
+with the cyclist again,
+											and you might notice in the bottom,
+we can't actually see the cyclist yet,
+											but the car can: it's that little
+blue box up there,
+											and that comes from the laser data.
+											And that's not actually
+really easy to understand,
+											so what I'm going to do is I'm going
+to turn that laser data and look at it,
+											and if you're really good at looking
+at laser data, you can see
+											a few dots on the curve there,
+											right there, and that blue box
+is that cyclist.
+											Now as our light is red,
+											the cyclist's light
+has turned yellow already,
+											and if you squint, you can see that
+in the imagery.
+											But the cyclist, we see, is going
+to proceed through the intersection.
+											Our light has now turned green,
+his is solidly red,
+											and we now anticipate that this bike
+is going to come all the way across.
+											Unfortunately the other drivers next to us
+were not paying as much attention.
+											They started to pull forward,
+and fortunately for everyone,
+											this cyclists reacts, avoids,
+											and makes it through the intersection.
+											And off we go.
+									","
+											Já vos inundei com todas estas coisas,
+											por isso, vou falar duma
+muito rapidamente.
+											O que vemos aqui, 
+é a cena do ciclista outra vez.
+											Na realidade, ainda não vemos o ciclista,
+											mas o carro vê:
+é aquela pequena caixa azul ali.
+											Isso vem das informações do laser.
+											Na verdade, não é muito fácil perceber,
+											por isso vou mudar o ângulo de leitura
+e olhar para elas.
+											Se formos bons a ler dados laser,
+											podemos ver alguns pontos ali na curva.
+											Aquela caixa azul é o ciclista.
+											Quando o nosso sinal está vermelho,
+											o do ciclista já está amarelo.
+											Se semicerrarmos os olhos,
+podemos ver isso na imagem.
+											Mas o ciclista vai avançar no cruzamento.
+											O nosso sinal mudou para verde,
+o dele já está vermelho
+											e podemos prever que a bicicleta
+vai atravessar-se à nossa frente.
+											Infelizmente, os outros condutores
+não prestaram muita atenção.
+											Começaram a avançar
+e, felizmente para todos,
+											este ciclista reage, evita-os
+											e passa pelo cruzamento.
+											E agora, cá vamos nós!
+									","
+											Size bir sürü şeyi gösterdim,
+											hemen bunlardan birini daha
+detaylı göstereceğim.
+											Burada tekrar bisikletlinin olduğu 
+görüntüyü görüyoruz
+											ve aşağıda henüz bisikletliyi
+göremediğimizi fark etmiş olabilirsiniz;
+											fakat araba görebiliyor:
+Yukarıdaki küçük mavi kutu
+											ve bu lazer verisinden geliyor.
+											Aslında bunu anlaması çok kolay değil,
+											o yüzden lazer verisini açıp bakacağım
+											ve bir lazer verisine
+bakmakta iyiyseniz, siz de
+											eğride birkaç nokta görebilirsiniz,
+											tam şurada ve o mavi kutu, 
+işte o bisikletli.
+											Şimdi ışığımız kırmızı iken,
+											bisikletlinin ışığı çoktan sarıya döndü
+											ve dikkatle bakarsanız, bunu 
+resimde görebilirsiniz.
+											Fakat gördüğümüz bisikletli
+kavşaktan devam edecek.
+											Işığımız şimdi yeşile döndü,
+onunki kesinlikle kırmızı
+											ve şimdi bu bisikletin
+karşıya geçmesini umuyoruz.
+											Ne yazık ki yanımızdaki diğer sürücüler
+o kadar da dikkat etmiyorlar.
+											İlerlemeye başladılar, ama şükür ki
+											bisikletli tepki verip, kaçıyor
+											ve kavşağı geçiyor.
+											Ve devam ediyoruz.
+									","
+											Jetzt habe ich Sie mit
+vielen Infos überschüttet.
+											Ein Beispiel möchte ich noch
+kurz näher erklären.
+											Hier sehen wir noch einmal
+die Szene mit dem Radfahrer.
+											Sie erkennen vielleicht, dass man den
+Radfahrer noch gar nicht sehen kann.
+											Das Auto aber kann es: 
+Er ist die kleine blaue Box.
+											Das erkennen wir anhand von Laserdaten.
+											Das ist nicht so leicht zu verstehen.
+											Ich wechsle mal die Darstellung.
+											Haben Sie öfter mit Laserdaten zu tun,
+											erkennen Sie da oben
+ein paar Punkte in der Kurve.
+											Genau da. Das blaue Kästchen
+ist der Radfahrer.
+											Unsere Ampel ist rot,
+											die Ampel des Radlers zeigt schon gelb.
+											Das sehen Sie, wenn Sie
+die Augen zusammenkneifen.
+											Aber der Radfahrer fährt einfach weiter.
+											Unsere Ampel ist jetzt grün,
+die des Radlers rot.
+											Wir schließen daraus, dass er die
+komplette Kreuzung überqueren wird.
+											Leider haben die Fahrer neben
+uns nicht so gut aufgepasst.
+											Sie fahren schon los und zum Glück
+											reagiert der Radler, er weicht aus
+											und schafft es über die Kreuzung.
+											Und ab durch die Mitte.
+									",How a driverless car sees the road,Chris Urmson,15:29,"cars,technology,transportation,driverless cars"
+"
+","
+","
+","
+",How a driverless car sees the road,Chris Urmson,15:29,"cars,technology,transportation,driverless cars"
+"
+											Now, as you can see, we've made
+some pretty exciting progress,
+											and at this point we're pretty convinced
+											this technology is going
+to come to market.
+											We do three million miles of testing
+in our simulators every single day,
+											so you can imagine the experience
+that our vehicles have.
+											We are looking forward to having
+this technology on the road,
+											and we think the right path
+is to go through the self-driving
+											rather than driver assistance approach
+											because the urgency is so large.
+											In the time I have given this talk today,
+											34 people have died on America's roads.
+									","
+											Como podem ver, fizemos 
+progressos muito excitantes.
+											Nesta altura, estamos convencidos
+que esta tecnologia vai entrar no mercado.
+											Fizemos cinco milhões de km de testes
+nos nossos simuladores, todos os dias.
+											Podem imaginar a experiência 
+que os nossos veículos têm.
+											Estamos ansiosos por ver
+esta tecnologia na estrada.
+											Achamos que o caminho correto
+é através dos carros autónomos
+											em vez de carros
+com assistência ao condutor.
+											A urgência é enorme.
+											Durante o tempo
+em que eu fiz esta palestra hoje,
+											morreram 34 pessoas
+nas estradas dos EUA.
+									","
+											Şimdi, gördüğünüz gibi, oldukça
+şaşırtıcı ilerlemeler kaydettik
+											ve bu noktada bu teknolojinin
+											piyasaya çıkacağına ikna olduk.
+											Simülatörlerimizde her gün
+beş milyon kilometre test yapıyoruz,
+											yani araçlarımızın sahip olduğu
+tecrübeyi hayal edebilirsiniz.
+											Bu teknolojiyi yola çıkarmaya can atıyoruz
+											ve doğru olanın sürücü asistan
+yaklaşımından ziyade
+											sürücüsüz sistem olduğunu düşünüyoruz,
+											çünkü aciliyet çok önemli.
+											Bugün bu konuşmayı yaptığım sürede,
+											Amerika yollarında 34 kişi öldü.
+									","
+											Sie sehen, wir haben schon
+erstaunliche Fortschritte gemacht.
+											Heute sind wir ziemlich überzeugt,
+											dass diese Technologie 
+auf den Markt kommen wird.
+											Wir fahren täglich
+4,8 Mio. Kilometer im Simulator.
+											Unsere Autos haben also
+ziemlich viel Erfahrung.
+											Wir freuen uns darauf, die Technologie
+auf die Straße zu bringen.
+											Wir glauben, ein selbstfahrendes 
+Auto ist sinnvoller
+											als der Ansatz mit Assistenzsystemen,
+											weil es um so viel geht.
+											Während meines Vortrags heute
+											sind 34 Menschen auf
+amerikanischen Straßen gestorben.
+									",How a driverless car sees the road,Chris Urmson,15:29,"cars,technology,transportation,driverless cars"
+"
+","
+","
+","
+",How a driverless car sees the road,Chris Urmson,15:29,"cars,technology,transportation,driverless cars"
+"
+											How soon can we bring it out?
+											Well, it's hard to say because
+it's a really complicated problem,
+											but these are my two boys.
+											My oldest son is 11, and that means
+in four and a half years,
+											he's going to be able
+to get his driver's license.
+											My team and I are committed
+to making sure that doesn't happen.
+									","
+											Quando é que podemos pôr isto cá fora?
+											É difícil dizer, porque é 
+um problema complicado.
+											Estes são os meus dois filhos.
+											O meu filho mais velho tem 11 anos.
+											Dentro de 4 anos e meio,
+vai poder obter a carta de condução.
+											A minha equipa e eu estamos empenhados
+em fazer que isso não aconteça!
+									","
+											Bunu ne zaman yola çıkarabiliriz?
+											Bunu söylemek zor, çünkü
+gerçekten karışık bir problem,
+											fakat bunlar benim iki oğlum.
+											Büyüğü 11 yaşında ve bu demektir ki
+dört buçuk sene sonra
+											ehliyetini alabilecek.
+											Ekibim ve ben bunun
+olmaması için kendimizi adadık.
+									","
+											Wann sind wir marktreif?
+											Schwer zu sagen, denn die
+Aufgabe ist enorm komplex.
+											Aber das hier sind meine beiden Jungs.
+											Der ältere ist 11 und das heißt:
+											In nur 4,5 Jahren kann er
+seinen Führerschein machen.
+											Mein Team und ich setzen
+alles daran, das zu verhindern.
+									",How a driverless car sees the road,Chris Urmson,15:29,"cars,technology,transportation,driverless cars"
+"
+","
+","
+","
+",How a driverless car sees the road,Chris Urmson,15:29,"cars,technology,transportation,driverless cars"
+"
+											Thank you.
+									","
+											Obrigado.
+									","
+											Teşekkür ederim.
+									","
+											Danke!
+									",How a driverless car sees the road,Chris Urmson,15:29,"cars,technology,transportation,driverless cars"
+"
+","
+","
+","
+",How a driverless car sees the road,Chris Urmson,15:29,"cars,technology,transportation,driverless cars"
+"
+											(Laughter) (Applause)
+											Chris Anderson: Chris,
+I've got a question for you.
+									","
+											(Aplausos)
+											Chris Anderson: Chris,
+tenho uma pergunta para ti.
+									","
+											(Gülüşmeler) (Alkışlar)
+											Chris Anderson: Chris, sana bir sorum var.
+									","
+											(Lachen) (Applaus)
+											Chris Anderson: Chris, 
+ich habe noch eine Frage.
+									",How a driverless car sees the road,Chris Urmson,15:29,"cars,technology,transportation,driverless cars"
+"
+","
+","
+","
+",How a driverless car sees the road,Chris Urmson,15:29,"cars,technology,transportation,driverless cars"
+"
+											Chris Urmson: Sure.
+									","
+											Chris Urmson: Ok.
+									","
+											Chris Urmson: Tabii.
+									","
+											Chris Urmson: Klar.
+									",How a driverless car sees the road,Chris Urmson,15:29,"cars,technology,transportation,driverless cars"
+"
+","
+","
+","
+",How a driverless car sees the road,Chris Urmson,15:29,"cars,technology,transportation,driverless cars"
+"
+											CA: So certainly, the mind of your cars
+is pretty mind-boggling.
+											On this debate between
+driver-assisted and fully driverless —
+											I mean, there's a real debate
+going on out there right now.
+											So some of the companies,
+for example, Tesla,
+											are going the driver-assisted route.
+											What you're saying is that
+that's kind of going to be a dead end
+											because you can't just keep improving
+that route and get to fully driverless
+											at some point, and then a driver
+is going to say, ""This feels safe,""
+											and climb into the back,
+and something ugly will happen.
+									","
+											CA: Certamente a mente dos vossos carros
+é bastante incompreensível.
+											Neste debate entre assistência ao condutor
+e totalmente autónomo...
+											Há bastante debate sobre isto,
+neste momento.
+											Há empresas como, por exemplo, a Tesla
+											que estão viradas
+para a assistência á condução.
+											O que estás a dizer e dizer é que 
+isso vai ser um beco sem saída,
+											porque não conseguimos continuar
+											a melhorar esse caminho
+e chegar a autónomo
+											em determinado ponto, e o condutor
+vai dizer: "" Isto parece seguro"",
+											entra lá para trás,
+e acontece algo muito feio.
+									","
+											CA: Arabalarınızın zekâsı
+gerçekten akıl almaz.
+											Sürücü-asistanlı ve tamamen sürücüsüz
+arasındaki çekişme —
+											yani, şu anda gerçek bir çekişme var.
+											Bazı şirketler, mesela Tesla,
+											sürücü-asistanlı yoldan gidiyorlar.
+											Diyorsunuz ki, bu şey çıkmaza girecek gibi,
+											çünkü rotayı sürekli güncelleyerek bir noktada
+tamamen sürücüsüz sisteme geçemezsiniz.
+											Yani bir sürücü bunun
+güvenli olduğunu düşünerek
+											arka koltuğa geçecek ve
+çirkin bir olay meydana gelecek.
+									","
+											CA: Dieses ""Gehirn"" eurer Autos
+ist schon ziemlich verblüffend.
+											Was diese Debatte über Assistenzsysteme
+und fahrerlose Autos angeht —
+											also, da läuft ja tatsächlich 
+eine große Debatte.
+											Einige Unternehmen, beispielsweise Tesla,
+											entscheiden sich für Assistenzsysteme.
+											Meinst du, das ist eine Sackgasse?
+											Wenn man diese Systeme weiterentwickelt
+und keinen Fahrer mehr braucht,
+											denkt sich der Fahrer:
+""Das fühlt sich sicher an"",
+											klettert nach hinten und 
+etwas Schlimmes passiert.
+									",How a driverless car sees the road,Chris Urmson,15:29,"cars,technology,transportation,driverless cars"
+"
+","
+","
+","
+",How a driverless car sees the road,Chris Urmson,15:29,"cars,technology,transportation,driverless cars"
+"
+											CU: Right. No, that's exactly right,
+and it's not to say
+											that the driver assistance systems
+aren't going to be incredibly valuable.
+											They can save a lot of lives
+in the interim,
+											but to see the transformative opportunity
+to help someone like Steve get around,
+											to really get to the end case in safety,
+											to have the opportunity
+to change our cities
+											and move parking out and get rid of
+these urban craters we call parking lots,
+											it's the only way to go.
+									","
+											CU: Certo, é isso mesmo.
+											Não estou a dizer que os sistemas
+de assistência ao condutor
+											vão deixar de ter um valor incrível.
+											Podem salvar muitas vidas
+entretanto.
+											mas ver a oportunidade transformadora
+											e ajudar alguém como o Steve
+a dar uma volta,
+											para chegar ao fim em segurança,
+											ter a oportunidade de 
+mudar as nossas cidades
+											e eliminar essas crateras urbanas
+a que chamamos parques de estacionamento,
+											é a única forma de avançar.
+									","
+											CU: Doğru. Hayır, bu kesinlikle doğru
+
+											ve bu, sürücü asistan sistemleri
+çok değerli olmayacak demek değil.
+											Bu geçiş döneminde birçok 
+hayatı kurtarabilir,
+											fakat Steve gibi birinin dolaşmasına yardım
+edecek dönüştürücü fırsatı görmek,
+											sonuca güvenli bir şekilde ulaşmak,
+											şehirlerimizi değiştirecek olan 
+fırsata sahip olmak
+											ve otoparkları bırakıp, park alanları 
+dediğimiz şehir oyuklarından kurtulmak için
+											bu tek yol.
+									","
+											CU: Ja, ganz genau.
+											Ich sage auch klar, dass Assistenzsysteme
+unglaublich wichtig sind.
+											Sie können übergangsweise
+viele Leben retten.
+											Aber nun haben wir die Chance, Menschen
+wie Steve das Fahren zu ermöglichen
+											und größte Sicherheit zu erreichen.
+											Wir haben die Chance, 
+unsere Städte zu verändern,
+											indem wir hässliche Parkplätze in
+der Stadt selbst nach draußen verlagern.
+											Das ist der einzige Weg.
+									",How a driverless car sees the road,Chris Urmson,15:29,"cars,technology,transportation,driverless cars"
+"
+","
+","
+","
+",How a driverless car sees the road,Chris Urmson,15:29,"cars,technology,transportation,driverless cars"
+"
+											CA: We will be tracking your progress
+with huge interest.
+											Thanks so much, Chris.
+CU: Thank you. (Applause)
+									","
+											CA: Nós vamos acompanhando
+o vosso progresso com enorme interesse.
+											- Muito obrigado Chris.
+- Obrigado.
+											(Aplausos)
+									","
+											CA: Gelişmeleri büyük bir
+ilgiyle takip ediyor olacağız.
+											Çok teşekkürler, Chris.
+CU: Teşekkür ederim. (Alkışlar)
+									","
+											CA: Wir werden eure Fortschritte
+gespannt verfolgen.
+											Vielen Dank, Chris.
+CU: Danke. (Appplaus)
+									",How a driverless car sees the road,Chris Urmson,15:29,"cars,technology,transportation,driverless cars"
+"
+","
+","
+","
+",How a driverless car sees the road,Chris Urmson,15:29,"cars,technology,transportation,driverless cars"

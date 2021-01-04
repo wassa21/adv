@@ -1,0 +1,2441 @@
+en,es,tr,fr,de,title,speaker,duration,tags
+"
+","
+","
+","
+","
+",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+											How do groups get anything done? Right?
+											How do you organize a group of individuals
+											so that the output of the group
+											is something coherent and of lasting value,
+											instead of just being chaos?
+											And the economic framing of that problem
+											is called coordination costs.
+											And a coordination cost is essentially all of the financial
+											or institutional difficulties in arranging group output.
+											And we've had a classic answer for coordination costs,
+											which is, if you want to coordinate the work of a group of people,
+											you start an institution, right? You raise some resources.
+											You found something. It can be private or public.
+											It can be for profit or not profit. It can be large or small.
+											But you get these resources together.
+											You found an institution, and you use the institution
+											to coordinate the activities of the group.
+									","
+											¿Cómo hacen los grupos para obtener resultados?
+											¿Cómo se organiza un grupo de individuos
+											de modo que el resultado de su trabajo
+											sea algo coherente y de valor duradero,
+											en vez de algo simplemente caótico?
+											En terminología económica, este problema
+											se denomina ""costos de coordinción"".
+											El ""costo de coordinación"" incluye el gasto financiero
+											e institucional para obtener un resultado grupal.
+											Y hemos tenido una respuesta clásica a los costos de coordinación.
+											Esto es — cuando se necesita coordinar el trabajo de un grupo,
+											se crea una institución, ¿no? Se juntan recursos.
+											Se funda algo. Puede ser privado o público.
+											Puede ser con o sin fines de lucro, puede ser grande o pequeño.
+											Pero, se juntan estos recursos.
+											Se funda una institución, y se se utiliza
+											para coordinar las actividades del grupo.
+									","
+											Topluluklar işleri nasıl yapar?
+											Nasıl bir bireyler grubunu alıp da
+											bunlara karmaşa yerine,
+											kalıcı ve değerli bir şeyler
+											yarattırsınız?
+											Bu problemin ekonomik anlatımına
+											""koordinasyon maliyeti"" deniyor.
+											""Koordinasyon maliyeti,"" topluluktan sonuç alabilmek için
+											ortaya çıkan bütün kurumsal ve finansal zorluklara verilen ad.
+											Bu problemin klasik bir cevabı vardı:
+											Eğer bir grup insanın beraber çalışmasını istiyorsan,
+											bir kurum yaratırsın, değil mi? Kaynak bulursun.
+											Bir şeyler kurarsın. Özel veya devlet kurumu olabilir.
+											Kar amacı güdebilir, veya gütmeyebilir. Büyük veya küçük olabilir.
+											Her halükarda kaynaklarını toplarsın,
+											bir kurum yaratırsın ve topluluğun faaliyetlerini
+											bu kurum aracılığıyla yönlendirirsin.
+									","
+											Comment les gens parviennent-il à accomplir quelque chose en groupe?
+											Comment organiser un groupe d'individus
+											de sorte que la production du groupe
+											soit quelque chose de cohérent et de pérenne,
+											au lieu d'un chaos informe?
+											Et le cadre économique de ce problème,
+											s'appelle ""coûts de coordination"".
+											Et les coûts de coordination sont essentiellement financiers
+											ou institutionnelles rencontrées dans l'organisation de la production du groupe.
+											Et nous avions une réponse classique aux coûts de coordination,
+											qui était : ""si vous voulez coordonner les efforts d'un groupe de gens,
+											vous créez une institution, n'est ce pas ? Vous collectez certaines ressources.
+											Vous fondez quelque chose. Cela peut-être privé ou public.
+											Ce peut être pour le profit ou non. Cela peut être grand ou petit.
+											Mais vous assemblez ces ressources.
+											Vous fondez une institution, et vous utilisez cette institution
+											pour coordonner les activités du groupe.
+									","
+											Wie bringen Gruppen ein Ergebnis zustande?
+											Wie organisiert man eine Gruppe von Personen,
+											so dass das Ergebnis der Gruppe
+											ein stimmiges und von dauerhaftem Wert ist,
+											statt einfach nur Chaos?
+											Das ökonomische Konzept dieses Problems
+											nennt sich Koordinierungsaufwand.
+											Und der Koordinierungsaufwand besteht grundsätzlich aus allen finanziellen
+											oder institutionellen Schwierigkeiten bei der Bewerkstelligung einer Gruppenleistung.
+											Es gab eine klassische Antwort auf den Koordinierungsaufwand,
+											nämlich: wenn man die Arbeit einer Gruppe von Menschen koordinieren will,
+											gründet man eine Institution. Man beschafft Ressourcen.
+											Man gründet etwas. Sei es privat oder öffentlich gehandelt.
+											Sei es gewinnorientiert oder gemeinnützig. Sei es groß oder klein.
+											Aber man bringt diese Ressourcen zusammen.
+											Man gründet eine Institution und nutzt diese Institution,
+											um die Aktivitäten der Gruppe zu koordinieren.
+									",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+","
+","
+","
+","
+",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+											More recently, because the cost of letting groups
+											communicate with each other has fallen through the floor —
+											and communication costs are one of the big
+											inputs to coordination — there has been a second answer,
+											which is to put the cooperation into the infrastructure,
+											to design systems that coordinate the output
+											of the group as a by-product of the operating of the system,
+											without regard to institutional models.
+											So, that's what I want to talk about today.
+											I'm going to illustrate it with some fairly concrete examples,
+											but always pointing to the broader themes.
+									","
+											Recientemente, debido a que los costos de comunicación
+											intra-grupal se han desplomado —
+											y esos costos son uno de los grandes
+											factores para la coordinación — ha sugido una segunda respuesta:
+											incorporar la cooperación en la infraestructura
+											para diseñar sistemas que coordinen los resultados
+											del grupo, como un producto operacional intermedio del sistema,
+											prescindiendo de modelos institucionales.
+											De eso es lo que quiero hablarles hoy.
+											Voy a ilustrar esto con algunos ejemplos bastante concretos,
+											pero apuntando siempre a contextos más amplios.
+									","
+											Son zamanlarda, toplulukların
+											birbirleriyle görüşme masrafları ucuzladığı için,
+											- haberleşme, işbirliğinin en önemli parçalarından biri -
+											ikinci bir cevap ortaya çıktı:
+											işbirliğini, altyapının içine yerleştirmek,
+											yani, topluluğun yarattıklarını, sistemin çalışmasının
+											doğal bir sonucu haline getirmek,
+											kurumsal modellerle uğraşmamak.
+											İşte bugün size anlatmak istediğim şey bu.
+											Anlatırken, somut örnekler vereceğim,
+											ama geneli ortaya koymaya gayret edeceğim.
+									","
+											Plus récemment, comme les coûts de la communication entre les groupes
+											ont plongé en chute libre —
+											et que les coûts de communications sont l'une des grandes
+											composantes de la coordination — une deuxième réponse est apparue
+											qui est de confier la coopération à l'infrastructure,
+											afin de créer des systèmes qui coordonnent la production
+											des groupes en tant que sous-produit du système
+											sans considération pour les modèles institutionnels.
+											C'est ce dont je veux parler aujourd'hui.
+											J'illustrerai cela par des exemples concrets,
+											mais en indiquant toujours les grandes tendances.
+									","
+											In der letzten Zeit, da die Kommunikationskosten
+											zwischen Gruppen enorm gefallen sind –
+											und Kommunikationskosten sind ein großer
+											Faktor bei der Koordinierung – ist ein zweiter Ansatz entstanden,
+											welcher Kooperation in die Infrastruktur integriert,
+											Systeme so gestaltet, dass die Leistung
+											der Gruppe als ein Nebenprodukt des Systems entsteht,
+											ohne institutionelle Modelle zu beachten.
+											Darüber möchte ich heute sprechen.
+											Ich werde das mit einigen recht konkreten Beispielen illustrieren,
+											aber immer auf den erweiterten Kontext hinweisen.
+									",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+","
+","
+","
+","
+",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+											So, I'm going to start by trying to answer a question
+											that I know each of you will have asked yourself at some point or other,
+											and which the Internet is purpose-built to answer,
+											which is, where can I get a picture of a roller-skating mermaid?
+											So, in New York City, on the first Saturday of every summer,
+											Coney Island, our local, charmingly run-down amusement park,
+											hosts the Mermaid Parade. It's an amateur parade;
+											people come from all over the city; people get all dressed up.
+											Some people get less dressed up.
+											Young and old, dancing in the streets.
+											Colorful characters, and a good time is had by all.
+											And what I want to call your attention to is not the Mermaid Parade itself,
+											charming though it is, but rather to these photos.
+											I didn't take them. How did I get them?
+											And the answer is: I got them from Flickr.
+									","
+											Voy a empezar intentando responder una pregunta
+											que sé que cada uno de ustedes se ha hecho alguna vez,
+											y para la cual Internet parece haber nacido para responder,
+											y es esta: ¿Dónde puedo conseguir la foto de una sirena en patines?
+											En la ciudad de Nueva York, el primer sábado de cada verano,
+											en Coney Island, nuestro encantador aunque algo deteriorado parque de diversiones,
+											alberga el Desfile de Sirenas. Es un desfile de aficionados.
+											Desde todos los rincones de la ciudad llega gente vestida con disfraces.
+											Algunos llegan menos vestidos.
+											Jóvenes y viejos, bailan en las calles.
+											Son personajes pintorescos, todo el mundo se divierte.
+											Pero, lo que quiero destacar no es el Desfile de Sirenas en sí,
+											por más encantador que sea, sino, más bien, estas fotos.
+											No las tomé yo. ¿Cómo las obtuve?
+											La respuesta es: Las obtuve de Flickr.
+									","
+											Öncelikle, hepiniz zaman zaman kendine sorduğu,
+											ama ancak son zamanlarda İnternet'in yükselişi
+											ile cevabını alabildiğimiz bir soru sormak istiyorum:
+											Paten kayan bir denizkızı fotoğrafını nereden bulabilirim?
+											Denizkızı Alayı, her sene yazın ilk Cumartesi günü,
+											New York Şehri'nin Coney Adası'nda yerel, nostalik
+											lunaparkta gerçekleştiriliyor. Amatör bir geçiş alayı,
+											insanlar şehrin her tarafından kostümler giyinip geliyorlar.
+											Bazılar çok fazla giyinmiyor.
+											Yedisinden yetmişine, sokaklarda dans ediliyor.
+											Renkli tipler; herkes güzel vakit geçiriyor.
+											Ancak dikkatinizi çekmek istediğim şey
+											Denizkızı Alayı değil, buradaki fotoğraflar.
+											Ben bu fotoğrafları nasıl edindim? Kendim çekmedim.
+											Cevap ise şu: Fotoğrafları Flickr'dan aldım.
+									","
+											Donc je vais commencer par essayer de répondre à une question
+											que je sais que chacun d'entre nous se posera un jour
+											et à laquelle Internet a été conçu pour répondre,
+											qui est : ""où puis-je trouver des photos d'une sirène en patins à roulettes ?""
+											Ainsi, à New York City, le premier samedi de chaque été,
+											Coney Island, notre fatiguant parc d'attraction local,
+											abrite la Parade des Sirènes. C'est une parade d'amateurs,
+											des gens viennent de partout dans la ville, les gens se costument.
+											Certains se costument moins que d'autres.
+											Jeunes et vieux, dansant dans les rues.
+											Personnages colorés - et tout le monde passe vraiment un bon moment.
+											Et ce sur quoi je veux attirer votre attention, n'est pas la Parade des Sirènes elle-même,
+											aussi charmante soit-elle, mais plutôt ces photos.
+											Je ne les ai pas prises moi-même. Comment les ai-je obtenues ?
+											Et la réponse est : je les ai obtenues sur Flickr.
+									","
+											Ich fange an mit der Antwort auf eine Frage,
+											die jeder von Ihnen sich irgendwann einmal gestellt haben wird
+											und für deren Antwort das Internet praktisch entwickelt wurde:
+											Woher bekomme ich ein Bild einer rollschuhfahrenden Meerjungfrau?
+											In New York City, am ersten Samstag in jedem Sommer,
+											veranstaltet Coney Island, unser örtlicher, etwas heruntergekommener Vergnünungspark,
+											die Meerjungfrauparade. Eine Amateurparade
+											zu der Menschen aus der ganzen Stadt kommen, alle verkleidet.
+											Manche Menschen verkleiden sich etwas weniger.
+											Jung und alt tanzen in den Straßen.
+											Bunte Persönlichkeiten und alle haben ihren Spaß.
+											Auf was ich aufmerksam machen will ist nicht die Meerjungfrauparade,
+											so reizend sie auch sein mag, sondern auf die Fotos.
+											Ich habe sie nicht gemacht. Wie habe ich sie bekommen?
+											Die Antwort ist: Ich habe sie von Flickr.
+									",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+","
+","
+","
+","
+",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+											Flickr is a photo-sharing service
+											that allows people to take photos, upload them,
+											share them over the Web and so forth.
+											Recently, Flickr has added an additional function called tagging.
+											Tagging was pioneered by Delicious and Joshua Schachter.
+											Delicious is a social bookmarking service.
+											Tagging is a cooperative infrastructure answer to classification.
+											Right? If I had given this talk last year,
+											I couldn't do what I just did,
+											because I couldn't have found those photos.
+											But instead of saying,
+											we need to hire a professional class of librarians
+											to organize these photos once they're uploaded,
+											Flickr simply turned over to the users
+											the ability to characterize the photos.
+											So, I was able to go in and draw down photos that had been tagged
+											""Mermaid Parade."" There were 3,100 photos taken by 118 photographers,
+											all aggregated and then put under this nice, neat name,
+											shown in reverse chronological order.
+											And I was then able to go and retrieve them
+											to give you that little slideshow.
+									","
+											Flickr es un servicio para compartir fotos.
+											que permite a la gente que toma fotos, 'subirlas',
+											compartirlas vía Web, etc.
+											Reciemtemente Flickr ha agregado una función llamada ""etiquetado"".
+											El etiquetado fué introducido por del.icio.us y Joshua Schachter.
+											""del.icio.us"" es un servicio público de 'marcado' de páginas web.
+											El ""etiquetado"" es una respuesta cooperativa a la ""clasificación"".
+											Si yo hubiera tenido que dar esta charla el año pasado,
+											no habría podido hacer lo que acado de hacer,
+											porque no hubiese podido encontrar aquellas fotos.
+											Pero, en vez de decir:
+											""necesitamos contratar a bibliotecarios profesionales
+											para que organicen las fotos publicadas"",
+											Flickr simplemente entregó a los usuarios
+											la herramienta para describir las fotos.
+											De modo que yo pude encontrar las fotos que habían sido etiquetadas
+											""Desfile de Sirenas"". Había 3.100 fotos, tomadas por 118 fotógrafos,
+											todas clasificadas bajo este nombre diáfano,
+											y mostradas en orden cronológico inverso.
+											Pude entonces extraerlas
+											para mostrárselas a Uds. en esta presentación.
+									","
+											Flickr, insanların çektikleri fotoğrafları
+											gönderip Web üzerinde yayınlamalarına
+											imkan sağlayan bir fotoğraf paylaşımı sitesi.
+											Son zamanlarda, Flickr ""etiketleme"" (tagging) adında bir fonksiyon ekledi.
+											""Etiketleme"", ilk olarak Joshua Schachter ve Del.icio.us tarafından düşünüldü.
+											Del.icio.us, sosyal bir ""etiketleme"" hizmeti.
+											""Etiketleme,"" işbirliği kullanan bir sınıflandırma altyapısı.
+											Eğer bu konuşmayı geçen sene gerçekleştirseydim,
+											şimdi yaptığımı yapamazdım;
+											çünkü o fotoğrafları bulamazdım.
+											Ama ""profesyonel kütüphaneciler tutup da
+											sitemize gönderilen bu fotoğrafları organize ettirelim""
+											demek yerine, Flickr,
+											fotoğrafları sınıflandırma imkanını
+											kullanıcılara bıraktı.
+											Ben de, gidip ""Denizkızı Alayı"" diye etiketlenmiş
+											fotoğrafları buldum. 118 fotoğrafçı tarafından çekilen 3100 adet
+											fotoğraf vardı; hepsi bu isim altında güzelce
+											düzenlenmiş, ters kronolojik sırada sıralanmıştı.
+											Ben de onları edindim, bu sayede
+											slayt gösterisini yapmam mümkün oldu.
+									","
+											Flickr est un service de partage de photos
+											qui permet aux gens de prendre des photos, de les télécharger,
+											de les partager sur le Web, etc.
+											Récemment, Flickr a ajouté une nouvelle fonction appelée ""tagging"".
+											Del.icio.us et Joshua Schachter ont été les pionniers du tagging.
+											Del.icio.us est un service de marque page social.
+											Le tagging est une réponse infrastructurelle coopérative à la classification.
+											D'accord ? Si j'avais fait cet exposé l'an dernier,
+											je n'aurais pas pu faire ce que je viens de faire,
+											parce que je n'aurais pas pu trouver ces photos.
+											Mais au lieu de dire :
+											""nous devons embaucher une classe de bibliothécaires professionnels
+											pour organiser ces photos lorsqu'elles sont téléchargées,
+											Flickr a simplement donné aux utilisateurs
+											la capacité de caractériser les photos.
+											Ainsi j'ai pu y entrer et en retirer les photos qui avaient été taggées
+											""Parade des Sirènes"". Il y avait 3.100 photos, prises par 118 photographes,
+											toutes regroupées et ensuite placées sous ce nom beau et net,
+											montrées en ordre chronologique inversé.
+											Et j'étais donc capable de les retrouver
+											pour vous offrir ce petit diaporama.
+									","
+											Flickr ist ein Internetdienst,
+											der jedem erlaubt Fotos hochzuladen,
+											um sie anderen über das Web zur Verfügung zu stellen, und so weiter.
+											Vor Kurzem hat Flickr eine Funktion hinzugefügt, die ""tagging"" genannt wird.
+											Tagging wurde zuerst eingesetzt von Del.icio.us und Joshua Schachter.
+											Del.icio.us ist ein Social Bookmarking Dienst.
+											Tagging bietet eine kooperative Infrastruktur zur Klassifikation.
+											OK? Wenn ich diesen Vortrag letztes Jahr gehalten hätte,
+											hätte ich nicht das machen können, was ich gerade getan habe,
+											weil ich diese Fotos nicht hätte finden können.
+											Aber anstatt zu sagen,
+											dass wir professionelle Bibliothekare einstellen müssen,
+											um diese Fotos nach dem Hochladen zu ordnen,
+											gibt Flickr den Benutzern einfach
+											die Möglichkeit, den Fotos Eigenschaften zuzuweisen.
+											So war ich in der Lage Fotos herunterzuziehen, die mit dem Stichwort:
+											""Meerjungfrauparade"" getagged waren. Es gab 3.100 Fotos von 118 Fotografen,
+											alle unter diesem Begiff ordentlich zusammengefasst,
+											angezeigt in umgkehrt chronologischer Reihenfolge.
+											Und ich konnte dann hergehen und sie herunterladen,
+											um Ihnen diese kleine Diashow zu zeigen.
+									",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+","
+","
+","
+","
+",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+											Now, what hard problem is being solved here?
+											And it's — in the most schematic possible view,
+											it's a coordination problem, right?
+											There are a large number of people on the Internet,
+											a very small fraction of them have photos of the Mermaid Parade.
+											How do we get those people together to contribute that work?
+											The classic answer is to form an institution, right?
+											To draw those people into some prearranged structure
+											that has explicit goals.
+											And I want to call your attention to
+											some of the side effects of going the institutional route.
+									","
+											Ahora bien, ¿qué problema complejo se está resolviendo acá?
+											Desde un punto de vista estrictamente abstracto,
+											es un problema de coordinación.¿Correcto?
+											Existe un gran número de personas en Internet;
+											una fracción mínima de ellas posee fotos del Desfile de Sirenas.
+											¿Cómo juntamos a toda esa gente para que aporte a esa labor?
+											La respuesta clásica es formar una institución, ¿verdad?
+											Arrastrar a toda esa gente hacia una estructura predefinida
+											que posea metas explícitas.
+											Y, por cierto, deseo llamar su atención hacia
+											algunos de los efectos secundarios de seguir la vía institucional.
+									","
+											Şimdi burada hangi zor problem çözüldü?
+											En geniş şematik görüntüde,
+											bu bir koordinasyon problemi.
+											İnternet'te bir çok fotoğraf var,
+											ama sadece ufak bir kısmı ""Denizkızı Alayı""ndan alınmış.
+											Nasıl yapıp da insanları bu ortak çalışmaya katabiliriz?
+											Klasik cevap, bir kurum yaratmak:
+											İnsanları, açıkça belirtilmiş amaçları olan, önceden hazırlanmış,
+											bir yapının içine yerleştirmek.
+											Bu yöntemin yarattığı
+											bazı ciddi sıkıntılara dikkatinizi çekmek isterim.
+									","
+											A présent, quel problème difficile a-t-on résolu, ici ?
+											Et c'est la vision la plus schématique possible,
+											c'est un problème de coordination, n'est-ce pas ?
+											Il y a un grand nombre de gens sur Internet,
+											une très petite partie d'entre eux possède des photos de la Parade des Sirènes.
+											Comment pouvons-nous rassembler ces personnes pour contribuer à ce travail ?
+											La réponse classique est de créer une institution, n'est-ce pas ?
+											D'amener ces personnes dans une structure préconçue
+											qui a des objectifs explicites.
+											Et je veux attirer votre attention sur
+											certains effets secondaires de la voie institutionnelle.
+									","
+											Nun, welches schwierige Problem ist hier gelöst worden?
+											Einfach gesagt ist es
+											ein Koordinationsproblem, oder?
+											Eine große Zahl Menschen ist im Internet,
+											ein sehr kleiner Bruchteil dieser Menschen hat Fotos von der Meerjungfrauparade.
+											Wie bekommen wir die Leute zusammen, um diese Arbeit zu leisten?
+											Die klassische Antwort ist, eine Institution zu bilden, nicht?
+											Um diese Menschen in eine vorgefertigte Struktur zu ziehen,
+											die klare Ziele hat.
+											Ich will Ihre Aufmerksamkeit auf
+											einige der Nebenwirkungen dieses institutionellen Weges lenken.
+									",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+","
+","
+","
+","
+",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+											First of all, when you form an institution,
+											you take on a management problem, right?
+											No good just hiring employees,
+											you also have to hire other employees to manage those employees
+											and to enforce the goals of the institution and so forth.
+											Secondly, you have to bring structure into place.
+											Right? You have to have economic structure.
+											You have to have legal structure.
+											You have to have physical structure.
+											And that creates additional costs.
+											Third, forming an institution is inherently exclusionary.
+											You notice we haven't got everybody who has a photo.
+											You can't hire everyone in a company, right?
+											You can't recruit everyone into a governmental organization.
+											You have to exclude some people.
+											And fourth, as a result of that exclusion,
+											you end up with a professional class. Look at the change here.
+											We've gone from people with photos to photographers.
+											Right? We've created a professional class of photographers
+											whose goal is to go out and photograph the Mermaid Parade,
+											or whatever else they're sent out to photograph.
+									","
+											De partida, al crear una institución,
+											uno se enfrenta a un problema de gerencia, ¿correcto?
+											No basta contratar empleados.
+											Se debe contratar otros empleados, para que dirijan a los primeros
+											y los obliguen a cumplir con las metas institucionales, etc.
+											Segundo, hay que forjar una estructura,
+											¿cierto? Tiene que haber una estructura económica.
+											Debe haber una estructura legal.
+											Tiene que haber una estructura física.
+											Y todo eso crea costos adicionales.
+											Tercero, la creación de una institución es intrínsecamente excluyente.
+											Notarán que no contamos con todos los que tengan fotos.
+											No se puede contratar a todo el mundo en una compañía, ¿no?
+											No se puede reclutar a todos en una organización guberamental;
+											hay que excluir a algunas personas.
+											Y, cuarto: como resultado de tal exclusión
+											terminamos con una clase profesional. Noten el cambio.
+											Hemos ido de ""gente con fotos"" a ""fotógrafos"".
+											Hemos creado una clase profesional de fotógrafos
+											cuya meta es salir a fotografiar el ""Desfile de Sirenas"",
+											o lo que sea que hayan sido enviados a fotografiar.
+									","
+											Öncelikle, bir kurum yarattığınız zaman,
+											karşınıza bir yönetim problemi çıkar.
+											Sadece çalışacak insan almanız yetmez.
+											Bunları yönetecek, ve kurumun amaçları yönünde yönlendirecek
+											başka çalışanlara ihtiyacınız olur.
+											Ayrıca bu yapıyı tasarlamanız gerekir.
+											Anladınız mı? Ekonomik bir yapınız olması gerekli.
+											Hukuki bir yapı da gerekli.
+											Ayrıca fiziksel bir yapı olması da gerekiyor.
+											Bu ek maliyet getiriyor.
+											Üçüncü olarak, kurum yaratmak, kendiliğinden dışlayıcıdır.
+											Farkettiyseniz, bir fotoğrafı olan herkesi dahil edemeyiz.
+											Herkesi şirkete alamazsınız.
+											Herkesi devlete memur yapamazsınız.
+											Bazılarını dışlamamız gerekir.
+											Dördüncü olarak, bu dışlamanın sonucunda,
+											profesyonel bir sınıf oluşur. Buradaki değişikliğe bakın.
+											""Fotoğraf çekmiş insanlardan"" başlayıp, ""Fotoğrafçılara"" geldik.
+											Amacı, Denizkızı Alayı'nı veya benzer olayları
+											fotoğraflandırmak olan,
+											profesyonel bir fotoğrafçı sınıfı yarattık.
+									","
+											D'abord, lorsque vous créez une institution,
+											vous assumez un problème de management, d'accord ?
+											Il ne s'agit pas que d'embaucher des employés.
+											Vous devez aussi embaucher d'autres employés pour diriger ces employés
+											et pour accomplir les objectifs de l'institution, etc.
+											Ensuite, vous devez mettre une structure en place.
+											D'accord ? Vous avez besoin d'une structure économique.
+											Vous devez avoir une structure juridique.
+											Vous devez avoir une structure physique.
+											Et cela crée des coûts supplémentaires.
+											Troisièmement, créer une institution est intrinsèquement excluant.
+											Vous remarquerez que nous n'avons pas tous ceux qui ont pris une photo.
+											Vous ne pouvez engager tout le monde dans une entreprise, d'accord ?
+											Vous ne pouvez pas engager tout le monde dans une organisation gouvernementale.
+											Vous devez en exclure certaines personnes.
+											Et, quatrièmement, en conséquence de cette exclusion,
+											vous vous retrouvez au final avec une classe professionnelle. Considérez le changement ici.
+											Nous sommes partis de personnes avec des photos et nous nous retrouvons avec des photographes.
+											D'accord ? Nous avons créé une classe professionnelle de photographes
+											dont l'objectif est de sortir et de photographier la Parade des Sirènes
+											ou quoi que ce soit d'autre qu'on les envoie photographier.
+									","
+											Erstens, wenn man eine Institution bildet
+											hat man ein Mangementproblem, nicht wahr?
+											Es reicht nicht, einfach Mitarbeiter einzustellen.
+											Man muss auch weitere Mitarbeiter einstellen, um diese Mitarbeiter zu managen
+											und um die Ziele der Institution durchzusetzen und so weiter.
+											Zweitens muss man eine Struktur einführen.
+											Man muss eine ökonomische Struktur haben.
+											Man muss eine juristische Struktur haben.
+											Man muss eine physische Struktur haben.
+											Und das erzeugt zusätzliche Kosten.
+											Drittens, eine Institution zu bilden ist von Natur aus ausschließend.
+											Bedenken Sie, wir haben nicht alle, die ein Foto besitzen.
+											Sie können nicht jeden einstellen.
+											Man kann nicht jeden für eine staatliche Organisation anwerben.
+											Manche Leute muss man ausschließen.
+											Und Viertens, als Ergebnis dieses Ausschlusses
+											hat man schließlich einen Berufsstand. Schauen Sie auf die Veränderung.
+											Wir bewegen uns von Leuten die fotografieren zu Fotografen.
+											Wir haben einen Berufsstand von Fotografen gebildet,
+											deren Auftrag es ist, Fotos von der Meerjungfrau-Parade zu machen
+											oder zu was auch immer sie beauftragt werden zu fotographieren.
+									",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+","
+","
+","
+","
+",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+											When you build cooperation into the infrastructure,
+											which is the Flickr answer,
+											you can leave the people where they are
+											and you take the problem to the individuals, rather than
+											moving the individuals to the problem.
+											You arrange the coordination in the group, and by doing that
+											you get the same outcome, without the institutional difficulties.
+											You lose the institutional imperative.
+											You lose the right to shape people's work when it's volunteer effort,
+											but you also shed the institutional cost,
+											which gives you greater flexibility.
+											What Flickr does is it replaces planning with coordination.
+											And this is a general aspect of these cooperative systems.
+									","
+											Cuando la cooperación forma parte de la estructura,
+											y eso es lo que Flickr ha hecho,
+											se puede dejar a la gente allí donde está,
+											y se puede llevar el problema a los individios, en vez de
+											trasladar a los individuos al problema.
+											Se ha resuelto la coordinación en el grupo, y al hacerlo
+											se obtiene el mismo resultado, sin las dificultades institucionales.
+											Se pierde el imperativo institucional.
+											Cuando es un esfuerzo voluntario perdemos el derecho a moldear el trabajo de la gente,
+											pero también nos deshacemos del costo institucional,
+											y eso nos da mayor flexibilidad.
+											Lo que Flickr hace es reemplazar Planificación, con Coordinación.
+											Este es un aspecto general común a estos sistemas cooperativos.
+									","
+											Oysa, Flickr yöntemini kullanıp da,
+											işbirliğini, altyapının içine yerleştirirseniz,
+											insanları olduğu gibi bırakırsınız,
+											bireyleri probleme göndermek yerine,
+											problemi bireyleri getirirsiniz.
+											Bir grup içinde işbirliği yaratabildiğiniz zaman,
+											hem kurumsal sıkıntılardan kurtulursunuz, hem de aynı sonucu elde edersiniz.
+											Kurumsal yetkiyi kaybedersiniz,
+											Gönüllü çaba olduğu zaman, insanların çabalarını biçimlendirme
+											hakkını yitirirsiniz, ama kurumsal maliyet de kaybolur,
+											bu da size esneklik sağlar.
+											Flickr, planlamanın yerine işbirliğini koyuyor.
+											Bu da işbirliğine dayalı sistemlerin genel özelliği.
+									","
+											Lorsque vous établissez une coopération dans l'infrastructure,
+											ce qui est la réponse de Flickr,
+											vous pouvez laisser les gens là où ils sont
+											et vous apportez les problème aux individus plutôt que
+											de transporter les individus vers le problème.
+											Vous organisez la coordination du groupe et en faisant cela
+											vous obtenez la même production sans les difficultés institutionnelles.
+											Vous perdez l'impératif institutionnel.
+											Vous perdez le droit de modeler le travail des gens lorsqu'il s'agit d'un effort volontaire,
+											mais vous perdez aussi les coûts institutionnels,
+											ce qui vous donne une plus grande souplesse.
+											Ce que fait Flickr est de remplacer la planification par de la coordination.
+											Et ceci est une caractéristique générale de ces systèmes coopératifs.
+									","
+											Wenn man nun Kooperation in die Infrastruktur einbaut,
+											was Flickrs Lösung ist,
+											kann man die Leute da belassen wo sie gerade sind,
+											und man geht mit dem Anliegen zu den Einzelnen, anstatt
+											die Einzelnen zum Problem zu holen.
+											Sie arrangieren die Zusammenarbeit in der Gruppe, und wenn Sie das tun,
+											bekommen Sie die gleichen Ergebnsise, ohne den Aufwand einer Institution.
+											Sie verlieren den institutionalen Imperativ.
+											Sie verlieren das Recht, die Arbeit der Menschen zu gestalten, wenn sie freiwillig ist,
+											aber Sie haben auch keine institutionellen Kosten.
+											was Ihnen eine größere Flexibilität ermöglicht.
+											Was Flickr tut ist, Planen durch Koordinieren zu ersetzen.
+											Und das ist ein Hauptmerkmal von diesen kooperativen Systemen.
+									",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+","
+","
+","
+","
+",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+											Right. You'll have experienced this in your life
+											whenever you bought your first mobile phone,
+											and you stopped making plans.
+											You just said, ""I'll call you when I get there.""
+											""Call me when you get off work."" Right?
+											That is a point-to-point replacement of coordination with planning.
+											Right. We're now able to do that kind of thing with groups.
+											To say instead of, we must make an advance plan,
+											we must have a five-year projection
+											of where the Wikipedia is going to be, or whatever,
+											you can just say, let's coordinate the group effort,
+											and let's deal with it as we go,
+											because we're now well-enough coordinated
+											that we don't have to take on the problems of deciding in advance what to do.
+									","
+											Así es. Puede que Ud. haya pasado por esto:
+											en el momento en que compró su primer teléfono celular,
+											usted dejó de hacer planes.
+											Bastaba decir: ""Te llamo cuando llegue""
+											""Llámame al salir del trabajo"", ¿verdad?
+											Eso es un reemplazo completo de la planificación por coordinación.
+											Podemos ahora hacer este tipo de cosas con grupos.
+											En vez de decir: Debemos hacer un plan;
+											debemos tener una proyección de cinco años
+											respecto a las metas de Wikipedia, o lo que sea...
+											se puede decir, simplemente: Coordinemos el esfuerzo grupal.
+											y enfrentemos los retos sobre la marcha,
+											porque ya estamos suficientemente coordinados,
+											como para no tener que decidir de antemano qué hacer.
+									","
+											Bunu kendiniz de hayatınızda yaşadınız:
+											İlk cep telefonunuzu alıp da plan yapmaktan
+											vazgeçtiniz:
+											""Gelince ben seni ararım"" demeye başladınız.
+											""İşin bitince beni ara."" Değil mi?
+											İşbirliği, planlamanın yerini birebir olarak alıyor.
+											Aynı şeyi gruplarla yapmamız mümkün.
+											Plan yapalım, 5-yıllık projeksiyon yapalım,
+											Vikipedi'nin, vs...
+											ne yöne gittiğini görelim, demek yerine,
+											hadi grup çalışmasını baştan koordine edelim,
+											sonra da problemler ortaya çıktıkça çözelim,
+											çünkü zaten aramızda yeterli seviyede koordinasyon var,
+											problemleri erkenden çözmek zorunda değiliz.
+									","
+											D'accord. Vous avez déjà expérimenté cela dans votre vie
+											lorsque vous avez acheté votre premier téléphone portable.
+											et que vous avez arrêté de faire des plans.
+											Vous disiez seulement : ""je t'appelle quand j'arrive là-bas.
+											Appelle-moi quand tu sors du boulot. D'accord ?
+											La coordination remplace en tout point la planification.
+											Bien. Nous sommes maintenant capables de faire ce genre de choses avec des groupes.
+											De dire, au lieu de : ""nous devons avoir un plan d'avancement,
+											nous devons avoir une projection à cinq ans
+											pour savoir ou va Wikipedia"" ou quoi que ce soit de ce genre,
+											- il vous suffit de dire : ""coordonnons cet effort de groupe,
+											et traitons avec lui au fur et à mesure que nous avançons,
+											car nous sommes maintenant suffisamment coordonnés
+											pour ne pas devoir décider à l'avance ce qu'on doit faire.
+									","
+											Sie haben das in Ihrem Leben schon erfahren,
+											als Sie Ihr erstes Handy gekauft haben
+											und aufhörten zu planen.
+											Sie sagen jetzt: Ich ruf dich an, wenn ich da bin.
+											Ruf mich an, wenn du Feierabend hast, OK?
+											Das ist die schrittweise Umstellung von Planung auf Zusammenarbeit,
+											Wir sind nun in der Lage, so auch mit Gruppen zu arbeiten.
+											Statt zu sagen, wir müssen im Voraus planen
+											wir müssen einen 5-Jahresplan erstellen,
+											wie Wikipedia sich entwickeln wird oder so ähnlich,
+											sagen Sie jetzt, lasst uns die Gruppenarbeit koordinieren
+											und befassen wir uns damit, in welche Richtung wir gehen,
+											weil wir nun so gut koordiniert sind,
+											dass wir uns nicht im Vorfeld entscheiden müssen, was zu tun ist.
+									",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+","
+","
+","
+","
+",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+											So here's another example. This one's somewhat more somber.
+											These are photos on Flickr tagged ""Iraq.""
+											And everything that was hard about the coordination cost
+											with the Mermaid Parade is even harder here.
+											There are more pictures. There are more photographers.
+											It's taken over a wider geographic area.
+											The photos are spread out over a longer period of time.
+											And worst of all, that figure at the bottom,
+											approximately ten photos per photographer, is a lie.
+											It's mathematically true,
+											but it doesn't really talk about anything important —
+											because in these systems, the average isn't really what matters.
+									","
+											He aquí otro ejemplo, un tanto más lúgubre.
+											Estas son fotos en Flickr, etiquetadas ""Irak"".
+											Y todo aquello que era difícil en el ""costo de coordinación"",
+											en el caso del Desfile de Sirenas, es aún más complejo acá.
+											Hay más fotos. Hay más fotógrafos.
+											Se han tomado en un área geográfica más amplia.
+											Las fotos corresponden a un período más largo.
+											Y lo peor de todo: Ese número, ahí abajo,
+											más o menos diez fotos por fotógrafo, es una falsedad.
+											Es matemáticamente verdadero,
+											pero no describe realmente nada importante
+											porque, en estos sistemas, el promedio no es lo que realmente importa.
+									","
+											Bir örnek daha vereceğim. Bu seferki biraz iç kapatıyor.
+											Flickr'da ""Irak"" diye etiketlenmiş fotoğraflar var.
+											""Denizkızı Alayı""ndaki koordinasyon maaliyetleri,
+											burada daha da zor.
+											Daha fazla sayıda fotoğraf, daha fazla sayıda fotoğrafçı var.
+											Fotoğraflar daha geniş bir coğrafi alana yayılmış.
+											Daha geniş bir zaman aralığında çekilmişler.
+											En kötüsü, alttaki rakam,
+											Fotoğrafçı başına 10 fotoğraf ifadesi, bir yalan.
+											Matematiksel olarak doğru,
+											ama esas önemli olan şeyi anlatmıyor;
+											çünkü bu sistemlerde, ortalama önemli değil.
+									","
+											Voici un autre exemple. Celui-ci est un peu plus sombre.
+											Ceci sont des photos sur Flickr, taggées ""Irak"".
+											Et tout ce qui augmentait le coût de coordination
+											avec la sirène est encore plus crucial ici.
+											Il y a plus d'images. Il y a plus de photographes.
+											C'est pris sur une zone géographique plus large.
+											Ces photos sont étendues sur une plus longue période.
+											Et, pire que tout, ce chiffre dans le bas,
+											approximativement dix photos par photographe, est un mensonge.
+											C'est mathématiquement vrai,
+											mais cela ne dit vraiment rien d'important
+											car dans ces systèmes, la moyenne n'est vraiment pas importante.
+									","
+											Hier ist ein weiteres Beispiel. Es ist etwas düsterer.
+											Das sind Fotos von Flickr, mit dem Schlagwort ""Irak"" versehen.
+											Und war der Koordinationsaufwand auf der
+											Meerjungfrauen-Parade schon groß, so ist er hier noch größer.
+											Da sind mehr Fotos. Da sind mehr Fotografen.
+											Sie wurden in einem geographisch größeren Gebiet aufgenommen,
+											über einen größeren Zeitraum hinweg.
+											Und das Schlimmste sind die Zahlen am unteren Rand,
+											denn ungefähr 10 Fotos pro Fotograf ist eine Lüge.
+											Mathematisch ist es richtig,
+											aber das sagt uns nichts Wichtiges,
+											weil in diesem System der Durchschnitt nicht das ist, worauf es ankommt.
+									",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+","
+","
+","
+","
+",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+											What matters is this.
+											This is a graph of photographs tagged Iraq
+											as taken by the 529 photographers who contributed the 5,445 photos.
+											And it's ranked in order of number of photos taken per photographer.
+											You can see here, over at the end,
+											our most prolific photographer has taken around 350 photos,
+											and you can see there's a few people who have taken hundreds of photos.
+											Then there's dozens of people who've taken dozens of photos.
+											And by the time we get around here,
+											we get ten or fewer photos, and then there's this long, flat tail.
+											And by the time you get to the middle,
+											you've got hundreds of people
+											who have contributed only one photo each.
+									","
+											Lo que importa es esto:
+											Este es un gráfico de fotografías etiquetadas ""Irak""
+											tomadas por 529 fotógrafos que aportaron 5.445 fotos.
+											Está ranqueado por el número de fotos tomadas por fotógrafo.
+											Pueden ver, acá, hacia el final,
+											nuestro fotógrafo más prolífico ha tomado alrededor de 350 fotos,
+											y pueden ver que hay unas pocas personas que hayan tomado cientos de fotos.
+											Luego, hay docenas de personas que han tomados docenas de fotos.
+											Y para el momento que llegamos por acá,
+											obtenemos diez o menos fotos. Y tenemos esta cola larga y plana.
+											Y para el momento que llegamos al medio,
+											tenemos a cientos de personas
+											que han contribuído solamente con una foto cada una.
+									","
+											Önemli olan şu:
+											""Irak"" diye etiketlenmiş fotoğrafların grafiği
+											5445 fotoğrafı gönderen 529 fotoğrafçıyı gösteriyor.
+											Fotoğrafçı başına fotoğraf sayısına göre sıralandırılmış.
+											Buradaki en uçta,
+											en çok fotoğraf çeken fotoğrafçının 350 tane fotoğraf gönderdiğini,
+											ve yüzlerce fotoğraf çekmiş bir kaç insan olduğunu,
+											düzinelerce fotoğraf çekmiş düzinelerce fotoğraf olduğunu,
+											ve buraya geldiğimizde de,
+											on veya daha az fotoğraf var, sonra da aşağıdaki uzun, düz kuyruk olduğunu,
+											ortaya geldiğimizde
+											sadece bir fotoğraf göndermiş
+											yüzlerce insan var.
+									","
+											Ce qui est important, c'est ceci.
+											Ceci est un graphique représentant les photos taggées Irak
+											prises par les 529 photographes qui ont fourni les 5.445 photos.
+											Et c'est rangé en ordre de nombre de photos prises par photographe.
+											Vous pouvez voir ici, vers la fin,
+											que notre photographe le plus prolifique a pris environ 350 photos
+											et vous pouvez voir qu'il y a quelques personnes qui on pris des centaines de photos.
+											Ensuite, il y a des milliers de personnes qui ont pris des douzaines de photos.
+											Et lorsque nous arrivons dans cette zone-ci,
+											nous obtenons dix photos ou moins, et ensuite, il y a cette queue longue et plate.
+											Et lorsque vous atteignez le milieu,
+											vous obtenez des centaines de personnes
+											qui ont fourni seulement chacune une photo.
+									","
+											Wichtig ist folgendes:
+											Dies ist ein Diagramm von Bildern, die mit ""Irak"" getagged wurden,
+											von 529 Fotographen wurden 5.445 Fotos zur Verfügung gestellt.
+											Und sie sind in der Reihenfolge der Anzahl der Fotos pro Fotografen angeordnet.
+											Sie sehen hier am Ende
+											den produktivsten Fotografen mit ungefähr 350 Fotos
+											und Sie sehen, dass es ein paar Leute gibt, die hunderte von Fotos gemacht haben.
+											Dann gibt es Dutzende von Menschen, die Dutzende von Fotos gemacht haben.
+											Und wenn wir hier angekommen sind
+											bekommen wir 10 Fotos oder weniger, und dann gibt es diesen langen Ausläufer.
+											Und wenn man in die Mitte gelangt hat man
+											hunderte von Leuten,
+											die jeweils nur ein Foto bereitgestellt haben.
+									",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+","
+","
+","
+","
+",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+											This is called a power-law distribution.
+											It appears often in unconstrained social systems
+											where people are allowed to contribute as much or as little as they like —
+											this is often what you get. Right?
+											The math behind the power-law distribution is that whatever's in the nth position
+											is doing about one-nth of whatever's being measured,
+											relative to the person in the first position.
+											So, we'd expect the tenth most prolific photographer
+											to have contributed about a tenth of the photos,
+											and the hundredth most prolific photographer
+											to have contributed only about a hundred as many photos
+											as the most prolific photographer did.
+											So, the head of the curve can be sharper or flatter.
+											But that basic math accounts both for the steep slope
+											and for the long, flat tail.
+									","
+											Esto se denomina ""Ley de distribución de potencia""
+											Aparece con frecuencia en sistemas sociales irrestrictos.
+											donde a la gente se le permite contribuir tanto o tan poco como quiera,
+											y esto es lo que se obtiene, ¿cierto?
+											La matemática detrás de la ""Ley de distribución de potencia"" dice que la posición N
+											representa cerca de 1/N de lo que se esté midiendo,
+											con respecto a la persona en la primera posición.
+											De modo que esperaríamos que el décimo fotógrafo más prolífico
+											haya contribuído con cerca de una décima parte de las fotos.
+											Y el centécimo fotografo más prolífico
+											haya contribuído sólo con una centécima parte de las fotos
+											aportadas por el fotógrafo más prolífico.
+											“La cabeza” de la curva puede ser más aguda o más plana,
+											pero la matemática básica explica tanto la pendiente empinada,
+											como la cola larga y chata.
+									","
+											Buna güç kuralı dağılımı denir.
+											Genelde, insanların istedikleri kadar katılımda bulundukları
+											sınırlandırılmamış sosyal sistemlerde
+											ortaya çıkar.
+											Bu güç kuralı dağılımı matematiksel yapısı, n'inci pozisyonda bulunanın,
+											birinci pozisyonda bulunan kişiye göre
+											işin 1/n'ini yapmasına dayanıyor.
+											Dolayısıyla, 10'uncu sıradaki fotoğrafçının,
+											birinci sıradakinin onda biri kadar fotoğraf göndermiş olmasını,
+											100'üncü sıradaki fotoğrafçının da,
+											birinci sıradakinin yüzde biri kadar fotoğraf
+											göndermiş olmasını bekleriz.
+											Dolayısıyla eğri, daha keskin veya daha düz olabilir.
+											Ama keskin de olsa, düz de olsa,
+											aynı matematiksel formül ile açıklanıyor.
+									","
+											C'est ce qu'on appelle la distribution d'une loi de puissance.
+											Elle apparait souvent dans un système social non contraint
+											où les gens peuvent contribuer autant qu'ils le souhaitent,
+											c'est souvent ce que vous obtenez. D'accord ?
+											La loi mathématique qui sous-tend la distribution de la loi de puissance est que tout ce qui se trouve dans une position ""n""
+											produit environ une quantité ""un/n"" de ce qui est mesuré,
+											relativement à la personne qui est en première position.
+											Ainsi, nous nous attendons à ce que le dixième photographe le plus prolifique
+											contribue à environ un dixième des photos,
+											et que le 100° photographe le plus prolifique
+											contribue seulement à un centième des photos
+											que le photographe le plus prolifique a prises.
+											Ainsi la tête de la courbe peut être plus aigüe ou plus plate.
+											Mais la même loi basique influe à la fois sur la courbe pentue
+											et sur la queue longue et plate.
+									","
+											Das nennt man eine Potenzgesetz-Verteilung.
+											Man trifft sie oft in nicht eingeschränkten sozialen Systemen,
+											wo Menschen soviel oder so wenig beitragen können, wie sie wollen,
+											das ist oft das, was Sie erhalten, OK?
+											Die Mathematik hinter diesem Verteilungsgesetz ist, dass was immer in der n-ten Position ist,
+											ungefähr ein n-tel von dem macht, was man misst,
+											in Relation zur Person an der ersten Position.
+											So würden wir erwarten, dass der zehnt-produktivste Fotograf
+											etwa ein Zehntel der Fotos beigetragen hat,
+											und der an 100. Stelle stehende Fotograf
+											nur etwa ein 100stel der Fotos gemacht hat
+											als der produktivste Fotograf.
+											So kann die Kurve steiler oder flacher verlaufen.
+											Aber diese Grundlagen-Mathematik erklärt sowohl die steile Neigung
+											als auch den langen, flachen Ausläufer.
+									",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+","
+","
+","
+","
+",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+											And curiously, in these systems, as they grow larger,
+											the systems don't converge; they diverge more.
+											In bigger systems, the head gets bigger
+											and the tail gets longer, so the imbalance increases.
+											You can see the curve is obviously heavily left-weighted. Here's how heavily:
+											if you take the top 10 percent of photographers contributing to this system,
+											they account for three quarters of the photos taken —
+											just the top 10 percent most prolific photographers.
+											If you go down to five percent,
+											you're still accounting for 60 percent of the photos.
+											If you go down to one percent, exclude 99 percent of the group effort,
+											you're still accounting for almost a quarter of the photos.
+											And because of this left weighting,
+											the average is actually here, way to the left.
+											And that sounds strange to our ears,
+											but what ends up happening is that 80 percent of the contributors
+											have contributed a below-average amount.
+											That sounds strange because we expect average and middle
+											to be about the same, but they're not at all.
+									","
+											Y curiosamente, en estos casos, a medida que los sistemas crecen,
+											estos no convergen, sino que divergen aún más.
+											En sistemas mayores, la cabeza se hace más grande,
+											y la cola se hace más larga; es decir, aumenta el desequilibrio.
+											Se puede ver que la curva está obviamente cargada a la izquierda. Así de cargada:
+											Si tomamos el 10% de los fotógrafos que contribuyeron más con el sistema,
+											ellos representan 3/4 de las fotos tomadas —
+											tan sólo el 10% superior de los fotógrafos más prolíficos.
+											Si bajamos al 5%,
+											tenemos que aún representa 60% de las fotos.
+											Si bajamos al 1%, y excluímos el 99% del esfuerzo grupal,
+											tenemos aún una representación de casi 1/4 de las fotos.
+											Y debido a esta carga hacia la izquierda,
+											el promedio está realmente acá, muy hacia la izquierda.
+											Y esto suena extraño,
+											pero lo que ocurre es que el 80% de los contribuyentes
+											ha aportado una cantidad que está debajo del promedio.
+											Eso nos suena extraño, porque esperaríamos que el ‘promedio’ y ‘la mitad’
+											fueran aproximadamente iguales, pero no lo son, en absoluto.
+									","
+											İlginç bir şekilde, bu sistemler büyüdükçe,
+											bir denge noktasına doğru gitmiyorlar, bilakis dağılmaya meyilleniyorlar.
+											Daha büyük sistemlerde, kafa büyüdükçe,
+											kuyruk da uzuyor, böylece eşitsizlik artııyor.
+											Bu eğrinin, sol tarafının baskın olduğu açık şekilde görünüyor. Şöyle ki:
+											Eğer fotoğraf gönderenlerin üst yüzde onuna bakarsanız,
+											bunların fotoğrafların dörtte üçünü göndermiş olduklarını görürsünüz.
+											Fotoğrafçıların sadece yüzde onundan buu kadar fotoğraf çıkıyor.
+											Bu oranı yüzde beşe indirirsek,
+											hala fotoğraflarını yüzde 60'ı kapsıyoruz.
+											Eğer oranı yüzde bire düşürürseniz, grup çabalarının %99'unu dışlarsanız,
+											hala fotoğrafların bir çeyreğini kapsamaya devam ediyorsunuz.
+											İşte eğri bu şekilde sola meyillendiğinden,
+											ortalama burada, iyice solda.
+											Kulağa tuhaf gelse de,
+											katılımcıların yüzde sekseni, ortalama altında
+											fotoğraf göndermiş.
+											Bu tuhaf geliyor, çünkü ortalama ve ortanın
+											aynı değer olmasını bekliyoruz, ama değil.
+									","
+											Et curieusement, dans ces systèmes, plus ils grandissent,
+											ces systèmes ne convergent pas; ils divergent de plus en plus.
+											Dans les systèmes les plus vastes, la tête croit davantage
+											et la queue s’allonge, de sorte que le déséquilibre s'accroit.
+											Vous pouvez voir que la courbe pèse lourdement vers la gauche. Ici, vous voyez à quel point c'est lourd.
+											Si vous prenez les 10 pour cent de photographes qui ont le plus contribué à ce système,
+											ils comptent pour plus des trois quarts de photos prises -
+											juste les 10 premiers pour cent des photographes les plus prolifiques.
+											Si vous descendez à 5 pour cent,
+											vous comptabilisez toujours 60 pour cent des photos.
+											Si vous descendez à 1 pour cent, en excluant 99 pour cent de l'effort du groupe,
+											vous comptabilisez toujours presque un quart des photos.
+											Et à cause de ce poids à gauche,
+											la moyenne est en réalité ici, très à gauche.
+											Et cela sonne très étrangement à nos oreilles
+											mais ce qui se passe est que 80 pourcent des contributeurs
+											ont contrigué à une quantité inférieure à la moyenne.
+											Cela sonne étrangement, car nous nous attendons à ce que moyenne et milieu
+											soient à peu près pareils, mais ils ne le sont pas du tout.
+									","
+											Und in diesen Systemen, während sie wachsen
+											konvergieren sie seltsamerweise nicht, sondern sie divergieren.
+											In größeren Systemen wird der Kopf größer
+											und der Ausläufer wird länger, so erhöht sich das Ungleichgewicht.
+											Wie Sie sehen können ist die Kurve offensichtlich linkslastig. Hier sieht man wie stark.
+											Nehmen Sie die Top 10 % der produktivsten Fotografen in diesem System,
+											sie machten 3/4 der Fotos -
+											nur die Top 10% der produktivsten Fotografen.
+											Wenn Sie runter gehen zu 5 %,
+											erhalten Sie immer noch 60% der Fotos.
+											Wenn Sie zu 1% gehen, also 99% der Gruppenarbeit ausschließen,
+											haben Sie immer noch fast 1/4 der Fotos.
+											Und wegen dieser Linkslastigkeit
+											ist der Mittelwert tatsächlich hier, ganz weit links.
+											Das klingt fremd in unseren Ohren,
+											aber was schließlich passiert ist, dass 80 Prozent der Mitwirkenden
+											unterdurchschnittlich viel beigetragen haben.
+											Das klingt befremdlich weil wir erwarten, dass der Durchschnitt und die Mitte
+											an gleicher Stelle sind, sie sind es aber nicht.
+									",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+","
+","
+","
+","
+",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+											This is the math underlying the 80/20 rule. Right?
+											Whenever you hear anybody talking about the 80/20 rule,
+											this is what's going on. Right?
+											20 percent of the merchandise accounts for 80 percent of the revenue,
+											20 percent of the users use 80 percent of the resources —
+											this is the shape people are talking about when that happens.
+											Institutions only have two tools: carrots and sticks.
+											And the 80 percent zone is a no-carrot and no-stick zone.
+											The costs of running the institution mean that you cannot
+											take on the work of those people easily in an institutional frame.
+											The institutional model always pushes leftwards,
+											treating these people as employees.
+											The institutional response is,
+											I can get 75 percent of the value for 10 percent of the hires — great,
+											that's what I'll do.
+											The cooperative infrastructure model says,
+											why do you want to give up a quarter of the value?
+											If your system is designed
+											so that you have to give up a quarter of the value,
+											re-engineer the system.
+											Don't take on the cost that prevents you
+											from getting to the contributions of these people.
+											Build the system so that anybody can contribute at any amount.
+									","
+											Esta es la matemática subyacente a la regla 80/20.
+											Cuando oigan a alguien hablar de la regla 80/20,
+											esto es lo que está pasando.
+											20% de la mercancía representa el 80% de los ingresos,
+											20% de los usuarios consume el 80% de los recursos —
+											esta es la figura de la cual la gente habla cuando esto ocurre.
+											Las instituciones sólo poseen dos instrumentos: zanahorias y palos.
+											Y el 80% es una zona libre de Zanahorias y Palos.
+											Los costos de administrar una institución implican que no es posible
+											aprovechar el trabajo de ese 80% de personas en el marco institucional.
+											El modelo institucional siempre empuja hacia la izquierda de esta curva,
+											tratanado a esta gente como empleados.
+											La respuesta institucional es:
+											Podemos obtener el 75% del valor, con tan sólo 10% de contratación, ¡grandioso!
+											¡Haré eso!
+											El modelo de infraestructura cooperativa dice:
+											¿Por qué querrías renunciar a 1/4 del valor?
+											Si su sistema está diseñado
+											para renunciar a 1/4 del valor,
+											¡rediseñe el sistema!
+											No incurra en el costo que le impide
+											aprovechar las contribuciones de esta gente.
+											Construya un sistema donde cualquier pesona pueda aportar en cualquier medida.
+									","
+											Bu, 80/20 kuralını açıklayan matematik.
+											""80/20 kuralı"" diye herkesin bahsettği kural,
+											işte bu kuraldır.
+											Envanterin %20'si, satışında %80'ini kapsar.
+											Kullanıcıların %20'si, kaynakların %80'ini harcar.
+											Bu kuraldan bahsedildiğinde kastedilen şekil budur.
+											Kurumların sadece iki aracı vardır: Havuç ve sopa.
+											""Yüzde 80 kuşağı"" ise, havuçsuz ve sopasız bir kuşak.
+											Kurumu çalıştırmanın maliyetinin olması, bu insanların işlerini, kurumsal bir yapıya
+											kolayca geçiremeyeceğiniz anlamına geliyor.
+											Kurumsal model, sürekli sola doğru itekler,
+											insanları, ""çalışan"" olarak görür.
+											Kurumsal cevap,
+											""%10'luk dilimden %75'lik değer alabiliyorum - çok güzel"" şeklindedir,
+											""madem durum böyle, kalanını bırakalım.""
+											İşbirliğine dayalı altyapı ise,
+											""neden değerin çeyreğinden vazgeçelim ki?"" şeklinde.
+											Eğer sisteminiz, değerin %25'inden
+											vazgeçmenize yol açıyorsa,
+											sisteminizi yeniden tasarlayın.
+											Bu insanların katkılarını elde etmeniz
+											için gereken maliyeti harcamayın,
+											bunun yerine, sistemi, herkesin katkıda bulunmasına izin verir şekilde inşa edin.
+									","
+											C'est la loi mathématique à l'origine de la règle des 80/20. D'accord ?
+											Lorsque vous entendez quelqu'un parler de la règle des 80/20,
+											c'est ce qui se passe. D'accord ?
+											20 pour cent des marchandises comptent pour 80 pour cent des revenus,
+											20 pour cent des utilisateurs consomment 80 pour cent des ressources -
+											ceci est la forme de ce dont les gens parlent lorsque cela arrive.
+											Les institutions ne disposent que de deux outils : les carottes et les bâtons.
+											Et la zone des 80 pour cent est une zone sans bâtons ni carottes.
+											Les coûts engendrés par la gestion d'une institution impliquent
+											que vous ne pouvez pas intégrer facilement le travail de ces personnes dans un cadre institutionnel.
+											Le modèle institutionnel pousse toujours vers la gauche,
+											traitant toutes ces personnes comme des employés.
+											La réponse institutionnelle est :
+											""Je peux obtenir 75 pour cent de la valeur pour 10 pour cent des embauches"" - super.
+											C'est ce que je vais faire.
+											Le modèle d'infrastructure coopérative dit :
+											""pourquoi voulez-vous abandonner un quart de la valeur ?""
+											Si votre système est conçu
+											de telle façon que vous devez abandonner un quart de la valeur,
+											reconfigurez votre système.
+											N'engagez pas les coûts qui vous empêchent
+											d'obtenir les contributions de ces personnes,
+											construisez votre système de façon à ce que tout le monde contribue à toute la valeur.
+									","
+											Das hier ist die Mathematik der 80 zu 20 Regel, OK?
+											Jedesmal wenn Sie jemanden über die 80/20-Regel reden hören,
+											geht es hierum, OK?
+											20% der Ware bringt 80% der Einnahmen.
+											20% der Kunden verbrauchen 80% der Ressourcen -
+											das ist gemeint, wenn Leute davon reden.
+											Institutionen haben aber nur zwei Werkzeuge: Zuckerbrot und Peitsche.
+											Und die 80%-Zone ist eine Zone ohne Zuckerbrote und Peitschen.
+											Die Kosten einer Institution entstehen dadurch, dass Sie die Leistung von
+											Menschen in einem institutionellen Rahmen nicht einfach voraussetzen können.
+											Das instituionelle Modell driftet immer nach links,
+											wenn man diese Leute wie Angestellte behandelt.
+											Die Reaktion ist,
+											dass ich 75% der Arbeit für 100% des Lohns erhalte - großartig.
+											Das ist es, was ich tun werde.
+											Das kooperative Infrastruktur-Modell sagt,
+											warum willst du auf ein Viertel des Nutzens verzichten?
+											Wenn dein System so angelegt ist,
+											dass du auf ein Viertel des Nutzens verzichten musst,
+											dann baue dein System um.
+											Übernimm keine Kosten, die Dich daran hindern,
+											Beiträge von diesen Menschen zu bekommen,
+											baue das System so, dass jeder jeglichen Beitrag leisten kann.
+									",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+","
+","
+","
+","
+",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+											So the coordination response asks not,
+											how are these people as employees, but rather,
+											what is their contribution like? Right?
+											We have over here Psycho Milt, a Flickr user,
+											who has contributed one, and only one, photo titled ""Iraq.""
+											And here's the photo. Right. Labeled, ""Bad Day at Work.""
+											Right? So the question is,
+											do you want that photo? Yes or no.
+											The question is not, is Psycho Milt a good employee?
+									","
+											Por lo tanto, bajo el enfoque colaborativo, la pregunta no es:
+											“¿qué tan buenos empleados son esta gente?” sino, más bien,
+											""¿cuán valiosa es su contribución?""
+											Tenemos por este lado a Psycho Milt; un usuario Flickr,
+											quien ha contribuído con sólo una foto titulada ""Irak""
+											Y aquí está la foto. Etiquetada: ""Mal día en el trabajo"".
+											De modo que la pregunta es:
+											¿Quieres esa foto? ¿Sí o No ?
+											La pregunta no es si Psycho Milt es un buen empleado.
+									","
+											Dolayısıyla, işbirliğine dayalı cevap,
+											insanların iyi bir çalışan olup olmadıklarını değil,
+											katkılarının ne olduğunu sorar.
+											Bu tarafta, Flickr kullanıcısı ""Psycho Milt""i görüyoruz.
+											""Psycho Milt"", bir adet, sadece bir adet ""Irak"" etiketli fotoğraf göndermiş.
+											İşte fotoğraf da bu. Başlığı ""İş Günüm Kötü Geçiyor.""
+											Dolayısıyla, soru şu:
+											Bu fotoğrafı ister misiniz? Evet mi, hayır mı?
+											Soru, ""Psycho Milt iyi bir çalışan mı?"" değil.
+									","
+											Donc, la réponse de la coordination ne demande pas :
+											""quel type d'employés sont ces personnes ?"", mais plutôt
+											""à quoi ressemble leur contribution ?"" D'accord ?
+											Nous avons ici Psycho Milt, un utilisateur de Flickr,
+											qui a fourni une et une seule photo intitulée ""Irak"".
+											Et voici la photo. OK. Intitulée ""Mauvais jour au boulot"".
+											OK ? Donc, la question est :
+											« voulez-vous cette photo ? Oui ou non ».
+											La question n'est pas : ""Psycho Milt est-il un bon employé ?""
+									","
+											So lautet die Frage nicht:
+											wie sind diese Menschen als Mitarbeiter, sondern
+											was sind sie in der Lage zu leisten?
+											Wir haben hier Psycho Milt, einen Flickr-Nutzer,
+											der nur ein einziges Irak-Foto beigetragen hat.
+											Hier ist das Foto. Mit dem Namen ""Bad Day at Work""
+											Die Frage ist:
+											Möchten Sie das Foto haben? Ja oder nein.
+											Die Frage ist nicht: Ist Psycho Milt eine guter Mitarbeiter?
+									",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+","
+","
+","
+","
+",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+											And the tension here is between institution as enabler
+											and institution as obstacle.
+											When you're dealing with the left-hand edge
+											of one of these distributions,
+											when you're dealing with the people who spend a lot of time
+											producing a lot of the material you want,
+											that's an institution-as-enabler world.
+											You can hire those people as employees, you can coordinate their work
+											and you can get some output.
+											But when you're down here, where the Psycho Milts of the world
+											are adding one photo at a time,
+											that's institution as obstacle.
+									","
+											Y la tensión acá es entre la Institución, como facilitadora
+											y la Instutución como obstáculo.
+											Cuando se lidia con el margen izquierdo de
+											una de estas distribuciones;
+											cuando se lidia con la gente que ha invertido una gran cantidad de tiempo
+											generando gran cantidad del material que interesa...
+											... ¡Ese es un mundo de instituciones en un rol facilitador!
+											Se puede contratar a toda esa gente como empleados, se puede coordinar su trabajo,
+											y se puede obtener algún resultado.
+											Pero cuando se está acá abajo, donde los Psycho Milts del mundo,
+											están agregando una foto a la vez,
+											eso es institución como obstáculo.
+									","
+											Buradaki çekişme, kurumun imkan sağlayıcı tarafı ile,
+											kurumun engel olma niteliği arasında.
+											Bu dağılımların sol tarafına baktığımızda,
+											bol vakit harcayıp,
+											istediğiniz üründen bolca üreten
+											insanları görürsünüz;
+											bu, kurumların imkan sağlayıcı olan tarafıdır.
+											Bu insanları çalışan olarak işe alabilirsiniz, çalışmalarını sonuç almak
+											üzere koordine edebilirsiniz.
+											Ama dağılımın bu tarafında, dünyanın Psycho Milts gibi
+											sadece bir tane fotoğraf gönderen insanları sözkonusuysa,
+											bu da kurumun engel olma özelliğini ortaya çıkarır.
+									","
+											Et la tension ici est entre l'institution en tant que facilitateur
+											et l'institution en tant qu'obstacle.
+											Lorsque vous avez affaire au côté gauche
+											de l'une de ces distributions,
+											lorsque vous avez affaire à ces gens qui consacrent énormément de temps
+											à produire une grande quantité du matériel que vous désirez,
+											c'est une institution qui fonctionne en ""monde facilitateur"".
+											Vous pouvez embaucher tous ces gens en tant qu'employés, vous pouvez coordonner leur travail
+											et vous obtiendrez un certain output.
+											Mais lorsque vous êtes ici en bas, là où les Psycho Milt du monde
+											ajoutent une photo à la fois,
+											là, l'institution est un obstacle.
+									","
+											Der Bogen spannt sich hier von einer Institution als Ermöglicher
+											zu einer Institution als Verhinderer.
+											Wenn man sich mit jemanden am linken Rand
+											von einer dieser Verteilungen befasst,
+											wenn man sich mit Leuten befasst, die viel Zeit darauf verwenden
+											das Material zu produzieren, dass man will,
+											dann hat man eine Institution, die ermöglicht.
+											Sie können diese Leute als Mitarbeiter anwerben, Sie können deren Arbeit koordinieren
+											und Sie bekommen Ergebnisse.
+											Aber hier unten, wo die Psycho Milts dieser Welt
+											jeweils nur ein Foto beisteuern,
+											hat man die Institution als Verhinderer.
+									",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+","
+","
+","
+","
+",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+											Institutions hate being told they're obstacles.
+											One of the first things that happens
+											when you institutionalize a problem
+											is that the first goal of the institution
+											immediately shifts from whatever the nominal goal was
+											to self-preservation.
+											And the actual goal of the institution goes to two through n.
+											Right? So, when institutions are told they are obstacles,
+											and that there are other ways of coordinating the value,
+											they go through something a little bit like the Kubler-Ross stages —
+											(Laughter)
+											— of reaction, being told you have a fatal illness:
+											denial, anger, bargaining, acceptance.
+											Most of the cooperative systems we've seen
+											haven't been around long enough
+											to have gotten to the acceptance phase.
+									","
+											A las instituciones les desagrada ser calificadas de ""obstáculo"".
+											Una de las primeras cosas que ocurre
+											cuando se intitucionaliza un problema
+											es que la meta principal de la institución,
+											se reenfoca, de lo que era originalmente,
+											hacia asegurar su propia supervivencia.
+											Y la meta verdadera de la institución se pierde.
+											De modo que cuando las intituciones son calificadas como obstáculos,
+											y existen otras formas de coordinar su valor,
+											estas pasan por algo un tanto similar a los estadios de Kubler-Ross —
+											(Risas)
+											— la reacción al ser informado de que se posee una enfermedad fatal:
+											negación, rabia, ruego, resignación.
+											La mayor parte de los sistemas cooperativos que he visto
+											son demasiado nuevos
+											para haber llegado a la fase de resignación.
+									","
+											Kurumlar, kendilerine engel denmesini hiç sevmezler.
+											Bir sorunu kurumsallaştırdığınız zaman
+											ilk olan şeylerden birisi,
+											kurumun amacının, kuruluş amacından
+											sapıp, kendi kendini korumayı
+											amaç edinmesidir.
+											Gerçek amaç ise, gittikçe gerilere itilir.
+											Dolayısıyla kurumlara, engel teşkil ettikleri söylendiğinde,
+											değerleri koordine etmenin bir çok başka yolu olduğu söylendiğinde,
+											Kubler-Ross aşamaları gibi aşamalardan geçerler.
+											(Kahkaha)
+											Ölümcül hastalığınız olduğu söylendiğinde geçirilen aşamalar:
+											İnkar, öfke, pazarlık, kabullenme.
+											Gördüğümüz işbirliğine dayalı sistemlerin çoğu,
+											henüz, ""kabullenme"" sahfasına gelecek kadar
+											uzun süre boyunca varolmadılar.
+									","
+											Les institutions détestent qu'on les appelle des obstacles.
+											Une des premières choses qui arrivent
+											lorsqu'on institutionnalise un problème
+											est que le premier objectif de l'institution
+											passe immédiatement de cet objectif initial, quel qu'il soit,
+											à l'autopréservation.
+											Et l'objectif réel de l'institution passe de 2 à n.
+											D'accord ? Ainsi, lorsqu'on dit aux institutions qu'elles sont des obstacles,
+											et qu'il y a une autre façon de coordonner la valeur,
+											elles passent par quelque chose qui ressemble aux étapes de Kubler-Ross -
+											(Rires)
+											- de réaction, que vous éprouvez lorsqu'on vous annonce une maladie fatale :
+											déni, colère, marchandage, acceptation.
+											La plupart des systèmes coopératifs que nous avons vus
+											n'ont pas vécu assez longtemps
+											pour avoir atteint le stade de l'acceptation.
+									","
+											Institutionen hassen es, wenn man sie Verhinderer nennt.
+											Das erste, was passiert,
+											wenn man ein Problem institutionalisiert
+											ist, dass das erste Ziel der Institution
+											sofort von welchem Ziel auch immer
+											zur Selbsterhaltung wechselt.
+											Und das tatsächliche Ziel der Institution geht von 2 bis n.
+											Also, wenn man Institutionen Verhinderer nennt,
+											und ihnen sagt, dass es andere Koordiantionsmöglichkeiten gibt
+											zeigen sie ein Verhalten, das Ähnlichkeit hat mit den Kübler-Ross Stufen
+											Lachen
+											der Reaktionen auf die Diagnose eines baldigen Todes:
+											Leugnung, Zorn, Verhandeln, Akzeptanz.
+											Die meisten kooperativen Systeme, die wir gesehen haben
+											gibt es noch nicht lange genugt
+											als dass sie die Akzeptanzphase erreicht haben können.
+									",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+","
+","
+","
+","
+",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+											Many, many institutions are still in denial,
+											but we're seeing recently a lot of both anger and bargaining.
+											There's a wonderful, small example going on right now.
+											In France, a bus company is suing people for forming a carpool,
+											right, because the fact that they have coordinated
+											themselves to create cooperative value is depriving them of revenue.
+											You can follow this in the Guardian.
+											It's actually quite entertaining.
+									","
+											Muchas, muchas instituciones están aún en ""negación"",
+											pero hemos visto recientemente tanto rabia como ruego.
+											Existe un maravilloso ejemplo en marcha, actualmente.
+											En Francia, una compañía de buses está demandando a gente que organiza un ""carpool"".
+											Porque el hecho de que se hayan
+											organizado, para crear valor cooperativo, los está privando de ingresos.
+											Pueden seguir esta historia en ""The Guardian"",
+											realmente es muy interesante.
+									","
+											Bir çok kurum hala inkar sahfasında,
+											ama giderek daha fazla miktarda öfke ve pazarlık görüyoruz.
+											Halen devam eden ufak bir örnek var:
+											Fransa'da, bir otobüs şirketi, insanları, bir arabayı ortak kullandıkları için mahkemeye verdi.
+											Çünkü bu insanlar, otobüs şirketinin
+											kazancını azaltacak şekilde koordinasyon yaparak, değer yarattılar.
+											Bu haberi, ""Guardian"" gazetesinden takip edebilirsiniz.
+											Aslında çok eğlenceli.
+									","
+											Beaucoup, beaucoup d'institutions sont encore au stade du déni,
+											mais nous avons vu récemment, à la fois, beaucoup de colère et de marchandage.
+											Il y a un merveilleux exemple qui se passe en ce moment.
+											En France, une companie de bus poursuit un justice des gens qui organisent du covoiturage,
+											bien, parce que le fait qu'ils se soient coordonnés
+											pour créer de la valeur coopérative les prive de revenus.
+											Vous pouvez suivre cela dans le Guardian.
+											C'est vraiment très amusant.
+									","
+											Viele, viele Institutionen leugnen immer noch
+											aber seit Neuestem sehen wir viel Zorn und Verhandeln.
+											Im Moment gibt es da ein wundervolles kleines Beispiel.
+											In Frankreich verklagt ein Busunternehmen Menschen, die Fahrgemeinschaften bilden
+											weil die Tatsache, dass die Menschen sich koordiniert haben,
+											um sich einen Vorteil zu verschaffen, das Unternehmen um die Einnahmen bringt.
+											Sie können das im Guardian verfolgen.
+											Es ist ganz unterhaltsam.
+									",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+","
+","
+","
+","
+",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+											The bigger question is,
+											what do you do about the value down here?
+											Right? How do you capture that?
+											And institutions, as I've said, are prevented from capturing that.
+											Steve Ballmer, now CEO of Microsoft,
+											was criticizing Linux a couple of years ago, and he said,
+											""Oh, this business of thousands of programmers
+											contributing to Linux, this is a myth.
+											We've looked at who's contributed to Linux,
+											and most of the patches have been produced by programmers
+											who've only done one thing."" Right?
+											You can hear this distribution under that complaint.
+											And you can see why, from Ballmer's point of view,
+											that's a bad idea, right?
+											We hired this programmer, he came in, he drank our Cokes
+											and played Foosball for three years and he had one idea.
+											(Laughter)
+											Right? Bad hire. Right?
+											(Laughter)
+									","
+											La pregunta más importante es:
+											¿Qué hacer con el valor de acá abajo?
+											¿Cómo se aprovecha eso?
+											Y las intituciones, como ya he dicho, son incapces de aprovechar eso.
+											Steve Ballmer, el actual CEO de Microsoft,
+											criticaba Linux unos años atrás, y decía:
+											""Oh, este asunto de miles de programadores
+											contribuyendo con Linux, esto es un mito"".
+											Hemos examinado quién contibuye con Linux,
+											y la mayor parte de los ‘parches’ han sido producidos por programadores
+											que han hecho tan sólo una cosa.
+											Se puede ""escuchar"" esta ditribución en esa queja.
+											Y se puede ver por qué, desde el punto de vista de Ballmer,
+											esa es una mala idea.
+											Contratamos a este programador, se instaló, se bebió nuestras Coca-Colas
+											jugó ""Foosball"" durante 3 años, y tuvo UNA idea.
+											(Risas)
+											Mala contratación. ¿Cierto?
+											(Risas)
+									","
+											Daha büyük soru şu:
+											Şuradaki değerle ilgili ne yapmak gerek?
+											Bu değeri nasıl yakalarsınız?
+											Kurumlar, anlattığım gibi, bu değeri yakalamaktan alıkoyulmuştur.
+											Steve Ballmer, Microsoft'un CEO'su,
+											daha bir kaç sene önce Linux'u eleştiriyordu. Şöyle dedi:
+											""Linux'a binlerce programcının katılımda bulunması
+											diye bir şey yok; bu bir efsane.""
+											""Linux'a destek verenleri inceledik.
+											Çoğu yama, sadece o yamayı yapan programcı
+											tarafından yapılmış.""
+											Bu şikayetin altında, buradaki dağılımı görebilirsiniz.
+											Ballmer'ın bakış açısından da bunun neden kötü
+											göründüğünü anlayabiliriz.
+											Bir programcıyı işe alıyoruz, işe geliyor, Cola'mızı içiyor,
+											üç yıl boyunca langırt oynuyor ve topu topu bir tane fikir üretiyor.
+											(Kahkaha)
+											Di mi? Kötü bir seçim.
+											(Kahkaha)
+									","
+											La plus grande question est :
+											""Que faites-vous de la valeur, ici en bas ?""
+											Oui ? Comment la capturez-vous ?
+											Et les institutions, comme nous l'avons dit, ne sont pas en mesure de capturer cela.
+											Steve Ballmer, l'actuel CEO de Microsoft,
+											critiquait Linux il y quelques années et il disait :
+											""oh, ce truc de milliers de programmeurs
+											qui contribuent à Linux, c'est un mythe"". D'accord ?
+											Nous avons examiné qui contribuait à Linux,
+											et la plupart des correctifs ont été produits par des programmeurs
+											qui n'ont fait qu'une seule chose. D'accord ?
+											Vous pouvez entendre cette distribution derrière cette réclamation.
+											Et vous pouvez voir pourquoi, du point de vue de Ballmer,
+											c'est une mauvaise idée, ok ?
+											Nous avons embauché ce programmeur, il est venu, il a bu notre Coca
+											et il a joué au Football pendant trois ans et il a eu une idée.
+											(Rires)
+											OK ? Mauvais recrutement. D'accord ?
+											(Rires)
+									","
+											Die große Frage ist:
+											was macht man mit der Leistung hier unten?
+											Wie erfasst man die?
+											Institutionen, wie ich schon sagte, sind daran gehindert, das zu erfassen.
+											Steve Ballmer, gerade der CEO von Microsoft,
+											kritisierte vor einigen Jahren Linux, und er sagte:
+											Oh, dieses Unternehmen mit tausenden von Programmierern,
+											die alle an Linux mit arbeiten, das ist ein Mythos.
+											Wir haben uns angeschaut, wer an Linux mitarbeitet
+											und die meisten Programmkorrekturen wurden von Programmierern hergestellt ,
+											die nur einmal aktiv wurden. OK?
+											Man kann diese Verteilung aus dieser Beschwerde heraushören.
+											Und man kann von Ballmers Standpunkt aus erkennen, warum
+											es eine schlechte Idee ist , OK?
+											Wir haben diesen Programmierer eingestellt, er kam, trank unsere Cola
+											und spielte drei Jahre lang Fußball und hatte eine einzige Idee.
+											Lachen
+											OK? Ein schlechtes Geschäft, oder?
+											Lachen
+									",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+","
+","
+","
+","
+",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+											The Psycho Milt question is, was it a good idea?
+											What if it was a security patch?
+											What if it was a security patch for a buffer overflow exploit,
+											of which Windows has not some, [but] several?
+											Do you want that patch, right?
+											The fact that a single programmer can,
+											without having to move into a professional relation
+											to an institution, improve Linux once
+											and never be seen from again, should terrify Ballmer.
+											Because this kind of value is unreachable in classic
+											institutional frameworks, but is part of cooperative
+											systems of open-source software, of file sharing,
+									","
+											La pregunta ""Psycho Milt"" sería: ¿fué una idea buena?
+											¿Qué tal si fué un ‘parche’ de seguridad?
+											¿Qué tal si fué un ‘parche’ de seguridad que impide aprovecharse de un ""desbordamiento de búfer"",
+											de los cuales Windows tiene varios?
+											Deseas ese ‘parche’, ¿verdad ?
+											EL hecho de que un programador solitario pueda —
+											sin tener que pasar a una relación profesional
+											con una intitución — mejorar Linux, una vez
+											y no ser visto nunca más, debe aterrar a Ballmer.
+											Porque este es el tipo de valor inalcanzable en el marco
+											institucional clásico. Pero es parte de sistemas cooperativos
+											de código-abierto, de archivos compartidos,
+									","
+											Psycho Milt sorusu: Bu iyi bir fikir mi?
+											Ya bu fikir, önemli bir güvenlik yamasıysa?
+											Ya bu bir bellek hatasında ortaya çıkan güvenlik açığı
+											için bir yamaysa - Windows'da çok bellek hatası oluyor.
+											O zaman bu yama önemlidir, di mi?
+											Herhangi bir programcının,
+											profesyonel ilişkiye girmeden Linux'a
+											bir kere katkıda bulunup, bir daha görülmemesi,
+											Ballmer'ı çok korkutmalı.
+											Çünkü bu tür değer, geleneksel kurumsal
+											yapı içinde ortaya çıkmaz; sadece işbirliğine dayalı,
+											açık kaynak yazılımlar, Vikipedi veya dosya paylaşım
+									","
+											La question Psycho Milt est : ""Etait-ce une bonne idée ?""
+											Qu'est-ce qui se passe si c'est un correctif de sécurité ?
+											Si c'était un correctif de sécurité pour éviter une surcharge de mémoire-tampon,
+											un de ceux qui manquent à Windows ? Il leur en manque plusieurs ?
+											Vous voulez ce programme, non ?
+											Le fait qu'un programmeur seul peut,
+											sans avoir à entrer dans une relation professionnelle
+											avec une institution, améliorer Linux
+											une fois et ne plus avoir de contact avec eux ensuite, devrait terrifier Ballmer.
+											Parce que ce type de valeur est inaccessible dans les cadres
+											institutionnels classiques, mais forme une part
+											des systèmes coopératifs des logiciels open-source, du partage des fichiers,
+									","
+											Die Psycho Milt Frage ist, war das eine gute Idee?
+											Was, wenn es eine Sicherheitskorrektur war?
+											Was, wenn es ein Sicherheitpatch für ein buffer overflow exploit war,
+											von denen Windows nicht nur einige sondern viele hat?
+											Möchten Sie dieses Patch haben, ja?
+											Die Tatsache, das ein einzelner Programmierer,
+											ohne dass er eine berufliche Beziehung
+											mit einem Unternehmen eingehen muss, Linux verbessern kann
+											und dann niemals wieder gesehen wird, sollte Ballmer erschrecken.
+											Weil diese Art von Leistung nicht möglich ist in klassischen
+											institutionellen Rahmen, aber Teil von kooperativen
+											Systemen der freien Software, von Daten-Austausch,
+									",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+","
+","
+","
+","
+",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+											of the Wikipedia. I've used a lot of examples from Flickr,
+											but there are actually stories about this from all over.
+											Meetup, a service founded so that users could find people
+											in their local area who share their interests and affinities
+											and actually have a real-world meeting offline in a cafe
+											or a pub or what have you.
+											When Scott Heiferman founded Meetup,
+											he thought it would be used for, you know,
+											train spotters and cat fanciers — classic affinity groups.
+											The inventors don't know what the invention is.
+											Number one group on Meetup right now,
+											most chapters in most cities with most members, most active?
+											Stay-at-home moms. Right?
+											In the suburbanized, dual-income United States,
+											stay-at-home moms are actually missing
+											the social infrastructure that comes from extended family
+											and local, small-scale neighborhoods.
+											So they're reinventing it, using these tools.
+											Meetup is the platform,
+											but the value here is in social infrastructure.
+											If you want to know what technology is going to change the world,
+											don't pay attention to 13-year-old boys —
+											pay attention to young mothers,
+											because they have got not an ounce of support for technology
+											that doesn't materially make their lives better.
+											This is so much more important than Xbox,
+											but it's a lot less glitzy.
+									","
+											de Wikipedia. He usado muchos ejemplos de Flickr,
+											pero existen historias similares por doquier.
+											""Meetup"": un servicio creado para que los usuarios encontraran gente
+											que compartía sus intereses e inclinaciones en zonas vecinas,
+											y realizaran encuentros reales en un café,
+											un pub o lo que sea.
+											Cuando Scott Heifman fundó Meetup,
+											pensó que iba a ser usado, ya saben,
+											por identificadores de trenes o criadores de gatos de pedigrí — típicos grupos de aficionados.
+											Los inventores no saben lo que su invención es.
+											¿El principal grupo actual en Meetup?
+											¿Mayor número de sedes, en mayor número de ciudades, con la mayor cantidad de miembros?
+											Madres-Amas-de-Casa.
+											En los Estados Unidos, sub-urbanizado, de doble ingreso familiar,
+											las Madres-Amas-de-Casa carecen
+											de la infraestructura social que acompaña a la familia extendida
+											y a los vecindarios locales de pequeña escala.
+											De modo que la están reinventando usando estas herramientas.
+											La plataforma es ""Meetup"".
+											Pero el valor aquí está en la infraestructura social.
+											Si desean saber qué tecnología va a cambiar el mundo,
+											no se fijen en los niños de 13 años —
+											fíjense en las madres jóvenes,
+											porque ellas no apoyarán de ningún modo tecnologías
+											que no contribuyan efectivamente a mejorar sus vidas.
+											Esto es tanto más importante que Xbox
+											aunque sea mucho menos vistoso.
+									","
+											sistemlerinde ortaya çıkıyor. Flickr'dan bir çok örnek gösterdim,
+											ama aslında bu tür öyküler her tarafta bulunuyor.
+											""Meetup"" (Buluşma) kullanıcılarının, aynı bölgede benzer ilgileri
+											olan insanları bulmaları için kurulmuş bir hizmet,
+											ayrıca gerçek hayatta, bir 'cafe'de veya bir 'pub'da
+											- ya da neresiyse - buluşup toplanıyorlar.
+											Scott Heifetman Meetup'ı kurduğunda,
+											tren izleyicileri veya kedi severler tarafından
+											kullanılacağını düşünmüştü - geleneksel meraklar.
+											Genelde mucitler, icatlarını tanımazlar.
+											Şu anda Meetup'daki en büyük grup,
+											en fazla sayıda şehre yayılmış, en fazla üyesi olan, en aktif grup,
+											ev kadını anneler. İyi mi?
+											Kenar mahalleli, çift gelirli Birleşik Devletler'de.
+											ev kadını anneler, ancak geniş ailelerde,
+											veya küçük, geleneksel mahallelerde bulunan
+											sosyal altyapıyı özlüyorlar.
+											O sosyal altyapıyı, bu araçlarla yeniden icat ediyorlar.
+											Meetup sadece bir platform,
+											ama buradaki değer sosyal altyapıda.
+											Eğer dünyayı hangi teknolojinin değiştireceğini bulmak isterseniz,
+											gidip de 13 yaşındaki oğlanlara bakmayın,
+											genç annelere bakın;
+											çünkü genç anneler, kendi hayatlarını somutça kolaylaştırmayan
+											teknolojilerin dönüp de suratına bile bakmazlar.
+											Çok gösterişli olmasalar da,
+											Xbox'dan çok daha önemliler.
+									","
+											ou de Wikipédia. J'ai utilisé pas mal d'exemples de Flickr,
+											mais il y a en fait des histoires de ce type partout.
+											Meetup, un service créé afin que les utilisateurs puissent trouver des gens
+											dans leurs environnements immédiats qui partagent leurs intérêts et affinités
+											et qui se rencontrent dans le monde réel dans un café
+											ou un pub ou n'importe où.
+											Lorsque Scott Heiferman a fondé Meetup,
+											il pensait qu'il serait utilisé, vous savez,
+											par les navetteurs ou les amateurs de chats - des groupes d'affinités classiques.
+											Les inventeurs ne savent pas ce qu'est leur invention.
+											Le groupe numéro un sur Meetup, à l'heure actuelle,
+											avec le plus de sections dans le plus de villes avec le plus de membres, les plus actifs ?
+											Les mères au foyer. D'accord ?
+											Dans les Etats-Unis suburbains et aux doubles revenus,
+											les mères au foyers ne disposent pas
+											de l'infrastructure sociale qui provient de la famille élargie
+											et des voisinages locaux à petite échelle.
+											Et donc, elles la réinventent en utilisant ces outils.
+											Meetup est la plateforme,
+											mais la valeur ici tient dans l'infrastructure sociale.
+											Si vous voulez savoir quelle technologie est en passe de changer le monde,
+											ne vous focalisez pas sur les garçons de 13 ans,
+											concentrez-vous sur les jeunes mères,
+											car elles n'accordent pas le moindre soutien à une technologie
+											qui n'améliore pas matériellement leur vie.
+											Ceci est tellement plus important que la Xbox,
+											mais c'est beaucoup moins bling-bling.
+									","
+											von Wikipedia ist. Ich habe viele Beispiele von Flickr verwendet,
+											aber man findet solche Geschichten überall.
+											Meetup ist ein Service, der Nutzern bei der Suche hilft, Menschen
+											mit gleichen Interessen und Neigungen in ihrer Nachbarschaft zu finden
+											und sich sogar offline in der realen Welt zu treffen, in einem Café,
+											einer Kneipe oder wo auch immer.
+											Als Scott Heiferman Meetup gründete,
+											nahm er an, dass der Service von
+											Zugbeobachtern und Katzenfans genutzt werden würde, klassischen Interessensgruppen.
+											Die Erfinder wissen nicht, was die Erfindung ist.
+											Wer ist die Nr.1 der Gruppen auf Meetup heute
+											mit den meisten Einträgen in den meisten Städten, mit den meisten Mitgliedern,am meisten aktiv?
+											Mütter, die zu Hause bleiben.
+											In den vervororteten, doppel verdienenden Vereinigten Staaten
+											fehlt Müttern zu Hause
+											die soziale Infrastruktur, die aus Großfamilen
+											und örtlichen kleinen Nachbarschaften kommt.
+											Also haben sie die mit diesen Mitteln neu erfunden.
+											Meetup ist die Plattform,
+											aber der Wert liegt hier in der sozialen Infrastruktur.
+											Wenn Sie wissen wollen, wie Technologie die Welt verändert,
+											richten Sie Ihre Aufmerksamkeit nicht auf 13jährige Jungen -
+											sondern auf junge Mütter,
+											denn sie unterstützten die Technologie kein bisschen,
+											die ihre Lebensqualität nicht wesentlich verbessert.
+											Das ist so viel wichtiger als die Xbox,
+											aber es ist eben weniger glamourös.
+									",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+","
+","
+","
+","
+",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+											I think this is a revolution.
+											I think that this is a really profound change
+											in the way human affairs are arranged.
+											And I use that word advisedly.
+											It's a revolution in that it's a change in equilibrium.
+											It's a whole new way of doing things, which includes new downsides.
+											In the United States right now, a woman named Judith Miller
+											is in jail for not having given to a Federal Grand Jury her sources —
+											she's a reporter for the New York Times —
+											her sources, in a very abstract and hard-to-follow case.
+											And journalists are in the street rallying to improve the shield laws.
+											The shield laws are our laws — pretty much a patchwork of state laws —
+											that prevent a journalist from having to betray a source.
+											This is happening, however, against the background
+											of the rise of Web logging.
+											Web logging is a classic example of mass amateurization.
+											It has de-professionalized publishing.
+											Want to publish globally anything you think today?
+											It is a one-button operation that you can do for free.
+											That has sent the professional class of publishing down
+											into the ranks of mass amateurization.
+											And so the shield law, as much as we want it —
+											we want a professional class of truth-tellers —
+											it is becoming increasingly incoherent, because
+											the institution is becoming incoherent.
+											There are people in the States right now
+											tying themselves into knots, trying to figure out
+											whether or not bloggers are journalists.
+											And the answer to that question is,
+											it doesn't matter, because that's not the right question.
+											Journalism was an answer to an even more important question,
+											which is, how will society be informed?
+											How will they share ideas and opinions?
+											And if there is an answer to that that happens outside
+											the professional framework of journalism,
+											it makes no sense to take a professional metaphor
+											and apply it to this distributed class.
+											So as much as we want the shield laws,
+											the background — the institution to which they were attached —
+											is becoming incoherent.
+									","
+											Creo que estamos frente a una revolución.
+											Creo que este es un cambio realmente profundo
+											en el modo de tratar los asuntos humanos.
+											Y uso ese término a conciencia.
+											Es una revolución en el sentido de que es un cambio en el equilibrio.
+											Es una forma completamente nueva de hacer cosas, que implica nuevos problemas.
+											Hoy, en los Estados Unidos, una mujer llamada Judith Miller,
+											está en prisión por no revelar a un Jurado Federal sus fuentes —
+											Ella es una reportera del New York Times —
+											...fuentes en un caso muy abstracto y difícil de seguir.
+											Y los periodistas están en la calle, protestando, para mejorar las ""leyes escudo"".
+											Las ""Leyes escudo"" son nuestras leyes — realmente un mosaico de leyes estatales —
+											que impiden que un periodista deba revelar una fuente (de información).
+											Esto ocurre, sin embargo, con el trasfondo
+											de un incremento de participación en ""Blogs""
+											Los Blogs son un ejemplo clásico de ""amateurización"".
+											Ha des-profesionalizado la labor de publicar.
+											¿Desea publicar globalmente cualquier pensamiento hoy?
+											Es tan simple como oprimir un botón, de modo gratuito.
+											Esto ha rebajado a la clase de editores profesionales a
+											la categoría de masas de aficionados.
+											Y por más que que queramos la ""Ley escudo"" —
+											deseamos conservar una clase profesional de voceros con credibilidad —
+											se ha vuelto más y más incoherente porque
+											la institución se está tornando incoherente.
+											Hoy, hay gente en los Estados Unidos
+											haciendo contorciones, intentando discernir si
+											los ""Bloggers"" son periodistas.
+											Y la respuesta a esa pregunta es:
+											¡No importa!, porque esa no es la pregunta adecuada.
+											El periodismo fue la respuesta a una pregunta aún más importante,
+											y es esta: ¿Cómo se informa a la sociedad?
+											¿Cómo se van a compartir ideas y opiniones?
+											Y si existe una respuesta a aquello, fuera
+											del marco del periodismo profesional,
+											tiene poco sentido tomar una metáfora profesional
+											y aplicarla a esta clase distribuida.
+											De modo que, por más que nos gusten las ""leyes escudo""
+											el trasfondo — la institución a la que están vinculadas
+											se está volviendo incoherente.
+									","
+											Bunun bir devrim olduğu görüşündeyim.
+											İnsan ilişkilerinin düzenlenmesi açısından
+											büyük bir değişim yaşadığımızı düşünüyorum.
+											Kelimeyi dikkatle kullanıyorum:
+											Buna ""devrim"" dememin sebebi, dengeleri değiştirmesi.
+											Olumsuz yönleri olsa da ilişki kurmanın yepyeni bir şekli.
+											Şu anda, Birleşik Devletler'de, Judith Miller adında bir kadın,
+											Federal Mahkeme'ye kaynaklarını beyan etmediği için hapis yatıyor - bu hanım, New York Times
+											gazetesinde haberci.
+											Dava çok soyut ve takip edilmesi güç bir dava.
+											Gazeteciler, sokakta toplanıp ""kalkan"" kanunlarının iyileştirilmesi için gösteri yapıyorlar.
+											""Kalkan"" kanunları, bir sürü eyalet kanununu kastediyor.
+											Bu kanunlar sayesinde gazeteciler, kaynaklarına ihanet etmek zorunda kalmıyorlar.
+											Bu olay, ""blog""larla paralel olarak
+											gelişiyor.
+											""Blog""lar, kitlesel amatörleşmenin klasik bir örneği.
+											Yayıncılığı, profesyonel iş olmatan çıkarıyor.
+											Küresel bir yayın mı yapmak istersiniz?
+											Tek tuşa basıp yapabileceğiniz bedava bir işlem.
+											Bu nedenle, profesyonel yayıncı sınıfı,
+											amatör kitlelerin arasında düştü.
+											Dolayısıyla, hoşumuza gitmese de, ""kalkan"" kanunu,
+											artık anlamsızlaşıyor; çünkü
+											profesyonel habercilik kurumunun
+											kendisi giderek anlamsızlaşıyor.
+											Şu anda, Birleşik Devletler'de
+											bir takım insanlar, düşünüp taşınıp,
+											kendilerinin ""gazeteci"" mi yoksa ""blogger"" mı olduğunu
+											anlamaya çalışıyorlar.
+											Cevap şu: Önemli değil, çünkü soru yanlış.
+											Gazetecilik, daha önemli bir sorunun cevabıydı:
+											Toplum nasıl haberdar edilir?
+											Fikir ve görüşler nasıl paylaşılır?
+											Eğer bu sorunun cevabı, gazetecilik mesleğinin
+											çerçevesinin dışında kalıyorsa,
+											artık bu mesleğe ait ifadeleri alıp da bugünkü
+											dağınık ""blogger"" sınıfına uygulamak anlamsız.
+											Her ne kadar ""kalkan"" kanunlarınını istesek de,
+											bunların sıkıca bağlı oldukları arka plan,
+											giderek anlamsızlaşıyor.
+									","
+											Je pense que c'est une révolution.
+											Je pense que c'est un changement vraiment profond
+											de la façon dont on arrange les affaires humaines.
+											Et j'utilise ce mot à dessein.
+											C'est une révolution car c'est un changement d'équilibre.
+											C'est une toute nouvelle façon de faire les choses qui inclut de nouveaux inconvénients.
+											Aux Etats-Unis, en ce moment-même, une femme appelée Judith Miller
+											est en prison pour ne pas avoir livré ses sources à un Grand Jury Fédéral -
+											c'est une journaliste du New York Times,
+											ses sources dans un cas très abstrait et difficile à suivre.
+											Et les journalistes sont dans la rue, ils se rassemblent pour améliorer les lois de protection des sources.
+											Ces lois sont nos lois - vraiment comme un patchwork de lois étatiques -
+											qui évitent à un journaliste d'avoir à trahir une source.
+											Ceci survient, toutefois, dans le contexte
+											de l'augmentation du blogging.
+											Le blogging est un exemple classique de l'amateurisation de masse.
+											Il a déprofessionnalisé l'édition.
+											Vous voulez publier sur le mode global tout ce que vous pensez aujourd'hui ?
+											C'est une opération presse-bouton que vous pouvez faire gratuitement.
+											Cela a fait descendre la classe professionnelle de l'édition au niveau
+											de l'amateurisme de masse.
+											Et donc nos lois de protection des sources, si fort que nous les désirions -
+											nous voulons une classe professionnnelle de compteurs de vérité -
+											deviennent de plus en plus incohérentes puisque
+											cette institution devient incohérente.
+											Il y a des gens aux Etats-Unis qui, actuellement,
+											s'enferment dans des noeuds, en essayant de savoir si
+											oui ou non, les bloggueurs sont des journalistes.
+											Et la réponse à cette question est :
+											""cela n'a pas d'importance, car cela n'est pas la bonne question.""
+											Le journalisme était une réponse à une question encore plus importante,
+											qui était : ""comment la société sera-t-elle informée ?""
+											Comment allons-nous partager idées et opinions ?""
+											Et s'il y a une réponse à cela qui apparait hors
+											du cadre professionnel du journalisme,
+											cela n'a pas de sens de prendre une métaphore professionnelle
+											et de l'appliquer à cette classe distribuée.
+											Et donc, alors que nous voulons ces lois de protection des sources,
+											le contexte, cette institutions à laquelle elles étaient attachées
+											devient incohérente.
+									","
+											Ich denke, es ist eine Revolution.
+											Ich glaube, dass ist eine tiefgreifende Veränderung
+											in der Art und Weise, wie Menschen ihre Angelegenheiten arrangieren.
+											Und ich verwende dieses Wort bewusst.
+											Es ist eine Revolution insofern es das Gleichgewicht verändert.
+											Es ist ein ganz neuer Weg, Dinge zu tun, die auch wiederum neue Schatten werfen.
+											In den Vereinigten Staaten sitzt augenblicklich eine Frau namens Judith Miller
+											im Gefängins, weil die dem Geschworenen-Gericht nicht ihre Quellen genannt hat -
+											sie ist eine Reporterin der New York Times -
+											ihre Quellen in einem sehr abstrakten und schwer zu verfolgenden Fall.
+											Journalisten demonstrieren, um die Schutz-Gesetze zu verbessern.
+											Die Schutz-Gesetze sind unsere Gesetze, ein ziemlicher Flickenteppich von Landesgesetzen,
+											die einen Journalisten davor bewahren, eine Quelle verraten zu müssen.
+											Dies geschieht jedoch vor dem Hintergrund
+											der Zunahme des Bloggens.
+											Blogging ist ein klassisches Beispiel für Massen-Amateurisierung.
+											Es hat das Veröffentlichen ent-professionalisiert.
+											Sie wollen irgendwas, was sie heute denken weltweit veröffentlichen?
+											Das können Sie kostenlos mit einem Klick tun.
+											Das hat den Berufsstand der Verleger herabgesetzt auf
+											das Niveau der Massen-Amateurisierung.
+											Und die Schutzgesetze, so sehr wir sie wollen -
+											wir möchten einen Berufsstand der Wahrheits-Sager -
+											werden immer unzusammenhängender, weil
+											die Institution immer unzusammenhängender wird.
+											Da gibt es Menschen in den Staaten,
+											die krampfhaft versuchen herauszufinden,
+											ob Blogger Journalisten sind oder nicht.
+											Die Antwort auf diese Frage ist:
+											es spielt keine Rolle, weil es nicht die richtige Frage ist.
+											Der Journalismus war eine Antwort auf eine noch wichtigere Frage
+											die lautet: wie informiert man eine Gesellschaft?
+											Wie kann man Ideen und Meinungen teilen?
+											Und wenn es eine Lösung dafür gibt, das außerhalb
+											des professionellen Rahmens des Journalismus passiert,
+											so macht es keinen Sinn eine professionelle Metapher zu nehmen
+											und sie auf diese verteilte Klasse anzuwenden.
+											Je mehr wir also Schutzgesetze haben wollen,
+											desto mehr wird der Hintergrund - die Institution, an die sie angeheftet sind
+											unzusammenhängend werden.
+									",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+","
+","
+","
+","
+",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+											Here's another example.
+											Pro-ana, the pro-ana groups.
+											These are groups of teenage girls
+											who have taken on Web logs, bulletin boards,
+											other kinds of cooperative infrastructure,
+											and have used it to set up support groups for
+											remaining anorexic by choice.
+											They post pictures of thin models, which they call ""thinspiration.""
+											They have little slogans, like ""Salvation through Starvation.""
+											They even have Lance Armstrong-style bracelets,
+											these red bracelets, which signify, in the small group,
+											I am trying to maintain my eating disorder.
+											They trade tips, like, if you feel like eating something,
+											clean a toilet or the litter box. The feeling will pass.
+									","
+											He aquí otro ejemplo.
+											Pro-Ana. Los grupos Pro-Ana.
+											Estos son grupos de niñas adolescentes
+											que han adoptado Blogs, carteleras,
+											y otro tipo de infraestructuras cooperativas,
+											y las están usando para crear grupos de apoyo
+											a quienes prefieren seguir siendo anoréxicas.
+											Publican fotos de modelos delgadas, a las que llaman ""Thinspiration"" (inspiraciones delgadas)
+											Tienen lemas, como ""Salvation through Starvation"" (""Salvación vía Hambruna"")
+											Tienen, incluso, brazaletes, al estilo Lance Armstrong,
+											braceletes rojos que significan, en este grupo reducido:
+											""Deseo mantener mi trastorno alimentario""
+											Intercambian consejos, como: ""si sientes deseos de comer algo...
+											limpia el inodoro, o la caja sanitaria de tu gato. El deseo pasará.""
+									","
+											Bir örnek daha:
+											Pro-ana, Pro-ana grupları.
+											Bunlar, kişisel tercih olarak
+											anoreksik kalmayı tercih eden kızların,
+											""blog""lar ve forumlar gibi,
+											işbirliğine dayalı altyapılar kullanarak
+											yarattıkları dayanışma grupları.
+											İnce vücutlu modellerin fotoğrafları birbirlerine gönderiyorlar.
+											Kısa sloganları var, ""Kurtuluş için aç kalın"" gibi;
+											Kanser dayanışma gruplarının bileziklerine benzer
+											kırmızı bilezikleri var, böylece ""ben beslenme hastalığımı
+											sürdürmeye gayret ediyorum"" mesajını veriyorlar.
+											Birbirlerine öneriler veriyorlar, mesela,
+											canın yemek isterse, tuvalet veya çöp kutusu temizle. Yeme isteğin geçer.
+									","
+											Voici un autre exemple.
+											Pro-ana, les groupes Pro-ana.
+											Ce sont des groupes d'adolescentes
+											qui ont utilisé les blogs, les messageries électroniques,
+											d'autres types d'infrastructures coopératives
+											et les ont utilisées pour créer des groupes de soutien pour
+											rester anorexiques par choix.
+											Elles postent des photos de modèles maigres, ce qu'elles appelle ""Thinspiration (mince-piration)"".
+											Elle ont des petits slogans comme ""Salvation through Starvation"" (le salut par la faim)
+											elle ont même des bracelets de type Lance Armstrong,
+											ces bracelets rouges qui signifient, dans le petit groupe,
+											j'essaie de maintenir mon trouble alimentaire.
+											Elles échangent des tuyaux, ""si tu as envie de manger quelque chose,
+											nettoie les toilettes ou la poubelle. La sensasion passera"".
+									","
+											Hier ein anderes Beispiel:
+											Pro-ana, die Pro-ana-Gruppen
+											Das sind Gruppen von Teenager-Mädchen,
+											die in Weblogs und Foren aktiv sind, sowie
+											in anderen Arten von kooperativen Infrastrukturen
+											und sie nutzen sie als Selbsthilfegruppen
+											für die, die magersüchtig bleiben wollen.
+											Sie veröffentlichen Bilder von mageren Modells, die sie ""Thinspiration"" nennen.
+											Sie haben kurze Slogans, wie ""Rettung durch Hunger""
+											Sie haben Armbänder im Stil von Lance Armstrong,
+											rote Armbänder, die in dieser kleinen Gruppe anzeigen:
+											""Ich versuche an meiner Essstörung festzuhalten""
+											Sie geben Tipps, wie man das Hunger-Gefühl verdrängen kann:
+											reinigt eine Toilette oder ein Katzenklo. Das Gefühl wird verschwinden.
+									",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+","
+","
+","
+","
+",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+											We're used to support groups being beneficial.
+											We have an attitude that support groups are inherently beneficial.
+											But it turns out that the logic of the support group is value neutral.
+											A support group is simply a small group that wants to maintain
+											a way of living in the context of a larger group.
+											Now, when the larger group is a bunch of drunks,
+											and the small group wants to stay sober, then we think,
+											that's a great support group.
+											But when the small group is teenage girls
+											who want to stay anorexic by choice, then we're horrified.
+											What's happened is that the normative goals
+											of the support groups that we're used to,
+											came from the institutions that were framing them,
+											and not from the infrastructure.
+											Once the infrastructure becomes generically available,
+											the logic of the support group has been revealed to be
+											accessible to anyone, including people pursuing these kinds of goals.
+									","
+											Estamos acostumbrados a que los grupos de apoyo son beneficiosos.
+											Somos proclives a pensar que los grupos de apoyo son inherentemente beneficiosos.
+											Pero resulta que la lógica de los grupos de apoyo es valóricamente neutral.
+											Un grupo de apoyo es, simplemente, un grupo que persigue sostener
+											una forma de vida en el contexto de un grupo más amplio.
+											Ahora, cuando el grupo más amplio es un montón de borrachos,
+											y el grupo pequeño desea mantenerse sobrio, pensamos:
+											""¡Ese es un excelente grupo de apoyo!""
+											Pero cuando el grupo pequeño esta compuesto por niñas adolescentes
+											que prefieren permanecer anoréxicas, nos horrorizamos.
+											Lo que pasa es que las metas normativas
+											de los grupos de apoyo a los que estamos acostumbrados
+											provienen de las instituciones que las enmarcaron,
+											y no de su infraestructura.
+											Una vez que la infraestructura se pone, genéricamente, a disposición,
+											la lógica del grupo de apoyo se revela como
+											accesible para cualquiera, incluyendo gente que persigue este tipo de objetivos.
+									","
+											Dayanışma gruplarının faydalı olmalarına alıştık.
+											Beklentimiz, dayanışma gruplarının kendiliğinden faydalı olmaları.
+											Ama gerçek o ki, dayanışma grubu, kendi başına ne iyi, ne de kötü.
+											Dayanışma grubu, daha büyük bir toplumun içinde, varlığını, yaşam şeklini
+											sürdürmek isteyen küçük bir grup.
+											Geniş toplum sarhoşlardan oluşmuşsa,
+											küçük grup da ayık kalmak istiyorsa, biz,
+											""ne güzel bir dayanışma grubu"" diyoruz.
+											Ama küçük grup, hasta kalmayı tercih eden
+											bluğ çağında kızlar olunca, bu sefer dehşete kapılıyoruz.
+											Alıştığımız dayanış gruplarının,
+											olağan amaçları,
+											bu grupları yaratan kurumlardan kaynaklanıyor,
+											altyapıdan değil.
+											Altyapı, herkese sunulduğu zaman,
+											dayanışma grubunun mantığının
+											herkes tarafından ulaşılabilir olduğunu, dehşetli amaçları olan kişilerin de destek gruplarını kullanabildiğini gördük.
+									","
+											Nous étions habitués à ce qu'un groupe de soutien soit bénéfique.
+											Nous considérons comme allant de soi qu'un groupe de soutien est intrinsèquement bénéfique.
+											Mais il apparait que la logique d'un groupe de soutien est de valeur neutre.
+											Un groupe de soutien est simplement un petit groupe qui veut maintenir
+											une façon de vivre dans le contexte d'un groupe plus large.
+											Maintenant, lorsque le groupe plus large est une bande d'ivrognes,
+											et que le petit groupe veut rester sobre, alors nous pensons :
+											""c'est un super groupe de soutien"".
+											Mais quand le petit groupe est composé d'adolescentes
+											qui veulent rester anorexiques par choix, alors, nous sommes horrifiés.
+											Ce qui arrive est que les objectifs normatifs
+											des groupes de soutien auxquels nous sommes habitués
+											provenaient des institutions qui les structuraient
+											et non de l'infrastructure.
+											Dès que l'infrastructure devient accessible à tout un chacun,
+											la logique du groupe de soutien s'est révélée comme
+											accessible à tout un chacun, y compris à des gens qui poursuivent ce type de buts.
+									","
+											Wir sind daran gewöhnt, dass Selbsthilfegruppen positiv sind.
+											Wir haben eine Einstellung, dass Selbsthilfegruppen an sich positiv sind.
+											Aber grundsätzlich ist die Logik hinter Selbsthilfegruppen erst einmal wertneutral.
+											Eine Selbsthilfegruppe ist einfach eine Gruppe, die versucht,
+											innerhalb einer größeren Gruppe ihre Lebensart aufrecht zu erhalten.
+											Ist nun die größere Gruppe ein Haufen Betrunkener
+											und die kleine Gruppe möchte nüchtern bleiben, dann glauben wir,
+											dass dies eine großartige Selbsthilfegruppe ist.
+											Wenn aber eine kleine Gruppe von Teenager-Mädchen
+											magersüchtig bleiben will, dann sind wir entsetzt.
+											Die normativen Ziele
+											von Selbsthilfegruppen, an die wir gewohnt sind
+											werden von Institutionen gestaltet
+											und entwickeln sich nicht in der Infrastruktur.
+											Sobald eine Infrastruktur allgemein verfügbar ist,
+											offenbart sich die Logik der Selbsthilfegruppe
+											für jedermann, inklusive der Leute, die diese Art von Zielen verfolgen.
+									",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+","
+","
+","
+","
+",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+											So, there are significant downsides to these changes
+											as well as upsides. And of course, in the current environment,
+											one need allude only lightly to the work of non-state actors
+											trying to influence global affairs, and taking advantage of these.
+											This is a social map of the hijackers and their associates
+											who perpetrated the 9/11 attack.
+											It was produced by analyzing their communications patterns
+											using a lot of these tools. And doubtless the intelligence communities of the world
+											are doing the same work today for the attacks of last week.
+									","
+											De modo que, existen significativas desventajas asociadas a estos cambios,
+											así como hay ventajas. Y, por supuesto, en la situación actual,
+											basta hacer una somera referencia a las acciones de personajes no-estatales
+											que intentan influir sobre asuntos globales, aprovechándose de estos cambios.
+											Este es el mapa social de los secuestradores y sus asociados;
+											los que perpetraron el ataque del 11 de septiembre.
+											Esta imagen fué producida analizando sus patrones de comunicación
+											mientras usaban algunas de estas herramientas. Y, sin duda, la comunidad mundial de inteligencia
+											está haciendo hoy la misma labor por los ataques de la semana pasada.
+									","
+											Dolayısıyla gelen değişimin, olumlu olduğu gibi,
+											olumsuz tarafları da var. Tabii ki, şu anki ortamda,
+											bu değişimden faydalanarak, küresel olayları etkilemeye çalışan
+											devlet dışı gruplardan da kısaca bahsetmek gerek.
+											Bu görünen, 11 Eylül saldırılarını düzenleyen
+											terörist grubun sosyal haritası.
+											İletişim tavırlarını analiz ederek ortaya çıkarıldı.
+											Kuşkusuz, dünyadaki istihbarat örgütüleri, geçen haftanın
+											saldırılarını çözmek için de aynı çalışmayı yapıyorlar.
+									","
+											Il y a donc des inconvénients significatifs à ces changements
+											autant que d'avantages. Et, bien entendu, dans l'environnement actuel,
+											on n'a besoin que d'allusions légères à des acteurs non-étatiques
+											qui tentent d'influer sur les affaires globales et de tirer avantage de celles-ci.
+											Ceci est une carte sociale des détourneurs d'avions et de leurs associés
+											qui ont perpétré les attaques du 11 septembre.
+											Elle a été produite en analisant le schéma de leurs conversations
+											en utilisant plein de ces outils. Et sans doute les services de renseignement du monde entier
+											font la même chose aujourd'hui pour les attaques de la semaine dernière.
+									","
+											Das kann erhebliche Nachteile
+											wie auch Vorteile haben. Und natürlich braucht es im derzeitigen Umfeld
+											nur leichte Anspielungen von nicht staatlichen Akteuren,
+											um auf globale Angelegenheiten Einfluss zu nehmen und diese zu nutzen.
+											Dies ist eine soziale Landkarte von den Entführern und deren Helfern,
+											die die Angriffe von 9/11 verübten.
+											Sie wurde erstellt, indem man deren Kommunikationsmuster,
+											der Gebrauch vieler dieser Werkzeuge, analysierte. Zweifellos leisten die Geheimdienste der Welt
+											heute die gleiche Arbeit für die Angriffe in der letzten Woche.
+									",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+","
+","
+","
+","
+",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+											Now, this is the part of the talk where I tell you
+											what's going to come as a result of all of this,
+											but I'm running out of time, which is good,
+											because I don't know.
+											(Laughter)
+											Right. As with the printing press, if it's really a revolution,
+											it doesn't take us from Point A to Point B.
+											It takes us from Point A to chaos.
+											The printing press precipitated 200 years of chaos,
+											moving from a world where the Catholic Church
+											was the sort of organizing political force to the Treaty of Westphalia,
+											when we finally knew what the new unit was: the nation state.
+									","
+											Ahora, esta es la parte de la charla donde yo les digo
+											en qué va a devenir todo esto.
+											Pero, se me ha acabado el tiempo. Y eso es bueno,
+											porque NO LO SÉ.
+											(Risas)
+											Así es. Tal como ocurrió con la imprenta; si realmente es una revolución,
+											no es algo que nos lleve desde el punto A al punto B.
+											Nos lleva desde el punto A... ¡al caos!
+											La imprenta precipitó un período de 200 años de caos;
+											cambió de un mundo en el que la Iglesia Católica
+											era, en cierta forma, la fuerza política organizadora, hasta el Tratado de Wesfalia,
+											cuando finalmente se reconoce la unidad emergente: El Estado Nación.
+									","
+											Şimdi size, bütün bunların sonucunda
+											neler olacağını anlatmam gerekiyor;
+											ama vaktim azalıyor; neyse ki azalıyor;
+											çünkü bunu ben de bilmiyorum.
+											(Kahkaha)
+											Matbaada olduğu gibi, eğer gerçekten bir devrim oluyorsa,
+											bizi A noktasından B noktasına değil,
+											A noktasından, kaosun ortasına götürür.
+											Matbaa, 200 yıllık kaosa yol açtı,
+											Katolik Kilisesi'nin, önemli barış anlaşmaları
+											arkasında duran güç olduğu bir dünyadan, sonunda yeni bir politik birimin
+											ortaya çıktığı bir dünyaya geçirdi: Milli Devlet.
+									","
+											Maintenant, c'est la partie de mon exposé où je vous dit
+											quel sera le résultat de tout ceci,
+											mais le temps me manque, ce qui est une bonne chose,
+											car je n'en sais rien.
+											(Rires)
+											D'accord. Comme avec la presse d'imprimerie, si c'est vraiment une révolution,
+											cela ne nous conduit pas d'un point A à un point B.
+											Cela nous conduit du point A au chaos.
+											La presse d'imprimerie nous a précipité 200 ans de chaos,
+											en passant du monde où l'Eglise Catholique
+											était une sorte de force politique organisatrice au Traité de Westphalie,
+											où nous savions finalement ce qu'était la nouvelle unité : l'Etat-nation.
+									","
+											Nun komme ich zu dem Teil der Rede, in dem ich Ihnen berichten werde,
+											was aus all diesem resultieren wird,
+											aber mir läuft die Zeit weg, was gut ist,
+											weil ich es nicht weiß.
+											Lachen
+											Also, wie bei der Druckerpresse ist es eine wirkliche Revolution,
+											es bringt uns nicht von Punkt A zu Punkt B,
+											sondern es stürzt uns von Punkt A ins Chaos.
+											Die Druckerpresse brachte 200 Jahre Chaos,
+											den Übergang von einer Welt, in der die Katholische Kirche
+											als eine Art politische Gewalt den Vertrag von Westfalen organisierte,
+											als wir endlich begriffen, was die neue Einheit war: der Nationalstaat.
+									",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+","
+","
+","
+","
+",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+											Now, I'm not predicting 200 years of chaos as a result of this. 50.
+											50 years in which loosely coordinated groups
+											are going to be given increasingly high leverage,
+											and the more those groups forego traditional institutional imperatives —
+											like deciding in advance what's going to happen,
+											or the profit motive — the more leverage they'll get.
+											And institutions are going to come under
+											an increasing degree of pressure,
+											and the more rigidly managed, and the more they rely
+											on information monopolies, the greater the pressure is going to be.
+											And that's going to happen one arena at a time,
+											one institution at a time. The forces are general,
+											but the results are going to be specific.
+									","
+											Ahora bien, no estoy prediciendo 200 años de caos producto de esto.
+											50 años en los que grupos con algún grado de coordinación
+											irán adquiriendo paulatinamente mayor influencia;
+											y mientras menos se apeguen estos grupos a los imperativos tradicionales de las instituciones —
+											tales como decidir de antemano su curso
+											o su razón de lucro — mayor influencia tendrán.
+											Las instituciones van a verse sometidas
+											a crecientes presiones,
+											y mientras más rígidamente sean administradas, y dependan más
+											de monopolios de información, mayor será la presión sobre ellas.
+											Y eso va a ir ocurriendo en un ámbito a la vez,
+											en una institución a la vez. Las fuerzas son generales,
+											pero los resultados serán específicos.
+									","
+											Bu sefer için tahminim 200 yıllık kaos değil. 50.
+											Önümüzdeki 50 yıl boyunca dağınık bir şekilde işbirliği
+											yapan grupların gittikçe daha çok imkan elde edeceğini,
+											ve giderek daha fazla grubun, amacı baştan belirlemek veya
+											kar amacı gütmek gibi geleneksel yaklaşımlardan
+											uzaklaşıp, bu şekilde daha da imkan kazanacağını düşünüyorum.
+											Ve giderek, kurumların baskı altında kalacaklarını,
+											ve bilgi tekellerine ne kadar çok yaslanırlarsa,
+											ne kadar katı yönetilirlerse,
+											ve üzerilerindeki baskının o kadar artacağını düşünüyorum.
+											Bu değişim, her bir arenada, her bir kurumda,
+											teker teker gerçekleşecek. Değişime yol açan kuvvet genel,
+											ama sonuçlar özel olacak.
+									","
+											Maintenant, je ne prédis pas 200 ans de chaos à la suite de ceci. 50.
+											50 ans pendant lesquels des groupes coordonnés de façon souple
+											se verront accorder des positions de plus en plus élevées,
+											et plus ces groupes précéderont les impératifs des institutions traditionnelles -
+											comme décider à l'avance ce qui va arriver,
+											ou le motif du profit - plus ils obtiendront d'influence.
+											Et les institutions tomberont sous
+											un degré croissant de pression,
+											et plus elles seront gérées de manière rigide, et plus elles compteront
+											sur des monopoles de l'information, plus forte sera la pression.
+											Et cela arrivera dans une arène à la fois,
+											une institution à la fois. Les forces sont générales,
+											mais les résultats seront spécifiques.
+									","
+											Nun sage ich daraus nicht 200 Jahre Chaos vorher. 50.
+											50 Jahre, in denen locker koordinierte Gruppen
+											einen zunehmend höheren Einfluss ausüben werden,
+											und je mehr diese Gruppen auf traditionelle institutionelle Zwänge verzichten -
+											wie Vorhersagen darüber zu machen, was passieren wird,
+											oder Profitstreben - je mehr Einfluss werden sie bekommen.
+											Und Institutionen werden immer mehr
+											unter Druck geraten
+											und je starrer sie verwaltet werden und je mehr sie sich
+											auf Informationen von Monopolen verlassen, je größer wird der Druck sein.
+											Und es wird einen Bereich nach dem anderen treffen,
+											ein Unternehmen nach dem anderen. Die Kräfte sind allgemein,
+											aber die Ergebnisse werden spezifisch sein.
+									",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+","
+","
+","
+","
+",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+											And so the point here is not,
+											""This is wonderful,"" or ""We're going to see a transition
+											from only institutions to only cooperative framework.""
+											It's going to be much more complicated than that.
+											But the point is that it's going to be a massive readjustment.
+											And since we can see it in advance and know it's coming,
+											my argument is essentially: we might as well get good at it.
+											Thank you very much.
+											(Applause)
+									","
+											De modo que el punto aquí no es:
+											""esto es maravilloso"" o ""vamos a presenciar una transición
+											desde Sólo Instituciones, a Sólo Contextos Cooperativos.""
+											Va a ser mucho más complicado que eso.
+											Pero el punto es que será un reajuste en gran escala.
+											Y puesto que podemos anticiparlo, y sabemos que viene en camino,
+											mi argumento es, esencialmente, que más vale que aprendamos a usarlo bien.
+											¡Muchas gracias!
+											(Aplausos)
+									","
+											Dolayısıyla burada demek istediğim,
+											""Ah ne güzel"", veya ""tümüyle kurumsal yapıdan
+											tümüyle işbirliği altyapısıyla çalışmaya geçiş olacak""
+											demek istemiyorum. Daha karmaşık olacak.
+											Ama, muazzam bir düzenlenişin gerçekleşeceğini söylemek istiyorum.
+											Bunu önceden gördüğümüze ve farkettiğimize göre,
+											mümkün olduğunca becermeye bakmamız gerekli.
+											Çok teşekkür ederim.
+											(Alkış)
+									","
+											Et donc le point n'est pas,
+											""c'est formidable,"" ou ""nous allons voir une transition
+											d'un monde complètement institutionnel à un cadre exclusivement cooperatif.""
+											Ce sera bien plus compliqué que cela.
+											Mais l'important est que ce sera un réajustment massif.
+											Et comme nous pouvons voir cela à l'avance et que nous savons que ca va arriver,
+											mon argument est essentiellement que nous pourrions être bons à ce jeu-là.
+											Merci beaucoup.
+											(Applaudissements)
+									","
+											Und daher geht es nicht darum,
+											""das ist wundervoll"" oder ""wir erleben eine Verwandlung
+											von einer Nur-Institution zu einem Nur-Kooperativen-Rahmen.""
+											Es wird sehr viel komplizierter.
+											Aber der Punkt ist, dass es eine massive Umstellung sein wird.
+											Und da wir sie im Voraus sehen können und wissen, dass sie kommt
+											ist meine Argumentation im Wesentlichen, dass wir darin besser gut werden sollten.
+											Vielen Dank.
+											(Applaus)
+									",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"
+"
+","
+","
+","
+","
+",Institutions vs. collaboration,Clay Shirky,20:46,"business,cognitive science,collaboration,culture,social change,society,technology"

@@ -1,0 +1,971 @@
+en,tr,title,speaker,duration,tags
+"
+","
+",How we found the worst place to park in New York City — using big data,Ben Wellington,11:48,"New York,TEDx,cities,data,statistics,technology,infrastructure"
+"
+											Six thousand miles of road,
+											600 miles of subway track,
+											400 miles of bike lanes
+											and a half a mile of tram track,
+											if you've ever been to Roosevelt Island.
+									","
+											9.700 kilometre yol,
+											670 kilometre metro hattı
+											650 kilometre bisiklet şeridi
+											ve 800 metre tramvay hattı
+											eğer daha önce
+Roosevelt Adası'nda bulunduysanız.
+									",How we found the worst place to park in New York City — using big data,Ben Wellington,11:48,"New York,TEDx,cities,data,statistics,technology,infrastructure"
+"
+","
+",How we found the worst place to park in New York City — using big data,Ben Wellington,11:48,"New York,TEDx,cities,data,statistics,technology,infrastructure"
+"
+											These are the numbers that make up
+the infrastructure of New York City.
+											These are the statistics
+of our infrastructure.
+											They're the kind of numbers you can find
+released in reports by city agencies.
+											For example, the Department
+of Transportation will probably tell you
+											how many miles of road they maintain.
+											The MTA will boast how many miles
+of subway track there are.
+											Most city agencies give us statistics.
+											This is from a report this year
+											from the Taxi and Limousine Commission,
+											where we learn that there's about
+13,500 taxis here in New York City.
+											Pretty interesting, right?
+											But did you ever think about
+where these numbers came from?
+											Because for these numbers to exist,
+someone at the city agency
+											had to stop and say, hmm, here's a number
+that somebody might want want to know.
+											Here's a number 
+that our citizens want to know.
+											So they go back to their raw data,
+											they count, they add, they calculate,
+											and then they put out reports,
+											and those reports
+will have numbers like this.
+									","
+											Bu rakamlar New York Şehri'ndeki 
+altyapı rakamlarıdır.
+											Bunlar kendi altyapımızın
+istatistikleridir.
+											Bunlar şehir ajanslarının yayınladığı
+raporlarda geçen sayılardır.
+											Örneğin, Ulaşım Bakanlığı size muhtemelen
+											kaç km yol düzelttiklerini söyleyecektir.
+											MTA kaç km metro hattı olduğu
+hakkında övünecektir.
+											Şehir kurumlarının çoğu
+bize istatistik verirler.
+											Bu, Taksi ve Limuzin Komisyonu'na
+											bağlı bu yıla ait bir rapor,
+											New York Şehri'nde yaklaşık 
+13.500 taksi olduğundan bahsediyor.
+											Oldukça ilginç, değil mi?
+											Peki bu sayıların nereden geldiğini
+hiç düşündünüz mü?
+											Çünkü bu sayıların var olması için,
+şehir kurumlarındaki birisinin
+											durup bu sayıyla birisi ilgilenebilir
+diye düşünmesi gerekir.
+											İşte, vatandaşlarımızın 
+bilmek istediği bir sayı.
+											İşlenmemiş verilerine geri dönüp
+											sayıp, ekleyip, hesaplarlar
+											ve raporlar hazırlarlar
+											ve o raporlarda böyle sayılar olur.
+									",How we found the worst place to park in New York City — using big data,Ben Wellington,11:48,"New York,TEDx,cities,data,statistics,technology,infrastructure"
+"
+","
+",How we found the worst place to park in New York City — using big data,Ben Wellington,11:48,"New York,TEDx,cities,data,statistics,technology,infrastructure"
+"
+											The problem is, how do they know
+all of our questions?
+											We have lots of questions.
+											In fact, in some ways there's literally
+an infinite number of questions
+											that we can ask about our city.
+											The agencies can never keep up.
+											So the paradigm isn't exactly working,
+and I think our policymakers realize that,
+											because in 2012, Mayor Bloomberg
+signed into law what he called
+											the most ambitious and comprehensive
+open data legislation in the country.
+											In a lot of ways, he's right.
+											In the last two years, 
+the city has released 1,000 datasets
+											on our open data portal,
+											and it's pretty awesome.
+											So you go and look at data like this,
+											and instead of just counting
+the number of cabs,
+											we can start to ask different questions.
+									","
+											Sorun şurada, bütün sorularımızı
+nasıl bilebiliyorlar?
+											Çok fazla sorumuz var.
+											Hatta, bazı durumlarda şehrimiz hakkında
+											sorabileceğimiz sonsuz 
+sayıda soru olabilir.
+											Kurumlar asla ayak uyduramıyor.
+											Yani bu yaklaşım pek çalışmıyor
+ve bence idareciler de bunun farkında,
+											çünkü 2012'de Belediye Başkanı Bloomberg
+şöyle adlandırdığı bir yasa imzaladı:
+											ülkedeki en hırslı ve kapsamlı
+açık veri mevzuatı.
+											Bir bakıma, haklı olduğu durumlar var.
+											Son iki yılda, açık veri portalımıza 
+
+											şehir 1.000 veri seti sürdü
+											ve bu oldukça harika.
+											Gidip böyle bir veriye bakabilirsiniz
+											ve sadece taksileri saymak yerine
+											farklı sorular sormaya başlayabiliriz.
+									",How we found the worst place to park in New York City — using big data,Ben Wellington,11:48,"New York,TEDx,cities,data,statistics,technology,infrastructure"
+"
+","
+",How we found the worst place to park in New York City — using big data,Ben Wellington,11:48,"New York,TEDx,cities,data,statistics,technology,infrastructure"
+"
+											So I had a question.
+											When's rush hour in New York City?
+											It can be pretty bothersome.
+When is rush hour exactly?
+											And I thought to myself,
+these cabs aren't just numbers,
+											these are GPS recorders
+driving around in our city streets
+											recording each and every ride they take.
+											There's data there,
+and I looked at that data,
+											and I made a plot of the average speed of
+taxis in New York City throughout the day.
+											You can see that from about midnight
+to around 5:18 in the morning,
+											speed increases, and at that point,
+things turn around,
+											and they get slower and slower and slower
+until about 8:35 in the morning,
+											when they end up at around
+11 and a half miles per hour.
+											The average taxi is going 11 and a half
+miles per hour on our city streets,
+											and it turns out it stays that way
+											for the entire day.
+											(Laughter)
+											So I said to myself, I guess
+there's no rush hour in New York City.
+											There's just a rush day.
+											Makes sense. And this is important
+for a couple of reasons.
+											If you're a transportation planner,
+this might be pretty interesting to know.
+											But if you want to get somewhere quickly,
+											you now know to set your alarm for
+4:45 in the morning and you're all set.
+											New York, right?
+									","
+											Bir sorum vardı.
+											New York Şehri'nde
+en yoğun trafik ne zaman?
+											Oldukça sıkıcı olabiliyor.
+En yoğun saat ne zaman?
+											Kendi kendime düşündüm,
+bu taksiler sadece sayılar değil,
+											aynı zamanda şehir sokaklarında
+gezen GPS kayıt cihazları
+											ve çıktıkları tüm gezileri kaydediyorlar.
+											Orada veri var ve o veriye bakıp
+											New York Şehri'ndeki taksilerin günlük
+yaptığı ortalama hızın grafiğini çizdim.
+											Gece yarısından sabah 05:18'e kadar
+hızın arttığını görebilirsiniz
+											ve o noktada işler tersine döner
+											ve yavaşlarlar, yavaşlarlar, yavaşlarlar
+ta ki sabah 8:35'te
+											saatte 18,5 km hıza ulaşıncaya kadar.
+											Ortalama bir taksi şehir sokaklarımızda
+saatte 18,5 km hızla gidiyor
+											ve görünüşe göre öyle devam ediyorlar
+											tüm gün boyunca.
+
+											(Gülüşmeler)
+											Kendime şunu dedim, galiba
+New York Şehri'nde yoğun bir saat yok.
+											Yoğun bir gün var.
+											Akla yatıyor. Bu birkaç sebepten önemli.
+											Ulaşım planlamacısıysanız
+bunu bilmeniz oldukça ilginç olabilir.
+											Eğer bir yere hızlı gitmek isterseniz
+											alarmınızı sabah 04:45'e kurmanız
+gerektiğini artık biliyorsunuz.
+											New York işte, değil mi?
+									",How we found the worst place to park in New York City — using big data,Ben Wellington,11:48,"New York,TEDx,cities,data,statistics,technology,infrastructure"
+"
+","
+",How we found the worst place to park in New York City — using big data,Ben Wellington,11:48,"New York,TEDx,cities,data,statistics,technology,infrastructure"
+"
+											But there's a story behind this data.
+											This data wasn't
+just available, it turns out.
+											It actually came from something called
+a Freedom of Information Law Request,
+											or a FOIL Request.
+											This is a form you can find on the
+Taxi and Limousine Commission website.
+											In order to access this data,
+you need to go get this form,
+											fill it out, and they will notify you,
+											and a guy named Chris Whong
+did exactly that.
+											Chris went down, and they told him,
+											""Just bring a brand new hard drive 
+down to our office,
+											leave it here for five hours,
+we'll copy the data and you take it back.""
+											And that's where this data came from.
+											Now, Chris is the kind of guy
+who wants to make the data public,
+											and so it ended up online for all to use,
+and that's where this graph came from.
+											And the fact that it exists is amazing.
+These GPS recorders — really cool.
+											But the fact that we have citizens
+walking around with hard drives
+											picking up data from city agencies
+to make it public —
+											it was already kind of public,
+you could get to it,
+											but it was ""public,"" it wasn't public.
+											And we can do better than that as a city.
+											We don't need our citizens
+walking around with hard drives.
+									","
+											Bu verinin arkasında bir hikâye var.
+											Anlaşılan o ki, bu veri hazır değildi.
+											Bilgi Yasası Özgürlüğü İsteği veya 
+FOIL İsteği denilen
+											bir şey vasıtasıyla geldi.
+											Bu formu Taksi ve Limuzin Komisyonu
+sitesinden bulabilirsiniz.
+											Veriye erişebilmek için bu formu
+alıp doldurmanız gerekir,
+											sonrasında sizi bilgilendirecekler.
+											Chris Whong adında bir adam
+tam da bunu yaptı.
+											Chris oraya gitti ve ona şöyle dediler,
+											""Ofisimize kullanılmamış bir sabit disk
+getir ve 5 saatliğine burada bırak.
+											Veriyi kopyalayacağız ve
+sonrasında geri alabilirsin.""
+											İşte bu veri oradan geldi.
+											Chris veriyi halka açık hâle
+getirmek isteyen birisi,
+											bu yüzden internete koyup genel kullanıma
+açtı ve bu grafik oradan geliyor.
+											Bunun var olduğu gerçeği bile harika.
+Bu GPS kaydedicileri gerçekten çok iyi.
+											Fakat vatandaşların, şehir kurumlarından
+veri toplamak için sabit diskle gezmesi
+											ve bu verileri halka açması —
+											aslında zaten halka açıktı,
+erişebiliyordunuz,
+											fakat ""halka açık"" idi,
+halka açık değildi.
+											Şehir olarak bundan 
+daha iyisini yapabiliriz.
+											Vatandaşlarımızın sabit diskle
+gezmesine gerek yok.
+									",How we found the worst place to park in New York City — using big data,Ben Wellington,11:48,"New York,TEDx,cities,data,statistics,technology,infrastructure"
+"
+","
+",How we found the worst place to park in New York City — using big data,Ben Wellington,11:48,"New York,TEDx,cities,data,statistics,technology,infrastructure"
+"
+											Now, not every dataset
+is behind a FOIL Request.
+											Here is a map I made with the most
+dangerous intersections in New York City
+											based on cyclist accidents.
+											So the red areas are more dangerous.
+											And what it shows is first
+the East side of Manhattan,
+											especially in the lower area of Manhattan,
+has more cyclist accidents.
+											That might make sense
+											because there are more cyclists
+coming off the bridges there.
+											But there's other hotspots worth studying.
+											There's Williamsburg.
+There's Roosevelt Avenue in Queens.
+											And this is exactly the kind of data
+we need for Vision Zero.
+											This is exactly what we're looking for.
+									","
+											Şu anda her veri setine 
+FOIL İsteği'yle ulaşamıyorsunuz.
+											Bu haritada, New York Şehri'ndeki en
+tehlikeli kavşakları görebilirsiniz,
+											bisiklet kazalarını baz alarak hazırladım.
+											Kırmızı alanlar daha tehlikeli.
+											Manhattan'ın Doğu yakası ve özellikle
+											Manhattan'ın aşağı alanlarında daha fazla
+bisiklet kazası olduğu görülüyor.
+											Bu mantıklı olabilir,
+											çünkü burada köprüden gelen
+daha fazla bisikletli var.
+											Fakat incelemeye değer
+başka sıcak noktalar da var.
+											Williamsburg var,
+Queens'te Roosevelt Caddesi var.
+											İşte bu tam da Vision Zero (Vizyon Sıfır) 
+için bize gerekli olan türde bir veri.
+											Bu tam olarak aradığımız şey.
+									",How we found the worst place to park in New York City — using big data,Ben Wellington,11:48,"New York,TEDx,cities,data,statistics,technology,infrastructure"
+"
+","
+",How we found the worst place to park in New York City — using big data,Ben Wellington,11:48,"New York,TEDx,cities,data,statistics,technology,infrastructure"
+"
+											But there's a story
+behind this data as well.
+											This data didn't just appear.
+											How many of you guys know this logo?
+											Yeah, I see some shakes.
+											Have you ever tried to copy
+and paste data out of a PDF
+											and make sense of it?
+											I see more shakes.
+											More of you tried copying and pasting
+than knew the logo. I like that.
+									","
+											Fakat bu verinin arkasında da
+bir hikâye var.
+											Bu veri bir anda var olmadı.
+											Aranızdan kaç kişi bu logoyu biliyor?
+											Evet, birkaç sallanan kafa görüyorum.
+											Peki hiç PDF'ten bir veriyi kopalayıp
+											bir anlam çıkarmaya çalıştınız mı?
+											Daha fazla sallanan kafa görüyorum.
+											Kopyala-yapıştır yapan sayısı
+logoyu bilenden fazla. Güzel.
+									",How we found the worst place to park in New York City — using big data,Ben Wellington,11:48,"New York,TEDx,cities,data,statistics,technology,infrastructure"
+"
+","
+",How we found the worst place to park in New York City — using big data,Ben Wellington,11:48,"New York,TEDx,cities,data,statistics,technology,infrastructure"
+"
+											So what happened is, the data
+that you just saw was actually on a PDF.
+											In fact, hundreds and hundreds
+and hundreds of pages of PDF
+											put out by our very own NYPD,
+											and in order to access it,
+you would either have to copy and paste
+											for hundreds and hundreds of hours,
+											or you could be John Krauss.
+											John Krauss was like,
+											I'm not going to copy and paste this data.
+I'm going to write a program.
+											It's called the NYPD Crash Data Band-Aid,
+											and it goes to the NYPD's website
+and it would download PDFs.
+											Every day it would search;
+if it found a PDF, it would download it
+											and then it would run
+some PDF-scraping program,
+											and out would come the text,
+											and it would go on the Internet,
+and then people could make maps like that.
+											And the fact that the data's here,
+the fact that we have access to it —
+											Every accident, by the way,
+is a row in this table.
+											You can imagine how many PDFs that is.
+											The fact that we
+have access to that is great,
+											but let's not release it in PDF form,
+											because then we're having our citizens
+write PDF scrapers.
+											It's not the best use
+of our citizens' time,
+											and we as a city can do better than that.
+									","
+											Olan şey şu, bu gördüğünüz veri
+aslında bir PDF dosyasındaydı.
+											Aslında, New York Polis Departmanı'mızın
+											koyduğu yüzlerce PDF sayfasındaydı
+											ve erişmek için yüzlerce saat boyunca
+											kopyala-yapıştır yapmanız gerekiyordu
+											veya John Krauss gibi olabilirdiniz.
+											John Krauss şöyle dedi,
+											bu veriyi kopyala-yapıştır yapmayacağım
+ve bir program yazacağım.
+											İsmi NYPD Kaza Verisi Bantı
+											ve NYPD web sitesine girip
+PDF'leri indirebiliyor.
+											Her gün arardı ve
+bir PDF bulduğunda indirirdi
+											sonra bir PDF-kazıyıcı
+bir program çalıştırıp
+											yazıya döküp internete koyardı,
+											böylece insanlar bu tarz
+haritalar yaratabilirdi.
+											Bu verinin orada olduğu gerçeği
+ona erişimimiz olduğu gerçeği —
+											Her kaza, bu arada,
+tabloda bir satırdır.
+											Böyle kaç tane PDF olduğunu düşünün.
+											Buna erişimimiz olduğu gerçeği harika
+											fakat bunu PDF hâlinde yayımlamayalım,
+											o zaman vatandaşlarımıza
+PDF-kazıyıcı yazdırmamız gerekir.
+											Vatandaşlarımızın zamanını harcamış oluruz
+											ve şehir olarak daha iyisini yapabiliriz.
+									",How we found the worst place to park in New York City — using big data,Ben Wellington,11:48,"New York,TEDx,cities,data,statistics,technology,infrastructure"
+"
+","
+",How we found the worst place to park in New York City — using big data,Ben Wellington,11:48,"New York,TEDx,cities,data,statistics,technology,infrastructure"
+"
+											Now, the good news is that
+the de Blasio administration
+											actually recently released this data
+a few months ago,
+											and so now we can
+actually have access to it,
+											but there's a lot of data
+still entombed in PDF.
+											For example, our crime data
+is still only available in PDF.
+											And not just our crime data,
+our own city budget.
+											Our city budget is only readable
+right now in PDF form.
+											And it's not just us
+that can't analyze it —
+											our own legislators
+who vote for the budget
+											also only get it in PDF.
+											So our legislators cannot analyze 
+the budget that they are voting for.
+											And I think as a city we can do
+a little better than that as well.
+									","
+											İyi haber şu, de Blasio yönetimi
+											birkaç ay önce bu veriyi yayınladı,
+											böylece buna gerçekten erişebiliriz
+											fakat hâlâ PDF'e gömülmüş
+pek çok veri var.
+											Örneğin, suç verilerimiz hâlâ
+sadece PDF olarak erişilebilir.
+											Sadece suç verileri değil,
+kendi şehrimizin bütçesi de.
+											Şehir bütçemiz şu anda sadece
+PDF formatında okunabilir hâlde.
+											Bunu analiz edemeyen sadece biz değiliz,
+											bütçeyi oylayan kendi kanun koyucularımız
+											bile sadece PDF olarak alıyor.
+											Yani, kanun koyucularımız oyladıkları
+bütçeyi analiz edemiyor.
+											Bence bir şehir olarak
+bundan da daha iyi yapabiliriz.
+									",How we found the worst place to park in New York City — using big data,Ben Wellington,11:48,"New York,TEDx,cities,data,statistics,technology,infrastructure"
+"
+","
+",How we found the worst place to park in New York City — using big data,Ben Wellington,11:48,"New York,TEDx,cities,data,statistics,technology,infrastructure"
+"
+											Now, there's a lot of data
+that's not hidden in PDFs.
+											This is an example of a map I made,
+											and this is the dirtiest waterways
+in New York City.
+											Now, how do I measure dirty?
+											Well, it's kind of a little weird,
+											but I looked at the level
+of fecal coliform,
+											which is a measurement of fecal matter
+in each of our waterways.
+											The larger the circle,
+the dirtier the water,
+											so the large circles are dirty water,
+the small circles are cleaner.
+											What you see is inland waterways.
+											This is all data that was sampled
+by the city over the last five years.
+											And inland waterways are,
+in general, dirtier.
+											That makes sense, right?
+											And the bigger circles are dirty.
+And I learned a few things from this.
+											Number one: Never swim in anything
+that ends in ""creek"" or ""canal.""
+											But number two: I also found
+the dirtiest waterway in New York City,
+											by this measure, one measure.
+											In Coney Island Creek, which is not
+the Coney Island you swim in, luckily.
+											It's on the other side.
+											But Coney Island Creek, 94 percent
+of samples taken over the last five years
+											have had fecal levels so high
+											that it would be against state law
+to swim in the water.
+									","
+											PDF'lerde saklı olmayan pek çok veri var.
+											Bu kendi yaptığım bir harita örneği
+											ve bu New York Şehri'nin
+en kirli su yolları.
+											Kirliliği nasıl ölçüyorum?
+											Bu aslında biraz garip
+											fakat dışkı organizmaları
+seviyesine baktım,
+											bu, su yollarımızdaki dışkısal maddeler
+için bir ölçüm yöntemidir.
+											Daire ne kadar büyükse
+su o kadar kirlidir,
+											yani büyük daireler kirli su
+ve küçük daireler daha temiz.
+											Gördüğünüz şey ülke içindeki su yolları.
+											Bu, 5 yıl boyunca şehirde
+örneklenen tüm veri.
+											Ülke içi su yolları
+genellikle daha pis olur.
+											Mantıklı geliyor, değil mi?
+											Büyük daireler daha pis.
+Bundan birkaç şey öğrendim.
+											Birincisi: ""deresi"" veya ""kanalı""
+ile biten hiç bir şeyde yüzme.
+											İkincisi: New York Şehri'ndeki en kirli
+su yolunu da buldum,
+											bu tek bir ölçüyle.
+											Coney Adası Deresi'nde, ki neyse ki bu
+yüzdüğünüz Coney Adası değil.
+											Bu diğer yakada.
+											Fakat Coney Adası Deresi'nde,
+örneklerin %94'ü son beş yılda alındı,
+											dışkısal madde seviyesi
+o kadar yüksekti ki
+											orada yüzmek eyalet hukukuna karşı olurdu.
+									",How we found the worst place to park in New York City — using big data,Ben Wellington,11:48,"New York,TEDx,cities,data,statistics,technology,infrastructure"
+"
+","
+",How we found the worst place to park in New York City — using big data,Ben Wellington,11:48,"New York,TEDx,cities,data,statistics,technology,infrastructure"
+"
+											And this is not the kind of fact
+that you're going to see
+											boasted in a city report, right?
+											It's not going to be 
+the front page on nyc.gov.
+											You're not going to see it there,
+											but the fact that we can get 
+to that data is awesome.
+											But once again, it wasn't super easy,
+											because this data was not
+on the open data portal.
+											If you were to go to the open data portal,
+											you'd see just a snippet of it, 
+a year or a few months.
+											It was actually on the Department
+of Environmental Protection's website.
+											And each one of these links is an Excel 
+sheet, and each Excel sheet is different.
+											Every heading is different:
+you copy, paste, reorganize.
+											When you do you can make maps
+and that's great, but once again,
+											we can do better than that 
+as a city, we can normalize things.
+									","
+											Bu şehir raporlarında övüldüğünü
+											göreceğiniz bir bulgu değil, değil mi?
+											nyc.gov'un ilk sayfasında olmayacak.
+											Bunu orada görmeyeceksiniz
+											fakat bu veriye ulaşabiliyor
+olmamız harika.
+											Fakat tekrar söyleyeyim, 
+çok kolay değildi,
+											çünkü bu veri
+açık veri portalında değildi.
+											Eğer açık veri portalına girerseniz
+											bir yıllık veya birkaç aylık
+bir kesiti görürdünüz.
+											Bu aslında Çevre Koruma
+Departmanı'nın sitesinden.
+											Bu bağlantıların her biri birer Excel 
+sayfası ve her Excel sayfası farklı.
+											Her başlık farklı ve kopyalayıp
+yeniden düzenlemeniz gerekir.
+											Bunu yaparken harita da yapabilirsiniz 
+ve harika olur, fakat yine,
+											şehir olarak daha iyisini yapabilir,
+bazı şeyleri normalleştirebiliriz.
+									",How we found the worst place to park in New York City — using big data,Ben Wellington,11:48,"New York,TEDx,cities,data,statistics,technology,infrastructure"
+"
+","
+",How we found the worst place to park in New York City — using big data,Ben Wellington,11:48,"New York,TEDx,cities,data,statistics,technology,infrastructure"
+"
+											And we're getting there, because
+there's this website that Socrata makes
+											called the Open Data Portal NYC.
+											This is where 1,100 data sets 
+that don't suffer
+											from the things I just told you live,
+											and that number is growing,
+and that's great.
+											You can download data in any format,
+be it CSV or PDF or Excel document.
+											Whatever you want,
+you can download the data that way.
+											The problem is, once you do,
+											you will find that each agency
+codes their addresses differently.
+											So one is street name, 
+intersection street,
+											street, borough, address, building,
+building address.
+											So once again, you're spending time,
+even when we have this portal,
+											you're spending time
+normalizing our address fields.
+											And that's not the best use 
+of our citizens' time.
+											We can do better than that as a city.
+											We can standardize our addresses,
+											and if we do, 
+we can get more maps like this.
+									","
+											Oraya yaklaşıyoruz, çünkü Socrata'nın
+yaptığı şöyle bir site var,
+											ismi NYC açık veri portalı.
+											Konuştuğumuz sıkıntıları yaşamayan
+											1.100 veri seti mevcut
+											ve bu sayı artıyor ve bu harika.
+											Veriyi istediğiniz türde indirebilirsiniz,
+CSV, PDF veya Excel dosyası olabilir.
+											Her ne isterseniz,
+veriyi o şekilde indirebilirsiniz.
+											Sorun şu ki, bunu yaptığınızda
+											her kurum adresleri farklı
+kodladığını göreceksiniz.
+											Şehir ismi, kavşak ismi,
+											sokak, kasaba, tam adres,
+bina adresi gibi.
+											Tekrar, bu portala sahip olmamıza rağmen
+											adres alanlarını düzenlemek için
+zaman harcıyorsunuz.
+											Bu, vatandaşlarımızın zamanını
+harcamak olur.
+											Şehir olarak bundan
+daha iyi yapabiliriz.
+											Adresleri standart hâle getirebiliriz
+											ve daha fazla böyle haritalar görebiliriz.
+									",How we found the worst place to park in New York City — using big data,Ben Wellington,11:48,"New York,TEDx,cities,data,statistics,technology,infrastructure"
+"
+","
+",How we found the worst place to park in New York City — using big data,Ben Wellington,11:48,"New York,TEDx,cities,data,statistics,technology,infrastructure"
+"
+											This is a map of fire hydrants
+in New York City,
+											but not just any fire hydrants.
+											These are the top 250 grossing fire
+hydrants in terms of parking tickets.
+											(Laughter)
+											So I learned a few things from this map,
+and I really like this map.
+											Number one, just don't park
+on the Upper East Side.
+											Just don't. It doesn't matter where
+you park, you will get a hydrant ticket.
+											Number two, I found the two highest
+grossing hydrants in all of New York City,
+											and they're on the Lower East Side,
+											and they were bringing in over
+55,000 dollars a year in parking tickets.
+											And that seemed a little strange
+to me when I noticed it,
+											so I did a little digging and it turns out
+what you had is a hydrant
+											and then something called
+a curb extension,
+											which is like a seven-foot
+space to walk on,
+											and then a parking spot.
+											And so these cars came along,
+and the hydrant —
+											""It's all the way over there, I'm fine,""
+											and there was actually a parking spot
+painted there beautifully for them.
+											They would park there, and the NYPD
+disagreed with this designation
+											and would ticket them.
+											And it wasn't just me 
+who found a parking ticket.
+											This is the Google 
+Street View car driving by
+											finding the same parking ticket.
+									","
+											Bu New York Şehri yangın musluğu haritası,
+											herhangi bir yangın musluğu değil.
+											Bu park cezası olarak en çok
+kazandıran 250 yangın musluğu.
+											(Gülüşmeler)
+											Bu haritadan birkaç şey öğrendim
+ve bu haritayı gerçekten seviyorum.
+											Birincisi, Yukarı Doğu Yakası'nda
+hiç park etmeyin.
+											Hiç yapmayın. Nereye park ederseniz edin
+bir musluk cezası alacaksınız.
+											İkincisi, New York Şehri'nin
+en çok kazandıran iki musluğunu buldum,
+											ikisi de Aşağı Doğu Yakası'ndadır
+											ve yılda 55.000 dolardan fazla
+park cezası getiriyorlar.
+											Bunu fark ettiğimde biraz garibime gitti,
+											biraz araştırdım ve gördüm ki,
+orada bir musluk
+											ve üzerinde yürünmesi için 2 metreden uzun
+											bordür uzantısı denen bir şey
+											ve sonra bir park alanı var.
+											Yani bu arabalar musluğun oraya gelip:
+											""Orada bol yer var, 
+bir sıkıntı yok."" diye düşünüyor
+											ve aslında orada güzelce boyanmış
+bir park yeri var.
+											Oraya park ediyorlar, fakat NYPD 
+bu işaretlemeye itiraz ediyor
+											ve ceza kesiyor.
+											Park cezası gören sadece ben de değilim.
+											Google Sokak Görüşü arabası da
+											aynı park cezasını görüyor.
+									",How we found the worst place to park in New York City — using big data,Ben Wellington,11:48,"New York,TEDx,cities,data,statistics,technology,infrastructure"
+"
+","
+",How we found the worst place to park in New York City — using big data,Ben Wellington,11:48,"New York,TEDx,cities,data,statistics,technology,infrastructure"
+"
+											So I wrote about this on my blog,
+on I Quant NY, and the DOT responded,
+											and they said,
+											""While the DOT has not received
+any complaints about this location,
+											we will review the roadway markings
+and make any appropriate alterations.""
+											And I thought to myself,
+typical government response,
+											all right, moved on with my life.
+									","
+											Bunun hakkında I Quant NY (NY'u 
+ölçüyorum)'daki bloguma yazdım
+											ve Ulaştırma Bakanlığı şöyle cevapladı:
+											""UB bu konum hakkında
+bir şikâyet almamasına rağmen
+											yol işaretlerini inceleyip
+gerekli düzenlemeleri yapacağız.""
+											Kendi kendime klasik
+devlet cevapları diye düşündüm
+											ve yoluma devam ettim.
+									",How we found the worst place to park in New York City — using big data,Ben Wellington,11:48,"New York,TEDx,cities,data,statistics,technology,infrastructure"
+"
+","
+",How we found the worst place to park in New York City — using big data,Ben Wellington,11:48,"New York,TEDx,cities,data,statistics,technology,infrastructure"
+"
+											But then, a few weeks later,
+something incredible happened.
+											They repainted the spot,
+											and for a second I thought I saw
+the future of open data,
+											because think about what happened here.
+											For five years, this spot was being 
+ticketed, and it was confusing,
+											and then a citizen found something,
+they told the city, and within a few weeks
+											the problem was fixed.
+											It's amazing. And a lot of people
+see open data as being a watchdog.
+											It's not, it's about being a partner.
+											We can empower our citizens
+to be better partners for government,
+											and it's not that hard.
+											All we need are a few changes.
+											If you're FOILing data,
+											if you're seeing your data 
+being FOILed over and over again,
+											let's release it to the public, that's
+a sign that it should be made public.
+											And if you're a government agency
+releasing a PDF,
+											let's pass legislation that requires you
+to post it with the underlying data,
+											because that data
+is coming from somewhere.
+											I don't know where, but it's
+coming from somewhere,
+											and you can release it with the PDF.
+											And let's adopt and share
+some open data standards.
+											Let's start with our addresses
+here in New York City.
+											Let's just start
+normalizing our addresses.
+											Because New York is a leader in open data.
+											Despite all this, we are absolutely
+a leader in open data,
+											and if we start normalizing things,
+and set an open data standard,
+											others will follow. The state will follow,
+and maybe the federal government,
+											Other countries could follow,
+											and we're not that far off from a time
+where you could write one program
+											and map information from 100 countries.
+											It's not science fiction.
+We're actually quite close.
+									","
+											Ama birkaç hafta sonra, 
+inanılmaz bir şey oldu.
+											Orayı yeniden boyadılar
+											ve bir anlığına açık verinin
+geleceğini görür gibi oldum,
+											olan şeyi bir düşünsenize.
+											Beş yıl boyunca, bu noktada ceza
+kesiliyordu ve kafa karıştırıcıydı,
+											sonra bir vatandaş bir şey buldu,
+idarecilere söyledi
+											ve birkaç hafta içinde sorun çözüldü.
+											Muhteşem. Pek çok kişi açık veriyi
+bir bekçi köpeği olmak gibi görüyor.
+											Aslında daha çok bir iş ortağı olmak gibi.
+											Vatandaşlarımızın, devlet için daha
+iyi iş ortakları olmasını sağlayabiliriz,
+											o kadar da zor değil.
+											Tek ihtiyacımız olan birkaç değişiklik.
+											Verinizi FOIL'den alıyorsanız
+											veya verinizin FOIL'den
+defalarca istendiğini görüyorsanız
+											halka açın, bunun halka açılması
+gerektiğinin bir işareti.
+											Eğer PDF yayımlayan bir
+devlet kurumuysanız
+											altındaki veriyle birlikte yayınlanmasını
+gerektiren yasayı geçirtelim,
+											çünkü o veri bir yerlerden geliyor.
+											Nereden bilmiyorum, ama geliyor
+
+											ve PDF ile birlikte yayınlayabilirsiniz.
+											Bazı açık veri standartlarını da
+benimseyelim.
+											New York Şehri'ndeki
+adreslerimiz ile başlayalım.
+											Adresleri normalleştirelim.
+											Çünkü New York açık veri
+konusunda bir lider.
+											Her şeye rağmen, açık veride
+kesinlikle bir lideriz
+											ve bazı şeyleri normalleştirip
+bir açık veri standardı belirlersek
+											diğerleri de takip edecek.
+Eyalet, belki federal hükûmet,
+											Çılgınca, biliyorum, ama
+diğer ülkeler de takip edebilir
+											ve bir program yazıp 100 ülkeden
+gelen bilgileri haritalayacak
+											bir program yazabileceğimiz
+zaman çok uzak değil.
+											Bu bilim kurgu değil. Aslında çok yakınız.
+									",How we found the worst place to park in New York City — using big data,Ben Wellington,11:48,"New York,TEDx,cities,data,statistics,technology,infrastructure"
+"
+","
+",How we found the worst place to park in New York City — using big data,Ben Wellington,11:48,"New York,TEDx,cities,data,statistics,technology,infrastructure"
+"
+											And by the way, who are we
+empowering with this?
+											Because it's not just John Krauss
+and it's not just Chris Whong.
+											There are hundreds of meetups
+going on in New York City right now,
+											active meetups.
+											There are thousands of people
+attending these meetups.
+											These people are going after work
+and on weekends,
+											and they're attending these meetups
+to look at open data
+											and make our city a better place.
+											Groups like BetaNYC, who just last week 
+released something called citygram.nyc
+											that allows you to subscribe
+to 311 complaints
+											around your own home,
+or around your office.
+											You put in your address,
+you get local complaints.
+											And it's not just the tech community
+that are after these things.
+											It's urban planners like 
+the students I teach at Pratt.
+											It's policy advocates, it's everyone,
+											it's citizens from a diverse
+set of backgrounds.
+											And with some small, incremental changes,
+											we can unlock the passion
+and the ability of our citizens
+											to harness open data
+and make our city even better,
+											whether it's one dataset,
+or one parking spot at a time.
+									","
+											Bu arada, bununla kimi güçlendiriyoruz?
+											Çünkü sadece John Krauss
+ve Chris Whong değil.
+											New York'ta devam eden
+yüzlerce buluşma var,
+											aktif buluşmalar.
+											Binlerce insan bu buluşmalara katılıyor.
+											Bu insanlar iş çıkışı veya
+hafta sonları gidiyorlar
+											ve açık veriye bakmak, şehrimizi 
+daha iyi bir yer hâline getirmek için
+											bu buluşmalara katılıyorlar.
+											Daha geçen hafta citygram.nyc adında
+
+											ev ve ofisinizden 311
+şikâyet imzalayabileceğiniz
+											bir site yayınlayan BetaNYC gibi gruplar.
+											Adresinizi yazıp
+yerel şikâyetleri görebiliyorsunuz.
+											Bu şeylerin peşinde olan sadece
+teknolojik topluluk da değil,
+											Pratt'te ders verdiğim
+şehir planlama öğrencileri.
+											Yasa avukatları, herkes.
+											Farklı çevre ve geçmişlerden
+gelen vatandaşlar.
+											Küçük, çoğalan değişimlerle
+											vatandaşlarımızın açık veriyi kurcalayıp
+şehrimizi daha iyileştirmek için
+											tutku ve yetkinliklerini arttırabiliriz,
+											bu tek seferde bir veri seti de olabilir,
+bir park yeri de olabilir.
+									",How we found the worst place to park in New York City — using big data,Ben Wellington,11:48,"New York,TEDx,cities,data,statistics,technology,infrastructure"
+"
+","
+",How we found the worst place to park in New York City — using big data,Ben Wellington,11:48,"New York,TEDx,cities,data,statistics,technology,infrastructure"
+"
+											Thank you.
+									","
+											Teşekkürler.
+									",How we found the worst place to park in New York City — using big data,Ben Wellington,11:48,"New York,TEDx,cities,data,statistics,technology,infrastructure"
+"
+","
+",How we found the worst place to park in New York City — using big data,Ben Wellington,11:48,"New York,TEDx,cities,data,statistics,technology,infrastructure"
+"
+											(Applause)
+									","
+											(Alkışlar)
+									",How we found the worst place to park in New York City — using big data,Ben Wellington,11:48,"New York,TEDx,cities,data,statistics,technology,infrastructure"
+"
+","
+",How we found the worst place to park in New York City — using big data,Ben Wellington,11:48,"New York,TEDx,cities,data,statistics,technology,infrastructure"

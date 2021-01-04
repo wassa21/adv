@@ -1,0 +1,2245 @@
+en,es,pt,de,title,speaker,duration,tags
+"
+","
+","
+","
+",A robot that runs and swims like a salamander,Auke Ijspeert,14:10,"animals,biomechanics,biotech,design,engineering,future,invention,innovation,biology,nature,robots,physics,technology,neuroscience"
+"
+											This is Pleurobot.
+											Pleurobot is a robot that we designed
+to closely mimic a salamander species
+											called Pleurodeles waltl.
+											Pleurobot can walk, as you can see here,
+											and as you'll see later, it can also swim.
+									","
+											Este es Pleurobot.
+											Pleurobot es un robot diseñado
+para imitar una especie de salamandra
+											llamada Pleurodeles waltl.
+											Pleurobot puede caminar, 
+como ven aquí,
+											y luego verán 
+que también puede nadar.
+									","
+											Este é o Pleurobot.
+											O Pleurobot é um robô que concebemos
+para imitar uma espécie de salamandras
+											chamada Pleurodeles waltl.
+											O Pleurobot anda, como veem aqui
+											e, como verão depois, também nada.
+									","
+											Das ist Pleurobot.
+											Pleurobot ist ein Roboter, der eine
+Salamander-Art genau nachahmt,
+											die Pleurodeles waltl heißt.
+											Pleurobot kann laufen
+											und auch schwimmen.
+									",A robot that runs and swims like a salamander,Auke Ijspeert,14:10,"animals,biomechanics,biotech,design,engineering,future,invention,innovation,biology,nature,robots,physics,technology,neuroscience"
+"
+","
+","
+","
+",A robot that runs and swims like a salamander,Auke Ijspeert,14:10,"animals,biomechanics,biotech,design,engineering,future,invention,innovation,biology,nature,robots,physics,technology,neuroscience"
+"
+											So you might ask,
+why did we design this robot?
+											And in fact, this robot has been designed
+as a scientific tool for neuroscience.
+											Indeed, we designed it
+together with neurobiologists
+											to understand how animals move,
+											and especially how the spinal cord
+controls locomotion.
+											But the more I work in biorobotics,
+											the more I'm really impressed
+by animal locomotion.
+											If you think of a dolphin swimming
+or a cat running or jumping around,
+											or even us as humans,
+											when you go jogging or play tennis,
+											we do amazing things.
+											And in fact, our nervous system solves
+a very, very complex control problem.
+											It has to coordinate
+more or less 200 muscles perfectly,
+											because if the coordination is bad,
+we fall over or we do bad locomotion.
+											And my goal is to understand
+how this works.
+									","
+											Quizá se pregunten por qué 
+diseñamos este robot.
+											Lo diseñamos como herramienta 
+científica para la neurociencia.
+											De hecho, lo diseñamos
+junto a los neurobiólogos
+											para entender cómo 
+se mueven los animales,
+											y sobre todo cómo la médula espinal
+controla la locomoción.
+											Pero cuanto más trabajo en biorobótica,
+											más me impresiona realmente
+la locomoción animal.
+											Si lo piensan, un delfín
+o un gato que corre o salta,
+											o incluso nosotros,
+											cuando corremos o jugamos al tenis,
+											hacemos cosas asombrosas.
+											De hecho, el sistema nervioso resuelve
+un problema de control muy, muy complejo.
+											Tiene que coordinar más o menos 
+200 músculos a la perfección,
+											porque si la coordinación es mala,
+nos caemos o nos movemos mal.
+											Mi objetivo es entender 
+cómo funciona esto.
+									","
+											Podem perguntar:
+""Porque é que conceberam esse robô?""
+											Este robô foi concebido como
+um instrumento científico
+											para a neurociência.
+											Foi concebido em conjunto
+com neurobiólogos
+											para compreender como se movem os animais
+											e, em especial, como é que
+a espinal medula controla a locomoção.
+											Mas, quanto mais trabalho em bio-robótica,
+											mais a locomoção animal me impressiona.
+											Se pensarem num golfinho a nadar,
+num gato a correr ou a saltar,
+											ou mesmo em nós, seres humanos,
+											quando fazemos ""jogging""
+ou jogamos ténis,
+											são tudo coisas espantosas.
+											O nosso sistema nervoso resolve
+um problema de controlo muito complexo.
+											Tem que coordenar perfeitamente
+mais ou menos 200 músculos,
+											porque, se a coordenação for má,
+caímos ou movemo-nos mal.
+											O meu objetivo é compreender
+como é que isto funciona.
+									","
+											Warum haben wir diesen Roboter entworfen?
+											Dieser Roboter wurde als Instrument
+für die Neurowissenschaften entworfen.
+											Wir entwarfen ihn
+zusammen mit Neurobiologen,
+											um zu verstehen, wie sich Tiere bewegen,
+											und besonders wie das Rückenmark
+die Fortbewegung steuert.
+											Aber je länger ich
+in der Biorobotik arbeite,
+											desto mehr beeindruckt mich
+die Fortbewegung der Tiere.
+											Denkt man an schwimmende Delfine, an
+rennende oder herum springende Katzen
+											oder an uns Menschen,
+											wenn wir joggen oder Tennis spielen,
+											dann machen wir erstaunliche Dinge.
+											Unser Nervensystem löst ein
+sehr schwieriges Steuerungsproblem.
+											Es muss etwa 200 Muskeln
+perfekt koordinieren,
+											denn bei schlechter Koordination, fällt
+man um oder bewegt sich ungünstig fort.
+											Mein Ziel ist es zu verstehen,
+wie das funktioniert.
+									",A robot that runs and swims like a salamander,Auke Ijspeert,14:10,"animals,biomechanics,biotech,design,engineering,future,invention,innovation,biology,nature,robots,physics,technology,neuroscience"
+"
+","
+","
+","
+",A robot that runs and swims like a salamander,Auke Ijspeert,14:10,"animals,biomechanics,biotech,design,engineering,future,invention,innovation,biology,nature,robots,physics,technology,neuroscience"
+"
+											There are four main components
+behind animal locomotion.
+											The first component is just the body,
+											and in fact we should never underestimate
+											to what extent the biomechanics
+already simplify locomotion in animals.
+											Then you have the spinal cord,
+											and in the spinal cord you find reflexes,
+											multiple reflexes that create
+a sensorimotor coordination loop
+											between neural activity in the spinal cord
+and mechanical activity.
+											A third component
+are central pattern generators.
+											These are very interesting circuits
+in the spinal cord of vertebrate animals
+											that can generate, by themselves,
+											very coordinated
+rhythmic patterns of activity
+											while receiving
+only very simple input signals.
+											And these input signals
+											coming from descending modulation
+from higher parts of the brain,
+											like the motor cortex,
+the cerebellum, the basal ganglia,
+											will all modulate activity
+of the spinal cord
+											while we do locomotion.
+											But what's interesting is to what extent
+just a low-level component,
+											the spinal cord, together with the body,
+											already solve a big part
+of the locomotion problem.
+											You probably know it by the fact
+that you can cut the head off a chicken,
+											it can still run for a while,
+											showing that just the lower part,
+spinal cord and body,
+											already solve a big part of locomotion.
+									","
+											Hay cuatro componentes principales
+detrás de la locomoción animal.
+											El primer componente es el cuerpo,
+											y, de hecho, nunca se debe subestimar
+											en qué medida la biomecánica en los 
+animales ya simplificó la locomoción.
+											Luego está la médula espinal,
+											en la médula espinal hay reflejos,
+											múltiples reflejos que crean un ciclo 
+de coordinación sensoriomotora
+											entre la actividad neural de la médula 
+y la actividad mecánica.
+											Un tercer componente son los 
+generadores de patrones centrales.
+											Son circuitos muy interesantes de 
+la médula de los vertebrados
+											que pueden generar, por sí mismos,
+											patrones rítmicos de actividad,
+muy coordinados
+											y al mismo tiempo reciben solo
+señales de entrada muy simples.
+											Y estas señales de entrada
+											provenientes de la modulación descendente
+desde partes superiores del cerebro,
+											como la corteza motora,
+cerebelo, ganglios basales,
+											modularán la actividad de la médula
+											conforme nos desplazamos.
+											Lo interesante es hasta qué punto
+solo un componente de bajo nivel,
+											la médula espinal, junto con el cuerpo,
+											ya resuelven una gran parte
+del problema de la locomoción.
+											Quizá ya lo sepan porque 
+al cortar la cabeza a un pollo,
+											este puede seguir corriendo un rato.
+											Eso muestra que con la parte inferior,
+la médula y el cuerpo,
+											ya se resuelve gran parte
+de la locomoción.
+									","
+											Há quatro componentes principais
+por detrás da locomoção animal.
+											O primeiro componente é o corpo.
+											Nunca devemos subestimar
+											até que ponto a biomecânica
+já simplifica a locomoção nos animais.
+											Depois, temos a espinal medula.
+											Na espinal medula, encontramos reflexos,
+											múltiplos reflexos que criam
+um ciclo de coordenação sensoriomotora
+											entre a atividade neural da espinal medula
+e a atividade mecânica.
+											Um terceiro componente
+são os geradores de padrões centrais.
+											São circuitos muito interessantes
+na espinal medula dos animais vertebrados
+											que podem gerar, por si só,
+											padrões rítmicos de atividade
+muito coordenados
+											enquanto recebem apenas
+sinais de entrada muito simples.
+											Estes sinais de entrada
+											vindos de modulação descendente
+de partes mais altas do cérebro,
+											como o córtex motor,
+o cerebelo, os gânglios basais,
+											vão modular a atividade
+da espinal medula
+											enquanto nos movemos.
+											O interessante é até que ponto
+um componente de baixo nível,
+											a espinal medula, juntamente com o corpo,
+											resolve uma grande parte
+do problema da locomoção.
+											Podemos cortar a cabeça a uma galinha
+											e ela continua a correr durante um bocado,
+											mostrando que a parte inferior
+da espinal medula e do corpo
+											resolve uma grande parte da locomoção.
+									","
+											Es gibt vier Hauptbausteine
+für die Fortbewegung von Tieren.
+											Der erste Baustein ist nur der Körper.
+											Genau genommen sollten
+wir niemals unterschätzen,
+											wieweit die Biomechanik die Fortbewegung
+bei Tieren bereits vereinfacht hat.
+											Dann haben wir das Rückenmark
+											und dort finden sich Reflexe —
+											Mehrfachreflexe, die eine
+sensomotorische Koordinationsschleife
+											zwischen neuronaler und
+mechanischer Aktivität erzeugen.
+											Der dritte Baustein sind
+zentrale Mustergeneratoren.
+											Das sind sehr interessante Schaltkreise
+im Rückenmark von Wirbeltieren,
+											die aus sich selbst heraus
+											sehr koordinierte, rhythmische
+Aktivitätsmuster erzeugen,
+											obwohl sie nur sehr einfache
+Eingangssignale erhalten.
+											Diese Eingangssignale,
+die während der Fortbewegung
+											die gesamte Aktivität des
+Rückenmarks ausrichten,
+											entstammen der absteigenden
+Neuromodulation höherer Hirnregionen,
+											wie der motorischen Rinde, dem
+Kleinhirn und den Basalganglien.
+											Aber interessant ist, dass bereits
+der einfache Baustein Rückenmark
+											das Fortbewegungsproblem mit
+dem Körper weitgehend bewältigt.
+											Sie wissen vermutlich: Wenn
+man einem Huhn den Kopf abschlägt,
+											läuft es noch eine Weile herum,
+											was zeigt, dass nur der untere Teil,
+das Rückenmark und der Körper,
+											das Fortbewegungsproblem
+bereits weitgehend bewältigen.
+									",A robot that runs and swims like a salamander,Auke Ijspeert,14:10,"animals,biomechanics,biotech,design,engineering,future,invention,innovation,biology,nature,robots,physics,technology,neuroscience"
+"
+","
+","
+","
+",A robot that runs and swims like a salamander,Auke Ijspeert,14:10,"animals,biomechanics,biotech,design,engineering,future,invention,innovation,biology,nature,robots,physics,technology,neuroscience"
+"
+											Now, understanding how this works
+is very complex,
+											because first of all,
+											recording activity in the spinal cord
+is very difficult.
+											It's much easier to implant electrodes
+in the motor cortex
+											than in the spinal cord,
+because it's protected by the vertebrae.
+											Especially in humans, very hard to do.
+											A second difficulty is that locomotion
+is really due to a very complex
+											and very dynamic interaction
+between these four components.
+											So it's very hard to find out
+what's the role of each over time.
+											This is where biorobots like Pleurobot
+and mathematical models
+											can really help.
+									","
+											Pero entender cómo funciona 
+es algo muy complejo
+											porque, en primer lugar,
+											grabar la actividad de 
+la médula es muy difícil.
+											Más fácil es implantar 
+electrodos en la corteza motora
+											que en la médula espinal, por 
+estar protegida por las vértebras.
+											Sobre todo, en humanos, 
+es muy difícil de hacer.
+											Segundo, la locomoción se produce
+gracias a una interacción muy compleja
+											y muy dinámica entre 
+estos cuatro componentes.
+											Así que es muy difícil averiguar
+el papel de cada uno en el tiempo.
+											Aquí es donde los biorobots como 
+Pleurobot y los modelos matemáticos
+											realmente pueden ayudar.
+									","
+											Compreender como é que isto funciona
+é muito complicada,
+											porque, primeiro que tudo,
+											é muito difícil registar a atividade
+da espinal medula.
+											É mais fácil implantar elétrodos
+no córtex motor
+											do que na espinal medula, porque esta
+está protegida pelas vértebras.
+											Sobretudo nas pessoas,
+é muito difícil de fazer.
+											Uma segunda dificuldade é que
+a locomoção é devida a uma interação
+											muito complexa e muito dinâmica
+entre estes quatro componentes.
+											Por isso, é muito difícil descobrir qual é
+o papel de cada um, ao longo do tempo.
+											É aqui que os bio-robôs, como o Pleurobot,
+e os modelos matemáticos
+											podem ajudar.
+									","
+											Wie das funktioniert,
+ist sehr schwer zu verstehen.
+											Erstens ist es sehr schwierig, die
+Rückenmarksaktivität aufzuzeichnen.
+											Die Elektroden lassen sich leichter
+in die motorische Rinde implantieren
+											als ins Rückenmark, weil es durch
+die Rückenwirbel geschützt ist.
+											Speziell beim Menschen ist es schwierig.
+											Die zweite Schwierigkeit ist,
+											dass Fortbewegung die Folge der sehr
+komplexen und dynamischen Interaktion
+											zwischen diesen vier Bausteinen ist.
+											Die Rolle jedes einzelnen lässt
+sich nur schwer herausfinden.
+											Hier können Bioroboter wie Pleurobot
+											und mathematische Modelle wirklich helfen.
+									",A robot that runs and swims like a salamander,Auke Ijspeert,14:10,"animals,biomechanics,biotech,design,engineering,future,invention,innovation,biology,nature,robots,physics,technology,neuroscience"
+"
+","
+","
+","
+",A robot that runs and swims like a salamander,Auke Ijspeert,14:10,"animals,biomechanics,biotech,design,engineering,future,invention,innovation,biology,nature,robots,physics,technology,neuroscience"
+"
+											So what's biorobotics?
+											Biorobotics is a very active field
+of research in robotics
+											where people want to
+take inspiration from animals
+											to make robots to go outdoors,
+											like service robots
+or search and rescue robots
+											or field robots.
+											And the big goal here
+is to take inspiration from animals
+											to make robots that can handle
+complex terrain —
+											stairs, mountains, forests,
+											places where robots
+still have difficulties
+											and where animals
+can do a much better job.
+											The robot can be a wonderful
+scientific tool as well.
+											There are some very nice projects
+where robots are used,
+											like a scientific tool for neuroscience,
+for biomechanics or for hydrodynamics.
+											And this is exactly
+the purpose of Pleurobot.
+											So what we do in my lab
+is to collaborate with neurobiologists
+											like Jean-Marie Cabelguen,
+a neurobiologist in Bordeaux in France,
+											and we want to make spinal cord models
+and validate them on robots.
+											And here we want to start simple.
+									","
+											Entonces, ¿qué es la biorobótica?
+											La biorobótica es un campo muy activo
+de investigación en robótica
+											que quiere inspirarse en los animales
+											para hacer que los robots 
+salgan al aire libre,
+											como robots de servicio,
+robots de búsqueda y rescate,
+											o robots de campo.
+											El gran objetivo aquí 
+es inspirarse en los animales
+											para hacer robots que operen
+en terrenos complejos:
+											escaleras, montañas, bosques,
+											lugares donde los robots
+todavía tienen dificultades
+											y donde los animales
+se desempeñan mucho mejor.
+											El robot puede ser una gran 
+herramienta científica también.
+											Hay proyectos muy buenos 
+en los que se usan robots,
+											como herramienta científica en 
+neurociencia, biomecánica, hidrodinámica.
+											Este es exactamente
+el propósito de Pleurobot.
+											En mi laboratorio colaboramos
+con neurobiólogos
+											como Jean-Marie Cabelguen,
+neurobiólogo en Burdeos, Francia,
+											y queremos hacer modelos de la médula
+y validarlos en robots.
+											Queremos empezar de forma sencilla.
+									","
+											Mas o que é a bio-robótica?
+											A bio-robótica é uma área de investigação
+muito ativa, na robótica
+											em que as pessoas se inspiram
+nos animais
+											para fazerem sair os robôs para a rua,
+											como robôs de serviços,
+de pesquisa ou de salvamento,
+											ou robôs de terreno.
+											O grande objetivo é
+inspirar-se nos animais
+											para fazer robôs que possam
+andar em terrenos complexos
+											— escadas, montanhas, florestas —
+											locais onde os robôs
+ainda têm dificuldades
+											e os animais podem fazer
+um trabalho muito melhor.
+											O robô pode ser um instrumento
+científico maravilhoso.
+											Há projetos muito bons
+em que se usam robôs,
+											como um instrumento científico 
+para a neurociência,
+											a biomecânica ou a hidrodinâmica.
+											Este é exatamente o objetivo do Pleurobot.
+											No meu laboratório
+colaboramos com neurobiólogos
+											como Jean-Marie Cabelguen,
+um neurobiólogo de Bordéus, em França.
+											Queremos fazer modelos de espinais medulas
+e validá-los em robôs.
+											E queremos começar de modo simples.
+									","
+											Was ist Biorobotik?
+											Biorobotik ist ein sehr reges
+Forschungsgebiet in der Robotik,
+											in dem Menschen durch Tiere
+angeregt werden,
+											Roboter auf den Einsatz
+im Freien vorzubereiten,
+											so zum Beispiel als Service-,
+Such- und Rettungsroboter
+											oder Feldroboter.
+											Das große Ziel ist hier, Anregungen
+durch Tiere zu erhalten,
+											damit Roboter in schwierigem
+Gelände zurecht kommen:
+											Treppen, Berge, Wälder —
+											Orte, wo Roboter immer
+noch Schwierigkeiten haben
+											und Tiere es besser können.
+											Der Roboter kann ein wunderbares
+wissenschaftliches Instrument sein.
+											Bei einigen Projekten setzt
+man Roboter als Arbeitshilfe
+											für Neurowissenschaften, Biomechanik
+oder Hydrodynamik ein.
+											Das ist genau der Zweck von Pleurobot.
+											In meinem Labor arbeiten
+wir mit Neurobiologen
+											wie Jean-Marie Cabelguen aus
+Bordeux in Frankreich zusammen
+											und wollen Rückenmark-Modelle erstellen,
+die wir an Robotern überprüfen.
+											Wir wollen hier einfach anfangen.
+									",A robot that runs and swims like a salamander,Auke Ijspeert,14:10,"animals,biomechanics,biotech,design,engineering,future,invention,innovation,biology,nature,robots,physics,technology,neuroscience"
+"
+","
+","
+","
+",A robot that runs and swims like a salamander,Auke Ijspeert,14:10,"animals,biomechanics,biotech,design,engineering,future,invention,innovation,biology,nature,robots,physics,technology,neuroscience"
+"
+											So it's good to start with simple animals
+											like lampreys, which are
+very primitive fish,
+											and then gradually
+go toward more complex locomotion,
+											like in salamanders,
+											but also in cats and in humans,
+											in mammals.
+											And here, a robot becomes
+an interesting tool
+											to validate our models.
+											And in fact, for me, Pleurobot
+is a kind of dream becoming true.
+											Like, more or less 20 years ago
+I was already working on a computer
+											making simulations of lamprey
+and salamander locomotion
+											during my PhD.
+											But I always knew that my simulations
+were just approximations.
+											Like, simulating the physics in water
+or with mud or with complex ground,
+											it's very hard to simulate that
+properly on a computer.
+											Why not have a real robot
+and real physics?
+											So among all these animals,
+one of my favorites is the salamander.
+											You might ask why,
+and it's because as an amphibian,
+											it's a really key animal
+from an evolutionary point of view.
+											It makes a wonderful link
+between swimming,
+											as you find it in eels or fish,
+											and quadruped locomotion,
+as you see in mammals, in cats and humans.
+											And in fact, the modern salamander
+											is very close to the first
+terrestrial vertebrate,
+											so it's almost a living fossil,
+											which gives us access to our ancestor,
+											the ancestor to all terrestrial tetrapods.
+									","
+											Es bueno empezar con animales simples
+											como las lampreas, 
+que son peces muy primitivos,
+											y luego, gradualmente pasar 
+a animales de locomoción más compleja,
+											como salamandras,
+											pero también a gatos y humanos,
+											los mamíferos.
+											Y aquí un robot se convierte
+en una herramienta interesante
+											para validar nuestros modelos.
+											Para mí, Pleurobot es 
+una especie de sueño hecho realidad.
+											Hace más o menos 20 años 
+yo ya trabajaba
+											haciendo simulaciones informáticas del 
+movimiento de lampreas y salamandras
+											durante mi doctorado.
+											Pero siempre supe que mis simulaciones
+eran solo aproximaciones.
+											Como simular la física en el agua,
+o en barro o en un suelo complejo,
+											es muy difícil simularlo
+correctamente en la computadora.
+											¿Por qué no tener un robot real
+y una física real?
+											De todos estos animales,
+uno de mis favoritos es la salamandra.
+											Podrán preguntarse por qué
+y es porque, dado que es un anfibio,
+											es un animal clave desde 
+un punto de vista evolutivo.
+											Establece una relación 
+maravillosa entre nadar,
+											como vemos en la anguila o el pez,
+											y la locomoción del cuadrúpedo, como 
+vemos en mamíferos, gatos y humanos.
+											De hecho, la salamandra moderna
+											se parece mucho al primer
+vertebrado terrestre,
+											por lo que es casi un fósil viviente,
+											lo que nos da acceso 
+a nuestro antepasado,
+											el antepasado de todos 
+los tetrápodos terrestres.
+									","
+											Convém começar com animais simples
+											como as lampreias,
+que são peixes muito primitivos.
+											Depois avançar para uma locomoção
+mais complexa,
+											como a das salamandras,
+mas também em gatos
+											em pessoas, em mamíferos.
+											Aí, um robô começa a ser
+um instrumento interessante
+											para validar os nossos modelos.
+											Para mim, o Pleurobot
+é uma espécie de sonho tornado realidade.
+											Eu comecei a trabalhar num computador
+mais ou menos há 20 anos,
+											fazendo uma simulação da locomoção
+duma lampreia e duma salamandra,
+											durante o meu doutoramento.
+											Mas sempre soube que as minhas simulações
+não passavam de aproximações.
+											Simular a física da água,
+da lama ou dum solo complexo,
+											num computador, é muito difícil.
+											Porque não ter um robô real
+e uma física real?
+											Entre todos esses animais,
+um dos meus preferidos é a salamandra.
+											Podem perguntar porquê.
+É porque é um anfíbio.
+											É um verdadeiro animal-chave,
+do ponto de vista evolutivo.
+											Constitui um elo maravilhoso
+entre a natação,
+											como encontramos
+nas enguias ou nos peixes.
+											e a locomoção quadrúpede, como vemos
+nos mamíferos, em gatos e nas pessoas.
+											A salamandra moderna está muito próxima
+											dos primeiros vertebrados terrestres,
+											por isso é quase um fóssil vivo
+											que nos dá acesso ao nosso antepassado,
+											o antepassado de todos
+os tetrápodes terrestres.
+									","
+											Also beginnen wir mit einfachen Tieren
+											wie Neunaugen, sehr primitive Fische,
+											und befassen uns dann allmählich
+mit komplexerer Fortbewegung
+											wie bei Salamandern,
+											aber auch bei Katzen und Menschen,
+											bei Säugetieren.
+											Hier wird ein Roboter ein
+interessantes Instrument,
+											um unsere Modelle zu überprüfen.
+											Eigentlich ist Pleurobot für mich
+ein Traum, der wahr wird.
+											Vor ungefähr 20 Jahren erstellte ich
+bereits während meiner Promotion
+											Simulationen der Fortbewegung von
+Neunaugen und Salamandern am Computer.
+											Aber ich wusste immer, dass meine
+Simulationen nur Näherungen waren.
+											Ähnlich der Simulation der Physik von
+Wasser, Schlamm oder komplexem Boden
+											ist es schwierig, das sauber
+im Computer zu simulieren.
+											Warum also keinen Roboter unter
+realen Bedingungen benutzen?
+											Unter allen diesen Tieren
+bevorzuge ich den Salamander.
+											Sie fragen sich vielleicht warum.
+											Von einem evolutionären Standpunkt
+ist ein Amphibium ein zentrales Tier.
+											Es verbindet auf großartige
+Weise das Schwimmen,
+											wie bei Aalen oder Fischen zu beobachten,
+											und die vierbeinige Fortbewegung
+wie bei Säugetieren: Katzen und Menschen.
+											Der heutige Salamander
+											ist sehr nah an den ersten
+Landwirbeltieren dran,
+											also ist er fast ein lebendes Fossil,
+											der uns den Zugang zu unseren Vorfahren,
+											den Vorfahren aller vierbeinigen
+Landbewohner, eröffnet.
+									",A robot that runs and swims like a salamander,Auke Ijspeert,14:10,"animals,biomechanics,biotech,design,engineering,future,invention,innovation,biology,nature,robots,physics,technology,neuroscience"
+"
+","
+","
+","
+",A robot that runs and swims like a salamander,Auke Ijspeert,14:10,"animals,biomechanics,biotech,design,engineering,future,invention,innovation,biology,nature,robots,physics,technology,neuroscience"
+"
+											So the salamander swims
+											by doing what's called
+an anguilliform swimming gait,
+											so they propagate a nice traveling wave
+of muscle activity from head to tail.
+											And if you place
+the salamander on the ground,
+											it switches to what's called
+a walking trot gait.
+											In this case, you have nice
+periodic activation of the limbs
+											which are very nicely coordinated
+											with this standing wave
+undulation of the body,
+											and that's exactly the gait
+that you are seeing here on Pleurobot.
+											Now, one thing which is very surprising
+and fascinating in fact
+											is the fact that all this can be generated
+just by the spinal cord and the body.
+											So if you take
+a decerebrated salamander —
+											it's not so nice
+but you remove the head —
+											and if you electrically
+stimulate the spinal cord,
+											at low level of stimulation
+this will induce a walking-like gait.
+											If you stimulate a bit more,
+the gait accelerates.
+											And at some point, there's a threshold,
+											and automatically,
+the animal switches to swimming.
+											This is amazing.
+											Just changing the global drive,
+											as if you are pressing the gas pedal
+											of descending modulation
+to your spinal cord,
+											makes a complete switch
+between two very different gaits.
+											And in fact, the same
+has been observed in cats.
+											If you stimulate the spinal cord of a cat,
+											you can switch between
+walk, trot and gallop.
+											Or in birds, you can make a bird
+switch between walking,
+											at a low level of stimulation,
+											and flapping its wings
+at high-level stimulation.
+											And this really shows that the spinal cord
+											is a very sophisticated
+locomotion controller.
+									","
+											La salamandra nada,
+											haciendo una marcha 
+de natación anguiliforme,
+											para ello propaga una onda viajera de 
+actividad muscular de la cabeza a la cola.
+											Y una vez en el suelo,
+											pasa a un modo de andar al trote.
+											En este caso, se produce una activación 
+periódica de las extremidades
+											muy bien coordinadas
+											con esta ondulación 
+estacionaria del cuerpo,
+											y es exactamente la marcha que 
+están viendo aquí con el Pleurobot.
+											Pero muy sorprendente 
+y, de hecho, es fascinante,
+											todo esto lo puede generar
+simplemente la médula y el cuerpo.
+											Si tomamos una salamandra sin cerebro,
+											no es tan agradable pero 
+se le quita la cabeza,
+											y le estimulamos la médula 
+con electricidad,
+											con un bajo nivel de estimulación
+inducirá un modo de andar similar.
+											Si se estimula un poco más,
+la marcha se acelera.
+											En un momento, hay un umbral,
+											y automáticamente,
+el animal pasa a nadar.
+											Es increíble.
+											Sencillamente cambia la marcha,
+											como si pisar el acelerador
+											de la modulación descendente
+en la médula espinal,
+											cambiara por completo entre
+dos marchas muy diferentes.
+											De hecho, lo mismo se observa en gatos.
+											Si uno estimula la médula de un gato,
+											puede pasar de caminata, 
+a trote, a galope.
+											O en las aves, uno puede hacer
+que pasen de caminar,
+											en un nivel bajo de la estimulación,
+											a batir alas en un nivel 
+alto de estimulación.
+											Y esto demuestra 
+que la médula espinal
+											controla la locomoción de 
+forma muy sofisticada.
+									","
+											A salamandra nada
+											fazendo uma marcha natatória anguiliforme,
+											propagando uma bela onda de atividade
+muscular da cabeça até à cauda.
+											Se colocarmos a salamandra no chão,
+											ela muda para uma marcha de trote.
+											Neste caso, temos uma ativação
+periódica dos membros
+											que são coordenados perfeitamente
+											com a ondulação do corpo
+											e que é exatamente a marcha
+que estão a ver no Pleurobot.
+											Uma coisa surpreendente e fascinante
+											é que tudo isso pode ser gerado
+apenas pela espinal medula e pelo corpo.
+											Se arranjarmos uma salamandra sem cérebro
+											— não é muito bonito,
+mas cortamos-lhe a cabeça —
+											e se estimularmos eletricamente
+a espinal medula,
+											um nível baixo de estímulo
+induzirá uma marcha tipo andar.
+											Se estimularmos um pouco mais,
+a marcha acelera.
+											A certa altura, atinge-se um limiar
+											e, automaticamente,
+o animal muda para nadar.
+											É espantoso!
+											Basta mudar o impulso global,
+como se carregássemos no acelerador,
+											da modulação descendente 
+da espinal medula,
+											e há uma mudança total
+entre duas marchas muito diferentes.
+											Na verdade, podemos
+observar o mesmo nos gatos.
+											Se estimularmos a espinal medula dum gato,
+											podemos mudar entre andar,
+trotar e galopar.
+											Ou nas aves, podemos fazer
+com que uma ave mude
+											entre o andar, com um nível
+baixo de estímulo,
+											e bater as asas,
+com um estímulo de alto nível.
+											Isto mostra que a espinal medula
+											é um controlador da locomoção
+muito sofisticado.
+									","
+											Der Salamander schwimmt,
+											indem er sich wie ein Aal fortbewegt.
+											Vom Kopf bis zum Schwanz breitet sich eine
+laufende Welle der Muskelaktivität aus.
+											Stellt man den Salamander auf den Boden,
+											wechselt er zum sogenannten
+gehenden Trab.
+											In diesem Fall ergibt sich eine
+periodische Aktivierung der Gliedmaßen,
+											die sehr schön koordiniert wird,
+											mit dieser beständigen
+Wellenbewegung des Körpers.
+											Das ist die Gangart, die man hier
+beim Pleurobot sehen kann.
+											Ein überraschender
+und faszinierender Aspekt,
+											ist die Tatsache, dass das alles nur das
+Rückenmark und der Körper hervorruft.
+											Wenn man einem Salamander
+das Gehirn entfernt —
+											es ist nicht so schön,
+wenn man den Kopf entfernt —
+											und das Rückenmark auf niedrigem
+Niveau elektrisch stimuliert,
+											wird eine dem Gehen
+ähnliche Gangart ausgelöst.
+											Stimuliert man ein wenig mehr,
+beschleunigt sich die Gangart.
+											An einem gewissen Punkt ist eine Schwelle,
+											die automatisch zum Schwimmen überleitet.
+											Das ist erstaunlich.
+											Nur den allgemeinen Antrieb zu ändern,
+											als ob man das Gaspedal
+für die Neuromodulation
+											in den absteigenden Bahnen
+zum Rückenmark drückt,
+											bewirkt einen Wechsel zwischen
+zwei unterschiedlichen Gangarten.
+											Das Gleiche hat man bei Katzen beobachtet.
+											Wenn man das Rückenmark
+einer Katze stimuliert,
+											erfolgt der Wechsel zwischen
+Schritt, Trab und Galopp.
+											Oder Vögel wechseln zwischen Gehen,
+											auf einem niedrigem Stimulationsniveau,
+											und dem Flügelschlag auf
+einem hohen Stimulationsniveau.
+											Das zeigt wirklich, dass das Rückenmark
+											ein sehr ausgeklügelter
+Fortbewegungsregler ist.
+									",A robot that runs and swims like a salamander,Auke Ijspeert,14:10,"animals,biomechanics,biotech,design,engineering,future,invention,innovation,biology,nature,robots,physics,technology,neuroscience"
+"
+","
+","
+","
+",A robot that runs and swims like a salamander,Auke Ijspeert,14:10,"animals,biomechanics,biotech,design,engineering,future,invention,innovation,biology,nature,robots,physics,technology,neuroscience"
+"
+											So we studied salamander locomotion
+in more detail,
+											and we had in fact access
+to a very nice X-ray video machine
+											from Professor Martin Fischer
+in Jena University in Germany.
+											And thanks to that,
+you really have an amazing machine
+											to record all the bone motion
+in great detail.
+											That's what we did.
+											So we basically figured out
+which bones are important for us
+											and collected their motion in 3D.
+											And what we did is collect
+a whole database of motions,
+											both on ground and in water,
+											to really collect a whole database
+of motor behaviors
+											that a real animal can do.
+											And then our job as roboticists
+was to replicate that in our robot.
+											So we did a whole optimization process
+to find out the right structure,
+											where to place the motors,
+how to connect them together,
+											to be able to replay
+these motions as well as possible.
+											And this is how Pleurobot came to life.
+									","
+											Por eso estudiamos la locomoción 
+de la salamandra en más detalle,
+											y tuvimos acceso a una máquina
+de rayos X muy buena
+											del profesor Martin Fischer de 
+la Universidad Jena en Alemania.
+											Gracias a eso, tenemos 
+una máquina increíble
+											para grabar el movimiento 
+de los huesos en gran detalle.
+											Así hicimos.
+											En esencia, descubrimos 
+qué huesos importaban
+											y recolectamos su movimiento en 3D.
+											Recolectamos una gran base
+de datos de movimientos,
+											tanto en tierra como en el agua,
+											para obtener una base completa
+de los comportamientos motrices
+											que puede tener un animal real.
+											Nuestro trabajo como robotistas 
+fue replicarlo en nuestro robot.
+											Mediante un proceso de optimización
+encontramos la estructura correcta
+											para colocar los motores,
+para conectarlos,
+											para poder reproducir esos 
+movimientos lo mejor posible.
+											Y así cobró vida el Pleurobot.
+									","
+											Estudámos a locomoção da salamandra
+com mais pormenor.
+											Tivemos acesso a uma máquina
+de vídeo de raios-X muito boa
+											do Professor Martin Fischer
+da Universidade Jena na Alemanha.
+											Graças a isso, 
+temos uma máquina fantástica
+											para registar todo o movimento ósseo
+com grande pormenor.
+											Foi o que fizemos.
+											Descobrimos quais são os ossos
+que são importantes para nós
+											e registámos o seu movimento a 3D.
+											Reunimos toda uma base de dados
+de movimentos
+											tanto no terreno como na água.
+											Reunimos uma base de dados
+de comportamentos motores
+											que um animal pode fazer.
+											A nossa tarefa era reproduzir
+isso no nosso robô.
+											Fizemos todo um processo de otimização
+para encontrar a estrutura correta,
+											onde colocar os motores,
+como ligá-los uns aos outros,
+											para conseguir reproduzir
+esses movimentos o melhor possível.
+											Foi assim que nasceu o Pleurobot.
+									","
+											Wir untersuchten die Fortbewegung
+der Salamander genauer
+											und hatten Zugang zu
+einem Röntgen-Video-Gerät
+											von Professor Martin Fischer
+von der Universität Jena.
+											Daher hatten wir ein Gerät,
+											um alle Knochenbewegungen
+im Detail aufzuzeichnen.
+											Das taten wir.
+											Wir fanden hauptsächlich heraus,
+welche Knochen wichtig sind
+											und trugen ihre Bewegung in 3D zusammen.
+											Wir trugen eine ganze
+Datenbank für Bewegungen
+											auf dem Land als auch
+im Wasser zusammen,
+											für motorisches Verhalten,
+											das ein echtes Tier zeigen kann.
+											Dann war es unsere Aufgabe, das
+bei unserem Roboter nachzubilden.
+											Wir führten einen Optimierungsprozess
+durch, um den richtigen Aufbau zu finden,
+											die Motoren zu platzieren und
+alles miteinander zu verbinden,
+											damit wir die Bewegungen so gut
+wie möglich wiederholen können.
+											So wurde Pleurobot lebendig.
+									",A robot that runs and swims like a salamander,Auke Ijspeert,14:10,"animals,biomechanics,biotech,design,engineering,future,invention,innovation,biology,nature,robots,physics,technology,neuroscience"
+"
+","
+","
+","
+",A robot that runs and swims like a salamander,Auke Ijspeert,14:10,"animals,biomechanics,biotech,design,engineering,future,invention,innovation,biology,nature,robots,physics,technology,neuroscience"
+"
+											So let's look at how close
+it is to the real animal.
+											So what you see here
+is almost a direct comparison
+											between the walking
+of the real animal and the Pleurobot.
+											You can see that we have
+almost a one-to-one exact replay
+											of the walking gait.
+											If you go backwards and slowly,
+you see it even better.
+											But even better, we can do swimming.
+											So for that we have a dry suit
+that we put all over the robot —
+									","
+											Veamos cuánto se asemeja al animal real.
+											Aquí ven una comparación casi directa
+											entre la marca del animal real 
+y la del Pleurobot.
+											Puede verse que hay casi
+una reproducción uno a uno
+											de la marcha a pie.
+											Hacia atrás y poco a poco,
+se ve aún mejor.
+											Pero todavía mejor, podemos nadar.
+											Para eso usamos un traje seco
+y recubrimos todo el robot...
+									","
+											Vejamos como é parecido
+com o animal real.
+											O que aqui veem é quase
+uma comparação direta
+											entre o andar do animal real
+e o Pleurobot.
+											Podem ver que temos uma repetição
+da marcha quase exata.
+											Se recuarem, ainda se vê melhor.
+											Mas, melhor ainda, podemos pô-lo a nadar.
+											Para isso, temos um fato seco
+com que envolvemos o robô...
+									","
+											Sehen wir nun, wie nah
+es am echten Tier dran ist.
+											Hier sehen Sie einen
+fast unmittelbaren Vergleich
+											zwischen dem Gehen eines
+echten Tieres und Pleurobot.
+											Hier ist eine fast direkte Nachbildung
+der Gangart zu sehen.
+											Wenn man zurückspult, sieht
+man es in Zeitlupe noch besser.
+											Aber noch besser: Er kann auch schwimmen.
+											Dafür haben wir einen Trockenanzug,
+den wir über den Roboter ziehen —
+									",A robot that runs and swims like a salamander,Auke Ijspeert,14:10,"animals,biomechanics,biotech,design,engineering,future,invention,innovation,biology,nature,robots,physics,technology,neuroscience"
+"
+","
+","
+","
+",A robot that runs and swims like a salamander,Auke Ijspeert,14:10,"animals,biomechanics,biotech,design,engineering,future,invention,innovation,biology,nature,robots,physics,technology,neuroscience"
+"
+											(Laughter)
+									","
+											(Risas)
+									","
+											(Risos)
+									","
+											(Lachen) —
+									",A robot that runs and swims like a salamander,Auke Ijspeert,14:10,"animals,biomechanics,biotech,design,engineering,future,invention,innovation,biology,nature,robots,physics,technology,neuroscience"
+"
+","
+","
+","
+",A robot that runs and swims like a salamander,Auke Ijspeert,14:10,"animals,biomechanics,biotech,design,engineering,future,invention,innovation,biology,nature,robots,physics,technology,neuroscience"
+"
+											and then we can go in water
+and start replaying the swimming gaits.
+											And here, we were very happy,
+because this is difficult to do.
+											The physics of interaction are complex.
+											Our robot is much bigger
+than a small animal,
+											so we had to do what's called
+dynamic scaling of the frequencies
+											to make sure we had
+the same interaction physics.
+											But you see at the end,
+we have a very close match,
+											and we were very, very happy with this.
+											So let's go to the spinal cord.
+											So here what we did
+with Jean-Marie Cabelguen
+											is model the spinal cord circuits.
+											And what's interesting
+is that the salamander
+											has kept a very primitive circuit,
+											which is very similar
+to the one we find in the lamprey,
+											this primitive eel-like fish,
+											and it looks like during evolution,
+											new neural oscillators
+have been added to control the limbs,
+											to do the leg locomotion.
+											And we know where
+these neural oscillators are
+											but what we did was to make
+a mathematical model
+											to see how they should be coupled
+											to allow this transition
+between the two very different gaits.
+											And we tested that on board of a robot.
+									","
+											y entonces podemos ir al agua
+y reproducir la marcha de natación.
+											Aquí estábamos muy contentos
+porque esto es difícil de hacer.
+											La física de interacción es compleja.
+											El robot es mucho más grande 
+que un animal pequeño,
+											por eso tuvimos que hacer 
+un escalado dinámico de frecuencias
+											para asegurarnos de lograr
+la misma física de interacción.
+											Pero al final, logramos
+buena compatibilidad,
+											y estábamos muy, muy felices.
+											Pasemos a la médula espinal.
+											Con Jean-Marie Cabelguen
+											modelamos los circuitos de la médula.
+											Lo interesante es que la salamandra
+											conserva un circuito muy primitivo,
+											muy similar al de la lamprea,
+											ese pez parecido a una anguila primitiva,
+											y parece que, durante la evolución,
+											surgieron nuevos neuroosciladores 
+para controlar las extremidades,
+											para lograr la locomoción de las piernas.
+											Y sabemos dónde están
+estos osciladores neurales
+											pero hicimos un modelo matemático
+											para ver cómo deberían acoplarse
+											y lograr esta transición
+entre las dos marchas tan diferentes.
+											Y lo probamos a bordo de un robot.
+									","
+											... depois podemos pô-lo na água
+e começar a repetir a marcha da natação.
+											Ficámos muito satisfeitos,
+porque isto também é difícil de fazer.
+											A física da interação é complexa.
+											O nosso robô é muito maior
+do que um pequeno animal,
+											por isso tivemos que fazer
+um aumento dinâmico das frequências
+											para garantir que tínhamos
+a mesma física de interação.
+											Veem que temos
+uma parecença muito grande
+											e ficámos imensamente
+satisfeitos com isso.
+											Vamos então à espinal medula.
+											Com Jean-Marie Cabelguen,
+											fizemos o modelo dos circuitos
+da espinal medula.
+											O interessante é que a salamandra
+											manteve um circuito muito primitivo
+											que é muito semelhante
+ao que encontramos na lampreia,
+											esse peixe primitivo, tipo enguia,
+											e parece que, durante a evolução,
+											foram acrescentados
+novos osciladores neurais,
+											para controlar os membros,
+para a locomoção das pernas.
+											Sabemos onde estão
+esses osciladores neurais
+											mas fizemos um modelo matemático
+											para ver como devem ser acoplados
+											para permitir a transição entre
+os dois tipos de marcha muito diferentes.
+											Testámos isso integrado num robô.
+									","
+											und so kann man ins Wasser gehen
+und die Schwimmarten nachbilden.
+											Wir waren sehr froh, weil das
+schwierig zu bewerkstelligen ist.
+											Die physikalischen Bedingungen
+der Interaktion sind komplex.
+											Unser Roboter ist viel
+größer als das kleine Tier.
+											Wir mussten eine dynamische Skalierung
+der Frequenzen vornehmen,
+											um die selben physikalischen
+Bedingungen vorliegen zu haben.
+											Aber am Ende stimmte es sehr stark überein
+											und wir waren sehr froh darüber.
+											Kommen wir nun zum Rückenmark.
+											Zusammen mit Jean-Marie Cabelguen
+											bildeten wir die Schaltkreise
+des Rückenmarks ab.
+											Sehr interessant ist, dass der Salamander
+											sehr primitive Schaltkreise behalten hat,
+											die denen beim Neunauge sehr ähneln —
+											diesem primitiven aalgleichen Fisch.
+											Im Laufe der Evolution
+											wurden neue neuronale Oszillatoren
+hinzugefügt, um die Gliedmaßen zu steuern,
+											die für die Fortbewegung da sind.
+											Wo sich diese neuronalen Oszillatoren
+befinden, ist bekannt,
+											aber wir erstellten ein
+mathematisches Modell,
+											um zu erkennen, wie sie
+verkoppelt sein sollten,
+											um den Übergang zwischen zwei
+Bewegungsarten zu bewirken.
+											Wir testeten das auf der
+Platine eines Roboters.
+									",A robot that runs and swims like a salamander,Auke Ijspeert,14:10,"animals,biomechanics,biotech,design,engineering,future,invention,innovation,biology,nature,robots,physics,technology,neuroscience"
+"
+","
+","
+","
+",A robot that runs and swims like a salamander,Auke Ijspeert,14:10,"animals,biomechanics,biotech,design,engineering,future,invention,innovation,biology,nature,robots,physics,technology,neuroscience"
+"
+											And this is how it looks.
+											So what you see here
+is a previous version of Pleurobot
+											that's completely controlled
+by our spinal cord model
+											programmed on board of the robot.
+											And the only thing we do
+											is send to the robot
+through a remote control
+											the two descending signals
+it normally should receive
+											from the upper part of the brain.
+											And what's interesting is,
+by playing with these signals,
+											we can completely control
+speed, heading and type of gait.
+											For instance,
+											when we stimulate at a low level,
+we have the walking gait,
+											and at some point, if we stimulate a lot,
+											very rapidly it switches
+to the swimming gait.
+											And finally, we can also
+do turning very nicely
+											by just stimulating more one side
+of the spinal cord than the other.
+											And I think it's really beautiful
+											how nature has distributed control
+											to really give a lot of responsibility
+to the spinal cord
+											so that the upper part of the brain
+doesn't need to worry about every muscle.
+											It just has to worry
+about this high-level modulation,
+											and it's really the job of the spinal cord
+to coordinate all the muscles.
+									","
+											Y tiene este aspecto.
+											Aquí vemos una versión 
+previa del Pleurobot
+											totalmente controlada por 
+nuestro modelo de médula espinal
+											programado a bordo del robot.
+											Lo único que hacemos
+											es enviarle al robot
+mediante un control remoto
+											las dos señales descendentes
+que debería recibir normalmente
+											de la parte superior del cerebro.
+											Y lo interesante es que,
+jugando con estas señales,
+											podemos controlar completamente
+velocidad, rumbo y tipo de marcha.
+											Por ejemplo,
+											si estimulamos en un nivel bajo,
+tenemos el modo caminar,
+											y, en un momento, si estimulamos mucho,
+											muy rápidamente pasa al modo nadar.
+											Y, por último, también podemos
+hacer giros muy bien
+											con solo estimular más un lado
+de la médula que el otro.
+											Y pienso que es realmente hermoso
+											cómo la naturaleza distribuyó el control
+											y le dio mucha responsabilidad
+a la médula espinal
+											para que la parte superior del cerebro
+no tenga que ocuparse de cada músculo.
+											Solo tiene que ocuparse de 
+esta modulación de alto nivel,
+											y es trabajo de la médula
+coordinar cada músculo.
+									","
+											É assim que se comporta.
+											O que vemos aqui
+é uma versão anterior do Pleurobot
+											que é totalmente controlada
+pelo nosso modelo de espinal medula
+											programado no interior do robô.
+											A única coisa que fazemos
+											é enviar para o robô,
+através dum telecomando
+											os dois sinais descendentes
+que normalmente devia receber
+											da parte superior do cérebro.
+											O interessante é que,
+jogando com estes sinais,
+											podemos controlar totalmente
+a velocidade, a direção e o tipo de marcha.
+											Por exemplo,
+											quando estimulamos a baixo nível,
+temos a marcha de andar.
+											A certa altura, se estimularmos mais,
+											muito rapidamente, ele muda
+para o movimento de natação.
+											Por fim, também podemos fazê-lo
+virar-se, muito facilmente,
+											estimulando a espinal medula
+mais dum lado do que o outro.
+											Acho que é mesmo muito bonito
+											como a Natureza distribuiu o controlo
+											para dar tanta responsabilidade
+à espinal medula
+											de modo que a parte superior do cérebro
+não se preocupe com todos os músculos.
+											Só se preocupa
+com esta modulação de alto nível.
+											É de facto a tarefa da espinal medula
+coordenar todos os músculos.
+									","
+											So sieht das Ganze aus.
+											Hier sieht man eine frühere
+Version von Pleurobot,
+											die vollständig durch unser
+Rückenmark-Modell gesteuert wird,
+											das in die Roboterplatine
+programmiert wurde.
+											Wir senden über eine Fernsteuerung
+											die zwei Signale an den Roboter, die ein
+Salamander durch die absteigenden Bahnen
+											von höheren Hirnregionen erhalten würde.
+											Wir können mit diesen Signalen
+											die Geschwindigkeit, den Kurs und
+die Gangart vollständig steuern.
+											Zum Beispiel:
+											Bei niedrigem Stimulationsniveau
+ergibt sich die gehende Fortbewegung
+											und bei hoher Stimulation wechselt
+es ab einem bestimmten Punkt
+											sehr schnell in die
+schwimmende Fortbewegung.
+											Zuletzt kann man das Wenden
+sehr schön vollführen,
+											indem man das Rückenmark auf einer
+Seite mehr stimuliert als auf der anderen.
+											Ich glaube, es ist wirklich schön,
+											wie die Natur die Steuerung aufteilt,
+											indem sie viel Verantwortung
+an das Rückenmark abgibt,
+											sodass die höheren Hirnregionen sich
+nicht um jeden Muskel kümmern müssen.
+											Sie müssen sich nur um die Regulierung
+auf hohem Niveau kümmern,
+											während das Rückenmark die Aufgabe hat,
+alle Muskeln zu koordinieren.
+									",A robot that runs and swims like a salamander,Auke Ijspeert,14:10,"animals,biomechanics,biotech,design,engineering,future,invention,innovation,biology,nature,robots,physics,technology,neuroscience"
+"
+","
+","
+","
+",A robot that runs and swims like a salamander,Auke Ijspeert,14:10,"animals,biomechanics,biotech,design,engineering,future,invention,innovation,biology,nature,robots,physics,technology,neuroscience"
+"
+											So now let's go to cat locomotion
+and the importance of biomechanics.
+											So this is another project
+											where we studied cat biomechanics,
+											and we wanted to see how much
+the morphology helps locomotion.
+											And we found three important
+criteria in the properties,
+											basically, of the limbs.
+											The first one is that a cat limb
+											more or less looks
+like a pantograph-like structure.
+											So a pantograph is a mechanical structure
+											which keeps the upper segment
+and the lower segments always parallel.
+											So a simple geometrical system
+that kind of coordinates a bit
+											the internal movement of the segments.
+											A second property of cat limbs
+is that they are very lightweight.
+											Most of the muscles are in the trunk,
+											which is a good idea,
+because then the limbs have low inertia
+											and can be moved very rapidly.
+											The last final important property is this
+very elastic behavior of the cat limb,
+											so to handle impacts and forces.
+											And this is how we designed Cheetah-Cub.
+									","
+											Pasemos ahora a la locomoción del gato
+y a la importancia de la biomecánica.
+											Este es otro proyecto
+											en el que estudiamos 
+la biomecánica del gato,
+											y queríamos ver en qué medida
+la morfología ayuda a la locomoción.
+											Encontramos tres criterios 
+importantes en las propiedades,
+											básicamente, de las extremidades.
+											El primero es que la extremidad del gato
+											se parece más o menos
+a una estructura de pantógrafo.
+											El pantógrafo es una estructura mecánica
+											que mantiene el segmento superior y los 
+segmentos inferiores siempre paralelos.
+											Es un sistema geométrico sencillo
+que coordina un poco
+											el movimiento interno de los segmentos.
+											Una segunda propiedad de las 
+extremidades del gato: son muy livianas.
+											La mayor parte de los músculos
+están en el tronco,
+											muy buena idea, porque 
+las extremidades tienen baja inercia
+											y pueden moverse muy rápidamente.
+											La última propiedad importante 
+es el comportamiento tan elástico,
+											para manejar impactos y fuerzas.
+											Así diseñamos Cheetah-Cub.
+									","
+											Vamos agora à locomoção do gato
+e à importância da biomecânica.
+											Isto é outro projeto
+											em que estudámos a biomecânica do gato.
+											Quisemos ver até que ponto
+a morfologia ajuda a locomoção.
+											Descobrimos três critérios importantes
+											nas propriedades dos membros.
+											O primeiro é que os membros dum gato
+											parecem-se mais ou menos
+com uma estrutura tipo pantógrafo.
+											Um pantógrafo é uma estrutura mecânica
+											que mantém sempre em paralelo
+											o segmento superior
+e os segmentos inferiores.
+											É um simples sistema geométrico
+que coordena um pouco
+											o movimento interno dos segmentos.
+											A segunda propriedade dos membros do gato
+é que têm muito pouco peso.
+											A maior parte dos músculos
+estão no tronco,
+											o que é bom, porque os membros
+ficam com uma inércia baixa
+											e podem mover-se muito rapidamente.
+											A última propriedade importante
+											é o comportamento muito elástico
+dos membros do gato
+											que gerem os impactos e as forças.
+											É aquilo a que chamamos o Cheetah-Cub.
+									","
+											Nun zur Fortbewegung der Katze
+und der Wichtigkeit von Biomechanik.
+											Das ist ein weiteres Projekt,
+											bei dem wir die Biomechanik
+von Katzen untersuchten.
+											Wir wollten erkennen, wie sehr die
+Gestalt die Fortbewegung unterstützt.
+											Wir fanden drei wichtige Kriterien
+bei den Eigenschaften der Gliedmaßen.
+											Die erste:
+											Das Katzenbein hat mehr oder weniger
+den Aufbau eines Stromabnehmers.
+											Ein Pantograph ist eine
+mechanische Struktur,
+											die das obere und das untere
+Segment immer parallel ausrichtet —
+											also ein einfaches geometrisches System,
+											das die internen Bewegungsabläufe
+der Segmente koordiniert.
+											Eine zweite Eigenschaft
+der Katzenglieder ist deren Leichtigkeit.
+											Die meisten Muskeln
+befinden sich am Rumpf,
+											was gut ist, weil die Gliedmaßen
+dann eine geringe Trägheit haben
+											und schnell bewegt werden können.
+											Das elastische Verhalten der Katzenglieder
+ist die letzte wichtige Eigenschaft,
+											um Stöße und Kräfte abzufedern.
+											Auf diese Weise haben
+wir Cheetah-Cub entworfen.
+									",A robot that runs and swims like a salamander,Auke Ijspeert,14:10,"animals,biomechanics,biotech,design,engineering,future,invention,innovation,biology,nature,robots,physics,technology,neuroscience"
+"
+","
+","
+","
+",A robot that runs and swims like a salamander,Auke Ijspeert,14:10,"animals,biomechanics,biotech,design,engineering,future,invention,innovation,biology,nature,robots,physics,technology,neuroscience"
+"
+											So let's invite Cheetah-Cub onstage.
+											So this is Peter Eckert,
+who does his PhD on this robot,
+											and as you see, it's a cute little robot.
+											It looks a bit like a toy,
+											but it was really used
+as a scientific tool
+											to investigate these properties
+of the legs of the cat.
+											So you see, it's very compliant,
+very lightweight,
+											and also very elastic,
+											so you can easily press it down
+and it will not break.
+											It will just jump, in fact.
+											And this very elastic property
+is also very important.
+											And you also see a bit these properties
+											of these three segments
+of the leg as pantograph.
+									","
+											Invitemos a Cheetah-Cub al escenario.
+											Este es Peter Eckert, que hace 
+su doctorado sobre este robot,
+											y como ven, es un pequeño y lindo robot.
+											Parece un juguete,
+											pero se usó como herramienta científica
+											para investigar estas propiedades
+de las patas del gato.
+											Como ven, es muy compatible, muy liviano,
+											y también muy elástico,
+											de modo que podemos pisarlo
+y no se romperá.
+											De hecho, saltará.
+											Esta propiedad de ser tan elástico
+también es muy importante.
+											También se ve un poco las propiedades
+											de estos tres segmentos de 
+la pata como un pantógrafo.
+									","
+											Vamos convidar o Cheetah-Cub
+a subir ao palco.
+											Este é Peter Eckert,
+que faz o doutoramento com este robô.
+											Como veem, é um pequeno robô amoroso.
+											Parece um brinquedo,
+mas é usado como instrumento científico
+											para investigar estas propriedades
+das pernas do gato.
+											Como veem, é muito obediente, muito leve
+e também muito elástico.
+											por isso podemos pressioná-lo
+que ele não se parte.
+											Apenas salta.
+											Esta propriedade muito elástica
+também é muito importante.
+											Também veem um pouco estas propriedades
+											destes três segmentos
+da perna, como um pantógrafo.
+									","
+											Also bitten wir Cheetah-Cub auf die Bühne.
+											Das ist Peter Eckert, der zu
+diesem Roboter promoviert,
+											und wie sie sehen, ist er ein
+niedlicher kleiner Roboter.
+											Er sieht ein wenig wie ein Spielzeug aus,
+											wird aber tatsächlich als
+wissenschaftliches Instrument genutzt,
+											um die Eigenschaften der
+Katzenbeine zu untersuchen.
+											Er ist sehr nachgiebig, sehr leicht
+											und auch sehr elastisch,
+											so dass man ihn leicht nach unten
+drücken kann und er nicht zerbricht.
+											Er springt nur hoch.
+											Diese elastische Eigenschaft
+ist auch sehr wichtig.
+											An diesen drei Beinsegmenten
+erkennt man auch ein wenig
+											die Eigenschaften eines Pantografen.
+									",A robot that runs and swims like a salamander,Auke Ijspeert,14:10,"animals,biomechanics,biotech,design,engineering,future,invention,innovation,biology,nature,robots,physics,technology,neuroscience"
+"
+","
+","
+","
+",A robot that runs and swims like a salamander,Auke Ijspeert,14:10,"animals,biomechanics,biotech,design,engineering,future,invention,innovation,biology,nature,robots,physics,technology,neuroscience"
+"
+											Now, what's interesting
+is that this quite dynamic gait
+											is obtained purely in open loop,
+											meaning no sensors,
+no complex feedback loops.
+											And that's interesting, because it means
+											that just the mechanics
+already stabilized this quite rapid gait,
+											and that really good mechanics
+already basically simplify locomotion.
+											To the extent that we can even
+disturb a bit locomotion,
+											as you will see in the next video,
+											where we can for instance do some exercise
+where we have the robot go down a step,
+											and the robot will not fall over,
+											which was a surprise for us.
+											This is a small perturbation.
+											I was expecting the robot
+to immediately fall over,
+											because there are no sensors,
+no fast feedback loop.
+											But no, just the mechanics
+stabilized the gait,
+											and the robot doesn't fall over.
+											Obviously, if you make the step bigger,
+and if you have obstacles,
+											you need the full control loops
+and reflexes and everything.
+											But what's important here
+is that just for small perturbation,
+											the mechanics are right.
+											And I think this is
+a very important message
+											from biomechanics and robotics
+to neuroscience,
+											saying don't underestimate to what extent
+the body already helps locomotion.
+									","
+											Pero lo interesante de 
+esta marcha bastante dinámica
+											es que se obtiene 
+exclusivamente en lazo abierto,
+											o sea, sin sensores, ni bucles
+de retroalimentación complejos.
+											Y eso es interesante porque significa
+											que la mecánica ya estabiliza
+esta marcha bastante rápida
+											y que la mecánica realmente buena
+ya simplifica la locomoción.
+											Al punto que incluso se puede
+perturbar un poco la locomoción,
+											como verán en el próximo video,
+											podemos hacer algo de ejercicio,
+pedirle al robot que baje un escalón,
+											y el robot no se caerá,
+											lo cual nos sorprendió.
+											Hay una pequeña protuberancia.
+											Esperaba que el robot 
+cayera de inmediato,
+											porque no hay sensores, ni bucle 
+de retroalimentación rápida.
+											Pero no, sencillamente la mecánica
+estabilizó la marcha,
+											y el robot no se cayó.
+											Obviamente, con escalones más grandes
+y con obstáculos,
+											se necesitan bucles de control total,
+reflejos, y todo.
+											Pero lo importante aquí es que
+para perturbaciones pequeñas,
+											la mecánica es correcta.
+											Y pienso que este es 
+un mensaje muy importante
+											de la biomecánica y la robótica
+para la neurociencia:
+											No hay que subestimar hasta qué punto
+el cuerpo ya ayuda a la locomoción.
+									","
+											O interessante é que `
+esta marcha muito dinâmica
+											se obtém apenas num ciclo aberto,
+											ou seja, não há sensores,
+não há ciclos complexos de ""feedback"".
+											E é interessante, porque significa
+											que a mecânica já estabilizou
+esta marcha muito rápida
+											e uma mecânica muito boa
+já simplifica a locomoção,
+											até ao ponto de que podemos
+perturbar um pouco a locomoção,
+											como verão no próximo vídeo,
+											em que, por exemplo, 
+fazemos o robô descer um degrau
+											e o robô não cairá,
+o que, para nós, foi uma surpresa.
+											Esta é uma pequena perturbação.
+											Eu estava à espera que o robô
+caísse imediatamente,
+											porque não há sensores,
+não há ""feedback"" da velocidade.
+											Mas não, bastou a mecânica
+para estabilizar a marcha
+											e o robô não cai.
+											Obviamente, se o degrau for maior
+e tivermos obstáculos,
+											serão necessários todos os ciclos
+de controlo e os reflexos.
+											Mas o importante aqui
+é que, para uma pequena perturbação,
+											a mecânica chega.
+											Penso que isto é uma mensagem
+muito importante
+											da biomecânica e da robótica
+para a neurociência,
+											dizendo que não devemos subestimar
+											até que ponto o corpo já ajuda
+a locomoção.
+									","
+											Interessant ist, dass diese
+sehr dynamische Gangart
+											bloß im offenen Regelkreis erreicht wird,
+											das bedeutet, keine Sensoren, keine
+komplizierten Rückkopplungsschleifen.
+											Das ist interessant, das heißt,
+											dass bereits die Mechanik diese
+sehr schnelle Gangart stabilisiert
+											und dass im Grunde bereits wirklich gute
+Mechanik die Fortbewegung vereinfacht.
+											Inwieweit wir die Fortbewegung
+sogar ein wenig stören können,
+											sehen Sie im nächsten Video.
+											Wir lassen den Roboter
+über eine Stufe gehen
+											und er fällt nicht um,
+											was uns überrascht hat.
+											Das ist eine kleine Störung.
+											Ich erwartete, dass der Roboter
+sofort umfallen würde,
+											weil es keine Sensoren und schnelle
+Rückkopplungsschleifen gibt.
+											Doch nein, allein die Mechanik
+stabilisierte den Gang
+											und der Roboter fiel nicht um.
+											Macht man die Stufen größer
+und hat Hindernisse,
+											braucht man selbstverständlich die
+ganzen Steuerschleifen und Reflexe.
+											Aber wichtig ist hier,
+dass für kleine Störungen
+											die Mechanik passend ist.
+											Das ist eine sehr wichtige Botschaft
+											von der Biomechanik und der
+Robotik an die Neurowissenschaft,
+											die besagt: Unterschätzt nicht, wieweit
+der Körper die Fortbewegung unterstützt.
+									",A robot that runs and swims like a salamander,Auke Ijspeert,14:10,"animals,biomechanics,biotech,design,engineering,future,invention,innovation,biology,nature,robots,physics,technology,neuroscience"
+"
+","
+","
+","
+",A robot that runs and swims like a salamander,Auke Ijspeert,14:10,"animals,biomechanics,biotech,design,engineering,future,invention,innovation,biology,nature,robots,physics,technology,neuroscience"
+"
+											Now, how does this relate
+to human locomotion?
+											Clearly, human locomotion is more complex
+than cat and salamander locomotion,
+											but at the same time, the nervous system
+of humans is very similar
+											to that of other vertebrates.
+											And especially the spinal cord
+											is also the key controller
+for locomotion in humans.
+											That's why, if there's a lesion
+of the spinal cord,
+											this has dramatic effects.
+											The person can become
+paraplegic or tetraplegic.
+											This is because the brain
+loses this communication
+											with the spinal cord.
+											Especially, it loses
+this descending modulation
+											to initiate and modulate locomotion.
+											So a big goal of neuroprosthetics
+											is to be able to reactivate
+that communication
+											using electrical or chemical stimulations.
+											And there are several teams
+in the world that do exactly that,
+											especially at EPFL.
+											My colleagues Grégoire Courtine
+and Silvestro Micera,
+											with whom I collaborate.
+									","
+											Ahora, ¿qué relación tiene esto
+con la locomoción humana?
+											Claramente, la locomoción humana es más 
+compleja que la del gato y la salamandra,
+											pero al mismo tiempo, el sistema nervioso
+de los humanos es muy similar
+											al de otros vertebrados.
+											Y, sobre todo, la médula espinal
+											también es el controlador clave
+de la locomoción humana.
+											Por eso, una lesión en la médula espinal
+											tiene efectos dramáticos.
+											La persona puede quedar
+parapléjica o tetrapléjica.
+											Y eso debido a que el cerebro
+pierde la comunicación
+											con la médula.
+											Especialmente, pierde
+esa modulación descendente
+											para iniciar y modular la locomoción.
+											Por eso, un gran objetivo 
+de la neuroprotésica
+											es poder reactivar esa comunicación
+											mediante estimulaciones 
+eléctricas o químicas.
+											Y hay varios equipos en el mundo 
+que hacen exactamente eso,
+											especialmente en la EPFL
+											mis colegas Grégoire Courtine
+y Silvestro Micera,
+											con quienes colaboro.
+									","
+											Ora bem, como é que isto
+se relaciona com a locomoção humana?
+											A locomoção humana é mais complexa
+											do que a locomoção do gato
+e da salamandra,
+											mas, ao mesmo tempo, o sistema nervoso
+do ser humano é muito semelhante
+											ao dos outros vertebrados.
+											Especialmente, a espinal medula
+											também é o controlador-chave
+da locomoção nos seres humanos.
+											É por isso que,
+se há uma lesão na espinal medula
+											os efeitos são dramáticos.
+											A pessoa pode ficar paraplégica
+ou tetraplégica,
+											porque o cérebro perde a comunicação
+com a espinal medula.
+											Em especial, perde
+esta modulação descendente
+											para iniciar e modular a locomoção.
+											Um grande objetivo da prostética neural
+											é poder reativar essa comunicação
+											usando estímulos elétricos ou químicos.
+											Há várias equipas no mundo
+que fazem exatamente isso,
+											especialmente na Escola Politécnica
+Federal de Lausana.
+											Os meus colegas Grégoire Courtine
+e Silvestro Micera,
+											com quem eu colaboro.
+									","
+											Inwiefern betrifft das die
+menschliche Fortbewegung?
+											Menschliche Fortbewegung ist komplexer
+als die von Katzen oder Salamandern,
+											aber gleichzeitig ähnelt das
+Nervensystem von Menschen
+											denen anderer Wirbeltiere.
+											Besonders das Rückenmark
+											ist die wichtigste Steuerung der
+Fortbewegung beim Menschen.
+											Deshalb hat die Verletzung des Rückenmarks
+											diese dramatischen Auswirkungen.
+											Die Person kann halbseitig
+oder beidseitig gelähmt werden.
+											Das Gehirn verliert die
+Verbindung zum Rückenmark.
+											Es verliert die Neuromodulation
+über die absteigenden Bahnen,
+											um die Fortbewegung
+zu beginnen und anzupassen.
+											Ein großes Ziel der Neuroprothetik ist,
+											diese Verbindung wiederzubeleben,
+											indem elektrische oder chemische
+Stimulation eingesetzt wird.
+											Es gibt mehrere Teams auf der Welt,
+die genau das machen,
+											insbesondere an der EPFL:
+											meine Kollegen Grégoire Courtine
+und Silvestro Micera,
+											mit denen ich zusammenarbeite.
+									",A robot that runs and swims like a salamander,Auke Ijspeert,14:10,"animals,biomechanics,biotech,design,engineering,future,invention,innovation,biology,nature,robots,physics,technology,neuroscience"
+"
+","
+","
+","
+",A robot that runs and swims like a salamander,Auke Ijspeert,14:10,"animals,biomechanics,biotech,design,engineering,future,invention,innovation,biology,nature,robots,physics,technology,neuroscience"
+"
+											But to do this properly,
+it's very important to understand
+											how the spinal cord works,
+											how it interacts with the body,
+											and how the brain
+communicates with the spinal cord.
+											This is where the robots
+and models that I've presented today
+											will hopefully play a key role
+											towards these very important goals.
+									","
+											Pero para hacerlo correctamente,
+es muy importante entender
+											cómo funciona la médula,
+											cómo interactúa con el cuerpo,
+											y cómo se comunica el cuerpo con esta.
+											Es ahí donde los robots 
+y los modelos que presenté hoy
+											espero que jueguen un rol clave
+											en esos objetivos tan importantes.
+									","
+											Fazer isto como deve ser
+é muito importante para compreender
+											como funciona a espinal medula,
+											como interage com o corpo,
+											e como o cérebro comunica
+com a espinal medula.
+											É aqui que os robôs e os modelos
+que apresentei hoje
+											desempenham, esperemos,
+um papel fundamental
+											para esses objetivos muito importantes.
+									","
+											Aber um das ordentlich zu machen,
+ist es sehr wichtig zu verstehen,
+											wie das Rückenmark funktioniert,
+											wie es mit dem Körper interagiert
+											und wie das Gehirn mit dem
+Rückenmark kommuniziert.
+											Hier werden die Roboter und Modelle,
+die ich heute vorgestellt habe,
+											hoffentlich eine wichtige Rolle spielen,
+											im Hinblick auf
+diese sehr wichtigen Ziele.
+									",A robot that runs and swims like a salamander,Auke Ijspeert,14:10,"animals,biomechanics,biotech,design,engineering,future,invention,innovation,biology,nature,robots,physics,technology,neuroscience"
+"
+","
+","
+","
+",A robot that runs and swims like a salamander,Auke Ijspeert,14:10,"animals,biomechanics,biotech,design,engineering,future,invention,innovation,biology,nature,robots,physics,technology,neuroscience"
+"
+											Thank you.
+									","
+											Gracias.
+									","
+											Obrigado.
+									","
+											Danke!
+									",A robot that runs and swims like a salamander,Auke Ijspeert,14:10,"animals,biomechanics,biotech,design,engineering,future,invention,innovation,biology,nature,robots,physics,technology,neuroscience"
+"
+","
+","
+","
+",A robot that runs and swims like a salamander,Auke Ijspeert,14:10,"animals,biomechanics,biotech,design,engineering,future,invention,innovation,biology,nature,robots,physics,technology,neuroscience"
+"
+											(Applause)
+									","
+											(Aplausos)
+									","
+											(Aplausos)
+									","
+											(Applaus)
+									",A robot that runs and swims like a salamander,Auke Ijspeert,14:10,"animals,biomechanics,biotech,design,engineering,future,invention,innovation,biology,nature,robots,physics,technology,neuroscience"
+"
+","
+","
+","
+",A robot that runs and swims like a salamander,Auke Ijspeert,14:10,"animals,biomechanics,biotech,design,engineering,future,invention,innovation,biology,nature,robots,physics,technology,neuroscience"
+"
+											Bruno Giussani: Auke, I've seen
+in your lab other robots
+											that do things like swim in pollution
+											and measure the pollution while they swim.
+											But for this one,
+											you mentioned in your talk,
+like a side project,
+											search and rescue,
+											and it does have a camera on its nose.
+									","
+											Bruno Giussani: Auke, he visto
+en tu laboratorio otros robots
+											que nadan en contaminación
+											y miden la contaminación mientras nadan.
+											Pero para esto,
+											mencionaste en tu charla
+como efecto secundario,
+											la búsqueda y el rescate,
+											y tiene una cámara en la nariz.
+									","
+											Bruno Giussani: Auke, 
+vi outros robôs no seu laboratório
+											que fazem coisas como nadar na poluição
+											e medir a poluição, enquanto nadam.
+											Mas este aqui,
+											que referiu na sua palestra,
+como um projeto lateral,
+											pesquisa e salva,
+											e tem uma câmara no nariz.
+									","
+											Bruno Giussani: Auke, ich habe in
+deinem Labor andere Roboter gesehen,
+											die in Verunreinigungen schwammen
+											und dabei den Grad
+der Verschmutzung maßen.
+											Aber bei diesem erwähntest du
+in deinem Vortrag als Nebenprojekt
+											""Suchen und Retten"",
+											und er hat eine Kamera in seiner Nase.
+									",A robot that runs and swims like a salamander,Auke Ijspeert,14:10,"animals,biomechanics,biotech,design,engineering,future,invention,innovation,biology,nature,robots,physics,technology,neuroscience"
+"
+","
+","
+","
+",A robot that runs and swims like a salamander,Auke Ijspeert,14:10,"animals,biomechanics,biotech,design,engineering,future,invention,innovation,biology,nature,robots,physics,technology,neuroscience"
+"
+											Auke Ijspeert: Absolutely. So the robot —
+											We have some spin-off projects
+											where we would like to use the robots
+to do search and rescue inspection,
+											so this robot is now seeing you.
+											And the big dream is to,
+if you have a difficult situation
+											like a collapsed building
+or a building that is flooded,
+											and this is very dangerous
+for a rescue team or even rescue dogs,
+											why not send in a robot
+that can crawl around, swim, walk,
+											with a camera onboard
+to do inspection and identify survivors
+											and possibly create
+a communication link with the survivor.
+									","
+											Auke Ijspeert: Por supuesto, el robot...
+											Se desprenden algunos proyectos
+											en los que quisiéramos usar robots
+para inspección de búsqueda y rescate,
+											por eso este robot ahora los está viendo.
+											Y el gran sueño es, si uno atraviesa 
+una situación difícil
+											como el derrumbe o la inundación
+de un edificio,
+											y es muy peligroso para el equipo
+de rescate o incluso para los perros,
+											por qué no enviar un robot que
+pueda arrastrarse, nadar, caminar,
+											con una cámara a bordo, que inspeccione,
+identifique sobrevivientes,
+											y que quizá haga de enlace de
+comunicación con los supervivientes.
+									","
+											Auke Ijspeert: Pois é.
+											Temos alguns projetos subsidiários
+											em que gostaríamos de usar os robôs
+para pesquisa e inspeção de salvamento.
+											Este robô está agora a vê-lo.
+											O grande sonho é que,
+se houver uma situação difícil,
+											como um edifício que ruiu,
+ou um edifício que está inundado,
+											e seja muito perigoso para uma equipa
+de salvamento ou para cães de salvamento,
+											porque não enviar um robô
+que pode rastejar, nadar, andar
+											com uma câmara incorporada para
+inspecionar e identificar sobreviventes
+											e criar uma ligação
+de comunicação com o sobrevivente.
+									","
+											Auke Ijspeert: Allerdings!
+											Wir haben einige Spin-Off-Projekte,
+											wo wir die Roboter für Such- und
+Rettungsmaßnahmen einsetzen möchten.
+											Dieser Roboter sieht Sie jetzt.
+											Der große Traum ist bei
+einer schwierigen Sachlage,
+											wie zusammengestürzten
+oder gefluteten Gebäuden,
+											wo der Einsatz eines Rettungsteams oder
+von Rettungshunden sehr gefährlich ist,
+											einen Roboter hinzuschicken, der kriechen,
+schwimmen und gehen kann,
+											mit einer Kamera alles ansieht
+und Überlebende erkennt,
+											und möglicherweise die Kommunikation
+mit dem Überlebenden herstellt.
+									",A robot that runs and swims like a salamander,Auke Ijspeert,14:10,"animals,biomechanics,biotech,design,engineering,future,invention,innovation,biology,nature,robots,physics,technology,neuroscience"
+"
+","
+","
+","
+",A robot that runs and swims like a salamander,Auke Ijspeert,14:10,"animals,biomechanics,biotech,design,engineering,future,invention,innovation,biology,nature,robots,physics,technology,neuroscience"
+"
+											BG: Of course, assuming the survivors
+don't get scared by the shape of this.
+									","
+											BG: Claro, suponiendo que las víctimas
+no se asusten por su forma.
+									","
+											BG: Presumindo que os sobreviventes
+não se assustem com a forma disto.
+									","
+											BG: Angenommen natürlich, der
+Überlebende erschreckt nicht davor.
+									",A robot that runs and swims like a salamander,Auke Ijspeert,14:10,"animals,biomechanics,biotech,design,engineering,future,invention,innovation,biology,nature,robots,physics,technology,neuroscience"
+"
+","
+","
+","
+",A robot that runs and swims like a salamander,Auke Ijspeert,14:10,"animals,biomechanics,biotech,design,engineering,future,invention,innovation,biology,nature,robots,physics,technology,neuroscience"
+"
+											AI: Yeah, we should probably
+change the appearance quite a bit,
+											because here I guess a survivor
+might die of a heart attack
+											just of being worried
+that this would feed on you.
+											But by changing the appearance
+and it making it more robust,
+											I'm sure we can make
+a good tool out of it.
+									","
+											AI: Sí, probablemente deberíamos
+cambiar la apariencia un poco,
+											porque supongo que un superviviente
+podría morir de un ataque al corazón
+											por temor a que esto se lo coma.
+											Pero cambiando la apariencia
+y haciéndolo más robusto,
+											estoy seguro de que podemos 
+lograr una buena herramienta.
+									","
+											AI: Sim, provavelmente temos que mudar
+um pouco o aspeto.
+											Acho que um sobrevivente pode morrer
+com um ataque de coração
+											com medo de ser comido por ele.
+											Mas, se mudarmos o aspeto
+e o tornarmos mais robusto,
+											certamente podemos fazer dele
+um bom instrumento.
+									","
+											AI: Ja, wir sollten vermutlich das
+Aussehen ein wenig verändern,
+											weil ein Überlebender vielleicht
+an einem Herzinfarkt stirbt,
+											nur weil er besorgt ist,
+dass er aufgefressen wird.
+											Aber durch das Verändern des
+Aussehens und der Robustheit
+											können wir eine gute
+Arbeitshilfe daraus machen.
+									",A robot that runs and swims like a salamander,Auke Ijspeert,14:10,"animals,biomechanics,biotech,design,engineering,future,invention,innovation,biology,nature,robots,physics,technology,neuroscience"
+"
+","
+","
+","
+",A robot that runs and swims like a salamander,Auke Ijspeert,14:10,"animals,biomechanics,biotech,design,engineering,future,invention,innovation,biology,nature,robots,physics,technology,neuroscience"
+"
+											BG: Thank you very much.
+Thank you and your team.
+									","
+											BG: Muchas gracias.
+Gracias a todo tu equipo.
+									","
+											BG: Muito obrigado.
+Obrigado a si e à sua equipa.
+									","
+											BG: Vielen Dank!
+Danke an dich und dein Team.
+									",A robot that runs and swims like a salamander,Auke Ijspeert,14:10,"animals,biomechanics,biotech,design,engineering,future,invention,innovation,biology,nature,robots,physics,technology,neuroscience"
+"
+","
+","
+","
+",A robot that runs and swims like a salamander,Auke Ijspeert,14:10,"animals,biomechanics,biotech,design,engineering,future,invention,innovation,biology,nature,robots,physics,technology,neuroscience"

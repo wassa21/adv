@@ -1,0 +1,2009 @@
+en,es,tr,fr,de,title,speaker,duration,tags
+"
+","
+","
+","
+","
+",The web as art,Jonathan Harris,20:29,"art,culture,entertainment,global issues,happiness,software,storytelling,web"
+"
+											So I'm going to talk today about collecting stories
+											in some unconventional ways.
+											This is a picture of me from a very awkward stage in my life.
+											You might enjoy the awkwardly tight, cut-off pajama bottoms with balloons.
+											Anyway, it was a time when I was mainly interested
+											in collecting imaginary stories.
+											So this is a picture of me
+											holding one of the first watercolor paintings I ever made.
+											And recently I've been much more interested in collecting stories
+											from reality — so, real stories.
+											And specifically, I'm interested in collecting my own stories,
+											stories from the Internet, and then recently, stories from life,
+											which is kind of a new area of work that I've been doing recently.
+											So I'll be talking about each of those today.
+											So, first of all, my own stories. These are two of my sketchbooks.
+											I have many of these books,
+											and I've been keeping them for about the last eight or nine years.
+											They accompany me wherever I go in my life,
+											and I fill them with all sorts of things,
+											records of my lived experience:
+											so watercolor paintings, drawings of what I see,
+											dead flowers, dead insects, pasted ticket stubs, rusting coins,
+											business cards, writings.
+											And in these books, you can find these short, little glimpses
+											of moments and experiences and people that I meet.
+											And, you know, after keeping these books for a number of years,
+											I started to become very interested in collecting
+											not only my own personal artifacts,
+											but also the artifacts of other people.
+											So, I started collecting found objects.
+											This is a photograph I found lying in a gutter in New York City
+											about 10 years ago.
+											On the front, you can see the tattered black-and-white photo of a woman's face,
+											and on the back it says, ""To Judy, the girl with the Bill Bailey voice.
+											Have fun in whatever you do.""
+											And I really loved this idea of the partial glimpse into somebody's life.
+											As opposed to knowing the whole story, just knowing a little bit of the story,
+											and then letting your own mind fill in the rest.
+											And that idea of a partial glimpse is something
+											that will come back in a lot of the work I'll be showing later today.
+											So, around this time I was studying computer science at Princeton University,
+											and I noticed that it was suddenly possible
+											to collect these sorts of personal artifacts,
+											not just from street corners, but also from the Internet.
+											And that suddenly, people, en masse, were leaving scores and scores
+											of digital footprints online that told stories of their private lives.
+											Blog posts, photographs, thoughts, feelings, opinions,
+											all of these things were being expressed by people online,
+											and leaving behind trails.
+											So, I started to write computer programs
+											that study very, very large sets of these online footprints.
+											One such project is about a year and a half old.
+											It's called ""We Feel Fine.""
+											This is a project that scans the world's newly posted blog entries
+											every two or three minutes, searching for occurrences of the phrases
+											""I feel"" and ""I am feeling."" And when it finds one of those phrases,
+											it grabs the full sentence up to the period
+											and also tries to identify demographic information about the author.
+											So, their gender, their age, their geographic location
+											and what the weather conditions were like when they wrote that sentence.
+											It collects about 20,000 such sentences a day
+											and it's been running for about a year and a half,
+											having collected over 10 and a half million feelings now.
+											This is, then, how they're presented.
+											These dots here represent some of the English-speaking world's
+											feelings from the last few hours,
+											each dot being a single sentence stated by a single blogger.
+											And the color of each dot corresponds to the type of feeling inside,
+											so the bright ones are happy, and the dark ones are sad.
+											And the diameter of each dot corresponds
+											to the length of the sentence inside.
+											So the small ones are short, and the bigger ones are longer.
+											""I feel fine with the body I'm in, there'll be no easy excuse
+											for why I still feel uncomfortable being close to my boyfriend,""
+											from a twenty-two-year-old in Japan.
+											""I got this on some trading locally,
+											but really don't feel like screwing with wiring and crap.""
+											Also, some of the feelings contain photographs in the blog posts.
+											And when that happens, these montage compositions are automatically created,
+											which consist of the sentence and images being combined.
+											And any of these can be opened up to reveal the sentence inside.
+											""I feel good.""
+											""I feel rough now, and I probably gained 100,000 pounds,
+											but it was worth it.""
+											""I love how they were able to preserve most in everything
+											that makes you feel close to nature — butterflies,
+											man-made forests, limestone caves and hey, even a huge python.""
+											So the next movement is called mobs.
+											This provides a slightly more statistical look at things.
+											This is showing the world's most common feelings overall right now,
+											dominated by better, then bad, then good, then guilty, and so on.
+											Weather causes the feelings to assume the physical traits
+											of the weather they represent. So the sunny ones swirl around,
+											the cloudy ones float along, the rainy ones fall down,
+											and the snowy ones flutter to the ground.
+											You can also stop a raindrop and open the feeling inside.
+											Finally, location causes the feelings to move to their spots
+											on a world map, giving you a sense of their geographic distribution.
+											So I'll show you now some of my favorite montages from ""We Feel Fine.""
+											These are the images that are automatically constructed.
+											""I feel like I'm diagonally parked in a parallel universe.""
+											(Laughter)
+											""I've kissed numerous other boys and it hasn't felt good,
+											the kisses felt messy and wrong,
+											but kissing Lucas feels beautiful and almost spiritual.""
+											""I can feel my cancer grow.""
+											""I feel pretty.""
+											""I feel skinny, but I'm not.""
+											""I'm 23, and a recovering meth and heroin addict,
+											and feel absolutely blessed to still be alive.""
+											""I can't wait to see them racing for the first time at Daytona next month,
+											because I feel the need for speed.""
+											(Laughter)
+											""I feel sassy.""
+											""I feel so sexy in this new wig.""
+											As you can see, ""We Feel Fine"" collects
+											very, very small-scale personal stories.
+											Sometimes, stories as short as two or three words.
+											So, really even challenging the notion
+											of what can be considered a story.
+											And recently, I've become interested in diving much more deeply into a single story.
+											And that's led me to doing some work with the physical world,
+											not with the Internet,
+											and only using the Internet at the very last moment, as a presentation medium.
+											So these are some newer projects that
+											actually aren't even launched publicly yet.
+											The first such one is called ""The Whale Hunt.""
+											Last May, I spent nine days living up in Barrow, Alaska,
+											the northernmost settlement in the United States,
+											with a family of Inupiat Eskimos,
+											documenting their annual spring whale hunt.
+											This is the whaling camp here, we're about six miles from shore,
+											camping on five and a half feet of thick, frozen pack ice.
+											And that water that you see there is the open lead,
+											and through that lead, bowhead whales migrate north each springtime.
+											And the Eskimo community basically camps out on the edge of the ice here,
+											waits for a whale to come close enough to attack. And when it does,
+											it throws a harpoon at it, and then hauls the whale up
+											under the ice, and cuts it up.
+											And that would provide the community's food supply for a long time.
+											So I went up there, and I lived with these guys
+											out in their whaling camp here, and photographed the entire experience,
+											beginning with the taxi ride to Newark airport in New York,
+											and ending with the butchering of the second whale, seven and a half days later.
+											I photographed that entire experience at five-minute intervals.
+											So every five minutes, I took a photograph.
+											When I was awake, with the camera around my neck.
+											When I was sleeping, with a tripod and a timer.
+											And then in moments of high adrenaline,
+											like when something exciting was happening,
+											I would up that photographic frequency to as many as
+											37 photographs in five minutes.
+											So what this created was a photographic heartbeat
+											that sped up and slowed down, more or less matching
+											the changing pace of my own heartbeat.
+											That was the first concept here.
+											The second concept was to use this experience to think about
+											the fundamental components of any story.
+											What are the things that make up a story?
+											So, stories have characters. Stories have concepts.
+											Stories take place in a certain area. They have contexts.
+											They have colors. What do they look like?
+											They have time. When did it take place? Dates — when did it occur?
+											And in the case of the whale hunt, also this idea of an excitement level.
+											The thing about stories, though, in most of the existing mediums
+											that we're accustomed to — things like novels, radio,
+											photographs, movies, even lectures like this one —
+											we're very accustomed to this idea of the narrator or the camera position,
+											some kind of omniscient, external body
+											through whose eyes you see the story.
+											We're very used to this.
+											But if you think about real life, it's not like that at all.
+											I mean, in real life, things are much more nuanced and complex,
+											and there's all of these overlapping stories
+											intersecting and touching each other.
+											And so I thought it would be interesting to build a framework
+											to surface those types of stories. So, in the case of ""The Whale Hunt,""
+											how could we extract something like the story of Simeon and Crawford,
+											involving the concepts of wildlife, tools and blood, taking place on the Arctic Ocean,
+											dominated by the color red, happening around 10 a.m. on May 3,
+											with an excitement level of high?
+											So, how to extract this order of narrative from this larger story?
+											I built a web interface for viewing ""The Whale Hunt"" that attempts to do just this.
+											So these are all 3,214 pictures taken up there.
+											This is my studio in Brooklyn. This is the Arctic Ocean,
+											and the butchering of the second whale, seven days later.
+											You can start to see some of the story here, told by color.
+											So this red strip signifies the color of the wallpaper
+											in the basement apartment where I was staying.
+											And things go white as we move out onto the Arctic Ocean.
+											Introduction of red down here, when whales are being cut up.
+											You can see a timeline, showing you the exciting moments throughout the story.
+											These are organized chronologically.
+											Wheel provides a slightly more playful version of the same,
+											so these are also all the photographs organized chronologically.
+											And any of these can be clicked,
+											and then the narrative is entered at that position.
+											So here I am sleeping on the airplane heading up to Alaska.
+											That's ""Moby Dick.""
+											This is the food we ate.
+											This is in the Patkotak's family living room
+											in their house in Barrow. The boxed wine they served us.
+											Cigarette break outside — I don't smoke.
+											This is a really exciting sequence of me sleeping.
+											This is out at whale camp, on the Arctic Ocean.
+											This graph that I'm clicking down here is meant to be
+											reminiscent of a medical heartbeat graph,
+											showing the exciting moments of adrenaline.
+											This is the ice starting to freeze over. The snow fence they built.
+											And so what I'll show you now is the ability to pull out sub-stories.
+											So, here you see the cast. These are all of the people in ""The Whale Hunt""
+											and the two whales that were killed down here.
+											And we could do something as arbitrary as, say,
+											extract the story of Rony, involving the concepts of blood
+											and whales and tools, taking place on the Arctic Ocean,
+											at Ahkivgaq camp, with the heartbeat level of fast.
+											And now we've whittled down that whole story
+											to just 29 matching photographs,
+											and then we can enter the narrative at that position.
+											And you can see Rony cutting up the whale here.
+											These whales are about 40 feet long,
+											and weighing over 40 tons. And they provide the food source
+											for the community for much of the year.
+											Skipping ahead a bit more here, this is Rony on the whale carcass.
+											They use no chainsaws or anything; it's entirely just blades,
+											and an incredibly efficient process.
+											This is the guys on the rope, pulling open the carcass.
+											This is the muktuk, or the blubber, all lined up for community distribution.
+											It's baleen. Moving on.
+											So what I'm going to tell you about next
+											is a very new thing. It's not even a project yet.
+											So, just yesterday, I flew in here from Singapore, and before that,
+											I was spending two weeks in Bhutan, the small Himalayan kingdom
+											nestled between Tibet and India.
+											And I was doing a project there about happiness,
+											interviewing a lot of local people.
+											So Bhutan has this really wacky thing where they base
+											most of their high-level governmental decisions around the concept
+											of gross national happiness instead of gross domestic product,
+											and they've been doing this since the '70s.
+											And it leads to just a completely different value system.
+											It's an incredibly non-materialistic culture,
+											where people don't have a lot, but they're incredibly happy.
+											So I went around and I talked to people about some of these ideas.
+											So, I did a number of things. I asked people a number of set questions,
+											and took a number of set photographs,
+											and interviewed them with audio, and also took pictures.
+											I would start by asking people to rate their happiness
+											between one and 10, which is kind of inherently absurd.
+											And then when they answered, I would inflate that number of balloons
+											and give them that number of balloons to hold.
+											So, you have some really happy person holding 10 balloons,
+											and some really sad soul holding one balloon.
+											But you know, even holding one balloon is like, kind of happy.
+											(Laughter)
+											And then I would ask them a number of questions like
+											what was the happiest day in their life, what makes them happy.
+											And then finally, I would ask them to make a wish.
+											And when they made a wish, I would write their wish
+											onto one of the balloons and take a picture of them holding it.
+											So I'm going to show you now just a few brief snippets
+											of some of the interviews that I did, some of the people I spoke with.
+											This is an 11-year-old student.
+											He was playing cops and robbers with his friends, running around town,
+											and they all had plastic toy guns.
+											His wish was to become a police officer.
+											He was getting started early. Those were his hands.
+											I took pictures of everybody's hands,
+											because I think you can often tell a lot about somebody
+											from how their hands look. I took a portrait of everybody,
+											and asked everybody to make a funny face.
+											A 17-year-old student. Her wish was to have been born a boy.
+											She thinks that women have a pretty tough go of things in Bhutan,
+											and it's a lot easier if you're a boy.
+											A 28-year-old cell phone shop owner.
+											If you knew what Paro looked like, you'd understand
+											how amazing it is that there's a cell phone shop there.
+											He wanted to help poor people.
+											A 53-year-old farmer. She was chaffing wheat,
+											and that pile of wheat behind her
+											had taken her about a week to make.
+											She wanted to keep farming until she dies.
+											You can really start to see the stories told by the hands here.
+											She was wearing this silver ring that had the word ""love"" engraved on it,
+											and she'd found it in the road somewhere.
+											A 16-year-old quarry worker.
+											This guy was breaking rocks with a hammer in the hot sunlight,
+											but he just wanted to spend his life as a farmer.
+											A 21-year-old monk. He was very happy.
+											He wanted to live a long life at the monastery.
+											He had this amazing series of hairs growing out of a mole on the left side of his face,
+											which I'm told is very good luck.
+											He was kind of too shy to make a funny face.
+											A 16-year-old student.
+											She wanted to become an independent woman.
+											I asked her about that, and she said she meant
+											that she doesn't want to be married,
+											because, in her opinion, when you get married in Bhutan as a woman,
+											your chances to live an independent life kind of end,
+											and so she had no interest in that.
+											A 24-year-old truck driver.
+											There are these terrifyingly huge Indian trucks
+											that come careening around one-lane roads with two-lane traffic,
+											with 3,000-foot drop-offs right next to the road,
+											and he was driving one of these trucks.
+											But all he wanted was to just live a comfortable life, like other people.
+											A 24-year-old road sweeper. I caught her on her lunch break.
+											She'd built a little fire to keep warm, right next to the road.
+											Her wish was to marry someone with a car.
+											She wanted a change in her life.
+											She lives in a little worker's camp right next to the road,
+											and she wanted a different lot on things.
+											An 81-year-old itinerant farmer.
+											I saw this guy on the side of the road,
+											and he actually doesn't have a home.
+											He travels from farm to farm each day trying to find work,
+											and then he tries to sleep at whatever farm he gets work at.
+											So his wish was to come with me, so that he had somewhere to live.
+											He had this amazing knife that he pulled out of his gho
+											and started brandishing when I asked him to make a funny face.
+											It was all good-natured.
+											A 10-year-old.
+											He wanted to join a school and learn to read,
+											but his parents didn't have enough money to send him to school.
+											He was eating this orange, sugary candy
+											that he kept dipping his fingers into,
+											and since there was so much saliva on his hands,
+											this orange paste started to form on his palms.
+											(Laughter)
+											A 37-year-old road worker.
+											One of the more touchy political subjects in Bhutan
+											is the use of Indian cheap labor
+											that they import from India to build the roads,
+											and then they send these people home once the roads are built.
+											So these guys were in a worker's gang
+											mixing up asphalt one morning on the side of the highway.
+											His wish was to make some money and open a store.
+											A 75-year-old farmer. She was selling oranges on the side of the road.
+											I asked her about her wish, and she said,
+											""You know, maybe I'll live, maybe I'll die, but I don't have a wish.""
+											She was chewing betel nut, which caused her teeth
+											over the years to turn very red.
+											Finally, this is a 26-year-old nun I spoke to.
+											Her wish was to make a pilgrimage to Tibet.
+											I asked her how long she planned to live in the nunnery and she said,
+											""Well, you know, of course, it's impermanent,
+											but my plan is to live here until I'm 30, and then enter a hermitage.""
+											And I said, ""You mean, like a cave?"" And she said, ""Yeah, like a cave.""
+											And I said, ""Wow, and how long will you live in the cave?""
+											And she said, ""Well, you know,
+											I think I'd kind of like to live my whole life in the cave.""
+											I just thought that was amazing. I mean, she spoke in a way —
+											with amazing English, and amazing humor, and amazing laughter —
+											that made her seem like somebody I could have bumped into
+											on the streets of New York, or in Vermont, where I'm from.
+											But here she had been living in a nunnery for the last seven years.
+											I asked her a little bit more about the cave
+											and what she planned would happen once she went there, you know.
+											What if she saw the truth after just one year,
+											what would she do for the next 35 years in her life?
+											And this is what she said.
+											Woman: I think I'm going to stay for 35. Maybe — maybe I'll die.
+											Jonathan Harris: Maybe you'll die? Woman: Yes.
+											JH: 10 years? Woman: Yes, yes. JH: 10 years, that's a long time.
+											Woman: Yes, not maybe one, 10 years, maybe I can die
+											within one year, or something like that.
+											JH: Are you hoping to?
+											Woman: Ah, because you know, it's impermanent.
+											JH: Yeah, but — yeah, OK. Do you hope —
+											would you prefer to live in the cave for 40 years,
+											or to live for one year?
+											Woman: But I prefer for maybe 40 to 50.
+											JH: 40 to 50? Yeah.
+											Woman: Yes. From then, I'm going to the heaven.
+											JH: Well, I wish you the best of luck with it.
+											Woman: Thank you.
+											JH: I hope it's everything that you hope it will be.
+											So thank you again, so much.
+											Woman: You're most welcome.
+											JH: So if you caught that, she said she hoped to die
+											when she was around 40. That was enough life for her.
+											So, the last thing we did, very quickly,
+											is I took all those wish balloons — there were 117 interviews,
+											117 wishes — and I brought them up to a place called Dochula,
+											which is a mountain pass in Bhutan, at 10,300 feet,
+											one of the more sacred places in Bhutan.
+											And up there, there are thousands of prayer flags
+											that people have spread out over the years.
+											And we re-inflated all of the balloons, put them up on a string,
+											and hung them up there among the prayer flags.
+											And they're actually still flying up there today.
+											So if any of you have any Bhutan travel plans in the near future,
+											you can go check these out. Here are some images from that.
+											We said a Buddhist prayer so that all these wishes could come true.
+											You can start to see some familiar balloons here.
+											""To make some money and to open a store"" was the Indian road worker.
+											Thanks very much.
+											(Applause)
+									","
+											Hoy les hablaré acerca de coleccionar historias
+											en algunas formas no convencionales.
+											Esta es una foto mia de una etapa muy incómoda en mi vida.
+											Ustedes quizás disfruten el pijama extrañamente apretado y corto con globos.
+											De todos modos, fué una etapa en que estaba interesado
+											en coleccionar historias imaginarias.
+											Ésta es una foto mia
+											sosteniendo una de las primeras pinturas de acuarela que alguna vez hice.
+											Y recientemente he estado mucho mas interesado en coleccionar historias
+											de la realidad— es decir, historias reales.
+											Y específicamente estoy interesado en coleccionar mis propias historias,
+											historias del internet, y mas recientemente, historias de la vida,
+											que es una nueva área en la que estoy incursionando.
+											Hoy hablaré de cada una de estas.
+											Primero mis propias historias. Estos son dos de mis cuadernos de notas.
+											Tengo muchos de estos cuadernos,
+											y los he ido conservando los últimos ocho o nueve años.
+											Ellos me acompañan donde quiera que voy en mi vida,
+											y los lleno con cosas de todo tipo,
+											registros de mis experiencias vividas.
+											Pinturas con acuarela, dibujos de lo que veo,
+											flores e insectos muertos, etiquetas, monedas oxidadas,
+											tarjetas de negocios, escritos.
+											Y en estos cuadernos usted puede encontrar breves fragmentos o vistazos
+											de momentos, experiencias y personas que conozco.
+											y despues de mantener estos cuadernos por una cantidad de años,
+											me empecé a interesar por coleccionar
+											no solo mis artefactos personales,
+											sino también los artefactos de otras personas.
+											Así que he empezado a coleccionar objetos encontrados.
+											Esta es una fotografía que encontré tirada en un canal en Nueva York
+											hace unos diez años.
+											En la parte delantera se puede ver la foto a blanco y negro dañada, con la cara de una mujer,
+											y en la parte de atrás dice, ""Para Judy, la joven con la voz de Bill Bailey,
+											Diviértete en lo que sea que hagas"".
+											Y realmente me encantó esta idea de ver un fragmento de la vida de alguien.
+											contrario a saber la historia completa, solo saber un poco de la historia
+											y luego, dejar que tu propia mente complete el resto.
+											Y esa idea de ver sólo un fragmento es algo
+											que volverán a ver en muchos de los trabajos que les estaré enseñando mas adelante en el día de hoy.
+											En ese momento yo estudiaba ciencia de la computación en la Universidad Princeton,
+											y me percaté de que era posible
+											coleccionar estos tipos de artefactos personales,
+											no sólo de las esquinas de las calles, sino también del internet.
+											Y de repente, personas en masa estaban dejando montones y montones
+											de huellas en internet que contaban historias de sus vidas privadas.
+											Publicaciones en blogs, fotografías, pensamientos, sentimientos, opiniones,
+											todo esto estaba siendo expresado por personas en linea,
+											e iban dejando rastros.
+											Así que empecé a escribir programas de computadora
+											que estudian paquetes muy grandes de estas huellas digitales.
+											Uno de estos proyectos tiene alrededor de año y medio.
+											Se llama Nos Sentimos Bien (We Feel Fine).
+											Este proyecto escanea las publicaciones de blogs mas recientes de todo el mundo
+											cada dos o tres minutos, buscando frases como
+											""Yo siento"" y "" Estoy sintiendo"". Y cuando encuentra una de estas frases,
+											toma toda la oración hasta el punto
+											y también trata de identificar información demográfica acerca del autor.
+											Su género, edad, locación geográfica
+											y cuáles eran las condiciones climáticas cuando escribieron la oración.
+											Colecciona alrededor de 20.000 oraciones al día
+											y ha ido corriendo por un año y medio aproximadamente,
+											habiendo coleccionado mas de 10 millones y medio de sentimientos.
+											Así es, entonces, como se presentan.
+											Estos puntos aquí representan algunos de los sentimientos de los angloparlantes
+											de todo el mundo en las últimas horas.
+											Cada punto es una sola oración, publicada por una sola persona.
+											Y el color de cada punto corresponde al tipo de sentimiento,
+											así que los colores brillantes están felices, y los oscuros están tristes.
+											Y el diámetro de cada punto corresponde
+											a la longitud de la oración que contiene.
+											Por lo que, los pequeños puntos son oraciones cortas y los grandes, son oraciones mas largas.
+											""Me siento bien con el cuerpo que tengo, no habría excusa fácil
+											para explicar por qué de todas maneras me siento incómoda estando cerca de mi novio"",
+											Joven de 22 años en Japón,
+											""Adquirí esto en un intercambio local,
+											pero realmente no siento ganas de lidiar con alambres y todo eso"",
+											Algunos de los sentimientos también contienen fotografías en los blogs,
+											y cuando eso pasa, se crean automáticamente estas composiciones montadas
+											que contienen la oración y la imagen combinadas.
+											Cualquiera de estos puede ser abierto para revelar la oración que tiene contiene dentro.
+											""Me siento bien"".
+											""Me siento fuerte ahora, y probablemente aumenté 100.000 libras,
+											pero valió la pena"".
+											""Me encanta como fueron capaces de preservar lo máximo, en todo lo
+											que te hace sentir cerca de la naturaleza—mariposas,
+											bosques hechos por el hombre, cuevas de piedra caliza y, hasta un pitón inmenso"".
+											El próximo movimiento se llama multitudes.
+											Esto brinda una mirada estadística a las cosas.
+											Esto muestra los sentimientos más comunes en el mundo ahora mismo,
+											dominado por mejor, luego mal, luego bien, luego culpable y asi sucesivamente.
+											El clima provoca que los sentimientos asuman los rasgos físicos
+											del clima que representan. Los soleados giran,
+											los nublados flotan, los lluviosos caen,
+											y los de nieve revolotean hasta el suelo.
+											También puedes detener una gota de lluvia y abrir el sentimiento dentro.
+											Finalmente, la locación coloca los sentimientos en sus lugares
+											en un mapa del mundo, dandote una idea de su distribución geográfica.
+											Ahora les enseñaré algunos de mis montajes favoritos de Nos Sentimos Bien.
+											Estas son las imágenes que se construyen automáticamente.
+											""Siento que estoy diagonalmente estacionado en un universo paralelo"".
+											(Risas)
+											""He besado muchos otros hombres y no se ha sentido bien,
+											los besos los he sentido como incorrectos y confusos,
+											pero besar a Lucas se siente hermoso y casi espiritual"".
+											""Puedo sentir mi cáncer crecer "".
+											""Me siento bonita"".
+											""Me siento delgada, pero no lo soy""
+											""Tengo 23 años y soy una drogadicta en recuperacion,
+											y me siento absolutamente bendecida de estar viva"".
+											""No puedo esperar verlos competir por primera vez en Daytona el próximo mes,
+											porque siento la necesidad por la velocidad"".
+											(Risas)
+											""Me siento descarada""
+											""Me siento muy atractiva en esta nueva peluca"".
+											Como pueden ver, Nos Sentimos Bien colecciona
+											historias personales a muy, muy pequeña escala.
+											Algunas veces las historias tienen apenas dos o tres palabras.
+											Así que, realmente reta a la noción
+											de lo que se puede considerar una historia.
+											Y recientemente, me he interesado en profundizar más en una sola historia.
+											Y eso me ha guiado a hacer algunos trabajos con el mundo físico,
+											no con el internet,
+											y usando el internet sólo al final como medio de presentación.
+											Estos son proyectos más nuevos que
+											de hecho, no han sido publicados todavía.
+											El primero de ellos se llama ""Pesca de ballena"".
+											En mayo pasado pasé nueve días viviendo en Barrow, Alaska,
+											el lugar habitado más septentrional de Estados Unidos,
+											con una familia de esquimales Inupiat
+											documentando su pesca anual de ballenas, en primavera.
+											Este es el campamento de pesca, estamos a unas 6 millas de la costa,
+											acampando en una masa de hielo gruesa y congelada, de 5 pies y medio.
+											y esa agua que ves ahí es el camino abierto
+											y a través de ese camino, las ballenas bowhead emigran al Norte cada primavera.
+											y la comunidad esquinal acampa aquí en el borde del hielo,
+											espera que una ballena se acerque, y cuando lo hace,
+											le lanza un arpón, y luego hala la ballena hacia arriba
+											bajo el hielo y la corta.
+											Y eso proveerá comida a la comunidad por mucho tiempo.
+											Así que fui allá y viví con estas personas
+											en su campamento de pesca de ballenas, y fotografié toda la experiencia,
+											empezando con el viaje en taxi al aeropuerto en Nueva York,
+											y terminando con la pesca de la segunda ballena, siete días y medio después.
+											Fotografié la experiencia completa en intervalos de 5 minutos.
+											Es decir que cada 5 minutos, yo tomaba una fotografía.
+											Cuando estaba despierto, con la cámara alrededor de mi cuello;
+											mientras dormía, con un tripode y un cronómetro.
+											Y en momentos de mucha adrenalina,
+											como cuando algo emocionante estaba pasando,
+											subía la frecuencia fotográfica hasta a
+											treinta y siete fotografías en cinco minutos.
+											Así que esto creó un latido fotográfico
+											que aceleraba y disminuía el ritmo, de acuerdo
+											al ritmo cambiante de los latidos de mi corazón.
+											Ese fué el primer concepto aquí.
+											El segungo concepto fue usar la experiencia para pensar sobre
+											los componentes fundamentales de cualquier historia.
+											¿Cuáles son las cosas que crean una historia?
+											Las historias tienen personajes. Tienen conceptos.
+											Las historias suceden en áreas específicas. Tienen contextos.
+											Tienen colores. ¿Cómo se ven?
+											Tienen tiempo. ¿Cuándo ocurrieron? Fechas, ¿cuándo ocurrió?
+											Y en el caso de la pesca de ballenas, también hay un nivel de emoción.
+											Lo que sucede con las historias, en la mayoría de los medios existentes
+											a los que estamos acostumbrados— como novelas, radio,
+											fotografías, peliculas, inclusive charlas como esta—
+											es que estamos muy acostumbrados al narrador, o a la cámara.
+											A un cuerpo externo omnisciente
+											a través del cual vemos la historia.
+											Estamos muy acostumbrados a eso.
+											Pero si vemos la vida real, no es así en lo absoluto.
+											En la vida real, las cosas son más sutiles y complejas,
+											y las historias se superponen
+											intersectándose y tocándose entre ellas.
+											Así que pensé que sería interesante construir un armazón
+											para rescatar esas historias. En el caso de ""La Pesca de Ballenas"",
+											¿cómo podríamos extraer algo como la historia de Simeón y Crawford,
+											tomando los conceptos de vida salvaje, herramientas y sangre, llevándose a cabo en el Océano Ártico,
+											dominado por el rojo, alrededor de las 10 a.m., el tres de mayo,
+											con un alto nivel de emoción?
+											¿Cómo extraer este órden narrativo de esta historia más larga?
+											Construí una interfaz web para ver ""La Pesca de Ballenas"", que intenta hacer eso.
+											Estas son las 3,214 fotos tomadas allá.
+											Este es mi estudio en Brooklyn. Este es el Oceáno Ártico,
+											y la pesca de la segunda ballena, siete días después.
+											Se puede empezar a ver parte de la historia aquí, contada por color.
+											Esta linea roja significa el color del papel tapiz
+											del apartamento donde me estaba quedando.
+											Las cosas se hacen blancas a medida que nos movemos al Oceáno Ártico.
+											El rojo aparece cuando están cortando las ballenas.
+											Se puede ver una línea de tiempo, mostrando los momentos emocionantes en la historia.
+											Están organizados cronológicamente.
+											La rueda proporciona una versión más juguetona de lo mismo,
+											y estas son todas las fotografías organizadas cronológicamente.
+											y a cualquiera de éstas se le puede hacer clic,
+											y se entra a la narrativa en esa posición.
+											Aquí estoy yo durmiendo en el avión, camino a Alaska.
+											El libro es Moby Dick.
+											Esta es la comida que comimos.
+											Esto es la sala de estar de la familia Patkotak
+											en su casa en Barrow. El vino en caja que nos sirvieron.
+											El momento para fumar afuera— Yo no fumo.
+											Esta es una emocionante secuencia mía durmiendo.
+											Esto es en el campamento de pesca de ballena, en el Oceáno Ártico.
+											Este gráfico al que le estoy haciendo clic, alude
+											a un gráfico médico del latido del corazón,
+											que muestra los momentos de adrenalina.
+											Este es el hielo empezando a congelarse. El cercado de nieve que construyeron.
+											Ahora les enseñaré la habilidad para sacar sub-historias.
+											Este es el grupo. Son todas las personas en ""La Pesca de Ballenas"",
+											y aquí abajo están las dos ballenas que fueron matadas.
+											Y podríamos hacer algo arbitrario como, digamos,
+											extraer la historia de Rony*, abarcando los conceptos de sangre
+											y ballenas y herramientas, llevándose a cabo en el Oceáno Ártico,
+											en el campamento de Ahkivgaq, con el ritmo cardíaco alto.
+											Y ahora hemos recortado la historia completa
+											a solo 29 mágicas fotografías,
+											y podemos entrar a la narración en esa posición.
+											Se puede ver a Rony* cortando la ballena aquí.
+											Estas ballenas miden unos 40 pies de largo,
+											y pesan más de 40 toneladas. Ellas proveen fuente de alimento
+											a la comunidad la mayor parte del año.
+											Saltando hacia adelante, este es Rony sobre el cadáver de ballena.
+											Ellos no utilizan sierras eléctricas, sólo usan cuchillas,
+											y es un proceso muy eficiente.
+											Estos son los muchachos abriendo el cadáver con una soga.
+											Este es el muktuk, o la masa, alineada para ser distribuida a la comunidad.
+											Es la ballena. Siguiendo adelante.
+											Lo que les diré a continuación
+											es algo muy nuevo. No es un proyecto aún.
+											Apenas ayer llegué aquí desde Singapur, y antes de eso,
+											pasé dos semanas en Bután, el pequeño reino Himalaya
+											anidado entre el Tibet y la India.
+											Estaba haciendo un proyecto ahí sobre la felicidad,
+											entrevistando mucha gente local.
+											Bután tiene algo un poco fuera de lo normal, y es que ellos basan
+											la mayoría de las decisiones gubernamentales sobre el concepto
+											de felicidad nacional bruta en vez de producto interno bruto,
+											y han venido haciendolo desde los 70.
+											Esto genera un sistema de valores totalmente diferente.
+											Es una cultura increíblemente no materialista
+											donde la gente no tiene mucho, pero es increiblemente feliz.
+											Estuve por allá y hablé con la gente sobre estas ideas.
+											Hice varias cosas. Pregunté a la gente una cantidad de preguntas,
+											y tomé una cierta cantidad de fotografías,
+											y los entrevisté con audio, y también tomé fotografías.
+											Empezaba pidiéndo a las personas que dieran una puntuación a su nivel de felicidad
+											del 1 al 10, lo cual es intrínsecamente absurdo.
+											Y entonces cuando respondían, les inflaba ese número de globos
+											y se los daba para que los sostuvieran.
+											Así que tenemos a alguien realmente felíz sosteniendo 10 globos,
+											y a otra alma, realmente triste sosteniendo sólo un globo.
+											Pero aún sostener un sólo globo, es al menos un poquito feliz.
+											(Risas)
+											Y luego les hacía algunas preguntas como,
+											Cual fue el día mas felíz de sus vidas, qué los hace felices.
+											Y finalmente, les pedía pedir un deseo.
+											y cuando pedían su deseo, lo escribía
+											en uno de los globos y les tomaba una foto sosteniéndolo.
+											Ahora les mostraré breves fragmentos
+											de algunas entrevistas que hice, algunas personas con quienes hablé.
+											Este es un estudiante de once años de edad.
+											Jugaba a policías y ladrones con sus amigos, corriendo por el pueblo,
+											y todos tenían armas de juguete.
+											Su deseo era convertirse en un oficial de la policia.
+											Estaba iniciando a temprana edad. Estas eran sus manos.
+											Tomé fotos de las manos de todos,
+											porque creo que a menudo se puede decir mucho de alguien
+											por cómo se ven sus manos. Tomé un retrato de todos,
+											y les pedí que hicieran una cara graciosa.
+											Estudiante de 17 años de edad. Su deseo era haber nacido varón.
+											Ella piensa que para las mujeres las cosas son bastante duras en Bután,
+											y es mucho más fácil si se es varón.
+											Dueño de una tienda de celulares de 28 años de edad.
+											Si supieran como se veía Paro, entenderían
+											lo increíble que es que haya una tienda de celulares allí.
+											Él quería ayudar a las personas pobres.
+											Granjera de 53 años de edad. Le quitaba cáscaras al trigo,
+											y esa cantidad de trigo detrás de ella
+											le había tomado una semana prepararlo.
+											Ella quería seguir en la agricultura hasta morir.
+											Se empiezan a ver las historias contadas por estas manos.
+											Ella llevaba un anillo de plata con la palabra ""amor"" grabada,
+											lo había encontrado en un lugar del camino.
+											Minero de 16 años.
+											El rompía rocas con un martillo bajo el sol caliente,
+											pero sólo quería pasar su vida como un granjero.
+											Monje de 21 años. Él estaba muy felíz.
+											Quería vivir una larga vida en el monasterio.
+											Tenía unos pelos asombrosos creciendo de un lunar en su rostro,
+											lo que me han dicho que es buena suerte.
+											Era demasiado tímido para hacer un gesto gracioso.
+											Estudiante de 16 años.
+											Quería convertirse en una mujer independiente.
+											Le pregunté acerca de eso y me dijo que ella se refería
+											a que no quiere casarse,
+											pues en su opinión, al una mujer casarse en Bután,
+											las oportunidades de vivir una vida independiente terminan,
+											así que ella no estaba interesada en eso.
+											Chofer de camión de 24 años de edad.
+											Allá hay unos camiones hindúes inmensos
+											que transitan por carreteras de doble sentido,
+											con precipicios de 3,000 pies a los lados,
+											y él manejaba uno de estos camiones.
+											pero sólo quería era vivir una vida cómoda como las demás personas.
+											Barrendera de 24 años de edad. La encontré en su hora de almuerzo.
+											Había hecho un pequeño fuego para mantenerse caliente al lado del camino.
+											Su deseo era casarse con alguien con un automóvil.
+											Ella quería un cambio en su vida.
+											Vive en un pequeño campamento de trabajadores al lado del camino
+											y quería un cambio en las cosas.
+											Granjero itinerante de 81 años de edad.
+											Ví este señor en un lado de la carretera,
+											y de hecho el no tiene hogar.
+											Viaja de granja en granja todos los días buscando trabajo,
+											e intenta dormir en cualquier granja donde consigue trabajo.
+											Su deseo era venir conmigo, para tener un lugar donde vivir.
+											Él tenía un cuchillo increible que sacó de su gho
+											y empezó a mostrarlo cuando le pedí que hiciera una cara graciosa.
+											No lo hizo con malas intenciones.
+											Niño de 10 años.
+											Quería ingresar a una escuela y aprender a leer.
+											pero sus padres no tenían suficiente dinero para enviarlo a la escuela.
+											Él estaba comiendo este dulce anaranjado
+											donde introducía constantemente los dedos,
+											y como habia tanta saliva en sus manos,
+											se formó esta pasta anaranjada en sus manos.
+											(Risas)
+											Un trabajador de la carretera de 37 años de edad.
+											Uno de los temas políticos más sensibles en Bután
+											es el uso de mano de obra barata hindú
+											que importan de la India para construir carreteras,
+											y los regresan a sus casas cuando las carreteras están listas.
+											Estos tipos estaban en el grupo de trabajadores
+											mezclando asfalto una mañana en un lado de la carretera.
+											Su deseo era tener algo de dinero y abrir una tienda.
+											Granjera de 75 años. Vendía naranjas al lado del camino.
+											Le pregunté acerca de su deseo y me dijo,
+											""Sabes que, quizás viva, o quizás me muera, pero no tengo un deseo"".
+											Ella estaba mascando nuez de betel, lo cual hizo que
+											con los años sus dientes se tornaran muy rojos.
+											Finalmente, esta es una monja de 26 años con la que hablé.
+											Su deseo era hacer un peregrinaje al Tibet.
+											Le pregunté por cuánto tiempo pensaba vivir en el convento y me dijo,
+											""Bueno, ya sabes, por supuesto que es impermanente,
+											pero mi plan es vivir aquí hasta que tenga 30 años, y luego entrar en una ermita"".
+											Y le dije, ""¿Como una cueva?"" Y ella me dijo, ""Si, como una cueva"".
+											Y yo dije, ""Wow, y ¿por cuánto tiempo vivirás en la cueva?""
+											Y ella dijo, ""Bueno, pienso que
+											me gustaría vivir toda mi vida en una cueva"".
+											A mi me pareció impresionante. Es decir, ella se expresaba —
+											con un inglés increíble, un gran sentido del humor y una increíble risa—
+											que la hizo ver como alguien a quien me podría haber encontrado en
+											las calles de Nueva York, o en Vermont, de donde soy.
+											Pero había vivido en un convento por los últimos siete años.
+											Le pregunté un poco más acerca de la cueva
+											y qué esperaba hacer una vez que ella estuviera allí.
+											Que pasaría si viera la verdad después de sólo un año,
+											¿que haría en los siguientes 35 años de su vida?
+											Y esto es lo que ella dijo.
+											Mujer: Creo que me quedaré ahi hasta los 35 años, quizás—quizás muera.
+											Jonathan Harris: ¿Quizás te mueras? Mujer: Si.
+											JH: ¿Diez años? Mujer: Si, si. JH: Diez años, eso es mucho tiempo.
+											Si, quizás no uno, sino diez años, quizás me pueda morir
+											dentro de un año o algo parecido.
+											JH: ¿Esperas que sea así?
+											Mujer: Aah, porque tu sabes, es impermanente.
+											JH: Si, pero—si, está bien. Quisieras—
+											¿preferirías vivir en una cueva por 40 años,
+											o vivir por un año?
+											Mujer: Pero prefiero quizás de 40 a 50.
+											JH: ¿De 40 a 50? Si.
+											Mujer: Si. De ahí me voy al cielo.
+											JH: Bueno, te deseo la mejor de las suertes con eso.
+											Gracias.
+											JH: Espero que todo sea lo que esperas que sea.
+											Así que muchas gracias de nuevo.
+											Mujer: Por nada.
+											JH: Así que si entendieron eso, ella dijo que esperaba morir
+											cuando tuviera alrededor de 40. Para ella eso era suficiente.
+											La última cosa que hicimos, muy rápidamente,
+											fué que tomé todos globos— hubo 117 entrevistas,
+											117 deseos— y los traje a un lugar llamado Dochula,
+											que es un pasaje en la montaña en Bután a 10.300 pies,
+											uno de los lugares más sagrados en Bután.
+											Y allá arriba, hay miles de banderas de oración,
+											que las personas han colgado a través de los años.
+											Re-inflamos todos los globos, los pusimos en una cuerda,
+											y los colgamos allá arriba con las banderas de oración.
+											Y aún siguen volando allá arriba hoy.
+											Si alguno de ustedes planea ir a Bután en un futuro cercano,
+											pueden ir a ver esto. Aquí están algunas fotos.
+											Dijimos una oración budista para que se cumplieran todos estos deseos.
+											Se pueden ver algunos globos familiares aquí.
+											""Tener algo de dinero y abrir una tienda"" fue el trabajador hindú.
+											Muchas gracias.
+											(Aplausos)
+									","
+											Bugün, biraz alışılmadık yollarla
+											öykü koleksiyonu yapmaktan bahsedeceğim.
+											Bu, hayatımın çok tuhaf bir döneminde çekilmiş bir fotoğraf.
+											Aşırı dar, kesik, balonlu alt pijamam hoşunuza gidebilir.
+											Neyse, bu dönemde daha cok
+											hayali öyküler biriktirmekle ilgileniyordum.
+											Bu, yaptığım ilk suluboya resimlerden birini
+											tutarken çekilmiş bir fotoğrafim.
+											Ve son zamanlarda gerçek hayattan öyküler, yani gerçek öyküler
+											biriktirmek çok daha fazla ilgimi çekiyor.
+											Ve ilgimi özellikle çeken kendi öykülerimi, internetten bulduğum
+											öyküleri, son zamanlarda da hayattan öyküler biriktirmek,
+											ki bu sonuncusu yeni yeni girdiğim bir calisma alani.
+											Bugün bunlar üzerine konuşacağım.
+											Şimdi, ilk olarak: kendi öykülerim. Bunlar eskiz defterlerimden ikisi.
+											Bu defterlerden bir sürü var bende,
+											neredeyse son 8-9 yıldır tutuyorum bunları.
+											Hayatta nereye gidersem benimle geliyorlar
+											ben de içlerini her cesit şeyle, yasadigim
+											tecrubelerin kayitlariyla dolduruyorum.
+											Yani suluboya resimler, gördüğüm şeylerin çizimleri,
+											ölü çiçekler, ölü böcekler, kullanılmış biletler, paslanmış paralar,
+											kartvizitler, yazılar.
+											Ve bu defterlerin içinde bu anlara, deneyimlere
+											ve tanıştığım insanlara ait anlik goruntuler bulabilirsiniz.
+											Ve bu defterleri birkaç yıl tuttuktan sonra
+											sadece kendi yaptığım şeyleri değil,
+											başka insanların yaptıklarını da toplamak
+											oldukça ilgimi çekmeye başladı.
+											Böylece yolda bulduğum nesneleri biriktirmeye başladım.
+											Bu, yaklaşık 10 yıl önce New York'ta, sokaktaki bir su giderinde
+											bulduğum bir fotoğraf.
+											Önünde bir kadının suratının parçalanmış siyah-beyaz fotoğrafını görüyorsunuz,
+											arkasında da ""Judy'ye, Bill Bailey sesli kıza,
+											Her ne yaparsan eğlenerek yapman dileğiyle,"" yazıyor.
+											Ve bir insanın hayatını kısmi göruntuleri fikri çok hoşuma gidiyor,
+											tüm hikâyeyi bilmenin tersine yalnızca kucuk bir kısmını bilip
+											sonra, gerisini tamamlamayi kendi akliniza birakmak.
+											Ve bu kısmen görme fikri
+											bugün göstereceğim diğer işlerde de sık sık karşılaşacağımız bir şey.
+											Bu sıralarda Princeton Üniversitesi'nde bilgisayar bilimi okuyordum
+											ve aniden, bu tür şahsi eşyaların yalnızca sokak köşelerinden
+											değil, aynı zamanda internetten de
+											biriktilebileceğini fark ettim.
+											Ve bir anda insanların toplu halde internette, özel hayatlarını anlatan
+											bir sürü ama bir sürü dijital ayak izi bıraktığını fark ettim.
+											Blog girişleri, fotoğraflar, düşünceler, duygular, fikirler,
+											bütün bunlar insanlar tarafından internette açıklanıyor
+											ve arkalarından iz bırakıyorlardı.
+											Böylece bu online ayak izlerini çok büyük kümeler
+											halinde inceleyecek bilgisayar programları yazmaya başladım.
+											Bu projelerden biri bir buçuk yaşında.
+											Adı, İyi Hissediyoruz.
+											Bu, dünyadaki yeni girilen blog yazılarını her iki-üç dakikada bir tarayıp
+											""Hissetmekteyim"" ve ""Hissediyorum"" kelimelerini arayan
+											bir proje. Ve bu kelimelerden birini bulduğunda,
+											noktaya kadar tüm cümleyi alıyor ve aynı
+											zamanda yazar hakkında demografik bilgi toplamaya çalışıyor.
+											Yani cinsiyetleri, yaşları, coğrafi konumları
+											ve o cümleyi yazarlarkenki hava koşulu.
+											Günde bunun gibi yaklaşık 20.000 cümle topluyor
+											ve yaklaşık bir buçuk yıl önce başladığı günden bu yana
+											neredeyse 10 buçuk milyon duygu biriktirdi.
+											İşte bu, sunuluş biçimleri.
+											Buradaki noktalar, bazı İngilizce konuşan cevrelerin
+											son saatlerden duygularını temsil ediyor.
+											Her nokta tek bir blogcu tarafından yazılan tek bir cümle oluyor.
+											Ve noktaların renkleri duygunun türüne karsilik geliyor.
+											yani açık renk olanlar mutlu, koyu olanlarsa üzgün.
+											Ve noktaların çapları
+											cümlelerin uzunluğuna karsilik geliyor.
+											Yani küçük olanlar kısa, daha büyük olanlarsa daha uzun.
+											""Icinde oldugum vücutla barışığım, erkek arkadaşımla yakınlaşmanın bana
+											kendimi hâlâ rahatsız hissettirmesi için kolay bir bahane bulamayacağım,""
+											diyor Japonya'dan 22 yaşında biri.
+											""Bunu buralardan değiş tokuş yoluyla aldım
+											ama hiç de kablo veya oyle zirvalarla ugrasacagim gibi gelmiyor.""
+											Aynı zamanda blog girişlerindeki bazı duygular fotoğraf da
+											içeriyorlar, böyle olunca, otomatik olarak cümleyle görseli
+											birleştiren derleme montajlar oluşuyor.
+											Ve bunlardan herhangi biri içindeki cümleyi ortaya cikarmak için açılabilir.
+											""İyi hissediyorum.""
+											""Şu an rahatsiz hissediyorum ve büyük ihtimalle 100.000 kilo aldım,
+											ama buna değdi.""
+											""Kendilerini doğaya yakın hissettiren şeyleri —kelebekleri,
+											insan yapımı ormanlari, kireçtaşı mağralarıni, hatta
+											kocaman bir pitonu— saklayabilmiş olmalarına bayılıyorum.""
+											Bir sonraki olayin adı çeteler.
+											Bu, olan bitene biraz daha istatistiksel bakmamızı sağlıyor.
+											Bu şu an dünyadaki en genel hissedilen duyguyu gösteriyor,
+											çok iyi'nin onculugunde, sonra kötü, sonra iyi, sonra suçlu ve bu sekilde gidiyor.
+											Hava durumu, duyguların, temsil ettikleri havanın fiziksel özelliklerini
+											almalarına neden oluyor. Yani güneşli olanlar fırıl fırıl dönüyor,
+											bulutlu onlarlar kayıp gidiyor, yağmurlu olanlar inis yapiyor,
+											ve karlı olanlar pırpır ederek yere düşüyor.
+											Aynı zamanda bir yağmur damlasını durdurup içindeki duyguya bakabiliyorsunuz.
+											Son olarak, konumları duyguların dünya haritasındaki yerlerini
+											değiştirip size coğrafi dağılımlarıyla ilgili bir fikir veriyor.
+											Şimdi size İyi Hissediyorum'da en sevdigim montajları göstereceğim.
+											Bunlar otomatik olarak yaratılan görseller.
+											""Paralel bir evrende çapraz park edilmişim gibi hissediyorum.""¥
+											(Gülüşmeler)
+											""Başka bir sürü çocukla öpüştüm ve bu iyi hissettirmiyor,
+											o öpücükler pis ve yanlış hissettiriyordu,
+											ama Lucas'ı öpmek güzel ve neredeyse ruhani bir his veriyor.""
+											""Kanserimin ilerledigini hissedebiliyorum.""
+											""Kendimi güzel hissediyorum.""
+											""Kendimi cılız hissediyorum, ama değilim.""
+											""23 yaşında, iyileşmekte olan bir meth ve eroin bağımlısıyım
+											ve hâlâ hayatta olduğum icin kutsanmisim gibi hissediyorum.""
+											""Onları gelecek ay Daytona'da ilk kez yarışırken görmek için sabırsızlanıyorum,
+											çünkü hıza ihtiyac duydugumu hissediyorum.""
+											(Gülüşmeler)
+											""Kendimi arsız hissediyorum.""
+											""Bu yeni perukla kendimi çok seksi hissediyorum.""
+											Gördüğünüz gibi, İyi Hssediyorum çok çok
+											küçük çapta kişisel öyküler topluyor.
+											Bazen iki-üç kelime kısalığında öyküler.
+											Hatta neyin öykü sayılabileceği
+											fikrini bile sorgulatabiliyor gercekten.
+											Ve son zamanlarda tek bir öykünün derinliklerine daha da dalmak ilgimi çekmeye başladı.
+											Ve bu beni, internetle değil de fiziksel dünyayla çalışmaya
+											ve interneti ancak en son anda
+											bir sunum platformu olarak kullanmaya itti.
+											Şimdi bunlar henüz yayınlanmamış
+											daha yeni projeler.
+											İlkinin adı ""Balina Avı"".
+											Geçen Mayıs ayında Barrow, Alaska'da, Amerika'nın
+											en kuzeyindeki yerleşim bölgesinde, bir Inupiat Eskimoları aileyle
+											9 gün geçirip her yıl baharda yaptıkları
+											balina avını görüntüledim.
+											Burası balina avı kampı, kıyıdan yaklaşık 10 kilometre uzaktayız,
+											2 metre kalınlığında buzun üzerinde kamp yapıyoruz.
+											Ve burada gördüğünüz su, buzların arasındaki açık alan
+											ve Bowhead balinaları her baharda bu alandan kuzeye göç ediyorlar.
+											Ve Eskimo halkı burada buzun kenarında kamp kurup balinanın
+											saldırabilecegi kadar yakınlarına gelmesini bekliyor ve geldiğinde
+											onu zıpkınlayıp buzun altından çekerek çıkarıyor
+											ve kesiyor.
+											Ve bu çok uzun bir süre boyunca halka gida temini saglayabilir.
+											İşte ben de oraya gidip bu adamlarla balina
+											kamplarında yaşadım ve New York'taki Newark havaalanına yaptığım
+											taksi yolculuğumdan başlayıp 7 buçuk gün sonra ikinci
+											balinanın kesilmesine kadar yaşadığım her şeyi fotoğrafladım.
+											Tüm macerayı 5 dakikalık aralarla fotoğrafladım.
+											Yani her 5 dakikada bir, bir fotoğraf çektim.
+											Uyanıkken boynumda duran fotoğraf makinesiyle;
+											uyurken tripod ve zamanlayici ile.
+											Ve yüksek adrenalin anlarında,
+											yani mesela heyecan verici bir şeyler yaşanırken,
+											bu fotoğraf ritmini 5 dakikada 37 fotoğrafa
+											kadar çıkardığım oluyordu.
+											Böylece yaratilan bu sey; kendi kalp atışımla
+											az cok senkronize bir şekilde hızlanan ve yavaşlayan
+											fotografik bir kalp atışı olmustu.
+											Burada, ilk dusunce buydu.
+											İkincisi, bu deneyimi herhangi bir öykünün ana bileşenlerinin
+											ne olduğunu düşünmek icin kullanmakti.
+											Bir öyküyü hazirlayan seyler nelerdir?
+											Öykülerde karakterler vardır. Öykülerin konulari vardır.
+											Öyküler belli bir mekânda geçerler. Bağlamları vardır.
+											Renkleri vardır. Neye benzerler?
+											Zamanları vardır. Ne zaman gerçekleşti? Tarihler, ne zaman yaşandı?
+											Ve balina avına gelince, aynı zamanda bir heyecan seviyesi fikri var.
+											Ama yine de oykulerle ilgili durum, alışık olduğumuz mevcut medya
+											araçlarındaki -roman, radyo, fotoğraf, film, hatta bunun
+											gibi konferanslardaki- öykülerde, bir anlatıcı
+											ya da kamera acilari fikrine çok alışık oldugumuz.
+											Öyküyü onun gözlerinden gördüğünüz,
+											her şeyi bilen disaridan biri.
+											Buna çok alışığız.
+											Ama gerçek hayati dusunurseniz, bu hiç de böyle değil.
+											Demek isteğim, gerçek hayatta her şey çok daha incelikli ve karmaşık;
+											ve birbiriyle ortusen, birbiriyle kesişen, birbirine
+											dokunan bir sürü öykü var.
+											Ben de bu tür öyküleri su üstüne çıkaracak bir çerçeve yaratmanın
+											ilginç olabileceğini düşündüm. ""Balina Avı""na gelirsek,
+											Simeon ve Crawford'ın; vahşi hayat, el aletleri ve kan ile dolu,
+											Arktik Okyanusu'nda geçen, kırmızı rengin egemen olduğu, 3 Mayıs'ta
+											sabah 10 civarında gerçekleşen, heyecan dolu
+											oykusu gibi birseyi nasıl çekip çıkarabiliriz?
+											Bu oykuleme duzenini, o büyük öykünün içinden nasıl çıkarabiliriz?
+											""Balina Avı"" için tam da bunu yapmaya çalışan bir web arayüzü geliştirdim.
+											Tüm bu 3,214 fotoğraf orada çekildi.
+											Burası Brooklyn'deki stüdyo dairem. Burası Arktik Okyanusu
+											ve 7 gün sonra ikinci balinanın öldürülüsü.
+											Burada renklerle anlatılan öykünün bir kısmının görmeye baslayabilirsiniz.
+											Bu kırmızı çizgi kaldığım zemin kat dairesinin
+											duvar kâğıdının rengine işaret ediyor.
+											Ve dışarı, Arktik Okyanusu'na doğru gittiğimizde resim beyazlaşıyor.
+											Tam burada, balinalar kesilirken kırmızı başlıyor.
+											Öykünün icinden heyecanlı anları gösteren bir zaman cetveli goruyorsunuz.
+											Bunlar kronolojik sırayla düzenlendi.
+											Çark aynı şeyin biraz daha eğlenceli bir halini sunuyor,
+											yani bunlar da kronolojik sirayla dizilen tum o fotograflar.
+											Ve bunlardan herhangi birine tiklayip
+											oykuye o kismindan girebilirsiniz.
+											Burada Alaska'ya giden uçakta uyuyorum.
+											Önümdeki ""Moby Dick"".
+											Bu yediğimiz yemek.
+											Burasi Patkotak'ların* Barrow'daki evlerinin
+											salonu. Bize ikram ettikleri şarap kutusu.
+											Disarida sigara molası — ben içmiyorum.
+											Bu benim uyuduğum çok heyecanlı bir bölüm.
+											Burası Arktik Okyanusu'ndaki balina kampı.
+											Tıkladığım alttaki bu grafiği, tıbbi kalp atışı
+											grafigine benzetmeye çalıştım,
+											yani yuksek adrenalin dolu anları gösteriyor.
+											Bu, buzun donmaya başlaması. Onlarin yaptıkları kar perdesi.
+											Ve şimdi size gosterecegim sey alt-öyküleri çekip çıkarabilme yetisi.
+											Burada karakterleri görüyorsunuz. Bunlar ""Balina Avı""ndaki tum insanlar,
+											ve öldürülen iki balina burada.
+											Ve, mesela, Rony'nin* kan, balina ve el aletleri
+											kavramlarini içeren, Arktik Okyanusu'ndaki Ahkivgaq
+											kampında geçen, kalp atışı hızlı olan öyküsünü
+											çıkarmak kadar rastgele bir şey yapabiliriz.
+											Ve şimdi tüm öyküyü yalnızca 29 sihirli
+											fotoğrafa indirgediğimize göre,
+											hikayeye o noktadan girebiliriz.
+											Ve burada Rony'yi* balinayı keserken görebilirsiniz.
+											Bu balinalar yaklaşık 12 metre uzunluğunda
+											ve 40 ton ağırlığında. Senenin buyuk bir bolumu boyunca
+											topluluga yiyecek kaynagi sağlıyorlar.
+											Biraz daha ileriye gidersek, burada Rony balina ölüsü üzerinde.
+											Hiç testere ya da başka bir şey kullanmıyorlar, bastan sona yalnızca bıçak
+											ve inanılmaz etkili bir yöntem kullanıyorlar.
+											Bunlar ipi cekerek balinanın gövdesini açan insanlar.
+											Bu bir muktuk, ya da balina yağı, halka bolusturulmek için siralanmis.
+											Balina kemiği. Devam ediyoruz.
+											Sizlere şimdi anlatacağım, çok yeni bir şey.
+											Henüz bir proje bile değil.
+											Daha dün buraya Singapur'dan geldim ve ondan önce,
+											Himalaya'da, Tibet ve Hindistan arasına kurulmus ufak Bhutan
+											Krallığı'nda 2 hafta geçiriyordum.
+											Ve orada mutlulukla ilgili bir proje üzerinde çalisiyordum,
+											yerel halktan bir suru insanla görüşmeler yaptım.
+											Bhutan'da çok kaçık bir sistem söz konusu.
+											Birçok yüksek seviye hükümet kararlarını gayri safi yurtiçi hasılası
+											yerine gayri safi milli mutluluğa bağlı olarak veriyorlar
+											ve bunu 70'lerden beri yapıyorlar.
+											Bu tamamen farkli bir deger sistemine yol aciyor.
+											Inanilmaz derecede materyalist-olmayan bir kültür;
+											insanlarin çok fazla şeye sahip olmadigi ama inanılmaz mutlu olduklari.
+											İşte ben de bunu ele alip, birçok insanla bu fikirlerin bazilari üzerine konuştum.
+											Birkaç şey yaptım. İnsanlara bir dizi onceden hazirlanmis sorular sordum,
+											birkaç belirli fotoğraf çektim ve görüşürken
+											seslerini kaydedip aynı zamanda fotoğraflarını çektim.
+											İlk başta insanlardan mutluluklarına 1 ile 10 arası
+											bir puan vermelerini istiyordum ki bu doğal olarak absürd bir şey.
+											Ve yanıtladıklarında, o kadar sayıda balonu şişirip
+											onlara tutmaları için veriyordum.
+											Böylece çok mutlu bir insanın elinde 10 balon ve çok üzgün
+											birinin elinde 1 balon goruyordunuz.
+											Ama, hani, tek bir balon tutmak bile mutlu bir şey.
+											(Gülüşmeler)
+											Sonra onlara bazı sorular soruyordum, mesela:
+											Hayatlarındaki en mutlu gün hangisiydi, onları mutlu eden şey ne.
+											En sonunda da onlardan bir dilek tutmalarini istiyordum.
+											Ve dilek tuttuklarinda dileklerini balonlardan birine yazıp
+											onlar o balonu tutarken fotoğraflarını çekiyordum.
+											Simdi size konustugum bazi insanlarla yaptigim
+											birkac roportajin ozet bolumlerini gosterecegim.
+											Bu on bir yasinda bir ogrenci.
+											Arkadaslariyla hirsiz-polis oynuyor, kasabada kosusturuyordu,
+											ve hepsi de plastik oyuncak silahlarla oynuyordu.
+											Onun dilegi bir polis memuru olmakti.
+											Erken baslamis. Bunlar onun elleri.
+											Herkesin ellerinin fotografini cektim.
+											cunku birisi hakkinda ellerinin nasil gorunduguyle ilgili
+											bircok sey soyeyebilirsiniz. Herkesi portreden birer kez aldim,
+											ve herkesten komik bir yuz cikarmasini istedim.
+											17 yasinda bir ogrenci. Onun dilegi erkek cocugu olarak dogmus olmakti.
+											Butan'da kadinlar icin gidisatin epeyce zorlu oldugunu dusunuyor,
+											ve bunun eger erkekseniz daha kolay oldugunu.
+											Yirmi sekiz yasinda bir cep telefonu bayii sahibi.
+											Eger Paro'nun nasil gorundugunu bilseydiniz, orada bir cep telefonu
+											bayiinin olmasinin ne kadar sasirtici odugunu anlardiniz.
+											Fakir insanlara yardim etmek istedi.
+											Elli yasinda bir ciftci. Saman copu ayiriyordu,
+											ve arkasindaki bugday yiginini
+											yapmasi yaklasik bir haftasini almisti.
+											Ciftciligi olene kadar surdurmeyi istiyordu.
+											Burada eller tarafindan anlatilan hikayeleri gercekten gormeye baslayabilirsiniz.
+											Uzerine ""ask"" kelimesi kazinmis gumus yuzugu takiyor,
+											ve onu yolda bir yerlerde bulmus.
+											On alti yasinda bir maden ocagi iscisi.
+											Bu adam sicak gunes isigi altinda kayalari cekicle kiriyordu,
+											ama yasamini bir ciftci olarak gecirmek istemisti.
+											Yirmi bir yasinda bir keşiş. Cok mutluydu.
+											Manastirda uzun bi hayat yasamak istiyordu.
+											Yuzunun sol tarafinda buyuyen bir benden disari cikan su inanilmaz killar vardi,
+											bana iyi sans demek oldugu soylenen.
+											Komik surat yapmak icin fazla utangac bir tipti.
+											On alti yasinda bir ogrenci.
+											Bagimsiz bir kadin olmak istiyordu.
+											Ona bunun hakkinda sorular sordum ve sunu demek istedigini soyledi:
+											evlenmek istemedigini,
+											cunku onun fikrince, Butan'da bir kadin olarak evlendiginiz zaman,
+											bagimsiz yasama sansiniz sona eriyor gibi birsey,
+											ve bu yuzden ilgi duymuyordu.
+											Yirmi dort yasinda bir kamyon surucusu.
+											Orada bu korkunc derecede buyuk Hint kamyonlarindan vardi,
+											tek seritli yollarda iki serit trafigi yapip yana yatarak gidiyorlardi,
+											yolun sagindan 3,000 feet alcakliginda,
+											ve o da, bu kamyonlardan birini suruyordu.
+											Ama tek istedigi sadece diger insanlar gibi rahat bir hayat yasamakti.
+											Yirmi dort yasinda bir sokak supurucusu. Onu ogle yemegi molasinda yakaladim.
+											Isinabilmek icin yolun sag yaninda kucuk bir ates yakti.
+											Onun dilegi arabasi olan birisiyle evlenmekti.
+											Hayatinda bir degisiklik istiyordu.
+											Yolun sag tarafinda bir isci kampinda yasiyor ve
+											farkli bir gidisati olsun istiyordu.
+											Yirmi bir yasinda bir gezgin ciftci.
+											Bu adami yolun kenarinda gormustum
+											ve aslinda evi yoktu da.
+											Is bulmak icin her gun ciftlikten ciflige dolasiyordu,
+											ve sonra ne ciftliginde is almissa orada uyumaya calisiyordu.
+											Bu yuzden onun dilegi benimle birlikte gelmekti, boylece yasayacak bir yer bulmus olacakti.
+											kiyafetinin icinden cektigi su ilginc bicagi vardi
+											ve egenceli bir yuz ifadesi sergilemesini istedigimde sallamaya basladi.
+											Tamamen iyi niyetiydi.
+											On yasinda birisi.
+											Okula baslamak ve okumayi ogrenmek istiyordu,
+											ama ebeveynlerinin onu okula gonderecek kadar parasi yoktu.
+											Parmaklariyla kaziyip durdugu
+											portakal sulu seker yiyordu,
+											ve elinde cok fazla tukuruk oldugu icin
+											portakal eriyigi avucunun icinde kalmaya basladi.
+											(Gulusmeler)
+											Otuz yedi yasinda bir yol iscisi.
+											Butan'daki hassas siyasi konulardan birisi Hindistan'dan
+											yollari insa etmek icin ithal edilen ve
+											yollar yapildiktan sonra eve geri
+											gonderilen ucuz Hint isci sinifinin kullanilmasi.
+											Bu adamlar bir sabah anayol tarafinda
+											asfalti karistiran bir isci cetesindeydi.
+											Onun dilegi biraz para biriktirmek ve bir dukkan acmakti.
+											Yetmis bes yasinda bir ciftci. Yolun kenarinda portakal satiyordu.
+											Ona dilegini sordum ve o da dedi ki,
+											""Bilirsin, beki yasayacagim, belki olecegim ama bir dilegim yok.""
+											Hurma cigniyordu ki dislerinin yillar gectikce iyice kirmiziya
+											donmesine bu neden olmustu.
+											Ve son olarak bu da konustugum yirmi alti yasinda bir rahibe.
+											Onun dilegi Tibet'e, hacca gitmekti.
+											Ne kadar daha rahibe manastirinde yasamayi planladigini sordum ona, dedi ki;
+											""Yani, bilirsin, bu kalici degil tabii ki,
+											planim burada otuzuma kadar yasamak ve ondan sonra bir inziva yerine gitmek.""
+											Dedim ki, ""Magara gibi bir yerden mi bahsediyorsun?"" O da, "" Evet, magara gibi."" dedi.
+											Ve ben dedim ki, ""Vay canina, peki ne kadar magarada kalacaksin?""
+											Dedi ki, ""Guzel, bilirsin, butun hayatimi
+											o magarada yasamak gibi birsey dusunuyorum.""
+											Bunun hayret verici oldugunu dusundum. Yani, konusmasi onu bir sekilde —
+											sasirtici bir Ingilizce, sasirtici bir mizah ve sasirtici kahkahasi ile —
+											New York'un ya da -benim geldigim- Vermont'un
+											sokaklarinda rastlayabiecegim turden birisi gibi yapiyordu.
+											Ama o son yedi senedir burada bir rahibe manastirinda yasiyordu.
+											Magara hakkinda biraz daha sordum ona
+											ve oraya gittiginde neler olabilecegini planladigi hakkinda, bilirsiniz.
+											Peki ya sadece bir sene sonra gercegi gorurse,
+											hayatinin kalan 35 yilinda ne yapardi?
+											Ve bunlar da onun soyledikleri.
+											Kadin: Otuz bes sene kalacagimi dusunuyorum — belki olurum.
+											Jonathan Harris: Belki olur musun? Kadin: Evet.
+											JH: On sene? Kadin: Evet, evet. JH: On sene, uzun bir sure bu.
+											Kadin: Evet, belki de bir, on sene degil, belki bir sene icinde
+											olebilirim, ya da onun gibi birsey.
+											JH: Oyle mi umit ediyorsun?
+											Kadin: Aa, cunku bildigin gibi, bu gecici.
+											JH: Evet, ama evet de, tamam. Umuyor musun —
+											magarada kirk sene mi yoksa bir sene boyunca mi
+											yasamayi tercih ederdin?
+											Kadin: Ama kirk-elli'yi falan tercih ederim.
+											JH: Kirk-elli? Guzel.
+											Kadin: Evet. Ondan sonra cennette olacagim.
+											JH: Peki, bu konuda en iyi sans dileklerimle.
+											Kadin: Tesekkur ederim.
+											JH: Umarim ki diledigin hersey gerceklesir.
+											Ve tekrar tesekkurler, cok sagol.
+											Kadin: Hic onemli degil.
+											JH: Eger yakaladiysaniz kirk civarina geldigi zaman olmeyi
+											umdugunu soyledi. Bu onun icin yeterli bir yasam suresiydi.
+											Ve yaptigimiz son sey, cok hizlica,
+											butun bu dilek balonarini aldim — 117 tane roportajdi,
+											117 dilek — ve onlari Dochula diye isimlendirilen bir yere goturdum,
+											Butan da 10,300 feet yuksekliginde bir dag gecidi orasi,
+											Butan'daki en kutsal yererden birisi.
+											Ve burada binlerce duaci bezi var ki
+											insanlar yillardir yaymislar.
+											Ve biz butun balonlari yeniden sisirdik, onlari bir iplige dizdik
+											ve onari duaci bezlerinin arasina tutturduk.
+											Ve aslina bakarsaniz hala orada dalgalaniyorlar.
+											Yani herhangi birinizin yakin bir gelecekte Butan'a seyahat planlari varsa,
+											bunlari kontrol etmeye gidebilirsiniz. Iste birkac goruntusu.
+											Budist bir duaciya soyledik, bu yuzden butun bu dilekler gercege donusebilir.
+											Burada birkac tanidik balon gormeye baslayabilirsiniz.
+											Hintli yol iscisinden ""Biraz para biriktirmek ve bir dukkan acmak""
+											Cok tesekkurler.
+											(Alkislar)
+									","
+											Donc je vais parler aujourd'hui du recueil d'histoires
+											de façon peu conventionnelle.
+											Voici une photo de moi quand j'étais dans l'âge ingrat.
+											Vous apprécierez les pyjamas affreusement justes et serrés avec des ballons.
+											Peu importe. C'était une époque durant laquelle je m'intéressais particulièrement
+											à recueillir des histoires imaginaires.
+											Donc voici une photo de moi
+											tenant une de mes toutes premières aquarelles.
+											Et récemment je me suis beaucoup plus intéressé à recueillir des histoires
+											de la réalité — donc, de vraies histoires.
+											Et plus exactement, je m'interesse au recueil de mes propres histoires,
+											des histoires tirées d'internet, et plus récemment, des histoires de la vie,
+											ce qui représent un nouvel espace de travail dont je m'occupe depuis peu.
+											Donc je vais en parler aujourd'hui.
+											Alors, premièrement — mes propres histoires. Voici deux de mes cahiers de dessin.
+											J'en ai beaucoup,
+											et je les conserve depuis ces huit ou neuf dernières années.
+											Ils m'accompagnent où que j'aille dans la vie,
+											et je les remplis de toute sorte de choses,
+											des archives de mes expériences personnelles.
+											Des aquarelles, des dessins de ce que je vois,
+											des fleurs séchées, des insectes morts, des tickets collés, des pièces qui rouillent,
+											des cartes de visite, des écrits.
+											Et dans ces cahiers vous pouvez trouver ces petits aperçus
+											des moments et des expériences et des personnes que je rencontre.
+											Et, vous savez, après avoir gardé ces cahiers pendant un certain nombre d'années,
+											j'ai commencé à m'intéresser au recueil de
+											non seulement mes propres artéfacts,
+											mais aussi ceux des autres.
+											Alors j'ai commencé à collectionner des objets trouvés.
+											Voici une photo que j'avais trouvé gisant dans une gouttière à New York
+											il y a environs dix ans.
+											Au recto vous pouvez voir la photo en lambeaux en noir et blanc du visage d'une femme,
+											et au verso, il est écrit, ""A Judy, la fille à la voix de Bill Bailey,
+											Profite à fond de ce que tu fais.""
+											Et j'ai vraiment aimé l'idée d'un aperçu partiel de la vie de quelqu'un d'autre,
+											en opposition à connaître toute l'histoire; juste connaître un petit bout de l'histoire
+											et laisser son esprit en compléter le reste.
+											Et cette idée d'un aperçu partiel est quelque chose
+											qui reviendra beaucoup dans le travail dont je vais vous parler dans quelques instants.
+											Donc à cette époque-là j'étudiais l'informatique à Princeton,
+											et j'ai remarqué que, tout à coup, il était possible
+											de recueillir ce genre d'objets personnels,
+											non seulement des coins de rue, mais aussi d'internet.
+											Et que, tout à coup, des masses de gens laissaient des milliers et des milliers
+											d'empreintes digitales en ligne qui racontaient l'histoire de leur vie.
+											Des blogs, des photos, des pensées, des sentiments, des opinions,
+											toutes ces choses-là étaient exprimées en ligne par des gens,
+											et laissaient des traces derrière.
+											Alors j'ai commencé à écrire des logiciels
+											qui étudient des échantillons très très larges de ces empreintes sur le web.
+											Un de ces projets date d'un an et demi.
+											Ça s'appelle ""We Feel Fine"" (""Nous allons bien"").
+											C'est un projet qui scanne les articles de blog les plus récents dans le monde
+											toutes les deux ou trois minutes, cherchant les occurrences des locutions
+											""I feel"" et ""I am feeling"" (""je me sens...""). Et quand il trouve une de ces phrases
+											il prend toute la phrase jusqu'à la fin
+											et essaie aussi d'identifier les informations démographiques de l'auteur.
+											Donc, le sexe, l'âge, et l'emplacement géographique
+											et aussi quel temps il faisait quand l'auteur a écrit cette phrase.
+											Il recueille près de 20 000 phrases par jour
+											et le logiciel est en marche depuis un an et demi,
+											et a recueilli plus de dix millions et demi de sentiments aujourd'hui.
+											Voilà comment ils sont ensuite présentés.
+											Les points ici représentent les sentiments d'une partie
+											du monde anglophone datant de quelques heures.
+											Chaque point est une phrase unique, exprimée par un seul blogueur.
+											Et la couleur de chaque point correspond au type de sentiment,
+											alors les couleurs vives représentent la joie, et les couleurs sombres la tristesse.
+											Et le diamètre de chaque point correspond
+											à la longueur de la phrase.
+											Donc les petits points sont des phrases courtes, les plus gros des phrases plus longues.
+											""Je me sens bien dans ma peau, mais c'est difficile d'expliquer
+											pourquoi je me sens toujours aussi mal à l'aise dans l'intimité avec mon copain,""
+											phrase d'une personne de 22 ans au Japon.
+											""J'ai eu cela d'un commerce local,
+											mais je me sens pas d'humeur à bricoler.""
+											Quelques-uns de ces sentiments sont illustrés par des photos dans les blogs
+											et quand c'est le cas, des montages sont automatiquement créés,
+											qui consistent en la combinaison de la phrase et de l'image.
+											Et on peut les ouvrir pour en dévoiler le contenu.
+											""Je me sens bien.""
+											""Je me sens pas très bien maintenant, j'ai probablement pris 100 000 kilos,
+											mais ça valait le coup.""
+											""J'aime comment ils ont pu préserver le plus possible de chaque chose
+											qui fasse qu'on se sente plus proche de la nature — les papillons,
+											les forêts artificielles, les caves calcaires, et devinez quoi, même un énorme python.""
+											Donc le prochain mouvement s'appelle ""mobs"" (""foules"").
+											Cela donne un point de vue légèrement plus statistique.
+											Voilà les sentiments les plus communs du monde en ce moment,
+											dominés par ""mieux"", puis ""mal"", puis ""bien"", puis ""coupable"", etc.
+											La météo donne aux sentiments les traits physiques
+											du temps qu'ils représentent. Donc ceux qui sont ensoleillés dansent,
+											les nuageux flottent, les pluvieux tombent,
+											et les enneigés tourbillonnent jusqu'au sol.
+											On peut aussi arrêter une goutte de pluie et ouvrir le sentiment à l'intérieur.
+											Finalement, l'emplacement géographique permet aux sentiments de se positionner
+											sur une carte du monde, donnant ainsi une idée de leur répartition géographique.
+											Donc je vais vous montrer quelques-uns de mes montages préférés de ""We Feel Fine"".
+											Ce sont des images qui ont été construites automatiquement.
+											""Je me sens comme casé en diagonale dans un monde parallèle.""
+											(Rires)
+											""J'ai embrassé beaucoup d'autres gars, et ce n'était pas bien,
+											les baisers étaient brouillons et incorrects,
+											mais embrasser Lucas semble beau et presque spirituel.""
+											""Je sens grandir mon cancer.""
+											""Je me sens jolie.""
+											""Je me sens maigrichonne, mais je ne le suis pas.""
+											""J'ai 23 ans, et je me remets de ma dépendance aux méthamphétamines et à l'héroine,
+											et je me sens bénie d'être en vie.""
+											""Je suis impatient de les voir concourir pour la première fois à Daytona le mois prochain,
+											parce que je ressens un besoin de vitesse.""
+											(Rires)
+											""Je me sens classe.""
+											""Je me sens tellement sexy avec cette nouvelle perruque.""
+											Comme vous pouvez le voir, ""We Feel Fine"" recueille
+											des histoires personnelles à petite échelle.
+											Parfois des histoires d'à peine deux ou trois mots.
+											Et ainsi, défiant la notion
+											de ce qu'est une histoire.
+											Et depuis peu, je m'intéresse plus à explorer plus profondément une seule histoire.
+											Et cela m'a amené à travailler sur le monde réel,
+											et non sur internet,
+											et à utiliser internet seulement au dernier moment comme un moyen de présentation.
+											Donc ce sont de nouveaux projets qui
+											n'ont pas encore été lancés publiquement.
+											Le premier de la sorte s'appelle ""The Whale Hunt"" (""La Chasse aux Baleines"")
+											En mai dernier, j'ai passé neuf jours à Barrow, en Alaska,
+											le hameau le plus au nord des Etats-Unis,
+											avec une famille d'Esquimaux Inupiat,
+											relatant leur chasse à la baleine annuelle au printemps.
+											Voici le camp de chasse, à quelques neuf kilomètres du rivage,
+											où nous campons sur de la glace épaisse de plus d'un mètre cinquante.
+											Et cette eau que vous voyez est la piste ouverte
+											à travers laquelle les baleines Bowhead migrent vers le nord au printemps.
+											Et la communauté Esquimaude campent au bord de la glace ici,
+											et attend qu'une baleine arrive assez près pour l'attaquer,
+											et il lui lance un harpon, et la hisse à la surface,
+											et la découpe.
+											Et cela constituera la réserve de nourriture de la communauté pendant un bon bout de temps.
+											Donc je suis allé tout au nord, et j'ai vécu avec ces gens
+											dans leur camp de chasse, et j'ai photographié toute cette expérience,
+											en commençant par le trajet en taxi jusqu'à l'aéroport de Newark à New York,
+											et finissant avec la boucherie de la deuxième baleine, sept jours et demi plus tard.
+											J'ai photographié toute cette expérience avec des intervalles de cinq minutes.
+											Donc toutes les cinq minutes, j'ai pris une photo.
+											Quand j'étais éveillé, j'avais l'appareil autour du cou;
+											quand je dormais, c'était avec un trépied et un minuteur.
+											Et puis dans des moments de grande excitation,
+											quand quelque chose d'important se passait,
+											j'augmentais la fréquence de prise de photo
+											à presque 37 photos en 5 minutes.
+											Donc ceci a créé des battements de coeur photographiques
+											qui s'accéléraient et ralentissaient, plus ou moins en accord
+											avec le changement de mon propre pouls.
+											Voilà donc le premier concept.
+											Le second concept était d'utiliser cette expérience pour réfléchir
+											sur les composants de base de toute histoire.
+											Quelles sont les choses qui font une histoire?
+											Les histoires ont des personnalités. Les histoires ont des concepts.
+											Les histoires se passent dans un endroit précis. Elles connaissent des contextes.
+											Elles ont des couleurs. A quoi ressemblent-elles?
+											Elles ont un temps. Quand ça s'est passé? Des dates, quand est-ce que c'est survenu?
+											Et dans le cas d'une chasse à la baleine, nous avons aussi l'idée d'un seuil d'excitation.
+											Le truc à propos des histoires, c'est qu'à travers la plupart des médias existants
+											auxquels nous sommes habitués — les romans, la radio,
+											les photos, les films, même les conférences comme celle-ci —
+											nous sommes habitués à cette idée du point de vue du narrateur, ou de la position de la caméra.
+											Comme une sorte de corps externe omniscient
+											à travers les yeux duquel on voit l'histoire.
+											Nous sommes très habitués à cela.
+											Mais si nous pensons à la vie réelle, ça n'est pas comme ça.
+											Je veux dire que dans la vie réelle, les choses sont plus complexes et nuancées,
+											et nous avons beaucoup de ces histoires qui se superposent,
+											se croisent et se touchent.
+											Et donc j'ai pensé que ça serait intéressant de construire une structure
+											pour représenter toutes ces sortes d'histoires. Dans le cas de la ""Chasse à la Baleine"",
+											comment pouvions-nous extraire l'histoire de Simeon et Crawford,
+											incluant les concepts de vie sauvage, d'outils et de sang, tout cela se passant dans l'océan arctique,
+											tout cela dominé par le rouge, et se passant aux alentours de 10h00, le 3 mai,
+											avec un seuil d'excitation élevé?
+											Donc comment extraire cette ordre narrative de cette histoire plus grande?
+											J'ai construit une interface web pour visualiser ""La Chasse à la Baleine"" qui essaie de le faire.
+											Donc voici les 3.214 photos prises.
+											Voici mon studion à Brooklyn. Voici l'océan arctique,
+											et la boucherie de la deuxième baleine, sept jours plus tard.
+											Vous pouvez déjà voir une partie de l'histoire ici, comme démontré par les couleurs.
+											Cette bande rouge est la couleur du papier peint
+											dans l'appartement au sous-sol où j'habitais.
+											Et les choses deviennent blanches à mesure que nous bougeons vers l'océan arctique.
+											L'introduction du rouge ici, quand les baleines sont découpées.
+											Vous pouvez voir une ligne temporelle, montrant les moments d'excitation à travers l'histoire.
+											Et ces photos sont classées de façon chronologique.
+											La visualisation en roue en donne une version plus enjouée,
+											ce sont aussi toutes les photos classées chronologiquement.
+											Et on peut cliquer sur chacune d'elles,
+											c'est alors que la narration est introduite.
+											Ici je suis en train de dormir dans l'avion en direction de l'Alaska.
+											Voici Moby Dick.
+											Voici notre nourriture.
+											Voici le salon de la famille Patkotak
+											dans leur maison à Barrow. Le vin qu'ils nous ont servi.
+											Une pause clope dehors — je ne fume pas.
+											Voici une séquence de moi en train de dormir.
+											Là on est au camp, sur l'océan arctique.
+											Le graphique sur lequel je clique représente ici
+											le graphique médical des battements de coeur,
+											montrant les moments de pure adrénaline.
+											Voici la glace qui commence à geler. La barrière de glace qu'ils ont construite.
+											Et donc je vais vous montrer maintenant comment extraire des histoires secondaires.
+											Vous voyez ici le casting. Toutes les personnes de la Chasse,
+											et les deux baleines qui ont été tuées.
+											Nous pourrions faire une chose aussi arbitraire que, disons,
+											extraire l'histoire de Rony, qui met en scène des concepts de sang
+											et de baleines et d'outils, tout cela se passant dans l'océan arctique,
+											au camp Ahkivgaq, avec des battements de coeur accélérés.
+											Et maintenant nous avons réduit toute cette histoire
+											à seulement 29 photos magiques,
+											et nous pouvons entrer dans la trame narrative à cet endroit.
+											Et vous pouvez voir Rony qui découpe la baleine ici.
+											Les baleines font douze mètres de long,
+											et pèsent plus de quarante tonnes. Et elles sont la source de nourriture
+											de la communauté pour une grande partie de l'année.
+											Si nous avançons un peu, voici Rony sur la carcasse de la baleine.
+											Ils n'utilisent pas de scies, que des lames,
+											et un procédé incroyablement efficace.
+											Voici les gars qui tirent sur la corde, pour ouvrir la carcasse.
+											Le muktuk, ou le blanc de baleine, aligné pour la distribution à la communauté.
+											C'est de la baleine. Continuons.
+											Ce dont je vais vous parler maintenant
+											est une chose très nouvelle. Ce n'est pas encore un projet.
+											Hier encore, j'arrivais de Singapour, et avant cela,
+											je passais deux semaines au Bhoutan, le petit royaume
+											niché entre le Tibet et l'Inde.
+											Et j'y faisais un projet sur le bonheur,
+											j'interviewais beaucoup de natifs.
+											Le Bhoutan a cette pratique incroyable de baser
+											la plupart de leurs plus importantes décisions gouvernementales sur le concept
+											de bonheur national brut à la place du PIB,
+											et ils font cela depuis les années 70.
+											Et cela amène à un système de valeurs totalement différent.
+											C'est une culture incroyablement non-matérialiste
+											où les gens ne possèdent pas beaucoup, mais ils sont incroyablement heureux.
+											J'ai parcouru le pays et j'ai parlé aux gens de quelques-unes de ces idées.
+											J'ai fait une série de choses. J'ai posé aux gens une série de questions,
+											et j'ai pris des séries de photos,
+											et je les ai interviewés en les enregistrant, et j'ai aussi pris des photos d'eux.
+											Je commençais par leur demander de noter leur bonheur
+											sur une échelle d'un à dix, ce qui est plutôt absurde.
+											Et quand ils répondaient, je gonflais le nombre de ballons
+											et les leur donnais.
+											Donc voici des personnes très heureuses qui tiennent dix ballons,
+											et quelque pauvre âme ayant un seul ballon.
+											Mais vous savez, même tenir un seul ballon est quelque peu bienheureux.
+											(Rires)
+											Et je leur posais alors une série de questions, par exemple,
+											quel était le jour le plus heureux de leur vie, qu'est-ce qui les rend heureux.
+											Et finalement, je leur demandais de faire un voeu.
+											Et quand ils faisaient un voeu, je l'écrivais
+											sur un des ballons et je prenais une photo d'eux le tenant.
+											Je vais maintenant vous montrer quelques brefs moments
+											de quelques interviews que j'ai faites, des quelques personnes avec qui j'ai parlé.
+											Voici un écolier de onze ans.
+											Il jouait aux gendarmes et aux voleurs avec ses amis, courant à travers la ville,
+											et ils avaient des pistolets en plastique.
+											Son souhait était de devenir gendarme.
+											Il s'y mettait tôt. Voici ses mains.
+											J'ai pris des photos des mains de tout le monde,
+											parce que je pense que l'on peut dire beaucoup de quelqu'un
+											rien qu'en regardant ses mains. J'ai pris un portrait de chacun,
+											et j'ai demandé à chacun de faire une grimace.
+											Une étudiante de 17 ans. Son voeu aurait été de naître en garçon.
+											Elle pense que les femmes n'ont pas la vie facile au Bhoutan,
+											et que les choses sont plus faciles si on est un garçon.
+											Un propriétaire de magasin de téléphones mobiles de 28 ans.
+											Si vous saviez comment était Paro, vous comprendriez
+											à quel point c'était fascinant qu'il y ait un magasin de téléphones mobiles là-bas.
+											Il voulait aider les pauvres.
+											Une fermière de 53 ans. Elle triait le blé,
+											et cette pile de blé derrière elle
+											lui a pris près d'une semaine.
+											Elle voulait continuer à être fermière jusqu'à sa mort.
+											Vous pouvez vraiment voir les histoires racontées à travers les mains ici.
+											Elle portait cet anneau en argent qui avait le mot ""amour"" gravé dessus,
+											et qu'elle avait trouvé sur une route quelconque.
+											Un travailleur de carrière de 16 ans.
+											Ce gars brisait les roches avec un marteau en plein soleil,
+											mais il voulait juste passer sa vie à être fermier.
+											Un moine de 21 ans. Il était très heureux.
+											Il voulait vivre une longue vie au monastère.
+											Il avait cette touffe incroyable de poils qui poussait d'un grain de beauté sur la partie gauche de son visage,
+											qu'il m'a dit être ""porte bonheur"".
+											Il était trop timide pour faire une grimace.
+											Une étudiante de 16 ans.
+											Elle voulait devenir une femme indépendante.
+											Je l'ai questionnée là-dessus, et elle a dit qu'elle voulait dire
+											qu'elle ne voulait pas se marier,
+											parce que, d'après elle, quand vous vous mariez au Bhoutan en tant que femme,
+											vos chances de vivre une vie indépendante s'évaporent plus ou moins,
+											et donc elle n'y voyait aucun intérêt.
+											Un camionneur de 24 ans.
+											Voici des camions indiens terriblement énormes
+											qui roulent sur des routes à une voie comme si elles en avaient deux,
+											avec des chutes de 900 mètres juste à côté de la route,
+											et il conduisait un de ces camions.
+											Mais tout ce qu'il voulait c'était vivre une vie confortable comme les autres.
+											Une balayeuse de 24 ans. Je l'ai rencontrée pendant sa pause déjeuner.
+											Elle avait fait un petit feu pour se garder au chaud.
+											Son voeu était d'épouser quelqu'un qui aurait une voiture.
+											Elle voulait changer de vie.
+											Elle vit dans un petit camp de travailleurs à côté de la route,
+											et elle voulait connaître autre chose.
+											Un fermier nomade de 81 ans.
+											J'ai vu cet homme sur le bord de la rue,
+											et il n'a pas de maison.
+											Il voyage de ferme en ferme chaque jour pour trouver du travail,
+											et il essaie de dormir là où il trouve du travail.
+											Donc son voeu a été de venir avec moi, comme ça il aurait eu un toit.
+											Il avait ce magnifique couteau qu'il a retiré de son gho
+											et qu'il a brandi quand je lui ai demandé de faire une grimace.
+											Rien de méchant.
+											Un gosse de 10 ans.
+											Il voulait aller à l'école et apprendre à lire,
+											mais ses parents n'avaient pas assez d'argent pour l'envoyer à l'école.
+											Il mangeait cette friandise orange
+											dans laquelle il mettait les doigts,
+											et comme il y avait trop de salive sur ses mains,
+											cette croûte orange a commencé à se former sur ses paumes.
+											(Rires)
+											Un travailleur de 37 ans.
+											Un des sujets les plus sensibles au Bhoutan
+											est l'utilisation de main-d'oeuvre indienne bon marché
+											qu'on importe d'Inde pour construire les routes,
+											et quand les routes sont faites, on les renvoie chez eux.
+											Donc ces hommes étaient dans une bande de travailleurs
+											qui mélangeaient l'asphalt un matin au bord de la rue.
+											Son souhait était de se faire un peu d'argent et d'ouvrir une boutique.
+											Une fermière de 75 ans. Elle vendait des oranges sur la route.
+											Je lui ai demandé quel est son voeu, et elle a dit,
+											""Tu sais, peut-être que je vais vivre, peut-être que je vais mourir, mais je n'ai pas de voeu.""
+											Elle mâchait de la noix de bétel, ce qui rendait ses dents
+											rouges au fil des années.
+											Finalement, voici une nonne de 26 ans à qui j'ai parlé.
+											Son voeu était d'aller en pélerinage au Tibet.
+											Je lui ai demandé pendant combien de temps elle pensait vivre au couvent, et elle a dit,
+											""Bah, vous savez, bien sûr que ce n'est pas permanent,
+											mais je projette de vivre ici jusqu'à mes trente ans, et ensuite d'entrer à l'ermitage.""
+											Et j'ai dit, ""Vous voulez dire, comme une cave?"" Et elle a dit, ""Oui, comme une cave.""
+											Et j'ai demandé, ""Wow, et combien de temps pensez-vous vivre dans la cave?""
+											Et elle a répondu, ""Vous savez,
+											je pense que j'aimerais vivre toute ma vie dans une cave.""
+											J'ai pensé que c'était magnifique. Je veux dire, elle parlait d'une telle façon —
+											avec un anglais magnifique, un sens de l'humour magnifique, et un rire magnifique —
+											qui faisait d'elle quelqu'un que j'aurais pu rencontrer
+											dans les rues de New York, ou de Vermont, là d'où je viens.
+											Mais là elle vivait dans un couvent depuis sept ans.
+											Je lui ai demandé un peu plus sur la cave
+											et ce qu'elle envisageait comme avenir quand elle y serait.
+											Que se passerait-il si elle voit la vérité après tout juste un an,
+											que ferait-elle pendant les 35 années suivantes de sa vie?
+											Et voici ce qu'elle a dit.
+											La femme: Je pense que je vais y rester pendant 35 ans, peut-être — peut-être que je mourrai.
+											Jonathan Harris: Peut-être que vous mourrez? La femme: Oui.
+											JH: Dix ans? La femme: Oui, oui. JH: Dix ans, c'est beaucoup de temps.
+											La femme: Oui, mais peut-être pas une ou dix ans, peut-être que je mourrai
+											au bout d'un an, ou quelque chose du genre.
+											JH: L'espérez-vous?
+											La femme: Ah, vous savez, ce n'est pas permanent.
+											JH: Oui, mais — oui, d'accord. Espérez-vous —
+											préféreriez-vous vivre dans la cave pendant quarante ans,
+											ou vivre pendant un an?
+											La femme: Mais je préfère quarante à cinquante ans.
+											JH: Quarante à cinquante? OK.
+											La femme: Oui. De là j'irai au paradis.
+											JH: Bien, je vous souhaite bonne chance.
+											La femme: Merci.
+											JH: J'espère que ça sera comme vous le souhaitez.
+											Donc merci encore, merci beaucoup.
+											La femme: De rien.
+											Donc si vous avez bien saisi, elle a dit qu'elle espérait mourir
+											quand elle aurait quarante ans. C'était assez vivre pour elle.
+											Donc la dernière chose qu'on a faite, très vite,
+											c'était de prendre tous ces ballons avec les voeux — il y avait eu 117 interviews,
+											117 voeux — et je les ai apportés à un endroit appelé Dochula,
+											qui est un sentier de montagne au Bhoutan à 10 300 pieds d'altitude,
+											un des endroits les plus sacrés au Bhoutan.
+											Et en haut, il y a des milliers de drapeaux de prières
+											que les gens y ont mis au fil du temps.
+											Et nous avons re-gonflé les ballons, et nous les avons mis sur une ficelle,
+											et les avons attachés parmi les drapeaux de prières.
+											Et ils y sont toujours aujourd'hui.
+											Donc si l'un d'entre vous va au Bhoutan un de ces jours,
+											allez les voir. En voici quelques images.
+											Nous avons prononcé une prière bouddhiste pour que tous ces voeux se réalisent.
+											Vous pouvez voir quelques-uns des ballons qui vous sont familiers ici.
+											""Se faire un peu d'argent et ouvrir un magasin"" du travailleur indien.
+											Merci beaucoup.
+											(Applaudissements)
+									","
+											Ich werde heute darüber sprechen, wie man Geschichten sammelt,
+											auf etwas unkonventionelle Weise.
+											Das hier ist ein Bild von mir aus einer sehr unbeholfenen Phase meines Lebens.
+											Vielleicht gefällt Ihnen die peinliche, enge, abgeschnittene Schlafanzughose mit Luftballons.
+											Wie auch immer, es war eine Zeit, in der ich hauptsächlich daran interessiert war,
+											erfundene Geschichten zu sammeln.
+											Das hier ist ein Bild von mir,
+											in dem ich eines der ersten Aquarelle halte, die ich je gemalt habe.
+											Und neuerdings interessiert es mich viel mehr, Geschichten
+											aus der Realität zu sammeln - wahre Geschichten also.
+											Und besonders interessiere ich mich dafür, meine eigenen Geschichten zu sammeln,
+											Geschichten aus dem Internet und, neuerdings, Geschichten aus dem Leben,
+											was ein neues Feld ist, in dem ich seit einiger Zeit arbeite.
+											Ich werde heute also über all diese Dinge sprechen.
+											Als erstes - meine eigenen Geschichten. Das hier sind zwei meiner Skizzenbücher.
+											Ich habe viele dieser Bücher,
+											und ich besitze sie seit etwa acht oder neun Jahren.
+											Sie begleiten mich, wo auch immer ich in meinem Leben hingehe,
+											und ich fülle sie mit allen möglichen Dingen,
+											Aufzeichnungen meiner Erfahrungen im Leben.
+											Aquarelle, Zeichnungen von Dingen, die ich sehe,
+											verwelkte Blumen, tote Insekten, eingeklebte Fahr- oder Eintrittskarten, angerostete Münzen,
+											Visitenkarten, Schriften.
+											Und in diesen Büchern kann man kurze, kleine Einblicke
+											in Momente und Erfahrungen und Menschen erhalten, die ich treffe.
+											Und nachdem ich diese Bücher einige Jahre lang gehabt hatte,
+											begann ich, mich dafür zu interessieren,
+											nicht nur meine eigenen persönlichen Artefakte zu sammeln,
+											sondern auch die Artefakte anderer Menschen.
+											Also begann ich, gefundene Objekte zu sammeln.
+											Das hier ist ein Foto, dass ich in einem Rinnstein in New York City fand,
+											vor etwa zehn Jahren.
+											Auf der Vorderseite kann man das zerschlissene schwarz-weiß Foto eines Gesichts einer Frau sehen,
+											und auf der Rückseite steht: ""Für Judy, dem Mädchen mit der Bill Bailey Stimme,
+											habe Spaß bei was auch immer du tust.""
+											Und ich war begeistert von dieser Idee, kleine Einblicke in das Leben anderer gewinnen zu können,
+											im Gegensatz dazu, die ganze Geschichte zu kennen; einfach nur einen kleinen Teil von der Geschichte zu kennen
+											und sich den Rest dann im Geist selbst zusammen zu reimen.
+											Und diese Idee teilweiser Einblicke ist etwas,
+											das in vielen meiner Arbeiten noch einmal auftauchen wird, die ich Ihnen später zeigen werde.
+											Zu der Zeit studierte ich Informatik in Princeton,
+											und ich stellte fest, dass es plötzlich möglich war,
+											diese Arten von persönlichen Artefakten
+											nicht nur an Straßenecken zu sammeln, sondern auch im Internet.
+											Und dass Leute online plötzlich massenhaft Abdrücke
+											digitaler Spuren hinterließen, die Geschichten aus ihrem Privatleben erzählten.
+											Blog-Einträge, Fotografien, Gedanken, Gefühle, Meinungen,
+											all diese Dinge wurden online von Menschen zum Ausdruck gebracht
+											und hinterließen Spuren.
+											Ich begann, Computerprogramme zu schreiben,
+											die sehr, sehr große Gruppen dieser Online-Spuren untersuchen.
+											Eines dieser Projekte ist etwa eineinhalb Jahre alt.
+											Es heißt ""We Feel Fine"" (dt. ""Wir fühlen uns ausgezeichnet"").
+											Es handelt sich dabei um ein Projekt, dass die weltweit neuen Blog-Einträge scannt,
+											alle zwei bis drei Minuten, und dabei nach den Phrasen
+											""I feel"" und ""I am feeling"" (dt. ""ich fühle"") sucht. Und wenn es eine dieser Phrasen findet,
+											greift es sich den ganzen Satz heraus, bis zum Punkt,
+											und versucht zudem, demografische Informationen über den Autor herauszufinden.
+											Also z.B. sein Geschlecht, sein Alter, seinen geografischen Standort
+											und welches Wetter herrschte, als er diesen Satz schrieb.
+											Es sammelt etwa 20.000 solcher Sätze am Tag
+											und es läuft jetzt seit etwa eineinhalb Jahren
+											und hat bisher über zehneinhalb Millionen Gefühle gesammelt.
+											Hier sehen Sie, wie sie dargestellt werden.
+											Diese Punkte repräsentieren einige der Gefühle der englischsprachigen Welt
+											aus den letzten paar Stunden.
+											Jeder Punkt steht für einen einzelnen Satz, geschrieben von einem einzelnen Blogger.
+											Und die Farbe jedes Punktes korrespondiert mit der Art des Gefühls darin,
+											die hellen sind also glücklich und die dunklen sind unglücklich.
+											Und der Durchmesser jedes Punktes korrespondiert
+											mit der Länge des Satzes.
+											Die kleinen stehen also für kurze und die größeren für längere Sätze.
+											""Ich fühle mich wohl in meinem Körper, es gibt keine Rechtfertigung dafür,
+											warum ich mich trotzdem unbehaglich fühle, wenn ich meinem Freund nahe bin,""
+											schreibt eine 22-Jährige aus Japan.
+											""Ich habe das bei einem ortsansässigen Handel bekommen,
+											aber ich habe wirklich keine Lust, mit den Kabeln und dem ganzen Mist herumzuwerkeln.""
+											Zu manchen der Gefühle gibt es auch Fotos in den Blog-Einträgen,
+											und wenn das passiert, werden automatisch diese Montagen erstellt,
+											in denen die Sätze und Bilder miteinander kombiniert werden.
+											Und all diese Montagen können geöffnet werden, so dass die Sätze, die in ihnen stecken, zum Vorschein kommen.
+											""Ich fühle mich gut.""
+											""Ich fühle mich jetzt etwas übel, und ich habe wahrscheinlich 100.000 Pfund zugenommen,
+											aber das war es wert.""
+											""Ich finde es klasse, dass sie es geschafft haben, das meiste zu bewahren,
+											was einen dazu bringt, sich mit der Natur verbunden zu fühlen - Schmetterlinge,
+											von Menschenhand geschaffene Wälder, Kalksteinhöhlen und hey, sogar eine riesige Python.""
+											Die nächste Einstellung heißt Mobs (dt. Banden).
+											Das ermöglicht eine etwas statistischere Betrachtung der Dinge.
+											Das hier zeigt die am weitesten verbreiteten Gefühle auf der Welt zu diesem Zeitpunkt,
+											dominiert von besser, dann schlecht, dann gut, dann schuldig, usw.
+											Weather (dt. Wetter) bringt die Gefühle dazu, die physischen Eigenschaften
+											des Wetters anzunehmen, das sie repräsentieren. Die sonnigen drehen sich,
+											die wolkigen treiben dahin, die regnerischen fallen hinab
+											und die schneeartigen flattern zu Boden.
+											Man kann auch einen Regentropfen auffangen und das darin verborgene Gefühl öffnen.
+											Location (dt. Lage/Ort) bewegt die Gefühle schließlich zu ihren Positionen
+											auf einer Weltkarte, so dass man einen Eindruck davon bekommt, wie sie geografisch distribuiert sind.
+											Ich werde Ihnen jetzt einige meiner Lieblingsmontagen von We Feel Fine zeigen.
+											Dies hier sind die Bilder, die automatisch kreiert werden.
+											""Ich fühle mich, als ob ich diagonal geparkt bin in einem parallelen Universum.""
+											(Lachen)
+											""Ich habe viele andere Jungs geküsst und es hat sich nicht gut angefühlt,
+											die Küsse haben sich chaotisch und falsch an angefühlt,
+											aber Lucas zu küssen fühlt sich wunderbar und fast spirituell an.""
+											""Ich kann spüren, wie mein Krebs wächst.""
+											""Ich fühle mich schön.""
+											""Ich fühle mich dünn, aber ich bin es nicht.""
+											""Ich bin 23 und ein genesender Methamphetamin- und Heroin-Abhängiger
+											und ich schätze mich glücklich, noch am Leben zu sein.""
+											""Ich kann es kaum abwarten, sie nächsten Monat das erste Mal in Daytona ein Rennen fahren zu sehen,
+											denn ich verspüre Need for Speed (dt. Verlangen nach Geschwindigkeit, Verweis auf eine Autorennspiel-Serie).""
+											(Lachen)
+											""Ich fühle mich keck.""
+											""Ich fühle mich so sexy mit dieser neuen Perücke.""
+											Wie Sie sehen können, sammelt We Feel FIne
+											sehr, sehr kurze persönliche Geschichten.
+											Manchmal umfassen die Geschichten nur zwei oder drei Worte.
+											Daher wird sogar die Vorstellung davon,
+											was eine Geschichte ausmacht, herausgefordert.
+											Und seit kurzem bin ich daran interessiert, mich noch mehr in einzelne Geschichten zu vertiefen.
+											Und das führte dazu, dass ich mich jetzt mit der physischen Welt beschäftige,
+											nicht mit dem Internet,
+											und das Internet nur abschließend als Präsentationsmedium benutze.
+											Dies hier sind einige neuere Projekte,
+											die offiziell noch nicht einmal gestartet worden sind.
+											Das erste heißt ""The Whale Hunt"" (dt. ""Der Walfang"").
+											Letzten Mai verbrachte ich neun Tage in Barrow, Alaska,
+											der nördlichsten Siedlung in den Vereinigten Staaten,
+											bei einer Familie von Inupiat Eskimos,
+											und dokumentierte ihren jährlichen Walfang im Frühjahr.
+											Das hier ist das Walfang-Lager, wir befinden uns etwa sechs Meilen von der Küste entfernt
+											und zelten auf fünfeinhalb Fuß dickem Packeis.
+											Und das Wasser, was Sie dort sehen, ist die offene Passage,
+											und durch diese Passage wandern Buckelwale jedes Frühjahr nach Norden.
+											Und die Eskimo-Gemeinschaft zeltet am Rand des Eises hier,
+											wartet darauf, dass ein Wal nah genug herankommt, um ihn zu attackieren, und wenn ein Wal das tut,
+											werfen sie eine Harpune nach ihm und ziehen den Wal nach oben,
+											unter das Eis, und schneiden ihn in Stücke.
+											Und das sichert die Nahrungsmittelversorgung der Gemeinschaft für eine lange Zeit.
+											Ich reiste also dorthin und lebte bei diesen Leuten,
+											in ihrem Walfang-Lager, und hielt das ganze Erlebnis in Bildern fest,
+											beginnend mit der Taxifahrt zum Newark Flughafen in New York
+											und abschließend mit dem Schlachten des zweiten Wals, siebeneinhalb Tage später.
+											Ich fotografierte alles in Intervallen von fünf Minuten.
+											Ich schoss also alle fünf Minuten ein Foto.
+											Solange ich wach war, hatte ich die Kamera um den Hals;
+											wenn ich schlief, fotografierte ich mit Hilfe eines Stativs und eines Timers.
+											Und in Momenten, in denen der Adrenalinspiegel hoch war,
+											wenn etwas Aufregendes passierte,
+											nahm ich bis zu
+											37 Bilder innerhalb von fünf Minuten auf.
+											Auf diese Weise wurde ein fotografischer Herzschlag erzeugt,
+											der sich beschleunigte oder verlangsamte und sich dabei
+											mehr oder weniger meiner eigenen Herzfrequenz anpasste.
+											Das war das erste Konzept.
+											Das zweite Konzept bestand darin, diese Erfahrung dazu zu benutzen,
+											über die fundamentalen Bestandteile jeder Geschichte nachzudenken.
+											Welches sind die Dinge, die eine Geschichte ausmachen?
+											Geschichten haben Darsteller. Geschichten haben Ideen.
+											Geschichten spielen sich in einer bestimmten Umgebung ab. Sie haben Kontexte.
+											Sie haben Farben. Wie sehen sie aus?
+											Sie haben eine Zeit. Wann sind sie passiert? Daten, wann ist es geschehen?
+											Und im Fall des Walfangs gab es auch dieses Level von Aufregung.
+											Was Geschichten aber ausmacht in den meisten existierenden Medien,
+											an die wir uns gewöhnt haben - Dinge wie Romane, Radio,
+											Fotografien, Filme, selbst Vorträge wie dieser -
+											ist, dass wir uns an den Gedanken eines Erzählers gewöhnt haben, oder die Position der Kamera.
+											An einen allwissenden, außenstehenden Erzähler,
+											durch dessen Augen man die Geschichte sieht.
+											Daran sind wir gewöhnt.
+											Aber wenn man an das wirkliche Leben denkt, dann ist das überhaupt nicht der Fall.
+											Ich meine, im wirklichen Leben sind die Dinge viel detaillierter und komplexer,
+											und es gibt immer Geschichten, die sich überlappen,
+											sich überschneiden und sich berühren.
+											Also dachte ich, es wäre interessant, ein Gerüst zu bauen,
+											um diese Art von Geschichten zum Vorschein zu bringen. Wie konnten wir im Fall von ""The Whale Hunt""
+											etwas zum Vorschein bringen wie die Geschichte von Simeon und Crawford,
+											die Konzepte wie wild lebende Tiere, Werkzeuge und Blut beinhaltete und sich auf dem Arktischen Ozean abspielte,
+											dominiert von der Farbe rot, um ca. 10 Uhr morgens am 3. Mai,
+											mit einem hohen Level von Aufregung?
+											Wie bringt man diese Erzählung als Teil der größeren Geschichte zum Ausdruck?
+											Ich kreierte eine Internetplattform, auf der man sich ""The Whale Hunt"" anschauen kann, die genau dies versucht.
+											Dies hier sind die 3.214 Bilder, die ich dort aufgenommen habe.
+											Das hier ist mein Studio in Brooklyn. Das ist der Arktische Ozean
+											und das Schlachten des zweiten Wals, sieben Tage später.
+											Sie können hier Teile der Geschichte sehen, erzählt je nach Farbe.
+											Dieser rote Streifen steht für die Farbe der Tapete
+											in der Kellerwohnung, in der ich lebte.
+											Und die Farbe ändert sich zu weiß, als wir zum Arktischen Ozean hinausgehen.
+											Hier unten wird wieder Rot eingeführt, als die Wale zerlegt werden.
+											Sie können eine Zeitachse sehen, die Ihnen die aufregenden Momente der Geschichte zeigt.
+											Sie sind chronologisch organisiert.
+											Wheel (dt. Rad) ist eine etwas spielerischere Version desselben Konzepts,
+											das hier sind also auch alle Fotografien in chronologischer Anordnung.
+											Und man kann sie alle anklicken,
+											und dann wird die Erzählung an dieser Position angezeigt.
+											Hier sieht man mich, wie ich im Flugzeug auf dem Weg nach Alaska schlafe.
+											Das ist Moby Dick.
+											Das hier ist, was wir gegessen haben.
+											Das ist das Wohnzimmer der Familie Patkotak
+											in ihrem Haus in Barrow. Der Wein, den sie uns servierten.
+											Zigarettenpause draußen - ich rauche nicht.
+											Das ist eine äußerst spannende Bildabfolge davon, wie ich schlafe.
+											Das hier ist draußen im Walfang-Lager, auf dem Arktischen Ozean.
+											Dieses Diagramm, das ich hier unten anklicke, soll dem
+											medizinischen Diagramm eines Herzschlags ähneln
+											und die aufregenden Momente aufzeigen mit hohen Leveln von Adrenalin.
+											Das hier zeigt das Eis, als es zu gefrieren beginnt. Die Schnee-Palisade, die sie gebaut haben.
+											Und was ich Ihnen jetzt zeigen werde, ist die Möglichkeit, Unter-Geschichten herauszuziehen.
+											Hier sehen sie die Darsteller. Dies sind alle Leute aus ""The Whale Hunt""
+											und die beiden Wale, die dort getötet wurden.
+											Und wir können etwas Beliebiges machen wie
+											die Geschichte von Rony herausziehen, die die Konzepte von Blut
+											und Walen und Werkzeugen beinhaltet, sich auf dem Arktischen Ozean abspielt,
+											im Ahkivgaq-Lager, mit einer schnellen Herzschlagfrequenz.
+											Und jetzt haben wir die ganze Geschichte
+											zu nur 29 magischen Fotografien zusammengestutzt
+											und wir können die Erzählung an diesem Punkt beginnen.
+											Sie können hier Rony sehen, wie er den Wal in Stücke zerlegt.
+											Diese Wale sind etwa 40 Fuß lang
+											und wiegen über 40 Tonnen. Und sie bilden die Nahrungsquelle
+											für die Gemeinschaft für fast ein Jahr.
+											Wir überspringen jetzt einige Schritte, das hier ist Rony auf dem Walkadaver.
+											Sie benutzen keine Kettensägen oder sowas, bloß Messer
+											und einen unglaublich effizienten Arbeitsablauf.
+											Das hier sind die Männer am Seil, die den Kadaver auseinander ziehen.
+											Das ist Maktaaq, oder Walspeck, aufgereiht, um an die Gemeinschaft verteilt zu werden.
+											Es ist Bartenwal. Naja, weiter.
+											Was ich Ihnen als nächstes berichten werde,
+											ist eine ganz neue Sache. Es ist bisher noch nicht einmal ein Projekt.
+											Erst gestern bin ich von Singapur hierher geflogen, und davor
+											verbrachte ich zwei Wochen in Bhutan, einem kleinen Königreich im Himalaja,
+											zwischen Tibet und Indien gelegen.
+											Und ich führte dort ein Projekt durch über Glücklichsein
+											und befragte viele ortsansässige Leute.
+											Bhutan hat dieses wirklich merkwürdige System, in dem
+											die meisten der wichtigsten Regierungsentscheidungen auf dem Konzept
+											einer Bruttozufriedenheit basieren anstatt auf einem Bruttosozialprodukt,
+											und sie machen das seit den 70er Jahren.
+											Und das führt zu einem komplett unterschiedlichen Wertesystem.
+											Es ist eine unglaublich unmaterialistische Kultur,
+											in der die Menschen nicht viel besitzen, aber unglaublich glücklich sind.
+											Ich lief also herum und sprach mit den Leuten über einige dieser Vorstellungen.
+											Ich tat eine Reihe von Dingen. Ich stellte den Leuten eine Anzahl von vorgegebenen Fragen
+											und nahm eine Reihe von bestimmten Fotos auf
+											und interviewte sie mit Audio und machte auch Bilder.
+											Ich begann damit, dass ich die Leute bat, ihre Zufriedenheit zu bewerten,
+											mit einer Zahl zwischen eins und zehn, was schon an sich absurd ist.
+											Und nachdem sie geantwortet hatten, blies ich die entsprechende Anzahl von Ballons auf
+											und gab ihnen diese Ballons zum Festhalten.
+											Eine wirklich glückliche Person hielt dann also zehn Ballons
+											und eine wirklich unglückliche Seele einen Ballon.
+											Aber wissen Sie, selbst, wenn man nur einen Ballon hält, ist man ziemlich glücklich.
+											(Lachen)
+											Und dann stellte ich ihnen eine Anzahl von Fragen, wie z.B.,
+											was der glücklichste Tag in ihrem Leben gewesen war, was sie glücklich macht.
+											Und abschließend bat ich sie, einen Wunsch zu äußern.
+											Und nachdem sie mir ihren Wunsch mitgeteilt hatten, schrieb ich ihn
+											auf einen der Ballons und machte ein Foto davon, wie sie ihn hielten.
+											Ich werde Ihnen jetzt ein paar kurze Ausschnitte zeigen
+											von Interviews, die ich durchgeführt habe, und einige der Leute, mit denen ich gesprochen habe.
+											Das hier ist ein elfjähriger Schüler.
+											Er war dabei, mit seinen Freunden Räuber und Gendarm zu spielen, und sie rannten durch die Ortschaft
+											mit Plastikpistolen.
+											Sein Wunsch war es, Polizist zu werden.
+											Er fing früh damit an. Dies sind seine Hände.
+											Ich machte Bilder von den Händen aller Befragten,
+											weil ich denke, dass man oft viel über eine Person sagen kann,
+											wenn man sich ihre Hände anschaut. Ich nahm auch ein Portrait von allen auf
+											und bat jeden darum, eine Grimasse zu schneiden.
+											Eine 17-jährige Schülerin. Sie wünschte sich, sie wäre als Junge geboren worden.
+											Sie ist der Meinung, dass Frauen es in Bhutan schwer haben,
+											und dass alles einfacher ist, wenn man ein Junge ist.
+											Ein 28-jähriger Inhaber eines Handy-Geschäfts.
+											Wenn Sie wüssten, wie Paro aussieht, dann würden Sie verstehen,
+											wie erstaunlich es ist, dass es dort ein Handy-Geschäft gibt.
+											Er wollte armen Menschen helfen.
+											Eine 53-jährige Farmerin. Sie war dabei, Weizen zu häckseln,
+											und den Weizenhaufen hinter ihr
+											hatte sie innerhalb von ungefähr einer Woche produziert.
+											Sie wollte Farmerin bleiben für den Rest ihres Lebens.
+											Man kann hier die Geschichten sehen, die ihre Händen erzählen.
+											Sie trug diesen Silberring, in den das Wort ""love"" eingraviert war,
+											und sie hatte ihn irgendwo auf der Straße gefunden.
+											Ein 16-jähriger Steinbrucharbeiter.
+											Der Junge zertrümmerte im heißen Sonnenschein Steine mit einem Hammer,
+											aber er wollte sein Leben nur als Farmer verbringen.
+											Ein 21-jähriger Mönch. Er war sehr glücklich.
+											Er wollte ein langes Leben im Kloster verbringen.
+											Er hatte eine erstaunliche Anzahl von Haaren, die aus einem Muttermal auf der linken Seite seines Gesichts wuchsen,
+											was sehr großes Glück bedeutet, wie mir gesagt wurde.
+											Er war etwas zu schüchtern, um Grimassen zu schneiden.
+											Eine 16-jährige Schülerin.
+											Sie wollte eine unabhängige Frau werden.
+											Ich befragte sie dazu, und sie sagte, was sie damit meinte, sei,
+											dass sie nicht verheiratet sein möchte,
+											weil, wenn man als Frau in Bhutan heiratet, ihrer Meinung nach
+											die Chance, ein unabhängiges Leben zu führen, nicht mehr besteht,
+											also hätte sie kein Interesse daran.
+											Ein 24-jähriger LKW-Fahrer.
+											Es gibt diese entsetzlich riesigen, indischen Lastwagen,
+											die herumschwanken auf einspurigen Straßen mit zweispurigem Verkehr,
+											mit 3000 Fuß tiefen Abgründen gleich neben der Straße,
+											und er fuhr einen dieser Lastwagen.
+											Aber alles, was er wollte, war es nur, ein komfortables Leben zu führen wie andere Leute.
+											Eine 24-jährige Straßenkehrerin. Ich traf sie während ihrer Mittagspause.
+											Sie hatte ein kleines Feuer entfacht, um am Straßenrand warm zu bleiben.
+											Ihr Wunsch war es, jemanden mit einem Auto zu heiraten.
+											Sie wollte eine Veränderung in ihrem Leben.
+											Sie lebt in einem kleinen Arbeiterlager genau neben der Straße,
+											und sie wollte viele Dinge anders haben.
+											Ein 80-jähriger, umherziehender Farmer.
+											Ich sah diesen Mann am Straßenrand,
+											und er hat tatsächlich kein Zuhause.
+											Er reist jeden Tag von Farm zu Farm und versucht, Arbeit zu finden,
+											und dann versucht er, in der jeweiligen Farm zu schlafen, bei der er Arbeit findet.
+											Sein Wunsch war es, mit mir zu kommen, so dass er einen Platz zum Leben haben würde.
+											Er hatte dieses beachtliche Messer, dass er aus seinem Gho zog,
+											und er begann, es zu schwingen, als ich ihn darum bat, eine Grimasse zu schneiden.
+											Es war alles freundlich gemeint.
+											Ein Zehnjähriger.
+											Er wollte zur Schule gehen und lesen lernen,
+											aber seine Eltern hatten nicht genug Geld, um ihn zur Schule zu schicken.
+											Er aß diese orangefarbenen Süßigkeiten,
+											in die er immer wieder seine Finger vergrub,
+											und weil an seinen Händen so viel Speichel war,
+											begann sich ein orangefarbener Film auf seinen Handflächen zu bilden.
+											(Lachen)
+											Ein 37-jähriger Straßenarbeiter.
+											Eines der heikelsten politischen Themen in Bhutan
+											ist die Verwendung von billiger indischer Arbeitskraft,
+											dass Arbeiter aus Indien eingeführt werden, um die Straßen zu bauen,
+											und dass diese Leute dann wieder heim geschickt werden, sobald die Straßen gebaut sind.
+											Diese Männer waren Teil einer Gruppe von Arbeitern,
+											die eines Morgens am Straßenrand Asphalt mischten.
+											Sein Wunsch war es, etwas Geld zu verdienen und ein Geschäft zu eröffnen.
+											Eine 75-jährige Farmerin. Sie verkaufte Orangen am Straßenrand.
+											Ich fragte sie, was ihr Wunsch sei, und sie sagte:
+											""Wissen Sie, vielleicht werde ich leben, vielleicht werde ich sterben, aber ich habe keinen Wunsch.""
+											Sie kaute Betelnüsse, die ihre Zähne
+											über die Jahre hinweg sehr rot gefärbt hatten.
+											Zum Abschluss, dies ist eine 26-jährige Nonne, mit der ich gesprochen habe.
+											Ihr Wunsch war es, eine Pilgerreise nach Tibet zu unternehmen.
+											Ich fragt sie, wie lange sie vorhatte, in dem Kloster zu leben, und sie sagte:
+											""Naja, wissen Sie, natürlich ist es nicht dauerhaft,
+											aber mein Plan ist es, hier zu leben, bis ich 30 bin, und dann in eine Einsiedelei zu gehen.""
+											Und ich sagte: ""Sie meinen wie eine Höhle?"" Und sie sagte: ""Ja, wie eine Höhle.""
+											Und ich sagte: ""Wow, und wie lange werden Sie in der Höhle leben?""
+											Und sie sagte: ""Naja, wissen Sie,
+											ich denke, ich würde irgendwie gerne mein gesamtes Leben in der Höhle verbringen.""
+											Ich dachte, das war einfach erstaunlich. Ich meine, sie sprach in einer Art und Weise -
+											in fantastischem Englisch und mit einem unglaublichem Humor und einem beeindruckenden Lachen -
+											die den Eindruck vermittelte, als ob ich sie auf den Straßen
+											von New York oder in Vermont getroffen hätte, wo ich herkomme.
+											Aber sie hatte die letzten sieben Jahre in einem Kloster verbracht.
+											Ich fragte sie ein bisschen mehr über die Höhle
+											und was sie vorhatte, sobald sie dorthin gegangen war.
+											Was, wenn sie nach nur einem Jahr die Wahrheit fand,
+											was würde sie dann die nächsten 35 Jahre ihres Lebens tun?
+											Und dies ist, was sie sagte.
+											Frau: Ich denke, ich werde bis 35 bleiben, vielleicht - vielleicht werde ich sterben.
+											Jonathan Harris: Vielleicht werden Sie sterben? Frau: Ja.
+											JH: Zehn Jahre? Frau: Ja, ja. JH: Zehn Jahre, das ist eine lange Zeit.
+											Frau: Ja, nicht, vielleicht ein, zehn Jahre, vielleicht kann ich
+											innerhalb eines Jahres sterben, oder etwas in der Art.
+											JH: Hoffen Sie, dass es so kommt?
+											Frau: Aah, denn, wie Sie wissen, es ist nicht von Dauer.
+											JH: Ja, aber - ja, OK. Hoffen Sie darauf -
+											würden Sie es vorziehen, 40 Jahre lang in der Höhle zu leben
+											oder dort ein Jahr lang zu leben?
+											Frau: Aber ich würde vielleicht 40 bis 50 vorziehen.
+											JH: 40 bis 50? Ja.
+											Frau: Ja. Von dort aus gehe ich in den Himmel.
+											JH: Tja, ich wünsche Ihnen viel Glück dabei.
+											Frau: Danke.
+											JH: Ich hoffe, es wird alles so sein, wie Sie es sich erhofft haben.
+											Also noch einmal vielen Dank.
+											Frau: Gern geschehen.
+											JH: Wenn Sie das also mitbekommen haben. Sie sagte, dass sie darauf hofft,
+											zu sterben, wenn sie etwa 40 ist. Das war genug Leben für sie.
+											Das letzte, was wir taten, ganz schnell,
+											war, dass ich all diese Wunschballons nahm - es waren 117 Interviews,
+											117 Wünsche - und sie zu einem Ort namens Dochula brachte,
+											einem Gebirgspass in Bhutan, in 10.300 Fuß Höhe,
+											einem der heiligsten Orte in Bhutan.
+											Und dort oben befinden sich tausende von Gebetsfahnen,
+											die Menschen dort über die Jahre verteilt haben.
+											Und wir bliesen alle Ballons wieder auf, banden sie an eine Kordel
+											und hängten sie dort zwischen den Gebetsfahnen auf.
+											Und dort fliegen sie tatsächlich heute noch.
+											Wenn also jemand von Ihnen plant, demnächst nach Bhutan zu reisen,
+											dann können Sie sich die Ballons anschauen. Hier sind einige Bilder davon.
+											Wir sprachen ein buddhistisches Gebet, um die Wünsche wahr werden zu lassen.
+											Hier können sie einige bekannte Ballons sehen.
+											""Geld verdienen und ein Geschäft eröffnen"" war der indische Straßenarbeiter.
+											Haben Sie vielen Dank.
+											(Applaus)
+									",The web as art,Jonathan Harris,20:29,"art,culture,entertainment,global issues,happiness,software,storytelling,web"
+"
+","
+","
+","
+","
+",The web as art,Jonathan Harris,20:29,"art,culture,entertainment,global issues,happiness,software,storytelling,web"

@@ -1,0 +1,2828 @@
+es,pt,tr,fr,de,title,speaker,duration,tags
+"
+","
+","
+","
+","
+",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+											La seguridad es dos cosas diferentes:
+											es una sensación, y es una realidad.
+											Y son diferentes.
+											Podrían sentirse seguros
+											aun cuando no lo estén.
+											Y pueden estar seguros
+											aun cuando no se sientan seguros.
+											En realidad, tenemos dos conceptos distintos
+											asignados a la misma palabra.
+											Y lo que quiero hacer en esta charla
+											es separar el uno del otro
+											y darnos cuenta de cuándo divergen
+											y de cómo convergen.
+											Y en realidad el lenguaje es un problema para esto.
+											No hay muchas palabras útiles
+											para los conceptos que vamos a describir.
+									","
+											Portanto, a segurança é duas coisas diferentes:
+											é um sentimento, e é uma realidade.
+											E elas são diferentes.
+											Vocês podem sentir-se seguros
+											mesmo que não o estejam.
+											E podem estar seguros
+											mesmo que não o sintam.
+											Na realidade, temos dois conceitos separados
+											presentes na mesma palavra.
+											E o que eu quero fazer nesta palestra
+											é separá-los —
+											descobrindo quando divergem
+											e como convergem.
+											E, a linguagem é um verdadeiro problema neste caso.
+											Não existem muitas palavras adequadas
+											para os conceitos de que vamos falar.
+									","
+											Güvenlik iki farklı şeydir:
+											hem histir hem de gerçeklik.
+											Ve bunlar birbirinden farklıdır.
+											Güvende olmasanız bile
+											güvende hissedebilirsiniz.
+											Öyle hissediyor olmasanız bile
+											güvende olabilirsiniz.
+											Cidden, elimizde iki ayrı kavram var
+											ve ikisi de aynı kelimeyle tanınıyor.
+											Ve bu konuşmada yapmak istediğim
+											bu ikiliyi birbirinden ayırmak —
+											nasıl birbirlerinden ayrılıp
+											nasıl birleştiklerini anlatarak.
+											Ve dil aslında burada bir problem.
+											Bahsedeceğimiz kavramları anlatmak için
+											yeterince doğru kelime bulunmuyor.
+									","
+											La sécurité, c'est donc deux choses différentes:
+											c'est une impression et c'est une réalité.
+											Et c'est différent.
+											Vous pouvez vous sentir en sécurité
+											même si vous ne l'êtes pas.
+											Et vous pouvez être en sécurité
+											même si vous n'en avez pas l'impression.
+											Nous avons vraiment deux concepts distincts
+											rattachés au même terme.
+											Et ce que je veux faire pendant cette conférence,
+											c'est les séparer —
+											comprendre quand ils diverent
+											et comment ils convergent.
+											Et le langage est en fait un problème ici
+											Il n'y a pas beaucoup de mots adéquats
+											pour les concepts dont nous allons parler ici.
+									","
+											Es gibt zwei Sicherheiten:
+											Sicherheit als Gefühl und als Realität.
+											und sie unterscheiden sich.
+											Sie können sich sicher fühlen
+											sogar, wenn sie es nicht sind.
+											Und sie können sicher sein
+											auch wenn sie sich nicht so fühlen.
+											Wir haben zwei separate Konzepte
+											verbunden mit demselben Begriff.
+											Was ich mit diesem Vortrag erreichen möchte
+											ist sie sauber zu trennen —
+											aufzuzeigen wo sie voneinander abweichen
+											und wo sie sich überschneiden.
+											Tatsächlich ist der Begriff Sicherheit ein Problem.
+											Es gibt nicht viele gute Bezeichnungen
+											für die Modelle über die wir reden werden.
+									",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+","
+","
+","
+","
+",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+											Así que si miran la seguridad
+											del punto de vista económico,
+											se trata de intercambiar una cosa por otra.
+											Cada vez que obtienen un poco de seguridad,
+											siempre están intercambiándola por otra cosa.
+											Sea esta es una decisión personal
+											-si van a instalar una alarma antirrobo en su hogar-
+											o una decisión nacional -si van a invadir otro país-
+											van a sacrificar algo,
+											ya sea dinero o tiempo, comodidad, capacidad,
+											quizás libertades fundamentales.
+											Y lo que deben preguntarse cuando miran algo de seguridad
+											no es si esto nos hace más seguros,
+											sino que si vale la pena el sacrificio.
+											Han escuchado durante los últimos años que
+											el mundo es más seguro porque Saddam Hussein no gobierna Irak.
+											Eso puede ser cierto, pero no es terriblemente relevante.
+											La pregunta es: ¿Valió la pena?
+											Y pueden tomar su propia decisión
+											y con eso decidir si la invasión valió la pena.
+											Así se piensa acerca de la seguridad;
+											en términos de decidirse por algo en desmedro de otra cosa.
+									","
+											Portanto, se olharem para a segurança
+											em termos económicos,
+											é uma negociação.
+											Cada vez que têm alguma segurança,
+											estão sempre a trocá-la por algo.
+											Quer isto seja uma decisão pessoal —
+											quer vão instalar um sistema de alarme anti-roubos em vossa casa —
+											ou uma decisão nacional — em que vão invadir algum país estrangeiro —
+											vão ter de negociar algo,
+											seja dinheiro, ou tempo, conveniência, capacidades.
+											talvez liberdades fundamentais.
+											E a questão a fazer quando pensam na segurança de qualquer coisa
+											não é se isto nos fará mais seguros,
+											mas se vale a pena a escolha.
+											Ouviram nos últimos anos,
+											que o mundo está mais seguro porque o Saddam Hussein não está no poder.
+											Isso pode ser verdade, mas não é terrivelmente relevante.
+											A questão é, valeu a pena?
+											Podem tomar a vossa própria decisão
+											e então vão decidir se a invasão valeu a pena.
+											É assim que pensam acerca de segurança —
+											em termos de escolhas.
+									","
+											Güvenliğe ekonomik açıdan
+											bakacak olursanız,
+											bir değiş tokuş gibidir.
+											Güvenliğe ulaştığınız her an,
+											karşılığında birşey verirsiniz.
+											Şahsi bir karar da olabilir —
+											evinize soygun alarmı taktırmak gibi —
+											ulusal bir karar da — yabancı bir ülkede nereyi işgal edeceğiniz gibi —
+											karşılığında birşeyler verirsiniz,
+											para, zaman, kolaylık, yetenek,
+											ya da temel özgürlüklerinizi.
+											Br güvenlik alanına bakıp da soracağınız soru
+											bizi daha güvende yapıp yapmayacağı değil,
+											bir değiş tokuşa değip değmeyeceği olur.
+											Geçen birkaç yıdır duyuyorsunuz,
+											dünya Saddam Hüseyin artık iktidarda olmadığı için daha güvenli.
+											Doğru olabilir, ama tamamen alakalı değil.
+											Asıl soru şu: buna değdi mi?
+											Kendi muhakemenizi yapabilir,
+											ve yapılan çıkarmaya değip değmediğine karar verebilirsiniz.
+											İşte güvenliği böyle tanımlarsınız —
+											değiş tokuş esasına dayalı olarak.
+									","
+											Alors si vous regardez la sécurité
+											en termes économiques,
+											c'est un échannge.
+											Chaque fois que vous obtenez une certaine sécurité,
+											vous donnez toujours quelque chose en échange.
+											Que ce soit une décision personnelle —
+											que vous installiez une alarme chez vous —
+											ou une décision nationale — où vous allez envahir un pays étranger —
+											vous allez donner quelque chose en échange,
+											que ce soit de l'argent ou du temps, des commodités, des compétences,
+											peut-être des libertés fondamentales.
+											Et la question à poser quand on considère la sécurité de quelque chose
+											n'est pas de savoir si ça nous protège mieux,
+											mais si oui ou non l'échange vaut la peine.
+											Ces dernières années, vous avez entendu dire
+											que le monde est plus sûr parce que Saddam Hussein n'est pas au pouvoir.
+											il se pourrait que ce soit vrai, mais ce n'est pas terriblement pertinent.
+											La question est, est-ce que ça valait le coup?
+											Et vous pouvez décider par vous-même,
+											et ensuite vous déciderez si l'invasion en valait la peine.
+											C'est de cette façon qu'on réfléchit à la sécurité —
+											en termes d'échange.
+									","
+											Wenn wir Sicherheit
+											aus wirtschaftlicher Sicht betrachten
+											ist es ein Kompromiss.
+											Immer wenn sie Sicherheit erhalten
+											tauschen sie sie gegen etwas.
+											Ob dies aus persönlichen Gründen –
+											ob sie eine Alarmanlage zu Hause installieren –
+											oder eine nationale Entscheidungen — ob sie in einem anderen Land intervenieren —
+											sie tauschen etwas ein
+											sei es Geld oder Zeit, Komfort, Ressourcen
+											vielleicht grundlegende Rechte.
+											Die Frage bei Betrachtung von Sicherheit ist
+											nicht ob es uns Sicherheit gibt,
+											sonder ob es den Tausch wert ist.
+											Sie haben in den letzten Jahren gehört,
+											dass die Welt sicherer ist, weil Saddam Hussein nicht mehr an der Macht ist.
+											Das mag stimmen ist aber nicht unbedingt relevant.
+											Die Frage ist, ob es den Aufwand wert war?
+											Und sie treffen die Entscheidung,
+											ob es die Invasion wert war.
+											So denken Sie über Sicherheit —
+											aus wirtschaftlicher Sicht.
+									",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+","
+","
+","
+","
+",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+											A menudo no hay buenas o malas decisiones en esto.
+											Algunos de nosotros tenemos alarmas antirrobo en la casa
+											y otros no lo tenemos.
+											Y dependerá de donde vivimos,
+											si es que vivimos solos o tenemos familia,
+											la cantidad de cosas preciadas que tengamos,
+											cuánto riesgo de robo
+											estemos dispuestos a aceptar.
+											En la política también
+											hay diferentes opiniones.
+											Muchas veces, estos sacrificios
+											son sobre más que sólo seguridad,
+											y creo que eso es muy importante.
+											Ahora, la gente tiene una intuición natural
+											sobre estos sacrificios.
+											Los hacemos todos los días;
+											anoche en mi habitación de hotel,
+											cuando decidí cerrar la puerta con doble llave,
+											o cuando ustedes conducían para acá en su automóvil,
+											cuando vamos a almorzar
+											y decidimos que la comida no tiene veneno y la comemos.
+											Tomamos estas decisiones una y otra vez
+											muchas veces al día.
+											A menudo ni siquiera nos damos cuenta.
+											Son parte de estar vivo, todos lo hacemos.
+									","
+											Agora, muitas vezes não existe um certo e um errado.
+											Alguns de nós temos um sistema de alarme anti-roubo em casa,
+											e alguns de nós não tem.
+											E vai depender onde vivemos,
+											se moramos sozinhos ou temos uma família,
+											quantas coisas porreiras temos,
+											e quanto estamos dispostos a aceitar
+											o risco de roubo.
+											Também na política,
+											existem opiniões diferentes.
+											Muitas vezes, estas escolhas
+											são acerca de mais do que apenas a segurança,
+											e eu penso que isso é realmente importante.
+											Agora, as pessoas têm uma intuição natural
+											acerca destas escolhas.
+											Nós fazêmo-las todos os dias —
+											ontem à noite, no meu quarto de hotel,
+											quando decidi trancar a porta,
+											ou vocês, nos vossos carros, quando conduziram até aqui,
+											quando vamos almoçar
+											e decidimos que a comida não é veneno e que a vamos comer.
+											Nós fazemos estas escolhas uma e outra vez
+											múltiplas vezes por dia.
+											Muitas vezes, nem nos vamos aperceber delas.
+											Elas são apenas parte de estar vivo; todos nós as fazemos.
+									","
+											Aslında burada doğru ya da yanlış yoktur.
+											Kimimiz evimize soygun alarmı kurdururuz,
+											kimimiz gerek görmeyiz.
+											Be da nerede yaşadığımıza bağlıdır,
+											yalnız mı yoksa ailemizle mi yaşadığımıza,
+											ne kadar değerli eşyamız olduğuna,
+											soyulma riskini göze alabilmemize
+											bağlıdır.
+											Poltikada da,
+											farklı görüşler vardır.
+											Bir çok defa, bu değiş tokuşlar
+											güvenlikten daha mühimdir.
+											Ve bence de bu çok önemlidir.
+											Şimdi, insanların bu değiş tokuşlarla
+											ilgili doğal bir içgüdüleri vardır.
+											Hergün bunları yapıyoruz —
+											dün akşam otel odamda,
+											kapımı iki defa kilitlemeye karar verdiğimde,
+											ya da siz arabanızla buraya gelirken,
+											yemeğe gittiğimizde
+											yemeğin zehirli olmadığına karar verip yediğimizde.
+											Bu değiş tokuşları tekrar tekrar yapıyoruz,
+											günde defalarca.
+											Bazen yaptığımızın farkına bile varmayız.
+											Yaşamımızın bir parçası; herkesin yaptığı bir şey.
+									","
+											Maintenant c'est souvent qu'il n'i a ni raison ni tort ici.
+											Certains d'entre nous ont des système d'alarme chez eux,
+											et d'autres non.
+											Et ça dépend de là où nous habitons,
+											si nous habitons seul ou en famille,
+											de la quantité de trucs chouettes que nous avons,
+											du degré de risque de vol
+											que nous acceptons.
+											En politique aussi,
+											il y a des opinions différentes.
+											Souvent, ces échanges
+											concernent plus que la sécurité,
+											et je pense que c'est vraiment important.
+											Et les gens ont une intuition naturelle
+											envers ces échanges.
+											Nous en faisons tous les jours —
+											la nuit dernière, dans ma chambre d'hôtel,
+											quand j'ai décidé de fermer la porte à double tour,
+											ou vous dans votre voiture en venant ici,
+											quand nous allons déjeuner et que nous estimons
+											que la nourriture n'est pas du poison et que nous la mangeons.
+											Nous faisons sans cesse ces échanges
+											plusieurs fois par jour.
+											Souvent nous ne le remarquons même pas.
+											lls font partie de la vie; nous le faisons tous
+									","
+											Oft gibt es hier kein Richtig oder Falsch
+											Einige von uns haben eine Alarmanlage zu Hause
+											andere nicht.
+											Und es hängt davon ab, wo wir leben
+											ob wir alleine leben oder eine Familie haben
+											wieviel Kram wir haben
+											wie stark wir bereit sind das Risiko
+											von Diebstahl in Kauf zu nehmen.
+											Auch in der Politik
+											gibt es verschiedene Meinungen.
+											Oft geht es bei diesem Tausch
+											um mehr als um Sicherheit
+											und ich denke, das ist wirklich wichtig.
+											Menschen haben einen natürliche Intuition
+											in Bezug auf diese Tauschhandel.
+											Wir treffen sie jeden Tag —
+											gestern Nacht in meinem Hotelzimmer,
+											als ich entschied die Tür doppelt abzuschließen,
+											oder Sie, auf dem Weg hierher in ihrem Auto,
+											wenn wir mittags essen gehen
+											und wir entscheiden das Essen ist kein Gift und wir essen es.
+											Wir machen diesen Tausch immer wieder
+											viele Male, jeden Tag.
+											Oft nehmen wir ihn nicht einmal war.
+											Er ist Teil des Lebens; wir alle tun es.
+									",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+","
+","
+","
+","
+",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+											Todas las especies lo hacen.
+											Imaginen un conejo en un campo, comiendo pasto,
+											y el conejo repentinamente ve un zorro.
+											Ese conejo tomará una decisión para su seguridad:
+											""¿Debo quedarme o debo huir?""
+											Y si lo piensan,
+											los conejos que toman la decisión apropiada
+											tienden a vivir y reproducirse,
+											y los conejos que no lo hacen bien
+											son comidos o se mueren de hambre.
+											Así que uno pensaría
+											que nosotros, como una especie exitosa en el planeta
+											-ustedes, yo, todos nosotros-
+											seríamos muy buenos para elegir una cosa en vez de otra.
+											Y sin embargo observamos que, una y otra vez,
+											somos irremediablemente malos para esto.
+											Y creo que eso es una pregunta fundamentalmente interesante.
+									","
+											Todas as espécies o fazem.
+											Imaginem um coelho num campo, a comer erva,
+											e o coelho vê uma raposa.
+											O coelho vai fazer uma escolha de segurança:
+											""Deverei ficar, ou fugir?""
+											E se pensarem acerca disso,
+											os coelhos que são bons a fazerem essa escolha
+											tendem a viver e reproduzir-se
+											e os coelhos que são maus
+											vão ser comidos ou morrer de fome.
+											Portanto, vocês pensam
+											que nós, enquanto espécie bem sucedida no planeta —
+											vocês, eu, toda a gente —
+											seríamos realmente bons a fazer estas escolhas.
+											Contudo, parece, uma e outra vez,
+											que somos, desesperadamente, maus nisto.
+											E eu penso que esta é uma questão interessante e fundamental.
+									","
+											Her canlının yaptığı birşey.
+											Bir tavşanı düşünün, tarlada otları yiyor,
+											ve tavşan bir tilki görür.
+											O tavşan güvenlik değiş tokuşu yapacaktır.
+											""Kalsam mı, yoksa kaçsam mı?""
+											Ve bunu düşündüğünüzde,
+											bu takası yapabilen tavşanlar yaşamaya
+											ve çoğalmaya devam eder,
+											bu takasta başarısız olanlar
+											yem olur ya da açlıktan ölür.
+											Ve siz de, bizim
+											gezegendeki başarılı canlı türü olarak —
+											sen, ben, hepimiz —
+											bu değiş tokuşta ne kadar başarılı olduğumuzu düşünürsünüz.
+											Ancak, bu konuda tekrar tekrar
+											umutsuzca başarısız oluyoruz.
+											Ve ben bunun çok ilginç bir soru olduğunu düşünüyorum.
+									","
+											Toutes les espèces le font.
+											Imaginez un lapin dans un champ, qui mange de l'herbe,
+											et le lapin va voir un renard.
+											Ce lapin fera un échange de sécurité:
+											""Je reste ou je m'enfuis?""
+											Et si vous y réfléchissez,
+											les lapins qui sont bons avec les échanges,
+											auront tendance à vivre et à se reproduire,
+											et les lapins qui sont mauvais
+											seront mangés ou mourront de faim.
+											Alors vous pourriez penser
+											que nous, en tant qu'espèce prospère sur la planète —
+											vous, moi, tout le monde —
+											nous sommes vraiment bons en ce qui concerne ces genres d'échanges.
+											Pourtant il semblerait, encore et encore,
+											que nous soyons désespérément mauvais à cela.
+											Et je pense que c'est une question fondamentalement intéressante.
+									","
+											Jede Lebensform tut es.
+											Stellen sie sich ein Kaninchen auf einem Feld vor das Gras isst,
+											das Kaninchen sieht einen Fuchs.
+											Dieses Kaninchen wird seine Sicherheit abwägen:
+											""Sollte ich bleiben oder fliehen?""
+											Und wenn sie darüber nachdenken,
+											Kaninchen, die gut bei solchen Entscheidungen sind,
+											neigen dazu, zu Leben und sich fortzupflanzen,
+											Kaninchen, die schlecht darin sind
+											werden gegessen werden oder verhungern.
+											Denken Sie, dass wir,
+											als erfolgreichste Spezies auf diesen Planeten —
+											Sie, ich, alle –
+											richtig gut sein sollten im Abwägen dieser Entscheidungen.
+											Es scheint so, dass wir immer wieder
+											hoffnungslos schlecht darin sind.
+											Ich denke, dass ist eine grundlegend interessante Frage.
+									",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+","
+","
+","
+","
+",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+											Les daré la respuesta corta.
+											La respuesta es que respondemos a la sensación de seguridad
+											y no a la realidad.
+											Ahora, la mayoría de las veces, eso funciona.
+											La mayor parte del tiempo
+											la sensación y la realidad son iguales.
+											Sin duda eso es cierto
+											para casi toda la prehistoria humana.
+											Hemos desarrollado esta habilidad
+											porque obedece la lógica evolutiva.
+											Una manera de pensarlo
+											es que estamos altamente optimizados
+											para tomar decisiones sobre riesgos endémicos
+											a los que viven en pequeños grupos familiares
+											en las tierras altas de África oriental 100 mil años a. C.,
+											y no tanto para Nueva York el 2010.
+									","
+											Vou-vos dar a resposta curta.
+											A resposta é, nós respondemos ao sentimento de segurança
+											e não à realidade.
+											Agora, na maioria do tempo, isso funciona.
+											Na maioria do tempo,
+											o sentimento e a realidade são o mesmo.
+											Isso é certamente verdade
+											para a maioria da pré-história humana.
+											Nós desenvolvemos esta capacidade
+											porque faz sentido evolutivamente.
+											Uma forma de pensar acerca disto
+											é que somos altamente optimizados
+											para decisões de risco
+											que são endémicas a viver em pequenos grupos familiares
+											nos planaltos do este de África em 100,000 A.C. —
+											2010 Nova Iorque, nem tanto.
+									","
+											Size kısa cevabı vereceğim.
+											Cevap, bizim gerçeklik yerine güvenlik duygusuna
+											yanıt vermemiz.
+											Çoğu kez, işe yarar.
+											Çoğu zaman,
+											hissedilen ve gerçek olan aynıdır.
+											Tarihöncesi insanlarının çoğu
+											için kesinlikle doğru.
+											Biz bu duyguyu geliştirdik
+											çünkü bize evrimsel olarak mantıklı geldi.
+											Başka şekilde düşünecek olursak
+											biz risk kararlarına
+											bir hayli odaklıyız,
+											bu Doğu Afrika dağlıklarında MÖ 100.000lerde
+											küçük aile gruplarında yaşayanlar için çok yaygındı.
+											2010 New York'unda o kadar da değil.
+									","
+											Je vous donnerai la réponse courte.
+											La réponse est, nous réagissons à l'impression de sécurité
+											et pas à la réalité.
+											Et la plupart du temps, ça marche.
+											La plupart du temps,
+											l'impression et la réalité sont la même chose.
+											C'est certainement vrai
+											pendant la plus grande partie de la préhistoire.
+											Nous avons développé cette capacité
+											parce qu'elle a du sens du point de vue de l'évolution.
+											Une manière de considérer ça
+											est que nous sommes grandement optimisés
+											pour les prises de risques
+											qui sont endémiques à la vie en petits groupes familaux
+											sur les plateaux de l'Afrique de l'Est en 100 000 avant J.-C. —
+											en 2010 à New York, pas tellement.
+									","
+											Ich geben Ihnen die kurze Antwort.
+											Die Antwort ist, dass wir auf das Gefühl von Sicherheit reagieren
+											und nicht auf die Realität.
+											In den meisten Fällen funktioniert dieses Modell.
+											Meistens
+											sind Gefühl und Realität das Gleiche.
+											Sicherlich stimmt das
+											für den größten Teil der menschlichen Vorgeschichte.
+											Wir haben diese Fähigkeit entwickelt,
+											weil es im Sinne der Evolution war.
+											Eine Sicht ist,
+											dass wir hochoptimiert sind
+											für Gefahrensentscheidungen,
+											die örtlich begrenzt auf das Leben in einem Familienverband
+											im ostafrikanischen Hochland im Jahr 100 000 v. Chr. abgestimmt sind.
+											2010 in New York nicht so sehr.
+									",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+","
+","
+","
+","
+",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+											Ahora bien, hay varios sesgos en la percepción del riesgo.
+											Hay muchos experimentos buenos sobre esto.
+											Y pueden ver ciertos sesgos que surgen una y otra vez.
+											Y les voy a dar cuatro.
+											Tendemos a exagerar los riesgos espectaculares e inusuales
+											y minimizar los riesgos comunes;
+											por eso la diferencia entre volar y manejar.
+											Lo desconocido es percibido
+											como más riesgoso que lo familiar.
+											Un ejemplo sería que
+											la gente teme ser secuestrada por desconocidos
+											y los datos muestran que ser secuestrado por familiares es mucho más común.
+											Esto se aplica para niños.
+											En tercer lugar, los riesgos personificados
+											son percibidos como mayores que los riesgos anónimos;
+											por eso Bin Laden da más miedo porque tiene nombre.
+											Y el cuarto es que
+											la gente subestima los riesgos
+											en situaciones donde tienen el control
+											y los sobreestiman en situaciones que no controlan.
+											Así que cuando practicas paracaidismo o fumas
+											minimizas los riesgos de estos.
+											Si te fuerzan a aceptar un riesgo -el terrorismo es un buen ejemplo-
+											lo exagerarás, porque no sientes como si lo controlaras.
+									","
+											Agora, existem vários enviesamentos na percepção de risco.
+											E muitas experiências boas acerca disto.
+											E podem ver certos enviesamentos que surgem uma e outra vez.
+											Portanto, vou-vos dar quatro.
+											Tendemos a exagerar os riscos espectaculares e raros
+											e subestimamos riscos comuns —
+											portanto, voar versus conduzir.
+											O desconhecido é percepcionado
+											como mais arriscado do que o familiar.
+											Um exemplo será
+											pessoas terem medo de raptos por estranhos,
+											quando a informação confirma que raptos por familiares é muito mais comum.
+											Isto para crianças.
+											Terceiro, riscos personificados
+											são percebidos como mais prováveis do que riscos anónimos —
+											portanto, o Bin Laden era ameaçador porque ele tem um nome.
+											E o quarto
+											é a subestima de riscos pelas pessoas
+											em situações que podem controlar
+											e a sobrestimação em situações que não controlam.
+											Assim, quando começam a fazer paraquedismo ou a fumar,
+											subestimam os riscos.
+											Se um risco é forçado sobre vós — o terrorismo foi um bom exemplo —
+											vão sobrestimá-lo, porque não sentem que é do vosso controlo.
+									","
+											Risk algısında birçok önyargı vardır.
+											Bunun üzerine de birçok deney.
+											Ve belli başlı önyargılarla tekrar tekrar karşılaşıldığını görürsünüz.
+											Dördünü anlatacağım
+											Dikkat çekici ve çok az rastlanan tehlikeleri abartmaya meyilliyiz
+											yaygın riskleri de küçük görmeye —
+											mesela uçağa karşı araba.
+											Bilinmeyen, alışkın olduğumuzdan
+											daha tehlikerli olarak algılanır.
+											Buna bir örnek,
+											yabancılar tarafından kaçırılmaktan korkan insanlar,
+											veriler tanıdıklar tarafından kaçırılmanın daha yaygın olduğunu söylüyor.
+											Bu çocuklar için geçerli.
+											Üçüncüsü, kişileştirilmiş tehlikeler
+											anonim olanlardan daha büyük algılanırlar.
+											Yani Bin Laden ismi olduğu için daha korkutucudur.
+											Dördüncüsü
+											insanlar kontrol edebildikleri
+											durumlardaki tehlikeleri küçümser,
+											kontrollerinde olmayan durumları büyütürler.
+											Paraşüt atlama ya da sigara içmeye başladığınızda,
+											tehlikeyi küçümsersiniz.
+											Bir risk sizi vurduğunda — terörizm buna iyi bir örnek —
+											durumu büyütürsünüz, çünkü sizin kontrolünüzde olmadığını hissedersiniz.
+									","
+											Maintenant, il y a plusieurs tendances dans la prise de risque.
+											Beaucoup de bonnes expériences là dedans.
+											Et vous pouvez voir que certaines tendances reviennent sans cesse.
+											Alors je vais vous en donner quatre.
+											Nous avons tendance à exagérer les risques rares et spectaculaires
+											et à minimiser les risques courants —
+											donc prendre l'avion par rapport à conduire.
+											L'inconnu est perçu
+											comme étant plus risqué que le familier.
+											On pourrait citer comme exemple
+											les gens qui ont peur d'être kidnappé par des inconnus,
+											alors que les données montrent que les enlèvements par des parents sont bien plus courants.
+											Il s'agit des enfants.
+											Troisièmement, les risques personnifiés
+											sont perçus comme étant plus grands que les risques anonymes —
+											donc Ben Laden fait plus peur parce qu'il a un nom.
+											Et le quatrième
+											est que les gens sous-estiment les risques
+											dans les situations qu'ils contrôlent
+											et les surestiment dans les situations qu'ils ne contrôlent pas.
+											Donc une fois que vous vous mettez à faire du parachute ou à fumer,
+											vous minimisez les risques.
+											Si un risque vous tombe dessus — le terrorisme était un bon exemple —
+											vous le surévaluerez, parce que vous n'avez pas l'impression de le contrôler.
+									","
+											Es gibt hier mehrere Verzerrungen beim Abschätzen von Gefahren.
+											Es gibt dabei eine Menge gute Experimente.
+											Und sie können sehen, dass bestimmte Verzerrungen immer und immer wieder vorkommen.
+											Ich werde Ihnen vier nennen.
+											Wir neigen dazu spektakuläre und seltene Gefahren zu übertreiben
+											und allgemeine Gefahren herunterzuspielen —
+											Fliegen gegenüber Autofahren.
+											Das Unbekannte wird als
+											gefährlicher wahrgenommen als das Gewohnte.
+											Ein Beispiel ist,
+											dass Menschen sich vor der Entführung durch Fremde fürchten
+											während Daten zeigen, dass eine Entführung durch Verwandte üblicher ist.
+											Das gilt für Kinder.
+											Drittens, personifizierte Gefahren
+											werden stärker wahrgenommen als anonyme Gefahren —
+											deshalb erschreckt uns Bin Laden mehr, weil er einen Namen hat.
+											Und viertens
+											unterschätzen Menschen Gefahren
+											in Situationen, die Sie kontrollieren
+											und überschätzen Sie in Situationen, die sie nicht kontrollieren.
+											Sobald sie anfangen zu rauchen oder skydiven,
+											spielen sie die Gefahren herunter.
+											Wenn eine Gefahr Druck auf Sie ausübt — Terrorismus war ein gutes Beispiel —
+											werden Sie übertreiben, weil sie nicht das Gefühl haben, dass es in ihrer Macht liegt.
+									",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+","
+","
+","
+","
+",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+											Hay un montón de sesgos más, de estos sesgos cognitivos,
+											que afectan nuestras decisiones sobre riesgos.
+											Está la heurística de disponibilidad,
+											que significa básicamente
+											que estimamos la probabilidad de cualquier cosa
+											por lo fácil que es pensar en instancias de esto.
+											Y se pueden imaginar cómo funciona eso.
+											Si escuchas mucho sobre ataques de tigre deben haber muchos tigres alrededor.
+											No escuchas hablar de ataques de león así que no hay muchos leones alrededor.
+											Esto funciona hasta que inventas los periódicos.
+											Porque lo que los periódicos hacen
+											es repetir una y otra vez
+											los riesgos inusuales.
+											Le digo a la gente: ""si está en las noticias, no te preocupes por eso"".
+											Porque, por definición,
+											las noticias son algo que casi nunca sucede.
+											(Risas)
+											Cuando algo es tan común que deja de ser noticia
+											(accidentes automovilísticos, violencia familiar);
+											esos son los riesgos que hay que tener presentes.
+									","
+											Existe uma variedade de outros enviesamentos destes, destes erros cognitivos,
+											que afectam as nossas decisões de risco.
+											Existe a heurística da disponibilidade,
+											que basicamente quer dizer que
+											avaliamos a probabilidade de algo
+											conforme a facilidade mental de aceder à informação acerca disso.
+											Por isso, podem imaginar como funciona.
+											Se ouvirem muita informação acerca de ataques de tigres, têm de haver muitos tigres nas redondezas.
+											Não ouvem acerca de ataques de leões, não existem muitos leões pela área.
+											Isto funciona inventarem os jornais.
+											Porque o que os jornais fazem
+											é repetir vez após vez
+											os riscos raros.
+											Eu digo às pessoas, se está nas notícias, não se preocupem acerca disso.
+											Porque, por definição,
+											as notícias são algo que quase nunca acontece.
+											(risos)
+											Quando algo é muito comum, já não é notícia —
+											acidentes de carros, violência doméstica —
+											esses são os riscos com que se devem preocupar.
+									","
+											Buna benzer birkaç tane daha önyargı vardır, kavramsal yargılar,
+											ve risk kararlarımızı etkilerler.
+											Sezgilerin geçerliliği diye birşey var,
+											kısaca birşeylerin ihtimalini
+											örneklerinin akla ne kadar kolay
+											geldiğiyle ölçmemiz anlamına gelir.
+											Bunun nasıl işlediğini tahmin edebilirsiniz.
+											Eğer çok sık kaplan saldırısı duyuyorsanız, etrafta çok kaplan var demektir.
+											Aslan saldırılarını duymuyorsanız, etrafta pek aslan yoktur.
+											Bu gazetelerin icadına kadar işe yarıyordu.
+											Çünkü gazetelerin tüm yaptığı
+											az görülen riskleri tekrar tekrar
+											yazmaktır.
+											Her zaman söylerim, eğer haberlerde çıktıysa, korkmayın.
+											Çünkü tanımı böyle,
+											haberler, neredeyse hiç olmayan şeylerden oluşur.
+											(Kahkahalar)
+											Eğer birşey çok yaygınsa, artık haber olmaktan çıkar —
+											araba kazaları, ev içi şiddeti —
+											endişelendiğiniz riskler bunlar.
+									","
+											il y a un tas d'autre tendances, ces tendances cognitives,
+											qui affectent nos prises de risque.
+											il y a l'heuristique de disponibilité,
+											ce qui signifie en gros
+											que nous estimons la probabilité de quelque chose
+											en fonction de la facilité d'en concevoir des exemples.
+											Vous pouvez donc imaginer comment ça fonctionne.
+											Si vus entendez beaucoup parler d'attaques de tigres, il doit y avoir beaucoup de tigres dans le coin.
+											Vous n'etendez pas beaucoup parler d'attaques de lions, il n'y a pas beaucoup de lions dans le coin.
+											Ça fonctionne jusqu'à ce qu'on invente les journaux
+											Parce que ce que font les journaux
+											est qu'ils répètent encore et encore
+											des risques rares.
+											je dis aux gens, si c'est dans les infos, ne vous en inquiétez pas.
+											Parce que par définition,
+											les informations sont des choses qui n'arrivent presque jamais.
+											(Rires)
+											Quand quelque chose est si courant, ce n'est plus de l'information —
+											les accidents de voiture, la violence domestique —
+											voilà les risques dont on se préoccupe.
+									","
+											Es gibt einige andere dieser Verzerrungen, sogenannte kognitive Verzerrungen,
+											die unsere Gefahrensabwägung beeinträchtigen.
+											Da ist die Verfügbarkeitsheuristik,
+											was im Grunde bedeutet,
+											dass wir die Wahrscheinlichkeit von etwas danach abschätzen,
+											wie leicht man sich an ähnliche Beispiele erinnert.
+											Sie können sich also vorstellen, wie das funktioniert.
+											Wenn sie oft von einer Tigerattacke hören, dann müssen viele Tiger in der Gegend sein.
+											Wenn sie nicht viel über Löwenangriffe hören, dann sind nicht viele Löwen in der Gegend
+											Das funktioniert solange bis wir Zeitungen erfinden.
+											Weil Zeitungen
+											immer und immer wieder seltene Gefahren
+											besprechen.
+											Ich erzähle Leuten, wenn es in den Nachrichten ist, dann sorge dich nicht darüber.
+											Weil laut Definition
+											Nachrichten etwas sind, das fast nie passiert.
+											(Gelächter)
+											Wenn etwas so gewöhnlich ist, dass es keine Nachricht mehr ist —
+											Autounfälle, häusliche Gewalt —
+											das sind Gefahren über die sie sich Sorgen sollten.
+									",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+","
+","
+","
+","
+",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+											También somos una especie que contamos historias.
+											Respondemos ante las historias más que a los datos.
+											Y tenemos algo de incapacidad aritmética básica.
+											Es decir, el chiste de ""Uno, dos, tres, muchos"" no se equivoca mucho.
+											Somos muy buenos para los números pequeños.
+											Un mango, dos mangos, tres mangos;
+											diez mil mangos, cien mil mangos:
+											son más mangos de los que puedas comer antes que se pudran.
+											Así que la mitad, un cuarto, un quinto; somos buenos para eso.
+											Uno en un millón, uno en un billón;
+											los dos son casi nunca.
+											Así que tenemos problemas con los riesgos
+											que no son muy frecuentes.
+									","
+											Nós também somos uma espécie de contadores de histórias.
+											Nós respondemos mais a histórias do que a informação.
+											E existe alguma incapacidade matemática.
+											Quer dizer, a piada ""Um, dois, três, muitos"" está, de certa forma, correcta.
+											Nós somos muitos bons com números pequenos.
+											Uma manda, duas mangas, três mangas,
+											10,000 mangas, 100,000 mangas —
+											são muito mais mangas do que as que conseguem comer antes de apodrecerem.
+											Por isso, uma metade, um quarto, um quinto — somos bons nisso.
+											Um num milhão, um num bilião —
+											não existem quase nunca.
+											Por isto temos problemas com riscos
+											que não são muitos comuns.
+									","
+											Biz ayrıca hikaye anlatan bir türüz.
+											Hikayelere verilerden daha çok önem veriyoruz.
+											Ve olup biten aslında çok basit bir yanlış hesaplama.
+											Yani, ""Bir, iki, üç, çok fazla"" dedikleri çok doğru.
+											Küçük rakamlarla aramız iyi.
+											Bir mango, iki mango, üç mango,
+											10.000 mango, 100.000 mango—
+											çürümeden yiyebileceğimizden hala çok fazla.
+											O zaman yarım, çeyrek, beşte biri — işte bunlar daha iyi.
+											Milyonda bir, milyarda bir —
+											ikisi de neredeyse hiç demek.
+											Yani çok yaygın olmayan risklerle
+											hep sorun yaşıyoruz.
+									","
+											Nous sommes aussi une espèce de conteurs.
+											Nous réagissons aux histoires plus qu'aux données.
+											Et ce qu'il se passe, c'est une ignorance numérique élémentaire.
+											Je veux dire, la plaisanterie ""Un, Deux, Trois, Beaucoup"" est assez vraie.
+											Nous sommes vraiment bons avec les petits chiffres.
+											Une mangue, deux mangues, trois mangues,
+											10 000 mangues, 100 000 mangues —
+											c'est toujours plus de mangues que vous ne pouvez manger avant qu'elles pourrissent.
+											Donc un demi, un quart, un cinquième — là nous sommes bons.
+											Un sur un million, un sur un milliard —
+											dans les deux cas, c'est presque jamais.
+											Donc nous avons du mal avec les risques
+											qui ne sont pas très courants.
+									","
+											Wir sind außerdem eine Spezies der Geschichtenerzähler.
+											Wir sprechen auf Geschichten besser an als auf Daten.
+											Und dazu kommt noch etwas von unserer Rechenschwäche.
+											Ich meine der Scherz ""Eins, Zwei, Drei, ganz viele"" ist irgendwo richtig.
+											Wir sind richtig gut mit kleinen Zahlen.
+											Eine Mango, zwei Mangos, drei Mangos,
+											10.000 Mangos, 100.000 Mangos —
+											Es sind immer noch mehr Mangos als Sie essen können bevor sie verfaulen.
+											Die Hälfte, ein Viertel, ein Fünftel — wir sind gut darin.
+											Ein Millionstel, ein Milliardstel —
+											sie passieren beide so gut wie nie.
+											Wir haben also Schwierigkeiten mit Risiken
+											die nicht alltäglich sind.
+									",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+","
+","
+","
+","
+",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+											Y lo que estos sesgos cognitivos hacen
+											es que actúan como filtros entre nosotros y la realidad.
+											Y el resultado es que
+											la sensación y la realidad se desequilibran,
+											se tornan diferentes.
+											Así que puedes tener la sensación; sentirte más seguro de lo que estás.
+											Hay una sensación irreal de seguridad.
+											O al contrario,
+											y esa es una sensación irreal de inseguridad.
+											Escribo mucho sobre ""teatro de seguridad"",
+											que son productos que hacen que la gente se sienta segura
+											pero que en realidad no hacen nada.
+											No hay una palabra apropiada para cosas que nos den seguridad,
+											pero que no nos hagan sentir seguros.
+											Quizás esto es lo que se supone que la CIA debería lograr.
+									","
+											E o que fazem esses enviesamentos cognitivos
+											é agir como filtros entre nós e a realidade.
+											E o resultado é que
+											o sentimento e a realidade se tornam discrepantes
+											se tornam diferentes.
+											E ou têm uma sensação — sentem-se mais seguros que dantes.
+											Existe um falso sentimento de segurança.
+											Ou [têm o sentimento] oposto,
+											e esse é o falso sentimento de insegurança.
+											Eu escrevo muito acerca do ""teatro de segurança"",
+											que são produtos que fazem as pessoas sentirem-se seguras
+											mas que, na realidade, não fazem nada.
+											Não existem uma palavra real para as coisas que nos fazem seguros,
+											mas que não nos fazem sentir seguros.
+											Talvez seja isso o que a CIA faz supostamente por nós.
+									","
+											Bu kavramsal önyargıların yaptığı ise
+											bizimle gerçeklik arasında bir perde oluşturmak.
+											Ve bunun sonucunda
+											hislerimizle gerçeklik hızla ayrılıp,
+											farklılaşıyorlar.
+											Artık ya hissediyorsunuzdur — olduğunuzdan daha güvenli hissediyorsunuzdur.
+											Güvende olduğunuza dair yanlış bir hisse kapılırsınız.
+											Ya da,
+											güvende olmadığınıza dair yanlış hisse kapılırsınız.
+											""Güvenlik tiyatroları""yla ilgili çok sık yazarım,
+											insanları güvende hissettiren ancak bu konuda
+											hiç birşey yapmayan ürünler.
+											Kendimizi güvende hissettiren anncak güvenliğimizi
+											sağlamayan şeyler için gerçek bir kelimemiz yok.
+											Belki de CIA'in yapması gereken şey budur.
+									","
+											Et ce que ces tendances cognitives font,
+											est qu'elles agissent comme des filtres entre la réalité et nous.
+											Et le résultat
+											est que l'impression et la réalité ne collent pas,
+											ils diffèrent.
+											Et vous avez soit une impression — vous vous sentez plus en sécurité que vous ne l'êtes.
+											C'est une fausse impression de sécurité.
+											Ou le contraire,
+											et c'est une fausse impression d'insécurité.
+											J'écris beaucoup sur ""le théâtre de la sécurité"",
+											et ce sont les produits qui rassurent les gens,
+											mais qui en fait ne font rien.
+											Il n'y a pas de monde réel pour les choses qui nous mettent en sécurité,
+											mais ne nous en donnent pas l'impression.
+											C'est peut-être ce que la CIA est sensée faire pour nous.
+									","
+											Und was diese kognitiven Verzerrungen tun,
+											ist dass sie als Filter zwischen uns und der Realität agieren.
+											Und das Ergebnis
+											ist das Gefühl und Realität aus dem Gleichgewicht geraten,
+											sie unterscheiden sich.
+											Jetzt haben sie entweder ein Gefühl — Sie fühlen sich sicherer als sie sind.
+											Da ist ein falsches Empfinden von Sicherheit.
+											Oder andersherum,
+											und das ist ein falsches Empfinden von Unsicherheit.
+											Ich schreibe viel über das ""Sicherheitstheater""
+											was Produkte sind, die den Menschen ein sicheres Gefühl geben,
+											aber genau genommen gar nichts bewirken.
+											Es gibt kein richtiges Wort für die Dinge, die uns Sicherheit geben,
+											aber uns nicht Sicherheit fühlen lassen.
+											Vielleicht ist das was die CIA für uns tun sollte.
+									",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+","
+","
+","
+","
+",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+											Y volvamos a la economía.
+											Si la economía, si el mercado, son lo que impulsan a la seguridad
+											y si la gente hace concesiones
+											basadas en su sensación de seguridad,
+											entonces lo más inteligente que las empresas pueden hacer
+											por sus propios incentivos económicos
+											es lograr la gente se sienta segura.
+											Y hay dos maneras de hacer esto.
+											Uno, pueden hacer que la gente realmente esté segura
+											y esperar que se den cuenta.
+											O dos, pueden hacer que la gente se sienta segura
+											y esperar que no se den cuenta.
+											Entonces, ¿qué hace que la gente se dé cuenta?
+											Bueno, un par de cosas:
+											entender qué es la seguridad,
+											los riesgos, las amenazas,
+											las medidas previas, cómo funcionan.
+											Pero si sabes esas cosas,
+											es más probable que tus sensaciones calcen con la realidad.
+											Ayuda tener suficientes ejemplos del mundo real.
+									","
+											Portanto, de volta à economia.
+											Se a economia, se os mercados, impulsionam segurança,
+											e se as pessoas fazem escolhas
+											baseadas nos sentimentos de segurança,
+											então, a coisa mais acertada para as companhias fazerem
+											para os incentivos económicos
+											é fazer as pessoas sentirem-se seguras.
+											E existem duas formas de fazer isto.
+											Uma, podem fazer as pessoas sentirem-se realmente seguras
+											e esperar que elas reparem.
+											Ou a segunda, podem fazer simplesmente as pessoas sentirem-se seguras
+											e esperar que não reparem.
+											E o que faz as pessoas repararem?
+											Bem, um conjunto de coisas:
+											compreensão da segurança,
+											dos riscos, das ameaças,
+											das medidas de combate, como funcionam.
+											Mas se souberem coisas,
+											é mais fácil que os vossos sentimentos coincidam com a realidade.
+											Exemplos suficientes do mundo real ajudam.
+									","
+											Ekonomiye geri gelelim.
+											Ekonomi, pazar güvenlik sağlarsa,
+											ve insanlar güven hissi için
+											değiş-tokuşa devam ederse,
+											akıllı şirketlerin ekonomik teşvik için
+											yapmaları gereken şey
+											insanları güvende hissettirmektir.
+											Ve bunu yapmanın iki yolu vardır.
+											Biri, insanların güvenliğini sağlamak
+											ve farketmelerini ummak.
+											Diğeri, insanların sadece güvende hissetmelerini sağlayıp
+											farketmemelerini ummak.
+											Peki insanların farketmesini ne sağlar?
+											Bazı şeyler var:
+											güvenliğin, risklerin ve tehditlerin
+											ve alınan önlemlerin ne olduğunu anlamak,
+											ve bunların işleyişini öğrenmek.
+											Bunları biliyorsanız,
+											hislerinizin gerçeklikle uyuşmasını başarmanız daha olasıdır.
+											Yeterince gerçek örnekler yardımcı olabilir.
+									","
+											Revenons donc à l'économie.
+											Si l'économie, si le marché conduit la sécurité,
+											et si les gens font des échanges
+											d'après l'impression de sécurité,
+											alors la chose intelligente à faire pour les entreprises
+											pour que les motivations économiques
+											permettent aux gens de se sentir plus en sécurité.
+											Et il y a deux manières de le faire.
+											Une, vous pouvez mettre vraiment les gens plus en sécurité
+											et espérer qu'ils le remarquent.
+											Ou deux, vous pouvez donner aux gens seulement une impression de sécurité
+											et espérer qu'ils ne s'en aperçoivent pas.
+											Alors qu'est-ce qui fait que les gens le remarquent?
+											Et bien deux ou trois choses :
+											comprendre la sécurité,
+											les risques, les menaces
+											des contre-mesures, comment elles fonctionnent.
+											Mais si vous savez des trucs,
+											vos impressions sont plus susceptibles de coller à la réalité.
+											Avoir assez d'exemples dans le monde réel vous aide.
+									","
+											Zurück zu Wirtschaftswissenschaften.
+											Wenn die Wirtschaft, wenn der Markt Sicherheit antreibt,
+											und wenn Leute Kompromisse machen
+											basierend auf dem Gefühl von Sicherheit,
+											dann ist es geschickt für Firmen
+											für einen wirtschaftlichen Bonus
+											Menschen ein sicheres Gefühl zu geben.
+											Und es gibt zwei Wege das zu tun.
+											Erstens können sie Leute tatsächlich Sicherheit geben
+											und hoffen, dass sie es bemerken.
+											Oder zweitens, sie geben den Leuten nur ein Gefühl von Sicherheit
+											und hoffen dass sie es nicht bemerken.
+											Was nehmen die Leute wahr ?
+											Nun einige Dinge:
+											Verständnis von Sicherheit,
+											der Risiken, der Gefahren,
+											der Gegenmaßnahmen, wie sie funktionieren.
+											Je mehr Sie über diese Dinge Bescheid wissen
+											desto wahrscheinlicher ist es, dass Ihre Gefühle mit der Realität übereinstimmen.
+											Genügend Beispiele aus der realen Welt helfen.
+									",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+","
+","
+","
+","
+",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+											Ahora todos sabemos la tasa de crímenes en nuestro vecindario,
+											porque vivimos allí y tenemos una sensación al respecto
+											que esencialmente calza con la realidad.
+											El teatro de seguridad queda expuesto
+											cuando es obvio que no está funcionando correctamente.
+											Y entonces, ¿qué hace que la gente no se dé cuenta?
+											Bueno, una mala comprensión.
+											Si no entiendes los riesgos, no entiendes los costos,
+											es probable que tomes una mala decisión,
+											y que tu sensación no corresponda con la realidad.
+											Ejemplos insuficientes:
+											Hay un problema intrínseco
+											con eventos de baja probabilidad.
+											Si, por ejemplo, casi nunca hay
+											actos terroristas,
+											es muy difícil medir cuan eficientes
+											son las medidas en la lucha contra el terrorismo.
+											Por eso sigues sacrificando vírgenes,
+											y la razón que tus defensas de unicornio estén funcionando de maravilla.
+											No hay suficientes ejemplos de fracasos.
+											Además, las sensaciones que nublan los temas;
+											los sesgos cognitivos que mencioné antes,
+											los miedos, las creencias populares,
+											son básicamente un modelo inadecuado de la realidad.
+									","
+											Todos sabemos a taxa de criminalidade do nosso bairro,
+											porque vivemos aí, e temos um sentimento acerca disso
+											que, praticamente, coincide com a realidade.
+											Os teatros de segurança são expostos
+											quando é óbvio que não estão a funcionar apropriadamente.
+											Okay, portando, o que acontece quando as pessoas não reparam?
+											Bem, um entendimento fraco.
+											Se não compreenderem os riscos, não entendem os custos,
+											e são capazes de fazer a escolha errada,
+											e o vosso sentimento não coincide com a realidade.
+											Não há exemplos suficientes.
+											Existe um problema inerente
+											com eventos com baixa probabilidade.
+											Se, por exemplo,
+											o terrorismo quase nunca ocorre,
+											é muito difícil de avaliar
+											a eficácia de medidas contra-terroristas.
+											Este é o porquê de continuarem a sacrificar virgens,
+											e porque as vossas defesas de unicórnios funcionam muito bem.
+											Não existem exemplos suficientes de falhas.
+											Para além disso, sentimentos que abafam os problemas —
+											os enviasamentos cognitivos de que falámos antes,
+											os medos, as crenças populares,
+											basicamente, um modelo inadequado da realidade.
+									","
+											Hepimiz yaşadığımız yerlerdeki suç oranlarını biliriz,
+											çünkü orada yaşıyoruz ve burayla ilgilli hislerimiz
+											çoğunlukla gerçeklikle eşleşir.
+											Güvenlik tiyatrolarına
+											işe yaramadığı kesin olduğunda maruz kalırız.
+											Pekala, insanların farketmemesini ne sağlar?
+											Tabi ki, az bilgi sahibi olmak.
+											Eğer riskleri bilmezseniz, neye malolacağını da anlayamazsınız,
+											bu yüzden doğru takası yapamazsınız,
+											ve hisleriniz gerçeklikle eşleşmez.
+											Örnekler yeterli değil.
+											Düşük ihtimalli olaylarla ilgili
+											doğal bir problem var.
+											Mesela,
+											terörizm neredeyse hiç olmasaydı,
+											terör karşıtı önlemlerin
+											etkinliğini ölçmek zorlaşırdı.
+											Bakireleri kurban etmeye devam etmenizin,
+											ve ünikornlardan korunma yönteminizin işe yaramasının asıl sebebi budur.
+											Yeterince başarısız olma örneğiniz yoktur.
+											Ayrıca, meseleleri gizleyen hisler —
+											daha önce bahsettiğim kavramsal önyargılar,
+											korkular ve halk inanışları,
+											gerçekliğin yetersiz birer modelleridirler.
+									","
+											Et nous connaissons tous le taux de criminalité dans notre quartier,
+											parce que nous y vivons, et que nous en avons une impression
+											qui en gros colle à la réalité.
+											Le théâtre de sécurité est exposé
+											quand il est évident qu'il ne fonctionne pas correctement.
+											Bon, alors qu'est-ce qui fait que les gens ne remarquent pas?
+											Et bien une mauvaise compréhension.
+											Si vous ne comprenez pas les risques, vous ne comprenez pas les coûts,
+											vous êtes susceptibles de ne pas faire les bons échanges,
+											et votre impression ne colle pas à la réalité.
+											Pas assez d'exemples
+											C'est un problème inhérent
+											aux évènements de faible probabilité.
+											Si, par exemple,
+											le terrorisme ne se produit presque jamais,
+											il est vraiment difficile de juger
+											l'efficacité de nos mesures anti-terrorisme.
+											C'est pourquoi on continue à sacrifier des vierges,
+											et pourquoi vos défenses de licorne fonctionnent parfaitement.
+											Il n'y a pas assez d'exemples d'échecs.
+											Aussi, les impressions qui rendent les problèmes confus —
+											les tendances cognitives dont j'ai parlé plus tôt,
+											les peurs, les croyances populaires,
+											en gros un modèle inadéquat de réalité.
+									","
+											Wir alle wissen die Kriminalitätsrate in unserer Nachbarschaft,
+											weil wir dort leben, und wir bekommen ein Gefühl dafür
+											das im Grunde der Realität entspricht.
+											Das Sicherheitstheater wird aufgedeckt,
+											wenn es offensichtlich ist, dass es nicht richtig funktioniert.
+											Okay, was löst die Wahrnehmung bei den Leuten aus?
+											Nun, ein unzureichendes Verständnis.
+											Wenn sie die Risiken nicht verstehen, verstehen sie nicht die Kosten,
+											werden sie wahrscheinlich falsch abwägen
+											und ihr Gefühl wird nicht mit der Realität übereinstimmen.
+											Nicht genug der Beispiele.
+											Ereignissen geringer Wahrscheinlichkeit
+											haftet ein Problem an:
+											wenn zum Beispiel,
+											Terrorismus fast nie passiert,
+											ist es wirklich schwierig die Effektivität
+											von Antiterrormaßnahmen zu beurteilen.
+											Das ist der Grund warum wir Jungfrauen opfern,
+											und warum mystische Erklärungen einfach gut funktionieren.
+											Es gibt nicht genug Beispiele für Misserfolge.
+											Dazu Gefühle, die Tatsachen verschleiern —
+											die kognitiven Verzerrungen über die ich vorher gesprochen habe,
+											Ängste, verbreiteter Glaube
+											sind im Kern ein unpassendes Modell der Realität.
+									",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+","
+","
+","
+","
+",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+											Y déjenme complicar las cosas.
+											Está la sensación y la realidad.
+											Quiero añadir un tercer elemento. Quiero añadir el modelo.
+											Sensación y modelo dentro de nuestra cabeza,
+											la realidad es el mundo exterior.
+											No cambia, es real.
+											Y la sensación se basa en la intuición.
+											El modelamiento se basa en la razón.
+											Eso es básicamente la diferencia.
+											En un mundo primitivo y simple,
+											no hay ninguna razón real para un modelo.
+											Porque la sensación es muy similar a la realidad.
+											No necesitas un modelo.
+											Pero en un mundo moderno y complejo,
+											necesitas modelos para
+											comprender muchos de los riesgos que enfrentamos.
+											Los gérmenes no nos generan una sensación.
+											Se necesita un modelo para entenderlos.
+											Así que este modelo es una
+											representación inteligente de la realidad.
+											Está, por supuesto, limitado por la ciencia,
+											por la tecnología.
+											No podríamos tener una teoría de los gérmenes en enfermedades
+											antes de que inventáramos el microscopio para verlos.
+											Está limitado por nuestros prejuicios cognitivos.
+											Pero tiene la capacidad de
+											imponerse por sobre nuestras sensaciones.
+									","
+											Deixem-me complicar as coisas.
+											Eu tenho sentimento e realidade.
+											Eu quero adicionar um terceiro elemento. Eu quero adicionar um modelo.
+											O sentimento e o modelo [estão] na nossa cabeça,
+											a realidade é o mundo exterior.
+											Não muda; é real.
+											Portanto, o sentimento é baseado na nossa intuição.
+											O modelo é baseado na razão.
+											Essa é a diferença fundamental.
+											Num mundo primitivo e simples,
+											não existem motivos para [a existência] de um modelo.
+											Porque o sentimento está próximo da realidade.
+											Não precisam de um modelo.
+											Mas num mundo moderno e complexo,
+											precisam de modelos
+											para compreender os riscos com que nos defrontamos.
+											Não existem sentimentos em relação a germes.
+											Precisam do modelo para os compreender.
+											Este modelo
+											é uma representação inteligente da realidade.
+											É, obviamente, limitado pela ciência,
+											pela tecnologia.
+											Não podíamos ter uma teoria de doenças de germes
+											antes de inventarmos o microscópio para os ver.
+											É limitado pelos nossos vieses cognitivos.
+											Mas tem a capacidade
+											de se sobrepôr aos nossos sentimentos.
+									","
+											O zaman durumu biraz daha karmaşıklaştıralım.
+											Elimde hisler ve gerçeklik var.
+											Üçüncü bir element daha ekleyelim: bir model ekleyelim.
+											Model ve duygular kafamızda,
+											gerçeklik ise dış dünyada.
+											Değişmez; çünkü gerçek.
+											Hisler içgüdülerimize dayalıdır.
+											Model, mantığa.
+											Aradaki temel fark budur
+											Basit ve ilkel bir dünyada,
+											bir modele o kadar da ihtiyaç yoktur.
+											Çünkü hisler gerçekliğe yakındır.
+											Modele ihtiyaç duymazsınız.
+											Ancak modern ve karmaşık bir dünyada,
+											karşılaştığımız riskleri
+											anlamak için modellerie ihtiyaç duyarız.
+											Mikropları hissetmeyiz.
+											Bu nedenle anlamak için modele ihtiyaç duyarız.
+											Bu model de
+											gerçeğin iyi uyarlanmış bir temsilidir.
+											Tabi ki, bilim ve teknolojinin olanaklarıyla
+											sınırlıdır.
+											Hastalıkların mikroplarla bağlantılı olma teorisini
+											mikroskop icat edilip de onları görmeden bilemezdik.
+											Kavramsal önyargılarımızla da sınırlıdır.
+											Ama bu, hislerimizi
+											hükümsüz kılabilir.
+									","
+											Alors permettez-moi de compliquer les choses.
+											J'ai l'impression et la réalité.
+											Je veux ajouter un troisième élément. Je veux ajouter un modèle.
+											L'impression et le modèle dans nos têtes,
+											la réalité c'est le monde extérieur.
+											Il ne change pas: il est réel.
+											Donc l'impression se fonde sur notre intuition.
+											Le modèle se fonde sur la raison.
+											C'est en gros la différence.
+											Dans un monde primitif et simple,
+											il n'y a pas de raison pour un modèle.
+											Parce que l'impression est proche de la réalité.
+											On n'a pas besoin d'un modèle.
+											Mais dans un monde moderne et complexe,
+											on a besoin de modèles
+											pour comprendre bon nombre des risques auxquels nous sommes confrontés.
+											Il n'y a pas d'impression vis à vis des microbes.
+											Il vous faut un modèle pour les comprendre.
+											Donc ce modèle
+											est une représentation intelligente de la réalité.
+											Il est bien sûr limité par la science,
+											par la technologie.
+											Nous ne pouvions pas écrire une théorie microbienne de la maladie
+											avant d'avoir inventé le microscope pour les voir.
+											Il est limité par nos tendances cognitives.
+											Mais il a la capacité
+											de l'emporter sur nos impressions.
+									","
+											Lassen Sie mich die Dinge verkomplizieren.
+											Ich habe Gefühl und Realität
+											Ich möchte ein drittes Element hinzufügen: Modelle
+											Gefühle und Modelle sind in unserem Kopf
+											Realität ist die Welt da draußen.
+											Es ändert sich nicht; es ist real.
+											Gefühle basieren auf unserer Intuition.
+											Modelle basieren auf Ursachen.
+											Das ist grundlegende Unterschied.
+											In einer primitiven und einfachen Welt,
+											gibt es wirklich kein Grund für ein Modell.
+											Weil das Gefühl der Realität so nah ist,
+											brauchen sie kein Modell.
+											Aber in einer modernen und komplexen Welt
+											brauchen sie Modelle
+											um die vielen Risiken mit denen wir konfrontiert sind zu verstehen.
+											Es gibt kein Gefühl für Bakterien.
+											Sie brauchen ein Modell um sie zu verstehen.
+											Dieses Modell
+											ist eine intelligente Darstellung der Realität.
+											Es ist natürlich begrenzt durch Wissenschaft
+											durch Technik.
+											Wir konnten keine Theorie der Keime entwickeln
+											bevor wir die Mikroskope erfunden hatten, um sie zu sehen.
+											Es ist begrenzt durch unsere kognitiven Verzerrungen,
+											hat aber die Fähigkeit,
+											unsere Gefühle außer Kraft zu setzen.
+									",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+","
+","
+","
+","
+",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+											¿De dónde obtenemos estos modelos? De los demás.
+											Los obtenemos de la religión, de la cultura,
+											de los profesores, de los mayores.
+											Hace un par de años
+											estaba de safari en Sudáfrica.
+											El guía con que estaba había crecido en el Parque Nacional Kruger.
+											Tenía unos modelos de supervivencia muy complejos.
+											Y dependía de si habías sido atacado
+											por un león o un leopardo o un rinoceronte o un elefante
+											-y cuando tenías que huir, y cuando tenías que subirte a un árbol,
+											cuando no podías en ningún caso subirte a un árbol-.
+											Me habría muerto en un día
+											pero él nació allí
+											y entendía cómo sobrevivir.
+											Yo nací en Nueva York.
+											Lo podría haber llevado a Nueva York y él se habría muerto en un día.
+											(Risas)
+											Porque teníamos modelos diferentes
+											basados en nuestras experiencias diferentes.
+									","
+											Onde aprendemos estes modelos? Aprendêmo-los dos outros.
+											Aprendemo-los da religião, cultura,
+											professores, anciãos.
+											Há alguns anos,
+											estava num safari na África do Sul.
+											O batedor com quem estava tinha crescido no Parque Nacional de Kruger.
+											Ele tinha alguns modelos muito complexos acerca de como sobreviver.
+											E dependiam se eram atacados
+											por um leão, ou um leopardo, ou um rinoceronte, ou um elefante —
+											e sobre quando tinham de correr, e quando tinham de subir a uma árvora —
+											quando nunca podiam subir a uma árvore.
+											Eu teria morrido nesse dia,
+											mas ele tinha nascido ali,
+											e ele compreendia como sobreviver.
+											Eu nasci na cidade de Nova Iorque.
+											Eu poderia tê-lo levado a Nova Iorque, e ele teria morrido nesse dia.
+											(risos)
+											Porque tínhamos modelos diferentes
+											baseados nas nossas diferenças.
+									","
+											Bu modelleri nasıl ediniriz? Diğerlerinden alarak.
+											Modelleri dinden, kültürden, öğretmenlerden,
+											büyüklerimizden ediniriz.
+											Bir kaç yıl önce
+											Güney Afrika'da safarideydim.
+											Grubumuzun rehberi Kruger Ulusal Parkında büyümüş.
+											Hayatta kalmak için oldukça karmaşık modeller edinmiş.
+											Bu model, bir aslan ya da leopar yada gergedan
+											ya da fil saldırısana uğramayı —
+											ve kaçmak zorunda oluşunuzu, ve bir ağaca tırmanmayı bilmeseniz bile
+											ağaca tırmanmak zorunda oluşunuzu içeriyor.
+											Ben orada bir gün içinde ölürdüm,
+											ancak adam orada doğmuş,
+											ve hayatta kalma yollarını öğrenmiş.
+											Bense New York'ta doğdum.
+											Onu da New York'a getirsem, o da bir gün içinde ölürdü.
+											(Kahkahalar)
+											Çünkü biz, farklı deneyimlere bağlı
+											farklı modeller edinmişiz.
+									","
+											Où trouvons-nous ces modèles? Nous les trouvons chez les autres.
+											Nous les trouvons dans la religion, la culture,
+											chez les enseignants, chez nos aînés.
+											Il y a deux ans,
+											j'étais en Afrique du Sud en safari.
+											Le pisteur avec qui j'étais a grandi dans le parc national Kruger.
+											Il avait des modèles très complexes de façon de survivre.
+											Et ça dépendait de si vous étiez attaqué
+											par un lion, ou un léopard, ou un rhinocéros, ou un éléphant —
+											et quand vous deviez fuir, et quand vous deviez grimper à un arbre —
+											quand vous pouviez ne jamais grimper à un arbre.
+											Je serais mort dans la journée,
+											mais il était né là,
+											et il comprenait comment survivre.
+											Je suis né à New York City.
+											J'aurais pu l'emmener à New York, et il serait mort dans la journée.
+											(Rires)
+											Parce que nous avions différents modèles
+											fondés sur nos différentes expériences.
+									","
+											Woher bekommen wir diese Modelle? Wir bekommen sie von anderen.
+											Wir bekommen sie von Religion, Kultur,
+											Lehrern, Älteren.
+											Vor einigen Jahren
+											war ich auf Safari in Südafrika.
+											Der Fährtenleser mit dem ich dort war, wuchs im Krüger Nationalpark auf.
+											Er hatte einige sehr komplizierte Modelle wie man überlebt.
+											Und es hing davon ab ob wir von einem Löwen, Leoparden,
+											Rhinozeros oder einem Elefanten angegriffen werden —
+											und wann man weglaufen muss, und wann man auf einen Baum klettern muss —
+											wann mann niemals auf einen Baum klettern kann.
+											Ich wäre innerhalb eines Tages gestorben,
+											aber er war dort geboren
+											und verstand sich darauf zu überleben.
+											Ich bin in New York City geboren.
+											Ich hätte ihn mit nach New York nehmen können und er wäre innerhalb eines Tages gestorben.
+											(Gelächter)
+											Weil wir verschiedene Modelle haben
+											basierend auf unseren unterschiedlichen Erfahrungen.
+									",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+","
+","
+","
+","
+",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+											Los modelos pueden provenir de los medios,
+											de nuestros políticos electos.
+											Piensen en los modelos de terrorismo,
+											de secuestro infantil,
+											de seguridad aérea, seguridad de los vehículos.
+											Los modelos pueden provenir de la industria.
+											Los dos que estoy siguiendo son las cámaras de vigilancia
+											y las tarjetas de identificación,
+											muchos de nuestros modelos de seguridad informática vienen de esto.
+											Muchos de los modelos provienen de la ciencia.
+											Un muy buen ejemplo son los modelos de salud.
+											Piensen en cáncer, en gripe aviar, en gripe porcina, en SARS.
+											Todas nuestras sensaciones de seguridad
+											acerca de esas enfermedades
+											provienen, en realidad, de los modelos
+											entregados a nosotros por la ciencia filtrada a través de los medios.
+											Y los modelos pueden cambiar.
+											Los modelos no son estáticos.
+											A medida que nos sentimos más cómodos en nuestros ambientes,
+											nuestro modelo se va acercando a nuestra sensación.
+									","
+											Os modelos podem vir dos meios de comunicação,
+											dos nossos oficiais elegidos.
+											Pensem em modelos de terrorismo,
+											rapto infantil,
+											segurança aérea, segurança automóvel.
+											Os modelos podem vir da indústria.
+											Os dois que eu sigo são as câmaras de vigilância,
+											cartões de identificação,
+											bastantes dos nossos modelos de segurança computacional vêm daí.
+											Muitos dos modelos vêm da ciência.
+											Os modelos de saúde são exemplos excelentes.
+											Pensem em cancro, em gripe das aves, gripe suína, o vírus SARS.
+											Todos os nossos sentimentos de segurança
+											acerca dessas doenças
+											vêm de modelos
+											que nos são dados, na realidade, pela ciência filtrada pelos meios de comunicação.
+											Por isso, os modelos podem mudar.
+											Os modelos não são estáticos.
+											À medida que nos tornamos mais confortáveis nos nossos ambientes,
+											o nosso modelo pode tornar-se mais próximo dos nossos sentimentos.
+									","
+											Modellerimiz medyadan ya da
+											seçilmiş yetkililerimizden gelebilir.
+											Terörizm modellerini düşünün,
+											çocuk kaçırma,
+											havayolu ya da araç güvenliğini.
+											Modeller endüstriden gelebilir.
+											Takip ettiğim iki tanesi gözetim kameraları ve
+											kimlik kartları,
+											bilgisayar güvenlik modellerimizin çoğu bunlardan geliyor.
+											Çoğu modelse bilimden gelir.
+											Sağlık modelleri buna iyi bir örnek olur.
+											Kanseri bi düşünün, kuş gribi, domuz gribi ve SARS'ı.
+											Bu hastalıklara karşı geliştirdiğimiz
+											güvenlik hisleri
+											bize verilen
+											medyadın bilimden ayıklayıp sunduğu modellere dayanır.
+											Yani modeller değişebilir.
+											Modeller sabit değillerdir.
+											Çevremizde daha güvende hissetikçe
+											modelimiz hislerimize daha çok yaklaşır.
+									","
+											Les modèles peuvent venir des medias,
+											de nos élus.
+											Pensez aux modèles de terrorisme,
+											d'enlèvement d'enfant,
+											de sécurité aérienne, de sécurité automobile.
+											Les modèles peuvent venir de l'industrie.
+											Les deux que je suis sont les caméras de surveillance,
+											les cartes d'identités,
+											un bon nombre de nos modèles de sécurité informatique viennent de là.
+											Beaucoup de modèles viennent de la science.
+											Les modèles de santé sont un excellent exemple.
+											Pensez au cancer, à la grippe aviaire, la grippe porcine, le SRAS.
+											Toutes nos impressions de sécurité
+											vis à vis de ces maladies
+											viennent de modèles
+											qu'on nous donne, vraiment, par la science filtrée par les médias.
+											Donc les modèles changent.
+											Les modèles ne sont pas statiques.
+											Alors que nous sommes plus à l'aise avec nos environnements,
+											notre modèle peut se rapprocher de nos impressions.
+									","
+											Modelle können aus den Medien kommen,
+											von unseren gewählten Vertretern.
+											Denken sie an Modelle über Terrorismus,
+											Kindesentführung
+											Sicherheit im Flugzeug, Sicherheit im Auto.
+											Modelle können aus der Industrie kommen.
+											Die beiden, die ich verfolge sind Überwachungskameras
+											und Ausweise,
+											etliche unserer Computersicherheitsmodelle kommen daher.
+											Viele Modelle kommen aus der Wissenschaft.
+											Gesundheitsmodelle sind ein tolles Beispiel.
+											Denken sie an Krebs, Vogelgrippe, Schweinegrippe, SARS.
+											Alle unserer Gefühle von Sicherheit
+											über diese Krankheiten
+											kommen von Modellen
+											die uns, wirklich, von der Wissenschaft gefiltert durch die Medien gegeben werden.
+											Modelle können sich ändern.
+											Modelle sind nicht statisch.
+											Je wohler wir uns in einer Umgebung fühlen,
+											desto eher stimmt unser Modell mit unserem Gefühl überein.
+									",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+","
+","
+","
+","
+",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+											Así que un ejemplo podría ser,
+											si nos remontamos 100 años atrás
+											cuando la electricidad se tornaba cada vez más común,
+											había un montón de temores con respecto a esta.
+											Quiero decir, había personas que tenían miedo de presionar un timbre
+											ya que había electricidad dentro de él y eso era peligroso.
+											Para nosotros no hay problemas cerca de la electricidad.
+											Cambiamos las ampolletas
+											sin siquiera pensar en ello.
+											Nuestro modelo de seguridad con respecto a la electricidad
+											es algo con lo cual nacemos.
+											No ha cambiado mientras hemos ido creciendo.
+											Y somos buenos para manejarlo.
+											O piensen en los riesgos
+											con respecto a Internet entre generaciones;
+											cómo sus padres determinan la seguridad en Internet
+											frente a cómo lo hacen ustedes
+											frente a cómo lo harán nuestros hijos.
+											Con el tiempo los modelos se van al inconsciente.
+											Intuitivo es sólo otra palabra para familiar.
+									","
+											Por isso, um exemplo pode ser,
+											se voltarem atrás no tempo 100 anos
+											quando a electricidade ainda se estava a tornar comum,
+											existiam muitos medos acerca disso.
+											Quer dizer, havia pessoas que tinham medo de tocar à campainha,
+											porque existia ali electricidade, e era perigoso.
+											Para nós, somos bastante condescendentes em relação à electricidade.
+											Nós mudamos lâmpadas
+											sem sequer pensar nisso
+											O nosso modelo de segurança acerca da electricidade
+											é algo para o qual nascemos.
+											Não mudou enquanto crescíamos.
+											E somos bons nele.,
+											Ora, pensem nos riscos
+											na Internet entre gerações —
+											como os vossos pais lidavam com a segurança da Internet,
+											versus, como vocês o fazem,
+											versus como os vossos filhos vão lidar.
+											Os modelos acabam por se dissolver.
+											Intuitivo é apenas outra palavra para familiar.
+									","
+											Örneğin,
+											elektriğin yeni yaygınlaşmaya başladığı
+											100 yıl öncesine gidecek olsaydınız
+											elektrikten ne kadar korkulduğunu görürdünüz.
+											Kapı zilini çalmaktan korkan insanlar vardı,
+											çünkü düğmede elektrik vardı ve bu tehlikeliydi.
+											Bize gelince, biz elektrik konusunda çok rahatız.
+											Hiç düşünmeden
+											ampulleri değiştirebiliyoruz.
+											Elektrik konusunda oluşturduğumuz
+											bu güven modeliyle büyüdük.
+											Ve bu sürede bu hiç değişmedi.
+											Ve hepimiz bunda iyiyiz.
+											İnternet risklerinin
+											nesiller boyunca değişimini düşünün —
+											anne babanızın internet güvenliğine yaklaşımını,
+											sizin yaklaşımınızı,
+											ve çocuklarınızınkini karşılaştırın.
+											Modeller zamanla altyapı halini alır.
+											Sezgisel, tanıdık anlamına gelen başka bir sözcüktür.
+									","
+											Et on pourrait prendre pour exemple
+											si on remonte à 100 en arrière
+											quand l'électricité est devenue courante pour la première fois,
+											elle a généré beaucoup de peurs.
+											Je veux dire qu'il y avait des gens qui avaient peur de sonner aux portes ;
+											parce qu'il y avait de l'électricité dans les sonnettes, et que c'était dangereux.
+											Pour nous, nous sommes à l'aise avec l'électricité.
+											Nous changeons les ampoules
+											sans même y réfléchir.
+											Notre modèle de sécurité vis à vis de l'électricité
+											est une chose dans laquelle nous sommes nés.
+											Il n'a pas changé alors que nous grandissions.
+											Et nous sommes bons là-dedans.
+											Ou sinon, pensez aux risques
+											sur internet entre générations —
+											comment vos parents abordent la sécurité d'internet,
+											par rapport à ce que vous faites,
+											par rapport à comment vos enfants le feront.
+											Les modèles finissent par se fondre dans le décor.
+											Intuitif est synonyme de familier.
+									","
+											Ein Beispiel mag sein,
+											wenn Sie 100 Jahre zurück gehen
+											als Elektrizität allmählich eingeführt wurde,
+											gab es eine Menge Ängste.
+											Ich meine, es gab Leute, die Angst hatten Türklingeln zu drücken,
+											weil sie mit Elektrizität betrieben wurden, und die war gefährlich.
+											Für uns ist Elektrizität einfach banal.
+											Wir wechseln Glühbirnen
+											ohne darüber nachzudenken.
+											Unser Modell der Sicherheit um Elektrizität
+											ist etwas in das wir hineingeboren wurden.
+											Es hat sich nicht geändert als wir aufwuchsen
+											und wir sind gut darin.
+											Oder denken sie an die Risiken
+											des Internet über Generationen hinweg —
+											wie unsere Eltern Sicherheit im Internet herangehen,
+											und wie wir das tun,
+											oder unsere Kinder es tun werden.
+											Modelle verschwinden letztendlich in den Hintergrund.
+											Intuitiv ist nur ein anderes Wort für vertraut.
+									",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+","
+","
+","
+","
+",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+											Así que cuando el modelo se acerca a la realidad
+											y converge con las sensaciones,
+											a menudo no te das cuenta que está ahí.
+											Y un buen ejemplo de esto
+											apareció el año pasado con la gripe porcina.
+											Cuando la gripe porcina apareció por primera vez
+											la noticia inicial causó una reacción muy exagerada.
+											Ahora tenía un nombre,
+											lo que la hacía más atemorizante que la gripe común,
+											a pesar de que era más letal.
+											Y la gente pensó que los médicos debían ser capaces de manejarla.
+											Así que estaba esa sensación de falta de control.
+											Y esas dos cosas
+											hacían que el riesgo pareciera más de lo que era.
+											Mientras fue desapareciendo la novedad y pasando los meses,
+											hubo una cantidad de tolerancia,
+											la gente se acostumbró.
+											No hubo datos nuevos, pero había menos temor.
+											Para la llegada del otoño,
+											la gente pensaba
+											que los médicos ya deberían haberlo resuelto.
+											Y hay una especie de bifurcación;
+											la gente tuvo que elegir
+											entre el miedo y la aceptación
+											-en realidad entre el miedo y la indiferencia-
+											y como que en realidad quedaron sospechosos.
+											Y cuando el invierno pasado apareció la vacuna
+											hubo una gran cantidad de personas -un número sorprendente-
+											que se negó a ponérsela;
+											un buen ejemplo de
+											cómo cambian las sensaciones de seguridad, cómo cambian sus modelos,
+											un poco descontrolados
+											sin nueva información,
+											sin nuevos inputs.
+											Este tipo de cosas sucede frecuentemente.
+									","
+											Quando o nosso modelo é próximo da realidade,
+											e converge com os sentimentos,
+											vocês raramente se apercebem que ele lá está.
+											Um bom exemplo disto
+											veio o ano passado com a gripe suína.
+											Quando a gripe suína apareceu,
+											as notícias iniciais causaram muitas reacções excessivas.
+											Tinha um nome,
+											o que a fazia mais assustadora que a gripe comum,
+											apesar desta ser mais mortal.
+											E as pessoas pensavam que os médicos deveriam saber lidar com ela.
+											Por isso existia um sentimento de falta de controlo.
+											E essas duas coisas
+											tornaram o risco mais do que ele era.
+											Quando a novidade se desvaneceu, os meses passaram,
+											existia uma quantidade de tolerância,
+											as pessoas habituaram-se.
+											Não existia informação nova, mas existia menos medo.
+											No Outono,
+											as pessoas pensaram
+											que os médicos já deveriam ter resolvido isto.
+											E existe uma espécie de bifurcação —
+											as pessoas tinham de escolher
+											entre o medo e a aceitação —
+											ter medo ou indiferença —
+											elas escolheram suspeita.
+											E quando a vacina surgiu o Inverno passado,
+											existiu uma grande quantidade de pessoas - um número surpreendente -
+											que se recusaram a recebê-la -
+											é um bom exemplo
+											que como os sentimentos de segurança das pessoas mudam, como os seus modelos mudam
+											de forma rompante
+											sem nova informação,
+											sem novo dado.
+											Este tipo de evento acontece frequentemente.
+									","
+											Yani, modeliniz gerçekliğe ve
+											hislerinize yaklaştıkça,
+											orada olduğunu çoğunlukla farketmezsiniz.
+											Buna bir örnek olarak
+											geçen yılki domuz gribini verebiliriz.
+											Domuz gribi ilk ortaya çıktığında,
+											ilk haberler aşırı bir tepkiye sebep olmuştu.
+											Artık bir ismi de vardı,
+											bu da onu sıradan bir gripten korkutucu kıldı,
+											daha ölümcül olmasına rağmen.
+											Ve insanlar, doktorların buna bir çare bulabilmesi gerektiğini düşündü.
+											Bu da kontrol eksikliği duygusuna sebep oldu.
+											Ve bu iki şey
+											riski olduğundan büyük gösterdi.
+											Zaman geçip de olay artık eskidiğinde,
+											daha tahammül edilebilir oldu,
+											insanlar buna alıştı.
+											Yeni bir bilgi yoktu ama daha az korku vardı.
+											Sonbaharda,
+											insanlar artık
+											doktorların bu işi çözdüklerini düşündüler.
+											İnsanların korku ve kabullenme arasında
+											aslında korku ve umursamazlık arasında
+											seçmesi gereken
+											bir çeşit yol ayrımı vardır —
+											ve çoğunlukla şüpheyi seçerler.
+											Ve geçen kış aşı geliştirildiğinde,
+											bir çok insan —şaşırtıcı bir sayıda—
+											aşılanmayı reddetti.
+											bu da insanların
+											güvenlik duygularının ve modellerinin nasıl değiştiğine dair iyi bir örnek,
+											çok sert bir şekilde
+											ve yeni bilgi almaksızın,
+											yeni bir şey öğrenmeksizin.
+											Böyle şeyler sık sık olur.
+									","
+											Donc quand notre modèle est proche de la réalité,
+											et qu'il converge avec les impressions,
+											vous ignorez souvent qu'il est là.
+											Et un bon exemple nous est venu
+											l'an dernier avec la grippe porcine.
+											Quand la grippe porcine est apparue pour la première fois,
+											l'information initiale a provoqué beaucoup de réactions excessives.
+											D'abord la maladie avait un nom,
+											ce qui la rendait plus effrayante que la grippe traditionnelle,
+											même si elle était plus mortelle.
+											Et les gens pensaient que les médecins devraient pouvoir s'en occuper.
+											Il y a donc eu un sentiment de manque de contrôle.
+											Et ces deux choses
+											ont fait que le risque semblait plus important qu'il n'était.
+											Quand l'effet de nouveauté s'est estompé et que les mois ont passé,
+											il y a eu une une certaine tolérance,
+											les gens s'y sont habitués.
+											Il n'y a pas eu de nouvelles données, mais il y a eu moins de peur.
+											En automne,
+											les gens pensaient
+											que les médecins auraient déjà dû résoudre le problème.
+											Et il y a eu un genre de tournant —
+											les gens devaient choisir
+											entre la peur et l'acceptation —
+											en fait entre la peur et l'indifférence —
+											ils ont choisi la méfiance.
+											Et quand le vaccin est apparu l'hiver dernier,
+											il y a eu beaucoup de gens — un nombre surprenant —
+											qui ont refusé de se faire vacciner —
+											et c'est un bon exemple
+											de la façon dont les impressions de sécurité des gens changent,
+											comment leurs modèles changent, de façon irraisonnée
+											sans nouvelles informations,
+											sans nouvel apport.
+											Ce genre de chose se produit souvent.
+									","
+											Wenn Ihr Modell nah an der Realität ist
+											und es mit den Gefühlen verschmilzt,
+											wissen sie oft gar nicht dass es da ist.
+											Ein schönes Beispiel dafür
+											gab es letztes Jahr mit der Schweinegrippe.
+											Als die Schweinegrippe zuerst auftrat
+											verursachten die ersten Nachrichten eine Menge Überreaktionen.
+											Jetzt hatte sie einen Namen
+											was sie erschreckender machte als die gewöhnliche Grippe,
+											obwohl die mehr Tode auslöste.
+											Die Leute dachten, dass Ärzte in der Lage sein sollten damit umzugehen.
+											Es gab also ein Gefühl mangelnder Kontrolle.
+											Diese beiden Dinge
+											ließen das Risiko größer erscheinen als es war.
+											Als die Neuartigkeit nachließ, die Monate vorbeigingen
+											gab es ein Maß an Toleranz
+											die Leute hatten sich daran gewöhnt.
+											Es gab keine neuen Erkenntnisse, aber weniger Angst.
+											Im Herbst
+											dachten die Leute
+											die Ärzte sollten mittlerweile das Problem gelöst haben.
+											Und es gab eine Art Zweiteilung —
+											die Leute hatten zu wählen
+											zwischen Angst und Akzeptanz —
+											wirklicher Angst und Desinteresse —
+											sie wählten eine Art von Misstrauen.
+											Als die Impfung letzten Winter verfügbar war,
+											gab es eine Menge Leute — eine überraschende Anzahl —
+											die sich weigerten sie zu nehmen. —
+											ein schönes Beispiel
+											wie das Gefühl der Sicherheit der Leute sich ändert, wie sich ihr Modell ändert,
+											irgendwie chaotisch
+											ohne neue Information,
+											ohne neuen Input.
+											So etwas ähnliches passiert häufig.
+									",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+","
+","
+","
+","
+",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+											Les voy a dar una complicación más.
+											Tenemos la sensación, el modelo, la realidad.
+											Tengo una visión muy relativista de la seguridad.
+											Creo que depende del observador.
+											Y la mayoría de las decisiones sobre seguridad
+											involucran a varias personas.
+											Y las partes interesadas,
+											cada una con beneficios y perdidas propias,
+											tratarán de influenciar la decisión.
+											Yo llamo a eso su agenda.
+											Y se pueden ver las agendas
+											-en el marketing, en la política-
+											tratando de convencerlos de elegir un modelo en vez de otro,
+											tratando de convencerlos de ignorar un modelo
+											y de confiar en sus sensaciones,
+											dejando de lado a las personas con modelos que no les gustan.
+											Esto es bastante frecuente.
+											Un ejemplo, un gran ejemplo, es el riesgo de fumar.
+											Durante los últimos 50 años, el riesgo de fumar
+											muestra cómo va cambiando un modelo
+											y también muestra cómo una industria pelea contra
+											un modelo que no le gusta.
+											Comparen esto con el debate del humo de segunda mano;
+											el mismo caso probablemente 20 años antes.
+											Piensen acerca de los cinturones de seguridad.
+											Cuando yo era niño, nadie se ponía el cinturón de seguridad.
+											Hoy en día, ningún niño te permite manejar
+											si no lo llevas puesto.
+											Comparen esto con el debate del airbag;
+											probablemente como 30 años atrasado.
+									","
+											Vou-vos mostrar mais uma complicação.
+											nós temos sentimento, modelo, realidade.
+											Eu tenho uma visão muito relativista da segurança.
+											Eu penso que depende do observador.
+											E a maioria das decisões de segurança
+											têm uma variedade de pessoas envolvidas.
+											E os responsáveis
+											com vista em trocas específicas
+											vão tentar influenciar a decisão.
+											E eu exponho os seus planos.
+											E vocês vêem os seus planos —
+											isto é marketing, isto é política —
+											tentar convencer-vos a aceitar um modelo versus outro,
+											tentar convencer-vos a ignorar um modelo
+											a confiar nos vossos sentimentos,
+											marginalizando pessoas com modelos que vocês não gostam.
+											Isto não é invulgar.
+											Um exemplo, um óptimo exemplo, é o risco de fumar.
+											Na história dos últimos 50 anos, o risco de fumar
+											demonstra como um modelo muda,
+											e também demonstra como uma indústria luta contra
+											um modelo de que não gosta.
+											Comparem isso com o debate de fumo em segunda mão —
+											está provavelmente atrasado 20 anos.
+											Pensem acerca dos cintos de segurança.
+											Quando eu era criança, ninguém usava cinto de segurança.
+											Hoje em dia, nenhum miúdo vos deixa conduzir
+											se não estiverem a usar cinto de segurança.
+											Comparem isso ao debate acerca do airbag —
+											provavelmente atrasado 30 anos.
+									","
+											Bir karmaşadan daha bahsedeceğim.
+											Hissettiklerimiz, model ve gerçekliğimiz var.
+											Benim güvenliğe bakış açım oldukça gerçekçi.
+											Bu yüzden de bunun gözlemciye bağlı olduğunu düşünüğyorum.
+											Ve çoğu güvenlik kararları
+											çok farklı insanları içerir.
+											Ve bu insanlar
+											özel değiş-tokuşlarıyla
+											kararı etkilemeyi deneyecekler.
+											Buna onların amacı diyelim.
+											Ve amaçlarını anlıyorsunuz —
+											bu pazarlama, bu politika —
+											sizi bir model yerine diğeri için ikna etmeye çalışıyorlar,
+											bir modeli görmezden gelmeniz ve hislerinize
+											güvenmeniz için ikna ediyorlar,
+											beğenmediğiniz modelleri insanlarla sınırlayarak hem de.
+											Bu çok sık olur.
+											Örneğin, harika bir örnek, sigara içmenin tehlikeleri.
+											Geçen 50 yıl içinde, sigaranın tehlikeleri
+											bir modelin nasıl değiştiğini gösterir,
+											ve bir endüstrinin beğenmedikleri modelle
+											nasıl savaştığına örnektir.
+											Bunu daha önce yapılmış sigara tartışmalarıyla kıyaslayın —
+											muhtemelen 20 yıl geride kalmıştır.
+											Emniyet kemerlerini düşünün.
+											Ben çocukken, hiçkimse emniyet kemeri takmazdı.
+											Şimdi ise, emniyet kemerinizi takmadıysanız
+											hiçbir çocuk arabayı sürmenize izin vermez.
+											Bunu hava yastığı tartışmalarıyla kıyaslayın,
+											muhtemelen 30 yıl öncesinde kalmıştır.
+									","
+											Et je vais apporter une complication supplémentaire.
+											Nous avons l'impression, le modèle, la réalité.
+											J'ai une vision très réaliste de la sécurité.
+											Je pense qu'elle dépend de l'observateur.
+											Et la plupart des décisions de sécurité
+											ont des gens impliqués très différents .
+											Et les actionnaires
+											qui ont des échanges spécifiques
+											essaieront d'influencer la décision.
+											Et j'appelle ça leur programme.
+											Et vous voyez un programme —
+											c'est du marketing, c'est de la politique —
+											essayez de vous convaincre que vous avez un modèle par rapport à un autre,
+											essayez de vous convaincre d'ignorer un modèle
+											et de vous fier à vos impressions,
+											marginaliser les gens qui ont des modèles que vous n'aimez pas.
+											Ce n'est pas rare,
+											Un exemple, un très bon exemple, c'est le risque du tabac.
+											Dans l'histoire de ces 50 dernières années, le risque du tabac
+											montre comment un modèle change,
+											et il montre aussi comment une industrie combat
+											un modèle qu'elle n'aime aps.
+											Comparez ça au débat sur le tabagisme passif —
+											probablement avec 20 ans de retard.
+											Pensez aux ceintures de sécurité.
+											Quand j'étais enfant, personne ne mettait de ceinture de sécurité.
+											Aujourd'hui, pas un enfant ne vous laissera conduire
+											si vous n'attachez pas votre ceinture de sécurité.
+											Comparez ça au débat sur l'airbag —
+											probablement avec 30 ans de retard.
+									","
+											Ich werde ihnen eine weitere Komplikation zeigen.
+											Wir haben Gefühl, Modell, Realität.
+											Ich habe eine sehr relativistische Sicht auf Sicherheit.
+											Ich denke es hängt vom Beobachter ab.
+											Und die meisten Sicherheitsentscheidungen
+											sind eine Vielzahl von Menschen involviert.
+											Lobbyisten
+											mit bestimmten Zielkonflikten
+											werden versuchen die Entscheidung zu beeinflussen.
+											Ich nenne das ihre Agenda.
+											Agenda, Sie wissen ja —
+											das ist Marketing, das ist Politik —
+											der Versuch, Sie zu überzeugen, ein Modell gegen ein anderes zu stellen,
+											der Versuch, sie zu überzeugen, ein Modell zu ignorieren
+											und ihren Gefühlen zu vertrauen.
+											Leute mit Modellen, die sie nicht mögen, an den Rand zu drängen.
+											Das ist nicht ungewöhnlich.
+											Ein Beispiel, ein tolles Beispiel, ist die Gefahr des Rauchens.
+											In der Geschichte der letzten 50 Jahre zeigt die Gefahr des Rauchens,
+											wie sich ein Modell ändert,
+											und es zeigt wie eine Industrie gegen
+											ein Modell ankämpft, welches sie nicht mögen.
+											Vergleichen Sie dazu die Mitraucherdebatte —
+											die etwa zwanzig Jahre hinterher hinkt.
+											Denken sie an Sicherheitsgurte.
+											Als ich ein Kind war, trug niemand einen Sicherheitsgurt.
+											Heutzutage wird kein Kind Sie fahren lassen
+											wenn sie nicht einen Sicherheitsgurt tragen.
+											Vergleichen Sie dazu die Airbag-Debatte —
+											die wahrscheinlich 30 Jahre hinten liegt.
+									",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+","
+","
+","
+","
+",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+											Todos son ejemplos de modelos que van cambiando.
+											Lo que aprendemos es que cambiar los modelos es difícil.
+											Los modelos son difíciles de desalojar.
+											Si estos son iguales a sus sensaciones,
+											ni siquiera se darán cuenta que tienen un modelo.
+											Y hay otro sesgo cognitivo que
+											llamaré sesgo de confirmación,
+											donde tendemos a aceptar los datos
+											que confirman nuestras creencias
+											y rechazar los datos que las contradicen.
+											Y es probable que ignoremos
+											la evidencia en contra de nuestro modelo, incluso si es convincente.
+											Debe ser súper convincente antes de que le prestemos atención.
+											Aún más complejos son los nuevos modelos que se extenderán por mucho tiempo.
+											El calentamiento global es un gran ejemplo.
+											Somos terribles
+											para modelos que abarcan 80 años.
+											Podemos modelar la próxima cosecha.
+											De repente podemos modelar hasta que nuestros hijos crezcan.
+											Pero simplemente no somos buenos para 80 años.
+											Y entonces es un modelo muy difícil de aceptar.
+											Podemos tener ambos modelos en nuestra cabeza al mismo tiempo,
+											ese tipo de problema
+											donde tenemos ambas creencias al mismo tiempo;
+											la disonancia cognitiva.
+											Con el tiempo,
+											el nuevo modelo reemplazará al antiguo.
+									","
+											Todos são exemplos de modelos em mudança.
+											O que nós aprendemos é que mudar modelos é difícil.
+											É difícil desinstalar modelos
+											se eles coincidem com os nossos sentimentos.
+											Vocês nem sequer sabem que têm um modelo.
+											E existe outro erro cognitivo
+											vou-lhe chamar enviusamento confirmatório,
+											no qual tendemos a aceitar informação
+											que confirma as nossas crenças
+											e rejeita informação que contradiz aquilo em que acreditamos.
+											Portanto, provas contra o nosso modelo,
+											nós iremos, provavelmente, ignorar, mesmo que seja convincente.
+											Tem de se tornar muito convincente para nós lhe prestarmos atenção.
+											Os novos modelos que se estendem por largos periodo de tempo são difíceis.
+											O aquecimento global é um óptimo exemplo.
+											Nós somos terríveis
+											com modelos que se estendem por 80 anos.
+											nós podemos tratar da próxima ceifa.
+											Nós podemos frequentemente pensar até quando os nossos filhos crescem.
+											Mas 80 anos, nós simplesmente não somos bons [a pensar nisso].
+											Portanto, é um modelo muito difícil de aceitar.
+											Nós podemos ter os dois modelos simultaneamente na nossa mente,
+											ou esse tipo de problema
+											em que estamos a manter as duas crenças em conjunto,
+											ou a dissonância cognitiva.
+											Eventualmente,
+											o novo modelo irá substituir o velho modelo.
+									","
+											Hepsi model değişimine örnektir.
+											Öğrendiğimiz model değişiminin zor olduğudur.
+											Modelleri yerinden oynatmak güçtür.
+											Eğer hislerinize eşitlerse,
+											bir modeliniz olduğunun farkına varmazsınız.
+											Ve başka bir kavramsal önyargı da var ki,
+											ben buna onay yargısı diyeceğim.
+											İnançlarımızı onaylayan bilgileri
+											kabul etmeye meyilliyizdir ancak
+											inançlarımızla çatışan bilgileri reddederiz.
+											Modelimize karşı olan bir kanıtı
+											ne kadar ciddi olursa olsun görmezden geliriz.
+											Dikkatimizi çekmek için daha da ciddileşmesi gerekir.
+											Uzun zamana yayılan yeni modeller de zorlayıcıdır.
+											Global ısınma buna iyi bir örnektir.
+											80 yılı kapsayan
+											modelleri anlamakta çok başarısızız.
+											Bir sonraki hasatı yapabiliriz.
+											Çocuklarımızı yetiştirebiliriz.
+											Ama 80 yıl, işte bunda iyi değiliz.
+											Bu nedenle de kabul etmesi zor bir modeldir.
+											Her iki modeli de aynı anda aklımızda tutabiliriz,
+											ya da iki farklı inancı
+											barındırmamız gibi bir problemi,
+											ya da kavramsal uyumsuzlukları.
+											Sonunda,
+											yeni model eskisinin yerini alacaktır.
+									","
+											Ce sont tous des exemples de modèles qui changent.
+											Ce que nous apprenons c'est qu'il est difficile de changer les modèles.
+											Les modèles sont difficiles à déloger.
+											S'ils correspondent à vos impressions,
+											vous ne savez même pas que vous avez un modèle.
+											Et il y a une autre tendance cognitive
+											que j'appellerais une tendance de confirmation,
+											quand nous tendons à accepter des données
+											qui confirment ce que nous croyons
+											et à rejeter des données qui contredisent ce que nous croyons.
+											Donc nous sommes susceptibles
+											d'ignorer les preuves qui contredisent notre modèle, même si elles sont flagrantes.
+											Elle doivent être vraiment flagrantes avant que nous y prêtions attention.
+											Les nouveaux modèles qui durent sur de longues périodes sont difficiles.
+											Le réchauffement planétaire est un excellent exemple.
+											Nous sommes très mauvais
+											avec les modèles qui couvrent 80 ans.
+											Nous pouvons aller jusqu'à la prochaine récolte.
+											Nous pouvons souvent aller jusqu'à ce que nos enfants grandissent.
+											Mais 80 ans, nous ne sommes pas bons avec ça.
+											C'est donc un modèle très difficile à accepter.
+											Nous pouvons avoir les deux modèles simultanément en tête,
+											ou ce genre de problème
+											où nous prenons ensemble ces deux choses en quoi nous croyons,
+											ou la dissonance cognitive.
+											Au final,
+											le nouveau modèle remplacera l'ancien.
+									","
+											Alles Beispiele der Veränderung von Modellen.
+											Was wir lernen ist, dass es schwer ist, Modelle zu ändern.
+											Modelle sind schwer abzuschütteln.
+											Wenn sie Ihren Gefühlen entsprechen,
+											wissen Sie noch nicht einmal, dass Sie ein Modell haben.
+											Und es gibt noch eine andere kognitive Verzerrung:
+											Ich nenne es Bestätigungsfehler,
+											indem wir dazu tendieren Daten zu akzeptieren
+											die unseren Glaubensatz bestätigen
+											und Daten abzulehnen die unserem Glaubensatz widersprechen.
+											Also werden wir Beweise gegen unser Modell
+											wahrscheinlich ignorieren sogar wenn sie zwingend sind.
+											Es muss schon sehr zwingend sein, ehe wir aufmerksam werden.
+											Neue Modelle, die über längere Zeiträume reichen sind schwierig.
+											Globale Erwärmung ist ein tolles Beispiel.
+											Wir sind schrecklich
+											mit Modellen, die sich über 80 Jahre erstrecken.
+											Wir können die nächste Ernte machen.
+											Wir können funktionieren solange bis unsere Kinder aufwachsen.
+											Aber 80 Jahre, darin sind wir einfach nicht gut.
+											Es ist also ein sehr schwierig zu akzeptierendes Modell.
+											Wir können beide Modell gleichzeitig in unserem Kopf haben
+											oder diese Art von Problem,
+											wo wir beide Glaubenssätze zusammenhalten
+											oder die kognitive Dissonanz.
+											Letztendlich
+											wird das neue Modell das alte ersetzen
+									",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+","
+","
+","
+","
+",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+											Las sensaciones fuertes pueden crear un modelo.
+											El 11 de septiembre creó un modelo de seguridad
+											en las mentes de mucha gente.
+											También se pueden crear a través de experiencias personales con crímenes,
+											a través de sustos de salud personales,
+											de problemas de salud en las noticias.
+											Verán estos eventos llamados ""flash de luz""
+											por los psiquiatras.
+											Pueden crear un modelo de forma instantánea,
+											porque son muy emotivos.
+									","
+											Sentimentos fortes podem criar um modelo.
+											O 11 de Setembro criou um modelo de segurança
+											em muitas mentes.
+											Também experiências pessoais com crime o podem fazer,
+											sustos com saúde pessoal,
+											um susto nas notícias relacionado com a saúde.
+											Verão estes eventos chamados flashes
+											pelos psiquiatras.
+											Eles podem criar um modelo instantaneamente
+											porque são tão emocionais.
+									","
+											Güçlü duygular yeni bir model oluşturabilir.
+											11 Eylül bir çok insanın kafasında yeni bir
+											güvenlik modeli oluşturdu.
+											Suçlarla olan kişisel deneyimlerimiz de bunu yapabilir,
+											kişisel sağlık endişeleri,
+											ya da haberlerdeki sağlık sorunları.
+											Psikiyatristlerin buna flaş lambası etkisi
+											dediğini görürsünüz.
+											Bunlar anında bir model yaratabilirler,
+											çünkü duygulara dokunurlar.
+									","
+											Des impressions fortes peuvent créer un modèle.
+											Le 11 septembre a créé un modèle de sécurité
+											dans la tête de beaucoup de gens.
+											Aussi, les expériences personnelles avec le crime peuvent le faire,
+											les peurs pour la santé personnelle,
+											une alerte de santé dans les informations.
+											Vous verrez que les psychiatres
+											les appellent des évènements flash.
+											ils peuvent créer un modèle instantannément,
+											parce qu'ils génèrent beaucoup d'émotion.
+									","
+											Starke Gefühle können ein Modell schaffen.
+											Der 11. September schaffte ein solches Sicherheitsmodell
+											in den Köpfen vieler Leute.
+											Auch eine persönliche Erfahrung mit einer Straftat kann dies tun,
+											persönliches Gesundheitsrisiko.
+											ein Gesundheitsrisiko in den Nachrichten.
+											Diese Momente werden von Psychiatern
+											Blitzlichtmomente genannt.
+											Sie können unmittelbar ein Modell schaffen,
+											weil sie sehr gefühlsgeladen sind.
+									",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+","
+","
+","
+","
+",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+											Y en el mundo tecnológico
+											no tenemos experiencia
+											para elegir los modelos.
+											Y dependemos de otros. Dependemos de representantes.
+											Quiero decir, esto funciona mientras sea para corregir a otros.
+											Dependemos de los organismos gubernamentales para
+											que nos digan qué medicamentos son seguros.
+											Volé ayer para acá.
+											No revisé el avión.
+											Confié en algún otro grupo
+											para determinar si mi avión era seguro para volar.
+											Estamos aquí, nadie teme que el techo se vaya a caer sobre nosotros,
+											no porque lo comprobamos,
+											sino porque tenemos bastante confianza que
+											los códigos de construcción son buenos.
+											Es un modelo que simplemente aceptamos
+											sólo por fe.
+											Y eso está bien.
+									","
+											Por isso, num mundo tecnológico,
+											nós não temos experiência
+											em avaliar modelos.
+											E confiamos nos outros. Nós confiamos nas vias de informação.
+											Quero dizer, isto funciona desde que seja para corrigir outros.
+											Nós confiamos em agências governamentais
+											que nos dizem quais farmacêuticas são seguras.
+											Eu voei para cá ontem.
+											Eu não verifiquei [o estado] do avião.
+											Eu confiei noutro grupo
+											para determinar se era seguro voar no meu avião.
+											Nós estamos aqui, nenhum de nós tem medo que o teto vá colapsar sobre nós,
+											não porque verificámos,
+											mas porque temos bastante certeza
+											que as normas de construção aqui são boas.
+											É um modelo que, basicamente, aceitamos
+											por fé.
+											E isso está bem.
+									","
+											Yani teknolojik dünyada,
+											modelleri yargılamaya yetecek
+											deneyimlerimiz yok.
+											Böylece diğerlerine, yakınlarımıza inanıyoruz.
+											Bu da diğerleri haklı olduğu sürece işe yarıyor.
+											Bize hangi ilaçların güvenli olduğunu
+											söyleyen devlet kurumlarına inanıyoruz.
+											Buraya dün uçtum.
+											Uçağı kontrol etmedim.
+											Bindiğim uçağın güvenliğini
+											kontrol eden başka bir gruba inandım.
+											Hepimiz burada, tavanın üstümüze çökmesinden korkmadan oturuyoruz,
+											kontrol ettiğimiz için değil,
+											buradaki binaların
+											sağlamlığından emin olduğumuz için.
+											Bu, inanç sayesinde
+											kabul ettiğimiz bir model.
+											Ve bu sorun değil.
+									","
+											Donc dans le monde technologique,
+											nous n'avons pas l'expérience
+											pour juger les modèles.
+											Et nous comptons sur les autres. Nous comptons sur des intermédiaires.
+											Je veux dire, ça marche tant qu'il s'agit de corriger les autres.
+											Nous comptons sur les agences gouvernementales
+											pour nous dire quels produits pharmaceutiques sont sûrs.
+											Je suis venu en avion ici hier,
+											je n'ai pas vérifié l'avion.
+											j'ai compté sur un autre groupe
+											pour déterminer si mon avion était sûr pour voler.
+											Nous sommes ici, aucun de nous n'a peur que le toit s'effondre sur nous,
+											pas parce que nous avons vérifié,
+											mais parce que nous sommes sûrs
+											que les codes de constructions sont bons ici.
+											C'est un modèle que nous nous contentons d'accepter
+											plutôt par foi.
+											Et c'est bien.
+									","
+											In der technisierten Welt
+											haben wir nicht die Erfahrung
+											Modelle zu beurteilen.
+											Und wir sind auf andere angewiesen. Wir sind auf Stellvertreter angewiesen.
+											Ich meine dies funktioniert so lange es darum geht, andere zu korrigieren.
+											Wir vertrauen auf staatliche Vertretungen,
+											uns mitzuteilen welche Arzneimittel sicher sind.
+											Ich bin gestern her geflogen.
+											Ich habe das Flugzeug nicht überprüft.
+											Ich vertraute einer anderen Gruppe,
+											festzustellen ob mein Flugzeug sicher war um damit zu fliegen.
+											Wir sind hier, niemand von uns fürchtet, dass uns das Dach auf den Kopf fällt,
+											nicht weil wir es überprüft haben,
+											sondern weil wir ziemlich sicher sind,
+											dass die Gebäudevorschriften hier sehr gut sind.
+											Es ist ein Modell, dass wir einfach akzeptieren
+											größtenteils durch Glauben.
+											Und das ist in Ordnung.
+									",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+","
+","
+","
+","
+",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+											Ahora, lo que queremos
+											es que la gente se familiarice lo suficiente
+											con modelos buenos
+											-y que se reflejen en lo que sienten-
+											para que puedan tomar buenas decisiones de seguridad.
+											Y entonces cuando estos se desalinean
+											se tienen dos opciones.
+											Una es arreglar las sensaciones de la gente,
+											apelar directamente a las sensaciones y sentimientos.
+											Es manipulativo, pero puede funcionar.
+											La segunda manera, que es más honesta,
+											es realmente solucionar el modelo.
+											El cambio se produce lentamente.
+											El debate del cigarrillo tomó 40 años,
+											y ese era uno simple.
+											Algunos de estos son difíciles.
+											Quiero decir, sin embargo,
+											que la información parece ser nuestra mejor esperanza.
+									","
+											Agora, o que queremos
+											é que as pessoas se sintam suficientemente familiarizadas
+											com modelos melhores —
+											que isso se reflicta nos seus sentimentos —
+											e lhes permita fazer escolhas de segurança.
+											Porque quando estes se distanciam
+											têm duas opções:
+											uma, podem corrigir os sentimentos das pessoas,
+											apelar directamente aos sentimentos.
+											É manipulação, mas pode funcionar.
+											a segundo forma, mais honesta
+											é corrigir o próprio modelo.
+											A mudança acontece lentamente.
+											O debate acerca do tabaco demorou 40 anos,
+											e esse foi um fácil.
+											Algumas coisas são difíceis.
+											Eu quero dizer, realmente
+											a informação parece ser a nossa maior esperança
+									","
+											Şimdi istediğimiz,
+											insanların daha iyi modelleri
+											yeterince tanıyabilmesi —
+											bunu hislerinde yansıtabilmesi —
+											bu sayede doğru değiş-tokuşları yapabilmeleri.
+											Bunlar olmadığında ise
+											iki seçeneğiniz vardır.
+											İlki, insanların hislerini onarabilirsiniz,
+											doğrudan hislere odaklanırsınız.
+											Buna hile denir, ama işe yarayabilir.
+											İkincisi, daha dürüst bir şekilde,
+											gerçekten modeli tamir edersiniz.
+											Değişim zamanla olur.
+											Sigara tartışması 40 yıl sürdü,
+											ve bu aslında kolay olandı.
+											Bunlardan bazıları zordur.
+											Yani cidden zor,
+											bilgi tek umudumuz gibi görünür.
+									","
+											Maintenant, ce que nous voulons
+											c'est que les gens se familiarisent suffisemment
+											avec de meilleurs modèles —
+											qui reflètent leurs impressions —
+											pour leur permettre de faire des échanges de sécurité.
+											Et quand ils ne collent pas,
+											vous avez deux options.
+											La première, vous pouvez changer les impressions des gens,
+											un appel direct aux impressions.
+											C'est de la manipulation, mais ça peut marcher.
+											La deuxième, plus honnête,
+											est en fait de modifier le modèle.
+											Le changement se produit lentement.
+											Le débat sur le tabac a pris 40 ans,
+											et c'était facile.
+											Certains de ces trucs sont difficiles.
+											Je veux dire
+											que les informations semblent être notre meilleur espoir.
+									","
+											Was wir wollen
+											ist das Leute sich mit besseren
+											Modellen anfreuden —
+											sie mit ihren Gefühlen reflektiert haben —
+											um ihnen zu erlauben Sicherheitsabwägungen zu machen.
+											Wenn diese aus dem Gleichgewicht geraten,
+											dann haben sie zwei Optionen.
+											Erstens, sie können die Gefühle der Leute richten,
+											direkt an Gefühle appelieren.
+											Es ist Manipulation, aber es kann funktionieren.
+											Zweitens, der ehrlichere Weg ist,
+											das Modell direkt in Ordnung zu bringen.
+											Veränderungen passieren langsam.
+											Die Raucherdebatte brauchte 40 Jahre,
+											und das war eine einfache.
+											Einige dieser Dinge sind schwer.
+											Ich meine richtig schwer,
+											Information scheint unsere beste Hoffnung zu sein.
+									",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+","
+","
+","
+","
+",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+											Y les mentí.
+											Recuerdan cuando dije lo de la sensación, el modelo, la realidad.
+											Dije que la realidad no cambia. Pero en verdad sí cambia.
+											Vivimos en un mundo tecnológico;
+											la realidad cambia todo el tiempo.
+											Así que podríamos tener -por primera vez para nuestra especie-
+											la sensación persiguiendo al modelo, el modelo persiguiendo la realidad,
+											la realidad va cambiando; y puede que jamás se vayan a alcanzar.
+											No lo sabemos.
+											Pero en el largo plazo,
+											tanto la sensación como la realidad son importantes.
+											Y quiero cerrar con dos historias rápidas para ilustrar esto.
+									","
+											E eu menti.
+											Lembram-se quando eu disse que sentimento, modelo, realidade.
+											Eu disse que a realidade não muda. Na realidade muda.
+											Nós vivemos num mundo tecnológico;
+											a realidade muda a toda a hora.
+											Portanto podemos ter — pela primeira vez na [história] da nossa espécie —
+											sentimentos que perseguem modelos, modelos perseguem realidade, e a realidade a mudar —
+											podem nunca se vir a alcançar.
+											Nós não sabemos.
+											Mas a longo prazo
+											sentimentos e realidade são importantes.
+											E eu quero acabar com duas histórias rápidas para ilustrar estes pontos.
+									","
+											Ve size yalan söyledim.
+											Hisler, model, gerçeklik dediğimi hatırlıyor musunuz?
+											Gerçeklik değişmez demiştim. Aslında değişir.
+											Teknolojik bir dünyada yaşıyoruz;
+											gerçeklik devamlı değişiyor.
+											Yani karşımızdaki durum şöyle — türümüzde ilk defa—
+											hisler modeli takip eder, model gerçekliği, ve gerçeklik hareket halindedir —
+											asla yakalayamayabilirsiniz.
+											Bilemeyiz.
+											Ama uzun sürede,
+											hisler ve gerçeklik mühimdir.
+											Ve bunu örneklemek için iki kısa hikayeyle bitireceğim.
+									","
+											Et j'ai menti.
+											Rappelez-vous quand j'ai dit impression, modèle, réalité.
+											J'ai dit que la réalité ne change pas. En fait, si.
+											Nous vivons dans u monde technologique ;
+											la réalité change tout le temps.
+											Il se pourrait donc que nous ayons — pour la première fois dans l'histoire de notre espèce —
+											l'impression qui court derrière le modèle, le modèle derrière la réalité, la réalité bouge —
+											ils pourraient ne jamais se rattrapper.
+											Nous ne le savons pas.
+											Mais sur le long terme,
+											l'impression et la réalité sont toutes deux importantes.
+											Et je veut conclure avec deux histoires courtes pour illustrer cela.
+									","
+											Und ich habe gelogen.
+											Erinnern sie sich, als ich Gefühl, Modell, Realität sagte.
+											Ich sagte Realität verändert sich nicht. Tatsächlich ändert sie sich.
+											Wir leben in einer technisierten Welt;
+											Realität verändert sich die ganze Zeit.
+											Wir mögen — zum ersten Mal für unsere Art — folgende Situation haben
+											Gefühl jagt Modell, Modell jagt Realität, Realität ist in Bewegung —
+											sie mögen nie aufschließen.
+											Wir wissen es nicht.
+											Aber langfristig
+											sind sowohl Gefühl als auch Realität wichtig.
+											Und ich möchte mit zwei kurzen Geschichten schließen um dies hervorzuheben.
+									",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+","
+","
+","
+","
+",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+											En 1982 -no sé si la gente recordará esto-
+											hubo una epidemia de corta duración
+											de envenenamientos con Tylenol en los Estados Unidos.
+											Es una historia horrible. Alguien tomó una botella de Tylenol,
+											puso veneno en ella, la cerró y volvió a ponerla en el estante.
+											Otra persona la compró y murió.
+											Esto aterrorizó a todo el mundo.
+											Hubo un par de ataques que imitaron esto.
+											No había riesgo real, pero la gente estaba asustada.
+											Y así es como
+											se inventó la industria farmacéutica a prueba de manipulaciones.
+											Esas tapas difíciles de abrir surgieron de esto.
+											Es totalmente teatro de seguridad.
+											Como tarea para la casa piensen en 10 maneras de vulnerarlas.
+											Les daré una; una jeringa.
+											Sin embargo hizo que la gente se sintiera mejor.
+											Hizo que su sensación de seguridad
+											se pareciera más a la realidad.
+									","
+											1982 — Eu não sei se vocês se vão lembrar disto —
+											houve uma curta epidemia
+											de envenenamento por Tylenol nos Estados Unidos.
+											Foi uma história horrível. Alguém pegou numa garrafa de Tylenol,
+											colocou veneno, fechou-a, pô-la novamente na estante.
+											Outra pessoa comprou-a e morreu.
+											Isto aterrorizou as pessoas.
+											Houve alguns ataques de imitadores.
+											Não existia nenhum risco real, mas as pessoas estavam assustadas.
+											E é por isto
+											que a indústria de produtos farmacêuticos invioláveis foi inventada.
+											Essas tampas invioláveis, que advieram disto.
+											É absolutamente teatro de segurança.
+											Como trabalho de casa, pensem em 10 formas de contorná-las.
+											Eu dou-vos uma, uma seringa.
+											Mas fez as pessoas sentirem-se melhor.
+											Fez com que os seus sentimentos de segurança
+											coincidissem mais com a realidade.
+									","
+											1982'de — insanların bunu hatırlayacaklarından emin değilim —
+											Amerika'da Tylenol zehirlenmesinden
+											dolayı kısa süreli bir salgın vardı.
+											Korkunç bir hikaye. Birileri bir şişe Tylenol alıyor,
+											içini zehir doldurup, rafa geri koyuyor.
+											Başka biri bunu satın alıyor ve ölüyor.
+											Bu insanları korkuttu.
+											Buna benzer bir kaç tane daha vaka oldu.
+											Gerçek bir risk hiç olmadı ama insanlar korktular.
+											Ve böylece
+											açılma güvenlikli ilaç endüstrisi oluştu.
+											Vu güvenlikli kapaklar burdan ortaya çıktı.
+											Gerçek bir ""güvenlik tiyatrosu"".
+											Ev ödevi olarak, bundan kurtulmanın 10 yolunu düşünün.
+											Her birinize bir şırınga vereceğim.
+											Ama bu insanların daha iyi hissetmesini sağladı.
+											Güvenlik hissinin gerçeklikle
+											daha çok örtüşmesini sağladı.
+									","
+											1982 — je ne sais pas si les gens se souviendront de ça —
+											il y a eu un épidémie de courte durée
+											d'empoisonnements au Tylenol aux Etats-Unis.
+											C'est une histoire horrible. Quelqu'un a pris une bouteille de Tylenol,
+											a mis du poison dedans, l'a refermée, l'a remise dans le rayon.
+											Quelqu'un d'autre l'a acheté et est mort.
+											Ça a terrifié les gens.
+											Il y a eu deux ou trois attaques par des imitateurs.
+											Il n'y avait pas vraiment de risque réel, mais les gens étaient terrifiés.
+											Et c'est comme ça
+											que l'industrie du médicament scellé a été inventée.
+											Ces bouchons scellés, c'est de là qu'ils viennent.
+											C'est du théâtre de sécurité complet.
+											Et en guise de devoir à la maison, réfléchissez à 10 manières de le contourner.
+											Je vous en donne un, une seringue.
+											Mais ça a rassuré les gens.
+											Ça a rapproché leur impression de sécurité
+											de la réalité.
+									","
+											1982 — ich weiß nicht ob die Leute sich daran erinnern —
+											gab es eine kurze Epidemie
+											von Tylenol Vergiftungen in den Vereinigten Staaten.
+											Es ist eine schreckliche Geschichte. Irgendjemand nahm eine Flasche Tylenol,
+											füllte Gift hinein, verschloss sie und stellte sie wieder ins Regal.
+											Irgendjemand anderes kaufte die Flasche und starb.
+											Dies ängstigte die Leute.
+											Es gab einige Nachahmungsfälle.
+											Es gab kein reales Risiko, aber die Leute fürchteten sich.
+											Und dies ist wie
+											die fälschungssichere Pharmaindustrie erfunden wurde.
+											Diese fälschungssichere Verschlüsse gingen daraus hervor.
+											Es ist ein komplettes Sicherheitstheater.
+											Als Hausaufgabe denken Sie sich 10 Wege aus, diese zu umgehen.
+											Ich nenne ihnen einen Weg, eine Spritze.
+											Aber die Leute fühlen sich besser.
+											Es glich ihr Gefühl der Sicherheit an
+											die Realität an.
+									",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+","
+","
+","
+","
+",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+											Última historia; hace unos años una amiga mía dio a luz.
+											La visité en el hospital.
+											Resulta que ahora cuando un bebé nace
+											le ponen al bebé una pulsera RFID,
+											le ponen una pulsera relacionada a la madre
+											y si otra persona retira al bebé de la sala de maternidad
+											suena una alarma.
+											Me dije: ""Bueno, eso está bien bueno.
+											Me pregunto cuán comunes son los robos de bebé
+											desde los hospitales.""
+											Me voy a casa y lo busco.
+											Básicamente no sucede jamás.
+											Pero si lo piensas,
+											si eres un hospital
+											y tienes que alejar al bebé de su madre,
+											fuera de la pieza para tomar algunos exámenes,
+											mejor que tengas un buen teatro de seguridad
+											o te va a arrancar el brazo entero.
+									","
+											Última história, há alguns anos, uma amiga minha deu à luz.
+											Eu visitei-a no hospital.
+											Acontece que, hoje em dia, quando o bebé nasce,
+											eles colocam uma pulseira RFID no bebé,
+											e colocam a pulseira correspondente na mãe.
+											Por isso, se alguém, que não a mãe, levar o bebé para fora da maternidade,
+											o alarme dispara.
+											Eu disse, ""Bem, isso é porreiro.
+											Eu interrogo-me quão frequente são raptos de bebés
+											dos hospitais.""
+											Eu chego a casa, e procuro.
+											Praticamente nunca acontece.
+											Mas se pensarem no assunto,
+											se forem um hospital,
+											e precisam de levar o bebé para longe da mãe,
+											para fora do quarto para efectuar alguns testes,
+											é melhor que tenham alguns adereços de segurança,
+											ou ela vai-vos arrancar o braço.
+									","
+											Son hikaye, bir kaç yıl önce, bir arkadaşım doğum yaptı.
+											Hastanede ziyaretine gittim.
+											Farkettim ki, şimdi doğan bebeklere
+											annelerininkiyle uyuşan
+											alarmlı dijital bir güvenlik bilekliği takıyorlar,
+											yane, annesi hariç biri bebeği yeni doğan bölümünden çıkarırsa,
+											alarm çalıyor.
+											Ben de ""Oldukça iyiymiş"" dedim.
+											""Hastaneden bebek kaçırma ne kadar yaygın
+											merak ediyorum.""
+											Eve gittim, araştırdım.
+											Neredeyse hiç olmuyormuş.
+											Ama düşündüğünüzde,
+											hastanedeyseniz,
+											ve bebeği annesinden ayırıp bazı testler yaptırmak için
+											odadan çıkarmanız gerekiyorsa,
+											sağlam bir güvenlik tiyatrosu düzenleseniz iyi olur,
+											yoksa annesi kolunuzu koparabilir.
+									","
+											La dernière histoire, il y a quelques années, une de mes amies a eu un bébé.
+											Je suis allé la voir à l'hôpital.
+											Il s'avère que maintenant, quand un bébé naît,
+											ils lui mettent un bracelet avec une puce RFID,
+											en mettent un qui correspond à la mère,
+											pour que si quelqu'un d'autre que la mère emmène le bébé hors de la maternité,
+											un alarme se déclenche.
+											J'ai dit, ""C'est chouette.
+											Je me demande à quel point l'enlèvement de bébés est en augmentation
+											en dehors des hôpitaux.""
+											Je rentre chez moi, je vérifie.
+											Ça n'arrive quasiment jamais.
+											Mais si vous y réfléchissez,
+											si vous êtes un hôpital,
+											et que nous devez enlever un bébé à sa mère,
+											le sortir de la pièce pour faire des examens,
+											il vaut mieux que vous ayez un bon théâtre de sécurité,
+											ou elle va vous arracher le bras.
+									","
+											Letzte Geschichte, einige Jahre her, gebar eine Freundin von mir ein Kind.
+											Ich besuchte sie im Krankenhaus.
+											Es stellte sich heraus, wenn heutzutage ein Kind geboren wird,
+											bringen sie am Kind ein RFID Armband
+											mit einem dazugehörigen für die Mutter an,
+											Wenn irgendjemand anderes als die Mutter das Baby aus der Entbindungsstation nimmt,
+											geht ein Alarm los.
+											Ich sagte: ""Das ist irgendwie klasse.
+											Ich wundere mich wie grassierend Kinderklau
+											aus Krankenhäusern ist.""
+											Ich ging nach Haus und guckte es nach.
+											Es passiert so gut wie nie.
+											Aber wenn Sie darüber nachdenken,
+											wenn Sie im Krankenhaus sind,
+											und Sie müssen ein Baby von seiner Mutter
+											für einige Tests aus dem Raum bringen,
+											haben Sie besser ein ziemlich gutes Sicherheitstheater,
+											oder sie wird ihnen einen Arm ausreißen.
+									",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+","
+","
+","
+","
+",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+											(Risas)
+									","
+											(risos)
+									","
+											(Kahkahalar)
+									","
+											(Rires)
+									","
+											(Gelächter)
+									",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+","
+","
+","
+","
+",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+											Así que es importante para nosotros,
+											aquellos de nosotros que diseñamos seguridad,
+											que observamos las políticas de seguridad,
+											o incluso miramos a las políticas públicas
+											y las maneras que estas afectan a la seguridad.
+											No es sólo la realidad, es sensación y la realidad.
+											Lo que es importante
+											es que sean más o menos iguales.
+											Es importante que -si nuestras sensaciones calzan con la realidad-
+											tomemos mejores decisiones de seguridad.
+									","
+											Por isso, isto é importante para nós,
+											aqueles que desenvolvem segurança,
+											que investigam normas de segurança,
+											ou que até investigam normas públicas
+											de formas que afectam a segurança.
+											Não é apenas a realidade, é o sentimento e a realidade.
+											O que é importante
+											é que coincidam mais ou menos.
+											é importante porque, se os nossos sentimentos coincidirem com a realidade,
+											nós fazemos melhores escolhas de segurança.
+									","
+											Yani bizler için bu çok önemli,
+											güvenlik tasarımcıları için,
+											güvenlik politikalarına bakanlar için,
+											hatta kamu politikalarının
+											güvenliği etkileyen alanlarına bakanlar için.
+											Olay sadece gerçeklikte değil, hisle ve gerçeklikte.
+											Önemli olan
+											her ikisinin örtüşmesi.
+											Hislerimiz ver gerçeklik örtüştüğü sürece,
+											daha iyi güvenlik değiş-tokuşları yapıyoruz.
+									","
+											C'est donc important pour nous,
+											qui concevons des systèmes de sécurité,
+											qui examinons la politique de sécurité,
+											ou même la politique publique
+											de manières qui affectent la sécurité.
+											Il ne s'agit pas que de sécurité, il s'agit d'impression et de réalité.
+											Ce qui est important
+											est qu'elles soient en gros équivalentes,
+											il est important que, si nos impressions collent à la réalité,
+											nous faisons de meilleurs échanges de sécurité.
+									","
+											Es ist also wichtig für uns,
+											für solche von uns, die Sicherheit gestalten,
+											auf die Sicherheitsregelung zu schauen
+											oder sogar auf die öffentliche Regelung,
+											die in Ihrer Art Einfluss auf die Sicherheit haben.
+											Es ist nicht nur Realität, es ist Gefühl und Realität.
+											Was wichtig ist,
+											ist dass sie ungefähr gleich sein müssen.
+											Es ist wichtig, dass wenn unsere Gefühle mit der Realität übereinstimmen,
+											wir bessere Sicherheitsabwägungen machen.
+									",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+","
+","
+","
+","
+",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+											Gracias.
+									","
+											Obrigado.
+									","
+											Teşekkürler.
+									","
+											Merci.
+									","
+											Vielen Dank.
+									",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+","
+","
+","
+","
+",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+											(Aplausos)
+									","
+											(Aplausos)
+									","
+											(Alkışlar)
+									","
+											(Applaudissements)
+									","
+											(Applaus)
+									",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"
+"
+","
+","
+","
+","
+",The security mirage,Bruce Schneier,21:05,"TEDx,culture,global issues,security,technology,terrorism"

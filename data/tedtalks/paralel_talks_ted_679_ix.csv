@@ -1,0 +1,798 @@
+en,fr,de,es,tr,pt,title,speaker,duration,tags
+"
+","
+","
+","
+","
+","
+",What's the fastest way to alphabetize your bookshelf?,Chand John,4:23,"collaboration,creativity,engineering,memory,math,books,algorithm,book,novel,library,technology,animation,TED-Ed"
+"
+											You work at the college library.
+											You're in the middle of a quiet afternoon
+											when suddenly a shipment of 1,280
+different books arrives.
+											The books have been dropped of
+in one long straight line,
+											but they're all out of order,
+											and the automatic sorting 
+system is broken.
+											To make matters worse,
+classes start tomorrow,
+											which means that 
+first thing in the morning,
+											students will show up in droves
+looking for these books.
+											How can you get them all sorted in time?
+											One way would be to start at one end
+of the line with the first pair of books.
+											If the first two books are in order,
+then leave them as they are.
+											Otherwise, swap them.
+											Then, look at the second and third books,
+											repeat the process,
+											and continue until you reach 
+the end of the line.
+											At some point, you'll come across
+the book that should be last,
+											and keep swapping it with every
+subsequent book,
+											moving it down the line until it
+reaches the end where it belongs.
+											Then, start from the beginning
+and repeat the process
+											to get the second to last book
+in its proper place,
+											and keep going until all books are sorted.
+											This approach is called Bubble Sort.
+											It's simple but slow.
+											You'd make 1,279 comparisons
+in the first round,
+											then 1,278, and so on,
+											adding up to 818,560 comparisons.
+											If each took just one second,
+the process would take over nine days.
+											A second strategy would be to start
+by sorting just the first two books.
+											Then, take the third book and compare it
+with the book in the second spot.
+											If it belongs before the second book,
+swap them,
+											then compare it 
+with the book in the first spot,
+											and swap again if needed.
+											Now you've sorted the first three books.
+											Keep adding one book at a time
+to the sorted sub-line,
+											comparing and swapping the new book
+with the one before it
+											until it's correctly placed
+among the books sorted so far.
+											This is called Insertion Sort.
+											Unlike Bubble Sort, it usually doesn't
+require comparing every pair of books.
+											On average, we'd expect to only need
+to compare each book
+											to half of the books that came before it.
+											In that case, the total 
+number of comparisons
+											would be 409,280,
+											taking almost five days.
+											You're still doing 
+way too many comparisons.
+											Here's a better idea.
+											First, pick a random book.
+											Call it the partition and compare it
+to every other book.
+											Then, divide the line
+											by placing all the books 
+that come before the partition on its left
+											and all the ones that come after it
+on its right.
+											You've just saved loads of time
+											by not having to compare 
+any of the books on the left
+											to any of the ones 
+on the right ever again.
+											Now, looking only 
+at the books on the left,
+											you can again pick a random partition book
+											and separate those books that come
+before it from those that come after it.
+											You can keep creating 
+sub-partitions like this
+											until you have a bunch of small sub-lines,
+											each of which you'd sort quickly using
+another strategy, like Insertion Sort.
+											Each round of partitioning requires
+about 1,280 comparisons.
+											If your partitions are pretty balanced,
+											dividing the books into 128 sub-lines of ten
+would take about seven rounds,
+											or 8,960 seconds.
+											Sorting these sub-lines would add
+about 22 seconds each.
+											All in all, this method 
+known as QuickSort
+											could sort the books 
+in under three and a half hours.
+											But there's a catch.
+											Your partitions could end up lopsided,
+saving no time at all.
+											Luckily, this rarely happens.
+											That's why QuickSort is one of the most
+efficient strategies
+											used by programmers today.
+											They use it for things like sorting items
+in an online store by price,
+											or creating a list of all the gas stations
+close to a given location
+											sorted by distance.
+											In your case, you're done quick sorting
+with time to spare.
+											Just another high-stakes day 
+in the library.
+									","
+											Vous travaillez
+dans une bibliothèque universitaire.
+											C'est le milieu d'une après-midi calme
+											quand une livraison
+de 1 280 livres arrive.
+											Les livres ont été déposés
+en une seule ligne,
+											mais ils ne sont pas dans l'ordre
+											et le système de classement automatique
+est en panne.
+											Pour aggraver la situation,
+les cours commencent demain,
+											ce qui veut dire qu'à la première heure,
+											des étudiants vont venir en nombre
+à la recherche de ces livres.
+											Comment pouvez-vous les classer
+en temps et en heure ?
+											Une façon de procéder est de commencer
+par la première paire de livres
+											à l'une des extrémités de la ligne.
+											Si ces deux premiers livres
+sont dans l'ordre,
+											laissez-les tels quels.
+											Sinon, échangez leur place.
+											Faites de même
+avec le deuxième et troisième livre
+											et ainsi de suite,
+jusqu'à atteindre l'autre extrémité.
+											À un certain moment,
+vous aurez en main le livre
+											à ranger en dernière place
+											et vous l'échangez
+avec chaque livre qui suit,
+											le déplaçant ainsi le long de la ligne
+jusqu'à arriver au bout.
+											Revenez ensuite au début
+et répétez l'action
+											pour ranger le deuxième livre
+et ceux qui suivent
+											afin qu'ils soient tous
+à leur place respective.
+											Cette technique est appelée
+le tri à bulle.
+											C'est simple mais long.
+											Vous exécutez 1 279 comparaisons
+la première fois,
+											puis 1 278, et ainsi de suite,
+											pour un total de 818 560 comparaisons.
+											Si chaque comparaison dure une seconde,
+ranger prendra neuf jours.
+											Une deuxième technique est de commencer
+par classer les deux premiers livres,
+											puis comparer le troisième livre
+à celui en deuxième place.
+											S'il doit être en deuxième place,
+échangez-les
+											puis comparez-le avec le livre
+en première place,
+											et échangez-les si besoin.
+											Vous avez ainsi rangé
+les trois premiers livres.
+											Continuez d'ajouter un livre à la fois
+à ce sous-classement trié,
+											comparez et échangez le nouveau livre
+avec le précédent
+											jusqu'à ce qu'il soit correctement rangé
+parmi les livres déjà classés.
+											C'est la technique du tri par insertion.
+											Contrairement au tri à bulle,
+											cela ne nécessite généralement pas
+une comparaison de chaque paire de livres.
+											En moyenne,
+on ne compare chaque livre
+											qu'avec la moitié des livres le précédant.
+											En procédant ainsi,
+le nombre total de comparaisons
+											est de 409 280,
+soit presque cinq jours.
+											C'est encore trop de comparaisons.
+											Voici une meilleure méthode :
+											d'abord choisissez un livre au hasard,
+c'est votre séparateur,
+											puis comparez-le
+avec tout les autres livres.
+											Ensuite, divisez la ligne
+en plaçant tous les livres
+											
+qui viennent avant le séparateur
+à sa gauche
+											et ceux qui viennent après
+à sa droite.
+											Vous venez d'économiser du temps
+											en ne comparant aucun des livres
+situés à gauche
+											avec ceux situés à droite.
+											Maintenant,
+concentrez-vous sur les livres de gauche.
+											Choisissez à nouveau
+un livre séparateur
+											et séparez les livres devant le précéder
+de ceux qui doivent lui succéder.
+											Vous pouvez continuer
+à créer des sous-classements
+											jusqu'à avoir plusieurs sous-lignes,
+assez petites,
+											que vous rangez rapidement
+en utilisant une autre méthode,
+											comme le tri par insertion.
+											Chaque séquence de séparation
+compte environ 1 280 comparaisons.
+											Si vos séparations sont équilibrées,
+											répartir les livres en 128 sous-lignes
+de dix livres se fait en sept séquences,
+											ou 8 960 secondes.
+											Trier ces sous-lignes ajoute 22 secondes
+à chaque séquence.
+											Cette méthode s'appelle le tri rapide,
+											et permet de classer les livres
+en 3h30.
+											Mais il y a un piège :
+											vos séparations
+peuvent finir déséquilibrées
+											sans vous faire gagner de temps.
+											Heureusement,
+cela arrive très rarement.
+											C'est pourquoi aujourd'hui le tri rapide
+est l'une des meilleures méthodes
+											utilisée par les programmeurs.
+											Par exemple, ils emploient cette technique
+pour trier les articles d'un site par prix
+											ou pour créer une liste
+de toutes les stations d'essence
+											classées par distance.
+											Dans votre situation,
+vous avez fini votre tri rapide
+											et vous ainsi êtes libre.
+											Encore un autre jour crucial
+à la bibliothèque.
+									","
+											Du arbeitest in der 
+Universitätsbibliothek.
+											Es ist ein ruhiger Nachmittag,
+											als plötzlich eine Lieferung von 1280
+unterschiedlichen Bücher ankommt.
+											Die Bücher wurden in einer 
+lange, geraden Reihe aufgestellt,
+											doch sie sind nicht geordnet,
+											und das automatische 
+Sortiersystem ist kaputt.
+											Zu allem Übel fängt morgen
+wieder der Unterricht an,
+											was bedeutet, dass gleich morgen früh
+											Studenten scharenweise 
+nach diesen Büchern suchen werden.
+											Wie schaffst du es
+alle rechtzeitig zu ordnen?
+											Du könntest z. B. an einem Ende der Reihe
+mit dem ersten Buchpaar anfangen.
+											Wenn die ersten zwei Bücher 
+geordnet sind, dann lass sie so.
+											Ansonsten, tausche sie.
+											Sieh dir dann das 2. und 3. Buch an,
+											wiederhole den Vorgang,
+											und mach so weiter bis zum Ende der Reihe.
+											Irgendwann stößt du auf das Buch,
+das als letztes stehen sollte.
+											Du tauscht es weiterhin mit 
+den darauffolgenden Büchern,
+											und rückst es somit an 
+das Ende der Reihe, wo es hingehört.
+											Dann beginnst du wieder von vorne
+und wiederholst den Vorgang,
+											um das zweitletzte Buch 
+an seinen Platz zu bringen.
+											So machst du weiter, 
+bis alle Bücher sortiert sind.
+											Diese Methode heißt ""Bubblesort"".
+											Sie ist sehr einfach, aber langsam.
+											Du würdest 1279 Vergleiche
+in der erste Runde machen,
+											dann 1278, und so weiter.
+											Insgesamt wären das 818 560 Vergleiche.
+											Würde jeder Vergleich 
+nur eine Sekunde benötigen,
+											dann würde das Verfahren
+mehr als neun Tage dauern.
+											Eine zweite Strategie wäre, zuerst nur
+die ersten beiden Bücher zu ordnen.
+											Nimm dann das dritte Buch
+und vergleiche es
+
+											mit dem Buch an zweiter Stelle.
+											Gehört es vor's zweite Buch, tausche sie.
+											Vergleiche es dann
+mit dem Buch an erster Stelle,
+											und tausche die beiden, wenn nötig.
+											Jetzt hast du die ersten
+drei Bücher sortiert.
+											Füge ein Buch nach dem anderen
+zu der geordneten Bücherreihe hinzu,
+											indem du es mit den Büchern davor 
+vergleichst und tauschst,
+											bis es an der richtigen Stelle
+unter den schon sortierten Büchern steht.
+											Dieses Verfahren heißt ""Insertionsort"".
+											Anders als bei Bubblesort, muss man nicht
+jedes Buchpaar miteinander vergleichen.
+											Im Durchschnitt erwarten wir,
+dass wir jedes Buch
+											nur mit der Hälfte der Bücher,
+die davor kommen, vergleichen müssen.
+											In diesem Fall liegt 
+die Gesamtzahl der Vergleiche
+											bei 409 280,
+											und dauert fast fünf Tage.
+											Du machst immer noch
+viel zu viele Vergleiche.
+											Hier eine bessere Idee:
+											Zuerst wählst du willkürlich ein Buch aus.
+											Das ist das Trennelement, 
+das du mit jedem anderen Buch vergleichst.
+											Teile dann die Reihe,
+											indem du alle Bücher, die vor dem 
+Trennelement stehen, links davon anordnest
+											und alle die danach kommen, rechts davon.
+											Du hast gerade sehr viel Zeit gespart,
+											denn du musst nie wieder
+die Bücher auf der linken Seite
+											mit den Büchern auf
+der rechten Seite vergleichen.
+											Betrachte jetzt nur 
+die Bücher auf der linken Seite.
+											Du kannst hier wieder 
+ein Buch als Trennelement wählen,
+											und die Bücher, die davor und 
+danach kommen, voneinander trennen.
+											So kannst du immer weitere
+Unterteilungen erzeugen,
+											bis du eine Menge
+kleiner Teilbereiche hast,
+											die du durch eine andere Sortiermethode,
+wie Insertionsort, schnell ordnen kannst.
+											Bei jeder Unterteilung fallen 
+etwa 1280 Vergleiche an.
+											Wenn deine Aufteilungen
+relativ gleichmäßig sind,
+											brauchst du, wenn du die Bücher in
+128 Teilbereiche à zehn Bücher teilst,
+											ca. 7 Runden, oder 8960 Sekunden.
+											Das Sortieren dieser Teilbereiche
+braucht jeweils 22 Sekunden.
+											Alles in allem könntest du 
+mit dieser Methode namens ""Quicksort""
+											die Bücher in unter 
+dreieinhalb Stunden ordnen.
+											Doch das hat einen Haken:
+											Sind die Unterteilungen ungleichmäßig,
+											sparst du keine Zeit.
+											Glücklicherweise passiert das selten.
+											Deshalb ist Quicksort eine
+der effizientesten Strategien,
+											die heute von Programmierern benutzt wird.
+											Damit werden in Onlineshops
+die Waren nach dem Preis geordnet,
+											oder eine Liste aller Tankstellen
+in der Nähe eines gegeben Ortes
+											nach Entfernung sortiert.
+											In deinem Fall bist du mit dem Ordnen
+fertig, und hast noch Zeit über.
+											Wieder ein anspruchsvoller Tag
+in der Bibliothek.
+									","
+											Trabajas en la biblioteca
+de la universidad.
+											En mitad de una tarde tranquila
+											te llegan de repente unos 1280 libros,
+											entregados en línea recta
+pero desordenados
+											y el sistema de clasificación
+automática no funciona.
+											Además, mañana comienzan
+las clases de nuevo,
+											lo que significa que 
+a primera hora de la mañana
+											todos los estudiantes se presentarán
+en la biblioteca buscando sus libros.
+											¿Cómo se pueden ordenar
+todos los libros a tiempo?
+											Una forma sería comenzar por el primer
+par de libros en un extremo de la fila
+											y si los dos primeros están
+en orden, dejarlos como están.
+											De lo contrario, intercambiarlos.
+											Hacer lo mismo con el segundo 
+y el tercero,
+											repetir el procedimiento
+											y seguir hasta llegar
+al final de la fila.
+											En un momento dado, se encuentra
+el libro que debe ser el último,
+											se sigue intercambiándolo
+con los libros posteriores
+											desplazándolo a lo largo de la
+fila hasta que llegue al final.
+											Volver a empezar desde el principio
+y repetir el mismo procedimiento
+											para colocar el segundo
+en el lugar que le corresponde;
+											seguir hasta ordenar todos los libros.
+											Este proceso se llama
+el método de la burbuja.
+											Es simple pero lento.
+											En la primera ronda se llegan
+a hacer 1279 comparaciones,
+											luego 1278 y y así sucesivamente,
+											hasta llegar a un total de 818 560.
+											Si cada comparación dura un segundo,
+harían falta nueve días.
+											Una segunda técnica implica
+empezar con solo los primeros 2 libros
+											para luego comparar el tercer libro con
+el que se encuentra en el segundo lugar.
+											Si le corresponde colocarlo delante
+de este segundo libro, intercambiarlos,
+											luego compararlos con el primero
+en el primer lugar
+											y volver a intercambiarlos si hace falta.
+											Ya se han ordenado los primeros tres.
+											Seguir con un libro a la vez,
+ordenándolos por conjuntos,
+											comparando cada uno de ellos
+e intercambiando con el de delante
+											hasta encontrar el lugar que le
+corresponde entre los ya ordenados.
+											Esto se denomina la técnica por inserción.
+											A diferencia del método de la burbuja,
+no requiere comparar cada par.
+											En promedio, creemos que solo 
+es necesario comparar cada libro
+											con la mitad de todos
+los libros que le preceden.
+											En este caso el número total 
+de comparaciones será 409 280
+											y tardaría cinco días.
+											Aun así, hay que comparar
+demasiados libros.
+											Te proponemos una idea mejor.
+											Elegir un libro al azar.
+											Usarlo de separador y luego compararlo
+con todos los otros libros.
+											Luego, dividir la línea
+											y colocar todos los libros de antes
+de la separación a la izquierda
+											y los otros a la derecha.
+											Acabas de ahorrarte un montón de tiempo
+											y sin tener que comparar todos
+los libros de la izquierda
+											con todos que tiene a la derecha.
+											Ahora, al fijarte 
+solo en los de la izquierda
+											vuelve a elegir uno al azar
+											y separa los libros de delante
+y detrás de ese en dos grupos.
+											Sigue dividiendo los libros
+en base al mismo principio
+											hasta que llegues a tener
+pequeñas pilas de libros,
+											listas para ordenarlas
+en base al método de inserción.
+											Cada ciclo requiere 
+unas 1280 comparaciones.
+											Si creaste pilas parecidas
+											deberías tener 128 pilas,
+con 10 libros en cada grupo,
+											tardando 8960 segundos.
+											Añade 22 segundos para ordenar 
+estos subconjuntos.
+											Con esta técnica llamada
+catalogación rápida
+											puedes llegar a ordenar tus libros
+en menos de una hora y media.
+											Pero tiene trampa.
+											Si los subconjuntos están
+desproporcionados perderás mucho tiempo
+											pero afortunadamente,
+esto ocurre muy de vez en cuando.
+											Esta técnica es una de las más eficientes
+											usada en la actualidad por
+los programadores informáticos
+											por ejemplo en las tiendas en línea para
+categorizar elementos, según el precio
+											o crear una lista de todas las gasolineras
+más cercanas a un lugar determinado,
+											en base a la distancia.
+											En este caso, la catalogación 
+está resuelta y queda tiempo de sobra.
+											Y aquí va otro día crucial
+en la biblioteca.
+									","
+											Üniversite kütüphanesinde çalışıyorsunuz.
+											Sakin bir öğle sonrasının ortasındasınız
+											derken 1280 adet farklı
+kitap sevkiyatı geliyor.
+											Kitaplar, uzun düz bir sıra
+hâlinde indiriliyor
+											ancak sıraları bozuk hâlde,
+											üstelik otomatik sıralama
+sistemi de arızalı.
+											Bu da yetmezmiş gibi
+dersler yarın başlıyor,
+											yani sabah erkenden
+											öğrenciler bu kitaplar için
+sıraya girmeye başlayacak.
+											Hepsini vaktinde nasıl sıralayabilirsiniz?
+											İlk yol sıranın bir ucundan
+ilk iki kitapla başlamak olur.
+											Eğer ilk iki kitap sıralı ise
+oldukları gibi bırakın.
+											Değilse değiştirin.
+											Sonra ikinci ve üçüncü
+kitaplara bakın,
+											işlemi tekrar edin
+											ve sıranın sonuna gelene
+kadar devam edin.
+											Bir noktada, en sonda olması
+gereken kitaba denk gelirsiniz
+											ve onu, sonrasında gelen 
+her kitapla değiştirip
+											kitap doğru yere gelene kadar
+aşağıya kaydırarak devam edin.
+											Sonra en başa dönün ve işlemi
+											sondan ikinci kitap
+yerini bulana kadar tekrarlayın
+											ve bütün kitaplar sıralanana
+kadar devam edin.
+											Bu yönteme ""kabarcık sıralama"" denir.
+											Basit ama yavaştır.
+											İlk seferde 1279 karşılaştırma
+yapmış olursunuz,
+											sonra 1278 olur ve toplamda
+											818.560 karşılaştırmaya ulaşır.
+											Her karşılaştırma bir saniye alsa
+işlem dokuz günden fazla sürer.
+											İkinci bir yol sadece ilk iki kitabı
+sıralayarak başlamak olur.
+											Sonra üçüncü kitabı alıp ikinci
+sıradaki kitapla karşılaştırın.
+											İkinci kitaptan önce ise
+yerlerini değiştirin,
+											sonra onu
+ilk sıradaki kitapla karşılaştırın,
+											gerekirse yerini değiştirin.
+											Şimdilik ilk üç kitabı sıraladınız.
+											Her seferinde, sıralanan tarafa
+yeni bir kitap eklemeye devam edin,
+											yeni kitabı bir önceki kitapla
+karşılaştırıp değiştirerek
+											o zamana kadar sıralananların arasına
+doğru şekilde yerleşene kadar.
+											Buna ""eklemeli sıralama"" denir.
+											Kabarcık sıralamanın aksine, her 
+çifti karşılaştırmayı gerektirmez.
+											Ortalama olarak her kitabı,
+sadece kendinden önce gelen kitapların
+											yarısıyla karşılaştırmamız gerekir.
+											Bu durumda toplam karşılaştırma sayısı
+											409.280 olup
+											yaklaşık beş gün sürer.
+											Hâlâ çok fazla karşılaştırma yapıyorsunuz.
+											İşte size daha iyi bir fikir:
+											Önce rastgele bir kitap seçin.
+											Buna ""parça"" deyin ve diğer
+bütün kitaplarla karşılaştırın.
+											Sonra sırayı ikiye bölün,
+											parçadan önce gelen bütün
+kitapları sol tarafa,
+											parçanın ardından gelen bütün
+kitapları da sağ tarafa koyun.
+											Soldaki bütün kitapları
+
+											sağdaki kitaplarla tekrar tekrar
+karşılaştırmak zorunda kalmayıp
+											hayli zaman kazandınız.
+											Şimdi de sadece soldaki
+kitaplara bakın,
+											yine rastgele bir parça kitap seçebilir
+											ve öncesinde kalan kitapları
+sonra gelenlerden ayırabilirsiniz.
+											Bu şekilde alt parçalar oluşturmaya
+											küçük bir alt grup 
+elde edene kadar devam edip
+											bunları ""yerleştirmeli sıralama"" gibi
+bir yöntemle hızlıca sıralayabilirsiniz.
+											Her parçalama işlemi yaklaşık
+1280 karşılaştırma gerektirir.
+											Eğer parçalar eşit dağılmışsa
+											kitapları on kitaplık 128 alt gruba
+bölmek yedi sefer
+											ya da 8960 saniye gerektirir.
+											Alt grupları tasnif etmek
+her birine yaklaşık 22 saniye ekler.
+											Neticede, ""hızlı sıralama""
+olarak bilinen bu yöntem
+											kitapları üç buçuk saatin
+altında sıralayabilir.
+											Ancak tek sorunu var.
+											Parçalar orantısız olursa
+hiç zaman kazanamazsınız.
+											Neyse ki bu nadiren olur.
+											Bundan dolayı hızlı sıralama
+günümüzde programcıların kullandığı
+											en etki yöntemlerdendir.
+											İnternet mağazalarında 
+ürünleri fiyata göre sıralama
+											veya belirli bir konuma yakın olan
+benzin istasyonlarının
+											uzaklık sıralamasında kullanırlar.
+											Sizin durumunuzda hızlı sıralamayla
+geriye zamanınız bile kalır.
+											Kütüphanede yüksek riskli
+günlerden birisi daha.
+									","
+											Trabalhas na biblioteca da faculdade.
+											Estás no meio de uma tarde tranquila
+											quando, subitamente, chega um carregamento
+de 1280 livros diferentes.
+											Os livros foram descarregados
+numa longa linha reta
+											mas estão todos fora de ordem,
+											e o sistema de classificação
+está avariado.
+											Para piorar as coisas,
+as aulas começam amanhã
+											o que significa que,
+logo de manhã cedo,
+											todos os estudantes vão aparecer
+à procura desses livros.
+											Como é que podes ordenar
+todos os livros a tempo?
+											Uma forma seria começar
+pelos dois primeiros livros,
+											num dos extremos da fila.
+											Se os dois primeiros livros estiverem
+por ordem, deixa-os ficar onde eles estão.
+											Caso contrário, troca-os de lugar.
+											Depois, observa o segundo
+e o terceiro livros.
+											e repete o procedimento.
+											Continua até chegares ao fim da fila.
+											A certa altura, encontras o livro
+que devia ser o último.
+
+											Vai-o trocando sempre de lugar
+com os livros posteriores,
+											até ele chegar ao fim da fila,
+ao lugar que lhe pertence.
+											Volta a começar do princípio
+e repete o procedimento.
+											até colocar o penúltimo livro
+no seu devido lugar.
+											Volta a repetir tudo até todos os livros
+estarem nos seus lugares.
+											Este método chama-se 
+""Ordenação por Flutuação"".
+											É simples, mas lento.
+											Tens que fazer 1279 comparações
+na primeira ronda,
+											depois, 1278, e assim sucessivamente,
+											num total de 818 560 comparações.
+											Se cada uma delas demorar só um segundo,
+o processo demorará nove dias.
+											Uma segunda estratégia seria começar
+por ordenar os dois primeiros livros.
+											Depois, comparar o terceiro livro
+com o livro no segundo lugar.
+											Se ele deve ficar antes do segundo livro,
+troca-os de lugar.
+											Depois compara-o com o livro
+no primeiro lugar
+											e troca-os, se necessário.
+											Tens os três primeiros livros
+ordenados.
+											Continua com um livro de cada vez
+
+											comparando e trocando o novo livro
+com os que estão antes dele
+											até ele ficar corretamente colocado
+entre os livros ordenados até aí.
+											Este método chama-se
+""Ordenação por Inserção"".
+											Ao contrário da ""Ordenação por Flutuação""
+											não exige que se comparem
+todos os pares de livros.
+											Em média, só precisamos
+de comparar cada livro
+											com metade dos livros
+que estão antes dele.
+											Neste caso, o número total de comparações
+											seria de 409 280,
+											o que levaria quase cinco dias.
+											Continuas a ter que fazer
+demasiadas comparações.
+											Esta é uma ideia melhor.
+											Primeiro, agarra num livro ao acaso.
+											Chama-lhe ""partição"" e compara-o
+com o outros livros todos.
+											Depois divide a fila
+											colocando à esquerda todos os livros
+que devem ficar antes da partição
+											e à direita, os que devem ficar
+depois da partição.
+											Poupaste imenso tempo
+											porque não precisas de comparar
+nenhum dos livros da esquerda
+											com os da direita.
+											Depois, olha só
+para os livros da esquerda.
+											Podes voltar a agarrar num livro
+ao acaso, outra ""partição""
+											e separar os livros antes dela
+dos livros depois dela.
+											Podes continuar a criar subpartições
+como estas
+											até teres um grupo de pequenas sublinhas,
+											cada uma das quais
+podes ordenar rapidamente,
+											usando outra estratégia
+como a ""Ordenação por Inserção"".
+											Cada ronda de partição exige
+cerca de 1280 comparações.
+											Se as partições estiverem equilibradas,
+											dividir os livros em 128 sublinhas de 10,
+deve precisar de sete rondas,
+											ou seja 8960 segundos.
+											Ordenar as sublinhas, 
+demorará mais 22 segundos cada.
+											Ao todo, este método,
+conhecido por ""Ordenação Rápida""
+											pode ordenar os livros
+em menos de três horas e meia.
+											Mas há um inconveniente.
+											As partições podem ficar desequilibradas,
+e não poupar tempo nenhum
+											Felizmente, isso acontece raramente.
+											É por isso que a Ordenação Rápida
+é uma das estratégias mais eficazes
+											usadas hoje pelos programadores.
+											Usam-na para ordenar, por preço,
+os artigos numa loja online
+											ou para criar uma lista de todas
+as estações de gasolina
+											perto de uma dada localidade
+											ordenadas pela distância.
+											No teu caso, fizeste uma ordenação rápida,
+com tempo de sobra.
+											Mais um dia de sobressalto na biblioteca
+									",What's the fastest way to alphabetize your bookshelf?,Chand John,4:23,"collaboration,creativity,engineering,memory,math,books,algorithm,book,novel,library,technology,animation,TED-Ed"
+"
+","
+","
+","
+","
+","
+",What's the fastest way to alphabetize your bookshelf?,Chand John,4:23,"collaboration,creativity,engineering,memory,math,books,algorithm,book,novel,library,technology,animation,TED-Ed"

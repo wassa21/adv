@@ -1,0 +1,2132 @@
+en,fr,de,title,speaker,duration,tags
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											This is Lee Sedol.
+											Lee Sedol is one of the world's
+greatest Go players,
+											and he's having what my friends
+in Silicon Valley call
+											a ""Holy Cow"" moment —
+									","
+											Voici Lee Sedol.
+											Lee Sedol est l'un des meilleurs
+joueurs de go au monde,
+											et il vient d'avoir ce que mes amis
+de Silicon Valley appellent
+											un moment « Mince alors... »
+									","
+											Das hier ist Lee Sedol.
+											Lee Sedol ist einer der besten Go-Spieler.
+											Er erlebt hier, was meine
+Freunde im Silicon Valley
+											einen ""Heiliger Strohsack""-Moment nennen.
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											(Laughter)
+									","
+											(Rires)
+									","
+											(Gelächter)
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											a moment where we realize
+											that AI is actually progressing
+a lot faster than we expected.
+											So humans have lost on the Go board.
+What about the real world?
+									","
+											Ce moment où nous réalisons
+											que l'intelligence artificielle progresse
+plus rapidement que prévu.
+											Les hommes ont donc perdu au jeu de go.
+Qu'en est-il du monde réel ?
+									","
+											Ein Moment, in dem wir bemerken,
+											dass die KI schneller vorankommt,
+als wir erwartet haben.
+											Menschen verloren also bei Go.
+											Was ist mit der echten Welt?
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											Well, the real world is much bigger,
+											much more complicated than the Go board.
+											It's a lot less visible,
+											but it's still a decision problem.
+											And if we think about some
+of the technologies
+											that are coming down the pike ...
+											Noriko [Arai] mentioned that reading
+is not yet happening in machines,
+											at least with understanding.
+											But that will happen,
+											and when that happens,
+											very soon afterwards,
+											machines will have read everything
+that the human race has ever written.
+											And that will enable machines,
+											along with the ability to look
+further ahead than humans can,
+											as we've already seen in Go,
+											if they also have access
+to more information,
+											they'll be able to make better decisions
+in the real world than we can.
+											So is that a good thing?
+											Well, I hope so.
+									","
+											Eh bien, le monde réel est
+bien plus grand,
+											plus compliqué d'un plateau de go.
+											C'est beaucoup moins visible
+											mais ça reste un problème de décision.
+											Si nous pensons à certaines technologies
+											qui apparaissent...
+											Noriko [Arai] a dit que la lecture n'est
+pas encore au point pour les machines,
+											du moins avec compréhension.
+											Mais cela se produira,
+											et quand ça se produira,
+											très peu de temps après,
+											les machines liront tout
+ce que la race humaine a jamais écrit.
+											Cela permettra aux machines,
+											qui ont la capacité de voir plus loin
+que les hommes ne le peuvent,
+											comme démontré avec le jeu de go,
+											si elles ont accès à plus d'informations,
+											de prendre de meilleures 
+décisions dans le monde réel que nous.
+											Est-ce donc une bonne chose ?
+											Eh bien, je l'espère.
+									","
+											Die echte Welt ist viel größer
+											und komplizierter als ein Go-Brett.
+											Sie ist weniger einsehbar,
+											aber trotzdem entscheidbar.
+											Wenn wir an ein paar Technologien denken,
+											die auf uns zukommen —
+											Noriko [Arai] erwähnte,
+dass Maschinen noch nicht lesen können,
+											jedenfalls nicht mit Verständnis.
+											Aber das wird kommen.
+											Wenn es so weit kommt,
+											werden Maschinen
+sehr bald alles gelesen haben,
+											was Menschen je geschrieben haben.
+											Das wird Maschinen ermöglichen,
+											neben der Fähigkeit
+weiter vorauszuschauen als Menschen,
+											wie wir bei Go schon sahen —
+											wenn sie auch noch mehr Information haben,
+											werden sie in der echten Welt bessere
+Entscheidungen treffen können als wir.
+											Ist das gut?
+											Ich hoffe es.
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											Our entire civilization,
+everything that we value,
+											is based on our intelligence.
+											And if we had access
+to a lot more intelligence,
+											then there's really no limit
+to what the human race can do.
+											And I think this could be,
+as some people have described it,
+											the biggest event in human history.
+											So why are people saying things like this,
+											that AI might spell the end
+of the human race?
+											Is this a new thing?
+											Is it just Elon Musk and Bill Gates
+and Stephen Hawking?
+									","
+											Notre civilisation tout entière,
+tout ce que nous apprécions,
+											est basé sur notre intelligence.
+											Et si nous avions accès
+à une plus large intelligence,
+											alors il n'y aurait aucune limite
+à ce que la race humaine peut faire.
+											Je pense que cela pourrait être,
+comme certains l'ont décrit,
+											le plus grand moment
+de l'histoire humaine.
+											Alors, pourquoi les gens
+racontent-ils des choses comme :
+											« l'IA pourrait signifier
+la fin de la race humaine ? »
+											Est-ce une chose nouvelle ?
+											Cela ne concerne-t-il qu' Elon Musk, 
+Bill Gates et Stephen Hawking ?
+									","
+											Unsere gesamte Zivilisation,
+alles, was wir wertschätzen,
+											basiert auf unserer Intelligenz.
+											Wenn wir Zugriff
+auf mehr Intelligenz hätten,
+											dann kann die Menschheit alles erreichen.
+											Ich glaube, das könnte,
+wie manche Leute es beschrieben,
+											das größte Ereignis in der
+Geschichte der Menschheit sein.
+											Warum sagen Leute also,
+											dass KI das Ende der
+Menschheit bedeuten könnte?
+											Ist das neu?
+											Sind es nur Elon Musk, Bill Gates
+und Stephen Hawking?
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											Actually, no. This idea
+has been around for a while.
+											Here's a quotation:
+											""Even if we could keep the machines
+in a subservient position,
+											for instance, by turning off the power
+at strategic moments"" —
+											and I'll come back to that
+""turning off the power"" idea later on —
+											""we should, as a species,
+feel greatly humbled.""
+											So who said this?
+This is Alan Turing in 1951.
+											Alan Turing, as you know,
+is the father of computer science
+											and in many ways,
+the father of AI as well.
+											So if we think about this problem,
+											the problem of creating something
+more intelligent than your own species,
+											we might call this ""the gorilla problem,""
+											because gorillas' ancestors did this
+a few million years ago,
+											and now we can ask the gorillas:
+											Was this a good idea?
+									","
+											En fait, non.
+Cette idée existe depuis un moment.
+											Voici une citation :
+											« Même si nous pouvions garder les
+machines dans une position subalterne,
+											par exemple, en coupant
+l'énergie à des moments stratégiques... »
+											et je reviendrai sur cette idée
+de « couper l'énergie » plus tard...
+											« Nous devrions, en tant qu'espèce,
+faire preuve d'humilité. »
+											Donc qui a dit ça ?
+C'est Alan Turing en 1951.
+											Alan Turing, vous le savez,
+est le père de l'informatique
+											et à bien des égards,
+le père de l'IA également.
+											Si nous pensons à ce problème,
+											celui de créer quelque chose de plus
+intelligent que notre propre espèce,
+											appelons cela
+« le problème du gorille »,
+											parce que leurs ancêtres ont vécu cela
+il y a quelques millions d'années,
+											nous pouvons donc leur demander :
+											« Était-ce une bonne idée ? »
+									","
+											Nein. Diese Idee gibt es schon länger.
+											Hier ist ein Zitat:
+											""Selbst wenn wir die Maschinen
+in unterwürfiger Stellung halten könnten,
+											z. B. indem wir den Strom abschalten"" —
+											ich werde später auf
+diese Idee eingehen —
+											""sollten wir uns als
+Spezies demütig fühlen.""
+											Wer hat das gesagt? Alan Turing, 1951.
+											Alan Turing, wie Sie wissen,
+ist der Vater der Informatik
+											und in vielerlei Hinsicht auch der KI.
+											Wenn wir also über
+dieses Problem nachdenken,
+											etwas Intelligenteres als unsere
+eigene Art zu entwerfen,
+											könnten wir es als
+""Gorilla-Problem"" bezeichnen,
+											weil die Vorfahren der Gorillas
+das vor Jahrmillionen taten.
+											Wir können die Gorillas jetzt fragen:
+											War das eine gute Idee?
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											So here they are having a meeting
+to discuss whether it was a good idea,
+											and after a little while,
+they conclude, no,
+											this was a terrible idea.
+											Our species is in dire straits.
+											In fact, you can see the existential
+sadness in their eyes.
+									","
+											Donc, ils ont eu une réunion
+pour savoir si c'était une bonne idée
+											et après un petit moment,
+ils conclurent que non,
+											c'était une mauvaise idée.
+											« Notre espèce est en difficulté. »
+											En fait, vous pouvez voir de la tristesse
+existentielle dans leurs yeux.
+									","
+											Hier sind sie bei einem Meeting
+und besprechen, ob es eine gute Idee war.
+											Sie kommen zu dem Schluss, nein,
+											es war eine schlechte Idee.
+											Unsere Spezies ist in arger Not.
+											Sie können die existenzielle
+Traurigkeit in ihren Augen sehen.
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											(Laughter)
+									","
+											(Rires)
+									","
+											(Gelächter)
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											So this queasy feeling that making
+something smarter than your own species
+											is maybe not a good idea —
+											what can we do about that?
+											Well, really nothing,
+except stop doing AI,
+											and because of all
+the benefits that I mentioned
+											and because I'm an AI researcher,
+											I'm not having that.
+											I actually want to be able
+to keep doing AI.
+									","
+											Ce sentiment gênant d'avoir créé
+quelque chose de plus intelligent
+											que votre propre espèce alors que
+ce n'est peut-être pas une bonne idée...
+											« Que pouvons-nous y faire ? »
+											Eh bien, rien,
+sauf abandonner l'IA.
+											Mais à cause de tous les avantages
+que j'ai mentionnés
+											et parce que je suis chercheur en IA,
+											je ne peux m'y résoudre.
+											Je veux réellement continuer
+à travailler sur l'IA.
+									","
+											Das mulmige Gefühl, dass es
+eine schlechte Idee sein könnte,
+											etwas Intelligenteres
+als uns selbst zu erstellen,
+											was können wir dagegen tun?
+											Nichts so richtig, außer
+keine KI mehr zu entwickeln.
+											Wegen all der Vorteile,
+die ich schon erwähnte,
+											und weil ich ein KI-Forscher bin,
+werde ich das nicht zulassen.
+											Ich will weiter KI erforschen.
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											So we actually need to nail down
+the problem a bit more.
+											What exactly is the problem?
+											Why is better AI possibly a catastrophe?
+									","
+											Nous avons besoin de définir
+un peu plus le problème.
+											Quel est donc le problème ?
+											Pourquoi une meilleure IA
+pourrait être une catastrophe ?
+									","
+											Wir müssen das Problem
+also genauer festnageln.
+											Was genau ist das Problem?
+											Warum könnte bessere KI
+eine Katastrophe sein?
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											So here's another quotation:
+											""We had better be quite sure
+that the purpose put into the machine
+											is the purpose which we really desire.""
+											This was said by Norbert Wiener in 1960,
+											shortly after he watched
+one of the very early learning systems
+											learn to play checkers
+better than its creator.
+											But this could equally have been said
+											by King Midas.
+											King Midas said, ""I want everything
+I touch to turn to gold,""
+											and he got exactly what he asked for.
+											That was the purpose
+that he put into the machine,
+											so to speak,
+											and then his food and his drink
+and his relatives turned to gold
+											and he died in misery and starvation.
+											So we'll call this
+""the King Midas problem""
+											of stating an objective
+which is not, in fact,
+											truly aligned with what we want.
+											In modern terms, we call this
+""the value alignment problem.""
+									","
+											Voici une autre citation :
+											« Nous devrions être certains
+que l'objectif introduit dans la machine
+											est bien l'objectif que nous souhaitons. »
+											C'est une citation de 
+Norbert Wienner en 1960,
+											peu après qu'il a observé
+l'un des premiers systèmes d'apprentissage
+											apprendre à mieux jouer aux échecs
+que son créateur.
+											Mais ça aurait aussi pu être
+											le roi Midas, qui a dit :
+											« Je souhaite que tout
+ce que je touche se transforme en or »
+											et qui a obtenu exactement
+ce qu'il avait demandé.
+											C'était l'objectif
+qu'il a introduit dans la machine,
+											pour ainsi dire.
+											Sa nourriture, sa boisson et
+sa famille se sont alors changées en or.
+											Il est mort de faim dans la misère.
+											Nous appellerons ça
+« le problème du roi Midas »,
+											le fait de déclarer un objectif
+qui n'est pas, en fait,
+											en adéquation avec ce que nous voulons.
+											Aujourd'hui, nous appelons cela 
+« un problème d'alignement de valeur ».
+									","
+											Hier ist noch ein Zitat:
+											""Wir sollten uns sicher sein,
+dass die Absichten in der Maschine
+											tatsächlich die gewünschten
+Absichten sind.""
+											Das sagte Norbert Wiener 1960,
+											kurz nachdem er ein sehr
+frühes lernendes System
+											hatte lernen sehen, besser
+als sein Urheber Dame zu spielen.
+											Aber das hätte genauso gut
+											König Midas sagen können.
+											Er sagte: ""Alles, was ich berühre,
+soll zu Gold werden.""
+											Er bekam das, was er wollte.
+											Das war der Zweck,
+den er der Maschine gab,
+											sozusagen,
+											und sein Essen, Trinken und Verwandte
+verwandelten sich in Gold.
+											Er verhungerte elendig.
+											Nennen wir das also
+""das König-Midas-Problem"",
+											ein Ziel zu verfolgen, das in Wirklichkeit
+											nicht mit dem, was wir
+wollen, übereinstimmt.
+											Moderner gesagt nennen wir das
+das ""Wertausrichtungsproblem"".
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											Putting in the wrong objective
+is not the only part of the problem.
+											There's another part.
+											If you put an objective into a machine,
+											even something as simple as,
+""Fetch the coffee,""
+											the machine says to itself,
+											""Well, how might I fail
+to fetch the coffee?
+											Someone might switch me off.
+											OK, I have to take steps to prevent that.
+											I will disable my 'off' switch.
+											I will do anything to defend myself
+against interference
+											with this objective
+that I have been given.""
+											So this single-minded pursuit
+											in a very defensive mode
+of an objective that is, in fact,
+											not aligned with the true objectives
+of the human race —
+											that's the problem that we face.
+											And in fact, that's the high-value
+takeaway from this talk.
+											If you want to remember one thing,
+											it's that you can't fetch
+the coffee if you're dead.
+									","
+											Établir le mauvais objectif
+n'est qu'une partie du problème.
+											Il en existe une autre.
+											Si vous introduisez un objectif
+dans une machine,
+											même une chose
+simple comme « acheter du café »,
+											la machine se dit :
+											« Comment pourrais-je échouer
+à apporter du café ?
+											Quelqu'un pourrait m'éteindre.
+											Alors, je dois prendre
+des mesures pour éviter cela.
+											Je vais désactiver mon interrupteur.
+											Je ferai tout pour me défendre
+contre les interférences
+											contre l'objectif
+qu'on m'a donné. »
+											Cette quête obsessionnelle,
+											avec une attitude très défensive
+envers un objectif qui n'est, en fait,
+											pas aligné sur les vrais objectifs
+de la race humaine...
+											C'est le problème auquel
+nous sommes confrontés.
+											Et c'est aussi la notion importante
+à retenir de cette présentation.
+											Si vous ne devez retenir qu'une chose,
+											c'est que vous ne pourrez pas aller
+chercher le café si vous êtes mort.
+									","
+											Das falsche Ziel vorzugeben,
+ist nicht der einzige Teil des Problems.
+											Es gibt noch einen Teil.
+											Wenn man Maschinen ein Ziel gibt,
+											selbst etwas Einfaches wie:
+""Hol den Kaffee"",
+											sagt sich die Maschine:
+											""Wie könnte ich dabei scheitern,
+den Kaffee zu holen?
+											Jemand könnte mich ausschalten.
+											Okay, ich muss das verhindern.
+											Ich werde meinen Ausschalter blockieren.
+											Ich werde alles tun, um mich
+gegen Störung des Ziels zu verteidigen,
+											das mir gegeben wurde.""
+											Dieses zielstrebige, defensive
+Verfolgen eines Ziels,
+											das tatsächlich nicht mit den Zielen
+der Menschheit übereinstimmt,
+											ist das Problem, vor dem wir stehen.
+											Das ist die hochwertige
+Information in diesem Vortrag.
+											Wenn Sie sich nur eins merken,
+											dann, dass Sie keinen Kaffee
+holen können, wenn Sie tot sind.
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											(Laughter)
+									","
+											(Rires)
+									","
+											(Gelächter)
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											It's very simple. Just remember that.
+Repeat it to yourself three times a day.
+									","
+											C'est très simple. Rappelez-vous de cela.
+Répétez-le-vous trois fois par jour.
+									","
+											Es ist einfach. Merken Sie sich das.
+Wiederholen Sie es dreimal am Tag.
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											(Laughter)
+									","
+											(Rires)
+									","
+											(Gelächter)
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											And in fact, this is exactly the plot
+											of ""2001: [A Space Odyssey]""
+											HAL has an objective, a mission,
+											which is not aligned
+with the objectives of the humans,
+											and that leads to this conflict.
+											Now fortunately, HAL
+is not superintelligent.
+											He's pretty smart,
+but eventually Dave outwits him
+											and manages to switch him off.
+											But we might not be so lucky.
+											So what are we going to do?
+									","
+											En fait, c'est exactement l'intrigue
+											de « 2001, l'Odyssée de l'espace. »
+											HAL a un objectif, une mission,
+											qui n'est pas en adéquation
+avec les objectifs des êtres humains
+											et cela conduit à ce conflit.
+											Heureusement, HAL
+n'est pas super-intelligent.
+											Il est assez malin,
+mais finalement Dave le surpasse
+											et parvient à l'éteindre.
+											Nous pourrions avoir moins de chance.
+											Alors qu'allons-nous faire ?
+									","
+											Das ist im Grunde die Handlung
+											von ""2001: [Odyssee im Weltraum]"".
+											HAL hat ein Ziel, eine Mission,
+											die nicht mit den Zielen
+der Menschen übereinstimmt,
+											was zu Konflikt führt.
+											Zum Glück ist HAL nicht superintelligent.
+											Er ist ziemlich clever,
+aber Dave überlistet ihn letztendlich
+											und schaltet ihn aus.
+											Wir werden vielleicht weniger Glück haben.
+											Was werden wir also tun?
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											I'm trying to redefine AI
+											to get away from this classical notion
+											of machines that intelligently
+pursue objectives.
+											There are three principles involved.
+											The first one is a principle
+of altruism, if you like,
+											that the robot's only objective
+											is to maximize the realization
+of human objectives,
+											of human values.
+											And by values here I don't mean
+touchy-feely, goody-goody values.
+											I just mean whatever it is
+that the human would prefer
+											their life to be like.
+											And so this actually violates Asimov's law
+											that the robot has to protect
+its own existence.
+											It has no interest in preserving
+its existence whatsoever.
+									","
+											J'essaie de redéfinir l'IA,
+											afin de nous éloigner
+de cette notion classique
+											de machines qui poursuivent
+leurs objectifs de manière intelligente.
+											Cela repose sur trois principes.
+											Le premier est un principe d'altruisme,
+si vous voulez.
+											L'unique objectif du robot
+											est de maximiser la réalisation
+des objectifs des êtres humains,
+											des valeurs humaines.
+											Je ne parle pas de celles qui sont
+sentimentales ou sainte-nitouche.
+											Je parle de la vie que
+les êtres humains voudraient
+											par n'importe quels moyens.
+											Cela viole la loi d'Asimov,
+selon laquelle
+											le robot doit protéger
+sa propre existence.
+											Il n'a aucun intérêt
+à préserver son existence.
+									","
+											Ich versuche, KI neu zu definieren,
+											um von dieser klassischen Vorstellung
+wegzukommen, dass Maschinen
+											Ziele auf intelligente Weise verfolgen.
+											Es geht um drei Prinzipien.
+											Das erste ist ein Prinzip des Altruismus,
+											dass das einzige Ziel eines Roboters ist,
+											die Verwirklichung menschlicher
+Ziele und Werte zu maximieren.
+											Mit Werten meine ich nicht
+gefühlsduselige, tugendhafte Werte,
+											sondern wie ein Mensch
+sein Leben bevorzugen würde.
+											Das widerspricht also Asimovs Gesetz,
+											dass der Roboter
+sich selbst schützen muss.
+											Er hat kein Interesse an Selbsterhaltung.
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											The second law is a law
+of humility, if you like.
+											And this turns out to be really
+important to make robots safe.
+											It says that the robot does not know
+											what those human values are,
+											so it has to maximize them,
+but it doesn't know what they are.
+											And that avoids this problem
+of single-minded pursuit
+											of an objective.
+											This uncertainty turns out to be crucial.
+									","
+											La deuxième loi est une loi d'humilité,
+si vous préférez.
+											Elle s'avère très importante
+afin de rendre le robot inoffensif.
+											L'idée, c'est que le robot ne sait pas
+											ce que sont les valeurs humaines.
+											Il doit les maximiser,
+mais il ne sait pas ce qu'elles sont.
+											Pour éviter une quête obsessionnelle
+											d'un objectif,
+											cette incertitude s'avère cruciale.
+									","
+											Das zweite Gesetz ist
+das Gesetz der Ergebenheit.
+											Das ist sehr wichtig,
+um Roboter sicherzumachen.
+											Es besagt, dass der Roboter
+diese menschlichen Werte nicht kennt,
+											sie maximieren soll, aber sie nicht kennt.
+											Das verhindert das Problem
+des zielstrebigen Verfolgens eines Ziels.
+											Diese Ungewissheit ist ausschlaggebend.
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											Now, in order to be useful to us,
+											it has to have some idea of what we want.
+											It obtains that information primarily
+by observation of human choices,
+											so our own choices reveal information
+											about what it is that we prefer
+our lives to be like.
+											So those are the three principles.
+											Let's see how that applies
+to this question of:
+											""Can you switch the machine off?""
+as Turing suggested.
+									","
+											Mais pour nous être utiles,
+											il doit avoir une idée de nos désirs.
+											Il obtient cette information surtout
+par l'observation des choix humains.
+											Ces choix révèlent donc des informations
+											quant à ce que nous désirons
+pour notre vie.
+											Ce sont donc les trois principes.
+											Voyons comment cela s'applique
+à la question
+											de Turing :
+« Pouvez-vous éteindre la machine ? »
+									","
+											Damit er uns nützlich ist,
+											muss er eine Ahnung haben, was wir wollen.
+											Er erlangt diese Information durch das
+Beobachten menschlicher Entscheidungen.
+											Unsere Entscheidungen
+beinhalten Information darüber,
+											wie wir unser Leben gerne hätten.
+											Das sind die drei Prinzipien.
+Was bewirken sie bei der Frage
+											""Kann man die Maschine ausschalten?"",
+wie Turing vorschlug.
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											So here's a PR2 robot.
+											This is one that we have in our lab,
+											and it has a big red ""off"" switch
+right on the back.
+											The question is: Is it
+going to let you switch it off?
+											If we do it the classical way,
+											we give it the objective of, ""Fetch
+the coffee, I must fetch the coffee,
+											I can't fetch the coffee if I'm dead,""
+											so obviously the PR2
+has been listening to my talk,
+											and so it says, therefore,
+""I must disable my 'off' switch,
+											and probably taser all the other
+people in Starbucks
+											who might interfere with me.""
+									","
+											Voici un robot PR2.
+											C'est celui que nous avons au laboratoire
+											Il possède un gros interrupteur rouge
+directement sur le dos.
+											La question est :
+« Va-t-il nous laisser l'éteindre ? »
+											Selon la méthode classique,
+											nous lui donnons pour objectif de
+« chercher du café,
+											je dois aller chercher du café,
+je ne peux pas y aller si je suis mort. »
+											Alors, évidemment, le PR2
+a écouté ma présentation
+											et il se dit :
+« Je dois désactiver mon interrupteur
+											et tirer sur toutes les autres
+personnes dans le Starbucks
+											qui pourraient interférer avec moi. »
+									","
+											Hier ist ein PR2-Roboter.
+											Den haben wir bei uns im Labor
+											und er hat einen großen,
+roten Ausschalter am Rücken.
+											Die Frage ist: Lässt es uns
+ihn ausschalten?
+											Wenn wir das klassisch machen,
+											geben wir ihm das Ziel:
+""Ich hole Kaffee, ich muss Kaffee holen,
+											ich kann keinen Kaffee holen,
+wenn ich tot bin.""
+											PR2 hat sich natürlich
+meinen Vortrag angehört
+											und sagt also: ""Ich muss meinen
+Ausschalter blockieren
+											und alle anderen Leute
+in Starbucks tasern,
+											die mich stören könnten.""
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											(Laughter)
+									","
+											(Rires)
+									","
+											(Gelächter)
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											So this seems to be inevitable, right?
+											This kind of failure mode
+seems to be inevitable,
+											and it follows from having
+a concrete, definite objective.
+									","
+											Cela semble inévitable, n'est-ce pas ?
+											Ce genre d'échec
+semble être inévitable
+											et résulte de
+l'objectif concret et défini.
+									","
+											Das scheint unvermeidbar, nicht wahr?
+											Dieser Fehlermodus scheint unvermeidbar
+											und folgt aus der konkreten,
+eindeutigen Zielverfolgung.
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											So what happens if the machine
+is uncertain about the objective?
+											Well, it reasons in a different way.
+											It says, ""OK, the human
+might switch me off,
+											but only if I'm doing something wrong.
+											Well, I don't really know what wrong is,
+											but I know that I don't want to do it.""
+											So that's the first and second
+principles right there.
+											""So I should let the human switch me off.""
+											And in fact you can calculate
+the incentive that the robot has
+											to allow the human to switch it off,
+											and it's directly tied to the degree
+											of uncertainty about
+the underlying objective.
+									","
+											Qu'arrive-t-il si la machine
+ne connaît pas l'objectif ?
+											Eh bien, elle raisonne différemment.
+											Elle se dit :
+« OK, l'humain pourrait m'éteindre,
+											si je fais ce qui ne va pas.
+											Eh bien, je ne sais pas vraiment
+ce qui est mal,
+											mais je sais
+que je ne veux pas le faire. »
+											Voilà le premier et le deuxième principes.
+											« Je devrais donc laisser
+l'humain m'éteindre. »
+											En fait, vous pouvez calculer
+l'incitation que le robot a
+											à se laisser éteindre.
+											C'est directement lié au degré
+											d'incertitude de
+l'objectif sous-jacent.
+									","
+											Was passiert, wenn die Maschine
+unsicher über das Ziel ist?
+											Sie denkt anders.
+											Sie sagt sich: ""Der Mensch
+schaltet mich vielleicht aus,
+											aber nur, wenn ich was falsch mache.
+											Ich weiß nicht so richtig, was falsch ist,
+											aber ich weiß, dass ich das nicht will.""
+											Das sind die ersten zwei Prinzipien.
+											""Also sollte ich den Menschen
+mich ausschalten lassen.""
+											Man kann sogar den Anreiz errechnen,
+den ein Roboter hat,
+											sich ausschalten zu lassen.
+											Er ist direkt mit dem Grad
+der Ungewissheit über das Ziel verbunden.
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											And then when the machine is switched off,
+											that third principle comes into play.
+											It learns something about the objectives
+it should be pursuing,
+											because it learns that
+what it did wasn't right.
+											In fact, we can, with suitable use
+of Greek symbols,
+											as mathematicians usually do,
+											we can actually prove a theorem
+											that says that such a robot
+is provably beneficial to the human.
+											You are provably better off
+with a machine that's designed in this way
+											than without it.
+											So this is a very simple example,
+but this is the first step
+											in what we're trying to do
+with human-compatible AI.
+									","
+											Et c'est lorsque la machine est éteinte
+											que ce troisième principe
+entre en jeu.
+											Elle apprend des choses sur
+les objectifs qu'elle doit poursuivre
+											en constatant que ce qu'elle a fait
+n'était pas bien.
+											En fait, avec une utilisation
+appropriée des symboles grecs,
+											comme le font souvent les mathématiciens,
+											nous pouvons prouver un théorème
+											qui dit qu'un tel robot
+est manifestement bénéfique pour l'humain.
+											Vous êtes probablement mieux
+avec une machine conçue de cette façon
+											que sans.
+											C'est donc un exemple très simple,
+mais c'est la première étape
+											dans ce que nous essayons de faire avec
+l'IA compatible avec les êtres humains.
+									","
+											Wenn die Maschine ausgeschaltet wird,
+kommt das dritte Prinzip ins Spiel.
+											Sie lernt über die Ziele,
+die sie verfolgen sollte,
+											weil sie lernt, dass sie etwas
+falsch gemacht hat.
+											Mit angemessener Verwendung
+griechischer Zeichen,
+											wie Mathematiker das halt tun,
+											können wir einen Satz beweisen,
+											der besagt, dass ein solcher Roboter
+nachweislich nützlich für Menschen ist.
+											Man ist bewiesenermaßen
+mit so einer Maschine besser dran
+											als ohne sie.
+											Das ist ein sehr einfaches Beispiel,
+aber es ist der erste Schritt
+											in unseren Versuchen mit KI,
+die mit Menschen kompatibel ist.
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											Now, this third principle,
+											I think is the one that you're probably
+scratching your head over.
+											You're probably thinking, ""Well,
+you know, I behave badly.
+											I don't want my robot to behave like me.
+											I sneak down in the middle of the night
+and take stuff from the fridge.
+											I do this and that.""
+											There's all kinds of things
+you don't want the robot doing.
+											But in fact, it doesn't
+quite work that way.
+											Just because you behave badly
+											doesn't mean the robot
+is going to copy your behavior.
+											It's going to understand your motivations
+and maybe help you resist them,
+											if appropriate.
+											But it's still difficult.
+											What we're trying to do, in fact,
+											is to allow machines to predict
+for any person and for any possible life
+											that they could live,
+											and the lives of everybody else:
+											Which would they prefer?
+											And there are many, many
+difficulties involved in doing this;
+											I don't expect that this
+is going to get solved very quickly.
+											The real difficulties, in fact, are us.
+									","
+											Quant au troisième principe,
+											je pense que vous êtes en train
+de vous gratter la tête à ce sujet.
+											Vous pensez probablement :
+« Eh bien, vous savez, je me comporte mal.
+											Je ne veux pas que mon robot
+se comporte comme moi.
+											Je me faufile au milieu de la nuit
+et je picore dans le frigo.
+											Je fais ceci et cela. »
+											Il y a plein de choses
+que vous ne voulez pas qu'un robot fasse.
+											Mais cela ne fonctionne pas ainsi.
+											Votre mauvais comportement
+											ne va pas inciter le robot
+à vous copier.
+											Il va comprendre vos motivations
+et peut-être vous aider à résister,
+											le cas échéant.
+											Mais ça restera difficile.
+											Ce que nous essayons de faire,
+en fait, c'est de permettre
+											aux machines de se demander,
+pour toute personne et
+											pour toute vie qu'ils pourraient vivre
+											et les vies de tous les autres :
+											« Laquelle préfèreraient-ils ? »
+											Et cela engendre
+beaucoup, beaucoup de difficultés.
+											Je ne m'attends pas à ce que nous
+résolvions cela très rapidement.
+											Le vrai problème, en fait, c'est nous.
+									","
+											Über das dritte Prinzip
+											zerbrechen Sie sich
+wahrscheinlich den Kopf.
+											Wahrscheinlich denken Sie:
+""Ich verhalte mich schlecht.
+											Mein Roboter soll sich nicht
+wie ich verhalten.
+											Ich schleiche mich mitten in
+der Nacht zum Kühlschrank.
+											Ich mache alles mögliche.""
+											Der Roboter soll alles
+mögliche nicht machen.
+											Aber so funktioniert das nicht.
+											Nur, weil Sie sich schlecht benehmen,
+											muss der Roboter nicht
+Ihr Verhalten imitieren.
+											Er versteht Ihre Motivation und kann
+vielleicht helfen, ihr zu widerstehen,
+											falls angemessen.
+											Aber es ist trotzdem schwer.
+											Wir versuchen, Maschinen zu ermöglichen,
+											für jede Person und jedes mögliche Leben
+											und alle anderen Leben vorauszusagen:
+											Was würden sie vorziehen?
+											Das bringt viele Schwierigkeiten mit sich.
+											Ich erwarte keine schnelle Lösung.
+											Die eigentliche Schwierigkeit
+sind wir selbst.
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											As I have already mentioned,
+we behave badly.
+											In fact, some of us are downright nasty.
+											Now the robot, as I said,
+doesn't have to copy the behavior.
+											The robot does not have
+any objective of its own.
+											It's purely altruistic.
+											And it's not designed just to satisfy
+the desires of one person, the user,
+											but in fact it has to respect
+the preferences of everybody.
+											So it can deal with a certain
+amount of nastiness,
+											and it can even understand
+that your nastiness, for example,
+											you may take bribes as a passport official
+											because you need to feed your family
+and send your kids to school.
+											It can understand that;
+it doesn't mean it's going to steal.
+											In fact, it'll just help you
+send your kids to school.
+									","
+											Comme je l'ai déjà mentionné,
+nous nous comportons mal.
+											Certains d'entre nous sont
+même foncièrement méchants.
+											Le robot, comme je l'ai dit, n'est pas
+obligé de copier ce comportement.
+											Il n'a aucun objectif propre.
+											Il est purement altruiste.
+											Il ne doit pas uniquement satisfaire
+les désirs d'une personne, l'utilisateur,
+											mais, en fait, il doit respecter
+les préférences de tous.
+											Il peut donc faire face
+à une certaine négligence.
+											Il peut même comprendre
+votre malveillance, par exemple,
+											si vous acceptez des pots-de-vin en tant
+que préposé aux passeports
+											afin de nourrir votre famille
+et envoyer vos enfants à l'école.
+											Il peut comprendre cela, ce qui ne
+signifie pas qu'il va se mettre à voler.
+											En fait, il vous aidera
+à envoyer vos enfants à l'école.
+									","
+											Wie bereits gesagt
+benehmen wir uns schlecht.
+											Manche von uns sind richtig fies.
+											Der Roboter muss
+das Verhalten nicht imitieren.
+											Der Roboter hat keine eigenen Ziele.
+											Er ist komplett altruistisch.
+											Er ist nicht zur Erfüllung der Wünsche
+eines Menschen, des Benutzers, vorgesehen,
+											sondern muss die Präferenzen
+Aller respektieren.
+											Er kann also mit etwas Gemeinheit umgehen
+											und sogar verstehen, dass Sie zum Beispiel
+											als Passbeamter Bestechung annehmen,
+											weil Sie Ihre Familie ernähren und
+Ihre Kinder zur Schule schicken müssen.
+											Er versteht das und wird nicht
+deswegen stehlen,
+											sondern Ihnen helfen,
+Ihre Kinder zur Schule zu schicken.
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											We are also computationally limited.
+											Lee Sedol is a brilliant Go player,
+											but he still lost.
+											So if we look at his actions,
+he took an action that lost the game.
+											That doesn't mean he wanted to lose.
+											So to understand his behavior,
+											we actually have to invert
+through a model of human cognition
+											that includes our computational
+limitations — a very complicated model.
+											But it's still something
+that we can work on understanding.
+									","
+											Nous sommes limités
+par la puissance de calcul.
+											Lee Sedol est un brillant joueur de go,
+											mais il a quand même perdu.
+											Si on regarde ses actions, il a pris
+une décision qui lui a coûté le match.
+											Ça ne veut pas dire qu'il voulait perdre.
+											Pour comprendre son comportement,
+											nous devons l'observer à travers 
+un modèle de cognition humaine
+											qui inclut nos limites en calcul.
+Un modèle très compliqué.
+											Ça demande un effort,
+mais nous pouvons le comprendre.
+									","
+											Außerdem haben wir technische Limits.
+											Lee Sedol ist ein
+hervorragender Go-Spieler,
+											verlor aber trotzdem.
+											Er hat also einen Zug gespielt,
+der das Spiel verloren hat.
+											Das bedeutet nicht,
+dass er verlieren wollte.
+											Um sein Verhalten zu verstehen,
+											brauchen wir also ein Modell
+menschlicher Kognition,
+											das unsere technischen Limits einbezieht
+— ein sehr kompliziertes Modell.
+											Aber wir können daran arbeiten,
+es zu verstehen.
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											Probably the most difficult part,
+from my point of view as an AI researcher,
+											is the fact that there are lots of us,
+											and so the machine has to somehow
+trade off, weigh up the preferences
+											of many different people,
+											and there are different ways to do that.
+											Economists, sociologists,
+moral philosophers have understood that,
+											and we are actively
+looking for collaboration.
+									","
+											Ce qui est le plus difficile,
+de mon point de vue de chercheur en IA,
+											c'est le fait que nous sommes si nombreux.
+											La machine doit faire des choix, 
+évaluer les préférences
+											d'un grand nombre
+de personnes différentes
+											et il existe différentes
+façons de le faire.
+											Les économistes, les sociologues,
+les philosophes l'ont bien compris
+											et nous cherchons activement
+leur collaboration.
+									","
+											Als KI-Forscher erscheint es mir
+am schwierigsten,
+											dass wir so viele sind
+											und die Maschine irgendwie die Präferenzen
+											vieler verschiedener Leute abwägen muss.
+											Das geht auf verschiedene Arten.
+											Wirtschaftswissenschaftler, Soziologen
+und Ethiker haben das verstanden.
+											Wir suchen aktiv nach Zusammenarbeit.
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											Let's have a look and see what happens
+when you get that wrong.
+											So you can have
+a conversation, for example,
+											with your intelligent personal assistant
+											that might be available
+in a few years' time.
+											Think of a Siri on steroids.
+											So Siri says, ""Your wife called
+to remind you about dinner tonight.""
+											And of course, you've forgotten.
+""What? What dinner?
+											What are you talking about?""
+									","
+											Voyons ce qui se passe
+lorsque vous avez un problème.
+											Vous pouvez discuter,
+par exemple,
+											avec votre assistant personnel intelligent
+											qui pourrait être disponible
+dans quelques années.
+											Pensez à un Siri sous stéroïdes.
+											Siri dit : « Votre femme a appelé
+pour vous rappeler le dîner de ce soir. »
+											Bien sûr, vous aviez oublié.
+« Quoi ? Quel dîner ?
+											De quoi me parles-tu ? »
+									","
+											Was passiert, wenn das schiefgeht?
+											Man kann z. B. in ein paar Jahren
+											mit seinem intelligenten Assistenten,
+eine Konversation führen.
+											Man stelle sich
+ein aufgeputschtes Siri vor.
+											Siri sagt: ""Ihre Frau rief an, um Sie
+an das Abendessen heute zu erinnern.""
+											Sie haben es natürlich vergessen:
+""Was für ein Abendessen? Worum geht es?""
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											""Uh, your 20th anniversary at 7pm.""
+									","
+											« Euh, votre 20ème anniversaire à 19h00. »
+									","
+											""Ihr 20. Hochzeitstag um 7 Uhr.""
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											""I can't do that. I'm meeting
+with the secretary-general at 7:30.
+											How could this have happened?""
+									","
+											« Je ne peux pas. J'ai une réunion
+avec le secrétaire général à 19h30.
+											Comment cela a-t-il pu arriver ? »
+									","
+											""Das geht nicht. Ich treffe
+den Generalsekretär um 7:30.
+											Wie konnte das passieren?""
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											""Well, I did warn you, but you overrode
+my recommendation.""
+									","
+											« Eh bien, je vous ai prévenu,
+mais vous avez ignoré mon avertissement. »
+									","
+											""Ich habe Sie gewarnt, aber Sie haben
+meine Empfehlung ignoriert.""
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											""Well, what am I going to do?
+I can't just tell him I'm too busy.""
+									","
+											« Qu'est-ce que je vais faire ? Je ne
+peux pas lui dire que je suis occupé. »
+									","
+											""Was mache ich jetzt?
+Ich kann ihm nicht absagen.""
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											""Don't worry. I arranged
+for his plane to be delayed.""
+									","
+											« Ne vous inquiétez pas. J'ai fait
+en sorte que son avion ait du retard. »
+									","
+											""Keine Sorge, ich habe
+seinen Flug verzögert.""
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											(Laughter)
+									","
+											(Rires)
+									","
+											(Gelächter)
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											""Some kind of computer malfunction.""
+									","
+											« Une sorte de bug de l'ordinateur. »
+									","
+											""Irgend eine Computerstörung.""
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											(Laughter)
+									","
+											(Rires)
+									","
+											(Gelächter)
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											""Really? You can do that?""
+									","
+											« Vraiment ? Tu peux faire ça ? »
+									","
+											""Echt? Du kannst das?""
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											""He sends his profound apologies
+											and looks forward to meeting you
+for lunch tomorrow.""
+									","
+											« Il vous présente ses excuses
+											et voudrait vous rencontrer
+demain pour le déjeuner. »
+									","
+											""Er bittet um Entschuldigung.
+											Er freut sich darauf,
+Sie morgen Mittag zu treffen.""
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											(Laughter)
+									","
+											(Rires)
+									","
+											(Gelächter)
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											So the values here —
+there's a slight mistake going on.
+											This is clearly following my wife's values
+											which is ""Happy wife, happy life.""
+									","
+											Donc là...
+Il y a une légère erreur.
+											Ce scénario suit clairement
+la philosophie de ma femme.
+											qui est :
+« femme heureuse, vie heureuse. »
+									","
+											Die Werte hier — hier läuft etwas schief.
+											Es folgt ganz klar den Werten meiner Frau,
+											und zwar ""glückliche Frau,
+glückliches Leben"".
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											(Laughter)
+									","
+											(Rires)
+									","
+											(Gelächter)
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											It could go the other way.
+											You could come home
+after a hard day's work,
+											and the computer says, ""Long day?""
+									","
+											Mais ça pourrait aussi
+aller autrement.
+											Vous pourriez rentrer
+après une dure journée
+											et l'ordinateur vous dit :
+« Dure journée ? »
+									","
+											Es könnte auch anders laufen.
+											Man kommt nach einem
+langen Arbeitstag heim
+											und der Computer sagt: ""Langer Tag?""
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											""Yes, I didn't even have time for lunch.""
+									","
+											« Oui, je n'ai même pas
+eu le temps de manger. »
+									","
+											""Ja, ich hatte keine Zeit
+zum Mittagessen.""
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											""You must be very hungry.""
+									","
+											« Tu dois avoir faim. »
+									","
+											""Sie haben bestimmt Hunger.""
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											""Starving, yeah.
+Could you make some dinner?""
+									","
+											« Oui, très faim.
+Tu peux me faire à dîner ? »
+									","
+											""Ich bin am Verhungern.
+Kannst du mir Essen machen?""
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											""There's something I need to tell you.""
+									","
+											« Je dois te dire quelque chose. »
+									","
+											""Ich muss Ihnen etwas sagen.""
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											(Laughter)
+									","
+											(Rires)
+									","
+											(Gelächter)
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											""There are humans in South Sudan
+who are in more urgent need than you.""
+									","
+											« Il y a des gens au Soudan du Sud qui ont
+bien plus besoin de nourriture que toi. »
+									","
+											""Im Südsudan gibt es
+bedürftigere Menschen als Sie.""
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											(Laughter)
+									","
+											(Rires)
+									","
+											(Gelächter)
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											""So I'm leaving. Make your own dinner.""
+									","
+											« Je te quitte.
+Fais-toi à dîner toi-même. »
+									","
+											""Also gehe ich.
+Machen Sie Ihr Essen selbst.""
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											(Laughter)
+									","
+											(Rires)
+									","
+											(Gelächter)
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											So we have to solve these problems,
+											and I'm looking forward
+to working on them.
+									","
+											Nous devons résoudre ces problèmes
+											et je suis impatient
+de travailler là-dessus.
+									","
+											Wir müssen also diese Probleme lösen
+											und ich freue mich darauf,
+daran zu arbeiten.
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											There are reasons for optimism.
+											One reason is,
+											there is a massive amount of data.
+											Because remember — I said
+they're going to read everything
+											the human race has ever written.
+											Most of what we write about
+is human beings doing things
+											and other people getting upset about it.
+											So there's a massive amount
+of data to learn from.
+									","
+											Nous avons des raisons
+d'être optimistes.
+											La première, c'est que
+											nous disposons d'une masse de données.
+											Parce que, souvenez-vous,
+j'ai dit que l'IA va lire tout
+											ce que l'homme a jamais écrit.
+											La plupart du temps,
+nous écrivons sur ce que les humains font
+											et sur les gens que ça contrarie.
+											Alors il y a une masse de données
+dans laquelle puiser.
+									","
+											Es gibt Anlass zur Hoffnung.
+											Ein Anlass ist
+											die enorme Menge an Daten.
+											Wie gesagt, sie werden alles lesen,
+was geschrieben wurde.
+											Der Großteil davon ist
+über Menschen und ihre Taten
+											und die Reaktionen anderer.
+											Also kann man von vielen Daten lernen.
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											There's also a very
+strong economic incentive
+											to get this right.
+											So imagine your domestic robot's at home.
+											You're late from work again
+and the robot has to feed the kids,
+											and the kids are hungry
+and there's nothing in the fridge.
+											And the robot sees the cat.
+									","
+											Il y a également une très forte
+incitation économique à cela.
+											Donc,
+											imaginez votre robot domestique.
+											Vous êtes en retard au travail
+et le robot doit nourrir les enfants,
+											les enfants ont faim
+et il n'y a rien dans le réfrigérateur.
+											Le robot voit le chat.
+									","
+											Es gibt auch wirtschaftliche Anreize,
+											das hinzubekommen.
+											Z. B. Haushaltsroboter.
+											Sie sind wieder zu spät und der Roboter
+soll den Kindern Essen machen.
+											Die Kinder haben Hunger
+und der Kühlschrank ist leer.
+											Und der Roboter sieht die Katze.
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											(Laughter)
+									","
+											(Rires)
+									","
+											(Gelächter)
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											And the robot hasn't quite learned
+the human value function properly,
+											so it doesn't understand
+											the sentimental value of the cat outweighs
+the nutritional value of the cat.
+									","
+											Le robot n'a pas bien appris
+les valeurs humaines,
+											donc il ne comprend pas
+											que la valeur sentimentale du chat
+l'emporte sur sa valeur nutritionnelle.
+									","
+											Der Roboter hat die menschliche
+Wertefunktion noch nicht so ganz gelernt
+											und versteht somit nicht,
+											dass der sentimentale Wert der Katze
+ihren Nährwert übertrifft.
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											(Laughter)
+									","
+											(Rires)
+									","
+											(Gelächter)
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											So then what happens?
+											Well, it happens like this:
+											""Deranged robot cooks kitty
+for family dinner.""
+											That one incident would be the end
+of the domestic robot industry.
+											So there's a huge incentive
+to get this right
+											long before we reach
+superintelligent machines.
+									","
+											Que se passe-t-il ?
+											Eh bien, que se passe-t-il ?
+											« Le robot fou cuisine le chat
+de la famille pour le dîner. »
+											Cet incident sonnerait la fin
+de l'industrie du robot domestique.
+											Il y a donc une incitation énorme
+à régler cela
+											bien avant que nous n'arrivions
+aux machines supra-intelligentes.
+									","
+											Was passiert also?
+											Es passiert etwa so etwas:
+											""Unzurechnungsfähiger Roboter
+kocht Kätzchen zum Abendessen.""
+											Dieser eine Vorfall wäre das Aus
+der Haushaltsroboter-Industrie.
+											Es gibt also einen großen Anreiz,
+das herauszubekommen,
+											lange bevor wir superintelligente
+Maschinen herstellen.
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											So to summarize:
+											I'm actually trying to change
+the definition of AI
+											so that we have provably
+beneficial machines.
+											And the principles are:
+											machines that are altruistic,
+											that want to achieve only our objectives,
+											but that are uncertain
+about what those objectives are,
+											and will watch all of us
+											to learn more about what it is
+that we really want.
+											And hopefully in the process,
+we will learn to be better people.
+											Thank you very much.
+									","
+											Pour résumer.
+											J'essaie de modifier la définition de l'IA
+											afin que nous ayons des machines
+irréfutablement bénéfiques.
+											Les principes sont :
+											des machines altruistes,
+											ne cherchant qu'à atteindre nos objectifs,
+											mais ayant une incertitude
+quant à ces objectifs
+											et qui nous observerons
+											afin d'en savoir plus sur
+ce que nous voulons vraiment.
+											J'espère que dans le processus, nous
+apprendrons aussi à devenir meilleurs.
+											Merci beaucoup.
+									","
+											Zusammenfassend:
+											Ich will die Definition von KI ändern,
+											sodass wir nachweislich
+vorteilhafte Maschinen haben.
+											Die Grundsätze sind:
+											Maschinen sind altruistisch,
+											wollen nur unsere Ziele erreichen,
+											aber wissen nicht genau,
+was diese Ziele sind,
+											also beobachten sie uns alle,
+											um besser zu lernen,
+was wir wirklich wollen.
+											Hoffentlich werden wir dadurch lernen,
+bessere Menschen zu sein.
+											Vielen Dank.
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											(Applause)
+									","
+											(Applaudissements)
+									","
+											(Beifall)
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											Chris Anderson: So interesting, Stuart.
+											We're going to stand here a bit
+because I think they're setting up
+											for our next speaker.
+									","
+											Chris Anderson :
+Très intéressant, Stuart.
+											Nous allons rester un peu ici,
+car je crois qu'ils préparent
+											la prochaine intervention.
+									","
+											Chris Anderson: Sehr interessant, Stuart.
+Wir haben etwas Zeit,
+											weil alles für den nächsten Redner
+vorbereitet wird.
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											A couple of questions.
+											So the idea of programming in ignorance
+seems intuitively really powerful.
+											As you get to superintelligence,
+											what's going to stop a robot
+											reading literature and discovering
+this idea that knowledge
+											is actually better than ignorance
+											and still just shifting its own goals
+and rewriting that programming?
+									","
+											Plusieurs questions.
+											L'idée d'une programmation limitée
+semble intuitivement très puissante.
+											En se rapprochant
+de la supra-intelligence,
+											qu'est-ce qui empêchera un robot
+											de lire la littérature et de découvrir
+cette notion que la connaissance
+											est en fait supérieure à l'ignorance
+											et de changer ses propres objectifs
+en réécrivant cette programmation ?
+									","
+											Ein paar Fragen.
+											Die Idee, Unwissenheit vorzuprogrammieren,
+erscheint intuitiv wirksam.
+											Wenn man Superintelligenz erreicht,
+											was soll einen Roboter davon abhalten,
+											Literatur zu lesen und
+auf die Idee zu kommen,
+											dass Wissen besser ist als Unwissenheit
+											und seine eigenen Ziele anzupassen
+und sich umzuprogrammieren?
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											Stuart Russell: Yes, so we want
+it to learn more, as I said,
+											about our objectives.
+											It'll only become more certain
+as it becomes more correct,
+											so the evidence is there
+											and it's going to be designed
+to interpret it correctly.
+											It will understand, for example,
+that books are very biased
+											in the evidence they contain.
+											They only talk about kings and princes
+											and elite white male people doing stuff.
+											So it's a complicated problem,
+											but as it learns more about our objectives
+											it will become more and more useful to us.
+									","
+											Stuart Russell : Oui, nous voulons qu'il
+en apprenne davantage, comme je l'ai dit,
+											à propos de nos objectifs.
+											Il gagnera en confiance
+avec l'expérience,
+											la preuve est là,
+											et il sera conçu pour interpréter
+correctement nos objectifs.
+											Il comprendra, par exemple,
+que les livres sont très biaisés
+											en fonction de leur contenu.
+											Ils ne parlent que de rois et de princes
+											et des choses
+que fait l'élite blanche.
+											C'est donc un problème complexe,
+											mais comme il en apprend plus
+sur nos objectifs,
+											il nous sera de plus en plus utile.
+									","
+											Stuart Russel: Wir wollen,
+wie gesagt, dass er dazulernt,
+											was unsere Ziele betrifft.
+											Er wird sich sicherer werden,
+wenn er fehlerloser wird,
+											also gibt es Hinweise
+											und er ist dazu konzipiert,
+sie richtig zu interpretieren.
+											Er wird verstehen, dass Bücher einseitig
+											in ihrer Darstellung sind.
+											Sie handeln nur von Königen und Prinzen
+											und mächtigen weißen
+Männern und ihren Taten.
+											Es ist ein kompliziertes Problem,
+											aber wenn er mehr über unsere Ziele lernt,
+											wird er zunehmend nützlicher für uns.
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											CA: And you couldn't
+just boil it down to one law,
+											you know, hardwired in:
+											""if any human ever tries to switch me off,
+											I comply. I comply.""
+									","
+											CA : Et vous ne pourriez pas
+résumer cela en une seule loi,
+											vous savez, une ligne de code :
+											« Si un humain essaie de me débrancher,
+											je coopère, je coopère. »
+									","
+											CA: Kann man das nicht zu
+einem Gesetz zusammenfassen,
+											vorprogrammiert:
+											""Wenn ein Mensch versucht,
+mich abzuschalten,
+											gehorche ich. Ich gehorche.""
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											SR: Absolutely not.
+											That would be a terrible idea.
+											So imagine that you have
+a self-driving car
+											and you want to send your five-year-old
+											off to preschool.
+											Do you want your five-year-old
+to be able to switch off the car
+											while it's driving along?
+											Probably not.
+											So it needs to understand how rational
+and sensible the person is.
+											The more rational the person,
+											the more willing you are
+to be switched off.
+											If the person is completely
+random or even malicious,
+											then you're less willing
+to be switched off.
+									","
+											SR : Impossible.
+											Ce serait une mauvaise idée.
+											Imaginez que vous ayez
+une voiture sans chauffeur
+											et vous souhaitez envoyer
+votre enfant de cinq ans
+											à la maternelle.
+											Voulez-vous que votre enfant de cinq ans
+puisse éteindre la voiture
+											alors qu'elle roule ?
+											Probablement pas.
+											Alors l'IA doit pouvoir évaluer si la
+personne est rationnelle et raisonnable.
+											Plus la personne est rationnelle,
+											plus elle devrait avoir de contrôle.
+											Si la personne est incohérente
+ou même malveillante,
+											alors elle devrait avoir
+un contrôle plus limité.
+									","
+											SR: Auf keinen Fall,
+das wäre eine schlechte Idee.
+											Wenn zum Beispiel Ihr selbstfahrendes Auto
+											Ihr fünfjähriges Kind zum Kindergarten
+											fahren soll,
+											wollen Sie, dass Ihr Kind
+das Auto abschalten kann,
+											während es fährt?
+											Wahrscheinlich nicht.
+											Es muss also verstehen, wie rational
+und vernünftig die Person ist.
+											Je rationaler die Person,
+desto eher sollte es sich ausschalten.
+											Wenn die Person willkürlich
+oder sogar boshaft ist,
+											sollte es sich nicht ausschalten.
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											CA: All right. Stuart, can I just say,
+											I really, really hope you
+figure this out for us.
+											Thank you so much for that talk.
+That was amazing.
+									","
+											CA : Très bien. Stuart,
+											j'espère que vous allez
+régler cela pour nous.
+											Merci beaucoup pour cette présentation.
+C'était incroyable.
+									","
+											CA: Okay, Stuart, Ich hoffe nur,
+dass Sie das für uns lösen können.
+											Vielen Dank für Ihren
+Vortrag. Er war toll.
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											SR: Thank you.
+									","
+											SR : Merci.
+									","
+											SR: Danke.
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+											(Applause)
+									","
+											(Applaudissements)
+									","
+											(Beifall)
+									",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"
+"
+","
+","
+",3 principles for creating safer AI,Stuart Russell,17:35,"AI,code,communication,algorithm,humanity,machine learning,innovation,intelligence,choice,data,future,computers,programming,robots,technology,morality,science"

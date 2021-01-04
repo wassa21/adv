@@ -1,0 +1,1829 @@
+pt,fr,de,title,speaker,duration,tags
+"
+","
+","
+",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+											Existe uma piada, sobre um polícia
+											que está a fazer a sua patrulha 
+a meio da noite,
+											e encontra um sujeito 
+sob a luz do candeeiro,
+											a olhar para o chão e a andar 
+de um lado para o outro.
+											O polícia pergunta-lhe 
+o que está a fazer.
+											O sujeito diz que está 
+à procura das chaves.
+											Então, o polícia decide ajudar 
+e começa a procurar
+											e faz uma espécie de matriz, 
+procurando durante dois ou três minutos.
+											Não encontram as chaves.
+									","
+											Il y a une vieille blague 
+sur un policier qui fait sa ronde
+											au milieu de la nuit,
+											et qui rencontre un homme sous un réverbère
+											qui regarde le sol,
+se balançant d'un pied sur l'autre.
+											Le policier lui demande ce qu'il fait.
+											L'homme dit qu'il cherche ses clés.
+											Alors, le policier prend son temps
+et cherche aussi,
+											il fait comme un quadrillage, cherche
+											pendant environ deux, trois minutes.
+Pas de clés.
+									","
+											Es gibt da einen alten Witz über 
+einen Polizisten auf Rundgang,
+											mitten in der Nacht,
+											und er trifft einen Typ unter einer Straßenlampe,
+											der auf dem Boden guckt, während er 
+von einer Seite zur anderen läuft,
+											und der Polizist fragt ihn, was er da tut.
+											Der Typ sagt, er suche seine Schlüssel.
+											Also nimmt sich der Polizist etwas Zeit und sucht mit,
+											läuft ein kleines Raster ab und sucht
+											für etwa 2 bis 3 Minuten. Keine Schlüssel.
+									",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+","
+","
+",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+											O polícia diz: ""Amigo, tem a certeza?
+											""Tem a certeza que perdeu as chaves aqui?""
+									","
+											Le policier dit : « Tu es certain ? Hé, mon gars,
+											es-tu certain que tu as perdu tes clés ici ? »
+									","
+											Der Polizist fragt: ""Bist du sicher? Hey Kumpel,
+											bist du sicher, dass du die hier verloren hast?""
+									",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+","
+","
+",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+											E o sujeito diz:
+""Não, eu perdi-as ali em baixo,
+											""na outra ponta da estrada,
+											""mas a luz aqui é melhor.""
+											(Risos)
+									","
+											L'homme répond : « Non, non,
+en fait je les ai perdues
+											à l'autre bout de la rue,
+											mais l'éclairage est meilleur ici. »
+									","
+											Und der Typ sagt: ""Nein, nein, ich hab sie eigentlich
+											am anderen Ende der Straße verloren,
+											aber hier sehe ich mehr.""
+									",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+","
+","
+",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+											Existe um conceito em voga 
+chamado ""metadados"".
+											Significa toda a informação 
+que estamos a gerar
+											através da nossa interacção
+com e através da Internet,
+											tudo desde o Facebook e o Twitter,
+											até ""downloads"" de músicas,
+filmes, ""streaming"", tudo isso,
+											como o ""stream"" em tempo real do TED.
+											As pessoas que trabalham com metadados
+											dizem que o maior problema
+											é que temos demasiada informação.
+											O maior problema é,
+como organizar toda essa informação?
+									","
+											Il y a un concept
+dont les gens parlent aujourd'hui,
+											nommé « big data », et ce dont ils parlent,
+											c'est toute l'information que nous produisons
+											par nos interactions sur Internet,
+											de Facebook et Twitter
+											aux téléchargements de musique, 
+de films, au streaming, toutes ces choses,
+											le streaming en direct de TED.
+											Pour les personnes qui travaillent
+avec les big data,
+											le plus grand problème, d'après eux,
+											avec tellement d'informations,
+											c'est de savoir comment les organiser.
+									","
+											Es gibt ein Konzept, über das heute gesprochen wird
+											namens ""Big Data"", und gemeint ist
+											all die Informationen, die wir generieren,
+											durch Interaktionen mit und durch das Internet,
+											alles von Facebook und Twitter
+											bis zum Herunterladen von Musik, 
+Filmen, Streaming, all diese Sachen,
+											das Livestreaming von TED.
+											Und für die Leute, die mit ""Big Data"" arbeiten,
+											ist das größte Problem,
+											dass es so viele Informationen gibt –
+											das größte Problem ist, wie man 
+die ganzen Informationen organisiert.
+									",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+","
+","
+",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+											Quando trabalhamos
+em programas de saúde mundial,
+											esse não é o nosso maior problema.
+											Porque para nós,
+											apesar de a luz ser melhor na Internet,
+											os dados que nos ajudam
+a resolver os problemas,
+											que queremos resolver,
+não se encontram na Internet.
+											Assim sendo, não sabemos,
+por exemplo,
+											quantas pessoas neste momento 
+são afectadas por desastres
+											ou por situações conflituosas.
+											Não sabemos quais as clínicas
+											nos países em desenvolvimento,
+que têm medicamentos,
+											e quais não os têm.
+											Não temos ideia de como é 
+a cadeia de abastecimento dessas clínicas.
+											Não sabemos — e isto surpreende-me —
+											não sabemos quantas crianças nasceram,
+											nem quantas crianças existem
+											na Bolívia, no Botsuana ou no Butão.
+											Não sabemos quantas crianças 
+morreram a semana passada
+											em qualquer um desses países.
+											Não sabemos quais as necessidades
+dos idosos, dos deficientes mentais.
+											Para todos esses problemas diferentes
+de importância crítica
+											ou áreas de importância crítica
+em que queremos resolver problemas,
+											basicamente não sabemos nada.
+									","
+											Je peux vous dire que,
+quand on travaille dans la santé,
+											ce n'est pas notre plus gros problème.
+											Parce que pour nous, même si l'éclairage
+											est meilleur sur Internet,
+											les données qui nous aideraient 
+à résoudre les problèmes
+											que nous essayons de résoudre 
+ne sont pas sur Internet.
+											Donc nous ne savons pas, par exemple, 
+combien de personnes
+											en ce moment sont concernées
+par des catastrophes naturelles
+											ou par des conflits.
+											Nous ne savons pas vraiment
+quels dispensaires
+											des pays en voie de développement
+ont des médicaments
+											et lesquels n'en ont pas.
+											Nous n'avons pas la moindre idée de ce qu'est
+la chaîne d'approvisionnement de ces cliniques.
+											Nous ne savons pas — et ça me paraît incroyable —
+											nous ne savons pas
+combien d'enfants sont nés,
+											ou combien d'enfants il y a en Bolivie,
+											ou au Botswana, ou au Bhoutan.
+											Nous ne savons pas combien d'enfants
+sont morts la semaine dernière
+											dans chacun de ces pays.
+											Nous ne connaissons pas les besoins 
+des personnes âgées, des malades mentaux.
+											Pour chacun de ces problèmes différents 
+d'une importance cruciale
+											ou pour ces domaines d'une importance critique dans lesquels nous voulons résoudre des problèmes,
+											nous ne savons, en gros, rien du tout.
+									","
+											Ich kann Ihnen sagen, 
+im weltweiten Gesundheitswesen
+											ist das nicht unser größtes Problem.
+											Weil für uns, auch wenn wir
+											im Internet besser sehen, die Daten,
+											die uns bei unseren Problemen helfen würden,
+											an denen wir arbeiten, 
+sind gar nicht im Internet vorhanden.
+											Wir wissen zum Beispiel nicht, wie viele Menschen
+											gerade von Naturkatastrophen betroffen sind,
+											oder von einer Konfliktlage.
+											Wir wissen von quasi keinen der Kliniken
+											der Entwicklungsländer, welche Medikamente haben,
+											und welche nicht.
+											Wir haben keine Ahnung von den Versorgungsketten.
+											Wir wissen nicht – und das finde ich unglaublich –
+											wir wissen nicht, wie viele Kinder geboren werden,
+											oder wie viele Kinder es in Bolivien gibt,
+											oder in Botswana oder in Bhutan.
+											Wir wissen nicht, wie viele Kinder 
+letzte Woche gestorben sind,
+											in irgendeinem dieser Länder.
+											Wir kennen die Bedürfnisse der Älteren 
+und der psychisch Kranken nicht.
+											Über all diese verschiedenen 
+äußerst wichtigen Probleme,
+											und die äusserst wichtigen Bereiche, 
+in denen wir Probleme lösen wollen,
+											wissen wir quasi überhaupt nichts.
+									",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+","
+","
+",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+											Parte da razão por que não sabemos nada
+											é que os sistemas de
+tecnologia de informação
+											que usamos nos programas de saúde global,
+para encontrar os dados
+											para resolver estes problemas,
+são o que vêem aqui.
+											Isto é um tecnologia
+com cerca de 5000 anos.
+											Talvez vocês já a tenham usado.
+											O seu reino está a acabar,
+mas nós continuamos a usá-la,
+											para 99 % das nossas coisas.
+											Isto é um formulário em papel.
+											O que vocês estão a ver 
+é um formulário em papel,
+											na mão de uma enfermeira 
+do Ministério da Saúde,
+											na Indonésia, que percorre
+o interior da Indónesia,
+											num dia muito quente e húmido.
+											Ela vai bater a milhares de portas
+											durante um período de semanas ou meses,
+											bater às portas e dizer:
+											""Peço desculpa, gostaria de fazer
+algumas perguntas.
+											""Tem filhos?
+Os seus filhos foram vacinados?""
+											Porque a única forma de nós descobrirmos
+											quantas crianças na Indonésia
+foram vacinadas,
+											qual a percentagem de crianças vacinadas,
+											na realidade não é na Internet, 
+mas sim indo bater às portas,
+											às vezes dezenas de milhares de portas.
+											Às vezes demora meses, ou até mesmo anos,
+											para fazer algo deste género.
+											Sabem, um censo na Indonésia
+											provavelmente demoraria
+dois anos a ser completado.
+									","
+											Une partie de l'explication
+de cette ignorance
+											est que les technologies de l'information
+											que nous utilisons en santé mondiale
+pour trouver des données,
+											pour résoudre ces problèmes,
+c'est ce que vous voyez ici.
+											Cette technologie a environ 5 000 ans.
+											Certains d'entre vous l'ont peut-être déjà utilisée.
+											Ça commence à être démodé en ce moment,
+mais nous l'utilisons encore
+											pour 99% de notre travail.
+											Voici un formulaire papier,
+et ce que vous voyez là
+											est un formulaire papier dans la main 
+d'une infirmière du Ministère de la Santé
+											en Indonésie qui traverse la campagne
+											pendant, j'en suis sûr, 
+une journée très chaude et humide.
+											Elle va frapper à des milliers de portes
+											pendant des semaines ou des mois,
+											en disant : « Excusez-moi,
+											nous voudrions vous poser quelques questions.
+											Avez-vous des enfants ? 
+Ont-ils été vaccinés ? »
+											Parce que le seul moyen
+que nous avons pour savoir
+											combien d'enfants ont été vaccinés
+en Indonésie,
+											quel pourcentage a été vacciné, 
+n'est pas de le chercher
+											sur Internet mais d'aller frapper aux portes,
+											parfois des dizaines de milliers de portes.
+											Cela prend parfois des mois, voire des années,
+											pour faire quelque chose comme ceci.
+											Vous savez, un recensement en Indonésie
+											prendrait probablement deux ans.
+									","
+											Ein Teil der Gründe, 
+warum wir rein gar nichts wissen,
+											ist, dass die Informationsverarbeitungssysteme,
+											die wir zum Finden von Daten 
+im globalen Gesundheitswesen benutzen,
+											um diese Probleme zu lösen, so aussehen:
+											Es geht um eine 5.000 Jahre alte Technologie.
+											Manche von Ihnen haben sie vielleicht schon benutzt.
+											Es ist eigentlich schon 'out', 
+aber wir benutzen es immer noch
+											für 99% unserer Anliegen.
+											Dies ist ein Papierformular. Und was Sie hier sehen
+											ist ein Formular in den Händen einer Krankenschwester des Gesundheitsministeriums
+											in Indonesien, die in der 
+ländlichen Gegend herumfährt,
+											an einem sicherlich sehr heißen 
+und feuchten Tag in indonesien,
+											und sie wird an tausende Türen klopfen,
+											in einem Zeitraum von Wochen oder Monaten,
+											sie wird anklopfen und fragen: ""Entschuldigen Sie,
+											wir würden Ihnen gerne ein paar Fragen stellen.
+											Haben Sie Kinder? Sind Ihre Kinder geimpft?""
+											Denn der einzige Weg, wie wir herausfinden können,
+											welcher Prozentsatz von Kinder 
+in Indonesien geimpft ist,
+											findet man in Wirklichkeit nicht 
+über das Internet heraus,
+											sondern indem wir Hinausgehen 
+und an Türen klopfen,
+											manchmal an zehntausende von Türen.
+											Manchmal dauert es Monate bis sogar Jahre,
+											um so etwas zu bewerkstelligen.
+											Wissen Sie, ein Zensus in Indonesien
+											würde wahrscheinlich 2 Jahre dauern.
+									",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+","
+","
+",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+											Claro que o problema com tudo isto
+											é com todos estes formulários em papel 
+
+											— e digo-vos, nós temos 
+formulários em papel para tudo.
+											Temos formulários em papel 
+para estudos de vacinação.
+											Temos formulários em papel para
+saber quais as pessoas que vão às clínicas.
+											Temos formulários em papel para
+acompanhar o fornecimento de medicamentos,
+											o fornecimento de sangue,
+todos esses diferentes formulários
+											para vários tópicos,
+											todos têm em comum o mesmo fim,
+											e o fim parece-se com isto.
+											O que vemos aqui é uma imensidão de dados.
+											Isto são os dados de um único questionário 
+sobre a cobertura da vacinação
+											num único distrito da Zâmbia,
+											em que eu participei há uns anos atrás.
+											A única coisa que alguém
+estava a tentar descobrir
+											era qual a percentagem de crianças
+da Zâmbia que são vacinadas.
+											Estes sãos os dados, recolhidos 
+em papel durante semanas
+											num único distrito,
+											que é quase como um condado
+nos Estados Unidos.
+											Podem imaginar que, para a Zâmbia completa,
+											responder a essa única questão
+											parece-se algo como isto.
+											Carrinha após carrinha após carrinha,
+											cheia de pilhas atrás de pilhas
+atrás de pilhas de dados.
+									","
+											Et bien sûr, le problème avec tout cela,
+											c'est qu'avec tous ces formulaires papier
+— et croyez-moi,
+											nous avons des formulaires papier 
+pour absolument tout.
+											Nous avons les formulaires 
+des études sur la vaccination.
+											Nous avons les formulaires pour suivre 
+les personnes qui viennent aux dispensaires.
+											Nous avons les formulaires 
+pour suivre les réserves de médicaments,
+											les réserves de sang, 
+et tous ces formulaires différents
+											pour tous ces sujets différents,
+											terminent tous au même endroit.
+											Cet endroit où ils terminent tous
+ressemble à peu près à ça.
+											Ce que nous voyons ici est
+une camionnette remplie de données.
+											Voici les données
+d'un seul sondage de vaccination
+											dans une seule région de la Zambie
+											auquel j'ai participé il y a quelques années.
+											La seule chose que nous essayions de savoir
+											était le pourcentage d'enfants zambiens 
+qui étaient vaccinés,
+											et voici les données, 
+collectées sur papier pendant des semaines
+											d'une seule région, qui est à peu près 
+l'équivalent d'un comté
+											aux États-Unis.
+											Vous pouvez imaginer 
+que pour la Zambie tout entière,
+											répondre à cette seule question
+											ressemble à quelque chose de ce genre.
+											Camion après camion après camion
+											remplis avec des piles et des piles 
+et des piles de données.
+									","
+											Und das Problem mit all dem ist natürlich,
+											mit all diesen vielen Formularen 
+– und ich sage Ihnen,
+											wir haben für alles Mögliche Formulare.
+											Wir haben Formulare für Impfumfragen.
+											Wir haben Formulare, um die Leute, 
+die in Klinken kommen, zu verfolgen.
+											Formulare, um den Arzneinachschub zu verfolgen,
+											die Blutversorgung, all diese Formulare
+											für viele verschiedene Themen,
+											sie alle haben einen gemeinsamen Endpunkt,
+											und der gemeinsame Endpunkt sieht etwa so aus.
+											Was wir sehen ist eine Lastwagen voll Daten.
+											Das sind die Daten von einer einzigen 
+Umfrage zur Durchimpfungsrate
+											in einem einzigen Bezirk in Sambia,
+											von vor ein paar Jahren, 
+an der ich mitgearbeitet habe.
+											Das Einzige, was wir da heraus finden wollten,
+											war, welcher Prozentsatz an 
+sambischen Kindern geimpft ist,
+											und das sind die Daten, über 
+Wochen auf Papier gesammelt,
+											von einem einzigen Bezirk, 
+etwa einem Bezirk
+											in den USA.
+											Sie können sich vorstellen, 
+dass für das ganze Land Sambia,
+											nur das Beantworten dieser einen Frage,
+											ungefähr so aussieht.
+											LKW für LKW
+											gefüllt mit Stapeln über Stapeln an Datenmenge.
+									",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+","
+","
+",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+											O que torna isto ainda pior
+											é que isso é apenas o começo
+											porque, assim que se colecionam
+todos os dados,
+											é óbvio que alguém terá de
+											— alguma pessoa pouco sortuda —
+											terá de digitar aquilo num computador.
+											Quando eu era um recém-licenciado
+											fui essa pessoa pouco sortuda 
+algumas vezes.
+											Posso-vos dizer que às vezes 
+não estava a prestar muita atenção.
+											Provavelmente, quando o fiz, 
+cometi muitos erros
+
+											que nunca ninguém descobriu,
+pelo que a qualidade dos dados é menor.
+									","
+											Le pire, c'est que
+											cela n'est que le début,
+											parce qu'une fois qu'on a collecté 
+toutes ces données,
+											bien sûr, quelqu'un va devoir —
+											une pauvre personne va devoir 
+les entrer dans un ordinateur.
+											Quand j'étais un étudiant de deuxième cycle,
+j'étais en fait
+											cette malheureuse personne, parfois.
+											Je peux vous dire que souvent
+je ne faisais pas vraiment attention.
+											J'ai probablement fait beaucoup d'erreurs 
+en faisant ce travail,
+											que personne n'a jamais découvertes,
+donc la qualité des données diminue.
+									","
+											Und was das Ganze noch schlimmer macht, ist,
+											dass das erst der Anfang ist,
+											denn wenn man die Daten erfasst hat,
+											muss natürlich irgendwer –
+											eine bedauernswerte Person, 
+diese in einen Computer tippen.
+											Als ich Doktorand war, war ich tatsächlich
+											manchmal diese bedauernswerte Person.
+											Und ich kann Ihnen sagen, 
+ich hab oft nicht wirklich aufgepasst.
+											Ich habe dabei wahrscheinlich viele Fehler gemacht,
+											die niemand jemals finden wird, 
+also verschlechtert sich die Datenqualität.
+									",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+","
+","
+",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+											Mas, por fim, aqueles dados
+são digitados num computador
+											e alguém pode começar a analisá-los.
+											Assim que têm uma análise e um relatório,
+											esperemos que possamos tirar 
+resultados dessa colecção de dados
+											e usá-los para vacinar melhor as crianças.
+									","
+											Mais avec un peu de chance, ces données 
+finissent par être entrées dans l'ordinateur,
+											et quelqu'un peut commencer à les analyser.
+											Dès qu'ils ont une analyse et un rapport,
+											si on a de la chance, on peut prendre
+les résultats de cette collecte
+											et les utiliser 
+pour vacciner les enfants plus efficacement.
+									","
+											Aber schlussendlich werden diese Daten 
+in einen Computer getippt,
+											und jemand kann mit dem Analysieren anfangen,
+											und wenn sie eine Analyse und ein Gutachten haben,
+											dann kann man die Ergebnisse der Daten hoffentlich
+											zur Verbesserung der Kinderimpfung nutzen.
+									",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+","
+","
+",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+											Porque, se existe alguma coisa pior
+											no ramo da saúde pública global,
+											eu não sei o que é pior do que
+permitir que crianças neste planeta
+											morram de doenças
+para as quais existem vacinas,
+											doenças para as quais
+as vacinas custam um dolár.
+											Milhões de crianças morrem
+devido a estas doenças, todos os anos.
+											E milhões são uma estimativa por alto
+											porque não sabemos exactamente
+											quantas crianças morrem por ano, 
+com estas doenças.
+									","
+											Parce qu'il n'y a rien de pire
+											dans le domaine de la santé publique,
+											je ne sais pas ce qui est pire que de laisser 
+des enfants sur cette planète
+											mourir de maladies que l'on peut éviter 
+en les vaccinant,
+											des maladies pour lesquelles 
+les vaccins coûtent un dollar.
+											Des millions d'enfants meurent
+de ces maladies chaque année.
+											En réalité, des millions est
+une évaluation approximative, parce que
+											nous ne savons pas vraiment combien d'enfants
+meurent chaque année de ces maladies.
+									","
+											Wenn es irgendwas Schlimmeres gibt
+											im Bereich des globalen Gesundheitswesen,
+											ich weiß nicht was schlimmer sein sollte, 
+als dass Kinder auf diesem Planeten
+											an durch Impfung vermeidbaren Krankheiten sterben,
+											Krankheiten, deren Impfung einen Dollar kostet.
+											Und Millionen von Kindern sterben 
+jedes Jahr an solchen Krankheiten.
+											Fakt ist auch, dass Millionen ein grobe Schätzung ist,
+											weil wir in Wirklichkeit gar nicht wissen, 
+wie viele tatsächlich daran sterben.
+									",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+","
+","
+",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+											O que torna a situação
+ainda mais frustrante
+											é que a parte da inserção de dados,
+a parte que eu fazia,
+											às vezes pode demorar seis meses.
+											Às vezes pode demorar dois anos
+											a digitar aquela informação num computador,
+											e muitas vezes nunca chega a acabar.
+											Agora tentem compreender isto.
+											Têm equipas de centenas de pessoas.
+											Elas vão para o terreno para
+responder uma certa pergunta.
+											Provavelmente gastaram-se
+centenas de milhares de dólares
+											em combustível e fotocópias por dia.
+											Depois, por alguma razão,
+a dinâmica perde-se
+											ou deixa de haver dinheiro,
+											e tudo isso acaba
+											porque ninguém introduz
+os dados no computador.
+											O processo simplesmente para.
+Acontece muitas vezes.
+											É nisto que baseamos as nossas 
+decisões acerca de saúde global:
+											poucos dados, dados antigos, nenhuns dados.
+									","
+											Ce qui fait que c'est
+encore plus frustrant, c'est que
+											l'entrée des données, 
+ce que je faisais quand j'étais étudiant,
+											peut prendre quelquefois six mois.
+											Quelquefois cela peut prendre deux ans 
+pour saisir l'information
+											dans l'ordinateur, et quelquefois,
+en fait souvent,
+											ce n'est même jamais fait.
+											Essayez de vous imaginer
+cela un instant.
+											Vous avez des équipes
+de centaines des personnes
+											qui sont venues sur le terrain 
+pour répondre à une question en particulier.
+											Vous avez probablement dépensé 
+des centaines de milliers de dollars
+											en carburant, en photocopies, 
+en indemnités journalières,
+											et puis, pour une raison ou une autre, 
+l'élan est perdu
+											ou il ne reste plus d'argent,
+											et tout cela se solde par un échec
+											parce que personne 
+n'a entré les données dans un ordinateur.
+											Le processus s'arrête. Ça arrive tout le temps.
+											C'est là-dessus que nous fondons
+nos décisions en santé publique :
+											peu de données, des données anciennes, 
+pas de données.
+									","
+											Was es noch frustrierender macht, ist,
+											dass das Eingeben der Daten, 
+dass, was ich als Doktorand machte,
+											manchmal 6 Monate dauert.
+											Manchmal dauert es 2 Jahre, 
+um die Informationen
+											in einen Computer einzugeben, 
+und gar nicht selten,
+											passiert es auch gar nicht.
+											Nun versuchen Sie mal, 
+das zu begreifen.
+											Man hatte Teams aus hunderten von Leuten.
+											Sie sind alle raus gegangen, 
+um eine Frage zu beantworten.
+											Man hat wahrscheinlich 
+hunderttausende von Dollar ausgegeben,
+											für Benzin, fürs Kopieren und die Tagesspesen,
+											dann, aus irgendeinem Grund, ist der Schwung weg,
+											oder es gibt kein Geld mehr,
+											und alles verläuft sich im Sand,
+											weil es am Ende niemand in den Computer eintippt.
+											Der Prozess kommt einfach zum Halt. 
+Das passiert andauernd.
+											Das ist unsere Entscheidungsbasis 
+im globalen Gesundheitswesen:
+											wenige Daten, alte Daten, gar keine Daten.
+									",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+","
+","
+",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+											Em 1995, comecei a pensar numa forma
+											de melhorar este processo.
+											Obviamente que 1995 já foi há muito tempo.
+											Até me assusto de pensar
+há quanto tempo foi.
+											O melhor filme do ano foi
+											""Die Hard — a Vingança.""
+											Como vêem, o Bruce Willis
+tinha mais cabelo nessa altura.
+											Eu estava a trabalhar nos
+Centros para Controlo de Doenças,
+											e também tinha mais cabelo nessa altura.
+									","
+											Alors en 1995, j'ai commencé
+à imaginer des façons
+											d'améliorer ce processus.
+											1995, c'était, évidemment, il y a longtemps.
+											Ça me fait un peu peur de penser 
+à combien d'années se sont écoulées depuis.
+											Le film de l'année était
+											« Die Hard 3 : une journée en enfer. »
+											Comme vous voyez, Bruce Willis avait
+beaucoup plus de cheveux en ce temps-là.
+											Je travaillais pour les Centres
+pour le Contrôle des Maladies,
+											et j'avais aussi 
+beaucoup plus de cheveux à cette époque.
+									","
+											Damals, 1995, begann ich, über Wege nachzudenken,
+											mit denen wir diesen Prozess verbessern könnten.
+											1995 liegt offensichtlich eine lange Zeit zurück.
+											Es ängstigt mich etwas, daran 
+zu denken, wie lange das her ist.
+											Der Topfilm des Jahres war
+											""Stirb langsam: Jetzt erst recht.""
+											Wie Sie sehen, hatte Bruce Willis 
+damals viel mehr Haare.
+											Ich arbeitete bei ""Centers for Disease Control"" (CDC).
+											und ich hatte damals auch viel mehr Haare.
+									",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+","
+","
+",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+											Mas para mim, a coisa 
+mais importante que vi em 1995
+											foi isto.
+											É difícil imaginar, mas em 1995,
+											isto era o melhor e mais moderno
+dispositivo móvel.
+											Certo? Não era um IPhone.
+Não era um Galaxy.
+											Era um Palm Pilot.
+											Quando vi o Palm Pilot
+pela primeira vez, pensei:
+											Pporque é que não colocamos 
+os formulários nestes Palm Pilots
+											e vamos para o terreno,
+levando apenas um Palm Pilot
+											que pode guardar dezenas de milhares 
+de formulários em papel?
+											
+Porque é que não experimentamos isto?
+											Porque, se pudermos fazer isso,
+											se pudermos recolher os dados
+de modo electrónico, digital,
+											desde o início,
+											fazemos um atalho nesse processo
+											da digitação,
+											ter alguém a escrever as coisas
+no computador.
+											Podemos saltar logo para a análise
+											e depois para a utilização dos dados
+para realmente salvar vidas.
+									","
+											Mais pour moi, la chose la plus importante 
+que j'ai vue en 1995
+											c'était ceci.
+											C'est difficile à imaginer, mais en 1995,
+											c'était le dispositif portable dernier cri.
+											N'est-ce pas ? Ce n'était pas un iPhone. 
+Ce n'était pas un Galaxy.
+											C'était un Palm Pilot.
+											Quand j'ai vu le Palm Pilot pour la première fois, 
+j'ai pensé :
+											pourquoi ne pas mettre les formulaires 
+sur ces Palm Pilots
+											et aller sur le terrain
+avec seulement un Palm Pilot,
+											qui peut contenir les dizaines de milliers
+											de formulaires papier ?
+Pourquoi ne pas essayer cela ?
+											Parce que si nous pouvons faire cela, 
+si nous pouvons
+											collecter les données électroniquement, numériquement,
+											dès le début,
+											nous pouvons raccourcir le processus
+											d'entrée des données,
+											ne plus avoir quelqu'un entrant
+l'information dans l'ordinateur.
+											Nous pouvons aller directement à l'analyse,
+											puis directement à l'utilisation des données
+pour sauver des vies.
+									","
+											Aber für mich war das Bedeutsamste,
+was ich 1995 sah,
+											das hier.
+											Schwer vorstellbar, aber 1995
+											war dies das ultimative Eliten-Handy.
+											Nicht wahr? Es war kein iPhone, kein Galaxy Phone.
+											Es war ein ""Palm Pilot"".
+											Und als ich den Palm Pilot 
+zum ersten Mal sah, dachte ich,
+											warum können wir die Formulare 
+nicht auf diese Palm Pilots packen,
+											und mit nur einem Palm Pilot rausgehen,
+											das zehntausende dieser Papierformulare
+											speichern kann? Warum versuchen wir das nicht?
+											Wenn wir das schaffen, wenn wir einfach
+											die Daten elektronisch, digital sammeln,
+											von Anfang an,
+											dann nehmen wir eine Abkürzung 
+durch den ganzen Prozess
+											des Tippens,
+											durch das ganze Abtippen in den Computer.
+											Wir können sofort zur Analyse hüpfen,
+											und die Daten dann direkt zum Lebenretten nutzen.
+									",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+","
+","
+",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+											Isso foi o que eu comecei a fazer.
+											Ao trabalhar no CCD, 
+comecei a viajar pelo mundo fora
+											para programas diferentes
+											e a treinar as pessoas
+para usarem Palm Pilots
+											para recolher os dados,
+em vez de usarem papel.
+											Na verdade, correu bem.
+											Correu exactamente como previsto.
+											Surpresa!
+											A recolha de dados digital
+											é mais eficiente do que a recolha em papel.
+											Enquanto estava a fazê-lo,
+a minha parceira, a Rose,
+											— que está aqui na audiência 
+com o seu marido, Matthew —
+											a Rose estava a fazer uma coisa parecida
+para a Cruz Vermelha americana.
+									","
+											C'est donc ce que j'ai commencé à faire.
+											Travaillant au CCM, j'ai commencé à voyager 
+dans différents programmes
+											à travers le monde et je les ai formés
+à l'utilisation des Palm Pilots
+											pour collecter des données, 
+plutôt que d'utiliser du papier.
+											Et ça a très bien marché.
+											Ça a marché exactement 
+comme n'importe qui l'aurait prédit.
+											Qui l'eût cru ?
+La collecte numérique de données
+											est plus efficace que la collecte sur papier.
+											Pendant que je faisais cela, 
+mon associée, Rose,
+											qui est ici avec son mari, Matthew, 
+ici dans le public,
+											Rose faisait la même chose 
+pour la Croix-Rouge américaine.
+									","
+											Damit habe ich angefangen.
+											Für die CDC reiste ich zu den 
+verschiedenen Programmen,
+											auf der ganzen Welt und brachte ihnen 
+die Benutzung des Palm Pilot bei,
+											damit sie die Daten nicht mehr auf Papier sammeln.
+											Und es funktionierte auch super.
+											Es funktionierte so gut, wie 
+jeder vorhersehen konnte.
+											Ach, wirklich? Das digitale Sammeln von Daten
+											ist wirklich effizienter als das Sammeln auf Papier.
+											Während ich das machte, war 
+meine Geschäftspartnerin, Rose,
+											die heute mit ihrem Ehemann 
+Matthew hier im Publikum sitzt,
+											Rose war dabei ähnliche Sachen für 
+das amerikanische Rote Kreuz zu machen.
+									",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+","
+","
+",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+											O problema foi que,
+após alguns anos a fazer isto,
+											percebi que tinha feito
+											— tinha ido a talvez 
+a seis ou sete programas —
+											e pensei: se continuar a este ritmo,
+											ao longo de toda a minha carreira,
+											se calhar conseguirei ir 
+talvez a 20 ou 30 programas.
+											O problema é que, 20 ou 30 programas,
+											treinar 20 ou 30 programas
+a usar esta tecnologia,
+											tem um impacto muito pequeno.
+											Nos países em desenvolvimento, 
+é enorme a procura disto,
+											a necessidade de melhores programas 
+para processar dados
+											apenas na saúde, sem falar noutras áreas.
+											Existem milhões e milhões de programas,
+											milhões de clínicas que precisam
+de acompanhar os medicamentos,
+											milhões de programas de vacinação.
+											Há escolas que precisam 
+de controlar a assiduidade.
+											Existem todas estas coisas
+											que precisam de dados.
+											Apercebi-me que, se continuasse
+do mesmo modo,
+											dificilmente causaria algum impacto
+											quando chegasse ao final da minha carreira.
+									","
+											Le problème, après quelques années 
+passées à faire ça,
+											c'est que j'ai réalisé que j'avais fait
+— j'avais été voir peut-être
+											six ou sept programmes, et je me suis dit,
+											si je continue à cette vitesse
+											pendant toute ma carrière, je vais peut-être
+											aller voir 20 ou 30 programmes.
+											Mais le problème, c'est que 20 ou 30 programmes,
+											former 20 ou 30 programmes 
+à utiliser cette technologie,
+											c'est une petite goutte d'eau dans l'océan.
+											Le demande, la nécessité d'avoir des données 
+pour que les programmes soient plus efficaces
+											rien que dans la santé, 
+sans parler de tous autres domaines
+											dans les pays en voie de développement, 
+est énorme.
+											Il y a des millions et des millions 
+de programmes,
+											des millions de dispensaires qui ont besoin
+de suivre les médicaments,
+											des millions de programmes de vaccination.
+											Il y a les écoles qui ont besoin 
+de suivre la présence des élèves.
+											Il y a toutes ces choses différentes
+											qui ont besoin de données pour fonctionner.
+											Et j'ai réalisé que si continuais à faire
+ce que je faisais,
+											je ne changerais presque rien
+											d'ici la fin de ma carrière.
+									","
+											Das Problem war, nachdem wir es 
+ein paar Jahre so gemacht hatten,
+											merkte ich, dass ich vielleicht bei
+											6 oder 7 Programmen war, und wissen Sie,
+											ich dachte, wenn ich das in 
+diesem Tempo weiter mache,
+											meine ganze Karriere lang, gehe ich vielleicht
+											zu insgesamt 20 oder 30 Prgrammen.
+											Aber das Problem ist, 20 oder 30 Programmen
+											das Benutzen dieser Technologie beizubringen,
+											ist nur ein Tropfen auf den heißen Stein.
+											Die Nachfrage danach, der Bedarf an besseren 
+Programmen zur Datenverarbeitung,
+											allein im Gesundheitswesen, von den 
+anderen Bereichen in Entwicklungsländern
+											ganz zu schweigen, ist gewaltig.
+											Es gibt Abermllionen von Programmen,
+											Millionen von Kliniken, die
+Medikamente katalogisieren müssen,
+											Millionen von Impfprogrammen.
+											Es gibt viele Schulen, 
+die die Anwesenheit verfolgen müssen.
+											Es gibt all diese verschiedenen Programme,
+											um an die Daten zu kommen, die wir brauchen.
+											Und ich merkte, wenn ich so weiter machte,
+											werde ich quasi kaum etwas erreicht haben
+											am Ende meiner Karriere.
+									",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+","
+","
+",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+											Então comecei a puxar pelo meu cérebro
+											a tentar pensar sobre o processo 
+que estava a fazer,
+											como estava a treinar o pessoal,
+e quais os pontos a afectar o desempenho,
+											quais os obstáculos que
+impediam de fazer mais depressa
+											e de modo mais eficiente?
+											Infelizmente, após pensar 
+sobre isto durante algum tempo,
+											apercebi-me...
+
+											Identifiquei o principal obstáculo.
+											O principal obstáculo era afinal,
+											— e é uma triste constatação —
+											o maior obstáculo era eu.
+									","
+											J'ai donc commencé à me demander,
+											à me creuser les méninges, pour réfléchir
+											au processus que j'étais en train de suivre,
+											comment je formais les gens,
+quels étaient les freins,
+											et quels obstacles empêchaient
+de le faire plus vite
+											et plus efficacement.
+											Et malheureusement, après avoir réfléchi à cela 
+pendant un certain temps,
+											j'ai réalisé — j'ai identifié l'obstacle principal.
+											L'obstacle principal, en fin de compte,
+											et c'est une triste prise de conscience,
+											l'obstacle principal, c'était moi.
+									","
+											Also fing ich an, mir den Kopf zu zerbrechen,
+											darüber nachzudenken, wissen Sie,
+											was genau der Prozess war, den ich durchlief,
+											wie schulte ich Leute, was waren die Engpässe,
+											was waren die Hürden, 
+um die Sache schneller zu machen,
+											und sie effizienter zu machen?
+											Nachdem ich einige Zeit nachgedacht hatte,
+											identifiziert ich unglücklicherweise 
+das Haupthindernis.
+											Und das Haupthindernis war, 
+wie sich herausstellte,
+											– und das war eine traurige Erkenntnis –
+											war ich selbst.
+									",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+","
+","
+",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+											O que quero dizer com isto?
+											Eu desenvolvi um processo
+											no qual eu era o centro do universo
+desta tecnologia.
+											Se quisessem usar esta tecnologia,
+tinham de me contactar.
+											Precisavam de saber que eu existia.
+											Tinham de ter dinheiro para me pagar
+											para voar até ao vosso país
+											e dinheiro para pagar o hotel
+											e a minha taxa por período e por dia.
+											Estamos a falar de cerca 
+de 10 ou 20 ou 30 mil dólares,
+											se eu tivesse tempo,
+se encaixasse na minha agenda
+											e se eu não estivesse de férias.
+											Em suma, qualquer sistema que depende
+											duma única pessoa, ou de
+duas ou três ou cinco pessoas,
+											simplesmente não se desenvolve.
+											Isso é um problema, pois 
+precisamos de desenvolver esta tecnologia
+											e temos de o fazer agora.
+									","
+											Qu'est-ce que je veux dire par là ?
+											J'avais développé un processus dans lequel
+											j'étais le centre de l’univers de cette technologie.
+											Si vous vouliez utiliser cette technologie,
+il fallait me contacter.
+											Et pour cela, il fallait savoir que j'existe.
+											Ensuite il fallait trouver de l'argent pour payer
+											mon voyage jusque dans votre pays,
+											et l'argent pour payer mon hôtel
+											et mes indemnités journalières
+et mon tarif journalier.
+											On pouvait donc parler de 10 000,
+de 20 000 ou de 30 000 dollars
+											à condition que j'aie le temps
+ou que cela soit compatible avec mon agenda,
+											et que je ne sois pas en vacances.
+											Ce que je veux dire, c'est que
+n'importe quel système qui dépend
+											d'un seul être humain,
+ou de deux, trois ou cinq êtres humains,
+											ça ne peut pas fonctionner à grande échelle.
+											C'est un problème
+pour lequel nous avons besoin
+											de cette technologie à grande échelle, 
+et nous en avons besoin tout de suite.
+									","
+											Was meine ich damit?
+											Ich hatte einen Prozess entwickelt, durch den
+											ich der Mittelpunkt des Universums 
+für diese Technologie war.
+											Wenn man diese Technologie benutzen wollte, 
+musste man erst mit mir in Kontakt treten.
+											Das heißt, man musste wissen, dass ich existierte.
+											Und dann musste man das Geld finden, 
+um mich zu bezahlen,
+											damit ich zu einem ins Land flog,
+											und das Geld für mein Hotel,
+											meine Tagesspesen und meinen Tagessatz.
+											Man könnte da von 10.000, 20.000 
+oder 30.000 Dollar sprechen,
+											wenn ich überhaupt die Zeit hatte
+oder es in meinen Plan passte,
+											und ich nicht gerade im Urlaub war.
+											Der Punkt ist, dass jedes System, das von nur
+											einer Person, oder 2, 3 oder 5 Personen abhängt,
+											einfach nicht groß genug wird.
+											Und dies ist ein Problem, für das wir 
+eine angemessene Anpassung
+											der Technologie brauchen, und zwar sofort.
+									",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+","
+","
+",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+											Portanto comecei a pensar
+em maneiras de basicamente
+											me retirar do processo.
+											Estive a pensar
+											como retirar-me do processo
+											durante bastante tempo.
+											Sabem, eu fui treinado em que
+											a forma como se distribui a tecnologia
+no desenvolvimento internacional
+											é sempre baseada em consultores.
+											É sempre com pessoas parecidas comigo
+											que voam de países como este
+											para outros países com pele mais escura.
+											Chegamos lá, gastamos dinheiro
+em passagens áreas,
+											gastamos tempo e diárias,
+											e gastamos num hotel
+e em todas essas coisas.
+											Tanto quanto sabia, essa era a única forma
+											de distribuir tecnologia,
+e não conseguia descobrir outra maneira.
+									","
+											J'ai donc commencé à réfléchir à des moyens
+											de me faire sortir du processus.
+											Vous savez, je me suis demandé
+											comment je pouvais me faire sortir du processus
+											pendant un certain temps.
+											J'avais été formé pour penser
+											que lorsqu'on distribue de la technologie
+pour le développement international,
+											c'est toujours en passant par un consultant.
+											C'est toujours des personnes dans mon genre,
+											qui viennent de pays comme celui-ci,
+											et qui vont dans d'autres pays 
+avec des gens à la peau plus sombre.
+											Et on va là, et on dépense de l'argent
+pour les billets d'avion,
+											et on dépense du temps,
+et des indemnités journalières,
+											et on paie une chambre d'hôtel, 
+et on dépense de l'argent pour toutes ces choses.
+											À ma connaissance, c'était le seul moyen
+											pour distribuer des technologies, 
+et je ne parvenais pas à en trouver un autre.
+									","
+											Also begann ich über Wege nachzudenken, bei denen
+											ich mich selbst aus dem Spiel nehmen konnte.
+											Und, wissen Sie, ich dachte über
+											""Wie kann ich mich aus dem Spiel nehmen?""
+											eine ganze Weile nach.
+											Wissen Sie, ich war so ausgebildet,
+											dass die Verbreitung von Techonologie 
+in der internationalen Entwicklung,
+											immer beraterbasiert war.
+											Es gibt immer Typen, die so wie ich aussehen,
+											die aus Ländern anfliegen, die etwa so aussehen,
+											in andere Ländern, wo Leute dunklere Haut haben.
+											Und man geht dahin, gibt Geld für den Flieger aus,
+											man braucht Zeit und Tagesspesen,
+											und man bezahlt für ein Hotel und all diese Sachen.
+											Das war, soweit ich wusste, der einzige Weg,
+											wie man Technologie verbreiten konnte, 
+und ich fand keinen Weg drum herum.
+									",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+","
+","
+",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+											Mas o milagre acabou por acontecer.
+											Vou-lhe chamar Hotmail, para facilitar.
+											Podem não pensar no Hotmail
+como algo milagroso,
+											mas para mim foi, porque reparei,
+											enquanto lutava com este problema,
+											— estava a trabalhar na África subsaariana
+na maior parte do tempo —
+											notei que os trabalhadores da saúde 
+na África subsaariana,
+											com quem trabalhava,
+tinham uma conta de Hotmail.
+											Eu pensei, veio-me à cabeça,
+											espera aí, eu sei 
+que as pessoas do Hotmail
+											de certeza não voam para o
+Ministério da Saúde do Quénia
+											para treinar as pessoas
+a usarem o Hotmail.
+											Então, estas pessoas
+estão a distribuir tecnologia.
+											Estão a colocar capacidade
+de ""software"" por aí
+											mas não estão a voar pelo mundo.
+											Tenho de pensar um pouco mais sobre isto.
+											Enquanto pensava,
+as pessoas começaram a usar
+											ainda mais coisas como estas,
+tal como nós usávamos.
+											Começaram a usar o LinkedIn e o Flickr,
+											o Gmail e o Google Maps,
+todas essas coisas.
+											Claro, todas estas coisas são
+baseadas na nuvem
+											e não requerem qualquer treino.
+											Não requerem programadores.
+											Não requerem consultores,
+											porque o modelo de negócio,
+de todos esses negócios
+											requer que seja tão simples
+
+											que possa ser usado 
+com pouco ou nenhum treino.
+											Só tem de vos chegar aos ouvidos
+e irem ao ""website"".
+									","
+											Mais le miracle qui s'est produit,
+											je vais l'appeler Hotmail, pour faire court.
+											Vous ne pensez peut-être pas que
+Hotmail est un miracle,
+											mais pour moi c’en était un,
+parce que j'ai remarqué,
+											au moment où je luttais avec ce problème,
+											— je travaillais principalement 
+en Afrique subsaharienne à cette époque —
+											j'ai remarqué que chaque travailleur de la santé 
+avec qui je travaillais
+											en Afrique subsaharienne,
+avait un compte Hotmail.
+											Et j'ai pensé, je me suis dit soudainement :
+											attends un peu, je sais que
+les représentants de Hotmail
+											ne sont pas venus
+au Ministère de la Santé du Kenya
+											pour former les gens à utiliser Hotmail.
+											Donc ces gens distribue une technologie.
+											Ils font circuler des logiciels
+et la capacité à les utiliser,
+											mais ils ne voyagent pas à travers le monde.
+											Je dois réfléchir à cela un peu plus.
+											Pendant que j'y réfléchissais,
+les gens ont commencé à utiliser
+											encore plus de choses de ce genre, 
+tout comme nous.
+											Ils ont commencé à utiliser LinkedIn et Flickr,
+											Gmail et Google Maps, toutes ces choses.
+											Naturellement, toutes ces choses
+sont basées sur le cloud
+											et ne nécessitent aucune formation.
+											Ils n'ont pas besoin des programmeurs.
+											Ils n'ont pas besoin des consultants,
+parce que
+											le modèle commercial de ces entreprises
+											exige que le service soit si simple 
+que nous pouvons l'utiliser nous-mêmes
+											avec peu ou pas de formation.
+											Il faut juste en entendre parler 
+et aller voir le site web.
+									","
+											Doch das Wunder, das dann geschah,
+											nenne ich kurz ""Hotmail"".
+											Nun, sie können sagen, 
+dass Hotmail kein Wunder war,
+											aber für mich war es eins, weil ich merkte,
+											als ich so mit meinem Problem kämpfte,
+											ich arbeitete meistens in Subsahara-Afrika.
+											Ich merkte, dass jeder im Gesundheitswesen 
+Tätige Schwarzafrikaner,
+											mit dem ich arbeitete, einen Hotmail-Account hatte.
+											Und ich dachte – ein Gedanke kam mir,
+											warte mal, ich weiß, dass die Hotmail-Leute
+											sicherlich nicht zum Gesundheitsministerium 
+von Kenia geflogen sind,
+											um den Leuten beizubringen, 
+wie man Hotmail benutzt.
+											Also verbreiteten diese Leute Technologie.
+											Sie brachten Software-Kapazität an die Leute,
+											ohne wirklich um die ganze Welt zu fliegen.
+											Darüber muss ich mehr nachdenken.
+											Während ich darüber nachdachte, 
+fingen die Leute an
+											noch mehr von den Dingen 
+zu benutzen, wie wir eben auch.
+											Sie fingen an LinkedIn
+und Flickr zu benutzen,
+											und Gmail und Google Maps, all diese Sachen.
+											Diese Sachen sind natürlich alle cloudbasiert,
+											und erfordern kein Training.
+											Sie erfordern keinen Programmierer.
+											Sie erfordern keinen Berater, weil
+											das Geschäftsmodell all dieser Unternehmen ist,
+											dass alles so simpel ist, 
+dass wir es selber benutzen,
+											mit wenig oder gar keiner Schulung.
+											Man muss nur davon gehört haben 
+und auf die Webseite gehen.
+									",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+","
+","
+",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+											Então pensei, o que aconteceria
+se construíssemos um ""software""
+											que substituísse os meus
+serviços de consultoria?
+											Em vez de treinar as pessoas
+											a colocar formulários
+em dispositivos móveis,
+											vamos criar um ""software"" 
+que lhes permita fazer isso ,
+											sem treino e sem eu estar envolvido.
+											Foi exactamente isso que fizemos.
+									","
+											Je me suis donc demandé 
+ce qui arriverait si nous développions un logiciel
+											pour faire ce que je faisais comme consultant ?
+											Plutôt que de former les gens
+											à mettre les formulaires sur des appareils portables,
+											créons un logiciel qui leur permette 
+de le faire eux-mêmes
+											sans formation et sans moi.
+											Et c'est exactement ce que nous avons fait.
+									","
+											Und ich dachte, was würde passieren, 
+wenn wir eine Software entwickeln,
+											die meinen Beratungsjob übernimmt?
+											Statt den Leuten beizubringen,
+											wie man die Formulare auf die Handys packt,
+											sollten wir eine Software entwickeln, 
+die es ihnen ermöglicht, das selbst zu tun,
+											ohne Übung und ohne mein Zutun.
+											Und genau das haben wir gemacht.
+									",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+","
+","
+",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+											Criámos um ""software"" chamado Magpi,
+											que tem um criador de formulários ""online"".
+											Ninguém tem que falar comigo.
+											Só têm de ouvir falar sobre ele
+e ir a um ""website"".
+											Podem criar formulários
+e, logo que os criarem,
+											carregam-nos para uma série de
+dispositivos móveis comuns.
+											Obviamente que hoje em dia,
+mudámos dos Palm Pilots
+											para os telemóveis.
+											Não tem de ser um ""smartphone"".
+											Pode ser um telemóvel básico,
+como aquele à direita,
+											a versão básica de um telemóvel Symbian
+											que é muito comum
+nos países em desenvolvimento.
+											A melhor parte disto
+é que é tal e qual o Hotmail.
+											É baseado na nuvem,
+e não requer qualquer treino,
+											programação, consultores.
+									","
+											Nous avons créé un logiciel nommé Magpi,
+											qui a un créateur des formulaires en ligne.
+											Personne n'a besoin de me parler.
+											Il faut seulement en entendre parler 
+et aller voir le site web.
+											On peut créer des formulaires, 
+et une fois qu'ils ont été créés,
+											on les envoie à plusieurs modèles très courants
+de téléphones portables.
+											Évidemment, aujourd'hui, 
+nous avons laissé tomber les Palm Pilots
+											en faveur des téléphones portables.
+											Et ça n'a pas besoin d'être un smartphone.
+											Ça peut être un téléphone portable élémentaire comme le téléphone à droite là,
+											vous savez, le type simple de téléphone Symbian
+											qui est très courant 
+dans les pays en voie de développement.
+											Et le meilleur là-dedans, 
+c'est que c'est exactement comme Hotmail.
+											c'est basé sur le cloud, 
+et ça ne nécessite ni formation,
+											ni programmation, ni consultants.
+									","
+											Also schrieben wir die Software ""Magpi"",
+											die einen Online-Formular-Ersteller hat.
+											Niemand muss mich konsultieren.
+											Man muss nur davon gehört haben 
+und auf die Webseite gehen.
+											Man kann Formulare erstellen, 
+und wenn man das gemacht hat,
+											kann man sie auf eine Reihe 
+üblicher Handys verschieben.
+											Offensichtlich sind wir heute vom Palm Pilot
+											zu Handys übergegangen.
+											Und es muss kein Smartphone sein.
+											Es kann ein einfaches Handy, 
+wie das hier auf der rechten Seite sein,
+											wissen Sie, die einfache Sorte von Symbian-Handys,
+											die üblich sind in den Entwicklungsländern.
+											Und das Tolle daran ist, 
+dass es genau wie Hotmail ist.
+											Cloudbasiert, und es erfordert keine Schulung,
+											kein Programmieren, keine Berater.
+									",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+","
+","
+",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+											Mas existem outros benefícios adicionais.
+											Sabíamos, quando construímos este sistema,
+											que a questão central,
+como com os Palm Pilots,
+											era que vocês seriam 
+capazes de recolher dados
+											e transferi-los imediatamente.
+											O que descobrimos, dado que já 
+se encontram num computador,
+											é que podemos entregar mapas instantaneous,
+e análises e gráficos.
+											Podemos pegar num processo que
+demorou dois anos
+											e comprimi-lo em cinco minutos.
+											Melhorias de eficiência inacreditáveis.
+											Baseado na nuvem, sem treino,
+sem consultores, sem mim.
+											Eu disse-vos que nos primeiros anos
+											a tentar isto à maneira antiga,
+											indo a cada país,
+											conseguimos, não sei bem,
+											provavelmente treinámos
+umas 1000 pessoas.
+											O que aconteceu após fazermos isto?
+											Nos segundos três anos,
+tivemos 14 000 pessoas
+											a visitar o ""site"", a registarem-se,
+a usarem-no para recolher dados,
+											dados para resposta a desastres,
+											suinicultores canadianos a acompanhar
+doenças de porcos e de varas,
+											pessoas a acompanharem
+fornecimentos de medicamentos.
+									","
+											Mais il y a aussi des avantages supplémentaires.
+											Nous savions, quand nous avons créé ce système,
+											que le but, exactement comme les Palm Pilots,
+											était de donner la capacité
+											de collecter les données, de les télécharger
+immédiatement et d'obtenir un jeu de données.
+											Mais ce que nous avons découvert, bien sûr,
+puisque c'est déjà sur ordinateur,
+											nous pouvons en fournir immédiatement
+des cartes, des analyses et des graphiques.
+											Nous pouvons condenser 
+un processus qui durait deux ans
+											en cinq minutes.
+											Des améliorations incroyables en efficacité.
+											Le cloud, pas de formation,
+pas de consultants, pas de moi.
+											Je vous ai raconté
+que les premières années
+											pendant lesquelles j'essayais
+de faire ça à l'ancienne,
+											en allant dans chaque pays,
+											nous avons touché, je ne sais pas,
+											nous avons probablement formé 
+environ 1 000 personnes.
+											Que s'est-il passé
+après la création de ce système ?
+											Pendant les 3 années suivantes, 
+14 000 personnes
+											ont trouvé le site web, ont créé un compte et ont commencé à l'utiliser pour collecter des données,
+											des données pour les réactions aux catastrophes,
+											des éleveurs de porc canadiens suivant les maladies du cochon et de leurs troupeaux,
+											des gens suivant les réserves de médicaments.
+									","
+											Es gibt auch einige zusätzliche Vorteile.
+											Nun wussten wir, als wir das System erstellten,
+											dass der Sinn daran, wie beim Palm Pilot, war,
+											dass man in der Lage war,
+											die Daten zu sammeln, sie sofort 
+hochzuladen und sein Datenset bekam.
+											Aber wir dachten, natürlich, wenn wir 
+es schon auf einem Computer haben,
+											können wir auch unmittelbar 
+Karten, Analysen und Graphen liefern.
+											Wir nehmen einen Prozess, der 2 Jahre dauerte,
+											und komprimieren ihn auf 5 Minuten.
+											Unglaubliche Verbesserung der Effizienz.
+											Cloudbasiert, keine Schulung, 
+keine Berater, ohne mich.
+											Und ich habe Ihnen erzählt, 
+dass in den ersten Jahren,
+											in denen wir es auf die alte Art versucht haben,
+											in jedes Land zu gehen,
+											haben wir ungefähr
+											1.000 Leute geschult.
+											Und was passierte, nachdem wir das taten?
+											In den zweiten 3 Jahren hatten wir 14.000 Leute,
+											die die Webseite fanden, sich anmeldeten 
+und sie zum Datensammeln benutzten,
+											Daten zur Bekämpfung von Naturkatastrophen,
+											kanadische Schweinemäster, die Erkrankungen 
+und Schweineherden zurückverfolgen konnten,
+											Leute, die Medikamenteversorgung zurückverfolgen.
+									",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+","
+","
+",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+											Um dos meus exemplos preferidos, o CIS,
+											— Comité Internacional de Salvamento —
+											tem um programa onde
+parteiras semi-analfabetas
+											que usam telemóveis de 10 doláres
+											enviam uma mensagem de texto
+usando o nosso ""software"",
+											uma vez por semana,
+com o número de nascimentos
+											e o números de mortes,
+o que dá ao CIS
+											algo que ninguém jamais teve, em programas
+de saúde global :
+											um sistema quase em tempo real
+de contagem de bebés,
+											que sabe quantas crianças nascem,
+											que sabe quantas crianças 
+existem na Serra Leoa,
+											que é o país onde isto está a acontecer,
+											e que sabe quantas crianças morrem.
+									","
+											Un de mes exemples favoris, l'IRC,
+											l'International Rescue Committee,
+											ils ont un programme dans lequel 
+des sages-femmes sachant juste lire
+											utilisent des téléphones portables
+qui coûtent dix dollars,
+											envoient un texto en utilisant notre logiciel
+											une fois par semaine 
+avec le nombre de naissances
+											et de décès, ce qui donne à l'IRC
+											quelque chose que personne
+n'a jamais eu dans la santé :
+											un système de comptage des bébés,
+presque en temps réel,
+											pour savoir combien d'enfants sont nés,
+											pour savoir combien d'enfants il y a
+											au Sierra Leone, qui est le pays 
+où ce programme est en place,
+											et pour savoir combien d'enfants meurent.
+									","
+											Eins meiner Lieblingsbeispiele, das IRC,
+											das International Rescue Committee,
+											sie haben ein Programm, bei dem 
+wenig gebildete Hebammen
+											mit einem 10$-Handy
+											wöchentlich eine SMS mit unserer Software,
+											mit der Zahl der Geburten
+											und der Zahl der Todesfälle verschicken,
+damit bekommt das IRC etwas,
+											was niemand zuvor im 
+globalen Gesundheitswesen hatte:
+											ein fast Echtzeitsystem, das Babys zählt,
+											sie wissen, wie viele Kinder geboren werden,
+											und wie viele Kinder es
+											in Sierra Leone gibt, dort passiert das gerade,
+											und sie wissen, wie viele Kinder sterben.
+									",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+","
+","
+",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+											Médicos pelos Direitos dos Humanos
+											— aqui estamos a sair um pouco 
+do campo da saúde —
+											estão a juntar-se, e a treinar pessoas
+											para fazer exames de violação no Congo,
+onde isto é uma epidemia,
+											uma epidemia horrível.
+											Estão a usar o nosso ""software""
+											para documentar as provas 
+que encontram, incluindo fotografias,
+											de modo a levar os criminosas
+perante a justiça.
+									","
+											Physicians for Human Rigths 
+[Médecins pour les Droits de l'Homme] —
+											on sort un peu du domaine de la santé —
+											ils rassemblent des gens pour les former
+											à faire des examens de viol au Congo, 
+où le viol est une épidémie,
+											une épidémie horrible,
+											et ils utilisent notre logiciel pour documenter
+											les preuves qu'ils trouvent, 
+y compris photographiquement,
+											pour pouvoir traduire
+en justice les responsables.
+									","
+											""Physicians for Human Rights (PHR)
+(Mediziner für Menschenrechte)"" –
+											dies geht über den Gesundheitsbereich hinaus –
+											im Wesentlichen bilden sie Leute aus,
+											um Vergewaltigungsüberprüfungen im Kongo durchzuführen, wo das eine Epidemie ist,
+											eine schreckliche Epidemie,
+											und sie benutzen unsere Software 
+zum Dokumentieren
+											der Beweise, die sie finden, auch fotografisch,
+											damit sie die Täter vor Gericht bringen können.
+									",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+","
+","
+",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+											A Camfed, outra instituição de caridade
+com sede fora da Grã-Bretanha,
+											paga às famílias de meninas
+para que estas continuem na escola.
+											Eles sabem que é a intervenção 
+mais significativa que podem fazer.
+											Costumavam registar no papel as faltas,
+											as presenças, as notas.
+											O tempo médio entre o professor
+											registar as notas ou as presenças
+											e pôr isso num relatório,
+era de cerca de dois ou três anos.
+											Agora é em tempo real,
+											e como isto é um sistema 
+muito barato, baseado na nuvem,
+											custa, para o total dos cinco países
+em que a Camfed opera,
+											com dezenas de milhares de meninas,
+											o custo total combinado é
+de 10 000 dólares por ano.
+											Isso é menos do que eu costumava receber
+											a viajar por duas semanas
+e oferecer o serviço de consultoria.
+									","
+											Camfed, une association caritative
+basée en dehors du Royaume-Uni,
+											paie des familles pour que leurs filles
+continuent à aller à l'école.
+											Ils comprennent que
+c'est l'intervention la plus importante
+											qu'ils peuvent faire.
+Ils suivaient les absences,
+											l'assiduité, les notes, sur papier.
+											Le délai de production entre un professeur
+											écrivant les notes ou l'assiduité
+											et les mettant dans un bulletin 
+était d'environ deux ou trois ans.
+											Maintenant, c'est en temps réel, et parce que
+											c'est un système peu coûteux
+et en ligne, il coûte,
+											pour les cinq pays
+dans lesquels Camfed travaille,
+											avec des dizaines de milliers de jeunes filles,
+											le prix total est 10 000 dollars par an.
+											C'est moins que je gagnais
+											pour faire un rapport en deux semaines.
+									","
+											Camfed, eine Charity mit Sitz in Großbritannien,
+											bezahlt die Familien von Mädchen, 
+damit sie weiter zur Schule gehen können.
+											Sie verstehen, dass das 
+der bedeutsamste Eingriff ist,
+											den sie machen können. 
+Früher haben sie Ausgaben,
+											Anwesenheit und Noten auf Papier festgehalten.
+											Die Zeit, die ein Lehrer brauchte,
+											um Noten oder Anwesenheit aufzuschreiben
+											und ein Protokoll zu bekommen dauerte 2 bis 3 Jahre.
+											Jetzt funktioniert das in Echtzeit, und weil dies
+											ein billiges, cloudbasiertes System ist, kostet es,
+											für alle 5 Länder, in denen Camfed arbeitet,
+											mit zehntausenden Mädchen,
+											insgesamt 10.000 Dollar im Jahr.
+											Das ist weniger als ich damals verdient habe,
+											wenn ich für 2 Wochen als Berater gereist bin.
+									",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+","
+","
+",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+											Anteriormente disse-vos que,
+											quando fazíamos isto à maneira antiga,
+											apercebi-me que todo o nosso trabalho 
+tinha um impacto pequeno
+											— 10, 20, 30 programas diferentes.
+											Fizemos um grande progresso,
+											mas reconheço que, actualmente,
+mesmo o trabalho que fizemos
+											com 14 000 pessoas a usarem isto,
+											continua a não ter um grande impacto.
+											Mas algo mudou.
+											E parece-me óbvio.
+											O que mudou é:
+											em vez de termos um programa
+em que crescemos devagar,
+											em que não podemos atingir
+todas as pessoas que precisam de nós,
+											tornámos desnecessário 
+ir ter com as pessoas.
+
+											Criámos uma ferramenta 
+que permite programas
+											que mantém as crianças na escola,
+											que acompamhar o número 
+de bebés que nascem
+											e o número de bebés que morrem,
+											que apanham criminosos e os processam,
+											que fazem todas estas coisas.
+											Aprendemos mais sobre 
+o que está a acontecer,
+											compreendemos mais, vemos mais,
+											e salvamos e melhoramos vidas humanas.
+									","
+											Je vous ai raconté avant
+											que quand nous faisions ça à l'ancienne,
+j'ai réalisé
+											que tout notre travail n'était en fait 
+qu'une goutte d'eau dans l'océan —
+											10, 20, 30 programmes différents.
+											Nous avons bien avancé, mais je reconnais
+											qu'à l'heure actuelle, 
+même le travail que nous avons fait,
+											14 000 personnes utilisant ce système,
+											ce n'est encore qu'une goutte d'eau dans l'océan. 
+Mais quelque chose a changé.
+											Et je pense que ça devrait être évident.
+											Ce qui a changé aujourd'hui,
+											c'est qu'au lieu d'un programme
+que nous étendons tellement lentement
+											que nous ne pouvons jamais atteindre
+tous les gens qui ont besoin de nous,
+											nous avons fait en sorte qu'il ne soit pas nécessaire 
+aux gens d'être atteints par nous.
+											Nous avons créé un outil
+qui permet à des programmes
+											de garder les enfants à l'école, 
+de suivre le nombre des bébés
+											qui naissent
+et le nombre des bébés qui meurent,
+											d'attraper des criminels 
+et de les poursuivre en justice avec succès,
+											de faire toutes ces choses différentes 
+qui nous informent
+											de ce qui se passe, qui nous permettent
+de mieux comprendre, de mieux voir,
+											et de sauver et d'améliorer des vies.
+									","
+											Wie ich Ihnen erzählt habe,
+											als wir noch auf die alte Art arbeiteten, erkannte ich,
+											dass unsere ganze Arbeit nur 
+ein Tropfen auf den heißen Stein war –
+											10, 20, 30 verschiedene Programme.
+											Wir sind viel weiter gekommen, aber ich gebe zu,
+											dass es, sogar mit der Arbeit, die wir getan haben,
+											mit 14.000 Leuten, die dies nutzen,
+											immer noch nur ein Tropfen auf den 
+heißen Stein ist. Doch etwas ist anders.
+											Und ich denke es sollte offensichtlich sein.
+											Was jetzt anders ist, ist,
+											dass statt eines Programms, 
+mit einer so lahmen Vergrößerungsrate,
+											dass wir nie alle Leute erreichen, die uns brauchen,
+											brauchen die Leute unsere Unterstützung nicht mehr.
+											Wir haben ein Werkzeug erschaffen, das Programmen
+											hilft , die Kinder in den Schulen zu behalten, 
+die Zahl der Babys zu verfolgen,
+											die geboren werden, oder sterben,
+											[das hilft] Kriminelle zu stellen und zu bestrafen,
+											das all das kann, mit dessen Hilfe man
+											erfährt, was passiert, mehr versteht, mehr sieht,
+											Leben rettet und auch verbessert.
+									",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+","
+","
+",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+											Obrigado.
+									","
+											Merci.
+									","
+											Danke.
+									",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+","
+","
+",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+											(Aplausos)
+									","
+											(Applaudissements)
+									","
+											(Applaus)
+									",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"
+"
+","
+","
+",The big-data revolution in health care,Joel Selanikio,16:18,"TEDx,data,global issues,health,technology"

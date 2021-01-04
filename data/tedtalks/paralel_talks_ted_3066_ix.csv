@@ -1,0 +1,702 @@
+fr,es,tr,de,pt,title,speaker,duration,tags
+"
+","
+","
+","
+","
+",Why do airlines sell too many tickets?,Nina Klietsch,4:44,"business,design,technology,money,TED-Ed,flight,animation,math"
+"
+											Avez-vous déjà attendu des heures
+chez le docteur
+											alors que vous aviez rendez-vous
+à un horaire bien spécifique ?
+											Un hôtel a-t-il refusé votre réservation
+parce qu'il était complet ?
+											Ou vous a-t-on refusé l'embarquement
+d'un vol que vous aviez payé ?
+											Ce sont des symptômes du surbooking,
+											pratique par laquelle
+entreprises et organismes
+											vendent ou réservent plus
+que leur capacité maximale.
+											Malgré l'exaspération
+des clients concernés,
+											le surbooking est utilisé
+car il accroit les profits
+											et permet aux entreprises
+d'optimiser leurs ressources.
+											Elles savent que tout le monde
+ne sera pas au rendez-vous,
+											à sa réservation, et son vol,
+											donc elles mettent en vente
+plus de places qu'elles n'en ont.
+											Les compagnies aériennes sont l'exemple
+classique car ça arrive souvent.
+											Environ 50 000 personnes ne peuvent pas
+embarquer dans leurs avions chaque année.
+											Ce chiffre n'étonne pas
+les compagnies aériennes elles-mêmes,
+											qui utilisent des statistiques pour 
+déterminer combien de billets vendre.
+											C'est une opération délicate.
+											En en vendant trop peu, 
+elles gâchent des sièges.
+											En en vendant trop, elles payent
+des pénalités : de l'argent,
+											des vols gratuits, des nuits d'hôtel,
+et le mécontentement des clients.
+											Voici une version simplifiée
+de comment leurs calculs fonctionnent.
+											Les compagnies ont collecté
+pendant des années des données
+											sur les personnes qui se présentent
+ou pas pour certains vols.
+											Elles savent, par exemple,
+que pour un trajet donné,
+											la probabilité que chaque client
+se présentent pour le vol est de 90%.
+											Par souci de simplification,
+											nous allons considérer
+que chaque client voyage seul
+											plutôt qu'en famille ou en groupe.
+											Alors, s'il y a 180 sièges dans l'avion
+et qu'elles vendent 180 billets,
+											le résultat le plus probable
+est que 162 passagers vont embarquer.
+											Mais, bien sûr, on peut finir
+par avoir plus de passagers,
+											ou moins de passagers.
+											La probabilité de chaque valeur 
+est déterminée
+											par une distribution binomiale,
+											dont le sommet correspond
+à la valeur la plus probable.
+											Regardons maintenant les revenus.
+											La compagnie gagne de l'argent
+à chaque achat
+											et en perd pour chaque personne
+interdite d'embarquement.
+											Disons qu'un ticket coute 250$
+et n'est pas échangeable
+											et que le coût d'une interdiction 
+d'embarquement est de 800$.
+											Ces chiffres sont juste pris
+à titre d'exemple.
+											Les valeurs actuelles varient 
+considérablement.
+											Donc ici, si vous ne vendez aucun billet
+supplémentaire, vous gagnez 45 000$.
+											Si vous vendez 15 billets supplémentaires
+et qu'au moins 15 clients ne viennent pas,
+											vous gagnez 48 750$.
+											C'est le meilleur cas.
+											Dans le pire des cas,
+tout le monde se présente.
+											15 malchanceux ne peuvent embarquer
+et les revenus sont seulement de 36 750$,
+											moins que si vous n'aviez vendu
+que 180 billets.
+											Mais ce qui importe n'est pas seulement
+qu'un scénario rapporte bien ou pas,
+											mais également la probabilité
+qu'il se produise.
+											Donc quelle est la probabilité
+de chaque scénario ?
+											Nous pouvons la déterminer
+grâce à la distribution binomiale.
+											Dans cet exemple, la probabilité d'avoir
+exactement 195 passagers à bord
+											est presque de 0%.
+											La probabilité d'avoir exactement 
+184 passagers à bord est de 1,11% etc.
+											Multipliez ces probabilités 
+par les revenus de chaque cas,
+											additionnez-les,
+											et soustrayez la somme des bénéfices
+par 195 billets vendus,
+											et vous obtenez les recettes attendues
+en vendant 195 billets.
+											En répétant ces calculs pour 
+des nombres variés de billets en plus,
+											la compagnie peut trouver le scénario 
+optimisant le plus les revenus.
+											Dans cet exemple, c'est 198 billets,
+											grâce auxquels la compagnie
+va surement gagner 48 774$,
+											soit 4 000$ de plus que
+sans faire de surbooking.
+											Et ce résultat ne concerne qu'un vol.
+											Multipliez ce chiffre par un million 
+de vols par compagnie par an,
+											et le surbooking génère rapidement
+des gains supplémentaires.
+											Bien sûr, le calcul réel
+est bien plus complexe.
+											Les compagnies utilisent
+de nombreux facteurs
+											pour créer des modèles plus précis.
+											Mais le devraient-elles ?
+											Certains pensent que 
+le surbooking n'est pas éthique.
+											Vous affectez deux personnes
+à la même ressource.
+											D'accord, si vous savez à 100%
+qu'un client ne viendra pas,
+											ce n'est pas un problème
+de vendre son siège.
+											Mais si vous n'êtes sûr qu'à 95% ?
+											75 % ?
+											Y a-t-il un chiffre qui distingue
+le manque d'éthique du pragmatisme ?
+									","
+											¿Has esperado en un consultorio 
+médico durante horas
+											a pesar de tener una cita
+a una hora específica?
+											¿Algún hotel te rechazó una reserva
+porque estaba lleno?
+											¿O te han rechazado un vuelo que pagaste?
+											Son todos síntomas de exceso de reservas,
+											una práctica en la que 
+empresas e instituciones
+											venden o reservan más
+que su capacidad total.
+											Si bien a menudo es irritante 
+para el cliente,
+											el exceso de reservas ocurre 
+porque aumenta los beneficios
+											y a la vez permite a las empresas
+optimizar sus recursos.
+											Saben que no todo el mundo
+se presentará a las citas,
+											reservas,
+											y vuelos,
+											así que ofrecen más lugares disponibles 
+de los que tienen para ofrecer.
+											Las líneas aéreas son el ejemplo clásico,
+en parte porque sucede muy a menudo.
+											A unas 50 000 personas 
+le rechazan vuelos cada año.
+											Esa cifra es una sorpresa
+para las propias líneas aéreas
+											que usan estadísticas para determinar
+exactamente cuántos boletos vender.
+											Es una operación delicada.
+											Venden muy pocos y desperdician asientos.
+											Venden demasiados y pagan multas:
+											dinero, vuelos gratis, estancias 
+en hoteles y clientes molestos.
+											Esta es una versión simplificada
+de cómo son sus cálculos.
+											Las aerolíneas han recolectado
+años de información
+											sobre quién se presenta y 
+quién no a ciertos vuelos.
+											Ellos saben, por ejemplo,
+que en una ruta determinada,
+											la probabilidad de que cada cliente 
+se presente a tiempo es del 90%.
+											Por cuestiones de simplicidad,
+											supondremos que cada cliente
+viaja de manera individual
+											y no en familias o grupos.
+											Entonces, si hay 180 asientos 
+en el avión, y venden 180 boletos,
+											el resultado más probable 
+es que abordarán 162 pasajeros.
+											Pero, por supuesto, también 
+podrían terminar con más pasajeros,
+											o menos.
+											La probabilidad para cada valor
+se da por lo que se llama
+											una distribución binomial,
+											que alcanza un máximo en 
+el resultado más probable.
+											Ahora veamos los ingresos.
+											La línea aérea gana dinero 
+con cada comprador de vuelos
+											y pierde dinero por 
+cada persona rechazada.
+											Digamos que el vuelo cuesta USD 250 y 
+es intercambiable por un vuelo posterior.
+											Y el costo de rechazar
+un pasajero es de USD 800.
+											Estos números son solo a modo de ejemplo.
+											Las cantidades reales 
+varían considerablemente.
+											Aquí, si no venden boletos 
+adicionales, ganan USD 45 000.
+											Si venden 15 extras y al menos 
+15 personas no se presentan,
+											ganan USD 48 750.
+											Ese es el mejor caso.
+											En el peor caso, aparece todo el mundo.
+											se rechaza a 15 desafortunados pasajeros 
+y los ingresos serán solo de USD 36 750,
+											menos incluso que si vendían 
+180 boletos en un principio.
+											Pero no importa lo bueno o malo 
+del escenario financiero,
+											sino la probabilidad de ocurrencia.
+											Entonces, ¿qué tan probable 
+es cada escenario?
+											Podemos averiguarlo usando
+la distribución binomial.
+											En este ejemplo, la probabilidad de que
+embarquen exactamente 195 pasajeros
+											es casi 0%.
+											La probabilidad de que embarquen 
+184 pasajeros exactos es 1,11%, etc.
+											Multiplica estas probabilidades
+por los ingresos para cada caso,
+											suma todo,
+											y resta la suma de los ingresos
+por 195 boletos vendidos,
+											y tienes los ingresos esperados
+por vender 195 boletos.
+											Repitiendo este cálculo para varios 
+números de boletos adicionales,
+											la aerolínea puede encontrar la que 
+más probablemente maximice el ingreso.
+											En este ejemplo, son 198 boletos,
+											con los que la aerolínea 
+probablemente gane USD 48 774,
+											casi 4000 más que sin exceso de reservas.
+											Y eso es solo por un vuelo.
+											Multiplica eso por un millón 
+de vuelos por aerolínea por año,
+											y el exceso de reserva suma rápidamente.
+											Por supuesto, el cálculo real
+es mucho más complicado.
+											Las líneas aéreas aplican muchos factores
+para crear modelos aún más precisos.
+											Pero ¿deberían?
+											Algunos argumentan que 
+el exceso de reservas no es ético.
+											Estás cobrando a dos personas
+por el mismo recurso.
+											Por supuesto, si estás 100% seguro
+de que alguien no vendrá,
+											está bien vender su asiento.
+											Pero, ¿y si solo estás 95% seguro?
+											¿75%?
+											¿Hay un número que separe 
+el no ser ético del ser práctico?
+									","
+											Hiç belirli bir zamanda randevunuz 
+olduğu hâlde
+											bir doktorun ofisinde saatlerce 
+oturdunuz mu?
+
+											Bir otel dolu olduğu için hiç sizin
+rezervasyonunuzu geri çevirdi mi?
+
+											Ya da hiç ücretini ödediğiniz hâlde 
+uçağa alınmadığınız oldu mu?
+											Bunlar hep işletmelerin ve kuruluşların
+											kendi tam kapasitelerinin üzerinde satış
+											ve rezervasyon yapma 
+uygulamalarının belirtileri.
+											Müşteri için sinir bozucu olmasına karşın,
+											fazladan yer satma işletmelerin 
+kârını artırdığı
+											ve ayrıca kaynaklarını en iyi şekilde
+kullanmalarını sağladığı için yapılır.
+											Onlar, bazılarının randevularına,
+rezervasyonlarına
+											ve uçuşlarına
+											gelmeyeceklerini biliyorlar,
+											bu yüzden gerçekte olduğundan 
+daha fazla yeri müsait gösteriyorlar.
+											Havayolu şirketleri klasik bir örnektir,
+çünkü bu onlarda çok sık olmaktadır.
+											Her yıl 50 bin kişi bileti olduğu 
+hâlde uçağa alınmamaktadır.
+											Bu rakam tam olarak ne kadar 
+bilet satılacağını belirlemek için
+											istatistikleri kullanan havayolu 
+firmalarını da şaşırtmaktadır.
+											Bu hassas bir işlem.
+											Çok az satsalar, koltuklar boş kalıyor.
+											Çok fazla satsalar ceza yiyorlar:
+											Para, ücretsiz uçuş, otel konaklaması 
+ve kızgın müşteriler.
+											İşte burada onların hesaplarının 
+nasıl çalıştığının basit bir hâli var.
+											Havayolu şirketleri
+bazı uçuşlara kimin gelip
+											kimin gelmediği hakkında
+yıllarca bilgi topladılar.
+											Mesela onlar biliyor ki belli bir rotada,
+											her bireysel müşterinin uçuşa 
+zamanında gelme olasılığı %90’dır.
+											Basit olsun diye,
+											her müşterinin aile veya
+grup olarak değil de
+											bireysel olarak uçtuklarını farz edeceğiz.
+											Sonra, eğer bir uçakta 180 koltuk var 
+ve onlar 180 koltuk satarlarsa,
+											sonuç olarak büyük bir ihtimalle 
+162 yolcu uçağa binecektir.
+											Fakat, tabii ki bundan daha fazla
+yolcu da binebilir
+											ya da daha az.
+											Her değer için bu olasılık
+											en iyi ihtimalde doruğa ulaşan
+											binomial değer tarafından verilir.
+											Şimdi, gelin gelire bir bakalım.
+											Havayolu şirketi bilet satın 
+alan herkesten para kazanır
+											ve uçağa alınmayan her yolcu 
+için para kaybeder.
+											Diyelim ki bir bilet 250$ ve
+bir sonraki uçuşa da değiştirilemiyor.
+											Ve bir yolcuyu uçuşa kabul 
+etmemenin bedeli ise 800$.
+											Bu rakamlar sadece örnek 
+olsun diye verilmiştir.
+											Gerçek oranlar önemli oranda 
+değişiklik gösterir.
+											İşte burada, eğer hiç fazladan bilet 
+satmazsanız 45.000$ kazanırsınız.
+											Eğer 15 adet fazladan bilet satarsanız 
+ve en az 15 kişi uçuşa gelmezse,
+											$48,750 kazanırsınız.
+											Bu en iyi senaryo.
+											En kötü senaryoda ise herkes uçuşa gelir.
+											15 şanssız yolcu uçuşa kabul edilmez 
+ve gelir sadece 36.750$ olur,
+											ilkin sadece 180 bilet satmış
+olmandan daha az.
+											Fakat önemli olan sadece parasal açıdan
+senaryonun iyi veya kötü olması değil,
+											ne kadar olası olduğudur.
+											Her iki senaryonun olma
+olasılığı ne o zaman?
+											Binomial değeri kullanarak
+bunu öğrenebiliriz.
+											Bu örnekte, tam olarak 195
+yolcunun uçağa binme ihtimali
+											neredeyse %0’dır.
+											184 yolcunun uçağa gelme ihtimali
+%1,11’dir ve böyle devam ediyor.
+											Her durum için bu olasılıkları 
+gelirle çarpın
+											ve hepsini toplayın
+											ve 195 satılan biletten elde edilen 
+kazançtan toplamı çıkarın.
+											Böylece 195 bilet satmaktan 
+beklenen geliri elde edersiniz.
+											Bu hesaplamanın fazladan biletlerin 
+çeşitli sayıları için tekrarıyla
+											havayolu şirketi en yüksek gelir 
+elde edebileceği durumu bulabilir.
+											Bu örnekte, 198 biletten, 
+havayolu şirketi
+											belki 48.774$ elde edecek,
+											ki bu fazladan yer satış olmadan 
+yaklaşık 4.000 daha fazla demek.
+											Ve bu sadece bir uçuş için.
+											Bunu her yıl her havayolu 
+şirketi için milyon uçuşla çarpın,
+											ve fazladan yer satma
+bayağı bir yekûn tutar.
+											Tabii ki, gerçek hesaplama
+çok daha karmaşık.
+											Hava yolları daha doğu modeller
+yaratmak için çok sayıda faktör uyguluyor.
+											Peki böyle yapmalılar mı?
+											Bazıları fazladan yer satmanın 
+etik olmadığını savunuyor.
+											Aynı kaynak için iki kişiye
+para ödetiyorsun.
+											Eğer birisinin gelmeyeceğinden
+%100 eminseniz,
+											onun koltuğunu başkasına
+satmak sorun olmaz.
+											Peki sadece %95 eminseniz?
+											%75?
+											Etik olmamaktan pratik olmayı
+ayıran bir sayı var mı?
+									","
+											Sind Sie schon einmal für Stunden
+in einem Wartezimmer gesessen,
+											obwohl Sie einen Termin hatten?
+											Hat ein volles Hotel Sie abgewiesen,
+obwohl Sie reserviert hatten?
+											Oder hat Sie ein Flugzeug stehengelassen,
+obwohl Sie ein bezahltes Ticket hatten?
+											Dies sind die Folgen von Überbuchungen.
+											Das bedeutet, dass Firmen
+oder Organisationen
+											mehr verkaufen, 
+als ihre Kapazitäten zulassen.
+											Obwohl es viele Kunden verärgert,
+											sind Überbuchungen gängige Praxis,
+											weil sie Profit erzeugen und
+bessere Auslastungen erlauben.
+											Unternehmen wissen, 
+dass nicht jeder zu Terminen,
+											Reservierungen,
+											oder Flügen erscheint.
+											Also vergeben sie mehr
+Kapazitäten, als sie haben.
+											Airlines sind das klassische Beispiel, 
+teilweise weil es so oft passiert.
+											Etwa 50.000 Passagiere pro Jahr 
+werden am Flughafen stehengelassen.
+											Diese Zahl dürfte die meisten
+Airlines nicht überraschen,
+											da sie durch Statistiken entscheiden, 
+wie viele Tickets sie verkaufen.
+											Das ist eine heikle Sache.
+											Verkaufen sie zu wenig, 
+verschwenden sie Plätze.
+											Verkaufen sie zu viele, 
+bezahlen sie Strafen —
+											Geld, kostenlose Flüge, 
+Übernachtungen und verärgerte Kunden.
+											Dies ist eine vereinfachtes Beispiel 
+ihrer Berechnungen.
+											Airlines haben jahrelang 
+Informationen darüber gesammelt,
+											wer zu bestimmten Flügen
+erscheint und wer nicht.
+											Zum Beispiel wissen sie,
+dass auf einer bestimmten Route
+											90 % der Kunden pünktlich sein werden.
+											Wir nehmen der Einfachheit halber
+											dass alle Passagiere einzeln reisen,
+											anstatt als Familien oder Gruppen.
+											Wenn ein Flugzeug also 180 Sitze hat 
+und 180 Tickets verkauft werden,
+											dann ist die Wahrscheinlichkeit hoch, 
+dass 162 Leute an Bord sein werden.
+											Aber natürlich könnten es 
+am Ende auch mehr werden,
+											oder weniger.
+											Die Wahrscheinlichkeiten für jeden Wert
+											werden von der 
+Binomialverteilung vorgegeben,
+											mit einem Maximum beim 
+wahrscheinlichsten Ereignis.
+											Sehen wir uns nun die Einnahmen an.
+											Die Airline macht Gewinn mit jedem Ticket
+											und Verluste mit jedem
+stehengelassenen Passagier.
+											Sagen wir, ein Ticket kostet 250 $ 
+und ist nicht umbuchbar.
+											Und jeder stehangelassene
+Passagier kostet 800 $.
+											Diese Zahlen sind nur beispielhaft.
+											Reale Zahlen variieren beträchtlich.
+											Ohne Überbuchungen würde die Airline 
+in unserem Beispiel also 45 000 $ machen.
+											Wenn sie 15 Tickets mehr verkauft 
+und mindestens 15 Passagiere nicht kommen,
+											dann macht sie 48 750 $.
+											Das wäre der Idealfall.
+											Im schlimmsten Fall 
+erscheinen alle Passagiere.
+											15 Passagiere werden stehen gelassen 
+und der Gewinn liegt bei nur 36 750 $.
+											Das wäre weniger als ohne Überbuchungen.
+											Es zählt aber nicht nur, ob das Ergebnis 
+finanziell gut oder schlecht ist,
+											sondern wie wahrscheinlich es ist.
+											Wie wahrscheinlich 
+ist dieses Szenario also?
+											Dies können wir anhand 
+der Binomialverteilung herausfinden.
+											Die Wahrscheinlichkeit dafür, 
+dass 195 Passagiere erscheinen,
+											liegt in unserem Beispiel bei fast 0 %.
+											Die Wahrscheinlichkeit für genau 184 
+Passagiere liegt bei 1,11% und so weiter.
+											Multipliziert man Wahrscheinlichkeiten 
+und Gewinn für jeden Fall,
+											zählt alles zusammen
+											und zieht die Summe 
+von den Einnahmen für 195 Tickets ab,
+											dann erhält man den erwarteten Gewinn 
+aus 195 verkauften Tickets.
+											Wiederholt man diese Berechnungen 
+für verschieden viele Extra-Tickets,
+											dann erhält man die Zahl an Überbuchungen,
+die den höchsten Gewinn erzielen.
+											In unserem Beispiel wären das 198 Tickets.
+											Damit würde die Airline 
+vermutlich 48 774 $ Gewinn machen.
+											Fast 4 000 $ mehr als ohne Überbuchungen.
+											Und das ist nur auf einen Flug bezogen.
+											Rechnet man das auf Millionen
+von Flügen pro Airline und Jahr,
+											und Überbuchungen rechnen sich schnell.
+											Natürlich ist die Realität 
+viel kompliziereter.
+											Airlines beachten viele andere Faktoren,
+um noch genauere Modelle zu erzeugen.
+											Aber sollten sie das alles tun?
+											Manche Leute meinen, 
+dass Überbuchungen unethisch sind.
+											Zwei Leute bezahlen 
+für die gleiche Recource.
+											Wenn man 100 % sicher ist, 
+dass jemand nicht auftaucht,
+											dann ist das natürlich okay,
+											aber was wenn man nur zu 95 % sicher ist?
+											Oder zu 75 %?
+											Gibt es eine Zahl, 
+die unethnisch und praktisch trennt?
+									","
+											Já alguma vez esperaram horas
+no gabinete de um médico,
+											apesar de terem uma marcação
+para uma determinada hora?
+											Já algum hotel recusou a vossa reserva
+por estar cheio?
+											Ou não puderam embarcar num voo
+que já tinham pago?
+											Tudo isto são sintomas
+de excesso de reservas,
+											uma prática em que
+as empresas e as instituições
+											vendem ou reservam mais lugares
+do que a sua capacidade plena,
+											Embora enfureçam o cliente,
+											a reserva excessiva faz-se
+porque aumenta as receitas
+											e também permite que as empresas
+otimizem os seus recursos.
+											Sabem que nem toda a gente
+vai cumprir os seus compromissos,
+											a sua reserva e o seu voo.
+											por isso ultrapassam as vagas
+que, de facto, têm para oferecer.
+											As companhias de aviação
+são o exemplo clássico,
+											em parte, porque acontece com frequência.
+											Cerca de 50 000 pessoas
+perdem o seu voo, todos os anos.
+											Este número não é grande surpresa
+para as companhias de aviação
+											que usam a estatística para determinar
+exatamente quantos bilhetes vender.
+											É uma operação delicada.
+											Se venderem a menos,
+estão a desperdiçar lugares.
+											Se venderem demais
+pagam indemnizações:
+											dinheiro, voos grátis, estadia em hotéis
+e descontentamento dos clientes.
+											Esta é uma versão simplificada
+de como funcionam esses cálculos.
+											As companhias de aviação reuniram
+de informações durante anos
+											sobre quem aparece e quem não aparece
+em determinados voos.
+											Sabem, por exemplo,
+que, numa determinada rota,
+											a probabilidade que cada cliente
+apareça a tempo é de 90%.
+											Por razões de simplicidade,
+											partimos do princípio que cada cliente
+viaja individualmente,
+											esquecendo famílias ou grupos.
+											Se houver 180 lugares no avião,
+e venderem 180 bilhetes,
+											o mais provável é que 
+só embarquem 162 passageiros.
+											Mas, claro, também pode acontecer
+haver mais passageiros
+											ou menos.
+											A probabilidade para cada valor
+											é dada por aquilo a que se chama
+uma distribuição binomial
+											cujo pico corresponde
+ao resultado mais provável.
+											Vejamos agora as receitas.
+											A companhia ganha dinheiro
+com cada bilhete vendido
+											e perde dinheiro com cada pessoa
+que não pode embarcar.
+											Digamos que um bilhete custa 250 dólares
+											e não pode ser trocado
+por um voo posterior.
+											O custo da anulação do bilhete
+de um passageiro é de 800 dólares.
+											Estes números são apenas
+a título de exemplo.
+											Na realidade, os valores
+variam consideravelmente.
+											Portanto, se não venderem
+bilhetes a mais,
+											realizam 45 000 dólares.
+											Se venderem 15 bilhetes a mais e,
+pelo menos, não aparecerem 15 pessoas,
+											realizam 48 750 dólares.
+											É o melhor dos cenários.
+											No pior dos cenários,
+aparece toda a gente.
+											15 passageiros sem sorte perdem o voo
+											e a receita será apenas 36 750 dólares,
+											menos ainda, do que se só venderam
+180 bilhetes.
+											Mas o que interessa não é só até que ponto
+um cenário é bom ou mau, financeiramente
+											mas também qual a probabilidade
+de isso acontecer.
+											Quais são as probabilidades
+de cada cenário?
+											Podemos verificá-lo, usando
+a distribuição binomial.
+											Neste exemplo, a probabilidade
+de embarcarem exatamente 195 passageiros
+											é de quase 0%.
+											A probabilidade de embarcarem 
+exatamente 184 passageiros
+											é de 1,11%, e assim sucessivamente.
+											Multiplicam-se estas probabilidades
+pelas receitas, para cada caso,
+											e somam-se todas.
+											Depois subtrai-se essa soma
+às receitas para 195 bilhetes vendidos
+											e obtemos as receitas esperadas
+por vender 195 bilhetes.
+											Repetindo este cálculo
+para diversos números de bilhetes extra,
+											a companhia encontra o cenário
+que provavelmente lhe dá a maior receita.
+											Neste exemplo, são 198 bilhetes,
+											graças aos quais a companhia 
+fará provavelmente 48 774 dólares,
+											quase mais 4000 dólares
+do que se não fizer reservas a mais.
+											Isto só para um voo.
+											Multipliquem isso por um milhão de voos
+por companhia, por ano,
+											e as reservas a mais geram
+rapidamente receitas extra.
+											Claro que os cálculos reais
+são muito mais complicados.
+											As companhias aplicam muitos fatores
+para criar modelos ainda mais rigorosos.
+											Mas deviam fazê-lo?
+											Há quem defenda que
+as reservas a mais não são éticas.
+											Estão a cobrar a duas pessoas
+pelo mesmo recurso.
+											Claro que, se temos 100% de certeza
+que alguém não vai aparecer,
+											não faz mal vender esse lugar.
+											Mas, se essa certeza for só de 95%?
+											Ou de 75%?
+											Há algum número que distinga
+a falta de ética do pragmatismo?
+									",Why do airlines sell too many tickets?,Nina Klietsch,4:44,"business,design,technology,money,TED-Ed,flight,animation,math"
+"
+","
+","
+","
+","
+",Why do airlines sell too many tickets?,Nina Klietsch,4:44,"business,design,technology,money,TED-Ed,flight,animation,math"

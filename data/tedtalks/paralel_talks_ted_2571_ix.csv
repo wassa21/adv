@@ -1,0 +1,1352 @@
+en,es,fr,title,speaker,duration,tags
+"
+","
+","
+",How data brokers sell your identity,Madhumita Murgia,16:20,"data,technology,surveillance,Internet,privacy"
+"
+											I'm a 26-year-old British Asian woman
+											working in media and living 
+in a South West postcode in London.
+											I have previously lived
+at two addresses in Sussex,
+											and two others in North East London.
+											While growing up, my family lived
+in a detached house in Kent
+											and took holidays to India every year.
+											They mostly did their shopping
+online at Ocado,
+											gave money to charities
+and read the Financial Times.
+											Now, I live in a recently converted flat
+with a private landlord,
+											and I have a housemate.
+											I'm interested in movies and startups,
+											and I have taken five holidays
+in the past 12 months,
+											mostly to visit friends abroad.
+											I'm about to buy flights within 14 days.
+											My annual salary is between
+30,000 and 40,000 pounds a year.
+											I don't own a TV or watch
+any scheduled programming,
+											but I do enjoy on-demand services
+such as Netflix or Now TV.
+											Last week, I passed
+through Upper Street in North London
+											on Monday and Wednesday
+evenings at 7 p.m.
+											I cook a little, but I tend to eat out
+or get takeaways often.
+											My favourite cuisines
+are Thai and Mexican food.
+											I don't own any furniture,
+and I don't have any children.
+											On weeknights, I tend
+to spend the evenings
+											with my university friends having dinner.
+											I usually buy my groceries at Sainsbury's
+but only because it's on my way home.
+											I don't care for cars or own one.
+											I don't like any form of housework,
+											and I have a cleaner who lets
+herself in while I'm at work.
+											On Fridays, you'll find me
+at the pub after work.
+											At home, I'm far more likely
+to be browsing restaurant reviews
+											rather than managing my finances
+or looking at property prices online.
+											I like the idea of living abroad someday.
+											I prefer to work as a team than on my own.
+											I'm ambitious, and it's important to me
+that my many thinks I'm doing well.
+											I'm rarely swayed by others' views.
+											This motley set of characteristics, 
+attitudes, thoughts, and desires
+											come very close
+to defining me as a person.
+											It is also a precise
+and accurate description
+											of what a group of companies
+I had never heard of,
+											personal data trackers,
+had learned about me.
+											My journey to uncover
+what data companies knew
+											began in 2014, when I became curious
+about the murky world of data brokers,
+											a multi-billion-pound industry
+											of companies that collect, package,
+and sell detailed profiles of individuals
+											based on their online
+and offline behaviours.
+											I decided to write about it 
+for Wired Magazine.
+											What I found out shocked me,
+											and reinforced my anxieties
+about a profit-led system
+											designed to log behaviours
+											every time we interact
+with the connected world.
+											I already knew about my daily records
+being collected by services
+											such as Google Maps, Search, Facebook,
+or contactless credit card transactions.
+											But you combine that
+with public information
+											such as land registry,
+council tax, or voter records,
+											along with my shopping habits
+											and real-time health
+and location information,
+											and these benign data sets
+begin to reveal a lot,
+											such as whether you're optimistic,
+political, ambitious, or a risk-taker.
+											Even as you're listening to me,
+you may be sedentary,
+											but your smartphone
+can reveal your exact location,
+											and even your posture.
+											Your life is being converted
+into such a data package to be sold on.
+											Ultimately, you are the product.
+											Ostensibly, we're all protected
+by data protection laws.
+											In the UK, the law states
+											that any personal data set 
+has to be stripped of identifiers
+											such as your name
+or your National Insurance number.
+											Personal data is considered anything
+that can be traced directly back to you.
+											without the need
+for additional information.
+											This doesn't mean it can't be sold on.
+											It only means that they
+need your permission.
+											Simple examples of personal data include
+											your full credit card number,
+your bank statement, or a criminal record.
+											However, I discovered that online
+anonymity is a complete myth.
+											Particulars such as your postcode,
+your date of birth, and your gender
+											can be traded freely 
+and without your permission
+											because they're not considered
+personal but pseudonymous.
+											In other words, 
+they can't be traced back to you
+											without the need
+for additional information.
+											So why does it matter if a bunch
+of companies you've never heard of
+											know your age or your 
+postcode, you may think.
+											Well, it matters quite a lot.
+											About a decade ago,
+											Latanya Sweeney, a professor
+of privacy at Harvard University
+											proved that about 87% of US citizens
+could be uniquely identified
+											by just three facts about them:
+											their zip code, their date
+of birth, and their gender.
+											In the UK, where we have
+far fewer citizens
+											serviced by much longer postcodes,
+that probability is far higher.
+											Professor Sweeney proved this
+in a rather cheeky way
+											when William Weld, a former governor
+of Cambridge, Massachusetts, in the US
+											decided to support the commercial release
+of 135,000 state employee health records
+											along with their families,
+including his own.
+											These records did not contain a name
+or a social security number,
+											but did contain hundreds of fields
+of sensitive medical information
+											including drugs prescribed,
+hospitalisations,
+											and procedures performed
+on these employees.
+											For $20, Professor Sweeney
+											purchased the voter records 
+for Cambridge, Massachusetts,
+											containing the names, zip codes, 
+dates of birth, and gender
+											for every voter in the area,
+											and then cross-referenced this
+with their health records.
+											Within minutes, she had pinpointed
+Governor Welds' own health records.
+											Only six people in Cambridge
+shared his date of birth.
+											Three of them were men.
+											And he was the only one
+living in his zip code.
+											Professor Sweeney sent the governor
+his health records in the post.
+											(Laughter)
+											Every day, we hear about new examples
+											of companies digging ever deeper
+into our personal lives.
+											In the November US presidential election,
+											a little-known British company
+known as Cambridge Analytica
+											was tasked with winning the election
+for a certain candidate: Donald Trump,
+											using data analytics.
+											The company employed cookies online
+to track people around the web,
+											logging every website visited,
+every search term typed,
+											and every video watched.
+											They also created a viral Facebook quiz
+to dig into people's personalities,
+											which was taken
+by over six million people.
+											In total, they managed to amass data
+on 220 million voting Americans
+											with an average of about 5,000 pieces
+of data on each person.
+											They then used this data
+to understand people's inner feelings
+											and then targeted adverts
+to them on Facebook.
+											Researchers have called them
+a propaganda machine.
+											It's not just large companies
+digging into your life;
+											it's free apps and small startups as well.
+											I realised on my phone
+											that every time I logged fitness data
+into the app Endomondo,
+											it was sharing my details
+including my location and gender
+											with third-party advertisers.
+											WebMD, a symptom checkers app,
+											was sharing even more
+sensitive information
+											including the symptoms, procedures,
+and drugs viewed by users within its app
+											with its third parties.
+											Fitbit was sharing data with Yahoo.
+											A pregnancy tracking app
+was selling on information
+											about its users' ovulation cycles
+and fertility cycles
+											with people or advertisers like InMobi.
+											As long as my phone is turned on,
+my location can be tracked,
+											not just by the obvious apps
+like Google Maps,
+											but a whole host of unrelated services
+											from Uber to Twitter, Photos, 
+Snapchat, TripAdvisor, and others.
+											You're not even safe in your own home.
+											In 2015, Samsung was found
+to be recording people in the homes
+											in which their TVs had been sold
+using their voice recognition systems.
+											They have now adapted this
+so they only record
+											when the voice recognition is activated.
+
+											But the creepy factor remains.
+											Even services like Google and Facebook,
+											trusted and used
+by billions around the world,
+											have been accused of crossing the line.
+											A few weeks ago, my husband and I
+were driving home from work
+											and discussing
+where we should have dinner.
+											I suggested a restaurant that I knew
+was somewhere on our way back
+											and then opened up Google Maps to plot it.
+											Turns out it was already marked
+on the map with a little bubble.
+											That sinking feeling of being watched
+is not unique to me.
+											There have been several anecdotal reports
+of people being shown adverts
+											based on things and conversations
+they were having in real life,
+											prompting concerns that Facebook
+and Google are eavesdropping on people
+											via their personal devices.
+											To piece together what all
+these companies knew about me,
+											I spoke to a data profiler called Eyeota.
+											Eyeota uses cookies to assign me
+to thousands of different categories,
+											including my job,
+how many children I have,
+											and whether I'm likely to buy
+Star Wars memorabilia.
+											(Laughter)
+											They don't know my name,
+											but they know more about me 
+than my neighbours do.
+											Eyeota also buys information
+from third parties
+											such as the credit rating agency Experian,
+											which amasses a massive database
+of 15 different demographic types
+											and 66 lifestyles,
+all based on people's post codes.
+											Because Eyeota buys
+this information, it knows
+											that I'm more likely to take taxis home
+rather than night buses late at night
+											and that I'm very, very unlikely
+to ever be found in a DIY store.
+											(Laughter)
+											It can then sell this information on
+to the highest bidder.
+											Sometimes, large data sets
+can be useful for the public good,
+											for example for the use
+of health researchers
+											or city and urban planners.
+											But most of this information
+being collected
+											is sustained by advertisers
+and traded commercially.
+											In fact, eMarketer has predicted
+that the online advertising industry,
+											which is based almost completely
+on data targeting and tracking,
+											will hit an all-time high
+of 77 billion dollars this year.
+											If you think you don't care
+about being unmasked,
+											you may want to reconsider.
+											Personalised browser ads may be harmless,
+											but connecting disparate
+aspects of your life
+											to predict your future behaviour
+could lead to unexpected consequences.
+											For instance,
+											decisions on whether your child
+gets to go to a certain university
+											or what price you pay for your home
+or car insurance premiums
+											could be made based on data
+
+											given to third parties
+that you never intended to,
+											such as your own lifestyle habits
+or family members' ailments.
+											In 2014, Ross Anderson,
+											a professor of Privacy and Security
+at Cambridge University
+											found that the NHS had been sharing
+its hospitals' database,
+											which included details of hospitalisations
+for every citizen in Britain
+											with the Institute
+and Faculty of Actuaries,
+											a body that was researching
+how likely people are
+											to develop chronic illnesses 
+at certain ages.
+											Of course, this resulted in an increase
+in health insurance premiums.
+											As the amount of data that is collected
+increases exponentially,
+											it becomes much easier to identify you.
+											For example, your Fitbit measures 
+our heart rate or your gait patterns
+											and these can be used to estimate things
+											like your height, your weight,
+or even your gender.
+											These are details that are very hard
+to mimic or change.
+											The data is no longer about you.
+											It is you.
+											Companies are also starting to predict
+future behaviours - for example,
+											whether you're a trustworthy driver,
+a good employee, or a good credit risk,
+											based on things
+like your social media activity,
+											your health and fitness,
+or your home energy use.
+											The more the companies know about you -
+											where you live,
+how many children you have,
+											what your medical ailments are,
+what you buy -
+											your anonymity becomes irrelevant.
+											What's more, you lose
+your right to free choice,
+											as companies make decisions
+on your behalf without your knowledge.
+											Along my journey of discovery,
+my first reaction was shock.
+											I immediately wrote to my local council
+											and asked them to make
+my voter records private.
+											I made up a fake email address,
+											and I started registering
+with a fake age and gender.
+											I turned off targeted advertising,
+											and I asked Facebook to send me
+all the information that they held on me,
+											including things I had deleted,
+											and spent hours
+poring over it obsessively.
+											But after a few weeks I realised
+this was a pointless exercise.
+											I couldn't be a digital hermit.
+											It wasn't realistic for me to stop using
+											social media, search
+and navigation apps, and my iPhone,
+											all a part of modern life
+that I cherished and needed.
+											Instead, I realised that the knowledge
+itself was empowering.
+											Knowing all the different ways
+											in which my data
+was being shared and collected
+											made me more responsible
+about where I put it.
+											For example, I stopped signing up
+to supposedly free services,
+											for example, a VIP card
+at my local hairdresser
+											or a discount coupon at your supermarket.
+											Whenever I download an app,
+											I make sure to check my settings
+to see what permissions it has.
+											Anything that seems unnecessary
+like access to my location, I turn off.
+											Ultimately, there is hope.
+											As more of us begin to realise
+the extent of our data footprint,
+											we will start to demand custody
+and control of this data.
+											Some critics have even suggested
+											that people be paid for their data
+in order to give them more control.
+											This means it will become
+too expensive for companies,
+											governments, and non-profits
+											to recklessly mine and hold our data,
+and sell it on indiscriminately
+											But until the data economy matures,
+											and power moves back
+from the corporation to the individual,
+											I have lost more than my anonymity.
+											I have given up my right
+to self-determination and free choice.
+											All I have left is my name.
+											Thank you.
+											(Applause)
+									","
+											Soy mujer, británica de origen
+asiático y tengo 26 años.
+											Trabajo en los medios de comunicación
+y vivo en un barrio al sudeste de Londres.
+											Antes vivía en Sussex donde
+tuve dos direcciones distintas
+											y otras dos al noreste de Londres.
+											De pequeña vivía con mi familia
+en una vivienda unifamiliar en Kent
+											y viajábamos a India 
+todos los años por vacaciones.
+											Mis padres hacían la compra
+en Ocado por Internet,
+											donaban dinero a varias organizaciones
+y leían el periódico Financial Times.
+											Ahora vivo de alquiler 
+en un piso reconvertido
+											de un propietario particular,
+y tengo un compañero de piso.
+											Me interesan el cine 
+y las compañías nuevas,
+											y he estado cinco veces de
+vacaciones en el último año,
+											principalmente para visitar
+a amigos en el extranjero.
+											En los próximos 14 días,
+compraré otros vuelos.
+											Mi sueldo anual se encuentra entre 
+las 30 000 y 40 000 libras al año.
+											No tengo TV ni sigo ningún programa,
+											pero uso plataformas como Netflix 
+y NowTV para ver lo que me gusta.
+											La semana pasada, pasé por la calle
+Upper Street en el norte de Londres,
+											el lunes y el miércoles a las 19 hs.
+											Cocino poco y normalmente como fuera 
+o compro comida para llevar.
+											Mi comida favorita es la comida
+tailandesa y la mexicana.
+											Ni soy dueña del mobiliario
+de mi casa ni tengo hijos.
+											Durante la semana,
+suelo pasar las tardes
+											cenando con mis amigos de la universidad.
+											Normalmente hago la compra en Sainsbury's 
+porque esa de camino a casa.
+											No me interesan los autos ni tengo uno.
+											No me gusta ninguna tarea del hogar,
+											así que tengo una limpiadora que
+va a casa mientras estoy trabajando.
+											Los viernes al salir del trabajo
+me encontrarán en un pub.
+											Cuando estoy en casa, es más probable
+que esté leyendo reseñas de restaurantes
+											que gestionando mis cuentas o consultando
+precios de viviendas en Internet.
+											Me gusta la idea de vivir
+en el extranjero algún día.
+											Prefiero trabajar en grupo que sola.
+											Soy ambiciosa, y es importante para mí
+que mi familia sepa que me va todo bien.
+											Me influye poco lo que otros piensan.
+											Este surtido de características, 
+actitudes, pensamientos y deseos
+											prácticamente me definen como persona.
+											Es una descripción precisa y exacta
+											que un grupo de empresas de 
+las que nunca he escuchado,
+											los rastreadores de datos personales, 
+han elaborado sobre mí.
+											Mi plan para destapar lo que
+saben las compañías de datos
+											comenzó en 2014, cuando empecé
+a interesarme por el oscuro mundo
+											de los agentes de datos,
+una industria multimillonaria
+											de compañías que recogen y agrupan datos,
+											y venden un perfil personal
+detallado de sus usuarios
+											basado en su comportamiento
+cuando están conectados y desconectados.
+											Decidí escribir sobre este tema
+para la revista Wired Magazine.
+											Lo que descubrí me escandalizó
+											y reafirmó mis preocupaciones sobre una
+industria que se mueve por los beneficios,
+											diseñada para registrar 
+nuestro comportamiento
+											cada vez que nos conectamos a Internet.
+											Yo sabía que ciertas compañías
+registran datos sobre mí a diario,
+											como Google Maps, Search, Facebook o
+los movimientos con tarjeta sin contacto,
+											pero si se combinan estos
+datos con información pública,
+											como el catastro, impuestos
+municipales y censo electoral,
+											junto con hábitos de compra
+											e información en tiempo real
+sobre la salud y la ubicación,
+											este conjunto de datos benignos
+empieza a revelar mucho más.
+											Por ejemplo, si son optimistas,
+políticos, ambiciosos o arriesgados.
+											Incluso ahora, mientras 
+están sentados escuchándome
+											sus teléfonos pueden 
+revelar su ubicación exacta
+											y puede que su postura.
+											Sus vidas se han convertido en
+un paquete de datos para vender.
+											Básicamente, Uds. son el producto.
+											Supuestamente, las leyes de 
+protección de datos nos amparan.
+											En el Reino Unido, la ley dice
+											que todo conjunto de datos personales
+no puede incluir datos identificadores,
+											tales como el nombre o el número
+de la seguridad social.
+											Se consideran datos personales
+											cualquier dato asociado 
+directamente con uno,
+											sin necesidad de información adicional.
+											Esto no significa que no se puedan vender.
+											Simplemente significa que
+se necesita su consentimiento.
+											Son, por ejemplo, datos personales
+											el número completo 
+de la tarjeta de crédito,
+											un extracto bancario 
+o los antecedentes penales.
+											Sin embargo, descubrí que el anonimato 
+en Internet es todo un mito.
+											Con otros datos específicos como el código
+postal, fecha de nacimiento y género
+											sí que se puede comerciar 
+libremente y sin su permiso,
+											porque no se consideran datos
+personales sino seudónimos.
+											Es decir, no pueden ser
+directamente relacionados con uno
+											sin otra información adicional.
+											Pensarán qué importa si un grupo de
+empresas de las que nunca han escuchado
+											conocen su edad o código postal.
+											Pues importa bastante.
+											Hace alrededor de una década,
+											Latanya Sweeney, una profesora
+de la Universidad de Harvard
+											demostró que un 87 % de los ciudadanos de
+EE.UU. pueden ser identificados únicamente
+											con solo tres datos:
+											su código postal, fecha
+de nacimiento y género.
+											En el Reino Unido, dado 
+que la población es menor
+											y los códigos postales son más largos, 
+la probabilidad es mayor.
+											La profesora Sweeney probó
+su teoría de forma atrevida
+											cuando William Weld, antiguo gobernador
+de Cambridge, en Massachusetts, EE.UU.
+											apoyó la difusión comercial de los
+historiales clínicos de 135 000 funcionarios,
+											junto con los de sus familias,
+incluido el suyo propio.
+											Estos historiales no incluían el nombre
+ni el número de la seguridad social
+											pero contenían mucha información
+médica confidencial de distinta índole,
+											incluidas las prescripciones médicas, 
+hospitalizaciones
+											e intervenciones médicas
+de esos funcionarios.
+											Por solo USD 20, la profesora Sweeney
+											compró el registro de votantes
+de Cambridge, Massachusetts,
+											que incluye el nombre, código postal,
+fecha de nacimiento y sexo
+											de todos los votantes de la ciudad,
+											para efectuar referencias cruzadas
+con los historiales clínicos.
+											En cuestión de minutos, dio con
+el historial clínico del gobernador Weld.
+											Solo había seis personas en Cambridge
+con la misma fecha de nacimiento.
+											Tres de ellos eran hombres,
+											y solo él tenía ese código postal.
+											La profesora Sweeney le envió
+su historial clínico por correo postal.
+											(Risas)
+											Todos los días escuchamos ejemplos nuevos
+											de compañías que se entrometen
+cada vez más en nuestras vidas.
+											En las elecciones presidenciales
+de EE.UU. de noviembre,
+											una empresa británica poco conocida,
+llamada Cambridge Analytica,
+											se encargó de que el ganador fuera
+un candidato concreto, Donald Trump,
+											mediante análisis de datos.
+											La compañía usó cookies para
+rastrear usuarios en Internet,
+											registrando los sitios web visitados,
+los término de búsqueda introducidos
+											y los vídeos reproducidos.
+											Hasta crearon un cuestionario viral
+en Facebook para extraer información
+											sobre la personalidad de las más de
+6 millones de personas que participaron.
+											En total, recogieron información de
+220 millones de votantes americanos,
+											con un promedio de 
+5000 datos por persona.
+											Usaron estos datos para
+entender mejor a la gente
+											y dirigir determinada publicidad 
+en Facebook según la persona.
+											Los investigadores llaman a estas
+compañías máquinas de propaganda política.
+											No son solo las grandes compañías
+las que se entrometen en sus vidas,
+											sino también las aplicaciones
+gratuitas y start-ups.
+											Me di cuenta de que
+cada vez que en el teléfono
+											añadía datos de entrenamiento
+en la aplicación Endomondo,
+											se estaban compartiendo mis datos,
+incluida mi ubicación y sexo
+											con otras empresas de publicidad.
+											WebMD, una aplicación para
+consultar enfermedades,
+											compartía aun más 
+información confidencial,
+											como los síntomas, 
+tratamientos y medicamentos,
+											que el usuario haya consultado 
+en la aplicación,
+											con terceras partes.
+											Fitbit compartía datos con Yahoo.
+											Una aplicación para el seguimiento
+del embarazo vendía información
+											sobre los ciclos de ovulación
+y fertilidad de los usuarios
+											a otras compañías 
+y publicistas como inMobi.
+											Tan pronto como enciendo mi teléfono,
+se puede registrar mi ubicación,
+											y no solo lo hacen las aplicaciones
+más obvias como Google Maps,
+											sino también una multitud 
+de servicios no relacionados,
+											desde Uber a Twitter, Fotos,
+Snapchat, TripAdvisor y muchos otros.
+											No están seguros ni en su propia casa.
+											En 2015, se descubrió que Samsung
+grababa a gente en sus casas
+											a través de los televisores con sistemas
+de reconocimiento de voz vendidos.
+											Ya han realizado los ajustes
+necesarios para que solo se grabe
+											cuando el sistema de 
+reconocimiento de voz esté activo,
+											pero aun así resulta turbador.
+											Incluso compañías como Google y Facebook,
+											usadas con confianza por millones 
+de personas en todo el mundo,
+											han recibido acusaciones 
+por sobrepasar los límites.
+											Hace un par de semanas, mi marido
+y yo volvíamos a casa del trabajo
+											debatiendo qué íbamos a cenar, 
+mientras íbamos en auto.
+											Yo sugerí un restaurante que 
+sabía que quedaba de camino
+											y al abrir Google Maps
+lo encontré directamente.
+											Resulta que ya estaba marcado
+con una burbuja en el mapa.
+											No soy la única que siente la 
+intranquilidad de ser observada.
+											Se han reportado casos de personas
+que reciben publicidad personalizada
+											basada en eventos y conversaciones
+que mantienen en persona,
+											y han denunciado que Facebook y
+Google están observando a la gente
+											a través de sus dispositivos.
+											Para juntar todos los datos que
+estas compañías tenían sobre mí,
+											hablé con Eyeota, un administrador 
+de datos de perfil.
+											Eyeota usa cookies para enmarcarme
+en miles de categorías distintas,
+											incluida mi profesión,
+cantidad de hijos que tengo,
+											y si es probable que compre
+objetos de colección de Star Wars.
+											(Risas)
+											No saben cómo me llamo,
+											pero saben más sobre mí
+de lo que saben mis vecinos.
+											Además, Eyeota compra información 
+a terceras partes,
+											como Experian, una agencia
+de calificación crediticia
+											que reúne una base de datos inmensa
+de 15 clases demográficas distintas
+											y 66 estilos de vida, con base en
+los códigos postales de los usuarios.
+											Al comprar esta información,
+Eyeota sabe
+											que es más probable que tome 
+un taxi que un autobús por la noche
+											y que difícilmente me verán
+en una tienda de bricolaje.
+											(Risas)
+											Esta información se puede
+vender al mejor postor.
+											A veces, estos perfiles de datos
+pueden ser de utilidad pública,
+											por ejemplo, en investigaciones médicas
+											o planificaciones urbanísticas,
+											pero la mayor parte 
+de la información que se recoge
+											la sustentan los publicistas
+para su comercialización.
+											De hecho, eMarketer prevé que
+la industria de la publicidad en línea,
+											que se basa prácticamente en
+el rastreo y personalización de datos,
+											alcanzará su récord de ganancias
+este año con USD 77 000 000 000.
+											Si no les importa que
+se conozca su identidad
+											quizás quieran reconsiderarlo.
+											Los anuncios personalizados en su
+navegador no suponen ningún peligro,
+											pero si se conectan
+distintos aspectos de su vida
+											para predecir su futuro puede
+tener consecuencias inesperadas.
+											Por ejemplo,
+											la desión que tomen sobre
+a qué universidad irá su hijo
+											o el precio del seguro
+de su casa o auto,
+											puede estar basada en los datos
+											que terceras partes tienen
+sobre Uds. sin que lo sepan,
+											como sus hábitos de estilo de vida
+o la salud de los miembros de su familia.
+											En 2014, Ross Anderson,
+											profesor de Privacidad y Seguridad
+en la Universidad de Cambridge,
+											descubrió que el NHS había estado
+compartiendo sus bases de datos,
+											que incluye datos de hospitalización
+de todos los ciudadanos británicos,
+											con el Instituto y Facultad de Actuarios,
+											un organismo que investigaba qué
+probabilidades hay de que la gente
+											desarrolle enfermedades crónicas
+a determinadas edades.
+											Obviamente, esto supuso 
+un aumento de los seguros médicos.
+											Dado que la cantidad de datos que 
+se recogen aumenta exponencialmente,
+											resulta cada vez más fácil identificarles.
+											Por ejemplo, Fitbit analiza 
+su pulso y forma de andar,
+											lo que se puede usar para estimar datos
+											como altura, peso o incluso sexo.
+											Estos datos no se pueden disimular 
+ni alterar fácilmente.
+											Ya no se trata de datos sobre uno.
+											Son Uds. mismos.
+											Las compañías están empezando 
+a anticipar comportamientos futuros,
+											como si son conductores prudentes, buenos
+empleados o candidatos para un préstamo,
+											con base en su actividad
+en las redes sociales,
+											su salud y estado físico,
+o el uso energético de su casa.
+											Cuanto más saben las compañías sobre Uds.
+											- dónde viven, cuántos hijos tienen,
+											qué enfermedades tienen,
+qué productos compran -
+											su anonimato se vuelve irrelevante.
+											Y lo que es peor, pierden 
+el derecho a elegir libremente,
+											mientras que las compañías 
+deciden por uno sin que lo sepa.
+											Durante mi descubrimiento,
+mi primera reacción fue escandalizarme.
+											Inmediatamente le escribí 
+al gobierno local
+											pidiéndoles que no revelaran
+mis datos del censo electoral.
+											Me creé un correo electrónico falso,
+											y me registraba con
+una edad y sexo falsos.
+											Deshabilité la publicidad personalizada
+											y le pedí a Facebook que me eviase
+toda la información que tenía sobre mí,
+											incluido lo que había eliminado.
+											Me pasé horas buscando
+obsesionada con esto,
+											pero tras unas semanas me di
+cuenta de que no tenía sentido.
+											No podía convertirme
+en un ermitaño digital.
+											Siendo realista, no podía dejar de usar
+											redes sociales, aplicaciones de
+búsqueda y navegación, ni el iPhone,
+											todas esas cosas de la vida moderna
+que tanto preciaba y necesitaba.
+											En su lugar, me di cuenta de que
+saber todo esto me hacía poderosa.
+											Conocer las distintas formas
+											en las que se registran
+y comparten mis datos
+											hace que sea más responsable
+a la hora de usarlos.
+											Por ejemplo, dejé de registrarme
+en servicios supuestamente gratuitos,
+											como la tarjeta VIP de mi peluquería
+											o un cupón de descuento 
+en el supermercado.
+											Cuando me descargo una aplicación
+											me aseguro de los ajustes
+de privacidad que tiene.
+											Quito todo lo que no sea necesario,
+como acceder a mi ubicación.
+											Por fin, hay esperanza.
+											Cuantos más seamos conscientes 
+de nuestra huella de datos,
+											empezaremos a demandar 
+la custodia y control de estos datos.
+											Algunos críticos han incluso sugerido
+											que se pague a las personas por 
+sus datos para otorgarles más control.
+											Esto haría que fuera muy caro
+para las compañías,
+											gobiernos e organizaciones
+sin ánimo de lucro,
+											indagar, custodiar y vender nuestros datos
+negligente e indiscriminadamente.
+											Sin embargo, hasta que 
+la economía de datos madure
+											y los usuarios recuperen el
+poder otorgado a las compañías,
+											he perdido algo más, no solo mi anonimato.
+											He perdido el derecho 
+de libre determinación y elección.
+											Lo único que me queda es mi nombre.
+											Gracias.
+											(Aplausos)
+									","
+											Je suis une femme britannique
+d'origine asiatique de 26 ans,
+											je travaille dans le secteur des médias
+et je vis dans le sud-ouest de Londres.
+											Auparavant, j'ai vécu à deux adresses 
+dans le Sussex,
+											et deux autres au nord-est de Londres.
+											J'ai grandi dans le Kent,
+ma famille vivait dans un pavillon
+											et nous partions en vacances
+en Inde tous les ans.
+											On faisait nos courses en ligne sur Ocado,
+											on donnait aux associations
+et on lisait le Financial Times.
+											Mon appartement actuel, réhabilité 
+récemment, appartient à un bailleur privé
+											et j'ai un colocataire.
+											Je m’intéresse au cinéma et aux startups
+											et je suis partie cinq fois en vacances
+ces 12 derniers mois,
+											surtout pour aller voir mes amis 
+à l'étranger.
+											Je vais réserver des vols d'ici 15 jours.
+
+											Je gagne entre 30 000 et 40 000 livres 
+par an.
+											Je n'ai pas la télévision
+et ne regarde pas d'émissions programmées,
+											mais j'aime bien le contenu à la demande
+sur Netflix ou Now TV.
+											La semaine dernière, je suis passée
+dans Upper Street au nord de Londres
+											les lundi et mercredi soirs
+à 19 heures.
+											Je cuisine un peu, mais souvent,
+je sors ou je prends des repas à emporter.
+											Je préfère la cuisine thaïe
+et la cuisine mexicaine.
+											Je n'ai pas de meubles
+et je n'ai pas d'enfants.
+											D'habitude, les soirs de la semaine,
+											je dîne avec mes amis de la fac.
+											Je fais mes courses chez Sainsbury's
+juste parce que c'est sur mon chemin.
+											Je ne m'intéresse pas aux voitures
+et je n'en ai pas.
+											Je n'aime pas les tâches domestiques,
+											ma femme de ménage vient
+lorsque je suis au travail.
+											Le vendredi, je sors en général au pub
+après le travail.
+											Quand je suis à la maison, j'ai tendance
+à lire les avis sur les restaurants
+											plutôt que de gérer mes finances
+ou de regarder les prix de l'immobilier.
+											J'aimerais vivre à l'étranger un jour.
+											Je préfère le travail en équipe.
+											Je suis ambitieuse et c'est important
+que ma famille sache que j'ai réussi.
+											Je ne suis pas très influençable.
+											Cet ensemble hétéroclite de traits,
+de comportements, de pensées, de souhaits,
+											donne une assez bonne définition
+de ma personne.
+											C'est aussi une description très précise
+											qu'un groupe de sociétés
+dont je n'avais jamais entendu parler,
+											les trackeurs de données personnelles,
+a de moi.
+											Mon périple pour révéler les informations
+qu'elles détiennent
+											a débuté en 2014, quand je me suis penchée
+sur leur monde obscur :
+											un marché de plusieurs milliards de livres
+											géré par des sociétés qui collectent, 
+traitent, vendent des profils d'individus
+											basés sur leurs activités
+en ligne et hors ligne.
+											J'ai rédigé un article à ce sujet
+pour Wired Magazine.
+											Ce que j'ai découvert m'a choquée
+											et a confirmé mes doutes sur
+un dispositif lié à une logique de profit,
+											créé pour enregistrer nos comportements
+											à chaque fois que nous interagissons
+avec le monde connecté.
+											Je savais que mes données quotidiennes
+étaient collectées par les services
+											de GoogleMaps, par Search, par Facebook,
+par mes cartes de paiement sans contact.
+											Si on les associe avec 
+des informations publiques
+											comme le cadastre, la taxe d'habitation,
+ou les listes électorales.
+											Si on ajoute les habitudes de shopping,
+											les données sanitaires et de localisation
+en temps réel,
+											alors tous ces silos de données
+commencent à dévoiler
+											si vous êtes optimiste, engagé, ambitieux
+ou bien preneur de risques.
+											Même là, alors que vous êtes assis ici
+en train de m'écouter,
+											votre smartphone peut révéler
+votre localisation exacte
+											et même votre posture corporelle.
+											Votre vie devient un paquet de données
+prêt à être commercialisé.
+											Vous devenez un produit.
+											Bien sûr, nous sommes couverts par
+des lois de protection de la vie privée.
+											Au Royaume-Uni, la loi dit
+											que les données personnelles doivent
+être anonymisées en retirant
+											le nom ou le numéro de sécurité sociale.
+											Les données personnelles sont celles 
+qui permettent de vous identifier
+											sans d'autres d'informations.
+											Cela n'empêche pas leur commercialisation
+											mais il faut votre permission
+pour le faire.
+											Constituent des données personnelles
+											les numéros de carte bleue, les relevés
+bancaires, les casiers judiciaires.
+											J'ai découvert que l'anonymat en ligne
+n'existe pas.
+											Votre code postal, votre date de naissance
+et votre sexe
+											peuvent être commercialisés librement,
+sans votre permission.
+											Ils sont considérés comme des pseudonymes,
+pas des données personnelles.
+											En d'autres mots, ils ne peuvent servir
+à vous identifier
+											si on ne les recoupe pas avec
+d'autres informations.
+											« Qu'est-ce que ça peut faire
+si des sociétés inconnues connaissent
+											votre âge ou votre code postal ? »
+me direz-vous.
+											C'est très important.
+											Il y a dix ans,
+											Latanya Sweeney, professeur de droit
+de protection de la vie privée à Harvard
+											a prouvé que 87% des citoyens américains
+pouvaient être identifiés
+											grâce à trois données :
+											leur code postal, leur date de naissance
+et leur sexe.
+											Au Royaume-Uni, où la population
+est plus petite
+											et où les codes postaux sont plus longs,
+ce taux est encore plus élevé.
+											Pr Sweeney a démontré ses recherches
+avec un brin d'humour
+											lorsque l'ex-gouverneur du Massachusetts, 
+William Weld a soutenu l'exploitation
+											les données de santé
+des 135 000 employés de l'administration
+											et de leur famille, la sienne incluse.
+											Ces données ne contenaient ni noms
+ni numéros de sécurité sociale,
+											mais des milliers de lignes 
+de données médicales sensibles
+											telles que médicaments prescrits,
+hospitalisations
+											et opérations subies par ces salariés.
+											Pour 20 dollars, le professeur
+											s'est procuré la liste électorale 
+de Cambridge, Massachusett,
+											avec le nom, code postal, 
+date de naissance et sexe
+											de chaque électeur du coin
+											et a recoupé les informations
+avec les données médicales.
+											En quelques minutes, elle avait identifié
+les données du Gouverneur Weld.
+											Seules six personnes de Cambridge 
+avaient la même date de naissance.
+											Trois étaient des hommes.
+											Et il était le seul avec ce code postal.
+											Elle lui a envoyé son dossier médical
+par la poste.
+											(Rires)
+											Tous les jours, nous faisons face à
+des sociétés qui sondent nos vies privées.
+											Lors de la dernière
+présidentielle américaine,
+											une société britannique inconnue,
+Cambridge Analytica,
+											a été engagée pour faire gagner
+un certain candidat : Donald Trump,
+											en se servant de l'analyse des données.
+											La société a utilisé des cookies
+pour pister les gens sur internet,
+											enregistrant chaque site visité,
+chaque requête faite,
+											chaque vidéo visionnée.
+											Elle a créé un quiz Facebook devenu viral
+pour sonder la personnalité des gens,
+											quiz auquel ont répondu 6 millions
+de personnes.
+											Elle a récolté des informations
+sur 220 millions d'électeurs américains
+											et en moyenne, 5 000 données par personne.
+											Elle a pris ces données pour décortiquer
+les pensées les plus intimes des gens
+											et les a ciblés avec
+des publicités sur Facebook.
+											C'est ce que les chercheurs nomment
+un organe de propagande.
+											Le pistage web n'est pas
+l'apanage des grands groupes,
+											les applis gratuites et les startups
+le font aussi.
+											J'ai réalisé que
+											lorsque je saisis mes activités sportives
+dans l'application Endomondo,
+											elle partage mes données, 
+dont ma localisation et mon sexe
+											avec des annonceurs tiers.
+											WebMD, une appli de diagnostic médical,
+											a divulgué des données confidentielles
+											comme les symptômes, les procédures, 
+les médicaments vus par ses utilisateurs
+											auprès de sociétés tierces.
+											Fitbit partageait des données avec Yahoo.
+											Une appli de suivi de grossesse
+a commercialisé les données
+											sur les cycles d'ovulation et de fertilité
+de ses utilisatrices
+											auprès d'annonceurs comme inMobi.
+											Dès que mon portable est allumé,
+je peux être géolocalisée,
+											non seulement par les applis connues
+comme GoogleMaps
+											mais aussi par des services non associés
+											comme Uber, Twitter, Photos, Snapchat, 
+Tripadvisor, et d'autres.
+											On n'est même pas à l'abri chez soi.
+											En 2015, on a découvert que Samsung 
+enregistrait les gens chez eux
+											s'ils étaient équipés d'une télévision
+à reconnaissance vocale.
+											Depuis, Samsung a changé ce dispositif
+qui ne marche que
+											si la reconnaissance vocale est activée.
+											Néanmoins, le côté malsain subsiste.
+											Même les Google et les Facebook,
+											qui ont la confiance
+de milliards d'utilisateurs
+											ont été accusés d'aller trop loin.
+											Il y a quelques semaines, mon mari et moi
+rentrions en voiture
+											et cherchions
+un restaurant où aller dîner.
+											J'en ai suggéré un
+que je savais être sur notre chemin
+											et j'ai ouvert GoogleMaps pour le trouver.
+											Le restaurant était déjà sélectionné
+sur la carte.
+											Je ne suis pas la seule à avoir
+l'impression d'être espionnée.
+											Des tas d'anecdotes circulent sur
+les gens qui voient des publicités
+											basées sur les choses et les conversations
+qu'ils ont dans leur vie,
+											qui font qu'on se demande si Facebook 
+et Google espionnent les internautes
+											au travers de leurs équipements
+personnels.
+											Pour reconstituer ce que ces sociétés
+savaient à mon sujet,
+											j'ai contacté Eyeota,
+société d'analyse de données.
+											Elle utilise des cookies pour me classer
+selon des milliers de variables
+											incluant le travail, le nombre d'enfants
+											et où je suis susceptible d'acheter
+des souvenirs Star Wars.
+											(Rires)
+											Elle ne connaît pas mon nom
+											mais en sait plus sur moi 
+que mes voisins.
+											Eyeota achète aussi des informations
+auprès de sociétés tierces
+											comme l'agence de notation Experian,
+											qui a une énorme base de données 
+composée de 15 groupes démographiques
+											et 66 modes de vie, le tout basé
+sur les codes postaux.
+											Vu que Eyeota a acheté ces informations,
+											elle sait que je préfère rentrer le soir
+en taxi plutôt qu'en bus,
+											et qu'on ne risque pas de me croiser 
+dans un magasin de bricolage.
+											(Rires)
+											Elle peut commercialiser ces résultats
+au plus offrant.
+											Quelquefois des groupements de données
+peuvent servir à l’intérêt public,
+											utilisés par des chercheurs en médecine
+											ou des urbanistes.
+											Mais la plus grande partie
+des données collectées
+											l'est par des annonceurs,
+pour être ensuite commercialisée.
+											Le cabinet eMarketer a estimé 
+que le marché de la publicité en ligne
+											qui est presque exclusivement basé
+sur le ciblage et le pistage,
+											atteindra cette année
+une valeur de 77 milliards de dollars.
+											Si ça vous est égal d'être identifiés,
+											réveillez-vous !
+											Les publicités ciblées sur votre écran
+sont peut-être anodines,
+											mais le fait de connecter
+divers aspects de votre vie
+											afin de prédire vos comportements futurs
+peut avoir des conséquences imprévues.
+											Par exemple,
+											les décisions quant à la future université
+de votre enfant,
+											le prix de votre maison
+ou de vos cotisations d'assurance auto,
+											peuvent être prises d'après des données
+											que vous avez partagées auprès de tiers
+à votre insu :
+											vos habitudes de vie ou les maladies
+des membres de votre famille.
+											En 2014, Ross Anderson,
+											professeur expert en sécurité
+à l'Université de Cambridge,
+											a réalisé que notre Sécu avait transmis
+les bases de données de ses hôpitaux
+											avec les dossiers d'hospitalisation
+de tous les citoyens du Royaume-Uni
+											à l'Institut et la Faculté des Actuaires,
+											dans le cadre de la recherche
+sur les probabilités
+											d'apparition de maladies chroniques
+après un certain âge.
+											Cette étude a entraîné une augmentation
+des cotisations de mutuelle.
+											Plus les données collectées
+sont nombreuses,
+											plus il est simple de vous identifier.
+											Votre Fitbit mesure votre rythme cardiaque
+et votre allure
+											et avec ces données, on peut deviner
+											votre taille, votre poids ou votre sexe.
+											Ce sont des détails très difficiles
+à imiter ou à modifier.
+											Ces données ne font pas que vous décrire.
+											Elles vous identifient.
+											Les sociétés commencent aussi à prédire
+vos comportements futurs - exemple :
+											si vous êtes un conducteur fiable,
+un employé modèle, un bon emprunteur,
+											selon vos activités
+sur les réseaux sociaux,
+											votre santé et niveau sportif, 
+vos dépenses énergétiques.
+											Plus les sociétés en savent sur vous -
+											où vous habitez, 
+votre nombre d'enfants,
+											vos maladies, 
+vos habitudes de consommation -
+											moins votre anonymat est protégé.
+											Et puis vous perdez votre droit
+au libre-arbitre,
+											car les sociétés prennent des décisions
+pour vous à votre insu.
+											Lors de mes recherches, 
+ma première réaction a été le choc.
+											J'ai écrit à la mairie tout de suite
+
+											pour protéger mes données
+sur la liste électorale.
+											J'ai créé une fausse adresse email,
+											j'ai utilisé un nom fictif et changé
+mon sexe sur internet.
+											J'ai bloqué le ciblage publicitaire
+											et j'ai demandé à Facebook de m'envoyer 
+toutes les données qu'ils avaient sur moi,
+											même celles que j'avais effacées
+											et j'ai passé des heures à les examiner.
+											Je me suis rendu compte au bout 
+de quelques semaines que c'était inutile.
+											Je ne suis pas un ermite digital.
+											Ce n'était pas réaliste de penser
+que je pouvais me passer
+											des réseaux sociaux, des applications
+et de mon iPhone,
+											qui font tous partie de cette vie moderne
+que j'aime et qui m'est essentielle.
+											J'ai réalisé que cette prise de conscience
+était stimulante.
+											En comprenant comment
+
+											mes données étaient
+partagées et collectées,
+											je suis devenue plus responsable.
+											Par exemple, j'ai arrêté de m'inscrire 
+à des services soi-disant gratuits.
+											Comme la carte fidélité chez le coiffeur
+											ou les bons de réduction au supermarché.
+											Si je télécharge une application,
+											j'ajuste les permissions 
+en vérifiant les paramètres.
+											Je désactive ce qui est inutile
+comme l'accès à la géolocalisation.
+											En fin de compte, il y a de l'espoir.
+											Étant de plus en plus nombreux à réaliser
+l'étendue de notre empreinte digitale,
+											nous allons revendiquer nos droits
+sur l'utilisation de nos données.
+											Certains préconisent même de payer
+											les personnes pour leurs données
+afin qu'elles se les réapproprient.
+											Cela coûtera alors trop cher aux sociétés,
+											aux gouvernements et aux associations
+											d'analyser, de stocker, de commercialiser
+nos données aveuglement.
+											D'ici que le marché des données
+gagne en maturité
+											et que l'individu se réapproprie
+ses données,
+											j'aurai perdu plus que mon anonymat.
+											J'aurai renoncé à mon droit de regard
+et à mon libre-arbitre.
+											Tout ce qui me reste est mon nom.
+											Merci.
+											(Applaudissements)
+									",How data brokers sell your identity,Madhumita Murgia,16:20,"data,technology,surveillance,Internet,privacy"
+"
+","
+","
+",How data brokers sell your identity,Madhumita Murgia,16:20,"data,technology,surveillance,Internet,privacy"

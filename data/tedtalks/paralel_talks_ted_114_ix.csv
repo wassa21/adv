@@ -1,0 +1,561 @@
+en,es,fr,pt,title,speaker,duration,tags
+"
+","
+","
+","
+",Can you solve the three gods riddle?,Alex Gendler,4:40,"TED-Ed,animation,math"
+"
+											Created by logician Raymond Smullyan
+											and popularized by his colleague
+George Boolos,
+											this riddle has been called the hardest
+logic puzzle ever.
+											You and your team have crash-landed
+on an ancient planet.
+											The only way off is to appease
+its three alien overlords,
+											Tee, Eff, and Arr,
+											by giving them the correct artifacts.
+											Unfortunately, you don't
+know who is who.
+											From an inscription, you learn that you
+may ask three yes or no questions,
+											each addressed to any one lord.
+											Tee's answers are always true,
+											Eff's are always false,
+											and Arr's answer is random each time.
+											But there's a problem.
+											You've deciphered the language enough
+to ask any question,
+											but you don't know which of the two
+words 'ozo' and 'ulu' means yes
+											and which means no.
+											How can you still figure out 
+which alien is which?
+											Pause here if you want 
+to figure it out for yourself!
+											Answer in: 3
+											2
+											1
+											At first, this puzzle seems not just hard,
+but downright impossible.
+											What good is asking a question
+											if you can neither understand the answer
+nor know if it's true?
+											But it can be done.
+											The key is to carefully formulate
+our questions
+											so that any answer 
+yields useful information.
+											First of all, we can get around
+to not knowing what 'ozo' and 'ulu' mean
+											by including the words themselves
+in the questions,
+											and secondly, if we load each question
+with a hypothetical condition,
+											whether an alien is lying or not
+won't actually matter.
+											To see how that could work,
+											imagine our question
+is whether two plus two is four.
+											Instead of posing it directly,
+											we say, ""If I asked you whether
+two plus two is four,
+											would you answer 'ozo'?""
+											If 'ozo' means yes 
+and the overlord is Tee,
+											it truthfully replies, ""ozo.""
+											But what if we ask Eff?
+											Well, it would answer ""ulu,""
+or no to the embedded question,
+											so it lies and replies 'ozo' instead.
+											And if 'ozo' actually means no,
+											then the answer to 
+our embedded question is 'ulu,'
+											and both Tee and Eff still reply 'ozo,'
+											each for their own reasons.
+											If you're confused about why this works,
+											the reason involves logical structure.
+											A double positive and a double negative
+both result in a positive.
+											Now, we can be sure that asking
+either Tee or Eff a question put this way
+											will yield 'ozo'
+if the hypothetical question is true
+											and 'ulu' if it's false
+											regardless of what 
+each word actually means.
+											Unfortunately, 
+this doesn't help us with Arr.
+											But don't worry, we can use our first
+question to identify one alien lord
+											that definitely isn't Arr.
+											Then we can use the second to find out
+whether its Tee or Eff.
+											And once we know that,
+											we can ask it to identify 
+one of the others.
+											So let's begin.
+											Ask the alien in the middle,
+											""If I asked you whether the overlord on
+my left is Arr, would you answer 'ozo'?""
+											If the reply is 'ozo,' 
+there are two possibilities.
+											You could already be talking to Arr,
+in which case the answer is meaningless.
+											But otherwise, you're talking to either
+Tee or Eff,
+											and as we know,
+											getting 'ozo' from either one means 
+your hypothetical question was correct,
+											and the left overlord is indeed Arr.
+											Either way, you can be sure the alien
+on the right is not Arr.
+											Similarly, if the answer is 'ulu,'
+											then you know the alien 
+on the left can't be Arr.
+											Now go to the overlord you've determined
+isn't Arr and ask,
+											""If I asked 'are you Eff?' 
+would you answer 'ozo'?""
+											Since you don't have to worry about
+the random possibility,
+											either answer will 
+establish its identity.
+											Now that you know whether its
+answers are true or false,
+											ask the same alien whether the center
+overlord is Arr.
+											The process of elimination will identify
+the remaining one.
+											The satisfied overlords help you
+repair your ship
+											and you prepare for takeoff.
+											Allowed one final question, you ask
+Tee if it's a long way to Earth,
+											and he answers ""ozo.""
+											Too bad you still don't know 
+what that means.
+									","
+											Creado por el lógico Raymond Smullyan
+											y popularizado por su
+colega George Boolos,
+											este acertijo ha sido denominado
+el más difícil de la lógica.
+											Junto con tu equipo han aterrizado
+accidentalmente en un planeta antiguo.
+											La única salida es apaciguar
+a sus tres soberanos alienígenas,
+											Tee, Eff y Arr,
+											dándoles los artefactos correctos.
+											Desafortunadamente,
+no sabes quién es quién.
+											De una inscripción, aprendes que
+puedes hacer tres preguntas por sí o no,
+											cada una dirigida a cualquier señor.
+											Las respuestas de Tee
+son siempre verdaderas,
+											las de Eff siempre son falsas,
+											y la respuesta de Arr
+es aleatoria cada vez.
+											Pero hay un problema.
+											Has descifrado el lenguaje suficiente
+para hacer cualquier pregunta,
+											pero no sabes cuál de las dos palabras, 
+""ozo"" y ""ulu"", significa sí
+											y cuál significa no.
+											¿Cómo puedes descifrar 
+cuál alienígena es cuál?
+											¡Haz una pausa aquí si deseas
+averiguarlo por ti mismo!
+											Respuesta en: 3,
+											2,
+											1.
+											Al principio, este rompecabezas
+parece no solo difícil,
+											sino absolutamente imposible.
+											¿De qué sirve hacer una pregunta
+											si no puedes entender la respuesta
+ni saber si es verdad?
+											Pero puede hacerse.
+											La clave es formular cuidadosamente
+nuestras preguntas
+											para que cualquier respuesta
+produzca información útil.
+											En primer lugar, podemos llegar
+a no saber qué significa 'ozo' y 'ulu'
+											incluyendo las mismas
+palabras en las preguntas
+											y en segundo lugar, si cargamos cada
+pregunta con una condición hipotética,
+											si un alienígena está mintiendo o no 
+realmente no importará.
+											Para ver cómo podría funcionar,
+											imagina que nuestra pregunta
+es si dos más dos son cuatro.
+											En lugar de plantearla directamente,
+											decimos: ""Si te preguntara
+si dos más dos son cuatro,
+											¿responderías 'ozo'?""
+											Si ""ozo"" significa sí y el jefe es Tee,
+											sinceramente responde ""ozo"".
+											Pero, ¿y si le preguntamos a Eff?
+											Bueno, respondería ""ulu"", o no,
+a la pregunta encubierta,
+											por lo que miente y responde ""ozo""
+en su lugar.
+											Y si ""ozo"" de hecho significa no,
+											entonces la respuesta a nuestra
+pregunta encubierta es ""ulu""
+											y tanto Tee como Eff
+todavía responden ""ozo"",
+											cada uno por sus propias razones.
+											Si te confunde por qué esto funciona,
+											tiene que ver con la estructura lógica.
+											Un doble positivo y un doble negativo, 
+ambos resultan en un positivo.
+											Ahora bien, podemos estar seguros de que
+preguntándole a Tee o Eff de esta manera
+											resultará ""ozo"" si la pregunta
+hipotética es verdadera
+											y ""ulu"" si es falsa
+											independientemente de lo que
+cada palabra realmente signifique.
+											Por desgracia, esto no nos ayuda con Arr.
+											Pero no te preocupes, podemos
+usar la primer pregunta
+											para identificar a un alienígena
+											que definitivamente no es Arr.
+											Después podemos usar la segunda
+para averiguar si es Tee o Eff.
+											Y una vez que lo sabemos,
+											podemos pedirle que identifique
+a uno de los otros.
+											Vamos a empezar.
+											Pregunta al alienígena del medio:
+											""Si te preguntara si el soberano a
+mi izquierda es Arr, ¿responderías 'ozo'?""
+											Si la respuesta es ""ozo"",
+hay dos posibilidades.
+											Ya podrías estar hablando con Arr, en cuyo
+caso la respuesta carece de sentido.
+											Pero de lo contrario,
+estás hablando con Tee o Eff
+											y, como sabemos,
+											recibir ""ozo"" de cualquiera de los dos
+											significa que tu pregunta hipotética
+era correcta,
+											y el soberano de la izquierda
+es en realidad Arr.
+											Como sea, puedes estar seguro de que 
+el alienígena a la derecha no es Arr.
+											Del mismo modo, si la respuesta es ""ulu"",
+											entonces sabes que el alienígena
+de la izquierda no puede ser Arr.
+											Ahora ve al soberano que has determinado 
+que no es Arr y pregúntale:
+											""Si te pregunto '¿Eres Eff?',
+responderías 'ozo'?""
+											Como no tienes que preocuparte
+por la posibilidad aleatoria,
+											cualquiera de las respuestas
+establecerá su identidad.
+											Ahora que sabes si sus respuestas
+son verdaderas o falsas,
+											pregunta al mismo alienígena
+si el soberano del centro es Arr.
+											El proceso de eliminación
+identificará al resto.
+											Los satisfechos soberanos
+te ayudan a reparar tu nave
+											y te preparas para el despegue.
+											Una pregunta final,
+											le preguntas a Tee si es un
+largo camino hacia la Tierra,
+											y él responde ""ozo"".
+											Lástima que aún no sepas
+qué significa eso.
+									","
+											Créé par le logicien Raymond Smullyan
+											et vulgarisé par son collègue
+George Boolos,
+											ce casse-tête est probablement l'énigme
+la plus difficile de tous les temps.
+											Toi et ton équipe vous êtes écrasés
+sur une vieille planète.
+											La seule sortie possible est d'apaiser
+les trois seigneurs extraterrestres,
+											Tee, Eff et Arr,
+											en leur donnant les bons objets.
+											Malheureusement, tu ignores qui est qui.
+											Grâce à une inscription, tu apprends
+que tu peux poser une question,
+											avec oui ou non comme réponse
+à chacun des seigneurs.
+											Tee répond toujours juste,
+											Eff répond toujours faux
+											et Arr répond toujours 
+de manière aléatoire.
+											Mais il y a un problème.
+											Tu as assez déchiffré la langue 
+pour poser toutes tes questions
+											mais tu ne sais pas lequel des mots
+« ozo » ou « ulu » veut dire oui
+											ou non.
+											Comment distinguer qui est qui ?
+											[Fais une pause si tu veux 
+chercher la réponse par toi-même]
+											[La réponse dans : 3]
+											[ 2 ]
+											[ 1 ]
+											Au premier abord, ce casse-tête
+semble dur, voire impossible.
+											A quoi bon de poser une question
+											si tu ne comprends pas la réponse
+ou si tu ne sais pas si elle est vraie ?
+											Mais cela est possible.
+											La clé du succès est de bien
+formuler nos questions
+											afin que toute réponse
+fournisse des informations utiles.
+											D'abord, on peut contourner le fait 
+qu'on ne connaît pas « ozo » et « ulu »
+											en incluant ces mots dans les questions
+											et si nous incluons à toute question 
+une condition hypothétique,
+											le fait qu'un extraterrestre
+mente ou pas n'a aucune importance.
+											Afin de comprendre,
+											imagine que notre question porte sur
+l'égalité de deux plus deux font quatre.
+											Au lieu de poser la question directement,
+											on dit : « Si je te demande
+si deux plus deux font quatre,
+											répondrais-tu « ozo » ? »
+											Si « ozo » signifie « oui »
+et que le seigneur est Tee,
+											il répond juste « ozo ».
+											Mais si nous demandons à Eff ?
+											Alors, il répondrait « ulu »
+ou non à la question sous-jacente,
+											il ment donc et répond « ozo ».
+											Et si « ozo » veut dire « non »,
+											alors la réponse à notre question
+sous-jacente est « ulu »
+											et tous les deux,
+Tee et Eff, répondent « ozo »,
+											chacun pour des raisons différentes.
+											Si tu ne vois pas
+pourquoi cela marche,
+											la raison est qu'il y a 
+de la structure logique.
+											Un double positif et un double négatif
+résultent en un positif.
+											On sait qu'en posant une question
+à Tee ou à Eff de cette manière
+											donnerait un « ozo » si la question 
+hypothétique est vraie
+											et « ulu » si elle est fausse,
+											indépendamment
+de la signification de chaque mot.
+											Malheureusement,
+cela nous aide pas avec Arr.
+											Mais pas de souci, la première question 
+aidera à identifier un seigneur
+											qui ne peut être Arr.
+											Ensuite, on utilisera la deuxième
+pour savoir s'il s'agit de Tee ou Eff.
+											Et quand on sait cela,
+											on lui demandera d'identifier 
+l'un des deux autres.
+											Commençons.
+											Demande à l'extraterrestre au milieu :
+											« Si je te demandais si le seigneur
+à ma gauche est Arr,
+											me dirais-tu « ozo » ? »
+											Si la réponse est « ozo »,
+il y a deux possibilités :
+											tu parles déjà avec Arr
+et la réponse n'a pas de sens
+											ou tu parles soit avec Tee soit avec Eff,
+											et comme on le sait,
+											recevoir « ozo » de l'un des deux prouve
+la justesse de ta question hypothétique
+											et le seigneur à gauche est bien Arr.
+											Dans les deux cas, le seigneur 
+sur la droite n'est pas Arr.
+											De la même manière, 
+si la réponse est « ulu »,
+											alors tu sais que le seigneur 
+à gauche ne peut pas être Arr.
+											Va maintenant voir le seigneur
+que tu sais ne pas être Arr et demande :
+											« Si je te demande si tu es Eff,
+répondras-tu « ozo » ? »
+											Tu n'as plus à te préoccuper
+de la possibilité aléatoire,
+											chacune des deux réponses
+établira son identité.
+											Maintenant que tu sais si ses réponses
+sont justes ou fausses,
+											demande au même extraterrestre
+si le seigneur du centre est Arr.
+											Le processus d'élimination
+identifiera celui qui reste.
+											Les seigneurs satisfaits vous aident
+à réparer votre vaisseau
+											et vous vous préparez à vous envoler.
+											Ayant encore une question à poser,
+tu demandes à Tee si la Terre est loin
+											et il répond « ozo ».
+											Dommage, tu ne sais toujours pas
+ce que cela signifie.
+									","
+											Criado pelo lógico Raymond Smullyan
+											e popularizado pelo seu colega
+George Boolos,
+											este enigma já foi considerado
+											o quebra-cabeças mais difícil de sempre.
+											Tu e a tua equipa despenharam-se
+num planeta antigo.
+											A única forma de saírem de lá
+											é apaziguarem
+os três senhores extraterrestres,
+											Tee, Eff e Arr,
+											dando-lhes os artefactos corretos.
+											Infelizmente, vocês não sabem
+quem é quem.
+											Numa inscrição, ficam a saber
+que podem fazer-lhes três perguntas
+											de resposta ""sim"" ou ""não"",
+											cada uma dirigida a qualquer dos senhores.
+											As respostas de Tee
+são sempre verdadeiras.
+											As de Eff são sempre falsas.
+											e a resposta de Arr é sempre ao acaso.
+											Mas há um problema.
+											Vocês decifraram a língua
+o bastante para fazer qualquer pergunta,
+											mas não sabem qual das duas palavras
+""ozo"" ou ""ulu"" significa ""sim""
+											e qual delas significa ""não"".
+											Como conseguem descobrir
+quem são os extraterrestres?
+											[Faz aqui uma pausa
+se quiseres descobrir sozinho.]
+											Resposta em: 3
+											2
+											1
+											À primeira vista, o quebra-cabeças
+não parece difícil, parece impossível.
+											Para que serve fazer uma pergunta
+											se não percebemos a resposta
+nem sabemos se ela é verdadeira?
+											Mas pode fazer-se.
+											A chave é formular cuidadosamente
+as nossas perguntas
+											para que qualquer resposta 
+contenha informações úteis.
+											Primeiro, podemos resolver o problema
+											de não sabermos
+o significado de ""ozo"" e ""ulu""
+											incluindo essas mesmas palavras
+nas perguntas,
+											e depois, se colocarmos em cada pergunta
+uma situação hipotética,
+											não interessa se os extraterrestres
+estão a mentir ou não.
+											Para vermos como isso funciona,
+											imagina que a pergunta
+é se dois mais dois são quatro.
+											Em vez de a colocar diretamente,
+diríamos:
+											""Se te perguntar
+se dois mais dois são quatro,
+											""responderás 'ozo'?""
+											Se ""ozo"" significa ""sim""
+e o senhor for Tee,
+											ele responde, triunfante: ""ozo"".
+											Mas e se perguntarmos a Eff?
+											Ele devia responder ""ulu"", ou seja, ""não"",
+à pergunta sub-reptícia
+											mas mentirá e responderá ""ozo"".
+											E se ""ozo"" significar não,
+											a resposta à pergunta sub-reptícia
+será ""ulu"",
+											Tanto Tee como Eff responderão ""ozo"",
+											cada um pelas suas próprias razões.
+											Se estão confusos sobre
+porque é que isto funciona,
+											a razão envolve uma estrutura lógica.
+											Uma dupla positiva e uma dupla negativa
+resultam ambas numa positive.
+											Assim, podemos ter a certeza de que
+fazendo uma pergunta assim a Tee ou a Eff
+											resultará num ""ozo""
+se a pergunta hipotética for verdade
+											e resultará num ""ulu""
+se for falsa
+											independentemente do que
+significa cada palavra.
+											Infelizmente, isso não resulta com Arr.
+											Mas não te preocupes,
+podemos usar a primeira pergunta
+											para identificar um senhor extraterrestre
+											que não é Arr, de certeza.
+											Depois, podemos usar a segunda
+para descobrir se é Tee ou Eff.
+											Depois de sabermos isso,
+											podemos pedir-lhe
+para identificar um dos outros,
+											Então, vamos começar.
+											Pergunta ao extraterrestre do meio:
+											""Se eu te perguntasse
+se o senhor à minha esquerda é Arr,
+											""responderias 'ozo'?""
+											Se a resposta é ""ozo"",
+há duas possibilidades.
+											Podes já estar a falar com Arr
+e, nesse caso, a resposta não tem sentido.
+											Caso contrário, estás a falar
+com Tee ou com Eff,
+											e, como sabemos,
+											receber um ""ozo"" de qualquer um deles
+											significa que a nossa pergunta hipotética
+estava certa
+											e o senhor da esquerda é Arr, de facto.
+											De qualquer modo, ficas com a certeza
+											de que o extraterrestre
+da direita não é Arr.
+											Do mesmo modo, se a resposta é ""ulu"",
+											ficas a saber que o extraterrestre
+da esquerda não pode ser Arr.
+											Depois, vais ter com o senhor
+que já sabes que não é Arr e perguntas:
+											""Se eu perguntasse se és Eff,
+responderias 'ozo'?""
+											Como já não precisas de te preocupar
+com a possibilidade ao acaso,
+											qualquer das respostas vai estabelecer
+a sua identidade.
+											Agora que já sabes se as respostas
+são verdade ou mentira,
+											pergunta ao mesmo extraterrestre
+se o senhor do centro é Arr.
+											O processo de eliminação
+identificará o restante.
+											Os senhores, satisfeitos,
+ajudarão a reparar a nave
+											e preparas-te para a partida.
+											Com direito a uma pergunta final,
+perguntas a Tee
+											se a Terra fica muito distante
+											e ele responde ""ozo"".
+											É uma pena se ainda não sabes
+o que é que isso significa.
+									",Can you solve the three gods riddle?,Alex Gendler,4:40,"TED-Ed,animation,math"
+"
+","
+","
+","
+",Can you solve the three gods riddle?,Alex Gendler,4:40,"TED-Ed,animation,math"

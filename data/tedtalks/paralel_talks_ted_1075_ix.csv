@@ -1,0 +1,716 @@
+en,es,pt,fr,tr,title,speaker,duration,tags
+"
+","
+","
+","
+","
+",Inside the ant colony,Deborah Gordon,4:30,"animals,insects,animation,TED-Ed,ants,biology,science"
+"
+											Think about all the things that need to happen
+											for a human settlement to thrive:
+											obtaining food,
+											building shelter,
+											raising children and more.
+											There needs to be a way to divide resources,
+											organize major efforts
+											and distribute labor efficiently.
+											Now imagine having to do this without any sort of planning
+											or higher level communication.
+											Welcome to the ant colony.
+											Ants have some of the most complex social organization
+											in the animal kingdom,
+											living in structured colonies
+											containing different types of members
+											who perform specific roles.
+											But although this may sound similar to some human societies,
+											this organization doesn't arise from any higher level decisions,
+											but is part of a biologically programmed cycle.
+											In many species,
+											all the winged males and winged virgin queens
+											from all the nearby colonies in the population
+											each leave from their different nests
+											and meet at a central place to mate,
+											using pheromones to guide each other to a breeding ground.
+											After mating, the males die off,
+											while females try to establish a new colony.
+											The few that are successful settle down in a suitable spot,
+											lose their wings,
+											and begin laying eggs,
+											selectively fertilizing some using stored sperm they've saved up from mating.
+											Fertilized eggs grow into female workers
+											who care for the queen and her eggs.
+											They will then defend the colony
+											and forage for food,
+											while unfertilized eggs grow into males
+											whose only job is to wait until they are ready to leave the nest
+											and reproduce, beginning the cycle again.
+											So how do worker ants decide what to do and when?
+											Well, they don't really.
+											Although they have no methods of intentional communication,
+											individual ants do interact with one another
+											through touch, sound and chemical signals.
+											These stimuli accomplish many things
+											from serving as an alarm to other ants if one is killed,
+											to signaling when a queen is nearing the end of her reproductive life.
+											But one of the most impressive collective capabilities of an ant colony
+											is to thoroughly and efficiently explore large areas
+											without any predetermined plan.
+											Most species of ants have little or no sense of sight
+											and can only smell things in their vicinity.
+											Combined with their lack of high level coordination,
+											this would seem to make them terrible explorers,
+											but there is an amazingly simple way
+											that ants maximize their searching efficiency;
+											by changing their movement patterns
+											based on individual interactions.
+											When two ants meet,
+											they sense each other by touching antennae.
+											If there are many ants in a small area this will happen more often
+											causing them to respond by moving
+											in more convoluted, random paths in order to search more thoroughly.
+											But in a larger area, with less ants, where such meetings happen less often,
+											they can walk in straight lines to cover more ground.
+											While exploring their environment in this way,
+											an ant may come across any number of things,
+											from threats or enemies, to alternate nesting sites.
+											And some species have another capability known as recruitment.
+											When one of these ants happens to find food,
+											it will return with it, marking its path with a chemical scent.
+											Other ants will then follow this pheromone trail,
+											renewing it each time they manage to find food and return.
+											Once the food in that spot is depleted,
+											the ants stop marking their return.
+											The scent dissipates and ants are no longer attracted to that path.
+											These seemingly crude methods of search and retrieval
+											are, in fact, so useful that they are applied in computer models
+											to obtain optimal solutions from decentralized elements,
+											working randomly and exchanging simple information.
+											This has many theoretical and practical applications,
+											from solving the famous traveling salesman problem,
+											to scheduling computing tasks and optimizing Internet searches,
+											to enabling groups of robots to search a minefield
+											or a burning building collectively, without any central control.
+											But you can observe these fascinatingly simple, yet effective, processes directly
+											through some simple experiments,
+											by allowing ants to enter empty spaces of various sizes
+											and paying attention to their behavior.
+											Ants may not be able to vote, hold meetings or even make any plans,
+											but we humans may still be able to learn something
+											from the way that such simple creatures
+											are able to function so effectively in such complex ways.
+									","
+											Piensa en todas 
+las cosas que deben pasar
+											para que prospere 
+un asentamiento humano:
+											la obtención de alimentos,
+											la construcción de vivienda,
+											la crianza de los hijos y más.
+											Debe existir una manera 
+de dividir los recursos,
+											de organizar grandes esfuerzos
+											y de distribuir el trabajo 
+de manera eficiente.
+											Ahora imagínese tener que hacer esto 
+sin ningún tipo de planificación
+											o sin un alto nivel 
+de comunicación.
+											Bienvenido a la colonia de hormigas.
+											Las hormigas tienen una de las 
+organizaciones sociales más complejas
+											del reino animal,
+											viven en colonias estructuradas
+											con diferentes miembros
+											que realizan funciones específicas.
+											Pero aunque esto pueda parecerse 
+a algunas sociedades humanas,
+											esta organización no surge 
+de decisiones de un nivel superior,
+											sino que es parte de un ciclo 
+programado biológicamente.
+											En muchas especies,
+											todos los machos alados 
+y reinas vírgenes aladas
+											de todas esas colonias
+											cada uno salen de 
+sus nidos diferentes
+											y se encuentran en 
+un lugar central para aparearse,
+											usando feromonas para 
+guiarse hacía el apareamiento.
+											Después del apareamiento, 
+los machos mueren,
+											mientras que las hembras tratan 
+de establecer una nueva colonia.
+											Las pocas que tienen éxito 
+se establecen en un lugar adecuado,
+											pierden sus alas,
+											y comienzan a poner huevos,
+											fertilizándolos de forma selectiva usando 
+el esperma almacenado tras el apareamiento.
+											Los huevos fertilizados 
+se convierten en obreras
+											que cuidan a la reina y sus huevos.
+											Ellas defenderán la colonia
+											y buscarán alimento,
+											mientras que los huevos no fertilizados 
+se convierten en machos
+											cuyo único trabajo es esperar 
+hasta que estén listos para dejar el nido
+											y reproducirse, 
+comenzando de nuevo el ciclo.
+											Entonces, ¿cómo las hormigas obreras 
+deciden qué hacer y cuándo?
+											Bueno, en realidad, no lo deciden.
+											A pesar de que no tienen métodos 
+de comunicación intencional,
+											las hormigas individuales 
+interactúan entre sí
+											a través de señales táctiles, 
+sonoras y químicas.
+											Estos estímulos 
+logran muchas cosas,
+											desde servir de alarma 
+para otras hormigas si matan a una,
+											hasta señalizar cuando una reina 
+se acerca al final de su vida reproductiva.
+											Pero una de las capacidades colectivas más 
+impresionantes de una colonia de hormigas
+											es la exploración eficiente 
+y detallada de extensas áreas
+											sin ningún plan predeterminado.
+											La mayoría de las especies de hormigas 
+tienen poco o ningún sentido visual
+											solo pueden oler 
+las cosas en su vecindad.
+											En combinación con la falta 
+de coordinación de alto nivel,
+											esto parecería hacer de ellas 
+exploradores fatales,
+											pero hay una manera 
+increíblemente sencilla
+											en las que las hormigas maximizan 
+su eficiencia de búsqueda;
+											cambiando sus patrones de movimiento
+											basado en las interacciones individuales.
+											Cuando dos hormigas 
+se encuentran,
+											se perciben recíprocamente
+tocándose las antenas.
+											Si hay muchas hormigas en un área pequeña 
+esto ocurre con más frecuencia
+											haciendo que respondan moviéndose
+											en caminos aleatorios más complicadas 
+con el fin de buscar más a fondo.
+											Pero en un área más grande, con menos hormigas, 
+cuando estos encuentros son más escasos,
+											pueden caminar en línea recta, 
+para cubrir más terreno.
+											Al explorar su entorno 
+de esta manera,
+											una hormiga se cruza 
+con un gran número de cosas,
+											desde amenazas o enemigos, 
+hasta lugares alternativos de anidación.
+											Y algunas especies tienen otra capacidad 
+conocida como reclutamiento.
+											Cuando una de estas hormigas 
+encuentra comida,
+											volverá con ella, marcando 
+su camino con un olor químico.
+											Otras hormigas luego seguirán 
+este rastro de feromonas,
+											renovándolo cada vez que encuentren 
+comida cuando regresan.
+											Una vez que la comida 
+en ese lugar se agota,
+											las hormigas dejan de marcar 
+el camino de regreso.
+											El olor se disipa y las hormigas 
+ya no se sienten atraídas por ese camino.
+											Estos métodos aparentemente 
+rudimentarios de búsqueda y captura
+											son, de hecho, tan útiles que se aplican 
+en modelos computacionales
+											para obtener soluciones óptimas 
+a partir de elementos descentralizados,
+											de trabajo al azar y de intercambio 
+de información simple.
+											Esto tiene muchas aplicaciones 
+teóricas y prácticas,
+											desde resolver el famoso problema 
+del viajante de comercio,
+											a la programación de tareas de computación 
+y la optimización de búsquedas en Internet,
+											que permitien que grupos de robots 
+busquen en un campo de minas
+											o en un incendio de edificio en conjunto, 
+sin ningún tipo de control central.
+											Pero se puede observar directamente estos procesos 
+fascinantemente simples, pero eficaces,
+											a partir de algunos 
+experimentos sencillos,
+											permitiendo que las hormigas entren 
+en espacios vacíos de diferentes tamaños
+											y prestando atención 
+a su comportamiento.
+											Las hormigas pueden no ser capaces de votar, 
+celebrar reuniones o incluso hacer planes,
+											pero nosotros, los seres humanos, 
+todavía podemos aprender algo
+											de la forma en que 
+estas simples criaturas
+											son capaces de funcionar 
+tan efectivamente en formas tan complejas.
+									","
+											Pensem em tudo aquilo que 
+é preciso acontecer
+											para uma colónia humana vingar:
+											obter alimento,
+											construir abrigo,
+											criar os filhos e muitas outras coisas.
+											Tem de haver uma forma de dividir os recursos,
+											organizar os principais esforços
+											e distribuir o trabalho de forma eficiente.
+											Agora imaginem ter de fazer isto 
+sem qualquer espécie de planeamento
+											ou nível de comunicação mais avançado.
+											Bem-vindos à colónia de formigas.
+											As formigas têm das organizações sociais 
+mais complexas
+											do reino animal,
+											vivendo em colónias estruturadas
+											que contêm diferentes tipos de membros
+											que desempenham papéis específicos.
+											Mas, embora pareça igual ao que acontece 
+em algumas sociedades humanas,
+											esta organização não surge de 
+quaisquer decisões a nível superior,
+											mas faz parte de um ciclo 
+biologicamente programado.
+											Em muitas espécies,
+											todos os machos alados 
+e as rainhas-virgens aladas
+											de todas as colónias vizinhas da população
+											saem dos respectivos ninhos
+											e encontram-se num local central para acasalar,
+											usando feromonas para se orientarem 
+mutuamente para um local de acasalamento.
+											Depois de acasalar, os machos morrem,
+											enquanto as fêmeas 
+tentam estabelecer uma nova colónia.
+											As poucas que são bem sucedidas 
+estabelecem-se num local adequado,
+											perdem as asas
+											e começam a pôr ovos,
+											fertilizando alguns selectivamente com 
+o esperma que armazenaram no acasalamento.
+											Os ovos fertilizados crescem 
+para serem fêmeas obreiras
+											que cuidam da rainha e dos seus ovos.
+											Irão então defender a colónia
+											e procurar alimento,
+											enquanto os ovos não fertilizados 
+crescem para ser machos
+											cujo único trabalho é esperar até 
+estarem prontos a sair do ninho
+											e reproduzir-se, 
+começando novamente o ciclo.
+											Então, como é que as obreiras 
+decidem o que fazer e quando?
+											Bem, na verdade não decidem.
+											Ainda que haja métodos de 
+comunicação intencional,
+											as formigas individuais interagem 
+umas com as outras
+											através do tacto, do som 
+e de sinais químicos.
+											Estes estímulos servem para muitas coisas
+											desde servir de alarme 
+para outras formigas, se uma for morta,
+											a assinalar quando uma rainha está 
+a chegar ao fim da sua vida reprodutiva.
+											Mas uma das capacidades colectivas mais 
+impressionantes de uma colónia de formigas
+											consiste em explorar grandes áreas 
+de forma minuciosa e eficiente
+											sem qualquer plano determinado.
+											A maioria das espécies de formigas 
+tem pouco ou nenhum sentido de visão
+											e só consegue cheirar coisas 
+que estejam próximas.
+											Juntando a isto a sua falta de coordenação
+a um nível elevado,
+											poderia parecer 
+que são péssimas exploradoras,
+											mas há uma forma 
+surpreendentemente simples
+											de as formigas maximizarem 
+a sua eficiência de pesquisa;
+											alterando os padrões de movimentos
+											com base nas interacções individuais.
+											Quando duas formigas se encontram,
+											sentem a presença uma da outra 
+tocando as antenas.
+											Se houver muitas formigas numa área 
+pequena, isto acontece mais vezes,
+											o que faz com que respondam deslocando-se
+											em caminhos mais retorcidos, aleatórios, 
+para procurar mais minuciosamente.
+											Mas numa área maior, com menos formigas, 
+onde estes encontros acontecem menos vezes,
+											podem andar em linha recta 
+para cobrirem mais terreno.
+											Enquanto explora o seu ambiente desta forma,
+											uma formiga pode encontrar seja o que for,
+											ameaças ou inimigos, ou locais 
+alternativos para constituir o ninho.
+											Algumas espécies têm outra capacidade 
+conhecida como recrutamento.
+											Quando uma destas formigas 
+encontra comida por acaso,
+											regressa com o alimento, marcando 
+o caminho com um aroma químico.
+											Outras formigas irão então seguir 
+este trilho de feromonas,
+											renovando-o de cada vez que conseguem 
+encontrar alimento e regressar.
+											Quando a comida nesse local se esgota,
+											as formigas deixam de marcar o regresso.
+											O aroma dissipa-se e as formigas deixam 
+de ser atraídas para esse caminho.
+											Estes métodos aparentemente toscos 
+de pesquisa e obtenção de alimento
+											são, na verdade, tão úteis que são 
+aplicados em modelos informáticos
+											para se obter soluções optimizadas 
+de elementos descentralizados,
+											trabalhando aleatoriamente 
+e trocando informações simples.
+											Isto tem muitas aplicações 
+teóricas e práticas,
+											desde resolver o famoso problema 
+do caixeiro-viajante,
+											a programar tarefas de informática 
+e a optimizar as pesquisas na Internet,
+											a permitir que grupos de robôs 
+façam buscas num campo minado
+											ou num edifício em chamas, colectivamente,
+sem nenhum controlo central.
+											Mas podem observar directamente 
+estes processos
+											fascinantemente simples, mas eficazes,
+através de algumas experiências simples,
+											permitindo às formigas entrar em 
+espaços vazios de vários tamanhos
+											e prestando atenção 
+ao comportamento delas.
+											As formigas podem não conseguir votar,
+ter reuniões, ou fazer quaisquer planos,
+											mas nós, seres humanos, 
+ainda podemos aprender alguma coisa
+											com a forma como criaturas tão simples
+											conseguem funcionar tão eficientemente 
+de formas tão complexas.
+									","
+											Pensez à toutes les choses 
+qui doivent arriver
+											pour que des humains prospèrent :
+											trouver à manger,
+											se construire un foyer,
+											élever des enfants, entre autres.
+											Il faut un moyen
+de diviser les ressources,
+											répartir les efforts majeurs,
+											et distribuer les tâches efficacement.
+											Imaginez devoir le faire 
+sans aucune organisation
+											ni aucun niveau élevé de communication.
+											Bienvenue dans la colonie de fourmis.
+											Les fourmis ont une 
+des organisations les plus complexes
+											du royaume animal,
+											constituée de colonies structurées
+											contenant différents types de membres
+											qui ont des rôles spécifiques.
+											Mais si ça peut sembler identique 
+à certaines sociétés humaines,
+											cette organisation ne relève pas 
+de décisions d'ordre supérieur,
+											mais d'un cycle biologique établi.
+											Chez de nombreuses espèces,
+											tous les mâles ailés et
+les reines vierges ailées
+											provenant de toutes 
+les colonies environnantes
+											quittent chacun leurs nids respectifs
+											et se rencontrent dans
+un endroit central pour s'accoupler,
+											en se servant des phéromones 
+pour se guider mutuellement v
+											ers une zone de reproduction.
+											Après l'accouplement, les mâles meurent
+											tandis que les femelles tentent 
+d'établir une nouvelle colonie.
+											Les quelques-unes qui y parviennent 
+s'installent dans un lieu adéquat,
+											perdent alors leurs ailes,
+											et commencent à déposer des œufs,
+											les fécondant de manière sélective avec
+du sperme conservé depuis l'accouplement.
+											Les œufs fécondés se développent
+pour devenir des ouvrières
+											qui prennent soin de la reine
+et de ses œufs.
+											Elles défendront ainsi la colonie
+											et iront à la recherche de nourriture,
+											tandis que les œufs non fécondés 
+deviendront des mâles
+											dont le seul but est d'attendre 
+d'être prêts à quitter le nid
+											et se reproduire, 
+recommençant ainsi le cycle.
+											Comment les ouvrières décident-elles 
+quoi faire et quand ?
+											Eh bien, elles ne choisissent pas, en réalité.
+											Bien qu'elles n'aient aucune méthode 
+de communication intentionnelle,
+											chaque fourmi interagit avec les autres,
+											par des signaux tactiles, 
+sonores et chimiques.
+											Ces stimuli permettent d'accomplir
+beaucoup de choses,
+											de servir d'alertes aux autres fourmis
+si l'une d'elles est tuée,
+											à signaler la fin de la vie 
+reproductive de la reine.
+											Mais l'une des plus impressionnantes 
+capacités collectives
+											d'une colonie de fourmis
+											est d'explorer efficacement et 
+minutieusement de larges zones,
+											sans aucun plan prédéterminé.
+											La plupart des espèces de fourmis 
+sont aveugles ou presque
+											et ne peuvent sentir 
+que ce qui est à proximité.
+											Ceci combiné à un manque
+de coordination de haut niveau,
+											elles devraient être 
+de piètres explorateurs,
+											mais il y a un moyen très simple
+											par lequel les fourmis maximisent 
+leur efficacité de recherche :
+											elles changent 
+leurs modèles de mouvement
+											en fonction 
+des interactions individuelles.
+											Quand deux fourmis se rencontrent,
+											elles se détectent
+en touchant leurs antennes.
+											S'il y a beaucoup de fourmis dans 
+une petite zone ça se produira plus souvent
+											et fera qu'elles réagissent en se déplaçant
+											sur des chemins plus compliqués et 
+aléatoires,
+											pour chercher de manière plus complète.
+											Mais dans des zones plus grandes, 
+avec moins de fourmis,
+											où de telles rencontres 
+arrivent moins souvent,
+											elles peuvent se déplacer en ligne droite
+pour couvrir plus d'espace.
+											En explorant ainsi leur environnement,
+											une fourmi peut rencontrer 
+un grand nombre de choses,
+											depuis des menaces ou des ennemis
+jusqu'à d'autres nids.
+											Certaines espèces ont une autre
+capacité appelée « recrutement ».
+											Quand l'une de ces fourmis 
+trouve de la nourriture,
+											elle la ramènera au nid, en marquant 
+son chemin avec un substance chimique.
+											Les autres fourmis suivront
+alors ce tracé de phéromones,
+											le renouvelant chaque fois qu'elles 
+trouvent de la nourriture et reviennent.
+											Une fois la nourriture 
+de cet endroit épuisée
+											les fourmis arrêtent de marquer 
+leur chemin de retour.
+											L'odeur se dissipe et les fourmis 
+ne sont plus attirées sur ce chemin.
+											Ces méthodes apparemment rudimentaires
+de recherches et de récupération
+											sont en réalité si utiles qu'elles sont 
+appliquées à des modèles informatiques
+											pour obtenir des solutions optimales
+à partir d'éléments décentralisés
+											travaillant de façon aléatoire et 
+échangeant des informations simples.
+											Ceci a de nombreuses applications 
+théoriques et pratiques,
+											de la résolution du célèbre problème 
+du représentant de commerce,
+											à la planification des tâches informatiques 
+et l'optimisation des recherches Internet,
+											en passant par rendre des groupes
+de robots capables de fouiller ensemble
+											un champ de mines ou un immeuble 
+en feu sans contrôle central.
+											Mais vous pouvez observer directement 
+ces procédés efficaces
+											bien qu'incroyablement simples
+dans des expériences simples
+											en laissant entrer des fourmis 
+dans des espaces vides de tailles diverses
+											et en observant leur comportement.
+											Les fourmis ne sont peut être pas 
+capables de voter,
+											de faire des réunions ou des projets,
+											mais nous, humains, devrions
+apprendre quelque chose
+											de la manière dont 
+des créatures si primitives
+											sont capables de fonctionner
+si efficacement
+											et de manières si complexes.
+									","
+											İnsanların yaşam alanlarının
+gelişmesi için
+											gerekenleri bir düşünün:
+											yiyecek temin etmek,
+											barınaklar inşa etmek,
+											çocuklar yetiştirmek ve daha fazlası.
+											Kaynakları bölmenin
+											büyük çabaları organize etmenin ve
+											iş gücünü verimli şekilde 
+dağıtmanın bir yolu olmalı.
+											Şimdi, tüm bunları 
+herhangi bir plan veya etkin bir
+											iletişim olmadan yaptığımızı düşünün.
+											Karınca kolonisine hoş geldiniz.
+											Karıncalar, hayvanlar aleminin en karmaşık
+sosyal örgütlenmelerinden
+											birine sahiptir.
+											Belirli görevleri olan
+											farklı tiplerde bireylere ev sahipliği
+											yapan yapılandırılmış 
+kolonilerde yaşarlar.
+											Bu, bazı insan topluluklarına 
+tanıdık gelse de
+											bu organizasyon, alınan kararlarla oluşmaz
+											biyolojik döngünün bir parçasıdır.
+											Çoğu türde
+											çevre kolonilerden
+											kanatlı erkekler ve bakire kraliçeler
+											çiftleşmek üzere yuvalarından ayrılır
+											salgıladıkları feromonlarla
+											birbirlerine bildirdikleri 
+bir alanda toplanırlar.
+											Çiftleşmeden sonra, erkekler ölürken
+											dişiler yeni bir koloni kurma
+uğraşını verirler.
+											Uygun bir yere yerleşmeyi başaran
+az sayıdaki dişi,
+											kanatlarını kaybedip
+											çiftleşmede depoladıkları spermleri
+											seçerek yumurtlamaya başlarlar.
+											Döllenmiş yumurtalar, 
+kraliçe ve yumurtalarıyla
+											ilgilenen dişi işçi karıncalar olurlar.
+											Bu dişiler kovanı koruyup
+											yiyecek ararken döllenmemiş
+											yumurtalar, tek görevi yuvadan ayrılıp 
+döngüyü yeniden
+											başlatacakları günü beklemek olan
+											erkekleri oluşturur.
+											Peki işçi arılar neyi ne zaman 
+yapacaklarına nasıl karar verirler?
+											Aslında, vermezler.
+											Bilinçli bir iletişim sistemleri olmasa da
+											karıncalar birbirleriyle dokunsal, 
+işitsel ve kimyasal
+											olarak iletişim kurarlar.
+											Bu uyaranlar çoğu şeyi iletir:
+											bir karınca öldüğünde alarm vermekten
+											kraliçenin doğurganlığının sonuna
+yaklaştığını bildirmeye kadar.
+											Bir karınca kolonisinin en etkileyici 
+yeteneklerinden biri,
+											önceden kararlaştırılmış bir plan olmadan
+											geniş alanları keşfedebilmeleridir.
+											Çoğu karınca türü görme yeteneğinden
+yoksundur
+											va etrafındakileri sadece koklayabilirler.
+											Yüksek iletişim eksikliğiyle birlikte bu,
+											karıncaların berbat kaşifler olduğunu
+düşündürebilir,
+											ancak karıncaların keşifleri daha etkin
+											hale getirmek için kullandıkları
+çok basit bir yöntem var:
+											istikametlerini
+											kişisel etkileşimlere göre değiştirmek.
+											İki karınca karşılaştığında
+											antenlerini dokundurarak 
+iletişim kurarlar.
+											Eğer küçük bir alanda 
+fazla sayıda karınca varsa
+											bu durum karmaşık ve rastgele yollar seçip
+											daha düzgün bir keşif yapılmasını sağlar.
+											Ama eğer geniş bir alanda az karınca varsa
+buluşmalar daha az gerçekleşir.
+											Daha fazla alana ulaşmak için düz bir
+çizgi üzerinde yürürler.
+											Bir karınca, çevreyi bu yolla keşfederken
+											tehditler veya düşmanlardan
+											yeni yuva alanlarına kadar 
+birçok şeyle karşılaşabilir.
+											Bazı türler ""iz bırakma"" olarak bilinen
+bir yeteneğe sahiptir.
+											Bu türlerden biri yemek bulduğunda
+											geri dönüş yolunda kimyasal bir iz bırakır
+											böylece diğer karıncalar izi takip ederek
+											yemeklerini alır, hala alınacak 
+bir şey varsa izi yenilerler.
+											Bölgedeki yiyecek tükendiğinde
+											karıncalar daha fazla iz bırakmazlar.
+											İzler kaybolur ve diğer karıncalar 
+o yöne gitmezler.
+											Bu basit ve tekrarlanabilen keşif yöntemi
+											bilgisayarlara uygulandığında, 
+merkezden gidilecek en iyi yolu bulmak,
+											rastgele çalışmak 
+ve basit bilgi iletmek konusunda
+											oldukça etkilidir.
+											Bu yöntemin teorik ve pratik 
+birçok uygulaması var.
+											""Gezgin satıcı problemi""nin çözümünden
+											hesaplama görevlerini programlamaya,
+internet aramalarını iyileştirmekten
+											merkezden kontrol edilmeyen robotların
+bir mayın tarlasını
+											veya yanan bir binayı ortaklaşa
+taramalarını sağlamaya birçok uygulama.
+											Bu büyüleyici basitlikte ancak hala etkin
+süreci bazı kolay deneylerle
+											gözlemleyebilirsiniz.
+											Mesela, karıncaların farklı 
+büyüklüklerdeki boş alanlara
+											girmelerine izin verin
+ve davranışlarını inceleyin.
+											Karıncalar; oy vermeye, toplantılar 
+düzenlemeye veya herhangi bir plan yapmaya
+											yetkin olmayabilirler 
+ancak biz insanlar bu basit
+											yaratıkların karmaşık yollarla etkin bir
+											bir şekilde çalışabilmelerinden 
+bir şeyler öğrenebiliriz.
+									",Inside the ant colony,Deborah Gordon,4:30,"animals,insects,animation,TED-Ed,ants,biology,science"
+"
+","
+","
+","
+","
+",Inside the ant colony,Deborah Gordon,4:30,"animals,insects,animation,TED-Ed,ants,biology,science"

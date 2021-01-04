@@ -1,0 +1,1007 @@
+es,pt,tr,fr,de,title,speaker,duration,tags
+"
+","
+","
+","
+","
+",The radical promise of the multi-touch interface,Jeff Han,8:47,"demo,design,interface design,technology"
+"
+											Estoy muy, muy emocionado de estar aquí hoy,
+											porque les mostrare algo que está, literalmente, listo para salir del
+											laboratorio, y estoy realmente contento que ustedes estén entre los primeros en
+											verlo en persona, porque honestamente creo que esto cambiará
+											— realmente cambiará — la manera en la que interactuamos con las máquinas de ahora en adelante.
+									","
+											Estou muito feliz por estar aqui hoje
+											pois vou mostrar-vos uma coisa
+acabada de sair do laboratório.
+											Estou muito contente
+por vocês serem os primeiros
+											a ver isto pessoalmente
+pois acredito que irá mudar
+											a forma como iremos interagir
+com máquinas a partir de agora.
+									","
+											Bugün burada olduğum için çok heyecanlıyım,
+											çünkü laboratuvarımdan yeni çıkardığım bir şeyi
+											göstermek üzereyim, bunu ilk görenler sizler olacağınız için çok memnunum,
+											çünkü bunun gerçekten makinelerle olan ilişkimizi
+											derinden değiştireceğine inanıyorum.
+									","
+											Je suis vraiment content d'être ici aujourd'hui,
+											pour vous montrer ce qui va tout juste de sortir de nos laboratoires,
+											littéralement, et je suis heureux que vous soyez les premiers à pouvoir
+											le voir en direct, car je pense vraiment que cela va changer
+											— vraiment changer — notre manière d'interagir avec les machines.
+									","
+											Ich bin wirklich begeistert heute hier sein zu dürfen,
+											was ich euch zeigen werde kommt frisch aus dem Labor.
+											und ich bin froh, dass ihr mit die ersten seid,
+											die dies sehen werden. Ich glaube, es wird
+											die Art wie wir mit Maschinen interagieren nachhaltig verändern.
+									",The radical promise of the multi-touch interface,Jeff Han,8:47,"demo,design,interface design,technology"
+"
+","
+","
+","
+","
+",The radical promise of the multi-touch interface,Jeff Han,8:47,"demo,design,interface design,technology"
+"
+											Ahora, éste es una mesa de dibujo de proyección trasera. Mide aproximadamente 36 pulgadas de ancho,
+											y está equipada con un sensor multi-táctil. Los sensores táctiles normales que
+											pueden ver, en un kiosco o en pizarras interactivas,
+											sólo pueden registrar un punto de contacto a la vez.
+											Esta mesa les permite tener múltiples puntos al mismo tiempo.
+											Puede usar mis dos manos, puedo ejecutar acciones coordinadas,
+											y puedo seguir aumentando y usar los 10 dedos si quisiera.
+											Así, de este modo.
+									","
+											Esta é uma mesa de retroprojeção.
+											Tem cerca de 91 cm e está equipada
+com um sensor de multi-toque.
+											Os sensores normais dos quiosques
+ou dos quadros brancos interativos
+											só registam um ponto de contacto
+de cada vez.
+											Este permite-nos utilizar
+vários pontos ao mesmo tempo.
+											Podemos utilizar ambas as mãos, 
+alguns dedos
+											e posso até utilizar os 10 dedos,
+se quiser.
+											Desta forma.
+									","
+											Bu geriden gösterim yapan bir çizim ekranı. 36 inç genişliğinde,
+											ve çoklu dokunmatik bir sensör eklenmiş durumda. Bir telefon kulübesinde
+											veya interaktif yazı tahtalarında gördüğünüz normal dokunmatik sensörler
+											bir anda sadece bir noktayı algılayabilir.
+											Bu alet size aynı anda birden fazla nokta işaretleme imkanı veriyor.
+											İki elimi de kullanabilirim, kiriş hareketleri yapabilirim,
+											ve istersem 10 parmağımı aynı anda kullanabilirim.
+											İşte böyle.
+									","
+											Voici une table à dessin rétro-projetée. Elle fait 91 cm de diagonale,
+											et est équipée d'un capteur multi-points. Les capteurs tactiles ordinaires,
+											présents dans les bornes ou les tableaux blancs interactifs,
+											ne peuvent capter qu'un seul point à la fois.
+											Ceci vous permet de capter plusieurs points à la fois.
+											Je peux utiliser mes deux mains, je peux faire un accord,
+											ou encore mieux utiliser mes dix doigts à la fois.
+											Comme cela.
+									","
+											Dies ist ein von hinten bestrahlter Zeichentisch, er ist ungefähr 90 cm breit
+											und mit einem Mehrfach-Berührungssensor ausgestattet. Normale Berührungssensoren
+											wie in einem Kiosk oder interaktiven Whiteboard
+											registrieren nur einen Kontakt.
+											Dieses Ding erlaubt mehrere auf einmal.
+											Man kann beide Hände nutzen, simultane Aktionen ausführen
+											oder einfach alle 10 Finger benutzen.
+											Einfach so.
+									",The radical promise of the multi-touch interface,Jeff Han,8:47,"demo,design,interface design,technology"
+"
+","
+","
+","
+","
+",The radical promise of the multi-touch interface,Jeff Han,8:47,"demo,design,interface design,technology"
+"
+											Ahora, la sensibilidad multi-táctil no es completamente nueva.
+											Personas como Bill Buxton han estado jugando con esto desde los 80's.
+											Sin embargo, el enfoque que he construido es de alta resolución,
+											bajo costo, y probablemente lo más importante, muy escalable.
+											Entonces, la tecnología, sabrán, no es lo más emocionante de esto,
+											exceptuando probablemente su renovada accesibilidad.
+											Lo que es realmente interesante es lo que pueden hacer con esto,
+											y los tipos de interfaces que se pueden construir sobre ella. Entonces, veamos.
+									","
+											O sistema de multi-toque
+não é uma coisa recente.
+											Pessoas como Bill Buxton trabalharam
+com ele nos anos 80.
+											No entanto, a minha abordagem 
+aqui é em alta resolução,
+											baixo custo e, mais importante,
+muito expansível.
+											A tecnologia não é 
+a parte mais excitante aqui
+											a não ser o facto de ter
+uma nova acessibilidade.
+											O interessante aqui 
+é o que podemos fazer com isto,
+											os tipos de interfaces
+que podemos incorporar.
+											Vamos ver.
+									","
+											Çoklu dokunmatik sensörler tamamen yeni değiller.
+											Örneğin, Bill Buxton 80'lerden beri bunlarla oynuyor.
+											Ama, burada benim ürettiğim gerçekten yüksek-çözünürlüklü, düşük maliyetli,
+											ve sanırım en önemlisi, görüntü yakınlaştırılabilir.
+											Teknoloji şu an buradaki en heyecan verici şey değil, daha çok
+											onun yeni bulduğumuz erişilebilecek noktaları bizi heyecanlandırıyor.
+											Burada ilginç olan, onunla neler yapabileceğimiz,
+											ve üstüne neler ilave edebileceğimiz. Şimdi görelim.
+									","
+											Les capteurs multi-points ne sont pas complètement nouveaux.
+											Des personnes comme Bill Buxton s'en sont servi dans les années 80.
+											Cependant, mon approche se sert de la haute résolution,
+											est peu chère, et sûrement le plus important, très évolutive.
+											La chose la plus excitante ici n'est donc pas la technologie,
+											mais surtout les nouvelles possibilités d'accès.
+											Ce qui est vraiment intéressant est ce que l'on peut en faire,
+											et le type d'interfaces que l'on peut construire. Voyons ça.
+									","
+											Mehrfach-Berührungssensoren sind nicht komplett neu.
+											Leute wie Bill Buxton spielen seit den 80ern damit herum.
+											Unser Ansatz ist jedoch hochauflösend,
+											erschwinglich und am wichtigsten - skalierbar.
+											Die Technologie ist nicht das aufregendste,
+											sondern die neue Zugänglichkeit.
+											Es ist aufregend was man damit tun kann
+											und welches Interface man darauf aufbauen kann.
+									",The radical promise of the multi-touch interface,Jeff Han,8:47,"demo,design,interface design,technology"
+"
+","
+","
+","
+","
+",The radical promise of the multi-touch interface,Jeff Han,8:47,"demo,design,interface design,technology"
+"
+											Por ejemplo, tenemos una aplicación de lámpara de lava. Ahora, como pueden ver,
+											puedo usar ambas manos para apretar y juntar
+											las manchas. Puedo inyectar calor al sistema,
+											o separarlo con dos de mis dedos.
+											Es completamente intuitivo; no hay manual de instrucciones.
+											La interfaz prácticamente desaparece.
+											Esto empezó como salvapantallas que uno de los estudiantes del Ph. D.
+											en nuestro laboratorio, Ilya Rosenberg, construyó. Pero creo que su verdadera identidad aparece acá.
+									","
+											Por exemplo, temos aqui uma aplicação
+de um candeeiro de lava.
+											Posso utilizar as duas mãos
+para espremer e juntar bolhas.
+											Posso injetar calor no sistema assim
+											ou posso dividi-lo com dois dedos.
+											Totalmente intuitivo,
+não há manual de instruções.
+											A interface acaba por desaparecer.
+											Começou como uma proteção 
+de ecrã de uma das doutorandas
+											do nosso laboratório, Ilya Rosenberg.
+											Mas a sua verdadeira identidade surge aqui.
+									","
+											Mesela, burada bir lav ışığı uygulamamız var. Gördüğünüz gibi,
+											iki elimi baloncukları toplayıp bir araya getirmek için kullanabiliyorum.
+											Sisteme bu şekilde ısı enjekte edebiliyorum,
+											veya iki parmağım ile ayırabilirim.
+											Bu tamamen sezgisel; bunun bir el kitabı yok.
+											Arayüz kayboluyor.
+											Bu uygulama bir ekran koruyucu olarak başladı, doktora öğrencisi
+											Ilya Rosenberg yaptı. Ama, sanırım asıl kullanılması gereken yer burası.
+									","
+											Par exemple, voici une application de lampe à lave. Vous voyez,
+											j'utilise mes deux mains pour presser les bulles de lave les unes contre les autres.
+											Je peux injecter de la chaleur dans le système,
+											ou le diviser avec deux doigts.
+											C'est complètement intuitif, il n'y a pas de mode d'emploi.
+											L'interface devient transparente.
+											Ceci a débuté sous la forme d'un économiseur d'écran fait par un des étudiants
+											de notre laboratoire, Ilya Rosenberg. Mais sa véritable identité émerge ici.
+									","
+											Hier haben wir ein Lava-Lampen Programm.
+											Ich benutze beide Hände und kann die Tropfen zusammendrücken.
+											Ich kann Hitze in das System integrieren
+											oder sie mit zwei Fingern auseinander ziehen.
+											Es komplett Intuitiv, es gibt keine Bedienungsanleitung.
+											Das Interface ist quasi nicht existent.
+											Am Anfang war das ein Bildschirmschoner eines Doktoranten in
+											unserem Labor, Ilya Rosenberg. Hier kommt jedoch die wahre Identität heraus.
+									",The radical promise of the multi-touch interface,Jeff Han,8:47,"demo,design,interface design,technology"
+"
+","
+","
+","
+","
+",The radical promise of the multi-touch interface,Jeff Han,8:47,"demo,design,interface design,technology"
+"
+											Ahora, lo que es genial respecto al sensor multi-táctil es que
+											podría estar haciendo esto con todos los dedos,
+											pero, por supuesto, multi-táctil también significa, inherentemente, multi-usuario.
+											Entonces, Chris podría estar aquí interactuando con otra parte de la lava,
+											mientras yo juego por este lado. Pueden imaginar una nueva herramienta escultórica,
+											donde yo estoy calentando algo, volviéndolo maleable,
+											y después dejándolo enfriar y solidificándolo en un estado particular.
+											Google debería tener algo así en su lobby. (Risas).
+									","
+											A vantagem dos sensores multi-toque
+											é que posso fazer isto com vários dedos.
+											Mas o multi-toque, inerentemente,
+significa vários utilizadores.
+											O Chris podia interagir
+com outra parte da lava
+											enquanto eu ficava nesta parte.
+											Imaginem um novo tipo
+de ferramenta de construção
+											em que estou a aquecer qualquer coisa,
+a torná-la maleável
+											e deixo-a arrefecer e solidificar
+num determinado estado.
+											A Google devia ter uma coisa assim
+na página de entrada.
+											(Risos)
+									","
+											Çoklu dokunmatik sensör ile ilgili harika olan şey şu,
+											bunu buradaki tüm parmaklar ile gerçekleştirebilirdim,
+											ama çoklu dokunmatik aynı zamanda çok kullanıcılı anlamına geliyor.
+											Chris buraya gelip lavın bir diğer tarafında çalışabilir,
+											ben buralarda oynarken. Yeni bir şekil verme aleti hayal edebilirsiniz,
+											buradaki bölümü ısıtıyorum, sonra şekil veriyorum,
+											sonra soğuyup belli bir şekilde katılaşmaya bırakıyorum.
+											Google'ın lobisinde böyle bir alet hoş olurdu. (Gülüşmeler)
+									","
+											Ce qui est génial dans un capteur multi-point, c'est
+											que je peux faire cela avec autant de doigts que je veux,
+											mais aussi, sous-entendu, avec plusieurs utilisateurs.
+											Chris peut donc interagir avec une autre partie de la lave,
+											pendant que je joue ici. On peut imaginer un nouvel outil de sculpture,
+											en chauffant la matière, la rendant malléable,
+											puis en la laissant refroidir et se solidifier dans un certain état.
+											Google devrait avoir quelque chose comme ça dans leur hall. (Rires)
+									","
+											Das geniale an Mehrfach-Berührungssensoren ist,
+											dass ich das mit so vielen Fingern wie ich will tun kann,
+											logischerweise folgt daraus auch eine Mehrbenutzer Fähigkeit.
+											Chris könnte also mit einem andren Teil der Lava-Lampe interagieren,
+											während ich hier herumspiele. Man könnte sich eine neue Art an Bildhauerei Werkzeugen vorstellen,
+											ich mache etwas warm, verformbar,
+											und lasse es dann abkühlen und in einem bestimmten Zustand verfestigen.
+											Google sollte so etwas in ihrer Eingangshalle haben. (Gelächter)
+									",The radical promise of the multi-touch interface,Jeff Han,8:47,"demo,design,interface design,technology"
+"
+","
+","
+","
+","
+",The radical promise of the multi-touch interface,Jeff Han,8:47,"demo,design,interface design,technology"
+"
+											Les mostraré algo — un ejemplo algo más concreto, mientras esto carga.
+											Ésta es una caja de luz para fotógrafos.
+											De nuevo, puedo usar mis dos manos para interactuar y mover las fotos.
+											Pero lo que es aún más genial es que si uso dos dedos,
+											puedo agarrar una foto y estirarla de esta manera con mucha facilidad.
+											Puedo moverla, acercarla y girarla sin esfuerzo.
+											Puedo hacer eso con ambas manos,
+											o puedo hacerlo sólo con dos dedos de cada una de mis manos.
+											Si tomo el lienzo, puedo hacer más o menos lo mismo — estirarlo.
+											Puedo hacerlo simultáneamente, lo sostengo
+											y agarro otro, estirándolo de esta manera.
+									","
+											Vou mostrar-vos um exemplo mais concreto,
+enquanto isto carrega.
+											Isto é uma aplicação de fotografia.
+											Mais uma vez, posso utilizar ambas as mãos
+para interagir e mover as fotos.
+											Mas o melhor é que, 
+se utilizar os dois dedos,
+											posso agarrar numa foto
+e esticá-la assim muito facilmente.
+											Posso vê-la, aumentá-la
+e rodá-la sem esforço.
+											Posso fazê-lo assim, 
+grosseiramente, com as mãos
+											ou apenas com dois dedos.
+											Se agarrar nas extremidades,
+posso fazer o mesmo, esticá-las.
+											Posso fazê-lo em simultâneo,
+enquanto seguro aqui
+											e posso agarrar outra e esticá-la assim.
+									","
+											Size bir şey göstereceğim — daha somut bir örnek, bu yüklerken.
+											Bu bir fotoğrafçının ışık kabini uygulaması.
+											İki elimi birden kullanıp, resimlerin yönünü değiştirebiliyorum.
+											Ama daha da iyisi, eğer iki parmağımı kullanırsam,
+											bir resmi tutup, kolaylıkla böyle büyütebilirim.
+											Kolayca açısını değiştirebilir, yakınlaştırıp uzaklaştırabilirim, döndürebilirim.
+											Bunu iki elimle de yapabilirim,
+											ya da bir elimdeki iki parmağımla da yapabilirim.
+											Eğer taslağı yakalarsam, aynı şeyleri yapabilirim — büyütebilirim.
+											Aynı anda yapabilirim, bunu bu şekilde tutarken,
+											bir resmi seçip, onu bu şekilde büyütebilirim.
+									","
+											Je vais vous montrer — un exemple un peu plus concret, pendant que cela charge.
+											Voici une application de table lumineuse pour photographe.
+											Ici encore, je peux utiliser mes deux mains pour interagir et bouger les photos.
+											Encore mieux: avec deux doigts,
+											je peux prendre une photo et l'étirer comme cela très facilement.
+											Je peux faire un panoramique, zoomer ou la tourner sans effort.
+											Je peux faire cela grossièrement avec mes deux mains,
+											ou juste avec deux doigts de chacune de mes mains en même temps.
+											Si je prends l'ensemble, je peux faire la même chose — l'étirer.
+											Je peux le faire en même temps, où je tiens ceci en bas,
+											et je saisis l'autre côté, en l'étirant ainsi.
+									","
+											Ich zeige euch ein etwas genaueres Beispiel.
+											Das ist ein Bilder-Schaukasten Programm.
+											Auch hier kann ich mit beiden Händen interagieren und die Bilder bewegen.
+											Was aber noch cooler ist, dass man mit zwei Fingern
+											ein Photo nehmen und sehr einfach vergrößern kann.
+											Ich kann es problemlos stauchen, vergrößern und drehen.
+											Man kann das mit beiden Händen machen
+											oder mit nur zwei Fingern von jeder Hand zusammen.
+											Man kann die Leinwand nehmen und die gleichen Dinge tun - es vergrößern.
+											Man kann dies gleichzeitig tun, eines festhalten
+											ein anderes so vergrößern.
+									",The radical promise of the multi-touch interface,Jeff Han,8:47,"demo,design,interface design,technology"
+"
+","
+","
+","
+","
+",The radical promise of the multi-touch interface,Jeff Han,8:47,"demo,design,interface design,technology"
+"
+											De nuevo, la interfaz simplemente desaparece.
+											No hay manual. Esto es exactamente lo que esperarían,
+											especialmente si no han interactuado con un computador antes.
+											Ahora, cuando existen iniciativas como el computador portátil de 100 dólares,
+											Me estremezco con la idea de introducir a toda una nueva generación
+											de personas a la computación con la interfaz estándar de ratón y ventanas.
+											Yo pienso que esta es la manera en la que deberíamos interactuar con las máquinas
+											desde este momento. (Aplausos)
+											Ahora, por supuesto, puedo sacar un teclado.
+											Puedo moverlo, ponerlo allá arriba.
+											Obviamente, esta es una especie de teclado estándar,
+											pero por supuesto, puedo escalarlo para que funcione bien con mis manos.
+											Y eso es bastante importante, porque no hay ninguna razón en estos días por la que
+											debamos estar confinados a un dispositivo físico.
+											Eso lleva a cosas malas, como LER. (Lesiones por Esfuerzo Repetitivo)
+											Tenemos tanta tecnología estos días que
+											las interfaces deben empezar a adaptarse a nosotros.
+											Se ha invertido tan poco en mejorar
+											la manera en la que interactuamos con las interfaces.
+											Lo más probable es que este teclado sea en realidad la dirección incorrecta para continuar.
+											Pueden imaginar, en el futuro, a medida que desarrollamos este tipo de tecnología,
+											un teclado que siga su mano mientras se aleja,
+											y anticipe inteligentemente qué tecla están tratando de presionar.
+											¿No es esto genial?
+									","
+											De novo, a interface desaparece.
+											Não há manuais.
+											É exatamente o que esperamos,
+											especialmente se nunca utilizaram
+um computador antes.
+											Quando temos iniciativas
+como portáteis de 100 dólares,
+											tremo só de pensar que vamos apresentar
+a informática a uma nova geração de pessoas
+											com esta interface padrão 
+do Windows e do rato.
+											Acredito que esta é a forma 
+
+											como deveremos interagir com máquinas 
+a partir de agora.
+											(Aplausos)
+											Também posso arranjar um teclado.
+											(Risos)
+											Posso puxar isto e colocar em cima.
+											Obviamente, este é um teclado normal,
+											mas posso mudar o tamanho 
+de forma a adaptá-lo às minhas mãos.
+											E isso é muito importante
+pois não faz sentido
+											termos de nos adaptar
+a dispositivos físicos.
+											Pode provocar lesões por tarefas repetitivas.
+											Atualmente temos tanta tecnologia
+											que as interfaces deviam começar^
+a adaptar-se a nós.
+											Há tão pouca coisa
+a ser aplicado atualmente
+											que melhore a forma como interagimos
+com as interfaces.
+											Possivelmente, este teclado aqui
+é uma abordagem errada.
+											Podemos imaginar, no futuro, 
+ao desenvolvermos este tipo de tecnologia,
+											um teclado que se mexe automaticamente
+ao afastarmos as mãos
+											e que prevê a tecla que estamos
+a tentar tocar com as mãos.
+											É ou não é fantástico?
+									","
+											Yine, arayüz burada kayboluyor.
+											Herhangi bir kullanma kılavuzu yok. Bu özellikle daha önce
+											bir bilgisayar kullanmadıysanız tam aradığınız şey.
+											Şimdi, eğer 100 dolarlık laptoplar gibi girişimleriniz varsa,
+											bu tanıtacağımız yeni jenerasyondan, insanların
+											bu standartta mouse ve windows kursör arayüzü ile bilgisayar kullanacağından korkardım.
+											Şu andan itibaren bana göre makinalar ile bu şekilde
+											etkileşimde olmalıyız. (Alkışlar)
+											Tabi ki bir klavye çıkarabilirim.
+											Bunu alabilirim, buraya koyabilirim.
+											Gördüğünüz gibi, bu standart bir klavye,
+											ama tabi ki bunu elimin büyüklüğüne göre büyütebilirim.
+											Bu gerçekten önemli, çünkü teknolojinin geldiği bu seviyede
+											fiziksel bir alete uyum sağlamamız için bir neden yok.
+											Bu RSI gibi kötü şeylere neden olur.
+											Bugünlerde teknolojimiz çok gelişti, artık
+											arayüzler bizlere ayak uydurmalı.
+											Şu ana kadar çok az bir kısmı uygulandı
+											bundan sonra arayüzler ile etkileşimimiz gelişecektir.
+											Bu klavyelerde yaptığımız gelişmeler büyük ihtimalle yanlış yönde.
+											Düşünün, gelecekte bu tür teknolojiyi geliştirdiğimizde,
+											eliniz hareket ettiğinde otomatik olarak hareket eden ve
+											elinizin hangi tuşu aradığını anlayabilecek zekada klavyeler yaratılacak.
+											Evet — yeniden, harika değil mi?
+									","
+											A nouveau, l'interface devient transparente.
+											Pas de mode d'emploi. C'est exactement que l'on attend,
+											surtout si vous ne vous êtes jamais servi d'un ordinateur auparavant.
+											Avec des initiatives comme l'ordinateur à 100 dollars,
+											l'idée me hérisse que nous créions une nouvelle génération
+											d'utilisateurs se servant de l'interface standard que sont la souris et les fenêtres.
+											Je pense que ceci est vraiment la manière dont nous devrions interagir avec les
+											machines désormais. (Applaudissements)
+											Bien sûr, je peux ajouter un clavier.
+											Et cela aussi, placer cela ici, et ça là.
+											Évidemment, c'est un clavier standard,
+											mais je peux le redimensionner pour qu'il soit adapté à mes mains.
+											C'est vraiment important, il n'y a plus de raison de nos jours pour
+											que nous soyons obligés de notre adapter à un équipement.
+											Cela peut générer des troubles musculosquelettiques.
+											La technologie étant si présente de nos jours,
+											les interfaces devraient commencer à s'adapter à nous.
+											Très peu a été fait pour améliorer
+											la manière d'interagir avec les interfaces de travail.
+											Ce clavier ne va très certainement pas dans la bonne direction.
+											Vous pouvez imaginer, plus tard, quand cette technologie sera mature,
+											un clavier qui dérive en même temps que vos mains se déplacent,
+											qui anticipe intelligemment sur quelle touche vous essayez de taper.
+											N'est-ce pas génial?
+									","
+											Wie gesagt, das Interface ist quasi nicht existent.
+											Es gibt keine Bedienungsanleitung. Es passiert genau was man erwartet,
+											speziell wenn man zuvor noch keinen PC bedient hat.
+											Mit Initiativen wie dem 100 Dollar Laptop,
+											kräuselt es mich beim Gedanken daran, dass wir eine ganze neue Generation
+											von Leuten in die alte Maus-Windows-Klick Computer Bedienung einführen.
+											Von jetzt an sollten wir meiner Meinung nach
+											so mit Maschinen interagieren. (Applaus)
+											Natürlich kann ich eine Tastatur einblenden.
+											Kann sie hierher bewegen.
+											Das ist eine Standard Tastatur,
+											die man natürlich an die Größe der Hände anpassen kann.
+											Heutzutage gibt es keinen Grund,
+											dass wir uns an physische Geräte anpassen müssen.
+											Das führt zu schlechten Dingen wie RSI.
+											Wir haben heutzutage so viel Technologie,
+											dass sich die Benutzeroberflächen an uns anpassen sollten.
+											Es ist so wenig umgesetzt, wie wir die Interaktion
+											mit Benutzeroberflächen von jetzt an verbessern können.
+											Die Tastatur ist wahrscheinlich der falsche Ansatz.
+											Ihr könnt euch vorstellen, dass wir eine Art Technologie entwickeln,
+											eine Tastatur die quasi automatisch unserer Hand folgt
+											und intelligent vorausahnt, welche Taste man versucht zu drücken.
+											Ist das nicht genial?
+									",The radical promise of the multi-touch interface,Jeff Han,8:47,"demo,design,interface design,technology"
+"
+","
+","
+","
+","
+",The radical promise of the multi-touch interface,Jeff Han,8:47,"demo,design,interface design,technology"
+"
+											Audiencia: ¿Donde está tu laboratorio?
+									","
+											Público: Onde fica o laboratório?
+									","
+											Seyirci: Laboratuvarın nerede?
+									","
+											Public : Où est votre laboratoire?
+									","
+											Zuhörer: Wo ist dein Labor?
+									",The radical promise of the multi-touch interface,Jeff Han,8:47,"demo,design,interface design,technology"
+"
+","
+","
+","
+","
+",The radical promise of the multi-touch interface,Jeff Han,8:47,"demo,design,interface design,technology"
+"
+											Jeff Han: Soy un investigador de la Universidad de Nueva York (NYU).
+									","
+											Jeff Han: Sou investigador
+na Universidade de Nova Iorque.
+									","
+											Jeff Han: Ben New York Üniversitesi'nde araştırma görevlisiyim.
+									","
+											Jeff Han : Je suis un chercheur de l'Université de New York.
+									","
+											Jeff Han: Ich bin Forscher an der NYU in New York.
+									",The radical promise of the multi-touch interface,Jeff Han,8:47,"demo,design,interface design,technology"
+"
+","
+","
+","
+","
+",The radical promise of the multi-touch interface,Jeff Han,8:47,"demo,design,interface design,technology"
+"
+											Aca hay un ejemplo de otro tipo de aplicación. Puedo crear estas pelotitas.
+											La aplicación recordará los trazos que realizo. Desde luego, puedo hacerlo con ambas manos.
+											Es sensible a la presión, como notarán.
+											Pero lo entretenido es, nuevamente, que como les mostré antes, con un gesto de dos dedos puedo
+											hacer zoom rápidamente. No tienen que cambiar a otra herramienta
+											o usar una herramienta de lupa;
+											pueden hacer cosas continuamente en múltiples escalas reales, todo al mismo tiempo.
+											Puedo crear cosas grandes, pero puedo volver rápidamente a
+											donde comencé, y hacer cosas aún más pequeñas.
+									","
+											Este é um exemplo de outra aplicação. 
+Posso fazer estas bolas.
+											Vai lembrar-se das minhas passagens. 
+Claro que o posso fazer com as mãos.
+											É sensível à pressão, como podem ver.
+											Mas a vantagem disto, mostrei que,
+com dois dedos, aumentamos rapidamente
+											pois não temos de mudar
+para a opção da mão
+											ou para a opção da lupa.
+											Podemos continuar a fazer coisas 
+em várias escalas, tudo ao mesmo tempo.
+											Posso criar grandes coisas mas também
+posso voltar para trás rapidamente
+											ao ponto onde comecei 
+e fazer coisas ainda mais pequenas.
+									","
+											Burada başka bir uygulama örneği var. Bunları küçük tüy topları yapabilirim.
+											Yaptığım vuruşları hatırlayacak. Tabi ki bunu tüm parmaklarımla yapabilirim.
+											Dokunuşuma duyarlı olduğunu fark edebilirsiniz.
+											Bu aletin güzel yanı, az önce gösterdiğim gibi görüntüyü hızlı bir şekilde
+											büyütmeniz için iki parmak yeterli. Çünkü bir büyütme aletine
+											veya bir başka menüye gerek yok;
+											devamlı olarak büyütebilirsiniz, hepsi aynı anda.
+											Burada büyük şeyler yaratabilirim, buraya başladığım notaya çok hızlı
+											dönebilir ve daha küçük şeyler yapabilirim.
+									","
+											Voici un autre exemple d'application. Prenez ces petites boules.
+											Elles retiendront mes mouvements. Bien sûr, je peux le faire avec mes deux mains.
+											Elles sont sensibles à la pression, comme vous le voyez.
+											Mais ce qui super, à nouveau, c'est ce geste avec deux doigts pour
+											zoomer très rapidement. Puisque vous n'avez pas à passer sur un outil manuel
+											ou la loupe,
+											vous pouvez faire des choses sans vous arrêter, à plusieurs échelles, en même temps.
+											Je peux créer de grands objets ici, mais je peux retourner très vite
+											au début, et créer des objets encore plus petits ici.
+									","
+											Hier ist noch eine Beispielanwendung: Ich kann diese kleinen Bälle kreieren.
+											Es merkt sich die Bewegungen die ich mache. Natürlich ist es auch mit allen Fingern möglich.
+											Es ist Drucksensitive, wie man sieht.
+											Was hübsch daran ist, ich habe euch zuvor die Zwei-Finger-Geste gezeigt
+											mit der man zoomen kann. Man muss nicht zum Hand-Werkzeug
+											oder Vergrößerungsglas-Werkzeug wechseln;
+											man kann immer weiter Dinge in verschiedenen Maßstäben machen, alles zur gleichen Zeit.
+											Ich kann hier große Dinge kreieren und dann schnell zurückgehen
+											zum Anfang und noch kleinere Dinge dort machen
+									",The radical promise of the multi-touch interface,Jeff Han,8:47,"demo,design,interface design,technology"
+"
+","
+","
+","
+","
+",The radical promise of the multi-touch interface,Jeff Han,8:47,"demo,design,interface design,technology"
+"
+											Ahora, esto será muy importante a medida que nos involucremos con cosas como
+											la visualización de datos. Por ejemplo, creo que todos disfrutamos la charla de Hans Rosling,
+											y él puso mucho énfasis en algo en lo que he estado pensando por mucho tiempo:
+											tenemos todos estos datos geniales, pero por alguna razón, simplemente están ahí.
+											No los estamos usando. Y creo que una de las razones, es porque
+											— tendremos el apoyo de cosas como gráficas y herramientas de visualización e inferencia.
+											Pero pienso que una gran parte de eso será comenzar a contar con mejores interfaces,
+											para poder acceder a este tipo de información, sin dejar de pensar en el panorama global.
+									","
+											Isto vai ser muito importante 
+quando começarmos a utilizar funções
+											como visualização de dados.
+											Por exemplo, todos gostamos
+das palestras de Hans Rosling.
+											Ele realçou um facto em que também
+tenho estado a pensar há muito tempo.
+											Todo nós temos imensos dados mas,
+na verdade, estão ali estáticos.
+											Não os estamos a utilizar e um dos motivos
+para isso é que nos apoiamos
+											em gráficos e ferramentas
+de visualização e dedução.
+											Mas também acho que uma grande parte
+irá começar a ter melhores interfaces.
+											Será capaz de mergulhar nestes dados,
+enquanto mantemos a visão global.
+									","
+											Veri görüntüleme gibi şeylere başladığımız için bu çok önemli
+											olacak. Mesela, sanırım hepimiz Hans Rosling'in konuşmasını beğendik,
+											ve gerçekten uzun zamandır düşündüğüm bir gerçeği vurguladı:
+											hepimiz bu bilgiye sahibiz ama bir sebepten ötürü orada öylece duruyor.
+											Onu kullanmıyoruz. Bana göre bunun bir sebebi, — grafik, görüntüleme,
+											netice araçlarından hepimiz faydalanacağız.
+											Sanırım büyük bir çoğunluğu daha iyi arayüzlere sahip olmaya başlayacak,
+											buradaki büyük resim ile uğraşırken bu tür verilere erişebilmek için.
+									","
+											Ceci va devenir très important avec le développement de la
+											visualisation des données. Par exemple, rappelez-vous la présentation de Hans Rosling
+											où il a vraiment mis l'accent sur ce que je pense depuis longtemps :
+											nous avons des données nombreuses, mais, pour diverses raisons, inexploitées.
+											Nous n'y accédons pas vraiment. C'est pourquoi, à mon avis,
+											nous serons aidés par des graphiques et des outils de visualisation et d'inférence.
+											Je pense donc que tout ça commencera grâce à de meilleures interfaces
+											capables d'aller dans le détail des données, tout en pensant à la vue globale, ici.
+									","
+											Das wird immer wichtiger in Dingen wie für z.B. die Datendarstellung
+											Ich denke uns hat allen Hans Rosling's Rede gefallen
+											und er hat den Punkt betont, über den ich auch schon lange Zeit nachdenke:
+											Wir haben diese großen Datenmengen, die aus irgendwelchen Gründen nicht benutzt werden.
+											Wir benutzen sie nicht wirklich. Einer der Gründe ist, denke ich,
+											- uns wird von Dingen wie Grafiken, Visualisierungen und Ableitungswerkzeugen geholfen.
+											Ein weiterer Brocken ist, dass wir bessere Benutzeroberflächen haben werden,
+											mit der wir in die Tiefe dieser Daten eindringen können, dabei aber den Blick fürs Ganze nicht verlieren.
+									",The radical promise of the multi-touch interface,Jeff Han,8:47,"demo,design,interface design,technology"
+"
+","
+","
+","
+","
+",The radical promise of the multi-touch interface,Jeff Han,8:47,"demo,design,interface design,technology"
+"
+											Déjenme mostrarles otra aplicación. Esta se llama WorldWind.
+											Es desarrollada por NASA. Es un tipo de — todos hemos visto Google Earth;
+											esta es una versión de código abierto de eso mismo. Hay plug-ins que permiten
+											cargar distintos conjuntos de datos que NASA ha recolectado durante años.
+											Pero como pueden ver, puedo usar los mismos gestos con dos dedos
+											para bajar y acercarme a la perfección. De nuevo, no hay una interfaz.
+											Realmente permite que cualquiera se acerque — y, hace justamente lo que esperas que haga,
+											Nuevamente, acá no hay una interfaz. La interfaz desaparece.
+											Puedo cambiar a diferentes vistas de datos. Eso es lo genial de esta aplicación.
+											Ahí lo tienen. NASA es genial. Tienen estas imágenes hiper-espectrales
+											que están falsamente coloreadas para que puedan — es muy útil para determinar el uso vegetativo. Bueno, volvamos.
+									","
+											Vou mostrar outra aplicação. 
+Esta chama-se WorldWind.
+											Foi feita pela NASA.
+Todos conhecemos o Google Earth.
+											Esta é uma versão de código aberto.
+											Há ligações para carregar 
+conjuntos de dados diferentes
+											que a NASA recolheu ao longo dos anos.
+											Mas como veem, posso fazer
+gestos com dois dedos
+											para descer e entrar suavemente.
+											Mais uma vez, sem interface.
+											Permite a qualquer pessoa entrar 
+e fazer aquilo que pretende.
+											Novamente, sem interface. 
+A interface desaparece.
+											Posso mudar para diferentes
+vistas de dados.
+											É a vantagem desta aplicação.
+											A NASA é muito fixe.
+											Têm estas imagens hiperespectrais
+cuja cor é adicionada posteriormente.
+											É muito bom para determinar
+utilizações vegetativas.
+											Vamos voltar a isto.
+									","
+											Bu da WorldWind adlı başka bir uygulama.
+											NASA tarafından yapıldı. Hepimiz Google Earth'ü görmüşüzdür;
+											bu da onun açık-kaynaklı versiyonu gibi. NASA'nın uzun yıllar boyu
+											topladığı farklı verileri yüklemek için özel bir uygulaması.
+											Gördüğünüz gibi, yakınlaşmak için
+											aynı iki parmak hareketini kullanıyorum. Yine, hiçbir arayüz yok.
+											Herkese istediği kadar gidebilme imkanı sunuyor — ve, tam olarak beklediğinizi yapıyor.
+											Tekrar, burada arayüz yok. Arayüz hemen kayboluyor.
+											Farklı bir veri görüntüsüne geçebilirim. Bu uygulamanın güzelliği de bu. İşte böyle.
+											NASA gerçekten harika. Bu farklı renklere ayıran
+											elektromanyetik görünüme sahip — bitkileri ayırt etmek için harika. Şuraya geri gidelim.
+									","
+											Voici une autre application. Elle s'appelle WorldWind.
+											C'est fait par la NASA. C'est — nous avons tous vu Google Earth,
+											c'est une version en logiciel libre. Il y a des connecteurs capables
+											de charger différents ensembles de données que la NASA a amassés au fil des ans.
+											Mais comme vous le voyez, je peux utiliser les mêmes gestes des doigts
+											pour zoomer en profondeur sans rupture. Pas d'interface, à nouveau.
+											Cela permet à n'importe qui de zoomer — cela fait ce à quoi vous vous attendez,
+											vous voyez? Encore, pas d'interface. Elle disparaît tout simplement.
+											Je peux passer d'une vue à l'autre. C'est ce qui super avec cette application.
+											Voilà. La NASA est vraiment sympa. Ils ont ces images hyper-spectrales
+											qui sont colorisées pour — c'est vraiment pratique pour déterminer l'usage végétal. Bref, revenons à notre sujet.
+									","
+											Hier eine weitere Applikation namens WorldWind.
+											Von der NASA gemacht - eine Art Google Earth
+											nur in Open-Source. es gibt Plugins
+											mit deinen man verschiedene Datensätze, die die NASA gesammelt hat, laden kann.
+											Wieder die gleichen Zwei-Finger Gestiken
+											zum einfachen Rein- und Rauszoomen. Es gibt kein wirkliches Interface.
+											Es erlaubt einem hinein zu gehen - macht einfach was man erwarten würde.
+											Noch mal - es gibt kein Interface.
+											Ich kann zwischen den verschiedenen Darstellungen wechseln.
+											Bitteschön. Die NASA ist ziemlich cool. Es gibt Ansichten
+											die eingefärbt sind - gut um die vegetative Ausnutzung zu ermitteln.
+									",The radical promise of the multi-touch interface,Jeff Han,8:47,"demo,design,interface design,technology"
+"
+","
+","
+","
+","
+",The radical promise of the multi-touch interface,Jeff Han,8:47,"demo,design,interface design,technology"
+"
+											Ahora, lo mejor de las aplicaciones de cartografía —
+											no es el 2D, es el 3D. Entonces, nuevamente, con una interfaz multi-punto
+											pueden hacer un gesto como este — para que puedan inclinar la cámara,
+											No está relegada al movimiento y al paneo 2D.
+											Ahora, este gesto que hemos desarrollado, funciona colocando dos dedos en la superficie,
+											definiendo un eje de inclinación, y puedo inclinar arriba y abajo de esa forma.
+											Fue algo que se nos ocurrió en el momento,
+											y probablemente no sea lo correcto,
+											pero hay tantas cosas interesantes que se pueden hacer con este tipo de interfaz.
+											Es muy entretenido jugar con ella también. (Risas)
+									","
+											O melhor das aplicações de mapeamento
+											é não ser em 2D mas um género de 3D.
+											Novamente, interface em vários pontos.
+											Podemos fazer um gesto assim
+para o fazer rodar assim.
+											Não está apenas limitado 
+a um movimento e visualização em 2D.
+											Este gesto que desenvolvemos
+— basta utilizar dois dedos —
+											está a definir um eixo de inclinação
+e podemos subir e descer assim.
+											Isto foi uma coisa
+que nos surgiu na altura.
+											Talvez não seja o mais correto de fazer
+											mas há coisas tão interessantes
+que podemos fazer com esta interface.
+											Também é muito divertido brincar com isto.
+											(Risos)
+									","
+											Haritalama uygulamaları hakkında en harika şey —
+											2D değil, bir çeşit 3D olması. Çoklu dokunmatik arayüzle,
+											böyle bir hareket yapabilirsiniz — böylece etrafı böyle eğip bükebilirsiniz.
+											Bu basit bir 2D yaklaşma ve hareket ettirmeden ibaret değil.
+											Bu geliştirdiğimiz hareket ile iki parmağınızı buraya koyuyorsunuz,
+											eğim için bir eksen belirliyor, ve ben de ona göre eğip bükebiliyorum.
+											Bu tam bu durum için bulduğumuz bir çözüm,
+											belki yapılması gereken şey değil
+											ama böyle bir arayüzle yapabileceğiniz bir çok ilginç şey var.
+											Böyle oynamak çok eğlenceli aynı zamanda. (Gülüşmeler)
+									","
+											Le grand intérêt des applications de cartographies —
+											ce n'est pas en 2D, plutôt en 3D. A nouveau, avec une interface multi-points,
+											vous pouvez faire un geste ainsi — et être capable d'incliner comme ça,
+											Ce n'est vraiment pas qu'un simple mouvement de déplacement en 2D.
+											Ce geste que nous avons développé, à nouveau, juste avec deux doigts,
+											définit un axe d'inclinaison et vous pouvez incliner vers le haut ou le bas ainsi.
+											C'est venu naturellement sur le moment,
+											ce n'est probablement pas la bonne chose à faire,
+											mais vous pouvez faire tellement de choses intéressantes avec ces interfaces.
+											C'est aussi très amusant de jouer avec. (Rires)
+									","
+											Das gute an diesen Kartographieprogrammen -
+											es ist nicht wirklich 2D, es ist quasi 3D. Mit dem Mehrpunkt Interface
+											kann man Gestiken wie diese machen um die Ansicht zu kippen.
+											Es ist keine starre 2D Verschiebung und Bewegung.
+											Diese Gestik haben wir entwickelt, man legt 2 Finger so auf den Bildschirm,
+											und definiert die Ache für die Neigung und kann in so die Ansicht drehen.
+											Das fiel uns direkt ein;
+											es ist wahrscheinlich nicht der richtige Weg
+											aber es gibt so viele interessante Dinge die man mit dieser Art Interface machen kann.
+											Es macht so viel Spaß damit herumzuspielen. (Gelächter)
+									",The radical promise of the multi-touch interface,Jeff Han,8:47,"demo,design,interface design,technology"
+"
+","
+","
+","
+","
+",The radical promise of the multi-touch interface,Jeff Han,8:47,"demo,design,interface design,technology"
+"
+											Y lo último que quería mostrarles —
+											Estoy seguro que todos podemos pensar en muchas aplicaciones de entretenimiento
+											que se pueden hacer con esto.
+											Estoy algo más interesado en el tipo de aplicaciones creativas que se pueden hacer.
+											Aquí hay una aplicación muy simple — Puedo dibujar una curva.
+											Y cuando la cierro, se convierte en un personaje.
+											Pero lo genial, es que puedo añadir puntos de control.
+											Y lo que puedo hacer es manipularlos con mis dos dedos al mismo tiempo.
+											Y se pueden dar cuenta de lo que hace.
+											Es como una marioneta, donde puedo usar
+											cuantos dedos tenga para dibujar y hacer —
+									","
+											A última coisa que queria mostrar.
+											Acho que todos podemos pensar
+em aplicações de entretenimento
+											que podemos utilizar com isto.
+											Eu estou mais interessado nestas 
+aplicações criativas que podemos utilizar.
+											Esta é uma aplicação simples.
+											Posso desenhar uma curva.
+											E quando a fecho, 
+torna-se numa figura.
+											O que isto tem de bom, 
+é que posso juntar pontos de controlo
+											e depois posso manipulá-los 
+com os meus dedos, ao mesmo tempo.
+											(Risos)
+											Já repararam no que acontece.
+											Parece uma marioneta, onde posso utilizar
+											todos os meus dedos para desenhar.
+									","
+											Göstermek istediğim son şey —
+											eminim böyle bir aletle yapabileceğimiz
+											bir çok eğlence uygulaması aklınıza gelmiştir.
+											Ben daha çok bu tür yaratıcı uygulamalarla ilgiliyim.
+											İşte basit bir uygulama— Bir eğri çizebiliyorum.
+											Ve eğriyi kapattığımda bir karakter haline geliyor.
+											Güzel olan yanı ise, kontrol noktaları ekleyebilirim.
+											Şimdi de parmaklarımla eş zamanlı olarak onu hareket ettirebilirim.
+											Ne olduğunu görebiliyorsunuz.
+											Bir çeşit kuklacılık, çizmek için
+											ihtiyacım olan parmak sayısı kadar parmağımı kullanabilirim —
+									","
+											La dernière chose que je veux vous montrer est —
+											je suis sûr que nous pouvons tous imaginer des applications de
+											divertissement avec ceci.
+											Je suis un peu plus intéressé par les applications créatives.
+											Enfin, voici une application toute simple — Je dessine une courbe.
+											Quand je la ferme, cela devient un personnage.
+											Le truc sympa, c'est que je peux ajouter des points de contrôle.
+											Ensuite, je peux les manipuler avec mes deux doigts en même temps.
+											Regardez ce qui se passe.
+											C'est comme une marionnette, où j'utilise
+											tous les doigts possibles pour dessiner et créer —
+									","
+											Das letzte was ich euch zeigen wollte -
+											uns fallen hier ohne ende Unterhaltungsapplikationen ein
+											die man damit machen kann.
+											Ich bin mehr an kreativen Programmen interessiert die man damit machen kann.
+											Dies ist ein sehr einfaches Programm - Ich male eine Kurve.
+											Sobald ich sie schließe, wird daraus eine Figur.
+											Das coole daran ist, ich kann Kontrollpunkte hinzufügen
+											Und sie mit beiden Fingern gleichzeitig manipulieren.
+											Bei näherer Betrachtung
+											sieht es aus wie Puppenspiel, bei dem man
+											so viele Finger wie man hat zum Malen und Agieren nutzen kann.
+									",The radical promise of the multi-touch interface,Jeff Han,8:47,"demo,design,interface design,technology"
+"
+","
+","
+","
+","
+",The radical promise of the multi-touch interface,Jeff Han,8:47,"demo,design,interface design,technology"
+"
+											Ahora, hay un montón de matemáticas tras esto
+											para que controle este objeto correctamente.
+											Lo que quiero decir, es que esta técnica que permite manipular este objeto,
+											con múltiples puntos de control, es algo totalmente nuevo.
+											Fue publicado en Siggraph recién el año pasado,
+											pero es un gran ejemplo del tipo de investigación que me encanta.
+											Todo este poder computacional aplicado a hacer que las cosas hagan las cosas correctas,
+											cosas intuitivas. Hacer exactamente lo que esperas.
+									","
+											Há muita matemática aqui
+em segundo plano
+											para controlar este conjunto
+e fazer as coisas bem feitas.
+											Quero dizer, esta técnica de poder
+manipular este conjunto
+											com vários pontos de controlo
+é uma coisa de última geração.
+											Foi lançada na Siggraph no ano passado
+											mas é um ótimo exemplo
+do tipo de investigação que adoro.
+											Todo este poder da informática
+para fazer com que tudo corra bem.
+											Coisas intuitivas que fazem 
+o que nós queremos.
+									","
+											Burada kontrol noktalarını tutmak ve doğru
+											şeyi yapmak için çok fazla matematiksel işlem var.
+											Yani, buradaki cismi kontrol noktaları ile hareket ettirme tekniği,
+											gerçekten teknolojinin son harikası olarak değerlendirilmeli.
+											Geçen sene Siggraph'ta tanıtıldı,
+											hayranı olduğum bir araştırma çeşidinin mükemmel bir örneği.
+											Her şeyin doğru olanı yapması için gereken gücü hesaplıyor,
+											sezgisel şeyleri. Umduğunuz şeyi gerçekleştiriyor.
+									","
+											Il y a beaucoup de calculs derrière
+											pour arriver à contrôler cet engrenage et obtenir le résultat voulu.
+											En clair, cette technique pour manipuler ici un engrenage,
+											avec plusieurs points de contrôle, est en fait l'état de l'art.
+											Cela vient juste de sortir à Siggraph l'an dernier,
+											mais c'est un super exemple du type de recherche que j'aime.
+											Toute cette puissance de calcul pour faire des choses utiles.
+											Intuitivement. Exactement ce que vous attendez.
+									","
+											Dem liegt einiges an Mathematik zugrunde
+											um diese Gebilde zu kontrollieren damit es das richtige Tut.
+											Die Technologie ein solches Gebilde mit mehreren Kontrollpunkten
+											zu kontrollieren, ist modernste Technologie.
+											Sie wurde dieses Jahr bei der Siggraph veröffentlicht,
+											es ist ein klasse Beispiel für die Forschung, die ich liebe.
+											All die Prozessorleistung eingesetzt um Dinge richtig reagieren zu lassen,
+											quasi intuitiv. Zu machen was man erwartet.
+									",The radical promise of the multi-touch interface,Jeff Han,8:47,"demo,design,interface design,technology"
+"
+","
+","
+","
+","
+",The radical promise of the multi-touch interface,Jeff Han,8:47,"demo,design,interface design,technology"
+"
+											Bueno, la interaccion multi-táctil es un campo muy activo ahora en la IPC (Interacción persona-computador)
+											No soy el único haciéndolo, hay muchas personas investigando.
+											Este tipo de tecnología va a permitir que aún más gente se interese,
+											y estoy muy ansioso de interactuar con todos ustedes
+											en los próximos días y ver cómo esto se puede aplicar a sus respectivos campos.
+											Gracias.
+											(Aplausos)
+									","
+											A investigação da interação
+por multi-toque
+											é um campo muito ativo
+atualmente no IHC.
+											Não sou o único a fazê-lo,
+há muitas mais pessoas na área.
+											Este tipo de tecnologia vai permitir
+que muitas mais pessoas a explorem
+											e estou ansioso por interagir convosco
+											durante os próximos dias e ver 
+como o posso aplicar aos vossos campos.
+											Obrigado.
+											(Aplausos)
+									","
+											Çoklu dokunmatik araştırmaları şu anda HCI (Human Computer Interaction- İnsan Bilgisayar Etkileşimi)'da çok aktif bir alan.
+											Bunu yapan sadece ben değilim, bununla uğraşan bir sürü kişi var.
+											Böyle bir teknoloji daha da fazla kişinin uğraşmasını sağlayacak,
+											ve sizlerle önümüzdeki günlerde ilgili alanlara
+											nasıl uygulayabileceğimiz hakkında konuşmak için sabırsızlanıyorum.
+											Teşekkür ederim.
+											(Alkışlar)
+									","
+											La recherche sur l'interaction multi-point est très active en ce moment dans le domaine des interfaces homme-machine
+											Je ne suis pas tout seul, beaucoup de gens s'y mettent.
+											Cette technologie permettra à plus de gens de s'y mettre,
+											je suis très impatient d'interagir avec vous tous
+											dans les jours à venir et de voir comme cela pourra s'appliquer dans vos domaines respectifs.
+											Merci.
+											(Applaudissements)
+									","
+											Mehrberührungsinteraktions-Forschung ist ein sehr aktives Feld in der Mensch-Computer-Interaktion.
+											Ich bin nicht der einzige der dies tut, einige Leute da draußen fangen damit an.
+											Diese Art von Technologie wird es immer mehr Leute ermöglichen sich dafür zu begeistern
+											und ich bin wirklich gespannt mit euch allen in den nächsten Tagen zu reden
+											um zu sehen wo wir dies in euren Gebieten einsetzen können.
+											Dankeschön.
+											(Applaus)
+									",The radical promise of the multi-touch interface,Jeff Han,8:47,"demo,design,interface design,technology"
+"
+","
+","
+","
+","
+",The radical promise of the multi-touch interface,Jeff Han,8:47,"demo,design,interface design,technology"

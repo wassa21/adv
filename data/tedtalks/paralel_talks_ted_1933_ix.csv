@@ -1,0 +1,530 @@
+es,pt,fr,tr,title,speaker,duration,tags
+"
+","
+","
+","
+",Can you solve the counterfeit coin riddle?,Jennifer Lu,4:14,"creativity,TED-Ed,animation,math,money"
+"
+											Eres el mejor matemático del imperio,
+											pero desde que criticaste
+las leyes fiscales del emperador,
+											has estado encerrado en el calabozo
+											con solo un marcador para contar los días.
+											Pero un día, de repente te llevaron
+ante el emperador
+											que parecía aún más enojado 
+que de costumbre.
+											Uno de sus 12 gobernadores ha sido
+culpado por pagar sus impuestos
+											con una moneda falsa que
+											se coló en las arcas del tesoro.
+											Como el más grande matemático imperial,
+											te han concedido la oportunidad de ganar
+tu libertad identificando la moneda falsa.
+											Tienes frente a ti las 12 monedas 
+idénticas y una balanza.
+											Sabes que la moneda falsa será
+ligeramente más liviana o más pesada
+											que el resto.
+											Pero el emperador 
+no es un hombre paciente.
+											Solo puedes usar la balanza tres veces
+											antes de volver al calabozo.
+											Buscas algo más que puedas usar,
+											pero no hay nada en la habitación,
+											solo las monedas,
+											la balanza,
+											y tu marcador de confianza.
+											¿Cómo identificar la falsificación?
+											¡Haz una pausa aquí si deseas
+averiguarlo solo!
+											La respuesta en: 3
+											La respuesta en: 2
+											La respuesta en: 1
+											Obviamente no se puede pesar cada moneda
+contra todas las demás,
+											así que tendrás que pesar 
+varias monedas a la vez,
+											dividiendo la pila en pilas múltiples
+											y luego, por reducción,
+llegar a la moneda falsa.
+											Empezamos dividiendo las 12 monedas
+en tres pilas iguales de cuatro.
+											Al colocar dos pilas en la balanza 
+obtenemos dos posibles resultados.
+											Si los dos lados se equilibran,
+las ocho monedas de la balanza son reales,
+											y la falsa debe estar 
+entre las cuatro restantes.
+											Entonces, ¿cómo hacer un seguimiento 
+de estos resultados?
+											Ahí es donde entra el marcador.
+											Marca las ocho monedas 
+auténticas con un cero.
+											Ahora, toma tres de ellas y pésalas
+contra tres monedas sin marcar.
+											Si se equilibran, las monedas restantes
+sin marca deben ser falsas.
+											Si no se equilibran, dibuja un más en las 
+tres monedas sin marca si son más pesadas
+											o un menos si son más livianas.
+											Ahora, toma dos de las monedas recién 
+marcadas y pésalas una contra otra.
+											Si se equilibran, la tercera es falsa.
+											Caso contrario, mira sus marcas.
+											Si tienen la marca más,
+la más pesada es la impostora.
+											Si tienen la marca menos,
+la más liviana es la impostora.
+											Pero ¿y si la primeras dos pilas
+que pesaste no se equilibraron?
+											Marca las monedas del lado 
+más pesado con un más
+											y las del lado más liviano 
+con un menos.
+											Puedes también marcar las restantes
+cuatro monedas con ceros
+											dado que sabes que la moneda falsa
+ya está en algún lugar de la balanza.
+											Ahora tendrás que pensar estratégicamente
+											para eliminar la ambigüedad restante 
+en solo dos pesadas más.
+											Para lograrlo, deberás 
+volver a montar las pilas.
+											Un método es reemplazar
+tres de las monedas más
+											por tres de las monedas menos,
+											y reemplazar las tres monedas faltantes 
+por monedas cero.
+											A partir de aquí, 
+tienes tres posibilidades.
+											Si el lado que antes era pesado 
+de la balanza es aún más pesado,
+											significa que o la moneda más restante
+de ese lado
+											en realidad es la más pesada,
+											o la moneda menos restante 
+del lado más liviano
+											en realidad es la más liviana.
+											Elige una de ellas y pésala
+contra una de las monedas comunes
+											para ver si es verdad.
+											Si el lado que antes era más pesado 
+se vuelve más liviano,
+											significa que una de las tres
+monedas menos que moviste
+											en realidad es la más liviana.
+											Pesa dos de ellas entre sí.
+											Si se equilibran, la tercera es falsa.
+											Si no se equilibran, 
+es falsa la más liviana.
+											Del mismo modo, si las dos se equilibran
+tras la sustitución,
+											entonces una de las tres monedas más 
+que eliminaste
+											debe ser la más pesada.
+											Pesa dos de ellas entre sí.
+											Si se equilibran, la tercera es falsa.
+											Si no se equilibran, 
+es falsa la más pesada.
+											El emperador asiente con aprobación
+tu hallazgo,
+											Y el gobernador de la falsificación
+toma tu lugar en el calabozo.
+									","
+											És o maior matemático do reino,
+											mas desde que criticaste
+as leis fiscais do Imperador,
+											estás encerrado numa masmorra.
+											apenas com um marcador
+para contar os dias.
+											Mas um dia, és levado subitamente
+à presença do Imperador
+											que parece mais irritado
+do que é habitual.
+											Um dos seus 12 governadores
+foi condenado por pagar os impostos
+											com uma moeda falsa,
+											que acabou por ir parar ao tesouro.
+											Como és o maior matemático
+do reino,
+											concedem-te a hipótese de ganhar
+a liberdade, se identificares a falsa.
+											À tua frente, tens as 12 moedas idênticas
+e uma balança.
+											Sabes que a moeda falsa
+é um pouco mais leve ou mais pesada
+											que as restantes.
+											Mas o Imperador não é um homem paciente.
+											Só podes usar a balança três vezes
+											antes de voltares a ser
+lançado para a masmorra.
+											Procuras à tua volta
+outra coisa que possas usar
+											mas não há mais nada na sala,
+											apenas as moedas, a balança
+											e o teu marcador de confiança.
+											Como identificas a falsificação?
+											[Pausa aqui, se quiseres resolver sozinho]
+											Resposta em: 3
+											Resposta em: 2
+											Resposta em: 1
+											Obviamente, não podes comparar
+o peso de todas as moedas.
+											Por isso, tens que pesar várias moedas
+ao mesmo tempo
+											dividindo o conjunto em várias pilhas
+											e depois reduzindo o seu número
+até à pilha que tem a moeda falsa.
+											Começa por dividir as 12 moedas
+em três pilhas iguais de 4 moedas.
+											Colocando duas dessas pilhas na balança
+dá-te dois resultados possíveis.
+											Se, nos dois pratos da balança,
+estiverem oito moedas autênticas,
+											a moeda falsa tem que estar
+nas quatro restantes
+											Como é que se registam esses resultados?
+											É aqui que entra o marcador.
+											Marca as moedas autênticas com um zero.
+											Agora, agarra em três delas
+											e compara o peso delas
+contra três das moedas sem marca.
+											Se os pratos ficarem equilibrados,
+a moeda restante tem que ser a falsa.
+											Caso contrário, desenha o sinal mais
+nas três moedas sem marca,
+											se forem mais pesadas
+											ou o sinal menos,
+se elas forem mais leves.
+											Agora, agarra em duas das moedas
+recém-marcadas e compara o peso delas.
+											Se os pratos ficarem equilibrados,
+a moeda falsa é a terceira.
+											Caso contrário, olha para as marcas.
+											Se são moedas com o sinal mais,
+a mais pesada é a impostora,
+											se estão marcadas com o sinal menos,
+é a mais leve.
+											E se as duas primeiras pilhas
+que pesares não ficarem equilibradas?
+											Marca as moedas do lado mais pesado
+com o sinal mais
+											e as moedas do lado mais leve
+com o sinal menos.
+											Também podes marcar com zeros
+as moedas restantes.
+											visto que sabes que a falsa
+está algures na balança.
+											Agora tens que pensar numa estratégia
+											para poderes afastar toda a ambiguidade
+em apenas mais duas pesagens.
+											Para isso, precisas
+de reorganizar as pilhas.
+											Um método é substituir
+três das moedas com o sinal mais
+											por três das moedas com o sinal menos,
+											e substituir as primeiras
+por três moedas com o sinal zero.
+											A partir daqui, tens três possibilidades.
+											Se o lado anteriormente mais pesado
+da balança continua a ser mais pesado
+											quer dizer que, ou a restante
+moeda na balança, com o sinal mais,
+											é, de facto, a moeda mais pesada,
+											ou a moeda restante, do lado mais leve
+											é, de facto, a moeda mais leve.
+											Escolhe uma delas e pesa-a
+contra uma das moedas autênticas
+											para ver qual é a verdadeira.
+											Se o lado mais pesado anterior
+se tornar mais leve,
+											quer dizer que uma das três moedas
+com o sinal menos
+											é, de facto, a mais leve.
+											Compara o peso de duas delas.
+											Se ficarem equilibradas,
+a falsa é a terceira.
+											Caso contrário, 
+a falsa é a mais leve.
+											Do mesmo modo,
+se, depois da substituição,
+											os dois lados da balança se equilibrarem,
+											uma das três moedas
+com o sinal mais, que retiraste,
+											tem que ser a mais pesada.
+											Compara o peso de duas delas.
+											Se ficarem equilibradas,
+a falsa é a terceira.
+											Caso contrário, 
+a falsa é a mais pesada.
+											O Imperador aprova a tua descoberta
+											e o lorde falsificador
+substitui-te na masmorra.
+									","
+											Vous êtes le meilleur
+mathématicien du royaume,
+											mais depuis que vous avez critiqué
+les lois fiscales de l'Empereur,
+											vous avez été enfermé dans un donjon
+											avec seulement un marqueur
+pour compter les jours.
+											Mais un jour, vous êtes soudainement
+amené devant l'Empereur
+											qui a l'air encore plus
+en colère que d'habitude.
+											Un de ses douze gouverneurs a été
+reconnu coupable de payer ses impôts
+											avec une pièce de fausse monnaie,
+											qui s'est déjà glissée dans la trésorerie.
+											Reconnu comme le plus grand
+mathématicien du royaume,
+											on vous a offert une chance 
+de gagner votre liberté
+											en identifiant la fausse pièce.
+											Devant vous, se trouvent douze pièces
+apparemment identiques et une balance.
+											Vous savez que la fausse pièce sera
+soit un peu plus légère,
+											soit un peu plus lourde 
+que le reste.
+											Mais l'Empereur
+n'est pas un homme patient.
+											Vous ne pourrez utiliser la balance
+que trois fois
+											avant d'être, à nouveau,
+jeté dans le donjon.
+											Vous regardez
+s'il n'y a rien d'autre d'utile,
+											mais la pièce est vide.
+											Il y a juste les pièces,
+											la balance,
+											et votre loyal marqueur.
+											Comment identifiez-vous
+la pièce contrefaite ?
+											Cliquez sur « pause » si vous voulez
+chercher par vous-même !
+											Réponse dans : 3
+											Réponse dans : 2
+											Réponse dans : 1
+											Évidemment, vous ne pouvez pas
+peser chaque pièce
+											les unes par rapport aux autres.
+											Vous devez donc peser
+plusieurs pièces en même temps,
+											en divisant la pile
+en plusieurs tas,
+											et en les réduisant
+jusqu'à trouver la fausse pièce.
+											Commencez par diviser la pile
+en trois tas égaux de quatre pièces.
+											En placer deux sur la balance
+donne deux résultats possibles.
+											Si c'est équilibré, les huit pièces
+sur la balance sont vraies,
+											et la fausse doit être 
+parmi les quatre restantes.
+											Donc, comment allez-vous
+conserver ces résultats ?
+											C'est là qu'intervient le marqueur.
+											Marquez les huit pièces authentiques
+avec un zéro.
+											Maintenant, prenez en trois, et pesez-les
+par rapport à trois pièces non marquées.
+											Si elles s'équilibrent, la pièce
+non marquée restante est la fausse.
+											Sinon, marquez un « plus »
+sur les trois pièces non marquées
+											si elles sont plus lourdes,
+											ou un « moins » 
+si elles sont plus légères.
+											Prenez à présent deux des pièces
+nouvellement marquées,
+											et pesez-les entre elles !
+											Si elles s'équilibrent,
+la troisième est la fausse.
+											Sinon, regardez leurs marques.
+											Si elles sont marquées avec un « plus »,
+la plus lourde est l'imposteur.
+											Si elles sont marquées avec un « moins »,
+c'est la plus légère.
+											Mais qu'en est-il si les deux premiers tas
+que vous pesez ne s'équilibrent pas ?
+											Marquez les pièces du côté le plus lourd
+avec un « plus »,
+											et celles du côté le plus léger
+avec un « moins ».
+											Vous pouvez aussi marquer les quatre
+pièces restantes avec des zéros,
+											puisque vous savez que la fausse
+est déjà quelque part sur la balance.
+											Maintenant, vous devez
+penser stratégiquement
+											pour réussir à enlever l’ambiguïté
+en seulement deux pesées supplémentaires.
+											Pour cela, vous devez regrouper les tas.
+											Une méthode est de remplacer
+trois des pièces « plus »
+											avec trois des pièces « moins »,
+											et de remplacer celles-là
+avec trois des pièces « zéro ».
+											De là, il y a trois possibilités.
+											Si le côté précédemment plus lourd
+de la balance l'est toujours,
+											cela peut signifier soit que la pièce
+« plus » restante de ce côté
+											est la plus lourde,
+											soit que la pièce « moins »
+du côté le plus léger
+											est la plus légère.
+											Choisissez l'une d'entre elles
+et pesez-la
+											par rapport à une des pièces normales
+											pour savoir quelle solution est vraie.
+											Si le côté précédemment plus lourd
+devient plus léger,
+											cela signifie que l'une
+des trois pièces « moins » déplacées
+											est la plus légère.
+											Pesez-en deux,
+l'une par rapport à l'autre.
+											Si elles s'équilibrent,
+la troisième est fausse.
+											Sinon, la plus légère l'est.
+											De même, si les deux côtés s'équilibrent
+après la substitution,
+											alors l'une des trois pièces « plus »
+que vous avez retirée
+											est la plus lourde.
+											Pesez-en deux
+l'une par rapport à l'autre.
+											Si elles s'équilibrent,
+la troisième est fausse.
+											Sinon, c'est la plus lourde.
+											L'Empereur hoche la tête d'approbation
+à votre conclusion,
+											et le seigneur fraudeur
+prend votre place dans le donjon.
+									","
+											Dünyanın en iyi matematikçisisiniz,
+											fakat İmparatorluğun vergi
+kanunlarını eleştirdiğinizden beri
+											bir zindanda tutuluyorsunuz
+											ve yanınızda yalnızca, günleri
+saymak için bir kalem var.
+											Sonra bir gün, her zamankinden
+daha kızgın görünen
+											İmparatorun huzuruna çıkarılıyorsunuz.
+											On iki valisinden biri vergilerini
+sahte parayla ödeyerek
+											hazineye ulaştırdığından ötürü
+											suçlu bulunmuş.
+											Krallığın en iyi matematikçisi olarak
+											size sahte olan parayı bularak
+özgürlüğünüzü elde etme şansı veriliyor.
+											Önünüzde tamamen aynı görünen on iki
+madeni para ve eşit kollu bir terazi var.
+											Sahte paranın diğerlerinden
+daha hafif ya da daha ağır
+											olacağını biliyorsunuz.
+											Fakat İmparator sabırsız bir adam.
+											Zindana tekrar kapatılmadan önce
+											teraziyi yalnızca üç
+kez kullanabilirsiniz.
+											Etrafta kullanabileceğiniz
+bir şey arıyorsunuz,
+											fakat odada hiçbir şey yok -
+											sadece paralar,
+											terazi
+											ve kaleminiz.
+											Sahte parayı nasıl bulursunuz?
+											Eğer kendiniz çözmek
+istiyorsanız burada durdurun!
+											Cevap için: 3
+											Cevap için: 2
+											Cevap için: 1
+											Her bir parayı tek tek
+tartamayacağınız çok açık,
+											öyleyse paraları birkaç kümeye ayırarak
+											bir kerede birkaç parayı
+birden tartacaksınız,
+											sonra sahte paranın nerede
+olduğunu bulacaksınız.
+											On iki madeni parayı, her birinde 4 tane
+olacak şekilde üç kümeye ayırın.
+											Bu kümelerden ikisini tartmak bize
+iki muhtemel sonuç verir.
+											İki kümenin ağırlığı eşitse,
+terazideki sekiz para da gerçektir
+											ve sahte olan para diğer
+dörtlü kümenin içindedir.
+											Peki bu sonuçları nasıl takip edeceksiniz?
+											Kalem burada devreye giriyor.
+											Sekiz gerçek paranın
+üzerine bir sıfır çizin.
+											Onlardan üçünü alın 
+ve üç işaretsiz parayla tartın.
+											Eğer denge sağlanırsa, geriye kalan
+işaretsiz para sahte olmalıdır.
+											Denge sağlanmazsa, işaretsiz üç
+paranın üzerine ağır gelirlerse artı,
+											hafif gelirlerse eksi çizin.
+											Şimdi yeni işaretlediğiniz paralardan 
+ikisini alın ve karşılıklı olarak tartın.
+											Denge sağlanırsa, üçüncü para sahtedir.
+											Aksi takdirde işaretlerine bakın.
+											Artı işaretlilerse ağır olan sahtedir.
+											Eksi işaretlilese hafif olan sahtedir.
+											Peki tarttığınız ilk iki küme eşit
+ağırlıkta değilse ne olur?
+											Ağır gelen kısımdaki paraların
+üzerine artı,
+											hafif olanların üzerine eksi
+işareti koyun.
+											Ayrıca kalan dört parayı da 
+sıfır olarak işaretleyebilirsiniz,
+											çünkü sahte olanın terazidekilerden
+biri olduğunu biliyorsunuz.
+											Şimdi yalnızca iki kez daha tartarak
+											belirsizliği çözebilmek için stratejik
+düşünmeniz gerekmektedir.
+											Bunun için kümeleri yeniden
+düzenlemeniz lazım.
+											Bunun bir yolu artı
+işaretli üç para yerine
+											üç adet eksi işaretli para koymak
+											ve bunları da sıfır işaretli 
+üç parayla değiştirmektir.
+											Bundan sonra üç olasılığınız var.
+											Terazide, önceden ağır gelen
+kısım hala ağır geliyorsa,
+											o tarafta kalan artı işaretli para
+											aslında ağır olan para
+											veya hafif kısımda kalan 
+eksi işaretli para
+											aslında hafif olan para demektir.
+											Bunlardan birisini seçin ve hangisinin
+gerçek olduğunu anlamak için
+											sıradan bir para ile onu tartın.
+											Önceden ağır olan kısım hafifleşirse,
+											aldığınız üç eksi işaretli paradan birinin
+											aslında daha hafif olduğu anlamına gelir.
+											Bunlardan ikisini birbiriyle tartın.
+											Eğer eşit gelirlerse, üçüncüsü sahtedir.
+											Eşit gelmezse, hafif olan sahtedir.
+											Aynı şekilde, yerine koyduktan sonra
+iki parça da dengedeyse,
+											aldığınız artı işaretli üç paradan biri
+											daha ağır olan demektir.
+											Bunlardan ikisini birbiriyle tartın.
+											Denge sağlanırsa, üçüncüsü sahtedir.
+											Sağlanmazsa, daha ağır olan sahtedir.
+											İmparator onaylarcasına başını eğer
+											ve sahtekar Lord sizin
+zindandaki yerinizi alır.
+									",Can you solve the counterfeit coin riddle?,Jennifer Lu,4:14,"creativity,TED-Ed,animation,math,money"
+"
+","
+","
+","
+",Can you solve the counterfeit coin riddle?,Jennifer Lu,4:14,"creativity,TED-Ed,animation,math,money"

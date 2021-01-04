@@ -1,0 +1,2538 @@
+en,es,tr,fr,de,title,speaker,duration,tags
+"
+","
+","
+","
+","
+",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+											It feels like we're all suffering
+											from information overload or data glut.
+											And the good news is there might be an easy solution to that,
+											and that's using our eyes more.
+											So, visualizing information, so that we can see
+											the patterns and connections that matter
+											and then designing that information so it makes more sense,
+											or it tells a story,
+											or allows us to focus only on the information that's important.
+											Failing that, visualized information can just look really cool.
+									","
+											Parece que todos sufrimos
+											la sobrecarga de información o el exceso de datos.
+											Lo bueno es que puede que haya una solución fácil para eso,
+											simplemente usando más los ojos.
+											Es decir, visualizando la información para que podamos ver
+											los patrones y conexiones importantes
+											y luego diseñando esa información para que tenga más sentido,
+											o para que explique una historia,
+											o para que nos permita centrarnos únicamente en la información relevante.
+											De no ser así, la información visualizada puede ser realmente fría.
+									","
+											Sanki hepimiz ızdırap içindeyiz
+											bilgi yüklenmesi ve veri yoğunluğundan.
+											Ve iyi haber ise buna kolay bir çözümümüz olabilir,
+											bu da gözlerimizi daha çok kullanmamız.
+											Öyleyse, bilgiyi görselleştirmek, gördüğümüz kadarıyla
+											önemli motifler ve bağlantılar almak
+											ve tasarlayarak onlara anlaşılabilirlik sağlamak,
+											yada bir hikaye okutmak,
+											yada sadece önemli olan bilgiye odaklanmamızı sağlama amacı taşır.
+											Başarısız olan sonuç, görselleştirilmiş bilginin çok havalı görünebileceğidir.
+									","
+											J'ai l'impression que nous souffrons tous
+											d'un excès d'information ou d'une surabondance de données.
+											Et la bonne nouvelle est qu'il se pourrait qu'il y ait une solution facile à cela,
+											et c'est d'utiliser plus nos yeux.
+											Et donc, en visualisant les informations, afin de pouvoir voir
+											les modèles et les connexions qui ont de l'importance
+											et en designant ces informations pour qu'elles aient plus de sens,
+											ou qu'elles racontent une histoire,
+											ou nous permettre de nous concentrer seulement sur les informations qui sont importantes.
+											Sinon, les informations visualisées peuvent juste avoir l'air vraiment cool.
+									","
+											Es scheint, als würden wir alle
+											unter der Informations- oder Datenflut leiden.
+											Und die gute Nachricht ist, dass es dafür vielleicht eine einfache Lösung gibt,
+											indem wir unsere Augen stärker einsetzen.
+											Also die Informationen zu visualisieren, so dass wir
+											die wesentlichen Muster und Verbindungen sehen können.
+											Und dann diese Informationen so zu gestalten, dass sie mehr Sinn ergeben
+											oder eine Geschichte erzählen,
+											oder wir uns auf die wichtigen Informationen konzentrieren können.
+											Ohne das können visualisierte Informationen auch einfach gut aussehen.
+									",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+","
+","
+","
+","
+",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+											So, let's see.
+											This is the $Billion Dollar o-Gram,
+											and this image arose
+											out of frustration I had
+											with the reporting of billion-dollar amounts in the press.
+											That is, they're meaningless without context:
+											500 billion for this pipeline,
+											20 billion for this war.
+											It doesn't make any sense, so the only way to understand it
+											is visually and relatively.
+											So I scraped a load of reported figures
+											from various news outlets
+											and then scaled the boxes according to those amounts.
+											And the colors here represent the motivation behind the money.
+											So purple is ""fighting,""
+											and red is ""giving money away,"" and green is ""profiteering.""
+											And what you can see straight away
+											is you start to have a different relationship to the numbers.
+											You can literally see them.
+											But more importantly, you start to see
+											patterns and connections between numbers
+											that would otherwise be scattered across multiple news reports.
+									","
+											Veamos.
+											Aquí tenemos el diagrama de los mil millones.
+											Y esto surgió
+											de la frustración que tuve
+											al tener que escribir un artículo sobre cifras, sobre miles de millones de dólares.
+											Es decir, que carecen de cualquier significado sin contexto.
+											500 mil millones para el oleoducto.
+											20 mil millones para esta guerra.
+											Así no tiene ningún sentido, la única manera de entenderlo
+											es visualizándolo y relativizándolo.
+											Así es que, escarbé en un montón de cifras publicadas
+											en diversos medios de comunicación
+											y luego adapté las casillas a las cantidades.
+											Y los colores que representan la motivación existente tras el dinero.
+											Así púrpura significa combate,
+											rojo significa donaciones y verde especulación.
+											Y lo que se percibe de inmediato
+											es que se comienza a establecer una relación diferente con los números.
+											Literalmente se pueden ver.
+											Pero lo más importante es que se comienzan a ver
+											patrones y conexiones entre los números
+											que de otro modo encontraríamos diseminados en múltiples artículos de prensa.
+									","
+											O zaman görelim,
+											Bu bir Milyar Dolar Gramıdır,
+											ve bu şekil çıkıyor
+											basına verdiğim milyar dolar miktarlarından
+											bunalıma girdikten sonra.
+											Bu kadar, içerik olmadan anlamsızlar.
+											500 milyar dolar bu boru hattı için.
+											20 milyar dolar bu savaş için.
+											Hiç bir anlam ifade etmiyorlar, bu yüzden anlamanın tek yolu
+											ilişkili ve görsel olarak.
+											Bende bildirilen figürlerden bir sürü topladım
+											çeşitli haber çıktılarından
+											ve kutuları o boyutlara göre tekrar şekillendirdim.
+											Ve renkler paranın motivasyonunu sağlamak için oradaydı.
+											Mor kavga etmekti.
+											kırmızı parayı karşılıksız vermek, ve yeşil ise istifçilikti.
+											Ve hemen görebileceğiniz şey ise
+											rakamlarla farklı bir ilişki görmeye başlıyor olmanız.
+											Onları tam anlamlarıyla görebiliyordunuz.
+											Ama daha da önemlisi,
+											başka türlü birden çok haber raporlarının içinde yayılacak olan,
+											rakamların arasındaki motifleri ve bağlantıları görmeye başlıyorsunuz.
+									","
+											Donc, voyons ça.
+											C'est le diagramme des milliards de dollars,
+											et cette image est née
+											de ma frustration
+											avec les rapports de montants de milliards de dollars dans la presse.
+											C'est-à-dire, ils n'ont aucun sens hors contexte.
+											500 milliards pour cet oléoduc.
+											20 milliards pour cette guerre.
+											Ca n'a aucun sens, donc le seul moyen de comprendre ça
+											c'est visuellement et relativement.
+											Donc j'ai rassemblé un tas de chiffres rapportés
+											par différents services d'information
+											et j'ai mis les carrés à l'échelle en fonction de ces montants.
+											Et les couleurs représentent la motivation derrière l'argent.
+											Donc le violet c'est le combat.
+											et le rouge c'est les dons d'argent, et le vert c'est les profits excessifs.
+											Et ce qu'on voit tout de suite
+											c'est qu'on commence à avoir une relation différente aux chiffres.
+											On peut littéralement les voir.
+											Mais ce qui est plus important, on commence à voir
+											des modèles et des connexions entre les chiffres
+											qui autrement seraient éparpillés dans de multiples articles.
+									","
+											Also, schauen wir es uns an.
+											Dies ist das Milliarden-Dollar-o-Gram
+											und dieses Bild entstand aus
+											der Frustration, die ich verspürte,
+											als über Milliarden Dollar hohe Beträge in der Presse berichtet wurde.
+											Denn ohne Zusammenhang sind sie nichtssagend.
+											500 Milliarden für diese Rohrleitung.
+											20 Milliarden für diesen Krieg.
+											Es hat überhaupt keinen Sinn. Die einzige Möglichkeit, die Zahlen zu verstehen,
+											ist visuell und relativ.
+											Ich habe also viele Kennzahlen
+											aus verschiedenen Nachrichtenkanälen zusammengesucht
+											und dann entsprechend zu den Werten die Boxen eingezeichnet.
+											Und die Farben hier stellen die Motivation hinter dem Geld dar.
+											Lila steht für Kampf,
+											rot für Geldspenden und grün für Geschäftemacherei.
+											Und was Sie sofort sehen können ist,
+											dass Sie anfangen, eine andere Beziehung zu den Zahlen herzustellen.
+											Sie können sie buchstäblich sehen.
+											Aber viel wichtiger ist, dass Sie anfangen,
+											Muster und Verbindungen zwischen den Zahlen zu sehen,
+											die ansonsten über verschiedene Nachrichtenmeldungen verteilt wären.
+									",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+","
+","
+","
+","
+",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+											Let me point out some that I really like.
+											This is OPEC's revenue, this green box here —
+											780 billion a year.
+											And this little pixel in the corner — three billion —
+											that's their climate change fund.
+											Americans, incredibly generous people —
+											over 300 billion a year, donated to charity every year,
+											compared with the amount of foreign aid
+											given by the top 17 industrialized nations
+											at 120 billion.
+											Then of course,
+											the Iraq War, predicted to cost just 60 billion
+											back in 2003.
+											And it mushroomed slightly. Afghanistan and Iraq mushroomed now
+											to 3,000 billion.
+											So now it's great
+											because now we have this texture, and we can add numbers to it as well.
+											So we could say, well, a new figure comes out ... let's see African debt.
+											How much of this diagram do you think might be taken up
+											by the debt that Africa owes to the West?
+											Let's take a look.
+											So there it is:
+											227 billion is what Africa owes.
+											And the recent financial crisis,
+											how much of this diagram might that figure take up?
+											What has that cost the world? Let's take a look at that.
+											Dooosh — Which I think is the appropriate sound effect
+											for that much money:
+											11,900 billion.
+											So, by visualizing this information,
+											we turned it into a landscape
+											that you can explore with your eyes,
+											a kind of map really, a sort of information map.
+											And when you're lost in information,
+											an information map is kind of useful.
+									","
+											Permítanme señalar algunos que me gustan.
+											Estos son los ingresos de la OPEP, la caja verde de aquí,
+											780 mil millones al año.
+											Y este pequeño pixel en la esquina de tres mil millones
+											son los fondos para el cambio climático.
+											Los estadounidenses, personas increíblemente generosas,
+											donaron más de 300 mil millones de dólares a la beneficencia como cada año,
+											comparado con la suma de la ayuda exterior
+											donada por los 17 países más industrializados
+											de 120 mil millones de dólares.
+											Y, por supuesto,
+											la guerra de Irak, cuyos costes previstos eran de apenas 60 mil millones
+											en el 2003.
+											Y que se ha multiplicado ligeramente. Afganistán asciende ahora a
+											a 3 billones de dólares.
+											Así que es estupendo
+											porque ahora tenemos este entorno donde podemos añadir también números.
+											Así que podemos decir, un nuevo número sale... vamos a ver la deuda africana.
+											¿Cuánto de este diagrama creen que podría condonarse
+											de la deuda que África debe a Occidente?
+											Echemos un vistazo.
+											Ahí está.
+											227 mil millones es lo que África debe.
+											Y la reciente crisis financiera,
+											¿cuánto de este diagrama podría alcanzar esta cantidad?
+											¿Qué costaría esto al mundo? Vamos a ver.
+											¡Guauuuuu! Creo que es el efecto de sonido apropiado
+											para esa cantidad de dinero.
+											11,9 billones.
+											Así, mediante la visualización de esta información,
+											se convierte en un escenario
+											explorable con los ojos,
+											una especie de mapa en realidad, una especie de mapa de información.
+											Y cuando uno está perdido en información,
+											el mapa de la información es una ayuda.
+									","
+											Gerçekten sevdiğim bir kaç taneyi gösteriyim.
+											Bu OPEC'in mekanı, buradaki yeşik kutu —
+											yılda 780 milyar.
+											Ve bu köşedeki küçük piksel — üç milyar —
+											onların ilkim değişikliği fonu.
+											Amerikalılar, inanılmaz cömert insanlar —
+											yılda 300 milyardan fazlasını her sene bağışlıyorlar,
+											yabancı yardımlara kıyasla
+											17 endüstriyel ulus
+											120 milyarda.
+											Ve daha sonra tabiki
+											Irak Savaşı, sadece 60 milyara mal olması planlanmıştı
+											2003 yılında.
+											Ama yavaşça yayıldı. Afganistan bugün
+											3,000 milyar'a kadar çıktı.
+											Ama şimdi harika
+											çünkü artık bu desen var ve ona rakamlarıda ekleyebiliyoruz.
+											O zaman diyebilirizki, yeni bir figür çıkıyor ortaya... Afrika'nın borcuna bir bakalım.
+											Bu diagram da Afrika'nın Batıya olan
+											borcu için ne kadar ayrılmıştır sizce?
+											Bir göz atalım.
+											İşte burada.
+											227 milyar, Afrika'nın borcudur.
+											Ve en son ekonomik kriz —
+											bu diagramın ne kadarını kapsar?
+											Dünyaya nekadara mal olduğuna bir bakalım?
+											Mangıııır. Sanırım doğru ses efekti bu
+											bu kadar para için
+											11,900 milyar.
+											O zaman bu bilgiyi görselleştirirsek,
+											bunu bir görünüme çevirdik
+											böylece gözlerinizle inceliyebilirsiniz,
+											bir harita gibi, daha çok bir bilgi haritası.
+											Ve bilginin içinde kaybolduğunuzda,
+											bir bilgi haritası işinize yarayacaktır.
+									","
+											Permettez-moi de vous faire remarquer certains chiffres que j'aime vraiment.
+											C'est le revenu de l'OPEP, ce carré vert ici —
+											780 milliards par an.
+											Et ce petit pixel dans le coin — trois milliards —
+											c'est leur fonds pour le changement climatique.
+											Les américains, des gens incroyablement généreux —
+											plus de 300 milliards par an, donnés aux organismes caritatifs chaque année,
+											comparé au montant de l'aide étrangère
+											donné par les 17 plus grands pays industrialisés
+											qui s'élève à 120 milliards.
+											Et puis bien sûr,
+											la guerre en Iraq, dont le coût était prévu à 60 milliards
+											en 2003.
+											Et il a légèrement gonflé. L'Afghanistan a gonflé à présent
+											à 3 000 milliards.
+											Donc maintenant c'est génial
+											parce que maintenant nous avons cette texture, et nous pouvons y ajouter des chiffres aussi.
+											Alors nous pourrions dire, et bien, un nouveau chiffre sort .. voyons la dette africaine.
+											Quelle proportion pensez-vous que la dette que l'Afrique doit
+											à l'Occident occupe sur ce diagramme?
+											Jetons un coup d'oeil.
+											Voilà.
+											227 milliards, c'est ce que l'Afrique doit.
+											Et la récente crise financière —
+											quelle proportion de ce diagramme cela pourrait occuper?
+											Qu'est-ce que ça a coûté au monde? Regardons ça.
+											Vlan! Je pense que c'est l'effet sonore adéquat
+											pour autant d'argent.
+											11 900 milliards.
+											Donc, en visualisant ces informations,
+											nous l'avons transformé en un paysage
+											que vous pouvez explorer avec vos yeux,
+											un genre de carte vraiment, une sorte de cartes d'informations.
+											Et quand vous êtes perdu dans les informations,
+											une carte des informations est plutôt utile.
+									","
+											Lassen Sie mich einige herausstellen, die mir sehr gefallen.
+											Das hier sind die Einkünfte der OPEC. Diese grüne Box hier —
+											780 Milliarden pro Jahr.
+											Und dieser kleine Bildpunkt in der Ecke — drei Milliarden —
+											das ist ihr Klimaschutzfond.
+											Amerikaner, unglaublich großzügige Leute —
+											über 300 Milliarden pro Jahr, gespendet für wohltätige Zwecke.
+											Verglichen mit der Entwicklungshilfe
+											der wichtigsten 17 Industrienationen
+											in Höhe von 120 Milliarden.
+											Und dann natürlich
+											der Irak-Krieg, dessen Kosten auf 60 Milliarden
+											im Jahr 2003 geschätzt wurden.
+											Sie sind geringfügig angestiegen. Afghanistan und Irak belaufen sich nunmehr auf
+											3.000 Milliarden.
+											Also, es ist großartig,
+											dass wir nun diese Struktur haben und weitere Zahlen hinzufügen können.
+											Wir könnten also sagen: Eine neue Kennzahl erscheint. Lassen Sie uns Afrikas Schulden betrachten.
+											Wie viel von diesem Diagramm glauben Sie machen
+											die Schulden Afrikas an den Westen aus?
+											Schauen wir es uns an.
+											Da ist es.
+											227 Milliarden sind es, die Afrika schuldet.
+											Und die jüngste Finanzkrise —
+											wie viel von diesem Diagramm macht diese Zahl wohl aus?
+											Was hat sie die Welt gekostet? Schauen wir es uns an.
+											Tuschhhh. Das wäre glaube ich das passende Geräusch dazu
+											für so viel Geld.
+											11.900 Milliarden.
+											Also, indem wir Informationen visualisieren,
+											haben wir sie in ein Landschaftbild überführt,
+											das Sie mit Ihren Augen erkunden können —
+											eine Art Karte, sozusagen eine Informationskarte.
+											Und wenn Sie sich in Informationen verlieren,
+											ist eine Informationskarte ziemlich nützlich.
+									",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+","
+","
+","
+","
+",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+											So I want to show you another landscape now.
+											We need to imagine what a landscape
+											of the world's fears might look like.
+											Let's take a look.
+											This is Mountains Out of Molehills,
+											a timeline of global media panic.
+											(Laughter)
+											So, I'll label this for you in a second.
+											But the height here, I want to point out,
+											is the intensity of certain fears
+											as reported in the media.
+											Let me point them out.
+											So this, swine flu — pink.
+											Bird flu.
+											SARS — brownish here. Remember that one?
+											The millennium bug,
+											terrible disaster.
+											These little green peaks
+											are asteroid collisions.
+											(Laughter)
+											And in summer, here, killer wasps.
+									","
+											Ahora quiero mostrar otro escenario.
+											Tenemos que imaginarnos lo que sería un escenario
+											de los miedos del mundo.
+											Echemos un vistazo.
+											Son montañas, una cordillera de colinas,
+											un cronograma del pánico global transmitido en los medios.
+											(Risas)
+											Lo etiquetaré para Uds en un segundo.
+											Quisiera señalar que la altura
+											significa la intensidad de ciertos miedos
+											según se informa en los medios de comunicación.
+											Se los mostraré.
+											Esto en rosa es la gripe porcina.
+											La gripe aviar.
+											Epidemia del SARS, la marrón. ¿Se acuerdan de esa?
+											El error del milenio,
+											desastre terrible.
+											Estos picos pequeños verdes
+											son las colisiones de asteroides.
+											(Risas)
+											Y en verano, aquí, avispas asesinas.
+									","
+											O zaman şimdi size başka bir görünümü göstermek istiyorum.
+											Dünyanın korkularının gökdeleninin
+											neye benzeyebileceğini hayal etmeliyiz.
+											Hadi göz atalım.
+											Bu köstebek tepelerinden dağlar,
+											evrensel medya paniğinin zaman çizelgesi.
+											(Kahkaha)
+											Bunu sizin için hemen isimlendireceğim.
+											Ama burada üzerinde durmak istediğim, yükseklik,
+											bazı belli korkuların şiddeti,
+											medyada verildiği gibi.
+											Onları göstereyim.
+											İşte burada, domuz gribi — pembe.
+											Kuş gribi,
+											SARS — kahverengimsi. Bunu unutmayın.
+											Milenyum virüsü —
+											korkunç bir felaket.
+											Bu küçük yeşil zirveler
+											meteor çarpışmaları.
+											(Kahkaha)
+											Ve yazın, burada, ölümcül yaban ,arıları.
+									","
+											Alors je veux vous montrer un autre paysage maintenant.
+											Il nous faut imaginer ce à quoi un paysage
+											des peurs du monde pourrait ressembler.
+											Regardons ça.
+											Voici des montagnes faites à partir de taupinières,
+											une chronologie de la panique des média mondiaux.
+											(Rires)
+											Donc je vous donnerai la légende dans une seconde.
+											Mais la hauteur ici, que je veux vous faire remarquer,
+											c'est l'intensité de certaines peurs,
+											telles qu'elles ont été rapportées dans les média.
+											Permettez moi de vous les montrer.
+											Alors voici la grippe H1N1 — rose.
+											La grippe aviaire.
+											Le SRAS — en marron ici. Vouos vous rappelez de celui-là.
+											Le bug de l'an 2000 —
+											une terrible catastrophe.
+											Ces petits pics verts
+											sont les collisions d'astéroïdes.
+											(Rires)
+											Et en été, ici, les guêpes tueuses.
+									","
+											Ich möchte Ihnen noch ein weiteres Landschaftsbild zeigen.
+											Stellen wir uns vor wie ein Landschaftsbild
+											der Ängste in der Welt aussehen könnte.
+											Schauen wir es uns an.
+											Dies sind die Berge aus Maulwürfshügeln.
+											Eine Zeitleiste globaler Panik in den Medien.
+											(Gelächter)
+											Ich werde sie gleich für Sie beschriften.
+											Aber die Höhe hier, auf die ich hinweisen möchte,
+											stellt die Intensität bestimmter Ängste dar,
+											wie sie von den Medien berichtet wurden.
+											Lassen Sie mich diese herausstellen.
+											Diese hier, Schweinegruppe — rosa.
+											Vogelgrippe.
+											SARS - hier in braun. Erinnern Sie sich?
+											Das Jahr-2000-Problem —
+											furchtbare Katastrophe.
+											Diese kleinen grünen Höhepunkte
+											sind Zusammenstöße mit Asteroiden.
+											(Gelächter)
+											Und hier im Sommer — Killer-Wespen.
+									",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+","
+","
+","
+","
+",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+											(Laughter)
+									","
+											(Risas)
+									","
+											(Kahkaha)
+									","
+											(Rires)
+									","
+											(Gelächter)
+									",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+","
+","
+","
+","
+",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+											So these are what our fears look like
+											over time in our media.
+											But what I love — and I'm a journalist —
+											and what I love is finding hidden patterns; I love being a data detective.
+											And there's a very interesting and odd pattern hidden in this data
+											that you can only see when you visualize it.
+											Let me highlight it for you.
+											See this line, this is a landscape for violent video games.
+											As you can see, there's a kind of odd, regular pattern in the data,
+											twin peaks every year.
+											If we look closer, we see those peaks occur
+											at the same month every year.
+											Why?
+											Well, November, Christmas video games come out,
+											and there may well be an upsurge in the concern about their content.
+											But April isn't a particularly massive month
+											for video games.
+											Why April?
+											Well, in April 1999 was the Columbine shooting,
+											and since then, that fear
+											has been remembered by the media
+											and echoes through the group mind gradually through the year.
+											You have retrospectives, anniversaries,
+											court cases, even copy-cat shootings,
+											all pushing that fear into the agenda.
+											And there's another pattern here as well. Can you spot it?
+											See that gap there? There's a gap,
+											and it affects all the other stories.
+											Why is there a gap there?
+											You see where it starts? September 2001,
+											when we had something very real
+											to be scared about.
+									","
+											Así que estos son los que parecen ser nuestros miedos
+											en el transcurso del tiempo en nuestros medios de comunicación.
+											Pero lo que me encanta, soy periodista,
+											es encontrar patrones ocultos, me encanta ser un detective de datos.
+											Y existe un patrón muy interesante y extraño oculto en estos datos
+											que sólo se puede ver al visualizarlos.
+											Permítanme que los resalte.
+											Observen esta línea. Es un mapa relativo a videojuegos violentos.
+											Como ven, hay una especie de patrón extraño, constante en los datos,
+											picos idénticos cada año.
+											Si observamos con detalle, vemos que los picos se repiten
+											en el mismo mes cada año.
+											¿Por qué?
+											En noviembre se lanzan los videojuegos para la campaña de Navidad
+											y puede que haya una mayor preocupación por su contenido.
+											Pero abril no es un mes particularmente relevante
+											para los videojuegos.
+											¿Por qué abril?
+											En abril de 1999 fue la masacre de Columbine,
+											y desde entonces, aquel miedo
+											ha sido recordado por los medios de comunicación
+											y resuena en las mentes de algunos durante el año.
+											Contamos con retrospectivas, aniversarios,
+											casos judiciales, incluso con simulaciones de tiroteos,
+											todo alimentando el miedo como tema del día.
+											Y hay otro patrón aquí. ¿Lo ven?
+											¿Ven ese vacío? Hay una espacio,
+											y repercute en el resto de las noticias.
+											¿Por qué hay un vacío ahí?
+											¿Ven cuándo empieza? Septiembre de 2001,
+											cuando tuvimos algo muy real
+											a lo que temer.
+									","
+											İşte bunlar zamanla medyada bizim korkularımızın
+											nasıl göründükleri.
+											Ama benim — bir gazeteci olarak en sevdiğim —
+											ve en sevdiğim gizli motifleri bulmak; Veri dedektifi olmayı çok seviyorum.
+											Ve bu veride çok farklı ve ilginç bir motif var
+											sadece görselleştirdiğiniz zaman görebileceğiniz bir tane.
+											Onu sizin için işaretliyim.
+											Bu çizgiye bakın. Bu görünüm şiddet içerikli video oyunları için.
+											Gördüğünüz gibi, farklı, sıradan bir motif bu verideki,
+											her sene çifte zirveler.
+											Daha yakından bakacak olursak, bu zirvelerin oluştuğunu görebiliriz.
+											her sene aynı ay.
+											Neden?
+											Çünkü Kasımda, Yıl başında video oyunları piyasaya çıkar,
+											ve bu oyunlarının içerikleriyle ilgili endişelerde artış görülür.
+											Ama Nisan özellikle çok yoğun bir ay değildir
+											video oyunları için.
+											Neden Nisan?
+											Çünkü 1999 Nisanında Columbine çatışması yaşandı,
+											ve o zamandan beri, o korku
+											medya tarafından hatırlandı
+											ve grup zihninden yayılan yankılar sene boyunca hızla artıyor.
+											Geçmişe yönelik işleriniz, yıldönümleriniz,
+											mahkeme günleriniz, hatta taklitçi avlarınız,
+											hepsi korkularınızı ajendaya itiyor.
+											Ve burada başka bir motif daha var. Görebiliyormusunuz?
+											Buradaki boşluğu görüyormusunuz? Burada bir boşluk var,
+											ve diğer bütün hikayeleri etkiliyor.
+											Neden orada bir boşluk var?
+											Nerede başladğını görüyormusunuz? 2001 Eylül,
+											gerçekten gerçek olan birşey olduğunda
+											korkmamızı gerektiren.
+									","
+											Voilà donc à quoi ressemblent nos peurs
+											au fil du temps dans nos média.
+											Mais ce que j'adore — et je suis journaliste —
+											et ce que j'adore c'est de trouver les modèles cachés: j'adore être un détective de données.
+											Et il y a un modèle très intéressant et très bizarre caché dans ces données
+											que vous ne pouvez voir que quand vous le visualisez.
+											Permettez-moi de le mettre en évidence pour vous.
+											Vous voyez cette ligne. C'est un paysage pour les jeux vidéo violents.
+											Comme vous pouvez le voir, il y a un modèle bizarre, régulier dans les données,
+											deux sommets identiques chaque année.
+											Si vous regardez de plus près, nous voyons que ces pics se passent
+											le même mois de chaque année.
+											Pourquoi?
+											Et bien, novembre, les jeux vidéo de Noël sortent.
+											et il se peut bien qu'il y ait une recrudescence d'inquiétude quant à leur contenu.
+											Mais avril n'est pas particulièrement un mois de
+											sorties massives de jeux vidéos.
+											Pourquoi avril?
+											Et bien, en avril 1999 a eu lieu la fusillade de Columbine.
+											et depuis, cette peur
+											a été rappelée dans les média
+											et trouve un écho dans l'esprit collectif petit à petit au fil de l'année.
+											Vous avez des rétrospectives, des anniversaires,
+											des procès, et même des fusillades similaires,
+											le tout ramenant cette peur au premier plan.
+											Et il y a un autre modèle ici aussi. Est-ce que vous le repérez?
+											Vous voyez ce fossé ici? il y a un fossé,
+											et il affecte toutes les autres histoires.
+											Pourquoi y a-til un fossé ici?
+											Vous voyez où il commence? Septembre 2001,
+											quand nous avons vécu quelque chose
+											dont on peut avoir vraiment peur.
+									","
+											So sehen also unsere Ängste
+											im Laufe der Zeit in unseren Medien aus.
+											Was ich jedoch liebe — und ich bin Journalist —
+											was ich liebe, sind versteckte Muster. Ich liebe es, ein Daten-Detektiv zu sein.
+											Und es gibt ein sehr interessantes und sonderbares, verstecktes Muster in diesen Daten,
+											das man nur sehen kann, wenn man es visualisiert.
+											Lassen Sie es mich für Sie hervorheben.
+											Sehen Sie sich diese Reihe an. Dies ist ein Landschaftsbild gewaltbetonter Videospiele.
+											Wie Sie sehen können, gibt es hier ein sonderbares, regelmäßiges Muster in diesen Daten.
+											Zwei Höhepunkte jedes Jahr.
+											Wenn wir es uns näher ansehen, stellen wir fest, dass diese Höhepunkte
+											in denselben Monaten jeden Jahres auftreten.
+											Warum?
+											Nun, im November erscheinen die Weihnachts-Videospiele
+											gibt es sicher einen steilen Anstieg der Bedenken gegenüber deren Inhalt.
+											Aber der April ist nicht gerade ein besonderer Monat
+											für Videospiele.
+											Warum April?
+											Nun, im April 1999 war das Schulmassaker an der Columbine High School
+											und seitdem wurde an diese Angst
+											von den Medien erinnert
+											und findet sich nach und nach in den Köpfen im Laufe des Jahres wieder.
+											Es gibt Rückblicke, Jahrestage,
+											Gerichtsverfahren, sogar Schießereien von Nachahmern.
+											All das bringt diese Angst wieder auf die Tagesordnung.
+											Und es gibt hier noch ein anderes Muster. Können Sie es sehen?
+											Sehen Sie diese Lücke? Dort ist eine Lücke
+											und sie wirkt sich auf alle anderen Geschichten aus.
+											Warum ist dort eine Lücke?
+											Sehen Sie wo sie beginnt? Im September 2001,
+											als wir etwas sehr Reales hatten,
+											das uns Angst machte.
+									",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+","
+","
+","
+","
+",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+											So, I've been working as a data journalist for about a year,
+											and I keep hearing a phrase
+											all the time, which is this:
+											""Data is the new oil.""
+											Data is the kind of ubiquitous resource
+											that we can shape to provide new innovations and new insights,
+											and it's all around us, and it can be mined very easily.
+											It's not a particularly great metaphor in these times,
+											especially if you live around the Gulf of Mexico,
+											but I would, perhaps, adapt this metaphor slightly,
+											and I would say that data is the new soil.
+											Because for me, it feels like a fertile, creative medium.
+											Over the years, online,
+											we've laid down
+											a huge amount of information and data,
+											and we irrigate it with networks and connectivity,
+											and it's been worked and tilled by unpaid workers and governments.
+											And, all right, I'm kind of milking the metaphor a little bit.
+											But it's a really fertile medium,
+											and it feels like visualizations, infographics, data visualizations,
+											they feel like flowers blooming from this medium.
+											But if you look at it directly,
+											it's just a lot of numbers and disconnected facts.
+											But if you start working with it and playing with it in a certain way,
+											interesting things can appear and different patterns can be revealed.
+									","
+											He trabajado como periodista de datos alrededor de un año,
+											y sigo oyendo una frase
+											todo el tiempo, esto es:
+											""Los datos son el nuevo petróleo"".
+											Y los datos son un recurso omnipresente
+											a los que podemos dar forma para innovar y generar nuevos conocimientos,
+											y todo está a nuestro alcance y puede extraerse fácilmente.
+											Es una metáfora poco feliz en estos tiempos,
+											especialmente si viven en el Golfo de México,
+											Por eso adaptaría esta metáfora un poco,
+											y yo diría que la información es la nueva tierra.
+											Porque para mí, es un medio fértil y creativo.
+											A lo largo de los años, en línea,
+											hemos depositado
+											una enorme cantidad de información y datos,
+											que hacemos florecer con redes y conectividad,
+											y ha sido elaborado y cultivado por trabajadores no remunerados y por gobiernos.
+											Y, bueno, desearía ordeñar la metáfora un poco más.
+											Pero se trata de un material muy fértil,
+											y parece como si las visualizaciones, la infografía, las visualizaciones de datos
+											fuesen flores que crecen en este medio.
+											Pero si lo observamos de forma lineal
+											se trata sólo de un montón de números y hechos inconexos.
+											Pero si empiezas a trabajar y jugar con ellos de otra manera,
+											surgen cosas interesantes que revelan diferentes patrones.
+									","
+											İşte, yaklaşık bir senedir veri yazarlığı yapıyorum,
+											ve bir cümle var ki her zaman duyuyorum
+											ama her zaman, ve o da:
+											''Veri yeni petroldür.''
+											Veri çok sık rastlanan bir kaynak
+											yeni görüşlere ve anlayışlara şekil verebiliriz,
+											her tarafta o var, ve kolaylıkla çıkarılabilir.
+											Ve şu zamanlarda özellikle çok iyi bir metafor değil,
+											özellikle Meksika'nın körfez kısmında yaşıyorsanız,
+											ama ben büyük ihtimalle bu metafor'a uyum sağlayabilirim,
+											ve şunu diyebilirim ki; veri yeni topraktır.
+											Çünkü benim için, çok verimli bir hissi var ve yaratıcı bir araç.
+											Seneler boyunca, internet üzerinde,
+											zaman geçirdik ve
+											bir sürü kocaman bilgi ve veri yığdık,
+											ve bunları ağ ve bağlantılarla besliyoruz,
+											ve ödeme yapılmayan çalışanlar ve devlet tarafından işlenmiş ve çalışılmış.
+											Ve tamam, bu metaphor'u biraz sağıyor olabilirim.
+											Ama gerçekten çok verimli bir araç bu,
+											ve bu görselleştirmeler, bilgi grafikleri ve görseller,
+											bu araçtan açan çiçekler gibi.
+											Ama direk bakarsanız,
+											sadece bir sürü rakam ve bağlantısız olaylar.
+											Ama onunla çalışmaya ve oynamaya başlarsanız belli bir şekilde,
+											ilginç şeyler ortaya çıkabilir ve farklı motifler doğabilir.
+									","
+											Donc j'ai été journaliste travaillant sur les données pendant environ un an,
+											et j'entend une expression qui revient
+											tout le temps, et c'est:
+											""les données sont le nouveau pétrole.""
+											Et les données sont une sorte de ressource omniprésente
+											que nous pouvons façonner pour fournir de nouvelles innovations et de nouveaux aperçus,
+											et elles sont tout autour de nous, et nous pouvons les exploiter très facilement.
+											et ce n'est pas particulièrement une super métaphore en ce moment
+											surtout si vous vivez près du Golfe du Mexique,
+											mais je voudrais peut-être adapter légèrement cette métaphone,
+											et je dirais que les données sont le nouveau terreau.
+											Parce que pour moi, c'est comme un média fertile et créatif
+											Vous savez, au fil des ans, en ligne,
+											nous avons déposé
+											une quantité énorme d'informations et de données,
+											et nous les irriguons avec des réseaux et de la connectivité,
+											et des travailleurs non rémunérés et les gouvernements les ont travaillées et labourées.
+											Et d'accord, je tire un peu sur la métaphore.
+											Mais c'est vraiment un média fertile,
+											et j'ai l'impression que les visualisations, l'infographie, les visualisations de données,
+											sont comme des fleurs qui s'épanouissent à partir de ce média.
+											Mais si vous les regardez directement,
+											ce ne sont que des chiffres et des faits décousus.
+											Mais si vous commencez à travailler avec et à jouer avec d'une certaine façon,
+											des choses intéressantes peuvent apparaître et différents modèles peuvent être révélés.
+									","
+											Ich habe nun seit etwa einem Jahr als Daten-Journalist gearbeitet
+											und ich höre immer wieder diesen Satz,
+											der so lautet:
+											""Daten sind das neue Öl.""
+											Und Daten sind die Art allgegenwärtiger Ressource,
+											die wir ausgestalten können, um neue Innovationen und Erkenntnisse zu liefern.
+											Und sie ist überall unter uns und kann sehr einfach abgebaut werden.
+											Und es ist keine besonders gute Metapher in diesen Zeiten,
+											insbesondere wenn man am Golf von Mexiko lebt.
+											Ich würde diese Metapher eher ein wenig anpassen
+											und sagen, dass Daten der neue Erdboden sind.
+											Denn für mich fühlen sie sich wie ein fruchtbares, kreatives Medium an.
+											Wissen Sie, über die Jahre hinweg
+											haben wir online
+											eine riesige Menge an Informationen und Daten abgelegt
+											und wir bewässern sie mit Netzwerken und Anschlussmöglichkeiten.
+											Und sie wurden bearbeitet und beackert von unbezahlten Arbeitern und Regierungen.
+											In Ordnung, ich lasse mich vielleicht etwas an dieser Metapher aus.
+											Aber es handelt sich um ein wirklich fruchtbares Medium.
+											Visualisierungen, Info-Grafiken, Visualisierungen von Daten —
+											sie fühlen sich wie Blumen an, die auf diesem Medium blühen.
+											Wenn man es sich jedoch genauer ansieht,
+											handelt es sich nur um viele Zahlen und nicht zusammenhängende Fakten.
+											Wenn man jedoch anfängt, damit zu arbeiten und gewissermaßen zu spielen,
+											können sich interessante Dinge ergeben und unterschiedliche Muster offenbaren.
+									",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+","
+","
+","
+","
+",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+											Let me show you this.
+											Can you guess what this data set is?
+											What rises twice a year,
+											once in Easter
+											and then two weeks before Christmas,
+											has a mini peak every Monday,
+											and then flattens out over the summer?
+											I'll take answers.
+											(Audience: Chocolate.) David McCandless: Chocolate.
+											You might want to get some chocolate in.
+											Any other guesses?
+											(Audience: Shopping.) DM: Shopping.
+											Yeah, retail therapy might help.
+											(Audience: Sick leave.)
+											DM: Sick leave. Yeah, you'll definitely want to take some time off.
+											Shall we see?
+									","
+											Ahora les mostraré esto.
+											¿Adivinan lo que dice esta información?
+											Lo que sube dos veces al año,
+											una vez en Semana Santa
+											y luego dos semanas antes de Navidad,
+											y que tiene un mini pico todos los lunes
+											y luego se aplana durante el verano.
+											A ver, sus respuestas,
+											(Público: Chocolate) David McCandless: Chocolate.
+											Puede que también desee un poco de chocolate
+											¿Alguna idea?
+											(Público: Compras) DM: Compras.
+											Sí, la terapia de ir de compras podría ayudar.
+											(Público: baja por enfermedad)
+											DM: Baja por enfermedad. Sí, seguro que querrían unos días libres.
+											¿Lo vemos?
+									","
+											Bunu size göstereyim.
+											Bu verinin ne dediğini tahmin edebilir misiniz?
+											Her sene çifter çifter artan şey,
+											Paskalya zamanı
+											ve Yıl Başından iki hafta önce,
+											her Pazartesi küçük bir zirve yapıyor
+											daha sonra yazın düzleşiyor.
+											Cevap bekliyorum.
+											(Seyirci: Çikolata.) David McCandless: Çikolata.
+											Biraz çikolata almak isteyebilirsiniz.
+											Başka bir tahminde bulunmak isteyen?
+											(Seyirci: Alışveriş.) David McCandless: Alışveriş.
+											Evet, satış terapisi işe yarayabilir.
+											(Seyirci: Hastalık izni.)
+											DM: Hastalık evet. Gerçekten biraz istirhaat etmek isteyeceksiniz.
+											Görelim mi?
+									","
+											Permettez-moi de vous montrer ceci.
+											Pouvez-vous deviner ce que disent ces données?
+											Qu'est-ce qui s'élève deux fois par an,
+											une fois à Pâques
+											et ensuite deux semaines avant Noël,
+											a un tout petit pic tous les lundis
+											et retombe pendant l'été.
+											J'attends vos réponses.
+											(Public: Le chocolat.) David McCandless: Le chocolat.
+											Il faudrait peut-être amener du chocolat.
+											D'autres réponses?
+											Public: le shopping) DM: Le shopping.
+											Oui, la thérapie par le commerce de détail, ça aide.
+											(Public: Les arrêts maladie)
+											DM: Les arrêts maladie. Oui, vous voulez définitivement vous reposer.
+											Voulez-vous que nous voyons ça?
+									","
+											Lassen Sie mich Ihnen dies hier zeigen.
+											Haben Sie eine Idee, was dieser Datenbestand zeigt?
+											Was steigt zweimal im Jahr an,
+											einmal zu Ostern
+											und dann zwei Wochen vor Weihnachten,
+											hat einen kleinen Höhepunkt jeden Montag
+											und verflacht dann während des Sommers?
+											Ich nehme Antworten entgegen.
+											(Publikum: Schokolade.) David McCandless: Schokolade.
+											Sie möchten wohl etwas Schokolade hier unterbringen.
+											Irgendwelche anderen Vermutungen?
+											(Publikum: Einkäufe.) David McCandless: Einkäufe.
+											Klar, eine Einkaufstherapie könnte helfen.
+											(Publikum: Krankenstand.)
+											David McCandless: Krankenstand. Klar, Sie möchten sicher erst einmal freimachen.
+											Sollen wir es uns ansehen?
+									",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+","
+","
+","
+","
+",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+											(Laughter)
+									","
+											(Risas)
+									","
+											(Kahkaha)
+									","
+											(Rires)
+									","
+											(Gelächter)
+									",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+","
+","
+","
+","
+",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+											(Applause)
+									","
+											(Aplausos)
+									","
+											(Alkış)
+									","
+											(Applaudissements)
+									","
+											(Applaus)
+									",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+","
+","
+","
+","
+",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+											So, the information guru Lee Byron and myself,
+											we scraped 10,000 status Facebook updates
+											for the phrase ""break-up"" and ""broken-up""
+											and this is the pattern we found —
+											people clearing out for Spring Break,
+											(Laughter)
+											coming out of very bad weekends on a Monday,
+											being single over the summer,
+											and then the lowest day of the year, of course: Christmas Day.
+											Who would do that?
+											So there's a titanic amount of data out there now,
+											unprecedented.
+											But if you ask the right kind of question,
+											or you work it in the right kind of way,
+											interesting things can emerge.
+									","
+											Esta es la información que Byron Lee y yo
+											hemos obtenido 10.000 actualizaciones de estado de Facebook
+											tras la frase ""se interrumpe"" e ""interrumpido""
+											y este es el patrón que encontramos.
+											La gente ordena para las vacaciones de primavera
+											(Risas)
+											sale los fines de semana repercutiendo en los lunes,
+											es soltera en verano.
+											Y la actividad más baja del año, claro, el día de Navidad.
+											¿Quién haría eso?
+											Por tanto existe una cantidad titánica de datos,
+											sin precedentes.
+											Pero si formulan el tipo de pregunta adecuada,
+											o lo abordan de la forma adecuada
+											pueden surgir cosas interesantes.
+									","
+											O zaman buradaki bilgi , Lee Byron ve ben kendim,
+											10,000 Facebook durum güncellemesi çıkardık
+											sadece ''ayrılık'' ve ''ayrılmak'' kelimelerinin içinde geçtiği
+											ve ortaya çıkan motif bu —
+											insanlar bahar temizliği yapıyor,
+											(Kahkaha)
+											çok kötü bir haftasonundan sonra Pazartesi,
+											yaz boyunca yalnız olmak,
+											Ve elbette yılın en düşük günü, tabi ki: Yılbaşı Günü.
+											Bu ne yapar?
+											Burada bir Titanik dolusu veri var şu an,
+											benzeri görülmemiş.
+											Ama doğru soruyu sorarsanız,
+											veya doğru tarafa oynarsanız,
+											ilginç şeyler meydana gelebilir.
+									","
+											Donc, les informations ici, Lee Baron et moi-même,
+											nous avons récolté 10 000 mises à jour de statuts facebook
+											pour l'expression ""rupture"" et ""rompu""
+											et voilà le modèle que nous avons trouvé —
+											les gens font le ménage aux vacances de printemps,
+											(Rires)
+											reviennent de très mauvais weekends le lundi,
+											qu'ils sont célibataires en été.
+											Et puis le jours le plus bas de l'année, bien sûr : le jour de Noël.
+											Qui ferait ça?
+											Il y a donc une quantité titanesque de données là-dehors en ce moment,
+											comme il n'y a jamais eu.
+											Mais si vous posez les bonnes questions,
+											ou si vous y travaillez de la bonne façon,
+											des choses intéressantes peuvent émerger.
+									","
+											Also, zu den Informationen hier: Lee Byron und ich
+											haben 10.000 Status-Aktualisierungen von Facebook zusammengesucht,
+											die den Ausdruck ""Trennung"" oder ""getrennt"" enthalten.
+											Und dies ist das Muster, das wir gefunden haben:
+											Die Leute verschwinden zum Spring Break,
+											(Gelächter)
+											erscheinen wieder nach sehr üblen Wochenenden an einem Montag,
+											sind Single im Verlauf des Sommers
+											und dann der niedrigste Stand des Jahres natürlich am ersten Weihnachtstag.
+											Wer würde das schon tun?
+											Es gibt also eine gigantische Fülle an Daten dort draußen —
+											beispiellos.
+											Wenn man aber die richtige Frage stellt
+											oder wenn man sie in der richtigen Art und Weise bearbeitet,
+											können sich interessante Dinge herausbilden.
+									",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+","
+","
+","
+","
+",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+											So information is beautiful. Data is beautiful.
+											I wonder if I could make my life beautiful.
+											And here's my visual C.V.
+											I'm not quite sure I've succeeded.
+											Pretty blocky, the colors aren't that great.
+											But I wanted to convey something to you.
+											I started as a programmer,
+											and then I worked as a writer for many years, about 20 years,
+											in print, online and then in advertising,
+											and only recently have I started designing.
+											And I've never been to design school.
+											I've never studied art or anything.
+											I just kind of learned through doing.
+											And when I started designing,
+											I discovered an odd thing about myself.
+											I already knew how to design,
+											but it wasn't like I was amazingly brilliant at it,
+											but more like I was sensitive
+											to the ideas of grids and space
+											and alignment and typography.
+											It's almost like being exposed
+											to all this media over the years
+											had instilled a kind of dormant design literacy in me.
+											And I don't feel like I'm unique.
+									","
+											Así que la información es preciosa. Los datos son preciosos.
+											Me pregunto si yo podría hacer mi vida tan bonita.
+											Aquí está mi CV visual.
+											No estoy muy seguro de haberlo logrado.
+											Bastante cuadriculado. Los colores tampoco son tan maravillosos.
+											Pero quería transmitirles algo.
+											Empecé como programador,
+											y luego trabajé de redactor durante muchos años, unos 20 años,
+											en prensa, Internet y luego en publicidad
+											y hace poco que he comenzado a diseñar.
+											Y nunca he ido a la escuela de diseño.
+											Nunca he estudiado arte ni nada de eso.
+											Soy un autodidacta que aprende mediante la práctica.
+											Y cuando comencé a diseñar,
+											Descubrí una cosa extraña sobre mí.
+											Yo ya sabía cómo diseñar,
+											pero no en el sentido de ser muy brillante,
+											sino más bien de tener la sensibilidad
+											de los conceptos de grilla y espacio
+											así como de alineación y tipografía.
+											Es como si haber estado expuesto
+											a todo esto en los medios de comunicación durante años
+											me hubiese inculcado una especie de alfabetización en diseño.
+											Y no me siento único.
+									","
+											O zaman, bilgi güzeldir. Veri güzeldir.
+											Acaba kendi beğenilerimi güzel yapabilirmiyim.
+											İşte burada özgeçmişimin görselleştirilmiş hali.
+											Başarılı olup olmadığımdan emin değilim.
+											Baya tıknaz bir görsel. Renklerde o kadar iyi değil.
+											Ama size birşeyi göstermek istedim.
+											Bir programcı olarak başladım işe,
+											daha sonra 20 sene kadar bir zaman yazar olarak devam ettim,
+											baskı, dijital ve reklam işlerinde.
+											ve daha çok yeni tasarımcılığa başladım.
+											Ve hiç bir tasarım okuluna gitmedim.
+											Sanat ile ilgili hiçbirşey öğrenmedim.
+											Kendim yapa yapa öğrendim diyebiliriz.
+											Ve tasarlamaya başladığımda,
+											Kendim ile ilgili ilginç bir şey farkettim.
+											Tasarlamayı zaten biliyordum,
+											ama bu işte çok iyi değildim,
+											daha çok hassastım
+											kılavuz ve boşluk fikrine
+											ve yerleştirme ve tipografi.
+											Ortaya çıkıvermek gibi birşey
+											senelerce bu medyada
+											çok durgun bir tasarım kültürü aşıladı bana.
+											Ve kendimi eşsizmiş gibi hissetmiyorum.
+									","
+											Donc les informations sont belles. Les données sont belles.
+											Je me demande si je pourrais rendre ma vie belle.
+											Et voici mon CV visuel.
+											Je ne suis pas sûr d'avoir réussi.
+											Un peu trop monobloc, les couleurs ne sont pas super.
+											Mais je voulais vous communiquer quelque chose.
+											J'ai débuté comme programmeur,
+											et puis j'ai travaillé comme écrivain pendant de nombreuses années, environ 20 ans,
+											dans l'édition, en ligne puis dans la publicité.
+											et c'est seulement récemment que je me suis lancé dans le design.
+											Et je n'ai jamais étudié le design,
+											je n'ai jamais étudié l'art ou quoi que ce soit.
+											J'ai dans un sens appris en faisant.
+											Et quand je me suis lancé dans le design,
+											j'ai découvert une chose étrange à propos de moi-même.
+											Je savais déjà faire du design,
+											mais ce n'était pas comme si j'étais étonnamment excellent
+											mais plus comme si j'étais sensible
+											aux notions de grilles et d'espace
+											d'alignement et de typographie.
+											C'est presque comme si d'être exposé
+											à tous ces médias au fil des ans
+											avait instillé en moi une sorte de connaissance dormante du design.
+											Et je n'ai pas l'impression d'être unique.
+									","
+											Also, Informationen sind schön. Daten sind schön.
+											Ich frage mich, ob ich mein Leben auch schön gestalten kann.
+											Und hier ist mein visueller Lebenslauf.
+											Ich bin mir nicht ganz sicher, ob es mir geglückt ist.
+											Ziemlich blockig. Die Farben sind nicht so schön.
+											Aber ich wollte Ihnen etwas vermitteln.
+											Ich habe als Programmierer begonnen.
+											Dann habe ich für viele Jahre als Autor gearbeitet, etwa 20 Jahre —
+											im Druckgewerbe, Online und dann in der Werbung.
+											Und erst vor Kurzem habe ich mit dem Gestalten angefangen.
+											Und ich war niemals an einer Hochschule für Gestaltung.
+											Ich habe niemals Kunst oder dergleichen studiert.
+											Ich habe es irgendwie durchs Tun gelernt.
+											Und als ich mit dem Gestalten anfing,
+											habe ich etwas Sonderbares über mich selbst entdeckt.
+											Ich wusste bereits wie man gestaltet,
+											aber es war nicht so, dass ich unglaublich großartig darin war.
+											Es war mehr so, dass ich sensibel
+											gegenüber Konzepten wie Rastern und Flächen
+											sowie Ausrichtung und Typografie war.
+											Es ist fast so, als hätte die Konfrontation
+											mit all diesen Medien über die Jahre
+											eine in mir schlummernde Gestaltungsfähigkeit geweckt.
+											Und ich glaube nicht, dass es nur mir so geht.
+									",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+","
+","
+","
+","
+",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+											I feel that everyday, all of us now
+											are being blasted by information design.
+											It's being poured into our eyes through the Web,
+											and we're all visualizers now;
+											we're all demanding a visual aspect
+											to our information.
+											There's something almost quite magical about visual information.
+											It's effortless, it literally pours in.
+											And if you're navigating a dense information jungle,
+											coming across a beautiful graphic
+											or a lovely data visualization,
+											it's a relief, it's like coming across a clearing in the jungle.
+											I was curious about this, so it led me
+											to the work of a Danish physicist
+											called Tor Norretranders,
+											and he converted the bandwidth of the senses into computer terms.
+									","
+											Creo que todos los días, todos nosotros ahora
+											estamos tocados por el diseño de la información.
+											Se ha diseminado ante nuestros ojos a través de la Web,
+											y todos somos ahora visualizadores;
+											todos exigimos un rasgo visual
+											a la información.
+											Y hay algo casi mágico sobre la información visual.
+											No cuesta esfuerzo, sino que mana.
+											Y si se navega en una jungla densa de información,
+											toparse con una gráfica hermosa
+											o una visualización hermosa de datos,
+											alivia, es como toparse con un claro en la selva.
+											Y esto me despertaba curiosidad, lo que me llevó
+											a la obra de un físico danés,
+											Tor Norretranders,
+											él renombró el ancho de banda de los sentidos en términos informáticos.
+									","
+											Her gün, artık hepimiz
+											bilgi tasarımına maruz kalıyoruz.
+											Web üzerinden gözlerimizin içine akıtılıyor
+											ve hepimiz artık görselleştiriyoruz;
+											hepimiz bilgimizi görsel
+											bir bakış bekliyoruz.
+											Ve görsel bilgi ile ilgili çok büyülü bir şey var.
+											Çaba gerektirmiyor; tam anlamıyla kendisi oluşuyor.
+											Ve eğer yoğun bir bilgi ormanına yön veriyorsanız,
+											güzel bir grafikten doğru gelen
+											yada çok hoş bir veri görselinden,
+											Bu bir rahatlama, bir ormandan kurtulmak gibi bir şey.
+											Bu konuda çok meraklıydım, o yüzden şu sonuca vardım
+											Danimarkalı bir fizikçiyle birlikte çalışmak
+											Tor Norretranders adlı,
+											ve duyuların bant genişliğini bilgisayar terimlerine çevirdi.
+									","
+											j'ai l'impression que chaque jour, nous tous à présent
+											sommes bombardés de design d'information.
+											On le déverse dans nos yeux par le Web,
+											et nous sommes tous des visualiseurs à présent ;
+											nous exigeons tous un aspect visuel
+											pour nos informations.
+											Et il y a quelque chose de presque magique dans les informations visuelles.
+											Elles ne demandent pas d'effort; elles se déversent littéralement en nous.
+											Et si vous naviguez dans une jungle dense d'informations,
+											tomber sur un beau graphique
+											ou sur une jolie visualisation de données,
+											c'est un soulagement, c'est comme tomber sur une clairière dans la jungle.
+											Et j'étais curieux de cela, et ça m'a conduit
+											au travail d'un physicien danois
+											qui s'appelle Tor Norretranders,
+											et il a convertit la bande passante des sens en termes informatiques.
+									","
+											Ich glaube, dass jeden Tag jeder von uns
+											von Informationsdesign zugedröhnt wird.
+											Es strömt durch das Web in unsere Augen
+											und wir sind nun alle grafische Ideengestalter;
+											wir verlangen alle ein visuelles Erscheinungsbild
+											zu unseren Informationen.
+											Und da ist etwas beinahe Magisches in unseren visuellen Informationen.
+											Sie sind mühelos; sie strömen buchstäblich in uns ein.
+											Und wenn man durch einen dichten Informationsdschungel steuert
+											und auf eine schöne Grafik stößt
+											oder eine hübsche Visualisierung von Daten,
+											ist es eine Erleichterung. Wie eine Lichtung im Dschungel.
+											Und ich war gespannt darauf. Es führte mich also
+											zum Werk eines dänischen Physikers
+											namens Tor Nørretranders.
+											Er überführte die Bandbreite der Sinne in Computerbegriffe.
+									",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+","
+","
+","
+","
+",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+											So here we go. This is your senses,
+											pouring into your senses every second.
+											Your sense of sight is the fastest.
+											It has the same bandwidth as a computer network.
+											Then you have touch, which is about the speed of a USB key.
+											And then you have hearing and smell,
+											which has the throughput of a hard disk.
+											And then you have poor old taste,
+											which is like barely the throughput of a pocket calculator.
+											And that little square in the corner, a naught .7 percent,
+											that's the amount we're actually aware of.
+											So a lot of your vision —
+											the bulk of it is visual, and it's pouring in.
+											It's unconscious.
+											The eye is exquisitely sensitive
+											to patterns in variations in color, shape and pattern.
+											It loves them, and it calls them beautiful.
+											It's the language of the eye.
+											If you combine the language of the eye with the language of the mind,
+											which is about words and numbers and concepts,
+											you start speaking two languages simultaneously,
+											each enhancing the other.
+											So, you have the eye, and then you drop in the concepts.
+											And that whole thing — it's two languages
+											both working at the same time.
+									","
+											Así que allá vamos. Estos son los sentidos
+											invirtiendo más en ellos cada segundo.
+											El sentido de la vista es el más rápido.
+											Tiene el mismo ancho de banda que una red informática.
+											Además contamos con el tacto, con la velocidad aproximada de una llave USB.
+											En cuanto al oído y el olfato,
+											éstos tiene el rendimiento de un disco duro.
+											Y por último el gusto, pobre y antiguo,
+											cuyo rendimiento apenas equivale al de una calculadora.
+											Y este cuadrado pequeño en la esquina, un 0,7%,
+											esa es la cantidad de la que en realidad somos conscientes.
+											Así que una gran parte de la percepción
+											la mayor parte de ella es visual y sigue aumentando.
+											Es inconsciente.
+											El ojo es muy sensible
+											a los patrones de variaciones de color, forma y patrón.
+											Al ojo le encantan y los considera hermosos.
+											Es el lenguaje visual.
+											Y si se combina ese lenguaje visual con el lenguaje mental,
+											que versa sobre palabras, números y conceptos,
+											se empieza a hablar dos idiomas simultáneamente,
+											uno mejorando al otro.
+											Así, primero es el ojo y luego ocurren los conceptos
+											Y todo esto son dos lenguas
+											trabajando al mismo tiempo.
+									","
+											O zaman hadi bakalım. Bu sizin hisleriniz,
+											her saniye duyularınıza akıtılıyor.
+											Görme duyunuz en hızlısı.
+											bir bilgisayar ağıyla eşit kapasiteye sahip.
+											Daha sonra dokunma duygunuz var, bir USB anahtarıyla eşit hızda.
+											Daha sonra ise duyma ve koklama duyularınız,
+											bir sabit diskin işlem hacmiyle aynı.
+											Ve o kötü ve eski tat var,
+											bir cep hesap makinesiyle aynı işlem hacmi neredeyse.
+											Ve köşedeki o küçük kare ise, 0.7 oranda,
+											aslında farkında olduğumuz miktar.
+											O zaman gördüğünüzün büyük bir kısmı —
+											önemli derece büyük bir kısmı görsel, ve içeri akıyor.
+											Bilinçsiz bir şekilde.
+											Ve göz zarif ve hassas
+											çeşitli motifler, çeşitli renk, şekillerde.
+											Onları çok seviyor ve güzel olduklarını söylüyor.
+											Gözün dili.
+											Ve eğer gözün dilini, zihin diliyle birleştirirseniz,
+											rakamlar ve konseptler ile ilgili olan,
+											simultane olarak iki dili konuşmaya başlarsınız,
+											birbirlerini geliştirirler.
+											O zaman göz var, daha sonrada konseptler giriyor.
+											Ve tamamı bu şeyin — iki dil
+											aynı anda çalışıyor.
+									","
+											Donc allons-y. Voici vos sens,
+											qui se déversent dans vos sens à chaque seconde.
+											Votre vue est le plus rapide de vos sens.
+											Il a la même bande passante qu'un réseau d'ordinateurs.
+											Puis vous avez le toucher, qui a environ la vitesse d'une clé USB.
+											Et ensuite vous avez l'ouïe et l'odorat,
+											qui ont un débit de disque dur.
+											Et vous avez le pauvre vieux goût
+											qui a le débit d'une calculette de poche.
+											Et ce petit carré dans le coin, 0,7 %,
+											c'est la quantité dont nous sommes réellement conscient.
+											Donc une grande partie de notre vision —
+											le gros des informations sont visuelles et elles se déversent en nous.
+											C'est inconscient.
+											Et l'oeil est délicieusement sensible
+											aux modèles dans les variations de couleur, de forme et de motifs.
+											Il les adore, et il les trouve belles.
+											C'est le langage de l'oeil.
+											Et si vous combinez ce langage de l'oeil avec le langage de l'esprit,
+											qui est fait de mots, de chiffres et de concepts,
+											vous commencez à parler deux langues en même temps,
+											qui s'améliorent l'une l'autre.
+											Donc vous avez l'oeil, et puis vous tombez dans les concepts.
+											Et tout ça — ce sont deux langages qui
+											travaillent en même temps.
+									","
+											Los geht's. Dies sind Ihre Sinne.
+											Es strömt jede Sekunde in Ihre Sinne.
+											Ihr Sehvermögen ist am schnellsten.
+											Es hat die gleiche Bandbreite wie ein Computernetzwerk.
+											Dann gibt es den Tastsinn, der etwa die Geschwindigkeit eines USB-Sticks hat.
+											Dann sind da noch der Gehör- und Geruchssinn,
+											die den Durchsatz einer Festplatte haben.
+											Und dann gibt es noch den armen, alten Geschmackssinn,
+											der nicht ganz den Durchsatz eines Taschenrechners hat.
+											Und dieses kleine Quadrat in der Ecke — 0,7 Prozent,
+											das ist die Menge, der wir uns tatsächlich bewusst sind.
+											Eine Menge Ihrer Sehkraft also —
+											der Großteil davon ist visuell, strömt hinein
+											und ist uns nicht bewusst.
+											Und das Auge reagiert höchst sensibel
+											auf Muster in wechselnder Farbe, Form und Struktur.
+											Es liebt sie und es bezeichnet sie als schön.
+											Es ist die Sprache des Auges.
+											Und wenn man diese Sprache des Auges mit der Sprache des Verstandes kombiniert,
+											die von Worten, Zahlen und Konzepten handelt,
+											beginnt man, zwei Sprachen gleichzeitig zu sprechen,
+											die sich gegenseitig ergänzen.
+											Sie haben also das Auge und dann kommen die Konzepte dazu.
+											Und diese ganze Sache — es sind zwei Sprachen,
+											die gleichzeitig funktionieren.
+									",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+","
+","
+","
+","
+",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+											So we can use this new kind of language, if you like,
+											to alter our perspective or change our views.
+											Let me ask you a simple question
+											with a really simple answer:
+											Who has the biggest military budget?
+											It's got to be America, right?
+											Massive. 609 billion in 2008 —
+											607, rather.
+											So massive, in fact, that it can contain
+											all the other military budgets in the world inside itself.
+											Gobble, gobble, gobble, gobble, gobble.
+											Now, you can see Africa's total debt there
+											and the U.K. budget deficit for reference.
+											So that might well chime
+											with your view that America
+											is a sort of warmongering military machine,
+											out to overpower the world
+											with its huge industrial-military complex.
+											But is it true that America has the biggest military budget?
+											Because America is an incredibly rich country.
+											In fact, it's so massively rich
+											that it can contain the four other
+											top industrialized nations' economies
+											inside itself, it's so vastly rich.
+											So its military budget is bound to be enormous.
+											So, to be fair and to alter our perspective,
+											we have to bring in another data set,
+											and that data set is GDP, or the country's earnings.
+											Who has the biggest budget as a proportion of GDP?
+											Let's have a look.
+											That changes the picture considerably.
+											Other countries pop into view that you, perhaps, weren't considering,
+											and American drops into eighth.
+									","
+											Así que podríamos usar este nuevo tipo de lenguaje, si se quiere,
+											para modificar nuestra perspectiva o cambiar nuestras opiniones
+											Déjenme hacerles una pregunta sencilla
+											con una respuesta muy simple.
+											¿Quién tiene el mayor presupuesto militar?
+											Seguro que EEUU ¿no?
+											Enorme. 609 mil millones en 2008,
+											607 mil, más bien.
+											Tan enorme, que puede abarcar
+											la suma de todo el resto de los presupuestos militares del mundo.
+											Engullir, engullir, engullir.
+											Ahora, podemos ver la deuda total de África
+											y el déficit presupuestario del Reino Unido para comparar.
+											De modo que bien podría sintonizar
+											con su opinión de que los EEUU
+											es una especie de maquinaria militar bélica
+											preparada para dominar el mundo
+											con su enorme aparato industrial y militar.
+											Pero ¿es cierto que EEUU tiene el mayor presupuesto militar?
+											Porque sí que es un país increíblemente rico.
+											De hecho, es tan sumamente rico
+											que puede contener las cuatro
+											economías de las naciones más industrializadas.
+											Así es de inmensamente rico.
+											Por ello está obligado a tener un presupuesto militar enorme.
+											Así que, para ser justos y modificar nuestra perspectiva,
+											tenemos que compararlo con otro conjunto de datos,
+											y ese conjunto de datos es el PBI, o los ingresos del país.
+											¿Quién tiene el mayor presupuesto en proporción al PBI?
+											Veamos.
+											Esto cambia considerablemente el panorama.
+											Otros países que, tal vez, no se consideraban, saltan a la vista
+											y EEUU desciende al octavo puesto.
+									","
+											Eğer isterseniz bu yeni dili kullanabiliriz,
+											görüş biçimlerimizi değiştirmek yada bakış açılarımızı değiştirmek için.
+											Size basit bir soru sorayım
+											çok basit de bir cevabı var.
+											En yüksek
+											Amerika olmalı, değilmi?
+											Muazzam. 2008 de 609 milyar —
+											607, aslında.
+											Çok muazzam, hatta aslında
+											kendi içinde dünyadaki geri kalan bütün orduların bütçelerini kapsayabilir.
+											Gulu gulu, gulu gulu, gulu gulu.
+											Şimdi, burada Afrikanın toplam borcunu görebilirsiniz
+											ve İngiltere, bütçede hesap açığı mesela.
+											Böylece Amerikaya görüşünüzle
+											uyum sağlayabilir,
+											savaş kışkırtıcısı, ordu makineleri,
+											dışarda bütün dünyanın hakkından gelmek için
+											kocaman, endüstriyel-ordu kompleksiyle.
+											Ama Amerikanın en yüksek ordu bütçesine sahip olduğu doğrumu?
+											Çünkü olağanüstü zengin bir ülke.
+											Hatta, öyle muazzam derecede zenginki
+											kendisinden sonraki en iyi endüstriyelleşmiş
+											dört ülkenin ekonomisini daha içinde barındırabilir
+											uçsuz bucaksız bir zenginlik bu.
+											Haliyle ordu bütçeside kocaman olmak zorunda.
+											Öyleyse adil olmak ve görüşümüzü genişletmek adına,
+											başka bir veri setine bakmamız lazım,
+											ve bu veri seti GDP, yada diğer ülkelerin kazançları.
+											GDP oranına göre en yüksek bütçe kimde?
+											Bir göz atalım.
+											Bu tabloyu oldukça değişebilir.
+											İşin içine diğer ülkeler gelince, heralde tahmin etmediğiniz bir görüntü oluşuyor,
+											ve Amerika sekizinciliğe düşüyor.
+									","
+											Donc nous pouvons utiliser ce nouveau genre de langage, si vous voulez,
+											pour altérer nos perspectives ou changer nos points de vue.
+											Permettez-moi de vous poser une question simple
+											dont la réponse est simple.
+											Qui a le plus gros budget militaire?
+											Ce doit être l'Amérique, pas vrai?
+											Enorme, 609 milliards en 2008 —
+											607, plutôt.
+											Si énorme en fait, qu'il peut contenir
+											tous les autres budgets militaires du monde.
+											Miam, miam, miam, miam, miam.
+											Maintenant, vous pouvez voir la totalité de la dette de l'Afrique ici
+											et le déficit budgétaire du Royaume-Uni au titre de référence.
+											Donc cela pourrait bien intervenir
+											avec votre notion de l'Amérique
+											comme un genre de machine militaire va-t-en-guerre,
+											partie pour dominer le monde
+											avec son énorme complexe industriel et militaire.
+											Mais est-ce vrai que l'Amérique a le plus gros budget militaire?
+											Parce que c'est un pays incroyablement riche.
+											En fait, il est si énormément riche
+											qu'il peut contenir les quatre autres
+											économies des nations les plus industrialisés
+											il est si immensément riche.
+											Donc son budget militaire doit être énorme.
+											Alors pour être juste et pour altérer notre perspective,
+											nous devons amener un autre ensemble de données,
+											et cet ensemble de données est le PIB, ou les revenus d'un pays.
+											Qui a le plus gros budget par rapport au PIB?
+											Regardons ça.
+											Voilà qui change l'image considérablement.
+											D'autres pays apparaissent auxquels vous ne pensiez peut-être pas,
+											et l'Amérique tombe à la huitième place.
+									","
+											Wir können diese neue Art von Sprache also verwenden,
+											um unseren Blickwinkel oder unsere Ansichten zu ändern.
+											Lassen Sie mich Ihnen eine einfache Frage
+											mit einer wirklich einfachen Antwort stellen.
+											Wer hat den größten Militäretat?
+											Das muss Amerika sein, oder?
+											Gewaltig. 609 Milliarden im Jahr 2008 —
+											607, um genau zu sein.
+											So gewaltig in der Tat, dass es
+											alle anderen Militäretats auf der Welt umfassen kann.
+											Mjam, mjam, mjam, mjam, mjam.
+											Zum Vergleich können Sie nun Afrikas Gesamtschulden sehen
+											sowie das Haushaltsdefizit Großbritanniens.
+											Das könnte nun wohl
+											mit Ihrem Bild von Amerika übereinstimmen,
+											dass es eine Art von kriegstreibender Militärmaschinerie ist,
+											welche darauf aus ist, die Welt
+											mit ihrem riesigen industriell-militärischen Komplex zu überwältigen.
+											Aber ist es wirklich so, dass Amerika den größten Militäretat hat?
+											Weil Amerika ein unglaublich reiches Land ist.
+											Tatsächlich ist es so gewaltig reich,
+											dass es die Wirtschaftssysteme der vier anderen
+											größten Industrienationen
+											umfasst. Es ist so enorm reich.
+											Sein Militäretat muss also enorm sein.
+											Um also gerecht zu sein und um unseren Blickwinkel zu ändern,
+											müssen wir weiteres Datenmaterial heranziehen
+											und dieses Datenmaterial ist das BIP (Bruttoinlandsprodukt) oder auch die Einnahmen eines Landes.
+											Wer hat den größten Militäretat im Verhältnis zum BIP?
+											Schauen wir mal.
+											Dies ändert das Bild beträchtlich.
+											Es erscheinen nun Länder, an die Sie vermutlich nicht gedacht hatten
+											und Amerika fällt auf den achten Platz.
+									",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+","
+","
+","
+","
+",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+											Now you can also do this with soldiers.
+											Who has the most soldiers? It's got to be China.
+											Of course, 2.1 million.
+											Again, chiming with your view
+											that China has a militarized regime
+											ready to, you know, mobilize its enormous forces.
+											But of course, China has an enormous population.
+											So if we do the same,
+											we see a radically different picture.
+											China drops to 124th.
+											It actually has a tiny army
+											when you take other data into consideration.
+											So, absolute figures, like the military budget,
+											in a connected world,
+											don't give you the whole picture.
+											They're not as true as they could be.
+									","
+											Ahora también lo hacemos con los soldados.
+											¿Quién tiene el mayor número de soldados? Seguro que China.
+											Por supuesto, 2,1 millones.
+											Una vez más, coincide con su opinión de
+											que China es un régimen militarizado
+											listo para movilizar cuantiosas fuerzas armadas.
+											Pero, China tiene una población enorme.
+											Así que si hacemos lo mismo,
+											vemos una imagen radicalmente distinta.
+											China desciende al puesto 124.
+											En realidad, tiene un pequeño ejército
+											cuando se toma en cuenta otros datos.
+											Por lo tanto, las cifras absolutas, al igual que el presupuesto militar,
+											en un mundo conectado,
+											no proporciona la visión completa.
+											No es pues tan cierto como podría ser.
+									","
+											Ve şimdi bunu askerlerle de yapabilirsiniz.
+											En fazla asker kimde var? Çin olmalı.
+											Tabiki, 2.1 milyon.
+											Tekrar, sizin aklınızdakiyle uyum halinde bir sonuç
+											çünkü Çin de askerleştirilmiş bir rejim var,
+											hazır, bilirsiniz, büyük kuvvetleri harekete geçirmeye.
+											Ama tabiki, Çin büyük bir nüfusa sahip.
+											O zaman aynısını yaparsak,
+											temelinde farklı bir durum olduğunu görürüz.
+											Çin 124. sıraya düşer.
+											Aslında minicik bir ordusu var
+											diğer verileride göz önünde bulundurduğunuzda.
+											Öyleyse, askeri bütçeler gibi kesin figürler,
+											birleşik bir dünyada,
+											size doğru bir izlenim vermeyebilir.
+											Olabilecekleri gibi doğru değiller.
+									","
+											Maintenant, on peut aussi faire ça avec les soldats.
+											Qui a le plus de soldats? C'est forcément la Chine.
+											Bien sûr, 2,1 millions.
+											Là encore, ça intervient avec votre idée
+											que la Chine est un régime militarisé
+											prêt à mobiliser ses énormes forces.
+											Mais bien sûr, la Chine a une population énorme.
+											Donc si nous faisons la même chose,
+											nous voyons une image radicalement différente.
+											La Chine tombe à la 124ème place.
+											Elle a en fait une toute petite armée
+											quand vous prenez les données en considération.
+											Donc, les chiffres absolus, comme le budget de l'armée,
+											dans un monde connecté,
+											ne vous donnent pas toute l'image.
+											Ils ne sont pas aussi vrais qu'ils pourraient l'être.
+									","
+											Dies können Sie auch mit Soldaten machen.
+											Wer hat die meisten Soldaten? Das muss doch China sein.
+											Natürlich, 2,1 Millionen.
+											Und wieder stimmt es mit Ihrem Bild überein,
+											dass China eine militarisierte Regierung hat,
+											die bekanntlich bereit ist, ihre riesigen Truppen zu mobilisieren.
+											Aber natürlich hat China auch eine gewaltige Einwohnerzahl.
+											Wenn wir also das Gleiche tun,
+											sehen wir ein völlig anderes Bild.
+											China fällt auf Platz 124.
+											Es hat tatsächlich eine winzige Armee,
+											wenn man andere Daten ebenfalls berücksichtigt.
+											Absolute Zahlen also, wie der Militäretat,
+											zeigen in einer vernetzten Welt
+											nicht das gesamte Bild.
+											Sie sind nicht so genau wie sie sein könnten.
+									",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+","
+","
+","
+","
+",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+											We need relative figures that are connected to other data
+											so that we can see a fuller picture,
+											and then that can lead to us changing our perspective.
+											As Hans Rosling, the master,
+											my master, said,
+											""Let the dataset change your mindset.""
+											And if it can do that, maybe it can also change your behavior.
+									","
+											Necesitamos cifras relativas que se conecten con otros datos
+											para que podamos ver un panorama más completo,
+											y que nos lleve a cambiar nuestra perspectiva.
+											Como Hans Rosling, el maestro,
+											mi maestro, decía:
+											""Dejemos que los datos cambien la forma de pensar"".
+											Y si se puede hacer, tal vez también se puede cambiar la conducta.
+									","
+											Başka verilere bağlı başka benzeri verilere ihtiyacımz var
+											böylece daha büyük olan asıl resmi görebiliriz,
+											ve daha sonra buda bizim görüşümüzü değiştirebilir.
+											Benim hocamın, Hans Rosling'in
+											dediği gibi,
+											''Verilerin, aklınızdakileri değiştirmesine izin verin.''
+											Ve eğer bunu yapabilirse, belki davranışlarınız da değişebilir.
+									","
+											Il nous faut des chiffres relatifs qui soient connectés à d'autres données
+											pour que nous puissions voir une image plus complète,
+											et ensuite cela peut conduire à changer notre point de vue.
+											Comme Hans Rosling, le maître,
+											mon maître, a dit,
+											""Laissez l'ensemble des données changer votre façon de voir les choses.""
+											Et si ça marche, peut-être que ça peut aussi changer votre comportement.
+									","
+											Wir benötigen relative Zahlen, die mit anderen Daten verbunden sind,
+											so dass wir ein umfassenderes Bild sehen können,
+											welches uns dann dazu bewegt, unseren Blickwinkel zu ändern.
+											Wie Hans Rosling, der Meister,
+											mein Meister, sagte:
+											""Lasst die Daten eure Denkweise ändern.""
+											Und wenn sie das schaffen, können sie vielleicht auch Ihr Verhalten ändern.
+									",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+","
+","
+","
+","
+",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+											Take a look at this one.
+											I'm a bit of a health nut.
+											I love taking supplements and being fit,
+											but I can never understand what's going on in terms of evidence.
+											There's always conflicting evidence.
+											Should I take vitamin C? Should I be taking wheatgrass?
+											This is a visualization of all the evidence
+											for nutritional supplements.
+											This kind of diagram is called a balloon race.
+											So the higher up the image,
+											the more evidence there is for each supplement.
+											And the bubbles correspond to popularity as regards to Google hits.
+											So you can immediately apprehend
+											the relationship between efficacy and popularity,
+											but you can also, if you grade the evidence,
+											do a ""worth it"" line.
+											So supplements above this line are worth investigating,
+											but only for the conditions listed below,
+											and then the supplements below the line
+											are perhaps not worth investigating.
+									","
+											Veamos este.
+											Soy un poco fanático de la salud.
+											Me gusta tomar suplementos vitamínicos y estar en forma,
+											pero no entiendo lo que pasa en cuestiones de evidencia.
+											Siempre hay pruebas contradictorias.
+											¿Debo tomar vitamina C? ¿Debería comer trigo candeal?
+											Esta es una visualización de las pruebas
+											relacionadas con los suplementos nutricionales.
+											Este tipo de diagrama que se denomina carrera de globos.
+											Así que cuanto más alta esté la imagen,
+											mayor son las pruebas existentes para cada suplemento.
+											Y las burbujas corresponden a la popularidad en relación a los hits en Google.
+											¿Así que se puede aprehender de forma inmediata
+											la relación entre eficacia y popularidad,
+											pero también puede, si se clasifican las pruebas,
+											evaluarlas en línea en función de si valen la pena.
+											Y así, los suplementos por encima de esta línea merecen ser investigados,
+											pero sólo según las condiciones listadas a continuación.
+											Y a continuación, los suplementos por debajo del umbral
+											quizás, no vale la pena que se investiguen.
+									","
+											Buna bir bakın.
+											Ben sağlık konusunda biraz deliyim.
+											Takviye ilaçlar alıp formda kalmayı severim,
+											ama neler olduğunu kanıt yönünden hiç bir zaman anlayamam.
+											Elimizdeki kanıtlar her zaman çakışır.
+											Vitamin C mi almalıyım? yoksa Buğday Çimi mi?
+											Bu bütün kanıtların görselleştirilmiş bir hali
+											besinsel takviyeler için.
+											Bu tür grafiklere balon yarışı adı verilir.
+											Resimde ne kadar yukarı çıkarsanız,
+											her takviye madde için daha çok kanıt bulunur.
+											Ve baloncuklar rağbete Google'ın hitine göre tepki veriyor.
+											Böylece kolaylıkla kavrayabilirsiniz
+											tesir ile popülerlik arasındaki ilişki,
+											ama ayrıca, kanıt'a not verirseniz,
+											''zahmete değer'' gibi bir çizgi belirleyin.
+											Ve bu çizginin üzerindeki takviyeler araştırmaya değerdir,
+											ama sadece aşağıda sıralanmış durumlar için.
+											Çizginin altındaki takviyeler ise
+											heralde, araştırmaya değer olmayanlar olacak.
+									","
+											Regardez celle-là.
+											Je suis un peu un fana de la santé.
+											J'adore prendre des compléments alimentaires et rester en forme,
+											mais je ne comprend jamais ce qui se passe en termes de preuves.
+											Il ya toujours des preuves contradictoires.
+											Devrais-je prendre de la vitamine C? Devrais-je prendre du jus d'herbe de blé?
+											Voici une visualisation de toutes les preuves
+											qui concernent les compléments alimentaires.
+											Ce genre de diagramme s'appelle une course de ballons
+											Donc plus on monte dans l'image,
+											plus il y a de preuve pour chaque complément.
+											Et les bulles correspondent à la popularité telle qu'elle ressort des résultats Google.
+											Donc vous voyez immédiatement
+											la relation entre l'efficacité et la popularité,
+											mais vous pouvez aussi, si vous classez les preuves,
+											établir une sorte de ligne de ce qui vaut le coup.
+											Et donc les compléments au dessus de cette ligne valent la peine qu'on s'y intéresse,
+											mais seulement dans les conditions listées en dessous.
+											Et ensuite les compléments en dessous de la ligne
+											ne valent peut-être pas la peine qu'on s'y intéresse.
+									","
+											Schauen Sie sich das hier an.
+											Ich bin ein kleiner Gesundheitsfanatiker.
+											Ich liebe es, Nahrungsergänzungsmittel zu nehmen und fit zu sein.
+											Aber ich es kann es einfach nicht verstehen, wie es mit wissenschaftlichen Nachweisen aussieht.
+											Es gibt immer widersprüchliche Nachweise.
+											Soll ich Vitamin C nehmen? Soll ich Weizengras nehmen?
+											Dies ist eine Visualisierung all dieser wissenschaftlichen Nachweise
+											für Nahrungsergänzungsmittel.
+											Diese Art von Diagramm wird als Ballon-Rennen bezeichnet.
+											Je höher man sich also im Bild befindet,
+											desto mehr Beweise gibt es für die jeweiligen Ergänzungsmittel.
+											Und die Blasen entsprechen der Beliebtheit in Bezug auf die Anzahl an Suchergebnissen in Google.
+											Sie können also quasi sofort erkennen,
+											wie das Verhältnis zwischen Wirksamkeit und Beliebtheit ist.
+											Aber Sie können außerdem — wenn Sie die Beweise klassifizieren —
+											sozusagen eine ""lohnt sich""-Grenze ziehen.
+											Somit lohnt es sich, die Ergänzungsmittel oberhalb dieser Grenze zu betrachten,
+											jedoch nur zu den unten aufgeführten Bedingungen.
+											Und die Ergänzungsmittel unterhalb dieser Grenze
+											sind es vermutlich nicht wert, in Betracht gezogen zu werden.
+									",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+","
+","
+","
+","
+",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+											Now this image constitutes a huge amount of work.
+											We scraped like 1,000 studies from PubMed,
+											the biomedical database,
+											and we compiled them and graded them all.
+											And it was incredibly frustrating for me
+											because I had a book of 250 visualizations to do for my book,
+											and I spent a month doing this,
+											and I only filled two pages.
+											But what it points to
+											is that visualizing information like this
+											is a form of knowledge compression.
+											It's a way of squeezing an enormous amount
+											of information and understanding
+											into a small space.
+											And once you've curated that data, and once you've cleaned that data,
+											and once it's there,
+											you can do cool stuff like this.
+									","
+											Ahora bien, esto supone una enorme cantidad de trabajo.
+											Hemos rastreado unos 1.000 estudios de PubMed,
+											la base de datos biomédicas,
+											y los hemos compilado y clasificado.
+											Y fue muy frustrante para mí
+											porque tenía 250 visualizaciones pendientes para mi libro,
+											me pasé un mes haciendo esto,
+											y sólo escribí dos páginas.
+											Pero a lo que apunta
+											es que la información visualizada así
+											es una forma de compresión de conocimiento.
+											Es una manera de exprimir una cantidad enorme
+											de información y comprensión
+											en un espacio pequeño.
+											Y una vez seleccionados los datos y una vez limpios esos datos,
+											y una vez que están listos,
+											se pueden hacer cosas interesantes.
+									","
+											Şimdi bu resim büyük iş çıkarmıştı bize.
+											PubMed den 1,000 'e yakın çalışma topladık,
+											biomedikal veritabanından,
+											ve hepsini toplayıp notlar verdik.
+											Benim için oldukça yorucu bir işti
+											250 görselleştirmeden oluşan bir kitap yapmam gerekiyordu,
+											bir ayımı buna ayırdım,
+											ve sadece iki sayfayı doldurabildim.
+											Ama işaret gösterdiği
+											bunun gibi bilgileri görselleştirmek
+											bilgiyi özetlemenin bir şeklidir.
+											İnanılmaz büyük çapta bilgi ve bilinmişleri
+											küçük bir boşluğa
+											sıkmak gibi bir yoldur.
+											O verinin icabına baktığınız zaman, ve temizlediğinizde,
+											ve bir kere orada oldumu
+											bunun gibi havalı şeyler yapabilirsiniz.
+									","
+											Maintenant, cette image constitue un travail énorme.
+											Nous avons collect 1000 études de PubMed,
+											la base de données biomédicale,
+											et nous les avons compilées et classées.
+											Et c'était incroyablement frustrant pour moi
+											parce que j'avais un livre de 250 visualisations à faire,
+											et j'ai passé un mois là-dessus,
+											et je n'ai rempli que deux pages.
+											Mais ce que ça met en évidence
+											c'est que visualiser les informations de cette façon
+											est une forme de compression de connaissance.
+											C'est une façon de tasser une énorme quantité
+											d'informations et de compréhension
+											dans un petit espace.
+											Et une fois que vous avez organisé ces données, et une fois que vous avez nettoyé ces donénes,
+											et une fois que c'est là,
+											vous pouvez faire des trucs sympas comme ça.
+									","
+											Dieses Bild stellt eine riesige Menge an Arbeit dar.
+											Wir haben etwa 1.000 Studien aus dem PubMed zusammengesucht,
+											der biomedizinischen Datenbank.
+											Und wir haben sie alle zusammengestellt und bewertet.
+											Und es war unglaublich frustrierend für mich,
+											da ich ein Buch mit 250 Grafiken bestücken musste, mein Buch,
+											und ich habe damit einen Monat verbracht
+											und nur zwei Seiten gefüllt.
+											Was das jedoch zeigt, ist,
+											dass diese Art der Visualisierung von Informationen
+											eine Form der Wissenskomprimierung ist.
+											Es ist eine Möglichkeit, eine gewaltige Menge
+											an Informationen und Erkenntnissen
+											auf kleinen Raum zusammenzupressen.
+											Sobald man die Daten organisiert hat und sobald man sie gesäubert hat,
+											und sobald sie da sind,
+											können Sie coole Sachen wie das hier tun.
+									",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+","
+","
+","
+","
+",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+											So I converted this into an interactive app,
+											so I can now generate this application online —
+											this is the visualization online —
+											and I can say, ""Yeah, brilliant.""
+											So it spawns itself.
+											And then I can say, ""Well, just show me the stuff
+											that affects heart health.""
+											So let's filter that out.
+											So heart is filtered out, so I can see if I'm curious about that.
+											I think, ""No, no. I don't want to take any synthetics,
+											I just want to see plants and —
+											just show me herbs and plants. I've got all the natural ingredients.""
+											Now this app is spawning itself
+											from the data.
+											The data is all stored in a Google Doc,
+											and it's literally generating itself from that data.
+											So the data is now alive; this is a living image,
+											and I can update it in a second.
+											New evidence comes out. I just change a row on a spreadsheet.
+											Doosh! Again, the image recreates itself.
+											So it's cool.
+											It's kind of living.
+									","
+											Así que convertí esto en una aplicación interactiva,
+											de manera que ahora puede generar estas solicitudes por Internet;
+											esta es la visualización en línea.
+											Y puedo decir: ""Sí, fantástico"".
+											Ya que ella misma produce.
+											Y puedo pedir: ""Muéstrame las cosas
+											que afectan la salud del corazón"".
+											Así que vamos a filtrar.
+											Así que selecciono el corazón, si es eso lo que me interesa.
+											Creo que, ""No, no. No quiero tomar nada sintético.
+											Sólo quiero ver las plantas y
+											sólo quiero ver las hierbas y plantas. Quiero todos los ingredientes naturales"".
+											Y esta aplicación es la genera la respuesta
+											a partir de los datos.
+											Los datos se almacenan en un documento de Google,
+											que se genera a partir de esos datos.
+											Así, la información ahora está viva, es una imagen viva,
+											y puedo actualizarla en un segundo.
+											Se genera nueva evidencia. Sólo he cambiado una fila en una hoja de cálculo.
+											¡Guau! Una vez más, la imagen se auto-genera.
+											Esto es genial.
+											Es una especie de vida.
+									","
+											Bende bunu interaktif bir uygulamaya çevirdim,
+											şimdi bu uygulamayı çevirim içi yapabilirim —
+											bu çevirim içi görselleştirme —
+											ve diyebilirimki, ''Evet, mükemmel.''
+											Şimdi kendisini oluşturur.
+											Sonrada şunu söyleyebilirim, ''Evet, sadece malı gösterin bana
+											kalp sağlığını etkileyen.''
+											O zaman hadi bunu filitreyelim.
+											Kalp filitre edildi, eğer bu konuda meraklıysam.
+											Düşünüyorum, ''Hayır, hayır. Sentetik birşey kullanmak istemem.
+											sadece bitkileri —
+											sadece bitkileri ve otları göster bana. Bütün doğal içeriğe sahibim.''
+											Şimdi bu uygulama kendini veriden
+											üretiyor.
+											Bütün veri bir Google Dökümanı içinde saklı,
+											ve gerçek anlamıyla kendisini bu veriden üretiyor.
+											Veri artık canlı; bu canlı bir görüntü,
+											ve bir saniyede güncelleyebilirim.
+											Yeni kanıtlar ortaya çıkıyor — Hesap çizelgesi üzerindeki tek bir sırayı değiştiriyorum.
+											Mangıır! Yine, görüntü kendini tekrar yaratıyor.
+											Bu havalı bir şey.
+											Yaşamak gibi bir şey.
+									","
+											Donc j'ai converti ça en une application interactive,
+											et je peux générer cette application en ligne —
+											voici la visualisation en ligne —
+											et je peux dire, ""Oui, génial.""
+											Et donc il s'auto-génère.
+											Et ensuite je peux dire, ""Et bien, montre moi
+											ce qui affecte la santé du coeur.""
+											Alors, filtrons ça.
+											Donc on filtre ce qui a trait au coeur, et si je veux savoir ça.
+											Je pense, ""Non, non, je ne veux pas prendre de produits de synthèse.
+											je veux juste voir les plantes et —
+											montre moi seulement les herbes et les plantes. J'ai tous les ingrédients naturels.""
+											Et cette application s'autogénère
+											à partir des données.
+											Les données sont toutes stockées dans un document Google.
+											et elle s'autogénère à partir de ces données.
+											Donc ces données sont vivantes; c'est une image vivante,
+											et je peux la mettre à jour en une seconde.
+											De nouvelles preuves apparaissent — je change simplement une ligne dans le tableau.
+											Vlan! A nouveau, l'image se recrée toute seule.
+											Donc c'est sympa.
+											Elle est vivante.
+									","
+											Ich habe dies in eine interaktive Anwendung überführt.
+											Ich kann diese Anwendung nun also online benutzen.
+											Dies ist die Visualisierung online —
+											und ich kann sagen: ""Ja, genial!""
+											Es erzeugt sich also von selbst.
+											Und dann kann ich sagen: ""Nun, zeige mir das Zeug,
+											das gut fürs Herz ist.""
+											Lassen Sie es uns also herausfiltern.
+											Das Herz ist also herausgefiltert, wenn ich das wissen möchte.
+											Ich denke: ""Nein, nein. Ich möchte keine synthetischen Stoffe nehmen.
+											Ich möchte nur Pflanzen sehen und —
+											zeig mir nur Kräuter und Pflanzen. Ich habe all diese natürlichen Bestandteile.""
+											Diese Anwendung erzeugt sich nun von selbst
+											aus den Daten.
+											Die Daten sind alle in einem Google-Dokument gespeichert
+											und sie erzeugt sich buchstäblich von selbst aus den Daten.
+											Die Daten sind also nun lebendig; dies ist ein lebendiges Bild
+											und ich kann es in einer Sekunde aktualisieren.
+											Neue Beweise erscheinen — ich ändere einfach eine Zeile in einer Tabelle.
+											Tusch! Noch einmal. Das Bild erzeugt sich wieder selbst.
+											Das ist cool.
+											Es ist irgendwie lebendig.
+									",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+","
+","
+","
+","
+",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+											But it can go beyond data,
+											and it can go beyond numbers.
+											I like to apply information visualization
+											to ideas and concepts.
+											This is a visualization
+											of the political spectrum,
+											an attempt for me to try
+											and understand how it works
+											and how the ideas percolate down
+											from government into society and culture,
+											into families, into individuals, into their beliefs
+											and back around again in a cycle.
+											What I love about this image
+											is it's made up of concepts,
+											it explores our worldviews
+											and it helps us — it helps me anyway —
+											to see what others think,
+											to see where they're coming from.
+											And it feels just incredibly cool to do that.
+									","
+											Una especie con la que se puede ir más allá,
+											y puede ir más allá de los números.
+											Y me gusta aplicar la información de visualización
+											a las ideas y conceptos.
+											Esta es una visualización
+											del espectro político,
+											en un intento para intentar
+											comprender cómo funciona
+											y cómo las ideas se infiltran
+											desde el gobierno en la sociedad y la cultura,
+											en las familias, en los individuos, en sus creencias
+											y de nuevo en torno a un ciclo.
+											Lo que me gusta de esta imagen
+											es que está formada por conceptos,
+											explora nuestra visión del mundo
+											y nos ayuda, a mí me ayuda en cualquier caso,
+											a ver lo que otros piensan,
+											para ver de dónde vienen.
+											Sintiéndose uno increíblemente genial al hacerlo.
+									","
+											Ama verinin ötesine geçebiliyor gibi,
+											ve rakamlarında ötesine geçebiliyor.
+											Ve ben bilgiyi görselleştirmeyi
+											fikir ve konseptlere uygulamayı seviyorum.
+											Bu bir görselleştirme
+											politik görüntünün,
+											benim nasıl çalıştığına dair
+											fikir edinme çabam sırasında
+											ve fikirin nasıl hükümetten, halka ve kültüre
+											doğru süzüldüğünü,
+											ailelere, bireylere ve onların inançlarına
+											ve kısır bir döngü şeklinde dönmesini.
+											Bu resim ile ilgili sevdiğim şey
+											konseptlerden meydana gelmiş olmasıdır,
+											dünya görüşlerimizi inceliyor
+											ve bize — yada en azından bana —
+											başkalarının nasıl düşündüklerini görme imkanı sağlıyor,
+											onların nerelerden geldiklerini görme imkanı.
+											Ve bunu yapmak inanılmaz havalı geliyor.
+									","
+											Mais ça peut aller au delà des données,
+											et ça peut aller au delà des chiffres.
+											Et j'aime appliquer la visualisation d'informations
+											à des idées et des concepts.
+											Voici une visualisation
+											du spectre politique,
+											pour tenter de comprendre
+											comment ça fonctionne
+											et comment les idées passent
+											du gouvernement à la société et la culture,
+											aux familles, aux individus, à leurs croyances
+											et reviennent au gouvernement dans un cycle.
+											Ce que j'aime dans cette image
+											c'est quelle est faite de concepts,
+											elle explore nos visions du monde
+											et elle nous aide — elle m'aide de toute façon —
+											à voir ce que les autres pensent,
+											pour voir d'où ils viennent.
+											Et c'est super de faire ça.
+									","
+											Aber es kann auch gewissermaßen über Daten hinaus gehen
+											und es kann über Zahlen hinaus gehen.
+											Und ich möchte die Visualisierung von Informationen
+											auf Ideen und Konzepte anwenden.
+											Dies ist die Visualisierung
+											des politischen Spektrums
+											als Bestrebung von mir zu versuchen
+											und zu verstehen wie es funktioniert
+											und wie die Ideen durchsickern —
+											von der Regierung in die Gesellschaft und Kultur,
+											in Familien, in Individuen, in ihre Überzeugungen
+											und wieder ganz zurück in einem Kreislauf.
+											Was ich an diesem Bild liebe, ist,
+											dass es aus Konzepten besteht.
+											Es erkundet unsere Weltanschauungen
+											und es hilft uns — es hilft mir zumindest —
+											zu sehen, was andere denken,
+											zu sehen, wo sie herkommen.
+											Und es fühlt sich einfach unglaublich gut an, das zu tun.
+									",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+","
+","
+","
+","
+",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+											What was most exciting for me
+											designing this
+											was that, when I was designing this image,
+											I desperately wanted this side, the left side,
+											to be better than the right side —
+											being a journalist, a Left-leaning person —
+											but I couldn't, because I would have created
+											a lopsided, biased diagram.
+											So, in order to really create a full image,
+											I had to honor the perspectives on the right-hand side
+											and at the same time, uncomfortably recognize
+											how many of those qualities were actually in me,
+											which was very, very annoying and uncomfortable.
+											(Laughter)
+											But not too uncomfortable,
+											because there's something unthreatening
+											about seeing a political perspective,
+											versus being told or forced to listen to one.
+											You're capable of holding conflicting viewpoints
+											joyously when you can see them.
+											It's even fun to engage with them
+											because it's visual.
+											So that's what's exciting to me,
+											seeing how data can change my perspective
+											and change my mind midstream —
+											beautiful, lovely data.
+									","
+											Y lo más emocionante para mí
+											al diseñarlo,
+											fue que, cuando estaba diseñando esta imagen,
+											quería desesperadamente que este lado, el lado izquierdo,
+											fuera mejor que el derecho,
+											al ser un periodista con orientaciones de izquierdas,
+											pero no era posible, porque habría creado
+											un diagrama desequilibrado y tendencioso.
+											Así, con el fin de crear realmente una imagen completa,
+											tuve que aceptar los puntos de vista del lado derecho
+											y al mismo tiempo fue incómodo reconocer
+											cuántas de esas cualidades eran también realmente mías,
+											lo que resultó ser muy molesto e incómodo.
+											(Risas)
+											Pero no demasiado incómodo,
+											porque no representa una amenaza
+											el ver una perspectiva política,
+											en contra de forzarle a decir o a escuchar a uno.
+											En realidad, se es capaz de sostener puntos de vista conflictivos
+											con alegría, cuando se pueden ver.
+											Es incluso divertido involucrarse en ellos
+											porque es visual.
+											Y eso es lo que me entusiasma,
+											ver cómo los datos pueden cambiar mi punto de vista
+											y modificar mi forma de pensar,
+											datos hermosos y preciosos.
+									","
+											Ve benim için en heyecanlı kısmı
+											bunu tasarlamaktı,
+											bu resmi tasarladığım zamandan bahsediyorum,
+											Çaresizce bu tarafı istiyordum, sol taraf,
+											sağ taraftan iyi olması için —
+											bir gazeteci olmak, sol'a yatkın bir insan olmak —
+											ama yapamazdım, çünkü
+											orantısız ve tek taraflı bir diagram oluşturmuş olurdum.
+											Böylece, tam bir görüntü elde edebilmek için,
+											Sağ tarafın görüşlerinide onore etmem gerekiyordu
+											o anda rahatsız edici bir şeyin farkına vardım
+											bu özelliklerden kaçının bende olduğuna dair,
+											gerçekten çok ama çok rahatsız ediciydi.
+											(Kahkaha)
+											Ama o kadar da rahatsız edici değildi,
+											çünkü tehditkar olmayan bir yanı vardı
+											politik görüşün bir kişiyi zorla dinlemek
+											zorunda bırakılmak ile karşılaştırılınca.
+											Bu aslında — siz çakışan görüş noktalarını elinizde tutma olanağına sahipsiniz
+											neşeli bir şekilde, onları görebildiğiniz zaman.
+											Onlarla ilişki içinde olmak bile zevkli
+											çünkü bu görsel.
+											İşte benim için ilginç olan da bu,
+											verilerin benim görüşlerimi nasıl değiştirebildiğini görmek
+											ve zihnimin en ana noktasını —
+											güzel, sevimli veri.
+									","
+											Et le plus excitant pour moi
+											en concevant cette visualisation,
+											c'était que pendant que je concevais cette image,
+											je voulais désespérément que ce côté, le côté gauche,
+											soit meilleur que le côté droit —
+											car je suis un genre de journaliste, une personne avec une sensibilité de gauche —
+											mais je ne pouvais pas, parce que j'aurais créé
+											un diagramme faussé et bancal.
+											Donc pour créer vraiment une image complète,
+											j'ai dû honorer les perspectives du côté droit
+											et en même temps, j'ai reconnu avec un certain malaise
+											combien de ces qualités étaient en fait en moi,
+											ce qui était très, très ennuyeux et inconfortable.
+											(Rires)
+											Mais pas trop inconfortable,
+											parce qu'il y a quelque chose qui n'est pas menaçant
+											dans le fait de voir une perspective politique.
+											versus être obligé d'en écouter une.
+											C'est en fait — vous êtes capable de tenir des points de vue divergeants
+											joyeusement, quand vous les voyez.
+											C'est même amusant de s'y confronter
+											parce que c'est visuel.
+											Alors voilà ce qui est excitant pour moi,
+											de voir comment les données changent ma perpective
+											et changent le centre de mes pensées
+											de belles et jolies données.
+									","
+											Und was für mich am spannendsten
+											beim Gestalten war,
+											war, dass ich währenddessen
+											verzweifelt versucht habe, diese Seite, die linke Seite
+											besser zu machen als die rechte Seite —
+											als Journalist, als linksorientierte Person —
+											Aber ich konnte nicht, da ich ansonsten ein
+											einseitiges, verzerrtes Diagramm erstellt hätte.
+											Um also wirklich ein vollständiges Bild zu erstellen,
+											musste ich auch die Ansichten der rechten Seite würdigen
+											und gleichzeitig, gewissermaßen unbehaglich feststellen,
+											wie viele jener Eigenschaften tatsächlich in mir sind,
+											was sehr, sehr ärgerlich und unbehaglich war.
+											(Gelächter)
+											Aber nicht zu unbehaglich,
+											weil es etwas nicht Bedrohliches hat,
+											wenn man eine politische Ansicht sieht
+											als dass man sie sich anhören muss.
+											Es ist wirklich so — Sie können widersprüchliche Standpunkte
+											freudig vertreten, wenn Sie sie sehen können.
+											Es ist sogar ein Vergnügen sich mit ihnen zu beschäftigen,
+											da sie visuell sind.
+											Das ist es also, was für mich aufregend ist —
+											zu sehen, wie Daten meinen Blickwinkel ändern können
+											und meine Meinung währenddessen beeinflussen können.
+											Schöne, wunderbare Daten.
+									",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+","
+","
+","
+","
+",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+											So, just to wrap up,
+											I wanted to say
+											that it feels to me that design is about solving problems
+											and providing elegant solutions,
+											and information design is about
+											solving information problems.
+											It feels like we have a lot of information problems
+											in our society at the moment,
+											from the overload and the saturation
+											to the breakdown of trust and reliability
+											and runaway skepticism and lack of transparency,
+											or even just interestingness.
+											I mean, I find information just too interesting.
+											It has a magnetic quality that draws me in.
+									","
+											Así es que para recapitular,
+											quería decir
+											que para mí el diseño se dedica a solucionar problemas
+											y ofrecer soluciones elegantes.
+											Y el diseño de la información trata de
+											resolver problemas de información.
+											Y parece que tenemos un montón de problemas de información
+											actualmente en nuestra sociedad,
+											desde la sobrecarga y saturación
+											hasta la ruptura de la confianza y la fiabilidad
+											así como el escepticismo galopante y la falta de transparencia,
+											o incluso sólo la ""interesancia"".
+											Esto es, puedo encontrar información demasiado interesante.
+											Esta tiene una calidad magnética que me atrae.
+									","
+											Hadi toparlayalım,
+											Söylemek istiyorumki
+											tasarım yapmak problem çözmek gibi birşey
+											ve zarif yöntemler bulmak.
+											Ve bilgi tasarımı
+											bilgi soruları çözmek ile ilgili.
+											Ve görünüşe bakılırsa çok fazla bilgi sorusuna sahibiz
+											bugün bulunduğumuz toplum içinde,
+											aşırı yüklenme ve doygunluktan
+											güven kırılmalarına ve itimata
+											kontrolden çıkmış şüphecilikten, ihtiyacımız olan şeffaflığa,
+											veya hatta sadece ilginç olmaya.
+											Demek istediğin, bilgiyi fazlasıyla ilginç buluyorum.
+											Beni kendine çeken manyetik bir özelliği var.
+									","
+											Donc pour finir,
+											je voulais dire
+											que j'ai l'impression que le design est sur le point de résoudre des problèmes
+											et de fournir des solutions élégantes.
+											Et le design des informations
+											est là pour résoudre les problèmes d'information.
+											Et il semble que nous ayons beaucoup de problèmes d'information,
+											dans notre société en ce moment,
+											depuis la surcharge et la saturation
+											jusqu'à l'effondrement de la confiance et de la fiabilité
+											et le scepticisme effréné et le manque de transparence,
+											ou même simplement l'intérêt.
+											Je veux dire, je trouve les informations trop intéresantes.
+											Elles ont une qualité magnétique qui m'attire.
+									","
+											Um es also zusammenzufassen:
+											Ich wollte sagen,
+											dass ich glaube, dass es bei der Gestaltung um das Lösen von Problemen geht
+											und die Bereitstellung eleganter Lösungen.
+											Und beim Informationsdesign geht es um
+											das Lösen von Informationsproblemen.
+											Und ich glaube, dass wir viele Informationsprobleme
+											derzeit in unserer Gesellschaft haben —
+											von der Informationsflut und -sättigung
+											bis zur Störung von Vertrauen und Zuverlässigkeit
+											sowie unkontrollierter Skepsis und dem Mangel an Transparenz
+											oder sogar einfach Interesse.
+											Ich glaube, ich finde Informationen einfach zu interessant.
+											Sie haben etwas, das mich anzieht.
+									",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+","
+","
+","
+","
+",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+											So, visualizing information
+											can give us a very quick solution to those kinds of problems.
+											Even when the information is terrible,
+											the visual can be quite beautiful.
+											Often we can get clarity
+											or the answer to a simple question very quickly,
+											like this one,
+											the recent Icelandic volcano.
+											Which was emitting the most CO2?
+											Was it the planes or the volcano,
+											the grounded planes or the volcano?
+											So we can have a look.
+											We look at the data and we see:
+											Yep, the volcano emitted 150,000 tons;
+											the grounded planes would have emitted
+											345,000 if they were in the sky.
+											So essentially, we had our first carbon-neutral volcano.
+									","
+											Por lo tanto, visualizar información
+											nos puede dar una solución muy rápida a este tipo de problemas.
+											Y aun cuando la información sea terrible,
+											lo visual puede ser muy hermoso.
+											Y a menudo logramos una mayor claridad
+											o la respuesta a una pregunta simple muy rápidamente,
+											como ésta,
+											el reciente volcán islandés...
+											¿Cuál emitió más CO2?
+											¿Los aviones o el volcán,
+											los aviones en tierra o el volcán?
+											Veamos.
+											Nos fijamos en los datos y vemos
+											que sí, el volcán emitió 150.000 toneladas;
+											los aviones podrían haber emitido
+											345.000 si hubieran despegado.
+											Así que, en principio, fue nuestro primer volcán neutral de carbono.
+									","
+											Bilgiyi görselleştirmekte
+											bu tür problemlerde bize kısa sonuçlar verebilir.
+											Ve bilgi korkunç bir haldeyken bile,
+											görsel oldukça güzel olabilir.
+											Ve çoğunlukla netlik sağlanabilir
+											veya basit bir soruya bir cevap çok hızlı gelebilir,
+											burda olduğu gibi,
+											yakın zamanda izlandada ki yanardağ.
+											Çok sayıda CO2 yayan?
+											Uçaklarmıydı yoksa yanardağ mı?
+											havalanamayan uçaklar yada yanardağ?
+											Bir göz atabiliriz.
+											Veriye bakar ve öğreniriz,
+											evet, yanardağ 150.000 ton yaymış;
+											eğer uçaklar havalanabilmiş olsalardı
+											345.000 yayacaklardı.
+											Dolayısıyla, ilk sıfır-karbon yanardağımıza sahip olduk.
+									","
+											Alors, visualiser les informations
+											peut nous donner une solution très rapide à ce genre de problèmes.
+											Et même quand les informations sont terribles,
+											le visuel peut être beau.
+											Et souvent on peut obtenir de la clarté
+											ou la réponse à une question simple très rapidement.
+											comme celle-ci,
+											le récent volcan islandais.
+											Qui émettait le plus de CO2?
+											Est-ce que c'était les avions ou le volcan,
+											les avions cloués au sol ou le volcan?
+											Alors nous pouvons voir ça.
+											Nous regardons les données et nous voyons,
+											oui, le volcan a émis 150 000 tonnes;
+											les avions au sol auraient émis
+											345 000 tonnes si ils avaient été dans le ciel.
+											Doc essentiellement, nous avons eu notre premier volcan à empreinte carbone neutre.
+									","
+											Die Visualisierung von Informationen
+											kann uns also eine sehr schnelle Lösung für all jene Arten von Problemen bescheren.
+											Und sogar wenn die Informationen schrecklich sind,
+											kann die Visualisierung ganz schön sein.
+											Und oftmals können wir Klarheit schaffen
+											oder eine Antwort auf eine einfache Frage sehr schnell erhalten,
+											wie diese hier —
+											der jüngste isländische Vulkan.
+											Was hat das meiste CO2 ausgestoßen?
+											Waren es die Flugzeuge oder der Vulkan,
+											die Flugzeuge am Boden oder der Vulkan?
+											Schauen wir es uns an.
+											Wir schauen uns die Daten an und wir sehen —
+											ja, der Vulkan hat 150.000 Tonnen ausgestoßen;
+											die Flugzeuge am Boden hätten
+											345.000 Tonnen ausgestoßen, wenn sie in der Luft gewesen wären.
+											Wir hatten also tatsächlich unseren ersten klimaneutralen Vulkan.
+									",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+","
+","
+","
+","
+",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+											(Laughter)
+									","
+											(Risas)
+									","
+											(Kahkaha)
+									","
+											(Rires)
+									","
+											(Gelächter)
+									",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+","
+","
+","
+","
+",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+											(Applause)
+									","
+											(Aplausos)
+									","
+											(Alkış)
+									","
+											(Applaudissements)
+									","
+											(Applaus)
+									",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+","
+","
+","
+","
+",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+											And that is beautiful. Thank you.
+									","
+											Y esto es bello. Gracias.
+									","
+											Ve bu çok güzel. Teşekkürler.
+									","
+											Et c'est beau. Merci.
+									","
+											Und das ist schön. Vielen Dank.
+									",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+","
+","
+","
+","
+",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+											(Applause)
+									","
+											(Aplausos)
+									","
+											(Alkış)
+									","
+											(Applaudissements)
+									","
+											(Applaus)
+									",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"
+"
+","
+","
+","
+","
+",The beauty of data visualization,David McCandless,17:56,"complexity,computers,data,design,visualizations"

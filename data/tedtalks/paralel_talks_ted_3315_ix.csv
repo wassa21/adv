@@ -1,0 +1,1499 @@
+en,es,fr,title,speaker,duration,tags
+"
+","
+","
+",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+											My colleagues and I are fascinated
+by the science of moving dots.
+											So what are these dots?
+											Well, it's all of us.
+											And we're moving in our homes,
+in our offices, as we shop and travel
+											throughout our cities
+and around the world.
+											And wouldn't it be great
+if we could understand all this movement?
+											If we could find patterns and meaning
+and insight in it.
+											And luckily for us, we live in a time
+											where we're incredibly good
+at capturing information about ourselves.
+											So whether it's through
+sensors or videos, or apps,
+											we can track our movement
+with incredibly fine detail.
+									","
+											A mis colegas y a mí nos fascina
+la ciencia de los puntos móviles.
+											¿Qué son estos puntos?
+											Somos nosotros.
+											Nos movemos en casa, en la oficina, 
+mientras compramos y viajamos
+											por nuestras ciudades
+y alrededor del mundo.
+											¿No sería genial si pudiéramos
+entender estos movimientos,
+											si pudiéramos encontrar patrones,
+significado y sentido en eso?
+											Por fortuna para nosotros,
+vivimos en una época
+											en la que somos muy buenos capturando
+información sobre nosotros mismos.
+											Sea mediante sensores, videos
+o aplicaciones,
+											podemos rastrear los movimientos 
+con mucho detalle.
+									","
+											Mes collègues et moi sommes fascinés
+par la science des « points mobiles ».
+											Alors, c'est quoi ces points ?
+											Eh bien, c'est nous tous.
+											Nous nous déplaçons chez nous,
+au bureau, au magasin, en voyage
+											à travers les villes et
+autour du monde.
+											Ça ne serait pas génial si on pouvait
+comprendre tous ces mouvements ?
+											Si on pouvait trouver des schémas,
+leur sens et mieux les comprendre ?
+											Nous avons la chance de vivre à une époque
+											où nous excellons à capturer 
+des informations sur nous-mêmes.
+											Donc que ce soit par des capteurs,
+des vidéos ou des applications,
+											on peut suivre nos mouvements
+d'une façon incroyablement détaillée.
+									",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+","
+","
+",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+											So it turns out one of the places
+where we have the best data about movement
+											is sports.
+											So whether it's basketball or baseball,
+or football or the other football,
+											we're instrumenting our stadiums
+and our players to track their movements
+											every fraction of a second.
+											So what we're doing
+is turning our athletes into —
+											you probably guessed it —
+											moving dots.
+									","
+											Y una de las mejores fuentes 
+de datos sobre el movimiento
+											es en los deportes.
+											Sea baloncesto o béisbol,
+fútbol americano o el otro fútbol,
+											equipamos los estadios y jugadores
+para seguir sus movimientos
+											en cada fracción de segundo.
+											Así que convertimos a los atletas
+											—quizá lo adivinaron—
+											en puntos móviles.
+									","
+											En fait, un des secteurs dans lequel
+nous avons les meilleures données
+											sur le mouvement est le sport.
+											Que ce soit le basket, le baseball,
+le foot ou le football américain,
+											nous équipons nos stades et nos joueurs
+afin de suivre leurs mouvements
+											à chaque fraction de seconde.
+											En fait nous transformons
+nos athlètes en –
+											vous avez surement deviné,
+											des points mobiles.
+									",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+","
+","
+",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+											So we've got mountains of moving dots
+and like most raw data,
+											it's hard to deal with
+and not that interesting.
+											But there are things that, for example,
+basketball coaches want to know.
+											And the problem is they can't know them
+because they'd have to watch every second
+											of every game, remember it and process it.
+											And a person can't do that,
+											but a machine can.
+											The problem is a machine can't see
+the game with the eye of a coach.
+											At least they couldn't until now.
+											So what have we taught the machine to see?
+									","
+											Tenemos montañas de puntos móviles
+y como la mayoría de los datos en crudo
+											son difíciles de manejar,
+y no son tan interesantes.
+											Pero hay cosas que los entrenadores
+de baloncesto quieren saber.
+											El problema es que no pueden
+retener cada segundo
+											de cada juego, recordarlo y procesarlo.
+											Nadie puede hacer eso,
+pero una máquina sí.
+											El problema de la máquina es que 
+no ve el juego con ojo de entrenador.
+											Al menos no podía hasta ahora.
+											Así que ¿qué le enseñamos
+a ver a la máquina?
+									","
+											Nous avons donc des tonnes de points
+mobiles ; comme toutes les données brutes,
+											c'est difficile à traiter
+et pas vraiment intéressant.
+											Mais il y a des choses que les entraîneurs
+de basket, par exemple, veulent savoir.
+											Le problème, c'est que pour les obtenir,
+il faudrait qu'ils regardent
+											chaque seconde de chaque match, 
+s'en rappellent et les analysent.
+											Personne n'est capable de le faire,
+											mais une machine le peut.
+											Le problème, c'est qu'elle ne peut
+pas voir avec les yeux de l'entraîneur.
+											Du moins pas jusqu'à maintenant.
+											Alors qu'a-t-on appris
+à la machine pour qu'elle voie ?
+									",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+","
+","
+",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+											So, we started simply.
+											We taught it things like passes,
+shots and rebounds.
+											Things that most casual fans would know.
+											And then we moved on to things
+slightly more complicated.
+											Events like post-ups,
+and pick-and-rolls, and isolations.
+											And if you don't know them, that's okay.
+Most casual players probably do.
+											Now, we've gotten to a point where today,
+the machine understands complex events
+											like down screens and wide pins.
+											Basically things only professionals know.
+											So we have taught a machine to see
+with the eyes of a coach.
+									","
+											Empezamos con cosas simples.
+											Le enseñamos cosas como pases,
+tiros y rebotes.
+											Cosas que cualquier fan conoce.
+											Y luego seguimos con cosas
+levemente más complicadas:
+											Posteos, bloqueos y continuación,
+aislamientos.
+											Si no las conocen, está bien. Los
+jugadores aficionados quizá lo sepan.
+											Hemos logrado que la máquina 
+entienda secuencias complejas
+											como bloqueos verticales abajo
+y hasta con rotaciones complejas.
+											Básicamente cosas que
+solo saben los profesionales.
+											Hemos enseñado a la máquina 
+a ver con ojos de entrenador.
+									","
+											On a commencé simplement.
+											On lui a d'abord appris des choses comme
+les passes, les tirs et les rebonds –
+											que la plupart des fans
+devraient connaître.
+											Et puis on est passé à des choses 
+un peu plus compliquées.
+											Des choses comme des post-ups,
+des pick and rolls et des isolements.
+											Peut-être ne les connaissez-vous pas, mais
+la plupart des joueurs les connaissent.
+											De nos jours, les machines comprennent
+des événements complexes
+											comme orienter et poser des écrans.
+											Des choses que seuls 
+les professionnels connaissent.
+											Nous avons appris à une machine à voir
+avec les yeux d'un entraîneur.
+									",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+","
+","
+",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+											So how have we been able to do this?
+											If I asked a coach to describe
+something like a pick-and-roll,
+											they would give me a description,
+											and if I encoded that as an algorithm,
+it would be terrible.
+											The pick-and-roll happens to be this dance
+in basketball between four players,
+											two on offense and two on defense.
+											And here's kind of how it goes.
+											So there's the guy on offense
+without the ball
+											the ball and he goes next to the guy
+guarding the guy with the ball,
+											and he kind of stays there
+											and they both move and stuff happens,
+and ta-da, it's a pick-and-roll.
+									","
+											¿Cómo hemos podido hacerlo?
+											Si pidiera a un entrenador 
+describir un bloqueo y continuación,
+											me daría una descripción;
+											y si pusiera eso en un algoritmo,
+sería terrible.
+											El bloqueo y continuación es esa danza
+del baloncesto entre cuatro jugadores,
+											dos atacantes y dos defensores.
+											Es más o menos así.
+											Hay un tipo en ataque sin la pelota,
+											se pone al lado del tipo que marca
+y que tiene la posesión de la pelota,
+											se queda allí,
+									","
+											Alors, comment y sommes-nous parvenus ?
+											Si je demandais à un entraîneur 
+de décrire un pick and roll,
+											ils me donneraient une description.
+											Et si je l'encodais en un algorithme,
+ce serait très mauvais.
+											Il se trouve que le pick and roll est 
+cette danse au basket entre 4 joueurs,
+											deux à l'attaque et deux à la défense.
+											Et voilà à peu près comment ça se passe.
+											Du côté de l'attaque, 
+il y a ce type sans le ballon
+											et il se met près du type qui
+couvre le type qui a le ballon,
+											et il reste là
+									",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+","
+","
+",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+											(Laughter)
+									","
+											y ambos se mueven y ocurre, cha-chan, 
+un bloqueo y continuación.
+									","
+											et tous les deux bougent 
+et le jeu continue,
+											et voilà : un pick and roll.
+									",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+","
+","
+",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+											So that is also an example
+of a terrible algorithm.
+											So, if the player who's the interferer —
+he's called the screener —
+											goes close by, but he doesn't stop,
+											it's probably not a pick-and-roll.
+											Or if he does stop,
+but he doesn't stop close enough,
+											it's probably not a pick-and-roll.
+											Or, if he does go close by
+and he does stop
+											but they do it under the basket,
+it's probably not a pick-and-roll.
+											Or I could be wrong,
+they could all be pick-and-rolls.
+											It really depends on the exact timing,
+the distances, the locations,
+											and that's what makes it hard.
+											So, luckily, with machine learning,
+we can go beyond our own ability
+											to describe the things we know.
+									","
+											(Risas)
+											Eso es un ejemplo de
+un algoritmo complicado.
+											Si el jugador que se interpone,
+llamado bloqueador,
+											se acerca, pero no se detiene,
+											quizá no sea un bloqueo y continuación.
+											O si se detiene, pero no queda muy cerca,
+											quizá no sea un bloqueo y continuación.
+											O si se acerca al otro y realmente para,
+											pero lo hacen debajo de la cesta,
+quizá no sea un bloqueo y continuación.
+											O podría equivocarme, todos esos casos 
+podrían ser bloqueos y continuación.
+											Todo depende del tiempo exacto,
+las distancias, los posicionamientos,
+											y eso lo hace difícil.
+											Por suerte, con el aprendizaje máquina,
+podemos exceder nuestra capacidad
+											de describir las cosas que conocemos.
+									","
+											(Rires)
+									",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+","
+","
+",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+											So how does this work?
+Well, it's by example.
+											So we go to the machine and say,
+""Good morning, machine.
+											Here are some pick-and-rolls,
+and here are some things that are not.
+											Please find a way to tell the difference.""
+											And the key to all of this is to find
+features that enable it to separate.
+											So if I was going
+to teach it the difference
+											between an apple and orange,
+											I might say, ""Why don't you
+use color or shape?""
+											And the problem that we're solving is,
+what are those things?
+											What are the key features
+											that let a computer navigate
+the world of moving dots?
+											So figuring out all these relationships
+with relative and absolute location,
+											distance, timing, velocities —
+											that's really the key to the science
+of moving dots, or as we like to call it,
+											spatiotemporal pattern recognition,
+in academic vernacular.
+											Because the first thing is,
+you have to make it sound hard —
+											because it is.
+									","
+											¿Cómo funciona esto?
+Bueno, con ejemplos.
+											Vamos a la máquina y le decimos:
+""Buenos días, máquina.
+											Aquí hay bloqueos y continuación,
+y aquí otras cosas que no lo son.
+											Por favor, encuentra cómo 
+establecer la diferencia"".
+											Y la clave de todo esto es encontrar
+características que le permitan separar.
+											Si yo tuviera que enseñar la diferencia
+entre una manzana y una naranja,
+											podría decir: ""¿Por qué no usar
+el color y la forma?""
+											El problema que enfrentamos 
+es encontrar esas cosas.
+											¿Qué características son
+											las que permiten a una computadora 
+navegar el mundo de los puntos móviles?
+											Imaginar todas estas relaciones
+con ubicación relativa y absoluta,
+											—distancia, tiempo, velocidad—
+											es la clave de la ciencia de los puntos
+móviles, como nos gusta llamarla,
+											reconocimiento espacio-temporal 
+de patrones,
+											en lenguaje académico.
+											Ante todo tenemos que hacer
+que suene difícil,
+											porque lo es.
+									","
+											C'est aussi un exemple
+d'un très mauvais algorithme.
+											Donc si le joueur interférant, 
+celui qu'on appelle le garde—
+											s'approche mais ne s'arrête pas,
+											il ne s'agit sans doute pas
+d'un pick and roll.
+											Ou bien s'il s'arrête, 
+mais pas assez près,
+											il ne s'agit sûrement pas
+d'un pick and roll.
+											Ou, s'il s'approche vraiment 
+et il s'arrête
+											mais ça se passe sous le panier,
+ce n'est sans doute pas un pick and roll.
+											Ou alors je me trompe
+											et tous ces exemples 
+sont des pick and roll.
+											Tout dépend du timing,
+des distances et des emplacements,
+											et c'est ça qui est difficile à apprécier.
+											Mais heureusement, on peut apprendre
+aux machines à décrire les choses
+											qu'on connaît, bien au-delà 
+de nos capacités.
+									",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+","
+","
+",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+											The key thing is, for NBA coaches,
+it's not that they want to know
+											whether a pick-and-roll happened or not.
+											It's that they want to know
+how it happened.
+											And why is it so important to them?
+So here's a little insight.
+											It turns out in modern basketball,
+											this pick-and-roll is perhaps
+the most important play.
+											And knowing how to run it,
+and knowing how to defend it,
+											is basically a key to winning
+and losing most games.
+											So it turns out that this dance
+has a great many variations
+											and identifying the variations
+is really the thing that matters,
+											and that's why we need this
+to be really, really good.
+									","
+											Pero la clave para los entrenadores
+de la NBA no es saber
+											si hubo un bloqueo y continuación o no.
+											Ellos quieren saber cómo ocurrió.
+											Y ¿por qué eso es tan importante 
+para ellos?
+											Aquí hay una idea importante.
+											Resulta que en el baloncesto moderno,
+											el bloqueo y continuación es quizá
+el juego más importante.
+											Y saber cómo manejarlo,
+y saber cómo defenderlo,
+											básicamente es la clave para ganar
+o perder casi todos los juegos.
+											Pero resulta que esta danza
+tiene muchas variantes
+											e identificar las variantes
+es lo que importa,
+											por eso necesitamos que esto
+sea muy, muy bueno.
+									","
+											Alors comment ça marche ?
+											Eh bien, on utilise des exemples.
+											On va voir la machine et on lui dit :
+« Bonjour, machine.
+											Voila des exemples de pick and roll,
+et voici des choses qui n'en sont pas.
+											S'il te plaît, trouve un moyen 
+de faire la différence. »
+											Il s'agit de trouver les caractéristiques
+permettant la séparation.
+											Alors pour lui enseigner
+la différence
+											entre une pomme et une orange,
+											pourquoi ne pas utiliser
+les couleurs et les formes ?
+											Et le problème à résoudre c'est,
+quelles sont ces choses ?
+											Quelles sont les caractéristiques
+											permettant à l'ordinateur de naviguer
+											dans le monde des points mobiles ?
+											Comprendre toutes ces relations
+											avec des positions relatives et absolues,
+											la distance, le temps, les vélocités –
+											c'est vraiment le cœur de la science
+des points mobiles,
+											ou bien, comme on l'appelle :
+											schéma spatio-temporel de reconnaissance
+en langage académique.
+											Parce que tout d'abord, 
+il faut que ça sonne compliqué.
+											Parce que ça l'est.
+									",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+","
+","
+",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+											So, here's an example.
+											There are two offensive
+and two defensive players,
+											getting ready to do
+the pick-and-roll dance.
+											So the guy with ball
+can either take, or he can reject.
+											His teammate can either roll or pop.
+											The guy guarding the ball
+can either go over or under.
+											His teammate can either show
+or play up to touch, or play soft
+											and together they can
+either switch or blitz
+											and I didn't know
+most of these things when I started
+											and it would be lovely if everybody moved
+according to those arrows.
+											It would make our lives a lot easier,
+but it turns out movement is very messy.
+											People wiggle a lot and getting
+these variations identified
+											with very high accuracy,
+											both in precision and recall, is tough
+											because that's what it takes to get
+a professional coach to believe in you.
+											And despite all the difficulties
+with the right spatiotemporal features
+											we have been able to do that.
+									","
+											Este es un ejemplo.
+											Hay dos jugadores en ataque
+y dos en defensa,
+											listos para la danza del 
+bloqueo y continuación.
+											El tipo con la pelota puede 
+usar o no el bloqueo.
+											Su compañero puede girar a canasta
+o abrir para recibir el pase.
+											El que marca al jugador con 
+la pelota puede avanzar o retroceder.
+											Su compañero puede avanzar,
+marcar o solo acompañar
+											y juntos pueden cambiar asignación 
+defensiva o redoblar la marca.
+											Yo no sabía casi nada de esto
+cuando empecé
+											y sería estupendo si todos
+se movieran siguiendo esas flechas.
+											Haría mucho más fáciles nuestras vidas,
+pero el movimiento es muy desordenado.
+											Las personas se menean mucho
+e identificar estas variaciones
+											con muy alta precisión,
+											en precisión y en recuerdo, es difícil
+											y es lo que hace que un entrenador
+profesional crea en ti.
+											Aun con las dificultades de las correctas
+características espacio-temporales
+											lo hemos logrado.
+									","
+											Mais, pour les entraîneurs,
+le problème n'est pas de savoir
+											s'il s'agit d'un pick and roll ou non.
+											Ils veulent savoir comment
+le pick and roll a pu avoir lieu.
+											Et pourquoi c'est important
+pour eux ? Je vous explique.
+											Il se trouve que 
+dans le basketball moderne,
+											ce pick and roll est peut-être le type
+de jeu le plus important.
+											Savoir comment l'initier
+et en assurer sa défense,
+											est ce qui détermine la plupart
+des victoires et des défaites.
+											Si bien que cette danse a beaucoup
+de formes différentes
+											et pouvoir identifier ces variations
+est vraiment ce qui compte,
+											et c'est pour ça qu'il faut que ce système
+soit vraiment bon.
+									",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+","
+","
+",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+											Coaches trust our ability of our machine
+to identify these variations.
+											We're at the point where
+almost every single contender
+											for an NBA championship this year
+											is using our software, which is built
+on a machine that understands
+											the moving dots of basketball.
+											So not only that, we have given advice
+that has changed strategies
+											that have helped teams win
+very important games,
+											and it's very exciting because you have
+coaches who've been in the league
+											for 30 years that are willing to take
+advice from a machine.
+											And it's very exciting,
+it's much more than the pick-and-roll.
+											Our computer started out
+with simple things
+											and learned more and more complex things
+											and now it knows so many things.
+											Frankly, I don't understand
+much of what it does,
+											and while it's not that special
+to be smarter than me,
+											we were wondering,
+can a machine know more than a coach?
+											Can it know more than person could know?
+											And it turns out the answer is yes.
+									","
+											Los entrenadores confían en que las
+máquinas pueden identificar variaciones.
+											Estamos en el punto en el que
+casi todos los contendientes
+											en el campeonato de la NBA este año
+											usan nuestro software, construido
+en una máquina que entiende
+											los puntos móviles
+en el baloncesto.
+											No solo eso, hemos dado consejos
+que han cambiado estrategias
+											que han ayudado a equipos a ganar
+juegos muy importantes,
+											y es muy apasionante porque hay
+entrenadores que han estado en la liga
+											durante 30 años que desean recibir
+consejos de una máquina.
+											Y es muy apasionante, mucho más
+que el bloqueo y continuación.
+											Nuestra computadora empezó
+con cosas simples,
+											aprendió cosas cada vez más complejas
+											y ahora sabe cada vez más cosas.
+											Francamente, no entiendo
+gran parte de lo que hace,
+											y si bien no es algo tan especial
+ser más inteligente que yo,
+											nos hemos preguntado, ¿puede una
+máquina saber más que un entrenador?
+											¿Puede saber más de lo que
+podría saber una persona?
+											Y resulta que la respuesta es sí.
+									","
+											Un exemple :
+											2 joueurs en attaque,
+2 en défense,
+											prêts à interpréter la danse 
+du pick and roll.
+											Celui qui a le ballon peut
+prendre ou laisser.
+											Son coéquipier peut se diriger vers une 
+zone de terrain libre ou poser un écran.
+											Celui qui défend le ballon peut passer
+au dessus ou en dessous.
+											Son coéquipier peut se tenir à
+distance ou jouer « soft »
+											et ensemble ils peuvent passer le ballon
+ou détruire le pick and roll
+											et je ne connaissais pas tout ça
+quand j'ai commencé.
+											Ça serait super si tout le monde
+pouvait suivre les flêches.
+											Ça rendrait notre vie bien plus simple,
+mais les mouvements sont désordonnés.
+											Les gens gigotent beaucoup
+et identifier ces variations
+											avec une grande netteté,
+											quant à la précision et au recalcul,
+est difficile
+											parce que c'est ce qui est nécessaire
+pour que l'entraîneur croit en vous.
+											Malgré toutes les difficultés à trouver
+les traits spatiotemporels corrects,
+											on a réussi.
+									",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+","
+","
+",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+											The coaches want players
+to take good shots.
+											So if I'm standing near the basket
+											and there's nobody near me,
+it's a good shot.
+											If I'm standing far away surrounded
+by defenders, that's generally a bad shot.
+											But we never knew how good ""good"" was,
+or how bad ""bad"" was quantitatively.
+											Until now.
+									","
+											Los entrenadores quieren que
+los jugadores disparen bien.
+											Si estoy cerca de la cesta
+											y no hay nadie cerca,
+es un buen tiro.
+											Si estoy lejos, rodeado por defensores, 
+generalmente es un mal tiro.
+											Pero no sabíamos cuán bueno o malo era 
+lo ""bueno"" o lo ""malo"" cuantitativamente.
+											Hasta ahora.
+									","
+											Les entraineurs font confiance à nos
+machines pour identifier les variations.
+											Nous sommes au point où
+presque toutes les équipes
+											en NBA cette année
+											utilisent notre logiciel, construit
+sur une machine qui comprend
+											les points mobiles du basketball.
+											Nous avons même fourni des conseils
+qui ont changé les stratégies
+											qui ont aidé des équipes à gagner
+des matchs très importants,
+											et c'est vraiment passionnant parce qu'il 
+y a des entraîneurs qui sont en NBA
+											depuis 30 ans, qui acceptent 
+les avis d'une machine.
+											Et c'est passionnant,
+c'est bien plus que le pick and roll.
+											Nos ordinateurs sont partis
+de choses simples
+											et ont appris des choses plus complexes
+											et maintenant ils savent tant de choses.
+											Franchement, je ne comprends
+pas tout ce qu'il fait,
+											et bien que ça ne soit pas si 
+étonnant d'être plus intelligent que moi,
+											on s'est demandé, est-ce qu'une machine
+peut en savoir plus qu'un entraîneur ?
+											Peut-elle en savoir plus qu'une personne ?
+											Et il se trouve que la réponse est oui.
+									",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+","
+","
+",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+											So what we can do, again,
+using spatiotemporal features,
+											we looked at every shot.
+											We can see: Where is the shot?
+What's the angle to the basket?
+											Where are the defenders standing?
+What are their distances?
+											What are their angles?
+											For multiple defenders, we can look
+at how the player's moving
+											and predict the shot type.
+											We can look at all their velocities
+and we can build a model that predicts
+											what is the likelihood that this shot
+would go in under these circumstances?
+											So why is this important?
+											We can take something that was shooting,
+											which was one thing before,
+and turn it into two things:
+											the quality of the shot
+and the quality of the shooter.
+											So here's a bubble chart,
+because what's TED without a bubble chart?
+									","
+											Entonces, de nuevo, con las 
+características espacio-temporales,
+											analizamos cada tiro.
+											Podemos ver dónde está el tiro,
+cuál es el ángulo a la cesta,
+											dónde están los defensores,
+cuáles son sus distancias,
+											cuáles son los ángulos.
+											Para múltiples defensores,
+podemos ver cómo se mueve el jugador
+											y predecir el tipo de tiro.
+											Podemos ver todas sus velocidades
+y construir un modelo que prediga
+											la probabilidad de que este disparo
+vaya en estas circunstancias.
+											¿Por qué importa esto?
+											Podemos tomar un tiro,
+											que antes era una cosa y ahora
+se transforma en dos cosas:
+											la calidad del tiro
+y la calidad del tirador.
+											Este es un gráfico de burbujas
+porque ¿qué es TED sin ellos?
+									","
+											On veut que les joueurs
+fassent de bons tirs.
+											Donc si je suis près du panier
+											et qu'il n'y a personne autour,
+c'est un bon tir.
+											Si je suis loin du panier entouré de 
+défenseurs, c'est un mauvais tir.
+											Mais avant, on ne savait pas
+quantifier le bon et le mauvais
+											jusqu'à maintenant.
+									",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+","
+","
+",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+											(Laughter)
+									","
+											(Risas)
+									","
+											Donc, ce qu'on peut faire, c'est utiliser
+les traits spatio-temporels,
+											on a étudié tous les tirs.
+											On peut voir : Où est le tir ?
+Quel est l'angle avec le panier ?
+											Où se tiennent les défenseurs ?
+A quelle distance ?
+											Quels sont leurs angles ?
+											Quand il y a plusieurs défenseurs, on peut
+regarder comment les joueurs se déplacent
+											et prédire le type de tir.
+											On peut étudier leur vélocité
+et construire un modèle qui prédit
+											les chances que ce tir réussisse
+dans ces circonstances.
+											Alors, pourquoi c'est important ?
+											On peut prendre le tir,
+											qui était une seule chose
+et qui en devient deux :
+											la qualité du tir
+et la qualité du tireur.
+											Voici un graphique à bulles,
+indispensable dans une conférence TED.
+									",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+","
+","
+",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+											Those are NBA players.
+											The size is the size of the player
+and the color is the position.
+											On the x-axis,
+we have the shot probability.
+											People on the left take difficult shots,
+											on the right, they take easy shots.
+											On the [y-axis] is their shooting ability.
+											People who are good are at the top,
+bad at the bottom.
+											So for example, if there was a player
+											who generally made
+47 percent of their shots,
+											that's all you knew before.
+											But today, I can tell you that player
+takes shots that an average NBA player
+											would make 49 percent of the time,
+											and they are two percent worse.
+											And the reason that's important
+is that there are lots of 47s out there.
+											And so it's really important to know
+											if the 47 that you're considering
+giving 100 million dollars to
+											is a good shooter who takes bad shots
+											or a bad shooter who takes good shots.
+											Machine understanding doesn't just change
+how we look at players,
+											it changes how we look at the game.
+									","
+											Esos son jugadores de la NBA.
+											El tamaño es el tamaño del jugador
+y el color es su posición.
+											En el eje X, tenemos
+la probabilidad del disparo.
+											Las personas de la izquierda
+hacen tiros difíciles,
+											a la derecha, hacen tiros fáciles.
+											En el eje Y, es la capacidad de disparo.
+											Las personas que disparan bien van 
+arriba, las que disparan mal abajo.
+											Por ejemplo, si había un jugador
+											que generalmente encestaba 
+el 47 % de los tiros,
+											eso es lo que se sabía antes.
+											Pero hoy, puedo decir que el jugador
+hace disparos que un jugador medio NBA
+											convertiría el 49 % del tiempo,
+											y que ellos son un 2 % peores.
+											Y es importante porque
+hay muchos con 47 % por allí.
+											Y por eso es muy importante saber
+											si el 47 % al que están evaluando
+pagarle USD 100 millones
+											es un buen tirador que hace malos tiros
+											o un mal tirador que hace buenos tiros.
+											La comprensión de máquina no cambia
+la forma de ver a los jugadores,
+											cambia la forma de ver el juego.
+									","
+											(Rires)
+									",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+","
+","
+",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+											So there was this very exciting game
+a couple of years ago, in the NBA finals.
+											Miami was down by three,
+there was 20 seconds left.
+											They were about to lose the championship.
+											A gentleman named LeBron James
+came up and he took a three to tie.
+											He missed.
+											His teammate Chris Bosh got a rebound,
+											passed it to another teammate
+named Ray Allen.
+											He sank a three. It went into overtime.
+											They won the game.
+They won the championship.
+											It was one of the most exciting
+games in basketball.
+											And our ability to know
+the shot probability for every player
+											at every second,
+											and the likelihood of them getting
+a rebound at every second
+											can illuminate this moment in a way
+that we never could before.
+											Now unfortunately,
+I can't show you that video.
+											But for you, we recreated that moment
+											at our weekly basketball game
+about 3 weeks ago.
+									","
+											Hace unos años hubo un juego
+muy apasionante en la final de la NBA.
+											Miami estaba tres puntos abajo,
+quedaban 20 segundos.
+											Estaban a punto de perder el campeonato.
+											Un caballero de nombre LeBron James
+tiró de tres para empatar.
+											Falló.
+											Su compañero Chris Bosh
+consiguió un rebote,
+											hizo un pase a otro compañero
+llamado Ray Allen.
+											Clavó un triple.
+Fue en tiempo suplementario.
+											Ganaron el juego.
+Ganaron el campeonato.
+											Fue uno de los juegos de baloncesto
+más emocionantes.
+											Y nuestra capacidad de conocer
+la probabilidad del tiro de cada jugador
+											a cada segundo,
+											y la probabilidad de conseguir
+un rebote a cada segundo
+											puede iluminar este momento
+como nunca antes.
+											Desafortunadamente, no puedo
+mostrarles ese video.
+											Pero lo hemos recreado
+											en nuestro juego semanal 
+de baloncesto hace 3 semanas.
+									","
+											Voici des joueurs du NBA.
+											Cette taille est la taille du joueur
+et la couleur, sa position.
+											En abscisse,
+on a la probabilité du tir.
+											Les gens sur la gauche
+font des tirs difficiles
+											sur la droite, des tirs faciles.
+											En ordonnée, on trouve 
+leur habileté au tir.
+											Ceux qui sont bons sont en haut
+et les mauvais en bas.
+											Par exemple, s'il y avait un joueur
+											qui réussissait généralement
+47% de ses tirs,
+											c'était tout ce qu'on savait avant.
+											Mais maintenant, ce joueur fait des tirs
+qu'un joueur du NBA moyen
+											réussirait 49% du temps,
+											donc il est moins bon de 2 points.
+											La raison pour laquelle c'est important:
+il y a beaucoup de 47 sur le marché.
+											Donc, c'est vraiment important de savoir
+											si le 47 à qui vous envisagez de donner 
+100 millions de dollars
+											est un bon tireur qui fait de mauvais tirs
+											ou un mauvais tireur qui fait
+de bons tirs.
+											La compréhension de la machine ne change
+pas comment nous voyons les joueurs,
+											ça change la manière de voir le jeu.
+									",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+","
+","
+",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+											(Laughter)
+									","
+											(Risas)
+									","
+											Il y a deux ans, il y a eu
+une finale passionnante.
+											Miami perdait par trois points
+et il restait 20 secondes.
+											Ils étaient sur le point de perdre
+le titre de champion.
+											Un homme nommé Lebron James a tiré
+pour essayer d'égaliser le score.
+											Il a manqué.
+											Son coéquipier Chris Bosh a eu le rebond,
+											l'a passé à un autre coéquipier, 
+Ray Allen.
+											Il a marqué 3 points.
+Il y a eu prolongation.
+											Ils ont gagné le match et le championnat.
+											C'était un des meilleurs matchs
+de l'histoire du basketball.
+											Et notre capacité à connaître la
+probabilité des tirs
+											pour chaque joueur à chaque seconde,
+											et les chances qu'ils ont d'avoir
+un rebond à chaque seconde
+											peut éclairer ce moment comme
+jamais auparavant.
+											Malheureusement, je ne peux pas 
+vous montrer cette vidéo.
+											Mais nous avons reconstruit 
+ce moment pour vous
+											lors de notre match hebdomadaire
+il y a 3 semaines.
+									",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+","
+","
+",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+											And we recreated the tracking
+that led to the insights.
+											So, here is us.
+This is Chinatown in Los Angeles,
+											a park we play at every week,
+											and that's us recreating
+the Ray Allen moment
+											and all the tracking
+that's associated with it.
+											So, here's the shot.
+											I'm going to show you that moment
+											and all the insights of that moment.
+											The only difference is, instead
+of the professional players, it's us,
+											and instead of a professional
+announcer, it's me.
+											So, bear with me.
+									","
+											Y recreamos el seguimiento
+del que extrajimos las ideas.
+											Aquí estamos. Esto es Chinatown
+en Los Ángeles,
+											un parque en el que
+jugamos todas las semanas,
+											y allí estamos recreando
+el momento Ray Allen
+											y todo el seguimiento asociado.
+											Este es el disparo.
+											Les mostraré ese momento
+											y lo que aprendimos de ese momento.
+											La única diferencia es que en vez de
+jugadores profesionales, somos nosotros,
+											y en vez de un locutor profesional,
+soy yo.
+											Así que tengan paciencia conmigo.
+									","
+											(Rires)
+									",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+","
+","
+",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+											Miami.
+											Down three.
+											Twenty seconds left.
+											Jeff brings up the ball.
+											Josh catches, puts up a three!
+									","
+											Miami.
+											Tres puntos abajo.
+											Quedan 20 segundos.
+											Jeff trae la pelota.
+											Josh la atrapa, ¡marca un triple!
+									","
+											Et nous avons recréé
+ce moment de révélation.
+											Alors, nous voilà.
+Nous sommes à Chinatown à Los Angeles,
+											dans un parc où nous jouons
+toutes les semaines,
+											et nous voilà recréant
+le moment de Ray Allen
+											et tout le pistage qui va avec.
+											Voilà le tir.
+											Je vais vous montrer cette partie
+											et les coulisses de ce moment.
+											La seule différence : au lieu de joueurs
+professionnels, c'est nous,
+											et à la place d'un commentateur
+professionnel, c'est moi.
+											Alors accrochez-vous.
+									",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+","
+","
+",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+											[Calculating shot probability]
+									","
+											[Calculando probabilidad de tiro: 33 %]
+									","
+											Miami.
+											Trois points de retard.
+											20 secondes restantes.
+											Jeff apporte le ballon.
+											Josh l'attrape, et marque 3 points.
+									",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+","
+","
+",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+											[Shot quality]
+									","
+											[Calidad del tiro: JOSH 33 %]
+									","
+											(Calcul de probabilité du tir)
+									",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+","
+","
+",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+											[Rebound probability]
+									","
+											[Probabilidad de rebote: NOEL 12 %]
+									","
+											(Qualité du tir)
+									",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+","
+","
+",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+											Won't go!
+									","
+											¡No entrará!
+									","
+											(Probabilité de rebond)
+									",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+","
+","
+",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+											[Rebound probability]
+									","
+											[Probabilidad de rebote: NOEL 37 %]
+									","
+											Il ne rentre pas !
+									",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+","
+","
+",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+											Rebound, Noel.
+											Back to Daria.
+									","
+											Rebote, Noel.
+											Vuelve a Daria.
+									","
+											(Probabilité de rebond)
+									",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+","
+","
+",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+											[Shot quality]
+									","
+											[Calidad del tiro: DARIA 37 %]
+									","
+											Rebond, Noel.
+											Passe à Daria.
+									",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+","
+","
+",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+											Her three-pointer — bang!
+											Tie game with five seconds left.
+											The crowd goes wild.
+									","
+											Su triple... ¡bang!
+											Empate y quedan 5 segundos.
+											La multitud enloquece.
+									","
+											(Qualité de tir)
+									",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+","
+","
+",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+											(Laughter)
+									","
+											(Risas)
+									","
+											Trois points !
+											Égalité à 5 secondes de la fin !
+											La foule est en délire.
+									",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+","
+","
+",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+											That's roughly how it happened.
+									","
+											Es más o menos lo que pasó.
+									","
+											(Rires)
+									",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+","
+","
+",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+											(Applause)
+									","
+											(Aplausos)
+									","
+											C'est à peu près comment 
+ça s'est passé.
+									",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+","
+","
+",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+											Roughly.
+									","
+											Más o menos.
+									","
+											A peu près.
+									",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+","
+","
+",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+											(Applause)
+											That moment had about a nine percent
+chance of happening in the NBA
+											and we know that
+and a great many other things.
+											I'm not going to tell you how many times
+it took us to make that happen.
+									","
+											(Aplausos)
+											Ese momento tenía un 9 % de
+probabilidad de ocurrir en la NBA;
+											sabemos eso y muchas otras cosas.
+											No les diré las veces que intentamos
+hasta que ocurrió.
+									","
+											(Applaudissements)
+											Cet instant avait à peu près 9%
+de chance d'arriver pendant la finale,
+											et on sait ça et 
+beaucoup d'autres choses.
+											Je ne vous dirai pas combien
+d'essais il nous a fallu pour y arriver.
+									",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+","
+","
+",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+											(Laughter)
+									","
+											(Risas)
+									","
+											(Rires)
+									",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+","
+","
+",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+											Okay, I will! It was four.
+									","
+											Bien, ¡se los diré!
+Fueron cuatro.
+									","
+											Bon d'accord ! Quatre.
+									",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+","
+","
+",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+											(Laughter)
+									","
+											(Risas)
+									","
+											(Rires)
+									",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+","
+","
+",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+											Way to go, Daria.
+									","
+											Así se hace, Daria.
+									","
+											Bravo Daria.
+									",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+","
+","
+",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+											But the important thing about that video
+											and the insights we have for every second
+of every NBA game — it's not that.
+											It's the fact you don't have to be
+a professional team to track movement.
+											You do not have to be a professional
+player to get insights about movement.
+									","
+											Pero lo importante de ese video
+											y las ideas obtenidas en cada segundo
+de un juego de la NBA, no es eso.
+											Es que no hay que ser un equipo
+profesional para seguir el movimiento.
+											No hay que ser jugador profesional
+para aprender sobre el movimiento.
+									","
+											Mais ce qui est important dans cette vidéo
+											et les connaissances qu'elle apporte sur
+chaque seconde du match — n'est pas ça.
+											C'est le fait qu'on puisse suivre les
+déplacements de toutes sortes d'équipes.
+											Il n'est pas nécessaire d'être un joueur
+professionnel pour étudier les mouvements.
+									",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+","
+","
+",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+											In fact, it doesn't even have to be about
+sports because we're moving everywhere.
+											We're moving in our homes,
+											in our offices,
+											as we shop and we travel
+											throughout our cities
+											and around our world.
+											What will we know? What will we learn?
+											Perhaps, instead of identifying
+pick-and-rolls,
+											a machine can identify
+the moment and let me know
+											when my daughter takes her first steps.
+											Which could literally be happening
+any second now.
+									","
+											De hecho, no se trata del deporte
+porque nos movemos por doquier.
+											Nos movemos en nuestras casas,
+											en nuestras oficinas,
+											mientras compramos y viajamos
+											por las ciudades
+											y alrededor del mundo.
+											¿Qué conoceremos?
+¿Qué aprenderemos?
+											Quizá en vez de identificar
+bloqueos y continuación,
+											una máquina pueda identificar
+el momento y me avise
+											cuando mi hija dé el primer paso.
+											Algo que podría ocurrir
+en cualquier momento próximo.
+									","
+											En fait, la technologie s'adapte hors
+du sport parce qu'on se déplace partout.
+											On bouge dans nos maisons,
+											dans nos bureaux,
+											quand on fait des courses,
+quand on voyage
+											dans les villes
+											et autour du monde.
+											Qu'est-ce qu'on va apprendre
+à connaître ?
+											Peut-être qu'au lieu d'identifier des
+pick and rolls,
+											une machine peut identifier
+le moment et me dire
+											quand ma fille commence à marcher.
+											Ce qui pourrait d'ailleurs arriver
+sous peu.
+									",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+","
+","
+",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+											Perhaps we can learn to better use
+our buildings, better plan our cities.
+											I believe that with the development
+of the science of moving dots,
+											we will move better, we will move smarter,
+we will move forward.
+									","
+											Quizá podamos aprender 
+a usar mejor los edificios,
+											planificar mejor las ciudades.
+											Creo que con el desarrollo de la
+ciencia de los puntos móviles,
+											nos moveremos mejor, 
+con más inteligencia,
+
+											nos moveremos hacia adelante.
+									","
+											On pourrait apprendre à mieux utiliser
+nos immeubles, mieux planifier nos villes.
+											Je crois qu'avec le développement
+de la science des points mobiles,
+											on se déplacera mieux, 
+plus intelligemment, on ira de l'avant.
+									",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+","
+","
+",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+											Thank you very much.
+									","
+											Muchas gracias.
+									","
+											Merci beaucoup.
+									",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+","
+","
+",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+											(Applause)
+									","
+											(Aplausos)
+									","
+											(Applaudissements)
+									",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"
+"
+","
+","
+",The math behind basketball's wildest moves,Rajiv Maheswaran,12:08,"math,sports,technology,visualizations"

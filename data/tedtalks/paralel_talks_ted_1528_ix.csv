@@ -1,0 +1,739 @@
+fr,en,tr,es,pt,title,speaker,duration,tags
+"
+","
+","
+","
+","
+",Can robots be creative?,Gil Weinberg,5:11,"consciousness,creativity,design,engineering,philosophy,psychology,technology,robots,TED-Ed,science,robot,animation,machine learning"
+"
+											Que ressentez-vous
+en écoutant cette musique ?
+											La trouvez-vous belle ?
+											Est-ce créatif ?
+											Mais, changeriez-vous d'avis
+											si on vous disait que le compositeur
+est ce robot ?
+											Croyez-le ou non,
+											des gens se penchent sur la question
+de la créativité artificielle,
+											en parallèle de celle
+de l'intelligence artificielle,
+											depuis plus de 170 ans.
+											En 1843, Lady Ada Lovelace,
+											mathématicienne anglaise considérée
+comme la première programmeuse au monde,
+											écrivait qu'une machine ne pourrait avoir
+une intelligence semblable à l'homme
+											tant qu'elle ne ferait que ce pourquoi
+elle avait été programmée au départ.
+											D'après Lovelace,
+											une machine doit être capable
+de générer des idées originales
+											pour qu'on la considère intelligente.
+											Le test de Lovelace, conçu en 2001,
+											propose un moyen
+de mettre cette idée à l'épreuve.
+											Une machine passera le test 
+si elle produit quelque chose
+											que ses concepteur ne peuvent expliquer
+à partir de leur code original.
+											Le test de Lovelace, est par nature,
+plutôt une expérience de pensée
+											qu'un test scientifique objectif.
+											Mais c'est un point de départ.
+											Au premier abord,
+											l'idée d'une machine qui crée
+de la musique originale de grande qualité
+											pourrait sembler impossible.
+											On pourrait concevoir
+un algorithme extrêmement complexe
+											qui utiliserait
+générateurs de nombres aléatoires,
+											fonctions chaotiques
+et logique floue
+											pour générer une séquence
+de notes musicales
+											de façon à ce qu'elles soient
+impossible à prévoir.
+											Mais bien que l'on obtiendrait
+											d'innombrables mélodies
+jamais entendues auparavant,
+											seulement une infime portion
+d'entre elles serait écoutable.
+											Car l'ordinateur n'a aucun moyen
+de distinguer
+											ce que nous trouverions beau
+											de ce que nous n'aimerions pas.
+											Mais si on prenait du recul
+											et qu'on essayait de modéliser
+le processus naturel
+											qui fait naître la créativité ?
+											Il se trouve que l'on connait au moins
+un tel processus
+											qui a mené a des résultats originaux,
+appréciable et même beaux :
+											le processus d'évolution.
+											Et les algorithmes évolutionnistes,
+											ou les algorithmes génétiques
+qui imitent l'évolution biologique,
+											sont une approche prometteuse
+											pour permettre aux machines de générer
+des résultats à valeur artistique.
+											Donc comment l'évolution peut-elle
+											rendre une machine 
+créative musicalement ?
+											Eh bien, au lieu d'un organisme,
+											on peut commencer par créer
+											une population initiale
+de phrases musicales,
+											et un algorithme basique
+											qui imite la reproduction
+et les mutations aléatoires
+											en échangeant certaines parties,
+en en combinant d'autres,
+											et en remplaçant des notes aléatoires.
+											Maintenant que nous avons
+une nouvelle génération de phrases,
+											nous pouvons les sélectionner
+											grâce à ce que l'on appelle
+une fonction d'adaptation.
+											Exactement comme l'aptitude biologique
+											est déterminée par des
+pressions environnementales extérieures,
+											notre fonction d'adaptation
+peut être déterminée
+											par une mélodie extérieure
+											choisie par des musiciens humains,
+ou des fans de musique,
+											pour représenter la belle mélodie suprême.
+											L'algorithme peut alors comparer
+nos phrases musicales
+											à cette jolie mélodie,
+											et ne sélectionner que les phrases
+qui sont les plus similaires.
+											Une fois les plus proches séquences
+trouvées,
+											l'algorithme peut appliquer à nouveau
+les mutations et recombinaisons
+											à celles qui restent,
+											sélectionner les plus similaires,
+dans cette nouvelle génération,
+											et recommencer pour plusieurs générations.
+											Le processus qui nous a mené jusqu'ici
+possède tellement de données aléatoires
+											et de complexité
+											que le résultait pourrait réussir
+le test de Lovelace.
+											Plus important encore, grâce à la présence
+de l’esthétique humaine dans le processus
+											on génèrera, en théorie,
+que des mélodies jugées belles.
+											Mais est-ce que ça correspond
+à notre intuition
+											de ce qui est réellement créatif ?
+											Est-ce suffisant pour créer quelque chose
+d'original et beau,
+											ou est ce que la créativité nécessite
+une intention
+											et une conscience
+de ce qui est en train d'être créé ?
+											Peut-être que dans ce cas la créativité
+vient réellement des programmeurs,
+											même s'ils ne comprennent pas vraiment
+le processus.
+											De toutes façons,
+qu'est ce que la créativité humaine ?
+											Est-ce plus qu'un système
+de neurones interconnectés
+											développés par le biais d'un processus
+biologique algorithmique
+											et par les expérience aléatoires
+qui forgent ce que nous sommes ?
+											Ordre et chaos,
+machine et humain.
+											Voilà les moteurs qui animent
+les projets de créativité synthétique
+											qui créent en ce moment musique,
+sculptures, peintures, poésie
+											et plus encore.
+											On pourra toujours se demander
+											s'il est justifié de juger
+ces créations comme créatives.
+											Mais si une œuvre peut vous faire pleurer,
+											ou vous étonner,
+											ou vous faire frissonner de plaisir,
+											est-ce vraiment important de savoir
+qui ou quoi l'a créée ?
+									","
+											How does this music make you feel?
+											Do you find it beautiful?
+											Is it creative?
+											Now, would you change your answers
+											if you learned 
+the composer was this robot?
+											Believe it or not,
+											people have been grappling with
+the question of artificial creativity,
+											alongside the question 
+of artifcial intelligence,
+											for over 170 years.
+											In 1843, Lady Ada Lovelace,
+											an English mathematician considered
+the world's first computer programmer,
+											wrote that a machine could not have
+human-like intelligence
+											as long as it only did what humans
+intentionally programmed it to do.
+											According to Lovelace,
+											a machine must be able 
+to create original ideas
+											if it is to be considered intelligent.
+											The Lovelace Test, formalized in 2001,
+proposes a way of scrutinizing this idea.
+											A machine can pass this test
+if it can produce an outcome
+											that its designers cannot explain 
+based on their original code.
+											The Lovelace Test is, by design,
+more of a thought experiment
+											than an objective scientific test.
+											But it's a place to start.
+											At first glance,
+											the idea of a machine creating 
+high quality, original music in this way
+											might seem impossible.
+											We could come up with an extremely
+complex algorithm
+											using random number generators,
+chaotic functions, and fuzzy logic
+											to generate a sequence of musical notes
+											in a way that would be 
+impossible to track.
+											But although this would yield countless
+original melodies never heard before,
+											only a tiny fraction of them
+would be worth listening to.
+											With the computer having no way
+to distinguish
+											between those which
+we would consider beautiful
+											and those which we won't.
+											But what if we took a step back
+											and tried to model a natural process
+that allows creativity to form?
+											We happen to know of at least
+one such process
+											that has lead to original, valuable,
+and even beautiful outcomes:
+											the process of evolution.
+											And evolutionary algorithms,
+											or genetic algorithms
+that mimic biological evolution,
+											are one promising approach
+											to making machines generate original
+and valuable artistic outcomes.
+											So how can evolution make 
+a machine musically creative?
+											Well, instead of organisms,
+											we can start with an initial
+population of musical phrases,
+											and a basic algorithm
+											that mimics reproduction 
+and random mutations
+											by switching some parts,
+											combining others,
+											and replacing random notes.
+											Now that we have 
+a new generation of phrases,
+											we can apply selection using 
+an operation called a fitness function.
+											Just as biological fitness is determined
+by external environmental pressures,
+											our fitness function can be determined
+by an external melody
+											chosen by human musicians, or music fans,
+
+											to represent the ultimate 
+beautiful melody.
+											The algorithm can then compare
+between our musical phrases
+											and that beautiful melody,
+											and select only the phrases
+that are most similar to it.
+											Once the least similar sequences
+are weeded out,
+											the algorithm can reapply mutation
+and recombination to what's left,
+											select the most similar, or fitted ones,
+again from the new generation,
+											and repeat for many generations.
+											The process that got us there has so much
+randomness and complexity built in
+											that the result might 
+pass the Lovelace Test.
+											More importantly, thanks to the presence 
+of human aesthetic in the process,
+											we'll theoretically generate melodies
+we would consider beautiful.
+											But does this satisfy our intuition
+for what is truly creative?
+											Is it enough to make something
+original and beautiful,
+											or does creativity require intention
+and awareness of what is being created?
+											Perhaps the creativity in this case
+is really coming from the programmers,
+											even if they don't understand the process.
+											What is human creativity, anyways?
+											Is it something more than a system
+of interconnected neurons
+											developed by biological 
+algorithmic processes
+											and the random experiences 
+that shape our lives?
+											Order and chaos,
+machine and human.
+											These are the dynamos at the heart
+of machine creativity initiatives
+											that are currently making music, 
+sculptures, paintings, poetry and more.
+											The jury may still be out
+											as to whether it's fair to call 
+these acts of creation creative.
+											But if a piece of art can make you weep,
+
+											or blow your mind,
+											or send shivers down your spine,
+											does it really matter 
+who or what created it?
+									","
+											Bu müzik size ne hissettiriyor?
+											Güzel buldunuz mu?
+											Sizce yaratıcı mı?
+											Peki ya bestecisinin bu robot
+olduğunu söylesem,
+											yanıtlarınız değişir miydi?
+											İster inanın ister inanmayın,
+											insanlar 170 yıldan fazla süredir,
+yapay zekâ sorununun yanı sıra
+											yapay yaratıcılık
+sorunuyla da boğuşuyorlar.
+											1843 yılında, dünyanın ilk bilgisayar
+programcısı olarak kabul edilen
+											Leydi Ada Lovelace adlı bir İngiliz
+matematikçi şunu yazmıştı:
+											Bir makine, sadece insanların onu
+özellikle yapması için
+											programladıkları şeyi yaptığı sürece,
+insan gibi bir zekâya sahip olamaz.
+											Lovelace'a göre,
+											bir makinenin zeki olarak
+nitelenebilmesi için
+											orijinal fikirler üretebiliyor
+olması gereklidir.
+											2001'de şekillendirilen Lovelace Testi,
+bu düşünceyi irdeleyecek bir yol sunuyor.
+											Bir makinenin bu testi geçebilmesi için,
+tasarımcılarının kendi orijinal kodlarına
+											dayanarak açıklayamayacakları
+bir çıktı üretmesi gerekiyor.
+											Lovelace Testi'nin tasarımı itibariyle
+nesnel bir bilimsel test olmaktan çok,
+											bir düşünce deneyi olduğu söylenebilir.
+											Yine de bu bir başlangıç.
+											İlk bakışta,
+											bir makinenin böyle yüksek kalitede
+orijinal müzik yaratması düşüncesi
+											imkânsız gibi görünebilir.
+											Bir dizi müzikal nota üretmek için,
+											izini sürmenin imkânsız olacağı
+biçimde rastgele sayı üreteçleri,
+											kaotik fonksiyonlar ve bulanık mantık
+											kullanan aşırı karmaşık
+bir algoritma hazırlayabiliriz.
+											Bu daha önce duyulmamış sayısız
+orijinal melodi üretebilecek olsa da,
+											onların sadece çok azı
+dinlemeye değer olurdu.
+											Çünkü bilgisayarın bizim
+güzel bulabileceklerimiz ile
+
+											güzel bulmayacaklarımızı
+ayırt etmesinin bir yolu yoktur.
+											Peki ya bir adım geriye gidip,
+											yaratıcılığın ortaya çıkmasını sağlayan
+doğal bir süreç modellemeyi denersek?
+											Orijinal, değerli ve hatta
+güzel çıktılara götüren
+											en azından böyle bir tane
+süreç biliyoruz:
+											Evrim süreci.
+											Evrimsel algoritmalar ya da
+											biyolojik evrimi taklit eden
+genetik algoritmalar,
+											makinelere orijinal ve değerli
+sanatsal çıktılar ürettirmede
+											umut vadeden bir yaklaşım.
+											Peki evrim bir makineyi nasıl
+müziksel açıdan yaratıcı kılabilir?
+											Organizmalar yerine, başlangıç olarak
+											bir müziksel ifadeler
+topluluğundan ve
+											bazı bölümlerin yerlerini değiştirerek,
+ötekilerle karıştırarak,
+											rastgele notalar ekleyerek, üremeyi
+ve rastgele mutasyonları taklit eden
+											temel bir algoritmadan yola çıkabiliriz.
+											Böylece yeni nesil
+bir ifadeler topluluğumuz olur.
+											Biz de buna 'uygunluk fonksiyonu' denilen
+bir işlem kullanarak seçilim uygularız.
+											Tıpkı biyolojik uygunluğun dış çevresel
+baskılarca belirlenmesi gibi,
+											bizim uygunluk fonksiyonumuz da
+
+											nihai güzel melodiyi temsil etmesi için 
+insan müzisyenler ya da
+											müzikseverler tarafından seçilen 
+bir dış melodi tarafından belirlenebilir.
+											Ardından algoritma, bizim
+müziksel ifadelerimiz ile
+											bu güzel melodiyi karşılaştırır ve
+											sadece ona en çok
+benzeyen ifadeleri seçer.
+											En az benzeyenler ayıklanınca,
+											algoritma geriye kalanlara mutasyon ve
+yeniden düzenleme işlemleri uygular;
+											oluşan yeni nesilden en benzer,
+yani en uygun olanları seçer.
+											Bunu nesiller boyu tekrarlar.
+											Süreç boyunca öyle çok rastgelelik
+ve içrek bir karmaşıklık vardır ki,
+											sonuç Lovelace Testi'ni geçebilir.
+											Daha da önemlisi, süreçteki insan
+estetiğinin varlığı sayesinde,
+											kuramsal olarak, güzel bulacağımız
+melodiler üretebileceğiz.
+											Peki bu gerçekten yaratıcı şeylere 
+ilişkin sezgimizi tatmin ediyor mu?
+											Orijinal ve güzel bir şey 
+yapmak için yeterli mi,
+											yoksa yaratıcılık, ne yaratıldığı hakkında
+bir niyet ve farkındalık gerektirir mi?
+											Belki de bu durumda yaratıcılığın
+asıl kaynağı programcılar oluyor;
+											her ne kadar süreci anlamasalar da.
+											İnsandaki yaratıcılık nedir ki zaten?
+											Biyolojik algoritmik süreçler ve
+yaşantımıza biçim veren
+											rastgele deneyimlerle gelişen
+birbirlerine bağlanmış nöronlardan
+											oluşan bir sistemden
+daha fazlası mı?
+											Düzen ve kaos,
+makine ve insan.
+											Bunlar, şu anda müzik, heykel, resim,
+şiir ve daha fazlasını üretmekte olan
+											makine yaratıcılığı girişimlerinin
+merkezinde yer alan dinamolar.
+											Bu yaratıcı eylemlere yaratıcı demenin
+adilliği konusunda,
+											henüz net bir karara varılmış değil.
+											Ama bir sanat eseri
+gözlerinizi nemlendirebiliyorsa,
+											aklınızı başınızdan alabiliyorsa,
+											hatta tüylerinizi diken
+diken edebiliyorsa,
+											onu kimin ya da neyin yarattığı
+gerçekten önemli mi?
+									","
+											¿Cómo te hace sentir esta música?
+											¿Te parece bonita?
+											¿Es creativa?
+											¿Cambiarías tus respuestas
+											si te dijeran que la compuso este robot?
+											Lo creas o no,
+											llevamos debatiendo la cuestión
+de la creatividad artificial
+											y el tema de la inteligencia artificial
+											hace más de 170 años.
+											En 1843, Lady Ada Lovelace,
+											una matemática inglesa considerada
+la primera programadora del mundo,
+											escribió que una máquina no puede
+ser dotada de inteligencia humana
+											si sólo hace aquello para lo que 
+se programó intencionadamente.
+											Según Lovelace,
+											una máquina ha de poder
+concebir ideas originales
+											para que se pueda considerar inteligente.
+											El test de Lovelace, formalizado en 2001,
+propone un modo de examinar esta idea.
+											Una máquina puede aprobar este
+test, si produce un resultado
+											cuyos diseñadores no puedan explicar
+basándose en el código original.
+											El test de Lovelace es, por su diseño,
+más un experimento conceptual
+											que una prueba científica objetiva.
+											Pero es un punto de partida.
+											A primera vista,
+											la idea de que una máquina cree música
+original y de alta calidad de esta manera
+											puede parecer imposible.
+											Podríamos idear un algoritmo
+extremadamente complejo
+											usando generadores de números aleatorios
+funciones caóticas y lógica difusa
+											para crear una secuencia
+de notas musicales imposible de rastrear.
+											Pero aunque se producirían un sin fin de
+melodías originales nunca antes escuchadas
+											sólo una ínfima fracción
+de ellas valdría la pena.
+											La computadora no puede discernir
+											cuáles nos parecerían bellas
+											y cuáles no.
+											Pero, ¿y si diéramos un paso atrás
+											e intentáramos imitar un proceso natural
+que permita que se forme la creatividad?
+											Conocemos al menos uno de esos procesos
+											que nos ha aportado resultados
+originales, valiosos e incluso bonitos:
+											el proceso de la evolución.
+											Y los algoritmos evolutivos,
+											o los algoritmos genéricos que
+imitan la evolución biológica
+											son un acercamiento prometedor
+											hacia la creación de máquinas generadoras
+de obras artísticas originales y valiosas.
+											¿Cómo puede crear la evolución 
+una máquina músicalmente creativa?
+											Bueno, en vez de organismos,
+											podemos empezar con unos
+cuantos compases musicales
+											y un algoritmo básico
+											que imita la reproducción
+y las alteraciones aleatorias
+											cambiando algunas partes,
+											combinando otras,
+											y sustituyendo notas al azar.
+											Ahora que tenemos una
+nueva serie de compases
+											podemos seleccionar usando una 
+operación llamada función de aptitud.
+											Igual que la aptitud biológica se define
+por las presiones ambientales externas,
+											la función de aptitud la puede
+determinar una melodía externa
+											escogida por músicos humanos
+o aficionados a la música
+											para representar la
+bella melodía definitiva.
+											El algoritmo puede entonces
+comparar nuestros compases
+											y esa bella melodía
+											y seleccionar sólo los compases
+que más se le parezcan.
+											Una vez descartadas
+las secuencias menos parecidas,
+											se puede alterar de nuevo el algoritmo
+para recombinar lo que queda,
+											seleccionar las más similares, las que más
+encajan de entre la nueva generación
+											y repetir el proceso 
+durante generaciones venideras.
+											El proceso que nos trajo hasta aquí
+es tan azaroso y complejo
+											que su resultado podría
+pasar el test de Lovelace.
+											Y lo que es más importante, gracias a la
+éstetica humana presente en el proceso,
+											teóricamente generaremos 
+melodías que consideremos bellas.
+											¿Pero satisface esto nuestra intuición
+sobre lo que es verdaderamente creativo?
+											¿Es suficiente crear
+algo original y bello,
+											o acaso la creatividad requiere
+											intencionalidad y consciencia
+de lo que se está creando?
+											Quizás en este caso la creatividad
+venga de los programadores,
+											incluso si no entienden el proceso.
+											Pero, ¿qué es la creatividad humana?
+											¿Es algo más que un sistema
+de neuronas interconectadas
+											desarrollado por procesos
+algorítmicos biológicos
+											y las experiencias aleatorias
+que dan forma a nuestras vida?
+											El órden y el caos, 
+la máquina y el hombre,
+											estas son las dinamos fundamentales
+											en las iniciativas
+de la creatividad artificial
+											que están haciendo música, esculturas,
+pinturas, poesía y mucho más.
+											Puede que aún no sepamos
+											si es justo llamar creativos 
+a estos actos de creación.
+											Pero si una obra de arte
+consigue hacerte llorar,
+											o impresionarte,
+											o darte escalofríos,
+											¿de verdad importa quién o qué la creó?
+									","
+											O que é que esta música vos faz sentir?
+											Acham-na bonita?
+											É criativa?
+											Mudariam as vossas respostas
+											se soubessem que o compositor
+foi este robô?
+											Acreditem ou não,
+											as pessoas têm-se debatido
+com a questão da criatividade artificial
+											juntamente com a questão
+da inteligência artificial,
+											há mais de 170 anos.
+											Em 1843, Lady Ada Lovelace,
+											uma matemática inglesa, considerada
+a primeira programadora do mundo,
+											escreveu que uma máquina
+não podia ter inteligência humana
+											porque só faria aquilo para o que
+os seres humanos a tivessem programado.
+											Segundo Lovelace,
+											uma máquina tinha que conseguir
+criar ideais originais
+											para ser considerada inteligente.
+											O Teste Lovelace, formalizado em 2001,
+propõe uma forma de verificar esta ideia.
+											Uma máquina passa este teste
+se conseguir produzir um resultado
+											que os programadores
+não conseguirem explicar
+											com base no código original.
+											O Teste Lovelace, pela sua conceção,
+é mais um exercício intelectual
+											do que um teste científico objetivo.
+											Mas é um princípio.
+											À primeira vista,
+											a ideia de uma máquina criar música
+original, de alta qualidade, como esta,
+											parecia impossível.
+											Podíamos arranjar um algoritmo
+extremamente complexo
+											usando geradores de números aleatórios,
+funções caóticas e uma lógica obscura,
+											para gerar uma sequência de notas musicais
+											de forma que fosse impossível detetá-lo.
+											mas, embora isso pudesse produzir
+											numerosas melodias originais
+nunca ouvidas,
+											só uma pequena fração delas
+seria digna de escutar.
+											E o computador não tinha
+forma de distinguir
+											entre as que nós acharíamos belas
+											e as que não acharíamos,
+											E se recuássemos um pouco
+											e tentássemos modelar um processo natural
+que permitisse a criatividade?
+											Conhecemos, pelo menos,
+um processo desse tipo
+											que levou a resultados originais,
+valiosos e mesmo belos:
+											o processo da evolução.
+											Os algoritmos evolutivos,
+											ou algoritmos genéticos
+que imitam a evolução biológica,
+											são uma abordagem promissora
+											para fazer com que as máquinas produzam
+											resultados artísticos
+originais e valiosos.
+											Então, como é que a evolução
+torna criativa musicalmente uma máquina?
+											Em vez de organismos,
+											podemos começar com uma população
+inicial de frases musicais
+											(Notas musicais)
+											e com um algoritmo básico
+											que imite a reprodução
+e mutações aleatórias,
+											alternando certas partes,
+											combinando outras,
+											e substituindo notas aleatórias.
+											Depois de termos
+uma nova geração de frases
+											podemos fazer uma seleção
+											usando uma operação chamada
+""função de aptidão"".
+											Tal como a aptidão biológica é determinada
+por pressões ambientais externas,
+											a nossa função de aptidão
+pode ser determinada
+											por uma melodia externa
+											escolhida por músicos humanos,
+ou apreciadores de música
+											para representar a melodia mais bela.
+											(Música)
+											O algoritmo, depois, pode comparar
+as nossas frases musicais
+											com essa bela melodia,
+											e escolher apenas as frases
+que lhe são mais semelhantes.
+											Depois de rejeitadas as sequências
+menos semelhantes,
+											o algoritmo pode reaplicar a mutação
+e a recombinação ao que restou,
+											voltar a escolher as mais semelhantes,
+											ou mais adequadas,
+dentre as da nova geração
+											e repetir isso por muitas gerações.
+											O processo que nos trouxe até aqui
+contém tanto acaso e complexidade
+											que o resultado pode passar
+o Teste Lovelace.
+											Mais importante ainda, graças à presença
+da estética humana no processo,
+											teoricamente, geraremos melodias
+que consideramos belas.
+											Será que isto satisfaz a nossa intuição
+do que é realmente criativo?
+											Será suficiente fazer uma coisa
+original e bela
+											ou a criatividade exige intenção
+e consciência do que está a ser criado?
+											Talvez a criatividade, neste caso,
+provenha realmente dos programadores,
+											mesmo que eles não compreendam o processo.
+											Aliás, o que é a criatividade humana?
+											Será mais do que um sistema
+de neurónios interligados,
+											que evoluíram por processos
+algorítmicos biológicos
+											e experiências ocasionais
+que modelam a nossa vida?
+											Ordem e caos, máquina e homem.
+											São estes os dínamos no cerne
+das iniciativas criativas da máquina
+											que estão atualmente a fazer música,
+esculturas, pinturas, poesia e não só.
+											O júri pode ainda estar indeciso
+											quanto a ser justo chamar criativos
+a estes atos de criação.
+											Mas, se uma obra de arte
+pode fazer-vos chorar
+											ou surpreender-vos,
+											ou provocar-vos arrepios,
+											interessará realmente
+quem ou o quê a criou?
+									",Can robots be creative?,Gil Weinberg,5:11,"consciousness,creativity,design,engineering,philosophy,psychology,technology,robots,TED-Ed,science,robot,animation,machine learning"
+"
+","
+","
+","
+","
+",Can robots be creative?,Gil Weinberg,5:11,"consciousness,creativity,design,engineering,philosophy,psychology,technology,robots,TED-Ed,science,robot,animation,machine learning"

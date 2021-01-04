@@ -1,0 +1,1954 @@
+en,es,tr,fr,de,title,speaker,duration,tags
+"
+","
+","
+","
+","
+",Architecture for the people by the people,Alastair Parvin,13:11,"architecture,design,open-source,infrastructure"
+"
+											When we use the word ""architect"" or ""designer,""
+											what we usually mean is a professional,
+											someone who gets paid,
+											and we tend to assume that it's those professionals
+											who are going to be the ones to help us solve
+											the really big, systemic design challenges that we face
+											like climate change, urbanization and social inequality.
+											That's our kind of working presumption.
+											And I think it's wrong, actually.
+									","
+											Cuando hablamos de 
+""arquitectos"" o ""ingenieros""
+											nos referimos a un profesional,
+											alguien que cobra,
+											y tenemos la tendencia 
+a creer que ellos
+											son los que nos van 
+a ayudar a resolver
+											los enormes retos que tenemos:
+											el cambio climático, la urbanización 
+y la inequidad social.
+											Ese es nuestro tipo 
+de presunción laboral.
+											Y, de hecho, 
+creo que está mal.
+									","
+											""Mimar"" ya da ""tasarımcı"" kelimesini kullandığımızda,
+											genelde kastettiğimiz, kendilerine bu iş için ücret ödenen
+											profesyonel kişilerdir.
+											İklim değişimi, kentleşme ve sosyal eşitsizlik gibi
+											büyük, sistemle ilgili tasarım problemleriyle karşılaştığımızda
+											bunları çözmemize yardım edecek olanların
+											bu profesyoneller olduğuna inanmaya meyilliyizdir.
+											Bu bize özgü temel bir varsayımdır.
+											Ve aslına bakarsanız, ben bunun doğru olmadığını düşünüyorum.
+									","
+											Quand on utilise les mots « architecte » ou « designer »,
+											on parle habituellement d'un professionel,
+											de quelqu'un que l'on paie,
+											on a tendance à penser que ce sont ces professionels
+											qui vont nous aider à résoudre
+											les vrais grands défis systémiques de conception 
+auxquels nous faisons face,
+											comme le changement climatique, 
+l'urbanisation et les inégalités sociales.
+											C'est une idée reçue assez fréquente.
+											En fait, je pense que c'est faux.
+									","
+											Wenn wir das Wort ""Architekt""
+oder ""Designer"" benutzen,
+											meinen wir in der Regel eine Fachkraft,
+											jemand der bezahlt wird.
+											Wir neigen dazu anzunehmen, dass diese Profis
+											diejenigen sein werden, 
+die uns helfen werden
+											die wirklich großen systemischen 
+Designherausforderungen
+											wie Klimawandel, Urbanisierung
+und soziale Ungleichheit zu lösen.
+											Das ist unsere Art von Arbeitsdenken.
+											Aber sie ist falsch.
+									",Architecture for the people by the people,Alastair Parvin,13:11,"architecture,design,open-source,infrastructure"
+"
+","
+","
+","
+","
+",Architecture for the people by the people,Alastair Parvin,13:11,"architecture,design,open-source,infrastructure"
+"
+											In 2008, I was just about to graduate from architecture school
+											after several years, and go out and get a job,
+											and this happened.
+											The economy ran out of jobs.
+											And a couple of things struck me about this.
+											One, don't listen to career advisers.
+											And two, actually this is a fascinating paradox for architecture,
+											which is that, as a society, we've never needed design thinking more,
+											and yet architecture was literally becoming unemployed.
+											It strikes me that we talk very deeply about design,
+											but actually there's an economics behind architecture
+											that we don't talk about, and I think we need to.
+									","
+											En el 2008, estaba a punto 
+de graduarme como arquitecto
+											después de varios años 
+para salir y tener un trabajo,
+											y esto sucedió.
+											A la economía se le 
+agotaron los empleos.
+											Y algunas cosas al respecto 
+me desconcertaron.
+											En primer lugar, no escuchen 
+a sus asesores vocacionales.
+											Y en segundo, en verdad esto es una paradoja 
+fascinante para la arquitectura,
+											que como sociedad, nunca hemos necesitado 
+el pensamiento de diseño tanto como ahora
+											y sin embargo, la arquitectura 
+no se está empleando.
+											Me sorprende que hablemos 
+a detalle sobre diseño
+											mientras que en realidad hay 
+una economía detrás de la arquitectura
+											de la que no hablamos 
+y creo que deberíamos.
+									","
+											2008 yılında artık seneler sonra mimarlık fakültesinden
+											mezun olup tam iş aramaya başlayacakken
+											olanlar oldu.
+											Piyasada iş kalmadı.
+											Bu durum birkaç konuda gözümü açtı.
+											Birincisi, mesleki danışmanları dinlemeyin.
+											İkincisi de; aslında bu durum mimarlık açısından inanılmaz bir ikilemdi,
+											yani toplum olarak tasarım düşüncesine daha önce hiç bu kadar ihtiyaç duymamıştık
+											ve buna rağmen mimarlık sektörü gitgide işsiz kalıyordu.
+											Tasarım hakkında çok kapsamlı konuştuğumuz hâlde,
+											aslında mimarlığın arka planında hiç bahsetmediğimiz
+											ve bence bahsetmemiz gereken bir ekonominin oluşu beni şaşırtır.
+									","
+											En 2008, j'allais être diplômé de l'école d'architecture
+											après plusieurs années, 
+j'allais chercher un job,
+											et c'est arrivé.
+											L'économie n'offrait plus d'emploi.
+											Plusieurs choses m'ont frappé à ce sujet.
+											Premièrement, n'écoutez pas les conseillers d'orientation.
+											Deuxièmement, en fait c'est un 
+paradoxe fascinant pour l'architecture,
+											c'est qu'en tant que société, nous n'avions
+jamais eu autant besoin de réfléchir sur le design,
+											et pourtant l'architecture devenait littéralement sans emploi.
+											Ça me frappe que nous parlions en détail de design,
+											mais en fait il y a une économie derrière l'architecture
+											dont on ne parle pas, et je pense que nous le devrions.
+									","
+											2008 war ich gerade dabei
+mein Architekturstudium nach
+											mehreren Jahren abzuschließen 
+und mich auf Arbeitssuche zu begeben
+											und Folgendes geschah:
+											Es gab keine Jobs mehr.
+											Ein paar Dinge fallen mir dazu ein:
+											1. Hören Sie nicht auf Karriere-Berater.
+											2. Dies ist eigentlich paradox für Architektur,
+											denn als Gesellschaft haben wir noch nie
+mehr Design-Denken gebraucht
+											und dennoch wurde die Architektur
+buchstäblich arbeitslos.
+											Es scheint mir, dass wir 
+sehr tiefsinnig über Design sprechen,
+											aber eigentlich steckt eine Wirtschaftslehre dahinter,
+											die wir nicht erwähnen,
+aber die es doch dringend nötig hätte.
+									",Architecture for the people by the people,Alastair Parvin,13:11,"architecture,design,open-source,infrastructure"
+"
+","
+","
+","
+","
+",Architecture for the people by the people,Alastair Parvin,13:11,"architecture,design,open-source,infrastructure"
+"
+											And a good place to start is your own paycheck.
+											So, as a bottom-of-the-rung architecture graduate,
+											I might expect to earn about 24,000 pounds.
+											That's about 36,000, 37,000 dollars.
+											Now in terms of the whole world's population,
+											that already puts me in the top 1.95 richest people,
+											which raises the question of, who is it I'm working for?
+											The uncomfortable fact is that
+											actually almost everything that we call architecture today
+											is actually the business of designing
+											for about the richest one percent of the world's population,
+											and it always has been.
+											The reason why we forgot that
+											is because the times in history when architecture
+											did the most to transform society were those times
+											when, actually, the one percent would build
+											on behalf of the 99 percent, for various different reasons,
+											whether that was through philanthropy in the 19th century,
+											communism in the early 20th,
+											the welfare state, and most recently, of course,
+											through this inflated real estate bubble.
+											And all of those booms, in their own various ways,
+											have now kicked the bucket,
+											and we're back in this situation
+											where the smartest designers and architects in the world
+											are only really able to work for one percent of the population.
+									","
+											Podemos empezar por 
+nuestros propios salarios.
+											Entonces, como un recién 
+graduado de arquitectura,
+											esperaría ganar unas 24 000 libras,
+											que equivalen a unos 
+36 000 o 37 000 dólares.
+											En términos de 
+la población mundial,
+											eso me coloca entre el 1.95% 
+de las personas más ricas,
+											esto me lleva a preguntarme 
+¿para quién estoy trabajando?
+											La verdad incómoda es que
+											en realidad todo a lo que 
+hoy llamamos arquitectura
+											es en realidad el negocio de diseñar
+											para el 1% de la población más rica,
+											y siempre ha sido así.
+											La razón por la que lo olvidamos
+											es porque cuando la arquitectura jugó
+											un papel fundamental 
+para transformar la sociedad
+											fue cuando el 1% construyó
+											pensando en el 99%, 
+por varios motivos distintos,
+											ya fuera por filantropía 
+en el siglo XIX,
+											por el comunismo 
+a inicios del siglo XX,
+											por el estado de bienestar, 
+y más recientemente,
+											por la burbuja inflacionaria 
+de bienes raíces.
+											Y todos esos movimientos, 
+muy a su modo,
+											han desaparecido
+											y estamos en esta situación
+											en la que los mejores diseñadores 
+y arquitectos del mundo
+											sólo pueden trabajar 
+para el 1% de la población.
+									","
+											Mesela maaş çekiniz başlamak için iyi bir yer.
+											Yani, merdivenin en alt basamağındaki bir mimarlık mezunu olarak
+											takriben 24.000 pound kazanmayı umabilirim.
+											Bu da yaklaşık olarak 36.000-37.000 dolar eder.
+											Şimdi, bütün dünya nüfusu göz önüne alındığında,
+											bu beni yüzde 1,95'lik en zengin insanların arasına koyar.
+											Bu da kimin için çalıştığım sorusunu akla getirir.
+											Aslında bugün mimari dediğimiz hemen hemen her şeyin
+											dünyanın yüzde birlik en zengin insanları için
+											tasarım üretme işi olduğu
+											rahatsız edici bir gerçek olarak ortada.
+											Bu her zaman da böyle olmuştur.
+											Bunu unutma sebebimiz,
+											tarihte mimarlığın toplumu dönüştürmek için
+											en tesirli olduğu dönemler aslında,
+											çok çeşitli sebeplerle, yüzde birin
+											yüzde 99 için gayret sarf ettiği dönemlerdi.
+											Bu, ister 19. yüzyılda hayırseverlik,
+											20. yüzyılın başında komünizm
+											veya refah devleti yoluyla olsun, isterse de yakınlarda olduğu gibi
+											şişkin emlak balonu yoluyla olsun.
+											Tüm bu piyasa canlanmaları, kendilerine özgü şekilde
+											artık geçersiz hâle geldi ve
+											dünyadaki en akıllı tasarımcıların ve mimarların
+											gerçekten sadece nüfusun yüzde biri için çalışabildiği
+											hâlihazırdaki vaziyete geri döndük.
+									","
+											Votre propre salaire est un bon point de départ.
+											Ainsi, tout en bas de l'échelle des diplômés en architecture,
+											je peux espérer gagner environ 24 000 livres sterling.
+											Soit environ 28 000, 29 000 euros.
+											Comparé à la population mondiale,
+											ça me place déjà dans le top 1,95% 
+des personnes les plus riches
+											ce qui soulève la question : pour qui vais-je travailler ?
+											Ce qui est génant, c'est que
+											presque tout ce que nous appelons architecture aujourd'hui
+											est en fait un travail de conception
+											pour le 1% des gens les plus riches 
+de la population mondiale,
+											et ça a toujours été le cas.
+											La raison pour laquelle nous avons oublié cela,
+											c'est parce que les moments 
+dans l'histoire où l'architecture
+											a fait le plus pour transformer
+la société, étaient ces moments
+											quand, réellement, les 1% voulaient construire
+											pour le compte des 99%, pour différentes raisons,
+											soit que ce soit par philanthropie au 19ème siècle,
+											communisme au début du 20ème,
+											l'Etat Providence, et plus récemment, bien sûr,
+											avec la bulle de l'immobilier.
+											Tous ces essors, chacun à leur manière,
+											sont morts dorénavant,
+											et nous sommes revenus à la situation
+											où les designers et architectes 
+les plus intelligents du monde
+											ne sont vraiment capables de travailler 
+que pour 1% de la population.
+									","
+											Fangen wir mit dem eigenen Gehalt an.
+											Als Architekturabsolvent der untersten Stufe
+											könnte ich erwarten etwa 24.000 Pfund zu verdienen.
+											Das sind etwa 36.000 - 37.000 Dollar.
+											In Bezug auf die ganze Weltbevölkerung
+											bringt mich das bereits
+in die Top 1,95 der reichsten Menschen,
+											welches die Frage aufwirft: 
+Für wen arbeite ich eigentlich?
+											Der unbehagliche Fakt ist,
+											dass eigentlich fast alles, 
+was wir heute als Architektur bezeichnen,
+											eigentlich in der Aufgabe besteht
+											für das reichste ein Prozent 
+der Weltbevölkerung zu designen
+											und das war schon immer so.
+											Wir vergessen das,
+											weil die Zeiten in der Geschichte, als Architektur
+											die Gesellschaft verändert hat, jene Zeiten waren,
+											als das eine Prozent im Namen der 99%
+											gebaut hat und dies 
+aus unterschiedlichen Gründen tat,
+											ob das durch Philanthropie im 19. Jahrhundert war,
+											Kommunismus im frühen 20. Jahrhundert,
+											der Sozialstaat und vor kurzem natürlich
+											durch diese aufgeblähte Immobilienblase.
+											Alle diese Aufschwünge mit ihren eigenen Wegen
+											mussten nun ins Gras beißen
+											und wir sind zurück in dieser Situation,
+											in der die intelligentesten Designer 
+und Architekten der Welt
+											nur für 1% der Bevölkerung arbeiten können.
+									",Architecture for the people by the people,Alastair Parvin,13:11,"architecture,design,open-source,infrastructure"
+"
+","
+","
+","
+","
+",Architecture for the people by the people,Alastair Parvin,13:11,"architecture,design,open-source,infrastructure"
+"
+											Now it's not just that that's bad for democracy,
+											though I think it probably is,
+											it's actually not a very clever business strategy, actually.
+											I think the challenge facing the next generation of architects
+											is, how are we going to turn our client
+											from the one percent to the 100 percent?
+											And I want to offer three slightly counterintuitive ideas
+											for how it might be done.
+									","
+											Esto no es tan malo 
+para la democracia,
+											aunque creo que probablemente lo es,
+											pero no es una estrategia de 
+negocios muy buena, en serio.
+											Creo que el reto de la próxima 
+generación de arquitectos
+											es cómo hacer que su cliente pase
+											del 1% al 100%.
+											Y me gustaría ofrecerles 
+tres ideas no muy intuitivas
+											para cumplir con ese reto.
+									","
+											Şimdi bu sadece demokrasi için kötü değil,
+											ki muhtemelen demokrasi için de kötü,
+											aynı zamanda aslında hiç de zekice bir çalışma stratejisi değil.
+											Bence yeni nesil mimarların karşılaşacağı zorluk,
+											müşterilerimizi yüzde birden
+											yüzde yüze nasıl çevireceğimizi bulmaktır.
+											Nasıl yapılacağı ile alakalı biraz sıradışı
+											üç fikir sunmak istiyorum.
+									","
+											Mais ce n'est pas juste que c'est mauvais pour la démocratie,
+											bien que je pense que ça le soit,
+											c'est surtout que ce n'est pas 
+une stratégie économique très intelligente.
+											Je pense que le défi auquel fait face
+la prochaine génération d'architectes
+											c'est : comment allons-nous changer nos clients
+											des 1% vers les 100% ?
+											Je veux proposer 3 idées légèrement paradoxales
+											sur la façon dont on pourrait le faire.
+									","
+											Das ist nicht nur schlecht für eine Demokratie
+											– obwohl das eigentlich schon reicht –
+											es ist auch keine sehr clevere Geschäftsstrategie.
+											Ich denke, die Herausforderung
+für die nächste Generation von Architekten ist,
+											den Wechsel zu schaffen, 
+damit unsere Kunden
+											nicht mehr die 1% sind, sondern 100%.
+											Ich möchte drei eher widersprüchliche Ideen anbieten,
+											wie das erreicht werden könnte.
+									",Architecture for the people by the people,Alastair Parvin,13:11,"architecture,design,open-source,infrastructure"
+"
+","
+","
+","
+","
+",Architecture for the people by the people,Alastair Parvin,13:11,"architecture,design,open-source,infrastructure"
+"
+											The first is, I think we need to question this idea
+											that architecture is about making buildings.
+											Actually, a building is about the most expensive solution
+											you can think of to almost any given problem.
+											And fundamentally, design should be much, much more interested
+											in solving problems and creating new conditions.
+											So here's a story.
+											The office was working with a school,
+											and they had an old Victorian school building.
+									","
+											Lo primero es cuestionarse la idea
+											de que la arquitectura 
+busca construir edificios.
+											En realidad, construir un edificio 
+es la solución más cara
+											en casi todos los casos.
+											Y fundamentalmente, 
+el diseño debería estar
+											mucho más interesado en resolver 
+problemas y crear nuevas soluciones.
+											Piensen en este caso:
+											la oficina estaba trabajando 
+con una escuela
+											y tenían una escuela antigua, 
+de estilo victoriano.
+									","
+											Birincisi; bence mimarinin bina yapmaktan ibaret olduğu
+											fikrini sorgulamalıyız.
+											Aslında bina inşa etmek hemen hemen her sıkıntıya
+											getirebileceğiniz en masraflı çözümdür.
+											Esasen tasarım sıkıntıları gidermekle ve yeni koşullar yaratmakla
+											çok daha fazla ilgili olmalıdır.
+											Size bir hikâye:
+											Ofis, bir okulla çalışıyordu ve
+											okulun eski Viktoryen tarzda bir binası vardı.
+									","
+											Premièrement, je pense que nous avons besoin 
+de remettre en cause cette idée selon laquelle
+											l'architecture consiste à construire des bâtiments.
+											En fait, un bâtiment est probablement 
+la solution la plus coûteuse
+											à laquelle vous pouvez penser, quelque soit le problème.
+											Fondamentalement, le design devrait être beaucoup, 
+beaucoup plus intéressé
+											par la résolution des problèmes 
+et la création de nouvelles conditions.
+											Voici une anecdote :
+											Le bureau travaillait sur une école
+											qui avait un bâtiment de l'époque victorienne.
+									","
+											Die erste ist, dass wir in Frage stellen müssen,
+											dass es der Architektur nur ums Bauen geht.
+											Ein Gebäude ist die teuerste Lösung
+											zu fast jedem gegebenen Problem.
+											Und grundsätzlich sollte Design viel 
+mehr daran interessiert sein
+											Probleme zu lösen und 
+neue Bedingungen zu schaffen.
+											Hier also eine Geschichte.
+											Das Büro arbeitete mit einer Schule,
+											und sie hatten ein altes viktorianisches Schulgebäude.
+									",Architecture for the people by the people,Alastair Parvin,13:11,"architecture,design,open-source,infrastructure"
+"
+","
+","
+","
+","
+",Architecture for the people by the people,Alastair Parvin,13:11,"architecture,design,open-source,infrastructure"
+"
+											And they said to the architects, ""Look,
+											our corridors are an absolute nightmare.
+											They're far too small. They get congested between classes.
+											There's bullying. We can't control them.
+											So what we want you to do is re-plan our entire building,
+											and we know it's going to cost several million pounds,
+											but we're reconciled to the fact.""
+									","
+											Y le dijeron a los arquitectos,
+											""Verán, los corredores 
+son una pesadilla,
+											son demasiado pequeños y 
+se congestionan entre clase y clase.
+											Hay bravucones que se 
+nos salen de las manos.
+											Lo que queremos es que vuelvan 
+a planear toda la escuela,
+											y sabemos que va a costar 
+varios millones de libras,
+											pero ya nos hicimos a la idea"".
+									","
+											Mimarlara: ""Bakın, koridorlarımız tam bir kâbus,
+											Çok küçükler. Ders aralarında çok sıkışık oluyor.
+											Kabadayılık yapılıyor. Çocukları kontrol edemiyoruz.
+											Sizden yapmanızı istediğimiz,
+											tüm binayı yeniden planlamanız.
+											Milyonlarca pounda mal olacağını biliyoruz ama
+											buna kendimizi hazırladık"" dediler.
+									","
+											Et ils ont dit aux architectes : « Ecoutez,
+											nos couloirs sont des cauchemars absolus.
+											Ils sont beaucoup trop petits. 
+Ils sont embouteillés entre les cours.
+											Il y a des brutalités. 
+Nous ne pouvons pas les contrôler.
+											Donc ce que nous voulons, 
+c'est que vous re-dessiniez le bâtiment entier.
+											Nous savons que ça va coûter 
+plusieurs millions de livres sterlings
+											mais nous nous y sommes résignés. »
+									","
+											Sie sagten zu den Architekten: ""Seht her,
+											unsere Flure sind ein absoluter Albtraum.
+											Sie sind viel zu klein und in den Pausen überfüllt.
+											Es gibt Mobbing. 
+Wir können sie nicht kontrollieren.
+											Wir wollen, dass Sie unser
+gesamtes Gebäude umplanen,
+											und wir wissen, 
+dass es mehrere Millionen Pfund kosten wird,
+											aber wir haben uns damit schon abgefunden.""
+									",Architecture for the people by the people,Alastair Parvin,13:11,"architecture,design,open-source,infrastructure"
+"
+","
+","
+","
+","
+",Architecture for the people by the people,Alastair Parvin,13:11,"architecture,design,open-source,infrastructure"
+"
+											And the team thought about this, and they went away,
+											and they said, ""Actually, don't do that.
+											Instead, get rid of the school bell.
+											And instead of having one school bell that goes off once,
+											have several smaller school bells that go off
+											in different places and different times,
+											distribute the traffic through the corridors.""
+											It solves the same problem,
+											but instead of spending several million pounds,
+											you spend several hundred pounds.
+											Now, it looks like you're doing yourself out of a job,
+											but you're not. You're actually making yourself more useful.
+											Architects are actually really, really good
+											at this kind of resourceful, strategic thinking.
+											And the problem is that, like a lot of design professions,
+											we got fixated on the idea of providing
+											a particular kind of consumer product,
+											and I don't think that needs to be the case anymore.
+									","
+											Y el equipo pensó en 
+el proyecto, se fueron
+											y dijeron, ""¿Saben qué? No hagan eso.
+											Mejor quiten la campana de la escuela.
+											En vez de tener una 
+sola campana que suene
+											tengan muchas campanas pequeñas
+											que suenen en distintos lugares y horas,
+											distribuyan el tráfico 
+en los corredores"".
+											Solucionaron el mismo problema,
+											sólo que gastaron 
+varios cientos de libras
+											en lugar de varios millones.
+											Parecería que uno está 
+renegando del trabajo,
+											pero no es así, sólo eres más útil.
+											La verdad es que los arquitectos 
+son muy buenos
+											para pensar de forma 
+estratégica e ingeniosa,
+											Y el problema es que, como en 
+muchas profesiones de diseño,
+											nos enfocamos demasiado 
+en la idea de ofrecer
+											un tipo particular de producto
+											y no creo que ese 
+siga siendo el caso.
+									","
+											Takım bunun hakkında düşünüp gitti ve
+											şöyle söyledi: ""Aslında böyle yapmayalım.
+											Onun yerine okul zilinden bir kurtulun.
+											Bir kere çalan tek bir okul zili yerine
+											küçük bir sürü okul ziliniz olsun,
+											farklı yerlerde ve farklı zamanlarda çalıp
+											yoğunluğu koridorlara dağıtsın.""
+											Bu da aynı sorunu çözer ama
+											milyonlarca pound harcamak yerine,
+											yüzlerce pound harcamış olursunuz.
+											Şimdi, kendinizi işin dışına çekiyormuşsunuz gibi gözükebilir,
+											ama öyle değil. Aslında kendinizi daha işe yarar hâle getiriyorsunuz.
+											Mimarlar aslında bu şekilde faydalı, stratejik
+											düşünme hususunda gerçekten iyidirler.
+											Sorun şu ki, tasarımla alakalı diğer birçok meslekte
+											olduğu gibi biz de sadece belli türde tüketici ürünü
+											sağlama fikrine takılmış durumdayız.
+											Bence artık böyle olmaması gerekiyor.
+									","
+											L'équipe a réfléchi là-dessus, est revenue
+											et a dit : « En fait, ne faites pas ça.
+											A la place, supprimez de la cloche de l'école.
+											Et à la place d'avoir une seule cloche 
+qui sonne une seule fois,
+											installez plusieurs petites cloches qui sonnent
+											à des endroits différents, à différents moments
+											afin de répartir le trafic dans les couloirs. »
+											Ça a résolu le problème,
+											mais au lieu de dépenser plusieurs millions de livres,
+											vous n'en dépensez que quelques centaines.
+											Maintenant, on dirait que vous vous privez vous-même d'un emploi,
+											mais en fait non. En fait, vous vous rendez plus utile.
+											Les architectes sont en fait très, très bons
+											pour ce genre de réflexion stratégique et ingénieuse.
+											Et le problème c'est que, 
+comme beaucoup de professionnels du design,
+											nous sommes obsédés par l'idée de fournir
+											une type particulier de produit au client,
+											et je ne pense pas que ça doive encore être le cas.
+									","
+											Das Team dachte darüber nach
+und verabschiedete sich
+											und sie sagten: ""Macht das nicht.
+											Entfernt stattdessen die Schulglocke.
+											Und anstatt einer Schulglocke, 
+die nur einmal klingelt,
+											schafft euch mehrere kleinere Schulglocken an,
+											die an verschiedenen Orten 
+und zu verschiedenen Zeiten schellen
+											und somit den Verkehr durch die Gänge verteilen.""
+											Es löst das gleiche Problem,
+											aber anstatt mehrere Millionen Pfund,
+											gibt ihr nur mehrere hundert aus.
+											Jetzt sieht es aus, 
+als ob du dir selbst den Auftrag vermasselst,
+											aber das stimmt nicht.
+Du machst dich eher nützlich.
+											Architekten sind wirklich gut
+											in dieser Art von einfallsreichem
+und strategischem Denken.
+											Das Problem ist, wie in vielen Design-Berufen,
+											dass wir auf die Idee fixiert sind,
+											eine besondere Art von Konsumartikeln herzustellen.
+											Ich glaube aber nicht,
+dass dies noch der Fall sein muss.
+									",Architecture for the people by the people,Alastair Parvin,13:11,"architecture,design,open-source,infrastructure"
+"
+","
+","
+","
+","
+",Architecture for the people by the people,Alastair Parvin,13:11,"architecture,design,open-source,infrastructure"
+"
+											The second idea worth questioning is this 20th-century thing
+											that mass architecture is about big —
+											big buildings and big finance.
+											Actually, we've got ourselves locked into this
+											Industrial Era mindset which says that
+											the only people who can make cities are large organizations
+											or corporations who build on our behalf,
+											procuring whole neighborhoods
+											in single, monolithic projects, and of course,
+											form follows finance.
+											So what you end up with are single, monolithic neighborhoods
+											based on this kind of one-size-fits-all model.
+											And a lot of people can't even afford them.
+											But what if, actually, it's possible now for cities
+											to be made not just by the few with a lot
+											but also by the many with a bit?
+											And when they do, they bring with them
+											a completely different set of values about the place that they want to live.
+											And it raises really interesting questions about,
+											how will we plan cities? How will finance development?
+											How will we sell design services?
+											What would it mean for democratic societies
+											to offer their citizens a right to build?
+											And in a way it should be kind of obvious, right,
+											that in the 21st century, maybe cities can be developed by citizens.
+									","
+											La segunda idea que vale la pena hacernos 
+tiene que ver con esto que tiene el siglo XX,
+											con la idea de que la arquitectura 
+masiva se trata de
+											enormes edificios y 
+enormes financiamientos.
+											En realidad estamos 
+atascados en esta filosofía
+											de la Edad Industrial que dicta
+											que los únicos que pueden hacer ciudades 
+son las enormes orrganizaciones
+											o corporaciones para quienes construimos,
+											obteniendo vecindarios enteros
+											en un solo proyecto 
+monolítico, y desde luego,
+											la forma sigue al financiamiento.
+											Entonces terminamos con 
+vecindarios únicos y monolíticos
+											basados en este modelo universal.
+											Y mucha gente no puede adquirirlos.
+											Pero ¿qué pasaría si las ciudades
+											no sólo pudieran ser 
+construidas por el 1%
+											sino también por el 99%?
+											Y cuando así sea, 
+trajeran consigo
+											valores totalmente distintos sobre 
+el lugar en el que quieren vivir.
+											Y genera preguntas 
+muy interesantes sobre
+											cómo vamos a planear las ciudades 
+y cómo vamos a financiarlas
+											cómo vamos a vender 
+nuestros servicios de diseño.
+											¿Qué significaría para 
+las sociedades democráticas
+											ofrecer a sus ciudadanos 
+el derecho a construir?
+											Y de cierto modo 
+debería ser obvio
+											que en el siglo XXI las ciudades pudieran 
+ser desarrolladas por los ciudadanos.
+									","
+											Sorgulamaya değer ikinci bir fikir de 20. yüzyılda ortaya çıkan,
+											kitle mimarisinin büyük binalardan ve büyük sermayelerden
+											ibaret olduğu fikri.
+											Aslında biz kendimiz, şehirler oluşturabilecek tek teşebbüsün
+											tüm mahalleleri tek, yekpare projelerle
+											ele alarak bizim adımıza inşa eden ve tabii ki
+											şeklin de sermayeyi takip ettiği
+											bir düzenle büyük şirketler veya kurumlar
+											olduğunu telkin eden Sanayi Devri
+											zihniyetinde takılıp kalmışız.
+											En nihayetinde elimizde kalan, tek kalıptan çıkan
+											tekdüze, yekpare mahalleler.
+											Birçok insan bunları bile karşılayamıyor.
+											Peki şehirleri inşa etmek artık sadece çoğa
+											sahip azınlık tarafından değil de, aynı zamanda
+											aza sahip çoğunluk tarafından da mümkün olsa?
+											Hem böyle bir şey olsa, aza sahip çoğunluk
+											beraberinde yaşamak istedikleri yerle alakalı tamamen farklı değerleri de getirecektir.
+											Bu da hayli ilginç soruları beraberinde getiriyor:
+											Şehirleri nasıl planlayacağız? Gelişime nasıl finansman sağlayacağız?
+											Tasarım hizmetlerini nasıl satacağız?
+											Demokratik toplumlar için vatandaşlarına inşa etme hakkı tanımaları
+											ne manaya gelir?
+											Aslında 21. yüzyılda belki de şehirlerin vatandaşlar tarafından geliştirilebileceği fikri
+											gayet bariz bir şekilde ortada olmalı, doğru değil mi?
+									","
+											La deuxième idée qu'il faudrait remettre en cause 
+est ce truc très 20ème siècle,
+											que l'architecture de masse est faite de gigantisme,
+											de grands bâtiments et de gros budgets.
+											En fait, nous nous sommes enfermés
+											dans cette mentalité de l'ère industrielle qui dit que
+											les seuls à pouvoir construire des villes 
+sont de grandes organisations
+											ou compagnies qui construisent pour nous,
+											créant des quartiers entiers
+											dans des projets monolithiques et identiques, 
+et bien sûr,
+											la forme suit le financement.
+											Ce que vous avez à la fin, 
+ce sont des quartiers identiques et monolithiques,
+											construits sur le modèle de la taille unique pour tous.
+											Et beaucoup de gens ne peuvent même pas se les offrir.
+											Mais qu'arriverait-il si, en fait, 
+il était possible maintenant que les villes
+											soient construites non seulement 
+par peu de personnes avec beaucoup d'argent,
+											mais aussi par beaucoup avec peu ?
+											Et quand cela arrivera, ils amèneront avec eux
+											un système de valeurs complètement différent 
+sur l'endroit où ils veulent vivre.
+											Ca pose des questions vraiment intéressantes
+											sur la façon dont nous allons organiser nos villes.
+Comment en financer le développement ?
+											Comment allons-nous vendre 
+notre travail de design ?
+											Qu'est-ce que cela signifierait 
+pour nos sociétés démocratiques
+											d'offrir à leurs citoyens le droit de construire ?
+											Dans un sens, cela devrait être plutôt évident, non ?
+											Qu'au 21ème siècle, peut-être, 
+les villes devraient être construites par les citoyens.
+									","
+											Die zweite Idee, die in Frage zu stellen ist, 
+ist dieses 20. Jahrhundert-Ding,
+											dass es bei Massenarchitektur um große –
+											große Gebäude und große Finanzen geht.
+											Eigentlich haben wir uns selber da hineingezwängt
+											in diese Einstellung aus 
+der industriellen Ära, die besagt,
+											dass nur große Organisationen 
+Städte entwerfen können
+											oder Unternehmen, 
+die in unserem Namen bauen,
+											für ganze Nachbarschaften Mittel beschaffen,
+											um einzelne, monolithische Projekte 
+zu bauen und natürlich
+											passt sich die ""Form den Finanzen"" an.
+											Am Ende hast du einzelne, 
+monolithische Nachbarschaften
+											auf der Grundlage dieses
+""Eine Einheitsgröße passt zu allem""-Modells.
+											Viele Leute können sich selbst das nicht leisten.
+											Aber wenn es jetzt möglich wäre,
+											Städte nicht von den wenigen 
+mit viel bauen zu lassen,
+											sondern auch von den vielen mit wenig?
+											Und wenn sie es tun, bringen sie
+											ganz andere Werte an den Ort mit,
+an dem sie leben möchten.
+											Und es ergeben sich
+wirklich interessante Fragen wie:
+											Wie planen wir Städte? 
+Wie wird die Entwicklung finanziert?
+											Wie werden wir 
+Design-Dienstleistungen verkaufen?
+											Was würde es für demokratische Gesellschaften bedeuten
+											ihren Bürgern ein Recht 
+auf Bauen anzubieten?
+											Es sollte doch eigentlich
+auf der Hand liegen,
+											dass im 21. Jahrhundert Städte vielleicht 
+von Bürgern entwickelt werden könnten.
+									",Architecture for the people by the people,Alastair Parvin,13:11,"architecture,design,open-source,infrastructure"
+"
+","
+","
+","
+","
+",Architecture for the people by the people,Alastair Parvin,13:11,"architecture,design,open-source,infrastructure"
+"
+											And thirdly, we need to remember that,
+											from a strictly economic point of view,
+											design shares a category with sex and care of the elderly —
+											mostly it's done by amateurs.
+											And that's a good thing.
+											Most of the work takes place outside of the monetary economy
+											in what's called the social economy or the core economy,
+											which is people doing it for themselves.
+											And the problem is that, up until now,
+											it was the monetary economy which had
+											all the infrastructure and all the tools.
+									","
+											Y en tercer lugar, 
+necesitamos recordar que
+											en sentido estricto
+											el diseño tiene algo en común con 
+el sexo y el cuidado de lo mayores:
+											los aficionados hacen 
+la mayor parte del trabajo.
+											Y eso es bueno.
+											La mayor parte del trabajo se realiza 
+fuera de la economía monetaria
+											en lo que llamamos la economía social 
+o la economía núcleo,
+											que significa que la gente 
+trabaja por sí misma.
+											Y el problema es que, hasta hoy,
+											la economía monetaria tenía
+											toda la infraestructura y las herramientas.
+									","
+											Üçüncü olarak; unutmamalıyız ki
+											katı bir iktisadi pencereden bakıldığında
+											tasarım, cinsellik ve yaşlılara bakım ile aynı kategoriyi paylaşıyor.
+											Yani hepsi de çoğunlukla amatörler tarafından icra ediliyor.
+											Bu da iyi bir şey.
+											İşin çoğu, parasal iktisadın dışında yer alan,
+											işi kendileri için yapan insanları kapsayan
+											sosyal iktisat veya çekirdek iktisat denen yerde gerçekleşir.
+											Sorun şu ki, şimdiye kadar
+											tüm altyapıya ve araç-gerece sahip olan
+											parasal iktisattı.
+									","
+											Et troisièmement, nous avons besoin de nous souvenir que,
+											d'un point de vue strictement économique,
+											le design a ceci en commun avec le sexe 
+et les soins aux personnes âgées,
+											c'est qu'il est principalement fait par des amateurs.
+											Et c'est une bonne chose.
+											La plupart du travail se fait 
+en dehors de l'économie monétaire
+											dans ce que l'on appelle l'économie sociale 
+ou l'économie de base,
+											lorsque les gens le font pour eux-mêmes.
+											Le problème est que, jusqu'à maintenant,
+											c'était l'économie monétaire qui avait
+											toutes les infrastructures et tous les outils.
+									","
+											Und drittens müssen wir daran erinnern,
+											dass aus rein wirtschaftlicher Sicht
+											– Design fällt in eine Kategorie 
+mit Sex und Altenpflege –
+											es meistens von Amateuren gemacht wird.
+											Und das ist eine gute Sache.
+											Die meiste Arbeit findet
+außerhalb der Geldwirtschaft statt,
+											in der sogenannten Sozialwirtschaft
+oder Kern-Wirtschaft,
+											in der die Menschen es für sich selbst tun.
+											Das Problem ist, dass bis jetzt
+											die Geldwirtschaft all diese
+											Infrastruktur und Mittel besaß.
+									",Architecture for the people by the people,Alastair Parvin,13:11,"architecture,design,open-source,infrastructure"
+"
+","
+","
+","
+","
+",Architecture for the people by the people,Alastair Parvin,13:11,"architecture,design,open-source,infrastructure"
+"
+											So the challenge we face is, how are we going
+											to build the tools, the infrastructure and the institutions
+											for architecture's social economy?
+											And that began with open-source software.
+											And over the last few years, it's been moving
+											into the physical world with open-source hardware,
+											which are freely shared blueprints
+											that anyone can download and make for themselves.
+											And that's where 3D printing gets really, really interesting.
+											Right? When suddenly you had a 3D printer
+											that was open-source, the parts for which
+											could be made on another 3D printer.
+											Or the same idea here, which is for a CNC machine,
+											which is like a large printer that can cut sheets of plywood.
+											What these technologies are doing is radically
+											lowering the thresholds of time and cost and skill.
+											They're challenging the idea that
+											if you want something to be affordable it's got to be one-size-fits-all.
+											And they're distributing massively
+											really complex manufacturing capabilities.
+											We're moving into this future where the factory is everywhere,
+											and increasingly that means
+											that the design team is everyone.
+											That really is an industrial revolution.
+											And when we think that the major ideological conflicts
+											that we inherited were all based around this question
+											of who should control the means of production,
+											and these technologies are coming back with a solution:
+											actually, maybe no one. All of us.
+									","
+											El reto que enfrentamos, 
+entonces, es cómo vamos
+											a construir las herramientas, 
+la infraestructura y las instituciones
+											para la economía social 
+de la arquitectura.
+											Y eso comenzó con 
+el software libre.
+											Y a lo largo de los últimos años, 
+ha estado moviendo
+											al mundo físico con hardware libre,
+											es decir, planos compartidos libremente
+											que todos pueden descargar 
+y crear por sí mismos.
+											Es ahí donde la impresión en 3D 
+se vuelve extremadamente interesante.
+											Cuando tienes una impresora en 3D
+											que es de libre uso, las partes pueden
+											usarse para hacer otra impresora 3D.
+											O la misma idea aplicada 
+en una máquina de CNC
+											que es como una gran impresora 
+que corta hojas de triplay.
+											Lo que estas tecnologías 
+están haciendo es
+											bajando enormemente las limitaciones 
+de tiempo, costo y capacitación.
+											Están enfrentandose 
+a la idea de que
+											si quieres que algo valga la pena 
+tiene que ser universal.
+											Y están distribuyendo 
+a escala masiva
+											capacidades de manufactura 
+muy complejas.
+											Vamos hacia un futuro en el que 
+la fábrica está en todos lados,
+											y eso quiere decir que cada vez más
+											el equipo de diseñadores 
+está en todos lados.
+											Eso es a lo que yo llamo 
+una revolución industrial.
+											Y cuando pensamos que 
+los conflictos ideológicos más grandes
+											que heredamos giraban 
+en torno a la pregunta
+											de quién debería controlar 
+los medios de producción
+											y estas tecnologías están 
+respondiendo con una solución:
+											en realidad, quizás nadie. 
+Ninguno de nosotros.
+									","
+											Yani, karşımızdaki zorluk mimarinin sosyal iktisadı için
+											araç-gereci, altyapıyı ve kurumları
+											nasıl inşa edeceğiz?
+											Bu da açık kaynaklı yazılımlarla başladı.
+											Birkaç yıldır da, açık kaynaklı donanımla
+											fiziksel dünyaya da adım atıyor.
+											Açık kaynaklı donanımlar, herkesin indirip kendi kendine
+											yapabileceği bedava paylaşılan planlardan oluşuyor.
+											Bu noktada üç boyutlu baskı hayli ilginçleşiyor,
+											değil mi? Birdenbire açık kaynaklı ve
+											parçalarının başka bir üç boyutlu yazıcıda yapılabildiği
+											bir üç boyutlu yazıcınızın olması.
+											Ya da aynı fikirden yola çıkarak CNC makinesini düşündüğümüzde,
+											bu da kontrplakları kesebilen daha büyük bir yazıcı gibidir.
+											Bu teknolojiler radikal bir biçimde
+											zaman, maliyet ve kabiliyet eşiğini düşürüyorlar.
+											Bir şeyin fiyatının karşılanabilir düzeyde olması için
+											tek kalıptan çıkması gerektiği fikrine karşı meydan okuyorlar.
+											Bir yandan da hayli karmaşık üretim kabiliyetlerini
+											fazlasıyla yayıyorlar.
+											Fabrikanın her yerde olduğu bir geleceğe doğru yol alıyoruz.
+											Bu giderek de tasarım ekibinin
+											herkes olduğu anlamına geliyor.
+											Bu tam bir sanayi devrimidir.
+											Miras olarak aldığımız belli başlı ideolojik çatışmaların
+											tamamının aslında üretim kanallarına kimin hâkim olacağı
+											sorusu etrafında cereyan ettiğini düşünürsek,
+											bu teknolojiler bir çözümle geliyor:
+											Aslında, belki de hiç kimse. Hepimiz.
+									","
+											Donc le défi auquel nous faisons face est : 
+comment allons-nous construire
+											les outils, les infrastructures et les institutions
+											pour l'économie sociale de l'architecture ?
+											Ca a commencé avec les logiciels open-source.
+											Durant les dernières années, c'est passé
+											dans le monde concret 
+avec le matériel informatique open-source
+											dont les plans de construction
+sont partagés gratuitement,
+											et que chacun peut télécharger et construire.
+											C'est là que l'impression 3D 
+devient vraiment, vraiment intéressante.
+											Non ? Quand tout d'un coup, 
+vous avez une imprimante 3D
+											qui était open-source, et dont les composants
+											peuvent être fabriqués par une autre imprimante 3D.
+											Ou encore ici la même idée avec une machine CNC,
+											qui est une sorte de grosse imprimante 
+qui peut couper des feuilles de contre-plaqué.
+											Ce que ces technologies font, c'est d'abaisser radicalement
+											les seuils de temps, de coût et de compétence.
+											Elles remettent en cause l'idée que
+											si vous voulez quelque chose à un prix abordable, 
+ça doit être du prêt-à-porter.
+											Elles distribuent massivement
+											des capacités manufacturières vraiment complexes.
+											Nous entrons dans un futur où l'usine est partout,
+											et de plus en plus, cela signifie
+											que l'équipe de design, c'est tout le monde.
+											C'est réellement une révolution industrielle.
+											Quand on pense que les conflits idéologiques majeurs
+											dont nous avons hérité 
+tournent tous autour de la question
+											de savoir qui doit contrôler les moyens de production,
+											et que ces technologies nous apportent une réponse :
+											en fait, peut-être, personne. 
+Nous tous.
+									","
+											Die Herausforderung ist nun, wie wir
+											die Mittel, die Infrastruktur und 
+die Organisationen aufbauen,
+											um eine Sozialwirtschaft 
+der Architektur zu erschaffen?
+											Es fing an mit Opensource-Software.
+											In den letzten Jahren entwickelte es sich weiter
+											in die physische Welt mit Opensource-Hardware,
+											also freigegebene Entwürfe,
+											die sich jeder herunterladen
+und sich zu eigen machen kann.
+											Und das ist, wo der 3D-Druck 
+wirklich interessant wird.
+											Richtig? Wenn Du plötzlich 
+einen 3D-Drucker hättest,
+											der freigegeben wird und man einen Teil
+											auf einem anderen 3D-Drucker herstellen könnte.
+											Oder die gleiche Idee,
+für eine CNC-Maschine,
+											die wie ein großer Drucker funktioniert,
+der Sperrholz schneiden kann.
+											Diese Technologien können
+											die Grenzwerte für Zeit, Kosten
+und Können drastisch senken.
+											Sie hinterfragen die Idee,
+											etwas Erschwingliches nur mit einer Vorlage 
+zu erhalten, die zu allem passt.
+											Sie verteilen wirklich
+											komplexe Fertigungsmöglichkeiten.
+											Wir bewegen uns in die Zukunft, 
+in der überall ""fabriziert"" werden kann,
+											und das bedeutet zunehmend,
+											dass das Design-Team jeder sein kann.
+											Das ist wirklich eine industrielle Revolution.
+											Wenn wir überlegen,
+dass die großen ideologischen Konflikte,
+											die wir geerbt haben,
+alle um die Frage gingen,
+											wer die Produktionsmittel kontrollieren sollte.
+											Und diese Technologien kommen
+mit einer Antwort zurück:
+											in der Tat vielleicht niemand, sondern wir alle.
+									",Architecture for the people by the people,Alastair Parvin,13:11,"architecture,design,open-source,infrastructure"
+"
+","
+","
+","
+","
+",Architecture for the people by the people,Alastair Parvin,13:11,"architecture,design,open-source,infrastructure"
+"
+											And we were fascinated by
+											what that might mean for architecture.
+											So about a year and a half ago,
+											we started working on a project called WikiHouse,
+											and WikiHouse is an open-source construction system.
+											And the idea is to make it possible for anyone
+											to go online, access a freely shared library
+											of 3D models which they can download and adapt in,
+											at the moment, SketchUp, because it's free, and it's easy to use,
+											and almost at the click of a switch
+											they can generate a set of cutting files
+											which allow them, in effect,
+											to print out the parts from a house using a CNC machine
+											and a standard sheet material like plywood.
+											And the parts are all numbered,
+											and basically what you end up with is a really big IKEA kit.
+											(Laughter)
+											And it goes together without any bolts.
+											It uses wedge and peg connections.
+											And even the mallets to make it
+											can be provided on the cutting sheets as well.
+											And a team of about two or three people,
+											working together, can build this.
+											They don't need any traditional construction skills.
+											They don't need a huge array of power tools or anything like that,
+											and they can build a small house of about this size
+											in about a day.
+									","
+											Y estamos fascinados por
+											lo que esto pueda 
+significar para la arquitectura.
+											Por lo que hace año y medio,
+											empezamos a trabajar en 
+un proyecto llamado WikiHouse,
+											que es un sistema 
+de construcción libre.
+											La idea es hacer 
+que todos puedan
+											entrar a Internet, acceder a 
+una biblioteca libre compartida
+											de modelos 3D que puedan 
+descargar y adaptar
+											usando el programa SketchUp,
+ya que es gratis y fácil de usar,
+											y casi a la velocidad de un clic
+											generar una serie 
+de archivos de cortes
+											que les permitirá, en efecto,
+											imprimir las partes de una casa 
+utilizando una máquina CNC
+											y una hoja de un material 
+común como el triplay.
+											Las partes están numeradas,
+											básicamente terminas con 
+un kit grande tipo IKEA.
+											(Risas)
+											Y se une sin tuercas.
+											Utiliza conexiones de calces y clavijas.
+											E incluso las hojas 
+de corte incluyen
+											los mazos para hacerlo.
+											Y un equipo de dos o tres personas
+											pueden construirla.
+											No necesitan saber de 
+construcción tradicional.
+											No necesitan un arsenal de 
+herramientas ni nada por el estilo
+											y pueden construir una casa pequeña 
+de más o menos este tamaño
+											en un solo día.
+									","
+											Bunun mimari için ne anlama gelebileceği
+											fikri bizi büyülüyor.
+											Yaklaşık bir buçuk yıl önce,
+											WikiHouse diye bir proje üzerinde çalışmaya başladık.
+											WikiHouse açık kaynaklı bir inşa sistemi.
+											Fikir aslında herkesin internete ulaşarak,
+											indirebilecekleri ve uyarlayabilecekleri, bedava paylaşılan bir üç boyutlu
+											modeller kütüphanesine erişmelerini mümkün kılmaktan ibaret.
+											Şu anda bedava ve kullanımı çok kolay olduğundan SketchUp'da düzenleyebiliyorsunuz.
+											Hemen hemen bir tıkla
+											kesim dosyaları üretebiliyorlar.
+											Neticede bir evin parçalarını
+											CNC makinesi kullanarak kontrplak gibi standart bir tabaka materyalden
+											çıkarmalarına imkân tanıyor.
+											Parçaların tamamı numaralı,
+											en nihayetinde elinizde kalan hayli büyük bir IKEA teçhizatı.
+											(Kahkaha)
+											Ve hiç civatası olmadan gidiyor.
+											Takoz ve tahta çivi gibi bağlantılar kullanılıyor.
+											Hatta kullanacağınız tokmak bile
+											kesilen levhalardan sağlanabiliyor.
+											İki veya üç kişilik bir ekip
+											birlikte çalışarak bunu inşa edebilir.
+											Geleneksel inşa kabiliyetlerine ihtiyaç duymazlar.
+											Elektrikli alet veya buna benzer şeyler hiç lazım değil.
+											Bu boyutlarda bir evi yaklaşık olarak bir günde
+											inşa edebiliyorlar.
+									","
+											Et nous étions fascinés par
+											ce que ça pourrait signifier pour l'architecture.
+											Il y a environ un an et demi,
+											nous avons commencé à travailler sur un projet appelé WikiHouse.
+											WikiHouse est un système de construction open-source.
+											L'idée est de rendre possible pour chacun
+											d'aller en ligne, d'accéder à une bibliothèque gratuite
+											de modèles 3D qui peuvent être téléchargés et adaptés
+avec SketchUp,
+											pour le moment, 
+car c'est gratuit et facile à utiliser,
+											et presque en un clic,
+											on peut générer un ensemble de plans de coupe
+											qui permettent, en fait,
+											d'imprimer les parties d'une maison
+en utilisant une machine CNC
+											et une feuille standard comme du contre-plaqué.
+											Les parties sont toutes numérotées
+											et en fait, ce que vous obtenez, c'est un énorme kit IKEA.
+											(Rires)
+											Et ça se monte sans boulons.
+											On les assemble avec des chevilles et des cales.
+											Et même le maillet pour la construire
+											peut être fourni avec les plans de découpe.
+											Et une équipe d'environ deux ou trois personnes,
+											travaillant ensemble, peut la construire.
+											Ils n'ont pas besoin de compétences
+traditionnelles de construction.
+											Ils n'ont pas besoin d'une énorme panoplie d'outils électriques ou autre,
+											et ils peuvent construire une petite maison d'environ cette taille
+											en une journée.
+									","
+											Es hat uns fasziniert,
+											was das für die Architektur
+bedeuten könnte.
+											Vor mehr als eineinhalb Jahren
+											begannen wir die Arbeiten an einem Projekt 
+namens WikiHouse
+											und WikiHouse ist ein Opensource-Bausystem.
+											Und die Idee ist, jedem zu ermöglichen
+											online zu gehen, freien Zugang zu einer Sammlung
+											von 3D Modellen zu haben, 
+die sie herunterladen und anpassen können,
+											im Moment ist es SketchUp,
+weil es kostenlos und einfach zu bedienen ist,
+											und nahezu mit einem Klick
+											eine Reihe von Dateien 
+generiert werden können,
+											die ihnen in der Tat erlauben,
+											Teile eines Hauses 
+mittels einer CNC-Maschine auszudrucken
+											mit einem handelsüblichen Material wie Sperrholz.
+											Die Teile sind alle nummeriert
+											und im Grunde haben Sie
+einen wirklich großen IKEA-Bausatz.
+											(Lachen)
+											Man baut ihn ganz ohne Schrauben zusammen.
+											Es verwendet Keil-und-Stift-Verbindungen.
+											Und sogar die nötigen Schlägel
+											können auf den Bahnen
+zur Verfügung gestellt werden.
+											Ein Team von zwei oder drei Personen
+											können dies zusammen aufbauen.
+											Sie brauchen keine traditionellen Bau-Fähigkeiten.
+											Sie brauchen keine riesige Auswahl 
+an Elektrowerkzeugen oder Ähnliches
+											und sie können ein kleines Haus etwa dieser Größe
+											an einem Tag bauen.
+									",Architecture for the people by the people,Alastair Parvin,13:11,"architecture,design,open-source,infrastructure"
+"
+","
+","
+","
+","
+",Architecture for the people by the people,Alastair Parvin,13:11,"architecture,design,open-source,infrastructure"
+"
+											(Applause)
+									","
+											(Aplausos)
+									","
+											(Alkış)
+									","
+											(Applaudissements)
+									","
+											(Beifall)
+									",Architecture for the people by the people,Alastair Parvin,13:11,"architecture,design,open-source,infrastructure"
+"
+","
+","
+","
+","
+",Architecture for the people by the people,Alastair Parvin,13:11,"architecture,design,open-source,infrastructure"
+"
+											And what you end up with is just the basic chassis of a house
+											onto which you can then apply systems like windows
+											and cladding and insulation and services
+											based on what's cheap and what's available.
+											Of course, the house is never finished.
+											We're shifting our heads here, so the house is not a finished product.
+											With the CNC machine, you can make new parts for it
+											over its life or even use it to make the house next door.
+											So we can begin to see the seed of a completely open-source,
+											citizen-led urban development model, potentially.
+									","
+											Y terminas con el andamio
+base de una casa
+											en la que luego puedes agregar 
+sistemas como ventanas
+											y servicios de aislamiento 
+y revestimientos
+											basados en lo que haya 
+a la mano y que sea barato.
+											Desde luego, la casa nunca 
+se acaba por completo.
+											Estamos cambiando de idea tal que 
+la casa no es un producto terminado.
+											Con la máquina CNC, puedes 
+hacer nuevas partes para la casa
+											a lo largo de su vida útil 
+o para hacer la casa del vecino.
+											Hoy podemos ver la semilla 
+de un modelo de desarrollo urbano
+											potencialmente libre y 
+encabezado por los ciudadanos.
+									","
+											En nihayetinde elde ettiğiniz bir evin ana gövdesi.
+											Bunun üzerine daha sonra fiyat ve mevcut olma durumuna göre
+											pencere, giydirme, yalıtım ve diğer
+											hizmetleri uygulayabilirsiniz.
+											Tabii ki ev asla tam olarak bitmez.
+											Burada kafalarımızı değiştiriyoruz, yani ev bitmiş bir ürün değil.
+											Kullanırken bir yandan da CNC makinasıyla yeni parçalar üretebilir ve
+											hatta yanına bir ev daha dikebilirsiniz.
+											Yani tamamen açık kaynaklı, vatandaş güdümünde
+											potansiyel bir kentsel gelişim modelinin tohumlarını görmeye başlayabiliriz.
+									","
+											Ce que vous obtenez,
+c'est juste le châssis de base d'une maison
+											sur lequel vous pouvez alors ajouter 
+des choses comme des fenêtres,
+											le revêtement extérieur, l'isolation et les services,
+											en fonction de ce qui est abordable et disponible.
+											Bien sur, la maison n'est jamais terminée.
+											On débute seulement, 
+alors la maison n'est pas un produit fini.
+											Avec la machine CNC, 
+vous pouvez fabriquer de nouveaux éléments pour la maison
+											pendant toute sa durée de vie, 
+ou même les utiliser pour faire la maison d'à côté.
+											Nous commençons à voir germer un modèle 
+totalement open-source
+											de développement urbain mené par les citoyens.
+									","
+											Am Ende haben Sie
+das Grundgerüst eines Hauses,
+											auf das Sie dann verschiedene Systeme wie Fenster,
+											Verkleidung, Dämmung und 
+Haustechnik auftragen,
+											basierend auf dem, 
+was billig ist und zur Verfügung steht.
+											Natürlich ist das Haus nie fertig.
+											Wir verändern unser Denken,
+so dass das Haus kein fertiges Produkt ist.
+											Mit der CNC-Maschine 
+können Sie Ihr Leben lang neue Teile
+											produzieren oder sogar das Haus nebenan bauen.
+											Wir beginnen die Früchte eines open-source,
+											von Bürgern geleiteten,
+urbanen Entwicklungsmodells zu sehen.
+									",Architecture for the people by the people,Alastair Parvin,13:11,"architecture,design,open-source,infrastructure"
+"
+","
+","
+","
+","
+",Architecture for the people by the people,Alastair Parvin,13:11,"architecture,design,open-source,infrastructure"
+"
+											And we and others have built a few prototypes around the world now,
+											and some really interesting lessons here.
+											One of them is that it's always incredibly sociable.
+											People get confused between construction work and having fun.
+											But the principles of openness go right down
+											into the really mundane, physical details.
+											Like, never designing a piece that can't be lifted up.
+											Or, when you're designing a piece,
+											make sure you either can't put it in the wrong way round,
+											or, if you do, it doesn't matter, because it's symmetrical.
+											Probably the principal which runs deepest with us
+											is the principal set out by Linus Torvalds,
+											the open-source pioneer,
+											which was that idea of, ""Be lazy like a fox.""
+											Don't reinvent the wheel every time.
+											Take what already works, and adapt it for your own needs.
+											Contrary to almost everything that you might get taught
+											at an architecture school, copying is good.
+									","
+											Nosotros y otras personas han construido 
+unos cuantos prototipos en todo el mundo
+											y hay lecciones muy interesantes.
+											Una de ellas es que esto siempre 
+ha sido increíblemente social.
+											La gente llega a confundir 
+la construcción con la diversión.
+											Pero los principios de 
+lo libre llegan hasta
+											los detalles extremadamente 
+mundanos y físicos.
+											Como nunca diseñar una habitacion 
+que no se pueda construir.
+											O cuando se diseña una habitación
+											asegurarse de que no se ponga
+en la dirección equivocada,
+											o en todo caso que no importe 
+porque es simétrica.
+											Probablemente el principio 
+que más nos impulsa
+											es el principio creado 
+por Linus Torvalds,
+											el pionero del software libre,
+											que es ""sé flojo como un zorro"".
+											No reinventes la rueda cada vez.
+											Toma todo lo que ya funciona, 
+y adáptalo a tus necesidades.
+											Al contrario de todo lo 
+que nos han enseñado
+											en la facultad de arquitectura, 
+copiar es bueno.
+									","
+											Biz ve diğer arkadaşlar şimdi dünyanın her yerinde prototipler üretiyoruz.
+											Buradan hayli dikkat çekici dersler çıkıyor.
+											Bunlardan biri işlerin hep bir sosyalleşme çerçevesi içinde cereyan etmesi.
+											İnsanlar inşaat işleri ile eğlenmek arasında bocalıyorlar.
+											Ama açıklık prensibi sıradan
+											fiziksel detaylara dahi tesir ediyor.
+											Mesela; asla kaldırılamayan bir parça tasarlamamak gibi.
+											Ya da bir parçayı tasarlarken,
+											onu ya yanlış yere koyamayacağınızdan emin oluyorsunuz
+											ya da eğer koymuşsanız, hiç önemi yok, çünkü tasarım tamamen simetrik.
+											Muhtemelen en çok faydalandığımız prensip
+											açık kaynak fikrinin öncüsü Linus Torvalds
+											tarafından ortaya konan
+											""Tilki gibi tembel ol"" fikridir.
+											Her seferinde tekerleği yeniden icat etmeye hiç lüzum yok.
+											Zaten mevcut olan şeyleri al ve kendi ihtiyaçlarına göre bunları uydur.
+											Mimarlık fakültesinde size öğretilen hemen hemen her şeyin aksine
+											kopyalama mefhumu iyi bir şeydir.
+									","
+											Nous et d'autres avons déjà construit plusieurs prototypes 
+à travers le monde
+											et il y a certaines leçons 
+vraiment intéressantes à en tirer.
+											L'une d'elles, c'est que c'est toujours
+incroyablement convivial.
+											Les gens y mélangent la construction et l'amusement.
+											Mais le principe de l'open-source fait appel directement
+											à des détails concrets et réellement ordinaires.
+											Comme de ne jamais concevoir
+une pièce qui ne peut pas être soulevée.
+											Ou bien, quand vous concevez une pièce,
+											vous assurer, 
+soit que vous ne pouvez pas la mettre à l'envers,
+											soit que ça ne changerait rien, par symétrie.
+											Le principe qui nous anime profondément, sans doute,
+											c'est celui défini par Linus Torvalds,
+											le pionnier de l'open-source,
+											qui a eu cette idée : ""soyez paresseux comme un loir.""
+											Ne réinventez pas la roue à chaque fois.
+											Prenez ce qui fonctionne déjà 
+et adaptez-le à vos besoins.
+											Contrairement à presque tout ce que vous aurez appris
+											à l'école d'architecture, copier, c'est bien.
+									","
+											Wir und andere haben ein paar Prototypen
+auf der ganzen Welt entwickelt
+											und einige wirklich interessante Lektionen erhalten.
+											Eine davon ist, dass 
+es immer unglaublich gesellig ist.
+											Menschen geraten durcheinander
+beim Bauen und haben Spaß.
+											Aber die Grundsätze der Freizügigkeit gehen
+											in die alltäglichen, physischen Details über.
+											Entwerfe z.Bsp. nie ein Stück, 
+das nicht gehoben werden kann.
+											Oder, wenn Du ein Stück entwirfst,
+											stelle sicher, dass du es nicht
+falschrum einbauen kannst,
+											oder wenn, dass das keine Rolle spielt, 
+weil es symmetrisch ist.
+											Das Prinzip, das am tiefsten sitzt,
+ist wahrscheinlich das,
+											das Linus Torvalds entworfen hat,
+											dem Vorreiter des Open-source-Arbeitens,
+											nämlich die Idee: ""Sei Faul wie ein Fuchs.""
+											Erfinde das Rad nicht jedes Mal neu.
+											Nimm das, was bereits funktioniert 
+und passe es deinen Bedürfnisse an.
+											Im Gegensatz zu nahezu allem, 
+was du in einer Architekturschule
+											gelernt hast:
+Kopieren ist gut.
+									",Architecture for the people by the people,Alastair Parvin,13:11,"architecture,design,open-source,infrastructure"
+"
+","
+","
+","
+","
+",Architecture for the people by the people,Alastair Parvin,13:11,"architecture,design,open-source,infrastructure"
+"
+											Which is appropriate, because actually,
+											this approach is not innovative.
+											It's actually how we built buildings
+											for hundreds of years before the Industrial Revolution
+											in these sorts of community barn-raisings.
+											The only difference between traditional
+											vernacular architecture and open-source architecture
+											might be a web connection,
+											but it's a really, really big difference.
+											We shared the whole of WikiHouse
+											under a Creative Commons license,
+											and now what's just beginning to happen
+											is that groups around the world are beginning to take it
+											and use it and hack it and tinker with it, and it's amazing.
+											There's a cool group over in Christchurch in New Zealand
+											looking at post-earthquake development housing,
+											and thanks to the TED city Prize,
+											we're working with an awesome group in one of Rio's favelas
+											to set up a kind of community factory
+											and micro-university.
+											These are very, very small beginnings,
+											and actually there's more people in the last week
+											who have got in touch and they're not even on this map.
+											I hope next time you see it, you won't even be able to see the map.
+									","
+											Lo que es apropiado, 
+porque en realidad
+											este enfoque no es innovador.
+											Es sobre cómo hemos 
+construido edificios
+											por cientos de años antes 
+de la revolución industrial
+											en algo parecido a las recaudaciones 
+de fondos comunitarias.
+											La única diferencia entre 
+la arquitectura vernácula tradicional
+											y la arquitectura libre
+											puede ser la conección a la red,
+											pero es una diferencia enorme.
+											Compartimos todo el WikiHouse
+											bajo una licencia 
+de Creative Commons
+											y lo que está comenzando a pasar
+											es que grupos en todo el mundo 
+están comenzando a tomarla
+											y la utilizan, hackean, 
+la desarman, es sorprendente.
+											Hay un grupo genial en 
+Christchurch, Nueva Zelanda
+											que está creando un desarrollo 
+inmobiliario post-terremoto
+											y gracias al premio TED city
+											estamos trabajando con un grupo 
+sorprendente en una de las favelas de Río
+											para desarrollar una especie 
+de fábrica comunitaria
+											y micro universidad.
+											Son comienzos muy, muy pequeños
+											y en realidad hay mucha gente 
+que se ha puesto en contacto
+											con nosotros la semana pasada 
+que ni siquiera están en este mapa.
+											Espero que la próxima vez que lo vean, 
+puedan verlos en el mapa.
+									","
+											Bu da normaldir, çünkü aslında
+											bu yaklaşım yenilikçi değildir.
+											Aslında bu yaklaşım zaten
+											Sanayi Devrimi'nden önce asırlarca bu çeşit imece usüllerinde
+											bina inşa etme metodumuzdu.
+											Geleneksel bölgesel mimari ile
+											açık kaynaklı mimari arasındaki tek fark
+											belki bir ağ bağlantısı olabilir.
+											Ancak bu gerçekten çok büyük bir fark.
+											Creative Commons lisansı altında
+											WikiHouse'un tamamını paylaştık.
+											Artık dünyanın her tarafından insanlar
+											ekip hâlinde bunu alıyor, kullanıyor, hackliyor
+											ve üstüne kafa yoruyor. Bu olağanüstü bir şey.
+											Yeni Zellanda'da Christchurch'de harika bir grup var.
+											Deprem sonrası barınak geliştirmeyi inceliyorlar.
+											TED şehir Ödülü sayesinde
+											Rio'nun favelalarından birinde muhteşem bir grupla birlikte
+											bir çeşit halk fabrikası ve küçük bir üniversite
+											kurmaya çalışıyoruz.
+											Bunlar çok küçük başlangıçlar.
+											Aslında geçen hafta temas kurup
+											bu haritada bile olmayan daha fazla insan var.
+											İnşallah bir dahaki sefere bunu gördüğünüzde haritayı seçemeyeceksiniz.
+									","
+											Et c'est approprié car, en fait,
+											cette approche n'est pas novatrice.
+											C'est en fait ainsi qu'on a construit les bâtiments
+											pendant des centaines d'années, 
+avant la Révolution Industrielle,
+											comme pour ces constructions communes.
+											La seule différence entre l'architecture traditionnelle, populaire,
+											et l'architecture open-source
+											pourrait bien être une simple connexion Internet,
+											mais c'est une très, très grande différence.
+											Nous avons partagé l'ensemble de WikiHouse
+											sous une license Creative Commons,
+											et maintenant, ce qui commence tout juste à arriver,
+											c'est que des groupes tout autour du monde
+commencent à se l'approprier,
+											à l'utiliser, à le modifier, 
+à jouer avec, et c'est incroyable.
+											Il y a un groupe sympa à Christchurch, en Nouvelle Zélande,
+											qui étudie la reconstruction post-tremblement de terre,
+											et grâce au Prix TED City,
+											nous travaillons avec un groupe incroyable
+dans des favelas de Rio
+											afin de mettre en place 
+un genre d'usine communautaire
+											et une micro-université.
+											Ce sont de très, très modestes débuts,
+											il y a eu en fait, la semaine dernière,
+plus de personnes
+											qui nous ont contactées 
+et qui ne sont pas sur cette carte.
+											J'espère que la prochaine fois, 
+on ne pourra plus voir la carte.
+									","
+											Das ist zutreffend,
+											denn dieser Ansatz ist in der Tat nicht innovativ.
+											Eigentlich haben wir Gebäude
+											seit Hunderten von Jahren
+vor der industriellen Revolution
+											in dieser Art von Gemeinde-Scheunenbau gebaut.
+											Der einzige Unterschied 
+zwischen traditioneller,
+											einheimischer Architektur und Open-source-Architektur
+											ist vielleicht eine Web-Verbindung,
+											aber das ist ein wirklich großer Unterschied.
+											Wir teilten das gesamte WikiHouse
+											unter einer ""Creative Commons""-Lizenz
+											und langsam fangen
+											Gruppen auf der ganzen Welt an,
+es anzuwenden,
+											zu benutzen und auseinander zu nehmen
+und daran zu basteln, es ist unglaublich.
+											Es gibt eine coole Gruppe
+in Christchurch in Neuseeland,
+											die sich dem Bauen nach Erdbeben widmet,
+											und Dank des TED-city-Preises
+											arbeiten wir mit einer genialen Gruppe 
+in einem von Rios Elendsquartieren daran,
+											eine Art Gemeinschaftsfabrik aufzubauen
+											sowie eine Mikro-Universität.
+											Dieses sind sehr, sehr kleine Anfänge
+											und tatsächlich gibt es mehr Menschen
+in der letzten Woche,
+											die Kontakt gesucht haben und
+noch gar nicht auf der Karte sind.
+											Ich hoffe, dass Ihr nächstes Mal
+nicht einmal mehr die Karte erkennen könnt.
+									",Architecture for the people by the people,Alastair Parvin,13:11,"architecture,design,open-source,infrastructure"
+"
+","
+","
+","
+","
+",Architecture for the people by the people,Alastair Parvin,13:11,"architecture,design,open-source,infrastructure"
+"
+											We're aware that WikiHouse is a very, very small answer,
+											but it's a small answer to a really, really big question,
+											which is that globally, right now, the fastest-growing cities
+											are not skyscraper cities.
+											They're self-made cities in one form or another.
+											If we're talking about the 21st-century city,
+											these are the guys who are going to be making it.
+											You know, like it or not, welcome to the world's biggest design team.
+									","
+											Estamos conscientes de que WikiHouse 
+es una respuesta muy, muy pequeña
+											pero es una respuesta muy pequeña
+para un problema colosal,
+											de que, hoy en día, en todo el mundo 
+las ciudades con mayor crecimiento
+											no son las ciudades con rascacielos,
+											son las ciudades hechas 
+por sí solas en cualquier forma.
+											Si hablamos de 
+la ciudad del siglo XXI
+											estos son los hombres 
+que lo van a lograr.
+											Les guste o no, sean bienvenidos al equipo 
+de diseño más grande del mundo.
+									","
+											WikiHouse'un küçük bir cevap olduğunun farkındayız.
+											Ancak bu hayli büyük bir soruya küçük bir cevap.
+											Dünya çapında şimdi en hızlı büyüyen şehirlerin
+											gökdelen şehirler olmadığına dair bir cevap.
+											En büyük şehirler o veya bu şekilde kendi kendine oluşmuş şehirler.
+											21. yüzyıl şehrinden bahsediyorsak,
+											onu inşa edecek arkadaşlar işte bunlar.
+											Biliyorsunuz, isteseniz de, istemeseniz de dünyanın en büyük tasarım ekibine merhaba deyin.
+									","
+											Nous sommes conscient que WikiHouse
+est une toute petite réponse
+											mais c'est une petite réponse 
+à une très, très grande question,
+											qui est que, à l'heure actuelle, dans le monde, 
+les villes qui grandissent le plus vite
+											ne sont pas des villes de gratte-ciels.
+											Ce sont des villes faites par les citoyens eux-mêmes, 
+d'une manière ou d'une autre.
+											Si nous parlons des villes du 21e siècle,
+											ce sont ces gens qui vont les construire.
+											Que ça vous plaise ou non, 
+voici l'équipe de design la plus grande du monde.
+									","
+											Wir sind uns bewusst, dass das WikiHouse 
+eine sehr kleine Antwort ist,
+											aber es ist eine kleine Antwort
+auf eine wirklich große Frage,
+											die lautet, dass global, gerade jetzt, 
+die am schnellsten wachsenden Städte
+											keine Wolkenkratzer-Städte sind.
+											Es sind sozusagen selbst gemachte Städte.
+											Wenn wir über die Stadt des 21. Jahrhunderts reden,
+											sind dies die Leute, die sie bauen werden.
+											Ob man es mag oder nicht:
+Willkommen im weltgrößten Design-Team.
+									",Architecture for the people by the people,Alastair Parvin,13:11,"architecture,design,open-source,infrastructure"
+"
+","
+","
+","
+","
+",Architecture for the people by the people,Alastair Parvin,13:11,"architecture,design,open-source,infrastructure"
+"
+											So if we're serious about problems
+											like climate change, urbanization and health,
+											actually, our existing development models aren't going to do it.
+											As I think Robert Neuwirth said, there isn't a bank
+											or a corporation or a government or an NGO
+											who's going to be able to do it
+											if we treat citizens only as consumers.
+											How extraordinary would it be, though, if collectively
+											we were to develop solutions not just to the problem
+											of structure that we've been working on,
+											but to infrastructure problems like solar-powered air conditioning,
+											off-grid energy, off-grid sanitation —
+											low-cost, open-source, high-performance solutions
+											that anyone can very, very easily make,
+											and to put them all into a commons
+											where they're owned by everyone and they're accessible by everyone?
+											A kind of Wikipedia for stuff?
+											And once something's in the commons,
+											it will always be there.
+											How much would that change the rules?
+											And I think the technology's on our side.
+									","
+											Si tomamos los problemas serios
+											como el cambio climático, 
+la urbanización y la salud,
+											nuestros modelos de desarrollo 
+actuales no van a funcionar.
+											Cómo Robert Neuwirth dijo, 
+no hay un banco
+											o corporación o gobierno o ONG
+											que pueda logarlo
+											si seguimos tratando a los ciudadanos 
+sólo como consumidores.
+											Sin embargo, sería extraordinario 
+si pudiéramos en conjunto
+											desarrollar soluciones 
+no sólo para el problema
+											estructural en el que 
+hemos estado trabajando
+											sino para otros problemas de infraestructura 
+como aire acondicionado con energía solar,
+											energía autosuficiente, 
+sanidad autosuficiente:
+											soluciones de bajo costo, 
+libre acceso y de alto desempeño
+											que todos podamos 
+hacer muy fácilmente
+											y compartirlo todo con todos
+											en dónde todos sean los dueños 
+y sean accesibles para todos.
+											Una especie de Wikipedia de cosas.
+											En donde una vez que 
+algo pase a ser de todos,
+											se quede ahí para siempre.
+											¿Cuánto cambiarían las reglas así?
+											Creo que la tecnología 
+está a nuestro favor.
+									","
+											Yani, eğer iklim değişimi, kentleşme ve sağlık gibi
+											sıkıntılar konusunda ciddiysek,
+											hâlihazırdaki gelişim modellerimiz aslında çözüm sunmayacaktır.
+											Zannediyorum Robert Neuwirth'in dediği gibi,
+											vatandaşlara sadece tüketici muamelesi yaparsak
+											bunu halledebilecek ne banka, ne şirket,
+											ne hükümet, ne de STK mevcut değil.
+											Aslında eğer sadece beraber üzerinde çalıştığımız
+											yapıyla ilgili sorunlara çözüm geliştirmekle kalmayıp,
+											güneş enerjisiyle çalışan klima, şebekeden bağımsız enerji
+											ve sıhhi tesisat gibi altyapı problemlerine de
+											çözümler geliştirsek,
+											yani herkesin çok kolay sahip olabileceği, düşük maliyetli,
+											açık kaynaklı, yüksek performanslı çözümler,
+											bunları da herkesin sahip olup erişebileceği bir ortamda paylaşsak
+											ne kadar da sıradışı olurdu.
+											Farklı amaçlar için oluşturulmuş Wikipedia (Vikipedi) gibi.
+											Ortak kullanıma bir kez girdi mi
+											artık hep orada kalır.
+											Bu durum kuralları ne kadar değiştirir?
+											Bence teknoloji de bizden yana.
+									","
+											Si nous envisageons sérieusement les problèmes
+											comme le changement climatique, 
+l'urbanisation et la santé,
+											en fait, nos modèles de développement existants 
+ne feront pas l'affaire.
+											Je pense que c'est Robert Neuwirth 
+qui a dit qu'il n'y a pas une banque,
+											une société, un gouvernement ou une ONG
+											qui y arrivera,
+											si nous ne traitons les citoyens 
+que comme des consommateurs.
+											Ce serait extraordinaire, toutefois, si collectivement
+											nous développions des solutions,
+pas seulement au problème structurel
+											sur lequel nous travaillons,
+											mais aussi aux problèmes infrastructurels, 
+comme l'air conditionné fonctionnant au solaire,
+											l'énergie et les installations sanitaires hors-réseau,
+											des solutions à bas coût, 
+haute performance et open-source,
+											que chacun puisse très aisément fabriquer
+											et si nous les mettions sur la place publique,
+											où elles seront à tout le monde, accessibles par tout le monde.
+											Un genre de Wikipedia pour les objets.
+											Et une fois qu'une chose est sur la place publique,
+											elle y reste pour toujours.
+											Comme cela changerait les choses !
+											Et je pense que la technologie est de notre côté.
+									","
+											Wenn wir Probleme
+											wie Klimawandel, Urbanisierung 
+und Gesundheit ernst nehmen,
+											werden unsere bestehenden 
+Entwicklungsmodelle das nicht schaffen.
+											Wie Robert Neuwirth sagte, es gibt keine Bank
+											oder Unternehmen oder Regierung oder NGO,
+											die in der Lage sein wird es zu tun,
+											wenn wir Bürger nur als Verbraucher betrachten.
+											Wie außerordentlich wäre es,
+wenn wir gemeinsam
+											Lösungen nicht nur zu dem strukturellen Problem,
+											an dem wir gerade arbeiten,
+entwickeln könnten,
+											sondern auch für Infrastrukturprobleme
+wie solarbetriebene Klimaanlagen,
+											netzunabhängige Energien, 
+netzunabhängige Abwassersysteme –
+											kostengünstige, open-sourced 
+Hochleistungslösungen,
+											die jeder sehr leicht machen kann,
+											und alles frei zugänglich machen,
+											so dass sie im Besitz von allen sind
+und jedem zur Verfügung stehen?
+											Eine Art Wikipedia für Sachen?
+											Und sobald es im Gemeinschaftsbesitz ist
+											wird es immer da sein.
+											In wieweit würde das die Regeln ändern?
+											Und ich denke die Technik ist auf unserer Seite.
+									",Architecture for the people by the people,Alastair Parvin,13:11,"architecture,design,open-source,infrastructure"
+"
+","
+","
+","
+","
+",Architecture for the people by the people,Alastair Parvin,13:11,"architecture,design,open-source,infrastructure"
+"
+											If design's great project in the 20th century
+											was the democratization of consumption —
+											that was Henry Ford, Levittown, Coca-Cola, IKEA —
+											I think design's great project in the 21st century
+											is the democratization of production.
+											And when it comes to architecture in cities,
+											that really matters.
+											Thank you very much.
+											(Applause)
+									","
+											Si el gran proyecto de 
+diseño en el siglo XX
+											fue la democratización del consumo,
+											con Henry Ford, Levittown, 
+Coca-Cola, IKEA,
+											creo que el gran proyecto 
+del diseño en el siglo XXI
+											es la democratización de la producción.
+											Y cuando hablamos 
+de arquitectura urbana,
+											eso es sumamente importante.
+											Muchas gracias.
+											(Aplausos)
+									","
+											20. yüzyılda tasarımın büyük projesi
+											tüketimin demokratikleşmesiyse,
+											burada Henry Ford'dan, Levittown'dan, Coca-Cola ve IKEA'dan bahsediyorum,
+											bence tasarımın 21. yüzyıldaki büyük projesi de
+											üretimin demokratikleşmesidir.
+											Mevzu şehirlerdeki mimariye geldiğinde
+											bu hayli önem arz eder.
+											Çok teşekkür ederim.
+											(Alkış)
+									","
+											Si le grand projet du design du 20e siècle
+											était la démocratisation de la consommation -
+											c'était Henry Ford, Levittown, Coca-Cola, IKEA -
+											je pense que le grand projet du design du 21e siècle
+											c'est la démocratisation de la production.
+											Et quand il s'agit d'architecture dans les ville,
+											ça a vraiment son importance.
+											Merci beaucoup.
+											(Applaudissements)
+									","
+											Wenn das größte Design-Projekt im 20. Jahrhundert
+											Demokratisierung des Konsums war –
+											das waren Henry Ford, Levittown, Coca-Cola, IKEA –
+											ist das große Design-Projekt im 21. Jahrhundert,
+											denke ich, die Demokratisierung der Produktion.
+											Und wenn es um Architektur in Städten geht,
+											dann ist dies wirklich wichtig.
+											Vielen Dank.
+											(Beifall)
+									",Architecture for the people by the people,Alastair Parvin,13:11,"architecture,design,open-source,infrastructure"
+"
+","
+","
+","
+","
+",Architecture for the people by the people,Alastair Parvin,13:11,"architecture,design,open-source,infrastructure"

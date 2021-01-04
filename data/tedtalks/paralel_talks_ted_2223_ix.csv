@@ -1,0 +1,752 @@
+en,es,tr,fr,de,title,speaker,duration,tags
+"
+","
+","
+","
+","
+",How computer memory works,Kanawat Senanan,4:49,"design,engineering,technology,computers,history,animation,TED-Ed,memory,invention,innovation"
+"
+											In many ways, 
+our memories make us who we are,
+											helping us remember our past,
+											learn and retain skills,
+											and plan for the future.
+											And for the computers that often act
+as extensions of ourselves,
+											memory plays much the same role,
+											whether it's a two-hour movie,
+											a two-word text file,
+											or the instructions for opening either,
+											everything in a computer's memory
+takes the form of basic units called bits,
+											or binary digits.
+											Each of these is stored in a memory cell
+											that can switch between two states
+for two possible values,
+											0 and 1.
+											Files and programs consist of millions
+of these bits,
+											all processed in 
+the central processing unit,
+											or CPU,
+											that acts as the computer's brain.
+											And as the number of bits needing
+to be processed grows exponentially,
+											computer designers face 
+a constant struggle
+											between size, cost, and speed.
+											Like us, computers have short-term memory
+for immediate tasks,
+											and long-term memory 
+for more permanent storage.
+											When you run a program,
+											your operating system allocates area
+within the short-term memory
+											for performing those instructions.
+											For example, when you press a key
+in a word processor,
+											the CPU will access one of these locations
+to retrieve bits of data.
+											It could also modify them,
+or create new ones.
+											The time this takes is known 
+as the memory's latency.
+											And because program instructions must be
+processed quickly and continuously,
+											all locations within the short-term memory
+can be accessed in any order,
+											hence the name random access memory.
+											The most common type of RAM 
+is dynamic RAM, or DRAM.
+											There, each memory cell consists
+of a tiny transistor and a capacitor
+											that store electrical charges,
+											a 0 when there's no charge,
+or a 1 when charged.
+											Such memory is called dynamic
+											because it only holds charges briefly
+before they leak away,
+											requiring periodic recharging
+to retain data.
+											But even its low latency 
+of 100 nanoseconds
+											is too long for modern CPUs,
+											so there's also a small, 
+high-speed internal memory cache
+											made from static RAM.
+											That's usually made up 
+of six interlocked transistors
+											which don't need refreshing.
+											SRAM is the fastest memory 
+in a computer system,
+											but also the most expensive,
+											and takes up three times 
+more space than DRAM.
+											But RAM and cache can only hold data
+as long as they're powered.
+											For data to remain
+once the device is turned off,
+											it must be transferred 
+into a long-term storage device,
+											which comes in three major types.
+											In magnetic storage, 
+which is the cheapest,
+											data is stored as a magnetic pattern on
+a spinning disc coated with magnetic film.
+											But because the disc must rotate 
+to where the data is located
+											in order to be read,
+											the latency for such drives is 100,000 
+times slower than that of DRAM.
+											On the other hand, optical-based storage
+like DVD and Blu-ray
+											also uses spinning discs,
+											but with a reflective coating.
+											Bits are encoded as light and dark spots
+using a dye that can be read by a laser.
+											While optical storage media are cheap
+and removable,
+											they have even slower latencies 
+than magnetic storage
+											and lower capacity as well.
+											Finally, the newest and fastest types of
+long-term storage are solid-state drives,
+											like flash sticks.
+											These have no moving parts,
+											instead using floating gate transistors
+											that store bits by trapping 
+or removing electrical charges
+											within their specially designed 
+internal structures.
+											So how reliable 
+are these billions of bits?
+											We tend to think of computer memory
+as stable and permanent,
+											but it actually degrades fairly quickly.
+											The heat generated from a device
+and its environment
+											will eventually demagnetize hard drives,
+											degrade the dye in optical media,
+											and cause charge leakage 
+in floating gates.
+											Solid-state drives 
+also have an additional weakness.
+											Repeatedly writing to floating gate 
+transistors corrodes them,
+											eventually rendering them useless.
+											With data on most current storage media
+											having less than 
+a ten-year life expectancy,
+											scientists are working to exploit
+the physical properties of materials
+											down to the quantum level
+											in the hopes of making 
+memory devices faster,
+											smaller,
+											and more durable.
+											For now, immortality remains out of reach,
+for humans and computers alike.
+									","
+											En muchos sentidos,
+nuestros recuerdos nos representan,
+											nos ayuda a recordar nuestro pasado,
+											aprender y mantener habilidades,
+											y planificar el futuro.
+											Y para la computadora que actúa
+como una extensión de nosotros mismos,
+											la memoria juega el mismo papel,
+											sea que se trata de una
+película de dos horas,
+											un archivo de texto de dos palabras,
+											o las instrucciones para
+ponerla en marcha;
+											y toda su memoria tiene 
+como unidades básicas
+											las denominadas bits
+o dígitos binarios.
+											Cada uno de estos se almacena
+en una celda de memoria
+											cuyo estado puede variar
+entre dos valores posibles,
+											0 y 1.
+											Los archivos y los programas
+contienen millones de estos bits,
+											que están procesados dentro de la
+unidad de procesamiento central,
+											o CPU,
+											que actúa como el cerebro
+de la computadora.
+											Y conforme crece exponencialmente 
+la cantidad de bits que procesan,
+											los diseñadores de computadoras
+intentan constantemente solucionar
+											el problema del tamaño,
+costo y velocidad.
+											Al igual que nosotros,
+											las computadoras tienen memoria
+a corto plazo para las tareas inmediatas,
+											y memoria a largo plazo para 
+el almacenamiento permanente.
+											Cuando se ejecuta un programa,
+											su sistema operativo asigna un espacio
+dentro de la memoria a corto plazo
+											para las dichas instrucciones.
+											Por ejemplo, al pulsar una tecla
+en un procesador de texto,
+											la CPU accederá a uno de estos lugares
+para recuperar los bits de datos.
+											También podría modificarlos
+o crear otros nuevos.
+											El tiempo necesario para hacerlo
+se conoce como la latencia de la memoria.
+											Y debido a que las instrucciones
+de cada programa deben ser
+											procesadas rápidamente
+y de forma continua,
+											se puede acceder a cualquier espacio
+dentro de la memoria a corto plazo
+											en cualquier orden,
+											y de ahí el nombre de memoria
+de acceso aleatorio, o RAM.
+											El tipo más común de memoria RAM
+es memoria RAM dinámica, o DRAM.
+											Allí, cada celda consta de un pequeño
+transistor y un condensador
+											que almacenan cargas eléctricas,
+											representada con un 0 cuando
+no está cargada o un 1 cuando lo está.
+											Dicha memoria se llama dinámica
+											porque mantiene una carga
+brevemente antes de perderla,
+											y necesita recargarse
+periódicamente para retener datos.
+											Pero incluso su baja latencia,
+de unos 100 nanosegundos,
+											es demasiado para las CPU modernas,
+											así que también hay una pequeña caché
+de memoria interna de alta velocidad
+											compuesta por RAM estática.
+											Esto significa por lo general
+seis transistores entrelazados
+											que no necesitan recarga.
+											La SRAM es la memoria más rápida
+dentro de un sistema operativo
+											pero también la más cara
+											y ocupa tres veces más
+espacio que la DRAM.
+											Pero la memoria RAM y caché
+pueden almacenar datos solo
+											siempre y cuando tengan
+una fuente de alimentación.
+											Para que los datos no se pierdan
+una vez que se apaga el dispositivo
+											hay que transferirlos en un dispositivo
+de almacenamiento a largo plazo.
+											Existen tres tipos principales.
+											En un almacenamiento magnético,
+que es el más barato,
+											los datos se almacenan
+según un patrón magnético
+											en un disco giratorio cubierto
+con una película magnética.
+											Pero debido a que el disco debe girar
+para encontrar donde están los datos
+											para poder leerlos,
+											la latencia de estas unidades
+es 100 000 veces más lentas
+											que la de una DRAM.
+											Por otro lado, el almacenamiento
+óptico, como el DVD y Blu-ray,
+											también usa discos giratorios
+											pero presenta
+un revestimiento reflectante.
+											Los bits se codifican como
+puntos de luz u oscuros
+											con la ayuda un colorante que
+puede ser leído por un láser.
+											Mientras que los medios
+de almacenamiento óptico
+											son baratos y desmontables,
+											su latencia supera la del
+almacenamiento magnético
+											y presentan una menor capacidad también.
+											Por último, los tipos más nuevos y más
+rápidos de almacenamiento a largo plazo
+											son las unidades de estado sólido,
+como la memoria flash.
+											Estos no tienen partes móviles,
+											y usan transistores de puerta flotante
+											que almacenan datos atrapando
+o eliminando cargas eléctricas
+											dentro de sus estructuras internas
+especialmente diseñadas.
+											Entonces, ¿son fiables estos 
+miles de millones de bits?
+											Tendemos pensar que la memoria de una
+computadora es algo estable y permanente,
+											pero en realidad se degrada
+con bastante rapidez.
+											El calor generado por sus 
+dispositivos y su entorno
+											desmagnetizará un disco duro,
+											degradará el colorante
+de un soporte óptico,
+											y causará fugas de carga
+en puertas flotantes.
+											Las unidades de estado sólido también
+presentan una debilidad adicional.
+											El uso repetido de los transistores
+de puerta flotante les corroe
+											hasta dejarlos inservibles.
+											A partir de los datos presentes en 
+los medios de almacenamiento actual
+											y con una esperanza de vida
+de menos de 10 años,
+											los científicos intentan explotar las 
+propiedades físicas de los materiales
+											hasta el nivel cuántico
+											con la esperanza de hacer
+estos dispositivos de memoria
+											más rápidos, más pequeños
+y más duraderos.
+											Por ahora, la inmortalidad
+queda fuera del alcance,
+											tanto para los seres humanos
+como para las computadoras.
+									","
+											Birçok açıdan hafızamız; bizi biz yapar,
+											geçmişimizi hatırlamamıza,
+											öğrenmemize, yeteneklerimizi sürdürmemize
+											ve gelecek planlamamıza yardımcı olur.
+											Bilgisayarlarda ise durum bizdeki gibidir,
+											bellek neredeyse aynı roldedir;
+											iki saatlik film olsun ya da
+											iki kelimeli bir yazı dosyası veya
+											açılış komutları.
+											Bilgisayar belleğindeki her şey
+bitler veya ikili sayılar (binary digit)
+											denilen temel formu alır.
+											Her biri, iki olası durum olan 0 ve 1
+											değerleri arasında değişebilen 
+
+											bellek hücrelerinde saklanırlar.
+											Dosyalar ve programlar bu bitlerin
+milyonlarcasından oluşurlar
+											ve hepsi bilgisayarda beyin görevi gören
+											merkezi işlem ünitesi
+											CPU'da işlenir.
+											İşlenmesi gereken bit sayısı
+üssel olarak büyüdükçe
+											bilgisayar tasarımcıları
+boyut, maliyet ve hız
+											arasındaki mücadeleyle karşılaşırlar.
+											Bizim gibi, bilgisayarlarda anlık 
+işlemler için kısa ömürlü belleğe,
+											sürekli saklama için ise
+uzun ömürlü belleğe sahiptirler.
+											Bir program çalıştırdığınızda
+											komutları gerçekleştirmek için
+işletim sisteminiz kısa ömürlü
+											bellek içerisinde alan tahsis eder.
+											Örneğin; kelime işlemcisinde bir
+tuşa bastığınızda
+											CPU, verinin bitlerini okumak için
+bu yerlerden birine erişir.
+											Değiştirebilir veya yenisini
+oluşturabilir.
+											Geçen süre, belleğin gecikme süresi
+olarak bilinir.
+											Program komutlarının hızlı ve aralıksız 
+işlenmesi gerektiğinden
+											kısa ömürlü bellekteki her yere 
+herhangi bir sırada erişilebilir,
+											dolayısıyla ismi
+(RAM) Rastgele Erişimli Bellek'tir.
+											En çok bilinen RAM türü
+dinamik RAM yani DRAM' dir.
+											Bellekte, her bellek hücresi 
+elektriksel yük barındıran;
+											yüksüzken 0, yüklü iken 1 olan,
+											küçük bir transistör ve 
+kapasitörden oluşur.
+											Bu tür belleklere dinamik denir,
+											çünkü tekrardan veri tutmak için 
+periyodik yüklenme gerektirdiğinden
+											kısa bir süre yüklü kalırlar.
+											100 nanosaniye gibi düşük bir gecikme bile
+											modern CPU'lar için oldukça fazladır.
+											Bu yüzden ayrıca statik RAM'den
+yapılan küçük, yüksek hızlı
+											dâhilî önbellek vardır.
+											Genellikle yenilemeye
+gerek duymayan 6 adet
+											kilitlemeli transistörden oluşur.
+											SRAM bilgisayardaki en hızlı aynı zamanda
+											en pahalı bellektir
+											ve DRAM'den 3 kat daha fazla yer kaplar.
+											Ancak RAM ve önbellek güç kaynağı
+açık olduğu sürece veri tutabilir.
+											Cihaz kapatıldığında verilerin
+kaybolmaması için
+											veriler, üç ana türü olan
+uzun süreli saklama
+											aygıtlarına transfer edilmelidir.
+											En ucuzu olan manyetik bellekte veriler,
+											manyetik film ile kaplanmış
+
+											dönen bir diskte manyetik olarak saklanır.
+											Veri, sıralı olduğundan okunabilmesi için
+											diskin dönmesi gerekir
+											ve bu tarz sürücülerde gecikme
+DRAM'den 100.00 kez daha yavaştır.
+											Öte yandan DVD ve Blu-ray gibi
+											optik tabanlı depolayıcılarda
+											döner diskler kullanır
+											ancak yansıtıcı kaplamaya sahiptirler.
+											Bitler, lazer tarafından okunabilen
+
+											siyah ve beyaz noktalar
+olarak kodlanmıştır.
+											Optik depolama ortamları 
+ucuz ve taşınabilirken,
+											manyetik belleklere göre daha yavaş
+											ve daha düşük kapasiteye sahiptirler.
+											Son olarak, en yeni ve en hızlı uzun
+											ömürlü bellek türü 
+katı hal sürücüleri (SSD)
+											flash bellek gibidir.
+											Hareketli parçaları yoktur,
+											onun yerine, özel olarak 
+tasarlanan iç yapısında
+											elektrik yüklerini yakalayarak 
+veya kaldırarak bitleri depolayan
+											kayan geçit transistörleri kullanırlar.
+											Peki bu milyarlarca bit
+ne kadar güvenilirdir?
+											Bilgisayar belleğinin değişmez
+											ve daimi olduğunu düşünürüz
+											ancak oldukça kolay bozulur.
+											Cihazın ve ortamının oluşturduğu ısı,
+											zamanla sabit diski manyetiksizleştirir,
+											optik cihazdaki rengi bozar
+											ve kayan geçitlerde
+güç sızıntısına sebep olur.
+											SSD'lerin ek bir zaafı vardır.
+											Kayan geçit transistörleri,
+defaatle yazmakla aşınır,
+											zamanla kullanışsızlaşır.
+											Veri saklanmış çoğu depolama araçları
+											on yıldan daha az ömre sahiptir,
+											bilim insanları malzemelerin
+fiziksel özelliklerinden
+											kuantum seviyesine kadar 
+yararlanmaya çalışıyorlar,
+											bellek aygıtlarını daha hızlı,
+											küçük,
+											ve daha dayanıklı kılma umuduyla.
+											Şu an için ölümsüzlük erişilemez,
+insanlar ve bilgisayarlar için.
+									","
+											De bien des façons, nos souvenirs
+constituent ce que nous sommes,
+											nous aident à nous remémorer notre passé,
+											à apprendre et retenir des compétences,
+											et à planifier l'avenir.
+											Et les ordinateurs, qui agissent souvent
+comme des extensions de nous-mêmes,
+											la mémoire joue le même rôle,
+											que ce soit un film de deux heures,
+											un fichier texte de deux mots,
+											ou les instructions pour les ouvrir,
+											tout dans la mémoire d'un ordinateur prend
+la forme d'unités de base appelées bits,
+											ou chiffres binaires.
+											Chacun d'eux est stocké 
+dans une mémoire cellulaire,
+											qui peut basculer entre deux états,
+											0 et 1.
+											Les fichiers et les programmes 
+se composent de millions de ces bits,
+											tous traités dans le processeur central,
+											aussi appelé CPU,
+											qui agit comme le cerveau de l'ordinateur.
+											Alors que le nombre de bits à traiter
+croît de façon exponentielle,
+											les concepteurs d'ordinateurs
+sont confrontés à une lutte constante,
+											entre la taille, le coût et la vitesse.
+											Comme nous, les ordinateurs possèdent
+une mémoire à court terme
+											pour les tâches immédiates,
+											et une à long terme,
+pour le stockage permanent.
+											Lorsque vous exécutez un programme,
+											votre système d'exploitation attribue 
+une zone de la mémoire à court terme
+											pour exécuter ces instructions.
+											Par exemple, lorsque vous appuyez 
+sur une touche d'un traitement de texte,
+											le CPU accède à l'un de ces endroits
+pour récupérer des éléments de données.
+											Il pourrait aussi les modifier
+ou en créer de nouveaux.
+											Le temps que cela prend
+s'appelle la latence de la mémoire.
+											Les instructions du programme devant
+être traitées rapidement et en continu,
+											toutes les zones 
+de la mémoire à court terme,
+											sont accessibles 
+dans n'importe quel ordre,
+											d'où le nom de RAM,
+« mémoire à accès aléatoire » .
+											Le type de RAM le plus courant,
+est la RAM dynamique ou DRAM.
+											Chaque cellule de mémoire est constituée
+d'un petit transistor et d'un condensateur
+											qui stockent des charges électriques,
+											un 0 lorsqu'elles ne sont pas chargées,
+ou 1 lorsqu'elles le sont.
+											On caractérise cette mémoire de dynamique,
+											car elle retient des charges brièvement,
+avant qu'elles ne s'échappent,
+											et nécessite d'être rechargée 
+périodiquement pour conserver des données.
+											Mais même sa faible latence
+de 100 nanosecondes
+											est trop longue pour les CPU modernes.
+											Il existe donc aussi une petite
+mémoire cache interne, à grande vitesse,
+											fabriquée à partir de la RAM statique.
+											Elle est habituellement composée
+de six transistors reliés entre eux,
+											et qui n'ont pas besoin d'être rechargés.
+											SRAM est la mémoire la plus rapide
+dans un système informatique,
+											mais aussi celle qui coûte le plus cher,
+											et qui prend trois fois plus
+d'espace que la DRAM.
+											La RAM et le cache ne peuvent contenir 
+des données que lorsqu'ils sont alimentés.
+											Pour que les données soient sauvegardées,
+une fois l'appareil est éteint,
+											elles doivent être transférées dans 
+une unité de stockage à long terme,
+											qui existe en trois différents types.
+											Dans le stockage magnétique,
+qui est le moins cher,
+											les données sont stockées sous la forme 
+d'un modèle magnétique,
+											sur un disque rotatif codé 
+dans un film magnétique.
+											Vu que le disque doit tourner à l'endroit
+où se trouvent les données,
+											pour être lu,
+											la latence de ces disques est 100 000 fois
+plus lente que celle de la DRAM.
+											D'autre part, le stockage optique,
+comme les DVD et Blu-ray,
+											utilise également des disques rotatifs,
+											mais dont le revêtement est réfléchissant.
+											Les bits sont codés comme des taches 
+colorées pouvant être lues par un laser.
+											Même si le stockage optique de médias
+n'est pas cher et est amovible,
+											sa latence est encore plus lente
+que celle du stockage magnétique,
+											et sa capacité est également plus faible.
+											Enfin, les types de stockage les plus 
+récents et rapides sont les disques SSD,
+											comme les clés USB.
+											Elles n'ont pas de pièces amovibles,
+											mais utilisent des transistors
+à grille flottante
+											qui stockent les bits en piégeant
+ou supprimant les charges électriques,
+											dans leur structures internes
+spécialement conçues à cet effet.
+											À quel point ces milliards de bits
+sont-ils fiables ?
+											Nous pensons que la mémoire
+d'un ordinateur est stable et permanente,
+											mais en réalité, elle se dégrade
+assez rapidement.
+											La chaleur générée par 
+un appareil et son environnement
+											finira par démagnétiser les disques durs,
+											dégrader le colorant des disques optiques,
+											et provoquer une fuite dans
+les grilles flottantes.
+											Les disques SSD possèdent également
+une faiblesse supplémentaire.
+											La transmission répétitive aux transistors
+à grille flottante les corrode,
+											les rendant en définitive inutiles.
+											Avec des données sur la plupart
+des supports de stockage actuels,
+											et dont l'espérance de vie
+est de moins de dix ans,
+											les scientifiques cherchent à exploiter
+les propriétés physiques des matériaux,
+											jusqu'au niveau quantique,
+											afin de créer des dispositifs
+de mémoire plus rapides,
+											plus petits,
+											et plus durables.
+											À ce jour, l'immortalité est hors
+de portée des humains,
+											ainsi que pour les ordinateurs.
+									","
+											In vielerlei Hinsicht macht
+unser Gedächtnis aus, wer wir sind.
+											Mit ihm erinnern wir uns an Geschehenes,
+											lernen und behalten Fähigkeiten
+
+											und schmieden Zukunftspläne.
+											Für Computer, die uns oft
+als Erweiterung unserer selbst dienen,
+											spielt das Gedächtnis eine ähnliche Rolle.
+											Sei es ein zweistündiger Film,
+											eine Textdatei aus zwei Wörtern,
+
+											oder Befehle zum Öffnen dieser Dateien —
+											alles in einem Computerspeicher hat 
+die Form von Bits, also Grundeinheiten,
+											oder auch Binärziffern.
+											Sie sind alle in einer Zelle gespeichert,
+											die zwischen zwei Zuständen 
+für zwei mögliche Werte wechseln kann,
+											nämlich 0 und 1.
+											Dateien und Pogramme bestehen 
+aus Millionen dieser Bits,
+											die alle in einem Prozessor
+verarbeitet werden,
+											kurz CPU für Central Processing Unit.
+											Er ist wie das Gehirn eines Computers.
+											Weil die Anzahl zu verarbeitender Bits
+exponentiell ansteigt,
+											stehen Computerdesigner ständig
+vor der Schwierigkeit,
+
+											Größe, Kosten und 
+Geschwindigkeit zu vereinen.
+											Computer haben ein Kurzzeitgedächtnis 
+für sofort auszuführende Aufgaben,
+											und ein Langzeitgedächnits
+für einen langfristigen Speicher.
+											Wenn ein Programm läuft,
+											stellt das Betriebssystem Bereiche 
+im Kurzzeitgedächtnis dafür ab,
+											diese Befehle auszuführen.
+											Drückst du zum Beispiel eine Taste
+in einem Textverarbeitungsprogramm,
+											ruft der Prozessor einen Bereich ab,
+um Datenteile abzufragen.
+											Er kann sie auch verändern 
+oder neue erstellen.
+											Die hierzu benötigte Zeit 
+nennt man Speicherlatenz.
+											Weil Programmbefehle schnell 
+und laufend verarbeitet werden müssen,
+											können alle Bereiche im Kurzzeitgedächtnis
+											in beliebiger Reihenfolge
+abgerufen werden.
+											Daher der Name RAM (Random Access Memory)
+oder Direktzugriffsspeicher.
+											Am geläufigsten ist der dynamische RAM, 
+auch DRAM genannt.
+											Hier besteht jede Speicherzelle aus einem 
+winzigen Transistor und einem Kondensator,
+											die elektrische Ladungen speichern.
+											Eine 0 steht für keine Ladung,
+eine 1 für Ladung.
+											Man sagt dynamischer Speicher,
+											weil Ladungen nur kurz gespeichert werden,
+bevor sie entweichen.
+											Zum Speichern von Daten muss
+periodisch nachgeladen werden.
+											Doch selbst die kurze Latenz
+von 100 Nanosekunden
+											ist für moderne Prozessoren zu lang.
+											Deshalb gibt es einen kleinen internen
+High-Speed-Zwischenspeicher
+											aus statischem RAM.
+											Er besteht meist aus sechs
+verbundenen Transistoren,
+											die nicht aufgefrischt werden müssen.
+											SRAM ist der schnellste Speicher 
+für Computersysteme,
+											aber auch der teuerste,
+											und er braucht bis zu drei Mal 
+mehr Platz als DRAM.
+											RAM und Zwischenspeicher können Daten 
+aber nur bei Stromzufuhr behalten.
+											Damit Daten bei abgeschaltetem Gerät
+gespeichert bleiben,
+											muss man sie auf ein
+Langzeitspeichermedium überspielen.
+											Davon gibt es drei Hauptarten:
+											Der günstigste ist der Magnetspeicher.
+											Daten werden als Magnetmuster
+											auf eine rotierende Scheibe
+mit Magnetfilm gespeichert.
+											Doch die Scheibe muss sich dorthin
+drehen, wo die Daten sind,
+											damit sie gelesen wird.
+
+											Deshalb ist die Latenz solcher Speicher 
+100 000-mal langsamer als die vom DRAM.
+											Auch optische Speichermedien
+wie DVD und Blu-ray
+											nutzen rotierende Scheiben,
+											aber mit einer reflektierenden Schicht.
+											Bits werden mit einer von Lasern lesbaren
+Farbe als helle und dunke Stellen kodiert.
+											Optische Speichermedien sind 
+günstig und können entfernt werden,
+											haben aber noch längere Latenzen
+als Magnetspeicher
+											und eine geringere Kapazität.
+											Die neuesten, schnellsten Langzeitspeicher
+sind Solid-State-Speicher,
+											zum Beispiel Flash Sticks.
+											Sie haben keine beweglichen Teile,
+											sondern Floating-Gate-Transistoren,
+											die auf ihren speziellen
+inneren Strukturen Bits speichern,
+											indem elektrische Ladungen 
+eingeschlossen oder entfernt werden.
+											Aber wie verlässlich sind 
+diese Milliarden Bits?
+											Wir stellen uns den Computerspeicher 
+oft stabil und dauerhaft vor,
+											doch tatsächlich baut er recht schnell ab.
+											Die Hitze des Geräts und aus der Umgebung
+											entmagnetisiert
+die Festplatte nach und nach,
+											zersetzt die Farbe in optischen Speichern
+											und führt zu Ladungsverlusten
+in Floating Gates.
+											Solid-State-Speicher haben einen
+weiteren Schwachpunkt.
+											Werden Floating-Gate-Transistoren öfters 
+beschrieben, nutzen sie sich ab,
+											wodurch sie unbrauchbar werden.
+											Da die Daten auf neuesten Speichermedien
+											eine Lebenserwartung von 
+weniger als 10 Jahren haben,
+											versuchen Wissenschaftler, physikalische
+Eigenschaften der Materialien
+											bis auf die Quantenebene auszunutzen.
+											Sie hoffen, Speichermedien so schneller,
+											kleiner
+											und langlebiger zu machen.
+											Noch ist ewiges Leben außer Reichweite —
+sowohl für Menschen als auch Computer.
+									",How computer memory works,Kanawat Senanan,4:49,"design,engineering,technology,computers,history,animation,TED-Ed,memory,invention,innovation"
+"
+","
+","
+","
+","
+",How computer memory works,Kanawat Senanan,4:49,"design,engineering,technology,computers,history,animation,TED-Ed,memory,invention,innovation"

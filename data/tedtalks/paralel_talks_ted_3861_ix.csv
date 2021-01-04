@@ -1,0 +1,2788 @@
+en,es,tr,fr,de,title,speaker,duration,tags
+"
+","
+","
+","
+","
+",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+											So I want to talk today about an idea. It's a big idea.
+											Actually, I think it'll eventually
+											be seen as probably the single biggest idea
+											that's emerged in the past century.
+											It's the idea of computation.
+											Now, of course, that idea has brought us
+											all of the computer technology we have today and so on.
+											But there's actually a lot more to computation than that.
+											It's really a very deep, very powerful, very fundamental idea,
+											whose effects we've only just begun to see.
+									","
+											Me gustaría hablar hoy sobre una idea. Es una gran idea.
+											De hecho, creo que eventualmente
+											será vista probablemente como la idea más grande
+											que haya surgido en el siglo pasado.
+											Es la idea de la computación.
+											Ahora bien, esta idea nos ha traído
+											toda la tecnología computacional que tenemos hoy en día.
+											Pero hay más en la computación que todo eso.
+											Es una idea muy profunda, muy poderosa, muy fundamental,
+											cuyos efectos estamos justo empezando a vislumbrar
+									","
+											Bugün bir fikir hakkında konuşmak istiyorum. Büyük bir fikir.
+											Aslında, bu fikrin sonunda,
+											geçtiğimiz yüzyılda çıkmış tek büyük
+											fikir olarak görüleceğini düşünüyorum.
+											Bu hesaplama fikridir.
+											Şimdi, elbette ki bu fikir bize bugün
+											sahip olduğumuz bütün bilgisayar teknolojisini de getirdi.
+											Ama aslında hesaplama fikrinin daha çok işi var.
+											Bu çok derin, çok güçlü, çok temel bir fikir ve
+											bunun etkilerini yeni görmeye başladık.
+									","
+											Je voudrais parler aujourd'hui d'une idée. C'est une grande idée.
+											En fait, je pense qu'on finira par
+											la considérer comme sans doute la plus grande idée
+											qui ait émergé au cours du siècle passé.
+											C'est l'idée de calcul.
+											Bien sûr, cette idée nous a apporté
+											toute la technologie computationnelle que nous avons aujourd'hui
+											Mais il y a en fait beaucoup plus que ça dans le calcul.
+											C'est vraiment une idée vraiment très profonde, très puissante, très fondamentale,
+											dont nous avons à peine commencé à voir les effets.
+									","
+											Ich möchte heute über ein Konzept sprechen. Es ist ein großes Konzept.
+											Eigentlich glaube ich, dass es möglicherweise
+											als das bedeutendste Konzept angesehen werden kann,
+											das sich im letzten Jahrhundert entwickelt hat.
+											Es ist die Idee der Berechnung.
+											Nun, natürlich brachte uns dieses Konzept
+											alles an Computertechnologie, was wir heute haben und so weiter.
+											Aber da gibt es eigentlich viel mehr zu berechnen als das.
+											Es ist ein sehr tiefes, sehr starkes, sehr elementares Konzept.
+											dessen Auswirkungen wir gerade erst beginnen zu erkennen.
+									",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+","
+","
+","
+","
+",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+											Well, I myself have spent the past 30 years of my life
+											working on three large projects
+											that really try to take the idea of computation seriously.
+											So I started off at a young age as a physicist
+											using computers as tools.
+											Then, I started drilling down,
+											thinking about the computations I might want to do,
+											trying to figure out what primitives they could be built up from
+											and how they could be automated as much as possible.
+											Eventually, I created a whole structure
+											based on symbolic programming and so on
+											that let me build Mathematica.
+											And for the past 23 years, at an increasing rate,
+											we've been pouring more and more ideas
+											and capabilities and so on into Mathematica,
+											and I'm happy to say that that's led to many good things
+											in R &amp; D and education,
+											lots of other areas.
+											Well, I have to admit, actually,
+											that I also had a very selfish reason for building Mathematica:
+											I wanted to use it myself,
+											a bit like Galileo got to use his telescope
+											400 years ago.
+											But I wanted to look not at the astronomical universe,
+											but at the computational universe.
+									","
+											Bueno, yo mismo he pasado 30 años de mi vida
+											trabajando sobre tres grandes proyectos
+											que realmente intentan tomarse la idea de la computación en serio.
+											Así comencé desde una temprana edad como físico
+											utilizando computadoras como herramientas.
+											Luego, comencé como a hilar más finamente
+											pensando acerca de los cálculos (computaciones) que me gustaría hacer,
+											intentando descifrar sobre qué primitivas podrían construirse
+											y cómo se podrían automatizar al máximo.
+											Finalmente, creé una estructura completa
+											basada en la programación simbólica, etcétera
+											que me permitió construir Mathematica.
+											Y durante los últimos 23 años, cada vez más rápido,
+											hemos estado volcando más y más ideas
+											y capacidades, etcétera, en Mathematica,
+											y estoy contento de decir que ha llevado a muchas cosas buenas
+											en Investigación y Desarrollo y en educación,
+											y en muchas otras áreas.
+											Bueno, debo admitir, de hecho,
+											que yo tenía una razón muy egoísta para construir Mathematica.
+											Quería usarla yo mismo,
+											un poco como Galileo llegó a usar su telescopio
+											hace 400 años.
+											Pero yo no quería ver el universo astronómico,
+											sino el universo computacional.
+									","
+											Ben hayatımın son 30 senesini hesaplamayı
+											oldukça ciddiye almaya çalışan
+											üç büyük projede çalışarak geçirdim.
+											Genç yaşta, bilgisayarları araç olarak kullanan
+											bir fizikçi olarak başladım.
+											Sonra, daha derinlere indim,
+											yapmak istediğim hesaplamalar hakkında düşündüm,
+											hangi ilklerden oluşturulabileceklerini ve nasıl mümkün olduğunca
+											otomatize edilebileceklerini tahmin etmeye çalıştım.
+											Neticede, sembolik programlamaya dayalı
+											tam bir yapı hazırladım ve bu da
+											Mathematica'yı oluşturmamı sağladı.
+											Ve son 23 yıldır, giderek artan bir hızla,
+											daha fazla yeni fikir ve yetenekleri
+											Mathematica'ya eklemekteyiz,
+											ve bunun Ar-Ge, eğitim ve diğer birçok alanda
+											iyi işlerin yapılmasını sağladığını
+											söylemekten mutluyum.
+											Açıkçası, itiraf etmeliyim ki
+											Mathematica'yı oluşturmak için çok bencil bir nedenim de vardı.
+											Onu kendim kullanmak istedim,
+											Galileo'nun 400 yıl önce kendi teleskobunu
+											kullanması gibi.
+											Ama ben astronomik evrene değil, hesaplama evrenine
+											bakmak istiyordum.
+									","
+											Eh bien, j'ai passé les 30 dernières années de ma vie
+											à travailler sur trois grands projets
+											qui essayent vraiment de prendre l'idée de calcul au sérieux.
+											J'ai donc commencé jeune en tant que physicien
+											à utiliser des ordinateurs comme des outils.
+											Puis, j'ai commencé à creuser,
+											à réfléchir sur les calculs que je pourrais vouloir faire,
+											à essayer de comprendre à partir de quelles primitives on pouvait les construire
+											et comment ils pourraient être aussi automatisés que possible.
+											Finalement, j'ai créé toute une structure
+											basée sur la programmation symbolique
+											qui m'a permis de construire Mathematica.
+											Et pendant ces 23 dernières années, à un rythme croissant,
+											nous avons été verser de plus en plus d'idées
+											et de capacités dans Mathematica,
+											je suis heureux de dire que cela a conduit à beaucoup de bonnes choses
+											en Recherche et Développement et en éducation,
+											dans beaucoup d'autres domaines.
+											Eh bien, je dois admettre que, en fait,
+											que j'avais aussi une raison très égoïste pour construire Mathematica.
+											Je voulais l'utiliser moi-même,
+											un peu comme Galilée avait utilisé son télescope
+											il y a 400 ans.
+											Mais je voulais regarder, non pas l'univers astronomique,
+											mais l'univers computationnel.
+									","
+											Nun, ich selbst habe die letzten 30 Jahre meines Lebens
+											an drei großen Projekten gearbeitet,
+											die wirklich versuchen, das Konzept der Berechnung ernst zu nehmen.
+											Ich begann also im Jugendalter als Physiker
+											der Computer als Arbeitshilfe nutzte.
+											Dann fing ich an, das irgendwie aufzureißen,
+											über die Berechnungen nachzudenken, die ich durchführen könnte.
+											um herauszufinden, auf welchen Grundlagen sie aufgebaut werden könnten
+											und wie sie, so gut wie möglich, automatisiert werden könnten.
+											Letztendlich erschaffte ich eine Struktur,
+											basierend auf symbolischer Programmierung und so weiter,
+											die mich die Mathematica erstellen ließ.
+											Und während der letzten 23 Jahre ließen wir
+											in zunehmendem Maße mehr und mehr Ideen
+											und Kapazitäten und so weiter in Mathematica einfließen
+											und ich bin froh sagen zu können, dass dies zu vielen guten Dingen
+											in Forschung &amp; Entwicklung und Bildung
+											sowie in vielen anderen Bereichen geführt hat.
+											Nun, ich muss zugeben, eigentlich
+											hatte ich einen sehr egoistischen Grund, um Mathematica zu erschaffen.
+											Ich wollte es für mich selbst nutzen,
+											etwa so, wie Galileo sein Teleskop nutzte,
+											vor 400 Jahren.
+											Aber ich wollte nicht auf das astronomische Universum blicken,
+											sondern auf das rechnerische Universum.
+									",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+","
+","
+","
+","
+",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+											So we normally think of programs as being
+											complicated things that we build
+											for very specific purposes.
+											But what about the space of all possible programs?
+											Here's a representation of a really simple program.
+											So, if we run this program,
+											this is what we get.
+											Very simple.
+											So let's try changing the rule
+											for this program a little bit.
+											Now we get another result,
+											still very simple.
+											Try changing it again.
+											You get something a little bit more complicated.
+											But if we keep running this for a while,
+											we find out that although the pattern we get is very intricate,
+											it has a very regular structure.
+											So the question is: Can anything else happen?
+											Well, we can do a little experiment.
+											Let's just do a little mathematical experiment, try and find out.
+									","
+											Habitualmente pensamos que los programas
+											son estas complicadas cosas que construimos
+											para fines muy específicos.
+											¿Pero qué ocurre con el espacio de todos los programas posibles?
+											Aquí vemos una representación de un programa simple.
+											Así que si ejecutamos este programa,
+											esto es lo que obtenemos.
+											Muy simple.
+											Así que intentemos cambiando las reglas
+											de este programa un poco.
+											Ahora obtenemos otro resultado,
+											todavía muy sencillo.
+											Probemos cambiando de nuevo.
+											Obtenemos algo un poco más complicado,
+											y si lo seguimos ejecutando durante un tiempo,
+											encontramos que, a pesar de que el patrón es intrincado,
+											tiene una estructura muy regular.
+											Entonces la pregunta es: ¿Puede ocurrir algo más?
+											Bien, podemos hacer un pequeño experimento.
+											Hagamos un experimento matemático, probemos y veremos.
+									","
+											Normalde programları, çok özel amaçlar için
+											oluşturduğumuz karmaşık şeyler
+											olarak görürüz.
+											Peki ya tüm muhtemel programlar uzayına ne demeli?
+											Burada çok basit bir programın gösterimi var.
+											Eğer bu programı çalıştırırsak,
+											bunu elde ederiz.
+											Çok basit.
+											Şimdi bu program için kuralı
+											biraz değiştirmeyi deneyelim.
+											Şimdi başka bir sonuç alıyoruz,
+											halen çok basit.
+											Tekrar değiştirmeyi deneyin.
+											Biraz daha karmaşık bir şey elde edersiniz,
+											ama bunu bir süre çalıştırırsak,
+											anlarız ki, sonuç desenimiz biraz karışık olsa da,
+											çok düzgün bir yapısı var.
+											Soru şudur : Başka bir şey olabilir mi ?
+											Bunun için ufak bir deney yapabiliriz.
+											Hadi ufak bir matematik deneyi yapalım, deneyip bulalım.
+									","
+											Nous considérons habituellement les programmes comme
+											des choses compliquées que nous construisons
+											à des fins très spécifiques.
+											Mais qu'en est-il de l'espace de tous les programmes possibles?
+											Voici une représentation d'un programme très simple.
+											Si nous exécutons ce programme,
+											voici ce que nous obtenons.
+											Très simple.
+											Essayons donc de modifier un peu la règle
+											pour ce programme .
+											Nous obtenons maintenant un autre résultat,
+											toujours très simple.
+											Essayez de le changer à nouveau.
+											Vous obtenez quelque chose d'un peu plus compliqué,
+											mais si nous continuons à le faire tourner pendant un certain temps,
+											nous constatons que, bien que le schéma que nous obtenons soit très complexe,
+											il a une structure très régulière.
+											La question est donc: est-ce que qu'autre chose peut se produire?
+											Eh bien, nous pouvons faire une petite expérience.
+											Faisons simplement une petite expérience mathématique, et essayons de savoir.
+									","
+											Üblicherweise denken wir bei Programmen an
+											komplizierte Dinge, die wir für einen
+											spezifischen Zweck erstellen.
+											Aber was ist mit dem Raum all dieser möglichen Programme?
+											Hier ist eine Darstellung eines sehr einfachen Programms.
+											Wenn wir dieses Programm laufen lassen,
+											bekommen wir das.
+											Ganz einfach.
+											Lassen Sie uns also mal versuchen die Regel
+											für das Programm ein wenig zu ändern.
+											Jetzt bekommen wir ein anderes Ergebnis,
+											dennoch ganz einfach.
+											Versuchen wir es nochmal zu ändern.
+											Sie bekommen etwas leicht komplizierteres,
+											aber wenn wir es für eine Weile laufen lassen,
+											finden wir heraus, dass das Muster, was wir bekommen, sehr aufwändig ist,
+											es hat eine sehr geregelte Struktur.
+											Die Frage lautet also: Kann irgend etwas anderes passieren?
+											Nun, wir können ein kleines Experiment machen.
+											Machen wir ein kleines mathematisches Experiment, versuchen wir etwas herauszufinden.
+									",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+","
+","
+","
+","
+",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+											Let's just run all possible programs
+											of the particular type that we're looking at.
+											They're called cellular automata.
+											You can see a lot of diversity in the behavior here.
+											Most of them do very simple things,
+											but if you look along all these different pictures,
+											at rule number 30,
+											you start to see something interesting going on.
+											So let's take a closer look
+											at rule number 30 here.
+											So here it is.
+											We're just following this very simple rule at the bottom here,
+											but we're getting all this amazing stuff.
+											It's not at all what we're used to,
+											and I must say that, when I first saw this,
+											it came as a huge shock to my intuition.
+											And, in fact, to understand it,
+											I eventually had to create
+											a whole new kind of science.
+									","
+											Simplemente ejecutemos todos los programas posibles
+											del mismo tipo al que estamos viendo.
+											Se llaman autómatas celulares.
+											Se puede observar mucha diversidad de comportamiento aquí.
+											La mayoría hace cosas muy simples.
+											Pero si uno mira a lo largo de todos estos dibujos,
+											en la regla número 30,
+											uno comienza a ver que sucede algo interesante.
+											Así que veamos más de cerca
+											a la regla 30 aquí.
+											Aquí está.
+											Tan solo estamos siguiendo esta regla aquí debajo,
+											pero estamos generando todo este material asombroso.
+											No es nada parecido a lo que estamos habituados,
+											y debo decir que, cuando ví esto por primera vez,
+											me impactó directamente sobre mi intuición,
+											y, de hecho, para comprenderlo,
+											en su momento tuve que crear
+											una ciencia totalmente nueva.
+									","
+											Bu baktığımız türdeki tüm
+											muhtemel programları çalıştıralım.
+											Bunlara hücresel otomatlar adı verilir.
+											Buradaki davranışta çok fazla çeşitlilik görebilirsiniz.
+											Çoğu çok basit şeyler yapıyor.
+											Ama eğer tüm farklı resimler arasında,
+											30. kurala bakarsanız,
+											ilginç bir şeylerin döndüğünü görebilirsiniz.
+											O zaman hadi 30. kurala
+											daha yakından bakalım.
+											İşte burada.
+											Biz sadece şu aşağıdaki basit kuralı takip ediyoruz
+											ama tüm bu şaşırtıcı şeyleri elde ediyoruz.
+											Bu hiç de alıştığımız bir şey değil,
+											ve söylemeliyim ki, bunu ilk gördüğümde,
+											önsezilerim büyük bir şok yaşadı,
+											ve, aslında, onu anlayabilmek için,
+											Sonunda farklı bir bilim
+											yaratmak zorunda kaldım.
+									","
+											Exécutons tous les programmes possibles
+											du type particulier que nous étudions.
+											On les appelle des automates cellulaires.
+											Vous pouvez voir une grande diversité dans le comportement ici.
+											La plupart d'entre eux font des choses très simples.
+											Mais si vous regardez toutes ces images différentes,
+											à la règle numéro 30,
+											vous commencez à voir que quelque chose d'intéressant se passe.
+											Regardons de plus près
+											la règle numéro 30 ici.
+											Voilà.
+											Nous ne faisons que suivre cette règle très simple ici, en bas,
+											mais nous obtenons toutes des choses incroyables.
+											Ce n'est pas du tout ce à quoi nous sommes habitués,
+											et je dois dire que, quand j'ai vu cela pour la première fois,
+											ce fut un grand choc pour mon intuition,
+											et, en fait, pour le comprendre,
+											j'ai finalement dû créer
+											un nouveau type de science.
+									","
+											Lassen wir einfach alle möglichen Programme
+											des speziellen Falls, den wir betrachten, laufen.
+											Sie werden zellulare Automaten genannt.
+											Hier können Sie eine hohe Vielfältigkeit im Verhalten erkennen.
+											Die meisten davon machen sehr einfache Dinge.
+											Aber wenn Sie weiter auf all diese verschiedenen Bilder schauen,
+											bei Regel Nummer 30,
+											erkennen Sie, dass sich da etwas interessantes abzeichnet.
+											Gucken wir also mal genauer
+											auf Regel Nummer 30 hier.
+											Hier ist es also.
+											Wir folgen einfach dieser simplen Regeln hier unten,
+											bekommen jedoch all diese erstaunlichen Dinge.
+											Es ist gar nicht das, was wir gewohnt sind,
+											und ich muss sagen, als ich es das erste mal sah,
+											kam es zu einer riesen Erschütterung meiner Intuition
+											und, in der Tat, um es zu verstehen,
+											musste ich letztendlich
+											eine ganz neue Art der Wissenschaft entwerfen.
+									",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+","
+","
+","
+","
+",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+											(Laughter)
+									","
+											(risas)
+									","
+											(Gülüşmeler)
+									","
+											(Rires)
+									","
+											(Lachen)
+									",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+","
+","
+","
+","
+",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+											This science is different, more general,
+											than the mathematics-based science that we've had
+											for the past 300 or so years.
+											You know, it's always seemed like a big mystery:
+											how nature, seemingly so effortlessly,
+											manages to produce so much
+											that seems to us so complex.
+											Well, I think we've found its secret:
+											It's just sampling what's out there in the computational universe
+											and quite often getting things like Rule 30
+											or like this.
+											And knowing that starts to explain
+											a lot of long-standing mysteries in science.
+											It also brings up new issues, though,
+											like computational irreducibility.
+											I mean, we're used to having science let us predict things,
+											but something like this
+											is fundamentally irreducible.
+											The only way to find its outcome
+											is, effectively, just to watch it evolve.
+											It's connected to, what I call,
+											the principle of computational equivalence,
+											which tells us that even incredibly simple systems
+											can do computations as sophisticated as anything.
+											It doesn't take lots of technology or biological evolution
+											to be able to do arbitrary computation;
+											just something that happens, naturally,
+											all over the place.
+											Things with rules as simple as these can do it.
+											Well, this has deep implications
+											about the limits of science,
+											about predictability and controllability
+											of things like biological processes or economies,
+											about intelligence in the universe,
+											about questions like free will
+											and about creating technology.
+									","
+											Esta ciencia es distinta, más general,
+											que la ciencia basada en las matemáticas que hemos tenido
+											en los últimos 300 años, apoximadamente.
+											Uds saben, siempre fue como un gran misterio
+											cómo la naturaleza, aparentemente sin esfuerzo
+											logra producir tanto
+											que nos parece tan complejo.
+											Bueno, me parece que encontramos su secreto.
+											Está haciendo un muestreo de lo que está allí, en el universo computacional
+											y muy a menudo, logra resultados como la regla 30
+											o como esto.
+											Y saber esto, comienza a explicar
+											muchos de los viejos misterios de la ciencia.
+											También propone nuevos temas,
+											como la irreducibilidad computacional.
+											Lo que digo es, estamos habituados a que la ciencia prediga cosas,
+											pero algo como esto
+											es fundamentalmente irreducible.
+											La única forma de ver su resultado
+											es, efectivamente, tan solo verlo evolucionar.
+											Está conectado a, lo que yo llamo
+											principio de la equivalencia computacional
+											que nos dice que aún los sistemas más simples
+											pueden realizar cómputos tan sofisticados como sea.
+											No se necesita mucha tecnología o evolución biológica
+											para poder realizar computación arbitraria,
+											es tan sólo algo que ocurre, de forma natural
+											en todas partes.
+											Cosas con reglas tan simples como éstas pueden hacerlo.
+											Bueno, esto tiene consecuencias profundas
+											sobre los límites de la ciencia,
+											acerca de la predictibilidad y controlabilidad
+											de cosas como procesos biológicos o economías,
+											acerca de la inteligencia del universo,
+											acerca de preguntas como el libre albedrío
+											y acerca de crear tecnología.
+									","
+											Bu son 300 küsür yıldır kullandığımız
+											matematik bazlı bilimden farklı, daha genel
+											bir bilimdir.
+											Bilirsiniz, doğanın bize çok karmaşık gelen
+											birçok şeyi nasıl görünüşte çok zahmetsizce
+											ürettiği bize büyük bir gizem
+											gibi gelmiştir.
+											Sanırım biz onun sırrını bulduk.
+											O sadece hesaplama evreninde ne varsa onları örnekliyor
+											ve çoğunlukla 30. Kural gibi şeyler elde ediyor
+											ya da bunun gibi.
+											Ve bunu bilmek, bilimde uzun zamandır
+											süren gizemleri açıklamaya başlıyor.
+											Fakat sayısal indirgenmezlik gibi
+											yeni sorunları da getiriyor.
+											Yani, biz bilimin bir şeyleri tahmin etmemize izin vermesin alışkınız,
+											ama bunun gibi bir şey
+											esas olarak indirgenemezdir.
+											Sonucunu etkin şekilde bulmanın tek yolu,
+											onun gelişmesini seyretmektir.
+											Bu benim hesaplama denkliği
+											adını verdiğim prensibe bağlıdır,
+											bu prensibe göre inanılmaz basitlikteki sistemler bile
+											herhangi bir şey kadar karmaşık hesaplamalar yapabilirler.
+											Rastgele hesaplama yapabilmek gibi hemen her yerde
+											olan bir şeyi yapabilmek için,
+											çok fazla teknoloji veya biyolojik evrim
+											gerekmez.
+											Bu kadar basit kuralı olan şeyler bile yapabilir.
+											Bunun, bilimin sınırları hakkında,
+											biyolojik süreçler ve
+											ekonomilerin tahmin edilebilirliği ve
+											kontrol edilebilirliği hakkında, evrendeki zeka hakkında,
+											özgür irade gibi sorular hakkında
+											ve teknoloji yaratma hakkında
+											derin imaları vardır.
+									","
+											Cette science est différente, plus générale,
+											que la science basée sur les mathématiques de
+											ces 300 dernières années.
+											Il a toujours semblé très mystérieux
+											comment la nature, apparemment sans effort
+											parvient à produire tant de choses
+											qui nous semblent si complexes.
+											Eh bien, je pense que nous avons trouvé son secret.
+											C'est juste qu'en échantillonnant ce qui existe dans l'univers computationnel,
+											on obtient plutôt fréquemment des choses semblables à la règle 30
+											ou à cela.
+											Sachant cela, on commence à expliquer
+											beaucoup de mystères de longue date dans la science.
+											Cependant, cela soulève aussi de nouveaux problèmes,
+											comme l'irréductibilité computationnelle.
+											Nous sommes habitués à ce que la science nous permette de prédire des choses,
+											mais quelque chose comme ceci
+											est fondamentalement irréductible.
+											La seule façon d'en trouver le résultat
+											est, en fait, de simplement le regarder évoluer.
+											Il est connecté à ce que j'appelle
+											le principe de l'équivalence de calcul,
+											qui nous dit que même les systèmes incroyablement simples
+											peuvent faire des calculs aussi complexes.
+											Pas besoin de beaucoup d'évolution technologique ou biologique
+											pour être capable de faire un calcul arbitraire,
+											juste quelque chose qui se passe, naturellement,
+											partout.
+											Des choses avec des règles aussi simples que celles-ci peuvent le faire.
+											Eh bien, cela a des implications profondes
+											sur les limites de la science,
+											sur la prévisibilité et la contrôlabilité
+											des processus biologiques ou des économies,
+											sur l'intelligence dans l'univers,
+											sur des questions comme le libre-arbitre
+											et sur la création de technologie.
+									","
+											Diese Wissenschaft ist anders, allgemeiner,
+											als die mathematisch basierte Wissenschaft, die wir
+											in den letzten 300 Jahren oder so hatten.
+											Wissen Sie, es schien immer wie ein großes Rätsel,
+											wie es die Natur anscheind so spielend
+											schafft, so viel zu produzieren,
+											das uns so komplex erscheint.
+											Nun ich denke wir fanden das Geheimnis.
+											Es ist einfach eine Stichprobe von dem da draußen im rechnerischen Universum
+											und recht häufig kommt es zu Dingen wie Regel 30
+											oder so etwas.
+											Und dieses Wissen erklärt
+											eine Menge von jahrelangen Mysterien in der Wissenschaft.
+											Es schafft jedoch auch neue Probleme,
+											wie die rechnerische Nichtreduzierbarkeit.
+											Ich meine, wir sind es gewohnt, die Wissenschaft dafür zu nutzen, um uns Dinge voraussagen zu lassen,
+											aber so etwas wie das
+											ist im Grunde unzerlegbar.
+											Der einzige Weg das Ergebnis herauszufinden
+											ist quasi, eben zu schauen, wie es sich entwickelt.
+											Es ist verbunden mit, wie ich es nenne,
+											den Prinzipien der rechnerischen Äquivalenz,
+											die uns sagen, dass unheimlich einfache Systeme
+											völlig mühelos hochkomplexe Berechnungen machen können.
+											Es braucht nicht viel Technologie der biologischen Evolution,
+											um willkürliche Berechnungen zu machen.
+											Es passiert einfach, natürlich,
+											überall.
+											Dinge mit Regeln die so einfach wie diese sein können.
+											Nun, das hat große Auswirkungen
+											auf die Grenzen der Wissenschaft,
+											auf Berechenbarkeit und Steuerbarkeit
+											von Dingen wie biologischen Prozessen oder Einsparungen,
+											auf Intelligenz im Universum,
+											auf Fragen, wie die Willensfreiheit
+											und auf das Erschaffen von Technologien.
+									",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+","
+","
+","
+","
+",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+											You know, in working on this science for many years,
+											I kept wondering,
+											""What will be its first killer app?""
+											Well, ever since I was a kid,
+											I'd been thinking about systematizing knowledge
+											and somehow making it computable.
+											People like Leibniz had wondered about that too
+											300 years earlier.
+											But I'd always assumed that to make progress,
+											I'd essentially have to replicate a whole brain.
+											Well, then I got to thinking:
+											This scientific paradigm of mine suggests something different —
+											and, by the way, I've now got
+											huge computation capabilities in Mathematica,
+											and I'm a CEO with some worldly resources
+											to do large, seemingly crazy, projects —
+											So I decided to just try to see
+											how much of the systematic knowledge that's out there in the world
+											we could make computable.
+									","
+											Uds saben, trabajando sobre esta ciencia por muchos años,
+											siempre me pregunté,
+											""Cuál va a ser su primera aplicación asesina (killer app)?""
+											Bien, desde que era niño,
+											he estado pensando acerca de sistematizar el conocimiento
+											y de alguna manera hacerlo computable.
+											Gente como Leibniz se habían preguntado eso también
+											300 años antes.
+											Pero siempre creí que para progresar,
+											tendría que, esencialmente, replicar un cerebro completo.
+											Bien, eso me hizo pensar:
+											Este paradigma científico mío sugiere algo distinto.
+											Y, dicho sea de paso, ahora tengo
+											inmensas capacidades computacionales en Mathematica,
+											y soy un CEO con recursos en el mundo
+											para realizar proyectos aparentemente locos.
+											Así que decidí simplemente intentarlo y ver
+											cuánto conocimiento sistemático que se encuentra en el mundo
+											podemos hacer computable.
+									","
+											Bilirsiniz, bu bilim üzerinde yıllarca çalışırken
+											merak edip durdum,
+											""Bunun ilk harika uygulaması ne olacak?""
+											Çocukluğumdan beri,
+											bilgiyi sistemleştirmek ve bir şekilde hesaplanabilir
+											yapmak konusunda düşünüyorum.
+											Leibniz gibi insanlar da 300 yıl önce bunu
+											merak etti.
+											Fakat hep sanıyordum ki ilerleme kaydetmek için,
+											esasında tüm beyni kopyalamam gerekiyor.
+											Ama şimdiki düşüncem:
+											Benim bu bilimsel paradigmam farklı bir şey öneriyor.
+											Ve, bu arada, Mathematica'daki
+											devasa hesaplama yetenekleri var elimde,
+											ve büyük, delice projeler yapmak için
+											maddi kaynağı olan bir üst düzey yöneticiyim.
+											Ve dünyadaki sistematik bilginin
+											ne kadarını hesaplanabilir yapabileceğimizi görmeye
+											çalışmaya karar verdim.
+									","
+											Travaillant sur cette science depuis de nombreuses années,
+											je me demandais,
+											«Quelle sera sa première application géniale?""
+											Eh bien, depuis que je suis enfant,
+											je réfléchis à la systématisation des connaissances
+											et en quelque sorte à son informatisation.
+											Des gens comme Leibniz s'étaient également interrogés là-dessus
+											300 ans auparavant.
+											Mais j'avais toujours pensé que pour faire des progrès,
+											je devrais principalement répliquer un cerveau entier.
+											Eh bien, maintenant j'en suis arrivé à penser que
+											mon paradigme scientifique suggère quelque chose de différent.
+											Et, soit dit en passant, j'ai maintenant obtenu
+											des capacités de calcul énormes dans Mathematica,
+											et je suis PDG avec des ressources matérielles
+											pour faire de grands projets, apparemment fous.
+											Ainsi j'ai décidé de simplement essayer de voir
+											quelle quantité de la connaissance systématique dans le monde
+											nous pouvons informatiser.
+									","
+											Wissen Sie, während ich soviele Jahre an dieser Wissenschaft arbeitete,
+											fragte ich mich:
+											""Was wird ihre Killerapplikation sein?""
+											Nun, seitdem ich ein Kind war,
+											dachte ich darüber nach, wie man Wissen systematisieren
+											und irgendwie berechenbar machen könnte.
+											Leute wie Leibniz machten sich ebenfalls Gedanken darüber,
+											300 Jahre früher.
+											Aber ich nahm immer an, dass ich, um voranzukommen,
+											im Wesentlichen ein komplettes Gehirn replizieren müsste.
+											Also, überlegte ich mir:
+											Das mein wissenschaftliches Paradigma etwas anderes vorschlägt.
+											Und, übrigens, habe ich nun
+											gewaltige Rechenkapazitäten in Mathematica
+											und ich bin ein Geschäftsführer mit einigen weltlichen Ressourcen,
+											um große, scheinbar verrückte Projekte zu machen.
+											Also entschied ich mich einfach zu versuchen, zu erkennen
+											wieviel von dem systematischen Wissen da draussen in der Welt
+											wir berechnen können.
+									",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+","
+","
+","
+","
+",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+											So, it's been a big, very complex project,
+											which I was not sure was going to work at all.
+											But I'm happy to say it's actually going really well.
+											And last year we were able
+											to release the first website version
+											of Wolfram Alpha.
+											Its purpose is to be a serious knowledge engine
+											that computes answers to questions.
+											So let's give it a try.
+											Let's start off with something really easy.
+											Hope for the best.
+											Very good. Okay.
+											So far so good.
+											(Laughter)
+											Let's try something a little bit harder.
+											Let's do
+											some mathy thing,
+											and with luck it'll work out the answer
+											and try and tell us some interesting things
+											things about related math.
+											We could ask it something about the real world.
+											Let's say — I don't know —
+											what's the GDP of Spain?
+											And it should be able to tell us that.
+											Now we could compute something related to this,
+											let's say ... the GDP of Spain
+											divided by, I don't know,
+											the — hmmm ...
+											let's say the revenue of Microsoft.
+									","
+											Ha sido un proyecto grande, muy complejo,
+											del que yo no estaba seguro si iba a funcionar.
+											Pero estoy feliz de decir que de hecho está funcionando muy bien.
+											Y el año pasado logramos
+											lanzar la primera versión en website
+											de Wolfram Alpha.
+											Su propósito es ser un motor de búsqueda de conocimiento
+											realmente serio que compute las respuestas a preguntas.
+											Así que démosle una oportunidad.
+											Comencemos con algo realmente fácil.
+											Esperemos lo mejor.
+											Muy bien. OK.
+											Hasta aquí, todo bien.
+											(risas)
+											Probemos algo un poco más difícil.
+											Digamos...
+											Hagamos algo matemático
+											y con suerte, logrará la respuesta
+											e intentará decirnos algunas cosas interesantes,
+											cosas sobre la matemática relacionada.
+											Le podemos preguntar algo sobre el mundo real.
+											Digamos, no sé...
+											¿Cuál es es producto bruto interno de España?
+											Y debería poder decirnos eso.
+											Ahora podríamos computar algo relacionado con esto,
+											digamos el PBI de España
+											dividido por, no sé,
+											el... ehm...
+											digamos las ganancias de Microsoft.
+									","
+											Bu gerçekleşeceğinden emin bile olamadığım,
+											büyük ve çok karmaşık bir projedir.
+											Fakat aslında iyi gittiğini söylemekten mutluyum.
+											Ve geçen yıl Wolfram Alpha'nın
+											ilk web site versiyonunu
+											yayımlayabildik.
+											Onun amacı soruların cevaplarını hesaplayan
+											ciddi bir bilgi motoru olmaktır.
+											Bir deneyelim.
+											Çok basit bir şeyle başlayalım.
+											En iyisini umalım.
+											Çok iyi. Pekala.
+											İyi gidiyoruz.
+											(Gülüşmeler)
+											Hadi daha zor bir şey deneyelim.
+											Diyelim ki.
+											Matematiksel bir şey yapalım
+											ve umarız cevabını verebilir
+											ve bize ilginç şeyler, ilgili matematik hakkında
+											şeyler anlatmaya çalışır.
+											Gerçek dünya hakkında bir şeyler sorabiliriz.
+											Bakalım, —bilmem—
+											İspanya'nın GSMH'sı nedir?
+											Ve bize bunu anlatabilmelidir.
+											Şimdi bununla ilgili bir hesaplama yapabiliriz,
+											Varsayalım ki İspanya'nın GSMH'sını
+											bölelim, bilmem ki,
+											—hmmm—
+											Microsoft'un gelirine bölelim.
+									","
+											Donc, ça a été un grand projet très complexe,
+											dont je n'étais pas du tout sûr qu'il allait aboutir.
+											Mais je suis heureux de dire qu'il va vraiment très bien.
+											L'année dernière, nous avons pu
+											lancer la première version
+											en ligne de Wolfram Alpha.
+											Il a pour objectif d'être un moteur de connaissances sérieuses
+											qui calcule les réponses aux questions.
+											Faisons un essai.
+											Commençons avec quelque chose de très simple.
+											Espérons que tout aille bien.
+											Très bien. Très bien.
+											Jusqu'ici tout va bien.
+											(Rires)
+											Essayons quelque chose d'un peu plus difficile.
+											Disons que...
+											Faisons quelque chose de mathématique
+											et avec de la chance il trouvera la réponse
+											et essayera de nous dire des choses intéressantes
+											sur les mathématiques en rapport.
+											Nous pourrions lui demander quelque chose sur le monde réel.
+											Disons que - je ne sais pas -
+											Quel est le PIB de l'Espagne?
+											Il devrait être en mesure de nous le dire.
+											Maintenant, nous pourrions calculer quelque chose lié à cela,
+											Disons le PIB de l'Espagne
+											divisé par, je ne sais pas,
+											le - hmmm ...
+											Disons le chiffre d'affaires de Microsoft.
+									","
+											Es war also ein großes, sehr komplexes Projekt ,
+											von dem ich nicht mal sicher war, ob es überhaupt funktioniert.
+											Aber ich bin froh zu sagen, dass es eigentlich sehr gut ging.
+											Und letztes Jahr waren wir in der Lage,
+											die erste Version der Website von
+											Wolfram Alpha zu veröffentlichen.
+											Ihr Bestimmung ist, eine seriöse Wissensmaschine zu sein,
+											die Antworten auf Fragen errechnet.
+											Probieren wir es also einmal.
+											Beginnen wir mit etwas sehr Einfachem.
+											Auf das Beste hoffen.
+											Sehr gut. Okay.
+											Soweit so gut.
+											(Lachen)
+											Probieren wir etwas, was ein wenig schwerer ist.
+											Sagen wir...
+											Lassen Sie uns etwas Mathematisches machen.
+											und mit etwas Glück findet es die Antwort
+											und versucht uns einige interessante Dinge zu sagen,
+											Dinge über ähnliche Mathematik.
+											Wir könnten es etwas über die reale Welt fragen.
+											Sagen wir — Ich weiß nicht —
+											Wie ist das Bruttoinlandsprodukt von Spanien?
+											Und es sollte in der Lage sein, uns das zu sagen.
+											Nun können wir etwas in Relation dazu berechnen.
+											Sagen wir das Bruttoinlandsprodukt von Spanien
+											geteilt durch, Ich weiß nicht.
+											das — hmmm ...
+											sagen wir das Einkommen von Microsoft.
+									",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+","
+","
+","
+","
+",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+											(Laughter)
+									","
+											(risas)
+									","
+											(Gülüşmeler)
+									","
+											(Rires)
+									","
+											(Lachen)
+									",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+","
+","
+","
+","
+",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+											The idea is that we can just type this in,
+											this kind of question in, however we think of it.
+											So let's try asking a question,
+											like a health related question.
+											So let's say we have a lab finding that ...
+											you know, we have an LDL level of 140
+											for a male aged 50.
+											So let's type that in, and now Wolfram Alpha
+											will go and use available public health data
+											and try and figure out
+											what part of the population that corresponds to and so on.
+											Or let's try asking about, I don't know,
+											the International Space Station.
+									","
+											la idea es que podamos tan solo escribir esto aquí
+											esta pregunta en la forma que la pensemos.
+											Así que intentemos una pregunta,
+											como una pregunta relacionada con la salud.
+											Digamos que tenemos un resultado de laboratorio que...
+											ustedes saben, tenemos un nivel de LDL de 140
+											para un hombre de 50 años.
+											Entonces escribamos esto, y ahora Wolfram Alpha
+											irá y utilizará la información pública disponible
+											e intentará resolver
+											a qué porción de la población corresponde esto y demás.
+											O intentemos preguntar acerca de, no sé,
+											la estación espacial internacional.
+									","
+											Esas fikir bunu, bu tür bir soruyu
+											aklımıza geldiği gibi yazıp sorabilmektir.
+											O yüzden bir soru soralım,
+											mesela sağlıkla ilgili bir soru.
+											Varsayalım ki 50 yaşındaki bir erkeğin
+											Düşük Yoğunluklu Lipoprotein seviyesinin
+											140 olduğunu bulan bir labaratuvar olsun.
+											Bunu yazalım ve Wolfram Alpha şimdi
+											gidip mevcut sağlık verilerini kullanacak
+											ve bu özelliklerdeki birinin
+											nüfusun hangi kesimine denk geldiğini bulmaya çalışacak.
+											Şunu sormayı deneyelim, bilmem ki,
+											uluslararası uzay istasyonu.
+									","
+											L'idée est que nous pouvons entrer ceci,
+											ce genre de question sous quelque forme que nous la concevions.
+											Essayons donc de poser une question,
+											comme une question sur la santé.
+											Alors disons que nous avons un laboratoire de recherche qui -
+											vous savez, le taux de cholesterol d'un homme de 50 ans
+											est de 140.
+											Tapons cela, et maintenant Wolfram Alpha
+											va utiliser les données de santé publique disponibles
+											et essayer de trouver
+											à quelle partie de la population cela correspond, etc.
+											Ou essayons de poser une question sur, je ne sais pas,
+											la station spatiale internationale.
+									","
+											Die Idee ist, dass wir es sozusagen einfach eintippen,
+											eine Frage, die wir uns gerade stellen.
+											Probieren wir also eine Frage zu stellen,
+											die sich mit der Gesundheit beschäftigt.
+											Also sagen wir, wir haben ein Labor, dass meint —
+											Sie wissen schon, wir haben einen Cholesterinspiegel von 140
+											für einen Mann im Alter von 50.
+											Also lassen Sie uns das eintippen und nun wird Wolfram Alpha
+											losgehen und verfügbare öffentliche Gesundheitsinformationen nutzen
+											und versuchen herauszufinden,
+											welchem Teil der Bevölkerung das entspricht und so weiter.
+											Oder lassen Sie uns fragen, ich weiß nicht,
+											die Internationale Raumstation.
+									",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+","
+","
+","
+","
+",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+											And what's happening here is that
+											Wolfram Alpha is not just looking up something;
+											it's computing, in real time,
+											where the International Space Station is right now at this moment,
+											how fast it's going, and so on.
+											So Wolfram Alpha knows about lots and lots of kinds of things.
+											It's got, by now,
+											pretty good coverage of everything you might find
+											in a standard reference library.
+											But the goal is to go much further
+											and, very broadly, to democratize
+											all of this knowledge,
+											and to try and be an authoritative
+											source in all areas.
+											To be able to compute answers to specific questions that people have,
+											not by searching what other people
+											may have written down before,
+											but by using built in knowledge
+											to compute fresh new answers to specific questions.
+									","
+											Y lo que ocurre aquí es que
+											Wolfram Alpha no está simplemente buscando algo;
+											está computando, en tiempo real,
+											dónde se encuentra la estación espacial internacional ahora,
+											en este momento, a qué velocidad va y demás datos.
+											Entonces Wolfram Alpha sabe acerca de muchos tipos de cosas.
+											A esta altura tiene,
+											una muy buena cobertura de cualquier cosa que uno encuentre
+											en una biblioteca de referencia típica y demás.
+											Pero el objetivo es ir mucho más allá
+											y, a grandes rasgos, democratizar
+											todo este tipo de conocimiento,
+											e intentar ser una fuente de autoridad
+											en todas las áreas,
+											de ser capaz de computar respuestas a preguntas específicas que la gente tenga,
+											no buscando lo que otra gente
+											haya escrito antes,
+											sino utilizando el conocimiento interno
+											para computar respuestas nuevas y frescas a una pregunta específca.
+									","
+											Ve orada olup biten şudur:
+											Wolfram Alpha sadece bir şeye bakmıyor;
+											uluslararası uzay istasyonunun
+											şu anda nerede olduğunu, ne kadar hızlı gittiğini vs
+											eş zamanlı olarak hesaplıyor.
+											Yani Wolfram Alpha bir sürü şey biliyor.
+											Şu anda,
+											herhangi bir standart referans kütüphanesinde
+											bulabileceğiniz her şeyi içeriyor.
+											Fakat hedef daha da ileri gitmek
+											ve tüm bu bilgileri genişçe
+											demokratikleştirmek,
+											ve tüm alanlarda otorite kaynağı
+											olmaya çalışmak,
+											ve insanların sorduğu kendine özgü soruların cevaplarını hesaplamak,
+											ve bunu başkalarının yazdığı
+											bilgiler arasından arayarak değil,
+											aksine mevcut bilgileri kullanarak
+											bu özel sorulara taze yeni cevapları hesaplamaktır.
+									","
+											Ce qui se passe ici, c'est que
+											Wolfram Alpha ne se contente pas de chercher quelque chose;
+											il calcule, en temps réel,
+											où la station spatiale internationale est maintenant, en ce moment,
+											à quelle vitesse elle va, etc.
+											Wolfram Alpha connaît donc beaucoup, beaucoup de choses.
+											Il couvre assez bien à ce jour,
+											tout ce que vous pourriez trouver
+											dans une bibliothèque de référence standard.
+											Mais l'objectif est d'aller beaucoup plus loin
+											et, de façon très large, de démocratiser
+											tout ce genre de connaissance,
+											et d'essayer de constituer une source
+											qualifiée dans tous les domaines,
+											pour être en mesure de calculer les réponses aux questions spécifiques que les gens ont,
+											pas en cherchant ce que les autres
+											ont pu écrire avant,
+											mais en utilisant la connaissance intégrée
+											pour calculer de toutes nouvelles réponses à une question spécifique.
+									","
+											Und was hier jetzt passiert ist, dass
+											Wolfram Alpha nicht nur etwas nachschaut;
+											Es berechnet in Echtzeit,
+											wo die Internationale Raumstation gerade ist, in diesem Moment,
+											wie schnell sie ist und so weiter.
+											Wolfram Alpha weiß also über viele und viele Dinge Bescheid.
+											Es deckt inzwischen vieles
+											von dem ab, was Sie
+											in einer normalen Präsenzbibliothek finden können.
+											Aber das Ziel ist es viel weiter zu gehen
+											und, sehr umfassend, all diese Arten
+											des Wissens zu demokratisieren
+											und zu versuchen eine zuverlässige
+											Quelle in allen Bereichen zu werden,
+											um fähig zu sein, Antworten zu spezifischen Fragen, die Leute haben, zu errechnen,
+											nicht indem das durchsucht wird, was andere Leute
+											vorher geschrieben haben,
+											sondern indem man vorhandenes Wissen nutzt,
+											um neue Antworten auf spezifische Fragen zu geben.
+									",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+","
+","
+","
+","
+",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+											Now, of course, Wolfram Alpha
+											is a monumentally huge, long-term project
+											with lots and lots of challenges.
+											For a start, one has to curate a zillion
+											different sources of facts and data,
+											and we built quite a pipeline of Mathematica automation
+											and human domain experts for doing this.
+											But that's just the beginning.
+											Given raw facts or data
+											to actually answer questions,
+											one has to compute:
+											one has to implement all those methods and models
+											and algorithms and so on
+											that science and other areas have built up over the centuries.
+											Well, even starting from Mathematica,
+											this is still a huge amount of work.
+											So far, there are about 8 million lines
+											of Mathematica code in Wolfram Alpha
+											built by experts from many, many different fields.
+									","
+											Ahora, por supuesto, Wolfram Alpha
+											es un proyecto monumentalmente grande y a largo plazo
+											con muchos y muchos desafíos.
+											Para empezar, uno debe seleccionar de entre millones
+											de fuentes de datos y hechos,
+											y construimos una gran vía de sistemas automáticos en Mathematica
+											y expertos humanos para lograr esto.
+											Pero eso es tan sólo el comienzo.
+											Una vez proporcionados los datos en crudo
+											para contestar realmente las preguntas
+											uno debe computar,
+											uno debe implementar todos esos métodos y modelos
+											y algoritmos y demás
+											que la ciencia y otras áreas han construido a través de los siglos.
+											Bueno, aún comenzando desde Mathematica,
+											esto representa una cantidad inmensa de trabajo.
+											Hasta ahora, existen unas 8 millones de líneas
+											de código de Mathematica en Wolfram Alpha.
+											elaboradas por expertos de muchos, muchos campos.
+									","
+											Wolfram Alpha tabii ki devasa
+											büyüklükte, çok zorluklar içeren
+											uzun vadeli bir projedir.
+											Başlangıç için zilyon tane farklı veri
+											kaynağını düzenlemek gerekir,
+											ve bunun için beşeri alan uzmanları ve Mathematica
+											otomasyonu altyapısını inşa ettik.
+											Bu sadece başlangıç.
+											Ham gerçekler ve veriler ile
+											soruları gerçekten cevaplayabilmek için
+											hesaplamak gerekir,
+											bilimin ve diğer alanların yüzyıllar boyunca ortaya çıkardığı
+											tüm o yöntemleri, modelleri,
+											ve algoritmaları vesaire uygulamak gerekir.
+											Sadece Mathematica'yla başlamak bile,
+											çok büyük bir uğraştır.
+											Şimdiye dek Wolfram Alpha'da
+											çok farklı alanlardaki uzmanlar tarafından yazılan
+											yaklaşık 8 milyon satır Mathematica kodu var.
+									","
+											Maintenant, bien sûr, Wolfram Alpha
+											est un projet à long terme, monumentalement énorme,
+											avec beaucoup, beaucoup de défis.
+											Pour commencer, il faut organiser une quantité astronomique
+											de sources différentes de faits et de données,
+											nous avons construit tout un pipeline d'automatisation Mathematica
+											et d'experts humains pour ce faire.
+											Mais ce n'est que le début.
+											Compte tenu des faits ou des données brutes
+											pour répondre effectivement aux questions,
+											on doit calculer,
+											on doit mettre en œuvre toutes les méthodes, tous les modèles,
+											tous les algorithmes, etc.
+											que la science et d'autres domaines ont construits au fil des siècles.
+											Eh bien, même à partir de Mathematica,
+											c'est toujours une énorme quantité de travail.
+											Jusqu'à présent, il y a environ 8 millions de lignes
+											de code Mathematica dans Wolfram Alpha
+											construit par des experts de très nombreux domaines différents.
+									","
+											Nun Wolfram Alpha ist selbstverständlich
+											ein monumental großes, langfristiges Projekt,
+											mit vielen, vielen Herausforderungen.
+											Zunächst einmal muss man zigtausend
+											unterschiedliche Quellen von Fakten und Daten generieren,
+											und wir schafften quasi eine Pipeline zwischen mathematischen Berechnungen
+											und Experten sozialer Bereiche, um dies zu tun.
+											Aber das ist nur der Anfang.
+											Um mit rohen Fakten und Daten
+											tatsächlich auf Fragen zu antworten,
+											muss man Berechnungen anstellen,
+											muss man all diese Methoden und Modelle implementieren
+											und Algorithmen und so weiter,
+											die die Wissenschaft und andere Gebiete über Jahrzehnte aufgebaut haben.
+											Nun, selbst ausgehend von Mathematica,
+											ist es immer noch eine unheimliche Menge Arbeit.
+											Bisher sind es über 8 Millionen Zeilen
+											mathematischen Codes in Wolfram Alpha,
+											erstellt von Experten aus vielen, vielen unterschiedlichen Bereichen.
+									",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+","
+","
+","
+","
+",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+											Well, a crucial idea of Wolfram Alpha
+											is that you can just ask it questions
+											using ordinary human language,
+											which means that we've got to be able to take
+											all those strange utterances that people type into the input field
+											and understand them.
+											And I must say that I thought that step
+											might just be plain impossible.
+											Two big things happened:
+											First, a bunch of new ideas about linguistics
+											that came from studying the computational universe;
+											and second, the realization that having actual computable knowledge
+											completely changes how one can
+											set about understanding language.
+											And, of course, now
+											with Wolfram Alpha actually out in the wild,
+											we can learn from its actual usage.
+											And, in fact, there's been
+											an interesting coevolution that's been going on
+											between Wolfram Alpha
+											and its human users,
+											and it's really encouraging.
+											Right now, if we look at web queries,
+											more than 80 percent of them get handled successfully the first time.
+											And if you look at things like the iPhone app,
+											the fraction is considerably larger.
+											So, I'm pretty pleased with it all.
+									","
+											Bueno, una idea crucial de Wolfram Alpha
+											es que uno le pueda simplemente hacer preguntas
+											utilizando lenguaje humano común,
+											lo que significa que debemos ser capaces de tomar
+											todas esas frases extrañas que la gente tipea en el campo de ingreso
+											y entenderlas.
+											Y debo admitir que yo pensé que ese paso
+											podría ser directamente imposible.
+											Dos grandes cosas ocurrieron.
+											Primero, un grupo de nuevas ideas sobre lingüística
+											que vinieron de estudiar el universo computacional.
+											Y segundo, la noción de que tener conocimiento computable real
+											cambia completamente cómo uno puede
+											intentar comprender el lenguaje.
+											Y, por supuesto, ahora
+											con Wolfram Alpha suelto en el mundo,
+											podemos aprender de su uso real.
+											Y de hecho, ha sido
+											una co-evolución interesante la que ha estado ocurriendo
+											entre Wolfram Alpha
+											y sus usuarios humanos.
+											Y es de veras alentador.
+											Ahora mismo, si vemos estas búsquedas desde la web,
+											más del 80% logran ser respondidas en forma satisfactoria en el primer intento.
+											Y si uno ve cosas como las aplicaciones para el iPhone,
+											la proporción es considerablemente mayor.
+											Por lo que estoy bastante satisfecho con todo esto.
+									","
+											Wolfram Alpha hakkındaki en önemli fikir
+											sıradan konuşma dilini kullanarak
+											ona soru sorabilmektir,
+											bu demektir ki insanların girdi alanına yazdığı
+											tüm o tuhaf ifadeleri bir kenara atmak ve o yazılanları
+											anlamlandırmaktır.
+											Ve şunu söylemeliyim ki bu adım
+											son derece imkansız olabilir.
+											İki büyük şey oldu.
+											İlki, hesaplama evrenini araştırmaktan gelen
+											dilbilim ile ilgili birtakım yeni fikirlerdir.
+											Ve ikincisi, gerçekten hesaplanabilir bilgiye sahip olmak
+											birinin dili anlama girişimini
+											tamamen değiştirdiğinin farkına varmaktır.
+											Ve, tabii ki, şimdi
+											Wolfram Alpha ortalıkta geziniyorken,
+											onun gerçek kullanımından bir şeyler öğrenebiliriz.
+											Ve Wolfram Alpha ile
+											onun kullanıcıları arasında gerçekten ilginç bir
+											ortak evrimleşme süreci
+											meydana gelmiştir.
+											Ve bu gerçekten cesaret verici.
+											Şu anda web sorgularına bakarsak,
+											%80'i ilk seferde başarıyla cevaplanıyor.
+											Ve iPhone uygulaması gibi şeylere bakarsanız,
+											bu oran oldukça daha büyük.
+											Yani tüm bunlardan memnunum.
+									","
+											Eh bien, une idée essentielle de Wolfram Alpha
+											est que vous pouvez juste lui poser des questions
+											en utilisant le langage humain ordinaire,
+											ce qui signifie que nous devons être en mesure de prendre
+											tous ces énoncés étranges que les gens tapent dans le champ de saisie
+											et de les comprendre.
+											Je dois dire que je pensais que cette étape
+											pourrait bien être tout bonnement impossible.
+											Deux événements importants ont eu lieu.
+											Tout d'abord, un tas de nouvelles idées sur la linguistique
+											qui venaient de l'étude de l'univers computationnel.
+											Ensuite, la réalisation que d'avoir une connaissance réelle calculable
+											change complètement la façon dont on peut
+											aborder la compréhension du langage.
+											Et, bien sûr, maintenant
+											avec Wolfram Alpha effectivement dans la nature,
+											nous pouvons tirer des conclusions par son utilisation actuelle.
+											Et, en effet, il y a
+											une coévolution intéressante
+											entre Wolfram Alpha
+											et ses utilisateurs humains.
+											C'est vraiment encourageant.
+											À l'heure actuelle, si l'on regarde les requêtes web,
+											plus de 80% sont traitées avec succès la première fois.
+											Si vous regardez l'application iPhone,
+											le pourcentage est beaucoup plus grand.
+											Donc, je suis plutôt content de tout cela.
+									","
+											Nun, eine essentielle Idee von Wolfram Alpha
+											ist es, dass Sie einfach Fragen
+											in normaler menschlicher Sprache stellen können,
+											was bedeutet, dass wir in der Lage sein müssen,
+											all die seltsamen Äußerungen, die Leute in das Eingabefeld tippen, aufzunehmen
+											und sie zu verstehen.
+											Und ich muss sagen, dass ich glaubte, dieser Schritt
+											sei schlicht unmöglich.
+											Zwei wesentliche Dinge passierten.
+											Erstens, ein Haufen neuer Ideen über die Sprachwissenschaft
+											gingen aus den Studien des rechnerischen Universums hervor.
+											Und zweitens, die Realisierung, tatsächlich erechenbares Wissen zu haben,
+											kann sich vollständig ändern, wenn man
+											über das Verständnis von Sprache herangeht.
+											Und, natürlich jetzt,
+											mit Wolfram Alpha eigentlich in freier Wildbahn,
+											können wir von dessen aktueller Nutzung lernen.
+											Und es gab sogar
+											eine interessante Koevolution die stattfand
+											zwischen Wolfram Alpha
+											und dessen Nutzer.
+											Und das ist wahrlich vielversprechend.
+											Im Augenblick, wenn wir einen Blick auf die Webanfragen werfen,
+											werden mehr als 80 Prozent beim ersten Mal erfolgreich bearbeitet.
+											Und wenn Sie einen Blick auf Dinge wie die iPhone Applikation werfen,
+											ist der Anteil erheblich höher.
+											Ich bin also ziemlich zufrieden mit all dem.
+									",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+","
+","
+","
+","
+",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+											But, in many ways,
+											we're still at the very beginning with Wolfram Alpha.
+											I mean, everything is scaling up very nicely
+											and we're getting more confident.
+											You can expect to see Wolfram Alpha technology
+											showing up in more and more places,
+											working both with this kind of public data, like on the website,
+											and with private knowledge
+											for people and companies and so on.
+											You know, I've realized that Wolfram Alpha actually gives one
+											a whole new kind of computing
+											that one can call knowledge-based computing,
+											in which one's starting not just from raw computation,
+											but from a vast amount of built-in knowledge.
+											And when one does that, one really changes
+											the economics of delivering computational things,
+											whether it's on the web or elsewhere.
+									","
+											Pero de varias maneras,
+											estamos todavía en el inicio con Wolfram Alpha.
+											Quiero decir, todo parece estar creciendo muy bien
+											Estamos ganando confianza.
+											Ustedes pueden esperar ver más de la tecnología de Wolfram Alpha
+											apareciendo en más y más lugares,
+											trabajando tanto con este tipo de datos públicos, como en el sitio web,
+											y con datos privados
+											para clientes y compañías y demás.
+											Saben, me he dado cuenta que Wolfram Alpha le da a uno
+											un tipo totalmente nuevo de computación
+											que uno puede llamar computación basada en el conocimiento,
+											en la que uno se inicia, no solo desde la computación neta,
+											sino desde un vasto conocimiento ya construido.
+											Y cuando uno hace eso, uno realmente cambia
+											la economía de la entrega de las cosas computables,
+											ya sea en la web o en cualquier otro lugar.
+									","
+											Fakat birçok yönden,
+											halen Wolfram Alpha'nın en başındayız.
+											Demek istediğim, her şey güzelce büyüyor.
+											Daha da emin oluyoruz.
+											Wolfram Alpha teknolojisinin, daha birçok yerde
+											hem böyle bir sitedeki gibi halka açık
+											veriler üzerinde çalışırken, hem de kişi ve şirketlere has
+											özel veriler üzerinde çalışırken
+											karşınıza çıkmasını umabilirsiniz.
+											Biliyorsunuz, Wolfram Alpha'nın bilgi-tabanlı hesaplama
+											diyebileceğimiz yepyeni bir hesaplama
+											yöntemi sunduğunu fark ettim, ki bu durumda
+											herhangi bir kimse sadece ham veriyle değil
+											aksine çok geniş bir mevcut bilgi hazinesiyle başlıyor.
+											Ve birisini bunu yaptığı vakit, ister internette olsun
+											ister başka yerde sonuçta hesaplanabilir şeyleri
+											dağıtma ekonomisini gerçekten değiştiriyor.
+									","
+											Mais, à bien des égards,
+											nous en sommes encore au tout début avec Wolfram Alpha.
+											Tout cela progresse très bien
+											Nous devenons plus confiants.
+											Vous pouvez vous attendre à voir la technologie Wolfram Alpha
+											apparaître à plus en plus d'endroits,
+											travaillant à la fois avec ce genre de données publiques, comme sur le site,
+											et avec la connaissance privée
+											pour des personnes, des entreprises, etc.
+											Je me suis rendu compte que Wolfram Alpha donne à chacun
+											un tout nouveau type de calcul
+											que l'on peut appeler le calcul fondé sur la connaissance,
+											où l'on ne se base pas seulement sur le calcul brut,
+											mais sur une grande quantité de connaissance intégrée.
+											Quand on fait cela, on change vraiment
+											l'économie de la prestation des choses computationnelles,
+											que ce soit sur le web ou ailleurs.
+									","
+											Aber in vielen Fällen
+											sind wir mit Wolfram Alpha immernoch ganz am Anfang.
+											Ich meine, alles entwickelt sich sehr schön.
+											Wir werden selbstbewusster.
+											Sie können davon ausgehen, dass die Wolfram Alpha Technologie
+											an mehr und mehr Orten auftaucht,
+											arbeitend mit Beiden, dieser Art der öffentlichen Daten, wie auf der Website
+											und mit privatem Wissen
+											für Personen und Firmen und so weiter.
+											Wissen Sie, Ich habe erkannt das Wolfram Alpha einem eigentlich
+											eine ganze neue Art der Berechnung gibt,
+											die man wissensbasiertes Berechnen nennen könnte,
+											bei welcher man, nicht mit einer rohen Berechnung beginnt,
+											sondern mit einer gewaltigen Menge von integriertem Wissen.
+											Und wenn man das tut, ändert man tatsächlich
+											die Ökonomie rechnerische Dingen zu liefern,
+											ob es nun im Web ist oder anderswo.
+									",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+","
+","
+","
+","
+",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+											You know, we have a fairly interesting situation right now.
+											On the one hand, we have Mathematica,
+											with its sort of precise, formal language
+											and a huge network
+											of carefully designed capabilities
+											able to get a lot done in just a few lines.
+											Let me show you a couple of examples here.
+											So here's a trivial piece of Mathematica programming.
+											Here's something where we're sort of
+											integrating a bunch of different capabilities here.
+											Here we'll just create, in this line,
+											a little user interface that allows us to
+											do something fun there.
+											If you go on, that's a slightly more complicated program
+											that's now doing all sorts of algorithmic things
+											and creating user interface and so on.
+											But it's something that is very precise stuff.
+											It's a precise specification with a precise formal language
+											that causes Mathematica to know what to do here.
+									","
+											Saben, tenemos una situación bastante interesante aquí, ahora.
+											Por un lado, tenemos a Mathematica,
+											con su lenguaje un tanto preciso y formal
+											y una extensa red
+											de capacidades cuidadosamente diseñadas
+											capaz de lograr mucho en tan solo unas pocas líneas.
+											Déjenme mostrarles un par de ejemplos aquí.
+											Aquí tenemos una pieza trivial de la programación de Mathematica.
+											Aquí hay algo en lo que estamos
+											integrando un grupo de capacidades distintas si puede ser.
+											Aquí, crearemos solo en esta línea
+											una pequeña interfaz de usuario que nos permite
+											hacer algo divertido aquí.
+											Si uno sigue, ya se convierte en un programa más complicado
+											que está haciendo todo tipo de cosas algorítmicas
+											y creando la interfaz de usuario y demás.
+											Pero es algo que es material muy preciso.
+											Es una indicación precisa con lenguaje preciso y formal
+											que logra que Mathematica sepa qué es lo que debe hacer aquí.
+									","
+											Biliyorsunuz şu anda burada çok ilginç bir durum var.
+											Bir tarafta, muntazam ve net bir dili olan
+											ve birçok alanda özenle tasarlanmış
+											yetenekleri ile
+											birçok işi birkaç satır kod ile
+											yapabilen Mathematica var.
+											Size birkaç örnek göstereyim.
+											Burada küçük bir Matematik programı var.
+											Burada birtakım farklı özellikleri
+											eklediğimiz bir şeyler var.
+											Burada bu çizgide sadece biraz
+											eğlenmemizi sağlayacak bir arayüz
+											oluşturacağız.
+											Devam ederseniz, çeşitli algoritmik şeyler yapan ve
+											kullanıcı arayüzleri oluşturan bu biraz daha
+											karmaşık program ortaya çıkar.
+											Ama bu net şeylerden oluşan bir şeydir.
+											Bur Mathematica'ya ne yapması gerektiğini anlatan
+											gayet muntazam ve net bir tanımlamadır.
+									","
+											Nous vivons une situation assez intéressante en ce moment.
+											D'une part, nous avons Mathematica,
+											avec son genre de langage formel et précis
+											et un vaste réseau
+											de capacités conçues avec soin
+											capables de faire beaucoup de choses en quelques lignes.
+											Permettez-moi de vous montrer quelques exemples ici.
+											Voici un morceau trivial de programmation Mathematica.
+											Voici quelque chose où nous intégrons
+											en quelque sorte un tas de capacités différentes.
+											Ici, nous allons simplement créer dans cette ligne
+											une petite interface utilisateur qui nous permet de
+											faire quelque chose d'amusant.
+											Si vous continuez, c'est un programme un peu plus compliqué
+											qui est en train de faire toutes sortes de choses algorithmiques,
+											et de créer l'interface utilisateur.
+											Mais c'est quelque chose de très précis.
+											Il s'agit d'une description précise d'un langage formel précis
+											qui fait que Mathematica sait quoi faire ici.
+									","
+											Wissen Sie, wir haben gerade eine ziemlich interessante Situation.
+											Auf der einen Seite haben wir Mathematica,
+											mit dessen Art von präziser, formaler Sprache
+											und einem großen Netzwerk
+											von sorgfälltig entwickelten Kapazitäten,
+											fähig, eine Menge mit nur ein paar Zeilen zu erledigen.
+											Lassen Sie mich hier einige Beispiele zeigen.
+											Also hier haben wir ein gewöhnliches Stück der Mathematica Programmierung.
+											Hier ist etwas, wo wir irgendwie
+											eine Menge unterschiedlicher Möglichkeiten integrieren.
+											Hier in dieser Zeile erstellen wir gerade
+											eine kleine Bedienoberfläche, die es uns erlaubt,
+											dort etwas lustiges zu machen.
+											Wenn wir weitergehen, ist das ein etwas komplizierteres Programm
+											das hier erledigt Allerlei algorithmische Dinge
+											und erstellt Benutzeroberflächen und so.
+											Aber es ist sehr präzise.
+											Es ist eine präzise Spezifikation mit präziser formaler Sprache,
+											die Mathematica wissen lässt, was hier zu tun ist.
+									",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+","
+","
+","
+","
+",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+											Then on the other hand, we have Wolfram Alpha,
+											with all the messiness of the world
+											and human language and so on built into it.
+											So what happens when you put these things together?
+											I think it's actually rather wonderful.
+											With Wolfram Alpha inside Mathematica,
+											you can, for example, make precise programs
+											that call on real world data.
+											Here's a real simple example.
+											You can also just sort of give vague input
+											and then try and have Wolfram Alpha
+											figure out what you're talking about.
+											Let's try this here.
+											But actually I think the most exciting thing about this
+											is that it really gives one the chance
+											to democratize programming.
+											I mean, anyone will be able to say what they want in plain language.
+											Then, the idea is that Wolfram Alpha will be able to figure out
+											what precise pieces of code
+											can do what they're asking for
+											and then show them examples that will let them pick what they need
+											to build up bigger and bigger, precise programs.
+											So, sometimes, Wolfram Alpha
+											will be able to do the whole thing immediately
+											and just give back a whole big program that you can then compute with.
+											Here's a big website
+											where we've been collecting lots of educational
+											and other demonstrations about lots of kinds of things.
+											I'll show you one example here.
+											This is just an example of one of these computable documents.
+											This is probably a fairly small
+											piece of Mathematica code
+											that's able to be run here.
+									","
+											Bien, por otro lado, tenemos a Wolfram Alpha,
+											con todo el revuelo del mundo
+											y el lenguaje humano y demás ingresado en él.
+											Entonces ¿qué pasa si juntamos estas dos cosas?
+											Yo de hecho creo que es algo maravilloso.
+											Con Wolfram Alpha dentro de Mathematica,
+											uno puede, por ejemplo, hacer programas precisos
+											que utilicen datos del mundo real.
+											Aquí tenemos un ejemplo realmente simple.
+											Uno también puede ingresar datos un tanto vagos
+											y luego intentar que Wolfram Alpha
+											intente deducir de qué estamos hablando.
+											Intentemos esto aquí.
+											Pero de hecho creo que lo más interesante de esto
+											es que le da a uno la posibilidad
+											de democratizar la programación.
+											Quiero decir, cualquiera puede en lenguaje diario intentar decir qué quieren,
+											luego, la idea es que, Wolfram Alpha sea capaz de deducir
+											las piezas precisas de código que
+											puedan llevar a cabo lo que uno le está pidiendo
+											y luego mostrar ejemplos que permitan al usuario elegir lo que necesiten
+											para construir programas cada vez más grandes y más precisos.
+											Así que, a veces, Wolfram Alpha
+											podrá hacer todo de forma inmediata
+											y devolver el programa completo para que uno pueda computar.
+											Entonces, aquí tenemos un gran sitio web
+											en el cual hemos ido recolectando muchas demonstraciones
+											educativas y de muchas otras cosas.
+											Pues, no sé, les muestro un ejemplo, tal vez aquí.
+											Este es tan solo un ejemplo de esos documentos computables.
+											Esto es posiblemente una pequeña porción
+											de código de Mathematica
+											que puede ejecutarse aquí.
+									","
+											Diğer tarafta elimizde dünyanın ve insan dilinin
+											tüm karmaşıklığının ve diğer şeylerin
+											gömülü olduğu Wolfram Alpha var.
+											Peki bu şeyleri bir araya koyduğunuzda ne olur?
+											Bence oldukça harika olur.
+											Mathematica'nın içinde Wolfram Alpha ile
+											örneğin, gerçek dünya verilerini alan
+											muntazam programlar yapabilirsiniz.
+											Burada çok basit bir örnek var.
+											Ayrıca belirsiz ifadeler de girebilirsiniz
+											ve Wolfram Alpha'nın ne demek istediğinizi
+											anlamaya çalışmasını deneyebilirsiniz.
+											Haydi burada deneyelim.
+											Fakat bence burada gerçekten heyecan verici olan şey
+											bunun bize programlamayı demokratikleştirme
+											şansı vermesidir.
+											Demek istediğim, herhangi bir kimse ne istediğini gündelik dilde söyleyecek,
+											ve, esas fikir, Wolfram Alpha bu yazılanlarla istenen şeyi tam olarak
+											hangi kodun yapabileceğini
+											bulmaya çalışacak ve onlara
+											daha büyük ve net programlar inşa etmelerini sağlayacak örnekler sunup
+											bunlar arasından istediklerini seçmelerini sağlayacak.
+											Bazen, Wolfram Alpha
+											istenen her şeyi anında yapabilecek
+											ve ardından hesaplamayı yapabileceğin büyük programı tümüyle verecek.
+											Burada birçok eğitsel malzemenin
+											ve diğer birçok şey hakkında topladığımız bir sürü
+											örneklerin yer aldığı büyük bir web sitesi var.
+											Bilmiyorum, size bir örnek göstereceğim, belki burada.
+											Bu sadece tüm bu hesaplanabilir belgelerin bir örneği.
+											Bu, burada çalışabilen
+											muhtemelen oldukça kısa bir
+											Mathematica kodudur.
+									","
+											Eh bien, d'autre part, nous avons Wolfram Alpha,
+											avec toutes les désordres du monde
+											et le langage humain par-dessus.
+											Alors, que se passe-t-il quand vous mettez ces choses ensemble?
+											Je pense que c'est en fait assez merveilleux.
+											Avec Wolfram Alpha à l'intérieur de Mathematica,
+											vous pouvez, par exemple, faire des programmes précis
+											qui font appel à des données du monde réel.
+											Voici un exemple très simple.
+											Vous pouvez aussi entrer quelque chose de vague
+											puis essayer que Wolfram Alpha
+											comprenne ce dont vous parlez.
+											Essayons de voir ici.
+											Mais en réalité, je crois que la chose la plus passionnante à ce sujet
+											est que cela donne vraiment la possibilité
+											de démocratiser la programmation.
+											N'importe qui, capable de dire ce qu'il veut en langage naturel,
+											eh bien, l'idée est que Wolfram Alpha sera capable de comprendre
+											précisément quelles parties de code
+											pourront faire ce qu'on lui demande,
+											puis montrer les exemples qui permettront de choisir ce dont on a besoin
+											pour construire des programmes précis de plus en plus importants.
+											Alors, parfois, Wolfram Alpha
+											sera en mesure de faire tout ça tout de suite
+											et juste de redonner un seul programme avec lequel vous pouvez ensuite calculer.
+											Voici un grand site web
+											où nous avons recueilli beaucoup de démonstrations
+											éducatives sur toutes sortes de choses.
+											Au hasard, je vais vous montrer un exemple, peut-être ici.
+											Ce n'est qu'un exemple d'un de ces documents informatisés.
+											C'est probablement un assez petit
+											morceau de code Mathematica
+											qui est capable de fonctionner ici.
+									","
+											Nun, auf der anderen Seite haben wir Wolfram Alpha,
+											mit allen Arten von Unordnung der Welt
+											und menschlicher Sprache und so weiter implementiert.
+											Was passiert , wenn man diese beiden Dinge kombiniert?
+											Ich glaube, es ist ziemlich erstaunlich.
+											Mit Wolfram Alpha innerhalb Mathematica,
+											können Sie zum Beispiel präzise Programme erstellen,
+											die Daten aus der echten Welt abrufen.
+											Hier ist ein einfaches Beispiel.
+											Sie können auch einfach nur eine ungenaue Eingabe machen
+											und dann versuchen, Wolfram Alpha
+											herauszufinden zu lassen wovon Sie sprechen.
+											Lassen Sie uns das hier probieren.
+											Aber eigentlich glaube ich, dass wohl aufregendste daran ist,
+											dass es einem wirklich die Möglichkeit gibt,
+											Programmierung zu demokratiiseren.
+											Ich meine, jeder wird in der Lage sein, dass was er wissen will in einfacher Sprache zu formulieren,
+											die Idee ist es dann, dass Wolfram Alpha imstande ist, herauszufinden
+											welche präzisen Teile von Code
+											das machen kann, wonach gefragt wird
+											und dann Beispiele zeigt, aus welchen dann gewählt werden kann,
+											um größere und größere, präzisere Programme zu erstellen.
+											Also manchmal wird Wolfram Alpha
+											in der Lage sein, dass Ganze sofort zu erledigen
+											und es gibt dann einfach ein großes Programm zurück, mit dem Sie dann rechnen können.
+											Hier ist eine große Website,
+											auf der wir eine Menge bildungsrelevanter Informationen
+											und andere Demonstrationen über eine Menge von Dingen gesammelt haben.
+											Also, Ich weiß nicht, Ich zeige Ihnen hier vielleicht ein Beispiel.
+											Das ist einfach ein Beispiel eines dieser errechneten Dokumente.
+											Das ist vermutlich ein ziemlich kleiner
+											Teil Mathematica Code
+											was imstande ist, das hier laufen zu lassen.
+									",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+","
+","
+","
+","
+",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+											Okay. Let's zoom out again.
+											So, given our new kind of science,
+											is there a general way to use it to make technology?
+											So, with physical materials,
+											we're used to going around the world
+											and discovering that particular materials
+											are useful for particular
+											technological purposes.
+											Well, it turns out we can do very much the same kind of thing
+											in the computational universe.
+											There's an inexhaustible supply of programs out there.
+											The challenge is to see how to
+											harness them for human purposes.
+											Something like Rule 30, for example,
+											turns out to be a really good randomness generator.
+											Other simple programs are good models
+											for processes in the natural or social world.
+											And, for example, Wolfram Alpha and Mathematica
+											are actually now full of algorithms
+											that we discovered by searching the computational universe.
+											And, for example, this — if we go back here —
+											this has become surprisingly popular
+											among composers
+											finding musical forms by searching the computational universe.
+											In a sense, we can use the computational universe
+											to get mass customized creativity.
+											I'm hoping we can, for example,
+											use that even to get Wolfram Alpha
+											to routinely do invention and discovery on the fly,
+											and to find all sorts of wonderful stuff
+											that no engineer
+											and no process of incremental evolution would ever come up with.
+									","
+											OK. Alejemos de nuevo el foco.
+											Entonces, con nuestro nuevo tipo de ciencia,
+											¿existe una forma general de utilizarlo para hacer tecnología?
+											Entonces, con materiales físicos,
+											estamos habituados a andar por el mundo
+											y a descubrir que esos materiales en particular
+											son útiles para propósitos
+											tecnológicos en particular y demás.
+											Bueno, parece ser, que podemos hacer prácticamente lo mismo
+											en el universo computacional.
+											Existe una fuente inagotable de programas en el mundo.
+											El desafío es ver cómo
+											encauzarlos para propósitos humanos.
+											Algo como la regla 30, por ejemplo,
+											parece ser un muy buen generador de azar.
+											Otros programas simples son buenos modelos
+											de procesos en el mundo natural o en el mundo social.
+											Y, por ejemplo, Wolfram Alpha y Mathematica
+											están de hecho ahora llenos de algoritmos
+											que decubrimos buscando en el universo computacional.
+											Y, por ejemplo, esto - volvemos aquí-
+											Esto es sorprendentemente popular
+											entre compositores
+											que buscan formas musicales en el universo computacional.
+											De alguna manera, podemos usar el universo computacional
+											para lograr creatividad en masa personalizada.
+											Estoy deseando poder, por ejemplo,
+											utilizar Wolfram Alpha para que
+											haga inventos y descubrimientos de forma rutinaria
+											y que logre hallar todo tipo de material fantástico
+											que ningún ingeniero
+											ni proceso de evolución gradual pueda lograr jamás.
+									","
+											Pekala, tekrar uzaklaşalım.
+											Pekala, bu yeni bilim türümüzü
+											teknoloji üretmek için kullanacağımız genel bir yöntem var mı?
+											Söz konusu fiziksel maddeler olunca
+											dünyayı dolaşıp belirli maddelerin
+											belirli teknolojik amaçlar için uygun
+											olup olmadığını
+											araştırmaya alışmışız.
+											Görünen o ki aynı şeyi hesaplama evreninde de
+											yapabiliriz.
+											Bitmez tükenmez bir program kaynağı var dışarıda.
+											Asıl mesele onları insanların
+											kullanımı için nasıl toplayacağımızdır.
+											Örneğin Kural 30'un gerçekten
+											iyi bir rastgelelik üreticisi olması gibi.
+											Diğer basit programlar doğal ve sosyal
+											dünyadaki işlemler için iyi modeldir.
+											Ve, örneğin, Wolfram Alpha ve Mathematica
+											gerçekten bizim hesaplama evrenini
+											araştırırken keşfettiğimiz algoritmalarla doludur.
+											Ve, örneğin, bu — buraya geri dönüyoruz —
+											Bu, hesaplama evreninde arama yaparak
+											müziksel yapılar bulan
+											besteciler arasında şaşırtıcı derecede popüler oldu.
+											Bir anlamda, kitlece düzenlenmiş yaratıcılığı
+											edinmek için hesaplama evrenini kullanabiliriz.
+											Umuyorum ki, örneğin,
+											Wolfram Alpha'yı rutin olarak
+											icat ve keşif yapmak ve hiçbir mühendisin
+											ve hiçbir artan evrim sürecinin
+											bulamayacağı
+											tüm bu harika şeyleri bulmak için kullanabiliriz.
+									","
+											Très bien. Effectuons un zoom arrière.
+											Ainsi, compte tenu de notre nouvelle science,
+											y a-t-il une manière générale de l'utiliser pour créer de la technologie?
+											Ainsi, avec des matériaux physiques,
+											nous sommes habitués à faire le tour du monde
+											et découvrir que des matériaux particuliers
+											sont utiles pour des objectifs
+											technologiques particuliers.
+											Eh bien, il s'avère que nous pouvons faire quasiment la même chose
+											dans l'univers computationnel.
+											Il existe une source inépuisable de programmes.
+											Le défi consiste à voir comment
+											les exploiter à des fins humaines.
+											Quelque chose comme la règle 30, par exemple,
+											s'avère être un vraiment bon générateur aléatoire.
+											D'autres programmes simples sont de bons modèles
+											pour les processus dans le monde naturel ou social.
+											Et, par exemple, Wolfram Alpha et Mathematica
+											sont en fait maintenant chargés d'algorithmes
+											que nous avons découverts en fouillant l'univers computationnel.
+											Et, par exemple, - retournons sur -
+											ceci est devenu étonnamment populaire
+											parmi les compositeurs
+											qui trouvent des formes musicales en explorant l'univers computationnel.
+											En un sens, nous pouvons utiliser l'univers computationnel
+											pour obtenir une créativité de masse sur mesure.
+											J'espère que nous pourrons, par exemple,
+											utiliser cela même pour que Wolfram Alpha
+											fasse systématiquement des inventions et des découvertes à la volée
+											et trouve toutes sortes de choses merveilleuses
+											qu'aucun ingénieur
+											et aucun processus d'évolution progressive n'auraient jamais trouvé.
+									","
+											Okay. Gehen wir nochmal einen Schritt zurück.
+											Also, gibt es in Anbetracht unserer neuen Art der Wissenschaft
+											einen allgemeinen Weg sie zu nutzen, um Technologie zu schaffen?
+											Also, mit physikalischen Materialuntersuchungen,
+											sind wir es quasi gewohnt, um die Welt zu gehen
+											und zu erkennen, dass bestimmte Stoffe
+											sinnvoll für bestimmte
+											technologische Zwecke und so weiter sind.
+											Nun, es hat sich gezeigt, dass wir sehr viel davon auch
+											im rechnerischen Universum tun können.
+											Es ist ein unerschöpflicher Vorrat von Programmen da draussen.
+											Die Herausforderung ist es, zu verstehen, wie man
+											sie für menschliche Zwecke nutzbar machen kann.
+											Etwas wie Regel 30 zum Beispiel,
+											scheint ein ziemlich guter Zufallsgenerator zu sein.
+											Andere einfache Programme sind gute Modelle
+											für Vorgänge in der Natur oder sozialen Welt.
+											Und, zum Beispiel, Wolfram Alpha und Mathematica
+											sind nun vollgestopft mit Algorithmen
+											die wir auf der Suche nach dem rechnerischen Universum entdeckt haben.
+											Und, zum Beispiel, dieses — gehen wir hierhin zurück —
+											Dieses wurde überraschenderweise bekannt
+											unter Komponisten
+											um musikalische Formen zu finden während man das rechnerische Universum durchsucht.
+											In gewisser Hinsicht können wir das rechnerische Universum nutzen,
+											für massenhafte individuelle Kreativität.
+											Ich hoffe wir können es, zum Beispiel,
+											auch nutzen, um auch Wolfram Alpha
+											routinemäßig irgendwie spontan erfinden und entdecken zu lassen
+											und um all die Arten von wundervollen Dingen zu finden,
+											die keine Manipulation
+											und kein Prozess inkrementeller Evolution jemals hervorbringen würde.
+									",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+","
+","
+","
+","
+",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+											Well, so, that leads to kind of an ultimate question:
+											Could it be that someplace out there in the computational universe
+											we might find our physical universe?
+											Perhaps there's even some quite simple rule,
+											some simple program for our universe.
+											Well, the history of physics would have us believe
+											that the rule for the universe must be pretty complicated.
+											But in the computational universe,
+											we've now seen how rules that are incredibly simple
+											can produce incredibly rich and complex behavior.
+											So could that be what's going on with our whole universe?
+											If the rules for the universe are simple,
+											it's kind of inevitable that they have to be
+											very abstract and very low level;
+											operating, for example, far below
+											the level of space or time,
+											which makes it hard to represent things.
+											But in at least a large class of cases,
+											one can think of the universe as being
+											like some kind of network,
+											which, when it gets big enough,
+											behaves like continuous space
+											in much the same way as having lots of molecules
+											can behave like a continuous fluid.
+											Well, then the universe has to evolve by applying
+											little rules that progressively update this network.
+											And each possible rule, in a sense,
+											corresponds to a candidate universe.
+									","
+											Bien, eso nos lleva a la pregunta última.
+											¿Puede que en algún lugar del universo computacional
+											encontremos nuestro universo físico?
+											Tal vez exista una regla simple,
+											un programa simple para nuestro universo.
+											Bueno, la historia de la física nos hace creer que
+											la regla para el universo debe ser bastante complicada.
+											Pero en el universo computacional
+											ya hemos visto cuán simples son las reglas y
+											cómo pueden producir comportamientos tan ricos y complejos.
+											Entonces, ¿puede ser que sea eso lo que ocurre con todo nuestro universo?
+											Si las reglas para el universo son simples,
+											es bastante inevitable que tengan que ser
+											muy abstractas y a niveles muy básicos,
+											operando, por ejemplo, muy por debajo
+											del nivel del espacio o del tiempo,
+											lo que hace que la representación de las cosas sea difícil.
+											Pero en por lo menos una gran categoría de casos,
+											uno puede concebir el universo como
+											una especie de red,
+											que, cuando llega a ser suficientemente grande
+											se comporta como espacio continuo
+											de la misma manera que muchas moléculas
+											pueden comportarse como un fluido continuo.
+											Bien, cuando el universo tiene que evolucionar aplica
+											pequeñas reglas que progresivamente actualizan su red.
+											Y cada regla posible, de alguna manera,
+											corresponde a un posible universo alternativo.
+									","
+											Bu bizi mutlak soruya götürüyor.
+											Hesaplama evrenin bir yerinde kendi fiziksel evrenimizi
+											bulmamız mümkün müdür?
+											Belki de evrenimiz için oldukça basit bir kural
+											veya basit bir program vardır.
+											Fizik tarihi bizden, evrenin kuralının son derece
+											karmaşık olduğuna inanmamızı isteyecektir.
+											Fakat hesaplama evreninde
+											son derece basit kuralların nasıl oldukça
+											zengin ve karmaşık davranışlar ürettiğini gördük.
+											Bizim bütün evrende de olup biten bu olabilir mi?
+											Eğer evrenin kuralları basitse,
+											onların çok soyut ve çok alt düzeyde olmaları,
+											örneğin bir şeyleri tanımlamayı
+											zorlaştıran zaman ve uzay düzeyinin
+											çok altında işliyor olmaları
+											gerektiği kaçınılmaz olacaktır.
+											Fakat geniş bir vaka sınıfında,
+											evreni bir tür ağ gibi görebiliriz,
+											öyle ki bu ağ
+											yeterince büyük olduğunda
+											aynen birçok molekülün
+											daimi bir sıvı gibi hareket ettiği şekilde
+											davranmaya başlayacaktır.
+											Ardından evren, bu ağı dereceli olarak güncelleyen
+											küçük kuralları uygulayarak evrimleşmek zorundadır.
+											Ve her olası kural, bir şekilde,
+											aday bir evrene karşılık gelir.
+									","
+											Cela mène à une sorte de question ultime.
+											Est-ce que quelque part dans l'univers computationnel
+											nous pourrions trouver notre univers physique?
+											Peut-être qu'il y a même une règle très simple,
+											un programme simple pour notre univers.
+											Eh bien, l'histoire de la physique voudrait nous faire croire
+											que la règle de l'univers doit être assez compliquée.
+											Mais dans l'univers computationnel
+											nous avons vu comment les règles qui sont incroyablement simples
+											peuvent produire des comportements incroyablement riches et complexes.
+											Se pourrait-il qu'il en aille de même pour notre univers tout entier?
+											Si les règles de l'univers sont simples,
+											il est en quelque sorte inévitable qu'elles soient
+											très abstraites et de très faible niveau,
+											opérant, par exemple, bien au-dessous
+											du niveau de l'espace ou du temps,
+											ce qui rend difficile leur représentation.
+											Mais dans une grande variété de cas,
+											on peut penser à l'univers comme étant
+											une sorte de réseau,
+											qui, quand il est assez grand,
+											se comporte comme un espace continu
+											un peu comme si plein de molécules
+											se comportaient comme un fluide continu.
+											Eh bien, l'univers doit évoluer en appliquant
+											des petites règles qui, progressivement, mettent à jour de ce réseau.
+											Et chaque règle possible, en un sens,
+											correspond à un univers candidat.
+									","
+											Nun, das führt also zu einer Art ultimativer Frage.
+											Könnte es sein, das wir irgendwo da draussen im rechnerischen Universum
+											unser physisches Universum finden können?
+											Vielleicht existiert eine recht simple Regel,
+											ein einfaches Programm für unser Universum.
+											Nun, die Geschichte der Physik wollte uns Glauben machen
+											dass die Regel für unser Univserum ziemlich kompliziert sein muss.
+											Aber im rechnerischen Universum
+											haben wir nun gesehen, wie Regeln, die so unglaublich einfach sind,
+											so unfassbar reichhaltiges und komplexes Verhalten produzieren können.
+											Könnte es also sein, dass das mit unserem gesamten Universum passiert?
+											Wenn die Regeln für die Gesamtheit einfach sind,
+											ist irgendwie unausweichlich, dass sie
+											sehr abstrakt und auf niedriger Ebene
+											arbeiten, zum Beispiel, weit unter
+											der Ebene von Raum oder Zeit,
+											was es schwer macht, Dinge zu repräsentieren.
+											Aber in zumindest einer große Klasse von Fällen,
+											kann man davon ausgehen, dass das Universum,
+											eine Art Netzwerk ist,
+											welches sich, wenn es groß genug ist,
+											wie ein unendlicher Raum verhält,
+											ziemlich genau so als würde man eine Menge Moleküle haben,
+											die sich wie eine Flüssigkeit verhalten.
+											Nun, dann muss sich das Universum, durch die Anwendung
+											kleiner Regeln die das Netzwerk zunehmend aktualisieren, entwickeln.
+											Und jede mögliche Regel, gewissermaßen,
+											entspricht einem Kandidaten im Universum,
+									",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+","
+","
+","
+","
+",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+											Actually, I haven't shown these before,
+											but here are a few of the candidate universes
+											that I've looked at.
+											Some of these are hopeless universes,
+											completely sterile,
+											with other kinds of pathologies like no notion of space,
+											no notion of time, no matter,
+											other problems like that.
+											But the exciting thing that I've found in the last few years
+											is that you actually don't have to go very far
+											in the computational universe
+											before you start finding candidate universes
+											that aren't obviously not our universe.
+											Here's the problem:
+											Any serious candidate for our universe
+											is inevitably full of computational irreducibility.
+											Which means that it is irreducibly difficult
+											to find out how it will really behave,
+											and whether it matches our physical universe.
+											A few years ago, I was pretty excited to discover
+											that there are candidate universes with incredibly simple rules
+											that successfully reproduce special relativity,
+											and even general relativity and gravitation,
+											and at least give hints of quantum mechanics.
+											So, will we find the whole of physics?
+											I don't know for sure,
+											but I think at this point it's sort of
+											almost embarrassing not to at least try.
+									","
+											De hecho, nunca había mostrado esto antes,
+											pero hay unos pocos universos alternativos
+											que he explorado.
+											Algunos de ellos son universos sin futuro,
+											completamente estériles,
+											con otras patologías como ausencia de espacio,
+											ausencia de tiempo, sin materia,
+											otros problemas como esos.
+											Pero lo realmente asombroso que he hallado en los últimos años
+											es que uno no tiene que ir de hecho muy lejos
+											en el universo computacional
+											para encontrar universos alternativos
+											que obviamente no sean nuestro universo.
+											Aquí está el problema:
+											Cualquier candidato serio para nuestro universo,
+											está inevitablemente lleno de irreducibilidad computacional,
+											lo que significa que es irreduciblemente difícil
+											ver cómo se va a comportar realmente,
+											y si de hecho coincide con nuestro universo físico.
+											Algunos años atrás, me alegré mucho al descubrir
+											que hay universos alternativos con reglas increíblemente simples
+											que reproducen con éxito la relatividad especial
+											también la relatividad general y la gravitación
+											y hasta nos dan indicios de mecánica cuántica.
+											Entonces, ¿podremos encontrar el mundo de la física completo?
+											No lo sé con seguridad.
+											Pero creo llegado este punto es casi
+											embarazoso no intentarlo.
+									","
+											Aslında, Bunları henüz göstermedim,
+											ama burada benim baktığım birkaç aday evren
+											yer alıyor.
+											Bunların bazıları umutsuz evrenler,
+											tamamen kısır,
+											boşluk, zaman veya maddenin olmadığı diğer
+											patolojiler gibi
+											buna benzer sorunlar.
+											Fakat son birkaç yılda bulduğum heyecan verici şey,
+											bizim evrenimiz olmadığı gayet açık olan aday
+											evrenleri bulmaya başlamak için
+											hesaplama evreninde çok da uzağa
+											gitmeniz gerekmediğidir.
+											İşte problem:
+											Bizim evrenimiz için ciddi bir aday,
+											mutlak şekilde sayısal indirgenmezlikle doludur,
+											bu da demektir ki, onun gerçekten nasıl
+											davranacağını veya fiziksel evrenimizle
+											eşleşip eşleşmediğini kestirmek indirgenemez derecede zordur.
+											Birkaç yıl önce izafiyet teorisini ve hatta
+											genel görelilik kuramı ve yer çekimini başarılı bir şekilde kopyalayan
+											ve en azından kuantum mekaniği hakkında ipuçları veren
+											son derece basit kurallı aday evrenler olduğunu
+											keşfettiğimde oldukça heyecanlanmıştım.
+											Peki, fiziğin tamamını bulabilecek miyiz?
+											Emin değilim.
+											Fakat bence bu aşamada
+											en azından denememek utanç vericidir.
+									","
+											En fait, je n'ai encore jamais montré ceci,
+											mais voici quelques-uns des univers candidats
+											que j'ai observés.
+											Certains de ces univers sont sans espoir,
+											complètement stériles,
+											avec d'autres types de pathologies comme aucune notion de l'espace,
+											aucune notion du temps, pas de matière,
+											d'autres problèmes comme ça.
+											Mais la chose passionnante que j'ai trouvée ces dernières années
+											est que vous n'avez pas besoin d'aller très loin
+											dans l'univers computationnel
+											avant de commencer à trouver des univers candidats
+											qui ne sont pas évidemment pas notre univers.
+											Voici le problème:
+											tout candidat sérieux pour notre univers,
+											est inévitablement plein d'irréductibilité de calcul,
+											ce qui signifie qu'il est irréductiblement difficile
+											de savoir comment il va vraiment se comporter,
+											et s'il correspond à notre univers physique.
+											Il y a quelques années, j'étais plutôt enthousiaste à l'idée de découvrir
+											s'il y avait des univers candidats avec des règles extrêmement simples
+											qui réussissent à reproduire la relativité restreinte
+											et même la relativité générale et la gravitation,
+											et qui au moins donnent des indications de mécanique quantique.
+											Alors, allons-nous trouver l'ensemble de la physique?
+											Je n'en suis pas sûr.
+											Mais je pense qu'à ce stade c'est
+											presque gênant de ne pas au moins essayer.
+									","
+											Eigentlich habe ich das vorher nicht gezeigt,
+											aber hier sind einige der Universums Kandidaten
+											die ich betrachtet habe.
+											Einige davon sind hoffnungslose Universen,
+											komplett steril,
+											mit anderen Arten von Pathologien wie, keine Vorstellung von Raum,
+											keine Vorstellung von Zeit, ohne Bedeutung,
+											andere Probleme wie diese.
+											Aber das Aufregende, dass ich in den letzten Jahren entdeckte
+											ist, dass Sie eigentlich nicht weit gehen müssen
+											im rechnerischen Universum
+											um Kandidaten Universen zu finden,
+											die offensichtlich nicht unser Universum sind.
+											Hier ist das Problem:
+											Irgend ein ernsthafter Kandidat für unser Universum
+											ist zwangsläufig voll mit rechnerischer Nichtreduzierbarkeit,
+											was bedeutet, dass es minimal kompliziert ist
+											herauszufinden wie es sich wirklich verhalten wird
+											und ob es zu unserem physischen Universum passt.
+											Vor einigen Jahren war ich ziemlich aufgeregt bei der Entdeckung,
+											dass es Kandidaten Universen mit unglaublich einfachen Regeln gibt,
+											die eine spezielle Relativitätstheorie erfolgreich reproduzieren
+											und auch die allgemeine Relativitätstheorie und Gravitation
+											und zumindest Hinweise auf die Quantenmechanik geben.
+											Werden wir also die ganze Physik entdecken?
+											Ich bin mir nicht sicher.
+											Aber ich denke, an dieser Stelle ist es irgendwie
+											fast beschämend, es nicht wenigstens zu versuchen.
+									",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+","
+","
+","
+","
+",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+											Not an easy project.
+											One's got to build a lot of technology.
+											One's got to build a structure that's probably
+											at least as deep as existing physics.
+											And I'm not sure what the best way to organize the whole thing is.
+											Build a team, open it up, offer prizes and so on.
+											But I'll tell you, here today,
+											that I'm committed to seeing this project done,
+											to see if, within this decade,
+											we can finally hold in our hands
+											the rule for our universe
+											and know where our universe lies
+											in the space of all possible universes ...
+											and be able to type into Wolfram Alpha, ""the theory of the universe,""
+											and have it tell us.
+									","
+											No es un proyecto fácil.
+											Uno debe construir mucha tecnología.
+											Uno debe construir una estructura que sea posiblemente
+											tan profunda como la física ya existente.
+											Y no estoy seguro de cuál es la mejor manera de organizar todo eso.
+											Crear un equipo, abrirlo al mundo, ofrecer premios y demás.
+											Pero les digo aquí ahora
+											que me comprometo a ver este proyecto realizado,
+											para ver, si, dentro de esta década,
+											podemos finalmente tener en nuestras manos
+											la regla de nuestro universo
+											y saber dónde yace nuestro universo
+											en el espacio de todos los universos posibles
+											y podremos escribir en Wolfram Alpha ""Teoría del universo"",
+											y que nos la cuente.
+									","
+											Kolay bir proje değil.
+											Çok teknoloji oluşturmak zorundayız.
+											Muhtemelen en az mevcut fizik kadar derin
+											yapılar inşa etmeliyiz.
+											Ve tüm bunu organize edecek en iyi yöntemin ne olduğundan emin değilim.
+											Bir takım oluştur, aç dünyaya, ödüller ver vb.
+											Fakat bugün burada size
+											bu on yıl için evrenimizin kuralını elimizde
+											tutup tutamayacağımızı,
+											ve evrenimizin tüm aday evrenler
+											içinde nerede yer aldığını
+											görüp göremeyeceğimizi,
+											ve Wolfram Alpha'ya ""evrenin teorisi"" yazınca
+											onun bize anlatıp anlatamayacağını görebilmek için bu projenin bitmesine
+											kendimi adadığımı söyleyeceğim.
+									","
+											Pas un projet facile.
+											On doit construire beaucoup de technologie.
+											On doit construire une structure qui est probablement
+											au moins aussi profonde que la physique actuelle.
+											Et je ne suis pas sûr de savoir quel est le meilleur moyen d'organiser tout cela.
+											Constituer une équipe, l'ouvrir, offrir des prix, etc.
+											Mais je vous dis ici aujourd'hui
+											que je suis déterminé à voir ce projet se réaliser,
+											pour voir si, dans cette décennie,
+											nous pouvons enfin tenir dans nos mains
+											la règle de notre univers
+											et savoir où se trouve notre univers
+											dans l'espace de tous les univers possibles -
+											et être capable de taper dans Wolfram Alpha ""la théorie de l'univers"",
+											et qu'il nous le dise.
+									","
+											Kein einfaches Projekt.
+											Man hat eine Menge Technologie zu erschaffen.
+											Man hat eine Struktur zu erschaffen, die wahrscheinlich
+											mindestens so tief ist, wie die schon existierende Physik.
+											Und ich bin mir nicht sicher, was der beste Weg ist, um das ganze Ding zu organisieren.
+											Erschaffe ein Team, motiviere es, biete Preise und so weiter.
+											Aber ich sage Ihnen heute,
+											dass ich engagiert bin, dass Projekt zu erledigen,
+											um zu sehen, ob wir innerhalb dieser Dekade,
+											endlich die Gesetzmäßigkeit für unser Universum
+											in den Händen halten
+											und wissen wo unser Universum liegt,
+											im Raum aller möglichen Universen
+											und in der Lage sind, die Theorie des Universum in Wolfram Alpha einzugeben
+											und sie uns von ihm sagen zu lassen.
+									",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+","
+","
+","
+","
+",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+											(Laughter)
+									","
+											(risas)
+									","
+											(Gülüşmeler)
+									","
+											(Rires)
+									","
+											(Lachen)
+									",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+","
+","
+","
+","
+",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+											So I've been working on the idea of computation
+											now for more than 30 years,
+											building tools and methods and turning intellectual ideas
+											into millions of lines of code
+											and grist for server farms and so on.
+											With every passing year,
+											I realize how much more powerful
+											the idea of computation really is.
+											It's taken us a long way already,
+											but there's so much more to come.
+											From the foundations of science
+											to the limits of technology
+											to the very definition of the human condition,
+											I think computation is destined to be
+											the defining idea of our future.
+									","
+											Pues llevo trabajando en la idea de la computación
+											durante más de 30 años,
+											creando herramientas y métodos y transformando ideas intelectuales
+											en millones de líneas de código
+											y alimento para granjas de servidores y demás.
+											Con cada año que pasa,
+											me doy cuenta cuánto más poderosa
+											es la idea de la computación.
+											Nos ha llevado lejos ya,
+											pero hay mucho más todavía por venir,
+											desde las bases de la ciencia
+											a los límites de la tecnología
+											a la misma definición de la condición humana,
+											yo creo la que computación está destinada a ser
+											la idea que defina nuestro futuro.
+									","
+											Hesaplama fikri üzerinde 30 yıldan fazladır
+											araçlar ve metotlar oluşturarak,
+											zeki fikirleri miyonlarca satır koda dönüştürerek ve bunları
+											sunucu tarlaları üzerinde
+											öğüterek çalışıyorum.
+											Her geçen yıl ile birlikte,
+											hesaplama fikrinin ne kadar
+											güçlü olduğunu fark ediyorum.
+											Bize zaten uzun bir yol kat ettirdi,
+											fakat bunun dahası var.
+											Bilimin temellerinden
+											teknolojinin limitlerine,
+											bizzat insan durumunun tanımına kadar,
+											bence hesaplamanın kaderi
+											geleceğimizin fikrini tanımlamaktır.
+									","
+											J'ai donc travaillé sur l'idée de calcul
+											depuis plus de 30 ans,
+											en construisant des outils et des méthodes et en transformant des idées intellectuelles
+											en millions de lignes de code
+											et en grain à moudre pour les parcs de serveurs.
+											Année après année,
+											je me rends compte à quel point
+											l'idée de calcul est vraiment plus puissante.
+											Nous avons déjà parcouru un long chemin,
+											mais il y a tellement plus à faire.
+											Des fondations de la science
+											aux limites de la technologie
+											à la définition même de la condition humaine,
+											je pense que le calcul est destiné à être
+											l'idée déterminante de notre avenir.
+									","
+											Ich arbeite nun am Konzept der Berechnung
+											seit über 30 Jahren,
+											entwickle Werkzeuge und Methoden und verwandle intellektuelle Ideen
+											in Millionen Zeilen von Code
+											als Stoff für Großserver.
+											Mit jedem vorübergehenden Jahr,
+											begreife ich, wieviel mächtiger
+											das Konzept der Berechnung wirklich ist.
+											Wir sind nun schon einen langen Weg gegangen,
+											aber es wird noch sehr viel kommen,
+											von den Grundlagen der Wissenschaft
+											hin zu den Grenzen der Technologie
+											gar bis zu den Bedingungen des Menschseins,
+											Ich denke Berechnung ist bestimmt dazu,
+											die Anschauung unserer Zukunft zu prägen.
+									",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+","
+","
+","
+","
+",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+											Thank you.
+									","
+											Gracias.
+									","
+											Teşekkürler.
+									","
+											Merci.
+									","
+											Vielen Dank.
+									",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+","
+","
+","
+","
+",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+											(Applause)
+									","
+											(aplausos)
+									","
+											(Alkış)
+									","
+											(Applaudissements)
+									","
+											(Applaus)
+									",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+","
+","
+","
+","
+",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+											Chris Anderson: That was astonishing.
+											Stay here. I've got a question.
+									","
+											Chris Anderson: Eso fue impresionante.
+											Quédate aquí. Tengo una pregunta.
+									","
+											Chris Anderson: Bu hayret vericiydi.
+											Bekle burada. Bir sorum var.
+									","
+											Chris Anderson: C'était vraiment éblouissant.
+											Restez ici. J'ai une question.
+									","
+											Chris Anderson: Das war beeindruckend.
+											Bleib noch hier, wir haben eine Frage.
+									",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+","
+","
+","
+","
+",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+											(Applause)
+									","
+											(aplausos)
+									","
+											(Alkış)
+									","
+											(Applaudissements)
+									","
+											(Applaus)
+									",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+","
+","
+","
+","
+",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+											So, that was, fair to say, an astonishing talk.
+											Are you able to say in a sentence or two
+											how this type of thinking
+											could integrate at some point
+											to things like string theory or the kind of things that people think of
+											as the fundamental explanations of the universe?
+									","
+											Es justo decir, que eso fue una charla asombrosa.
+											¿Puedes decir en una o dos oraciones
+											cómo este tipo de pensamiento
+											pueda integrarse en elgún punto
+											con cosas como la teoría de cuerdas y el tipo de cosas que la gente cree
+											como los fundamentos de la explicación del universo?
+									","
+											Doğrusu çok şaşırtıcı bir konuşmaydı.
+											Bu tür bir düşünce tarzının nasıl
+											bir şekilde sicim kuramına
+											veya insanların evrenin
+											temel açıklaması olarak gördüğü şeylere bağlanabileceğini
+											bir veya iki cümlede anlatabilir misin?
+									","
+											Alors, c'était, pour être honnête, un exposé éblouissant.
+											Êtes-vous capable de dire en une phrase ou deux
+											comment ce type de réflexion
+											pourrait s'intégrer à un moment donné
+											à des choses comme la théorie des cordes ou le genre de choses que les gens considèrent
+											comme les explications fondamentales de l'univers?
+									","
+											Das war ein überaus eindrucksvoller Vortrag.
+											Kannst du uns in ein zwei Sätzen sagen
+											wie diese Art des Denkens
+											sich irgendwann integrieren könnte
+											in Bereiche wie die Stringtheorie oder die Art von Sachverhalten, die die Menschen für
+											die fundamentale Erklärung des Universums halten?
+									",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+","
+","
+","
+","
+",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+											Stephen Wolfram: Well, the parts of physics
+											that we kind of know to be true,
+											things like the standard model of physics:
+											what I'm trying to do better reproduce the standard model of physics
+											or it's simply wrong.
+											The things that people have tried to do in the last 25 years or so
+											with string theory and so on
+											have been an interesting exploration
+											that has tried to get back to the standard model,
+											but hasn't quite gotten there.
+											My guess is that some great simplifications of what I'm doing
+											may actually have considerable resonance
+											with what's been done in string theory,
+											but that's a complicated math thing
+											that I don't yet know how it's going to work out.
+									","
+											Stephen Wolfram: Bueno, las partes de la física
+											que tal vez sepamos que son ciertas,
+											cosas como el modelo estándar de física.
+											Lo que yo intento hacer más vale que reproduzca el modelo estándar de física
+											o si no, simplemente está mal.
+											Las cosas que la gente ha intentado hacer en los últimos 25 años
+											con la teoría de cuerdas y demás
+											ha sido una exploración interesante
+											que ha intentado volver al modelo estándar,
+											pero no han llegado del todo allí.
+											Mi idea es que algunas de las grandes simplificaciones que estoy haciendo
+											puedan de hecho tener una resonancia considerable
+											con lo que se ha hecho en la teoría de cuerdas,
+											pero es un tema matemático complejo
+											que no sé todavía cómo va a funcionar.
+									","
+											Stephen Wolfram: Fiziğin, doğru olduğunu
+											bildiğimiz, örneğin fiziğin standart
+											modelleri gibi taraflarını bağlayabiliriz.
+											Yapmaya çalıştığım şey, fiziğin standart modelini daha iyi şekilde yeniden üretmek
+											veya baştan yanlıştır.
+											İnsanların son 25 küsür yıldır sicim kuramı ve diğer şeyler ile
+											yapmaya çalıştıkları,
+											standart modele dönebilmek için yapılan
+											fakat henüz o noktaya ulaşamayan
+											ilginç araştırmalardır.
+											Benim tahminim yaptığım büyük sadeleştirmelerin
+											sicim kuramında yapılan kadar
+											gerçekten kayda değer etki yapmasıdır,
+											fakat bu henüz nasıl olacağını bilmediğim
+											karmaşık bir matematik şeyidir.
+									","
+											Stephen Wolfram: Eh bien, les parties de la physique
+											que nous tenons pour vraies,
+											des choses comme le modèle standard de la physique.
+											Ce que j'essaie de faire reproduit mieux le modèle standard de la physique
+											ou c'est tout simplement faux.
+											Les choses que les gens ont essayé de faire au cours des 25 dernières années
+											avec la théorie des cordes,
+											ont été une exploration intéressante
+											qui a essayé de revenir au modèle standard,
+											mais ils n'y sont pas tout à fait parvenus.
+											Je pense que certaines simplifications de choses que je fais
+											peuvent en fait avoir une résonance considérable
+											avec ce qui a été fait dans la théorie des cordes,
+											mais c'est une chose mathématique compliquée
+											dont je ne sais pas encore comment elle va tourner.
+									","
+											Stephen Wolfram: Nun, die Teile der Physik
+											die wir für wahr halten,
+											Dinge, wie das Standardmodell der Physik.
+											Ich versuche die Reproduktion des Standardmodells der Physik besser hinzubkommen
+											sie ist einfach falsch.
+											Diese Sachen, die die Leute in den letzten 25 Jahren oder so versucht haben,
+											mit der Stringtheorie und so
+											sind interessante Erforschungen gewesen
+											die versucht haben zurück zum Standardmodell zu führen,
+											aber es nicht wirklich hinbekommen haben.
+											Meine Annahme ist, dass einige große Vereinfachungen bei dem was ich tue,
+											tatsächlich erhebliche Resonanz auf das haben könnte,
+											was mit der Stringtheorie getan wurde,
+											aber das ist ein kompliziertes mathematisches Ding,
+											was ich bislang noch nicht herausgefunden habe.
+									",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+","
+","
+","
+","
+",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+											CA: Benoit Mandelbrot is in the audience.
+											He also has shown how complexity
+											can arise out of a simple start.
+											Does your work relate to his?
+									","
+											CA: Benoit Mandlebrot está entre nuestro público.
+											Él también ha demostrado cómo la complejidad
+											puede surgir de un inicio simple.
+											¿Cómo se relaciona su trabajo al de él?
+									","
+											CA: Dinleyiciler arasında Benoit Mandlebrot var.
+											O da basit bir başlangıçtan nasıl
+											karmaşıklık çıkacağını göstermiştir.
+											Senin çalışman bununla alakalı mı?
+									","
+											CA: Benoit Mandelbrot est dans le public.
+											Il a également montré comment la complexité
+											peut découler d'un début simple.
+											Votre travail a-t-il un rapport avec le sien?
+									","
+											CA: Benoit Mandlebrot sitzt im Publikum.
+											Er hat ebenso gezeigt, wie Komplexität
+											sich von einem einfachen Anfang entwickeln kann.
+											Bezieht sich deine Arbeit darauf?
+									",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+","
+","
+","
+","
+",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+											SW: I think so.
+											I view Benoit Mandelbrot's work
+											as one of the founding contributions
+											to this kind of area.
+											Benoit has been particularly interested
+											in nested patterns, in fractals and so on,
+											where the structure is something
+											that's kind of tree-like,
+											and where there's sort of a big branch that makes little branches
+											and even smaller branches and so on.
+											That's one of the ways
+											that you get towards true complexity.
+											I think things like the Rule 30 cellular automaton
+											get us to a different level.
+											In fact, in a very precise way, they get us to a different level
+											because they seem to be things that are
+											capable of complexity
+											that's sort of as great as complexity can ever get ...
+									","
+											SW: Ya lo creo.
+											Yo veo el trabajo de Benoit Mandlebrot
+											como una de las contribuciones fundacionales
+											a este tipo de área.
+											Benoit se ha interesado especialmente
+											en clases anidadas, en fractales y demás,
+											en donde la estructura es algo
+											que es como un árbol,
+											y donde hay una especie de rama grande que genera pequeñas ramas,
+											y ramas más pequeñas y demás.
+											Ese es como uno de los caminos
+											que uno recorre hacia la complejidad verdadera.
+											Yo creo que cosas como el autómata celular de la regla 30
+											nos llevan a un nivel diferente.
+											De hecho, de una manera muy precisa nos llevan a un nivel distinto
+											porque parecen ser cosas que son
+											capaces de una complejidad
+											que es como la mayor complejidad a la que se puede llegar...
+									","
+											SW: Öyle sanırım.
+											Benoit Mandlebrot'un çalışmalarını
+											bu tür alanların temel taşı olarak
+											görüyorum.
+											Benoit özellikle iç içe kalıplar,
+											fraktallar ve yapının
+											bir ağacın dallarına benzeyen
+											büyük dallardan küçüklerin çıktığı
+											ve küçük dallardan da daha küçüklerinin çıktığı
+											yapılara ilgi duyuyor.
+											Bu gerçek karmaşıklığa giden
+											yollardan bir tanesidir.
+											Bence, kural 30 gibi hücre otomasyonları bizi
+											farklı seviyelere götürür.
+											Aslında bizi farklı bir seviyeye çok net bir yoldan götürüyorlar
+											çünkü onlar karmaşıklık oluşturabilen
+											şeyler gibiler
+											bu karmaşıklığın olabileceği en büyük hali gibi bir şey ...
+									","
+											SW: Je pense que oui.
+											Je considère le travail de Benoit Mandelbrot
+											comme en quelque sorte une des contributions fondatrices
+											dans ce genre de domaine.
+											Benoit a été particulièrement intéressé
+											par les modèles imbriqués, les fractales, etc,
+											où la structure est quelque chose
+											qui a un peu la forme d'un arbre,
+											et où il y a une grosse branche qui fait des petites branches,
+											et des branches encore plus petites, etc.
+											C'est l'un des moyens
+											de s'approcher de la véritable complexité.
+											Je pense que des choses comme l'automate cellulaire de la règle 30
+											nous amène à un niveau différent.
+											En fait, d'une manière très précise, ils nous amènent à un niveau différent
+											parce qu'ils semblent être des choses qui sont
+											capables de complexité
+											qui est presque aussi grande que la complexité puisse jamais être...
+									","
+											SW: Ich denke schon.
+											Ich sehe Benoit Mandlebrots Arbeit
+											als eine Art grundlegenden Beitrag
+											auf diesem Gebiet.
+											Benoit interessierte sich besonders
+											für verschachtelte Muster, Fraktale und so weiter,
+											wo die Struktur irgendwie
+											wie ein Baum ist,
+											bei dem jeder große Zweig weitere kleine Zweige hervorbringt
+											und diese wieder kleinere Zweige und so weiter.
+											Das ist eine Möglichkeit von vielen,
+											um zu wahrer Komplexität zu kommen.
+											Ich denke, Dinge wie Regel 30 der zellulären Automaten
+											bringen uns auf eine andere Ebene.
+											Genau genommen bringen sie uns auf einem sehr präzisen Weg auf eine andere Ebene,
+											weil sie vermutlich Dinge sind,
+											die Komplexität ermöglichen,
+											eine Art von größtmöglicher Komplexität ...
+									",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+","
+","
+","
+","
+",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+											I could go on about this at great length, but I won't. (Laughter) (Applause)
+									","
+											Podría seguir y seguir con esto por mucho rato, pero no lo haré.
+									","
+											Daha çok anlatırım ama lafı uzatmayacağım.
+									","
+											Je pourrais continuer sur ce sujet indéfiniment, mais je ne le ferai pas.
+									","
+											Ich könnte das noch sehr ausführlich besprechen, werde es aber nicht tun.
+									",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+","
+","
+","
+","
+",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+											CA: Stephen Wolfram, thank you.
+									","
+											CA: Stephen Wolfram, gracias.
+									","
+											CA: Stephen Wolfram, teşekkürler.
+									","
+											CA: Stephen Wolfram, merci.
+									","
+											CA: Stephen Wolfram, Vielen Dank.
+									",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+","
+","
+","
+","
+",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+											(Applause)
+									","
+											(aplausos)
+									","
+											(Alkış)
+									","
+											(Applaudissements)
+									","
+											(Applaus)
+									",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"
+"
+","
+","
+","
+","
+",Computing a theory of all knowledge,Stephen Wolfram,19:58,"String theory,biology,complexity,computers,math,physics,science,simplicity"

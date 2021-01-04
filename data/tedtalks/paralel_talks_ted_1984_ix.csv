@@ -1,0 +1,1918 @@
+es,tr,fr,de,title,speaker,duration,tags
+"
+","
+","
+","
+",The birth of Wikipedia,Jimmy Wales,20:01,"business,collaboration,culture,invention,media,open-source,technology,wikipedia"
+"
+											En 1962, Charles Van Doren —más tarde 
+editor jefe de la Enciclopedia Británica—
+											dijo que la enciclopedia ideal debería ser radical —debería dejar de ser prudente.
+											Pero si saben algo de la historia de 
+la Británica desde 1962,
+											fue todo menos radical.
+											Era un tipo de enciclopedia 
+poco arriesgada y muy pesada.
+											Por el contrario, Wikipedia parte de 
+una idea muy radical,
+											que todos imaginemos un mundo
+											en el que todas las personas del planeta
+											dispongan de acceso gratis 
+a todo el conocimiento humano.
+									","
+											1962 yılında, daha sonra Britannica'nin kidemli yayincisi olacak olan Charles Van Doren,
+											ideal bir ansiklopedinin güvenilir olmaktan vazgecip radikal olmasi gerektiğini söylemişti.
+											Ancak, 1962'den bu yana Britannica'nin geçmişine bakacak olursaniz,
+											hiç de radikal olmadığını,
+											ve hala tamamen güvenli ve monoton tipte bir ansiklopedi olduğunu goreceksinizdir.
+											Bunun tam aksine, Vikipedi son derece radikal bir fikirle başlar,
+											ve bu fikir, dünyadaki her insanın
+											insanlığın tüm bilgilerine serbest olarak erişebileceği
+											bir dünyanın hayali üzerine kuruludur.
+									","
+											En 1962, Charles Van Doren, qui devint par la suite rédacteur en chef de l'Enclycopédie Britannica,
+											disait que l'encyclopédie idéale devait être radicale — elle ne devait plus être sûre.
+											Mais si vous connaissez l'histoire de Britannica depuis 1962,
+											l'encyclopédie était tout sauf radicale :
+											toujours extrêmement sûre et indigeste.
+											Wikipédia, à côté de ça, a commencé avec une idée radicale,
+											celle que nous imaginons tous un monde
+											où chaque personne sur la planète
+											ait un accès libre à l'ensemble de la connaissance humaine.
+									","
+											1962 sagte Charles Van Doren, der später leitender Redakteur bei Britannica war,
+											die ideale Enzyklopädie sollte radikal sein — sie sollte aufhören, sicher zu sein.
+											Aber wenn Sie etwas über die Geschichte der Britannica seit 1962 wissen,
+											sehen sie, dass sie alles andere als radikal war:
+											weiterhin ein komplett sicherer, schwerfälliger Typ Enzyklopädie.
+											Wikipedia, auf der anderen Seite, beginnt mit einer sehr radikalen Idee,
+											und die lautet, uns eine Welt vorzustellen
+											in der jede einzelne Person auf dem Planeten
+											freien Zugang zur Summe allen menschlichen Wissens hat.
+									",The birth of Wikipedia,Jimmy Wales,20:01,"business,collaboration,culture,invention,media,open-source,technology,wikipedia"
+"
+","
+","
+","
+",The birth of Wikipedia,Jimmy Wales,20:01,"business,collaboration,culture,invention,media,open-source,technology,wikipedia"
+"
+											Y eso es lo que hacemos. 
+Así que Wikipedia,
+											— acaban de ver una pequeña demostración de esto—
+											es una enciclopedia de licencia libre. 
+La escriben miles de voluntarios
+											de todo el mundo en muchas lenguas.
+											Se escribe usando software Wiki,
+											que es un tipo de software 
+que se acaba de mostrar
+											—de modo que todos puedan editar y guardar,
+											y aparece de inmediato en internet.
+											Y casi todo lo relativo a Wikipedia se organiza 
+mediante una plantilla de voluntarios.
+											Así que cuando Yochai habla de 
+nuevos métodos de organización,
+											describe justamente Wikipedia. 
+Y lo que haré hoy
+											es hablarles de 
+cómo funciona realmente por dentro.
+									","
+											Ve bizim yaptığımız şey de bu. Vikipedi—
+											az once kisa bir tanitimini gordugunuz, bu ansiklopedi—
+											serbest lisanslı bir ansiklopedidir.Tüm dünyada, binlerce gönüllü tarafından
+											bir cok dilde yazılmaktadır.
+											Vikipedi, Viki yazılım programi kullanarak yazılmıştır -
+											bu yazılım da az önce gördüğünüz tipte bir yazılımdır -
+											herkesin hızlı bir şekilde bilgiyi düzeltmesini ve kaydetmesini saglar
+											ve bunlar anında internette yayınlanır.
+											Ve Vikipedi ile ilgili herşey sanal olarak, tamamen gönüllülerden oluşan bir kadro tarafından yönetilir.
+											Dolayisiyla, aslinda Yochai yeni organizasyon yöntemlerinden bahsederken,
+											tam olarak Vikipedi'yi tanımlıyordu. Ve bugün yapacağım şey,
+											size, bu ansiklopedinin içeriden nasıl çalıştığı hakkında biraz daha bilgi vermek.
+									","
+											Et c'est ce que nous faisons. Donc Wikipédia —
+											vous en avez vu une petite démonstration —
+											est une encyclopédie sous licence libre. Elle est écrite par des milliers de volontaires
+											de toute la planète dans beaucoup, beaucoup de langues.
+											Elle est écrite en utilisant le logiciel Wiki —
+											qui est le type de logiciel qu'il a présenté —
+											— qui permet à n'importe qui d'éditer et de sauvegarder rapidement,
+											et devient immédiatement disponible en ligne.
+											Tout ce qui touche à Wikipédia est dirigé par une équipe virtuelle composée uniquement de volontaires.
+											Donc quand Yochai parle de nouvelles méthodes d'organisation,
+											il décrit exactement Wikipédia. Et ce que je vais faire aujourd'hui
+											c'est vous parler un peu plus de son fonctionnement interne.
+									","
+											Und das ist es, was wir tun. Wikipedia —
+											Sie haben gerade eine kleine Demonstration davon gesehen —
+											ist eine frei lizensierte Enzyklopädie. Sie wird von tausenden Freiwilligen
+											überall auf der Welt in vielen, vielen Sprachen verfasst.
+											Sie wird mittels Wikisoftware geschrieben —
+											das ist die Sorte Software, die gerade vorgeführt wurde
+											— damit jeder schnell bearbeiten und speichern kann
+											und es geht sofort live ins Internet.
+											Alles bei Wikipedia wird fast ausschließlich von Freiwilligen gemanagt.
+											Wenn also Yochai über neue Methoden der Organisation spricht,
+											beschreibt er genau Wikipedia. Und was ich heute tun werde
+											ist, Ihnen ein bißchen mehr davon zu erzählen, wie sie im Inneren funktoniert.
+									",The birth of Wikipedia,Jimmy Wales,20:01,"business,collaboration,culture,invention,media,open-source,technology,wikipedia"
+"
+","
+","
+","
+",The birth of Wikipedia,Jimmy Wales,20:01,"business,collaboration,culture,invention,media,open-source,technology,wikipedia"
+"
+											Wikipedia es propiedad de la Fundación 
+Wikimedia que yo fundé,
+											una organización sin ánimo de lucro. Y el objetivo fundamental de la Fundación Wikimedia,
+											es dar acceso gratuito a una enciclopedia a cada una de las personas del planeta.
+											Así que si piensan en lo que eso significa,
+											implica mucho más que simplemente 
+crear una página web chula.
+											Estamos realmente interesados en 
+la brecha social digital, en la pobreza del mundo,
+											en empoderar a la gente en todas partes 
+para que tengan la información
+											que les permita tomar buenas decisiones.
+											Así que tendremos mucho trabajo 
+que va más allá de Internet.
+											Y eso explica en gran medida por qué hemos elegido un modelo de licencia libre,
+											porque eso empodera a los empresarios locales,
+											o a quien quiera, 
+para que usen nuestros contenidos
+											y hagan lo que quieran 
+—se puede copiar, redistribuir,
+											y se puede usar con o sin fines comerciales.
+									","
+											Vikipedi, benim kurduğum kar amaçsız kuruluş olan Wikimedia Vakfı'na aittir.
+											Ve bizim hedefimiz, Wikimedia Vakfı olarak,
+											dünyadaki herkese ücretsiz bir ansiklopedi sağlamaktir.
+											Ve bunun ne anlama geldiğini düşünecek olursaniz,
+											bu, sadece harika bir web sitesi kurmaktan ote birsey ifade ediyor.
+											Biz, dijital bölünme ve dunyadaki yoksullukla ilgili butun konularla ilgileniyoruz,
+											insanlari guclendirerek, onlara iyi kararlar verebilmeleri icin ihtiyaç duydukları bilgileri
+											her yerde saglamak istiyoruz.
+											Bu yüzden, internetten öteye giden bir cok şeyi yapmamız gerekiyor.
+											Ve bu serbest lisans modelini kullanmamızın onemli sebeplerinden birisi,
+											çünkü, böylelikle yerel girişimciler güç kazanabiliyor -
+											ya da isteyen her kişi, içeriğimizi alıyor ve
+											istediği herşeyi yapabiliyor - bu içerikleri kopyalayabilirsiniz ve yeniden dağıtabilirsiniz,
+											ve bunu ticari veya ticari olmayan şekillerde yapabilirsiniz.
+									","
+											Wikipédia appartient à la Fondation Wikimédia, que j'ai fondée,
+											une organisation à but non-lucratif. Et la visée, le principe fondateur de la Fondation Wikimédia,
+											est de donner l'accès à une encyclopédie libre à chaque personne sur la planète.
+											Et donc si vous réfléchissez à ce que cela implique,
+											cela veut dire beaucoup plus que construire un site web cool.
+											Nous sommes vraiment intéressés à tous les problèmes d'accès à internet, la pauvreté mondiale,
+											pour permettre aux gens vivant n'importe où d'avoir l'information dont ils ont besoin
+											afin de prendre de bonnes décisions.
+											Nous allons avoir à faire à énormément de travail qui ne se limite pas à la toile.
+											C'est une des raisons principales qui nous a poussé à choisir un modèle de licence libre,
+											parce que cela permet aux entrepreneurs locaux —
+											ou à n'importe qui qui le souhaite, de prendre notre contenu
+											et de faire tout ce qu'il veut avec — vous pouvez le copier, le redistribuer,
+											et ceci commercialement ou non.
+									","
+											Also, Wikipedia gehört der Wikimedia Foundation, die ich gegründet habe,
+											einer gemeinnützigen Organisation. Und unser Ziel, das Kernanliegen der Wikimedia Foundation
+											ist es, eine freie Enzyklopädie jeder einzelnen Person auf dem Planeten zukommen zu lassen.
+											Wenn Sie also darüber nachdenken, was das bedeutet,
+											dann ist das wesentlich mehr, als nur eine coole Website zu bauen.
+											Uns interessieren die Probleme der digitalen Kluft, der weltweiten Armut, wirklich sehr,
+											Menschen überall die Macht zu geben, die Informationen zu haben, die sie brauchen,
+											um gute Entscheidungen zu treffen.
+											Und darum müssen wir uns eine Menge Arbeit machen, die über das Internet hinausgeht.
+											Das ist auch ein wichtiger Grund, warum wir ein freies Lizenzmodell gewählt haben,
+											damit lokale Unternehmern die Möglichkeit haben —
+											oder jeder andere, der das möchte, unsere Inhalte zu nehmen
+											und damit zu machen was er möchte — sie können sie kopieren, wiederveröffentlichen
+											und Sie können das kommerziell oder nicht-kommerziell tun.
+									",The birth of Wikipedia,Jimmy Wales,20:01,"business,collaboration,culture,invention,media,open-source,technology,wikipedia"
+"
+","
+","
+","
+",The birth of Wikipedia,Jimmy Wales,20:01,"business,collaboration,culture,invention,media,open-source,technology,wikipedia"
+"
+											Así que surgirán muchas oportunidades 
+en torno a Wikipedia
+											en todo el mundo.
+											Nuestros fondos provienen 
+de donaciones particulares,
+											y una de las cosas más interesantes sobre eso
+											es lo poco que cuesta dirigir Wikipedia.
+											Yochai les mostró el gráfico 
+de lo que costaba una imprenta.
+											Y yo les diré cuánto cuesta Wikipedia,
+											pero antes les mostraré cuán grande es.
+											Tenemos más de 600 000 artículos en inglés.
+											Y un total de dos millones de artículos 
+en muchas lenguas diferentes.
+											Las lenguas con más fuerza son el alemán, el japonés, el francés.
+											Todas las lenguas del oeste de Europa 
+tienen bastante fuerza.
+											Pero solo alrededor de un tercio 
+de todo el tráfico a nuestro sitio
+											desemboca en Wikipedia en inglés,
+											lo cual sorprende a mucha gente.
+											Muchas personas piensan en Internet de modo muy anglo-céntrico,
+											pero somos realmente globales. 
+Existimos en muchas lenguas.
+											Lo populares que nos hemos hecho 
+—somos uno de los 50 sitios web más visitados
+											y somos más populares que el New York Times.
+											Aquí es donde llegamos a la discusión de Yochai.
+									","
+											Bu da, Vikipedi sayesinde, tüm dünyada ortaya cikacak
+											bir çok fırsat anlamına geliyor.
+											Kamu tarafından yapılan bağışlarla finanse ediliyoruz,
+											ve bununla ilgili ilginç şeylerden birisi de
+											Vikipedia'yı yürütmenin aslında çok az para gerektiriyor olmasi.
+											Yochai size bir matbaanın maliyetine ilişkin grafiği gösterdi.
+											Size Vikipedi'nın maliyetini söyleyeceğim,
+											fakat bundan önce size Vikipedi'nın ne kadar büyük olduğunu göstermek istiyorum.
+											Sitede 600,000'den fazla İngilizce madde bulunuyor.
+											Cok sayıda dilde toplamda iki milyon madde bulunuyor.
+											Sitedeki en büyük diller Almanca, Japonca ve Fransızca.
+											Tüm Batı Avrupa dilleri oldukça büyük.
+											Fakat, sitemizdeki trafiğin yalnızca üçte biri
+											İngilizce Vikipedi'de toplanıyor,
+											ve bu da bir cok kişi icin oldukça şaşırtıcı bir veri.
+											Çoğu insan internette son derece İngilizce merkezli dusunuyor,
+											fakat biz tam anlamıyla evrenseliz. Çok sayıda dilde yayın yapıyoruz.
+											Ne kadar popüler olduğumuza gelince, ilk 50 web sitesi arasında yer alıyoruz
+											ve New York Times'dan daha popüleriz.
+											Bu noktada, gelin Yochai'nin gösterdiği grafiğe bakalim.
+									","
+											Il y a donc énormément d'opportunités qui vont apparaître autour de Wikipédia
+											partout dans le monde.
+											Nous fonctionnons grâce aux donations du public,
+											et l'une des choses les plus intéressantes à ce propos
+											est le peu d'argent nécessaire au fonctionnement de Wikipédia.
+											Donc Yochai vous a montré le graphique sur les coûts de la presse écrite.
+											Je vais vous dire quel est le coût de Wikipédia,
+											mais d'abord je vais vous montrer l'ampleur de Wikipedia.
+											Donc nous avons environ 600 000 articles en Anglais.
+											Nous avons deux millions d'articles au total écrits dans de nombreuses langues différentes.
+											Les langues les plus importantes sont l'Allemand, le Japonais et le Français.
+											Toutes les langues de l'Europe de l'Ouest sont vraiment importantes.
+											Mais seulement un tier de tout notre trafic
+											est pour le Wikipédia en Anglais,
+											ce qui surprend beaucoup de monde.
+											Beaucoup de personnes pensent qu'Internet est un média majoritairement anglophone,
+											mais nous sommes vraiment global. Wikipédia existe dans beaucoup, beaucoup de langues.
+											Le succès que nous avons connu — Le site est dans le top 50 des sites web
+											et nous sommes plus populaires que le New York Times.
+											Donc c'est là que nous arrivons à la discussion de Yochai.
+									","
+											Es werden also viele Chancen um Wikipedia herum entstehen
+											überall auf der Welt.
+											Wir finanzieren uns durch öffentliche Spenden,
+											und einer der eher interessanten Fakten darüber ist,
+											wie wenig Geld es tatsächlich kostet, Wikipedia am Laufen zu halten.
+											Yochai hat ein Diagramm gezeigt, was die Kosten einer Druckerpresse waren.
+											Und ich sage Ihnen, was die Kosten von Wikipedia sind,
+											aber erst werde ich zeigen, wie groß sie ist.
+											Wir haben über 600.000 Artikel auf Englisch.
+											Wir haben 2 Millionen Artikel insgesamt in vielen, vielen verschiedenen Sprachen.
+											Die größten Sprachen sind Deutsch, Japanisch, Französisch.
+											Alle westeuropäischen Sprachen sind ziemlich groß.
+											Aber nur ungefähr ein Drittel des Traffics auf unserem
+											Web-Server-Verbund gehen auf die englische Wikipedia,
+											und das überrascht viele Leute.
+											Sehr viele Menschen denken über das Internet sehr auf's Englische fixiert,
+											aber für uns ist es wahrlich global. Uns gibt es in vielen, vielen Sprachen.
+											Wie beliebt wir geworden sind — wir sind eine Top 50 Website,
+											und wir sind beliebter als die New York Times.
+											Und hier kommen wir zu Yochais Diskussion.
+									",The birth of Wikipedia,Jimmy Wales,20:01,"business,collaboration,culture,invention,media,open-source,technology,wikipedia"
+"
+","
+","
+","
+",The birth of Wikipedia,Jimmy Wales,20:01,"business,collaboration,culture,invention,media,open-source,technology,wikipedia"
+"
+											Esto nos muestra el crecimiento de Wikipedia 
+—somos la línea azul de ahí
+											y este de ahí es el New York Times—.
+											Y lo interesante de esto es que 
+el sitio del New York Times
+											es una operación corporativa enorme con —no tengo ni idea de cuántos—, cientos de empleados.
+											Nosotros tenemos exactamente un empleado,
+											y ese empleado es nuestro principal 
+programador de software.
+											Y es nuestro empleado desde solo enero de 2005,
+											todo nuestro otro crecimiento vino antes de eso.
+											Así que los servidores se organizan 
+mediante un grupo de voluntarios,
+											así como todo el trabajo editorial.
+											Y la manera de organizarnos
+											no es como la de cualquier 
+otra organización que imaginen.
+											La gente siempre pregunta, ""¿Quién dirige todo esto?""
+											o ""¿Quién hace eso?"" Y la respuesta es: quienquiera que quiera involucrarse.
+											Es algo poco usual y caótico.
+											Ahora tenemos más de 90 servidores 
+en tres lugares.
+											Un sistema de administradores voluntarios 
+en línea los controlan.
+											Puedo contectarme a Internet en 
+cualquier momento del día o noche
+											y ver de 8 a 10 personas esperando
+											a que les pregunte cualquier cosa 
+acerca de los servidores.
+											Nunca uno se podría permitir eso 
+en una compañía.
+											Nunca sería asequible tener 
+un grupo de gente de guardia
+											24 horas al día, haciendo lo que hacemos en Wikipedia.
+									","
+											Burada Vikipedi'nin büyümesi görülüyor - biz oradaki mavi çizgiyiz -
+											ve şuradaki de New York Times.
+											Ve ilginç olan şey şu ki; New York Times web sitesi,
+											geniş ve devasa bir kurumsal çalışmanın ürünü - Ve tam olarak bilmiyorum ama, sanırım yüzlerce çalışani var.
+											Bizim ise tam anlamıyla bir çalışanımız var,
+											ve bu kişi bizim baş yazılım geliştiricimiz.
+											Ve sadece Ocak 2005'ten beri bizimle çalışıyor,
+											ve diğer tüm gelişmeler ondan önce gerçekleşti.
+											Yani, sunucular bir ayak takımı gönüllü grubu tarafından yönetiliyor,
+											ve tüm derleme işleri gönüller tarafından gerçekleştiriliyor.
+											Ve bizim bu organizasyon şeklimiz,
+											kafanızda bulunan hiçbir geleneksel organizasyonla örtüşmüyor.
+											İnsanlar sürekli şunu soruyor; ""Peki, bu işin başında kim var?""
+											ya da ""Bunu kim yapıyor?"" Ve cevap şu: destek veren herkes.
+											Bu, oldukça sıradışı ve kaotik bir şey.
+											Şu anda üç noktada 90'dan fazla sunucumuz bulunuyor.
+											Bunlar, internet üzerindeki gönüllü sistem yöneticileri tarafından yönetiliyor.
+											Hatta oldugum her an, gece veya gunduz,
+											sekiz ile on arasi kisinin beni bekledigini goruyorum
+											soru sormak veya baska birsey icin, sunucular hakkinda herhangi bir konuda.
+											Bunu, bir sirkette asla yapamazsiniz.
+											Sizi her an, hazirolda bekleyen bir ekip kurmaya mali gucunuz yetmez
+											gunun 24 saati boyunca ve bizim Vikipedi'de yaptigimizi yapan bir ekip.
+									","
+											Ce graphique montre la croissance de Wikipédia — nous sommes la ligne bleue —
+											et ici c'est le New York Times.
+											Et ce qui est intéressant à ce propos c'est que le site du New York Times est énorme,
+											une énorme société avec — je ne sais combien de centaines d'employés.
+											Nous avons exactement un seul employé,
+											et cet employé est notre développeur logiciel en chef.
+											Et il est notre employé uniquement depuis Janvier 2005,
+											soit après la grosse croissance de Wikipédia.
+											Donc les serveurs sont dirigés par une petite équipe de volontaires,
+											tous les ajouts sont faits par des volontaires.
+											Et la façon dont nous sommes organisés
+											n'est semblable à aucune organisation traditionnelle.
+											Les gens se demandent, ""Mais qui s'occupe de tout ça ?""
+											ou ""Qui fait ça ?"". Et la réponse est : n'importe qui qui le souhaite.
+											C'est quelque chose de très perturbateur et nouveau.
+											Nous avons environ 90 serveurs répartis sur trois endroits différents.
+											Ces serveurs sont gérés par des administrateurs systèmes volontaires via Internet.
+											Je peux me connecter à n'importe quel moment du jour ou de la nuit,
+											et trouver huit à dix personnes m'atttendre
+											pour me poser une question ou quoi que ce soit à propos des serveurs.
+											Vous ne pourriez jamais payer pour ça dans une entreprise.
+											Vous ne pourriez jamais payer pour avoir une équipe de secours en cas de problème
+											24 heures par jour et faire ce qu'on fait sur Wikipédia.
+									","
+											Hier sehen Sie das Wachstum von Wikipedia — wir sind die blaue Linie —
+											und das dort ist die New York Times.
+											Und das Interessante ist, dass die New York Times Website eine riesige,
+											enorme Firmenoperation ist, mit — keine Ahnung, Hunderten von Angestellen.
+											Wir haben exakt einen Angestellten,
+											und dieser Angestellte ist unser leitender Softwareentwickler.
+											Und er ist auch erst seit Januar 2005 bei uns angestellt,
+											wir hatten auch vorher schon Wachstum.
+											Die Server werden von einer losen Schar Freiwilliger gemanagt,
+											die komplette Redaktion erledigen Freiwillige.
+											Und die Art, wie wir organisiert sind
+											entspricht keiner traditionellen Organisation, die Sie sich vorstellen können.
+											Die Leute fragen oft: ""Naja, wer ist denn dafür verantwortlich?""
+											oder ""Wer macht das?"" Und die Antwort ist: Jeder, der in die Bresche springen mag.
+											Es ist eine sehr ungewöhnliche und chaotische Sache.
+											Wir haben jetzt über 90 Server an drei Orten.
+											Sie werden von freiwilligen Systemadministratoren gemanagt, die online sind.
+											Ich kann zu jeder Tages- oder Nachtzeit online gehen
+											und sehe 8 bis 10 Leute, die auf mich warten,
+											um eine Fragen zu stellen oder so, alles über die Server.
+											Das könnte man sich in einer Firma niemals leisten.
+											Sie könnten sich nie eine Bereitschafts-Personalgruppe leisten,
+											für 24 Stunden am Tag, und das tun, was wir bei Wikipedia tun.
+									",The birth of Wikipedia,Jimmy Wales,20:01,"business,collaboration,culture,invention,media,open-source,technology,wikipedia"
+"
+","
+","
+","
+",The birth of Wikipedia,Jimmy Wales,20:01,"business,collaboration,culture,invention,media,open-source,technology,wikipedia"
+"
+											Tenemos 1.4 billones de visitas al mes,
+											así que se ha convertido en algo enorme.
+											Y todo lo organizan voluntarios.
+											El coste mensual total de la banda ancha 
+es de unos USD 5 000 .
+											Y ese es nuestro gasto principal.
+											De hecho podríamos prescindir de ese empleado. 
+En realidad,
+											contratamos a Brian porque llevaba trabajando 
+dos años a tiempo parcial
+											y a tiempo completo en Wikipedia,
+											así que al final lo contratamos para que pudiera tener vida propia e ir al cine de vez en cuando.
+											Así que la gran pregunta cuando uno se enfrenta a una organización realmente caótica como esta, es:
+											¿cómo es que no es todo una porquería? 
+¿por qué es tan bueno el sitio?
+									","
+											Biz ayda yaklasik 1,4 milyar sayfayi elden geciriyoruz,
+											dolayisiyla, bu gercekten buyuk bir is.
+											Ve hersey gonulluler tarafindan yapiliyor.
+											Ve aylik sebeke masrafimiz yaklasik 5,000 dolar.
+											Ve bu bizim aslinda ana masrafimiz.
+											Aslinda calisanimiz olmadan da idare edebiliriz. Biz aslinda—
+											biz Brian'i aldik, cunku o iki yildir, yari zamanli calismak yerine
+											Vikipedi'da tam zamanli calisiyordu.
+											dolayisiyla biz onu ise aldik bu sayede onun is disinda da bir hayati olsun, arada sinemaya falan gidebilsin diye.
+											Bu durumda, boyle kaotik bir organizasyonunuz oldugunda, en buyuk soru su:
+											nasil oluyor da ortaya sacma sapan bir sey yerine boyle iyi bir web sitesi cikabiliyor?
+									","
+											Nous avons à peu près 1.4 milliards de pages vues par mois,
+											c'est vraiment devenu énorme.
+											Et tout est géré par des volontaires.
+											Le coût total mensuel pour la bande passante est d'environ 5 000 dollars.
+											Et c'est notre coût principal.
+											Nous pourrions fonctionner sans l'employé. En fait, nous —
+											nous avons engagé Brian parce qu'il travaillait à temps partiel depuis deux ans
+											et à temps plein sur Wikipédia,
+											donc nous l'avons engagé pour qu'il puisse avoir une vie et aller au cinéma de temps en temps.
+											La grande question quand vous avez ce type d'organisation très chaotique est,
+											pourquoi n'est-ce pas de mauvaise qualité ? Pourquoi le site est-il aussi bien qu'il l'est en ce moment ?
+									","
+											Wir schaffen um die 1.4 Milliarden Seitenaufrufe pro Monat,
+											es ist also wirklich ein riesiges Ding geworden.
+											Und alles wird von den Freiwilligen verwaltet.
+											Und die monatlichen Gesamtkosten für unsere Bandbreite sind ca. 5.000 Dollar.
+											Das ist im Grunde unsere Hauptausgabe.
+											Wir könnten es tatsächlich auch ohne den Angestellten schaffen. Tatsächlich —
+											wir haben Brian eingestellt, weil er zwei Jahre lang Teilzeit gearbeitet hat
+											und Vollzeit für Wikipedia,
+											also eigentlich haben wir ihn eingestellt, damit er sich ein Leben schaffen und auch mal ins Kino gehen kann.
+											Die große Frage, wenn man so eine chaotische Organisation hat, ist also
+											warum ist das nicht alles Quatsch? Warum ist die Website so gut wie sie ist?
+									",The birth of Wikipedia,Jimmy Wales,20:01,"business,collaboration,culture,invention,media,open-source,technology,wikipedia"
+"
+","
+","
+","
+",The birth of Wikipedia,Jimmy Wales,20:01,"business,collaboration,culture,invention,media,open-source,technology,wikipedia"
+"
+											Primero, ¿cuán bueno es? Bastante. 
+No es perfecto,
+											pero es mucho mejor 
+de lo que uno esperaría,
+											teniendo en cuenta un modelo 
+tan caótico como el nuestro.
+											Así que cuando vieron como él editaba 
+ridículamente mi página
+											quizá piensen: 
+""Esto degenerará en basura.""
+											Pero al ver pruebas de calidad — y de éstas no ha habido suficientes todavía,
+											por eso animo sinceramente a la gente a que lo haga más— ,
+											comparando Wikipedia con productos tradicionales —ganamos de calle.
+									","
+											Oncelikle, bu ne kadar iyi? Hakkini vermek gerekirse, oldukca iyi. Mukemmel degil,
+											ama bekleyebileceginizden cok cok daha iyi,
+											ozellikle tamamen kaotik modelimizi goz onune alacak olursaniz.
+											Soz gelisi, onun benim sayfama sacma sapan bir sey ekledigini gordugunuzde,
+											diyorsunuz ki, tamam bu kesin cope gidecek.
+											Fakat kalite testlerini gordugunuzde—ki bunlardan hala yeterince yok
+											ve ben herkesi daha fazla kalite testi olusturmaya tesvik ediyorum,
+											Vikipedi'yi geleneksel kaynaklarla karsilastirdiginizda— biz kazaniyoruz.
+									","
+											Tout d'abord, à quel point est-il bon ? Le site est assez bon. Il n'est pas parfait,
+											mais c'est beaucoup, beaucoup mieux que vous auriez pu l'imaginer,
+											étant donné notre modèle très novateur.
+											Donc quand vous voyez quelqu'un faire une toute petite édition ridicule sur la page me concernant,
+											vous pensez, oh, tout cela va forcement dégénérer en quelque chose de très mauvais,
+											Mais quand nous avons vu les tests de qualité — et il n'y en a pas eu assez pour l'instant,
+											j'encourage vraiment les gens à en faire plus,
+											en comparant Wikipédia aux encyclopédies traditionnelles — nous gagnons les mains dans les poches.
+									","
+											Zunächst mal, wie gut ist sie? Nun, sie ist ziemlich gut. Sie ist nicht perfekt,
+											aber sie ist viel, viel besser als man erwarten würde
+											in Anbetracht unseres chaotischen Modells.
+											Als Sie ihn vorhin eine alberne Änderung an der Seite über mich machen sahen,
+											dachten Sie wahrscheinlich, dass das alles einfach in Quatsch ausarten würde.
+											Aber wenn wir uns Qualitätstests anschauen — und davon gab es noch nicht genug bis jetzt,
+											und ich ermutige die Leute, mehr davon zu machen
+											und Wikipedia mit traditionellen Dingen zu vergleichen — gewinnen wir deutlich.
+									",The birth of Wikipedia,Jimmy Wales,20:01,"business,collaboration,culture,invention,media,open-source,technology,wikipedia"
+"
+","
+","
+","
+",The birth of Wikipedia,Jimmy Wales,20:01,"business,collaboration,culture,invention,media,open-source,technology,wikipedia"
+"
+											Una revista alemana comparó la Wikipedia alemana,
+											que es mucho más pequeña que la inglesa,
+											con Microsoft Encarta y Brockhaus Multimedia,
+											y ganamos en todo.
+											Contrataron a expertos para que compararan la calidad de los artículos,
+											y el resultado nos satisfizo mucho.
+											Mucha gente sabe de la controversia 
+Bush-Kerry en Wikipedia.
+											Esto es, —los medios de comunicación han cubierto esto ampliamente.—
+											Empezó con un artículo en Red Herring.
+											Los reporteros me llamaron
+											deletrearon bien mi nombre, 
+ero lo que de verdad querían decir era:
+											las elecciones Bush-Kerry son tan polémicas,
+											que están dividiendo a la comunidad de Wikipedia. Y me citaron diciendo:
+											""Son las más polémicas de la historia de Wikipedia.""
+											Lo que dije en realidad es que no son polémicas,
+en absoluto.
+											Es una cita ligeramente errónea. 
+Los artículos se editaron bastante.
+											Y es cierto que tuvimos que bloquear 
+los artículos un par de veces.
+											La revista Time informó recientemente de que
+											""A veces hay que tomar medidas extremas,
+											y Wales bloqueó las entradas sobre Kerry y Bush durante la mayor parte de 2004.""
+											Esto se dijo después de que le dijera al periodista que teníamos que bloquearlo—
+											ocasionalmente, un poco aquí y allá.
+											Así que, la verdad, en general es que 
+este tipo de polémicas
+											que Uds. probablemente pensarían que tenemos en la comunidad de Wikipedia
+											no son polémicas en absoluto.
+									","
+											Alman bir magazin, Alman Vikipedisini
+											ki bu Ingilizcesinden cok cok daha kucuk,
+											Microsoft Encarta ve Brockhaus Multimedia ile karsilastirdi,
+											ve biz genis kapsamimizla kazandik.
+											Maddelere bakip kaliteyi kontrol etmeleri icin uzman kisiler gorevlendirildi,
+											ve sonuc bizi cok memnun etti.
+											Bir suru insan Vikipedi Bush-Kerry tartismasindan haberdar oldu.
+											Bu tartisma— ki medya bunu capli bir sekilde ele aldi,
+											Red Herring'deki bir makale uzerine basladi.
+											Haberciler beni aradilar ve— sunu soylemeliyim ki
+											adimi dogru soylediler, ama asil soylemek istedikleri,
+											Bush-Kery secimleri cok tartismali,
+											Vikipedia camiasini boluyor. Ve benim soyle dedigimi yazdilar,
+											""Onlar Vikipedi'nin tarihindeki en tartismali makaleler.""
+											Asil soyledigim ise, onlar tartismali falan degil.
+											Dolayisila, bu biraz yanlis bir alinti. Sozkonusu makaleler ciddi bir sekilde kontorolden gectiler.
+											Ve su da dogru ki, bu makaleleri bir kac kez kaldirmak zorunda kaldik.
+											Time dergisi gecenlerde soyle diyordu
+											""Bazi durumlarda asiriya kacan onlemler almak gerekiyor
+											ve Wales, Kery ve Bush maddelerine neredeyse 2004 boyunca giris vermedi.""
+											Bu yorum, benim haberi yapan kisiye,
+											arada sirada bazi maddelere girisi engelledigimizi soylemem uzerine yapildi.
+											Yani genel olarak baktiginizda gercek su ki, bahsi gecen
+											Vikipedi camiaasi icinde oldugu dusunulen tartismalar
+											aslinda tartisma konusu bile degiller.
+									","
+											Une revue allemande a comparé Wikipédia Allemand,
+											qui est beaucoup, beaucoup plus petite que la version anglaise,
+											à Microsoft Encarta et à Brockhaus Multimédia,
+											et nous avons gagné loin haut la main.
+											Ils ont engagé des experts qui sont venus pour lire les articles et en ont comparé la qualité,
+											et nous avons été très touchés par ce résultat.
+											Beaucoup de personnes sont au courant à propos de la controverse Bush-Kerry.
+											C'est un — les médias en ont énormément parlé.
+											Ça a commencé avec un article sur Red Herring.
+											Les journalistes m'ont appelé et ils — je veux dire, je dois admettre
+											qu'ils ont bien orthographié mon nom, mais ils voulaient vraiment relayer
+											que l'élection Bush-Kerry est si litigieuse,
+											que cela brise la communauté Wikipédia. Et donc ils m'ont cité disant,
+											""C'est l'élection la plus problématique de toute l'histoire de Wikipédia"".
+											Ce que j'ai vraiment dit, c'est que ce n'était pas du tout problématique.
+											Donc il y a un léger malentendu. Les articles ont été publiés assez massivement.
+											Et c'est vrai que nous avions dû par moment verrouiller quelques articles .
+											Le Time magazine a récement rapporté que
+											""des décisions extrêmes ont dû être prises,
+											et Wales a verrouillé les articles sur Kerry et Bush durant la majorité de l'année 2004"".
+											C'est sorti après que j'ai dit au journaliste que nous avions dû verrouillé —
+											de temps en temps, un petit peu ici et là.
+											La vérité est que le genre de controverses sur lesquelles vous pourriez
+											imaginer qu'il y ait débat au sein de la communauté de Wikipédia
+											ne sont pas du tout des controverses.
+									","
+											Eine deutsche Zeitschrift verglich die deutsche Wikipedia,
+											die sehr, sehr viel kleiner ist als die Englische,
+											mit Microsoft Encarta und Brockhaus Multimedia,
+											und wir gewannen in jeder Beziehung.
+											Sie engagierten Experten, die sich die Artikel ansahen und die Qualität verglichen,
+											und wir waren sehr zufrieden mit dem Ergebnis.
+											Viele Leute haben von der Wikipedia Bush-Kerry Kontroverse gehört.
+											Das ist eine — die Medien haben das sehr ausführlich behandelt.
+											Es begann mit einem Artikel in Red Herring.
+											Die Reporter riefen mich an und sie — ich meine, ich muß sagen,
+											dass sie meinen Namen richtig geschrieben haben, aber was sie wirklich sagen wollten war,
+											dass die Bush-Kerry Wahl so strittig sei,
+											dass sie die Wikipedia Community spalte. Und so zitierten sie mich:
+											""Sie sind das Umstrittenste in der Geschichte der Wikipedia.""
+											Was ich tatsächlich sagte war, dass sie überhaupt nicht umstritten sind.
+											War also ein fehlerhaftes Zitat. Die Artikel wurden sehr heftig editiert.
+											Und es stimmt, dass wir die Artikel mehrere Male sperren mussten.
+											Das Time Magazin berichtetete vor Kurzem, dass
+											""Extreme Aktionen manchmal erforderlich sind, und
+											Wales die Einträge über Kerry und Bush in 2004 weitgehend sperren musste.""
+											Das war, nachdem ich dem Reporter gesagt hatte, wir mussten sie
+											ein paarmal, hin und wieder, sperren.
+											Die Wahrheit ist also im Allgemeinen, dass die Arten von Kontroversen,
+											von denen Sie erwarten, wir hätten sie in der Wikipedia Community,
+											eigentlich keine echten Kontroversen sind.
+									",The birth of Wikipedia,Jimmy Wales,20:01,"business,collaboration,culture,invention,media,open-source,technology,wikipedia"
+"
+","
+","
+","
+",The birth of Wikipedia,Jimmy Wales,20:01,"business,collaboration,culture,invention,media,open-source,technology,wikipedia"
+"
+											Los artículos sobre temas controvertidos
+se editan mucho,
+											pero no causan mucha polémica 
+dentro de la comunidad.
+											Y la razón es que la mayoría entiende 
+la necesidad de ser neutrales.
+											La lucha de verdad no es entre la derecha y la izquierda,
+											eso es lo que la mayoría asume,
+											sino entre el partido de los que piensan
+y el de los imbéciles.
+											Y ninguna tendencia del espectro político tiene el monopolio de esas cualidades.
+											La auténtica verdad sobre el incidente Bush-Kerry
+											es que los artículos sobre Bush-Kerry
+											fueron bloqueados menos del 1% del tiempo en 2004,
+											y no fue porque fueran polémicos;
+											fue porque estaban sujetos a vandalismo,
+											lo cual sucede a veces incluso en el escenario,
+											a veces incluso los periodistas me han informado de que vandalizan Wikipedia
+											y se sorprenden de lo rápido que se corrige.
+											Y les dije, siempre digo, por favor, 
+no hagan eso, no es bueno.
+											Así que, ¿cómo lo hacemos?
+											¿Cómo regulamos el control de calidad?
+											¿Cómo se hace? ¿cómo funciona?
+									","
+											Tartismali konular uzerine yazilan maddeler cok degisime ugruyor,
+											ama Vikipedi camiasi icerisinde tartismaya pek yol acmiyorlar.
+											Bunun sebebi de su ki, bir cok insan tarafsizliktan yana.
+											Asil kavga, sag ile sol arasinda degil—
+											bir cok insan oyle oldugunu saniyor—
+											asil kava, dusunceliler ile haylazlar arasinda.
+											Ve siyasi spektrumun hic bir ucu bu niteliklerden birisine sahip degil.
+											Bush-Kery olayina dair asil gercek su ki
+											Bush-Kerry maddeleri
+											2004'de yuzde birden daha az bir zaman boyunca kaldirildilar,
+											ve bu onlarin tartismali niteliginden dolayi olmadi;
+											bu, sadece siradan bir vandalizmin sonucuydu—
+											ki bu arada oluyor, insanlar—
+											hatta bazen haberciler bile bana Vikipedi'ye bile bile zarar verdiklerini soyluyorlar
+											ve yaptiklari zararin ne kadar cabuk onarlidigina sasirdiklarini.
+											Ve ben dedim ki, tahmin edebileceginiz uzere, her zaman diyorum ki, luffen bunu yapmayin, bu iyi bir sey degil.
+											Peki bunu nasil basariyoruz?
+											Kaliteyi nasil kontrol ediyoruz?
+											Bu nasil— nasil isliyor?
+									","
+											Les articles sur des sujets controversés sont beaucoup publiés,
+											mais cela ne pose pas beaucoup de problèmes au sein de la communauté.
+											La raison est que la plupart des personnes comprennent le besoin de neutralité.
+											La vraie lutte n'est pas vraiment entre la gauche et la droite —
+											ce que la plupart des personnes imaginent —
+											mais elle est entre le parti des penseurs et le parti des idiots.
+											Et aucun des bords politique n'a le monopole sur ces qualités.
+											La vérité à propos de l'incident Bush-Kerry
+											est que les articles Bush-Kerry
+											ont été verrouillés moins d'1% du temps en 2004,
+											et ce n'était pas parce qu'ils étaient sujets à débats,
+											c'était à cause de vandalisme fréquent —
+											ce qui arrive quelques fois même sur un plateau —
+											quelques fois même des journalistes m'ont dit qu'ils avaient vandalisé Wikipédia
+											et étaient ébahis que cela ai été corrigé aussi rapidement.
+											Et j'ai dit — Vous savez, je dis toujours : "" S'il vous plaît, ne faites pas ça, ce n'est pas une bonne chose..""
+											Comment nous faisons ça ?
+											Quoi — comment nous gérons les contrôles de qualité ?
+											Qu'est-ce qui fait — Comment ça marche ?
+									","
+											Artikel über kontroverse Themen werden viel bearbeitet
+											aber sie führen kaum zu Kontroversen innerhalb der Community.
+											Und der Grund dafür ist, dass die meisten Leute die Notwendigkeit von Neutralität verstehen.
+											Der echte Kampf findet nicht zwischen links und rechts statt —
+											da vermuten ihn die meisten Leute —
+											sondern zwischen der Partei der Umsichtigen und der Partei der Trottel.
+											Und keine Seite des politischen Spektrums hat ein Monopol auf diese Eigenschaften.
+											Die tatsächliche Wahrheit über den spezifischen Bush-Kerry-Vorfall
+											ist, dass die Bush-Kerry-Artikel
+											für weniger als ein Prozent der Zeit in 2004 gesperrt wurden,
+											und das lag nicht daran, dass sie strittig waren;
+											das lag nur am routinemäßigen Vandalismus —
+											der manchmal sogar auf der Bühne passiert, liebe Leute —
+											manchmal haben sogar schon Reporter berichtet, dass sie Wikipedia vandalisiert haben
+											und dann erstaunt waren, wie schnell das repariert wurde.
+											Und ich sagte — wissen Sie, ich sage immer, bitte tut das nicht, das ist nicht gut.
+											Also, wie machen wir das?
+											Was — Wie steuern wir die Qualitätskontrolle?
+											Was macht ein — wie funktioniert das?
+									",The birth of Wikipedia,Jimmy Wales,20:01,"business,collaboration,culture,invention,media,open-source,technology,wikipedia"
+"
+","
+","
+","
+",The birth of Wikipedia,Jimmy Wales,20:01,"business,collaboration,culture,invention,media,open-source,technology,wikipedia"
+"
+											Aquí tienen algunos elementos,
+											sobre todo normas sociales 
+y algunos elementos del software.
+											Lo más importante es 
+nuestra política de neutralidad.
+											Esto es algo que desde el principio constituí
+											en un principio central de la comunidad 
+que no está sujeto a debate.
+											Es un concepto social de cooperación,
+											así que no hablamos mucho 
+de la verdad y la objetividad.
+											La razón es que si decimos que solo escribiremos la verdad sobre un tema,
+											eso no nos ayuda a la hora de 
+decidir qué escribir,
+											porque no estoy de acuerdo contigo 
+en qué es la verdad.
+											Pero tenemos este término de neutralidad,
+											con una larga historia en la comunidad,
+											que básicamente explica que 
+cuando haya un tema controvertido
+											Wikipedia no debería tomar partido.
+											Debemos informar meramente de lo que fuentes acreditadas han dicho sobre ello.
+											Esta política de neutralidad es realmente 
+importante para nosotros,
+											porque empodera a una comunidad
+que es muy diversa
+											para que se una y consiga cosas de verdad.
+									","
+											Bir kac oge sozkonusu,
+											genelde sosyal politikalar ve yazilimin bazi oglerine iliskin.
+											En buyuk ve en onemli sey, tarafsiz bakis acisi siyasetimiz.
+											Bu benim, en basindan beri uzerinde durdugum bir konu,
+											tartismaya acik olmayan ana prensibimiz bu.
+											Bu sosyal bir dayanisma kavrami,
+											dolayisiyla dogruluk ve trafsizlik hakkinda cok konusmuyoruz.
+											Bunun sebebi de su: eger bazi konular hakkinda sadece dogru olani yazacagiz dersek,
+											bu bize ne yazacagimiz konusunda hic bir yol gostermez,
+											cunku, ben sizin dogru gordugunuz bir seye katilmayabilirim.
+											Ama tabi tarafsizlik terimi bir jargon haline gelmis,
+											kurumumuzda uzun gecmisi olan bir terim,
+											ve kisacasi anlami su, tartismali bir sey soz konusu oldugunda,
+											Vikipedi herhangi bir sekilde taraf olmamalidir.
+											Biz sadece bu konuda sozu gecer taraflarin goruslerini yayinliyoruz.
+											Yani, tarafsizlik prensibi bizim icin gercekten cok onemli.
+											cunku bu, bizim cesitlillige acik bir camia olmamizi sagliyor
+											bir araya gelip, isimizi yapip bitirmemizi sagliyor.
+									","
+											Voici plusieurs éléments,
+											principalement notre politique sociale et quelques éléments du logiciel.
+											La chose la plus importante est notre politique sur la neutralité.
+											C'est quelque chose que j'ai mis au clair dès le début,
+											comme étant un principe fondamental qui est complétement indiscutable.
+											C'est un concept de coopération,
+											donc nous ne parlons pas beaucoup de vérité et d'objectivité.
+											La raison pour ça est que si on dit que nous allons écrire la vérité sur tel sujet,
+											cela ne va pas nous aider à écrire l'article,
+											car je ne suis pas d'accord avec vous sur ce qu'est la vérité.
+											Nous avons ce terme de neutralité dans notre jargon,
+											qui a sa propre histoire au sein de la communauté,
+											qui dit principalement qu'à chaque fois qu'il existe un problème controversé,
+											Wikipedia ne devrait pas prendre position dans le débat,
+											Nous devons méticuleusement présenter ce que les parties légitimes ont à dire à ce propos.
+											Cette politique de neutralité est vraiment importante pour nous,
+											car cela encourage une communauté très diversifiée
+											à travailler main dans la main afin de produire quelque chose.
+									","
+											Da gibt es ein paar Elemente,
+											die meisten sind soziale Regeln und einige Elemente der Software.
+											Die größte und wichtigste Sache ist unsere Richtlinie des neutralen Standpunkts.
+											Das ist etwas, das ich von Beginn an niedergelegt habe
+											als ein Kernprinzip der Community, das überhaupt nicht zur Debatte steht.
+											Es ist ein soziales Konzept der Kooperation,
+											wir reden also nicht viel über Wahrheit und Objektivität.
+											Der Grund dafür ist, wenn wir sagen, wir schreiben nur die Wahrheit über ein Thema,
+											dann hilft uns das kein bißchen, herauszufinden, was wir schreiben sollen,
+											weil ich nicht mit Ihnen darüber übereinstimme, was die Wahrheit ist.
+											Aber wir haben diesen Jargonbegriff der Neutralität,
+											der eine eigene lange Geschichte in der Gemeinschaft hat und
+											der im Grunde besagt, wann immer es ein kontroverses Thema gibt
+											nimmt Wikipedia dazu keine eigene Position ein.
+											Wir sollten nur berichten, was angesehene Parteien darüber gesagt haben.
+											Diese Richtlinie für Neutralität ist daher sehr wichtig für uns,
+											denn sie ermächtigt eine Gemeinschaft, die sehr vielfältig ist,
+											zusammenzukommen und tatsächlich etwas zustande zu bringen.
+									",The birth of Wikipedia,Jimmy Wales,20:01,"business,collaboration,culture,invention,media,open-source,technology,wikipedia"
+"
+","
+","
+","
+",The birth of Wikipedia,Jimmy Wales,20:01,"business,collaboration,culture,invention,media,open-source,technology,wikipedia"
+"
+											Así que tenemos colaboradores con trasfondos políticos, religiosos
+											y culturales muy diversos.
+											Al tener una política de neutralidad firme,
+											que desde el principio no es negociable,
+											nos aseguramos de que la gente puede trabajar junta
+											y de que las entradas no se conviertan 
+en una guerra constante
+											entre izquierda y derecha.
+											Si alguien muestra ese comportamiento,
+											se le pedirá que abandone la comunidad.
+											Así que hay revisiones hechas 
+por colegas en tiempo real.
+											Todos y cada uno de los cambios en el sitio van a la página de cambios recientes.
+											Así que en cuanto él hizo el cambio, 
+fui a la página de cambios recientes.
+											Esa página de cambios recientes también llega a un canal de IRC,
+											que es un canal de chat en Internet
+											que la gente vigila 
+con varias herramientas de software.
+											Y la gente puede acceder a feeds RSS —
+											y pueden recibir correos con los cambios.
+											Y luego los usuarios pueden crear 
+una lista de vigilancia propia.
+											Mi página está en las listas de bastantes voluntarios,
+											porque a veces es objeto de vandalismo.
+											Y lo que pasa es que alguien 
+se dará cuenta del cambio rápidamente,
+											y simplemente lo eliminará.
+									","
+											Dolayisiyla, bize cok cesitli katkilar oluyor, siyasi, dini
+											ve kulturel cesitlilik baglaminda.
+											Bahsettigim tarafsizlik prensibi sayesinde,
+											ki, bu bizim icin basindan beri olmazsa olmaz bir prensip,
+											insanlarin bir arada calisabilmelerini sagliyoruz
+											ve ansiklopedi girislerinin savas alanina donusmesine engel oluyoruz
+											sag-sol arasinda suren bir savasa.
+											Eger boyle bir tutumunuz varsa,
+											gruptan cikmanizi istiyoruz.
+											Yani, aninda hakemli bir denetim soz konusu.
+											Yaptiginiz her degisiklik, son yapilan degisiklikler sayfasina gidiyor.
+											Yani degisiklik yapilir yapilmaz, son degisiklikler arasinda yer aliyor.
+											Bu son degisiklikler sayfasi IRC kanaliyla baglantili,
+											ki bu bir internet sohbet kanali
+											insanlarin cesitli yazilim enstrumanlari ile kontrol ettigi.
+											Ve insanlar RSS ile ilgili seyleri gorebiliyor—
+											degisikliklerden e-posta yolu ile haberdar oluyorlar.
+											Sonra, kullanicilar kendi bireysel izleme listelerini olusturabilirler.
+											Benim sayfam ornegin, bir kac gonullunun izleme listesinde,
+											cunku bazen kotuye kullanilabiliyor.
+											Bu durumda, herhangi bir degisiklik yapildigina hemen birisine haber gidiyor,
+											ve o da hemen engel olabiliyor.
+									","
+											Nous avons une grande diversité de contributeurs, en terme de passés
+											politiques, religieux ou culturels.
+											En ayant cette politique de neutralité,
+											qui est non-négociable depuis le début,
+											nous nous assurons que les gens peuvent travailler ensemble
+											et que les articles ne deviennent une simple guerre
+											entre la gauche et la droite.
+											Si vous vous engager dans ce type de comportement,
+											on vous demandera de quitter la communauté.
+											Donc, la relecture en temps réel :
+											chacun des petits changements sur le site sont classés dans une page des changements récents.
+											Donc à partir du moment où on fait un changement, il s'affiche sur cette page.
+											Cette page des changements récents est aussi diffusé sur des canaux IRC,
+											qui est un canal de discussion sur internet
+											auquel les gens peuvent accéder avec de nombreux logiciels différents.
+											Et les gens peuvent obtenir les flux RSS —
+											Ils peuvent recevoir des notifications par e-mail de ces changements.
+											Et les utilisateurs peuvent paramétrer leur propre liste de suivi.
+											Ma page est donc sur la liste de suivi de quelques volontaires,
+											parce qu'elle est parfois vandalisée.
+											Et jusque là, ce qu'il se passe est que quelqu'un va se rendre compte du changement très rapidement,
+											et ils vont simplement annuler le changement.
+									","
+											Unsere Mitstreiter haben sehr unterschiedliche politische, religiöse
+											und kulturelle Hintergründe.
+											Aber weil wir diese starke Neutralitätsrichtlinie haben,
+											die von Anfang an nicht verhandelbar war,
+											stellen wir sicher, dass diese Leute zusammem arbeiten können,
+											und dass die Beiräge nicht einfach zu einem Krieg
+											zwischen der Linken und der Rechten werden.
+											Wenn man derartiges Verhalten an den Tag legt,
+											wird man gebeten, die Gemeinschaft zu verlassen.
+											Das ist Peer-Review in Echtzeit.
+											Jede Änderung im Projekt landet auf der 'Letzte Änderungen'-Seite.
+											Sobald also jemand seine Änderung gemacht hat, steht sie dort.
+											Die letzten Änderungen werden auch in einen IRC-Kanal übertragen,
+											das ist ein Internet-Chat-Kanal,
+											den die Leute mit verschiedenen Programmen überwachen.
+											Und die Leute können RSS-Feeds abonnieren —
+											sie können E-Mail Benachrichtungen der Änderungen erhalten.
+											Und die Nutzer können ihre eigene, persönliche Beobachtungsliste einrichten.
+											Meine Seite steht auf einigen Bobachtungslisten Freiwilliger,
+											weil sie hin und wieder vandalisiert wird.
+											Was daher passiert ist, dass jemand sehr schnell die Änderung bemerkt
+											und dann die Änderung rückgängig macht.
+									",The birth of Wikipedia,Jimmy Wales,20:01,"business,collaboration,culture,invention,media,open-source,technology,wikipedia"
+"
+","
+","
+","
+",The birth of Wikipedia,Jimmy Wales,20:01,"business,collaboration,culture,invention,media,open-source,technology,wikipedia"
+"
+											Por ejemplo, hay un nuevo feed de páginas
+											que permite acceder a cierta página de Wikipedia
+											y ver todas las páginas nuevas a media que se crean.
+											Esto es muy importante, porque muchas páginas nuevas
+											son porquería y tienen que borrarse.
+											Pero esas son algunas de las cosas más interesantes y divertidas en Wikipedia,
+											algunos de esos artículos nuevos.
+											La gente empieza un artículo sobre un tema interesante,
+											otras personas lo encontrarán fascinante
+											y se unirán para ayudar y mejorarlo.
+											Tenemos a usuarios anónimos que editan,
+											esto es una de las cosas más controvertidas 
+y fascinantes sobre Wikipedia.
+											Así que Chris pudo hacer su cambio, 
+no tuvo que registrarse ni nada,
+											simplemente estaba en la página 
+e hizo un cambio.
+											Pero resulta que solo alrededor del 18 % 
+de todas las correcciones
+											las hacen usuarios anónimos.
+											Y esto es algo importante de comprender
+											la inmensa mayoría de las correcciones 
+que aparecen en el sitio
+											provienen de una comunidad muy unida de entre 600 y 1 000 personas
+											que se comunican constantemente.
+											Y tenemos más de 40 canales IRC, 
+40 listas de correo.
+											Y todas estas personas se conocen. 
+Se comunican, tienen reuniones offline.
+									","
+											Yeni sayfalari gorebilme imkaniniz var, mesela,
+											Vikipedi'nin belirli bir sayfasina gittiginizde
+											yeni olusturulan her sayfayi gorebilirsiniz.
+											Bu gercekten onemli, cunku olusturulan bir cok yeni sayfanin
+											silinmesi gerekebiliyor, ornegin ASDFASDF gibi sayfalarin.
+											Bu, ayni zamanda Vikipedi'ye iliskin en ilginc ve eglenceli seylerden birisi,
+											bazi yeni makaleler.
+											Insanlar ilginc bir konuda yeni bir makaleye basliyorlar,
+											baskalari bunu yetersiz bulunca
+											daha iyi bir hale getirmek icin atiliyorlar.
+											Dolayisiyla derlemeleri anonim kullanicilar yapiyor,
+											ki, bu Vikipedi'ye iliskin en tartismali konulardan birisi.
+											Mesela Chris istedigi degisikligi yapabildi, sisteme giris yapmasi falan gerekmedi,
+											sadece web sitesine gitti ve degisiklikleri yapti.
+											Ama sonuc olarak, gordugumuz su ki, sadece yapilan degisikliklerin yuzde 18'i
+											anonim kullanicilar tarafindan yapiliyor.
+											Ve bu gercekten anlamamiz gereken bir konu,
+											web sitesinde yapilan degisikliklerin buyuk cogunlugu
+											bizimle yakindan baglantili yaklasik 600 veya 1000 kisi tarafindan yapiliyor,
+											onlar bizimle surekli bir iletisim halindeler.
+											Bizim 40'dan fazla IRC kanalimiz ve 40 e-posta listemiz var.
+											Tum bu insanlar birbirlerini taniyorlar. Birbirleriyle iletisime giriyorlar, hat disi toplantilarimiz oluyor.
+									","
+											Il y a un flux pour les nouvelles pages, par exemple,
+											vous pouvez aller sur une certaine page de Wikipedia
+											et voir tous les nouveaux articles quand ils sont créés.
+											C'est très important, parce qu'un grand nombre des pages qui sont crées
+											sont justes des torchons qui doivent être supprimés.
+											Mais c'est aussi l'une des choses les plus intéressantes et amusantes de Wikipedia,
+											certains des nouveaux articles.
+											Les gens vont commencer un article sur un sujet intéressant,
+											d'autres vont trouver ça intriguant
+											et vont sauter dedans et aider à le rendre bien meilleur.
+											Nous avons effectivement des publications par des utilisateurs anonymes,
+											ce qui est l'une des choses les plus controversées et intrigantes à propos de Wikipédia.
+											Donc Chris a été capable de faire sa modification — Il n'a pas eu à se connecter ou autre,
+											il est juste allé sur le site et a fait un changement.
+											Mais il se trouve que seulement 18 % de toutes les publications du site
+											sont faîtes par des utilisateurs anonymes.
+											C'est quelque chose de très important à comprendre,
+											la vaste majorité des publications qui vont sur le site
+											proviennent d'une communauté très proche de peut-être 600 à 1000 personnes
+											qui sont en communication constante.
+											Et nous avons plus de 40 chaînes IRC, 40 liste d'envoi.
+											Toutes ces personnes se connaissent. Ils communiquent, nous avons des réunions hors-ligne.
+									","
+											Es gibt zum Beispiel auch einen 'Neue Seiten'-Feed,
+											man kann also auf eine spezielle Seite auf Wikipedia gehen
+											und jede neue Seite sehen, sobald sie erstellt wird.
+											Das ist sehr wichtig, denn viele neue Seiten, die erstellt werden,
+											sind einfach nur Müll, der gelöscht werden muss, ASDFASDF halt.
+											Das ist aber auch eines der interessantesten und lustigsten Dinge bei Wikipedia,
+											einige der neuen Artikel werden
+											von Leuten mit einem interessanten Thema angefangen,
+											andere Leute finden das faszinierend
+											und klinken sich ein, um zu helfen und sie viel besser zu machen.
+											Wir haben also Beiträge anonymer Nutzer,
+											was eines der kontroversesten und faszinierendsten Dinge bei Wikipedia ist.
+											Chris konnte diese Änderung machen — er musste sich dafür nicht einloggen,
+											er ging einfach auf die Website und änderte das.
+											Aber es zeigt sich, dass nur ca. 18 Prozent der Änderungen auf der Website
+											von anonymen Nutzern kommen.
+											Und es ist sehr wichtig, zu verstehen,
+											dass die überwiegende Mehrzahl der Bearbeitungen auf der Website
+											aus einer eng verbundenen Community von 600 bis 1.000 Leuten kommt,
+											die ständig miteinander kommunizieren.
+											Und wir haben über 40 IRC-Kanäle, 40 Mailinglisten.
+											All diese Menschen kennen sich gegenseitig. Sie unterhalten sich, wir haben Offline-Treffen.
+									",The birth of Wikipedia,Jimmy Wales,20:01,"business,collaboration,culture,invention,media,open-source,technology,wikipedia"
+"
+","
+","
+","
+",The birth of Wikipedia,Jimmy Wales,20:01,"business,collaboration,culture,invention,media,open-source,technology,wikipedia"
+"
+											Esas son las personas que crean la mayor parte del sitio
+											y, en cierto modo, son semiprofesionales 
+de lo que hacen,
+											en el sentido de que el control de calidad 
+que nos exigimos es igual o mayor
+											que el de los profesionales.
+											No siempre llegamos a ese nivel,
+											pero es lo que intentamos.
+									","
+											Bu insanlar, sitenin buyuk kismini olusturanlar,
+											ve onlar, bir bakima, yaptiklari iste yari profesyoneller,
+											bizim kendimiz icin olusturdugumuz standardlar, profosyonel seviyedeki kalite standarlarina
+											esit ve hatta onlardan daha yuksek.
+											Her zaman bu standartlarda is cikartamiyoruz tabi,
+											ama hedefimiz bu standartlara ulasmak.
+									","
+											Ce sont les gens qui portent le site sur leurs épaules,
+											et ils sont, dans un sens, semi-professionnel dans ce qu'ils font,
+											les standards que nous nous imposons à nous-même sont équivalents ou supérieurs
+											à des critères de qualité professionnel.
+											Nous n'arrivons pas toujours à atteindre ces standards
+											mais c'est ce à quoi nous aspirons.
+									","
+											Dies sind die Leute, die den Löwenanteil auf der Seite machen,
+											und sie sind in gewissem Sinne semi-professionell bei dem, was sie tun,
+											dass wir die Ansprüche für uns selbst gleichwertig oder höher setzen als
+											professionelle Qualitäts-Ansprüche.
+											Wir erfüllen diese Ansprüche nicht immer,
+											aber wir streben sie an.
+									",The birth of Wikipedia,Jimmy Wales,20:01,"business,collaboration,culture,invention,media,open-source,technology,wikipedia"
+"
+","
+","
+","
+",The birth of Wikipedia,Jimmy Wales,20:01,"business,collaboration,culture,invention,media,open-source,technology,wikipedia"
+"
+											Así que esa comunidad tan unida es la que de verdad se preocupa del sitio,
+											y son algunas de las personas 
+más brillantes que conozco.
+											Desde luego, es mi trabajo decir eso, 
+pero es la verdad.
+											El tipo de gente a la que le atrae escribir una enciclopedia para divertirse
+											tiende a ser bastante inteligente.
+									","
+											Yani, o kucuk insan toplulugu, yani siteye gercekten emegi gecenler,
+											su ana kadar karsilastigim en zeki insanlardan bazilari.
+											Tabii ki bunu soylemek benim isim, ama durum gercekten de boyle.
+											Eglenmek icin ansiklopedi yazmayi secmis bir insan tipi
+											genelde oldukca zeki insanlardan olusuyor.
+									","
+											Cette communauté très rapprochée représente les gens qui s'impliquent vraiment pour le site
+											et ils font partie des gens les plus intelligent que j'ai eu l'occasion de rencontrer,
+											Bien sûr, c'est mon boulot de dire ça, mais c'est pourtant vrai.
+											Le type de gens qui ont été convaincu d'écrire une encyclopédie pour s'amuser
+											ont tendance à être des gens très intelligents.
+									","
+											Es ist die enge Gemeinschaft, die sich wirklich um die Site kümmert
+											und das sind einige der klügsten Leute, die ich je traf.
+											Natürlich ist es mein Job, das zu sagen, aber es ist tatsächlich wahr.
+											Die Sorte Leute, die interessiert sind, eine Enzyklopädie zum Spaß zu schreiben,
+											sind tendenziell ziemlich kluge Leute.
+									",The birth of Wikipedia,Jimmy Wales,20:01,"business,collaboration,culture,invention,media,open-source,technology,wikipedia"
+"
+","
+","
+","
+",The birth of Wikipedia,Jimmy Wales,20:01,"business,collaboration,culture,invention,media,open-source,technology,wikipedia"
+"
+											Las herramientas y el software: hay muchas herramientas que nos permiten
+											a la comunidad autocontrolarnos 
+y vigilar todo el trabajo.
+											Este es un ejemplo del historial de una página 
+sobre la ""tierra plana"",
+											y pueden ver algunos de 
+los cambios hechos.
+											Lo que me gusta de esta página es que, de inmediato, se puede consultar esto
+											y darse cuenta, ""vale, ahora lo entiendo"".
+											Cuando alguien lo consulta, se ve que alguien,
+											un número IP anónimo, editó mi página.
+											Sospechoso ¿quién es esta persona? 
+Alguien se fija,
+											y puede ver inmediatamente resaltados en rojo todos los cambios hechos,
+											y ver, bueno, vale, estas palabras han cambiado, cosas como esta.
+											Es una herramienta que se puede usar muy rápido para controlar el historial de una página.
+									","
+											Araclar ve yazilim programlari: o kadar cok arac var ki—
+											bizim, yani tum grubun, kendi kendini kontrol etmesini ve yapilan butun isi kontrol etmeyi saglayan.
+											Bu, dunya yuzeyinin tarihini anlatan bir sayfa ornegi,
+											ve goruyorsunuz ki bazi degisiklikler yapilmis.
+											Bu sayfaya dair guzel olan su ki, ona hemen bakip
+											a tamam, simdi anliyorum diyorsunuz.
+											Herhangi birisi gidip baktigina goruyor ki, baska birisi,
+											anonim bir IP numarasiyla, benim sayfamda degisiklik yapmis—
+											bu biraz kuskulu gorunuyor— kim yapti acaba? Baktiginizda,
+											yapilan butun degisikliklerin kirmizi renkle belirtildigini goruyorsunuz,
+											tamam diyorsunuz, bu kelimeler degistirilimis, bu ve bunun gibi seyler.
+											Iste bu, bir sayfada hangi degisikliklerin yapildigini bir cabuk kontrol etmek icin kullandigimiz araclardan birisi.
+									","
+											Les outils et le logiciel : il y a de nombreux outils qui nous permettent —
+											par nous, j'entend la communauté — d'effectuer un suivi de tout le travail.
+											Ceci est exemple d'un historique d'une page sur la terre plate,
+											et vous pouvez voir quelques changements qui ont été faits.
+											Ce qui est bien avec cette page c'est que vous pouvez immédiatement jeter un oeil à ça
+											et voir, oh OK, je comprend maintenant.
+											Quand n'importe qui vient et regarde ça — il voit que quelqu'un,
+											une adresse IP anonyme, a fait un changement à ma page —
+											cela semble douteux — Qui est cette persone ? N'importe qui qui regarde ça,
+											peux immédiatement voir en rouge tous les changements qui ont été établis,
+											pour voir, Ok, bon, ces mots ont changés, des choses comme ça.
+											Donc c'est l'un des outils que nous pouvons utiliser pour suivre vraiment rapidement l'histoire d'une page.
+									","
+											Die Werkzeuge und die Software: Es gibt viele Werkzeuge, die uns erlauben —
+											mit uns ist die Gemeinschaft gemeint — uns selbst und die ganze Arbeit zu kontrollieren.
+											Dies ist ein Beispiel einer Versionsgeschichte einer Seite über die flache Erde,
+											und man kann einige Änderungen sehen, die gemacht wurden.
+											Das Nette an dieser Seite ist, man kann sofort drauf schauen
+											und sie verstehen, oh OK, das verstehe ich jetzt.
+											Wenn jemand hingeht und sich ansieht — sieht er, dass jemand,
+											eine anonyme IP-Adresse, meine Seite bearbeitet hat —
+											das klingt verdächtig — wer ist diese Person? Jemand schaut es sich an,
+											der kann sofort die Änderungen in rot hervorgehoben sehen,
+											um zu sehen, ok, nun, diese Worte wurden geändert und Ähnliches.
+											Das ist ein Werkzeug, das wir benutzen um schnell die Versionsgeschichte einer Seite zu kontrollieren.
+									",The birth of Wikipedia,Jimmy Wales,20:01,"business,collaboration,culture,invention,media,open-source,technology,wikipedia"
+"
+","
+","
+","
+",The birth of Wikipedia,Jimmy Wales,20:01,"business,collaboration,culture,invention,media,open-source,technology,wikipedia"
+"
+											Otra cosa que hacemos en la comunidad
+											es dejar todo abierto.
+											La mayoría de las normas sociales 
+y métodos de trabajo
+											se dejan completamente abiertos en el software.
+											Todo eso está en páginas Wiki.
+											Así que no hay nada en el software
+que haga valer las normas.
+											El ejemplo que muestro aquí es una página 
+de consulta de borrado.
+											Como dije antes, la gente escribe tonterías,
+											hay que borrarlo. En casos como ese, los administradores simplemente lo borran.
+											No hay por qué tener una discusión sobre eso.
+											Pero pueden imaginar que hay muchas otras áreas en las que la pregunta es,
+											¿es esto suficientemente importante 
+para aparecer en una enciclopedia?
+											¿Es la información verificable? ¿Es un engaño? ¿Es verdad? ¿Qué es?
+											Necesitamos un método social para encontrar la solución.
+											Y el método que surgió de modo natural dentro de la comunidad:
+											es la página de consulta de borrado.
+											Y en el ejemplo particular que tenemos aquí,
+es una película,
+											""Twisted Issues"", y la primera persona dice,
+											""Se supone que esto es una película. Falla el test de google estrepitosamente.""
+											El test de Google es: miras en Google y ves si está ahí,
+											porque si algo ni siquiera está en Google, probablemente no existe en absoluto.
+											No es una regla perfecta, pero es un buen punto de partida para investigar con rapidez.
+											Así que alguien dice, ""Bórrenlo, por favor. 
+Bórrenlo, no es importante.""
+											Y entonces alguien dice, ""Esperen, esperen, esperen. Lo encontré.""
+											Lo encontré en un libro, 
+""Guía de vídeo de la Revista Film Threat:
+											Las 20 películas underground que hay que ver.""
+											Oh, vale. Así que la siguiente persona dice:
+""Limpiémoslo.""
+											Alguien dice, ""Lo he encontrado en IMDB. 
+Sigamos, sigamos.""
+											Lo interesante de esto es que el software es...
+											los votos son simplemente texto escrito 
+en una página.
+											No es tanto un voto como un diálogo.
+											Es cierto que al final
+											un administrador puede revisarlo 
+y decir,
+											18 votos a favor de borrar, 2 a favor de seguir, 
+lo borramos.
+											Pero en otros casos, puede haber 18 a favor de borrar y 2 de seguir, y lo mantendríamos,
+											porque si esos dos dicen, 
+""Esperemos un poco, esperemos.
+											nadie ha visto esto pero yo lo encontré en un libro,
+											y encontré un enlace a una página que lo describe, 
+y lo arreglaré mañana,
+											por favor no lo borren,"" entonces sobreviviría.
+											Y también importa 
+quienes son las personas que votan.
+											Como digo, es una comunidad estrecha.
+											Aquí abajo, ""Mantener, película real,"" Rick Kay.
+									","
+											Bir digeri, grup icinde kullandiklarimizdan,
+											herseyi acik uclu birakmak.
+											Bir cok sosyal kural ve calisma metodu
+											yazilimda tamamen ucu acik bir durumdalar.
+											Bunlarin bir cogu sadece Viki sayfalarinda.
+											Dolayisiyla yazilimda bize kural koyan hicbir sey yok.
+											Elimdeki ornekte Silmek icin Oy sayfasini goruyorsunuz.
+											Daha once de bahsettigim gibi, insanlar ASDFASDF yaziyorlar—
+											bunun silinmesi gerek. Bu gibi durumlarda, yoneticiler aninda siliyorlar.
+											Bu konuda tartismaya hic gerek yok.
+											Ama tahmin edebileceginiz uzere, bir suru baska alanlarda, soru su oluyor:
+											bu ansiklopediye girecek kadar onemli bir sey mi?
+											Gercekligi kanitlanabilir mi? Hilemidir? Dogrumudur? Nedir?
+											Bu sorulara yanit verebilmek icin sosyal bir metoda ihtiyacimiz var.
+											Grubumuz icinde kendi kendine gelismis olan bir metod
+											Silmek icin Oy sayfasi.
+											Elimdeki ornege bakacak olursaniz, bu bir film,
+											""Twisted Issues"" ve ilk kisi soyle diyor,
+											""Simdi bu guya bir film. Fakat Google testi boyle soylemiyor""
+											Google testi ise, Google'a bakiyorsunuz ve
+											herhahngi birsey Google'da bile degilse, onun varligindan suphe ediyorsunuz.
+											Bu mukemmel bir kural degil, ama hizli bir arastirma icin iyi bir baslangic.
+											Dolayisiyla birisi, ""Bunu silin, lutfen. Silin bunu— onemli bir sey degil bu"" diyor.
+											Sonra bir baskasi, 'Durun, durun, durun, ben buldum onu' diyor.
+											Bir kitabin icinde buldim, 'Film ve Video Kulavuzu:
+											Yeraltindan Izlemeniz gereken 20 Film'
+											Aa, tamam. Bir sonra ki diyorki 'Silin onu'
+											Bir digeri, 'Ben onu IMDB'de buldum. Sakin silmeyin, sakin, sakin, sakin""
+											Ve bu durumda ilginc olan su ki, yazilimci
+											bu birbirine esit oylari aliyor— bunlari ayni sayfaya yazilmis olarak gorebiliryorsunuz.
+											Bu aslinda oydan cok bir dialog.
+											Gercek olan su ki, gunun sonunda
+											yonetici bu sayfaya bakip soyle diyebilir,
+											Tamam, 18 kisi sil demis, 2 kisi tut demis, siliyoruz.
+											Ama baska durumlarda, 18 kisi sil demis, 2 kisi tut demis olabilir, ve biz tutmaya karar vermis olabiliriz,
+											cunku eger bu iki kisi, ""Durun, durun,
+											kimse gormedi ama ben bunu bir kitapta gordum,
+											ve onun ne oldugunu analtan web sitesine bir baglanti buldum, yarin gerekli duzeltmeleri yapacagim,
+											lutfen silmeyin"", bu durumda tutuyoruz tabi.
+											Ayni zamanda, oy verenlerin kim oldugu da onemli bir konu.
+											Dedigim gibi, grubumuz kucuk.
+											Burada asagida, 'Tut bunu, bu gercek bir film', Rick Kay yaziyor.
+									","
+											Une autre chose que nous faisons au sein de la communauté
+											est que nous considérons tous les articles comme incomplets.
+											La plupart des règles sociales et des méthodes de travail
+											sont complètement améliorables dans le logiciel.
+											Tout ce matériel est juste sur les pages Wiki.
+											Et il n'y a donc rien dans le logiciel qui enfrunt la loi.
+											L'exemple que je vous montre ici est une page de vote pour la suppression d'une page.
+											Donc, je l'ai mentionné plus tôt, les personnes qui ""foutent le bordel"" —
+											cela doit être supprimé. Dans les cas comme ça, les administrateurs les détruisent tout simplement.
+											Il n'y pas de raisons d'avoir une grosse dispute à propos de ça.
+											Mais vous pouvez imaginer qu'il y a beaucoup d'autres terrains pour lesquels la question se pose,
+											Le sujet est-il suffisamment pertinent pour aller dans une encyclopédie ?
+											L'information est-elle vérifiable ? Est-ce une blague ? Est-ce vrai ? Qu'est-ce que c'est ?
+											Donc nous avions besoin d'une méthode sociale pour trouver des réponses à cela.
+											Et la méthode qui est née organiquement au sein de la communauté
+											est la page vote pour suppression.
+											Et dans cet exemple particulier que nous avons ici, c'est un film,
+											""Twisted Issues"", et la première personne dit,
+											""Si c'est hypothétiquement un film, il a raté le test Google misérablement.""
+											Le test Google est d'aller voir dans Google pour voir si il y est présent,
+											car si quelque chose n'est même pas dans Google, il n'existe probablement pas du tout.
+											Ce n'est pas une règle parfaite, mais c'est un point de départ pour une recherche rapide.
+											Donc quelqu'un dit : ""Supprimez le, s'il vous plaît, supprimez le — ce n'est pas pertinent.""
+											Puis quelqu'un dit : ""Attendez, attendez, je l'ai trouvé.
+											Je l'ai trouvé dans un livre, Le Guide des films Catastrophes :
+											les 20 films underground que vous devez avoir vu.""
+											Oh, Ok. Donc la personne suivante dit : ""Nettoie-le""
+											Quelqu'un dit : ""je l'ai trouvé sur IMDB. Gardez-le, gardez-le !""
+											Et ce qui est intéressant à propos de tout ça est que le logiciel —
+											ces votes sont justes — ils sont juste tapés dans une page.
+											Ceci est en fait plus un dialogue qu'un vote.
+											C'est vrai qu'à la fin de la journée
+											un administrateur peut jeter un oeil à tout ça et dire,
+											Ok, 18 suppressions, 2 maintiens, nous allons le supprimer.
+											Mais dans d'autres cas, cela pourrait être 18 suppressions et 2 maintiens mais nous le garderions quand même,
+											parce que si ces deux derniers maintiens disent : ""Attendez une minute, attendez une minute.
+											Personne d'autre n'a vu ça mais je l'ai trouvé dans un livre,
+											et j'ai trouvé un lien vers une page qui le décrit et je vais le corriger demain,
+											donc merci de ne pas le supprimer,"" et l'article survivrait.
+											Ce qui compte aussi c'est qui sont les gens qui votent.
+											Comme je l'ai dit, c'est une communauté très soudée.
+											Ici, tout en en bas, : ""Gardez, vrai film"", Rick Kay.
+									","
+											Eine andere Sache, die wir innerhalb der Community tun
+											ist, das wir alles offen gestalten.
+											Die meisten der sozialen Regeln und Arbeitsmethoden
+											sind in der Software ganz offen gelassen.
+											Das ganze Zeug steht einfach auf Wikiseiten.
+											Es gibt nichts in der Software, das die Einhaltung der Regeln erzwingt.
+											Das Beispiel hier ist eine Seite für Löschkandidaten.
+											Ich hab's vorhin erwähnt, es gibt Leute die tippen nur ASDFASDF —
+											das muss gelöscht werden. In solchen Fällen löschen es die Admins einfach.
+											Es gibt keinen Grund, darüber lange zu diskutieren.
+											Es gibt, wie sie sich denken können, aber Bereiche, bei denen wir uns fragen:
+											Ist das bedeutsam genug, um in eine Enzyklopädie aufgenommen zu werden?
+											Sind die Informationen überprüfbar? Ist das eine Ente? Ist es wahr? Was ist es?
+											Wir brauchten also eine soziale Methode, um die Antwort darauf zu finden.
+											Und die Methode, die organisch in der Gemeinschaft aufkam,
+											ist die Löschkandidaten-Seite.
+											Und in dem konkreten Beispiel hier, das ist ein Film,
+											""Twisted Issues"", und die erste Person sagt:
+											""Das ist also angeblich ein Film. Im Google-Test versagt er kläglich.""
+											Der Google-Test ist, wenn man auf Google nachschaut, ob es existiert,
+											denn wenn etwas nicht mal bei Google auftaucht, existiert es wahrscheinlich nicht.
+											Es ist keine perfekte Regel aber es reicht für den Anfang.
+											Jemand sagt also: ""Löscht es bitte. Löscht es — es ist nicht relevant.""
+											Und dann antwortet jemand: ""Halt, halt, halt, ich habe ihn gefunden.
+											Er steht in dem Buch 'Film Threat Video Guide:
+											die 20 Untergrundfilme, die man sehen muss.""
+											Oh, OK. Die nächste Person sagt: ""Säubert den Artikel.""
+											Noch jemand sagt: ""Hab's in der IMDB gefunden. Behalten, behalten.""
+											Und interessant dabei ist auch, dass die Software —
+											diese Abstimmtung ist nur — es ist nur normaler Text auf einer Seite.
+											Das ist mehr ein Dialog als eine Abstimmung.
+											Es stimmt also, dass am Ende des Tages
+											ein Administrator da durchgeht, es sich anschaut und sagt:
+											Ok, 18 für Löschen, 2 für Behalten, wir löschen es.
+											Aber in anderen Fällen kann es 18 zu 2 für Löschen stehen und wir behalten es,
+											weil diese beiden letzten sagen: ""Halt, wartet eine Minute.
+											Niemand sonst hat es gesehen, aber ich habe es in einem Buch gefunden,
+											und ich habe einen Link zu einer Seite, die es beschreibt, und ich räume es morgen auf,
+											darum löscht es bitte nicht"". Und dann wird es überleben.
+											Und es hängt auch davon ab, wer die Leute sind, die abstimmen.
+											Wie ich sagte, es ist eine eng verbundene Gemeinschaft.
+											Hier, ganz am Ende:""Behalten, echter Film."" Rick Kay.
+									",The birth of Wikipedia,Jimmy Wales,20:01,"business,collaboration,culture,invention,media,open-source,technology,wikipedia"
+"
+","
+","
+","
+",The birth of Wikipedia,Jimmy Wales,20:01,"business,collaboration,culture,invention,media,open-source,technology,wikipedia"
+"
+											Rick Kay es un wikipedista famoso
+											que trabaja mucho contra el vandalismo, 
+los artículos falsos
+											y los votos para borrar.
+											Su voz tiene mucho peso en la comunidad
+											porque sabe lo que hace.
+											Así que ¿cómo se gobierna todo esto?
+											La gente realmente quiere saber cosas sobre los administradores, cosas de esas.
+											Así que el modelo de gobierno de Wikipedia, el gobierno de la comunidad,
+											es una mezcla de consenso muy confusa pero que permite trabajar,
+											es decir, que intentamos no votar 
+el contenido de los artículos,
+											porque la opinión de la mayoría 
+no necesariamente es neutral.
+											Cierto nivel de democracia. Todos los administradores,
+											esos tienen la capacidad de borrar páginas.
+											Eso no quiere decir que tengan 
+el derecho a borrar páginas,
+											ellos también tienen que seguir normas, pero a ellos se les elige.
+											Son elegidos por la comunidad. A veces a la gente
+											con bulos que surgen en Internet, le gusta acusarme de nombrar a dedo a los administradores
+											para sesgar el contenido de la enciclopedia.
+											Siempre me río de esto, porque 
+no tengo ni idea de cómo se los elige.
+											Hay un cierto nivel de aristocracia.
+											Y puede que tuvieran un amago de eso 
+cuando mencioné
+											que la voz de Rick Kay tiene mucho más peso que la de alguien a quien no conocemos.
+									","
+											Rick Kay unlu bir Vikipedici
+											Vikipedi'yi kotuye kullanmak isteyenlere, hilecilere karsi calisiyor ve
+											silmek icin oy sayfasini yonetiyor.
+											Grubumuz icinde sozu sayilir bir insan
+											cunku yaptigi isi iyi biliyor.
+											Peki, bu sistem nasil yonetiliyor?
+											Insanlar bunu gercekten bilmek istiyorlar, tamam, yoneticileri falan.
+											Vikipedi'nin yonetim modeli, tum grubun yonetimi,
+											oldukca karisik, ama rizaya dayali bir sistem soz konusu—
+											yani bu da su demek ki, maddelerin icerigini oylamaya sunmuyoruz,
+											cunku cogunlugun gorusu her zaman tarafsiz olur diye bir sey soz konusu degil.
+											Biraz demokrasi, tum yoneticiler icin gecerli olan—
+											ki onlarin sayfalari silme yetkisi var,
+											bu demek degil ki, sayfalari silme haklari var,
+											kurallari izlemek zorundalar— ama onlar secilmis insanlar,
+											grup tarafindan secildiler. Bazen insanlar—
+											internetde rastgele karsilastiklarim— beni yoneticileri secmekle sucluyorlar
+											ve bu secim sonucu ansiklopedinin tarafsizligini yitirdigini.
+											Ben buna hep guluyorum, cunku o yoneticilerin nasil secildigini bilmiyorum, gercekten.
+											Biraz aristokratik sistem soz konusu.
+											Yani demek isityorum ki, ornegin,
+											Rick Kay'in fikrini tanimadigimiz bir kisinin fikrine tercih ediyoruz.
+									","
+											Rick Kay est un wikipedien très connu
+											qui fait une énorme quantité de travail avec le vandalisme, les faux
+											et les votes pour suppression.
+											Sa voix a beaucoup de poids au sein de la communauté
+											car il sait ce qu'il fait.
+											Donc, comment tout cela est-il gouverné ?
+											Les gens veulent vraiment savoir, Ok, les administrateurs, les choses comme ça.
+											Donc le modèle de gouvernance de Wikipédia, de gouvernance de la communauté,
+											est très confus, mais constitue un mélange de consensus qui permettent de travailler.
+											je veux dire que nous essayons de ne pas voter sur le contenu des articles,
+											parce que l'avis de la majorité n'est pas nécessairement neutre.
+											Un peu de démocratie, tous les administrateurs —
+											ce sont les gens qui ont la possibilité de supprimer des pages,
+											cela ne signifie pas qu'ils ont le droit de supprimer des pages,
+											ils doivent quand même suivre les règles — mais ils sont élus,
+											ils sont élus par la communauté. Parfois les gens —
+											des trolls quelconques sur Internet — aiment m'accuser de soudoyer les administrateurs
+											pour biaiser le contenu de l'encyclopédie.
+											Je rigole souvent de tout ça, car je n'ai en fait aucune idée de comment ils sont élus.
+											Il y a une petite quantité d'aristocracie.
+											vous en avez eu un apercu quand j'ai parlé par exemple
+											de la voix de Rick Kay qui a plus de portée que celle de quelqu'un que nous ne connaissons pas.
+									","
+											Rick Kay ist ein sehr bekannter Wikipedianer,
+											der sehr viel Arbeit in die Bekämpfung von Vandalimus und Enten steckt
+											und eben die Löschkandidaten.
+											Seine Stimme hat viel Gewicht in der Gemeinschaft,
+											weil er weiß, was er tut.
+											Wie wird das alles verwaltet?
+											Die Leute interessieren immer die Administratoren und solche Dinge.
+											Das Wikipedia Verwaltungsmodell, die Verwaltung der Gemeinschaft,
+											ist ein sehr verwirrender, aber funktionierender Mix aus Konsens —
+											das bedeutet, wir versuchen, nicht über die Inhalte von Artikeln abzustimmen,
+											weil die Perspektive der Mehrheit nicht unbedingt neutral ist.
+											Ein demokratisches Element, alle Administratoren —
+											das sind die Leute, die Seiten löschen können,
+											doch das bedeutet nicht, dass sie das Recht dazu haben,
+											auch sie müssen sich an die Regeln halten — aber sie werden gewählt,
+											sie werden von der Gemeinschaft gewählt. Manchmal beschuldigen
+											mich Leute — zufällige Trolle im Internet — , dass ich die Admins selbst auswähle,
+											um die inhaltliche Ausrichtung der Enzyklopädie zu beeinflussen.
+											Ich lache darüber, denn ich habe tatsächlich keine Ahnung, wie sie gewählt werden.
+											Es gibt ein aristokratisches Element.
+											Ich habe darauf hingedeutet, als ich erwähnte, wie beispielsweise
+											Rick Kays Stimme viel mehr Gewicht hat als die eines Unbekannten.
+									",The birth of Wikipedia,Jimmy Wales,20:01,"business,collaboration,culture,invention,media,open-source,technology,wikipedia"
+"
+","
+","
+","
+",The birth of Wikipedia,Jimmy Wales,20:01,"business,collaboration,culture,invention,media,open-source,technology,wikipedia"
+"
+											A veces doy esta charla con Angela, 
+que acaba de ser reelegida
+											para la Junta de la comunidad, 
+para la Junta de la Fundación,
+											con más del doble de los votos 
+que la persona no seleccionada.
+											Y siempre la avergüenzo porque digo que, 
+por ejemplo, Angela
+											podría salirse con la suya haciendo lo que le diera la real gana en Wikipedia
+											porque se la admira mucho y es poderosa.
+											Pero la ironía es, desde luego, que Angela puede hacer eso porque es la única persona
+											que nunca jamás, rompe ninguna regla de Wikipedia.
+											Y también me gustaría decir que es la única persona
+											que conoce todas las reglas de Wikipedia...
+											y también está la monarquía, y ese es mi papel en la comunidad...
+											Lo expliqué una vez en Berlín 
+y al día siguiente el titular
+											de un periódico decía: 
+""Soy la Reina de Inglaterra.""
+											Y eso no es exactamente lo que dije, pero,
+											lo que quiero aclarar es 
+mi papel en la comunidad
+											dentro del mundo del software.
+											Ha habido una vieja y duradera tradición 
+del modelo del dictador benevolente.
+											Así que al observar la mayoría de los principales proyectos de software libre,
+											tienen una sola persona a cargo
+											y todos están de acuerdo 
+en que es el dictador benevolente.
+											No me gusta el término dictador benevolente,
+											y no creo que sea mi trabajo 
+o mi papel en el mundo de las ideas
+											ser el dictador del futuro de todo el conocimiento humano compilado por el mundo.
+											Simplemente no es apropiado.
+											Aún así, hace falta un cierto nivel de monarquía,
+											una cierta cantidad de... 
+A veces hay que tomar una decisión,
+											y no queremos atascarnos demasiado
+											en tomas de decisión formales.
+									","
+											Bazen bu sunumu Angela ile beraber yapiyoruz, o gecenlerde yeniden
+											grubun yonetim kuruluna secildi— Kurumun Yonetim Kuruluna.
+											rakibinin iki katindan fazla oy olarak.
+											Ve ben onu hep soyle diyerek dalga geciyorum, Evet Angela, mesela
+											Vikipedi'yle istedigin herseyi yapabilirisin,
+											cunku hem herkes sana hayran, hem de guc sende.
+											Isin ironik tarafi su ki, tabii ki Angela istedigi herseyi yapabilir, cunku biliyorsunuz ki
+											o hic ama hic bir zaman Vikipedi'nin kurallarina karsi birsey yapmaz.
+											Sunu da belirtmeliyim ki, o Vikipedi'nin
+											butun kurallarini gercekten bilen tek kisi, bu durumda...
+											monarsi de soz konusu ve bu da grup icinde benim rolum, yani...
+											Bundan bir keresinde Berlin'de bahsediyordum, ertesi gun gazete
+											basliklari soyle yazdi, 'Ben Ingliltere'nin Kralicesiyim'
+											Ben boyle birsey soylemedim, ama—
+											soz konusu olan benim grup icindeki rolum—
+											herkese acik olan yazilim dunyasinda—
+											Su ana kadar gordugumuz gelenek, koruyucu diktator modeli.
+											Herkese acik yazilim projelerinin cogunda,
+											herseyden sorumlu bir insan var
+											ve herkes onun koruyucu bir diktator oldugu konusunda hem fikir.
+											Yani, aslinda koruyucu diktotor terimi hosuma gitmiyor,
+											ve bunun, benim fikirler dunyasindaki rolum oldugunu dusunmuyorum
+											tum dunyanin boyun egdigi insanlik bilgisinin geleceginin diktatorlugu.
+											Boyle birsey mumkun degil.
+											Ama yine de bir miktar monarsiye ihtiyacimiz var,
+											biraz demek istiyorum— bazen bir karar vermemiz gerektiginde,
+											resmi bir karar alma surecine takili kalmak
+											istemiyoruz.
+									","
+											Je donne ce discours parfois avec Angela, qui vient juste d'être réélue
+											au conseil de la communauté — au conseil de la Fondation,
+											avec près de plus de deux fois le score de l'autre candidat.
+											Et je l'embarrasse toujours car je dis, bon, Angela
+											pourrait toujours s'en sortir en ne faisant absolument rien pour Wikipedia,
+											car elle est très admirée et très puissante.
+											Mais l'ironie est que, bien sûr, Angela peut faire cela car elle est la personne élue
+											dont vous savez qu'elle n'enfreindrait jamais aucune règle de Wikipedia.
+											J'aime aussi dire que c'est la seule personne
+											qui connaît toutes les règles de Wikipedia, donc...
+											et après il y a la monarchie et c'est mon rôle dans la communauté, donc...
+											J'avais décrit ça à Berlin une fois et le lendemain dans les journaux
+											la presse titrait : ""Je suis la Reine d'Angleterre.""
+											Ce n'est pas exactement ce que j'avais dit mais —
+											la question est mon rôle dans la communauté —
+											dans le monde du logiciel libre, il y a une longue —
+											Il existait une vielle tradition du modèle du dictateur bénévole.
+											donc si vous regardez la plupart des projets de logiciels libres,
+											ils ont une seule personne en place
+											dont tout le monde est d'accord pour dire qu'elle est le dictateur bénévole.
+											Bon, je n'aime pas ce terme de dictateur bénévole,
+											et je ne pense pas que mon job ou mon rôle dans le monde des idées
+											est d'être le décideur du futur de ce qui sera la compilation de toutes les connaissances humaines.
+											C'est simplement inapproprié.
+											Mais il y a un besoin pour une petite dose de monarchie,
+											une certaine quantité de — parfois nous avons à prendre une décision,
+											et nous ne voulons pas être alourdis et ralentis
+											par un processus de décision formel.
+									","
+											Manchmal mache ich diesen Vortrag mit Angela, die gerade erneut gewählt wurde
+											vom Aufsichtsrat der Gemeinschaft — zum Aufsichtsrat der Stiftung,
+											mit mehr als doppelt so vielen Stimmen, wie die Person, die es nicht geschafft hat.
+											Und es ist ihr immer peinlich wenn ich sage, dass Angela, zum Beispiel,
+											so gut wie alles in der Wikipedia anstellen könnte,
+											weil sie so beliebt und mächtig ist.
+											Aber die Ironie ist natürlich, dass Angela das tun kann, weil sie die eine Person ist,
+											von der man weiß, das sie nie, niemals die Regeln der Wikipedia brechen würde.
+											Und ich sage immer gern, dass sie auch die einzige Person ist,
+											die tatsächlich alle Regeln von Wikipedia kennt, darum...
+											und dann gibt es Monarchie, und das ist meine Rolle in der Gemeinschaft.
+											Ich habe das mal in Berlin erklärt, und am nächsten Tag stand in der Zeitung
+											die Überschrift: ""Ich bin die Königin von England.""
+											Und das ist nicht genau, was ich sagte, aber —
+											der Punkt ist, meine Rolle in der Gemeinschaft —
+											innerhalb der Welt freier Software gibt es lange —
+											es gibt dort eine langlebige Tradition des ""wohlwollender Diktator""-Modells.
+											Wenn man sich die meisten der großen freien Softwareprojekte anschaut,
+											dann ist dort immer eine einzelne Person am Ruder,
+											die von allen als der wohlwollende Diktator akzeptiert wird.
+											Nun, ich mag den Begriff 'wohlwollender Diktator' nicht,
+											und ich glaube nicht, dass es mein Job oder meine Rolle in der Welt der Ideen ist,
+											Diktator der Zukunft allen menschlichen Wissen zu sein, das von der Welt gesammelt wurde.
+											Das ist einfach unangemessen.
+											Aber es gibt trotzdem Bedarf für ein gewisses Maß an Monarchie,
+											ein gewisses Maß an — manchmal müssen wir eine Entscheidung treffen
+											und wir wollen nicht zu sehr versumpfen
+											in formalen Entscheidungsprozessen.
+									",The birth of Wikipedia,Jimmy Wales,20:01,"business,collaboration,culture,invention,media,open-source,technology,wikipedia"
+"
+","
+","
+","
+",The birth of Wikipedia,Jimmy Wales,20:01,"business,collaboration,culture,invention,media,open-source,technology,wikipedia"
+"
+											Como ejemplo de por qué ha sucedido esto
+											o de qué manera puede ser relevante,
+											recientemente tuvimos una situación donde un sitio neo-nazi descubrió Wikipedia,
+											y dijeron, ""Oh, esto es horrible, este sitio es una conspiración judía
+											y haremos que se borren ciertos artículos 
+que no nos gustan.
+											Y como tienen un proceso de votación, 
+enviaremos votos.
+											Tenemos 40.000 miembros y vamos a hacer
+											que voten para conseguir 
+que se borren estas páginas.""
+											Solo consiguieron que aparecieran 18 personas.
+											Eso son matemáticas neo-nazis.
+											Siempre piensan que son 40 000 
+miembros cuando son 18.
+											Pero consiguieron que 18 personas votaran de manera bastante absurda
+											para borrar un artículo perfectamente válido.
+											Desde luego, la votación terminó siendo más o menos de 85 a 18,
+											así que no había un peligro real para nuestro proceso democrático.
+											Por otra parte, la gente dice: 
+""Pero, ¿qué vamos a hacer?
+											Esto podría pasar y 
+¿si un grupo se organiza de verdad
+											y entra y quiere votar?""
+											Y entonces dije, ""A la mierda, 
+cambiaremos la normas.""
+											Ese es mi trabajo en la comunidad: decir que no permitiremos que nuestro carácter abierto
+											y nuestra libertad resten calidad al contenido.
+											Así que mientras la gente confíe en mi papel,
+											hay un lugar válido para mí.
+											Evidentemente, por la licencia libre, si hago mal mi trabajo,
+											los voluntarios son libres de irse.
+											No puedo decirle a nadie qué hacer.
+									","
+											Bir ornek verecek olursam, bunun neden
+											onemli olabilecegine dair,
+											gecenlerde bir neo-Nazi web sitesi Vikipedi'yi kesfetti,
+											ve soyle dediler, ""Bu korkunc yahudi anlasmali websitesi
+											ve biz burada begenmedigimiz maddleri yok edecegiz.
+											Ve oylama surecini baslattilar,
+											40,000 uyemizi bu sayfaya yonlendirecegiz
+											ve onlar bu sayfalarin silinmesi icin oy kullanacaklar.""
+											Sonunda, 18 kisiyi toparlamayi basardilar.
+											Bu da sizin icin neo-Nazi matematigi.
+											Onlar hep 40,000 uyeleri oldugunu dusunuyorlar ama aslinda sadece 18 uyeleri var.
+											Ama bir sekilde bu 18 kisinin gelip sacma sapan bir sekilde oy kullanmasini sagladilar
+											son derece mesru bir maddenin silinmesi icin.
+											Tabii ki, sonunda oylar 85'e karsi 18'de kaldi,
+											dolayisiyla demokratik surecimiz bu isten bir zarar gormedi.
+											Diger taraftan, bazilari dedi ki, ""Bu durumda ne yapacagiz?
+											Yani, eger bazi gruplar gercekten ciddi bir sekilde organize olurlarsa
+											ve oy kullanmak uzere sitemize gelirlerse?""
+											Ben soyle dedim, ""Bosverin, biz de o durumda kurallari degistiririz.""
+											Bu benim grup icindeki gorevim: aciklik ve
+											ozgurluk prensiplerimizin icerigin kalitesini etkilemesini engellemek.
+											Dolayisiyla, insanlar benim bu rolume guven duyduklari surece,
+											burasi benim icin saglam bir yer.
+											Tabii ki, serbest lisansimiz oldugundan, eger kotu bir is yaparsam,
+											gonulluler, memnuniyetle cekip giderler—-
+											Kimseye ne yapmasi gerektigini soyleyemem.
+									","
+											Un exemple du pourquoi cela c'est fait comme ça —
+											et de combien cela est important,
+											nous avons récemment vécu une situation dans laquelle un site néo-Nazi a découvert Wikipedia,
+											et ils ont dit : ""Oh, c'est horrible, ce site est une conspiration juive
+											et nous allons faire en sorte que certains articles que nous n'aimons pas disparaissent.
+											Il existe un système de vote, donc nous allons envoyer —
+											Nous avons 40 000 membres and nous allons les envoyer là-dessus
+											et ils vont tous voter et faire supprimer ces pages.""
+											En fait ils ont réussi à avoir 18 personnes
+											Ceci est un exemple de mathématiques Néo-Nazi.
+											Ils pensent toujours qu'ils ont 40 000 membres alors qu'ils en ont 18.
+											Mais ils ont réussi à faire en sorte que 18 personnes viennent voter de façon complètement absurde
+											pour supprimer un article parfaitement valide.
+											Bien sûr, le vote s'est terminé à 85 voix contre 18,
+											donc ce n'était pas un réel danger pour notre procédé démocratique.
+											D'un autre côté, les gens disent :""Mais qu'allons-nous faire ?
+											Je veux dire, cela pourrait arriver, que ce passerait-il si certains groupes arrivent à s'organiser
+											nous rejoignent et demande le droit de vote ?""
+											Et jai dit : ""Et bien, tant pis, nous changerons juste les règles.""
+											C'est mon travail dans la communauté : de dire que nous n'autoriserons pas notre ouverture d'esprit
+											et notre liberté pour plomber la qualité du contenu.
+											Et aussi longtemps que les gens me feront confiance dans mon rôle,
+											et bien c'est une place valide pour moi.
+											Bien sûr, à cause de la licence libre, si je fais du mauvais boulot,
+											les volontaires sont plus que contents de partir.
+											Je ne peux dire à personne ce qu'il a à faire.
+									","
+											Hier ein Beispiel, warum das so ist —
+											oder warum das wichtig sein kann,
+											wir hatten vor Kurzem die Situation, dass eine Neonazi-Website Wikipedia entdeckt hat
+											und sie sagten sich: ""Oh nein, das ist schrecklich, die jüdische Verschwörung von einer Website,
+											und wir werden bestimmte Artikel löschen, die wir nicht mögen.
+											Und wie wir sehen, haben sie eine Abstimmung, also schicken wir —
+											wir haben 40.000 Mitglieder und wir schicken sie dahin,
+											und sie werden alle abstimmen und die Seiten löschen lassen.""
+											Nun, sie schafften es, dass 18 Leute aufgetaucht sind.
+											Da sieht man einmal Mathematik für Neonazis.
+											Sie denken immer, sie hätten 40.000 Mitglieder, dabei sind es 18.
+											Aber sie brachten 18 Leute dazu, vorbeizukommen und sehr absurd abzustimmen,
+											um einen vollkommen zulässigen Artikel zu löschen.
+											Natürlich endete die Abstimmung mit etwa 85 zu 18 Stimmen,
+											es gab also keine echte Gefahr für unseren demokratischen Prozess.
+											Andererseits sagten die Leute auch: ""Was machen wir denn nun?
+											Ich meine, das könnte passieren, und was passiert, wenn ein Gruppe sich ernsthaft organisiert
+											und zu uns kommt, um abzustimmen?""
+											Darauf sagte ich: ""Nun, scheiß' drauf, wir ändern einfach die Regeln.""
+											Das ist mein Job in der Gemeinschaft, zu sagen: Wir lassen nicht zu, dass unsere Offenheit
+											und Freiheit die Qualität unserer Inhalte unterminiert.
+											Solange die Leute mir in meiner Rolle also trauen,
+											ist das ein berechtiger Platz für mich.
+											Andererseits, der freien Lizenz wegen, wenn ich einen schlechten Job mache,
+											dann nehmen die Freiwilligen alles und gehen weg —
+											ich kann niemandem sagen, was er zu tun hat.
+									",The birth of Wikipedia,Jimmy Wales,20:01,"business,collaboration,culture,invention,media,open-source,technology,wikipedia"
+"
+","
+","
+","
+",The birth of Wikipedia,Jimmy Wales,20:01,"business,collaboration,culture,invention,media,open-source,technology,wikipedia"
+"
+											El último punto es que para entender cómo funciona Wikipedia
+											es importante entender que nuestro modelo Wiki es nuestra forma de trabajar,
+											pero no somos anarquistas fanáticos de la red. 
+De hecho,
+											somos muy flexibles 
+en cuanto a la metodología social,
+											porque la pasión de la comunidad 
+estriba en la calidad del trabajo,
+											no necesariamente por el proceso usado 
+para generarlo.
+											Gracias.
+											(Aplausos)
+									","
+											Dolayisiyla bu konudaki son nokta, Vikipedi'nin nasil calistigini anlamak,
+											Viki modelini kullanarak calistigimizi anlamak onemli,
+											ama tabi biz fanatik web anarsistleri degiliz. Aslinda, bizim—
+											biz sosyal metod bakimindan oldukca esnegiz,
+											cunku sonuc olarak, yaptigimiz isin kalitesini grubumuzun tutkusuna borcluyuz,
+											buna ulasmak icin kullandigimiz metodlara degil.
+											Tesekkur ederim.
+											(Alkislar)
+									","
+											Donc la conclusion ici est que pour comprendre comment marche Wikipedia,
+											il est important de comprendre que notre modèle Wiki est notre façon de travailler,
+											mais nous ne sommes pas des anarchistes fanatiques du web. En fait, notre —
+											nous sommes très flexible à propos de la méthodologie sociale,
+											parce que c'est ultimement la passion de la communauté est pour la qualité du travail.
+											et pas nécessairement pour le procédé que nous utilisons pour le générer.
+											Merci.
+											(Applaudissements)
+									","
+											Der abschließende Punkt ist also, um zu verstehen, wie Wikipedia funktioniert,
+											ist es wichtig zu verstehen, dass unser Wikimodell die Art ist, wie wir arbeiten,
+											aber wir sind keine fanatischen Webanarchisten. Tatsächlich ist unsere —
+											wir sind sehr flexibel, was unsere soziale Methodologie betrifft,
+											denn im Endeffekt ist es die Leidenschaft der Gemeinschaft für die Qualität unserer Arbeit,
+											nicht notwendigerweise für den Prozess, den wir haben, um sie zu erledigen.
+											Danke.
+											(Applaus)
+									",The birth of Wikipedia,Jimmy Wales,20:01,"business,collaboration,culture,invention,media,open-source,technology,wikipedia"
+"
+","
+","
+","
+",The birth of Wikipedia,Jimmy Wales,20:01,"business,collaboration,culture,invention,media,open-source,technology,wikipedia"
+"
+											Ben Saunders: Sí, hola, Ben Saunders.
+											Jimmy, mencionaste que la imparcialidad es un elemento clave del éxito de Wikipedia.
+											Me choca que muchos de los libros de texto
+											que se usan para educar a nuestros niños estén inherentemente sesgados.
+											¿Has encontrado a profesores que usan Wikipedia,
+											y cómo crees que Wikipedia puede cambiar la educación?
+									","
+											Ben Sauders: Evet, selam, Ben Saunders.
+											Jimmy, tarafsizlik prensibinin Vikipedi'nin basarisinda cok onemli oldugundan bahsettin.
+											Dikkatimi ceken su ki, bircok ders kitabi
+											cocuklarimizi egitmek icin kullanilan kitaplar, dogasi geregi taraflilar.
+											Vikipedi ogretmenler tarafindan kullaniliyor mu?
+											ve sen Vikipedi'nin egitimi degistirdigini dusunuyor musun?
+									","
+											Ben Sauders : Oui, bonjour, Ben Saunders.
+											Jimmy, vous avez mentionné que l'impartialité est une clef du succès de Wikipedia.
+											Cela me fait penser aux livres de classe
+											qui sont utilisés pour éduquer nos enfants sont biaisés de manière inhérente.
+											Vous-êtes vous rendu compte que Wikipedia est utilisé par des professeurs,
+											et comment vous pensez que Wikipedia va changer l'éducation ?
+									","
+											Ben Saunders: Ja, hi, Ben Saunders.
+											Jimmy, du hast erwähnt, Unparteilichkeit sei der Schlüssel des Erfolgs der Wikipedia.
+											Es scheint mir, als seien die meisten Lehrbücher,
+											die zur Ausbildung unserer Kinder benutzt werden, von Natur aus voreingenommen.
+											Kannst Du sagen, ob Wikipedia von Lehrern benutzt wird,
+											und wie verändert in Deinen Augen Wikipedia die Schulbildung?
+									",The birth of Wikipedia,Jimmy Wales,20:01,"business,collaboration,culture,invention,media,open-source,technology,wikipedia"
+"
+","
+","
+","
+",The birth of Wikipedia,Jimmy Wales,20:01,"business,collaboration,culture,invention,media,open-source,technology,wikipedia"
+"
+											Jimmy Wales: Si, muchos profesores están empezando a usar Wikipedoa.
+											Hay otra historia mediática sobre Wikipedia
+que creo que es falsa.
+											Se basa en la historia de los blogueros 
+contra los periódicos.
+											Y la historia es, existe esta locura, Wikipedia,
+											pero los académicos la odian y los profesores la odian. Y resulta que no es cierto.
+											La última vez que recibí un correo 
+de un periodista preguntaba:
+											""¿Por que odian los académicos Wikipedia?""
+											Lo envié desde mi dirección de correo de Harvard,
+											porque acaban de nombrarme miembro de la universidad.
+											Y dije, ""Bueno, no todos la odian.""
+											Pero creo que habrá un gran impacto.
+											Y de hecho tenemos un proyecto
+											que personalmente me emociona,
+											que es el proyecto de libros Wiki,
+											un esfuerzo por crear libros de texto en todas las lenguas.
+											Ese es un proyecto mucho mayor;
+											tardará unos 20 años en dar frutos.
+											Pero parte de eso es para cumplir nuestra misión
+											de dar una enciclopedia a todas y cada una de las personas del planeta.
+											Y no me refiero a que les vayamos 
+a bombardear con CDs
+											Queremos decir que les daremos una herramienta 
+que puedan usar.
+											Y para mucha gente en el mundo,
+											si le doy una enciclopedia escrita a nivel universitario,
+											no le hace ningún bien
+											sin muchos materiales complementarios
+											para formarle hasta llegar al punto en que pueda usarla de verdad.
+											Los libros Wiki son un intento de hacer eso.
+											Y creo que vamos a ver un inmenso...
+											puede que no surja de nosotros,
+											hay mucha innovación en progreso.
+											Pero los libros de texto de licencia libre serán la próxima revolución en educación.
+									","
+											Jimmy Wales: Evet, bir cok ogretmen Vikipedi'yi kullanmaya basladi. Baska—
+											Vikipedi'ye iliskin medyadin yarattigi yanlis bir izlenim sozkonusu.
+											Internette yayinlanan yazilarla gazeteleri karsilastiriliyor.
+											Ve soyle diyorlar, cillgin bir sey bu Vikipedi,
+											akademisyenler ondan nefret ediyor, ogretmenler ondan nefret ediyor. Ama bunun dogru olmadigi ortaya cikiyor.
+											En son bir gazeteden aldigim e-posta soyle diyordu,
+											""Nicin akademisyenler Vikipedi'den nefret ediyorlar?""
+											Ben yaniti Harvard e-posta adresimden gonderdim,
+											cunku oraya daha yeni akademik uye olarak atanmistim.
+											Ve soyle dedim, ""Yani, hepsi nefret etmiyor.""
+											Ben buyuk bir etkisi olacagini dusunuyorum.
+											Ve aslinda bizim bir projemiz var
+											acikcasi beni gercekten heyecanlandiran,
+											Viki kitap projesi,
+											ders kitaplarini her dilde olusturmaya calisacagiz.
+											Ve bu daha da buyuk bir proje;
+											Gerceklesmesi icin 20 yil gibi bir zaman gerekiyor.
+											Ancak bu, misyonumuzu yerine getirebilmemiz icin gerekli:
+											yeryuzundeki her kisiye ansiklopedi vermek.
+											Bu demek degil ki, herkese AOL tarzinda CDler gonderecegiz.
+											Bizim demek istedigimiz, herkese kullanabilecekleri bir arac saglayacagiz.
+											Ve dunyadaki bir cok insan icin soz konusu olan sey su,
+											eger size universite seviyesinde yazilmis bir ansiklopedi verirsem,
+											hic bir fayda alamazsiniz ondan
+											eger sizi onu kullanacaginiz seviyeye getirecek
+											bir donaniminiz yoksa.
+											Iste Viki kitap projesi bu yolda bir caba.
+											Ve bence, biz gercekten de buyuk bir yenilik gorecegiz—
+											ki bizden bile gelmeyebilir bu,
+											etrafta bir cok yenilik soz konusuyken.
+											Ama ozgur lisansli ders kitaplari egitim alaninda gorecegimiz bir sonraki gelisim olucaklar.
+									","
+											Jimmy Wales : Oui, beaucoup de professeurs commencent à utiliser Wikipedia. Une autre —
+											il y a une ligne historique médiatique sur Wikipedia, et je pense qu'elle est fausse.
+											Elle se construit sur la chronologie des blogueurs contre les journaux.
+											Et la chronologie est, il y a cette chose folle, Wikipedia,
+											mais les académiciens le déteste et les professeurs le déteste. Et on a découvert que ceci était faux.
+											La dernière fois que j'ai reçu un courriel d'un journaliste disant,
+											""Pourquoi les universitaires détestent Wikipédia ?""
+											Je l'ai envoyé de mon courriel d'Harvard
+											car j'avais été récemment considéré comme collègue là-bas.
+											Et j'ai dit, ""Et bien, ils ne le détestent pas tous.""
+											Mais je pense qu'il y aura des énormes impacts.
+											Et nous avons actuellement un projet
+											dont je suis personnellement très excité,
+											qui est le projet de livres Wiki,
+											qui est un effort pour créer des livres de classes dans toutes les langues.
+											Et c'est un projet bien plus gros;
+											Cela va prendre 20 ans ou a peu près pour qu'il murisse.
+											Mais une partie de tout ça est pour remplir notre mission
+											de donner une encyclopédie à toutes les personnes de cette planète.
+											Nous ne voulons pas dire que nous allons les spammers avec des Cd type AOL.
+											Nous voulons dire que nous allons leur donner un outil dont ils peuvent se servir.
+											Et pour un grand nombre de gens dans le monde,
+											si je vous donne une encyclopédie qui est écrite à un niveau universitaire,
+											cela ne sert à rien
+											sans un hébergement complet de matériel littéraire
+											pour vous amener jusqu'au point ou vous pourriez effectivement vous en servir.
+											Et le projet de livres Wiki est une avancée pour faire ça.
+											Je pense que nous allons vraiment voir un énorme —
+											cela peut même ne pas venir de nous,
+											tous les types d'innovations possibles sont en cours.
+											Mais les livres de cours gratuits sont le prochain gros tournant de l'éducation.
+									","
+											Jimmy Wales: Ja, also viele Lehrer beginnen, Wikipedia zu benutzen. Andere —
+											es gibt da eine Mediengeschichte über Wikipedia, die wie ich glaube falsch ist.
+											Sie basiert auf der Geschichte von Blogger gegen Zeitungen.
+											Und die Geschichte ist, es gibt da dieses verrückte Ding, die Wikipedia,
+											aber Akademiker und Lehrer hassen es. Es stellt sich heraus, dass das nicht stimmt.
+											Das letzte Mal, als ich eine E-Mail von einem Journalisten erhielt, die besagte:
+											""Warum hassen Akademiker die Wikipedia?""
+											habe ich ihm von meiner Harvard E-Mail-Adresse geantwortet,
+											denn ich bin dort seit kurzem Forschungs-Stipendiat.
+											Und ich sagte: ""Naja, nicht alle hassen sie.""
+											Aber ich denke, da wird es große Auswirkungen geben.
+											Und wir haben in der Tat ein Projekt,
+											über das ich wirklich sehr begeistert bin,
+											und das ist das Wikibooks-Projekt,
+											das sich bemüht, Lehrbücher in allen Sprachen zu schaffen.
+											Und das ist ein viel größeres Projekt;
+											Es wird 20 Jahre oder länger dauern, um verwirklicht zu werden.
+											Aber es ist Teil unserer Mission,
+											jedem Menschen auf dem Planeten eine Enzyklopädie zu geben.
+											Wir meinen damit nicht, sie mit AOL-artigen CDs vollzuspammen.
+											Wir meinen, dass wir ihnen ein Werkzeug geben, das sie benutzen können.
+											Und für viele Leute auf der Welt ist
+											eine Enzyklopädie, die auf einem universitären Niveau geschrieben ist
+											keine sonderlich große Hilfe
+											ohne eine Menge Bildungsmaterial, das
+											einem hilft, den Punkt zu erreichen, wo man sie tatsächlich nutzen kann.
+											Das Wikibooks-Projekt ist also ein Bestreben, das zu tun.
+											Und ich glaube, dass wir wirklich einen großen —
+											es mag nicht einmal von uns kommen,
+											es gibt da so viele Arten von Innovation.
+											Aber frei lizensierte Lehrbücher sind die nächste große Sache in der Bildung.
+									",The birth of Wikipedia,Jimmy Wales,20:01,"business,collaboration,culture,invention,media,open-source,technology,wikipedia"
+"
+","
+","
+","
+",The birth of Wikipedia,Jimmy Wales,20:01,"business,collaboration,culture,invention,media,open-source,technology,wikipedia"

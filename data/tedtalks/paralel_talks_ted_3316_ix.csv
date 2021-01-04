@@ -1,0 +1,1718 @@
+en,es,pt,tr,fr,de,title,speaker,duration,tags
+"
+","
+","
+","
+","
+","
+","Cracking Stuxnet, a 21st-century cyber weapon",Ralph Langner,10:40,"Iran,computers,government,nuclear energy,science,technology,war"
+"
+											The idea behind the Stuxnet computer worm
+											is actually quite simple.
+											We don't want Iran to get the bomb.
+											Their major asset for developing nuclear weapons
+											is the Natanz uranium enrichment facility.
+											The gray boxes that you see,
+											these are real-time control systems.
+											Now if we manage to compromise these systems
+											that control drive speeds and valves,
+											we can actually cause a lot of problems
+											with the centrifuge.
+											The gray boxes don't run Windows software;
+											they are a completely different technology.
+											But if we manage
+											to place a good Windows virus
+											on a notebook
+											that is used by a maintenance engineer
+											to configure this gray box,
+											then we are in business.
+											And this is the plot behind Stuxnet.
+									","
+											La idea detrás del gusano informático Stuxnet
+											es en realidad muy simple.
+											No queremos que Irán obtenga la bomba nuclear.
+											Su mayor activo para desarrollar armas nucleares
+											es la planta de enriquecimiento de Uranio en Natanz.
+											Las cajas grises que ven
+											son sistemas de control en tiempo real.
+											Si logramos comprometer estos sistemas
+											que controlan velocidades y válvulas,
+											podemos causar un montón de problemas
+											con la centrífuga.
+											Las cajas grises no usan software de Windows;
+											son de una tecnología completamente diferente.
+											Pero si logramos
+											poner un virus efectivo de Windows
+											en un ordenador portátil
+											usado por un ingeniero
+											para configurar esta caja gris,
+											entonces estamos listos.
+											Este es el plan detrás de Stuxnet.
+									","
+											A ideia por detrás do vírus informático Stuxnet
+											é na verdade bastante simples.
+											Não queremos que o Irão tenha a bomba.
+											O seu maior recurso para o desenvolvimento de armas nucleares
+											é o complexo de enriquecimento de urânio em Natanz.
+											As caixas cinzentas que vêem
+											são sistemas de controlo em tempo real.
+											Agora se conseguirmos comprometer estes sistemas
+											que controlam a velocidade de accionadores e válvulas,
+											conseguimos causar imensos problemas
+											com o centrifugador.
+											As caixas cinzentas não utilizam o software Windows;
+											são uma tecnologia completamente diferente.
+											Mas se conseguirmos
+											colocar um bom vírus Windows
+											num computador portátil
+											que é usado por um engenheiro de manutenção
+											para configurar esta caixa cinzenta,
+											então aí estaremos em acção.
+											E esta é a história por detrás do Stuxnet.
+									","
+											Stuxnet bilgisayar solucanının arkasındaki
+											fikir aslında oldukça basit.
+											İran'ın bomba elde etmesini istemiyoruz.
+											Onların nükleer silah geliştirmeklerinin ana aracı
+											Natanz uranyum zenginleştirme tesisi.
+											Bu gördüğünüz gri kutular,
+											gerçek zamanlı kontrol sistemleri.
+											Eğer çalışma hızını ve vanaları
+											kontrol eden bu sistemleri etkisiz hale getirebilirsek,
+											santrifüjde birçok probleme
+											sebep oluruz.
+											Gri kutular Windows yazılımı kullanmıyorlar;
+											onlar tamamen farklı bir teknoloji.
+											Ama bu gri kutuyu
+											kullanan mühendisin bilgisayarına
+											iyi bir Windows virüsü
+											yüklemeyi başarırsak
+											o zaman iş üzerindeyiz,
+											demektir.
+											Stuxnet'in ardındaki senaryo bu.
+									","
+											L'idée derrière le ver informatique Stuxnet
+											est en fait très simple.
+											Nous ne voulons pas que l'Iran ait la Bombe.
+											Leur atout majeur pour développer des armes nucléaires
+											est l'usine d'enrichissement d'uranium Natanz.
+											Les boites grises que vous voyez,
+											ce sont des systèmes de contrôle en temps réel.
+											Et si on arrive à compromettre ces systèmes
+											qui contrôlent la vitesse des disques et les valves
+											nous pouvons en fait causer beaucoup de problèmes
+											à la centrifugeuse.
+											Les boites grises ne tournent pas sous Windows ;
+											c'est une technologie complètement différente.
+											Mais si nous parvenons
+											à placer un bon virus Windows
+											dans un portable
+											utilisé par un ingénieur
+											pour configurer cette boite grise,
+											alors on est bon.
+											Et c'est le scénario derrière Stuxnet.
+									","
+											Die Idee hinter dem Stuxnet Computer-Wurm
+											ist an sich ziemlich simpel.
+											Wir wollen nicht, dass der Iran die Bombe baut.
+											Der wichtigste Posten dort für die Entwicklung von Atomwaffen
+											ist die Uran-Anreicherungs-Einrichtung in Natanz.
+											Die grauen Boxen, die Sie hier sehen,
+											das sind Echtzeit-Kontrollsysteme.
+											Wenn es uns nun gelingt, die Systeme zu kompromittieren,
+											welche Drehzahlen und Ventile kontrollieren,
+											dann können wir damit tatsächlich eine Menge Probleme verursachen
+											mit der Zentrifuge.
+											Diese grauen Boxen laufen nicht mit Windows-Software;
+											sie basieren auf einer komplett anderen Technologie.
+											Aber wenn wir es schaffen,
+											dass sich ein effektives Windows-Virus
+											auf einem Laptop einnistet,
+											der von einem Wartungsingenieur verwendet wird,
+											um diese graue Box zu konfigurieren,
+											dann sind wir im Geschäft.
+											Und das ist die Planung hinter Stuxnet.
+									","Cracking Stuxnet, a 21st-century cyber weapon",Ralph Langner,10:40,"Iran,computers,government,nuclear energy,science,technology,war"
+"
+","
+","
+","
+","
+","
+","Cracking Stuxnet, a 21st-century cyber weapon",Ralph Langner,10:40,"Iran,computers,government,nuclear energy,science,technology,war"
+"
+											So we start with a Windows dropper.
+											The payload goes onto the gray box,
+											damages the centrifuge,
+											and the Iranian nuclear program is delayed —
+											mission accomplished.
+											That's easy, huh?
+											I want to tell you how we found that out.
+											When we started our research on Stuxnet six months ago,
+											it was completely unknown what the purpose of this thing was.
+											The only thing that was known
+											is it's very, very complex on the Windows part, the dropper part,
+											used multiple zero-day vulnerabilities.
+											And it seemed to want to do something
+											with these gray boxes, these real-time control systems.
+											So that got our attention,
+											and we started a lab project
+											where we infected our environment with Stuxnet
+											and checked this thing out.
+											And then some very funny things happened.
+											Stuxnet behaved like a lab rat
+											that didn't like our cheese —
+											sniffed, but didn't want to eat.
+											Didn't make sense to me.
+											And after we experimented with different flavors of cheese,
+											I realized, well, this is a directed attack.
+											It's completely directed.
+											The dropper is prowling actively
+											on the gray box
+											if a specific configuration is found,
+											and even if the actual program code that it's trying to infect
+											is actually running on that target.
+											And if not, Stuxnet does nothing.
+									","
+											Comenzamos con un instalador Windows.
+											La ojiva ingresa a la caja gris,
+											daña la centrífuga,
+											y el programa nuclear iraní es demorado;
+											misión cumplida.
+											Es fácil, ¿eh?
+											Quiero contarles cómo descubrimos esto.
+											Cuando comenzamos a investigar sobre Stuxnet hace 6 meses,
+											el propósito era completamente desconocido.
+											Lo único que se sabía es que
+											es muy, muy complejo en la parte de Windows: el instalador
+											usaba múltiples vulnerabilidades día-cero.
+											Parecía querer hacer algo
+											con estas cajas grises, estos sistemas de control.
+											Eso nos llamó la atención,
+											y comenzamos un experimento
+											en el que infectamos nuestro entorno con Stuxnet
+											y vimos qué pasaba con esto.
+											Entonces pasaron cosas muy extrañas.
+											Stuxnet se comportaba como una rata de laboratorio
+											a la que no le gustaba nuestro queso:
+											lo olía, pero no quería comer.
+											No tenía sentido para mí.
+											Y luego de experimentar con diferentes sabores de queso,
+											me di cuenta, y pensé: “Esto es un ataque dirigido.
+											Es completamente dirigido.""
+											El instalador está buscando activamente
+											en la caja gris
+											si encuentra una configuración específica,
+											e incluso si el programa que está tratando de infectar
+											está efectivamente funcionando en ese lugar:
+											si no, Stuxnet no hace nada.
+									","
+											Portanto começamos com um disseminador Windows.
+											A carga entra na caixa cinzenta,
+											danifica o centrifugador,
+											e o programa nuclear do Irão é atrasado —
+											missão cumprida.
+											É simples, não?
+											Quero contar-vos como é que descobrimos isto.
+											Quando começámos a investigar o Stuxnext há seis meses,
+											era-nos completamente desconhecido qual o objectivo desta coisa.
+											A única coisa que era conhecida
+											era a sua extremamente complexa parte Windows, do disseminador,
+											que usou múltiplas vulnerabilidades previamente desconhecidas.
+											E ele parecia querer fazer algo
+											com estas caixas cinzentas, estes controladores em tempo real.
+											Isso despertou a nossa atenção,
+											então começámos um projecto laboratorial
+											onde infectámos o nosso ambiente com o Stuxnet
+											e vimos como isto funcionava.
+											Depois algo muito engraçado aconteceu.
+											O Stuxnet comportou-se como um rato de laboratório
+											que não gostava do nosso queijo —
+											cheirava, mas não queria comer.
+											Isto não fazia sentido.
+											Depois de experimentarmos diferentes sabores de queijo,
+											apercebi-me que isto era um ataque com um alvo específico.
+											É completamente específico.
+											O disseminador procura activamente
+											na caixa cinzenta,
+											por uma configuração específica,
+											e até mesmo se o programa que está a tentar infectar
+											está a correr naquele alvo.
+											Caso não esteja, o Stuxnet não faz nada.
+									","
+											Yani Windows'u düşürecek bir sistem ile başlıyoruz.
+											Ana yük gri kutuya gidiyor,
+											santrifüje zarar veriyor,
+											ve iran nükleer programı gecikti —
+											görev tamamlandı.
+											Bu kolay, değil mi?
+											Size bunu nasıl başardığımızı anlatmak istiyorum.
+											Altı ay önce Stuxnet üzerinde araştırmamıza başladığımızda,
+											bu şeyin amacının ne olduğu tamamen bilinmiyordu.
+											Bilinen tek şey,
+											Windows kısmının, düşürücü kısmının çok karışık olduğuydu,
+											çoklu sıfır gün zayıf noktaları kullanıldı.
+											Ve bu gri kutular, bu gerçek zamanlı kontrol sistemleri ile
+											birşeyler yapmak istiyormuş gibi gözüyordu.
+											Bu bizim dikkatimizi çekti,
+											ve bir laboratuvar projesi başlattık
+											Çevremizi Stuxnet ile kapladık
+											ve bu şeyi denedik.
+											Ve sonra çok komik şeyler oldu.
+											Stuxnet bir deney faresi gibi davrandı
+											bizim peynirimiz sevmedi —
+											kokladı, ama yemek istemedi.
+											Bana anlamlı gelmedi.
+											Ve farklı tatlar içeren peynirlerle yaptığımız deneylerden sonra,
+											farkettim ki, bu direkt bir atak.
+											Tamamen yönlendirilmiş.
+											Düşürücü, uygun ayarlama bulundugunda
+											virüsü yaymaya çalışan asıl program
+											görevini yapsa dahi
+											gri kutu üzerinde sinsice
+											dolanıyor.
+											Ve euygun ayarlama bulunmadığında, Stuxnet birşey yapmıyor.
+									","
+											Donc nous commençons par un dropper Windows.
+											La charge utile va dans la boite grise,
+											endommage la centrifugeuse,
+											et le programme nucléaire iranien est retardé —
+											mission accomplie.
+											C'est facile, non?
+											Je veux vous dire comment nous avons découvert ça.
+											Quand nous avons commencé nos recherches sur Stuxnet il y a 6 mois,
+											on ignorait complètement le but de la chose.
+											La seule chose qu'on savait
+											est très très complexe dans la partie Windows, la partie du dropper,
+											elle utilisait de multiples vulnérabilités à jour zéro.
+											Et ce dropper semblait vouloir faire quelque chose
+											avec ces boites grises, ces systèmes de contrôle en temps réel.
+											Cela a donc attiré notre attention,
+											et nous avons entrepris un projet de laboratoire
+											dans lequel nous avons infecté notre environnement avec Stuxnet
+											et examiner ce truc.
+											Et puis il s'est passé de très drôles de choses.
+											Stuxnet s'est comporté comme un rat de laboratoire
+											qui n'aimait pas notre fromage —
+											il le reniflait, mais il ne voulait pas le manger.
+											Pour moi, ça n'avait pas de sens.
+											Et après que nous ayons expérimenté avec différents parfums de fromage,
+											je me suis rendu compte, et bien que c'est une attaque dirigée.
+											Elle est complètement dirigée.
+											Le dropper rôde activement
+											dans la boite grise
+											si il trouve une configuration spécifique,
+											et même si le programme même qu'il essaye d'infecter
+											est ouvert sur cette cible.
+											Dans le cas contraire, Stuxnet ne fait rien.
+									","
+											Wir beginnen also mit einem Windows-Dropper.
+											Die Nutzdaten werden in die graue Box transferiert,
+											beschädigen die Zentrifuge
+											und das iranische Kernenergie-Programm verzögert sich –
+											Auftrag ausgeführt.
+											Das ist ein Kinderspiel, oder?
+											Ich möchte Ihnen erzählen, wie wir das herausgefunden haben.
+											Als wir unsere Forschung zu Stuxnet vor sechs Monaten begannen,
+											war völlig unbekannt, was der Sinn und Zweck dieses Konstrukts war.
+											Das einzige, was wir wussten
+											ist sehr, sehr kompliziert, was den Windows- Teil angeht, den Dropper- Teil,
+											er machte von unzähligen Zero- Day- Schwachstellen Gebrauch.
+											Und es schien etwas vorzuhaben,
+											mit diesen grauen Boxen, diesen Echtzeit- Kontrollsystemen.
+											Das erregte unsere Aufmerksamkeit
+											und wir begannen ein Labor- Projekt,
+											in dem wir unsere Umgebung mit Stuxnet infizierten,
+											und untersuchten dieses Konstrukt.
+											Und dann passierte etwas komisches.
+											Stuxnet verhielt sich wie eine Laborratte,
+											die unseren Käse nicht mochte –
+											schnüffelte dran, aber wollte ihn nicht essen.
+											Das machte in meinen Augen keinen Sinn.
+											Und nachdem wir mit verschiedenen Arten von Käse experimentiert hatten,
+											ging mir auf, dass dies ein gezielter Angriff ist.
+											Vollständig auf ein bestimmtes Ziel gerichtet.
+											Der Dropper streift aktiv
+											auf der grauen Box umher,
+											wenn eine spezielle Konfiguration entdeckt wurde.
+											Sogar, wenn das spezielle Programm, welches es zu infizieren versucht
+											auf diesem Ziel läuft.
+											Und wenn nicht, dann tut Stuxnet gar nichts.
+									","Cracking Stuxnet, a 21st-century cyber weapon",Ralph Langner,10:40,"Iran,computers,government,nuclear energy,science,technology,war"
+"
+","
+","
+","
+","
+","
+","Cracking Stuxnet, a 21st-century cyber weapon",Ralph Langner,10:40,"Iran,computers,government,nuclear energy,science,technology,war"
+"
+											So that really got my attention,
+											and we started to work on this
+											nearly around the clock,
+											because I thought, ""Well, we don't know what the target is.
+											It could be, let's say for example,
+											a U.S. power plant,
+											or a chemical plant in Germany.
+											So we better find out what the target is soon.""
+											So we extracted and decompiled
+											the attack code,
+											and we discovered that it's structured in two digital bombs —
+											a smaller one and a bigger one.
+											And we also saw that they are very professionally engineered
+											by people who obviously had all insider information.
+											They knew all the bits and bites
+											that they had to attack.
+											They probably even know the shoe size of the operator.
+											So they know everything.
+									","
+											Así que eso llamó mi atención,
+											y comenzamos a trabajar en esto
+											casi 24 horas al día,
+											porque pensé; ""No sabemos cuál es el objetivo.""
+											Podría ser, digamos por ejemplo,
+											una planta de energía de EEUU,
+											o una planta química en Alemania.
+											Mejor que descubriéramos el objetivo pronto.
+											Entonces extrajimos y descompilamos
+											el código de ataque,
+											y descubrimos que estaba estructurado en 2 bombas digitales:
+											una pequeña y una grande.
+											También vimos que estaban armados muy profesionalmente
+											por gente que obviamente tenía toda la información interna.
+											Conocían todos los puntos
+											por los que atacar.
+											Probablemente incluso sepan cuánto calza el operador.
+											Así que saben todo.
+									","
+											Isso chamou-me imenso à atenção,
+											e começámos a trabalhar nisto
+											quase 24 horas por dia,
+											porque eu pensava, bem, nós não sabemos qual é o alvo.
+											Poderia ser, por exemplo,
+											uma central de energia dos Estados Unidos,
+											ou uma central química Alemã.
+											Por isso é bom que saibamos qual é o alvo depressa.
+											Por isso extraímos e descompilámos
+											o código do ataque,
+											e descobrimos que está estruturado em duas bombas digitais —
+											uma mais pequena e outra maior.
+											E verificámos também que são muito profissionalmente desenhados
+											por pessoas que têm, claramente, informação interna.
+											Eles sabiam todos os bits e bites
+											que teriam de atacar.
+											Eles sabiam provavelmente o número do sapato do operator.
+											Eles sabem tudo.
+									","
+											Bu benim dikkatimi çekti,
+											Ve tam zamanlı olarak bunun
+											üzerinde çalışmaya başladık,
+											çünkü düşündüm ki hedef ne onu bilmiyoruz.
+											Hedef diyelim ki, ABD'de güç santrali,
+											ya da Almanya'da
+											kimyasal bir tesis olabilir.
+											Öncelikle hedef ne onu bulmalıyız.
+											Atak kodunu çıkardık ve tersten
+											kodladık ve keşfettik ki
+											iki dijital bomba üzerine inşa edilmiş —
+											bir büyük bir de küçük.
+											Aynı zamanda gördük ki, içeriden alınmış her türlü
+											bilgiye sahip oldukça profosyonel mühendisler çalışmışlar.
+											Saldıracakları şeyin içini dışını
+											yönlerini biliyorlardı.
+											Büyük ihtimalle işi yürütenin ayakkabı numarasını dahi biliyorlardı.
+											Yani herşeyi biliyorlardı.
+									","
+											Cela a donc vraiment retenu mon attention,
+											et nous avons commencé à travailler là dessus
+											presque en permanence,
+											parce que je pensais, nous ne savons pas quelle est la cible.
+											Elle pourrait être, disons par exemple,
+											une centrale aux Etats-Unis,
+											ou une usine chimique en Allemagne.
+											Il valait donc mieux que nous trouvions rapidement quelle était la cible .
+											Nous avons donc extrait et décompilé
+											le code d'attaque,
+											et nous avons découvert qu'il est structuré en deux bombes numériques —
+											une plus petite et une plus grande.
+											Et nous avons vu aussi qu'elles sont conçues de façon très professionnelle
+											par des gens qui avaient évidemment des informations de l'intérieur.
+											Ils connaissaient tous les détails et les octets
+											qu'ils devaient attaquer.
+											Ils connaissaient sans doute même la pointure de l'administrateur.
+											Ils savent donc tout.
+									","
+											Also, das weckte wirklich mein Interesse
+											und wir begannen damit zu arbeiten,
+											beinahe rund um die Uhr,
+											denn ich dachte, nun, wir wissen nicht, was das Ziel ist.
+											Es könnte, sagen wir zum Beispiel,
+											ein US- amerikanisches Kraftwerk,
+											oder eine Chemieanlage in Deutschland sein.
+											Also sollten wir besser bald herausfinden, was das Ziel darstellt.
+											Also extrahierten und dekompilierten wir
+											den Angriffs- Code
+											und fanden heraus, dass er in zwei digitale Sprengköpfe aufstrukturiert ist —
+											einen kleineren und einen größeren.
+											Und uns fiel auch auf, dass sie sehr professionell konstruiert waren,
+											von Leuten, die offensichtlich alle Insider- Informationen zur Verfügung hatten.
+											Sie kannten jegliche Bits und Bytes,
+											die sie angreifen mussten.
+											Wahrscheinlich kannten sie sogar die Schuhgröße des Maschinenbedieners.
+											Sie wussten also alles.
+									","Cracking Stuxnet, a 21st-century cyber weapon",Ralph Langner,10:40,"Iran,computers,government,nuclear energy,science,technology,war"
+"
+","
+","
+","
+","
+","
+","Cracking Stuxnet, a 21st-century cyber weapon",Ralph Langner,10:40,"Iran,computers,government,nuclear energy,science,technology,war"
+"
+											And if you have heard that the dropper of Stuxnet
+											is complex and high-tech,
+											let me tell you this:
+											the payload is rocket science.
+											It's way above everything
+											that we have ever seen before.
+											Here you see a sample of this actual attack code.
+											We are talking about —
+											around about 15,000 lines of code.
+											Looks pretty much like old-style assembly language.
+											And I want to tell you how we were able
+											to make sense out of this code.
+											So what we were looking for is, first of all, system function calls,
+											because we know what they do.
+									","
+											Y si han escuchado que el instalador de Stuxnet
+											es complejo y de alta tecnología,
+											déjenme decirles:
+											la carga es muy compleja.
+											Está muy por encima de todo
+											lo que hayamos visto antes.
+											Aquí ven una muestra de este código de ataque.
+											Estamos hablando de
+											alrededor de 15 mil líneas de código.
+											Se parece bastante al viejo lenguaje ensamblador.
+											Quiero contarles cómo pudimos
+											encontrarle sentido a este código.
+											Lo que buscábamos al principio eran llamadas a funciones del sistema,
+											porque sabemos lo que hacen.
+									","
+											E se ouviram dizer que o disseminador do Stuxnet
+											é complexo e alta-tecnologia,
+											deixem-me que lhes diga:
+											a carga é ainda mais complexa.
+											É muito mais do que qualquer
+											outra coisa que tenhamos visto antes.
+											Aqui podem ver uma amostra do código de ataque.
+											Estamos a falar de cerca -
+											cerca de 15.000 linhas de código.
+											Parecem-se bastante com linguagem assembly da velha guarda.
+											E queria dizer-vos como fomos capazes
+											de decifrar este código.
+											O que nós estávamos à procura acima de tudo eram invocações de funções do sistema
+											porque nós sabemos o que elas fazem.
+									","
+											Ve Stuxnet'in düşürücüsünün karışık ve
+											yüksek teknoloji ürünü olduğunu
+											düşünüyorsanız size şunu söyleyeyim:
+											iş yükü çok karmaşıktı.
+											Daha önce gördüğümüz herşeyden
+											daha zordu.
+											Asıl saldırı kodunun bir örneğini görüyorsunuz.
+											15 bin satırlık bir kaynak
+											kodundan bahsediyoruz.
+											Oldukça eski tip birleştirici diline benziyor.
+											Ve size bu kodlardan nasıl bir
+											anlam çıkardığımızı anlatmak istiyorum.
+											Öncelikle baktığımız şey sistem fonksiyon aramaları,
+											çünkü ne işe yaradığını biliyoruz.
+									","
+											Et si vous avez entendu dire que le dropper de Stuxnet
+											est complexe et high-tech,
+											permettez-moi de vous dire ceci ;
+											la charge utile, c'est du très haut niveau.
+											C'est bien au dessus de tout
+											ce que nous avons vu auparavant.
+											Vous voyez ici un échantillon du code d'attaque même.
+											Nous parlons de —
+											environ 15000 lignes de code.
+											Ca ressemble assez à du langage d'assembleur à l'ancienne.
+											Et je veux vous dire comment nous avons été en mesure
+											de comprendre ce code.
+											Donc ce que nous cherchions c'est d'abord les appels de fonctions système,
+											parce que nous savons ce qu'ils font.
+									","
+											Und wenn Sie schon mitbekommen haben, dass der Dropper von Stuxnet
+											komplex und high-tech ist,
+											lassen Sie mich Ihnen sagen:
+											die Nutzdaten sind eine Wissenschaft für sich.
+											Es ist viel anspruchsvoller
+											als alles, was wir jemals gesehen haben.
+											Hier sehen Sie einen Ausschnitt aus diesem Angriffs- Code.
+											Wir sprechen hier von –
+											ungefähr 15.000 Zeilen Code.
+											Sieht ziemlich so aus, wie altmodische Assemblersprache.
+											Und ich will Ihnen erzählen, wie wir in der Lage waren
+											aus diesem Code Schlau zu werden.
+											Nach was wir also als erstes suchten, waren Systemfunktions- Aufrufe,
+											weil wir wissen, was diese bewirken.
+									","Cracking Stuxnet, a 21st-century cyber weapon",Ralph Langner,10:40,"Iran,computers,government,nuclear energy,science,technology,war"
+"
+","
+","
+","
+","
+","
+","Cracking Stuxnet, a 21st-century cyber weapon",Ralph Langner,10:40,"Iran,computers,government,nuclear energy,science,technology,war"
+"
+											And then we were looking for timers and data structures
+											and trying to relate them to the real world —
+											to potential real world targets.
+											So we do need target theories
+											that we can prove or disprove.
+											In order to get target theories,
+											we remember
+											that it's definitely hardcore sabotage,
+											it must be a high-value target
+											and it is most likely located in Iran,
+											because that's where most of the infections had been reported.
+											Now you don't find several thousand targets in that area.
+											It basically boils down
+											to the Bushehr nuclear power plant
+											and to the Natanz fuel enrichment plant.
+									","
+											Luego buscábamos temporizadores y estructuras de datos
+											y tratábamos de relacionarlos con el mundo real,
+											con potenciales objetivos del mundo real.
+											Necesitamos teorías sobre destinatarios
+											que podamos aprobar o desaprobar.
+											Para llegar a teorías sobre objetivos,
+											recordamos
+											que es definitivamente un sabotaje violento,
+											debe ser un blanco valioso,
+											y está seguramente ubicado en Irán,
+											porque es donde la mayoría de las infecciones ha sido reportada.
+											No se encuentran varios miles de objetivos en ese área.
+											Básicamente se reduce
+											a la planta de energía nuclear de Bushehr
+											y a la planta de enriquecimiento de Natanz.
+									","
+											Depois procurámos temporizadores e estruturas de dados
+											e tentámos relacioná-las com o mundo real —
+											com potenciais alvos do mundo real.
+											Então precisámos de teorias de alvos
+											que depois podemos provar ou não.
+											De modo a obter as teorias dos alvos,
+											lembramo-nos
+											que é definitivamente sabotagem hardcore.
+											Deve ser um alvo de grande valor,
+											e a sua localização mais provável é no Irão,
+											porque é onde a maioria das infecções foram reportadas.
+											Não encontrámos vários milhares de alvos naquela área.
+											Resume-se apenas
+											à central nuclear de Bushehr
+											e à central de enriquecimento de combustíveis de Natanz.
+									","
+											Ve sonrasında zamanlayıcılar ve veri yapılarına bakıyorduk
+											ve onları gerçek dünya ile ilişkilendirmeye çalıştırıyorduk —
+											potansiyel gerçek hedeflere.
+											Bu nedenle kanıtlayacağımız veya
+											çürütebileceğimiz hedef teorilerine ihtiyacımız var.
+											Hefef teorilerini elde etmek için,
+											hatırlayalım bu,
+											çok ağır sabotaj,
+											çok yüksek değerli bir hedef olmalı,
+											ve büyük olasılıkla İran'da konuşlanmalı,
+											çünkü orası en fazla bulaşmanın raporlandığı yer.
+											Birkaç bin tane hedef bulmazsınız o bölgede.
+											Basitçe Bushehr nükleer güç tesisi
+											ve Natanz yakıt zenginleştirme
+											tesisi arasında kaldık.
+									","
+											Et ensuite nous cherchions les minuteurs et les structures de données
+											et nous essayions de les mettre en relation avec le monde réel —
+											avec des cibles potentielles du monde réel.
+											Nous avons donc besoin de théories de cibles
+											que nous pouvons prouver ou réfuter.
+											Pour obtenir ces théories de cibles,
+											nous nous souvenons
+											que c'est vraiment du sabotage hardcore,
+											ce doit être une cible de grande valeur,
+											et c'est le plus vraisemblablement situé en Iran,
+											parce que c'est là que la plupart des infections ont été signalées.
+											On ne trouve pas plusieurs milliers de cibles dans cette zone.
+											Ca se réduit en gros
+											à la centrale nucléaire de Bushehr
+											et à l'usine d'enrichissement d'uranium de Natanz.
+									","
+											Und dann suchten wir nach Timern und Datenstrukturen
+											und versuchten, diese mit der echten Welt in Verbindung zu bringen —
+											mit potentiellen Zielen in der echten Welt.
+											Also brauchten wir Theorien über diese Ziele,
+											die wir belegen oder widerlegen konnten.
+											Um diese Theorien aufzustellen,
+											rufen wir uns in Erinnerung,
+											dass es sich definitiv um hochgradige Sabotage handelt,
+											es muss sich um ein hochwertiges Ziel handeln
+											und sehr wahrscheinlich befindet es sich im Iran,
+											weil dort die meisten Infektionen gemeldet wurden.
+											Nun, in diesem Gebiet gibt es nicht mehrere Tausend Ziele.
+											Im Grunde läuft es hinaus
+											auf das Buschehr Atomkraftwerk
+											und auf die Urananreicherungsanlage in Natanz.
+									","Cracking Stuxnet, a 21st-century cyber weapon",Ralph Langner,10:40,"Iran,computers,government,nuclear energy,science,technology,war"
+"
+","
+","
+","
+","
+","
+","Cracking Stuxnet, a 21st-century cyber weapon",Ralph Langner,10:40,"Iran,computers,government,nuclear energy,science,technology,war"
+"
+											So I told my assistant,
+											""Get me a list of all centrifuge and power plant experts from our client base.""
+											And I phoned them up and picked their brain
+											in an effort to match their expertise
+											with what we found in code and data.
+											And that worked pretty well.
+											So we were able to associate
+											the small digital warhead
+											with the rotor control.
+											The rotor is that moving part within the centrifuge,
+											that black object that you see.
+											And if you manipulate the speed of this rotor,
+											you are actually able to crack the rotor
+											and eventually even have the centrifuge explode.
+											What we also saw
+											is that the goal of the attack
+											was really to do it slowly and creepy —
+											obviously in an effort
+											to drive maintenance engineers crazy,
+											that they would not be able to figure this out quickly.
+									","
+											Entonces le dije a mi asistente,
+											""Tráeme una lista de todos los expertos en centrífugas y plantas de energía entre nuestros clientes.""
+											Los llamé y les consulté
+											en un esfuerzo por conjugar su experiencia
+											con lo que encontramos en código y datos.
+											Y funcionó bastante bien.
+											Así que pudimos asociar
+											la pequeña ojiva digital
+											con el control del rotor.
+											El rotor es esa parte móvil dentro de la centrífuga,
+											ese objeto negro que ven.
+											Si manejan la velocidad de este rotor,
+											ciertamente pueden quebrarlo
+											e incluso hacer que la centrífuga explote.
+											Lo que también vimos
+											es que la meta del ataque
+											era hacerlo lento y desconcertar
+											en un obvio esfuerzo
+											por volver locos a los ingenieros de mantenimiento,
+											para que no pudieran resolver esto rápidamente.
+									","
+											Por isso eu disse ao meu assistente:
+											""Traga-me uma lista de todos os peritos em centrifugadoras e centrais de energia da nossa base de clientes.""
+											Eu telefonei-lhes e tentei compreender como pensavam
+											num esforço para combinar o seu conhecimento
+											com a que encontrámos no código e nos dados.
+											E funcionou muito bem.
+											Por isso conseguimos associar
+											a mais pequena bomba digital
+											com o controlador do rotor.
+											O rotor é aquela parte dentro da centrifugador que se mexe,
+											o objecto preto que vêem.
+											E se manipularem a velocidade deste rotor,
+											são mesmo capazes de o partir,
+											e eventualmente fazer com que a centrifugadora expluda.
+											O que também vimos
+											é que o objectivo do ataque
+											era fazê-lo devagar e sorrateiramente —
+											obviamente numa tentativa
+											de levar os engenheiros de manutenção à loucura,
+											pois não seriam capazes de descobrir a origem do problema rapidamente.
+									","
+											Asistanıma,
+											''Müşterilerimizden bütün santrifüf ve güç santrali uzmanlarının bir listesini bana getir.''
+											Ve onlara telefon açtım ve bulduğumuz kod ve
+											veri ile onların uzmanlığını bir araya getirmek
+											için onları ikna ettim.
+											Ve bu gayet iyi işledi.
+											Küçük dijital nükleer başlığı
+											çark kontrolü ile
+											ilişkilendirebildik.
+											Çark, santrifüjün içerisindeki hareket
+											eden siyah parça.
+											Ve eğer bu çarkın hızında oynama yapabilirseniz,
+											çarkı bozabilirsiniz ve eninde sonunda
+											santrifüjü patlatabilirsiniz.
+											Gördüğümüz başka bir
+											şey de saldırının amacı yavaş
+											ve garip bir biçimde olmasıydı —
+											bakım mühendislerini delirtme
+											amacı açıkca görülüyordu,
+											sorunu çabuk çözemeyeceklerdi.
+									","
+											Alors j'ai dit à mon assistant,
+											"" Trouve moi une liste de tous les experts en centrifugeuses et centrales électriques dans notre base de clients.""
+											Et je leur ai téléphoné et je les ai sollicités
+											dans un effort d'associer leur expertise
+											à ce que nous avons trouvé dans le code et les données.
+											Et ça a plutôt bien marché.
+											Nous avons donc été en mesure d'associer
+											la petite ogive numérique
+											au contrôle du rotor.
+											Le rotor est cette partie mobile dans la centrifugeuse,
+											cet objet noir que vous voyez.
+											Et si vous manipulez la vitesse de ce rotor,
+											vous êtes en fait capable de craquer votre rotor
+											et finalement faire même exploser la centifugeuse.
+											Ce que nous avons vu aussi
+											c'est que le but de l'attaque
+											était vraiment qu'elle soit lente et progressive —
+											dans un effort évident
+											de rendre les techniciens de maintenance fous,
+											et qu'ils ne soit pas en mesure de comprendre rapidement ce qui se passe.
+									","
+											Also sagte ich zu meinem Assistenten,
+											""Bring mir eine Liste aller Experten für Zentrifugen und Kraftwerke aus unserem Kundenstamm.""
+											Und ich rief sie an und zapfte ihr Wissen an,
+											um ihr Fachwissen mit dem zu vergleichen,
+											was wir im Code und in den Daten herausgefunden hatten.
+											Und das funktionierte sehr gut.
+											Also, es war uns möglich,
+											den kleinen digitalen Sprengkopf
+											mit der Rotorsteuerung in Verbindung zu bringen.
+											Der Rotor ist dieser sich bewegende Teil innerhalb der Zentrifuge,
+											diese schwarze Objekt, das Sie sehen.
+											Und wenn man die Geschwindigkeit dieses Rotors manipuliert,
+											dann ist man tatsächlich in der Lage den Rotor zu knacken
+											und schließlich sogar, die Zentrifuge explodieren zu lassen.
+											Was wir auch herausgefunden haben
+											ist, dass das Ziel des Angriffs
+											tatsächlich war, es langsam und unheimlich geschehen zu lassen —
+											offensichtlich in dem Versuch
+											Wartungsingenieure verzweifeln zu lassen,
+											sodass sie nicht in der Lage dazu sein würden schnell dahinter zu kommen.
+									","Cracking Stuxnet, a 21st-century cyber weapon",Ralph Langner,10:40,"Iran,computers,government,nuclear energy,science,technology,war"
+"
+","
+","
+","
+","
+","
+","Cracking Stuxnet, a 21st-century cyber weapon",Ralph Langner,10:40,"Iran,computers,government,nuclear energy,science,technology,war"
+"
+											The big digital warhead — we had a shot at this
+											by looking very closely
+											at data and data structures.
+											So for example, the number 164
+											really stands out in that code;
+											you can't overlook it.
+											I started to research scientific literature
+											on how these centrifuges
+											are actually built in Natanz
+											and found they are structured
+											in what is called a cascade,
+											and each cascade holds 164 centrifuges.
+											So that made sense, that was a match.
+									","
+											Intentamos descifrar la ojiva digital grande
+											observando muy de cerca
+											a los datos y sus estructuras.
+											Así, por ejemplo, el número 164
+											sobresale en ese código,
+											no se puede obviar.
+											Empecé a investigar literatura científica
+											sobre cómo estas centrífugas
+											son construidas en Natanz
+											y encontré que son estructuradas
+											en lo que se llama una cascada,
+											y cada cascada contiene 164 centrífugas.
+											Eso tenía sentido, había una coincidencia.
+									","
+											A bomba digital maior — decidimos atacá-la
+											olhando muito atentamente
+											para os dados e as estruturas de dados.
+											Por exemplo, o número 164
+											destaca-se bastante no código;
+											não se pode desprezar.
+											Comecei a pesquisar literatura científica
+											sobre como estes centrifugadores
+											são realmente construídos em Natanz
+											e descobri que eles são estruturados
+											naquilo a que se chama uma cascata,
+											e cada cascata contém 164 centrifugadoras.
+											Portanto isso fazia sentido, era uma ligação.
+									","
+											Büyük dijital savaş başlığı —
+											veri ve veri yapılarına
+											yakından bakma sonucu bir şansımız vardı.
+											Örnek olarak, 164 numara
+											bu koda karşılık geliyor;
+											gözden kaçıramazsınız.
+											Bilimsel literatürü taramaya başladım
+											bu santrifüjler Natanz'da
+											gerçekte nasıl üretildigini
+											ve kademe olarak isimlendirilen
+											yapıda nasıl bulunduğunu,
+											ve her bir kademe 164 santrifuju taşıyordu araştırdım.
+											Ve bu anlamlı geldi, bir eşleşmeydi.
+									","
+											La grande ogive numérique — nous avons essayé
+											en regardant de très près
+											les données et leurs structures.
+											Donc par exemple, le chiffre 164
+											ressort vraiment dans ce code ;
+											on ne peut pas ne pas le voir.
+											J'ai entrepris des recherches dans la littérature scientifique
+											sur la façon dont ces centrifugeuses
+											sont en fait construites à Natanz
+											et j'ai trouvé qu'elles sont structurées
+											en ce qu'on appelle une cascade,
+											et chaque cascade contient 164 centrifugeuses.
+											Cela prend donc tout son sens, ça colle.
+									","
+											Der große digitale Sprengkopf — wir erhielten einen Einblick,
+											indem wir uns sehr genau
+											Daten und Datenstrukturen anschauten.
+											Also zum Beispiel die Nummer 164
+											sticht sehr heraus aus diesem Code;
+											Man kann es nicht übersehen.
+											Ich begann damit, wissenschaftliche Literatur durchzuarbeiten,
+											darüber wie diese Zentrifugen
+											in Natanz gebaut werden
+											und fand heraus, dass sie strukturiert sind
+											in sogenannten Kaskaden,
+											und jede Kaskade enthält 164 Zentrifugen.
+											Also das machte Sinn, es passte zusammen.
+									","Cracking Stuxnet, a 21st-century cyber weapon",Ralph Langner,10:40,"Iran,computers,government,nuclear energy,science,technology,war"
+"
+","
+","
+","
+","
+","
+","Cracking Stuxnet, a 21st-century cyber weapon",Ralph Langner,10:40,"Iran,computers,government,nuclear energy,science,technology,war"
+"
+											And it even got better.
+											These centrifuges in Iran
+											are subdivided into 15, what is called, stages.
+											And guess what we found in the attack code?
+											An almost identical structure.
+											So again, that was a real good match.
+											And this gave us very high confidence for what we were looking at.
+											Now don't get me wrong here, it didn't go like this.
+											These results have been obtained
+											over several weeks of really hard labor.
+											And we often went into just a dead end
+											and had to recover.
+									","
+											Y se puso mejor aún.
+											Estas centrífugas en Irán
+											están divididas en 15 partes llamadas etapas.
+											Y ¿adivinen qué encontramos en el código de ataque?
+											Una estructura casi idéntica.
+											Así que de nuevo, eso era una buena coincidencia.
+											Esto nos dio mucha confianza en entender lo que teníamos entre manos.
+											Para que no haya malentendidos: no fue así:
+											los resultados han sido obtenidos
+											tras varias semanas de trabajo duro.
+											Habitualmente terminábamos en callejones sin salida
+											y teníamos que volver a empezar.
+									","
+											E ficou ainda melhor.
+											Estas centrifugadoras no Irão
+											estão subdivididos em 15 chamados estágios.
+											E advinhem o que é que encontrámos no código do ataque?
+											Uma estrutura quase idêntica.
+											O que era novamente uma boa ligação.
+											E isto deu-nos muita confiança no que estávamos a fazer.
+											Não me interpretem mal, não foi assim que aconteceu.
+											Estes resultados foram obtidos
+											durante várias semanas de árduo trabalho.
+											E muitas vezes bloqueávamos
+											e tínhamos que recuperar.
+									","
+											Ve sonra daha da iyiye gitti.
+											İran'daki bu santrifüjler 15 tane
+											bölüm adı verilen yapılara sınıflandırılıyor.
+											Ve tahmin edin saldırı kodunda ne bulduk?
+											Neredeyse eş bir yapı.
+											Yani yine bu iyi bir eşleşmeydi.
+											Ve bu bize ilgilendiğimiz şey ile ilgili yüksek bir güven aşıladı.
+											Şimdi burayı yanlış anlatmayayım, o şekilde gitmedi.
+											Bu sonuçlar birkaç senelik çok sıkı
+											çalışmanın ardından elde edildi.
+											Ve çoğunlukla çıkmaza giriyorduk
+											yeniden başlamamız gerekiyordu.
+									","
+											Et c'est encore mieux ensuite.
+											Ces centrifugeuses en Iran
+											sont subdivisées en 15 stades
+											Et devinez ce qu'on a trouvé dans le code d'attaque?
+											Une structure quasiment identique.
+											Donc là encore, ça colle vraiment bien.
+											Et ça nous a donné une très grande confiance dans ce que nous avions sous les yeux.
+											Ne me faites pas dire ce que je n'ai pas dit, ça ne s'est pas fait si facilement.
+											On a obtenu ces résultats
+											sur plusieurs semaines de travail très dur.
+											Et nous sommes souvent tombés sur des impasses
+											et il a fallu nous en remettre.
+									","
+											Und es wurde noch besser.
+											Diese Zentrifugen in Iran
+											sind aufgeteilt in 15 sogenannte Ebenen.
+											Und raten Sie was wir in dem Angriffscode gefunden haben?
+											Eine fast identische Struktur.
+											Also nochmal, das passte wirklich gut zusammen.
+											Und dies gab uns große Zuversicht für das, das wir hier untersuchten.
+											Nun, verstehen Sie mich nicht falsch, das ging nicht einfach so.
+											Diese Ergebnisse wurden
+											durch mehrere Wochen harter Arbeit erreicht.
+											Und oft rannten wir einfach in eine Sackgasse
+											und mussten uns neu sammeln.
+									","Cracking Stuxnet, a 21st-century cyber weapon",Ralph Langner,10:40,"Iran,computers,government,nuclear energy,science,technology,war"
+"
+","
+","
+","
+","
+","
+","Cracking Stuxnet, a 21st-century cyber weapon",Ralph Langner,10:40,"Iran,computers,government,nuclear energy,science,technology,war"
+"
+											Anyway, so we figured out
+											that both digital warheads
+											were actually aiming at one and the same target,
+											but from different angles.
+											The small warhead is taking one cascade,
+											and spinning up the rotors and slowing them down,
+											and the big warhead
+											is talking to six cascades
+											and manipulating valves.
+											So in all, we are very confident
+											that we have actually determined what the target is.
+											It is Natanz, and it is only Natanz.
+											So we don't have to worry
+											that other targets
+											might be hit by Stuxnet.
+									","
+											Aún así, descubrimos
+											que ambas ojivas digitales
+											apuntaban a un solo y mismo objetivo,
+											pero desde diferentes ángulos.
+											La ojiva pequeña está tomando una cascada,
+											y haciendo girar los rotores y ralentizándolos,
+											y la ojiva grande
+											se comunica con seis cascadas
+											y manipulando válvulas.
+											En suma, estamos muy confiados
+											en que hemos determinado cuál es el destinatario.
+											Es Natanz, y es sólo Natanz.
+											No debemos preocuparnos
+											de que otros objetivos
+											sean alcanzados por Stuxnet.
+									","
+											Continuando, nós descobrimos
+											que ambas as bombas digitais
+											estavam de facto a apontar ao mesmo alvo,
+											mas de diferentes ângulos.
+											A bomba mais pequena pega numa cascata,
+											e interfere com os rotores e abranda-os,
+											e a bomba maior
+											interfere com seis cascatas
+											manipulando válvulas.
+											Por isso, no geral, estavamos muito confiantes
+											que tínhamos descoberto qual era o alvo.
+											É Natanz, e é apenas Natanz.
+											Por isso não nos temos de preocupar
+											que outros alvos
+											possam ser atingidos pelo Stuxnet.
+									","
+											Neyse, anladık ki
+											her iki dijital savaş başlığı da
+											tek ve aynı hedefe odaklanmıştı,
+											ama farklı açılardan.
+											Küçük savaş başlığı bir kademeyi alıyordu,
+											ve rotorları döndürüp onları yavaşlatıyordu,
+											büyük savaş başlığı
+											altı kademeyi alıyordu
+											ve vanaları manipüle ediyordu.
+											Yani, hedefin ne olduğunu bulduğumuz,
+											konusunda oldukça kendimize güveniyorduk.
+											Hedef Natanz ve sadece Natanz.
+											Yani Stuxnet tarafından
+											vurulma olasılığı olan
+											başka hedefler için endişe etmemize gerek yoktu.
+									","
+											Mais bon , nous avons donc compris
+											que les deux ogives numériques
+											visaient en fait une seule et même cible,
+											mais sous des angles différents.
+											La petite ogive s'attaque à une cascade,
+											et elle accélère les rotors puis les ralentit,
+											et la grande ogive
+											s'adresse à 6 cascades
+											et elle manipule les valves.
+											Donc dans l'ensemble, nous sommes très confiants
+											d'avoir en fait déterminé quelle est la cible.
+											C'est Natanz, et Natanz seulement.
+											Nous n'avons donc pas à nous inquiéter
+											que d'autres cibles
+											puissent être frappées par Stuxnet.
+									","
+											Jedenfalls fanden wir heraus,
+											dass beide digitalen Sprengköpfe
+											in Wirklichkeit auf ein und das selbe Ziel zusteuerten,
+											aber aus verschiedenen Richtungen.
+											Der kleine Sprengkopf übernimmt eine Kaskade,
+											und überdreht die Rotoren und verlangsamt sie
+											und der große Sprengkopf
+											tritt mit sechs Kaskaden in Interaktion
+											und manipuliert Ventile.
+											Also, im Großen und Ganzen sind wir sehr zuversichtlich,
+											dass wir tatsächlich bestimmt haben, was das Ziel ist.
+											Es ist Natanz und es ist nur Natanz.
+											Also müssen wir uns keine Sorgen machen,
+											dass andere Ziele
+											von Stuxnet getroffen werden könnten.
+									","Cracking Stuxnet, a 21st-century cyber weapon",Ralph Langner,10:40,"Iran,computers,government,nuclear energy,science,technology,war"
+"
+","
+","
+","
+","
+","
+","Cracking Stuxnet, a 21st-century cyber weapon",Ralph Langner,10:40,"Iran,computers,government,nuclear energy,science,technology,war"
+"
+											Here's some very cool stuff that we saw —
+											really knocked my socks off.
+											Down there is the gray box,
+											and on the top you see the centrifuges.
+											Now what this thing does
+											is it intercepts the input values from sensors —
+											so for example, from pressure sensors
+											and vibration sensors —
+											and it provides legitimate program code,
+											which is still running during the attack,
+											with fake input data.
+											And as a matter of fact, this fake input data
+											is actually prerecorded by Stuxnet.
+											So it's just like from the Hollywood movies
+											where during the heist,
+											the observation camera is fed with prerecorded video.
+											That's cool, huh?
+									","
+											Aquí les muestro unas cosas muy interesantes que vimos,
+											realmente me impresionaron.
+											Ahí está la caja gris,
+											y arriba se ven las centrífugas.
+											Lo que esta cosa hace
+											es interceptar los valores de entrada de los sensores
+											por ejemplo, de los sensores de presión
+											y los sensores de vibración
+											y provee código legítimo,
+											el cual todavía ejecuta durante el ataque,
+											con falsos datos de entrada.
+											Y, créase o no, estos datos de entrada falsos
+											son pregrabados por Stuxnet.
+											Es como en las películas de Hollywood
+											donde, durante el robo,
+											la cámara de seguridad se alimenta de video pregrabado.
+											Es genial ¿eh?
+									","
+											Aqui estão umas coisas muito fixes que vímos —
+											que me deixaram perplexo.
+											Aqui em baixo está a caixa cinzenta,
+											e no topo vêem os centrifugadores.
+											O que esta coisa faz
+											é interceptar os valores devolvidos pelos sensores —
+											como, por exemplo, pelos sensores de pressão
+											e pelos sensores de vibração -
+											e fornece ao código legítimo,
+											que ainda está a correr durante o ataque,
+											com dados falsos dos sensores.
+											Aliás, estes dados falsos de entrada
+											até já vêm pré-configurados pelo Stuxnet.
+											Por isso é como nos filmes de Hollywood
+											em que durante o assalto,
+											a câmara de grande plano é alimentada com vídeo gravado previamente.
+											É fixe, não é?
+									","
+											Burada gördüğümüz beni çok etkileyen
+											bazı şeyler var.
+											Aşağıda bu gri kutu,
+											ve onun üzerinde santrifüjler var.
+											Şimdi bu şeyin yaptığı
+											sensörden gelen giriş verisini yakalamak —
+											mesela basınç sensöründen ve
+											titreşim sensöründen —
+											ve geçerli kodu sağlamak,
+											ki o da saldırı sırasında sahte giriş verisi ile
+											hala çalışıyor.
+											Ve sonuç olarak, bu sahte giriş verisi
+											daha önceden Stuxnet tarafından kaydedilmişti.
+											Yani tıpkı Hollywood filmlerindeki gibi
+											soygun sırasında,
+											gözlem kamerası daha önceden kaydedilmiş video ile kapatılıyor.
+											Bu havalı değil mi?
+									","
+											Voici certains des trucs très chouettes que nous avons vu —
+											ça m'a vraiment frappé.
+											Là en bas il y a une boite grise,
+											et en haut vous voyez les centrifugeuses.
+											Et ce que ce truc fait
+											c'est qu'il intercepte les valeurs des input des capteurs —
+											donc par exemple, des capteurs de pression
+											et des capteurs de vibrations —
+											et il fournit du code légitime,
+											qui tourne toujours pendant l'attaque,
+											avec de fausses données d'input.
+											Et en fait, ces fausses données d'input
+											sont en fait préenregistrées dans Stuxnet.
+											Donc c'est comme dans les films hollywoodiens
+											quand pendant le holp-up
+											la caméra de surveillance reçoit des images vidéo préenregistrées.
+											C'est chouette, non?
+									","
+											Hier ist etwas wirklich cooles Zeug, das wir entdeckt haben —
+											hat mich echt aus den Socken gehauen.
+											Dort unten ist die graue Box,
+											und oben drauf sehen Sie die Zentrifugen.
+											Nun, was dieses Ding bewirkt
+											ist, dass es die eingehenden Werte von Sensoren abfängt —
+											also zum Beispiel von Drucksensoren
+											und Vibrationssensoren —
+											und es stellt legitimen Code zur Verfügung,
+											der noch während dem Angriff,
+											mit falschen eingehenden Daten, läuft.
+											Und tatsächlich sind dieses falschen eingehenden Daten
+											von Stuxnet vorher schon aufgenommen.
+											Also ist es genau so wie in Hollywoodfilmen,
+											wo während der Verfolgungsjagd
+											die Überwachungskamera mit vorher aufgenommenem Videoaufnahmen gefüttert wird.
+											Das ist cool, nicht wahr?
+									","Cracking Stuxnet, a 21st-century cyber weapon",Ralph Langner,10:40,"Iran,computers,government,nuclear energy,science,technology,war"
+"
+","
+","
+","
+","
+","
+","Cracking Stuxnet, a 21st-century cyber weapon",Ralph Langner,10:40,"Iran,computers,government,nuclear energy,science,technology,war"
+"
+											The idea here is obviously
+											not only to fool the operators in the control room.
+											It actually is much more dangerous and aggressive.
+											The idea
+											is to circumvent a digital safety system.
+											We need digital safety systems
+											where a human operator could not act quick enough.
+											So for example, in a power plant,
+											when your big steam turbine gets too over speed,
+											you must open relief valves within a millisecond.
+											Obviously, this cannot be done by a human operator.
+											So this is where we need digital safety systems.
+											And when they are compromised,
+											then real bad things can happen.
+											Your plant can blow up.
+											And neither your operators nor your safety system will notice it.
+											That's scary.
+									","
+											La idea aquí es obviamente
+											no sólo burlar a los operadores en el cuarto de control.
+											Es realmente mucho más peligrosa y agresiva.
+											La idea
+											es burlar un sistema de seguridad digital.
+											Necesitamos sistemas de seguridad digital
+											donde un operador humano no podría actuar rápido.
+											Por ejemplo, en una planta de energía,
+											cuando la gran turbina de vapor se pasa de velocidad,
+											se deben abrir válvulas de escape en un milisegundo.
+											Obviamente, esto no puede hacerlo un operador humano.
+											Allí es donde necesitamos sistemas de seguridad digital.
+											Y cuando están comprometidos,
+											entonces pueden pasar cosas malas.
+											La planta puede explotar.
+											Y ni los operarios ni el sistema de seguridad lo notarán.
+											Eso asusta.
+									","
+											A ideia aqui obviamente
+											não é só enganar os operadores na sala de controlo.
+											É na verdade muito mais perigosa e agressiva.
+											A ideia
+											é ultrapassar um sistema de segurança digital.
+											Precisamos de sistemas de segurança digitais
+											para situações em que um operador humano não reage atempadamente.
+											Por exemplo, numa central eléctrica,
+											quando uma grande turbina a vapor acelera demais,
+											devem ser abertas válvulas de compensação num milisegundo.
+											Obviamente que isto não pode ser feito por um operador humano.
+											É aqui que precisamos de sistemas de defesa digitais.
+											E quando eles são comprometidos,
+											coisas muito más podem acontecer.
+											A fábrica pode explodir.
+											E nem os operadores nem o sistema de segurança dariam conta.
+											É assustador.
+									","
+											Buradaki fikir açık olarak
+											sadece kontrol odasındaki operatörleri kandırmak değil.
+											Aslında çok daha tehlikeli ve saldırgan.
+											Fikir dijital güvenlik
+											sistemine müdahele edip engellemek.
+											İnsan operatörlerin yeteri kadar çabuk davranamayacakları
+											noktalarda dijital güvenlik sistemlerine ihtiyacımız var.
+											Mesela, bir güç santralinde,
+											buhar türbininiz aşırı hızlandığı zaman,
+											tahliye vanalarını milisaniyeler içinde açmalısınız.
+											Açıkca, bu insan tarafından yapılamaz.
+											Bu yüzden dijital güvenlik sistemlerine ihtiyacımız var.
+											Ve gözardı edildikleri zaman,
+											sonrasında çok fena şeyler olabilir.
+											Santraliniz patlayacak hale gelebilir.
+											Ve operatörleriniz ya da güvenlik sisteminiz bunu anlayamayabilir.
+											Bu korkutucu.
+									","
+											Il est évident que l'idée ici n'est pas seulement
+											de tromper les opérateurs dans la salle de contrôle
+											Elle est en fait plus dangereuse et agressive.
+											L'idée
+											est de contourner un système de sécurité numérique.
+											Nous avons besoin de systèmes de sécurité numériques
+											là où un opérateur humain ne pourrait pas agir assez rapidement.
+											Donc, par exemple, dans une centrale,
+											quand la grosse turbine à vapeur dépasse la vitesse limite,
+											il vaut ouvrir les vannes de délestage en une milliseconde.
+											Il est évident que ça ne peut pas être fait par un opérateur humain.
+											C'est donc là que nous avons besoin de systèmes de sécurité numériques.
+											Et quand ils sont compromis,
+											alors ça peut vraiment mal tourné.
+											Votre centrale peut exploser.
+											Et ni vos opérateurs ni votre système de sécurité ne s'en apercevront.
+											C'est effrayant.
+									","
+											Die Idee hierbei ist offensichtlich
+											nicht nur, die Maschinenbediener im Kontrollraum überlisten.
+											Tatsächlich ist es noch viel gefährlicher und aggressiver.
+											Die Idee
+											ist, ein digitales Sicherheitssystem zu überlisten.
+											Wir brauchen digitale Sicherheitssysteme
+											dort, wo ein menschlicher Maschinenbediener nicht schnell genug reagieren kann.
+											Also in einem Kraftwerk zum Beispiel,
+											wenn die Große Dampfturbine zu schnell wird,
+											muss man Entlastungsventile innerhalb von Millisekunden öffnen.
+											Natürlich kann dies nicht von einem menschlichen Maschinenführer erledigt werden.
+											Also an dieser Stelle brauchen wir digitale Sicherheitssysteme.
+											Und wenn die gefährdet sind,
+											dann können wirklich schlimme Dinge geschehen.
+											Das Kraftwerk kann explodieren.
+											Und weder die Maschinenführer, noch das Sicherheitssystem wird es bemerken.
+											Das ist beängstigend.
+									","Cracking Stuxnet, a 21st-century cyber weapon",Ralph Langner,10:40,"Iran,computers,government,nuclear energy,science,technology,war"
+"
+","
+","
+","
+","
+","
+","Cracking Stuxnet, a 21st-century cyber weapon",Ralph Langner,10:40,"Iran,computers,government,nuclear energy,science,technology,war"
+"
+											But it gets worse.
+											And this is very important, what I'm going to say.
+											Think about this:
+											this attack is generic.
+											It doesn't have anything to do, in specifics,
+											with centrifuges,
+											with uranium enrichment.
+											So it would work as well, for example,
+											in a power plant
+											or in an automobile factory.
+											It is generic.
+											And you don't have — as an attacker —
+											you don't have to deliver this payload
+											by a USB stick,
+											as we saw it in the case of Stuxnet.
+											You could also use conventional worm technology for spreading.
+											Just spread it as wide as possible.
+											And if you do that,
+											what you end up with
+											is a cyber weapon of mass destruction.
+											That's the consequence
+											that we have to face.
+											So unfortunately,
+											the biggest number of targets for such attacks
+											are not in the Middle East.
+											They're in the United States and Europe and in Japan.
+											So all of the green areas,
+											these are your target-rich environments.
+											We have to face the consequences,
+											and we better start to prepare right now.
+									","
+											Pero puede ser peor.
+											Lo que voy a decir es muy importante.
+											Piensen en esto.
+											Este ataque es genérico.
+											No tiene nada que ver, específicamente,
+											con centrífugas,
+											con enriquecimiento de uranio.
+											Podría funcionar también, por ejemplo,
+											en una planta de energía,
+											o en una fábrica automotriz.
+											Es genérico.
+											Y no tienes (como atacante)
+											que diseminar esta carga
+											con una llave USB,
+											como vimos en el caso de Stuxnet.
+											También podrías usar tecnología convencional de gusanos para diseminarlo.
+											Diseminarlo lo más posible.
+											Y si hicieras eso,
+											con lo que terminarías
+											es con una ciber-arma de destrucción masiva.
+											Esa es la consecuencia
+											que debemos enfrentar.
+											Desafortunadamente,
+											el mayor número de objetivos para tales ataques
+											no está en Medio Oriente.
+											Está en los Estados Unidos y en Japón.
+											Todas las áreas verdes
+											son espacios con gran número de objetivos.
+											Debemos enfrentar las consecuencias,
+											y mejor que nos empecemos a preparar ahora.
+									","
+											Mas ainda se torna pior.
+											E isto é muito importante, o que eu vou dizer.
+											Pensem nisto.
+											O ataque é genérico.
+											Não tem nada que ver especificamente
+											com centrifugadores,
+											com enriquecimento de urânio.
+											Por isso, funcionaria bem, por exemplo,
+											numa central eléctrica
+											ou numa fábrica de automóveis.
+											É genérico.
+											E não é necessário — como atacante —
+											depositar a carga
+											via uma drive USB,
+											como vimos no caso do Stuxnet.
+											Poderão ser usados também métodos convencionais de disseminação viral.
+											Simplesmente espalha-se ao máximo possível.
+											E se isso for feito,
+											o que se obtém
+											é uma cyber-arma de destruição em massa.
+											Esta é a consequência
+											com que temos de lidar.
+											Por isso, infelizmente,
+											a maioria dos alvos de tais ataques
+											não está no Médio Oriente.
+											Está nos Estados Unidos, Europa e Japão.
+											Todas estas áreas verdes,
+											são os ambientes ricos em alvos.
+											Temos de enfrentar as consequências,
+											devemos começar a preparar-nos agora.
+									","
+											Ama daha da kötüleşiyor.
+											Ve bu söyleceğim şey çok önemli.
+											Bunu bir düşünün.
+											Bu saldırı genel.
+											Spesifik olarak santrifüjler ile
+											ya da uranyum zenginleştirmesi
+											ile alakalı değil.
+											Yani, örnek olarak bir güç santralinde de
+											gayet iyi çalışabilir
+											ya da bir otomobil fabrikasında.
+											Bu genel birşey.
+											Ve saldırgan olarak
+											bu iş yükünü USB bellek ile
+											vermek zorunda değilsiniz
+											Stuxnet olayında gördüğümüz gibi.
+											Aynı zamanda yayılma için geleneksel solucan teknolojisini kullanabilirsiniz.
+											Yayabildiğin kadar yay.
+											Ve bunu yaparsanız,
+											sonunda siber bir
+											kitle imha silahı elde edersiniz.
+											Bu yüzleşmek zorunda olduğumuz
+											bir sonuç.
+											Yani maalesef,
+											bu tür saldırıların en yoğun yaşandığı
+											yer Orta Doğu değil.
+											Amerika Birleşik Devletleri, Avrupa ve Japonya.
+											Bütün bu yeşil alanlar,
+											hedef bakımından zengin çevreler.
+											Sonuçlar ile yüzleşmeliyiz,
+											ve hazırlanmaya başlamalıyız.
+									","
+											Mais il y a pire.
+											Et c'est très important, ce que je vais dire,
+											Réfléchissez-y.
+											Cette attaque est générique.
+											Elle n'a rien à voir, dans les détails,
+											avec les centrifugeuses,
+											avec l'uranium enrichi.
+											Donc, elle marcherait aussi bien, par exemple,
+											dans une centrale
+											ou dans une usine de construction automobile.
+											Elle est générique.
+											Et vous n'avez pas — en tant qu'attaquant —
+											vous n'avez pas besoin d'introduire la charge utile
+											à l'aide d'une clé USB,
+											comme nous l'avons vu dans le cas de Stuxnet.
+											Vous pourriez aussi employer un ver conventionnel pour le répandre.
+											Simplement le répandre aussi largement que possible.
+											Et si vous le faites,
+											vous vous retrouvez avec
+											une cyber arme de destruction massive.
+											C'est la conséquence
+											à laquelle nous devons faire face.
+											Donc malheureusement,
+											le plus grand nombre de cibles pour de telles attaques
+											n'est pas au Moyen-Orient.
+											C'est en Europe, au Etats-Unis et au Japon.
+											Donc toutes les zones en vert,
+											ce sont les environnements riches en cibles.
+											Nous devons faire face aux conséquences,
+											et nous ferions mieux de commencer à nous y préparer dès maintenant.
+									","
+											Aber es wird noch schlimmer.
+											Und das was ich jetzt sage ist sehr wichtig.
+											Denken Sie darüber nach.
+											Dieser Angriff ist generisch.
+											Er hat nichts speziell zu tun mit
+											Zentrifugen,
+											mit Urananreicherung.
+											Also würde er beispielsweise genau so gut funktionieren —
+											in einem Kraftwerk
+											oder in einer Automobilfabrik.
+											Es ist generisch.
+											Und man muss nicht — als der Angreifer —
+											muss man die Nutzdaten nicht
+											über einen USB- Stick anbringen,
+											wie wir es bei Stuxnet gesehen haben.
+											Man könnte auch gewöhnliche Wurm- Technologie zum Verbreiten verwenden.
+											Man muss es nur so weit wie möglich verbreiten.
+											Und wenn man das tut,
+											erhält man schließlich
+											eine Cyber- Massenvernichtungswaffe.
+											Das ist die Konsequenz,
+											der wir uns stellen müssen.
+											Also unglücklicherweise
+											liegt die größte Nummer von Zielen für solche Angriffe
+											nicht im Mittleren Osten.
+											Sie liegen in den Vereinigten Staaten, in Europa und Japan.
+											Also all diese grünen Gebiete,
+											dies sind die Zielreichsten Umgebungen.
+											Wir müssen uns den Konsequenzen stellen
+											und wir fangen besser an uns vorzubereiten.
+									","Cracking Stuxnet, a 21st-century cyber weapon",Ralph Langner,10:40,"Iran,computers,government,nuclear energy,science,technology,war"
+"
+","
+","
+","
+","
+","
+","Cracking Stuxnet, a 21st-century cyber weapon",Ralph Langner,10:40,"Iran,computers,government,nuclear energy,science,technology,war"
+"
+											Thanks.
+									","
+											Gracias.
+									","
+											Obrigado.
+									","
+											Teşekkürler.
+									","
+											Merci.
+									","
+											Danke.
+									","Cracking Stuxnet, a 21st-century cyber weapon",Ralph Langner,10:40,"Iran,computers,government,nuclear energy,science,technology,war"
+"
+","
+","
+","
+","
+","
+","Cracking Stuxnet, a 21st-century cyber weapon",Ralph Langner,10:40,"Iran,computers,government,nuclear energy,science,technology,war"
+"
+											(Applause)
+									","
+											(Aplausos)
+									","
+											(Aplausos)
+									","
+											(Alkış)
+									","
+											(Applaudissements)
+									","
+											(Applaus)
+									","Cracking Stuxnet, a 21st-century cyber weapon",Ralph Langner,10:40,"Iran,computers,government,nuclear energy,science,technology,war"
+"
+","
+","
+","
+","
+","
+","Cracking Stuxnet, a 21st-century cyber weapon",Ralph Langner,10:40,"Iran,computers,government,nuclear energy,science,technology,war"
+"
+											Chris Anderson: I've got a question.
+											Ralph, it's been quite widely reported
+											that people assume that Mossad
+											is the main entity behind this.
+											Is that your opinion?
+									","
+											Chris Anderson: Tengo una pregunta.
+											Ralph, se ha hecho público en muchos lados
+											que la gente asume que el Mossad
+											es la principal entidad detrás de esto.
+											¿Cuál es tu opinión?
+									","
+											Chris Anderson: Eu tenho uma pergunta.
+											Ralph, tem sido bastante noticiado
+											que as pessoas assumem que a Mossad
+											é a principal entidade por detrás disto.
+											Partilhas desta opinião?
+									","
+											Chris Anderson: Bir sorum var.
+											Ralph, çoğu yerde raporlanandığı
+											üzere insanlar bunun asıl sorumlusunun
+											Mossad olduğunu düşünüyor.
+											Sen böyle mi düşünüyorsun?
+									","
+											Chris Anderson : J'ai une question.
+											Ralph, on a beaucoup dit
+											que les gens pensent que le Mossad
+											est la principale entité derrière ça.
+											Est-ce votre opinion?
+									","
+											Chris Anderson: Ich habe eine Frage.
+											Ralph, es wurde sehr viel davon berichtet,
+											dass Leute vermuten, dass der Mossad
+											die Hauptorganisation dahinter ist.
+											Ist das auch deine Meinung?
+									","Cracking Stuxnet, a 21st-century cyber weapon",Ralph Langner,10:40,"Iran,computers,government,nuclear energy,science,technology,war"
+"
+","
+","
+","
+","
+","
+","Cracking Stuxnet, a 21st-century cyber weapon",Ralph Langner,10:40,"Iran,computers,government,nuclear energy,science,technology,war"
+"
+											Ralph Langner: Okay, you really want to hear that?
+											Yeah. Okay.
+											My opinion is that the Mossad is involved,
+											but that the leading force is not Israel.
+											So the leading force behind that
+											is the cyber superpower.
+											There is only one,
+											and that's the United States —
+											fortunately, fortunately.
+											Because otherwise,
+											our problems would even be bigger.
+									","
+											Ralph Langnet: Okey, ¿realmente quieren escuchar esto?
+											Sí. Okey.
+											Mi opinión es que el Mossad está involucrado,
+											pero el motor no es Israel:
+											el motor detrás de esto
+											es la superpotencia cibernética.
+											Existe una sola,
+											y ésa es los Estados Unidos,
+											afortunadamente, afortunadamente.
+											Porque, de otro modo,
+											nuestros problemas serían aún mayores.
+									","
+											Ralph Langner : Okay, queres mesmo ouvir isso?
+											Okay.
+											A minha opinião é que a Mossad está envolvida,
+											mas que a principal força não é Israel.
+											A principal força por detrás disto
+											é a superpotência tecnológica.
+											Há apenas uma,
+											que são os Estados Unidos -
+											felizmente, felizmente.
+											Porque de outro modo
+											os nossos problemas seriam ainda maiores.
+									","
+											Ralph Langler: Tamam, bunu gerçekten duymak istiyor musun?
+											Evet. Tamam,
+											Bence Mossad işin içinde,
+											ama başı çeken kuvvet İsrail değil.
+											Bunun arkasındaki asıl güç
+											siber süpergüç.
+											Sadece bir tane var,
+											ve bu Amerika Birleşik Devletleri —
+											çok şükür ki.
+											Çünkü diğer türlü,
+											problemlerimiz daha da büyük olurdu.
+									","
+											Ralph Langner : Bon, vous voulez vraiment entendre ça?
+											Oui, Bon.
+											Mon opinion, c'est que le Mossad est impliqué,
+											mais que la puissance principale n'est pas Israel.
+											La force principale derrière ça est donc
+											la cyber superpuissance.
+											Il n'y en a qu'une,
+											et ce sont les Etats-Unis —
+											heureusement, heureusement.
+											PArce qu'autrement,
+											nos problèmes seraient encore plus grands.
+									","
+											Ralph Langner: Okay, du willst das wirklich wissen?
+											Ja. Okay.
+											Meiner Meinung nach ist der Mossad involviert,
+											aber die treibende Kraft ist nicht Israel.
+											Also die treibende Kraft dahinter
+											ist die Cyber- Supermacht.
+											Es gibt nur eine
+											und das sind die Vereinigten Staaten —
+											zum Glück, zum Glück.
+											Denn andernfalls
+											wäre unser Problem sogar noch größer.
+									","Cracking Stuxnet, a 21st-century cyber weapon",Ralph Langner,10:40,"Iran,computers,government,nuclear energy,science,technology,war"
+"
+","
+","
+","
+","
+","
+","Cracking Stuxnet, a 21st-century cyber weapon",Ralph Langner,10:40,"Iran,computers,government,nuclear energy,science,technology,war"
+"
+											CA: Thank you for scaring the living daylights out of us. Thank you, Ralph.
+									","
+											CA: Gracias por atemorizarnos. Gracias, Ralph.
+									","
+											CA: Obrigado por nos assustares de morte. Obrigado Ralph.
+									","
+											CA: Bizi bu kadar korkuttuğun için teşekkürler.Teşekkürler Ralph.
+									","
+											CA : merci de nous avoir terrifiés. Merci Ralph.
+									","
+											CA: Danke, dass du uns eine Heidenangst eingejagt hast. Danke Ralph.
+									","Cracking Stuxnet, a 21st-century cyber weapon",Ralph Langner,10:40,"Iran,computers,government,nuclear energy,science,technology,war"
+"
+","
+","
+","
+","
+","
+","Cracking Stuxnet, a 21st-century cyber weapon",Ralph Langner,10:40,"Iran,computers,government,nuclear energy,science,technology,war"
+"
+											(Applause)
+									","
+											(Aplausos)
+									","
+											(Aplausos)
+									","
+											(Alkış)
+									","
+											(Applaudissements)
+									","
+											(Applaus)
+									","Cracking Stuxnet, a 21st-century cyber weapon",Ralph Langner,10:40,"Iran,computers,government,nuclear energy,science,technology,war"
+"
+","
+","
+","
+","
+","
+","Cracking Stuxnet, a 21st-century cyber weapon",Ralph Langner,10:40,"Iran,computers,government,nuclear energy,science,technology,war"

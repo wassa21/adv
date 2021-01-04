@@ -1,0 +1,1880 @@
+en,fr,tr,title,speaker,duration,tags
+"
+","
+","
+",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+											I want to talk to you about two
+of the most exciting possible things.
+											You've probably guessed what they are —
+											data and history.
+											Right?
+											So, I'm not a historian.
+											I'm not going to give you
+a definition of history.
+											But let's think instead
+of history within a framework.
+									","
+											Je veux de vous parler de deux des
+choses les plus excitantes au monde.
+											Vous avez deviné, n'est-ce pas ?
+											Les données et l'histoire.
+											Oui ?
+											Je ne suis pas un historien.
+											Je ne vais pas vous donner
+une définition de l'histoire.
+											Mais envisageons l'histoire
+dans un contexte particulier.
+									","
+											Size en heyecan verici iki olası
+şeyden bahsetmek istiyorum.
+											Muhtemelen ne olduklarını
+tahmin ettiniz -
+											veri ve tarih.
+											Değil mi?
+											Ben bir tarihçi değilim.
+											Size tarihin bir tanımını yapmayacağım.
+											Bunun yerine tarihi bir çerçeve
+içerisinde düşünelim.
+									",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+","
+","
+",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+											So, when we're making history,
+											or when we're creating
+historical documents,
+											we're taking things
+that have happened in the past,
+											and we're stitching them
+together into a story.
+											So let me start with a little bit
+of my own story.
+											Like anybody my age
+who works creatively with computers,
+											I was a popular, socially
+well-adjusted young man —
+									","
+											Quand on fait de l'histoire,
+											c'est-à-dire quand on crée
+des documents historiques,
+											en fait, on crée un récit
+en cousant ensemble
+											des événements survenus dans le passé.
+											Commençons donc par mon propre récit.
+											Comme tous ceux de mon âge à l'imagination
+débridée avec des ordinateurs,
+											j'étais un jeune homme
+populaire et très sociable.
+									","
+											Bizler tarih yazarken
+											veya tarihi dökümanlar oluştururken,
+											geçmişte olmuş şeyleri alıyor
+											ve onları bir hikayede birleştiriyoruz.
+											Kendi hikayemi anlatarak 
+başlamama izin verin.
+											Bilgisayarlarla yaratıcı alanda
+çalışan her yaşıtım gibi,
+											ben de popüler, sosyal olarak
+uyumlu genç bir adamdım —
+									",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+","
+","
+",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+											(Laughter)
+									","
+											(Rires)
+									","
+											(Gülüşmeler)
+									",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+","
+","
+",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+											And sporty!
+											Sporty young man.
+											And like a lot of people my age
+in the type of business that I'm in,
+											I was influenced tremendously by Apple.
+											But notice my choice of logo here, right?
+											The Apple on the left,
+not the Apple on the right.
+											I'm influenced as much
+by the Apple on the right
+											as the next person,
+											but the Apple on the left —
+I mean, look at that logo!
+											It's a rainbow.
+It's not even in the right order!
+									","
+											Sportif !
+											Un jeune homme sportif.
+											Comme beaucoup de personnes
+de mon âge actives dans mon domaine,
+											Apple m'a profondément influencé.
+											Remarquez, s'il vous plaît,
+mon choix du logo.
+											La pomme de gauche, pas celle de droite.
+											La pomme de droite m'influence
+autant que n'importe qui, je l'avoue,
+											mais la pomme de gauche,
+quelle pomme ! Quel logo !
+											C'est un arc-en-ciel,
+et même pas dans le bon ordre !
+									","
+											Ayrıca sportiftim!
+											Sportif bir genç adam.
+											İçerisinde olduğum sektörde
+çalışan her yaşıtım gibi,
+											Apple'dan son derece etkilenmiştim.
+											Fakat buradaki logo tercihimi
+fark ettiniz, değil mi?
+											Soldaki Apple, sağdaki değil.
+											Sağdaki Apple'dan en az 
+benden sonraki kişinin
+											etkileneceği kadar etkilendim,
+											fakat soldaki Apple —
+yani, logoya bakın!
+											Bir gökkuşağı.
+Doğru sırada bile değil!
+									",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+","
+","
+",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+											(Laughter)
+									","
+											(Rires)
+									","
+											(Gülüşmeler)
+									",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+","
+","
+",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+											That's how crazy Apple was.
+									","
+											Le symbole même de la folie chez Apple.
+									","
+											İşte Apple böyle çılgındı.
+									",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+","
+","
+",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+											(Laughter)
+									","
+											(Rires)
+									","
+											(Gülüşmeler)
+									",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+","
+","
+",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+											But I don't want to talk too much
+about the company.
+											I'll start talking about
+a machine, though.
+											How amazing it is to think about this.
+I go back and I think about this.
+											Wednesday — one Wednesday,
+when I was about 12 years old,
+											I didn't have a computer.
+											On Thursday, I had a computer.
+											Can you imagine that change?
+											It's so drastic.
+											I can't even think about anything
+that could change our lives that way.
+											But I'm actually not even going
+to talk about the computer.
+											I'm going to talk about a program
+that came loaded on that computer.
+											And it was build by,
+not the guy on the left,
+											but the guy on the right.
+											Does anybody know
+who the guy on the right is?
+											Nobody ever knows the answer
+to this question.
+											This is Bill Atkinson.
+											And Bill Atkinson was responsible
+for tons of things
+											that you see on your computer every day.
+											But I want to talk about one program
+that Bill Atkinson wrote,
+											called HyperCard.
+											Someone's cheering over there.
+									","
+											Ce n'est pas de l'entreprise
+que je souhaite parler.
+											Mais je vais évoquer une bécane.
+											J'adore me souvenir de ce moment,
+j'y repense souvent, d'ailleurs.
+											Un mercredi, j'avais 12 ans environ
+											et je n'avais pas d'ordinateur.
+											Le jeudi, j'avais un ordinateur.
+											Vous pouvez imaginer le changement ?
+											C'est le jour et la nuit.
+											Rien d'autre ne pourra jamais
+affecter ma vie autant que ça.
+											Pourtant, je ne vais pas
+vous parler de l'ordinateur,
+											mais plutôt du logiciel
+qui était fourni avec.
+											Il avait été développé
+non pas par le type à gauche,
+											mais par celui à droite.
+											Quelqu'un sait-il de qui il s'agit ?
+											La plupart du temps,
+personne n'a la réponse.
+											C'est Bill Atkinson.
+											Bill Atkinson est le responsable
+d'une montagne de choses
+											que vous utilisez tous les jours
+dans vos ordinateurs.
+											Un des logiciels programmé
+par Bill Atkinson
+											s'appelle HyperCard.
+											Quelqu'un se réjouit dans la salle !
+									","
+											Fakat şirket hakkında çok fazla
+konuşmak istemiyorum.
+											Ancak bir makineden
+bahsederek başlayacağım.
+											Bunu düşünmek ne kadar da inanılmaz.
+Geriye dönüp bunu düşününce.
+											Çarşamba — bir Çarşamba,
+12 yaşlarındayken,
+											bir bilgisayarım yoktu.
+											Perşembe günü, bir bilgisayarım oldu.
+											Bu değişimi hayal edebiliyor musunuz?
+											Çok keskin bir değişiklik.
+											Hayatlarımızı bu şekilde değiştirebilmiş
+başka bir şey düşünemiyorum.
+											Aslında bilgisayarlar hakkında
+konuşmayacağım bile.
+											O bilgisayarda yüklü olarak gelen
+bir programdan bahsedeceğim.
+											Bunu, soldaki adam değil,
+											sağdaki geliştirdi.
+											Sağdaki adamın kim
+olduğunu bilen var mı?
+											Bu sorunun cevabını hiç kimse bilmiyor.
+											O, Bill Atkinson.
+											Her gün bilgisayarınızda
+gördüğünüz birçok şeyden
+											Bill Atkinson sorumlu.
+											Ben, Bill Atkinson'ın yazdığı
+bir programdan bahsetmek istiyorum,
+											ismi HyperCard.
+											Orada birisi alkışlıyor.
+									",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+","
+","
+",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+											(Laughter)
+									","
+											(Rires)
+									","
+											(Gülüşmeler)
+									",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+","
+","
+",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+											HyperCard was a program
+that shipped with the Mac,
+											and it was designed
+for users of the computer
+											to make programs on their computers.
+											Crazy idea today.
+											And these programs were not the apps
+that we think about today,
+											with their large budgets
+and their big distribution.
+											These were small things,
+											people making applications to keep track
+of their local basketball team scores
+											or to organize their research
+											or to teach people about classical music
+											or to calculate weird astronomical dates.
+											And then, of course,
+there were some art projects.
+											This is my favorite one.
+											It's called ""If Monks Had Macs,""
+											and it's a nonlinear
+kind of exploratory environment.
+											I thank the stars for HyperCard
+all of the time.
+											And I thank the stars
+for putting me in this era
+											where I got to use HyperCard.
+											HyperCard was the last program to ship
+on a public computer
+											that was designed for the users
+of the computer to make programs with it.
+											If you talked to the people
+who invented the computer
+											and you told them there would be
+a day, a magical day,
+											when everybody had a computer
+but none of them knew how to program,
+											they would think you were crazy.
+									","
+											HyperCard était un programme
+installé par défaut sur Mac.
+											Il permettait aux utilisateurs
+de la machine
+											de créer leurs propres
+programmes sur leur ordinateur.
+											Aujourd'hui, cette idée serait ridicule.
+											Ce n'était pas les applis
+telles que nous les visualisons,
+											avec de gros budgets
+et une vaste distribution.
+											C'était des petits trucs.
+											On créait un programme
+pour suivre l'évolution
+											des résultats de son équipe de basket,
+											pour organiser ses recherches,
+											pour enseigner la musique classique
+											ou pour calculer des dates
+astronomiques bizarres.
+											Il y a aussi des projets
+artistiques évidemment.
+											Voici mon préféré.
+											Le titre est : « Des moines à Mac ».
+											C'est un environnement
+d'exploration non linéaire.
+											Je remercie les cieux
+continuellement pour HyperCard.
+											Je remercie aussi les cieux de m'avoir
+fait naître à l'époque de HyperCard.
+											HyperCard est le dernier programme
+pré-installé sur des ordinateurs normaux
+											conçu pour que les utilisateurs
+puissent programmer.
+											Si on avait dit aux personnes
+qui ont inventé l'ordinateur,
+											qu'un jour magique arriverait à l'avenir
+											où tout le monde posséderait un ordinateur
+mais personne ne saurait programmer,
+											ils nous auraient pris pour des fous.
+									","
+											HyperCard, Mac ile gelen
+bir programdı ve
+											bilgisayar kullanıcılarının
+kendi bilgisayarlarında
+											program geliştirmelerini sağlamak
+için tasarlanmıştı.
+											Bugün için çılgınca bir fikir.
+											Bu programlar günümüzde aklımıza gelen
+büyük bütçeleri olan
+											ve yaygın olan uygulamalardan değil.
+											Onlar küçük şeyler,
+											insanlar, mahalle basketbol
+takımlarının skorunu takip etmek
+											veya araştırmalarını düzenlemek
+											veya klasik müzik öğretmek
+											veya ilginç astronomi tarihlerini
+hesaplamak için uygulamalar yapıyorlardı.
+											Sonra, bazı sanat projeleri de vardı.
+											Bu benim favorim.
+											İsmi, ""Keşişlerin Mac'leri Olsaydı""
+											doğrusal olmayan bir keşif ortamıydı.
+											Yıldızlara HyperCard için
+her zaman teşekkür ederim.
+											Yıldızlara, beni HyperCard
+kullanabileceğim dönemde
+											dünyaya getirdikleri için teşekkür ederim.
+											HyperCard, kullanıcıların program
+geliştirmelerine yarayan ve
+											bilgisayarla beraber yüklü olarak gelen
+son programdı.
+											Eğer bilgisayarın mucitleriyle
+konuşsaydınız
+											ve onlara ""İleride bir gün,
+herkesin bilgisayarının olacağı
+											sihirli bir gün gelecek, ancak hiçbiri
+programlama bilmeyecek deseydiniz
+											çıldırdığınızı düşünürlerdi.
+									",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+","
+","
+",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+											So let's skip forward a few years.
+											I'm starting my career as an artist,
+											and I'm building things
+with my computer, small-scale things,
+											investigating things like
+the growth systems of plants.
+											Or, in this example, I'm building
+a simulated economy
+											in which pixels are trading color
+with one another,
+											trying to investigate how
+these types of systems work,
+											and just kind of having fun.
+											And then this project led me
+to start working with data.
+											So I'm building graphics like this,
+											which compare ""communism"" —
+											the frequency of usage of the word
+""communism"" in the New York Times —
+											to ""terrorism,"" at the top.
+											You see ""terrorism"" kind of appears
+as ""communism"" is going away.
+											And with these graphics, I was really
+interested in the aesthetic of the graphs.
+											This is Iran and Iraq.
+											It reads like a clock. It's called
+a ""timepiece graph.""
+											This is another timepiece graph,
+overlaying ""despair"" over ""hope.""
+											And there's only three times — actually,
+it's ""crisis"" over ""hope"" —
+											there's only three times
+when ""crisis"" eclipses ""hope.""
+											We're in the middle
+of one of them right now.
+											But don't think about that too much.
+									","
+											Quelques années passent.
+											Je démarre ma carrière d'artiste
+											et je conçois des choses
+de petite envergure avec mon ordinateur,
+											explorant des sujets comme
+le système de croissance des plantes,
+											ou comme ici, une simulation d'économie
+											où les pixels échangent
+des couleurs entre eux.
+											Je cherche à comprendre comment
+ce genre de systèmes fonctionne,
+											pour le fun.
+											C'est ce projet qui m'a mis
+le pied à l'étrier des données.
+											Je développe des graphiques
+comme celui-ci.
+											Il compare le « communisme »,
+											la fréquence d'apparition du mot
+« communisme » dans le New York Times,
+											avec celle de « terrorisme », en haut.
+											On observe l'apparition de « terrorisme »
+avec la disparition de « communisme».
+											C'est l'esthétique de ces graphiques
+qui m'intéresse vraiment.
+											Voici l'Iran et l'Irak.
+											On le lit comme une montre, c'est pour ça
+que ça s'appelle : « graphique horloger ».
+											Voici un autre graphique horloger
+superposant « désespoir » et « espoir ».
+											À trois occasions uniquement,
+en fait, c'est « crise » et « espoir »,
+											à trois occasions uniquement,
+la crise éclipse l'espoir.
+											Nous sommes au cœur d'un de ces moments.
+											Ne perdez pas trop de temps à y réfléchir.
+									","
+											Birkaç yıl ileri saralım.
+											Kariyerime bir sanatçı olarak başlıyorum
+											ve bilgisayarımla bişeyler geliştiriyorum,
+küçük çaplı şeyler,
+											bitkilerin büyüme sistemleri 
+gibi şeyleri araştırıyorum.
+											Ya da bu örnekteki gibi 
+piksellerin birbirleriyle arasındaki
+											renk geçişini simüle eden 
+bir ekonomi geliştiriyorum,
+											bu tür sistemlerin 
+nasıl çalıştığını bulmayı deniyor
+											ve sadece eğleniyordum.
+											Daha sonra bu proje beni 
+veri ile çalışmaya yönlendirdi.
+											Böylece bunun gibi grafiklerle
+											""komünizm"" —
+											New York Times’ta 
+""komünizm"" kelimesinin kullanım sıklığıyla
+											""terörizm"" kelimesini kıyaslayordum.
+											Görüldüğü gibi ""terörizm"" ortaya çıkınca
+""komünizm"" adeta kayboluyor.
+											Bu grafikler sayesinde onların
+estetiğine ilgi duymaya başladım.
+											Bu İran ve Irak.
+											Bir saat gibi okunuyor.
+""Kronometre Grafiği"" deniyor.
+											Bu başka bir kronometre grafiği,
+""umut"" üzerinde ""umutsuzluğun"" dağılımı.
+											Sadece üç kere —
+""umut"" üzerinde ""kriz"" var —
+											sadece üç kere 
+“kriz” ile “umut” kesişiyor.
+											Şu anda bunlardan birinin
+tam ortasındayız.
+											Ama bu konuyu çok düşünmeyin.
+									",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+","
+","
+",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+											(Laughter)
+									","
+											(Rires)
+									","
+											(Gülüşmeler)
+									",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+","
+","
+",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+											And finally, the culmination of this work
+with the New York Times data
+											a few years ago
+											was the attempt to combine
+an entire year's news cycle
+											into a single graphic.
+											So these graphics actually show us
+a full year of news, all the people,
+											and how they're connected
+into a single graphic.
+									","
+											Le point culminant de ce travail
+sur les données du New York Times
+											a été atteint il y a quelques années,
+											dans la tentative de
+combiner en un graphique
+											un cycle annuel entier d'informations.
+											Ces graphiques illustrent une année
+d'informations, toutes les personnes,
+											et comment elles sont reliées ensemble
+dans un seul graphique.
+									","
+											Son olarak birkaç yıl önce 
+New York Times verileri üzerine
+											çalışmamın zirve noktası
+											bütün bir yılın haber döngüsünü
+tek bir grafik içerisinde
+											gösterme girişimimdi.
+											Bu grafikler bize bir yıl boyunca 
+çıkan haberleri, tüm insanları
+											ve nasıl bağlantılı olduklarını tek
+grafikte gösteriyor.
+									",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+","
+","
+",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+											And from there, I started to be
+interested again in more active systems.
+											Here's a project called ""Just Landed,""
+											where I'm looking at people
+tweeting on Twitter.
+											""Hey! I just landed
+in Hawaii!"" — you know,
+											how people just casually try to sneak
+that into their Twitter conversation.
+											""I'm not showing off. Really.
+But I did just land in Hawaii.""
+											And then I'm plotting
+those people's trips,
+											in the hopes that maybe
+we can use social network
+											and the data that it leaves behind
+											to provide a model of how people move,
+											which would be valuable
+to epidemiologists, among other people.
+											And, more fun — this
+is a similar project,
+											looking at people
+saying ""Good morning"" to each other
+											all around the world.
+											Which taught me, by the way,
+											that it is true that people in Vancouver
+on the West Coast wake up much later
+											and say ""Good morning"" much later
+											than the people on the East Coast,
+											who are more adventurous.
+											Here's a more useful — maybe — project,
+											where I took all the information
+from the Kepler Project
+											and tried to put it into some visual form
+that made sense to me.
+									","
+											De là, je me suis progressivement
+intéressé à des systèmes plus actifs.
+											Voici un autre projet :
+« Viens d'atterrir ».
+											Nous observons les gens
+qui tweete sur Twitter.
+											« He ! Je viens d'atterrir à Hawaii ».
+											Les gens essaient de placer ce genre
+d'info dans leurs conversations.
+											« Je frime à peine. C'est vrai.
+Mais je viens d'atterrir à Hawaii. »
+											De là, je cartographie
+les voyages de ces gens,
+											avec l'espoir de pouvoir
+utiliser les médias sociaux
+											et les traces de données
+qu'ils abandonnent
+											pour modéliser la mobilité des gens.
+											Ça pourrait être utile pour
+des épidémiologistes par exemple.
+											Un projet similaire, plus cool,
+											observe les gens qui se disent
+« Bonjour » partout dans le monde.
+											Ce qui m'a éclairé sur le fait
+											que les gens de la côte ouest
+de Vancouver, se lèvent bien plus tard
+											et disent « Bonjour » bien plus tard
+											que leurs concitoyens de la côte est,
+qui sont plus audacieux.
+											Voici un projet plus utile,
+enfin, je l'espère.
+											J'ai pris toutes les données
+du projet Kepler,
+											pour les compiler sous une forme
+visuelle compréhensible par moi.
+									","
+											Bundan sonra yeniden daha aktif
+sistemlerle ilgilenmeye başladım.
+											Burada ""Yeni İndim"" isimli bir projeyle
+											Twitter'da tweet atan kişilere bakıyorum
+											""Hey! Hawaii'ye yeni indim!” —
+											insanlar bu tarz şeyleri Twitter 
+konuşmaları içerisine sokmaya çalışırlar.
+											""Ben gösteriş yapmıyorum. Gerçekten.
+Ama Hawaii'ye yeni indim.""
+											Daha sonra bu kişilerin gezilerini
+işaretliyorum,
+											sosyal ağlar ve oradaki veriyi
+
+											nasıl yer değiştirdiklerine dair
+											bir model oluşturmak için
+kullanabileceğimizi umarak,
+											ki bu da değerli bir bilgi.
+Özellikle epidemiologlar için.
+											Daha eğlenceli —
+buna benzer bir proje de
+											tüm dünyada insanların
+karşılıklı ""günaydın""
+											demesine bakmaktı.
+											Bu arada gördüm ki,
+											batı kıyısında, Vancover'da yaşayan
+insanlar, doğu yakasındaki yaşayan
+											daha maceracı insanlara göre
+											daha geç uyanıyor ve 
+
+											daha geç ""günaydın"" diyorlar.
+											Başka daha yaralı bir projeden,
+											Kepler Projesi'nden tüm bilgileri aldım
+											ve bana mantıklı gelen bazı görsel
+formlara dökmeyi denedim.
+									",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+","
+","
+",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+											And I should say that everything
+I've shown you up to now —
+											these are all things
+that I just did for fun.
+											It may seem weird,
+but this comes back from HyperCard.
+											I'm building tools for myself.
+											I may share them with a few other people,
+											but they're for fun, they're for me.
+											So, all these tools I show you
+kind of occupy this weird space
+											somewhere between science, art and design.
+											That's where my practice lies.
+											And still today,
+from my experience with HyperCard,
+											what I'm doing is building visual tools
+to help me understand systems.
+									","
+											Je précise bien que tout ce que
+je viens de vous montrer,
+											je l'ai réalisé pour le plaisir.
+											Ça peut sembler étrange,
+mais on revient à HyperCard.
+											Je me construis des outils.
+											Je les partage aussi autour de moi,
+											mais je les ai créés
+pour le fun, pour moi.
+											Ces outils que je viens de vous présenter
+occupent une position inhabituelle
+											à cheval entre la science,
+l'art et le design.
+											Là réside mon savoir-faire.
+											Aujourd'hui encore, sur la base
+de mon expérience avec HyperCard,
+											je construis des outils visuels
+pour m'aider à comprendre les systèmes.
+									","
+											Şunu söylemeliyim ki,
+şimdi size göstereceğim her şeyi
+											bütün hepsini eğlence olsun diye yaptım.
+											Tuhaf gelebilir, ama bu bizi
+Hypercard'a geri götürüyor.
+											Kendim için araçlar yapıyorum.
+											Onları bir kaç kişiyle paylaşabilirim
+											ancak onlar eğlence için, benim için.
+											Böylece size gösterdiğim bu araçlar
+bilim, sanat ve tasarım arasında
+											garip bir yerde kaplıyorlar.
+											İşte orada benim çalışmam yatıyor.
+											Bugün hala, HyperCard ile olan
+tecrübelerimden
+											sistemleri anlamamda bana yardımcı olacak
+görsel araçları yapıyorum.
+									",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+","
+","
+",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+											So today, I work at the New York Times.
+											I'm the data artist in residence
+at the New York Times.
+											And I've had an opportunity at the Times
+											to work on a variety
+of really interesting projects,
+											two of which I'm going
+to share with you today.
+											The first one, I've been working on
+in conjunction with Mark Hansen.
+											Mark Hansen is a professor of statistics
+at UCLA. He's also a media artist.
+											And Mark came to the Times
+with a very interesting question
+											to what may seem like an obvious problem:
+											When people share content on the internet,
+											how does that content get
+from person A to person B?
+											Or maybe, person A to person B
+to person C to person D?
+											We know that people share content
+in the internet,
+											but what we don't know
+is what happens in that gap
+											between one person to the other.
+											So we decided to build
+the tool to explore that,
+											and this tool is called Cascade.
+									","
+											Je travaille au New York Times.
+											Je suis leur artiste
+de données en résidence.
+											Depuis que j'y suis,
+j'ai eu l'occasion de travailler
+											sur plusieurs projets intéressants
+et je vais vous en présenter deux.
+											Je travaille sur le premier
+avec Mark Hansen.
+											Mark est professeur de statistiques à
+l'Université de Californie à Los Angeles.
+											C'est aussi un artiste en média.
+											Mark a contacté le Times
+avec une question très intéressante
+											même si ça peut sembler
+être un problème évident :
+											quand une personne partage
+un contenu sur Internet,
+											comment ce contenu parvient-il
+de la personne A à la personne B ?
+											Ou encore, de la personne A, à B,
+à la personne C et à la personne D ?
+											C'est un fait que les gens
+partagent du contenu.
+											Mais on ne sait pas ce qui
+se passe dans l'intervalle
+											entre deux personnes.
+											Nous avons décidé de développer
+un outil qui explore ça.
+											Cet outil s'appelle : « Cascade ».
+									","
+											Şimdi, New York Times'ta 
+çalışıyorum.
+											New York Times'ta çalışan
+bir veri sanatçısıyım.
+											Times'ta çeşitli ilginç projelerde
+											çalışmak için bir fırsatım oldu ki
+											bunlardan ikisini sizinle bugün
+paylaşacağım.
+											Birincisi Mark Hansen'la 
+birlikte olan bir çalışma.
+											Mark Hansen, UCLA'da bir istatistik 
+profesörü. Ayrıca bir medya sanatçısı.
+											Mark, Times'a çok barizmiş gibi görünen
+											çok ilginç bir soru ile geldi:
+											İnsanlar internette içerik paylaştığında
+											bu paylaşım A kişisinden B kişisine
+nasıl ulaşıyor?
+											Ya da belkide A kişisinden B kişisine,
+C kişisine, D kişisine?
+											Biliyoruz ki insanlar internette
+paylaşım yapıyor,
+											fakat bir kişi ile diğeri
+arasındaki boşlukta
+											ne olduğunu bilmiyoruz.
+											Böylece bunu keşfedecek
+aracı yapmaya karar verdik
+											ve bu araca ""Kademe"" dedik.
+									",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+","
+","
+",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+											If we look at these systems
+											that start with one event
+that leads to other events,
+											we call that structure a cascade.
+											And these cascades
+actually happen over time.
+											So we can model these things over time.
+											Now, the New York Times has
+a lot of people who share our content,
+											so the cascades do not look like that one,
+they look more like this.
+											Here's a typical cascade.
+											At the bottom left, the very first event.
+											And then as people are sharing
+the content from one person to another,
+											we go up in the Y axis,
+degrees of separation,
+											and over on the X axis, for time.
+											So we're able to look at that conversation
+in a couple of different views:
+											this one, which shows us
+the threads of conversation,
+											and this one, which combines
+that stacked view
+											with a view that lets us see the threads.
+									","
+											Il s'agit de systèmes
+											initiés par un événement
+qui conduisent à d'autres événements.
+											Voici ce qu'on appelle
+une structure en cascade.
+											De telles cascades
+se développent dans le temps.
+											On peut donc les modéliser dans le temps.
+											Le lectorat du New York Times partage
+fréquemment nos publications.
+											Les cascades ressemblent plutôt à ceci.
+											Voici une cascade typique.
+											En bas, à gauche le premier événement.
+											Ensuite, au fur et à mesure
+que les gens partagent le contenu,
+											on monte sur l'ordonnée,
+le degré de diffusion
+											et sur l'abscisse, on a le temps.
+											On peut donc observer une conversation
+selon plusieurs angles :
+											Celui-ci nous montre
+les fils de la conversation,
+											et celui-ci combine la vue consolidée
+											avec une vue qui nous permet
+de voir les fils de conversation.
+									","
+											Eğer bu sistemlere bakarsanız
+											bir buluşma diğer bir buluşmayı tetikler,
+											biz bu yapıya ""kademe"" diyoruz.
+											Bütün kademeler aslında zamanla oluşuyor.
+											Yani bunları zamanla modelleyebiliriz.
+											Şimdi, New York Times’ta 
+içeriğimizi paylaşan birçok insan var,
+											bu yüzden basamaklar buna değil,
+daha çok buna benziyor.
+											İşte tipik bir kademe.
+											Sol alttaki ilk an.
+											Sonrasında insanlar içeriği 
+bir kişiden diğerine paylaşıyor
+											Y ekseninde ilerledikçe,
+ayrılma dereceleri
+											ve X ekseni zamanı temsil ediyor.
+											Böylece bir kaç farklı açıdan 
+konuşmaya bakabiliyoruz:
+											Buradaki bize konuşmanın ipuçlarını 
+gösteriyor
+											ve buradaki küme görünümü
+konuları görmemizi sağlayan
+											bir görünümle birleştiriyor.
+									",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+","
+","
+",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+											Now, the Times publishes
+about 7,000 pieces of content
+											every month.
+											So it was important for us,
+when we were building this tool,
+											to make it an exploratory one,
+											so that people could dig through
+this vast terrain of data.
+											I think of it as a vehicle
+that we're giving people
+											to traverse this really big
+terrain of data.
+											So here's what it really looks like,
+											and here's the cascade
+playing in real time.
+											I have to say, this was
+a tremendous moment.
+											We had been working with canned
+data, fake data, for so long,
+											that when we saw this
+for the first moment,
+											it was like an archaeologist who had
+just dusted off these dinosaur bones.
+											We discovered this thing,
+and we were seeing it for the first time,
+											these sharing structures
+that underlie the internet.
+											And maybe the dinosaur
+analogy is a good one,
+											because we're actually making
+some probabilistic guesses
+											about how these things link.
+											We're looking at some of these
+pieces and making some guesses,
+											but we try to make sure that those
+are as statistically rigorous as possible.
+									","
+											Le Times publie [6 500]
+articles environ par mois.
+											Au moment de la conception de l'outil,
+il nous est paru essentiel
+											de le rendre exploratoire,
+											pour que ses utilisateurs puissent
+extraire des informations de ces données.
+											J'envisage cet outil comme un véhicule
+qui permet aux utilisateurs
+											de traverser un immense
+terrain de données.
+											Voilà ce que ça donne.
+											La cascade en temps réel.
+											Découvrir le résultat
+fut un moment jouissif.
+											Nous avions travaillé si longtemps
+avec des données de test,
+											qu'au moment de découvrir ça
+la toute première fois,
+											nous étions comme un archéologue qui
+vient de découvrir des os de dinosaures.
+											Nous découvrions et visionnions
+pour la toute première fois
+											les structures de partage
+latentes de l'Internet.
+											L'analogie du dinosaure
+n'est pas si mauvaise,
+											car nous émettons
+des hypothèses probabilistes
+											sur la manière dont ces objets sont liés.
+											On observe certains éléments
+et on fait des hypothèses
+											tout en veillant à ce que ce soit le plus
+rigoureux possible statistiquement.
+									","
+											Günümüzde, Times'ta her ay 
+yaklaşık 7000 içerik
+											yayınlanıyor.
+											Bu yüzden, biz bu aracı geliştirirken, 
+onu keşfedici bir araç haline getirmek
+											bizim için önemliydi
+											böylece insanlar bu geniş veri alanını
+inceleyebilir.
+											İnsanlara bu çok büyük veri arazisini
+aşmaları için
+											sağladığımız bir araç olarak düşünüyorum.
+											İşte gerçekte nasıl göründüğü
+											ve işte gerçek zamanlı ilerleyen kademe.
+											Söylemeliyim ki, bu muazzam bir andı.
+											Uzun süredir sahte verilerle 
+çalışıyorduk
+											bunu ilk gördüğümüz an
+											sanki bir arkeologun dinazor kemiklerinin
+tozunu alması gibi bir şeydi.
+											Biz bu durumu keşfettik ve ilk defa
+											internetin temelindeki paylaşım yapısını 
+gördük.
+											Belki de dinozor analojisi gayet yerinde
+											çünkü biz sahiden bunların nasıl 
+bağlantılı olduğuna dair bazı
+											olasılık tahminleri yapıyoruz.
+											Bazı parçalara bakıyoruz 
+ve tahminler yapıyoruz
+											ancak mümkün olduğunca istatistiki olarak
+doğruluğundan emin olmaya çalışıyoruz.
+									",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+","
+","
+",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+											Now tweets, in this case,
+they become parts of stories.
+											They become parts of narratives.
+											So we are building histories here,
+											but they're very short-term histories.
+											And sometimes these very large cascades
+are the most interesting ones,
+											but sometimes the small ones
+are also interesting.
+											This is one of my favorites.
+We call this the ""Rabbi Cascade.""
+											It's a conversation amongst rabbis
+about this article in the New York Times,
+											about the fact that religious workers
+don't get a lot of time off.
+											I guess Saturdays and Sundays are bad days
+for them to take off.
+											So, in this cascade, there's a group
+of rabbis having a conversation
+											about a New York Times story.
+											One of them has the best
+Twitter name ever —
+											he's called ""The Velveteen Rabbi.""
+									","
+											Les tweets deviennent
+des bouts d'histoires.
+											Ils deviennent des bouts de narrations.
+											Nous sommes donc en train
+de construire des histoires,
+											mais avec une mémoire à très court terme.
+											Parfois, les grandes cascades
+s'avèrent être les plus intéressantes
+											mais parfois, les petites le sont aussi.
+											Celle-ci est ma préférée : nous l'avons
+surnommée : « la Cascade du Rabbin ».
+											Il s'agit d'une conversation entre
+rabbins sur un article précis du Times
+											au sujet du peu de congés que
+peuvent se permettre les prédicateurs.
+											J'imagine que c'est tabou de prendre
+congé le samedi et le dimanche.
+											Donc, la cascade est celle
+d'un groupe de rabbins
+											qui débattent de l'article
+du New York Times.
+											Un de ces rabbins a le meilleur
+nom Twitter au monde :
+											« Le Rabbin Veloutine ».
+									","
+											Bu duruma göre Tweet'ler 
+hikayelerin bir parçası haline geldi.
+											Anlatılanların parçası oldular.
+											Yani burada tarihi yeniden yazıyoruz
+											ama bunlar kısa süreli tarihler.
+											Bazen bunlardan çok daha büyük olan
+kademeler en ilginçleri oluyor,
+											ama bazen de küçük olanları
+çok ilginç olabiliyor.
+											Bu benim favorilerimden biri.
+Biz ona ""Haham Kademe"" diyoruz.
+											New York Times'ta bu makalede 
+Haham'lar arasında geçen ve
+											din görevlilerinin çok fazla izin 
+alamamasıyla ilgili bir konuşmaydı.
+											Sanırım Cumartesi ve Pazar günleri 
+çalışmamaları için yanlış günler.
+											Yani bu kademede bir grup Haham'ın
+New York Times hikayesi hakkında
+											yaptığı bir konuşma var.
+											Biri şu ana kadarki
+Twitter adlarının en iyisi
+											""The Velveteen Rabbi"".
+									",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+","
+","
+",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+											(Laughter)
+									","
+											(Rires)
+									","
+											(Kahkahalar)
+									",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+","
+","
+",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+											But we would have never found this
+if it weren't for this exploratory tool.
+											This would just be sitting somewhere,
+											and we would have never
+been able to see that.
+											But this exercise of taking
+single pieces of information
+											and building narrative structures,
+building histories out of them,
+											I find tremendously interesting.
+									","
+											Sans cet outil exploratoire,
+nous n'aurions jamais découvert ça.
+											Ça aurait existé quelque part,
+et nous n'aurions pas pu le distinguer.
+											Cet exercice qui consiste à extraire
+des morceaux d'informations
+											pour les construire en structures
+narratives, en récits,
+											est vraiment passionnant pour moi.
+									","
+											Yani bunu bu keşfedici araç olmasa
+bulamayacaktık.
+											Öylece bir yerlerde duruyor olacak
+											ve biz bunu asla göremeyecektik.
+											Ancak bu tek parça bilgiyi 
+bulma çalışmasını
+											ve anlatım yapılarının oluşturulmasını,
+onlara ait tarihlerin ortaya çıkarılmasını
+											inanılmaz derece ilginç buluyorum.
+									",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+","
+","
+",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+											You know, I moved to New York
+about two years ago.
+											And in New York, everybody has a story
+											that surrounds this
+tremendously impactful event
+											that happened on September 11 of 2001.
+											And my own story with September 11
+has really become a more intricate one,
+											because I spent a great deal of time
+											working on a piece
+of the 9/11 Memorial in Manhattan.
+											The central idea about the 9/11 Memorial
+											is that the names in the memorial
+are not laid out in alphabetical order
+											or chronological order,
+											but instead, they're laid out in a way
+											in which the relationships
+between the people who were killed
+											are embodied in the memorial.
+											Brothers are placed next to brothers,
+											coworkers are placed together.
+											So this memorial actually considers
+all of these myriad connections
+											that were part of these people's lives.
+									","
+											J'ai déménagé à New York
+il y a deux ans environ.
+											À New York, tout le monde a un récit
+											autour de cet événement à l'impact majeur
+											qui est survenu le 11 septembre 2001.
+											Ma propre histoire avec
+le 11 septembre s'est complexifiée
+											car j'ai passé beaucoup de temps
+											à travailler sur une partie du
+mémorial du 11 septembre de Manhattan.
+											Le principe même du mémorial
+											est fondé sur le fait que les noms ne
+sont pas inscrits par ordre alphabétique
+											ou par ordre chronologique,
+											mais ils sont inscrits
+											en fonction des relations qui existaient
+entre les personnes avant leur mort.
+											Les frères sont côte à côte,
+											les collègues sont réunis.
+											Ce mémorial prend donc en considération
+les myriades de liens tissés
+											qui faisaient de la vie
+de ces personnes ce qu'elle était.
+									","
+											Yaklaşık iki yıl önce New York'a taşındım.
+											New York'ta herkesin
+											son derece etkili olayla çerçevelenen
+											bir 11 Eylül 2001 hikayesi var.
+											Ve benim 11 Eylül hikayem de gerçekten
+karışık bir hale geldi
+											çünkü çok zamanımı alacak olan
+											Manhattan'daki 9/11 Anıtının 
+bir parçası üzerinde çalışıyordum.
+											9/11 Anıtı hakkındaki temel fikirde
+											anıttaki isimler
+alfabetik sıraya göre dizilmemiş
+											ya da kronolojik sıralanmamış
+											ama onun yerine
+											ölen insanların arasındaki 
+ilişkilerin durumuna göre
+											anıtta toplu olarak belirtilmişti.
+											Kardeşler kardeşlerin yanında,
+											çalışanlar da birlikte yerleştirilmişti.
+											Öyle ki bu anıt aslında bu insanların 
+hayatlarının bir parçası olan
+											sayısız bağlantıyı kapsıyor.
+									",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+","
+","
+",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+											I worked with a company
+called Local Projects
+											to work on an algorithm
+and a software tool
+											to help the architects build
+the layout for the memorial:
+											almost 3,000 names
+											and almost 1,500 of these
+adjacency requests,
+											these requests for connection —
+											so a very dense story,
+a very dense narrative,
+											that becomes an embodied part
+of this memorial.
+											Working with Jake Barton,
+we produce the software tool,
+											which allows the architects to,
+first of all, generate a layout
+											that satisfied all of those
+adjacency requests,
+											but then second, make little adjustments
+where they needed to
+											to tell the stories
+that they wanted to tell.
+											So this memorial, I think,
+has an incredibly timely concept
+											in our era of social networks,
+											because these networks — these real-life
+networks that make up people's lives —
+											are actually embodied
+inside of the memorial.
+											And one of the most tremendously
+moving experiences
+											is to go to the memorial
+											and see how these people
+are placed next to each other,
+											so that this memorial
+is representing their own lives.
+									","
+											J'ai collaboré avec une entreprise
+appelée « Local Projects »
+											pour développer un outil
+numérique, un algorithme,
+											qui aiderait les architectes
+à concevoir le plan du mémorial.
+											Il y a presque 3 000 noms
+											et presque 1 500 liens adjacents,
+											ces liens tissés entre les personnes.
+											C'est donc un récit très dense,
+une narration très dense,
+											qui s'est incarnée dans ce mémorial.
+											Nous avons créé un outil
+informatique avec Jake Barton
+											qui permet avant tout
+aux architectes de créer un plan
+											qui satisfasse toutes les contraintes
+relatives aux liens adjacents
+											et qui fasse des petits ajustements
+là où cela s'avère nécessaire
+											pour relater les histoires
+qu'ils souhaitaient relater.
+											Ce mémorial est, selon moi,
+un concept qui tombe à point nommé
+											dans notre époque de réseaux sociaux,
+											car ces réseaux, ces réseaux de la vraie
+vie, qui ont modelé la vie de ces gens,
+											sont physiquement incarnés
+dans le mémorial.
+											Quand on visite le mémorial,
+											une des sensations les plus émouvantes
+que l'on éprouve
+											survient quand on regarde comment ces gens
+sont placés les uns à côté des autres,
+											et que cette disposition
+représente leur vie.
+									","
+											Ben ""Local Projects"" isimli bir şirketle
+											bir algoritma hazırlamak için 
+ve anıtın düzeninde
+											mimarlara yardımcı olacak 
+bir yazılım aracı için çalıştım:
+											Neredeyse 3.000 isim
+											ve yaklaşık 1.500'ü bitişik olma talebi,
+											bağlantılı olan bu talepler...
+											yani çok yoğun bir hikaye,
+çok yoğun bir anlatı,
+											bu anıtın somutlaştırılarak 
+bir parçası haline geliyor.
+											Jake Barton ile çalışarak 
+biz yazılım aracı geliştiriyoruz
+											ki bu mimarlar için
+ilk olarak bütün bitişiklik isteklerini
+											karşılayan bir düzen oluşturabilsinler,
+											ama ikincisi de anlatmak istenilen
+hikayeleri anlatmak için
+											ihtiyaç duyulan küçük ayarlamaları 
+yapabilsinler.
+											Bu yüzden bu anıt sanıyorum ki,
+önemli derecede zamanın bir anlayışa sahip
+											Sosyal ağ çağında
+											çünkü bu ağlar - insanların hayatlarını 
+oluşturan bu gerçek yaşam ağları -
+											aslında anıtta yer alıyor.
+											Bu muazzam dokunaklı 
+deneyimlerden biri
+											anıta gitmek
+											ve insanların nasıl yan yana
+yerleştirildiğini görmek,
+											yani bu anıt onların kendi yaşamlarını
+temsil ediyor.
+									",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+","
+","
+",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+											How does this affect our lives?
+											Well, I don't know if you remember,
+											but in the spring,
+there was a controversy,
+											because it was discovered
+that on the iPhone
+											and, actually, on your computer,
+											we were storing a tremendous amount
+of the location data.
+											So Apple responded, saying,
+this was not location data about you,
+											it was location data
+about wireless networks
+											that were in the area where you are.
+											So it's not about you,
+											but it's about where you are.
+									","
+											En quoi cela nous affecte-t-il ?
+											Peut-être vous souvenez vous
+											de cette controverse
+survenue le printemps dernier
+											quand on a découvert que nos iPhones
+et nos ordinateurs
+											enregistraient un volume incroyable
+de données de géolocalisation.
+											Apple a réagi en disant que ce n'était
+pas des données de localisation sur vous,
+											mais qu'il s'agissait de données
+de localisation sur les réseaux sans fil
+											dans les zones où nous nous trouvions.
+											Ce n'est pas nous.
+											C'est le lieu où nous nous trouvons.
+									","
+											Bu hayatlarımızı nasıl etkiler?
+											Hatırlar mısınız bilmiyorum
+											fakat bir ilkbaharda
+bir tartışma olmuştu
+											çünkü o zaman iPhone'da
+											ve aslında bilgisayarlarınızda
+											muazzam konum verisi depolandığını
+keşfedilmişti.
+											Bu sebeple Apple şunu dedi:
+""Bu konum verileri sizin hakkınızda değil
+											bulunduğunuz bölgedeki kablosuz ağlar
+											hakkındaki konum verileriydi.""
+											Yani bu sizinle ilgili değil
+											ama nerede olduğunuzla ilgili.
+									",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+","
+","
+",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+											(Laughter)
+									","
+											(Rires)
+									","
+											(Kahkahalar)
+									",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+","
+","
+",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+											This is very valuable data.
+											It's like gold to researchers,
+this human-mobility data.
+											So we thought, ""Man!
+How many people have iPhones?""
+											How many of you have iPhones?
+											So in this room, we have this tremendous
+database of location data
+											that researchers
+would really, really like.
+									","
+											Mais il s'agit là de données inestimables.
+											Les données sur la mobilité humaine,
+ça vaut de l'or pour les chercheurs.
+											Du coup, on s’est mis à estimer le nombre
+de personnes qui ont un iPhone.
+											Qui a un iPhone parmi vous ?
+											Dans cet auditoire, nous avons donc
+des données de géolocalisation
+											très, très attractives
+pour les chercheurs.
+									","
+											Bu çok değerli bir veri.
+											Bu mobil insanların verisi 
+araştırmalar için bir altın gibidir.
+											Yani ""Hey! Ne kadar insanın iPhone'u var?""
+diye düşündüğünüzde...
+											Kaçınızda iPhone var?
+											Bu odada, konum verilerinin 
+muazzam veri tabanına sahibiz
+											ki araştırmacılar gerçekten, 
+gerçekten çok severdi.
+									",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+","
+","
+",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+											So we built this system called Open Paths,
+											which lets people upload their iPhone data
+											and broker relationships
+with researchers to share that data,
+											to donate that data to people
+that can actually put it to use.
+											Open Paths was a great
+success as a prototype.
+											We received thousands of data sets,
+											and we built this interface
+											which allows people to actually
+see their lives unfolding
+											from these traces
+that are left behind on your devices.
+											Now, what we didn't expect
+was how moving this experience would be.
+											When I uploaded my data,
+I thought, ""Big deal.
+											I know where I live. I know where I work.
+What am I going to see here?""
+											Well, it turns out, what I saw
+was that moment I got off the plane
+											to start my new life in New York;
+											the restaurant where I had Thai food
+that first night,
+											thinking about this new experience
+of being in New York;
+											the day that I met my girlfriend.
+											This is LaGuardia airport.
+									","
+											Nous avons donc développé « Open Paths »,
+											un système avec lequel on peut
+télécharger les données mobiles
+											et négocier avec les chercheurs
+le partage de ses données,
+											et en faire don à ceux qui
+les utiliseront vraiment.
+											Le prototype d’Open Paths
+a rencontré le succès.
+											Nous avons reçu des tonnes de données
+											et développé une interface
+											qui permet aux utilisateurs d’observer
+leur vie en train de se dérouler
+											grâce aux traces laissées
+par leurs appareils numériques.
+											Toutefois, nous avons été surpris
+par le caractère émotionnel
+											qui accompagne cette observation.
+											Quand je l'ai fait, j'ai pensé :
+« Pas de souci.
+											Je sais où j’habite et où je travaille,
+que pourrais-je découvrir ? »
+											En fait, j’ai vu le moment
+où je sortais de l’avion
+											pour commencer ma nouvelle vie à New York
+											et le restaurant thaï où j’ai dîné
+ce premier soir
+											réfléchissant à cette nouvelle
+page qui s’ouvrait à New York.
+											J’ai revu le jour où
+j’ai rencontré ma copine.
+											C’est l’aéroport de LaGuardia.
+									","
+											Bu yüzden ""Açık Yollar"" adını verdiğimiz
+											insanların iPhone verilerini
+yükleyebilecekleri
+											ve araştırmacılarla bunları paylaşacakları
+ilişkileri kurarak, bu verileri
+											kullanacak kişilere bağışlamalarını
+sağlayacak bir sistem kurduk.
+											""Açık Yollar"" prototip olarak
+büyük bir başarıydı.
+											Binlerce veri kümesi topladık
+											ve insanların cihazlarının
+											arkasında bıraktığı bu izlerden 
+onların bilinen yaşamlarını
+											gördüğümüz bir arayüz geliştirdik.
+											Ummadığımız şey bu deneyimin bizi
+ne kadar etkileyeceğiydi.
+											Verilerimi yüklerken ""İşte büyük anlaşma.
+											Nerede yaşadığım, çalıştığım belliydi.
+Burada ne göreceğim?"" düşündüm.
+											O an gördüklerim New York'ta yeni 
+hayatıma başlamak için
+											uçaktan indiğim,
+											ilk akşam Tayland yemeği yediğim restoran,
+											New York'ta olmanın
+yeni deneyimlerini düşünürken;
+											kız arkadaşımla buluştuğum gün.
+											Bu LaGuardia havaalanı.
+									",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+","
+","
+",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+											(Laughter)
+									","
+											(Rires)
+									","
+											(Kahkahalar)
+									",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+","
+","
+",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+											This is this Thai restaurant
+on Amsterdam Avenue.
+											This is the moment I met my girlfriend.
+									","
+											Voici le restaurant thaï
+sur Amsterdam Avenue.
+											Et l’instant où j’ai rencontré mon amie.
+									","
+											Amsterdam Bulvarı'ndaki Tayland restoranı.
+											Kız arkadaşımla tanıştığım an.
+									",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+","
+","
+",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+											See how that changes the first time
+I told you about those stories
+											and the second time I told
+you about those stories?
+											Because what we do
+in the tool, inadvertently,
+											is we put these pieces of data
+into a human context.
+											And by placing data into a human context,
+											it gains meaning.
+											And I think this is tremendously,
+tremendously important,
+											because these are our histories
+that are being stored on these devices.
+											And by thinking about them that way,
+											putting them in a human context —
+											first of all, what we do with our own data
+is get a better understanding
+											of the type of information
+that we're sharing.
+											But if we can do this with other data,
+if we can put data into a human context,
+											I think we can change a lot of things,
+											because it builds, automatically, empathy
+for the people involved in these systems.
+											And that, in turn, results
+in a fundamental respect,
+											which, I believe, is missing
+in a large part of technology,
+											when we start to deal
+with issues like privacy,
+											by understanding that these numbers
+are not just numbers,
+											but instead they're attached, tethered to,
+pieces of the real world.
+											They carry weight.
+											By understanding that,
+the dialog becomes a lot different.
+											How many of you have ever clicked a button
+											that enables a third party to access
+your location data on your phone?
+											Lots of you.
+											So the third party is the developer,
+											the second party is Apple.
+											The only party that never gets access
+to this information is the first party!
+											And I think that's because we think
+about these pieces of data
+											in this stranded, abstract way.
+											We don't put them into a context
+											which, I think, makes them
+a lot more important.
+									","
+											Remarquez-vous la différence
+entre mon premier récit
+											et le deuxième ?
+											En fait, avec cet outil, nous remettons
+les données dans un contexte humain
+											tout à fait par hasard.
+											En remettant les données
+dans leur contexte humain,
+											nous leur donnons sens.
+											C’est ça qui est essentiel pour moi,
+											car il s’agit de l’enregistrement de notre
+histoire personnelle sur nos appareils.
+											Penser à nos données sous cet angle
+											de leur contextualisation,
+											nous permet tout d’abord
+de mieux appréhender
+											le genre d’informations
+que nous partageons.
+											Si nous pouvons reproduire avec d'autres
+données cette contextualisation,
+											nous pourrons transformer
+beaucoup de choses
+											car cela suscite
+naturellement de l'empathie
+											de la part des personnes
+associées à ces projets.
+											Et cette empathie même conduit
+à une marque fondamentale de respect
+											qui est le grand absent
+dans les technologies, selon moi,
+											quand on parle de gestion
+de la vie privée, par exemple,
+											issue de la compréhension que
+ces chiffres ne sont pas que des chiffres,
+											mais qu'ils sont ancrés
+dans des parties du monde réel.
+											Ils ont un poids.
+											Cette compréhension permet
+d'entretenir un dialogue très différent.
+											Combien parmi vous
+ont cliqué sur un bouton
+											qui permet à une partie tierce à accéder
+à vos données de géolocalisation ?
+											Vous êtes nombreux.
+											La partie tierce est le développeur,
+											le deuxième interlocuteur est Apple.
+											Le seul qui n'a jamais accès à ces
+informations est le premier intéressé.
+											C'est dû au fait, je crois, que nous
+considérons nos données
+											de manière aliénée, abstraite.
+											On ne les remet pas dans leur contexte,
+											alors que c'est ce qui leur
+confère leur valeur.
+									","
+											Size ilk anlattığım hikayeler 
+ve ikinci anlattıklarım arasında
+											bu değişimlerin nasıl olduğunu 
+gördünüz mü?
+											Çünkü istemeden de olsa araçla yaptığımız
+											bir veriyi insani bir hale dökmek.
+											Veriyi bir insan çerçevesine
+yerleştirdiğinizde
+											bir anlam kazanıyor.
+											Sanırım bu konu muazzam önemli
+											çünkü bu cihazlarda depolananlar 
+bizim geçmişimiz.
+											Onları bu şekilde düşünerek,
+											yani insan bağlamında düşünerek —
+											her şeyden önce 
+kendi verilerimizle yaptığımız şey
+											paylaştığımız bilgi türünü 
+daha iyi anlamaktır.
+											Fakat bunu diğer verilerle yapabilir,
+verileri insani bir ortama koyabilirsek,
+											sanırım biz birçok şeyi değiştirebiliriz
+											çünkü bu sistemlere dahil olan insanlarla 
+otomatik olarak empati kurar.
+											Bu sonunda temel saygıya dönüşür ki
+											teknolojinin büyük bir bölümünde 
+eksik olduğuna inanıyorum,
+											mahremiyet gibi konularla 
+uzlaşmaya başladığımızda
+											bu rakamların da
+sadece rakamlar olmadığını anlarız.
+											Ama gerçek dünyanın parçalarına 
+bağlı, birleşiktirler.
+											Onlar yükü taşırlar.
+											Bunu anladığımızda 
+bu diyolog çok farklı hale gelir.
+											Kaçınız üçüncü bir kişinin telefonunuzdaki
+											konum verisine erişim sağlaması için 
+izin verdi?
+											Bir çoğunuz.
+											Yani üçüncü taraf geliştirici,
+											ikinci taraf Apple.
+											Bu bilgilere ulaşımı asla olmayanlarsa
+birinci tarafta.
+											Bence nedeni biz bu verileri
+											kısıtlı, soyut olduğunu düşünüyoruz.
+											Biz onları önemli bir konuma koymayız
+											sanırım bu da onları çok daha önemli 
+kılıyor.
+									",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+","
+","
+",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+											So what I'm asking you
+to do is really simple:
+											start to think about data
+in a human context.
+											It doesn't really take anything.
+											When you read stock prices,
+think about them in a human context.
+											When you think about mortgage reports,
+think about them in a human context.
+											There's no doubt that big data
+is big business.
+											There's an industry being developed here.
+											Think about how well we've done
+											in previous industries
+that we've developed involving resources.
+											Not very well at all.
+											I think part of that problem is, we've had
+a lack of participation in these dialogues
+											from multiple pieces of human society.
+									","
+											Je vous demanderai donc une chose simple :
+											considérez les données
+dans leur contexte humain.
+											Ce n'est pas très compliqué.
+											Quand vous analysez les marchés,
+envisagez-les dans leur contexte.
+											Quand vous analysez
+des prêts hypothécaires,
+											remettez-les dans leur contexte.
+											C'est un fait acquis, le big data
+est un gros business.
+											Une industrie est en train
+de se développer.
+											Pensez un moment à nos résultats
+											dans d'autres industries liées aux
+ressources que nous avons développées.
+											Ils ne sont pas mirobolants.
+											Je pense que le problème émerge
+											notamment à cause du manque
+de participation dans ces dialogues
+											de la part des multiples parties
+constitutives de la société humaine.
+									","
+											Yani sizden yapmanızı istediğim şey
+çok basit:
+											veriyi bir insan bağlamında 
+düşünmeye başlayın.
+											Hiçbir kaybınız olmayacak.
+											Hisse senedi fiyatlarını okurken
+onları insan bağlamında düşünün.
+											İpotek raporlarını değerlendirirken
+onları insan bağlamında düşünün
+											Şüphesiz ki büyük veri büyük iş demektir.
+											Burada gelişmekte olan bir sektör var.
+											Kaynaklar dahilinde geliştirilen 
+
+											önceki sektörleri ne kadar iyi hale 
+getirdiğimizi düşünün.
+											Hiç iyi değil.
+											Sanırım bu problemin bir kısmı da
+bir çok insan topluluğunda
+											bu diyaloglara katılım eksikliği olması.
+									",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+","
+","
+",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+											So the other thing that I'm asking for
+											is an inclusion in this dialogue
+from artists, from poets, from writers —
+											from people who can bring a human element
+into this discussion.
+											Because I believe that this world of data
+											is going to be transformative for us.
+											And unlike our attempts
+with the resource industry
+											and our attempts
+with the financial industry,
+											by bringing the human
+element into this story,
+											I think we can take it
+to tremendous places.
+									","
+											J'aimerais être le témoin
+d'une deuxième chose :
+											l'inclusion au sein de ce dialogue
+d'artistes, de poètes, d'auteurs,
+											de personnes capables d'apporter
+l'humain dans la discussion.
+											En effet, je crois que
+ce monde des données
+											va nous transformer.
+											Et contrairement à nos tentatives
+avec l'industrie des ressources,
+											ou avec l'industrie financière,
+											en amenant le facteur
+humain au sein du récit,
+											nous pourrons le faire progresser
+comme jamais auparavant.
+									","
+											Bu yüzden istediğim diğer şey
+											bu tartışmaya insan öğesini
+katabilecek insanları,
+											yazarları, şairleri, artistleri 
+bu diyaloga dahil edebilmek.
+											Çünkü inanıyorum ki, bu veri dünyası
+											bizler için bir dönüştürücü olacak.
+											Kaynak endüstrisiyle yaptığımız 
+girişimlerden farklı olarak
+											finans sektörü girişimlerinde
+											bu hikayeye insan öğesini katarsak
+											sanırım onu muazzam yerlere taşıyabiliriz.
+									",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+","
+","
+",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+											Thank you.
+									","
+											Merci.
+									","
+											Teşekkürler.
+									",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+","
+","
+",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+											(Applause)
+									","
+											(Applaudissements)
+									","
+											(Alkış)
+									",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"
+"
+","
+","
+",Make data more human,Jer Thorp,17:22,"TEDx,data,design,media,news"

@@ -1,0 +1,1053 @@
+en,tr,pt,title,speaker,duration,tags
+"
+","
+","
+",What if 3D printing was 100x faster?,Joseph DeSimone,10:45,"demo,design,technology,manufacturing,3D printing"
+"
+											I'm thrilled to be here tonight
+											to share with you something
+we've been working on
+											for over two years,
+											and it's in the area
+of additive manufacturing,
+											also known as 3D printing.
+									","
+											İki yıldır üzerinde çalışmakta
+											olduğumuz bir şeyi sizinle paylaşmak için
+											burada olduğumdan dolayı çok heyecanlıyım
+											ve bu 3B baskı olarak da bilinen
+											katmanlı üretim konusuyla ilgili.
+									","
+											É emocionante estar aqui esta noite
+											para partilhar algo
+em que estivemos a trabalhar
+											durante mais de dois anos.
+											É na área da manufatura aditiva,
+											também conhecida como impressão 3D.
+									",What if 3D printing was 100x faster?,Joseph DeSimone,10:45,"demo,design,technology,manufacturing,3D printing"
+"
+","
+","
+",What if 3D printing was 100x faster?,Joseph DeSimone,10:45,"demo,design,technology,manufacturing,3D printing"
+"
+											You see this object here.
+											It looks fairly simple,
+but it's quite complex at the same time.
+											It's a set of concentric
+geodesic structures
+											with linkages between each one.
+											In its context, it is not manufacturable
+by traditional manufacturing techniques.
+											It has a symmetry such
+that you can't injection mold it.
+											You can't even manufacture it
+through milling.
+											This is a job for a 3D printer,
+											but most 3D printers would take between
+three and 10 hours to fabricate it,
+											and we're going to take the risk tonight
+to try to fabricate it onstage
+											during this 10-minute talk.
+											Wish us luck.
+									","
+											Burada bu objeyi görüyorsunuz.
+											Oldukça basit görünüyor, 
+ama aynı zamanda oldukça kompleks.
+											Birbiri arasında bağlantıları olan 
+
+											eşmerkezli jeodezik bir yapı seti.
+											Bu kapsamda, geleneksel üretim 
+teknikleriyle üretilemez.
+											Simetrisinden dolayı enjeksiyon 
+kalıplama yapamazsınız.
+											Frezeleme ile bile imal edemezsiniz.
+											Bu 3B yazıcının yapabileceği bir iş,
+											ama çoğu 3B yazıcının bunu imal etmesi
+üç ila on saat arasında sürer.
+											Bu akşam bu 10 dakikalık 
+konuşma sırasında sahnede
+											bunu imal etme riskini alacağız.
+											Bize şans dileyin.
+									","
+											Vejam este objeto aqui.
+											Parece bastante simples,
+mas ao mesmo tempo é muito complexo.
+											É um conjunto de estruturas
+geodésicas concêntricas
+											com ligações entre cada uma delas.
+											Neste contexto, não é fabricável
+com técnicas tradicionais de manufatura.
+											A sua simetria torna impossível
+moldá-la por injeção.
+											Não é sequer possível fabricá-la
+através de moagem.
+											Este é um trabalho para uma impressora 3D,
+											mas a maioria das impressoras 3D levaria
+três a dez horas para fabricá-la,
+											e vamos correr o risco esta noite
+de tentar fabricá-la no palco
+											ao longo desta palestra de 10 minutos.
+											Desejem-nos sorte.
+									",What if 3D printing was 100x faster?,Joseph DeSimone,10:45,"demo,design,technology,manufacturing,3D printing"
+"
+","
+","
+",What if 3D printing was 100x faster?,Joseph DeSimone,10:45,"demo,design,technology,manufacturing,3D printing"
+"
+											Now, 3D printing is actually a misnomer.
+											It's actually 2D printing
+over and over again,
+											and it in fact uses the technologies
+associated with 2D printing.
+											Think about inkjet printing where you
+lay down ink on a page to make letters,
+											and then do that over and over again
+to build up a three-dimensional object.
+											In microelectronics, they use something
+											called lithography to do
+the same sort of thing,
+											to make the transistors
+and integrated circuits
+											and build up a structure several times.
+											These are all 2D printing technologies.
+									","
+											3B baskı aslında yanlış bir tanımlama.
+											Aslında bu tekrar tekrar 2B basım yapmak
+											ve doğrusu 2B baskıyla ilgili 
+teknolojileri kullanıyor.
+											Mürekkep püskürtmeli yazıcıyla basımı düşünün. 
+Harfleri elde etmek için sayfaya 
+
+											mürekkep bırakırsınız ve üç boyutlu bir obje 
+oluşturmak için bunu üst üste yaparsınız.
+											Mikro elektronikte buna 
+benzer şeyler yapmak için,
+											transistör ve entegre 
+devreler yapmak için,
+											pek çok defa bir yapıyı elde etmek için
+											litografi denen şey kullanılır.
+											Bunların hepsi 2B baskı teknolojileri.
+									","
+											Impressão 3D é um nome errado.
+											É, na verdade, impressão 2D
+repetidas vezes,
+											e, de facto, usa as tecnologias
+associadas com a impressão 2D.
+											Pensem na impressão com jato de tinta,
+											que coloca tinta na página
+para escrever letras
+											e façam isso repetidas vezes
+até construir um objeto tridimensional.
+											Na microeletrónica, usam uma coisa,
+											de seu nome litografia
+para fazer a mesma coisa,
+											para criar transístores
+e circuitos integrados
+											e construir uma estrutura várias vezes.
+											Todas essas técnicas são de impressão 2D.
+									",What if 3D printing was 100x faster?,Joseph DeSimone,10:45,"demo,design,technology,manufacturing,3D printing"
+"
+","
+","
+",What if 3D printing was 100x faster?,Joseph DeSimone,10:45,"demo,design,technology,manufacturing,3D printing"
+"
+											Now, I'm a chemist,
+a material scientist too,
+											and my co-inventors
+are also material scientists,
+											one a chemist, one a physicist,
+											and we began to be
+interested in 3D printing.
+											And very often, as you know,
+new ideas are often simple connections
+											between people with different experiences
+in different communities,
+											and that's our story.
+									","
+											Ben bir kimyagerim 
+ve bir malzeme bilimciyim,
+											yanımdaki mucitler de malzeme bilimci,
+											biri kimyager, diğeri fizikçi
+											ve 3B baskıyla ilgilenmeye başladık.
+											Bildiğiniz gibi çoğunlukla yeni 
+fikirler farklı alanlardan,
+											farklı deneyimlere sahip insanlar 
+arasındaki basit bağlantılardır
+											ve bu bizim hikâyemiz.
+									","
+											Sou químico,
+e também engenheiro de materiais
+											e os meus colegas
+são também engenheiros de materiais,
+											um químico, um físico.
+											Começámos a interessar-nos
+pela impressão 3D.
+											Muito frequentemente, como sabem,
+novas ideias são simplesmente ligações
+											entre pessoas com experiências distintas
+em comunidades diferentes,
+											e é essa a nossa história.
+									",What if 3D printing was 100x faster?,Joseph DeSimone,10:45,"demo,design,technology,manufacturing,3D printing"
+"
+","
+","
+",What if 3D printing was 100x faster?,Joseph DeSimone,10:45,"demo,design,technology,manufacturing,3D printing"
+"
+											Now, we were inspired
+											by the ""Terminator 2"" scene for T-1000,
+											and we thought, why couldn't a 3D printer
+operate in this fashion,
+											where you have an object
+arise out of a puddle
+											in essentially real time
+											with essentially no waste
+											to make a great object?
+											Okay, just like the movies.
+											And could we be inspired by Hollywood
+											and come up with ways
+to actually try to get this to work?
+											And that was our challenge.
+											And our approach would be,
+if we could do this,
+											then we could fundamentally address
+the three issues holding back 3D printing
+											from being a manufacturing process.
+									","
+											Biz Terminatör 2'deki T-1000
+											sahnesinden esinlendik
+											ve neden bir 3B yazıcı bu şekilde 
+çalışmasın diye düşündük.
+											Harika bir obje yapmak üzere
+											gerçek zamanlı olarak,
+											hiçbir atık olmadan
+											sıvı içinden çıkan bir objeniz var.
+											Evet, aynı filmdekiler gibi.
+											Hollywood'dan esinlenip gerçekte
+											bunun olması için yollar bulabilir miydik?
+											İşte bu bizim uğraştığımız şeydi.
+											Bizim yaklaşımımız, 
+bunu yapabildiğimiz zaman,
+											aslında 3B baskının üretim 
+süreci olmasını önleyen
+											üç soruna çözüm getirebilmiş olmaktı.
+									","
+											Fomos inspirados
+											pela cena do T-1000 no filme
+""Exterminador Implacável 2"",
+											e pensámos:
+											Porque não poderá uma impressora 3D
+operar desta maneira
+											quando existe um objeto 
+a erguer-se fora de uma poça
+											em tempo real,
+											praticamente sem desperdícios,
+											para fazer um grande objeto?
+											Tal como nos filmes.
+											Poderíamos ser inspirados por Hollywood
+											e encontrar maneiras de realmente
+fazer com que isto funcione?
+											Foi esse o nosso desafio.
+											A nossa abordagem seria:
+											Se conseguíssemos fazê-lo,
+											podíamos resolver os três problemas
+que impedem a impressão 3D
+											de ser um processo de manufatura.
+									",What if 3D printing was 100x faster?,Joseph DeSimone,10:45,"demo,design,technology,manufacturing,3D printing"
+"
+","
+","
+",What if 3D printing was 100x faster?,Joseph DeSimone,10:45,"demo,design,technology,manufacturing,3D printing"
+"
+											One, 3D printing takes forever.
+											There are mushrooms that grow faster
+than 3D printed parts. (Laughter)
+											The layer by layer process
+											leads to defects
+in mechanical properties,
+											and if we could grow continuously,
+we could eliminate those defects.
+											And in fact, if we could grow really fast,
+we could also start using materials
+											that are self-curing,
+and we could have amazing properties.
+											So if we could pull this off,
+imitate Hollywood,
+											we could in fact address 3D manufacturing.
+									","
+											Birincisi, 3B baskı çok uzun sürüyor.
+											3B ile basılan parçalardan daha hızlı 
+büyüyen mantarlar var. (Gülüşmeler)
+											Katmanlı süreç
+											mekanik özelliklerde 
+hatalara sebep oluyor.
+											Eğer kesintisiz büyümesini sağlarsak, 
+o hataları önleyebilirdik.
+											Aslında gerçekten çok hızlı büyümesini 
+sağlarsak, kendiliğinden kürlemeyi sağlayan
+											malzemeleri kullanmaya da başlayabilirdik
+ve harika özelliklere sahip olurduk.
+											Eğer bunu başarabilirsek, 
+Hollywood'u taklit edebilirsek,
+											doğrusu 3B üretime çözüm bulabilirdik.
+									","
+											Primeiro, a impressão 3D leva séculos.
+											Há cogumelos que crescem mais depressa
+do que as impressões 3D.
+											(Risos)
+											O processo camada por camada
+											leva a defeitos
+nas propriedades mecânicas.
+											Se conseguíssemos maior velocidade,
+podíamos eliminar esses defeitos.
+											Se conseguíssemos uma grande velocidade,
+											podíamos começar a utilizar
+materiais autopolimerizáveis
+											e podíamos ter propriedades fantásticas.
+											Portanto, se isto resultasse,
+imitando Hollywood,
+											podíamos, de facto,
+conseguir a manufatura 3D.
+									",What if 3D printing was 100x faster?,Joseph DeSimone,10:45,"demo,design,technology,manufacturing,3D printing"
+"
+","
+","
+",What if 3D printing was 100x faster?,Joseph DeSimone,10:45,"demo,design,technology,manufacturing,3D printing"
+"
+											Our approach is to use
+some standard knowledge
+											in polymer chemistry
+											to harness light and oxygen
+to grow parts continuously.
+											Light and oxygen work in different ways.
+											Light can take a resin
+and convert it to a solid,
+											can convert a liquid to a solid.
+											Oxygen inhibits that process.
+											So light and oxygen
+are polar opposites from one another
+											from a chemical point of view,
+											and if we can control spatially
+the light and oxygen,
+											we could control this process.
+											And we refer to this as CLIP.
+[Continuous Liquid Interface Production.]
+											It has three functional components.
+											One, it has a reservoir
+that holds the puddle,
+											just like the T-1000.
+											At the bottom of the reservoir
+is a special window.
+											I'll come back to that.
+											In addition, it has a stage
+that will lower into the puddle
+											and pull the object out of the liquid.
+											The third component
+is a digital light projection system
+											underneath the reservoir,
+											illuminating with light
+in the ultraviolet region.
+									","
+											Yaklaşımımız, parçaları 
+kesintisiz büyütmek için
+											ışığı ve oksijeni kullanmak üzere 
+
+											polimer kimyasındaki bazı 
+standart bilgileri kullanmak.
+											Işık ve oksijen farklı şekillerde işler.
+											Işık reçineyi alıp bir 
+katıya dönüştürebilir,
+											bir sıvıyı katıya dönüştürebilir.
+											Oksijen bu süreci engeller.
+											Yani kimyasal bakış açısıyla, 
+ışık ve oksijen
+											birbirinin tam tersidirler.
+											Eğer ışık ve oksijeni uzaysal 
+olarak kontrol edebilirsek,
+											bu süreci kontrol edebiliriz.
+											Buna CLIP [Sürekli Sıvı Arayüz Üretimi]
+adını veriyoruz.
+											Üç işlevsel bileşeni var.
+											Birincisi, sıvıyı tutan bir 
+rezervuarı olması,
+											tıpkı T-1000 gibi.
+											Rezervuarın altında özel 
+bir penceresi bulunuyor.
+											Buna sonra değineceğim.
+											Buna ek olarak, sıvının içine doğru inen
+											ve objeyi sıvıdan çıkaran bir tablası var.
+											Üçüncü bileşeni ise rezervuarın 
+altında bulunan
+											dijital ışık yansıtma sistemi,
+											morötesi bölgede ışıkla aydınlanıyor.
+									","
+											A nossa abordagem é a utilização
+de conhecimentos básicos
+											na química dos polímeros
+											para aproveitar a luz e o oxigénio
+para um fabrico continuado.
+											A luz e o oxigénio
+funcionam de formas diferentes.
+											A luz pode pegar numa resina
+e transformá-la num objeto sólido,
+											pode transformar um líquido num sólido.
+											O oxigénio inibe esse processo.
+											Por isso, a luz e o oxigénio
+são o oposto um do outro
+											do ponto de vista químico.
+											Se conseguíssemos controlar
+a luz e o oxigénio no espaço,
+											podíamos controlar este processo.
+											Referimo-nos a isto como PCIL.
+[Interface de Produção Contínua Líquida]
+											Possui três componentes funcionais.
+											Primeiro, tem um reservatório
+que contém a poça,
+											tal como o T-1000.
+											No fundo do reservatório
+há uma janela especial.
+											Volto a isso mais tarde.
+											Além disso, tem uma plataforma
+que se baixa em direção à poça,
+											e puxa o objeto para fora do líquido.
+											O terceiro componente
+é um sistema de projeção de luz digital
+											por baixo do reservatório,
+											iluminando a região com luz ultravioleta.
+									",What if 3D printing was 100x faster?,Joseph DeSimone,10:45,"demo,design,technology,manufacturing,3D printing"
+"
+","
+","
+",What if 3D printing was 100x faster?,Joseph DeSimone,10:45,"demo,design,technology,manufacturing,3D printing"
+"
+											Now, the key is that this window
+in the bottom of this reservoir,
+											it's a composite,
+it's a very special window.
+											It's not only transparent to light
+but it's permeable to oxygen.
+											It's got characteristics
+like a contact lens.
+											So we can see how the process works.
+											You can start to see that
+as you lower a stage in there,
+											in a traditional process,
+with an oxygen-impermeable window,
+											you make a two-dimensional pattern
+											and you end up gluing that onto the window
+with a traditional window,
+											and so in order to introduce
+the next layer, you have to separate it,
+											introduce new resin, reposition it,
+											and do this process over and over again.
+											But with our very special window,
+											what we're able to do is,
+with oxygen coming through the bottom
+											as light hits it,
+											that oxygen inhibits the reaction,
+											and we form a dead zone.
+											This dead zone is on the order
+of tens of microns thick,
+											so that's two or three diameters
+of a red blood cell,
+											right at the window interface
+that remains a liquid,
+											and we pull this object up,
+											and as we talked about in a Science paper,
+											as we change the oxygen content,
+we can change the dead zone thickness.
+											And so we have a number of key variables
+that we control: oxygen content,
+											the light, the light intensity,
+the dose to cure,
+											the viscosity, the geometry,
+											and we use very sophisticated software
+to control this process.
+									","
+											Kilit nokta, rezervuarın 
+altındaki bu pencerenin
+											kompozit olması, 
+çok özel bir pencere olması.
+											Sadece ışığa geçirgen değil, 
+aynı zamanda oksijene de geçirgen.
+											Kontak lens gibi özellikleri var.
+											Sürecin nasıl işlediğini görebiliyoruz.
+											Görülmeye başlandığı gibi, 
+orada tablayı alçalttığınızda,
+											geleneksel süreçte, 
+oksijeni geçirmeyen bir pencereyle
+											iki boyutlu desen yaparsınız
+											ve geleneksel pencere olunca pencereye 
+yapıştırmak durumunda kalırsınız.
+											Bir sonraki katmanı başlatmak için, 
+ayırmak zorundasınız,
+											yeni reçine koyup, yeniden yerleştirip,
+											tekrar tekrar bu süreci 
+yapmak zorundasınız.
+											Ama çok özel penceremizle
+											yaptığımız şey, ışık vurup
+											alttan oksijen geldiğinde,
+											o oksijenin reaksiyon oluşturması
+											ve ölü bir kuşak oluşturmamız.
+											Bu ölü bölge yaklaşık onlarca 
+mikron kalınlığında,
+											bu iki veya üç çap 
+kalınlığında alyuvar kadar,
+											tam pencere arayüzünde sıvı olarak kalıyor
+											ve bu objeyi yukarı çekiyoruz.
+											Bir bilim dergisinde bahsettiğimiz gibi,
+											oksijen içeriğini değiştirince, ölü kuşak 
+kalınlığını değiştirebiliyoruz.
+											Yani kontrol edebildiğimiz 
+birkaç kilit değişkenimiz var:
+											Oksijen içeriği, ışık, ışık yoğunluğu, 
+kürlemek için dozaj,
+											akışkanlık, geometri
+											ve bu süreci kontrol etmek için çok 
+sofistike bir yazılım kullanıyoruz.
+									","
+											A chave é precisamente que a janela
+no fundo deste reservatório,
+											é um compósito,
+uma janela muito especial.
+											Não só é transparente para a luz
+como é permeável para o oxigénio.
+											Tem as características
+das lentes de contacto.
+											Vejamos como funciona o processo.
+											Podem começar a ver que,
+enquanto a plataforma baixa,
+											num processo tradicional,
+com uma janela impermeável ao oxigénio,
+											gera-se um padrão bidimensional.
+											Isso acaba por aderir à janela
+com uma janela tradicional,
+											e assim, para introduzir
+a camada seguinte,
+											temos de separá-la,
+											introduzir nova resina, reposicioná-la,
+											e repetir este processo vezes sem conta.
+											Mas com a nossa janela especial,
+											com o oxigénio a partir da zona baixa,
+											enquanto a luz o atinge,
+											conseguimos que o oxigénio iniba a reação,
+											e formamos uma zona vazia.
+											Esta zona vazia tem dezenas
+de mícrones de espessura,
+											— o que equivale a dois ou três diâmetros
+de um glóbulo vermelho —
+											e na plataforma da janela
+permanece o líquido.
+											Puxamos este objeto para cima.
+											Como referimos num artigo científico,
+											ao mudar o conteúdo do oxigénio,
+mudamos a espessura da zona vazia.
+											Assim, temos um número de variáveis
+que controlamos:
+											o conteúdo de oxigénio,
+											a luz, a intensidade da luz, as doses,
+											a viscosidade, a geometria,
+											e utilizamos um software sofisticado
+para controlar este processo.
+									",What if 3D printing was 100x faster?,Joseph DeSimone,10:45,"demo,design,technology,manufacturing,3D printing"
+"
+","
+","
+",What if 3D printing was 100x faster?,Joseph DeSimone,10:45,"demo,design,technology,manufacturing,3D printing"
+"
+											The result is pretty staggering.
+											It's 25 to 100 times faster
+than traditional 3D printers,
+											which is game-changing.
+											In addition, as our ability
+to deliver liquid to that interface,
+											we can go 1,000 times faster I believe,
+											and that in fact opens up the opportunity
+for generating a lot of heat,
+											and as a chemical engineer,
+I get very excited at heat transfer
+											and the idea that we might one day
+have water-cooled 3D printers,
+											because they're going so fast.
+											In addition, because we're growing things,
+we eliminate the layers,
+											and the parts are monolithic.
+											You don't see the surface structure.
+											You have molecularly smooth surfaces.
+											And the mechanical properties
+of most parts made in a 3D printer
+											are notorious for having properties
+that depend on the orientation
+											with which how you printed it,
+because of the layer-like structure.
+											But when you grow objects like this,
+											the properties are invariant
+with the print direction.
+											These look like injection-molded parts,
+											which is very different
+than traditional 3D manufacturing.
+											In addition, we're able to throw
+											the entire polymer
+chemistry textbook at this,
+											and we're able to design chemistries
+that can give rise to the properties
+											you really want in a 3D-printed object.
+									","
+											Sonuç oldukça şaşırtıcı.
+											Geleneksel 3B yazıcıdan 
+25 ila 100 kat daha hızlı,
+											ki bu da oyunu değiştiriyor.
+											Ayrıca o arayüze sıvı aktarma 
+kabiliyetimiz yüzünden,
+											inanıyorum ki, 1.000 kat hızlı yapabiliriz
+											ve aslında bu durum çok fazla ısının
+yaratılmasına imkân sağlıyor.
+											Bir kimya mühendisi olarak, 
+ısı transferi ve bir gün
+											suyla soğutulan 3B yazıcıların olması 
+fikri ile ilgili olarak heyecanlanıyorum,
+											çünkü çok hızlılar.
+											Buna ek olarak, nesneleri büyüttüğümüz 
+için katmanları elimine ediyoruz
+											ve parçalar yekpare.
+											Yüzey yapısını görmüyorsunuz.
+											Moleküler olarak pürüzsüz 
+yüzeyleriniz var.
+											3B yazıcıda yapılan çoğu 
+parçanın mekanik özelliklerinin,
+											bastığınız yöne bağlı olan özelliklere 
+sahip olmasıyla bilinmesinin
+											sebebi ise katmanımsı yapısı.
+											Ancak objeleri bu şekilde büyütürseniz,
+											özellikler basım yönüne 
+bağlı olarak değişmez.
+											Bunlar enjeksiyon kalıplama ile 
+yapılan parçalara benziyor,
+											geleneksel 3B üretimden çok farklılar.
+											Ayrıca, buna bütün polimer kimyası
+											ders kitabını dâhil edebildik
+											ve bir 3B basılan objede gerçekten 
+istediğiniz özellikleri ortaya çıkaracak
+											madde yapılarını tasarlayabildik.
+									","
+											O resultado é surpreendente.
+											É 25 a 100 vezes mais rápido
+do que as impressoras 3D tradicionais,
+											o que muda muita coisa.
+											Além disso, a nossa capacidade
+de levar o líquido a esta plataforma,
+											permitirá aumentar a velocidade
+umas 1000 vezes, segundo creio.
+											Isso dá-nos a oportunidade
+de gerar grandes quantidades de calor.
+											Enquanto engenheiro químico,
+a transferência de calor entusiasma-me
+											e também a ideia de que poderemos um dia
+ter impressoras 3D refrigeradas por água
+											porque funcionam muito depressa.
+											Além disso, como criamos objetos,
+eliminamos as camadas,
+											e as partes são monolíticas.
+											Não vemos a estrutura da superfície.
+											Temos superfícies molecularmente lisas.
+											E as propriedades mecânicas
+dos objetos feitos numa impressora 3D
+											são notáveis por terem propriedades
+que dependem da orientação
+											com a qual são impressos,
+devido à sua estrutura por camadas.
+											Mas quando criamos objetos desta forma,
+											as propriedades não variam
+consoante a direção da impressão.
+											Estas partes parecem ter sido injetadas,
+											o que é muito diferente
+das manufaturas 3D tradicionais.
+											Além disso, podemos utilizar
+											qualquer polímero referido
+no manual de química
+											e podemos conceber químicas
+com as propriedades
+											que realmente queremos num objeto 3D.
+									",What if 3D printing was 100x faster?,Joseph DeSimone,10:45,"demo,design,technology,manufacturing,3D printing"
+"
+","
+","
+",What if 3D printing was 100x faster?,Joseph DeSimone,10:45,"demo,design,technology,manufacturing,3D printing"
+"
+											(Applause)
+									","
+											(Alkış)
+									","
+											(Aplausos)
+									",What if 3D printing was 100x faster?,Joseph DeSimone,10:45,"demo,design,technology,manufacturing,3D printing"
+"
+","
+","
+",What if 3D printing was 100x faster?,Joseph DeSimone,10:45,"demo,design,technology,manufacturing,3D printing"
+"
+											There it is. That's great.
+											You always take the risk that something
+like this won't work onstage, right?
+									","
+											İşte burada. Bu harika.
+											Bunun gibi bir şeyin sahnede başarılı 
+olmaması riskini hep alırsınız, değil mi?
+									","
+											Aqui está. É ótimo.
+											Corremos sempre o risco de algo como isto
+não funcionar em palco, não é?
+									",What if 3D printing was 100x faster?,Joseph DeSimone,10:45,"demo,design,technology,manufacturing,3D printing"
+"
+","
+","
+",What if 3D printing was 100x faster?,Joseph DeSimone,10:45,"demo,design,technology,manufacturing,3D printing"
+"
+											But we can have materials
+with great mechanical properties.
+											For the first time, we can have elastomers
+											that are high elasticity
+or high dampening.
+											Think about vibration control
+or great sneakers, for example.
+											We can make materials
+that have incredible strength,
+											high strength-to-weight ratio,
+really strong materials,
+											really great elastomers,
+											so throw that in the audience there.
+											So great material properties.
+									","
+											Ancak harika mekanik özelliklere sahip 
+malzemelere sahip olabiliriz.
+											İlk defa yüksek esneklik veya 
+yüksek nemlendirmeye
+											sahip elastomerlere sahip olabildik.
+											Örneğin, titreşim kontrolü veya 
+iyi lastik ayakkabıları düşünün.
+											Olağanüstü mukavemete, 
+yüksek dayanım-ağırlık oranına,
+											gerçekten dayanıklı materyallere, 
+gerçekten harika elastomerlere
+											sahip malzemeler yapabiliriz.
+											Bunu burada seyirciye atalım.
+											Yani harika malzeme özellikleri.
+									","
+											Mas podemos ter materiais
+com ótimas propriedades mecânicas.
+											Pela primeira vez, podemos ter elastómeros
+											com grande elasticidade
+e grande amortecimento.
+											Pensem no controlo de vibrações
+ou em boas sapatilhas, por exemplo.
+											Podemos criar materiais
+com uma força incrível,
+											com materiais muito fortes,
+numa proporção força-peso,
+											excelentes elastómeros.
+											Vou atirar isto para o público.
+											Ótimas propriedades materiais.
+									",What if 3D printing was 100x faster?,Joseph DeSimone,10:45,"demo,design,technology,manufacturing,3D printing"
+"
+","
+","
+",What if 3D printing was 100x faster?,Joseph DeSimone,10:45,"demo,design,technology,manufacturing,3D printing"
+"
+											And so the opportunity now,
+if you actually make a part
+											that has the properties
+to be a final part,
+											and you do it in game-changing speeds,
+											you can actually transform manufacturing.
+											Right now, in manufacturing,
+what happens is,
+											the so-called digital thread
+in digital manufacturing.
+											We go from a CAD drawing, a design,
+to a prototype to manufacturing.
+											Often, the digital thread is broken
+right at prototype,
+											because you can't go
+all the way to manufacturing
+											because most parts don't have
+the properties to be a final part.
+											We now can connect the digital thread
+											all the way from design
+to prototyping to manufacturing,
+											and that opportunity
+really opens up all sorts of things,
+											from better fuel-efficient cars
+dealing with great lattice properties
+											with high strength-to-weight ratio,
+											new turbine blades,
+all sorts of wonderful things.
+									","
+											Şimdiki fırsat şu,
+											final parça olacak özellikleri olan 
+bir parça gerçekten yaparsan
+											ve bunu oyunu değiştiren 
+bir hızda yaparsan,
+											gerçekten de üretimi değiştirebilirsin.
+											Şu an üretimde olan şey,
+											dijital üretimdeki 
+dijital ip adı verilen şey.
+											BDT (CAD) çizimden, tasarımdan 
+prototipe, üretime gidiyoruz.
+											Dijital ip çoğunlukla prototip 
+aşamasında kopuyor,
+											çünkü üretime kadar gidemiyorsunuz,
+											çünkü parçaların çoğunluğunun final parça 
+olabilecek özellikleri bulunmuyor.
+											Artık dijital ipi başından 
+sonuna, tasarımdan
+											prototiplemeye ve üretime 
+kadar bağlayabiliriz.
+											Bu olanak her türlü 
+şeyin kapılarını açıyor,
+											harika kafes özellikleriyle, 
+yüksek dayanım-ağırlık oranıyla
+											daha fazla yakıt tasarrufuna 
+sahip arabalar,
+											yeni türbin kanatları, 
+her türlü harika şey.
+									","
+											A oportunidade agora,
+se realmente criarmos uma parte
+											que tem as propriedades necessárias
+para ser um produto final,
+											e o fizermos numa velocidade recorde,
+											é podermos realmente mudar a manufatura.
+											Neste momento, a manufatura
+											inclui a chamada cadeia digital.
+											Na manufatura digital,
+passamos de um esboço CAD,
+											para um desenho,
+para um protótipo de manufatura.
+											Muitas vezes, a cadeia digital
+rompe-se logo no protótipo,
+											não podemos avançar
+diretamente para a manufatura
+											porque muitas das partes não têm
+as propriedades de um produto final.
+											Podemos agora interligar a cadeia digital
+											desde o desenho até ao protótipo
+e até à manufatura.
+											Essa oportunidade abre a porta
+a todo o tipo de inovações,
+											como carros mais eficientes 
+com grandes propriedades estruturais
+											e com enorme proporção força-peso,
+											novas pás de turbinas,
+todo o tipo de coisas maravilhosas.
+									",What if 3D printing was 100x faster?,Joseph DeSimone,10:45,"demo,design,technology,manufacturing,3D printing"
+"
+","
+","
+",What if 3D printing was 100x faster?,Joseph DeSimone,10:45,"demo,design,technology,manufacturing,3D printing"
+"
+											Think about if you need a stent
+in an emergency situation,
+											instead of the doctor pulling off
+a stent out of the shelf
+											that was just standard sizes,
+											having a stent that's designed
+for you, for your own anatomy
+											with your own tributaries,
+											printed in an emergency situation
+in real time out of the properties
+											such that the stent could go away
+after 18 months: really-game changing.
+											Or digital dentistry, and making
+these kinds of structures
+											even while you're in the dentist chair.
+											And look at the structures
+that my students are making
+											at the University of North Carolina.
+											These are amazing microscale structures.
+									","
+											Acil bir durumda stente 
+ihtiyacınız olduğunu düşünün,
+											doktorun standart büyüklükteki bir stenti
+											raftan alması yerine,
+											sizin için, kendi anatominiz için,
+											kendi kanallarınızla tasarlanan,
+											18 ay sonra kaybolacak özelliklerle acil 
+durum anında gerçek zamanlı
+											olarak basılan bir stente sahip olmak: 
+Gerçekten oyunu değiştirici.
+											Ya da dijital dişçilik 
+ve hâlâ dişçi koltuğundayken
+											bu tür yapıları yapmak.
+											Kuzey Karolina Üniversitesi'nde 
+öğrencilerimin yaptığı
+											yapılara bakın.
+											Bunlar inanılmaz mikro ölçekteki yapılar.
+									","
+											Imaginem que precisam de um ""stent""
+numa situação de emergência.
+											Em vez de o médico ir buscar
+um ""stent"" à prateleira
+											com tamanhos normalizados,
+											ter um ""stent"" personalizado
+para a nossa anatomia,
+											com as nossas características,
+											impresso numa situação de emergência
+em tempo real,
+											com a vantagem de este ""stent""
+perder a validade em 18 meses.
+											Realmente muda tudo.
+											Ou na odontologia, criando
+esse tipo de estruturas
+											exatamente quando estamos sentados
+na cadeira do dentista.
+											Observem as estruturas
+que os meus alunos estão a fazer
+											na Universidade da Carolina do Norte.
+											São estruturas incríveis à micro escala.
+									",What if 3D printing was 100x faster?,Joseph DeSimone,10:45,"demo,design,technology,manufacturing,3D printing"
+"
+","
+","
+",What if 3D printing was 100x faster?,Joseph DeSimone,10:45,"demo,design,technology,manufacturing,3D printing"
+"
+											You know, the world is really good
+at nano-fabrication.
+											Moore's Law has driven things
+from 10 microns and below.
+											We're really good at that,
+											but it's actually very hard to make things
+from 10 microns to 1,000 microns,
+											the mesoscale.
+											And subtractive techniques
+from the silicon industry
+											can't do that very well.
+											They can't etch wafers that well.
+											But this process is so gentle,
+											we can grow these objects
+up from the bottom
+											using additive manufacturing
+											and make amazing things
+in tens of seconds,
+											opening up new sensor technologies,
+											new drug delivery techniques,
+											new lab-on-a-chip applications,
+really game-changing stuff.
+									","
+											Biliyorsunuz ki, dünya nano 
+fabrikasyonda gerçekten iyi.
+											Moore Yasası, nesneleri 10 mikronun 
+altına indirdi.
+											Bunda gerçekten iyiyiz,
+											ama 10 mikrondan 1.000 mikrona 
+kadar, orta ölçekte
+											şeyler yapmak oldukça güç.
+											Silikon endüstrisindeki 
+eksiltici teknikler
+											bunu çok iyi yapamıyor.
+											Devre levhalarını o kadar 
+iyi aşındıramıyorlar.
+											Ancak bu süreç çok hassas,
+											bu objeleri aşağıdan yukarıya 
+
+											katmanlı imalat ile büyütebiliyoruz
+											ve onlarca saniye içinde
+harika şeyler yapabiliyoruz,
+											yeni sensör teknolojileri 
+ortaya çıkarabiliyoruz,
+											yeni ilaç teslimi teknikleri,
+											yeni yonga üstünde laboratuvar (lab-on-a-chip) 
+uygulamaları, gerçekten oyunu değiştiren şeyler.
+									","
+											Sabem, o mundo é realmente bom
+em nano fabrico.
+											A Lei de Moore proporcionou objetos
+com 10 mícrones ou menos.
+											Somos realmente bons nisto,
+											mas, na verdade, é muito difícil
+criar objetos de 10 a 1000 mícrones,
+											à mesoescala.
+											As técnicas subtrativas
+da indústria do silicone
+											não fazem isto muito bem,
+											materiais semicondutores, por exemplo.
+											Mas este processo é tão suave
+											que podemos criar estes objetos
+desde a sua base
+											usando manufatura aditiva
+											e criar coisas incríveis, em segundos,
+											criando novas tecnologias sensoriais,
+											novas técnicas de administração
+de medicamentos,
+											novas aplicações ""lab-on-a-chip"",
+enormes mudanças.
+									",What if 3D printing was 100x faster?,Joseph DeSimone,10:45,"demo,design,technology,manufacturing,3D printing"
+"
+","
+","
+",What if 3D printing was 100x faster?,Joseph DeSimone,10:45,"demo,design,technology,manufacturing,3D printing"
+"
+											So the opportunity of making
+a part in real time
+											that has the properties to be a final part
+											really opens up 3D manufacturing,
+											and for us, this is very exciting,
+because this really is owning
+											the intersection between hardware,
+software and molecular science,
+											and I can't wait to see what designers
+and engineers around the world
+											are going to be able to do
+with this great tool.
+									","
+											Yani final bir parçanın 
+özelliklerine sahip
+											bir parçayı gerçek zamanlı 
+olarak yapma olanağı
+											3B imalatı gerçekten geliştiriyor.
+											Donanım, yazılım ve moleküler bilim 
+arasındaki kesişime
+											gerçekten sahip olmak açısından 
+bu bizim için çok heyecan verici.
+											Dünyanın dört bir yanındaki tasarımcıların
+ve mühendislerin bu harika araçla
+											neler yapabileceğini 
+görmek için sabırsızlanıyorum.
+									","
+											Assim, a oportunidade de criar
+um objeto em tempo real
+											que tem as propriedades
+de um produto final
+											possibilita realmente a manufatura 3D.
+											Para nós, isto é entusiasmante,
+porque isto é conseguir
+											a intersecção entre hardware,
+software e ciência molecular.
+											Mal posso esperar para ver o que
+""designers"" e engenheiros de todo o mundo
+											conseguirão fazer
+com esta incrível ferramenta.
+									",What if 3D printing was 100x faster?,Joseph DeSimone,10:45,"demo,design,technology,manufacturing,3D printing"
+"
+","
+","
+",What if 3D printing was 100x faster?,Joseph DeSimone,10:45,"demo,design,technology,manufacturing,3D printing"
+"
+											Thanks for listening.
+									","
+											Dinlediğiniz için teşekkürler.
+									","
+											Obrigado pela vossa atenção.
+									",What if 3D printing was 100x faster?,Joseph DeSimone,10:45,"demo,design,technology,manufacturing,3D printing"
+"
+","
+","
+",What if 3D printing was 100x faster?,Joseph DeSimone,10:45,"demo,design,technology,manufacturing,3D printing"
+"
+											(Applause)
+									","
+											(Alkış)
+									","
+											(Aplausos)
+									",What if 3D printing was 100x faster?,Joseph DeSimone,10:45,"demo,design,technology,manufacturing,3D printing"
+"
+","
+","
+",What if 3D printing was 100x faster?,Joseph DeSimone,10:45,"demo,design,technology,manufacturing,3D printing"

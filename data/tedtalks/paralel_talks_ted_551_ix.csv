@@ -1,0 +1,544 @@
+en,tr,fr,title,speaker,duration,tags
+"
+","
+","
+",How to manage your time more effectively (according to machines),Brian Christian,4:46,"creativity,design,memory,psychology,technology,animation,TED-Ed,education,computers,machine learning"
+"
+											In the summer of 1997,
+											NASA's Pathfinder spacecraft landed 
+on the surface of Mars,
+											and began transmitting incredible,
+iconic images back to Earth.
+											But several days in, 
+something went terribly wrong.
+											The transmissions stopped.
+											Pathfinder was, in effect, 
+procrastinating:
+											keeping itself fully occupied 
+but failing to do its most important work.
+									","
+											1997 yılı yazında,
+											NASA'nın Pathfinder uzay aracı
+Mars'ın yüzeyine iniş yaptı
+											ve Dünya'ya inanılmaz ikonik görseller
+iletmeye başladı.
+											Ancak birkaç gün içinde
+bir şey oldukça ters gitti.
+											İletiler durdu.
+											Pathfinder görevini erteliyordu;
+											kendisini tamamen meşgul kılıyor
+ama en önemli işini yapmıyordu.
+									","
+											À l'été 1997,
+											la sonde spatiale de la NASA, Pathfinder,
+a touché la surface de Mars
+											et s'est mise à retransmettre
+d'incroyables images iconiques.
+											Toutefois, quelques jours après,
+quelque chose a mal tourné.
+											Les transmissions se sont arrêtées.
+											En réalité, Pathfinder procrastinait :
+											il se tenait pleinement occupé,
+mais délaissait ses tâches principales.
+									",How to manage your time more effectively (according to machines),Brian Christian,4:46,"creativity,design,memory,psychology,technology,animation,TED-Ed,education,computers,machine learning"
+"
+","
+","
+",How to manage your time more effectively (according to machines),Brian Christian,4:46,"creativity,design,memory,psychology,technology,animation,TED-Ed,education,computers,machine learning"
+"
+											What was going on?
+											There was a bug, it turned out, 
+in its scheduler.
+									","
+											Ne oluyordu peki?
+											Programlayıcısında bir arıza
+olduğu anlaşıldı.
+									","
+											Que s'est-il donc passé ?
+											Il s'est avéré qu'il y avait un problème
+au niveau de son planificateur.
+									",How to manage your time more effectively (according to machines),Brian Christian,4:46,"creativity,design,memory,psychology,technology,animation,TED-Ed,education,computers,machine learning"
+"
+","
+","
+",How to manage your time more effectively (according to machines),Brian Christian,4:46,"creativity,design,memory,psychology,technology,animation,TED-Ed,education,computers,machine learning"
+"
+											Every operating system has something 
+called the scheduler
+											that tells the CPU how long
+to work on each task before switching,
+											and what to switch to.
+											Done right, computers move so fluidly 
+between their various responsibilities,
+											they give the illusion 
+of doing everything simultaneously.
+											But we all know what happens
+when things go wrong.
+									","
+											Her işletim sisteminde
+programlayıcı denen bir şey vardır,
+											bu da işlemciye geçiş yapmadan önce
+her görevde ne kadar çalışılacağını
+											ve neye geçiş yapılacağını söyler.
+											Sorun yokken bilgisayar çeşitli görevler 
+arasında o kadar hızlı geçiş yapar ki
+											her şeyin aynı anda yapıldığı
+izlenimini uyandırır
+											fakat işler ters gittiğinde neler olduğunu
+hepimiz biliyoruz.
+									","
+											Chaque système d'exploitation possède
+ce que l'on appelle un planificateur,
+											qui indique au processeur le temps alloué
+à chaque tâche avant un changement,
+											puis indique la tâche suivante.
+											En temps normal, les ordinateurs passent
+d'une tâche à l'autre de manière fluide,
+											en donnant l'impression
+d'une exécution simultanée.
+											Nous savons tous ce qui se produit
+lorsqu'un problème survient.
+									",How to manage your time more effectively (according to machines),Brian Christian,4:46,"creativity,design,memory,psychology,technology,animation,TED-Ed,education,computers,machine learning"
+"
+","
+","
+",How to manage your time more effectively (according to machines),Brian Christian,4:46,"creativity,design,memory,psychology,technology,animation,TED-Ed,education,computers,machine learning"
+"
+											This should give us, if nothing else, 
+some measure of consolation.
+											Even computers get overwhelmed sometimes.
+									","
+											Bunun bize biraz da olsa
+teselli vermesi lazım.
+											Bilgisayarlar bile bazen 
+aşırı işten bunalırlar.
+									","
+											Du moins, on peut se consoler en se disant
+											que même les ordinateurs sont parfois
+dépassés par les événements.
+									",How to manage your time more effectively (according to machines),Brian Christian,4:46,"creativity,design,memory,psychology,technology,animation,TED-Ed,education,computers,machine learning"
+"
+","
+","
+",How to manage your time more effectively (according to machines),Brian Christian,4:46,"creativity,design,memory,psychology,technology,animation,TED-Ed,education,computers,machine learning"
+"
+											Maybe learning about the computer science 
+of scheduling
+											can give us some ideas about our own
+human struggles with time.
+									","
+											Belki de programlamaya dair
+bilgisayar biliminden
+											kendi insan mücadelelerimiz hakkında
+bazı fikirler edinebiliriz.
+									","
+											Apprendre davantage
+sur la planification informatique
+											pourrait nous fournir des clés concernant
+nos propres difficultés à gérer le temps.
+									",How to manage your time more effectively (according to machines),Brian Christian,4:46,"creativity,design,memory,psychology,technology,animation,TED-Ed,education,computers,machine learning"
+"
+","
+","
+",How to manage your time more effectively (according to machines),Brian Christian,4:46,"creativity,design,memory,psychology,technology,animation,TED-Ed,education,computers,machine learning"
+"
+											One of the first insights is that all 
+the time you spend prioritizing your work
+											is time you aren't spending doing it.
+											For instance, let's say when you check 
+your inbox, you scan all the messages,
+											choosing which is the most important.
+											Once you've dealt with that one, 
+you repeat.
+											Seems sensible, 
+but there's a problem here.
+									","
+											İlk prensip, işleri önem sırasına 
+dizmekle harcadığımız zaman
+											o işi yapmayarak geçirdiğimiz zamandır.
+											Örneğin, gelen kutunuzu incelediğinizde
+tüm mesajlarınızı tararsınız,
+											en önemli olanı seçersiniz.
+											Bunu yaptıktan sonra tekrar edersiniz.
+											Mantıklı görünüyor
+ama burada bir sorun var.
+									","
+											Une des premières constatations est
+que le temps passé à établir nos priorités
+											n'est pas passé à exécuter
+les tâches elles-mêmes.
+											Par exemple, quand vous consultez
+les messages dans votre boîte mail,
+											vous les parcourez et choisissez
+celui qui est le plus important.
+											Lorsque vous en avez fini,
+vous répétez l'opération.
+											Cela semble logique ;
+mais il y a un problème.
+									",How to manage your time more effectively (according to machines),Brian Christian,4:46,"creativity,design,memory,psychology,technology,animation,TED-Ed,education,computers,machine learning"
+"
+","
+","
+",How to manage your time more effectively (according to machines),Brian Christian,4:46,"creativity,design,memory,psychology,technology,animation,TED-Ed,education,computers,machine learning"
+"
+											This is what's known 
+as a quadratic-time algorithm.
+											With an inbox that's twice as
+full, these passes will take twice as long
+											and you'll need to do 
+twice as many of them!
+											This means four times the work.
+									","
+											Buna karesel zaman algoritması deniyor.
+											İki kat daha dolu bir gelen kutusu
+bu seçim işlemini iki katına çıkarır
+											ve aynı işlemleri iki kez
+tekrarlamanız gerekir.
+											Bu da işin dört katına çıkması demek.
+									","
+											C'est ce qu'on appelle
+un algorithme quadratique.
+											Avec le double de messages, ces opérations
+prendront le double du temps
+											et vous devrez en faire deux fois plus !
+											Cela représente
+quatre fois plus de travail.
+									",How to manage your time more effectively (according to machines),Brian Christian,4:46,"creativity,design,memory,psychology,technology,animation,TED-Ed,education,computers,machine learning"
+"
+","
+","
+",How to manage your time more effectively (according to machines),Brian Christian,4:46,"creativity,design,memory,psychology,technology,animation,TED-Ed,education,computers,machine learning"
+"
+											The programmers 
+of the operating system Linux
+											encountered a similar problem in 2003.
+											Linux would rank every single 
+one of its tasks in order of importance,
+											and sometimes spent more time 
+ranking tasks than doing them.
+											The programmers’ counterintuitive solution
+was to replace this full ranking
+											with a limited number 
+of priority “buckets.”
+											The system was less precise 
+about what to do next
+											but more than made up for it 
+by spending more time making progress.
+									","
+											Linux işletim sistemini 
+kullanan programcılar
+											2003 yılında 
+benzer bir sorunla karşılaştı.
+											Linux her bir görevi
+önem sırasına göre derecelendirirdi
+											bazen de görevleri yapmak yerine
+önem sırası için daha çok zaman harcardı.
+											Programcıların sezgi karşıtı çözümü
+bu derecelendirmeyi
+											limitli sayıda önem ''kutu''larıyla
+değiştirmek oldu.
+											Böylece sistem sonraki görev
+için daha az doğruluk oranına sahipken
+											ilerleme kaydetmek için
+daha çok zaman harcıyordu.
+									","
+											Les programmeurs
+du système d'exploitation Linux
+											ont fait face à un problème similaire
+en 2003.
+											Linux classait chacune de ses tâches
+par ordre d'importance,
+											passant parfois plus de temps à classer
+les tâches qu'à les exécuter.
+											La solution des programmeurs, quoique
+contre-intuitive, a été de remplacer
+											ce classement total par un certain nombre
+de « seaux » de priorité.
+											Le système était moins précis quant
+à la prochaine tâche à accomplir,
+											mais compensait ce manque en passant
+plus de temps à faire des progrès.
+									",How to manage your time more effectively (according to machines),Brian Christian,4:46,"creativity,design,memory,psychology,technology,animation,TED-Ed,education,computers,machine learning"
+"
+","
+","
+",How to manage your time more effectively (according to machines),Brian Christian,4:46,"creativity,design,memory,psychology,technology,animation,TED-Ed,education,computers,machine learning"
+"
+											So with your emails, insisting on always 
+doing the very most important thing first
+											could lead to a meltdown.
+											Waking up to an inbox three times fuller 
+than normal
+											could take nine times longer to clear.
+											You’d be better off replying 
+in chronological order, or even at random!
+											Surprisingly, sometimes giving up 
+on doing things in the perfect order
+											may be the key to getting them done.
+									","
+											Epostalarınız konusunda da
+en önemli olanı seçmekle uğraşmak
+											iş kaybına yol açabilir.
+											Normalin üç katı dolu
+bir gelen kutusuyla güne başladığınızda
+											bunu temizlemek 9 kat
+daha uzun sürebilir.
+											Rasgele dahi olsa kronojik sırayla 
+yanıtlamanız daha iyi olacaktır.
+											Şaşırtıcı şekilde, bazen işleri
+kusursuz sırada yapmaktan vazgeçmek
+											işleri halletmede önemli rol oynayabilir.
+									","
+											Donc, insister pour adresser les mails
+les plus importants en premier
+											peut vous conduire à l'effondrement.
+											Une boîte de réception trois fois
+plus pleine que la moyenne
+											pourrait prendre neuf fois
+plus de temps à gérer.
+											Vous feriez mieux de répondre par ordre
+chronologique, voire même aléatoire !
+											Étonnamment, renoncer à
+la séquence idéale d'exécution
+											peut être la meilleure façon
+d'accomplir toutes les tâches.
+									",How to manage your time more effectively (according to machines),Brian Christian,4:46,"creativity,design,memory,psychology,technology,animation,TED-Ed,education,computers,machine learning"
+"
+","
+","
+",How to manage your time more effectively (according to machines),Brian Christian,4:46,"creativity,design,memory,psychology,technology,animation,TED-Ed,education,computers,machine learning"
+"
+											Another insight that emerges 
+from computer scheduling
+											has to do with one of the most prevalent 
+features of modern life: interruptions.
+									","
+											Bilgisayar programlamadan çıkan
+diğer bir kavram
+											modern hayatta da çok yaygın olan
+bölünmeler ile ilgilidir.
+									","
+											Une autre leçon à retenir
+de la planification informatique
+											concerne un phénomène très fréquent
+de notre vie moderne : les interruptions.
+									",How to manage your time more effectively (according to machines),Brian Christian,4:46,"creativity,design,memory,psychology,technology,animation,TED-Ed,education,computers,machine learning"
+"
+","
+","
+",How to manage your time more effectively (according to machines),Brian Christian,4:46,"creativity,design,memory,psychology,technology,animation,TED-Ed,education,computers,machine learning"
+"
+											When a computer goes 
+from one task to another,
+											it has to do what's called 
+a context switch,
+											bookmarking its place in one task,
+											moving old data out of its memory 
+and new data in.
+											Each of these actions comes at a cost.
+									","
+											Bilgisayar bir görevden diğerine geçerken
+											içerik geçişi denilen
+bir şey yapmak zorundadır,
+											bir görev üzerinde yer imi yaparken
+											hafızasından eski veriyi çıkarır
+ve yeni verileri alır.
+											Tüm bu işlemlerin bir bedeli vardır.
+									","
+											Lorsqu'un ordinateur passe
+d'une tâche à une autre,
+											il doit faire ce qu'on appelle
+une commutation de contexte ;
+											il marque sa place dans une tâche,
+											retire de vieilles données de sa mémoire
+puis y insère de nouvelles données.
+											Chacune de ses actions a un prix.
+									",How to manage your time more effectively (according to machines),Brian Christian,4:46,"creativity,design,memory,psychology,technology,animation,TED-Ed,education,computers,machine learning"
+"
+","
+","
+",How to manage your time more effectively (according to machines),Brian Christian,4:46,"creativity,design,memory,psychology,technology,animation,TED-Ed,education,computers,machine learning"
+"
+											The insight here is that there’s 
+a fundamental tradeoff
+											between productivity and responsiveness.
+											Getting serious work done 
+means minimizing context switches.
+											But being responsive means reacting 
+anytime something comes up.
+											These two principles 
+are fundamentally in tension.
+									","
+											Burda kavranılacak şey
+üretkenlik ve yanıt verirlik arasında
+											temel bir değiştokuş olduğu.
+											Önemli bir işi halletmek
+içerik geçişlerini en aza indirmek demek.
+											Ancak yanıt verirlik, her yeni bir şey
+çıktığında tepki vermek demek.
+											Bu iki prensip
+temel olarak birbirini çekmektedir.
+									","
+											L'idée à retenir ici est qu'il y a
+un compromis fondamental
+											entre productivité et réactivité.
+											Être hautement productif
+signifie minimiser les commutations.
+											Mais, être hautement réactif signifie
+réagir dès qu'une tâche se présente.
+											Ces deux principes sont
+fondamentalement contradictoires.
+									",How to manage your time more effectively (according to machines),Brian Christian,4:46,"creativity,design,memory,psychology,technology,animation,TED-Ed,education,computers,machine learning"
+"
+","
+","
+",How to manage your time more effectively (according to machines),Brian Christian,4:46,"creativity,design,memory,psychology,technology,animation,TED-Ed,education,computers,machine learning"
+"
+											Recognizing this tension allows us
+											to decide where 
+we want to strike that balance.
+									","
+											Bu çekimi anlamak da
+											dengeyi nerede yakalamak istediğimizi
+anlamamızı sağlar.
+									","
+											Reconnaître cette contradiction
+nous permet de décider
+											comment nous voulons
+établir cet équilibre.
+									",How to manage your time more effectively (according to machines),Brian Christian,4:46,"creativity,design,memory,psychology,technology,animation,TED-Ed,education,computers,machine learning"
+"
+","
+","
+",How to manage your time more effectively (according to machines),Brian Christian,4:46,"creativity,design,memory,psychology,technology,animation,TED-Ed,education,computers,machine learning"
+"
+											The obvious solution 
+is to minimize interruptions.
+											The less obvious one is to group them.
+											If no notification 
+or email requires a response
+											more urgently than once an hour, say,
+											then that’s exactly how often 
+you should check them. No more.
+									","
+											Buna bariz çözüm
+bölünmeleri en aza indirgemektir.
+											Daha az belirgin çözüm
+onları gruplandırmaktır.
+											Bildiri veya eposta
+bir saatten daha kısa zamanda
+											yanıt gerektirmiyorsa,
+											Bu onları bu sıklıkta kontrol etmeniz 
+gerek demektir. Daha fazla değil.
+									","
+											La solution la plus évidente 
+est de minimiser les interruptions.
+											La solution la moins évidente
+serait de les regrouper.
+											Si aucune notification ou message
+ne requiert une réponse
+											dans un délai plus urgent qu'une heure,
+par exemple,
+											voilà l'intervalle exacte à laquelle
+vous devriez les vérifier. Sans plus.
+									",How to manage your time more effectively (according to machines),Brian Christian,4:46,"creativity,design,memory,psychology,technology,animation,TED-Ed,education,computers,machine learning"
+"
+","
+","
+",How to manage your time more effectively (according to machines),Brian Christian,4:46,"creativity,design,memory,psychology,technology,animation,TED-Ed,education,computers,machine learning"
+"
+											In computer science, this idea goes by 
+the name of interrupt coalescing.
+											Rather than dealing with 
+things as they come up –
+											Oh, the mouse was moved?
+											A key was pressed?
+											More of that file downloaded? –
+											the system groups these 
+interruptions together
+											based on how long they can afford to wait.
+									","
+											Bilgisayar biliminde bu fikre
+bölünme birleşmesi denir.
+											İşlerle ortaya çıktıkları an
+ilgilenmek yerine -
+											fare hereket mi etti?
+											Biri tuşa mı bastı?
+											Dosyanın kalanı mı indirildi?
+											sistem bu bölünmeleri
+ne kadar bekleyebileceklerine göre
+											birlikte gruplar.
+									","
+											En informatique, cette idée est appelée
+« coalescence des interruptions ».
+											Plutôt que d'adresser les choses 
+au fur et à mesure —
+											Oh, on a bougé la souris ?
+											On a appuyé sur une touche ?
+											On a téléchargé le reste du fichier ? —
+											le système regroupe les interruptions,
+											en fonction du délai d'attente
+qu'elles peuvent se permettre.
+									",How to manage your time more effectively (according to machines),Brian Christian,4:46,"creativity,design,memory,psychology,technology,animation,TED-Ed,education,computers,machine learning"
+"
+","
+","
+",How to manage your time more effectively (according to machines),Brian Christian,4:46,"creativity,design,memory,psychology,technology,animation,TED-Ed,education,computers,machine learning"
+"
+											In 2013, interrupt coalescing
+											triggered a massive improvement 
+in laptop battery life.
+											This is because deferring interruptions 
+lets a system check everything at once,
+											then quickly re-enter a low-power state.
+									","
+											2013 yılında bölünme birleştirmesi
+											dizüstü batarya ömründe
+büyük bir ilerlemeye kapı açtı.
+											Çünkü bölünmeleri savuşturmak
+sistemin her şeyi birlikte kontrol etmesi
+											sonra da düşük enerji moduna
+hızlıca yeniden girmesi demektir.
+									","
+											En 2013, la coalescence
+des interruptions a entraîné
+											une nette amélioration de la durée de vie
+des batteries d'ordinateurs portables ;
+											le report des interruptions permet
+au système de tout vérifier d'un coup,
+											pour ensuite retourner rapidement
+à une basse consommation d'énergie.
+									",How to manage your time more effectively (according to machines),Brian Christian,4:46,"creativity,design,memory,psychology,technology,animation,TED-Ed,education,computers,machine learning"
+"
+","
+","
+",How to manage your time more effectively (according to machines),Brian Christian,4:46,"creativity,design,memory,psychology,technology,animation,TED-Ed,education,computers,machine learning"
+"
+											As with computers, so it is with us.
+											Perhaps adopting a similar approach
+											might allow us users 
+to reclaim our own attention,
+											and give us back one of the things
+that feels so rare in modern life: rest.
+									","
+											Bilgisayarlar için de 
+bizim için de böyle.
+											Muhtemelen benzer bir yaklaşım
+											biz kullanıcılara dikkatimizi
+yeniden kendi kontrolümüze alıp
+											modern hayatta çok nadir bir şeyi tekrar
+elde etmemize yardım edebilir: dinlenme.
+									","
+											Cela ne s'applique pas qu'aux ordinateurs,
+mais aussi aux humains.
+											Il se peut que l'adoption
+d'une approche similaire
+											nous permette de ressaisir
+notre propre attention,
+											et nous redonne l'une des raretés
+de notre vie moderne : le repos.
+									",How to manage your time more effectively (according to machines),Brian Christian,4:46,"creativity,design,memory,psychology,technology,animation,TED-Ed,education,computers,machine learning"
+"
+","
+","
+",How to manage your time more effectively (according to machines),Brian Christian,4:46,"creativity,design,memory,psychology,technology,animation,TED-Ed,education,computers,machine learning"

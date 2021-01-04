@@ -1,0 +1,1562 @@
+en,tr,fr,title,speaker,duration,tags
+"
+","
+","
+",How to take a picture of a black hole,Katie Bouman,12:51,"astronomy,collaboration,exploration,innovation,nature,science,physics,science and art,technology,universe,TEDx,visualizations,space,telescopes"
+"
+											In the movie ""Interstellar,""
+											we get an up-close look
+at a supermassive black hole.
+											Set against a backdrop of bright gas,
+											the black hole's massive
+gravitational pull
+											bends light into a ring.
+											However, this isn't a real photograph,
+											but a computer graphic rendering —
+											an artistic interpretation
+of what a black hole might look like.
+									","
+											""Yıldızlararası"" filminde
+											süper büyük kara deliğe yakından bakalım.
+											Parlak gazın zeminine karşı kurulmuş olan
+											kara deliğin büyük çekimi kuvveti
+											ışığı halka şeklinde büker.
+											Buna rağmen, bu gerçek bir fotoğraf değil
+											bilgisayar grafik uygulamasıdır -
+											kara deliğin nasıl görülebileceğine
+dair artistik bir yorumlama.
+									","
+											Dans le film « Interstellar »,
+											nous voyons de très près
+un trou noir supermassif.
+											Sur un fond de gaz vif,
+											la force gravitationnelle
+massive du trou noir
+											courbe la lumière en un cercle.
+											Ce n'est cependant pas une vraie photo,
+											mais un rendu
+graphique par ordinateur —
+											une interprétation
+artistique d'un trou noir.
+									",How to take a picture of a black hole,Katie Bouman,12:51,"astronomy,collaboration,exploration,innovation,nature,science,physics,science and art,technology,universe,TEDx,visualizations,space,telescopes"
+"
+","
+","
+",How to take a picture of a black hole,Katie Bouman,12:51,"astronomy,collaboration,exploration,innovation,nature,science,physics,science and art,technology,universe,TEDx,visualizations,space,telescopes"
+"
+											A hundred years ago,
+											Albert Einstein first published
+his theory of general relativity.
+											In the years since then,
+											scientists have provided
+a lot of evidence in support of it.
+											But one thing predicted
+from this theory, black holes,
+											still have not been directly observed.
+											Although we have some idea
+as to what a black hole might look like,
+											we've never actually taken
+a picture of one before.
+											However, you might be surprised to know
+that that may soon change.
+											We may be seeing our first picture
+of a black hole in the next couple years.
+											Getting this first picture will come down
+to an international team of scientists,
+											an Earth-sized telescope
+											and an algorithm that puts together
+the final picture.
+											Although I won't be able to show you
+a real picture of a black hole today,
+											I'd like to give you a brief glimpse
+into the effort involved
+											in getting that first picture.
+									","
+											Yüz yıl önce,
+											Albert Einstein kendi teorisi olan
+izafiyet teorisini ilk defa yayımladı.
+											Ondan sonraki yıllarda
+											bilim adamları teoriyi destekleyen
+birçok kanıt sundular.
+											Fakat bu teoriden tek
+çıkarım yapılıyor, kara delik
+											hâlen direkt olarak gözlemlenmedi.
+											Kara deliğin nasıl görünebileceğine
+dair bazı düşüncelerimiz olsa da
+											daha önce bir fotoğrafı hiç çekilmedi.
+											Buna rağmen, bunun sonunda
+değişebileceğini bilmek sizi şaşırtabilir.
+											Önümüzdeki birkaç yıl içerisinde 
+kara deliğe ait ilk fotoğrafı görebiliriz.
+											İlk resmi almak uluslararası
+bilim adamları takımına,
+											dünya büyüklüğünde teleskopa
+											ve son fotoğrafı bir araya getirecek
+algoritmaya düşecektir.
+											Bugün size kara deliğin gerçek fotoğrafını
+gösteremeyecek olmama rağmen
+											ilk resmi almayı içeren çabalara
+kısa bir bakış atmanızı
+											sağlamak istiyorum.
+									","
+											Il y a 100 ans,
+											Albert Einstein a publié 
+sa théorie de la relativité générale.
+											Au cours des années suivantes,
+											beaucoup de preuves qui appuient
+cette théorie ont été fournies.
+											Mais les trous noirs, un élément
+prédit dans cette théorie,
+											n'ont toujours pas été
+observés directement.
+											Même si nous avons une idée
+de ce à quoi un trou noir ressemble,
+											nous n'en avons jamais photographié.
+											Toutefois, vous serez surpris d'apprendre
+que ça pourrait bientôt changer.
+											Nous verrons peut-être la première photo 
+d'un trou noir d'ici quelques années.
+											Prendre cette première photo dépendra
+d'une équipe scientifique internationale,
+											d'un télescope de la taille de la Terre,
+											et d'un algorithme
+qui assemble l'image finale.
+											Bien que je ne puisse pas vous montrer
+une vraie image d'un trou noir,
+											j'aimerais vous esquisser
+un aperçu de l'effort nécessaire
+											pour prendre cette photo.
+									",How to take a picture of a black hole,Katie Bouman,12:51,"astronomy,collaboration,exploration,innovation,nature,science,physics,science and art,technology,universe,TEDx,visualizations,space,telescopes"
+"
+","
+","
+",How to take a picture of a black hole,Katie Bouman,12:51,"astronomy,collaboration,exploration,innovation,nature,science,physics,science and art,technology,universe,TEDx,visualizations,space,telescopes"
+"
+											My name is Katie Bouman,
+											and I'm a PhD student at MIT.
+											I do research in a computer science lab
+											that works on making computers
+see through images and video.
+											But although I'm not an astronomer,
+											today I'd like to show you
+											how I've been able to contribute
+to this exciting project.
+									","
+											Benim adım Katie Bouman
+											ve MIT'te PhD öğrencisiyim.
+											Bir bilgisayar laboratuvarında,
+fotoğraf ve videolarla
+											gören bilgisayarlar üzerine çalışıyorum.
+											Astronom olmamama rağmen
+											mevcut projeye nasıl katkıda bulunduğumu
+											size göstermek istiyorum.
+									","
+											Je m'appelle Katie Bouman,
+											et je suis doctorante au MIT.
+											Je fais de la recherche
+dans un labo informatique
+											dédié à l'interprétation d'images
+et vidéos par les ordinateurs.
+											Bien que je ne sois pas une astronome,
+											j'aimerais vous montrer
+											comment j'ai pu contribuer
+à ce projet fascinant.
+									",How to take a picture of a black hole,Katie Bouman,12:51,"astronomy,collaboration,exploration,innovation,nature,science,physics,science and art,technology,universe,TEDx,visualizations,space,telescopes"
+"
+","
+","
+",How to take a picture of a black hole,Katie Bouman,12:51,"astronomy,collaboration,exploration,innovation,nature,science,physics,science and art,technology,universe,TEDx,visualizations,space,telescopes"
+"
+											If you go out past
+the bright city lights tonight,
+											you may just be lucky enough
+to see a stunning view
+											of the Milky Way Galaxy.
+											And if you could zoom past
+millions of stars,
+											26,000 light-years toward the heart
+of the spiraling Milky Way,
+											we'd eventually reach
+a cluster of stars right at the center.
+											Peering past all the galactic dust
+with infrared telescopes,
+											astronomers have watched these stars
+for over 16 years.
+											But it's what they don't see
+that is the most spectacular.
+											These stars seem to orbit
+an invisible object.
+											By tracking the paths of these stars,
+											astronomers have concluded
+											that the only thing small and heavy
+enough to cause this motion
+											is a supermassive black hole —
+											an object so dense that it sucks up
+anything that ventures too close —
+											even light.
+									","
+											Eğer bu akşam parlak şehir
+ışıklarının ötesine çıkarsanız,
+											samanyolunun şaşırtıcı 
+görüntüsünü görmek için
+											yeterince şanslı olabilirsiniz.
+											Milyonlarca yıldızın ötesine 
+yakınlaştırma yapabilirseniz,
+											samanyolunun kalbine
+doğru 26.000 ışık yılı,
+											en sonunda tam merkezdeki
+yıldız kümesine ulaşacağız.
+											Tüm galaktik toz bulutunun
+ötesini kızıl ötesi teleskopla
+											gözetleyen astronomlar bu
+yıldızları 16 yıldır izliyorlar.
+											Fakat onların görmediği,
+bunun en muhteşem şey olması.
+											Bu yıldızlar görünmeyen bir
+objenin etrafında dönüyor gibi.
+											Bu yıldızların yolunu izleyerek
+											astronomlar, bu harekete sebep olan şeyin,
+											yeterince küçük ve ağır, büyük bir
+kara delik olduğu sonucuna vardılar-
+											ışık dâhil, yanına çok yaklaşan
+											herhangi bir şeyi içine çekebilecek
+yoğunlukta olan bir obje.
+									","
+											Si vous vous éloignez
+des vives lumières de la ville,
+											vous aurez peut-être la chance
+de voir une vue spectaculaire
+											de la Voie Lactée.
+											Si vous pouviez zoomer
+sur les millions d'étoiles,
+											26 000 années-lumière vers le cœur
+de la spirale de la Voie Lactée,
+											nous atteindrions
+un amas d'étoiles au centre.
+											Scrutant au-delà de la poussière
+galactique avec des télescopes infrarouges,
+											les astronomes observent
+ces étoiles depuis plus de 16 ans.
+											Mais c'est ce qu'ils ne voient pas
+qui est le plus spectaculaire.
+											Ces étoiles ont l'air de graviter
+autour d'un objet invisible.
+											En suivant les parcours de ces étoiles,
+											les astronomes ont conclu
+											que la seule chose suffisamment petite 
+et lourde pour causer ce mouvement
+											est un trou noir supermassif —
+											un objet si dense qu'il aspire
+tout ce qui s'aventure trop près —
+											même la lumière.
+									",How to take a picture of a black hole,Katie Bouman,12:51,"astronomy,collaboration,exploration,innovation,nature,science,physics,science and art,technology,universe,TEDx,visualizations,space,telescopes"
+"
+","
+","
+",How to take a picture of a black hole,Katie Bouman,12:51,"astronomy,collaboration,exploration,innovation,nature,science,physics,science and art,technology,universe,TEDx,visualizations,space,telescopes"
+"
+											But what happens if we were
+to zoom in even further?
+											Is it possible to see something
+that, by definition, is impossible to see?
+											Well, it turns out that if we were
+to zoom in at radio wavelengths,
+											we'd expect to see a ring of light
+											caused by the gravitational
+lensing of hot plasma
+											zipping around the black hole.
+											In other words,
+											the black hole casts a shadow
+on this backdrop of bright material,
+											carving out a sphere of darkness.
+											This bright ring reveals
+the black hole's event horizon,
+											where the gravitational pull
+becomes so great
+											that not even light can escape.
+											Einstein's equations predict
+the size and shape of this ring,
+											so taking a picture of it
+wouldn't only be really cool,
+											it would also help to verify
+that these equations hold
+											in the extreme conditions
+around the black hole.
+									","
+											Eğer biz daha ötesine yakınlaştırma
+yapabilseydik ne olurdu?
+											Böyle bir şeyi görmek mümkün mü,
+tanım olarak, görmek imkânsız mı?
+											Peki, eğer biz radyo dalga
+boylarında yakınlaştırma yapabilseydik,
+											kara deliğin etrafında
+sıkışmış sıcak plazmanın
+											çekimsel mercekleşmesi oluşan
+bir ışık halkası görmeyi beklerdik.
+											Diğer bir deyişle,
+											karanlık bir alan yaratan
+parlak materyaller
+											zeminine gölge oluşturuyor.
+											Bu aydınlık halka çekim kuvvetinin,
+ışığın dahi kaçamayacağı kadar büyük
+											olduğu yerdeki kara deliğin
+çevresindeki sınırları açığa çıkarır.
+											Einstein denklemi bu halkanın
+şeklini ve büyüklüğünü tahmin eder,
+											bu sebeple bunun resmini çekmek
+sadece mükemmel olmayacak,
+											ayrıca denklemin, kara delikteki
+olağanüstü durumlarda
+											geçerliliğinin doğrulanmasına
+yardım edecektir.
+									","
+											Que se passe-t-il si nous nous
+approchons encore plus près ?
+											Est-ce possible de voir quelque chose qui,
+par définition, est impossible à voir ?
+											Il s'avère que si nous faisions
+un zoom des ondes radio,
+											nous devrions voir un cercle de lumière
+											causé par une lentille gravitationnelle
+du plasma chaud
+											se déplaçant autour du trou noir.
+											En d'autres mots,
+											le trou noir jette une ombre
+sur ce fond de matière lumineuse,
+											creusant une sphère d'obscurité.
+											Ce cercle lumineux révèle l'horizon
+des événements du trou noir,
+											où la force gravitationnelle
+devient si puissante
+											que même la lumière ne peut pas
+s'en échapper.
+											Les équations d'Einstein prédisent
+la taille et la forme de ce cercle.
+											En prendre la photo serait génial,
+											et pourrait aussi aider à vérifier 
+la teneur de ces équations
+											dans les conditions extrêmes
+autour du trou noir.
+									",How to take a picture of a black hole,Katie Bouman,12:51,"astronomy,collaboration,exploration,innovation,nature,science,physics,science and art,technology,universe,TEDx,visualizations,space,telescopes"
+"
+","
+","
+",How to take a picture of a black hole,Katie Bouman,12:51,"astronomy,collaboration,exploration,innovation,nature,science,physics,science and art,technology,universe,TEDx,visualizations,space,telescopes"
+"
+											However, this black hole
+is so far away from us,
+											that from Earth, this ring appears
+incredibly small —
+											the same size to us as an orange
+on the surface of the moon.
+											That makes taking a picture of it
+extremely difficult.
+											Why is that?
+											Well, it all comes down
+to a simple equation.
+											Due to a phenomenon called diffraction,
+											there are fundamental limits
+											to the smallest objects
+that we can possibly see.
+											This governing equation says
+that in order to see smaller and smaller,
+											we need to make our telescope
+bigger and bigger.
+											But even with the most powerful
+optical telescopes here on Earth,
+											we can't even get close
+to the resolution necessary
+											to image on the surface of the moon.
+											In fact, here I show one of the highest
+resolution images ever taken
+											of the moon from Earth.
+											It contains roughly 13,000 pixels,
+											and yet each pixel would contain
+over 1.5 million oranges.
+									","
+											Buna rağmen, bu kara delik 
+bizden çok uzakta ki
+											dünyadan bu halka
+olağanüstü küçük görülüyor
+											-ayın üzerindeki portakal gibi.
+											Bu durum fotoğrafının çekilmesini 
+çok zorlaştırmaktadır.
+											Sebebi nedir?
+											Peki, bunların hepsi basit
+bir denkleme indirgeniyor.
+											Difraksiyon olarak adlandırılan
+fenomen nedeniyle,
+											görebileceğimiz küçük objeler
+için temel limitler vardır.
+											Bu yönetici denklem, çok çok
+küçük görmek için teleskobumuzu
+											çok çok büyük yapmamız gerektiğini söyler.
+											Fakat, dünyadaki en büyük teleskopla dahi,
+											ayın yüzeyini resmetmek için
+											gerekli çözünürlüğe yaklaşamadık.
+											Aslında, burada size ayın dünyadan 
+çekilen en yüksek çözünürlüklü
+											fotoğrafını gösteriyorum.
+											Yaklaşık olarak 13.000 piksel.
+											ve her bir piksel 1,5 milyondan
+fazla portakal içermektedir.
+									","
+											Toutefois, ce trou noir
+est si loin de nous
+											que depuis la Terre, ce cercle
+apparaît incroyablement petit —
+											de la même taille qu'une orange
+sur la surface de la Lune.
+											Sa distance rend sa prise
+en photo extrêmement difficile.
+											Pourquoi ça ?
+											Tout cela ne dépend
+que d'une simple équation.
+											En raison d'un phénomène
+appelé la diffraction,
+											il existe des limites fondamentales
+											aux plus petits objets
+que nous sommes en mesure de voir.
+											L'équation principale dit
+qu'afin de voir de plus en plus petit,
+											nous devons fabriquer un télescope
+de plus en plus grand.
+											Mais même avec les télescopes
+optiques les plus puissants sur Terre,
+											nous sommes encore si loin
+de la résolution nécessaire
+											afin d'imager la surface de la Lune.
+											Voici l'une des images à plus haute 
+résolution qui a été prise
+											de la Lune à partir de la Terre.
+											Elle contient à peu près 13 000 pixels,
+											et pourtant, chaque pixel contiendrait
+plus d'un million et demi d'oranges.
+									",How to take a picture of a black hole,Katie Bouman,12:51,"astronomy,collaboration,exploration,innovation,nature,science,physics,science and art,technology,universe,TEDx,visualizations,space,telescopes"
+"
+","
+","
+",How to take a picture of a black hole,Katie Bouman,12:51,"astronomy,collaboration,exploration,innovation,nature,science,physics,science and art,technology,universe,TEDx,visualizations,space,telescopes"
+"
+											So how big of a telescope do we need
+											in order to see an orange
+on the surface of the moon
+											and, by extension, our black hole?
+											Well, it turns out
+that by crunching the numbers,
+											you can easily calculate
+that we would need a telescope
+											the size of the entire Earth.
+									","
+											Yani, ayın üzerindeki her bir portakalı
+											ve ilave olarak bizim
+kara deliği görmek için
+											ne kadar büyük bir
+teleskoba ihtiyacımız var?
+											Büyük hesaplar yaparak,
+bu, dünya büyüklüğünde
+											teleskoba ihtiyacınız olduğunu kolayca
+hesaplayabileceğinizi ortaya koyuyor.
+									","
+											Quelle taille notre télescope
+devrait-il avoir
+											pour voir une orange
+sur la surface de la Lune,
+											et par extension, notre trou noir ?
+											Il s'avère qu'en faisant des calculs,
+											on peut déterminer qu'un télescope
+de la taille de la Terre entière
+											serait nécessaire.
+									",How to take a picture of a black hole,Katie Bouman,12:51,"astronomy,collaboration,exploration,innovation,nature,science,physics,science and art,technology,universe,TEDx,visualizations,space,telescopes"
+"
+","
+","
+",How to take a picture of a black hole,Katie Bouman,12:51,"astronomy,collaboration,exploration,innovation,nature,science,physics,science and art,technology,universe,TEDx,visualizations,space,telescopes"
+"
+											(Laughter)
+									","
+											(Gülüşme)
+									","
+											(Rires)
+									",How to take a picture of a black hole,Katie Bouman,12:51,"astronomy,collaboration,exploration,innovation,nature,science,physics,science and art,technology,universe,TEDx,visualizations,space,telescopes"
+"
+","
+","
+",How to take a picture of a black hole,Katie Bouman,12:51,"astronomy,collaboration,exploration,innovation,nature,science,physics,science and art,technology,universe,TEDx,visualizations,space,telescopes"
+"
+											If we could build
+this Earth-sized telescope,
+											we could just start to make out
+that distinctive ring of light
+											indicative of the black
+hole's event horizon.
+											Although this picture wouldn't contain
+all the detail we see
+											in computer graphic renderings,
+											it would allow us to safely get
+our first glimpse
+											of the immediate environment
+around a black hole.
+									","
+											Eğer dünya büyüklüğünde
+teleskop yapabilirsek
+											kara deliğin ufuk sınırını gösteren 
+bu belirgin ışık halkasını
+											ancak fark etmeye başlayabiliriz.
+											Bu fotoğraf bilgisayardaki
+grafik görüntülerinde
+											gördüğümüz tüm detayları içermese de,
+											kara deliğin yakın çevresine 
+güvenle ilk bakışı atmamıza
+											imkân verecektir.
+									","
+											Si nous pouvions construire
+un tel télescope,
+											nous pourrions commencer
+à distinguer ce cercle de lumière
+											indiquant l'horizon
+des événements du trou noir.
+											Tous les détails que nous voyons
+dans un rendu par ordinateur
+											ne seront pas visibles,
+											mais nous pourrions avoir
+notre premier aperçu
+											de l'environnement immédiat
+d'un trou noir.
+									",How to take a picture of a black hole,Katie Bouman,12:51,"astronomy,collaboration,exploration,innovation,nature,science,physics,science and art,technology,universe,TEDx,visualizations,space,telescopes"
+"
+","
+","
+",How to take a picture of a black hole,Katie Bouman,12:51,"astronomy,collaboration,exploration,innovation,nature,science,physics,science and art,technology,universe,TEDx,visualizations,space,telescopes"
+"
+											However, as you can imagine,
+											building a single-dish telescope
+the size of the Earth is impossible.
+											But in the famous words of Mick Jagger,
+											""You can't always get what you want,
+											but if you try sometimes,
+you just might find
+											you get what you need.""
+											And by connecting telescopes
+from around the world,
+											an international collaboration
+called the Event Horizon Telescope
+											is creating a computational telescope
+the size of the Earth,
+											capable of resolving structure
+											on the scale of a black
+hole's event horizon.
+											This network of telescopes is scheduled
+to take its very first picture
+											of a black hole next year.
+											Each telescope in the worldwide
+network works together.
+											Linked through the precise timing
+of atomic clocks,
+											teams of researchers at each
+of the sites freeze light
+											by collecting thousands
+of terabytes of data.
+											This data is then processed in a lab
+right here in Massachusetts.
+									","
+											Yine de, hayal ettiğiniz gibi,
+											dünya boyutunda Single-Dish (Tek Tabaka) 
+teleskop yapımı imkânsızdır.
+											Fakat, Mick Jagger'ın
+ünlü şarkısındaki gibi
+											""Her zaman her istediğini alamazsın,
+											fakat bazen denersen, istediğini almanın
+											yolunu bulabilirsin.""
+											Dünyanın tüm teleskopları
+birbirine bağlayarak,
+											""Event Horizon Teleskop""u olarak
+adlandırılan uluslararası işbirliği
+											kara deliğin ufuk sınırının
+büyüklüğünü çözebilecek
+											yapıda dünya büyüklüğünde
+											sanal teleskop yaratabiliyor.
+											Bu teleskop ağı gelecek yıl 
+kara deliğin ilk fotoğrafını
+											çekmek için planlandı.
+											Dünya çapındaki herbir
+teleskop beraber çalışıyor.
+											Atomik saat ile birbirlerine bağlandılar.
+											Herbir yerdeki araştırma ekipleri binlerce
+											terabayt veri toplayarak ışığı donduruyor.
+											Bu veri daha sonra tam burada 
+Massachusett'de işlemden geçiriliyor.
+									","
+											Mais comme vous pouvez l'imaginer,
+											la construction d'un télescope
+de la taille de la Terre est impossible.
+											Pour citer Mick Jagger :
+											« On n'a pas toujours 
+ce qu'on veux,
+											mais si on essaie,
+on peut s'apercevoir
+											qu'on a reçu ce dont on a besoin. »
+											En connectant
+les télescopes du monde entier,
+											une collaboration internationale
+appelée l'Event Horizon Telescope
+											est en train de créer un télescope
+informatique de la taille de la Terre
+											capable d'élucider la structure
+											à l'échelle de l'horizon
+des événements d'un trou noir.
+											Il est prévu que ce réseau
+prenne la toute première photo
+											d'un trou noir l'an prochain.
+											Chaque télescope dans ce réseau mondial
+travaille ensemble.
+											Liés par la précision
+des horloges atomiques,
+											des équipes de chercheurs figent
+la lumière de chaque point de vue
+											en collectant des milliers
+de téraoctets d'informations.
+											Cette information est alors traitée ici,
+dans un laboratoire du Massachusetts.
+									",How to take a picture of a black hole,Katie Bouman,12:51,"astronomy,collaboration,exploration,innovation,nature,science,physics,science and art,technology,universe,TEDx,visualizations,space,telescopes"
+"
+","
+","
+",How to take a picture of a black hole,Katie Bouman,12:51,"astronomy,collaboration,exploration,innovation,nature,science,physics,science and art,technology,universe,TEDx,visualizations,space,telescopes"
+"
+											So how does this even work?
+											Remember if we want to see the black hole
+in the center of our galaxy,
+											we need to build this impossibly large
+Earth-sized telescope?
+											For just a second,
+let's pretend we could build
+											a telescope the size of the Earth.
+											This would be a little bit
+like turning the Earth
+											into a giant spinning disco ball.
+											Each individual mirror would collect light
+											that we could then combine
+together to make a picture.
+											However, now let's say
+we remove most of those mirrors
+											so only a few remained.
+											We could still try to combine
+this information together,
+											but now there are a lot of holes.
+											These remaining mirrors represent
+the locations where we have telescopes.
+											This is an incredibly small number
+of measurements to make a picture from.
+											But although we only collect light
+at a few telescope locations,
+											as the Earth rotates, we get to see
+other new measurements.
+											In other words, as the disco ball spins,
+those mirrors change locations
+											and we get to observe
+different parts of the image.
+											The imaging algorithms we develop
+fill in the missing gaps of the disco ball
+											in order to reconstruct
+the underlying black hole image.
+											If we had telescopes located
+everywhere on the globe —
+											in other words, the entire disco ball —
+											this would be trivial.
+											However, we only see a few samples,
+and for that reason,
+											there are an infinite number
+of possible images
+											that are perfectly consistent
+with our telescope measurements.
+											However, not all images are created equal.
+											Some of those images look more like
+what we think of as images than others.
+											And so, my role in helping to take
+the first image of a black hole
+											is to design algorithms that find
+the most reasonable image
+											that also fits the telescope measurements.
+									","
+											Peki, bu nasıl çalışıyor?
+											Hatırlayın, eğer galaksinin ortasında
+kara delik görmek istiyorsak
+											bu dünya büyüklüğünde teleskop
+yapmamız gerekmektedir.
+											Bir saniye, dünya büyüklüğünde
+teleskop yapmış gibi davranalım.
+											Bu biraz dünyayı büyük
+dönen kocaman bir disko
+											topuna dönüştürmeye benzeyecektir.
+											Herbir ayna ışık toplayacak
+											ki daha sonra biz bunları 
+bir araya getirelim.
+											Buna rağmen, biz bunları
+birçoğunu attık dersek,
+											sadece elimizde birkaç tane kalır.
+											Hâlâ bunları bir araya
+getirmeye çalışabiliriz,
+											fakat şimdi çok fazla delik var.
+											Kalan bu aynalar teleskoplarımızın
+yerlerini temsil eder.
+											Bu, fotoğraf elde etmek için
+oldukça küçük sayı da ölçümlerdir.
+											Fakat, sadece birkaç teleskop
+konumundan ışık toplamamıza rağmen
+											Dünya dönerken, diğer yeni
+ölçümleri görmeye başlarız.
+											Diğer bir değişle, disko topunun döndüğü
+gibi, bu aynalar konumlarını değiştiriyor
+											ve biz resmin değişik parçalarını 
+gözlemlemeye başlıyoruz.
+											Geliştirdiğimiz bu resim algoritması,
+altta yatan kara delik resmini yeniden
+											kurmak için disko topundaki 
+boşlukları doldurur.
+											Dünyada her yerde konuşlanmış
+teleskobumuz olsa idi,
+											yani, tam bir disko topu olsa idi
+											bu çok önemsiz olurdu.
+											Buna rağmen, sadece birkaç örnek
+görüyoruz ve bu nedenle
+											bizim teleskop ölçümlerimiz
+ile tam olarak tutarlı
+											sonsuz sayıda olası resim var.
+											Buna rağmen, tüm resimler eşit yapılmadı.
+											Bu resimlerden bazıları,
+											diğerlerine nazaran resim olduğunu
+düşündüğümüz şeyler gibi görünüyor.
+											Kara deliğin ilk resminin
+alınmasındaki benim rolüm
+											mümkün olan en makul resmi 
+bulacak ve aynı zamanda
+											teleskop ölçülerine uyduracak 
+algoritmayı dizayn etmektir.
+									","
+											Alors comment ça marche ?
+											Si nous voulons apercevoir
+le trou noir au centre de notre galaxie,
+											nous devons construire
+un télescope impossiblement grand.
+											Prétendons un instant
+que nous pouvons construire
+											un télescope de la taille de la Terre.
+											Ce serait un peu
+comme transformer la Terre
+											en une boule disco géante.
+											Chaque miroir collecterait la lumière
+											que nous assemblerions ensuite
+pour fabriquer une image.
+											Prétendons que nous retirons
+la plupart de ces miroirs
+											afin qu'il n'en reste que quelques-uns.
+											Nous pourrions toujours essayer
+d'assembler cette information
+											mais maintenant,
+il y a beaucoup de trous.
+											Ces miroirs restants représentent
+les endroits où nous avons des télescopes.
+											C'est un nombre de mesures vraiment petit
+pour pouvoir en faire une photo.
+											Bien que nous ne collections la lumière
+qu'en certains endroits,
+											la Terre tourne et nous pouvons obtenir
+d'autres nouvelles mesures.
+											En d'autres mots, quand la boule disco
+tourne, ces miroirs changent de place
+											et nous pouvons observer
+différentes parties de l'image.
+											Des algorithmes de traitement d'image
+comblent les lacunes de la boule disco
+											afin de reconstruire
+l'image sous-jacente du trou noir.
+											Si nous avions des télescopes
+partout dans le monde —
+											ou bien la boule disco
+dans sa totalité —
+											cette recherche serait futile.
+											Mais nous n'obtenons que quelques
+échantillons, et pour cette raison,
+											il existe un nombre infini
+d'images possibles
+											tout à fait cohérentes
+avec les mesures du télescope.
+											Cependant, ces images
+ne sont pas toutes égales.
+											Certaines ressemblent plus à l'idée
+que nous avons des images que d'autres.
+											En aidant à prendre la première
+photo d'un trou noir,
+											mon rôle est de créer des algorithmes
+qui trouvent l'image la plus raisonnable
+											qui corresponde aussi
+aux mesures du télescope.
+									",How to take a picture of a black hole,Katie Bouman,12:51,"astronomy,collaboration,exploration,innovation,nature,science,physics,science and art,technology,universe,TEDx,visualizations,space,telescopes"
+"
+","
+","
+",How to take a picture of a black hole,Katie Bouman,12:51,"astronomy,collaboration,exploration,innovation,nature,science,physics,science and art,technology,universe,TEDx,visualizations,space,telescopes"
+"
+											Just as a forensic sketch artist
+uses limited descriptions
+											to piece together a picture using
+their knowledge of face structure,
+											the imaging algorithms I develop
+use our limited telescope data
+											to guide us to a picture that also
+looks like stuff in our universe.
+											Using these algorithms,
+we're able to piece together pictures
+											from this sparse, noisy data.
+											So here I show a sample reconstruction
+done using simulated data,
+											when we pretend to point our telescopes
+											to the black hole
+in the center of our galaxy.
+											Although this is just a simulation,
+reconstruction such as this give us hope
+											that we'll soon be able to reliably take
+the first image of a black hole
+											and from it, determine
+the size of its ring.
+											Although I'd love to go on
+about all the details of this algorithm,
+											luckily for you, I don't have the time.
+									","
+											Olay yeri incelemecinin, yüz yapısına
+ilişkin kendi bilgilerini kullanarak
+											resmin parçalarını birleştirmek
+için kısıtlı tanımlama kullanması gibi
+											geliştirdiğim bu resim algoritması da
+evrende madde gibi görünen resme
+											bizi yönlendirmesi için bizim kısıtlı 
+teleskop verilerini kullanmaktadır.
+											Bu algoritmayı kullanarak,
+seyrek ve gürültülü veriden
+
+											resmi bir araya getirebiliriz.
+											Burada, evrenin merkezindeki 
+kara deliğe doğru
+											teleskobumuzu doğrultmuş
+gibi yaptığımızdaki taklit veriyi
+											kullanarak yapılan örnek
+rekonstrüksiyonu gösteriyorum.
+											Bu yalnızca bir taklit olmasına rağmen,
+											bu tür bir rekonstrüksiyon
+bize umut veriyor,
+											eninde sonunda kara deliğin güvenilir 
+bir şekilde ilk resmini alacağız
+											ve bundan, çemberin
+büyüklüğüne karar vereceğiz.
+											Algoritmanın detayları hakkında
+devam etmek istememe rağmen,
+											şanslısınız ki, bunun için zamanım yok.
+									","
+											Tout comme un portraitiste judiciaire
+utilise des descriptions limitées
+											pour composer une image à l'aide
+de son savoir en structure faciale,
+											mes algorithmes utilisent
+notre information télescopique limitée
+											pour nous guider vers une image qui
+ressemble à ce qu'il y a dans l'univers.
+											À l'aide de ces algorithmes,
+nous pouvons assembler des images
+											à partir de cette information
+bruyante et rare.
+											Voici un exemple d'une reconstruction
+faite avec de l'information simulée
+											quand nous prétendons
+diriger nos télescopes
+											vers le trou noir
+au centre de notre galaxie.
+											Bien que ce ne soit qu'une simulation,
+une telle reconstruction donne l'espoir
+											qu'il sera bientôt possible de prendre
+la première vraie image d'un trou noir
+											à partir de laquelle nous pourrons
+déterminer son diamètre.
+											Bien que j'adorerais continuer
+à parler des détails de l'algorithme,
+											heureusement pour vous,
+je n'ai pas le temps.
+									",How to take a picture of a black hole,Katie Bouman,12:51,"astronomy,collaboration,exploration,innovation,nature,science,physics,science and art,technology,universe,TEDx,visualizations,space,telescopes"
+"
+","
+","
+",How to take a picture of a black hole,Katie Bouman,12:51,"astronomy,collaboration,exploration,innovation,nature,science,physics,science and art,technology,universe,TEDx,visualizations,space,telescopes"
+"
+											But I'd still like
+to give you a brief idea
+											of how we define
+what our universe looks like,
+											and how we use this to reconstruct
+and verify our results.
+											Since there are an infinite number
+of possible images
+											that perfectly explain
+our telescope measurements,
+											we have to choose
+between them in some way.
+											We do this by ranking the images
+											based upon how likely they are
+to be the black hole image,
+											and then choosing the one
+that's most likely.
+									","
+											Evrenimizin neye benzediğini,
+nasıl tanımladığımıza
+											ve yeniden inşa etmek ve 
+sonuçlarımızı doğrulamak için
+											bunu nasıl kullandığımıza dair
+kısa bir fikir vermek istiyorum.
+											Teleskobumuzun ölçümlerini
+mükemmel şekilde açıklayan
+											sonsuz sayıda resim olduğundan
+											bir şekilde bunların arasından
+seçim yapmak zorundayız..
+											Ne kadar kara delik resmine benzediği 
+
+											çerçevesinde resimleri
+sıralayarak bunu yapıyoruz
+											ve en muhtemel olanı seçiyoruz.
+									","
+											J'aimerais quand même
+vous donner une idée
+											comment nous déterminons
+à quoi notre univers ressemble
+											et comment nous utilisons ça pour
+reconstruire et vérifier nos résultats.
+											Comme il existe un nombre infini
+d'images possibles
+											qui explique parfaitement
+les mesures des télescopes,
+											nous devons choisir entre elles
+en quelque sorte.
+											Ce choix est fait en classant les images
+											suivant la probabilité
+qu'elles soient l'image du trou noir,
+											puis en choisissant
+celle qui semble la plus probable.
+									",How to take a picture of a black hole,Katie Bouman,12:51,"astronomy,collaboration,exploration,innovation,nature,science,physics,science and art,technology,universe,TEDx,visualizations,space,telescopes"
+"
+","
+","
+",How to take a picture of a black hole,Katie Bouman,12:51,"astronomy,collaboration,exploration,innovation,nature,science,physics,science and art,technology,universe,TEDx,visualizations,space,telescopes"
+"
+											So what do I mean by this exactly?
+											Let's say we were trying to make a model
+											that told us how likely an image
+were to appear on Facebook.
+											We'd probably want the model to say
+											it's pretty unlikely that someone
+would post this noise image on the left,
+											and pretty likely that someone
+would post a selfie
+											like this one on the right.
+											The image in the middle is blurry,
+											so even though it's more likely
+we'd see it on Facebook
+											compared to the noise image,
+											it's probably less likely we'd see it
+compared to the selfie.
+									","
+											Peki, bununla tam olarak
+neyi kastediyorum?
+											Bize Facebook'ta bir resmin ne kadar
+ihtimalle görüneceğini anlatan
+											modeli yapmak için çalışıyoruz diyelim.
+											Muhtemelen modelden,
+											birinin bu gürültü resmini sola
+koymuş olmasını biraz ihtimal dışı
+											ve birinin sağdakine
+benzer özçekim koymasının
+											olası olduğunu söylemesini isteriz.
+											Ortadaki resim flu,
+											gürültü resmi ile
+kaşılaştırıldığında Facebook'ta
+											görecek olmamıza rağmen
+											özçekim ile kaşılaştırıldığında
+muhtemelen daha az göreceğiz.
+									","
+											Qu'est-ce que je veux dire exactement ?
+											Disons que nous essayons
+de créer un modèle
+											qui nous donne la probabilité
+d'apparition d'une image sur Facebook.
+											Nous voudrions que le modèle dise
+											qu'il est peu probable que quelqu'un poste
+cette image confuse à gauche,
+											et plutôt probable
+que quelqu'un poste un selfie,
+											comme celle de droite.
+											L'image du milieu est floue,
+											et bien qu'il soit plus probable
+de la voir sur Facebook
+											comparée à l'image brouillée,
+											il est peu probable que nous la voyions
+comparée au selfie.
+									",How to take a picture of a black hole,Katie Bouman,12:51,"astronomy,collaboration,exploration,innovation,nature,science,physics,science and art,technology,universe,TEDx,visualizations,space,telescopes"
+"
+","
+","
+",How to take a picture of a black hole,Katie Bouman,12:51,"astronomy,collaboration,exploration,innovation,nature,science,physics,science and art,technology,universe,TEDx,visualizations,space,telescopes"
+"
+											But when it comes to images
+from the black hole,
+											we're posed with a real conundrum:
+we've never seen a black hole before.
+											In that case, what is a likely
+black hole image,
+											and what should we assume
+about the structure of black holes?
+											We could try to use images
+from simulations we've done,
+											like the image of the black hole
+from ""Interstellar,""
+											but if we did this,
+it could cause some serious problems.
+											What would happen
+if Einstein's theories didn't hold?
+											We'd still want to reconstruct
+an accurate picture of what was going on.
+											If we bake Einstein's equations
+too much into our algorithms,
+											we'll just end up seeing
+what we expect to see.
+											In other words,
+we want to leave the option open
+											for there being a giant elephant
+at the center of our galaxy.
+									","
+											Fakat kara delikten gelen
+resme sıra geldiğinde
+											gerçek bir muamma ile karşılaştık:
+Kara deliği daha önce hiç görmemiştik.
+											Bu durumda, kara delik nasıl bir şey
+											ve kara deliğin yapısı hakkında
+neyi farz kabul etmeliyiz?
+											""Yıldızlararası""ndaki kara delik
+resmi gibi yapmış olduğumuz
+											simulasyondaki resimleri
+kullanmayı deneyebiliriz,
+											fakat eğer bunu yaparsak bu,
+önemli problemlere sebep olabilir.
+											Eğer Einstein'nin teorileri
+tutmasaydı ne olurdu?
+											Hâlâ ne olduğu hakkında kesin fotoğrafı 
+yeniden ortaya çıkartmak istiyoruz.
+											Eğer Einstein'in denklemini bizim
+algoritmamız içinde çok ısıtırsak
+											ne görmek istiyorsak onu göreceğiz.
+											Diğer bir deyişle, evrenimizin merkezinde
+											koca bir fil olabilmesi opsiyonunu
+açık bırakmak istiyoruz.
+									","
+											Mais quand il s'agit
+des images du trou noir,
+											nous faisons face à un vrai dilemme :
+nous n'avons jamais vu de trou noir.
+											A quoi doit ressembler
+une image d'un trou noir
+											et que devrions-nous supposer
+de la structure de ceux-ci ?
+											Nous pourrions utiliser des images
+de simulations précédentes,
+											comme celle du trou noir
+d'« Interstellar »,
+											ce qui pourrait causer
+de sérieux problèmes.
+											Que se passerait-il si les théories
+d'Einstein s'avéraient fausses ?
+											Nous voudrions quand même reconstruire
+une image fidèle de ce qui se passe.
+											Si nos algorithmes s'appuient trop
+sur les équations d'Einstein,
+											nous ne finirons que par voir
+ce que nous espérons voir.
+											Nous voulons laisser la porte ouverte
+											à la présence d'un éléphant géant
+au centre de notre galaxie.
+									",How to take a picture of a black hole,Katie Bouman,12:51,"astronomy,collaboration,exploration,innovation,nature,science,physics,science and art,technology,universe,TEDx,visualizations,space,telescopes"
+"
+","
+","
+",How to take a picture of a black hole,Katie Bouman,12:51,"astronomy,collaboration,exploration,innovation,nature,science,physics,science and art,technology,universe,TEDx,visualizations,space,telescopes"
+"
+											(Laughter)
+									","
+											(Gülüşme)
+									","
+											(Rires)
+									",How to take a picture of a black hole,Katie Bouman,12:51,"astronomy,collaboration,exploration,innovation,nature,science,physics,science and art,technology,universe,TEDx,visualizations,space,telescopes"
+"
+","
+","
+",How to take a picture of a black hole,Katie Bouman,12:51,"astronomy,collaboration,exploration,innovation,nature,science,physics,science and art,technology,universe,TEDx,visualizations,space,telescopes"
+"
+											Different types of images have
+very distinct features.
+											We can easily tell the difference
+between black hole simulation images
+											and images we take
+every day here on Earth.
+											We need a way to tell our algorithms
+what images look like
+											without imposing one type
+of image's features too much.
+											One way we can try to get around this
+											is by imposing the features
+of different kinds of images
+											and seeing how the type of image we assume
+affects our reconstructions.
+											If all images' types produce
+a very similar-looking image,
+											then we can start to become more confident
+											that the image assumptions we're making
+are not biasing this picture that much.
+									","
+											Değişik tipteki resimler
+farklı özelliklere sahiptir.
+											Kolayca kara delik similasyon resmiyle
+bizim her gün dünyadan aldığımız resim
+											arasındaki farkı söyleyebiliriz.
+											Çok fazla tek tipte resmin
+özelliklerini empoze etmeksizin
+											resmin neye benzediğini bizim
+algoritmamıza söylemeye ihtiyacımız var.
+											Bu işi halletmeye çalışmanın bir yolu
+
+											değişik çeşitteki resimlerin
+özelliklerini empoze etmek
+											ve varsaydığımız resmin tipinin
+											rekonstrüksiyonumuzu
+nasıl etkilediğini görmek.
+											Eğer tüm resim tipleri birbirine
+çok benzeyen resimler üretirse
+											biz daha güvenilir
+olmaya başlayabiliriz ki
+											bizim yaptığımız resim varsayımları
+bu resimden çok fazla sapmaz.
+									","
+											Des types différents d'images
+ont des traits très particuliers.
+											On peut facilement faire la différence
+entre les images simulées d'un trou noir
+											et celles que nous prenons
+tous les jours sur Terre.
+											Il nous faut une façon de dire
+à nos algorithmes
+											à quoi les images ressemblent
+											sans trop imposer
+un type de caractéristique d'image.
+											Nous pourrions contourner ce problème
+											en imposant les caractéristiques
+de différents types d'images
+											et voir comment ces genres d'images
+influencent nos reconstructions.
+											Si tous les types d'images produisent
+une image très similaire,
+											nous pouvons donc gagner
+confiance sur le fait
+											que nos hypothèses ne biaisent
+pas tellement la photo.
+									",How to take a picture of a black hole,Katie Bouman,12:51,"astronomy,collaboration,exploration,innovation,nature,science,physics,science and art,technology,universe,TEDx,visualizations,space,telescopes"
+"
+","
+","
+",How to take a picture of a black hole,Katie Bouman,12:51,"astronomy,collaboration,exploration,innovation,nature,science,physics,science and art,technology,universe,TEDx,visualizations,space,telescopes"
+"
+											This is a little bit like
+giving the same description
+											to three different sketch artists
+from all around the world.
+											If they all produce
+a very similar-looking face,
+											then we can start to become confident
+											that they're not imposing their own
+cultural biases on the drawings.
+											One way we can try to impose
+different image features
+											is by using pieces of existing images.
+											So we take a large collection of images,
+											and we break them down
+into their little image patches.
+											We then can treat each image patch
+a little bit like pieces of a puzzle.
+											And we use commonly seen puzzle pieces
+to piece together an image
+											that also fits our telescope measurements.
+									","
+											Dünyadaki 3 ayrı eskiz ressamına
+											aynı tanımlamayı vermek gibi bir şey.
+											Eğer hepsi birbirine benzeyen
+yüzler çiziyorlarsa
+											onların kendi kültürel önyargılarını
+resme empoze etmediklerinden
+											emin olmaya başlayabiliriz.
+											Değişik resim özelliklerini empoze 
+etmeyi denememizin bir yolu
+											mevcut resmin parçalarını kullanmaktır.
+											Yani, geniş bir resim koleksiyonu alırız
+											ve bunları küçük resim
+parçalarına ayırırız.
+											Her bir resim parçasını yapbozun
+bir parçası gibi değerlendirebiliriz.
+											Genelde parçaları bir araya getirmek için
+görünen yapboz parçalarını kullanırız
+											ki bu parçalar bizim teleskop
+ölçeğimize uymaktadır.
+									","
+											C'est un peu comme
+donner la même description
+											à trois dessinateurs autour du monde.
+											S'ils produisent un visage très similaire,
+											nous pouvons alors être certains
+											qu'ils n'imposent pas leur propre
+subjectivité culturelle aux dessins.
+											Un moyen pour imposer des
+caractéristiques d'image différentes
+											est d'utiliser des morceaux
+d'images existantes.
+											Nous prenons une grande
+collection d'images,
+											et nous les découpons en petits morceaux.
+											Nous pouvons alors traiter chaque morceau
+comme les pièces d'un puzzle.
+											Nous utilisons ces pièces de puzzle
+pour assembler une image
+											qui correspond aussi
+avec les mesures des télescopes.
+									",How to take a picture of a black hole,Katie Bouman,12:51,"astronomy,collaboration,exploration,innovation,nature,science,physics,science and art,technology,universe,TEDx,visualizations,space,telescopes"
+"
+","
+","
+",How to take a picture of a black hole,Katie Bouman,12:51,"astronomy,collaboration,exploration,innovation,nature,science,physics,science and art,technology,universe,TEDx,visualizations,space,telescopes"
+"
+											Different types of images have
+very distinctive sets of puzzle pieces.
+											So what happens when we take the same data
+											but we use different sets of puzzle pieces
+to reconstruct the image?
+											Let's first start with black hole
+image simulation puzzle pieces.
+											OK, this looks reasonable.
+											This looks like what we expect
+a black hole to look like.
+											But did we just get it
+											because we just fed it little pieces
+of black hole simulation images?
+											Let's try another set of puzzle pieces
+											from astronomical, non-black hole objects.
+											OK, we get a similar-looking image.
+											And then how about pieces
+from everyday images,
+											like the images you take
+with your own personal camera?
+											Great, we see the same image.
+											When we get the same image
+from all different sets of puzzle pieces,
+											then we can start to become more confident
+											that the image assumptions we're making
+											aren't biasing the final
+image we get too much.
+									","
+											Değişik tipteki resimler farklı
+yapboz parçası setlerine sahiptir.
+											Peki farklı yapboz parçası setini resmi
+yeniden oluşturmak için kullandığımızda
+											fakat aynı veriyi aldığımızda ne olur?
+											Kara deliğin resim simülasyon
+yapboz parçaları ile başlayalım
+											Peki, bu mantıklı görünüyor.
+											Kara deliğin benzemesini 
+umduğumuz şekilde görünüyor.
+											Ama sadece kara deliğin simülasyon
+resimlerini sağladığımız için mi
+											bunu elde ettik ?
+											Haydi kara deliğe ailt olmayan 
+astronomik nesnelerden
+											diğer yapboz parçalarının
+setini deneyelim.
+											Peki. Benzer şekilde
+görünen resmi elde ettik.
+											Günlük resimlerden elde
+edilen parçalar nasıl olur?
+											Kendi şahsi kameranla
+çektiğin resimler gibi.
+											Güzel, aynı resmi görüyoruz.
+											Aynı resmi farklı yapboz parçaları 
+setinden elde ettiğimizde
+											daha güvenilir olmaya başlayabiliriz
+											ki yaptığımız resim kabulü,
+											çok fazla aldığımız son
+resimle karşıtlık oluşturmaz.
+									","
+											Différents types d'images ont des 
+lots propres de pièces de puzzle.
+											Ce qui se produit quand
+on prend les mêmes données
+											mais qu'on utilise différents lots de 
+pièces pour reconstruire l'image ?
+											Commençons par des pièces de
+puzzle d'image de simulation du trou noir.
+											OK. Cela semble raisonnable.
+											Ceci ressemble à ce qu'on 
+attend d'un trou noir.
+											Mais ne l'avons-nous pas obtenu
+											car nous avons nourri la machine de petits
+morceaux de notre simulation ?
+											Essayons un autre lot de puzzle
+											à partir des objets
+astronomiques, non du trou noir.
+											D'accord, on obtient une image similaire.
+											Ensuite, testons les pièces
+d'images quotidiennes
+											comme les images que vous prenez
+avec votre appareil photo.
+											Génial, nous voyons la même image.
+
+											Quand on obtient la même image
+avec tous les différents lots de puzzle,
+											alors on peut commencer
+à être plus sûr
+											que nos hypothèses d'image
+											ne biaisent pas trop
+l'image finale obtenue.
+									",How to take a picture of a black hole,Katie Bouman,12:51,"astronomy,collaboration,exploration,innovation,nature,science,physics,science and art,technology,universe,TEDx,visualizations,space,telescopes"
+"
+","
+","
+",How to take a picture of a black hole,Katie Bouman,12:51,"astronomy,collaboration,exploration,innovation,nature,science,physics,science and art,technology,universe,TEDx,visualizations,space,telescopes"
+"
+											Another thing we can do is take
+the same set of puzzle pieces,
+											such as the ones derived
+from everyday images,
+											and use them to reconstruct
+many different kinds of source images.
+											So in our simulations,
+											we pretend a black hole looks like
+astronomical non-black hole objects,
+											as well as everyday images like
+the elephant in the center of our galaxy.
+											When the results of our algorithms
+on the bottom look very similar
+											to the simulation's truth image on top,
+											then we can start to become
+more confident in our algorithms.
+											And I really want to emphasize here
+											that all of these pictures were created
+											by piecing together little pieces
+of everyday photographs,
+											like you'd take with your own
+personal camera.
+											So an image of a black hole
+we've never seen before
+											may eventually be created by piecing
+together pictures we see all the time
+											of people, buildings,
+trees, cats and dogs.
+											Imaging ideas like this
+will make it possible for us
+											to take our very first pictures
+of a black hole,
+											and hopefully, verify
+those famous theories
+											on which scientists rely on a daily basis.
+									","
+											Yapabileceğimiz diğer bir şey
+günlük resimlerden türetilende
+											olduğu gibi aynı set
+yapboz parçalarını almak
+											ve onları birçok farklı resim kaynağını
+yeniden inşa için kullanmaktır.
+											Bu nedenle similasyonumuzda
+											kara deliği, evrenin merkezindeki file
+benzer günlük resimlerde olduğu gibi
+											astronomik olmayan kara delik nesnelere
+benziyormuş gibi değerlendiriyoruz.
+											En alttaki algoritma sonuçlarımız 
+en üstteki simülasyonumuzun
+											gerçek resmiyle benzer göründüğünde,
+											algoritmamızda daha güvenilir
+olmaya başlayabiliriz.
+											Burada gerçekten vurgulamak istediğim,
+											tüm bu resimler
+											kişisel kameranızla çektiğiniz 
+fotoğraflar gibi olan günlük fotoğrafların
+											parçalarının bir araya
+getirilmesiyle oluşturuldu.
+											Bu nedenle daha önce
+görmediğimiz kara delik resmi
+											her an gördüğümüz insanların, binaların,
+ağaçların, kedilerin ve köpeklerin
+											resimlerinin bir araya
+getirilmesiyle oluşturulabilir.
+											Bu tarz bir fotoğraflama düşüncesi,
+ilk kara delik resmimizi çekmemizi
+
+											bizim için mümkün kılabilir
+											ve inşallah bilim adamlarının günlük 
+
+											bazda dayandığı teoriyi doğrulayacağız.
+									","
+											On peut aussi prendre les mêmes
+lots de pièces de puzzle,
+											tel que ceux dérivés
+d'images quotidiennes,
+											et les utiliser pour reconstruire beaucoup
+de différents types d'image source.
+											Ainsi dans nos simulations,
+											nous prétendons qu'un trou 
+noir ressemble à des objets non-trou noir,
+											ou à nos images quotidiennes
+comme l'éléphant au cœur de notre galaxie.
+											Quand le résultat
+de nos algorithmes, en bas,
+											ressemble à l'image témoin
+de la simulation en haut,
+											nos algorithmes commencent
+à nous convaincre.
+											Je tiens vraiment à souligner ici
+que tous ces images ont été créées
+											en accolant des petits morceaux 
+de photos quotidiennes,
+											comme celles que vous auriez pu prendre.
+											Donc une image d'un trou noir
+qu'on a jamais vu précédemment
+											peut être finalement être créée par
+l'assemblage de photos quotidiennes
+											de personnes, de bâtiments, 
+d'arbres, de chats et de chiens.
+											Imaginer de telles idées nous permet
+											de prendre nos tout premières
+photos d'un trou noir,
+											et avec optimisme de vérifier
+ces théories célèbres
+
+											sur lesquelles les scientifiques
+se basent tous les jours.
+									",How to take a picture of a black hole,Katie Bouman,12:51,"astronomy,collaboration,exploration,innovation,nature,science,physics,science and art,technology,universe,TEDx,visualizations,space,telescopes"
+"
+","
+","
+",How to take a picture of a black hole,Katie Bouman,12:51,"astronomy,collaboration,exploration,innovation,nature,science,physics,science and art,technology,universe,TEDx,visualizations,space,telescopes"
+"
+											But of course, getting
+imaging ideas like this working
+											would never have been possible
+without the amazing team of researchers
+											that I have the privilege to work with.
+											It still amazes me
+											that although I began this project
+with no background in astrophysics,
+											what we have achieved
+through this unique collaboration
+											could result in the very first
+images of a black hole.
+											But big projects like
+the Event Horizon Telescope
+											are successful due to all
+the interdisciplinary expertise
+											different people bring to the table.
+											We're a melting pot of astronomers,
+											physicists, mathematicians and engineers.
+											This is what will make it soon possible
+											to achieve something
+once thought impossible.
+									","
+											Fakat, çalışma ayrıcalığına eriştiğim 
+araştırma takımım olmasaydı
+											bunun gibi çalışan 
+resimleme fikrini edinmek
+											hiçbir zaman gerçekleşemezdi.
+											Herhangi bir astronomi alt yapım 
+olmadan bu projeye başlamama rağmen,
+											bu eşsiz işbirliğinin daha ilk kara delik
+resminde sonuç verebilmesiyle
+											başardığımız şey beni hâlen şaşırtıyor.
+											Fakat ""Event Horizon Telescope""
+gibi büyük projeler
+											disiplinler arası uzman farklı insanların 
+masaya getirilmesi nedeniyle başarılıdır.
+											Biz, aynı potada eriyen astronom, fizikçi,
+matematikçi ve mühendisleriz.
+											Bu, imkânsız olduğu
+düşünülen şeyi başarmak için
+											eninde sonunda yapılacak olan şeydir.
+									","
+											Mais bien sûr, la concrétisation
+d'idées pareilles
+											n'aurait pas été possible sans 
+l'équipe incroyable de chercheurs
+											avec qui j'ai le privilège de travailler.
+											Cela m'étonne encore
+											qu'en dépit de mes lacunes
+en astrophysique,
+											ce qu'on a pu accomplir
+grâce à cette collaboration unique
+											puisse mener aux premières
+photos d'un trou noir.
+											Les grand projets comme 
+l'Event Télescope Horizon
+											réussissent grâce à toutes
+l'expertise interdisciplinaire
+											que différentes personnes apportent.
+											On est un creuset d’astronomes,
+											de physiciens, de mathématiciens
+et d'ingénieurs.
+											C'est ce qui rendra bientôt possible
+											la réalisation d'une chose 
+que l'on pensait impossible.
+									",How to take a picture of a black hole,Katie Bouman,12:51,"astronomy,collaboration,exploration,innovation,nature,science,physics,science and art,technology,universe,TEDx,visualizations,space,telescopes"
+"
+","
+","
+",How to take a picture of a black hole,Katie Bouman,12:51,"astronomy,collaboration,exploration,innovation,nature,science,physics,science and art,technology,universe,TEDx,visualizations,space,telescopes"
+"
+											I'd like to encourage all of you to go out
+											and help push the boundaries of science,
+											even if it may at first seem
+as mysterious to you as a black hole.
+									","
+											İlk bakışta kara delik
+kadar gizemli gelse de
+											sizi dışarı çıkmaya, bilimin sınırlarının
+genişletilmesine yardım etmeye
+											davet ediyorum.
+									","
+											J'aimerais vous encourager à lever la main
+											et aider à repousser
+les limites de la science,
+											même si cela peut vous sembler 
+aussi mystérieux qu'un trou noir.
+									",How to take a picture of a black hole,Katie Bouman,12:51,"astronomy,collaboration,exploration,innovation,nature,science,physics,science and art,technology,universe,TEDx,visualizations,space,telescopes"
+"
+","
+","
+",How to take a picture of a black hole,Katie Bouman,12:51,"astronomy,collaboration,exploration,innovation,nature,science,physics,science and art,technology,universe,TEDx,visualizations,space,telescopes"
+"
+											Thank you.
+									","
+											Teşekkür ederim
+									","
+											Merci.
+									",How to take a picture of a black hole,Katie Bouman,12:51,"astronomy,collaboration,exploration,innovation,nature,science,physics,science and art,technology,universe,TEDx,visualizations,space,telescopes"
+"
+","
+","
+",How to take a picture of a black hole,Katie Bouman,12:51,"astronomy,collaboration,exploration,innovation,nature,science,physics,science and art,technology,universe,TEDx,visualizations,space,telescopes"
+"
+											(Applause)
+									","
+											(Alkış)
+									","
+											(Applaudissements)
+									",How to take a picture of a black hole,Katie Bouman,12:51,"astronomy,collaboration,exploration,innovation,nature,science,physics,science and art,technology,universe,TEDx,visualizations,space,telescopes"
+"
+","
+","
+",How to take a picture of a black hole,Katie Bouman,12:51,"astronomy,collaboration,exploration,innovation,nature,science,physics,science and art,technology,universe,TEDx,visualizations,space,telescopes"

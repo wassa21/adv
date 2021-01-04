@@ -1,0 +1,1812 @@
+en,es,tr,fr,de,title,speaker,duration,tags
+"
+","
+","
+","
+","
+",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+											I got my first computer when I was a teenager growing up in Accra,
+											and it was a really cool device.
+											You could play games with it. You could program it in BASIC.
+											And I was fascinated.
+											So I went into the library to figure out how did this thing work.
+											I read about how the CPU is constantly shuffling data back and forth
+											between the memory, the RAM and the ALU,
+											the arithmetic and logic unit.
+											And I thought to myself, this CPU really has to work like crazy
+											just to keep all this data moving through the system.
+									","
+											Tuve mi primer ordenador siendo un adolescente que crecía en Accra,
+											y era realmente un aparato increíble.
+											Podías jugar con él, programar en BASIC.
+											Y yo estaba fascinado.
+											Así que fui a la biblioteca para entender cómo funcionaba esa cosa.
+											Leí cómo la CPU está constantemente moviendo datos de un lado a otro
+											entre la memoria, la RAM y la ALU,
+											la unidad de aritmética y lógica.
+											Y pensé, esta CPU realmente tiene que trabajar como loca
+											sólo para mantener todos estos datos moviéndose por el sistema.
+									","
+											İlk bilgisayarımı gençliğimde, Accra'da büyürken aldım.
+											ve gerçekten çok hoş bir cihazdı.
+											Onunla oyun oynayabilir, onu BASIC dilinde programlayabilirdiniz.
+											Ve gerçekten etkilenmiştim.
+											Bu yüzden bu şeyin nasıl çalıştığını öğrenmek için kütüphaneye gittim.
+											İşlemcinin (CPU) verileri bellek (RAM) ve
+											aritmetik mantık birimi (ALU) arasında
+											nasıl sürekli ileri geri aktardığını okudum.
+											Ve kendi kendime düşündüm ki, bu CPU, tüm bu veriyi
+											sistemin orasından orasına taşımak için gerçekten deli gibi çalışıyor olmalı
+									","
+											J'ai eu mon premier ordinateur quand j'étais adolescent et que je grandissais à Accra,
+											et c'était vraiment une belle machine.
+											On pouvait jouer avec ou le programmer en BASIC
+											Et j'étais fasciné.
+											Donc je suis allé à la bibliothèque pour comprendre comment cette chose marchait.
+											J'ai lu sur le processeur qui fait constamment aller et venir les données
+											entre la memoire, la RAM et l'UAL,
+											l'unité arithmétique et logique.
+											Et je me suis dit que le processeur devait vraiment travailler comme un fou
+											simplement pour que toutes ces données bougent à travers le système.
+									","
+											Ich habe meinen ersten Computer als Teenager in Accra bekommen
+											und es war ein echt tolles Gerät.
+											Man konnte Spiele damit spielen und in BASIC programmieren.
+											Ich war fasziniert davon.
+											Also ging ich in die Bücherei, um herauszufinden, wie dieses Ding funktionierte.
+											Ich las, dass die CPU ständig Daten hin und her schiebt
+											zwischen Speicher, RAM und der ALU,
+											der arithmetisch-logischen Einheit.
+											Und ich dachte mir, diese CPU muss wirklich wie verrückt arbeiten,
+											damit die ganzen Daten ungehindert fließen können.
+									",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+","
+","
+","
+","
+",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+											But nobody was really worried about this.
+											When computers were first introduced,
+											they were said to be a million times faster than neurons.
+											People were really excited. They thought they would soon outstrip
+											the capacity of the brain.
+											This is a quote, actually, from Alan Turing:
+											""In 30 years, it will be as easy to ask a computer a question
+											as to ask a person.""
+											This was in 1946. And now, in 2007, it's still not true.
+											And so, the question is, why aren't we really seeing
+											this kind of power in computers that we see in the brain?
+									","
+											Pero nadie estaba realmente preocupado por esto.
+											Cuando se presentaron por primera vez los computadores,
+											se dijo que eran un millón de veces más rápidos que las neuronas.
+											Todos estaban realmente entusiasmados, pensaron que pronto sobrepasarían
+											la capacidad del cerebro.
+											Esta es una cita, realmente, de Alan Turing:
+											""Dentro de 30 años, será igual de fácil preguntarle algo a un ordenador,
+											como a una persona.""
+											La cita es de 1946. Ahora, en 2007, todavía no es cierta.
+											La cuestión es, ¿por qué no estamos realmente viendo
+											esta capacidad en los ordenadores que sí vemos en el cerebro?
+									","
+											Ancak bunun hakkında pek endişe eden de yoktu.
+											Bilgisayarlar ilk çıktığında,
+											sinirlerden milyon kat hızlı oldukları söylenmişti.
+											İnsanlar etkilenmişti, yakında beynin kapasitesini
+											geçeceklerini düşündüler.
+											Alan Turing'den bir söz:
+											""30 yıl içerisinde, bilgisayara bir soru sormak,
+											insana soru sormak kadar kolay olacak.""
+											Bu 1946 yılındaydı. Şimdi 2007 yılındayız, söz hala doğru değil.
+											Soru şu, beyinde gördüğümüz ölçekteki güçleri
+											neden bilgisayarda göremiyoruz?
+									","
+											Mais personne ne s'inquiétait vraiment de ça.
+											Quand les ordinateurs ont commencé à être connus,
+											Ils disaient qu'ils étaient un million de fois plus rapide que les neurones.
+											Les gens étaient vraiment excités, ils pensaient qu'on allait bientôt dépasser
+											les capacités du cerveau.
+											Une citation d'Alan Turing:
+											""Dans 30 ans, ce sera aussi facile de poser une question à un ordinateur,
+											que d'en poser une à une personne.""
+											C'était en 1946. Et maintenant en 2007, ce n'est toujours pas le cas.
+											Mais pourquoi donc on ne voit pas encore
+											la même puissance dans les ordinateurs que l'on voit dans le cerveau ?
+									","
+											Aber keiner machte sich darüber wirklich Gedanken.
+											Als die ersten Computer auf den Markt kamen,
+											wurde gesagt, sie seien eine Million Mal schneller als Neuronen.
+											Die Menschen waren begeistert. Sie dachten, es würde nicht lange dauern,
+											bis Computer die Kapazität des Gehirns übertreffen würden.
+											Hier ist ein Zitat von Alan Turing:
+											""In 30 Jahren wird es genauso einfach sein, einem Computer eine Frage zu stellen
+											wie einem Menschen.""
+											Das stammt von 1946. Und heute, 2007, trifft es immer noch nicht zu.
+											Die Frage ist, warum sehen wir die Fähigkeiten,
+											die das Gehirn hat, nicht auch in Computern?
+									",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+","
+","
+","
+","
+",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+											What people didn't realize, and I'm just beginning to realize right now,
+											is that we pay a huge price for the speed
+											that we claim is a big advantage of these computers.
+											Let's take a look at some numbers.
+											This is Blue Gene, the fastest computer in the world.
+											It's got 120,000 processors; they can basically process
+											10 quadrillion bits of information per second.
+											That's 10 to the sixteenth. And they consume one and a half megawatts of power.
+											So that would be really great, if you could add that
+											to the production capacity in Tanzania.
+											It would really boost the economy.
+											Just to go back to the States,
+											if you translate the amount of power or electricity
+											this computer uses to the amount of households in the States,
+											you get 1,200 households in the U.S.
+											That's how much power this computer uses.
+									","
+											Lo que nadie se da cuenta, y yo estoy empezando a descubrir ahora
+											es que pagamos un alto precio por la velocidad,
+											que afirmamos es una gran ventaja de estos ordenadores.
+											Echemos un vistazo a algunos números.
+											Éste es Blue Gene, el ordenador más rápido del mundo.
+											Tiene 120.000 procesadores; pueden procesar
+											10 mil billones de bits de información por segundo.
+											Eso es un 10 elevado a la potencia de 16. Entre todos ellos consumen un megavatio y medio de potencia.
+											Sería genial si se pudiese añadir esa cantidad
+											a la producción eléctrica de Tanzania.
+											Realmente daría un impulso a la economía.
+											Pero volviendo a los Estados Unidos,
+											si equiparas la cantidad de potencia eléctrica
+											que ese ordenador emplea con la consumida por un hogar en Estados Unidos,
+											obtienes 1.200 hogares,
+											esa es la cantidad de energía que ese ordenador consume.
+									","
+											İnsanların fark edemediği, benim ise şimdilerde fark etmeye başladığım şey,
+											bu bilgisayarların büyük avatajı olan hız için
+											büyük bir bedel ödüyor olmamız.
+											Haydi biraz da bazı verilere bakalım.
+											Bu, Blue Gene, dünyadaki en hızlı bilgisayar.
+											120,000 işlemciye sahip. Saniyede 10 katrilyon
+											bit bilgi işleyebilmekte.
+											Bu 10 üzeri 16 demek. Ve bir buçuk megawatt güç harcıyor.
+											Eğer bu miktarı Tanzanya'nın üretim kapasitesine
+											ekleyebilseydiniz harika olurdu.
+											Ekonomiyi cidden canlandırırdı.
+											Amerika'ya dönelim,
+											Eğer bu bilgisayarın kullandığı elektrik enerjisi miktarını
+											ABD'deki evlerin güç tüketimine oranlayacak olursanız,
+											1200 ev gibi bir rakam elde edersiniz.
+											İşte bu bilgisayarın tükettiği güç miktarı.
+									","
+											Ce que les gens ne réalisent pas, et que je commence à réaliser maintenant,
+											c'est que nous avons payé le prix fort pour la vitesse,
+											que l'on disait être un gros avantage pour ces ordinateurs.
+											Regardons ces quelques chiffres.
+											C'est Blue Gene, l'ordinateur le plus rapide au monde.
+											Il a 120 000 coeurs qui peuvent traiter
+											10 millions de milliards d'information par seconde.
+											C'est 10 puissance 16. Et ça consomme un demi mégawatt.
+											Donc ça serait vraiment génial, si on pouvait les ajouter
+											à la production électrique de la Tanzanie.
+											ça boosterait vraiment l'économie.
+											Pour revenir aux U.S.A,
+											si on traduit la quantité d'énergie électrique
+											que cet ordinateur utilise en nombre de foyers américains,
+											ça donne 1 200 ménages,
+											Voilà pour l'énergie qu'utilise cet ordinateur.
+									","
+											Was die Menschen aber nicht verstehen und erst jetzt beginnen zu verstehen,
+											ist, dass wir einen gewaltigen Preis zahlen für die Geschwindigkeit,
+											die doch ein großer Vorteil dieser Computer sein soll.
+											Sehen wir uns mal einige Zahlen an.
+											Dies hier ist Blue Gene, der schnellste Rechner der Welt.
+											Er hat 120.000 Prozessoren, die 10 Billiarden Bits
+											an Informationen pro Sekunde verarbeiten können.
+											Das ist 10 hoch 16. Und sie verbrauchen anderthalb Megawatt Strom.
+											Wäre das nicht großartig, wenn man das
+											zur tansanischen Stromproduktion addieren könnte.
+											Das würde die Wirtschaft richtig ankurbeln.
+											Wenn wir zurück in die USA schauen,
+											entspricht die Menge Strom,
+											die dieser Computer vebraucht,
+											1.200 US-amerikanischen Haushalten.
+											So viel Strom verbraucht dieser Computer.
+									",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+","
+","
+","
+","
+",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+											Now, let's compare this with the brain.
+											This is a picture of, actually Rory Sayres' girlfriend's brain.
+											Rory is a graduate student at Stanford.
+											He studies the brain using MRI, and he claims that
+											this is the most beautiful brain that he has ever scanned.
+											(Laughter)
+											So that's true love, right there.
+											Now, how much computation does the brain do?
+											I estimate 10 to the 16 bits per second,
+											which is actually about very similar to what Blue Gene does.
+											So that's the question. The question is, how much —
+											they are doing a similar amount of processing, similar amount of data —
+											the question is how much energy or electricity does the brain use?
+											And it's actually as much as your laptop computer:
+											it's just 10 watts.
+											So what we are doing right now with computers
+											with the energy consumed by 1,200 houses,
+											the brain is doing with the energy consumed by your laptop.
+									","
+											Ahora, comparémoslo con el cerebro.
+											Esto es una fotografía del cerebro de la novia de Rory Sayre.
+											Rory es un estudiante de postgrado en Stanford.
+											El estudia el cerebro usando resonancias magnéticas, y afirma que
+											éste es el cerebro más bello que ha escaneado.
+											(Risas)
+											Eso es auténtico amor, aquí.
+											Ahora bien, ¿cuánto es capaz de procesar el cerebro?
+											Estimo que 10 elevado a la 16 bits por segundo
+											lo que es equivalente a la potencia de Blue Gene.
+											Así que esa es la interrogante. ¿Qué tan similar
+											son ambas potencias de procesamiento, ambas cantidades de datos
+											la cuestión es ¿cuánta energía o electricidad consume el cerebro?
+											Realmente, es la misma que la que consume un ordenador portátil.
+											Sólo 10 Vatios.
+											Así que lo que ahora hacemos con ordenadores,
+											con la energía consumida por 1.200 casas,
+											el cerebro lo está haciendo con la energía consumida por un portátil.
+									","
+											Şimdi, bunu beyinle karşılaştıralım.
+											Bu, Rory Sayres'in kız arkadaşının beyninin fotoğrafı.
+											Rory, Stanford'da bir yüksek lisans öğrencisi.
+											Beyin üzerinde MRI kullanarak çalışmalar yapıyor ve iddia ediyor ki
+											bu şimdiye kadar tarattığı en güzel beyin.
+											(Gülüşmeler)
+											İşte bu gerçek aşk, tam burada.
+											Şimdi, beyin ne kadar hesaplama yapıyor?
+											Yaklaşık olarak saniyede 10 üzeri 16 bit,
+											aslında Blue Gene'in yaptığına çok yakın.
+											İşte soru bu. Soru: ne kadar —
+											benzer miktarda işlem yapıyorlar, benzer miktarda veri var —
+											soru: ""beyin ne kadar enerji veya elektrik tüketiyor?"".
+											Ve aslında sadece dizüstü bilgisayarınız kadar:
+											Sadece 10 watt.
+											O zaman bizim şu anda bilgisayarlarla
+											1200 evin tükettiği enerjiyi tüketerek yaptığımız işi
+											beyin, dizüstü bilgisayarınız kadar enerji tüketerek yapıyor.
+									","
+											Maintenant, comparons le avec le cerveau.
+											Voici une image du cerveau de la petite amie de Rory Sayres.
+											Rory est un étudiant de troisième cycle à Stanford.
+											Il étudie le cerveau par IRM et il prétend
+											que c'est le plus beau cerveau qu'il ait jamais scanné.
+											(Rires)
+											Ca, c'est vraiment de l'Amour.
+											Alors, à quelle vitesse calcule le cerveau ?
+											Je l'estime à 10 puissance 16 bits par seconde
+											ce qui est en fait très proche de ce que fait Blue Gene.
+											Donc, la vraie question, c'est combien —
+											Ils calculent autant, une quantité similaire de donnée —
+											La question c'est quelle énergie, combien d'électricité est ce que le cerveau utilise ?
+											Et en fait, c'est autant que votre ordinateur portable :
+											seulement 10 watts.
+											Donc, ce que nous faisons actuellement avec les ordinateurs
+											avec l'énergie consommée par 1 200 maisons,
+											le cerveau le fait avec l'énergie consommée par votre PC portable.
+									","
+											Jetzt vergleichen wir das doch mal mit dem Gehirn.
+											Dies ist ein Bild vom Gehirn - von Rory Sayres' Freundin übrigens.
+											Rory ist Student in Stanford.
+											Er erforscht das Gehirn mittels MRI und er behauptet,
+											dies sei das schönste Gehirn, das er jemals gescannt habe.
+											(Gelächter)
+											Das ist wahre Liebe.
+											Also, wieviel Rechenkraft besitzt denn das Gehirn?
+											Meine Schätzung liegt bei 10 hoch 16 Bits pro Sekunde,
+											was sehr nah an dem liegt, was Blue Gene kann.
+											Und da lautet doch die Frage:
+											Wenn sie ähnlich viele Berechnungen durchführen, ähnlich viele Daten verarbeiten,
+											wieviel Energie oder Elektrizität braucht dann das Gehirn dafür?
+											Und es ist erstaunlicherweise soviel wie Ihr Laptop:
+											Nur 10 Watt.
+											Wofür Computer momentan dieselbe Energie
+											wie 1.200 Haushalte brauchen,
+											das schafft das Gehirn mit dem Energieverbrauch eines Laptop.
+									",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+","
+","
+","
+","
+",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+											So the question is, how is the brain able to achieve this kind of efficiency?
+											And let me just summarize. So the bottom line:
+											the brain processes information using 100,000 times less energy
+											than we do right now with this computer technology that we have.
+											How is the brain able to do this?
+											Let's just take a look about how the brain works,
+											and then I'll compare that with how computers work.
+											So, this clip is from the PBS series, ""The Secret Life of the Brain.""
+											It shows you these cells that process information.
+											They are called neurons.
+											They send little pulses of electricity down their processes to each other,
+											and where they contact each other, those little pulses
+											of electricity can jump from one neuron to the other.
+											That process is called a synapse.
+											You've got this huge network of cells interacting with each other —
+											about 100 million of them,
+											sending about 10 quadrillion of these pulses around every second.
+											And that's basically what's going on in your brain right now as you're watching this.
+									","
+											Así que la cuestión es, ¿cómo es capaz el cerebro de conseguir esa eficiencia?
+											Permitidme que resuma. En la línea inferior:
+											el cerebro procesa la información usando 100.000 veces menos energía
+											que la que utiliza la tecnología actual de computadores.
+											¿Cómo es capaz el cerebro de conseguir esto?
+											Echemos un vistazo a cómo funciona el cerebro
+											para luego compararlo con cómo funcionan los ordenadores.
+											Esta escena es de la serie de la PBS ""La vida secreta del cerebro"".
+											Muestra esas células que procesan información.
+											Se llaman neuronas.
+											Se envían pequeños pulsos de electricidad entre ellas,
+											y cuando se alcanzan, esos pequeños pulsos
+											de electricidad pueden pasar de una neurona a otra.
+											Ese proceso se llama sinapsis.
+											Está esa gran red de células interactuando entre ellas,
+											alrededor de 100 millones de ellas,
+											enviando cerca de diez mil billones de esos pulsos cada segundo.
+											Y eso es básicamente lo que está pasando en tu cerebro mientras ves esto.
+									","
+											Şu halde soru şu, beyin, bu denli verimliliği nasıl elde ediyor?
+											Ve özetlememe izin verin.
+											Beyin bilgiyi, halihazırdaki bilgisayar teknolojisine gore
+											100,000 kat daha az enerji harcayarak işliyor.
+											Peki beyin bunu nasıl başarıyor?
+											Haydi beynin nasıl çalıştığına bir bakalım,
+											ve bilgisayarların nasıl çalıştığıyla karşılaştıralım.
+											Bu kısa film ""Beynin Gizli Hayatı"" isimli PBS belgeselinden.
+											Bilgi işleyen hücreleri gösteriyor.
+											Bunlara ""nöron"" denir.
+											İşlem sırasında birbirlerine küçük elektrik atımları gönderirler,
+											ve birbirlerine dokundukları yerlerde bu küçük elektrik atımları,
+											bir nörondan diğerine atlar.
+											Bu işleme ""sinaps"" denir.
+											Yani elimizde birbirleriyle saniyede yaklaşık 10 katrilyon atım göndererek
+											haberleşen 100 milyon kadar hücreden oluşan
+											devasa bir ağ var.
+											Ve siz bu konuşmayı izlerken beyninizde olup biten de bu.
+									","
+											Alors, comment est ce que le cerveau peut être aussi efficace ?
+											Et laisser moi résumer, voici les faits :
+											le cerveau fonctionne en utilisant 100 000 fois moins d'énergie
+											que ce que nous faisons maintenant avec notre technologie informatique.
+											Comment le cerveau peut il faire cela ?
+											Regardons juste comment le cerveau fonctionne,
+											et après on va comparer ça à comment les ordinateurs fonctionnent.
+											Ce clip vient de la série PBS, ""La vie secrète du Cerveau"".
+											Qui vous monte ces cellules qui traitent l'information.
+											Ce sont les neurones.
+											Ils s'envoient des petites impulsions électriques
+											et à l'endroit où ils se touchent, ces petites impulsions
+											électriques peuvent sauter d'un neurone à un autre.
+											On appelle ça une synapse.
+											On a cet énorme réseau de cellules qui interagissent ensemble,
+											environ 100 million,
+											qui envoient environ 10 million de milliard d'impulsions par seconde.
+											Et c'est exactement ce qui se passe dans votre cerveau maintenant alors que vous me regardez.
+									","
+											Da fragt man sich, wie erreicht das Gehirn eine solche Effizienz?
+											Lassen Sie mich das nochmal zusammenfassen:
+											Das Gehirn verarbeitet Informationen mit 100.000 Mal weniger Energie,
+											als wir das momentan mit unserer Computertechnologie können.
+											Wie schafft das Gehirn das?
+											Sehen wir uns dazu mal an, wie das Gehirn funktioniert,
+											und im Vergleich dazu, wie Computer funktionieren.
+											Hier sehen wir einen Clip aus der Serie ""Das geheime Leben des Gehirns"".
+											Er zeigt diese Zellen, die Informationen verarbeiten.
+											Man nennt sie Neuronen.
+											Sie senden einander kleine elektrische Impulse entlang ihrer Bahnen
+											und an Berührungspunkten können diese Impulse
+											von einem Neuron zum anderen überspringen.
+											Dieser Prozess heißt Synapse.
+											Es gibt also dieses riesige Netzwerk
+											interagierender Zellen, ungefähr 100 Millionen davon,
+											die 10 Billiarden dieser Pulse pro Sekunde herumsenden.
+											Und genau das passiert auch gerade in Ihrem Gehirn, während Sie sich dies angucken.
+									",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+","
+","
+","
+","
+",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+											How does that compare with the way computers work?
+											In the computer, you have all the data
+											going through the central processing unit,
+											and any piece of data basically has to go through that bottleneck,
+											whereas in the brain, what you have is these neurons,
+											and the data just really flows through a network of connections
+											among the neurons. There's no bottleneck here.
+											It's really a network in the literal sense of the word.
+											The net is doing the work in the brain.
+											If you just look at these two pictures,
+											these kind of words pop into your mind.
+											This is serial and it's rigid — it's like cars on a freeway,
+											everything has to happen in lockstep —
+											whereas this is parallel and it's fluid.
+											Information processing is very dynamic and adaptive.
+									","
+											¿Cómo es éso respecto a la forma de trabajar de los ordenadores?
+											En un ordenador, todos los datos
+											pasan a través de la unidad central de proceso,
+											y cualquier dato tiene que pasar a través de ese cuello de botella.
+											Mientras que en el cerebro, lo que se tiene son esas neuronas
+											y los datos simplemente fluyen a través de la red de conexiones
+											entre las neuronas, no hay cuellos de botella aquí.
+											Es una red de trabajo o network en el sentido literal de las palabras.
+											La red hace el trabajo dentro del cerebro.
+											Si miráis estas dos imágenes,
+											esas palabras aparecen en vuestra mente.
+											Eso es en serie y es rígido: como los coches en una autopista —
+											todo tiene que suceder a un ritmo prefijado.
+											Sin embargo, esto es paralelo y es fluido.
+											El procesado de la información es muy dinámico y adaptativo.
+									","
+											Şimdi bunu bilgisayarların nasıl çalıştığıyla karşılaştıralım.
+											Bilgisayardda bütün bilgi
+											işlemciden (CPU) geçer,
+											ve her veri parçası bu darboğazdan geçmek zorundadır.
+											Beyinde ise nöronlar var ve veriler
+											bu nöronlar arasındaki bağlantı ağı içinde akar,
+											burada bir darboğaz yok.
+											Bu kelimenin tam anlamıyla bir ""ağ""dır
+											Beyinde işleri bu ağ halleder.
+											Bu iki resme bakarsanız,
+											aklınıza iki kelime gelir.
+											Bu ""seri ve katı"": otoyoldaki arabalar gibi —
+											herşey sırayla olmalı.
+											Bu ise paralel ve akıcı.
+											Bilgi işleme oldukça dinamik ve adaptif.
+									","
+											Comment comparer cela à la façon de travailler des ordinateurs ?
+											Dans l'ordinateur, on a toutes les données
+											qui passent par le processeur central,
+											et chaque bout de donnée doit absolument passer par ce goulot d'étranglement
+											Alors que dans le cerveau, on a ces neurones
+											et les données circulent librement à travers ce réseau de connections
+											parmi les neurones, il n'y a pas de goulot d'étranglement ici.
+											C'est vraiment un réseau au sens littéral du terme.
+											C'est le réseau qui fait le travail dans un cerveau.
+											Si vous regardez simplement ces deux images,
+											voici les mots qui vous viennent à l'esprit.
+											L'ordinateur est séquentiel et rigide, c'est comme des voitures sur l'autoroute —
+											tout doit se faire dans un ordre précis.
+											Alors que le cerveau est asynchrone et fluide.
+											Le traitement de l'information est dynamique et adaptable.
+									","
+											Wie funktionieren dagegen Computer?
+											In einem Computer fließen alle Daten
+											durch die CPU, den Hauptprozessor,
+											und alle Daten müssen durch diesen Flaschenhals hindurch.
+											Wohingegen die Daten im Gehirn
+											einfach durch das Netzwerk der Neuronen fließen.
+											Es gibt hier keinen Engpass.
+											Es handelt sich wortwörtlich um ein Netzwerk.
+											Die Berechnungen im Gehirn sind das Werk des Netzes.
+											Wenn man sich die beiden Bilder anguckt,
+											dann kommen einem Begriffe in den Sinn wie:
+											Das eine läuft starr und nach der Reihenfolge, wie Verkehr auf der Autobahn
+											- alles muss im Gleichschritt passieren.
+											Während hier der Prozess parallel und flüssig abläuft.
+											Die Informationsverarbeitung ist höchst dynamisch und anpassungsfähig.
+									",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+","
+","
+","
+","
+",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+											So I'm not the first to figure this out. This is a quote from Brian Eno:
+											""the problem with computers is that there is not enough Africa in them.""
+											(Laughter)
+											Brian actually said this in 1995.
+											And nobody was listening then,
+											but now people are beginning to listen
+											because there's a pressing, technological problem that we face.
+											And I'll just take you through that a little bit in the next few slides.
+									","
+											Yo no soy el primero en darse cuenta de esto. Esta es una cita de Brian Eno:
+											""El problema con los ordenadores es que no hay suficiente África en ellos.""
+											(Risas)
+											Brian realmente dijo esto en 1995.
+											Y nadie le estaba escuchando entonces,
+											pero ahora la gente ha empezado a escuchar
+											porque hay un problema tecnológico acuciante al que nos tenemos que enfrentar.
+											Os daré una introducción en las próximas transparencias.
+									","
+											Tabi ki bunu tek farkeden ben değilim: Brian Eno'dan bir alıntı:
+											""Bilgisayarların sorunu, içlerinde yeterince Afrika olmaması.""
+											(Gülüşmeler)
+											Brian bunu 1995'te söyledi.
+											O zamanlarda dinleyen yoktu,
+											ama şimdi dinlemeye başlıyorlar,
+											çünkü karşımızda acil, teknolojik bir problem var
+											Sıradaki bir kaç slaytta size biraz bundan bahsedeceğim.
+									","
+											Et je ne suis pas le premier à le dire. Voici une citation de Brian Eno :
+											""Le problème avec les ordinateurs, c'est qu'il n'y a pas assez d'Afrique en eux.""
+											(Rires)
+											En fait, Brian a dit ça en 1995.
+											Et personne ne l'écoutait,
+											mais maintenant les gens commencent à écouter
+											car nous sommes confrontés à un problème technologique urgent.
+											Et je vais vous l'expliquer dans les prochaines diapos.
+									","
+											Doch ich bin nicht der erste, der das erkannt hat. Hier ist ein Zitat von Brian Eno:
+											""Computer haben das Problem, dass in ihnen nicht genug Afrika steckt.""
+											(Gelächter)
+											Brian hat das schon 1995 gesagt.
+											Keiner hat damals zugehört,
+											doch jetzt beginnen die Leute zuzuhören,
+											weil wir es mit einem drängenden technologischen Problem zu tun haben.
+											Auf den nächsten paar Folien werde ich Ihnen das kurz erläutern.
+									",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+","
+","
+","
+","
+",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+											This is — it's actually really this remarkable convergence
+											between the devices that we use to compute in computers,
+											and the devices that our brains use to compute.
+											The devices that computers use are what's called a transistor.
+											This electrode here, called the gate, controls the flow of current
+											from the source to the drain — these two electrodes.
+											And that current, electrical current,
+											is carried by electrons, just like in your house and so on.
+											And what you have here is, when you actually turn on the gate,
+											you get an increase in the amount of current, and you get a steady flow of current.
+											And when you turn off the gate, there's no current flowing through the device.
+											Your computer uses this presence of current to represent a one,
+											and the absence of current to represent a zero.
+									","
+											Esto es — Hay realmente una convergencia clara
+											entre los dispositivos que usamos para calcular en ordenadores
+											y los dispositivos que nuestros cerebros emplean para calcular.
+											Los dispositivos que usan los ordenadores son llamados transistores.
+											Este electrodo de aquí, llamado puerta, controla el flujo de corriente
+											desde la fuente hasta el drenaje, estos dos electrodos.
+											Y la corriente, la corriente eléctrica,
+											es llevada por los electrones, exactamente igual que en vuestra casa y en cualquier dispositivo.
+											Y lo que ocurre es que, cuando enciendes la puerta,
+											obtienes un incremento en la cantidad de corriente, y consigues un flujo constante.
+											Y cuando se apaga la puerta, no hay flujo a través del dispositivo.
+											Los ordenadores utilizan la presencia de corriente para representar un uno,
+											y la ausencia para representar un cero.
+									","
+											Bu — bilgisayarlarda hesap yapmak için kullandığımız araçlarla,
+											beynimizin hesap yapmak için kullandığı araçların
+											önemli bir yakınsaması.
+											Bilgisayarların kullandığı araçlara ""transistör"" deniyor.
+											Buradaki, ""kapı"" adı verilen elektrot,
+											""kaynak""tan ""toplayıcı""ya giden akımı kontrol eder.
+											Ve bu akım, elektrik akımı,
+											evinizin içinde olduğu gibi, elektronlar tarafından taşınır.
+											Burada gördüğümüz ise, ""kapı""yı açtığınızda,
+											akım miktarında bir artış görürsünüz, sabit bir akım vardır.
+											""Kapı""yı kapattığınızda ise cihazdan geçen bir akım yoktur.
+											Bilgisayar, akımın olduğu durumu bir ""1"",
+											olmadığı durumu ise bir 0 (sıfır) göstermek için kullanır.
+									","
+											C'est — Il y a vraiment une convergence remarquable
+											entre les éléments utilisées pour calculer dans les ordinateurs,
+											et les éléments utilisés par notre cerveau pour calculer.
+											Les éléments de base utilisés par les ordinateurs sont appelés les transistors.
+											Cette électrode ici, appelée un pont, contrôle le flux de courant
+											de l'entrée à la sortie, ces deux électrodes.
+											Et le courant, un courant éléctrique
+											est transporté par des électrons, exactement comme dans votre maison, etc.
+											Et voici ce qui se passe : quand on active le pont,
+											on obtient une augmentation de la quantité de courant, il y a un flux constant de courant.
+											Et quand on désactive le pont, le courant ne passe plus.
+											Votre ordinateur utilise la présence de courant pour réprésenter un un,
+											et l'absence de courant pour représenter un zéro.
+									","
+											Es gibt eine bemerkenswerte Annäherung
+											zwischen den Bauteilen, die wir in Computern benutzen,
+											und den Bauteilen, die in unseren Gehirnen zum Einsatz kommen.
+											Die Bauteile, die in Computern eingesetzt werden, heißen Transistoren.
+											Diese Elektrode hier, Gate genannt, kontrolliert den Stromfluss
+											von der Quelle (Source) zum Abfluss (Drain), diesen zwei Elektroden.
+											Dieser Stromfluss, elektrischer Strom,
+											wird von Elektronen übertragen, genau wie z.B. in Ihrem Haus.
+											Wenn man jetzt das Gate einschaltet,
+											kann Strom das Gate passieren und es entsteht ein stetiger Stromfluss.
+											Wenn man das Gate ausschaltet, fließt kein Strom mehr durch das Teil.
+											Ihr Computer interpretiert einen vorhandenen Stromfluss als eine Eins
+											und die Abwesenheit eines Stromflusses als Null.
+									",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+","
+","
+","
+","
+",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+											Now, what's happening is that as transistors are getting smaller and smaller and smaller,
+											they no longer behave like this.
+											In fact, they are starting to behave like the device that neurons use to compute,
+											which is called an ion channel.
+											And this is a little protein molecule.
+											I mean, neurons have thousands of these.
+											And it sits in the membrane of the cell and it's got a pore in it.
+											And these are individual potassium ions
+											that are flowing through that pore.
+											Now, this pore can open and close.
+											But, when it's open, because these ions have to line up
+											and flow through, one at a time, you get a kind of sporadic, not steady —
+											it's a sporadic flow of current.
+											And even when you close the pore — which neurons can do,
+											they can open and close these pores to generate electrical activity —
+											even when it's closed, because these ions are so small,
+											they can actually sneak through, a few can sneak through at a time.
+											So, what you have is that when the pore is open,
+											you get some current sometimes.
+											These are your ones, but you've got a few zeros thrown in.
+											And when it's closed, you have a zero,
+											but you have a few ones thrown in.
+									","
+											Ahora bien, lo que está pasando es que los transistores se están haciendo cada vez más pequeños,
+											y ya no se comportan así.
+											De hecho, están empezando a comportarse como el dispositivo que utilizan las neuronas para calcular.
+											que se llama canal de iones.
+											Esta es una pequeña molécula de proteína.
+											Es decir, las neuronas tienen miles de ellas.
+											Y se sitúa en la membrana de la celda y tiene un poro en ella.
+											Y estos son iones aislados de potasio,
+											que fluyen a través de ese poro.
+											Ahora bien, ese poro se puede abrir y cerrar.
+											Pero, cuando está abierto, debido a que esos iones tienen que alinearse
+											y pasar de uno en uno, se consigue un esporádico, inconstante —
+											un flujo de corriente esporádico.♫
+											E, incluso cuando cierras el poro — cosa que las neuronas pueden hacer,
+											pueden abrir y cerrar esos poros para generar la actividad eléctrica —
+											incluso cuando está cerrado, debido a que los iones son tan pequeños,
+											pueden colarse, unos pocos pueden colarse de vez en cuando.
+											Así que, lo que ocurre es que, cuando el poro está abierto,
+											tienes una corriente intermitente.
+											Esos son los unos, pero llevan unos pocos ceros.
+											Y cuando está cerrado, se tiene un cero,
+											pero con unos pocos unos, ¿de acuerdo?
+									","
+											Bugünlerde olan şu: transistörler gittikçe küçülüyor, küçülüyor, küçülüyorlar.
+											Ve artık bu şekilde davranmıyorlar.
+											Aslında, yavaş yavaş nöronların hesap yapmak için kullandıkları cihaza benziyorlar,
+											buna ""iyon kanalı"" deniyor.
+											Ve bu, küçük bir protein molekülü.
+											Nöronlarda bundan binlerce var.
+											Hücre zarında duruyor ve ortasında bir gözeneği var.
+											Bunlar da o gözenekten geçen
+											potasyum iyonları.
+											Şimdi, bu gözenek açılıp kapanabiliyor.
+											Ama, açık olduğu zaman, bu iyonlar sıraya dizilip,
+											her seferinde bir tanesi geçebileceği için, dağınık
+											düzensiz bir akış var.
+											Gözeneği kapatsanız bile — ki nöronlar bunu yapıyorlar,
+											elektrik aktivitesi yaratmak için bu gözenekler açılıp kapatılır.
+											kapalı olsa bile, bu iyonlar çok küçük oldukları için,
+											bir seferde bir kaç tanesi aradan geçebilir.
+											Yani elimizde şu var: Gözenek açık olduğu zaman,
+											düzensiz de olsa bir akım var.
+											Bu sizin ""1""iniz, ama aralara serpiştirilmiş ""0""lar da var.
+											Kapalı olduğu zaman da ""0"" demek,
+											ama aralarda ""1""ler de var, tamam.
+									","
+											Mais maintenant, ce qui se passe, c'est que les transistors sont vraiment de plus en plus petits.
+											Ils ne se comportent plus comme ça.
+											En fait, Ils commencent à se comporter comme ce que les neurones utilisent pour calculer,
+											ce qu'on appelle les canaux ioniques.
+											Et ça c'est une petite molécule de protéine.
+											Les neurones en ont des miliers comme ça.
+											Et ils se trouvent dans la membrane de la cellule, et il y a un pore dedans.
+											Et ça ce sont plusieurs ions potassium,
+											qui passent à travers ce pore.
+											Et ce pore peut s'ouvrir et se fermer.
+											Mais, quand c'est ouvert, comme ces ions doivent être alignés
+											et ils circulent un par un, on a un courant irrégulier, pas constant —
+											C'est un flux de courant sporadique.
+											Et même avec le pore fermé, ce que les neurones peuvent faire
+											Ils ouvrent et ferment ces pores pour générer l'activité électrique —
+											et même quand c'est fermé, comme ces ions sont si petits,
+											ils peuvent se faufiler à travers, quelques uns peuvent passer.
+											Et au final, quand un pore est ouvert,
+											On a du courant de temps en temps.
+											Ce sont les ""un"", mais il y a quelques zéros à l'intérieur.
+											Et quand c'est fermé, vous avez un zéro,
+											mais il y a quelques un dedans, OK.
+									","
+											Weil Transistoren jedoch kleiner und kleiner und kleiner werden, sehen wir zunehmend,
+											dass sie sich nicht mehr so verhalten.
+											Tatsächlich beginnen sie, sich mehr wie das Bauteil in Neuronen zu verhalten,
+											das Ionenkanal genannt wird.
+											Es handelt sich dabei um ein kleines Eiweißmolekül.
+											Neuronen haben tausende davon.
+											Es sitzt sich in der Zellmembran und hat eine kleine Öffnung, ein Pore.
+											Und hier haben wir einzelne Kaliumionen,
+											die durch diese Pore fließen.
+											Nun kann sich diese Pore öffnen und schließen.
+											Aber wenn sie offen ist, müssen sich die Ionen einreihen
+											und nacheinander hindurchfließen, mit der Folge, dass kein stetiger
+											sondern ein sporadischer Stromfluss entsteht.
+											Und selbst wenn man die Pore schließt - was Neuronen tun können,
+											sie können diese Poren öffnen und schließen, um elektrische Aktivität zu erzeugen, -
+											selbst wenn sie geschlossen ist, können die winzigen Ionen
+											sich ab und zu durchmogeln. Einige von ihnen schaffen das immer.
+											Wenn die Pore geöffnet ist,
+											fließt manchmal Strom.
+											Dies sind die Einsen, aber mit ein paar Nullen drin.
+											Und wenn sie geschlossen ist, ergeben sich Nullen
+											aber mit einigen Einsen dabei.
+									",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+","
+","
+","
+","
+",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+											Now, this is starting to happen in transistors.
+											And the reason why that's happening is that, right now, in 2007 —
+											the technology that we are using — a transistor is big enough
+											that several electrons can flow through the channel simultaneously, side by side.
+											In fact, there's about 12 electrons can all be flowing this way.
+											And that means that a transistor corresponds
+											to about 12 ion channels in parallel.
+											Now, in a few years time, by 2015, we will shrink transistors so much.
+											This is what Intel does to keep adding more cores onto the chip.
+											Or your memory sticks that you have now can carry one gigabyte
+											of stuff on them — before, it was 256.
+											Transistors are getting smaller to allow this to happen,
+											and technology has really benefitted from that.
+									","
+											Ahora bien, esto está empezando a pasar en los transistores.
+											Y la razón por la que ocurre es que, ahora mismo en 2007,
+											con la tecnología que estamos usando, un transistor es tan grande,
+											que varios electrones pueden fluir a través del canal de forma simultánea, uno junto al otro.
+											De hecho, pueden pasar alrededor de 12 electrones.
+											Y eso significa que a cada transistor le corresponde,
+											alrededor de 12 canales de iones en paralelo.
+											Ahora bien, en unos pocos años, por el 2015, habremos reducido el tamaño de los transistores mucho.
+											Eso es lo que hace Intel para seguir añadiendo más núcleos en el chip,
+											o en los lápices de memoria que ya pueden almacenar hasta un gigabyte
+											de cosas — anteriormente fueron 256.
+											Los transistores tienen que ser más pequeños para permitirlo,
+											y la tecnología se ha beneficiado de esto.
+									","
+											Şimdi, aynı şey transistörlerde de olmaya başlıyor.
+											Bunun olmasının sebebi de, şu an, 2007'de,
+											elemizdeki teknolojiyle ürettiğimiz transistörler,
+											içinden çok sayıda elektronun yan yana geçebileceği kadar büyükler.
+											Aslında, yaklaşık 12 elektron transistörden bu şekilde geçebiliyor.
+											Bu da, bir transistörün, 12 paralel iyon kanalına
+											denk geldiği anlamına geliyor.
+											Şimdi, bir kaç sene içinde, 2015'e kadar, transistörleri çok küçülteceğiz.
+											Intel, yongalarına (mikro çip) daha fazla çekirdek eklemek için bunu yapıyor.
+											Hafıza çubuklarınızda 1 gigabayt veri taşıyabiliyorsunuz,
+											eskiden bu 256 megabayttı.
+											Bunun olabilmesi için transistörler gittikçe küçülüyor,
+											ve teknoloji bundan gerçekten de faydalandı.
+									","
+											Et maintenant, ça commence à arriver aussi aux transistors.
+											Et la raison pour laquelle ça arrive, c'est que, en ce moment même en 2007,
+											la technologie utilisée, un transistor est assez gros
+											pour que plusieurs électrons puissent couler ensemble à travers le canal, côte à côte.
+											En fait, il y a environ 12 électrons qui peuvent traverser en même temps.
+											Et cela signifie qu'un transistor correspond
+											à environ 12 canaux ioniques en parallèle.
+											Mais dans quelques années, vers 2015, nous allons tellement rétrécir les transistors.
+											C'est ce que fait Intel en ajoutant toujours plus de coeurs sur les puces,
+											et nos clés USB actuelles peuvent stocker un gigabyte
+											de données. Avant, c'était 256.
+											Les transistors sont de plus en plus petits pour permettre tout cela,
+											et la technologie a vraiment profité de ça.
+									","
+											Dasselbe passiert jetzt auch in Transistoren.
+											Der Grund dafür ist, dass unsere gegenwärtige Technik, Stand 2007,
+											Transistoren erzeugt, die groß genug sind,
+											dass mehrere Elektronen gleichzeitig nebeneinander passieren können.
+											Ungefähr 12 Elektronen passen da gleichzeitig durch, um genau zu sein.
+											So kann man sagen, dass ein Transistor
+											12 parallel geschalteten Ionenkanälen entspricht.
+											Doch in ein paar Jahren, zirka 2015, werden wir Transistoren so geschrumpft haben.
+											Intel macht das, um mehr Kerne auf einen Chip zu kriegen
+											oder um Speichersticks zu erweitern, auf die jetzt 1 Gigabyte Daten passen,
+											und früher waren es 256 Megabyte.
+											Transistoren werden kleiner, um das zu ermöglichen
+											und das hat unsere Technologie wesentlich besser gemacht.
+									",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+","
+","
+","
+","
+",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+											But what's happening now is that in 2015, the transistor is going to become so small,
+											that it corresponds to only one electron at a time
+											can flow through that channel,
+											and that corresponds to a single ion channel.
+											And you start having the same kind of traffic jams that you have in the ion channel.
+											The current will turn on and off at random,
+											even when it's supposed to be on.
+											And that means your computer is going to get
+											its ones and zeros mixed up, and that's going to crash your machine.
+									","
+											Pero lo que está pasando es que en el 2015, los transistores van a ser tan pequeños,
+											que sólo un electrón
+											podrá pasar por el canal en cada momento,
+											y eso corresponde a un canal de iones individual.
+											Y empiezas a tener el mismo tipo de atasco de tráfico que tienes en el canal de iones,
+											la corriente se encenderá y apagará aleatoriamente,
+											incluso cuando se espera que esté encendida.
+											Y eso significa que el computador va tener
+											sus unos y ceros mezclados, y eso va a bloquear la máquina.
+									","
+											Fakat 2015 yılında, transistörler o kadar küçülmüş olacak ki,
+											kanaldan aynı anda sadece
+											bir elektron geçebilecek,
+											ve bu da
+											Ve iyon kanalında meydana gelene benzer trafik sıkışıklıkları görmeye başlıyorsunuz,
+											akım açık olması gerekirken bile,
+											raslantısal bir şekilde açılıp kapanacak.
+											Bu yüzden bilgisayarınız ""1"" ve ""0""larını karıştıracak,
+											ve bu da çakılmasına sebep olacak.
+									","
+											Mais ce qui se passe, c'est qu'en 2015, les transistors seront devenus tellement petits,
+											qu'ils ne correspondent qu'à un seul électron à la fois
+											pouvant traverser ce canal,
+											et ça correspond à un seul canal ionique.
+											Et on commence à avoir le même type d'embouteillages que l'on a dans les canaux ioniques,
+											le courant va s'activer et se désactiver au hasard,
+											même quand il est censé être activé.
+											Et ça veut dire que votre ordinateur va avoir
+											ses un et ses zéros mixés, et ça va faire planter votre machine.
+									","
+											Aber die Folge ist, dass der Transistor 2015 so klein geworden sein wird,
+											dass nur noch ein Elektron auf einmal
+											durch den Kanal fließen kann,
+											was einem einzelnen Ionenkanal entspricht.
+											Dadurch ergeben sich vermehrt dieselben Staus wie im Ionenkanal.
+											Der Stromfluss wird immer wieder unterbrochen,
+											selbst wenn er an sein soll,
+											was bedeutet, dass Ihr Computer
+											seine Nullen und Einsen durcheinander bekommt und die Maschine in Folge abstürzt.
+									",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+","
+","
+","
+","
+",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+											So, we are at the stage where we
+											don't really know how to compute with these kinds of devices.
+											And the only kind of thing — the only thing we know right now
+											that can compute with these kinds of devices are the brain.
+									","
+											Así que, estamos en un momento en el que
+											no sabemos realmente cómo calcular con ese tipo de dispositivos.
+											Y la única cosa, lo único que sabemos que ahora mismo
+											puede calcular con ese tipo de dispositivos, es el cerebro.
+									","
+											Şimdi, bu türden cihazlarla nasıl
+											hesap yapacağımızı bilemediğimiz bir noktadayız.
+											Ve bu türden cihazlarla hesap yapabilen, hesap yapabildiğini bildiğimiz,
+											tek şey beyin.
+									","
+											Donc, voilà où nous en sommes.
+											Nous ne savons pas vraiment calculer avec ce genre de matériel.
+											Et la seule chose que nous connaissons en ce moment,
+											qui peut calculer avec ce matériel, c'est le cerveau.
+									","
+											Wir sind damit an einem Punkt,
+											wo wir nicht wirklich wissen, wie wir mit so etwas noch rechnen sollen.
+											Das einzige Vorbild, das wir derzeit haben,
+											das Berechnungen unter diesen Umständen durchführen kann, ist das Gehirn.
+									",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+","
+","
+","
+","
+",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+											OK, so a computer picks a specific item of data from memory,
+											it sends it into the processor or the ALU,
+											and then it puts the result back into memory.
+											That's the red path that's highlighted.
+											The way brains work, I told you all, you have got all these neurons.
+											And the way they represent information is
+											they break up that data into little pieces
+											that are represented by pulses and different neurons.
+											So you have all these pieces of data
+											distributed throughout the network.
+											And then the way that you process that data to get a result
+											is that you translate this pattern of activity into a new pattern of activity,
+											just by it flowing through the network.
+											So you set up these connections
+											such that the input pattern just flows
+											and generates the output pattern.
+									","
+											Ok, entonces un ordenador lee un dato de la memoria,
+											lo envía al procesador o a la UAL,
+											y luego pone el resultado en memoria.
+											Ese es el camino rojo marcado.
+											En la forma en la que trabaja el cerebro, tienes todas esas neuronas.
+											Y la forma en la que representan información consiste en
+											romper los datos en pequeños trozos
+											que son representados por los pulsos y las diferentes neuronas.
+											Así que tienes todos los trozos de datos
+											distribuidos por la red.
+											Y luego, la manera en la que se procesan los datos para conseguir el resultado
+											es que se traduce ese patrón de actividad en un nuevo patrón de actividad,
+											sencillamente haciéndolo fluir por la red.
+											Así que preparas todas esas conexiones,
+											de manera que el patrón de entrada fluya
+											y genere el patrón de salida.
+									","
+											Tamam,o halde bilgisayar bellekten bir veri parçası alıyor,
+											onu işlemciye ya da ALU'ya gönderiyor,
+											ve sonra da sonucu belleğe geri koyuyor.
+											Beliren kırmızı renkli yol şeklinde.
+											Beyinlerin çalışmasında, bütün bu nöronlara sahipsiniz.
+											Ve onların bilgiyi temsil etme şekli
+											verileri kısa bölümler ve farklı nöronlar tarafından
+											temsil edilecek şekilde ufak parçalar haline getirmek.
+											Böylece şebekenin tamamına dağıtılmış
+											bütün veri bölümlerine sahipsiniz.
+											Ve sonra verilerin işlenmesiyle hedefe ulaşmada izlenecek yol,
+											sizin şebekenin içindeki akışı sağlamanız yoluyla
+											bu aktivite biçimini yeni bir aktivite biçimine dönüştürmektir.
+											Ve bağlantıları kurarsınız,
+											giriş paterni ilerler
+											ve çıkış paterni oluşur.
+									","
+											OK, donc un ordinateur prend une donnée spécifique dans la mémoire,
+											l'envoie dans le processeur ou dans l'unité logique,
+											et ensuite, il remet le résultat dans la mémoire.
+											C'est le chemin rouge qui est surligné.
+											La façon de travailler du cerveau, vous avez tous ces neurones.
+											Et leur façon de représenter l'information est
+											Ils divisent les données en petits morceaux
+											qui sont représentés par des impulsions et des neurones différents.
+											Donc on a tous ces bouts de donnée
+											répartis au sein du réseau.
+											Et puis la façon dont vous travaillez les données pour avoir un résultat
+											c'est que vous traduisez ce modèle d'activité en un nouveau modèle,
+											juste en le faisant passer à travers le réseau.
+											Donc vous fixez ces connections
+											afin que l'influx coule à travers le réseau
+											et génère le modèle final.
+									","
+											Okay, also ein Computer holt bestimmte Daten aus dem Speicher,
+											und sendet sie an den Hauptprozessor oder die ALU,
+											und schickt das Resultat zurück in den Speicher.
+											Das ist der rot gekennzeichnete Pfad.
+											In Gehirnen dagegen gibt es all diese Neuronen.
+											Und sie stellen Daten dar,
+											indem sie diese Daten in kleine Teile aufsplitten,
+											die durch Pulse und unterschiedliche Neuronen repräsentiert werden.
+											Es gibt also all diese Datenteile,
+											über das ganze Netzwerk verteilt.
+											Um diese zu verarbeiten und ein Resultat zu erhalten,
+											wird das Aktivitätsmuster der Neuronen in ein neues Muster übersetzt,
+											einfach indem es durch das Netzwerk fließt.
+											Verbindungen werden so hergestellt,
+											dass das Eingangsmuster abläuft
+											und dabei das Ausgabemuster erzeugt wird.
+									",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+","
+","
+","
+","
+",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+											What you see here is that there's these redundant connections.
+											So if this piece of data or this piece of the data gets clobbered,
+											it doesn't show up over here, these two pieces can activate the missing part
+											with these redundant connections.
+											So even when you go to these crappy devices
+											where sometimes you want a one and you get a zero, and it doesn't show up,
+											there's redundancy in the network
+											that can actually recover the missing information.
+											It makes the brain inherently robust.
+											What you have here is a system where you store data locally.
+											And it's brittle, because each of these steps has to be flawless,
+											otherwise you lose that data, whereas in the brain, you have a system
+											that stores data in a distributed way, and it's robust.
+									","
+											Lo que se observa es que hay estas conexiones redundantes.
+											Así que, si este trozo de datos o este trozo de datos se corrompen,
+											no se transmite aquí, estos dos trozos pueden activar la parte perdida
+											con estas conexiones redundantes.
+											Así que, cuando analizas estos dispositivos horribles,
+											donde a veces quieres un uno y obtienes un cero,
+											existe esta redundancia en la red
+											que realmente puede recuperar la información perdida.
+											Esto hace al cerebro inherentemente robusto.
+											Lo que tenemos aquí es un sistema que almacena los datos de forma local.
+											Y es frágil, porque cada uno de los pasos tiene que ser perfecto,
+											de otra manera, se perderían los datos. Sin embargo, en el cerebro, se tiene un sistema
+											que almacena los datos de forma distribuida, y es robusto.
+									","
+											Burada gördüğünüz (yine) bu fazla sayıdaki bağlantıların varlığıdır.
+											Bir kez bu data parçası ya da şu data parçası işlenirse
+											kendini burada göstermezl, diğer bağlantıların yardımıyla
+											bu iki parça ortada görünmeyen parçayı aktive eder.
+											Böylece bazen bir koyup ta sıfır aldığınız
+											işe yaramaz aletlerle çalışsanız bile
+											şebekede fazladan varolan güç
+											kaybolan bilgiyi hakikaten geri getirir.
+											Bu beyni doğal açıdan güçlü kılar.
+											Burada verileri bölgesel olarak depolayan bir sisteminiz var.
+											Ve bu sistem hassastır, çünkü bu basamaklardan her biri kusursuz olmalıdır,
+											aksi taktirde veriyi kaybedersiniz. Halbuki beyinde verileri
+											dağınık biçimde depolayan bir sisteme sahipsiniz, ve o sağlamdır.
+									","
+											Ce que vous voyez ici, c'est qu'il y a des connections redondantes.
+											Donc, si un bout de donnée ou un autre est abîmé,
+											ça n'a aucun effet, ces deux parties peuvent activer la partie manquante
+											grâce à ces connections redondantes.
+											Donc même avec un matériel nul
+											avec un zéro alors que l'on veut un un,
+											la redondance dans le réseau
+											permet de retrouver l'information manquante.
+											Cela rend le cerveau robuste par nature.
+											Ce que vous avez ici, c'est un système où les données sont stockées localement.
+											Et c'est fragile, parce que chacune de ces étapes doit être parfaite,
+											ou sinon on perd des données. Alors que dans le cerveau, on a un système
+											qui stocke les données de façon distribuée, et c'est solide.
+									","
+											Hier sieht man, dass es redundante Verbindungen gibt.
+											Wenn dieses Datenfragment oder dieses da zu Bruch geht,
+											und keine Ausgabe erzeugt, können diese zwei Teile das fehlende Stück aktivieren
+											durch diese mehrfachen Verbindungen.
+											Trotz dieser fehleranfälligen Bauteile,
+											die manchmal statt einer Eins eine Null erzeugen,
+											gibt es Mehrfachverbindungen im Netzwerk,
+											die fehlende Informationen ersetzen können.
+											Das macht das Gehirn von Grund auf stabil.
+											Hier haben wir ein System, das Daten an einem Ort speichert.
+											Und es ist anfällig, denn jeder Schritt muss fehlerfrei ablaufen,
+											sonst gehen die Daten verloren. Das System des Gehirns dagegen
+											speichert Daten dezentral und ist fehlertolerant.
+									",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+","
+","
+","
+","
+",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+											What I want to basically talk about is my dream,
+											which is to build a computer that works like the brain.
+											This is something that we've been working on for the last couple of years.
+											And I'm going to show you a system that we designed
+											to model the retina,
+											which is a piece of brain that lines the inside of your eyeball.
+											We didn't do this by actually writing code, like you do in a computer.
+											In fact, the processing that happens
+											in that little piece of brain is very similar
+											to the kind of processing that computers
+											do when they stream video over the Internet.
+											They want to compress the information —
+											they just want to send the changes, what's new in the image, and so on —
+											and that is how your eyeball
+											is able to squeeze all that information down to your optic nerve,
+											to send to the rest of the brain.
+									","
+											Lo que quiero fundamentalmente es hablar de mi sueño,
+											que consiste en construir un computador que trabaje como el cerebro.
+											Es algo en lo que hemos estado trabajando el últimopar de años.
+											Y voy a mostrarles el sistema que hemos diseñado
+											para modelar la retina,
+											que es la parte del cerebro dentro del globo ocular.
+											No lo hemos hecho escribiendo código, como se haría en un computador.
+											De hecho, el proceso que ocurre
+											en esa pequeña parte del cerebro es muy similar
+											al tipo de procesamiento que los computadores
+											realizan cuando envían vídeo por Internet.
+											Se quiere comprimir la información —
+											sólo quieren enviar los cambios respecto a la imagen anterior, etc.
+											y así es como el globo ocular
+											es capaz de comprimir toda la información hacia el nervio óptico,
+											para enviar lo que queda al cerebro.
+									","
+											Benim esas olarak anlatmak istediğim şey
+											beyin gibi çalışan bir bilgisayar yapma hayalim.
+											Bu son iki yıldır üzerinde çalıştığımız bir şey.
+											Ve size retinayı modellemek için geliştirdiğimiz
+											bir sistem göstermek istiyorum.
+											Bu da göz kürenizin içine doğru uzanan bir parçacık beyin.
+											Biz bunu bilgisayarda yapıdığı gibi bir kodlama yazarak yapmadık.
+											Esasında, bu ufak beyin parçasındaki işlemleme
+											bilgisayarların internet üzerinden
+											video göndermelerine
+											çok benzer bir işlemlemedir.
+											Bilgileri sıkıştırma yoluyla—
+											görüntüde yeni olana ait değişikliklerin gönderilmesi—
+											ve bu da beyne gönderilecek bilginin
+											önce göz kürelerinizin içinden sıkışmış olarak
+											görme sinirine aktarılması gibi bir işleme benzer.
+									","
+											Ce que je veux partager, c'est mon rêve
+											qui est de construire un ordinateur qui fonctionne comme le cerveau.
+											Nous avons travaillé sur le sujet depuis une vingtaine d'années.
+											Et je vais vous montrer le système que nous avons conçu
+											pour modéliser la rétine,
+											qui est une partie du cerveau qui tapisse l'intérieur de vos yeux.
+											Nous ne l'avons pas fait en écrivant du code, comme on fait dans un ordinateur.
+											En fait, le processus qui se déroule
+											dans ce morceau de cerveau est très similaire
+											au type de processus que les ordinateurs
+											utilisent quand ils font du streaming vidéo sur internet.
+											Ils veulent compresser l'information —
+											Ils veulent envoyer uniquement les changements, ce qui est nouveau dans l'image et le son—
+											et c'est la façon dont votre œil
+											peut faire passer toute cette information dans le nerf optique,
+											pour l'envoyer au reste du cerveau.
+									","
+											Worüber ich nun sprechen möchte, ist mein Traum, nämlich
+											einen Computer zu bauen, der wie ein Gehirn funktioniert.
+											Daran haben wir die vergangenen paar Jahre gearbeitet.
+											Und ich zeige ihnen jetzt ein System, das wir entwickelt haben,
+											das die Netzhaut nachbildet,
+											einen Teil des Gehirns, der die Innenseite Ihres Augapfels bedeckt.
+											Wir haben dafür keinen Programmiercode geschrieben wie beim Computer.
+											Es ist nämlich so, dass die Berechnungen
+											in diesem kleinen Hirnteil sehr ähnlich
+											wie bei der Verarbeitung von Videos,
+											die über das Internet gestreamt werden sollen.
+											Die Informationen werden komprimiert.
+											Es sollen nur die Veränderungen von einem Bild zum anderen gesendet werden.
+											So schafft es das Auge,
+											die ganzen Informationen durch den Sehnerv zu quetschen,
+											und an den Rest des Hirns zu senden.
+									",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+","
+","
+","
+","
+",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+											Instead of doing this in software, or doing those kinds of algorithms,
+											we went and talked to neurobiologists
+											who have actually reverse engineered that piece of brain that's called the retina.
+											And they figured out all the different cells,
+											and they figured out the network, and we just took that network
+											and we used it as the blueprint for the design of a silicon chip.
+											So now the neurons are represented by little nodes or circuits on the chip,
+											and the connections among the neurons are represented, actually modeled by transistors.
+											And these transistors are behaving essentially
+											just like ion channels behave in the brain.
+											It will give you the same kind of robust architecture that I described.
+									","
+											En vez de hacer esto por software, o realizando ese tipo de algoritmos,
+											fuimos a hablar con neurobiólogos
+											que habían realmente realizado ingeniería inversa sobre ese trozo del cerebro llamado retina.
+											Y habían resuelto todas las diferentes células,
+											y habían resuelto la red y, sencillamente, tomamos esa red
+											y la usamos como plano para diseñar un chip de silicio.
+											Así que ahora las neuronas están representadas por pequeños nodos o circuitos en el chip,
+											y las conexiones entre las neuronas estàn modeladas por transistores
+											Y esos transistores se están comportando esencialmente
+											como los canales de iones se comportan en el cerebro.
+											Èsto os darà el mismo tipo de arquitectura robusta que describí.
+									","
+											Bunları yazılım olarak hazırlamak ya da bir takım algoritmalar yapmak yerine,
+											nörobiyologlara gittik ve onlarla konuştuk
+											ki onlar esasında retina denilen beyin parçasında bu mühendisliği sanki
+											tersinden yapan ve bütün farklı hücreleri de belirleyen kişiler oluyorlar,
+											ve şebekeyi ortaya koydular, biz bu şebekeyi aldık
+											ve bir silikon çipin tasarımında plan olarak kullandık.
+											Böylelikle artık nöronlar çipin üzerinde ufak nodlar ya da çevrimler halinde temsil ediliyorlar,
+											ve nöronların arasındaki bağlantılar transistörler tarafından modelleniyorlar.
+											Ve bu transistörler beyinde iyon kanalları
+											nasıl davranıyorsa öyle davranıyorlar.
+											Ve o tanımladığımla aynı özellikleri gösteren güvenli bir yapılanma verecek.
+									","
+											Au lieu de faire ça par le logiciel, ou avec ces types d'algorithmes,
+											nous sommes allés parler aux neurobiologistes
+											qui ont étudié le fonctionnement de cette partie du cerveau, la rétine.
+											Et ils ont compris le rôle de chaque cellule,
+											et ils ont compris le réseau, et nous avons juste pris ce réseau
+											et nous l'avons pris comme modèle pour le design d'une puce en silicone.
+											Et donc les neurones sont représentés par des petits noeud ou des circuits sur la puce,
+											et les connections entre les neurones sont pour l'instant modelées par des transistors.
+											Et ces transistors se comportent exactement
+											comme les canaux ioniques dans le cerveau.
+											Et ça va donner le même type d'architecture que j'ai décris.
+									","
+											Statt das als Software mit Algorithmen umzusetzen,
+											ließen wir uns von Neurobiologen beraten,
+											die die Netzhaut bereits analysiert und nachgebaut haben.
+											Sie haben die Zelltypen zugeordnet,
+											das Netzwerk verstanden und wir haben dieses Netzwerk genommen
+											und es als Bauplan für einen Mikrochip genommen.
+											Die Neuronen werden von Schaltkreise auf dem Chip repräsentiert
+											und die Verbindungen zwischen Neuronen bestehen aus Transistoren.
+											Die Transistoren verhalten sich im Grunde
+											genau wie die Ionenkanäle im Gehirn.
+											So ergibt sich derselbe fehlertolerante Aufbau wie vorhin.
+									",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+","
+","
+","
+","
+",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+											Here is actually what our artificial eye looks like.
+											The retina chip that we designed sits behind this lens here.
+											And the chip — I'm going to show you a video
+											that the silicon retina put out of its output
+											when it was looking at Kareem Zaghloul,
+											who's the student who designed this chip.
+											Let me explain what you're going to see, OK,
+											because it's putting out different kinds of information,
+											it's not as straightforward as a camera.
+											The retina chip extracts four different kinds of information.
+											It extracts regions with dark contrast,
+											which will show up on the video as red.
+											And it extracts regions with white or light contrast,
+											which will show up on the video as green.
+									","
+											Así es como se ve nuestro ojo artificial.
+											El chip de retina que diseñamos se encuentra detrás de esta lente de aquí.
+											Y el chip — Voy a mostraros un vídeo
+											de la salida de la retina de silicio
+											cuando estaba mirando a Kareem Zaghloul,
+											que es el estudiante que diseñó el chip.
+											Dejadme que os explique lo que se verá, de acuerdo.
+											Ya que está sacando distintos tipos de información,
+											no es tan sencillo como una cámara.
+											El chip de retina extrae cuatro tipos diferentes de información.
+											Extrae regiones de contraste oscuro,
+											que se mostrará en el vídeo como rojo.
+											Y extrae regiones de blancos o contraste claro,
+											que se mostrará en el vídeo como verde.
+									","
+											Burada bizim yapay gözün neye benzediği görülüyor.
+											Tasarladığımız retina çipi burada lensin arkasında görülüyor.
+											Ve çip— size bir video göstereceğim
+											silikon retina
+											bu çipi tasarlayan öğrenci Karem Zaghloul'a baktığı zaman
+											kendi çıktısını bozarak değiştiriyor.
+											Ne göreceksiniz açıklayayım, Pekala.
+											Farklı bilgilerle çıktısını değiştirdiği için
+											o sadece bir kamera gibi kaydetmiyor.
+											Çip retina dört farklı türden bilgiyi ayırıp çıkarıyor.
+											koyu renkli alanları ayırıyor,
+											ki bunlar videoda kırmızı olarak görünecek.
+											Ve beyaz ya da açık renkli alanları ayırıyor,
+											ki videoda yeşil olarak görünecek.
+									","
+											Voici à quoi ressemble notre oeil artificiel.
+											La puce de rétine que l'on a conçue est derrière la lentille, ici.
+											Et la puce — Je vais vous montrer une vidéo
+											que la puce de silicone a produit
+											quand elle regardait Kareem Zaghloul,
+											qui est l'étudiant qui a conçu cette puce.
+											Laissez moi vous expliquer ce que vous allez voir, d'accord ?
+											Parce que ça mélange différents types d'information
+											et ce n'est pas aussi direct qu'un camera.
+											La puce de rétine extrait cinq types d'information différents.
+											Elle extrait les régions avec un contraste foncé,
+											qui sera montré en rouge sur la vidéo.
+											Et elle extrait les régions avec les contrastes blancs ou clairs,
+											qui seront montrés en vert sur la vidéo.
+									","
+											So sieht unser künstliches Auge aus.
+											Unser Netzhautchip befindet sich hinter dieser Linse hier.
+											Ich zeige Ihnen jetzt ein Video
+											das die künstliche Retina erzeugt hat,
+											als es Kareem Zaghloul anschaute.
+											Kareem ist der Student, der diesen Chip designt hat.
+											Ich erkläre Ihnen kurz, was Sie sehen werden.
+											Denn es werden verschiedene spezielle Daten erzeugt,
+											nicht wie bei einer Kamera.
+											Der Netzhautchip erfasst vier verschiedene Arten von Daten.
+											Er erfasse dunkle Bereiche,
+											die im Video rotgefärbt sind.
+											Und er erfasst weiße oder helle Bereiche,
+											die im Video grün sind.
+									",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+","
+","
+","
+","
+",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+											This is Kareem's dark eyes
+											and that's the white background that you see here.
+											And then it also extracts movement.
+											When Kareem moves his head to the right,
+											you will see this blue activity there;
+											it represents regions where the contrast is increasing in the image,
+											that's where it's going from dark to light.
+											And you also see this yellow activity,
+											which represents regions where contrast is decreasing;
+											it's going from light to dark.
+											And these four types of information —
+											your optic nerve has about a million fibers in it,
+											and 900,000 of those fibers
+											send these four types of information.
+											So we are really duplicating the kind of signals that you have on the optic nerve.
+									","
+											Estos son los ojos oscuros de Kareem
+											y esto es el fondo blanco que veis aquí.
+											Y luego también extrae movimiento.
+											Cuando Kareem mueve su cabeza hacia la derecha,
+											veréis esta actividad azul aquí,
+											representa las regiones donde el contraste están incrementándose en la imagen,
+											que es donde vamos de oscuro a claro.
+											Y también se puede ver esta actividad amarilla de aquí,
+											que representa las regiones donde el contraste está disminuyendo,
+											va de claro a oscuro.
+											Y estos cuatro tipos de información —
+											el nervio óptico tiene alrededor de un millón de fibras,
+											y 900.000 de esas fibras
+											envían estos cuatro tipos de información.
+											Así que realmente estamos duplicando el tipo de señales que tenemos en el nervio óptico.
+									","
+											Bu Kareem'in koyu renkli gözleri
+											ve burada görmüş olduğunuz da beyaz zemin.
+											Ve (üçüncü olarak) harekete duyarlıdır.
+											Kareem başını sağa doğru çevirdiği zaman
+											mavi aktiviteyi görmüş olacaksınız.
+											bu, görüntüde kontrastın
+											koyudan açığa doğru arttığı alanları temsil ediyor.
+											Ve aynı zamanda kontrastın
+											açıktan koyuya doğru azaldığı bölgeleri
+											temsil eden sarı aktiviteyi göreceksiniz.
+											Ve bunlar bilginin dört tipi olmuş oluyor —
+											optik siniriniz içinde bir milyon kadar life sahiptir,
+											ve bu liflerin 900,000 'i
+											bu dört çeşit bilgiyi iletir.
+											Böylece biz gerçekten optik sinirinizdeki sinyallerin kopyasını yapmış oluyoruz.
+									","
+											Ce sont les yeux foncés de Kareem
+											et ça, c'est l'arrière plan blanc que vous voyez ici.
+											Et ensuite, ça extrait aussi le mouvement.
+											Quand Kareem bouge sa tête vers la droite,
+											vous allez voir cette activité bleue ici,
+											ça représente les régions où le contraste augmente dans l'image,
+											c'est là où ça passe du foncé au clair.
+											Et vous voyez aussi cette activité jaune,
+											qui représente les régions où le contraste décroit,
+											ça passe du clair au foncé.
+											Et ces cinq types d'information —
+											votre nerf optique comporte environ un million de fibres,
+											et 900 000 de ces fibres
+											envoient ces cinq types d'information.
+											Donc on a vraiment copié le type de signal que l'on a dans le nerf optique.
+									","
+											Hier sind Kareems dunkle Augen
+											und das hier ist der weiße Hintergrund.
+											Außerdem erfasst er Bewegungen.
+											Wenn Kareem seinen Kopf nach rechts bewegt,
+											sehen Sie hier blaue Aktivität.
+											Das repräsentiert Bereiche, wo die Helligkeit des Bildes steigt,
+											wo es sich von dunkel nach hell verändert.
+											Dann sehen Sie noch gelbe Aktivität
+											in Bereichen, wo sich die Helligkeit verringert,
+											also von hell nach dunkel geht.
+											Diese Arten von Informationen...
+											Ihr Sehnerv hat etwa eine Million Fasern
+											und 900.000 dieser Fasern
+											senden diese vier Arten von Informationen.
+											Wir bilden wirklich die Art Signale nach, die im Sehnerv vorkommen.
+									",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+","
+","
+","
+","
+",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+											What you notice here is that these snapshots
+											taken from the output of the retina chip are very sparse, right?
+											It doesn't light up green everywhere in the background,
+											only on the edges, and then in the hair, and so on.
+											And this is the same thing you see
+											when people compress video to send: they want to make it very sparse,
+											because that file is smaller. And this is what the retina is doing,
+											and it's doing it just with the circuitry, and how this network of neurons
+											that are interacting in there, which we've captured on the chip.
+									","
+											Lo que se observa aquì es que estas imágenes
+											tomadas de la salida del chip de retina son muy dispersas.
+											No se muestra verde por todas partes del fondo,
+											sòlo en los bordes, etc...
+											Y esta es lo mismo que se ve
+											cuando se comprime vídeo para enviar: se quiere hacer muy disperso,
+											porque así el archivo es más pequeño. Y eso es lo que hace la retina,
+											y lo está haciendo sólo con la circuitería, y como trabaja esta red de neuronas
+											que interactúan aquí, que nosotros hemos capturado en un chip.
+									","
+											Burada retina çipin çıktısından alınan
+											ardısıra görüntülerin çok dağınık olduğunu farkediyorsunuz.
+											Zeminin her yerinde yeşil renk parlamıyor,
+											sadece kenarlarda, ve bu böyle devam ediyor.
+											İnsanlar göndermek için videoyu sıkıştırdıkları zaman
+											bakın aynı şeyi görüyorsunuz : dosya küçük olduğundan
+											dağınık yapmak istiyorlar.. Ve bu da retinanın yaptığı gibi bir iş,
+											ve onu bir devre içinde yapıyor, ve orada nöronlar şebeke içinde
+											nasıl bir iletişime geçiyorlarsa, biz bunu çip üzerinde başardık.
+									","
+											Vous pouvez remarquer que ces captures d'écran
+											prises à la sortie de la puce rétinienne sont très clairsemées.
+											Ca ne s'affiche pas en vert partout sur l'arrière plan,
+											seulement sur les bords, etc.
+											Et c'est la même chose que l'on voit
+											quand les gens compressent la vidéo pour l'envoyer : ils veulent la rendre très clairsemée,
+											parce que le fichier est plus petit. Et c'est ce que la rétine fait,
+											et elle le fait seulement avec le circuit, et la façon dont ce réseau de neurone
+											qui interagissent dedans, que nous avons capturés dans la puce.
+									","
+											Wie man merkt sind diese Aufnahmen
+											vom Ausgang des Netzhautchips sehr spärlich.
+											Nicht der ganze Hintergrund ist grün,
+											nur die Ecken und so weiter.
+											Dasselbe kann man beobachten,
+											wenn Videos zum Versand komprimiert werden: vieles wird weggelassen,
+											weil die Datei so kleiner wird. Genau das macht die Retina,
+											und zwar nur mit ihren Schaltkreisen, dem Netzwerk von Neuronen
+											und deren Verhalten, das wir hier auf dem Chip haben.
+									",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+","
+","
+","
+","
+",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+											But the point that I want to make — I'll show you up here.
+											So this image here is going to look like these ones,
+											but here I'll show you that we can reconstruct the image,
+											so, you know, you can almost recognize Kareem in that top part there.
+											And so, here you go.
+											Yes, so that's the idea.
+											When you stand still, you just see the light and dark contrasts.
+											But when it's moving back and forth,
+											the retina picks up these changes.
+											And that's why, you know, when you're sitting here
+											and something happens in your background,
+											you merely move your eyes to it.
+											There are these cells that detect change
+											and you move your attention to it.
+											So those are very important for catching somebody
+											who's trying to sneak up on you.
+									","
+											Me gustaría resaltar, lo mostraré aquí.
+											Èsta imagen aquì se muestrarà como éstas,
+											pero aquí os mostraré que la imagen se puede reconstruir,
+											así que, casi se puede reconocer a Kareem en esta parte superior.
+											Aquí está.
+											Sí, esta es la idea.
+											Cuando estás quieto, se ven los contrastes claros y oscuros.
+											Pero cuando se mueve adelante y atrás,
+											la retina detecta estos cambios.
+											Y eso es por lo que, sabéis, cuando estáis sentados aquí
+											y algo ocurre en el fondo,
+											simplemente se mueven los ojos ahí.
+											Están estas celdas que detectan cambios
+											y mueves tu atención a ello.
+											Esto es muy importante para detectar a alguien
+											que está intentando acercarse sigilosamente.
+									","
+											Ama ben göstermek istediğim noktayı size burada göstereceğim.
+											Buradaki görüntü diğerlerine benzeyecek,
+											ama burada size göstermek istediğim şey bunu yeniden yapılandırabilmemiz,
+											Kareem'i üst bölümde herhalde tanıyacaksınız.
+											İşte böyle.
+											Evet, aynı zamanda fikri de.
+											Biraz devam ederseniz açık ve koyu kontrastları da göreceksiniz.
+											Ama öne ve arkaya hareket ettiği zaman,
+											retina bu değişimleri de yakalar.
+											Ve bilirsiniz ki, burada oturduğunuz zaman
+											sizin zemininizde bir şeyler olursa,
+											sadece ona doğru gözlerinizi hareket ettirirsiniz.
+											Değişimi belirleyen hücreler vardır
+											ve siz dikkatinizin yönünü ona doğru değiştirirsiniz.
+											Ve bunlar size gizlice yaklaşmak isteyenleri
+											farketmeniz için çok önemlidir.
+									","
+											Mais le point que je veux faire, je vais vous le montrer ici.
+											Donc cette image va paraitre comme celles-ci,
+											mais ici, je vais vous montrer que l'on peut reconstruire l'image,
+											pour que l'on puisse presque reconnaitre Kareem dans la partie du haut.
+											On y va.
+											Voilà, c'est ça l'idée.
+											Quand vous restez immobile, on voit juste ces contrastes clairs et foncés.
+											Mais quand ça fait un mouvement de va et vient,
+											la rétine détecte ces changements.
+											Et c'est pourquoi, vous savez, quand on est là
+											et que quelque chose se passe dans l'arrière plan,
+											vous déplacez à peine vos yeux.
+											Ce sont les petites cellules qui détectent le changement
+											et votre attention se porte sur lui.
+											Donc c'est très important pour attraper quelqu'un
+											qui s'approche furtivement.
+									","
+											Was ich Ihnen klarmachen will, ich zeig's Ihnen hier oben...
+											Das Ausgabebild wird so aussehen wie diese hier,
+											aber ich zeige Ihnen, dass wir das Bild rekonstruieren können,
+											sodass Sie Kareem hier oben fast erkennen können.
+											Los geht's.
+											So funktioniert das.
+											Ohne Bewegung sehen Sie nur helle und dunkle Flecken.
+											Aber sobald Bewegung dazukommt,
+											erfasst die Retina diese Veränderungen.
+											Wenn Sie hier sitzen und sich plötzlich
+											etwas neben Ihnen bewegt,
+											richten Sie sofort den Blick darauf.
+											Sie haben diese Zellen, die auf Veränderungen
+											reagieren und Sie darauf hinweisen.
+											Das hilft Ihnen dabei jemanden zu erwischen,
+											der sich anschleichen will.
+									",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+","
+","
+","
+","
+",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+											Let me just end by saying that this is what happens
+											when you put Africa in a piano, OK.
+											This is a steel drum here that has been modified,
+											and that's what happens when you put Africa in a piano.
+											And what I would like us to do is put Africa in the computer,
+											and come up with a new kind of computer
+											that will generate thought, imagination, be creative and things like that.
+											Thank you.
+											(Applause)
+									","
+											Terminaré diciendo que esto es lo que ocurre
+											cuando pones África en un piano ¿de acuerdo?
+											Esto es un tambor de acero que ha sido modificado
+											y esto es lo que ocurre cuando pones África en un piano.
+											Y lo que nos gustaría hacer es poner África en un computador
+											y acabar con un nuevo tipo de ordenador
+											que creará pensamiento, imaginación, será creativo y cosas así.
+											Gracias
+											(Aplausos)
+									","
+											Bitirirken söylemek isterim ki,
+											Afrika'yı piyano içine koyarsanız, bu gerçekleşir.
+											Bu bir geliştirilmiş çelikten davul
+											ve bu da Afrika'yı piyano içine koyduğunuz zaman olan.
+											Ve bizlerin yapmasını istediğim şey Afrika'yı bilgisayar içine koyup,
+											düşünce, hayal üreten, yaratıcı olan ve
+											bu gibi şeyleri yapan yeni tür bir bilgisayarla ortaya çıkmak.
+											Teşekkür ederim
+											(Alkışlar)
+									","
+											Laissez moi juste finir en vous montrant ce qui se passe
+											quand on met l'Afrique dans un piano, OK.
+											C'est un tambour en métal qui a été modifié,
+											et c'est ce qui arrive quand on met l'Afrique dans un piano.
+											Et ce que je voudrait que l'on fasse, c'est de mettre l'Afrique dans un ordinateur,
+											et de créer un nouveau type d'ordinateur
+											qui va générer de la pensée, de l'imagination, qui sera créatif, et caetera.
+											Merci.
+											(Applaudissements)
+									","
+											Zum Abschluss will ich Ihnen zeigen, was passiert,
+											wenn man Afrika in ein Piano steckt.
+											Das ist eine umgebaute Stahltrommel.
+											Das passiert, wenn man Afrika in ein Piano steckt.
+											Wir sollten mehr Afrika in den Computer stecken
+											und einen neuen Computer erfinden,
+											der Gedanken, Vorstellungskraft hervorbringt und kreativ ist.
+											Danke.
+											(Applaus)
+									",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+","
+","
+","
+","
+",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+											Chris Anderson: Question for you, Kwabena.
+											Do you put together in your mind the work you're doing,
+											the future of Africa, this conference —
+											what connections can we make, if any, between them?
+									","
+											Chris Anderson: Una pregunta, Kwabena.
+											Si piensas en la unión del trabajo que estás haciendo,
+											el futuro de África, esta conferencia —
+											¿qué conexiones pueden hacerse, si es posible, entre ellas?
+									","
+											Chris Anderson : Sana bir soru, Kwabena.
+											Zihninde, yaptığın çalışmaları,
+											Afrika'nın geleceğini, bu konferansı—
+											biraraya koysan ne tür bağlantılar yapabiliriz, eğer varsa,aralarında?
+									","
+											Chris Anderson : J'ai une question pour vous, Kwabena.
+											Est ce que vous associez dans votre esprit le travail que vous faites
+											et l'avenir de l'Afrique, cette conférence —
+											quelles connections peut t'on faire entre ces choses ?
+									","
+											Chris Anderson: Eine Frage an dich, Kwabena.
+											Verbindest du gedanklich deine Arbeit,
+											die Zukunft Afrikas, diese Konferenz...
+											Was für Verbindungen können wir dazwischen sehen?
+									",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+","
+","
+","
+","
+",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+											Kwabena Boahen: Yes, like I said at the beginning,
+											I got my first computer when I was a teenager, growing up in Accra.
+											And I had this gut reaction that this was the wrong way to do it.
+											It was very brute force; it was very inelegant.
+											I don't think that I would've had that reaction,
+											if I'd grown up reading all this science fiction,
+											hearing about RD2D2, whatever it was called, and just — you know,
+											buying into this hype about computers.
+											I was coming at it from a different perspective,
+											where I was bringing that different perspective
+											to bear on the problem.
+											And I think a lot of people in Africa have this different perspective,
+											and I think that's going to impact technology.
+											And that's going to impact how it's going to evolve.
+											And I think you're going to be able to see, use that infusion,
+											to come up with new things,
+											because you're coming from a different perspective.
+											I think we can contribute. We can dream like everybody else.
+									","
+											Kwabena Boahen: Sí, como dije al principio.
+											Tuve mi primer ordenador siendo un adolescente que crecía en Accra.
+											Y tuve esa reacción visceral de que esa era la manera errónea de hacerlo.
+											Era todo fuerza bruta, poco elegante.
+											No creo que hubiese tenido esa reacción
+											si hubiese crecido leyendo toda esa ciencia ficción,
+											oyendo sobre RD2D2, cómo se llame, y sólo — ya sabes,
+											creyéndome todas las noticias sobre los ordenadores.
+											Yo me acerqué al problema desde una perspectiva diferente,
+											y traje mi diferente perspectiva
+											para relacionarme con el problema.
+											Y creo que mucha gente en África tiene esta diferente perspectiva,
+											y creo que eso va a impactar en la tecnología.
+											Y eso va a impactar en su evolución.
+											Creo que podréis ver, usar esa mezcla,
+											para conseguir cosas nuevas,
+											porque se viene de una perspectiva diferente.
+											Creo que podemos contribuir, podemos soñar como todos los demás.
+									","
+											Kwabena Boahen : Evet, başlangıçta da söylediğim gibi.
+											İlk bilgisayarımı gençliğimde, Accra'da büyürken aldım.
+											Ve bunu yapmamın doğru olmadığını belirten acımasız bir tepki aldım.
+											acımasızca ve düşüncesizceydi.
+											Eğer bütün bu bilim kurguyu okuyarak,
+											RD2D''yi duyarak ve ne denilirse denilsin—size kalmış—
+											bilgisayarlar hakkındaki ucuz reklamlardan etkilenerek
+											büyümüş olsaydım bu tür bir tepkiyi almazdım.
+											Ben farklı bir görüş açısından geliyordum,
+											bu görüş açısını problemin
+											çözümü için getiriyordum.
+											Ve bana göre Afrika'daki bir çok insan bu farklı görüş açısına sahip
+											ve bunun teknolojiyi etkileyeceğini düşünüyorum.
+											Ve bu etkilenme onun nasıl gelişeceği doğrultusunda olacak.
+											Ve bu etkileşimin
+											yeni sonuçlara yol açacağını görebileceksiniz.
+											çünkü siz farklı bir görüş açısından geliyorsunuz.
+											Biz de herkes gibi katkıda bulunabiliriz, hayal edebiliriz.
+									","
+											Kwabena Boahen : Oui, comme je l'ai dit au début.
+											J'ai eu mon premier ordinateur quand j'étais adolescent à Accra.
+											Et j'ai eu cette réaction instinctive que c'était la mauvaise façon de faire.
+											C'était une démarche de force brute, pas du tout élégante.
+											Je ne pense pas que j'aurais eu cette réaction,
+											si je n'avais pas grandi en lisant toute cette science-fiction,
+											qui parlait de RD2D2, peu importe comment on l'appelle, et juste — vous savez
+											et été complètement fasciné par tout ce battage sur les ordinateurs.
+											Je m'en suis approché avec une perspective différente,
+											où j'utilisais cette perspective différente
+											pour résoudre le problème.
+											Et je pense que beaucoup d'Africains ont ce point de vue différent,
+											et je pense que ça aura un impact sur la technologie.
+											Et que ça va modifier son évolution.
+											Et je pense qu'on va bientôt pouvoir utiliser cette contribution
+											pour arriver à de nouvelles choses,
+											parce que nous venons d'un horizon différent.
+											Je pense que nous pouvons contribuer, que nous pouvons rêver comme n'importe qui d'autre.
+									","
+											Kwabena Boahen: Ja, wie anfangs gesagt,
+											Meinen ersten Computer bekam ich als Teenager in Accra.
+											Ich hatte so ein Bauchgefühl, dass wir es falsch angehen.
+											Es war sehr brachial, sehr unelegant.
+											Diese Reaktion hätte ich wohl nicht gehabt,
+											wenn ich als Kind Science-Fiction gelesen hätte,
+											von RD2D2 gehört gehabt hätte, oder wie immer das hieß.
+											Diesen Hype um Computer geglaubt hätte.
+											Ich hatte einen anderen Blickwinkel darauf
+											und habe meinen Blickwinkel benutzt, um das
+											Problem anzugehen.
+											Ich glaube, viele Afrikaner haben diese andere Perspektive, und ich glaube,
+											das wird die Technologie beeinflussen.
+											Es wird sich auf die technologische Entwicklung auswirken.
+											Diese werden wir nutzen können,
+											um neue Dinge zu erfinden,
+											weil wir die Dinge aus einer anderen Sicht sehen.
+											Wir können etwas beitragen, wir können träumen wie jeder andere.
+									",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+","
+","
+","
+","
+",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+											CA: Thanks Kwabena, that was really interesting.
+											Thank you.
+									","
+											Chris Anderson: Gracias Kwabena, ha sido muy interesante.
+											Gracias.
+									","
+											Chris Anderson: Teşekkürler Kwabena, gerçekten çok ilginçti.
+											Teşekkür ederim.
+									","
+											Chris Anderson : Merci Kwabena, c'était vraiment intéressant.
+											Merci.
+									","
+											Chris Anderson: Thanks Kwabena, das war sehr interessant.
+											Danke.
+									",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+","
+","
+","
+","
+",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+											(Applause)
+									","
+											(Aplausoss)
+									","
+											(Alkışlar)
+									","
+											(Applaudissements)
+									","
+											(Applaus)
+									",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"
+"
+","
+","
+","
+","
+",A computer that works like the brain,Kwabena Boahen,16:22,"brain,complexity,computers,design,engineering,science,technology,visualizations"

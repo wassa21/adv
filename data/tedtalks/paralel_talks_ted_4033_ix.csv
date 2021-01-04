@@ -1,0 +1,1346 @@
+en,es,tr,fr,de,title,speaker,duration,tags
+"
+","
+","
+","
+","
+",How I built a toaster — from scratch,Thomas Thwaites,10:51,"design,entertainment,technology,Anthropocene"
+"
+											If we look around us,
+											much of what surrounds us
+											started life as various rocks and sludge
+											buried in the ground in various places in the world.
+											But, of course, they don't look like rocks and sludge now.
+											They look like TV cameras, monitors,
+											annoying radio mics.
+											And so this magical transformation
+											is what I was trying to get at with my project,
+											which became known as the Toaster Project.
+											And it was also inspired by this quote
+											from Douglas Adams,
+											and the situation is from ""The Hitchhiker's Guide to the Galaxy.""
+											And the situation it describes
+											is the hero of the book — he's a 20th-century man —
+											finds himself alone on a strange planet
+											populated only by a technologically primitive people.
+											And he kind of assumes that, yes,
+											he'll become — these villagers —
+											he'll become their emperor
+											and transform their society
+											with his wonderful command of technology
+											and science and the elements,
+											but, of course, realizes
+											that without the rest of human society,
+											he can barely make a sandwich,
+											let alone a toaster.
+											But he didn't have Wikipedia.
+									","
+											Si miramos a nuestro alrededor,
+											mucho de lo que nos rodea
+											al principio existió en forma de piedras y lodo
+											que cubrían el suelo en distintas partes del mundo.
+											Obviamente, ahora no tienen la apariencia de piedras y lodo,
+											sino de cámaras de TV, monitores,
+											y molestos micrófonos.
+											Y por eso con mi proyecto,
+											que se hizo célebre como «Proyecto Tostadora»,
+											yo buscaba mostrar esta transformación mágica.
+											Inspirado en esta frase
+											de Douglas Adams
+											tomada de la ""Guía del viajero galáctico""
+											que describe la parte en que
+											el protagonista del libro -un hombre del siglo XX-
+											se encuentra a sí mismo solo en un planeta extraño
+											habitado por gente de una tecnología primitiva.
+											Y él supone que, sí, que va a llegar
+											a ser el emperador de estos aldeanos,
+											que va a llegar a serlo
+											y que va a transformar a la sociedad
+											gracias al dominio que tiene de la tecnología
+											de la ciencia y de los elementos
+											pero, por supuesto, se da cuenta
+											de que sin el resto de la sociedad humana
+											apenas podría hacer un sándwich,
+											por no hablar de una tostadora.
+											Pero él no tenía Wikipedia.
+									","
+											Etrafımıza bakarsak,
+											bizi çevreleyen şeylerin çoğu
+											dünyanın çeşitli yerlerinde toprağa gömülü
+											taş ve çamur olarak yaşama başladı.
+											Fakat, tabii ki, şimdi taş ve çamur gibi görünmüyorlar;
+											TV kameraları, mönitörler,
+											sinir bozucu radyo mikrofonları gibiler.
+											Ve böylece bu büyülü dönüşüm
+											projemde ulaşmaya çalıştığım şeydi,
+											Tost Makinesi Projesi diye tanındı.
+											Ve ayrıca Douglas Adams'ın
+											bu alıntısından esinlenildi.
+											Ve durum da ""Otostopçunun Galaksi Rehberi""nden.
+											Ve bahsedilen durumda
+											kitabın kahramanı — 20. yy insanı olur kendisi —
+											teknolojik olarak sadece ilkel insanlardan oluşmuş
+											garip bir gezegende bulur kendini.
+											Ve o şunu farz eder gibi olur, evet
+											o — bu köylülerin —
+											imparatoru olacak
+											ve teknolojiye, bilime ve elementlere
+											olağanüstü hakimiyetiyle
+											halkını dönüştürecek,
+											fakat, tabii, şunu anlar ki
+											insanlığın geri kalanı olmadan,
+											bırakın tost makinesini,
+											bir sandöviç yapmaktan acizdir.
+											Ama onun Wikipedia'sı yoktu.
+									","
+											Si nous regardons autour de nous,
+											la majeure partie de ce qui nous entoure
+											a commencé sa vie sous forme de différentes roches et boues
+											enfouies dans le sol en divers endroits du monde.
+											Mais bien sûr, ils ne ressemblent pas à des roches et des boues maintenant ;
+											ils ressemblent à des caméras de télévision, des moniteurs,
+											des micros de radios embêtants.
+											Et donc cette transformation magique
+											c'est à ça que j'essaye d'arriver avec mon projet,
+											que l'on connait désormais comme le Projet Grille-Pain.
+											Et il a aussi été inspiré par cette citation
+											de Douglas Adams.
+											Et c'est une situation tirée du ""Guide du voyageur galactique.""
+											Et la situation qui est décrite
+											est celle où le héros du livre — un homme du 20ème siècle —
+											se retrouve seul sur une planète étrange
+											peuplée seulement de gens technologiquement primitifs.
+											Et en gros il présume que, oui,
+											il va devenir — ces villageois —
+											il va devenir leur empereur
+											et transformer leur société
+											avec sa merveilleuse maîtrise de la technologie
+											de la science et des éléments,
+											mais bien sûr il se rend compte
+											que sans le reste de la société humaine,
+											il peut tout juste faire un sandwich,
+											encore moins un grille-pain.
+											Mais il n'avait pas Wikipédia.
+									","
+											Wenn wir uns umsehen,
+											hat vieles von dem, was uns umgibt,
+											sein Leben als mancherlei Steine und Schlamm begonnen,
+											an diversen Orten auf der Welt im Boden vergraben.
+											Aber natürlich sehen sie nichtmehr wie Steine und Schlamm aus;
+											Sie sehen aus wie Fernsehkameras, Monitore,
+											lästige Radiomikrofone.
+											Und diese magische Verwandlung war das,
+											was ich mit meinem Projekt erreichen wollte,
+											welches als ""Das Toaster Projekt"" bekannt wurde.
+											Und es war inspiriert von diesem Zitat
+											von Douglas Adams.
+											Die Situation ist aus ""Per Anhalter durch die Galaxis"".
+											Und die beschriebene Situation ist:
+											der Held des Buches - ein Mann des 20. Jahrhunderts -
+											findet sich auf einem seltsamen Planeten wieder,
+											der von technologisch primitiven Menschen bevölkert ist.
+											Und er nimmt irgendwie an, ja,
+											er wird - diese Dorfbewohner -
+											er wird ihr Herrscher
+											und verändert ihre Gesellschaft
+											mit seiner wundervollen Herrschaft der Technologie,
+											der Wissenschaft und der Elemente,
+											aber bemerkt natürlich,
+											dass er ohne den Rest der menschlichen Gesellschaft
+											kaum ein Sandwich, geschweige denn
+											einen Toaster, herstellen kann.
+											Aber er hatte kein Wikipedia.
+									",How I built a toaster — from scratch,Thomas Thwaites,10:51,"design,entertainment,technology,Anthropocene"
+"
+","
+","
+","
+","
+",How I built a toaster — from scratch,Thomas Thwaites,10:51,"design,entertainment,technology,Anthropocene"
+"
+											So I thought, okay,
+											I'll try and make an electric toaster from scratch.
+											And, working on the idea
+											that the cheapest electric toaster
+											would also be the simplest to reverse-engineer,
+											I went and bought the cheapest toaster I could find,
+											took it home
+											and was kind of dismayed to discover
+											that, inside this object,
+											which I'd bought for just 3.49 pounds,
+											there were 400 different bits
+											made out of a hundred-plus different materials.
+											I didn't have the rest of my life to do this project.
+											I had maybe nine months.
+											So I thought, okay, I'll start with five.
+											And these were steel, mica,
+											plastic, copper and nickel.
+									","
+											Así que pensé, bueno,
+											voy a tratar de hacer una tostadora eléctrica desde cero.
+											Y, a partir de la idea de que
+											la tostadora eléctrica más barata
+											sería la más fácil de estudiar
+											fui a comprar la más barata que pude encontrar,
+											la llevé a casa,
+											y quedé consternado al descubrir
+											que en este objeto
+											que había comprado por apenas £ 3,94
+											hay 400 componentes distintos
+											hechos con más de cien materiales diferentes.
+											Yo no tenía toda la vida para dedicarle al proyecto;
+											tenía, como mucho, 9 meses.
+											Entonces pensé, bueno, voy a empezar
+											con cinco: acero, mica,
+											plástico, cobre y níquel.
+									","
+											O halde tamam diye düşündüm
+											deneyeceğim ve sıfırdan elektrikli bir ekmek kızartma makinesi yapacağım.
+											Ve, en ucuz ekmek kızartma makinesinin
+											aynı zamanda en kolay biçimde
+											tersine mühendisliğe tabi tutulacağı fikrinden hareketle,
+											gittim ve bulabildiğim en ucuz tost makinesini aldım,
+											eve götürdüm
+											ve bu nesnenin içinde, ki 3,94 pounda almıştım,
+											yüzün üzerinde
+											farklı malzemeden yapılmış 400 farklı parçanın
+											olduğunu keşfedince
+											cesaretim kırılır gibi olmuştu.
+											Bu proje için hayatımın sonuna kadar uğraşamazdım;
+											belki dokuz ayım vardı.
+											Öyleyse peki, beş malzeme ile başlarım diye düşündüm.
+											Ve bunlar çelik, mika,
+											plastik, bakır ve nikel idi.
+									","
+											Alors j'ai pensé, bon,
+											Je vais essayé de faire un grille-pain à partir de zéro.
+											Et en travaillant sur cette idée
+											que le grille-pain électrique le moins cher
+											serait aussi le plus simple pour la rétro-ingénierie,
+											je suis allé acheter le grille-pain le moins cher que j'ai pu trouver,
+											je l'ai ramené à la maison
+											et j'étais plutôt désemparé en découvrant
+											qu'à l'intérieur de cet objet,
+											que j'avais acheté pour seulement quatre euros soixante,
+											il y avait 400 pièces différentes
+											faites à partir de plus de 100 matériaux différents.
+											Je n'avais pas le reste de ma vie pour mener à terme ce projet ;
+											J'avais peut-être neuf mois.
+											Alors j'ai pensé, bon, je vais commencer avec cinq matériaux.
+											Et c'était l'acier, le mica,
+											le plastique, le cuivre et le nickel.
+									","
+											Also dachte ich, okay,
+											ich werde versuchen einen elektrischen Toaster von Grund auf herzustellen.
+											Und, mit der Idee,
+											dass der billigste Toaster
+											sich auch am einfachsten auseinander bauen ließe,
+											kaufte ich mir den billigsten den ich finden konnte,
+											nahm ihn mit heim
+											und war etwas bestürzt zu entdecken,
+											dass in diesem Objekt,
+											das ich für nur 3,49 Pfund gekauft hatte,
+											400 verschiedene Teile,
+											aus über 100 verschiedenen Materialien stecken.
+											Ich hatte für dieses Projekt nicht mein Leben lang Zeit;
+											Ich hatte vielleicht 9 Monate.
+											Also dachte ich, okay, beginne ich mit fünf.
+											Und das waren Stahl, Glimmer,
+											Plastik, Kupfer und Nickel.
+									",How I built a toaster — from scratch,Thomas Thwaites,10:51,"design,entertainment,technology,Anthropocene"
+"
+","
+","
+","
+","
+",How I built a toaster — from scratch,Thomas Thwaites,10:51,"design,entertainment,technology,Anthropocene"
+"
+											So, starting with steel: how do you make steel?
+											I went and knocked on the door
+											of the Rio Tinto Chair
+											of Advanced Mineral Extraction at the Royal School of Mines
+											and said, ""How do you make steel?""
+											And Professor Cilliers was very kind
+											and talked me through it.
+											And my vague rememberings from GCSE science —
+											well, steel comes from iron,
+											so I phoned up an iron mine.
+											And said, ""Hi, I'm trying to make a toaster.
+											Can I come up and get some iron?""
+											Unfortunately, when I got there — emerges Ray.
+											He had misheard me
+											and thought I was coming up because I was trying to make a poster,
+											and so wasn't prepared to take me into the mines.
+											But after some nagging, I got him to do that.
+									","
+											Empecemos con el acero: ¿cómo se hace el acero?
+											Fui a golpear la puerta
+											del director del Centro de Extracción Mineral Avanzada
+											de Río Tinto, en la Escuela Real de Minas
+											y le dije: ""¿Cómo se hace el acero?""
+											Y el profesor Cilliers fue muy amable
+											y me explicó el proceso.
+											De mis recuerdos vagos de ciencias de la secundaria
+											sabía que el acero proviene del hierro
+											así que llamé a una mina de hierro y les dije:
+											""Hola, estoy tratando de hacer una tostadora ['toaster', NT].
+											¿Puedo ir a buscar algo de hierro?""
+											Por desgracia, cuando llegué allí, apareció Ray.
+											Él me había oído mal
+											y pensó que yo estaba por hacer un póster [rima con 'toaster', NT]
+											y no estaba preparado para llevarme a la mina.
+											Pero luego de insistir un poco, lo convencí.
+									","
+											Pekala, çelikle başlarsak: çelik nasıl yapılır?
+											Gittim ve Kraliyet Maden Okulu'ndaki
+											İleri Mineral Çıkarma Bölümü'nün
+											bir bakıma Rio Tinto yöneticisi durumundaki bölüm başkanının kapısını çaldım ve dedim ki,
+											""Çelik nasıl yapılır?""
+											Ve Profesör Cilliers oldukça kibardı
+											ve bunu etraflıca izah etti.
+											Ve lisedeki fen dersinde hatırladıklarımdan —
+											şey, çelik demirden yapılır,
+											bundan dolayı bir demir madenine telefon ettim.
+											Ve, ""Merhaba, bir tost makinesi yapmaya çalışıyorum.
+											Gelip biraz demir alabilir miyim?"" dedim.
+											Ne yazık ki, oraya vardığımda — Ray çıkagelir.
+											Beni yanlış duymuş ve
+											bir poster yapmaya çalıştığımı düşünürek geliyorum zannetmiş,
+											ve bu nedenle beni madene indirmek için hazırlıklı değildi.
+											Fakat biraz dırdır edince, bunu yapmasına ikna ettim.
+									","
+											Donc en commençant par l'acier : comment fait-on de l'acier ?
+											Je suis aller frapper à la porte
+											de la Chaire Rio Tinto
+											de l'extraction minérale avancée à l'école royale des mines
+											et j'ai dit : « Comment faites-vous de l'acier ? »
+											Et le Professeur Cilliers a été très gentil
+											et m'a tout expliqué.
+											Et mes souvenirs vagues du cours de science au lycée —
+											l'acier vient du fer,
+											alors j'ai téléphoné à une mine de fer.
+											Et j'ai dit : « Salut, j'essaye de faire un grille-pain.
+											Est-ce que je peux venir chercher du fer ? »
+											Malheureusement, quand je suis arrivé, Ray est apparu.
+											Il avait mal entendu ce que j'avais dit
+											et pensait que je venais parce que j'essayais de faire une affiche,
+											et donc il n'était pas prêt à m'emmener dans les mines.
+											Mais après l'avoir embêté un peu, j'ai obtenu qu'il le fasse.
+									","
+											Angefangen mit Stahl: Wie macht man Stahl?
+											Ich klopfte an die Tür
+											vom Lehrstuhl des Rio Tinto Konzerns
+											der modernen Mineralförderung an der ""Royal School of Mines""
+											und fragte: ""Wie macht man Stahl?""
+											Und Professor Cilliers war sehr nett
+											und erklärte es mir.
+											Und ich erinnerte mich vage an den Realschulunterricht -
+											Naja, Stahl kommt von Eisen,
+											also rief ich bei einer Eisenmiene an.
+											Und sagte: ""Hi, ich versuche einen Toaster zu bauen.
+											Kann ich kommen und etwas Eisen holen?""
+											Leider, als ich dort ankam - kam Ray heraus.
+											Er hatte mich missverstanden
+											und dachte, ich käme, weil ich versuche ein Poster zu machen,
+											darum war er nicht vorbereitet mich in die Mine zu führen.
+											Aber nach etwas Quengelei, machte er es.
+									",How I built a toaster — from scratch,Thomas Thwaites,10:51,"design,entertainment,technology,Anthropocene"
+"
+","
+","
+","
+","
+",How I built a toaster — from scratch,Thomas Thwaites,10:51,"design,entertainment,technology,Anthropocene"
+"
+											(Video) Ray: It was Crease Limestone,
+											and that was produced
+											by sea creatures
+											350 million years ago
+											in a nice, warm,
+											sunny atmosphere.
+											When you study geology,
+											you can see what's happened in the past,
+											and there were terrific changes in the earth.
+									","
+											(Video) Ray: era una cantera de caliza
+											producto de criaturas marinas
+											que hace 350 millones
+											de años vivían en una
+											atmósfera soleada
+											agradable y cálida.
+											Cuando uno estudia geología
+											puede ver lo que sucedía en el pasado.
+											Y se han producido cambios increíbles.
+									","
+											(Görüntü) Ray: Kalker kireçtaşıydı bu.
+											Ve bu deniz canlıları
+											tarafından
+											350 milyon yıl önce
+											hoş, sıcak bir havada
+											meydana getirilmiş.
+											Jeoloji okuduğunda,
+											geçmişte neler olduğunu görebilirsin.
+											Ve müthiş değişimler vardı.
+									","
+											(Vidéo) Ray : C'était de la pierre à chaux.
+											Et elle a été produite
+											par des créatures marines
+											il y a 350 millions d'années
+											dans une atmosphère ensoleillée,
+											agréable et chaude.
+											Quand on étudie la géologie,
+											on peut voir ce qui s'est passé dans le temps.
+											Et il y a eu des changements énormes.
+									","
+											(Video) Ray: Es war gefalteter Kalkstein.
+											Der wurde produziert
+											von Meerestieren,
+											vor 350 Millionen Jahren,
+											in einem schönen, warmen,
+											sonnigen Klima.
+											Wenn du Geologie studierst,
+											kannst du sehen was in der Vergangenheit passiert ist.
+											Es gab ungeheuerliche Veränderungen.
+									",How I built a toaster — from scratch,Thomas Thwaites,10:51,"design,entertainment,technology,Anthropocene"
+"
+","
+","
+","
+","
+",How I built a toaster — from scratch,Thomas Thwaites,10:51,"design,entertainment,technology,Anthropocene"
+"
+											Thomas Thwaites: As you can see, they had the Christmas decorations up.
+											And of course, it wasn't actually a working mine anymore,
+											because, though Ray was a miner there,
+											the mine had closed
+											and had been reopened as a kind of tourist attraction,
+											because, of course, it can't compete
+											on the scale of operations which are happening
+											in South America, Australia, wherever.
+											But anyway, I got my suitcase of iron ore
+											and dragged it back to London on the train,
+											and then was faced with the problem:
+											Okay, how do you make this rock
+											into components for a toaster?
+									","
+											Thomas Thwaites: Como pueden ver había decoraciones navideñas.
+											Y, por supuesto, ya no era una mina activa
+											porque, aunque Ray era minero,
+											la mina había cerrado
+											y volvió a abrir como atracción turística
+											porque, obviamente, no puede competir
+											con la magnitud de las actividades que tienen lugar
+											en América del Sur, Australia, etc.
+											De todas formas, conseguí mi maleta de mineral de hierro
+											y la arrastré hasta Londres en tren
+											para luego enfrentarme al problema:
+											bueno, ¿cómo transformo esta piedra
+											en componentes de una tostadora?
+									","
+											Thomas Thwaites: Gördüğünüz gibi, Noel süslemeleri asılmış.
+											Ve tabii ki, artık aktif bir maden değildi burası,
+											çünkü, Ray orada madenci olmasına rağmen,
+											maden kapatılmıştı
+											ve turistik bir yer olarak yeniden açıldı,
+											çünkü, öyle ya, Güney Amerika'daki, Avustralya'daki,
+											her neredeyse, operasyonların büyüklüğüyle
+											başa çıkamazdı.
+											Her neyse, bir bavul dolusu demir cevherine kavuşmuştum
+											trenle onu Londra'ya taşıdım,
+											ve sonra şu sorunla yüzleştim:
+											Tamam, bu kaya parçasını tost makinesi için
+											bileşenlerine nasıl ayırırız?
+									","
+											Thomas Thwaites : Comme vous pouvez le voir, ils avaient mis les décorations de Noël.
+											Et bien sûr, ce n'était plus vraiment une mine en service,
+											parce que, bien que Ray ait travaillé là comme mineur,
+											la mine avait fermé,
+											et avait été réouverte comme une sorte d'attraction touristique,
+											parce que, bien sûr, elle ne peut pas rivaliser
+											à l'échelle des exploitations qui se passent
+											en Amérique du Sud, en Australie, n'importe où.
+											Mais de toute façon, j'ai eu ma valise de minerai de fer
+											et je l'ai trainée pour la ramener à Londres en train,
+											et puis je me suis trouvé devant un problème :
+											Bon, comment transformer cette roche
+											en composants pour grille-pain ?
+									","
+											Thomas Thwaites: Wie Sie sehen können, hatten sie für Weihnachten dekoriert.
+											Natürlich wurde diese Miene nicht mehr betrieben.
+											Weil, obwohl Ray dort als Kumpel gearbeitet hat,
+											wurde die Miene geschlossen
+											und als Touristenattraktion wieder eröffnet.
+											Denn natürlich kann sie nicht mithalten,
+											bei dem Arbeitsumfang, wie er in
+											Südamerika, Australien, wo auch immer betrieben wird.
+											Aber egal, ich bekam meinen Koffer voll Eisenerz
+											und brachte ihn mit dem Zug zurück nach London,
+											wo ich mit dem Problem konfrontiert wurde:
+											Okay, wie mache ich aus diesem Stein
+											Bauteile für einen Toaster?
+									",How I built a toaster — from scratch,Thomas Thwaites,10:51,"design,entertainment,technology,Anthropocene"
+"
+","
+","
+","
+","
+",How I built a toaster — from scratch,Thomas Thwaites,10:51,"design,entertainment,technology,Anthropocene"
+"
+											So I went back to Professor Cilliers,
+											and he said, ""Go to the library.""
+											So I did
+											and was looking through the undergraduate textbooks on metallurgy —
+											completely useless for what I was trying to do.
+											Because, of course, they don't actually tell you how to do it
+											if you want to do it yourself and you don't have a smelting plant.
+											So I ended up going to the History of Science Library
+											and looking at this book.
+											This is the first textbook on metallurgy
+											written in the West, at least.
+											And there you can see that woodcut
+											is basically what I ended up doing.
+											But instead of a bellows, I had a leaf blower.
+											(Laughter)
+											And that was something that reoccurred throughout the project,
+											was, the smaller the scale you want to work on,
+											the further back in time you have to go.
+											And so this is after
+											a day and about half a night
+											smelting this iron.
+											I dragged out this stuff,
+											and it wasn't iron.
+											But luckily,
+											I found a patent online
+											for industrial furnaces that use microwaves,
+											and at 30 minutes at full power,
+											and I was able to finish off the process.
+									","
+											Así que volví con el profesor Cilliers
+											y me dijo: ""Ve a la biblioteca"".
+											Y así hice,
+											fui a hojear los textos de metalurgia
+											completamente inútiles para lo que estaba tratando de hacer.
+											Porque, por supuesto, no dicen realmente cómo se hace
+											si uno quiere hacerlo por su cuenta y no dispone de una planta de fundición.
+											Así que terminé yendo a la Biblioteca de la Historia de la Ciencia,
+											y encontré este libro.
+											Este es el primer libro sobre metalurgia,
+											al menos, el primero escrito en Occidente.
+											Allí puede verse ese grabado en madera
+											que, al final, es lo que terminé haciendo.
+											Pero en lugar de un fuelle yo tenía un soplador de hojas.
+											(Risas)
+											Y eso fue una constante en el proyecto:
+											cuanto menor era la escala en que quería trabajar
+											más debía remontarme en el tiempo.
+											Y esto es después
+											de un día y casi media noche
+											de fundir este hierro.
+											Quité esta cosa
+											y no había hierro.
+											Pero por suerte
+											encontré en línea una patente
+											para hornos industriales que usan microondas.
+											Después de 30 minutos a plena potencia
+											pude completar el proceso.
+									","
+											O yüzden yine Profesör Cilliers'e gittim,
+											ve bana, ""Kütüphaneye git."" dedi.
+											Ben de gittim
+											ve maden bilimi hakkındaki bölüm dersi kitaplarına bakıyordum —
+											yapmaya çalıştığım şey açısından tamamen faydasızdı.
+											Çünkü, elbette, bunu gerçekte nasıl yapacağınızı söylemiyorlar
+											eğer istiyorsanız kendiniz yapın ve bir tasfiyehaneniz de yoktur.
+											Böylelikle kendimi Bilim Tarihi Kütüphanesi'ne gidip
+											bu kitaba bakarken buldum.
+											Bu maden bilimi hakkında yazılmış ilk kitap
+											Batı'da yazılmış ilk kitap en azından.
+											Ve esasen yaptığımdan elde ettiğim sonuç
+											işte şu gördüğünüz tahta baskı kalıbıydı.
+											Fakat körük yerine, yaprak üfleyicim vardı.
+											(Gülüşmeler)
+											Ve bu proje boyunca hep yeniden olan bir şeydi,
+											neydi bu; siz daha ufak ölçekte çalışmak istedikçe,
+											zamanda daha da geriye gitmeniz gerekiyordu.
+											Ve işte demir eritildikten
+											bir gün ve yaklaşık
+											yarım gece sonrası.
+											Bu şeyi tutup çıkardım,
+											ve o şey demir değildi.
+											Fakat neyse ki,
+											Internette mikrodalgayı kullanan
+											sanayi fırınları için bir icat buldum.
+											Ve 30 dakikalık
+											tam güçle işlemi bitirebilmiştim.
+									","
+											Donc je suis retourné voir le professeur Cilliers,
+											et il a dit : « Allez à la bibliothèque. »
+											C'est ce que j'ai fait
+											et j'ai cherché dans les manuels de métallurgie de premier cycle —
+											totalement inutile pour ce que j'essayais de faire.
+											Parce que, bien sûr, on ne vous dit pas vraiment comment le faire
+											si vous voulez le faire vous-même et que vous n'avez pas de fonderie.
+											Donc j'ai fini par aller à la bibliothèque d'histoire des sciences
+											et j'ai regardé dans ce livre.
+											C'est le premier manuel de métallurgie
+											écrit en Occident, au moins.
+											Et là vous pouvez voir que la gravure
+											est en gros ce que j'ai fini par faire.
+											Mais au lieu d'un soufflet, j'ai utilisé un souffleur de feuilles.
+											(Rires)
+											Et un fait récurrent tout au long de ce projet.
+											c'était que plus l'échelle à laquelle on voulait travailler était petite,
+											plus il fallait remonter loin dans le temps.
+											Et donc c'est après
+											une journée et environ la moitié d'une nuit
+											passées à fondre ce fer.
+											J'ai tiré cette matière
+											et ce n'était pas du fer.
+											Mais heureusement,
+											j'ai trouvé un brevet en ligne
+											pour des fours industriels qui utilisent des micro-ondes.
+											Et 30 minutes à pleine puissance,
+											et j'étais en mesure de mener à terme le processus.
+									","
+											Also ging ich zurück zu Professor Cilliers,
+											und der sagte: ""Gehen sie in die Bibliothek.""
+											Das tat ich
+											und sah Studienlehrbücher über Metallurgie durch -
+											komplett nutzlos für meine Zwecke.
+											Weil sie natürlich nicht erklären wie man das anstellt,
+											wenn man es selbst machen will und keinen Schmelzanlage hat.
+											Also landete ich in der Bibliothek der Geschichte der Wissenschaft,
+											wo ich mir dieses Buch ansah.
+											Das ist, tatsächlich, das erste Lehrbuch der Metallurgie
+											das im Westen geschrieben wurde.
+											Und hier, sehen sie, dieser Holzschnitt
+											zeigt im Grunde das was ich am Ende tat.
+											Nur statt einem Blasebalg hatte ich einen Laubbläser.
+											(Gelächter)
+											Und das war etwas, das sich durch das ganze Projekt zog,
+											dass, je geringer der Grad der Arbeit,
+											desto weiter muss man in der Zeit zurückgehen.
+											Und so, nach
+											einem Tag und einer halben Nacht
+											Eisen schmelzen,
+											holte ich das Zeug raus,
+											und es war kein Eisen.
+											Aber glücklicherweise,
+											fand ich online ein Patent
+											für industrielle Schmelzöfen, die Mikrowellen nutzen.
+											30 Minuten bei voller Leistung
+											und ich war in der Lage diese Arbeit abzuschließen.
+									",How I built a toaster — from scratch,Thomas Thwaites,10:51,"design,entertainment,technology,Anthropocene"
+"
+","
+","
+","
+","
+",How I built a toaster — from scratch,Thomas Thwaites,10:51,"design,entertainment,technology,Anthropocene"
+"
+											So, my next —
+											(Applause)
+											The next thing I was trying to get was copper.
+											Again, this mine
+											was once the largest copper mine in the world.
+											It's not anymore,
+											but I found a retired geology professor
+											to take me down,
+											and he said, ""Okay, I'll let you have some water from the mine.""
+											And the reason I was interested in getting water
+											is because water which goes through mines
+											becomes kind of acidic
+											and will start picking up,
+											dissolving the minerals from the mine.
+											And a good example of this is the Rio Tinto,
+											which is in Portugal.
+											As you can see, it's got lots and lots of minerals dissolved in it.
+											So many such
+											that it's now just a home for bacteria
+											who really like acidic, toxic conditions.
+											But anyway, the water I dragged back
+											from the Isle of Anglesey where the mine was —
+											there was enough copper in it
+											such that I could cast the pins
+											of my metal electric plug.
+									","
+											Así, lo siguiente...
+											(Aplausos)
+											El siguiente paso fue obtener cobre.
+											De nuevo, alguna vez
+											esta fue la mina de cobre más grande del mundo.
+											Ya no lo es.
+											Pero encontré un profesor de geología jubilado
+											que me llevó allí.
+											Y me dijo: ""Bueno, te dejo llevar agua de la mina"".
+											La razón de mi interés por el agua
+											es que la que fluye por las minas
+											se vuelve ácida
+											y empieza a absorber,
+											a disolver los minerales de la mina.
+											Un claro ejemplo es el Río Tinto,
+											en Portugal.
+											Como pueden ver, contiene grandes cantidades de minerales.
+											Tantos que ahora
+											es caldo de cultivo de bacterias
+											que viven en condiciones ácidas, tóxicas.
+											De todos modos, el agua que traje
+											de la isla de Anglesey, donde estaba la mina,
+											contenía suficiente cobre
+											así que pude moldear las clavijas
+											de mi enchufe metálico.
+									","
+											Böylece, sonraki —
+											(Alkış)
+											Sonraki elde etmeye çalıştığım şeyse bakırdı.
+											Yine, bu maden
+											bir zamanlar dünyadaki en büyük bakır madeniydi.
+											Artık değil,
+											fakat emekli bir jeoloji profesörü buldum,
+											beni aşağıya indirmesi için.
+											Ve dedi ki, ""Tamam, madenden biraz su almana izin vereceğim.""
+											Ve su almak istememdeki sebep ise,
+											madenlerden akıp geçen suların
+											asitli hale gelmesi
+											ve madendeki çözülmüş mineralleri
+											toplamaya başlaması.
+											Ve buna güzel bir örnek ise Portekiz'deki
+											Rio Tinto'dur.
+											Gördüğünüz üzere, içinde çözülmüş çok fazla mineral var.
+											O kadar çoklar ki
+											gerçekten asitli ve toksik koşulları
+											seven bakterilerin yuvası olmuştur şimdi.
+											Her neyse, madenin olduğu
+											Anglesey adacığından alıp getirdiğim suda —
+											yeterli bakır mevcuttu
+											o kadar ki metalden elektrik fişimin
+											çivilerinin dökme işlemini yapabilecek kadar.
+									","
+											Et donc mon prochain —
+											(Applaudissements)
+											Ce que j'ai ensuite essayé d'obtenir, c'était du cuivre.
+											Là encore, cette mine
+											avait été la plus grande mine de cuivre du monde.
+											Elle ne l'est plus.
+											mais j'ai trouvé un professeur de géologie à la retraite
+											pour m'y faire descendre.
+											Et il a dit : « D'accord, je vous laisserai prendre de l'eau de la mine. »
+											Et la raison pour laquelle j'étais intéressé par l'eau
+											c'est que l'eau qui passe par les mines
+											devient acide
+											et emporte le métal,
+											en dissolvant les minéraux de la mine.
+											Et un bon exemple en est le Rio Tinto,
+											qui se trouve au Portugal.
+											Comme vous pouvez le voir, il contient vraiment beaucoup de minéraux dissous.
+											À tel point
+											qu'il abrite à présent des bactéries
+											qui aiment vraiment les conditions acides et toxiques.
+											Mais bon, l'eau que j'ai ramenée
+											de l'île d'Anglesey où la mine se trouvait —
+											il y avait assez de cuivre dedans
+											pour que je puisse mouler les fiches
+											de ma prise électrique métallique.
+									","
+											So, mein nächstes -
+											(Beifall)
+											Das nächste Teil was ich zu bekommen versuchte war Kupfer.
+											Erneut, diese Miene
+											war einst die größte Kupfermiene der Welt.
+											Ist sie nicht mehr,
+											aber ich fand einen pensionierten Geologieprofessor
+											der mich mit hinunter nahm.
+											Und er sagte: ""Okay, Du kannst ein bisschen Wasser aus der Miene haben.""
+											Und der Grund warum ich versuchte Wasser zu bekommen
+											ist, weil Wasser das durch Stollen fließt
+											säuerlich wird
+											und beginnt die Mineralien aufzunehmen
+											die es aus dem Felsen löst.
+											Und ein gutes Beispiel daführ ist der rote Fluss ""Rio Tinto""
+											in Portugal.
+											Wie sie sehen, hat er viele viele Mineralien in sich gelöst.
+											So viele sogar,
+											dass er nun nur noch Heimat für Bakterien ist,
+											die giftige, saure Bedingungen mögen.
+											Aber wie auch immer, das Wasser, das ich
+											von der ""Isle of Anglesey"", wo die Miene war, mitbrachte -
+											war kupferhaltig genug
+											dass ich die Kontakte für meinen
+											Elektrostecker aus Metall gießen konnte.
+									",How I built a toaster — from scratch,Thomas Thwaites,10:51,"design,entertainment,technology,Anthropocene"
+"
+","
+","
+","
+","
+",How I built a toaster — from scratch,Thomas Thwaites,10:51,"design,entertainment,technology,Anthropocene"
+"
+											So my next thing: I was off to Scotland
+											to get mica.
+											And mica is a mineral
+											which is a very good insulator
+											and very good at insulating electricity.
+											That's me getting mica.
+											And the last material I'm going to talk about today is plastic,
+											and, of course,
+											my toaster had to have a plastic case.
+											Plastic is the defining feature
+											of cheap electrical goods.
+											And so plastic comes from oil, so I phoned up BP
+											and spent a good half an hour
+											trying to convince the PR office at BP
+											that it would be fantastic for them
+											if they flew me to an oil rig
+											and let me have a jug of oil.
+											BP obviously has a bit more on their mind now.
+											But even then
+											they weren't convinced
+											and said, ""Okay, we'll phone you back"" — never did.
+											So I looked at other ways of making plastic.
+											And you can actually make plastic
+											from obviously oils which come from plants, but also from starches.
+											So this is attempting to make
+											potato starch plastic.
+											And for a while that was looking really good.
+											I poured it into the mold, which you can see there,
+											which I've made from a tree trunk.
+											And it was looking good for a while,
+											but I left it outside, because you had to leave it outside to dry,
+											and unfortunately I came back
+											and there were snails eating the unhydrolyzed bits of potato.
+									","
+											El siguiente paso fue ir a Escocia
+											a buscar mica.
+											La mica es un mineral
+											muy aislante,
+											muy bueno para aislar electricidad.
+											Ahí estoy consiguiendo mica.
+											Y el último material del que voy a hablar es el plástico.
+											Y, claro,
+											mi tostadora tenía que tener una cubierta de plástico.
+											El plástico es lo que caracteriza
+											a los aparatos eléctricos baratos.
+											Como el plástico proviene del petróleo, llamé a British Petroleum
+											y pasé una buena media hora
+											tratando de convencer a la oficina de RRPP de BP
+											de que sería fantástico para ellos
+											si me llevaban a una plataforma petrolera
+											y me dejaban traer una jarra de petróleo.
+											Hoy en día, obviamente, BP tiene otros problemas en mente.
+											Pero incluso entonces
+											no estaban convencidos
+											y dijeron: ""Bueno, te volveremos a llamar""; cosa que nunca hicieron.
+											Así que busqué otras maneras de hacer plástico.
+											Y uno puede hacer plástico, obviamente,
+											de aceites vegetales, pero también de almidón.
+											Aquí estoy tratando de hacer
+											plástico de almidón de papa.
+											Y por un momento pareció resultar realmente bien.
+											Lo vertí en el molde que pueden ver allí,
+											que hice con un tronco de árbol.
+											Y por un momento pareció resultar bien
+											pero lo dejé afuera, porque hay que dejarlo afuera a secar,
+											y, por desgracia, cuando regresé
+											había caracoles comiendo los trozos de papa deshidrolizados.
+									","
+											O halde sıradaki işim: Mika getirmek için
+											çıkıp İskoçya'ya gittim.
+											Ve mika bir mineraldir,
+											çok iyi bir yalıtkandır
+											ve elektriği yalıtmada çok iyidir.
+											Burada mika elde ediyorum.
+											Bugün hakkında konuşacağım son malzeme ise plastik.
+											Ve tabii ki,
+											tost makinemin plastik bir kutusunun olması lazımdı.
+											Plastik, ucuz elektrikli eşyaların
+											ayırt edici özelliğidir.
+											Plastik petrolden yapıldığına göre, BP'ye telefon açtım
+											BP'nin halkla ilişkiler bölümünü eğer beni bir
+											petrol sondaj kulesine uçururlarsa ve
+											bir bidon petrol almama izin verirlerse
+											onlar için harika olacağına
+											ikna etmeye çalışarak bariz bir saat harcadım.
+											Besbelli BP'nin kafasında daha fazlası vardı.
+											Öyleyken bile
+											ikna olmamışlardı
+											ve ""Tamam, sizi arayacağız,"" dediler — hiç aramadılar.
+											Ben de plastik elde etmenin başka yollarını aradım.
+											Ve aslında bitkilerden elde edilen yağlardan da
+											plastik yapabilirsiniz, aynı zamanda nişastalardan da.
+											İşte patates nişastasından
+											plastik elde etme çabaları.
+											Bir süre için gerçekten iyi görünüyordu.
+											Orada gördüğünüz üzere, ağaç gövdesinden yaptığım
+											kalıbın içine boşalttım.
+											Ve bir süre için iyi görünüyordu,
+											fakat onu dışarıda bıraktım, çünkü kuruması için dışarıda durması lazım,
+											ve maalesef geri geldiğimde
+											hidrolize olmamış patates parçalarını yiyen salyangozlar vardı.
+									","
+											Alors ensuite, je suis parti pour l'Écosse
+											pour obtenir du mica.
+											Et le mica est un minerai,
+											qui est un très bon isolant
+											et qui isole très bien l'électricité.
+											C'est moi en train d'obtenir du mica.
+											Et le dernier matériau dont je vais vous parler aujourd'hui est le plastique.
+											Et bien sûr,
+											mon grille pain devait avoir une enveloppe de plastique.
+											Le plastique est une caractéristique essentielle
+											de l'électroménager bon marché.
+											Et donc le plastique vient du pétrole, alors j'ai appelé BP
+											et j'ai passé une bonne demi-heure
+											à essayer de convaincre le responsable des relations publiques de BP
+											que ce serait fantastique pour eux
+											s'ils m'envoyaient par avion sur une plateforme pétrolière
+											et me permettaient de prélever un pichet de pétrole.
+											BP a évidemment plus à penser en ce moment.
+											Mais même à ce moment-là,
+											ils n'étaient pas convaincus
+											et ils ont dit : « D'accord, on vous rappellera » — et ne l'ont jamais fait.
+											Alors j'ai cherché un autre moyen de faire du plastique.
+											Et vous pouvez en fait faire du plastique
+											à partir d'huiles qui proviennent de plantes, bien sûr, mais aussi d'amidon.
+											Alors voici une tentative de fabrication
+											du plastique à partir d'amidon de pomme de terre.
+											Et pendant un moment ça semblait bien marcher.
+											Je l'ai versé dans le moule, que vous pouvez voir ici,
+											que j'ai fait à partir d'un tronc d'arbre.
+											Et pendant un moment ça semblait bien marcher.
+											mais je l'ai laissé dehors, parce qu'il fallait le laisser dehors pour que ça sèche,
+											et malheureusement je suis revenu
+											et il y avait des escargots en train de manger les bouts de pomme de terre non hydrolysés.
+									","
+											Als nächstes ging ich nach Schottland
+											um Glimmer zu besorgen.
+											Und Glimmer ist ein Mineral,
+											das eine sehr gute Isolierung abgibt,
+											und Elektrizität sehr gut isoliert.
+											Das bin ich bei der Glimmer Beschaffung.
+											Und das letzte Material über das ich heute reden werde, ist Plastik.
+											Und natürlich
+											musste mein Toaster eine Plastikhülle bekommen.
+											Plastik ist das bestimmende Merkmal
+											von billigen elektrischen Geräten.
+											Und weil Plastik aus Öl gemacht wird, habe ich BP angerufen
+											und eine gute halbe Stunde damit verbracht
+											die PR-Abteilung von BP zu überreden,
+											dass es für sie fantastisch wäre,
+											mich auf eine Bohrinsel zu fliegen,
+											und mir eine Kanne Öl abtreten.
+											BP hat offensichtlich andere Probleme zur Zeit.
+											Aber obwohl
+											sie nicht überzeugt waren
+											sagten sie: ""Okay, wir rufen zurück."" - haben sie nie.
+											Also hab ich nach anderen Wegen gesucht, Plastik herzustellen.
+											Und man kann Plastik tatsächlich
+											aus pflanzlichem Öl machen, aber auch aus Stärke.
+											Hier, das ist mein Versuch
+											Kartoffelstärke-Plastik herzustellen.
+											Und für eine Weile sah es wirklich gut aus.
+											Ich habe es auf diese Form hier gegossen,
+											die ich aus einem Baumstumpf gemacht hatte.
+											Und es sah kurzzeitig gut aus,
+											aber ich hatte es draußen gelassen, weil es trocknen musste
+											und als ich zurück kam
+											waren da leider Schnecken, die die getrockneten Kartoffelstücke aßen.
+									",How I built a toaster — from scratch,Thomas Thwaites,10:51,"design,entertainment,technology,Anthropocene"
+"
+","
+","
+","
+","
+",How I built a toaster — from scratch,Thomas Thwaites,10:51,"design,entertainment,technology,Anthropocene"
+"
+											So kind of out of desperation,
+											I decided that I could think laterally.
+											And geologists have actually christened —
+											well, they're debating whether to christen —
+											the age that we're living in —
+											they're debating whether to make it a new geological epoch
+											called the Anthropocene, the age of Man.
+											And that's because geologists of the future
+											would kind of see a sharp shift
+											in the strata of rock that is being laid down now.
+											So suddenly, it will become kind of radioactive from Chernobyl
+											and the 2,000 or so nuclear bombs
+											that have been set off since 1945.
+											And there'd also be an extinction event —
+											like fossils would suddenly disappear.
+											And also, I thought
+											that there would be
+											synthetic polymers,
+											plastics, embedded in the rock.
+									","
+											Así que en un arrebato de desesperación
+											decidí pensar lateralmente.
+											En realidad los geólogos han bautizado
+											-bueno, están discutiendo si hacerlo-
+											a la era en que vivimos como la Era del Hombre,
+											e incluso están debatiendo la posibilidad
+											de que sea una nueva época geológica llamada Antropoceno.
+											Y eso debido a que los geólogos del futuro
+											verán un cambio marcado
+											en los estratos de roca que estamos dejando ahora.
+											De repente, se volverán radiactivos a causa de Chernóbil
+											y de las cerca de 2.000 bombas nucleares
+											detonadas desde 1945.
+											Y habrá también una extinción
+											y los fósiles desaparecerán de repente.
+											Y entonces pensé
+											que también habría
+											polímeros sintéticos,
+											plásticos contenidos en la roca.
+									","
+											Çaresizlik yüzünden de diyebiliriz,
+											başka türlü düşünebileceğime karar verdim.
+											Ve sahiden yerbilimciler isim koydular —
+											şey, tartışıyorlar isim koyma konusunda —
+											yaşadığımız çağı —
+											yeni bir jeolojik çağ olarak isimlendirme konusunda tartışıyorlar
+											Antroposen denilen, İnsanın çağı.
+											Ve çünkü geleceğin yerbilimcileri
+											şu anda oluşan kaya tabakalarında
+											bir tür keskin değişim görebilir.
+											Böylece aniden, bunlar Çernobil ve 1945 yılından beri patlatılan
+											2,000 civarındaki nükleer bombadan dolayı
+											bir bakıma radyoaktif hale gelecek.
+											Ve ayrıca nesil tükenme durumları da olabilir —
+											fosillerin aniden kaybolması gibi.
+											Ve ayrıca, düşündüm de,
+											kayalara yerleştirilmiş
+											sentetik polimerler,
+											plastikler de olabilir.
+									","
+											Alors un peu par désespoir,
+											j'ai décidé que je pouvais penser de manière latérale.
+											Et les géologues ont en fait baptisé —
+											en fait ils ont débattu pour décider si oui ou non il fallait baptiser —
+											l'ère dans laquelle nous vivons —
+											ils débattent pour savoir si oui ou non en faire une nouvelle ère géologique
+											appelée Anthropocène, l'âge de l'Homme.
+											Et c'est parce que les géologues du futur
+											verraient un changement radical
+											dans la couche de roche qui est en train de se déposer.
+											Donc soudain, elle deviendra un peu radioactive à cause de Tchernobyl
+											et les 2 000 et quelques bombes nucléaires
+											qu'on a faites exploser depuis 1945.
+											Et il y a aussi une phase d'extinction —
+											des fossiles vont disparaitre soudain.
+											Et aussi, j'ai pensé
+											qu'il y aurait
+											des polymères synthétiques,
+											des plastiques, inclus dans la roche.
+									","
+											Aus einer Art Verzweiflung heraus,
+											entschied ich mich, in anderen Ansätzen zu denken.
+											Geologen tauften tatsächlich -
+											naja, sie debattieren ob man es taufen sollte -
+											das Zeitalter in dem wir leben -
+											sie debattieren ob es sich um eine neue geologische Epoche handelt,
+											das ""Anthropocene"", das Zeitalter des Menschen genannt.
+											Und das weil Geologen der Zukunft
+											wohl eine radikale Veränderung sehen werden,
+											was die Felsschichten betrifft die jetzt gebildet werden.
+											Plötzlich werden sie radioaktiv sein, von Tschernobyl
+											und den rund 2000 Atombomben
+											die seit 1945 gezündet wurden.
+											Und es werden Arten aussterben -
+											wie Fossilien, plötzlich verschwinden.
+											Und ich dachte daran
+											dass synthetische Polymere
+											darin sein werden,
+											Plastik eingebettet in Fels.
+									",How I built a toaster — from scratch,Thomas Thwaites,10:51,"design,entertainment,technology,Anthropocene"
+"
+","
+","
+","
+","
+",How I built a toaster — from scratch,Thomas Thwaites,10:51,"design,entertainment,technology,Anthropocene"
+"
+											So I looked up a plastic —
+											so I decided that I could mine
+											some of this modern-day rock.
+											And I went up to Manchester
+											to visit a place called Axion Recycling.
+											And they're at the sharp end of what's called the WEEE,
+											which is this European electrical and electronic waste directive.
+											And that was brought into force
+											to try and deal with the mountain of stuff
+											that is just being made
+											and then living for a while in our homes
+											and then going to landfill.
+											But this is it.
+									","
+											Así que busqué plástico...
+											decidí que podía extraerlo
+											de alguna de estas rocas de hoy.
+											Y me fui a Manchester
+											de visita a un lugar llamado Axion Recycling.
+											Ellos están en el frente de lo que se llama WEEE,
+											que es la directiva europea sobre residuos eléctricos y electrónicos.
+											Y que entró en vigor
+											para tratar de hacer frente a la montaña de cosas
+											que se están produciendo
+											y acumulando temporalmente en nuestros hogares
+											para luego ir al relleno sanitario.
+											Pero eso es todo.
+									","
+											Yani böyle bir plastik aradım —
+											böylece bu günümüzün modern kayalarından
+											birkaçını araştırıp bulabileceğime karar verdim.
+											Ve Manchester'a gittim
+											Axion Geridönüşüm adlı yeri ziyaret için.
+											Ve orada çalışanlar WEEE denilen işin en önemli yanıyla uğraşıyordu,
+											ki bu Avrupa elektrik ve elektronik atık yönetmeliği oluyor.
+											Ve bu, henüz yapılan ve evlerimizde
+											bir süre kullanıldıktan sonra
+											katı atık sahalarına
+											gönderilecek olan ıvır zıvır dağı ile
+											başa çıkabilmek için yürürlüğe kondu.
+											Ama işte bu.
+									","
+											Alors j'ai cherché un plastique —
+											et j'ai décidé que je pourrais creuser
+											dans une roche de cette époque actuelle.
+											Je suis allé à Manchester
+											pour visiter un endroit appelé Axion Recycling.
+											Et ils sont tout au bout de la chaîne des DEEE,
+											c'est la directive européenne pour les déchets électriques et électroniques.
+											Et elle est entrée en vigueur pour
+											essayer de traiter la montagne de trucs
+											qui ne sont fait que
+											pour vivre pendant un temps dans nos maisons
+											et ensuite rejoindre la décharge.
+											Le voici.
+									","
+											Also sah ich nach Plastik -
+											und entschied mich, dass ich nach
+											dieser Art von modernem Fels graben konnte.
+											Und ich ging nach Manchester,
+											um einen Ort namens Axion Recycling zu besuchen.
+											Und die sind an vorderster Front von etwas, das WEEE genannt wird,
+											eine europäische Richtlinie für Elektro- und Elektronikgeräte Abfall.
+											Und die ist in Kraft getreten,
+											als Versuch mit dem Berg von Krempel zurechtzukommen,
+											der nur dafür gemacht wurden
+											um eine Weile in unserem Zuhause zu bleiben
+											um dann auf der Müllhalde zu landen.
+											Aber, das war's.
+									",How I built a toaster — from scratch,Thomas Thwaites,10:51,"design,entertainment,technology,Anthropocene"
+"
+","
+","
+","
+","
+",How I built a toaster — from scratch,Thomas Thwaites,10:51,"design,entertainment,technology,Anthropocene"
+"
+											(Music)
+									","
+											(Música)
+									","
+											(Müzik)
+									","
+											(Musique)
+									","
+											(Musik)
+									",How I built a toaster — from scratch,Thomas Thwaites,10:51,"design,entertainment,technology,Anthropocene"
+"
+","
+","
+","
+","
+",How I built a toaster — from scratch,Thomas Thwaites,10:51,"design,entertainment,technology,Anthropocene"
+"
+											(Laughter)
+									","
+											(Risas)
+									","
+											(Gülüşmeler)
+									","
+											(Rires)
+									","
+											(Gelächter)
+									",How I built a toaster — from scratch,Thomas Thwaites,10:51,"design,entertainment,technology,Anthropocene"
+"
+","
+","
+","
+","
+",How I built a toaster — from scratch,Thomas Thwaites,10:51,"design,entertainment,technology,Anthropocene"
+"
+											So there's a picture
+											of my toaster.
+											(Applause)
+											That's it without the case on.
+											And there it is on the shelves.
+											Thanks.
+									","
+											Ahí tienen una imagen
+											de mi tostadora.
+											(Aplausos)
+											Ahí está sin la cubierta.
+											Y ahí está en la estantería.
+											Gracias.
+									","
+											İşte burada tost makinemin
+											bir resmi.
+											(Alkış)
+											Bu kutusuz hali.
+											Ve işte raflarda yerini almış.
+											Teşekkürler.
+									","
+											Et donc voilà une photo
+											de mon grille-pain
+											(Applaudissements)
+											C'est sans le boîtier.
+											Et le voici sur l'étagère.
+											Merci
+									","
+											Das ist ein Bild
+											meines Toasters.
+											(Beifall)
+											Das ist er ohne Gehäuse.
+											Und da steht er im Regal.
+											Danke.
+									",How I built a toaster — from scratch,Thomas Thwaites,10:51,"design,entertainment,technology,Anthropocene"
+"
+","
+","
+","
+","
+",How I built a toaster — from scratch,Thomas Thwaites,10:51,"design,entertainment,technology,Anthropocene"
+"
+											(Applause)
+									","
+											(Aplausos)
+									","
+											(Alkış)
+									","
+											(Applaudissements)
+									","
+											(Beifall)
+									",How I built a toaster — from scratch,Thomas Thwaites,10:51,"design,entertainment,technology,Anthropocene"
+"
+","
+","
+","
+","
+",How I built a toaster — from scratch,Thomas Thwaites,10:51,"design,entertainment,technology,Anthropocene"
+"
+											Bruno Giussani: I'm told you did plug it in once.
+									","
+											Bruno Giussani: Me contaron que la enchufaste una vez.
+									","
+											Bruno Giussani: Bunun bir kez fişini taktığını söylediler.
+									","
+											Bruno Giussani : On m'a dit que vous l'avez branché une fois.
+									","
+											Bruno Guissani: Mir wurde gesagt, du hast ihn einmal eingesteckt.
+									",How I built a toaster — from scratch,Thomas Thwaites,10:51,"design,entertainment,technology,Anthropocene"
+"
+","
+","
+","
+","
+",How I built a toaster — from scratch,Thomas Thwaites,10:51,"design,entertainment,technology,Anthropocene"
+"
+											TT: Yeah, I did plug it in.
+											I don't know if you could see,
+											but I was never able to make insulation for the wires.
+											Kew Gardens were insistent
+											that I couldn't come and hack into their rubber tree.
+											So the wires were uninsulated.
+											So there was 240 volts
+											going through these homemade copper wires,
+											homemade plug.
+											And for about five seconds,
+											the toaster toasted,
+											but then, unfortunately,
+											the element kind of melted itself.
+											But I considered it a partial success, to be honest.
+									","
+											TT: Sí, la enchufé.
+											No sé si pueden verlo
+											pero nunca pude aislar los cables.
+											En Kew Gardens fueron reticentes
+											al hecho de que yo fuera a cortar el árbol de caucho.
+											Así que los cables estaban sin aislar.
+											Por eso había 240 voltios
+											en esos cables caseros de cobre
+											con enchufe casero.
+											Durante unos cinco segundos
+											la tostadora tostó,
+											pero luego, por desgracia,
+											el aparato se derritió.
+											Pero lo considero un éxito parcial, para ser honesto.
+									","
+											TT: Hı hı, fişini taktım.
+											Görebiliyor musunuz bilmiyorum,
+											fakat kablolar için bir t bir yalıtım yapamadım.
+											Kew Gardens, gelip de onların
+											lastik ağacına dalamayacağım konusunda ısrarcıydı.
+											O yüzden kablolar yalıtımsızdı.
+											Bu ev yapımı fişe takılı
+											ev yapımı bakır kablolardan 240 volt
+											elektrik geçiyordu.
+											Ve yaklaşık beş saniye kadar,
+											tost makinesi kızarttı,
+											fakat sonra, maalesef,
+											element kendini eritti diyebiliriz.
+											Ama dürüst olmak gerekirse, bunu kısmi bir başarı saydım.
+									","
+											TT : Oui, je l'ai branché.
+											Je ne sais pas si vous avez pu le voir,
+											mais je ne suis jamais arrivé à fabriquer l'isolation des fils électriques.
+											Kew Gardens a insisté
+											sur le fait que je ne pouvais pas venir et tailler dans leur arbre à caoutchouc.
+											Alors les fils n'ont pas été isolés
+											Et il y avait 240 volts
+											qui passaient dans ces fils de cuivre artisanaux,
+											dans cette prise artisanale.
+											Et pendant environ cinq secondes,
+											le grille-pain a grillé,
+											et puis malheureusement
+											l'élément a en quelque sorte fondu lui-même.
+											Mais je considère que c'est un succès partiel, pour être franc.
+									","
+											TT: Ja, habe ich.
+											Ich weiß nicht ob sie es sehen konnten,
+											aber ich war nie in der Lage die Kabel zu isolieren.
+											Die Kew Gärten beharrten darauf,
+											dass ich nicht kommen durfte, um in ihre Gummibäume zu hacken.
+											Deshalb waren die Kabel nicht isoliert.
+											Also sind 240 Volt
+											durch die selbstgemachten Kupferdrähte geflossen,
+											durch den selbstgemachter Stecker.
+											Und für circa 5 Sekunden
+											hat der Toaster getoastet,
+											aber dann, unglücklicherweise,
+											hat das Teil sich irgendwie selbst geschmolzen.
+											Aber, um ehrlich zu sein, habe ich es als Teilerfolg verbucht.
+									",How I built a toaster — from scratch,Thomas Thwaites,10:51,"design,entertainment,technology,Anthropocene"
+"
+","
+","
+","
+","
+",How I built a toaster — from scratch,Thomas Thwaites,10:51,"design,entertainment,technology,Anthropocene"
+"
+											BG: Thomas Thwaites. TT: Thanks.
+									","
+											BG: Thomas Thwaites. (TT: Gracias)
+									","
+											BG: Thomas Thwaites. (TT: Teşekkürler.)
+									","
+											BG : Thomas Thwaites. (TT : Merci.)
+									","
+											BG: Thomas Thwaites. (TT: Danke.)
+									",How I built a toaster — from scratch,Thomas Thwaites,10:51,"design,entertainment,technology,Anthropocene"
+"
+","
+","
+","
+","
+",How I built a toaster — from scratch,Thomas Thwaites,10:51,"design,entertainment,technology,Anthropocene"

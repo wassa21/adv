@@ -1,0 +1,1446 @@
+en,pt,tr,es,de,title,speaker,duration,tags
+"
+","
+","
+","
+","
+",How I'm fighting bias in algorithms,Joy Buolamwini,8:44,"activism,algorithm,AI,code,data,identity,inequality,product design,innovation,programming,software,TEDx,technology,race"
+"
+											Hello, I'm Joy, a poet of code,
+											on a mission to stop
+an unseen force that's rising,
+											a force that I called ""the coded gaze,""
+											my term for algorithmic bias.
+									","
+											Olá, sou a Joy, uma poetisa de código,
+											numa missão de fazer parar
+uma força invisível em ascensão,
+											uma força a que eu chamo
+""olhar codificado,""
+											o meu termo para preconceito algorítmico.
+									","
+											Merhaba ben kodlar şairi Joy
+											görünmez bir gücün yükselişini
+durdurma görevindeyim,
+											algoritmik yanlılık için kullandığım
+											""kodlu bakış"" adını verdiğim bir güç.
+									","
+											Hola, soy Joy, una poetisa del código,
+											en una misión para frenar
+una fuerza invisible que crece,
+											una fuerza que llamo ""mirada codificada"",
+											mi término para el sesgo algorítmico.
+									","
+											Hallo, ich bin Joy, eine Poetin des Codes,
+											auf einer Mission, eine unbemerkte,
+aufstrebende Macht aufzuhalten.
+											Diese Macht nannte ich 
+den ""programmierten Blick"".
+											Das ist mein Begriff
+für algorithmische Vorurteile.
+									",How I'm fighting bias in algorithms,Joy Buolamwini,8:44,"activism,algorithm,AI,code,data,identity,inequality,product design,innovation,programming,software,TEDx,technology,race"
+"
+","
+","
+","
+","
+",How I'm fighting bias in algorithms,Joy Buolamwini,8:44,"activism,algorithm,AI,code,data,identity,inequality,product design,innovation,programming,software,TEDx,technology,race"
+"
+											Algorithmic bias, like human bias,
+results in unfairness.
+											However, algorithms, like viruses,
+can spread bias on a massive scale
+											at a rapid pace.
+											Algorithmic bias can also lead
+to exclusionary experiences
+											and discriminatory practices.
+											Let me show you what I mean.
+									","
+											O preconceito algorítmico, como o
+preconceito humano, resulta da injustiça.
+											Porém, os algoritmos, tal como os vírus,
+											podem espalhar preconceitos
+numa grande escala
+											num ritmo rápido.
+											O preconceito em algoritmos também
+pode levar a experiências de exclusão
+											e a práticas discriminatórias.
+											Vou mostrar o que quero dizer.
+									","
+											Algoritmik yanlılık, insan yanlılığı gibi,
+adaletsizlikle sonuçlanır.
+											Ama algoritmalar virüsler gibi büyük çapta
+											ve hızda yanlılığı yayabilirler.
+											Algoritmik yanlılık dışlayıcı deneyimlere
+											ve ayrımcı uygulamalara yol açabilir.
+											Ne demek istediğimi göstereyim.
+									","
+											El sesgo algorítmico, como el humano,
+se traduce en injusticia.
+											Pero, los algoritmos, como los virus,
+pueden propagar sesgos a gran escala
+											a un ritmo acelerado.
+											El sesgo algorítmico puede también
+generar experiencias de exclusión
+											y prácticas discriminatorias.
+											Les mostraré lo que quiero decir.
+									","
+											Algorithmische sowie menschliche
+Vorurteile führen zu Ungerechtigkeit.
+											Trotzdem können Algorithmen,
+wie Viren, Vorurteile massiv verbreiten,
+											mit rasanter Geschwindigkeit.
+											Algorithmische Vorurteile können
+auch zu Erfahrungen des Ausschlusses
+											und diskriminierendem Verhalten führen.
+											Ich zeige Ihnen, was ich meine.
+									",How I'm fighting bias in algorithms,Joy Buolamwini,8:44,"activism,algorithm,AI,code,data,identity,inequality,product design,innovation,programming,software,TEDx,technology,race"
+"
+","
+","
+","
+","
+",How I'm fighting bias in algorithms,Joy Buolamwini,8:44,"activism,algorithm,AI,code,data,identity,inequality,product design,innovation,programming,software,TEDx,technology,race"
+"
+											(Video) Joy Buolamwini: Hi, camera.
+I've got a face.
+											Can you see my face?
+											No-glasses face?
+											You can see her face.
+											What about my face?
+											I've got a mask. Can you see my mask?
+									","
+											(Vídeo) Olá, câmara, eu tenho um rosto.
+											Podes ver o meu rosto?
+											Um rosto sem óculos?
+											Podes ver o rosto dela.
+											E o meu rosto?
+											Tenho uma máscara.
+Vês a minha máscara?
+									","
+											(Video) Joy Boulamwini: Selam kamera.
+Bir yüzüm var.
+											Yüzümü görebiliyor musunuz?
+											Gözlüksüz yüzüm?
+											Onun yüzünü görebilirsin.
+											Ya benimkini?
+											Maskem var. Maskemi görebiliyor musun?
+									","
+											(Video) Joy Buolamwini: Hola, cámara.
+Tengo una cara.
+											¿Puedes ver mi cara?
+											¿Sin lentes?
+											Puedes ver su cara.
+											¿Qué tal mi cara?
+											Tengo una máscara. ¿Puedes verla?
+									","
+											(Video) Joy Buolamwini:
+Hi, Kamera. Ich habe ein Gesicht.
+											Kannst du mein Gesicht sehen?
+											Mein Gesicht ohne Brille?
+											Du kannst ihr Gesicht sehen.
+											Was ist mit meinem Gesicht?
+											Ich habe eine Maske. 
+Kannst du meine Maske sehen?
+									",How I'm fighting bias in algorithms,Joy Buolamwini,8:44,"activism,algorithm,AI,code,data,identity,inequality,product design,innovation,programming,software,TEDx,technology,race"
+"
+","
+","
+","
+","
+",How I'm fighting bias in algorithms,Joy Buolamwini,8:44,"activism,algorithm,AI,code,data,identity,inequality,product design,innovation,programming,software,TEDx,technology,race"
+"
+											Joy Buolamwini: So how did this happen?
+											Why am I sitting in front of a computer
+											in a white mask,
+											trying to be detected by a cheap webcam?
+											Well, when I'm not fighting the coded gaze
+											as a poet of code,
+											I'm a graduate student
+at the MIT Media Lab,
+											and there I have the opportunity to work
+on all sorts of whimsical projects,
+											including the Aspire Mirror,
+											a project I did so I could project
+digital masks onto my reflection.
+											So in the morning, if I wanted
+to feel powerful,
+											I could put on a lion.
+											If I wanted to be uplifted,
+I might have a quote.
+											So I used generic
+facial recognition software
+											to build the system,
+											but found it was really hard to test it
+unless I wore a white mask.
+									","
+											Joy: Então, como é que isso aconteceu?
+											Porque é que eu estou em frente
+de um computador
+											com uma máscara branca,
+											a tentar ser detetada por
+uma câmara de vídeo barata?
+											Quando não estou a lutar
+contra o olhar codificado
+											como uma poetisa de código,
+											sou uma estudante de pós-graduação
+no laboratório de ""media"" do MIT.
+											Aí tenho a oportunidade de trabalhar
+em todo tipo de projetos bizarros,
+											incluindo o Espelho de Desejar,
+											um projeto que fiz para poder projetar
+máscaras digitais para o meu reflexo.
+											Então, pela manhã,
+se quisesse sentir-me poderosa,
+											eu podia usar um leão.
+											Se quisesse ficar inspirada,
+podia ter uma citação.
+											Então eu usei o software
+genérico de reconhecimento facial
+											para construir o sistema,
+											mas descobri que era difícil testá-lo
+a menos que usasse uma máscara branca.
+									","
+											Joy Boulamwini: Bu nasıl oldu?
+											Neden bilgisayarın önünde bir beyaz maske
+											ile oturuyor ve ucuz bir kamera
+											tarafından algılanmaya çalışıyorum?
+											Kod şairi olarak kodlu bakış ile
+											savaşmadığımda
+											MIT Medya Lab'ında lisanüstü öğrencisiyim
+											ve her tür garip projede
+çalışma şansım var.
+											Buna yaptığım Aspire Mirror da dâhil.
+											Sayesinde yansımamın üzerine
+dijital maskeler tasarlayabilirim.
+											Sabah eğer güçlü hissetmek istersem,
+											bir aslanı takabilirim.
+											Sevinçli olmak istiyorsam,
+bir alıntı yapabilirim.
+											Sistemi oluşturmak için genel yüz tanıma
+											yazılımını kullandım.
+											Ama beyaz bir maske takmadıkça
+sistemi test etmek gerçekten zordu.
+									","
+											Joy Buolamwini: ¿Cómo ocurrió esto?
+											¿Por qué estoy ante una computadora
+											con una máscara blanca,
+											intentando que una cámara
+barata me detecte?
+											Cuando no lucho
+contra la mirada codificada
+											como poetisa del código,
+											soy estudiante de posgrado
+en el Laboratorio de Medios del MIT,
+											y allí puedo trabajar
+en todo tipo de proyectos caprichosos,
+											incluso el Aspire Mirror,
+											un proyecto que realicé para proyectar
+máscaras digitales en mi propio reflejo.
+											Entonces, de mañana,
+si quería sentirme poderosa,
+											podía convertirme en león.
+											Si quería inspiración,
+podía usar una cita.
+											Entonces, usé el software
+de reconocimiento facial
+											para crear el sistema,
+											pero me resultó muy difícil probarlo
+sin colocarme una máscara blanca.
+									","
+											JB: Wie konnte das passieren?
+											Wieso sitze ich vor einem Computer,
+											trage eine weiße Maske und versuche,
+											von einer billigen Webcam 
+erkannt zu werden?
+											Wenn ich nicht gerade 
+den programmierten Blick
+											als Poetin des Codes bekämpfe,
+											dann bin ich Masterstudentin
+am MIT Media Lab
+											und habe dort die Möglichkeit, an
+verschiedensten, wunderlichen Projekten,
+											u. a. dem ""Aspire Mirror"", zu arbeiten,
+											einem Projekt, das digitale Masken 
+auf mein Spiegelbild projiziert.
+											Wenn ich mich in der Früh 
+mächtig fühlen wollte,
+											projizierte ich einen Löwen.
+											Wenn ich aufgemuntert werden wollte,
+erschien vielleicht ein Zitat.
+											Deshalb verwendete ich eine gewöhnliche
+Software für Gesichtserkennung,
+											um das System zu erstellen.
+											Es war aber sehr schwierig zu testen, 
+außer wenn ich eine weiße Maske trug.
+									",How I'm fighting bias in algorithms,Joy Buolamwini,8:44,"activism,algorithm,AI,code,data,identity,inequality,product design,innovation,programming,software,TEDx,technology,race"
+"
+","
+","
+","
+","
+",How I'm fighting bias in algorithms,Joy Buolamwini,8:44,"activism,algorithm,AI,code,data,identity,inequality,product design,innovation,programming,software,TEDx,technology,race"
+"
+											Unfortunately, I've run
+into this issue before.
+											When I was an undergraduate
+at Georgia Tech studying computer science,
+											I used to work on social robots,
+											and one of my tasks was to get a robot
+to play peek-a-boo,
+											a simple turn-taking game
+											where partners cover their face
+and then uncover it saying, ""Peek-a-boo!""
+											The problem is, peek-a-boo
+doesn't really work if I can't see you,
+											and my robot couldn't see me.
+											But I borrowed my roommate's face
+to get the project done,
+											submitted the assignment,
+											and figured, you know what,
+somebody else will solve this problem.
+									","
+											Infelizmente, eu já tinha esbarrado
+nesse problema.
+											Quando era universitária em Georgia Tech
+e estudava ciência informática,
+											eu costumava trabalhar em robôs sociais,
+											e uma das minhas tarefas era fazer
+com que um robô jogasse às escondidas,
+											um simples jogo de turnos
+											em que os parceiros escondem a cara
+e depois destapam-na, dizendo ""Espreita!""
+											O problema é que isso só
+funciona se eu puder ver o outro,
+											e o meu robô não me via.
+											Pedi emprestada a cara da minha
+colega de quarto para terminar o projeto,
+											apresentei a tarefa e pensei:
+											""Sabem que mais,
+outra pessoa que resolva esse problema"".
+									","
+											Maalesef bu sorunla daha önce karşılaştım.
+											Georgia Tech de bilgisayar
+bilimleri okurken,
+											sosyal robotlar üzerinde çalıştım
+											ve görevlerimden biri ce-ee
+oynayan bir robot yapmaktı.
+											Partnerlerinizin yüzlerini kapayıp
+											sonra açıp ce-ee dedikleri bir oyun.
+											Problem şu ki sizi göremezsem
+ce-ee işe yaramaz
+											ve robotum beni göremiyordu.
+											Projeyi tamamlamak için
+arkadaşımın yüzünü ödünç aldım,
+											ödevimi sundum ve bu sorunu
+											başkasının çözeceğini varsaydım.
+									","
+											Desafortunadamente, ya tuve
+este problema antes.
+											Cuando era estudiante de informática
+en Georgia Tech,
+											solía trabajar con robots sociales,
+											y una de mis tareas fue lograr
+que un robot jugara a esconderse,
+											un juego de turnos simple
+											donde las personas cubren sus rostros y
+luego las descubren diciendo: ""Aquí está"".
+											El problema es que el juego
+no funciona, si no te pueden ver
+											y el robot no me veía.
+											Pero usé el rostro de mi compañera
+para terminar el proyecto,
+											entregué la tarea,
+											y pensé que otra persona
+resolvería este problema.
+									","
+											Unglücklicherweise ist mir
+dieses Problem schon einmal begegnet.
+											Als ich Informatik im Bachelor
+an der Georgia Tech studierte,
+											arbeitete ich mit sozialen Robotern.
+											Eine meiner Aufgaben war es, 
+mit einem Roboter Kuckuck zu spielen.
+											Das ist ein einfaches Wechselspiel,
+											bei dem man das Gesicht zudeckt
+und beim Aufdecken ""Kuckuck!"" sagt.
+											Allerdings funktioniert das Kuckuckspiel
+nicht, wenn man sich nicht sieht,
+											und mein Roboter konnte mich nicht sehen.
+											Um das Projekt abzuschließen, verwendete
+ich das Gesicht meines Mitbewohners,
+											schickte die Aufgabe ab
+											und dachte mir: ""Weißt du was, 
+jemand anderes wird das Problem lösen.""
+									",How I'm fighting bias in algorithms,Joy Buolamwini,8:44,"activism,algorithm,AI,code,data,identity,inequality,product design,innovation,programming,software,TEDx,technology,race"
+"
+","
+","
+","
+","
+",How I'm fighting bias in algorithms,Joy Buolamwini,8:44,"activism,algorithm,AI,code,data,identity,inequality,product design,innovation,programming,software,TEDx,technology,race"
+"
+											Not too long after,
+											I was in Hong Kong
+for an entrepreneurship competition.
+											The organizers decided
+to take participants
+											on a tour of local start-ups.
+											One of the start-ups had a social robot,
+											and they decided to do a demo.
+											The demo worked on everybody
+until it got to me,
+											and you can probably guess it.
+											It couldn't detect my face.
+											I asked the developers what was going on,
+											and it turned out we had used the same
+generic facial recognition software.
+											Halfway around the world,
+											I learned that algorithmic bias
+can travel as quickly
+											as it takes to download
+some files off of the internet.
+									","
+											Pouco tempo depois,
+											eu estava em Hong Kong para uma
+competição de empreendedorismo.
+											Os organizadores decidiram
+levar os participantes
+											numa visita às ""start-ups"" locais.
+											Uma das ""start-ups"" tinha um robô social,
+											e decidiram fazer uma demonstração.
+											A demonstração funcionou com toda a gente
+até chegar a minha vez.
+											Provavelmente já adivinham.
+											Não conseguiu detetar o meu rosto.
+											Perguntei aos responsáveis
+o que é que se passava,
+											e acontece que tínhamos usado o mesmo
+software genérico de reconhecimento facial.
+											Do outro lado do mundo,
+											aprendi que o preconceito do algoritmo
+pode viajar tão depressa
+											quanto uma descarga
+de ficheiros da Internet.
+									","
+											Daha sonra Hong Kong'da
+											bir girişimcilik yarışmasına katıldım.
+											Organizatörler yarışmacıların başlangıç
+											turuna katılmasına karar verdi.
+											Yarışmacılardan birinin 
+sosyal robotu vardı
+											ve demo yapmaya karar verdi.
+											Demo bana gelene kadar işe yaradı
+											ve ne olduğunu tahmin edebilirsiniz.
+											Robot yüzümü algılayamadı.
+											Geliştiricisine ne olduğunu sordum
+											ve fark ettik ki aynı genel
+yüz tanıma yazılımını kullanıyormuşuz.
+											Dünyanın öbür ucunda
+											algoritmik yanlılığın
+internetten dosya indirmek kadar
+											hızlı yolculuk yaptığını öğrendim.
+									","
+											Al poco tiempo,
+											me encontraba en Hong Kong
+en una competencia de emprendedores.
+											Los organizadores decidieron
+llevar a los participantes
+											a un recorrido
+por empresas locales emergentes.
+											Una de ellas tenía un robot social,
+											y decidieron hacer una demostración.
+											La demostración funcionó bien
+hasta que llegó mi turno,
+											y probablemente pueden adivinar.
+											No pudo detectar mi rostro.
+											Pregunté a los desarrolladores qué pasaba,
+											y resultó que habíamos usado el mismo
+software genérico de reconocimiento.
+											Al otro lado del mundo,
+											aprendí que el sesgo algorítmico
+puede viajar tan rápido
+											como el tiempo que lleva
+descargar archivos de Internet.
+									","
+											Relativ kurz danach
+											war ich in Hongkong für einen
+Unternehmer-Wettbewerb.
+											Die Organisatoren beschlossen,
+											den Teilnehmenden
+örtliche Start-ups zu zeigen.
+											Eines dieser Start-ups
+hatte einen sozialen Roboter,
+											den sie demonstrieren wollten.
+											Die Demonstration funktionierte
+bei jedem bis auf mich.
+											Sie können wahrscheinlich erraten wieso.
+											Er konnte mein Gesicht nicht erkennen.
+											Ich fragte die Entwickler, was los sei.
+											Es zeigte sich, dass wir dieselbe Software
+zur Gesichtserkennung benutzt hatten.
+											Auf der anderen Seite
+der Welt erkannte ich,
+											dass sich algorithmische 
+Voreingenommenheit
+											bereits während eines simplen
+Downloads verbreiten kann.
+									",How I'm fighting bias in algorithms,Joy Buolamwini,8:44,"activism,algorithm,AI,code,data,identity,inequality,product design,innovation,programming,software,TEDx,technology,race"
+"
+","
+","
+","
+","
+",How I'm fighting bias in algorithms,Joy Buolamwini,8:44,"activism,algorithm,AI,code,data,identity,inequality,product design,innovation,programming,software,TEDx,technology,race"
+"
+											So what's going on?
+Why isn't my face being detected?
+											Well, we have to look
+at how we give machines sight.
+											Computer vision uses
+machine learning techniques
+											to do facial recognition.
+											So how this works is, you create
+a training set with examples of faces.
+											This is a face. This is a face.
+This is not a face.
+											And over time, you can teach a computer
+how to recognize other faces.
+											However, if the training sets
+aren't really that diverse,
+											any face that deviates too much
+from the established norm
+											will be harder to detect,
+											which is what was happening to me.
+									","
+											Então, o que é que se passa?
+Porque é que a minha cara não é detetada?
+											Temos de olhar para o modo
+como damos visão às máquinas.
+											A visão informática usa
+técnicas de aprendizagem de máquina
+											para fazer o reconhecimento facial.
+											Funciona assim: criamos um grupo
+de formação com exemplos de rostos.
+											Isto é um rosto. Isto é um rosto.
+Isto não é um rosto.
+											Com o tempo, podemos ensinar
+o computador a reconhecer rostos.
+											Contudo, se os grupos de formação
+não forem diversificados,
+											qualquer rosto que se desvie
+demasiado da norma estabelecida
+											será difícil de detetar.
+											Era o que estava a acontecer comigo.
+									","
+											Yani ne oluyor? Neden beni algılamıyor?
+											Makinelere nasıl görme yetisi
+verdiğimize göz atmalıyız.
+											Bilgisayar görüşü yüzü tanımlamak için
+											makine öğrenme tekniklerini kullanır.
+											Bunun çalışma şekli sizin yüz örnekleriyle
+eğitim seti oluşturmanızdır.
+											Bu bir yüz. Bu bir yüz.
+Bu bir yüz değil.
+											Zamanla bilgisayara diğer yüzleri
+nasıl tanımlayacağını öğretirsiniz.
+											Fakat eğitim seti kapsamlı değilse
+											sabit normdan çok fazla sapan bir yüzü
+											tanımlamak zor olacaktır.
+											Bana olduğu gibi.
+									","
+											Entonces, ¿qué sucede?
+¿Por qué no se detecta mi rostro?
+											Bueno, debemos pensar
+cómo hacemos que las máquinas vean.
+											La visión por computadora
+usa técnicas de aprendizaje de máquina
+											para el reconocimiento facial.
+											Se trabaja así, creando una serie
+de prueba con ejemplos de rostros.
+											Esto es un rostro. Esto es un rostro.
+Esto no lo es.
+											Con el tiempo, puedes enseñar
+a una computadora a reconocer rostros.
+											Sin embargo, si las series de prueba
+no son realmente diversas,
+											todo rostro que se desvíe mucho
+de la norma establecida
+											será más difícil de detectar,
+											que es lo que me sucedía a mí.
+									","
+											Also was ist da los?
+Warum wird mein Gesicht nicht erkannt?
+											Wir müssen uns anschauen,
+wie wir Maschinen das Sehen beibringen.
+											Computergestütztes Sehen
+verwendet maschinelles Lernen,
+											um Gesichter zu erkennen.
+											Dabei erstellt man ein Trainingsset
+mit Gesichterbeispielen.
+											Das ist ein Gesicht. Das auch.
+Das ist kein Gesicht.
+											Im Laufe der Zeit kann man einem Computer
+beibringen, andere Gesichter zu erkennen.
+											Wenn die Trainingssets allerdings
+nicht sehr diversifiziert sind,
+											dann sind Gesichter, die zu stark
+von der erstellten Norm abweichen,
+											schwieriger zu erkennen.
+											Das ist genau das, was mir passiert ist.
+									",How I'm fighting bias in algorithms,Joy Buolamwini,8:44,"activism,algorithm,AI,code,data,identity,inequality,product design,innovation,programming,software,TEDx,technology,race"
+"
+","
+","
+","
+","
+",How I'm fighting bias in algorithms,Joy Buolamwini,8:44,"activism,algorithm,AI,code,data,identity,inequality,product design,innovation,programming,software,TEDx,technology,race"
+"
+											But don't worry — there's some good news.
+											Training sets don't just
+materialize out of nowhere.
+											We actually can create them.
+											So there's an opportunity to create
+full-spectrum training sets
+											that reflect a richer
+portrait of humanity.
+									","
+											Mas não se preocupem,
+há boas notícias.
+											Os grupos de formação
+não se materializam do nada.
+											Na verdade, podemos criá-los.
+											Portanto, há a oportunidade de criar
+grupos de formação com um espetro completo
+											que reflitam um retrato
+mais rico da humanidade.
+									","
+											Ama merak etmeyin - iyi haberlerim var.
+											Eğitim setleri bir anda ortaya çıkmaz.
+											Aslında biz onları yaratabiliriz.
+											Yani insanlığın daha zengin portresini
+											çıkaran tam spektrumlu
+eğitim seti oluşturabiliriz.
+									","
+											Pero no se preocupen,
+tengo buenas noticias.
+											Las series de prueba
+no se materializan de la nada.
+											En verdad las podemos crear.
+											Por ende, se pueden crear
+series de prueba con espectros completos
+											que reflejen de manera más exhaustiva
+un retrato de la humanidad.
+									","
+											Aber machen Sie sich keine Sorgen —
+es gibt gute Nachrichten.
+											Trainingssets tauchen nicht
+aus dem Nichts auf.
+											Wir erstellen sie.
+											Also gibt es die Möglichkeit, 
+inklusive Trainingssets zu erstellen,
+											die ein breitgefächerteres Bild
+der Menschheit widerspiegeln.
+									",How I'm fighting bias in algorithms,Joy Buolamwini,8:44,"activism,algorithm,AI,code,data,identity,inequality,product design,innovation,programming,software,TEDx,technology,race"
+"
+","
+","
+","
+","
+",How I'm fighting bias in algorithms,Joy Buolamwini,8:44,"activism,algorithm,AI,code,data,identity,inequality,product design,innovation,programming,software,TEDx,technology,race"
+"
+											Now you've seen in my examples
+											how social robots
+											was how I found out about exclusion
+with algorithmic bias.
+											But algorithmic bias can also lead
+to discriminatory practices.
+											Across the US,
+											police departments are starting to use
+facial recognition software
+											in their crime-fighting arsenal.
+											Georgetown Law published a report
+											showing that one in two adults
+in the US — that's 117 million people —
+											have their faces
+in facial recognition networks.
+											Police departments can currently look
+at these networks unregulated,
+											using algorithms that have not
+been audited for accuracy.
+											Yet we know facial recognition
+is not fail proof,
+											and labeling faces consistently
+remains a challenge.
+											You might have seen this on Facebook.
+											My friends and I laugh all the time
+when we see other people
+											mislabeled in our photos.
+											But misidentifying a suspected criminal
+is no laughing matter,
+											nor is breaching civil liberties.
+									","
+											Vocês viram nos meus exemplos
+											com os robôs sociais
+											que foi como eu descobri a exclusão
+com o preconceito algorítmico.
+											Mas o preconceito algorítmico também
+pode levar a práticas discriminatórias.
+											Nos Estados Unidos da América,
+											os departamentos da polícia começam
+a usar o software de reconhecimento facial
+											no seu arsenal de luta contra o crime.
+											A Faculdade de Direito de Georgetown
+publicou um relatório
+											mostrando que um
+em dois adultos, nos EUA
+											— ou seja, 117 milhões de pessoas —
+											têm os rostos em redes
+de reconhecimento facial.
+											Os departamentos da polícia podem procurar
+nessas redes não regulamentadas,
+											usando algoritmos que não foram
+auditados quanto ao seu rigor.
+											No entanto, sabemos que o reconhecimento
+facial não é à prova de falhas,
+											e rotular rostos consistentemente
+continua a ser um problema.
+											Podem ter visto isto no Facebook.
+											Os meus amigos e eu estamos sempre a rir
+quando vemos outras pessoas
+											mal rotuladas nas nossas fotos.
+											Mas a má identificação de um possível
+criminoso não é motivo para rir,
+											e o mesmo acontece com
+a violação das liberdades civis.
+									","
+											Şimdi örneklerimde sosyal robotlar
+											sayesinde algoritmik dışlanmayı
+											nasıl ortaya çıkardığımı gördünüz.
+											Ama algoritmik yanlılık ayrımcı
+uygulamalara da yol açabilir.
+											ABD çapında, polis merkezleri
+											suçla mücadele cephaneliklerinde
+											yüz tanıma yazılımını kullanmaya başladı.
+											Georgetown Yasası ABD'de iki yetişkinden
+											birinin - 117 milyon insanın- yüz tanıma
+											ağında yüzlerinin bulunduğunu açıkladı.
+											Polis merkezleri doğrulukları
+denetlenmemiş
+											algoritmalar kullanarak
+bu ağları izinsiz görebilir.
+											Biliyoruz ki yüz tanıma yanılmaz değil
+											ve yüzlerin tutarlı etiketlenmesi
+hâlâ bir sorun.
+											Bunu Facebook da görmüş olabilirsiniz.
+											Arkadaşlarımla diğer insanların yanlış
+											etiketlendiğini gördüğümüzde gülüyoruz.
+											Şüpheli bir suçluyu yanlış tanımlamak
+gülünç bir mesele
+											veya sivil özgürlükleri ihlal değil.
+									","
+											Ya han visto en mis ejemplos
+											cómo con los robots sociales
+											me enteré de la exclusión
+por el sesgo algorítmico.
+											Además, el sesgo algorítmico
+puede generar prácticas discriminatorias.
+											En EE.UU.
+											los departamentos de policía incorporan
+software de reconocimiento facial
+											en su arsenal
+para la lucha contra el crimen.
+											Georgetown publicó un informe
+											que muestra que uno de cada dos adultos
+en EE.UU., 117 millones de personas,
+											tiene sus rostros en redes
+de reconocimiento facial.
+											Los departamentos de policía hoy
+tienen acceso a esas redes no reguladas,
+											mediante algoritmos cuya exactitud
+no ha sido testeada.
+											Sabemos que el reconocimiento facial
+no es a prueba de fallas
+											y etiquetar rostros de forma consistente
+aún es un desafío.
+											Tal vez lo han visto en Facebook.
+											Mis amigos y yo nos reímos,
+cuando vemos a otros
+											mal etiquetados en nuestras fotos.
+											Pero identificar mal a un sospechoso
+no es un tema para reírse,
+											tampoco lo es violar la libertad civil.
+									","
+											Jetzt haben Sie anhand 
+meiner Beispiele gesehen,
+											wie soziale Roboter dazu geführt haben,
+											dass ich von der Exklusion 
+durch algorithmische Vorurteile erfuhr.
+											Algorithmische Vorurteile können
+zu diskriminierendem Verhalten führen.
+											Überall in den USA beginnt die Polizei,
+als Teil ihrer Kriminalitätsbekäpfung
+											Software zur Gesichtserkennung
+zu verwenden.
+											Georgetown Law zeigte in einem Bericht,
+											dass einer von zwei erwachsenen US-Bürgern
+— das sind 117 Mio. Menschen —
+											bereits in Datenbanken 
+zur Gesichtserkennung erfasst ist.
+											Polizeikommissariate können zurzeit
+uneingeschränkt auf diese zugreifen
+											und benutzen dabei Algorithmen, die
+nicht auf Genauigkeit überprüft wurden.
+											Dennoch wissen wir, dass 
+Gesichtserkennung nicht fehlerfrei ist
+											und dass Gesichter zuzuordnen 
+immer noch eine Herausforderung ist.
+											Vielleicht haben Sie das 
+auf Facebook gesehen.
+											Meine Freund und ich lachen immer,
+wenn andere Leute
+											fälschlicherweise auf unseren
+Fotos markiert werden.
+											Aber jemanden fälschlicherweise
+zu verdächtigen, ist nicht zum Lachen,
+											sondern verstößt gegen Bürgerrechte.
+									",How I'm fighting bias in algorithms,Joy Buolamwini,8:44,"activism,algorithm,AI,code,data,identity,inequality,product design,innovation,programming,software,TEDx,technology,race"
+"
+","
+","
+","
+","
+",How I'm fighting bias in algorithms,Joy Buolamwini,8:44,"activism,algorithm,AI,code,data,identity,inequality,product design,innovation,programming,software,TEDx,technology,race"
+"
+											Machine learning is being used
+for facial recognition,
+											but it's also extending beyond the realm
+of computer vision.
+											In her book, ""Weapons
+of Math Destruction,""
+											data scientist Cathy O'Neil
+talks about the rising new WMDs —
+											widespread, mysterious
+and destructive algorithms
+											that are increasingly being used
+to make decisions
+											that impact more aspects of our lives.
+											So who gets hired or fired?
+											Do you get that loan?
+Do you get insurance?
+											Are you admitted into the college
+you wanted to get into?
+											Do you and I pay the same price
+for the same product
+											purchased on the same platform?
+									","
+											A aprendizagem de máquinas está a ser
+usada para reconhecimento facial,
+											mas está a estender-se para além
+do domínio da visão por computador.
+											No seu livro, ""Armas de
+Destruição Matemática"" (ADM),
+											a cientista de dados Cathy O'Neil
+fala sobre o aumento de novas ADM
+											algoritmos difundidos,
+misteriosos e destrutivos
+											que estão a ser cada vez mais usados
+para tomar decisões
+											que afetam mais aspetos da nossa vida.
+											Por exemplo, quem é contratado
+ou despedido?
+											Recebemos esse empréstimo?
+Recebemos o seguro?
+											Somos admitidos na faculdade
+em que queremos entrar?
+											Pagamos todos o mesmo preço
+para o mesmo produto
+											comprado na mesma plataforma?
+									","
+											Makine öğrenme yüz tanımada kullanılır
+											ama bilgisayar görüş alanının
+ötesine de uzanıyor.
+											Veri bilimcisi Cathy O'Neil
+											""Matemetiksel İmha Silahları""
+kitabında, hayatımızın
+											daha çok boyutunu etkileyen kararlar
+											almak için kullanılan yaygın,
+gizemli ve yıkıcı
+											algoritmalarla KİS'lerden bahsediyor.
+											Peki işe alınan ya da kovulan kim?
+											O krediyi alıyor musun? Sigortan var mı?
+											Girmek istediğin üniversiteye
+kabul edildin mi?
+											Aynı platformda satın alınan
+aynı ürün için
+											sen ve ben aynı fiyatı mı ödüyoruz?
+									","
+											El aprendizaje automático se usa
+para el reconocimiento facial,
+											pero también se está extendiendo
+al campo de la visión por computadora.
+											En su libro, ""Armas de
+destrucción matemática"",
+											la científica de datos Cathy O'Neil
+habla sobre los nuevos WMDs,
+											algoritmos amplios,
+misteriosos y destructivos
+											que se usan cada vez más
+para tomar decisiones
+											que influyen sobre muchos aspectos
+de nuestras vidas.
+											¿A quién se contrata o se despide?
+											¿Recibes el préstamo?
+¿Y la cobertura de seguros?
+											¿Eres aceptado en la universidad
+a la que deseas entrar?
+											¿Tú y yo pagamos el mismo precio
+por el mismo producto
+											comprado en la misma plataforma?
+									","
+											Maschinelles Lernen 
+wird für Gesichtserkennung,
+											aber auch über den Bereich von
+computergestütztem Sehen hinaus verwendet.
+											In ihrem Buch ""Waffen der Mathezerstörung""
+											schreibt Datenforscherin Cathy O'Neil
+über neue Massenvernichtungswaffen —
+											verbreitete, mysteriöse
+und zerstörerische Algorithmen,
+											die zunehmend dazu verwendet werden,
+Entscheidungen zu treffen,
+											die viele Teile unseres Lebens betreffen.
+											Etwa wer eingestellt oder gefeuert wird.
+											Bekommen Sie einen Kredit?
+Oder eine Versicherung?
+											Werden Sie an der Uni, an der Sie
+studieren wollen, angenommen?
+											Bezahlen Sie und ich denselben Preis
+für dasselbe Produkt,
+											das wir auf derselben Website 
+gekauft haben?
+									",How I'm fighting bias in algorithms,Joy Buolamwini,8:44,"activism,algorithm,AI,code,data,identity,inequality,product design,innovation,programming,software,TEDx,technology,race"
+"
+","
+","
+","
+","
+",How I'm fighting bias in algorithms,Joy Buolamwini,8:44,"activism,algorithm,AI,code,data,identity,inequality,product design,innovation,programming,software,TEDx,technology,race"
+"
+											Law enforcement is also starting
+to use machine learning
+											for predictive policing.
+											Some judges use machine-generated
+risk scores to determine
+											how long an individual
+is going to spend in prison.
+											So we really have to think
+about these decisions.
+											Are they fair?
+											And we've seen that algorithmic bias
+											doesn't necessarily always
+lead to fair outcomes.
+									","
+											A polícia também está a começar
+a usar a aprendizagem de máquinas
+											para policiamento preditivo.
+											Alguns juízes usam a avaliação de risco
+gerada por máquinas para determinar
+											quanto tempo um indivíduo
+vai passar na prisão.
+											Portanto, temos mesmo que pensar
+nessas decisões.
+											Elas sãos justas?
+											Já vimos que o preconceito algorítmico
+											nem sempre conduz
+a resultados justos.
+									","
+											Güvenlik polisi öngörücü polislik için
+											otomatik öğrenmeyi kullanmaya başlıyor.
+											Bazı hakimler hapis cezasını
+											belirlemek için makine üretimli
+risk puanlarını kullanıyor.
+											Bu kararları gerçekten 
+düşünmek zorundayız.
+											Adiller mi?
+											Gördük ki algoritmik yanlılık her zaman
+											adil sonuçlar getirmez.
+									","
+											La aplicación de la ley también empieza
+a usar el aprendizaje de máquina
+											para la predicción de la policía.
+											Algunos jueces usan puntajes de riesgo
+generados por máquinas para determinar
+											cuánto tiempo un individuo
+permanecerá en prisión.
+											Así que hay que pensar
+sobre estas decisiones.
+											¿Son justas?
+											Y hemos visto que el sesgo algorítmico
+											no necesariamente lleva siempre
+a resultados justos.
+									","
+											Die Strafverfolgung beginnt auch, 
+maschinelles Lernen
+											für Predictive Policing einzusetzen.
+											Manche Richter benutzen maschinell
+generierte Risikoraten, um festzusetzen,
+											wie lange eine bestimmte Person
+im Gefängnis bleiben wird.
+											Deshalb müssen wir wirklich
+über diese Entscheidungen nachdenken.
+											Sind sie fair?
+											Wir haben gesehen,
+dass algorithmische Vorurteile
+											nicht unbedingt
+zu fairen Ergebnissen führen.
+									",How I'm fighting bias in algorithms,Joy Buolamwini,8:44,"activism,algorithm,AI,code,data,identity,inequality,product design,innovation,programming,software,TEDx,technology,race"
+"
+","
+","
+","
+","
+",How I'm fighting bias in algorithms,Joy Buolamwini,8:44,"activism,algorithm,AI,code,data,identity,inequality,product design,innovation,programming,software,TEDx,technology,race"
+"
+											So what can we do about it?
+											Well, we can start thinking about
+how we create more inclusive code
+											and employ inclusive coding practices.
+											It really starts with people.
+											So who codes matters.
+											Are we creating full-spectrum teams
+with diverse individuals
+											who can check each other's blind spots?
+											On the technical side,
+how we code matters.
+											Are we factoring in fairness
+as we're developing systems?
+											And finally, why we code matters.
+											We've used tools of computational creation
+to unlock immense wealth.
+											We now have the opportunity
+to unlock even greater equality
+											if we make social change a priority
+											and not an afterthought.
+											And so these are the three tenets
+that will make up the ""incoding"" movement.
+											Who codes matters,
+											how we code matters
+											and why we code matters.
+									","
+											Então, o que podemos fazer quanto a isso?
+											Podemos começar a pensar 
+em criar códigos mais inclusivos
+											e usar práticas de codificação inclusiva.
+											Isto começa com as pessoas.
+											Por isso, é importante quem codifica.
+											Estaremos a criar equipas de espetro
+completo com diversos indivíduos
+											que podem verificar os pontos cegos
+uns dos outros?
+											No lado técnico,
+é importante a forma como codificamos.
+											Estaremos a considerar a equidade
+enquanto desenvolvemos os sistemas?
+											E, finalmente, é importante a razão
+por que codificamos.
+											Temos usado ferramentas
+de criação informática
+											para desbloquear uma riqueza imensa.
+											Agora temos a oportunidade
+de desbloquear uma igualdade ainda maior
+											se dermos prioridade à mudança social
+											e não uma reflexão tardia.
+											Portanto, estes são os três princípios
+que formam o movimento ""de codificação"".
+											É importante quem codifica,
+											é importante como codificamos,
+											e é importante a razão
+por que codificamos.
+									","
+											Peki biz ne yapabiliriz?
+											Daha kapsamlı kod oluşturup
+kapsamlı kod uygulamalarını
+											nasıl kullandığımızı düşünebiliriz.
+											Bu, insanlarla başlar.
+											Yani kimin kodladığı önemlidir.
+											Birbirlerinin kör noktalarını görebilen
+farklı kişilerle tam spektrumlu
+											takımlar oluşturabiliyor muyuz?
+											Teknik olarak, nasıl kodladığımız önemli.
+											Sistemi geliştirirken adaletle
+mi oluşturuyoruz?
+											Son olarak niçin kodladığımız önemlidir.
+											Harika zenginliğin kilidini açmak için
+işlemsel yaratma araçlarını kullandık.
+											Sosyal değişimi sonraki düşünce değil,
+											öncelik hâline getirirsek daha geniş
+											eşitliği açma fırsatımız olur.
+											""Incoding"" hareketini oluşturan
+gerekli üç ilke var:
+											Kimin kodladığı,
+											nasıl kodladığı
+											ve niçin kodladığı.
+									","
+											Entonces, ¿qué podemos hacer al respecto?
+											Bueno, podemos empezar a pensar en
+cómo creamos un código más inclusivo
+											y emplear prácticas
+de codificación inclusivas.
+											Realmente empieza con la gente.
+											Con los que codifican cosas.
+											¿Estamos creando equipos de
+amplio espectro con diversidad de personas
+											que pueden comprobar
+los puntos ciegos de los demás?
+											Desde el punto de vista técnico,
+importa cómo codificamos.
+											¿Lo gestionamos con equidad
+al desarrollar los sistemas?
+											Y finalmente, importa por qué
+codificamos.
+											Hemos usado herramientas informáticas
+											para generar una riqueza inmensa.
+											Ahora tenemos la oportunidad de generar
+una igualdad aún más grande
+											si hacemos del cambio social una prioridad
+											y no solo un pensamiento.
+											Estos son los tres principios que 
+constituirán el movimiento ""codificador"".
+											Quién codifica importa,
+											cómo codificamos importa,
+											y por qué codificamos importa.
+									","
+											Was können wir dagegen tun?
+											Wir können darüber nachdenken, 
+wie man inklusiveren Code schreibt
+											und Programmiertechniken nutzt,
+die inklusiver sind.
+											Es fängt bei den Menschen an.
+											Es spielt eine Rolle, wer programmiert.
+											Erstellen wir inklusive Teams
+aus diversifizierten Individuen,
+											die gegenseitig ihre toten Winkel 
+überprüfen können?
+											In Hinblick auf die Technik spielt es
+eine Rolle, wie programmiert wird.
+											Berücksichtigen wir Fairness
+beim Entwickeln von Systemen?
+											""Warum"" wir programmieren, 
+spielt auch eine Rolle.
+											Wir haben durch computergestütztes Design
+enormen Wohlstand geschaffen.
+											Nun haben wir die Möglichkeit, 
+noch größere Gleichheit zu schaffen,
+											wenn wir sozialen Wandel als Priorität
+											und nicht als Nachtrag behandeln.
+											Das sind also die drei Grundsätze
+der ""Incoding""-Bewegung.
+											Es ist wichtig, wer programmiert,
+											wie programmiert wird,
+											und warum wir programmieren.
+									",How I'm fighting bias in algorithms,Joy Buolamwini,8:44,"activism,algorithm,AI,code,data,identity,inequality,product design,innovation,programming,software,TEDx,technology,race"
+"
+","
+","
+","
+","
+",How I'm fighting bias in algorithms,Joy Buolamwini,8:44,"activism,algorithm,AI,code,data,identity,inequality,product design,innovation,programming,software,TEDx,technology,race"
+"
+											So to go towards incoding,
+we can start thinking about
+											building platforms that can identify bias
+											by collecting people's experiences
+like the ones I shared,
+											but also auditing existing software.
+											We can also start to create
+more inclusive training sets.
+											Imagine a ""Selfies for Inclusion"" campaign
+											where you and I can help
+developers test and create
+											more inclusive training sets.
+											And we can also start thinking
+more conscientiously
+											about the social impact
+of the technology that we're developing.
+									","
+											Para avançarmos para a codificação,
+podemos começar a pensar
+											em construir plataformas que
+possam identificar preconceitos
+											reunindo as experiências de pessoas
+como as que eu contei,
+											e também auditando
+os softwares existentes.
+											Também podemos começar a criar
+grupos de formação mais inclusivos.
+											Imaginem uma campanha
+""Selfies para Inclusão""
+											em que qualquer um pode ajudar
+os desenvolvedores a criar e testar
+											grupos de formação mais inclusivos.
+											Também podemos começar
+a pensar com maior consciência
+											no impacto social da tecnologia
+que estamos a desenvolver.
+									","
+											Incoding'e yönelmek için
+benim paylaştıklarım
+											gibi insanların deneyimlerini toplayarak
+											yanlılığı belirleyen ve var olan yazılımı
+											denetleyen platformlar oluşturmayı
+düşünmeye başlayabiliriz.
+											Ayrıca daha kapsamlı
+eğitim setleri hazırlayabiliriz.
+											Geliştiricilerin daha kapsamlı
+eğitim setleri oluşturmasına
+											ve deneyebilmesine yardım
+ettiğimiz ""Kaynaşmak için Özçekimler""
+											kampanyasını düşünün.
+											Ve şu an geliştirdiğimiz
+teknolojinin toplumsal etkileri
+											konusunda daha vicdani
+düşünmeye başlayabiliriz.
+									","
+											Así que, para abordar la codificación,
+podemos empezar a pensar
+											en construir plataformas
+que puedan identificar sesgos
+											reuniendo experiencias de la gente
+como las que compartí,
+											pero también auditando
+el software existente.
+											También podemos crear
+grupos de formación más inclusivos.
+											Imaginen una campaña de
+""Selfies por la inclusión""
+											donde Uds. y yo podamos ayudar 
+a los desarrolladores a crear
+											grupos de formación más inclusivos.
+											Y también podemos empezar a pensar
+más concienzudamente
+											sobre el impacto social de la tecnología
+que estamos desarrollando.
+									","
+											Auf dem Weg zu ""Incoding""
+müssen wir darüber nachdenken,
+											Plattformen, die Vorurteile
+erkennen können, zu schaffen,
+											mit Hilfe von Erfahrungen, 
+wie z. B. meinen,
+											aber auch bereits existierende 
+Software zu überprüfen.
+											Wir können auch damit beginnen,
+inklusivere Trainingssets zu erstellen.
+											Stellen Sie sich etwa eine Kampagne
+""Selfies für Inklusion"" vor,
+											bei der Sie und ich den Entwicklern
+beim Testen und Entwickeln
+											inklusiverer Trainingssets helfen können.
+											Wir können auch bewusster
+über die sozialen Auswirkungen
+											der Technologien, die wir 
+entwickeln, nachdenken.
+									",How I'm fighting bias in algorithms,Joy Buolamwini,8:44,"activism,algorithm,AI,code,data,identity,inequality,product design,innovation,programming,software,TEDx,technology,race"
+"
+","
+","
+","
+","
+",How I'm fighting bias in algorithms,Joy Buolamwini,8:44,"activism,algorithm,AI,code,data,identity,inequality,product design,innovation,programming,software,TEDx,technology,race"
+"
+											To get the incoding movement started,
+											I've launched the Algorithmic
+Justice League,
+											where anyone who cares about fairness
+can help fight the coded gaze.
+											On codedgaze.com, you can report bias,
+											request audits, become a tester
+											and join the ongoing conversation,
+											#codedgaze.
+									","
+											Para iniciar o movimento de codificação,
+											lancei o Algoritmo Liga da Justiça,
+											em que todos os que
+se interessam pela justiça
+											podem ajudar a lutar
+contra o olhar codificado.
+											Em codedgaze.com,
+podem relatar preconceitos,
+											exigir auditos, fazerem testes
+											e participar das conversas em curso,
+											#codedgaze.
+									","
+											Incoding hareketini başlatmak için
+											adaletle ilgilenen birinin kodlu 
+bakışla savaşabileceği
+											Algoritmik Adalet Ligi'ni başlattım.
+											codedgaze.com'da yanlılığı bildirebilir,
+											denetleme isteyebilir, deneyen olabilir,
+											süren tartışmalara katılabilirsiniz,
+											#codedgaze
+											Sizi dâhil olmaya ve
+merkez sosyal değişime
+									","
+											Para iniciar el movimiento
+de codificación,
+											creé la Liga de la Justicia algorítmica,
+											donde todo el que
+se preocupa por la equidad
+											puede ayudar a combatir
+la mirada codificada.
+											En codedgaze.com
+pueden informar sesgos,
+											solicitar auditorías,
+convertirse en un betatesters
+											y unirse a la conversación en curso,
+											#codedgaze.
+									","
+											Um die ""Incoding""-Bewegung zu starten,
+											gründete ich die
+""Algorithmic Justice Leage"".
+											Jeder kann dabei helfen,
+den programmierten Blick zu bekämpfen.
+											Auf codedgaze.com können Sie
+über Voreingenommenheit berichten,
+											Überprüfungen verlangen, zum Tester werden
+											und bei laufenden Debatten mitreden,
+											#codedgaze.
+									",How I'm fighting bias in algorithms,Joy Buolamwini,8:44,"activism,algorithm,AI,code,data,identity,inequality,product design,innovation,programming,software,TEDx,technology,race"
+"
+","
+","
+","
+","
+",How I'm fighting bias in algorithms,Joy Buolamwini,8:44,"activism,algorithm,AI,code,data,identity,inequality,product design,innovation,programming,software,TEDx,technology,race"
+"
+											So I invite you to join me
+											in creating a world where technology
+works for all of us,
+											not just some of us,
+											a world where we value inclusion
+and center social change.
+									","
+											Portanto, convido-os a juntarem-se a mim
+											para criar um mundo em que a tecnologia
+funcione para todos nós,
+											não apenas para alguns,
+											um mundo em que valorizamos a inclusão
+e nos centramos na mudança social.
+									","
+											değer verdiğimiz ve teknolojinin 
+sadece bir kısım için değil,
+											herkes için işe yaradığı
+											bir dünyaya davet ediyorum.
+											Teşekkürler.
+									","
+											Así que los invito a que se unan a mí
+											para crear un mundo donde la tecnología
+trabaje para todos nosotros,
+											no solo para algunos de nosotros,
+											un mundo donde se valore la inclusión
+y así centrar el cambio social.
+									","
+											Ich lade Sie dazu ein, 
+sich mir anzuschließen
+											und eine Welt zu schaffen,
+in der Technologie für uns alle,
+											und nicht nur für manche, funktioniert,
+											eine Welt, in der Inklusion wertgeschätzt
+und soziale Veränderung im Zentrum steht.
+									",How I'm fighting bias in algorithms,Joy Buolamwini,8:44,"activism,algorithm,AI,code,data,identity,inequality,product design,innovation,programming,software,TEDx,technology,race"
+"
+","
+","
+","
+","
+",How I'm fighting bias in algorithms,Joy Buolamwini,8:44,"activism,algorithm,AI,code,data,identity,inequality,product design,innovation,programming,software,TEDx,technology,race"
+"
+											Thank you.
+									","
+											Obrigada.
+									","
+											(Alkış)
+									","
+											Gracias.
+									","
+											Danke.
+									",How I'm fighting bias in algorithms,Joy Buolamwini,8:44,"activism,algorithm,AI,code,data,identity,inequality,product design,innovation,programming,software,TEDx,technology,race"
+"
+","
+","
+","
+","
+",How I'm fighting bias in algorithms,Joy Buolamwini,8:44,"activism,algorithm,AI,code,data,identity,inequality,product design,innovation,programming,software,TEDx,technology,race"
+"
+											(Applause)
+									","
+											(Aplausos).
+									","
+											Bir sorum var.
+									","
+											(Aplausos)
+									","
+											(Applaus)
+									",How I'm fighting bias in algorithms,Joy Buolamwini,8:44,"activism,algorithm,AI,code,data,identity,inequality,product design,innovation,programming,software,TEDx,technology,race"
+"
+","
+","
+","
+","
+",How I'm fighting bias in algorithms,Joy Buolamwini,8:44,"activism,algorithm,AI,code,data,identity,inequality,product design,innovation,programming,software,TEDx,technology,race"
+"
+											But I have one question:
+											Will you join me in the fight?
+									","
+											Mas eu tenho uma pergunta:
+											Vão juntar-se a mim nesta luta?
+									","
+											Bu savaşta benimle misiniz?
+									","
+											Pero tengo una pregunta:
+											¿Se unirán a mí en mi lucha?
+									","
+											Ich habe eine Frage:
+											Werden Sie sich mir anschließen?
+									",How I'm fighting bias in algorithms,Joy Buolamwini,8:44,"activism,algorithm,AI,code,data,identity,inequality,product design,innovation,programming,software,TEDx,technology,race"
+"
+","
+","
+","
+","
+",How I'm fighting bias in algorithms,Joy Buolamwini,8:44,"activism,algorithm,AI,code,data,identity,inequality,product design,innovation,programming,software,TEDx,technology,race"
+"
+											(Laughter)
+									","
+											(Risos)
+									","
+											(Gülüşmeler)
+									","
+											(Risas)
+									","
+											(Gelächter)
+									",How I'm fighting bias in algorithms,Joy Buolamwini,8:44,"activism,algorithm,AI,code,data,identity,inequality,product design,innovation,programming,software,TEDx,technology,race"
+"
+","
+","
+","
+","
+",How I'm fighting bias in algorithms,Joy Buolamwini,8:44,"activism,algorithm,AI,code,data,identity,inequality,product design,innovation,programming,software,TEDx,technology,race"
+"
+											(Applause)
+									","
+											(Aplausos)
+									","
+											(Alkış)
+									","
+											(Aplausos)
+									","
+											(Applaus)
+									",How I'm fighting bias in algorithms,Joy Buolamwini,8:44,"activism,algorithm,AI,code,data,identity,inequality,product design,innovation,programming,software,TEDx,technology,race"
+"
+","
+","
+","
+","
+",How I'm fighting bias in algorithms,Joy Buolamwini,8:44,"activism,algorithm,AI,code,data,identity,inequality,product design,innovation,programming,software,TEDx,technology,race"

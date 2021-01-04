@@ -1,0 +1,1369 @@
+en,es,fr,title,speaker,duration,tags
+"
+","
+","
+",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+											So a few weeks ago, a friend
+											of mine gave this toy car to his
+											8-year-old son.
+											But instead of going into a store and buying one,
+											like we do normally, he went to this
+											website and he downloaded
+											a file, and then he printed it
+											on this printer.
+											So this idea that you can
+											manufacture objects
+											digitally using these machines
+											is something that The Economist magazine
+											defined as the Third Industrial Revolution.
+									","
+											Hace unas semanas, un amigo mío
+											le dio este auto de juguete
+											a su hijo de 8 años.
+											Pero en vez de ir a una tienda y comprarlo,
+											como es lo usual, él visitó
+											este sitio web, descargó
+											un archivo y luego lo imprimió
+											en esta impresora.
+											Así que la idea de que se puede
+											fabricar objetos digitalmente
+											usando estas máquinas
+											es algo que la revista «The Economist»
+											define como la «Tercera Revolución Industrial».
+									","
+											Il y a quelques semaines, un de mes amis
+											a offert une petite voiture
+											à son fils de 8 ans.
+											Mais au lieu d'aller dans un magasin
+											normalement, il est allé
+											sur ce site web et il a téléchargé
+											un fichier, puis il l'a imprimé
+											avec cette imprimante.
+											Cette idée qu'on peut
+											fabriquer des objets
+											numériquement en se servant de ces machines,
+											c'est ce que le magazine The Economist
+											a défini comme la ""troisième révolution industrielle"".
+									",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+","
+","
+",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+											Actually, I argue that there is another revolution
+											going on, and it's the one that has to do with
+											open-source hardware and the maker's movement,
+											because the printer that my friend used
+											to print the toy is actually open-source.
+											So you go to the same website, you can download all the files
+											that you need in order to make that printer:
+											the construction files, the hardware, the software,
+											all the instruction is there.
+											And also this is part of a large
+											community where there are thousands of people
+											around the world that are actually
+											making these kinds of printers,
+											and there's a lot of innovation
+											happening because it's all open-source.
+											You don't need anybody's permission to create something great.
+											And that space is like
+											the personal computer in 1976,
+											like the Apples with the other companies are fighting,
+											and we will see in a few years,
+											there will be the Apple of this kind of market come out.
+									","
+											En realidad, sostengo que está ocurriendo
+											otra revolución, relacionada con el hardware libre
+											y con el movimiento de creadores,
+											ya que la impresora que mi amigo usó
+											para imprimir el juguete es de código abierto.
+											Así que se puede visitar el mismo sitio web y descargar todos los archivos
+											necesarios para fabricar la impresora:
+											los archivos de construcción, los componentes físicos,
+											los programas; toda la información se encuentra ahí.
+											Esto es parte de una gran comunidad
+											formada por miles de personas
+											en todo el mundo
+											que fabrican este tipo de impresoras
+											y están innovando,
+											ya que todo es de código abierto.
+											No se necesita el permiso de nadie
+											Ese espacio se asemeja
+											al de la computadora personal en 1976
+											cuando Apple y las otras compañías estaban peleando,
+											y en unos años veremos
+											que surgirá la versión Apple de este tipo de mercado.
+									","
+											En fait, je soutiens qu'il y a une autre révolution
+											en cours, et qu'elle concerne
+											le mouvement des créateurs, parce que
+											l'imprimante dont s'est servie mon ami
+											pour imprimer le jouet est en fait open source.
+											Vous allez sur le même site web,
+											qu'il vous faut pour fabriquer cette imprimante :
+											les fichiers de construction, le matériel, les logiciels,
+											toutes les instructions sont là.
+											Et aussi ça fait partie d'une vaste
+											communauté de milliers de gens
+											dans le monde entier qui fabriquent
+											vraiment ce type d'imprimantes,
+											et beaucoup d'innovation a lieu
+											car tout est open source.
+											On a besoin de la permission de personne
+											Et cet espace est comme
+											celui des ordinateurs personnels en 1976,
+											quand c'était la lutte entre les Apples et
+											nous verrons dans quelques années,
+											émerger l'Apple
+									",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+","
+","
+",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+											Well, there's also another interesting thing.
+											I said the electronics are open-source, because at the heart
+											of this printer there is something I'm really attached to:
+											these Arduino boards, the motherboard that sort of
+											powers this printer, is a project
+											I've been working on for the past seven years.
+											It's an open-source project.
+											I worked with these friends of mine that I have here.
+											So the five of us, two Americans, two Italians
+											and a Spaniard, we — (Laughter)
+											You know, it's a worldwide project. (Laughter)
+											So we came together in this
+											design institute called the Interaction Design Institute
+											Ivrea, which was teaching
+											interaction design, this idea that you can take
+											design from the simple shape
+											of an object and you can move it
+											forward to design the way you interact with things.
+											Well, when you design an object that's supposed to interact
+											with a human being, if you make a foam model
+											of a mobile phone, it doesn't make any sense.
+											You have to have something that
+											actually interacts with people.
+											So, we worked on Arduino and
+											a lot of other projects there to
+											create platforms that would be
+											simple for our students to use,
+											so that our students could just build things that worked,
+											but they don't have five years to become an electronics engineer. We have one month.
+									","
+											Bueno, hay otro punto interesante.
+											Los componentes electrónicos son de código abierto
+											porque en el centro de esta impresora hay algo a lo que estoy muy apegado:
+											estas tarjetas Arduino, la tarjeta madre que de cierta forma
+											hace funcionar a la impresora, es un proyecto
+											en el que he trabajado durante los últimos 7 años.
+											Es un proyecto de código abierto.
+											He trabajado con mis amigos que ven aquí.
+											Nosotros 5, 2 estadounidenses, 2 italianos
+											y un español, nosotros… (Risas)
+											Ya saben, es un proyecto mundial. (Risas)
+											Nos encontramos en este instituto de diseño
+											llamado Instituto de Diseño Interactivo Ivrea,
+											donde se enseña diseño interactivo.
+											Esta idea de tomar el diseño
+											más allá de la simple forma
+											de un objeto y de ahí dar un paso adelante
+											y diseñar la manera en que uno interactúa con las cosas.
+											Al diseñar un objeto que se supone va a interactuar
+											con un ser humano, si uno fabrica un modelo
+											de teléfono celular de gomaespuma, no tiene ningún sentido.
+											Hay que tener algo
+											que de verdad interactúe con la gente.
+											Así que trabajamos en Arduino
+											y en muchos otros proyectos
+											para crear plataformas que fueran
+											fáciles de usar para nuestros alumnos,
+											para que ellos pudieran fabricar cosas que funcionaran,
+											ya que no disponen de 5 años para
+volverse ingenieros en electrónica. Tienen 1 mes.
+									","
+											Il y a aussi un autre point intéressant.
+											J'ai dit que l'électronique était open source,
+											quelque chose qui m'est cher :
+											la carte mère qui en quelque sorte
+											alimente cette imprimante, est un projet
+											sur lequel je travaille depuis 7 ans.
+											C'est un projet open source.
+											J'ai travaillé avec mes amis qui sont ici.
+											Nous cinq, deux américains, deux italiens,
+											et un espagnol, nous ... (Rires)
+											Vous savez, c'est un projet mondial. (Rires)
+											Nous nous sommes donc rassemblés
+											dans cet institut de design appelé le Interaction Design Institute Ivrea,
+											qui enseignait le design d'interaction,
+											l'idée que l'on peut pousser le design
+											au-delà de la simple forme
+											d'un objet et le faire évoluer
+											afin de concevoir la façon d'interagir
+											Lorsqu'on crée un objet qui est censé interagir
+											avec un être humain, si on fait
+											ça n'a aucun sens.
+											Il vous faut quelque chose qui
+											interagit effectivement avec les gens.
+											Donc, nous avons travaillé sur Arduino et
+											beaucoup d'autres projets là-bas
+											pour créer des plateformes qui seraient
+											simples à utiliser pour nos élèves,
+											afin que nos étudiants puissent juste construire des choses qui marchent
+											mais ils n'ont pas cinq ans pour devenir ingénieurs en électronique. Nous avons un mois.
+									",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+","
+","
+",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+											So how do I make something that even a kid can use?
+											And actually, with Arduino,
+											we have kids like Sylvia that you see here,
+											that actually make projects with Arduino.
+											I have 11-year-old kids stop me and show me
+											stuff they built for Arduino that's really
+											scary to see the capabilities
+											that kids have when you give them the tools.
+									","
+											Así que ¿cómo hago algo que incluso un niño pueda usar?
+											Y de hecho, con Arduino,
+											tenemos niños como Sylvia, a quien ven aquí,
+											que fabrica proyectos con Arduino.
+											Hay niños de 11 años que me muestran
+											cosas que han construido con Arduino,
+											y asusta darse cuenta de la capacidad
+											de estos niños cuando se les dan las herramientas.
+									","
+											Alors, comment faire quelque chose que même un gamin peut utiliser ?
+											Et en fait, avec Arduino,
+											nous avons des enfants comme Sylvia que vous voyez ici,
+											qui font vraiment des projets avec Arduino.
+											Il y a des enfants de 11 ans qui m'arrêtent et me montrent
+											des trucs qu'ils ont construit pour Arduino et
+											ça fait peur de voir de quoi les enfants sont capables
+											quand vous leur donnez les outils.
+									",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+","
+","
+",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+											So let's look at what happens when you make a tool
+											that anybody can just pick up and build something quickly,
+											so one of the examples that I like to sort of
+											kick off this discussion is this
+											example of this cat feeder.
+											The gentleman who made this project had two cats.
+											One was sick and the other one
+											was healthy, so he had to make
+											sure they ate the proper food.
+											So he made this thing that recognizes the cat
+											from a chip mounted inside
+											on the collar of the cat, and opens the door
+											and the cat can eat the food.
+											This is made by recycling an old CD player
+											that you can get from an old computer,
+											some cardboard, tape, couple of sensors, a few blinking LEDs,
+											and then suddenly you have a tool. You build something
+											that you cannot find on the market.
+											And I like this phrase: ""Scratch your own itch.""
+											If you have an idea, you just go and you make it.
+											This is the equivalent of sketching on paper
+											done with electronics.
+									","
+											Veamos qué es lo que sucede cuando se fabrica una herramienta
+											que cualquiera puede usar para construir algo rápido.
+											Uno de los ejemplos con los que quiero
+											empezar esta discusión es
+											este alimentador para gatos.
+											El caballero que fabricó este proyecto tenía 2 gatos.
+											Uno estaba enfermo y el otro sano,
+											así que debía asegurarse
+											de que comieran la comida adecuada.
+											Fabricó este aparato que reconoce al gato
+											por un chip instalado en su collar,
+											le abre la puerta
+											y el gato puede alimentarse.
+											Para fabricarlo recicló un viejo reproductor de CD
+											que se puede obtener de una computadora vieja,
+											un poco de cartón, cinta adhesiva, un par de sensores, unos cuantos ledes intermitentes
+											y de repente se tiene una herramienta. Se ha construido algo
+											que no es posible encontrar en el mercado.
+											Me gusta esta frase: «Rásquese con sus propias uñas».
+											Si Ud. tiene una idea, solo vaya y constrúyala.
+											Es el equivalente de bosquejar en un papel,
+											pero hecho con componentes electrónicos.
+									","
+											Alors regardons ce qui se passe lorsque vous faites un outil
+											que n'importe qui peut prendre et construire quelque chose rapidement,
+											l'un des exemples que j'aime bien pour
+											donner le coup d'envoi de cette discussion c'est
+											ce distributeur de nourriture pour chat.
+											L'homme qui a fait ce projet avait deux chats.
+											L'un était malade et l'autre
+											était en bonne santé, donc il devait s'assurer
+											qu'ils mangeaient la nourriture appropriée.
+											Donc il a fait cette chose qui reconnaît le chat
+											grâce à une puce montée à l'intérieur
+											du collier du chat et ouvre la trappe
+											et le chat peut manger sa nourriture.
+											C'est fait avec un vieux lecteur de CD recyclé
+											que vous pouvez prendre sur un vieil ordinateur,
+											quelques capteurs, quelques LEDs qui clignotent,
+											et puis tout à coup vous avez un outil. Vous construisez quelque chose
+											que vous ne trouvez pas sur le marché.
+											Et j'aime cette expression :
+											Si vous avez une idée, vous vous lancez
+											C'est l'équivalent de l'esquisse sur papier
+											faite avec l'électronique.
+									",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+","
+","
+",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+											So one of the features that I
+											think is important about our work
+											is that our hardware, on top of
+											being made with love in Italy —
+											as you can see from the
+											back of the circuit — (Laughter)
+											is that it's open,
+											so we publish all the design
+											files for the circuit online,
+											so you can download it and
+											you can actually use it to
+											make something, or to modify, to learn.
+											You know, when I was learning about programming,
+											I learned by looking at other people's code,
+											or looking at other people's circuits in magazines.
+											And this is a good way to learn,
+											by looking at other people's work.
+											So the different elements of the project are all open,
+											so the hardware is released
+											with a Creative Commons license.
+											So, you know, I like this idea that hardware becomes
+											like a piece of culture that you share
+											and you build upon, like it was
+											a song or a poem with Creative Commons.
+											Or, the software is GPL, so it's open-source as well.
+											The documentation and the hands-on teaching
+											methodology is also open-source and released as the Creative Commons.
+											Just the name is protected so
+											that we can make sure that we can tell people
+											what is Arduino and what isn't.
+									","
+											Así que una de las características
+											que creo que es importante en nuestro trabajo
+											es que nuestros componentes físicos,
+											además de estar hechos con amor en Italia,
+											como pueden ver
+											en el dorso del circuito
+(Risas)
+											son abiertos,
+											así que publicamos en la red
+											todos los archivos de diseño del circuito
+											y Ud. puede descargarlos
+											y usarlos para fabricar algo,
+											o para modificar y aprender.
+											Cuando yo estudiaba programación,
+											aprendí observando los códigos de otras personas,
+											o sus circuitos en las revistas.
+											Y esta es una buena manera de aprender,
+											observando el trabajo de otros.
+											Así que todos los diversos elementos del proyecto
+											son abiertos, los componentes se publican
+											bajo una licencia de bienes comunes creativos (Creative Commons).
+											¿Saben? Me gusta esta ida de que el hardware
+											se convierta en un pedazo de cultura que se puede
+											compartir y desarrollar, como si fuera
+											una canción o un poema mediante bienes comunes creativos.
+											Y los programas son de Licencia Pública General,
+así que son también de código abierto.
+											La documentación y la metodología práctica de trabajo
+											también son de código abierto y se publican como bienes comunes creativos.
+											Solo el nombre está protegido
+											para asegurarnos de poder decir a la gente
+											qué es Arduino y qué no es.
+									","
+											L'une des caractéristiques qui, selon moi,
+											est importante dans notre travail est
+											que notre matériel, en plus d'être
+											fabriqué avec amour en Italie,
+											comme vous pouvez le voir au dos
+											du circuit, (Rires)
+											est ouvert,
+											nous publions donc tous les fichiers
+											de conception du circuit en ligne,
+											pour que vous les téléchargiez et
+											vous les utilisiez en fait
+											pour faire quelque chose, ou les modifier, ou apprendre.
+											Vous savez, quand j'apprenais
+											observant le code d'autres personnes,
+											ou en regardant les circuits d'autres personnes dans des magazines.
+											Et c'est une bonne façon d'apprendre,
+											en regardant le travail des autres.
+											Donc, les différents éléments du projet sont tous ouverts,
+											et le matériel est publié
+											avec une licence Creative Commons.
+											Donc, vous savez, j'aime cette idée
+											que ce matériel devient un bout de culture que vous partagez
+											et à partir duquel vous élaborez, comme si c'était
+											une chanson ou un poème
+											Ou sinon, le logiciel est GPL, donc il est
+											La documentation et les exercices pratiques
+											sont également open source
+											Il n'y a que le nom qui est protégé pour
+											que nous soyons sûrs de pouvoir dire aux gens
+											ce qui est Arduino et ce qui ne l'est pas.
+									",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+","
+","
+",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+											Now, Arduino itself is made of
+											a lot of different open-source components
+											that maybe individually are hard to use for
+											a 12-year-old kid, so Arduino
+											wraps everything together into
+											a mashup of open-source technologies
+											where we try to give them the
+											best user experience to get something done quickly.
+									","
+											Arduino mismo está formado
+											por muchos componentes de código abierto diferentes
+											que separadamente tal vez sean difíciles de usar
+											para un niño de 12 años, así que Arduino
+											reúne todo en una mezcla
+											de tecnologías de código abierto
+											donde tratamos de dar la mejor experiencia
+											al usuario para fabricar algo con rapidez.
+									","
+											Arduino en elle-même est faite de
+											beaucoup de composants open source différents
+											qui peut-être individuellement sont difficiles à utiliser pour
+											un enfant de 12 ans, alors Arduino
+											encapsule tout en
+											un mashup de technologies open source
+											où nous essayons de leur donner la
+											meilleure expérience utilisateur pour faire quelque chose rapidement.
+									",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+","
+","
+",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+											So you have situations like this,
+											where some people in Chile
+											decided to make their own boards instead of buying them,
+											to organize a workshop and
+											to save money. Or there are
+											companies that make their own
+											variations of Arduino that fit
+											in a certain market, and there's
+											probably, maybe like a 150 of them
+											or something at the moment.
+											This one is made by a company
+											called Adafruit, which is run by
+											this woman called Limor Fried,
+											also known as Ladyada, who is
+											one of the heroes of the open-source hardware movement
+											and the maker movement.
+											So, this idea that you have a new, sort of
+											turbo-charged DIY community
+											that believes in open-source,
+											in collaboration, collaborates
+											online, collaborates in different spaces.
+											There is this magazine called Make that sort of gathered
+											all these people and sort of put them together
+											as a community, and you see
+											a very technical project explained in a
+											very simple language, beautifully typeset.
+											Or you have websites,
+											like this one, like Instructables,
+											where people actually teach each other about anything.
+											So this one is about Arduino projects,
+											the page you see on the screen, but effectively here you can
+											learn how to make a cake and everything else.
+											So let's look at some projects.
+									","
+											Tenemos situaciones como esta,
+											en que unas personas en Chile
+											decidieron fabricar sus propias tarjetas en vez de comprarlas,
+											para organizar un taller y
+											ahorrar dinero. También hay
+											compañías que fabrican sus propias
+											variaciones de Arduino que se ajustan
+											a un mercado particular,
+											hay probablemente cerca de 150,
+											o algo así, hasta ahora.
+											Esta tarjeta se fabrica en una compañía
+											llamada “«Adafruit», que dirige
+											esta mujer de nombre Limor Fried,
+											también conocida como Ladyada, que es una de las heroínas
+											del movimiento de hardware libre
+											y del movimiento de creadores.
+											Esta idea de tener una nueva comunidad «hazlo tú mismo» (DIY)
+											por así decirlo turbopropulsada
+											que apoya el código abierto
+											y la cooperación, colabora en línea,
+											participa en diferentes espacios.
+											Esta revista llamada «Make» atrajo a todas estas personas
+											y de cierta forma las reunió
+											en comunidad, y se puede encontrar
+											un proyecto muy técnico explicado
+											en un lenguaje muy simple y con un diseño muy atractivo.
+											Además hay sitios web,
+											como este, «Instructables»,
+											donde la gente se enseña entre sí acerca de cualquier cosa.
+											Esta es sobre proyectos Arduino,
+											la página que ven en pantalla, pero, en efecto, pueden aprender
+											a hacer un pastel y cualquier otra cosa.
+											Veamos algunos proyectos.
+									","
+											On a donc des situations comme celle-ci,
+											lorsque des gens au Chili
+											ont décidé de fabriquer leurs propres
+											d'organiser un atelier et
+											d'économiser de l'argent. Ou il y a
+											des entreprises qui fabriquent leurs propres
+											variantes d'Arduino qui correspondent
+											à un certain marché et il y en a
+											probablement, peut-être 150 entreprises
+											ou quelque chose comme ça en ce moment.
+											Celle-ci est fabriquée par une société
+											appelé Adafruit, qui est gérée par
+											cette femme qui s'appelle Limor Fried,
+											également connue sous le nom de Ladyada, qui est
+											un des héros du mouvement pour le matériel open source
+											et le mouvement des créateurs.
+											D'où cette idée que vous avez une nouvelle
+											communauté de bricoleurs super dynamique
+											qui croit dans l'open source,
+											à la collaboration, qui collabore
+											en ligne, qui collabore dans différents espaces.
+											Il y a ce magazine appelé
+											tous ces gens en une communauté
+											et vous voyez
+											un projet très technique expliqué
+											dans un langage très simple,
+											Ou vous avez des sites Web,
+											comme celui-ci, Instructables,
+											où les gens s'apprennent les uns aux autres tout et n'importe quoi.
+											Ici, il s'agit de projets Arduino,
+											la page que vous voyez à l'écran,
+											apprendre comment faire un gâteau et tout le reste.
+											Donc regardons certains projets.
+									",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+","
+","
+",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+											So this one is a quadcopter.
+											It's a small model helicopter.
+											In a way, it's a toy, no?
+											And so this one was military technology
+											a few years ago, and now it's
+											open-source, easy to use, you can buy it online.
+											DIY Drones is the community; they do this thing called ArduCopter.
+											But then somebody actually launched this start-up called
+											Matternet, where they figured out that you could
+											use this to actually transport
+											things from one village to another in Africa,
+											and the fact that this was easy to find,
+											open-source, easy to hack, enabled them
+											to prototype their company really quickly.
+											Or, other projects. Matt Richardson: I'm getting a little sick
+											of hearing about the same people on TV over and over and over
+											again, so I decided to do something about it.
+											This Arduino project,
+											which I call the Enough Already, will mute the TV anytime
+											any of these over-exposed
+											personalities is mentioned. (Laughter)
+											I'll show you how I made it. (Applause)
+											MB: Check this out.
+											MR: Our producers caught up with Kim Kardashian earlier
+											today to find out what she was planning on wearing to her —
+											MB: Eh? (Laughter)
+											MR: It should do a pretty good
+											job of protecting our ears from having to hear about the details
+											of Kim Kardashian's wedding.
+											MB: Okay. So, you know, again, what is interesting here
+											is that Matt found this module
+											that lets Arduino process
+											TV signals, he found some code
+											written by somebody else that generates infrared signals for the TV,
+											put it together and then created this great project.
+									","
+											Este es un cuadricóptero.
+											Es un pequeño modelo de helicóptero.
+											Es como un juguete, ¿no es así?
+											Este era tecnología militar
+											hace unos años, y ahora
+											es código abierto, fácil de usar, se puede adquirir en línea.
+											La comunidad DIY Drones fabrica el llamado «ArduCopter».
+											Y luego alguien lanzó una empresa emergente llamada
+											«Matternet», donde se dieron cuenta
+											de que podían usarlo para transportar
+											cosas de un pueblo a otro en África,
+											y el hecho de que haya sido fácil de encontrar,
+											de código abierto, fácil de manipular, les permitió
+											desarrollar rápido un prototipo para la compañía.
+											O bien, veamos otros proyectos. Matt Richardson: Estaba harto
+											de oír hablar siempre de la misma gente en la TV una y otra vez,
+											así que decidí hacer algo al respecto.
+											Este proyecto Arduino,
+											al que llamo «Enough Already» (Ya basta), silencia la TV cada vez
+											que se menciona a una de estas
+											personalidades sobreexpuestas.
+(Risas)
+											Les mostraré cómo lo hice. (Aplausos)
+											MB: Miren esto.
+											MR: Nuestros productores se encontraron con Kim Kardashian hoy
+											para averiguar lo que planea ponerse para…
+											MB: ¿Qué tal? (Risas)
+											MR: Hace un buen trabajo para proteger
+											nuestros oídos de los detalles
+											de la boda de Kim Kardashian.
+											MB: Bien. De nuevo, lo interesante
+											es que Matt encontró este módulo
+											que permite a Arduino procesar
+											señales de TV, encontró un código,
+											escrito por otra persona, que genera señales infrarrojas para la TV,
+											juntó todo y creó este gran proyecto.
+									","
+											Voici un quadricoptère.
+											C'est un petit modèle d'hélicoptère.
+											D'une certaine manière, c'est un jouet, non ?
+											Et donc c'était une technologie militaire
+											il y a quelques années et maintenant c'est
+											open source, facile à utiliser,
+											ils font cette chose appelée ArduCopter.
+											Mais alors quelqu'un a réellement
+											Matternet, où ils ont découvert qu'on pouvait
+											l'utiliser pour transporter
+											des choses d'un village à l'autre en Afrique,
+											et le fait que c'était facile
+											à trouver, open source, facile à bidouiller, leur a permis
+											de prototyper leur compagnie vraiment rapidement.
+											Matt Richardson : j'en ai un peu assez
+											à la télévision encore et encore
+											alors j'ai décidé de faire quelque chose.
+											Ce projet Arduino,
+											que j'appelle Enough Already [Ça Suffit],
+											qu'une de ces personnalités
+											surexposées est mentionnée. (Rires)
+											Je vais vous montrer comment je l'ai fait. (Applaudissements)
+											MB : Regardez ça.
+											MR : Nos producteurs ont rattrapé
+											aujourd'hui pour découvrir ce qu'elle projette de porter à son ...
+											MB : Hein ? (Rires)
+											MR : Ça devrait bien marcher
+											pour protéger nos oreilles d'avoir à entendre les détails
+											du mariage de Kim Kardashian.
+											MB : Ok. Donc, vous savez, une fois encore, ce qui est intéressant ici
+											c'est que Matt a trouvé ce module
+											qui permet à Arduino de traiter
+											les signaux télé, il a trouvé un code
+											écrit par quelqu'un d'autre qui génère des signaux
+											il l'a assemblé et ensuite a créé ce grand projet.
+									",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+","
+","
+",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+											It's also used, Arduino's used,
+											in serious places like, you know, the Large Hadron Collider.
+											There's some Arduino balls collecting data and sort of
+											measuring some parameters.
+											Or it's used for —
+											(Music)
+											So this is a musical interface
+											built by a student from Italy,
+											and he's now turning this into
+											a product. Because it was a
+											student project becoming a product.
+											Or it can be used to make an assistive device.
+											This is a glove that understands
+											the sign language and transforms
+											the gestures you make into sounds
+											and writes the words that you're signing on a display
+											And again, this is made of all different parts you can find
+											on all the websites that sell Arduino-compatible parts,
+											and you assemble it into a project.
+											Or this is a project from the ITP part of NYU,
+											where they met with this boy
+											who has a severe disability, cannot play with the PS3,
+											so they built this device that
+											allows the kid to play baseball
+											although he has limited
+											movement capability.
+									","
+											Arduino también se usa
+											en lugares serios como el gran colisionador de hadrones (GCH).
+											Algunas tarjetas Arduino recopilan información
+											y miden algunos parámetros.
+											O bien se usan para…
+											(Música)
+											Esta es una interfaz musical
+											fabricada por un estudiante de Italia
+											que ahora va a convertirla
+											en un producto. Ya que es un proyecto
+											estudiantil que se volverá un producto.
+											También se puede usar para crear un dispositivo médico
+											de ayuda técnica. Este es un guante que entiende
+											el lenguaje de señas y transforma
+											los gestos en sonidos
+											y escribe las palabras en un visualizador.
+											Y, nuevamente, está hecho con diferentes partes
+											que se pueden encontrar en cualquier sitio web
+que venda piezas compatibles con Arduino
+											y que se ensamblan para crear proyectos.
+											Este es un proyecto del Programa de Telecomunicación Interactiva
+											de la Universidad de Nueva York, donde conocieron a este niño
+											con una severa discapacidad que no podía jugar con el PlayStation 3,
+											así que fabricaron este aparato
+											que le permite jugar béisbol
+											a pesar de su capacidad
+											de movimiento limitada.
+									","
+											On utilise aussi Arduino,
+											dans des endroits sérieux comme, vous le savez,
+											Il y a quelques balles Arduino qui collectent des données et
+											mesurent certains paramètres.
+											Ou on l'utilise pour ...
+											(Musique)
+											C'est donc une interface musicale
+											construite par un étudiant en Italie,
+											et il est maintenant en train d'en faire
+											un produit. Parce que c'était un
+											projet d'études qui devient un produit.
+											Ou on peut l'ituliser pour faire des appareils d'assistance.
+											Ça c'est un gant qui comprend
+											la langue des signes et transforme
+											vos gestes en sons
+											et écrit les mots dont vous faites les signes
+											Encore une fois, c'est fait avec des pièces différentes qu'on trouve
+											sur tous les sites qui vendent des
+											et qu'on assemble dans un projet.
+											Ou voici un projet de la section ITP de NYU,
+											où ils ont rencontré ce garçon
+											qui a un handicap lourd,
+											alors ils ont construit ce dispositif
+											qui lui permet de jouer au baseball
+											bien que sa capacité de mouvement
+											soit limitée.
+									",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+","
+","
+",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+											Or you can find it in arts projects.
+											So this is the txtBomber.
+											So you put a message into this device
+											and then you roll it on the wall, and it basically
+											has all these solenoids
+											pressing the buttons on spray cans,
+											so you just pull it over a wall
+											and it just writes on the wall
+											all the political messages.
+											So, yeah. (Applause)
+											Then we have this plant here.
+											This is called Botanicalls,
+											because there's an Arduino ball with a Wi-Fi module
+											in the plant, and it's measuring
+											the well-being of the plant,
+											and it's creating a Twitter account
+											where you can actually interact with the plant. (Laughter)
+											So, you know, this plant
+											will start to say, ""This is really hot,"" or
+											there's a lot of, you know, ""I need water right now."" (Laughter)
+											So it just gives a personality to your plant.
+											Or this is something that twitters when the
+											baby inside the belly of a
+											pregnant woman kicks. (Laughter)
+											Or this is a 14-year-old kid in
+											Chile who made a system that
+											detects earthquakes and publishes on Twitter.
+											He has 280,000 followers.
+											He's 14 and he anticipated
+											a governmental project by one year. (Applause)
+											Or again, another project where,
+											by analyzing the Twitter feed
+											of a family, you can basically
+											point where they are, like in the ""Harry Potter"" movie.
+											So you can find out everything about this project on the website.
+											Or somebody made a chair that twitters when somebody farts. (Laughter)
+											It's interesting how, in 2009,
+											Gizmodo basically defined,
+											said that this project actually gives a meaning to Twitter,
+											so it was — a lot changed in between. (Laughter)
+									","
+											O bien se le encuentra en proyectos de arte.
+											Este es el txtBomber.
+											Se ingresa un mensaje en este aparato,
+											se lo desliza sobre la pared; consta básicamente
+											de cierto número de solenoides
+											que presionan los botones de los atomizadores,
+											solo hay que deslizarlo sobre la pared
+											y escribirá sobre ella
+											todos los mensajes políticos.
+											Así es. (Aplausos)
+											Ahora tenemos esta planta.
+											Esto se llama «Botanicalls»,
+											tiene una tarjeta Arduino con un módulo Wi-Fi
+											que mide el bienestar
+											de la planta y a la vez
+											crea una cuenta en Twitter
+											donde se puede interactuar con la planta. (Risas)
+											Así que esta planta comenzará
+											a decir: «Hace mucho calor»,
+											o tendremos muchos: «Necesito agua ahora mismo». (Risas)
+											Así que le da personalidad a nuestras plantas.
+											Hay un aparato que tuitea cada vez
+											que un bebé da una patadita
+											dentro del vientre de una mujer gestante.
+											Este adolescente de 14 años,
+											en Chile, creó un sistema que detecta
+											terremotos y lo publica en Twitter;
+											tiene 280 000 seguidores.
+											Tiene 14 años y ha anticipado
+											un proyecto del gobierno por un año.
+(Aplausos)
+											Existe otro proyecto que,
+											mediante el análisis de las fuentes Twitter
+											de una familia, puede señalar dónde se encuentran,
+											como en la película «Harry Potter».
+											Pueden averiguar todo sobre este proyecto en el sitio web.
+											O bien, alguien creó una silla que tuitea
+cuando alguien se tira un pedo. (Risas)
+											Es interesante que en 2009
+											el blog «Gizmodo» dijo
+											básicamente que este proyecto le da sentido a Twitter, así que…
+											mucho ha cambiado desde entonces.
+(Risas)
+									","
+											Ou vous pouvez le trouver dans des projets artistiques.
+											Voici le txtBomber.
+											Si on met un message
+											sur le mur et en gros
+											il contient tous ces solénoïdes
+											qui appuient les boutons des bombes aérosols,
+											vous n'avez qu'à le tirer sur un mur
+											et vous écrivez sur le mur
+											tous les messages politiques.
+											Oui, oui. (Applaudissements)
+											Ensuite, nous avons ici cette plante.
+											Cela s'appelle Botanicalls,
+											avec un module Wi-Fi
+											dans la plante, et elle mesure
+											le bien-être de la plante,
+											et elle crée un compte Twitter
+											où vous pouvez interagir réellement avec la plante. (Rires)
+											Ainsi, vous savez, cette plante
+											commencera à dire, « Il fait vraiment chaud », ou
+											il y a beaucoup de, vous savez, « J'ai besoin d'eau là tout de suite. » (Rires)
+											Elle donne donc une personnalité
+											Ou voici quelque chose qui twitte lorsque
+											le bébé à l'intérieur du ventre
+											d'une femme enceinte donne des coups de pied. (Rires)
+											Ou c'est un gamin de 14 ans
+											au Chili, qui a fabriqué un système qui
+											détecte les tremblements de terre et les publie sur Twitter.
+											Il a 280 000 abonnés.
+											Il a 14 ans et il a devancé
+											un projet gouvernemental d'un an. (Applaudissements)
+											Ou encore, un autre projet où,
+											en analysant le flux Twitter
+											d'une famille, vous pouvez en gros
+											dire où ils sont, comme dans le film « Harry Potter ».
+											Vous pouvez trouver tout
+											qui tweete lorsque quelqu'un pète. (Rires)
+											Il est intéressant de voir comment, en 2009,
+											Gizmodo a défini,
+											a déclaré que ce projet en réalité
+											donc beaucoup de choses ont changé depuis. (Rires)
+									",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+","
+","
+",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+											So very serious project.
+											When the Fukushima disaster happened,
+											a bunch of people in Japan, they realized that the information
+											that the government was giving wasn't really open
+											and really reliable, so they built
+											this Geiger counter, plus Arduino, plus network
+											interface. They made 100
+											of them and gave them to people around Japan, and essentially
+											the data that they gathered gets published on this website
+											called Cosm, another website
+											they built, so you can actually get reliable real-time
+											information from the field,
+											and you can get unbiased information.
+											Or this machine here, it's from
+											the DIY bio movement,
+											and it's one of the steps that you need in order to process DNA,
+											and again, it's completely open-source from the ground up.
+											Or you have students in developing countries making
+											replicas of scientific instruments that cost
+											a lot of money to make.
+											Actually they just build them themselves for a lot less
+											using Arduino and a few parts.
+											This is a pH probe.
+											Or you get kids, like these kids, they're from Spain.
+											They learned how to program and to make robots when they
+											were probably, like, 11, and then they started to use Arduino
+											to make these robots that play football. They became
+											world champions by making an Arduino-based robot.
+											And so when we had to make
+											our own educational robot, we just went to them and said,
+											you know, ""You design it, because you know exactly
+											what is needed to make a great robot that excites kids.""
+											Not me. I'm an old guy.
+											What am I supposed to excite, huh? (Laughter)
+											But as I — in terms of educational assets. (Laughter)
+									","
+											Ahora, un proyecto muy serio.
+											Cuando ocurrió el desastre de Fukushima,
+											un grupo de personas en Japón se dieron cuenta de que la información
+											proveniente del gobierno no era en realidad abierta
+											ni muy confiable, así que crearon
+											este contador Geiger, más Arduino, más una interfaz de red.
+											Fabricaron 100 y se los dieron
+											a diversas personas en todo Japón, y, en esencia,
+											recopilaron información que se publicó en un sitio web
+											llamado «Cosm», otro sitio que
+											crearon para poder obtener información confiable
+											en tiempo real directamente del terreno;
+											así se puede obtener información imparcial.
+											Esta máquina que ven aquí proviene
+											del movimiento biológico hazlo tú mismo (DIY bio)
+											y es uno de los pasos que se requieren para procesar ADN.
+											Otra vez, se trata por completo de un código abierto, desde lo más elemental.
+											También hay estudiantes de países en desarrollo que fabrican
+											réplicas de instrumentos científicos
+											costosos.
+											Los construyen ellos mismos, a mucho menor costo,
+											usando Arduino y unas cuantas piezas.
+											Este es un instrumento para medir el pH.
+											O bien, hay adolescentes como estos, provenientes de España.
+											Aprendieron a programar y a fabricar robots
+											cuando tenían unos 11 años y entonces comenzaron a usar Arduino
+											para crear estos robots que juegan fútbol. Se convirtieron
+											en campeones del mundo con un robot basado en Arduino.
+											Así que cuando tuvimos que fabricar
+											nuestro propio robot educativo, solo fuimos y les dijimos:
+											«Diséñenlo ustedes, ya que saben exactamente lo que se necesita
+											para crear un robot fabuloso que entusiasme a los niños».
+											Yo no. Ya estoy muy viejo.
+											¿A quién puedo entusiasmar, no? (Risas)
+											Pero —me refiero en términos de cualidades educativas—. (Risas)
+									","
+											Un projet très sérieux.
+											Lorsque la catastrophe de Fukushima est arrivée,
+											un tas de gens au Japon se sont rendus compte que les informations
+											que le gouvernement donnait
+											vraiment fiables, alors ils ont construit
+											ce compteur Geiger, plus Arduino, plus une interface réseau.
+											Ils en ont fait 100
+											et les ont donnés aux gens
+											les données recueillies sont publiées sur ce site web
+											appelé Cosm, un autre site web
+											qu'ils ont construit, donc vous pouvez réellement
+											en temps réel depuis le terrain,
+											et vous pouvez obtenir des informations impartiales.
+											Ou cette machine ici, fabriquée par
+											le DIY bio movement, le mouvement des bricoleurs bio,
+											et c'est l'une des étapes
+											open source du début à la fin.
+											Ou vous avez des étudiants dans des pays en voie de développement
+											qui fabriquent des répliques d'instruments scientifiques qui sont
+											très cher à fabriquer.
+											En fait ils les construisent
+											Arduino et de quelques pièces.
+											Voici une sonde de pH.
+											comme ces enfants en Espagne.
+											Ils ont appris à programmer et à fabriquer des robots
+											quand ils avaient sans doute 11 ans,
+											pour faire jouer ces robots au football. Ils sont devenus
+											les champions du monde en fabriquant un robot à partir d'Arduino.
+											Et quand nous avons eu à faire
+											notre propre robot éducatif,
+											« Concevez-le, parce que vous savez exactement
+											ce qu'il faut pour faire un robot génial qui plaise aux enfants. »
+											Pas moi. Je suis un vieux.
+											A qui je suis censé plaire, hein ? (Rires)
+											Mais comme j'ai ... en termes de ressources éducatives. (Rires)
+									",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+","
+","
+",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+											There's also companies like Google
+											that are using the technology
+											to create interfaces between
+											mobile phones, tablets and the real world.
+											So the Accessory Development Kit
+											from Google is open-source
+											and based on Arduino, as opposed
+											to the one from Apple which is
+											closed-source, NDA, sign your
+											life to Apple. Here you are.
+											There's a giant maze, and Joey's sitting there, and the
+											maze is moving when you tilt the tablet.
+									","
+											Además, hay compañías como Google
+											que están usando esta tecnología
+											para crear interfaces entre
+											teléfonos celulares, tabletas y el mundo real.
+											Así que el «Accesory Development Kit»
+(kit de desarrollo de accesorios)
+											de Google es de código abierto
+											y basado en Arduino, al contrario del
+											de Apple que es de código cerrado,
+											con acuerdo de confidencialidad,
+											compromete tu vida con Apple. Aquí tienes.
+											Joey está ahí parado en un laberinto gigante
+											que se mueve cuando uno inclina la tableta.
+									","
+											Il y a aussi des sociétés comme Google
+											qui utilisent la technologie
+											pour créer des interfaces entre
+											les téléphones mobiles, les tablettes
+											Le Kit de développement d'accessoires
+											de Google est open source
+											et se base sur l'Arduino, par opposition
+											à celui d'Apple qui est
+											fermé, confidentiel, vous vous engagez
+											pour la vie à Apple. Voilà.
+											Il y a un labyrinthe géant, et Joey est assis là
+											et le labyrinthe se déplace lorsque vous inclinez la tablette.
+									",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+","
+","
+",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+											Also, I come from Italy, and the design is important
+											in Italy, and yet very conservative.
+											So we worked with a design
+											studio called Habits, in Milan,
+											to make this mirror, which is completely open-source.
+											This doubles also as an iPod speaker.
+											So the idea is that the hardware, the software,
+											the design of the object, the fabrication,
+											everything about this project is open-source
+											and you can make it yourself.
+											So we want other designers to pick this up and learn how
+											to make great devices, to learn
+											how to make interactive products
+											by starting from something real.
+									","
+											Vengo de Italia, donde el diseño es importante
+											pero, sin embargo, muy conservador.
+											Así que trabajamos con un estudio
+											de diseño llamado «Habits», en Milán,
+											para hacer este espejo que es completamente de código abierto.
+											También hace las veces de parlante para iPod.
+											Así que la idea es que los componentes físicos, los programas,
+											el diseño de un objeto, su fabricación, todo lo relativo
+											a este proyecto sea de código abierto
+											y que lo pueda hacer Ud. mismo.
+											Queremos que otros diseñadores lo tomen y aprendan
+											a fabricar aparatos magníficos,
+											a crear productos interactivos
+											empezando desde algo real.
+									","
+											Aussi, je viens d'Italie,
+											en Italie et pourtant très conservateur.
+											Nous avons travaillé avec un studio de design
+											appelé Habits, à Milan,
+											pour faire ce miroir, qui est
+											Il sert aussi de haut-parleur
+											L'idée est que
+											la conception de l'objet,
+											dans ce projet est open source
+											et vous pouvez le faire vous-même.
+											Si nous voulons que les autres concepteurs
+											fabriquer des appareils géniaux, apprennent
+											à faire des produits interactifs
+											en partant de quelque chose de réel.
+									",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+","
+","
+",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+											But when you have this idea,
+											you know, what happens to all these ideas?
+											There's, like, thousands of ideas that I —
+											You know, it would take seven hours for me to do
+											all the presentations.
+											I will not take all the seven hours. Thank you.
+											But let's start from this example:
+											So, the group of people
+											that started this company called Pebble, they prototyped
+											a watch that communicates via Bluetooth with your phone,
+											and you can display information
+											on it. And they prototyped with
+											an old LCD screen from a Nokia
+											mobile phone and an Arduino.
+											And then, when they had a final
+											project, they actually went to Kickstarter
+											and they were asking for 100,000 dollars to make
+											a few of them to sell.
+											They got 10 million dollars.
+											They got a completely
+											fully funded start-up, and they don't have to,
+											you know, get VCs involved or anything,
+											just excite the people with their great project.
+									","
+											Cuando se le ocurre una idea…
+											¿sabe lo que pasa con todas estas ideas?
+											Hay algo así como miles de ideas que…
+											Me tomaría unas 7 horas
+											presentárselas todas.
+											No me tomaré las 7 horas. Gracias.
+											Comencemos con este ejemplo:
+											un grupo de personas crearon
+											una compañía llamada «Pebble», desarrollaron
+											el prototipo de un reloj de pulsera que se comunica vía Bluetooth con su teléfono
+											y puede mostrar información.
+											Lo crearon con una pantalla LCD vieja
+											de un teléfono celular Nokia
+											y un Arduino.
+											Y luego, cuando tuvieron listo
+											el proyecto final, fueron al sitio web «Kickstarter» y pidieron
+											100 000 dólares para fabricar
+											unos cuantos y venderlos.
+											Obtuvieron 10 millones de dólares.
+											Lograron iniciar la empresa
+											completamente financiados, sin necesidad de involucrar
+											capitales de riesgo ni nada,
+											solo por entusiasmar a la gente con su gran proyecto.
+									","
+											Mais quand on a cette idée,
+											vous savez, qu'arrive-t-il à toutes ces idées ?
+											Il y a des milliers d'idées que je ...
+											Vous savez, il faudrait sept heures pour que je fasse
+											toutes les présentations.
+											Je ne vais pas prendre sept heures. Merci.
+											Mais commençons par cet exemple :
+											Le groupe de personnes
+											qui ont fondé cette société appelée Pebble a fait
+											un prototype de montre qui communique par Bluetooth avec votre téléphone
+											et vous pouvez afficher des informations
+											dessus. Et ils ont fait le prototype
+											avec un vieil écran LCD d'un téléphone mobile
+											Nokia et un Arduino.
+											Et puis, quand ils ont eu
+											le projet final, ils sont allés chez Kickstarter
+											et ils ont demandé 100 000 dollars pour en fabriquer
+											quelques-uns à vendre.
+											Ils ont eu 10 millions de dollars.
+											Ils ont obtenu une société complètement
+											entièrement financée
+											d'impliquer des capitaux-risque,
+											seulement d'enthousiasmer les gens
+									",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+","
+","
+",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+											The last project I want to show you is this:
+											It's called ArduSat. It's currently on Kickstarter,
+											so if you want to contribute, please do it.
+											It's a satellite that goes into space, which is probably
+											the least open-source thing you can imagine,
+											and it contains an Arduino
+											connected to a bunch of sensors. So if you know how to use Arduino,
+											you can actually upload your experiments
+											into this satellite and run them.
+											So imagine, if you as a high school can have the satellite
+											for a week and do satellite
+											space experiments like that.
+									","
+											Este es el último proyecto que quiero mostrarles:
+											Se llama «Ardusat». Se encuentra ahora en «Kickstarter»,
+											así que si desean contribuir, por favor háganlo.
+											Es un satélite que va al espacio, lo que probablemente
+											sea el objeto con menos código abierto que se puedan imaginar,
+											y contiene un Arduino conectado
+											a muchos sensores. Así que si saben usar Arduino,
+											entonces pueden cargar sus experimentos
+											a este satélite y hacerlos funcionar.
+											Imagínense que un alumno de secundaria
+											pueda tener el satélite por una semana
+											y hacer experimentos espaciales así simplemente.
+									","
+											Le dernier projet que je veux vous montrer, c'est ça :
+											Il est actuellement sur Kickstarter,
+											donc, si vous souhaitez contribuer,
+											C'est un satellite qui va
+											la chose la moins libre qu'on puisse imaginer,
+											et il contient un Arduino
+											connecté à un tas de capteurs. Donc, si vous savez comment utiliser Arduino,
+											vous pouvez télécharger en fait vos expériences
+											sur ce satellite et les faire tourner.
+											Imaginez donc, si votre lycée pouvait avoir le satellite
+											pendant une semaine et faire des expériences
+											spatiales sur un satellite comme ça.
+									",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+","
+","
+",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+											So, as I said, there's
+											lots of examples, and I'm going to stop here. And I just
+											want to thank the Arduino community
+											for being the best, and just
+											every day making lots of projects.
+											Thank you. (Applause)
+									","
+											Como he dicho, hay muchos ejemplos,
+											pero me voy a detener aquí. Solo quiero
+											agradecer a la comunidad Arduino
+											por ser la mejor, que simplemente
+											crea tantos proyectos todos los días.
+											Gracias. (Aplausos)
+									","
+											Il y a donc, comme je l'ai dit,
+											plein d'exemples, et je vais arrêter là. Et je tiens juste
+											à remercier la communauté Arduino
+											d'être la meilleure et de faire
+											chaque jour beaucoup de projets.
+											Merci. (Applaudissements)
+									",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+","
+","
+",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+											(Applause)
+									","
+											(Aplausos)
+									","
+											(Applaudissements)
+									",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+","
+","
+",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+											And thanks to the community.
+									","
+											Y gracias a la comunidad.
+									","
+											Et merci à la communauté.
+									",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+","
+","
+",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+											Chris Anderson: Massimo,
+											you told me earlier today that you had no idea, of course,
+											that it would take off like this.
+									","
+											Chris Anderson: Massimo,
+											hoy me dijiste que no tenías ni idea, claro,
+											del éxito que iba a tener el proyecto.
+									","
+											Chris Anderson : Massimo,
+											vous m'avez dit plus tôt aujourd'hui que vous n'aviez aucune idée, bien sûr,
+											que ça décollerait comme ça.
+									",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+","
+","
+",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+											MB: No.
+									","
+											MB: No.
+									","
+											MB : No.
+									",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+","
+","
+",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+											CA: I mean, how must you feel when you read this stuff and you
+											see what you've unlocked?
+									","
+											CA: Quiero decir, ¿cómo te sientes cuando lees todo esto
+											y te das cuenta de todo lo que has desencadenado?
+									","
+											CA : Je veux dire, comment devez-vous vous sentir quand vous lisez ça et
+											vous voyez ce que vous avez déclenché ?
+									",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+","
+","
+",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+											MB: Well, it's the work of a lot of people, so we as a community
+											are enabling people to make
+											great stuff, and I just feel overwhelmed.
+											It's just, it's difficult to describe this.
+											Every morning, I wake up and I look at all the stuff that
+											Google Alerts sends me, and it's
+											just amazing. It's just
+											going into every field that you can imagine.
+									","
+											MB: Bueno, es la labor de mucha gente, así que nosotros
+											como comunidad estamos permitiendo a la gente
+											crear cosas magníficas y estoy maravillado.
+											Es solo… es difícil de describir.
+											Cada mañana me despierto y veo todo
+											lo que las alertas de Google me envían
+											y es asombroso.
+											Se expande a toda esfera imaginable.
+									","
+											MB : Eh bien, c'est le travail de beaucoup de gens, donc nous en tant que communauté
+											permettons aux gens de fabriquer
+											des trucs géniaux et je suis ébloui.
+											de décrire ça.
+											Chaque matin, je me réveille et je regarde toutes les choses
+											que Google Alerts m'envoie moi et
+											c'est tout simplement incroyable. Ça
+											entre dans tous les domaines qu'on peut imaginer.
+									",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+","
+","
+",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+											CA: Thank you so much. (Applause)
+									","
+											CA: Muchas gracias. (Aplausos)
+									","
+											CA : Merci beaucoup. (Applaudissements)
+									",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+","
+","
+",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+											(Applause)
+									","
+											(Aplausos)
+									","
+											(Applaudissements)
+									",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"
+"
+","
+","
+",How Arduino is open-sourcing imagination,Massimo Banzi,15:46,"creativity,drones,open-source,robots,technology,code,education"

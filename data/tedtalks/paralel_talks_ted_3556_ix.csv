@@ -1,0 +1,520 @@
+en,fr,tr,title,speaker,duration,tags
+"
+","
+","
+","How do self-driving cars ""see""?",Sajan Saini,5:04,"TED-Ed,technology,animation,driverless cars,innovation,cars,invention,future,AI,machine learning"
+"
+											It’s late, pitch dark, and a self-driving 
+car winds down a narrow country road.
+											Suddenly, three hazards appear 
+at the same time.
+									","
+											Il est tard, il fait nuit noire
+											et une voiture autonome
+roule sur une étroite route de campagne.
+											Soudainement, trois dangers
+apparaissent au même moment.
+									","
+											Geç vakitte, zifiri karanlıkta, sürücüsüz 
+bir araç dar taşra yolunda yavaşlıyor.
+											Aniden, üç tehlike 
+aynı anda ortaya çıkıyor.
+									","How do self-driving cars ""see""?",Sajan Saini,5:04,"TED-Ed,technology,animation,driverless cars,innovation,cars,invention,future,AI,machine learning"
+"
+","
+","
+","How do self-driving cars ""see""?",Sajan Saini,5:04,"TED-Ed,technology,animation,driverless cars,innovation,cars,invention,future,AI,machine learning"
+"
+											What happens next?
+									","
+											Qu'arrive-t-il ensuite ?
+									","
+											Şimdi ne olacak?
+									","How do self-driving cars ""see""?",Sajan Saini,5:04,"TED-Ed,technology,animation,driverless cars,innovation,cars,invention,future,AI,machine learning"
+"
+","
+","
+","How do self-driving cars ""see""?",Sajan Saini,5:04,"TED-Ed,technology,animation,driverless cars,innovation,cars,invention,future,AI,machine learning"
+"
+											Before it can navigate this 
+onslaught of obstacles,
+											the car has to detect them—
+											gleaning enough information about 
+their size, shape, and position,
+											so that its control algorithms 
+can plot the safest course.
+											With no human at the wheel,
+											the car needs smart eyes, sensors 
+that’ll resolve these details—
+											no matter the environment, 
+weather, or how dark it is—
+											all in a split-second.
+									","
+											Avant de se frayer un chemin
+à travers cet amas d'obstacles,
+											la voiture doit les détecter
+											et obtenir assez d'informations sur
+leur taille, leur forme et leur position
+											afin que ses algorithmes puissent
+choisir la trajectoire la plus prudente.
+											Sans humain devant le volant,
+											la voiture a besoin d'yeux intelligents,
+des capteurs qui décèlent les détails
+											quel que soit l'environnement,
+la météo ou la luminosité,
+											tout cela en une fraction de seconde.
+									","
+											Engellerin saldırısını yönlendirmeden önce
+											araba onları tespit etmeli.
+											Boyutları, şekilleri ve konumlarıyla 
+ilgili yeterli bilgi toplamalı
+											böylece kontrol algoritmaları
+en güvenli rotayı belirleyebilir.
+											Direksiyonda sürücü yokken
+											bu detayları çözmek için araba sensör 
+ve akıllı gözlere ihtiyaç duyar.
+											Çevre, hava ya da ne kadar karanlık 
+olduğu fark etmeksizin
+											hepsi anında.
+									","How do self-driving cars ""see""?",Sajan Saini,5:04,"TED-Ed,technology,animation,driverless cars,innovation,cars,invention,future,AI,machine learning"
+"
+","
+","
+","How do self-driving cars ""see""?",Sajan Saini,5:04,"TED-Ed,technology,animation,driverless cars,innovation,cars,invention,future,AI,machine learning"
+"
+											That’s a tall order, but there’s a 
+solution that partners two things:
+											a special kind of laser-based probe 
+called LIDAR,
+											and a miniature version of 
+the communications technology
+											that keeps the internet humming,
+called integrated photonics.
+									","
+											C'est un défi de taille mais il existe
+une solution qui associe deux choses :
+											un type spécial de sonde
+basée sur un laser, appelée lidar,
+											et une version miniature
+de la technologie de communication
+											qui maintient Internet en marche,
+appelée l'optique intégrée.
+									","
+											Bu uzun bir sıralama ama iki şeyi 
+birleştiren bir çözümü var:
+											LIDAR adında lazer temelli 
+özel bir tür algılayıcı,
+											bir de bilişim ve iletişim teknolojisinin 
+minyatür bir versiyonu,
+											internette de çok konuşulan 
+entegre fotonik.
+									","How do self-driving cars ""see""?",Sajan Saini,5:04,"TED-Ed,technology,animation,driverless cars,innovation,cars,invention,future,AI,machine learning"
+"
+","
+","
+","How do self-driving cars ""see""?",Sajan Saini,5:04,"TED-Ed,technology,animation,driverless cars,innovation,cars,invention,future,AI,machine learning"
+"
+											To understand LIDAR, it helps to start 
+with a related technology— radar.
+											In aviation,
+											radar antennas launch pulses 
+of radio or microwaves at planes
+											to learn their locations by timing 
+how long the beams take to bounce back.
+											That’s a limited way of seeing, though,
+											because the large beam-size 
+can’t visualize fine details.
+											In contrast, a self-driving car’s 
+LIDAR system,
+											which stands for Light Detection 
+and Ranging,
+											uses a narrow invisible infrared laser.
+											It can image features as small as the 
+button on a pedestrian’s shirt
+											across the street.
+											But how do we determine the shape, 
+or depth, of these features?
+									","
+											Pour comprendre le lidar, on peut débuter
+avec une technologie similaire, le radar.
+											Dans l'aviation,
+											les antennes radar lancent des pulsations
+d'ondes radio ou de micro-ondes aux avions
+											pour déterminer leur position
+											en chronométrant le temps
+qu'elles mettent à revenir.
+											C'est néanmoins
+une manière limitée de voir
+											car les ondes de grande amplitude
+ne peuvent pas capter de petits détails.
+											En revanche, le système lidar
+d'une voiture autonome,
+											qui vient de l'anglais
+« light detection and ranging »,
+											utilise un laser infrarouge
+fin et invisible.
+											Il peut capturer des détails aussi petits
+qu'un bouton de la chemise d'un piéton
+											de l'autre côté de la rue.
+											Mais comment détermine-t-on la forme
+ou le relief de ces objets ?
+									","
+											LIDAR'ı anlamak için benzer bir teknoloji
+olan radarla başlamak yardımcı olabilir.
+											Havacılıkta,
+											radar antenleri uçaklara radyo 
+ya da mikrodalga atımları göndererek
+											ışınların geri dönme sürelerinden
+yerlerini öğrenmeye çalışır.
+											Fakat bu kısıtlı bir görüştür
+											çünkü geniş ışın boyutları
+detayları görselleştiremez.
+											Açılımı, Işık Tespiti 
+ve Uzaklık Tayini olan
+											sürücüsüz bir arabanın LIDAR sistemi,
+											aksine görünmeyen dar bir
+kızılötesi lazer kullanıyor.
+											Caddenin karşısındaki bir yayanın 
+gömleğinin düğmesi gibi
+											küçük özellikleri görüntüleyebilir.
+											Peki bu özelliklerin derinlik 
+ve şekillerini nasıl belirleriz?
+									","How do self-driving cars ""see""?",Sajan Saini,5:04,"TED-Ed,technology,animation,driverless cars,innovation,cars,invention,future,AI,machine learning"
+"
+","
+","
+","How do self-driving cars ""see""?",Sajan Saini,5:04,"TED-Ed,technology,animation,driverless cars,innovation,cars,invention,future,AI,machine learning"
+"
+											LIDAR fires a train of super-short laser 
+pulses to give depth resolution.
+											Take the moose on the country road.
+											As the car drives by, one LIDAR pulse 
+scatters off the base of its antlers,
+											while the next may travel to the tip 
+of one antler before bouncing back.
+											Measuring how much longer 
+the second pulse takes to return
+											provides data about the antler’s shape.
+											With a lot of short pulses, a LIDAR system
+quickly renders a detailed profile.
+									","
+											Le lidar envoie une série de pulsations
+très rapides pour la résolution du relief.
+											Prenons un élan sur la route de campagne.
+											Tout en roulant, une pulsation du lidar
+est réfléchie sur le bas de ses bois,
+											alors qu'une autre peut toucher
+le bout d'un bois avant de revenir.
+											Chronométrer combien de temps en plus
+la seconde pulsation prend pour revenir
+											informe à propos de la forme des bois.
+											Avec beaucoup de courtes pulsations,
+un lidar dessine vite un profil détaillé.
+									","
+											LIDAR, derinlik çözümleri vermek için 
+çok kısa lazer atımları gönderiyor.
+											Taşra yolundaki geyiği ele alalım.
+											Araba yanından geçerken bir LIDAR atımı,
+diğeri geri dönmeden önce
+											öteki boynuz ucuna ulaşırken
+boynuzların kökünden yayılıyor.
+											İkinci atımın geri dönmesinin 
+ne kadar sürdüğünü ölçüp
+											boynuzun şekli hakkında bilgi veriyor.
+											Bir sürü kısa atımla LIDAR sistemi
+hızlıca detaylı bir profil çıkarıyor.
+									","How do self-driving cars ""see""?",Sajan Saini,5:04,"TED-Ed,technology,animation,driverless cars,innovation,cars,invention,future,AI,machine learning"
+"
+","
+","
+","How do self-driving cars ""see""?",Sajan Saini,5:04,"TED-Ed,technology,animation,driverless cars,innovation,cars,invention,future,AI,machine learning"
+"
+											The most obvious way to create a pulse 
+of light is to switch a laser on and off.
+											But this makes a laser unstable and 
+affects the precise timing of its pulses,
+											which limits depth resolution.
+											Better to leave it on,
+											and use something else to periodically 
+block the light reliably and rapidly.
+									","
+											La manière la plus évidente
+de créer une pulsation lumineuse
+											est d'allumer et d'éteindre un laser.
+											Mais cela rend le laser instable et nuit
+à la précision des périodes de pulsation,
+											ce qui limite la résolution des détails.
+											Il vaut mieux le laisser allumé
+et utiliser autre chose
+											pour bloquer la lumière périodiquement
+de manière fiable et rapide.
+									","
+											Bir ışık atımı oluşturmanın 
+en bariz yolu lazeri açıp kapatmaktır.
+											Fakat bu lazeri dengesizleştiriyor 
+ve derinlik çözümlemesini kısıtlayan,
+											atımın belirli 
+zamanlamasını etkiliyor.
+											Açık bırakıp periyodik olarak ışığı 
+hızlıca ve güvenlice engelleyecek
+											bir şey kullanmak daha iyi bir seçenek.
+									","How do self-driving cars ""see""?",Sajan Saini,5:04,"TED-Ed,technology,animation,driverless cars,innovation,cars,invention,future,AI,machine learning"
+"
+","
+","
+","How do self-driving cars ""see""?",Sajan Saini,5:04,"TED-Ed,technology,animation,driverless cars,innovation,cars,invention,future,AI,machine learning"
+"
+											That’s where integrated photonics come in.
+											The digital data of the internet
+											is carried by precision-timed 
+pulses of light,
+											some as short as a hundred picoseconds.
+											One way to create these pulses is 
+with a Mach-Zehnder modulator.
+											This device takes advantage of a 
+particular wave property,
+											called interference.
+											Imagine dropping pebbles into a pond:
+											as the ripples spread and overlap, 
+a pattern forms.
+											In some places, wave peaks add 
+up to become very large;
+											in other places, they completely 
+cancel out.
+											The Mach-Zehnder modulator 
+does something similar.
+											It splits waves of light along two 
+parallel arms and eventually rejoins them.
+											If the light is slowed down and 
+delayed in one arm,
+											the waves recombine out of sync and 
+cancel, blocking the light.
+											By toggling this delay in one arm,
+											the modulator acts like an on/off switch, 
+emitting pulses of light.
+											A light pulse lasting a hundred 
+picoseconds
+											leads to a depth resolution of a 
+few centimeters,
+											but tomorrow’s cars will need 
+to see better than that.
+											By pairing the modulator with a super-
+sensitive, fast-acting light detector,
+											the resolution can be refined 
+to a millimeter.
+											That’s more than a hundred times better 
+
+											than what we can make out with 
+20/20 vision, from across a street.
+									","
+											C'est là que l'optique
+intégrée intervient.
+											Les données digitales d'Internet
+											sont transmises par des pulsations
+lumineuses très précises,
+											certaines ne durant que cent picosecondes.
+											Une façon de créer ces pulsations utilise
+un interféromètre de Mach-Zehnder.
+											Cet appareil tire parti
+d'une propriété particulière des ondes,
+											appelée l'interférence.
+											Imaginez deux galets jetés dans un étang :
+											en se diffusant et en se chevauchant,
+les ondulations forment un motif.
+											A certains endroits, les vagues
+s'additionnent et sont plus hautes ;
+											à d'autres endroits,
+elles s'annulent complètement.
+											L'interféromètre de Mach-Zehnder
+fait quelque chose de similaire.
+											Il sépare une onde lumineuse
+le long de deux bras parallèles
+											et les rejoint ensuite.
+											Si la lumière est ralentie
+et retardée dans un bras,
+											les ondes se recombinent
+de manière désynchronisée
+											et s'annulent, ce qui bloque la lumière.
+											En maîtrisant ce retard dans un bras,
+											l'interféromètre fonctionne
+comme un interrupteur
+											qui émet des pulsations lumineuses.
+											Une pulsation de lumière
+qui dure cent picosecondes
+											mène à une résolution du relief
+de quelques centimètres.
+											Mais les voitures de demain
+auront besoin de voir mieux que ça.
+											En couplant l'interféromètre
+											avec un capteur de lumière
+à action rapide très sensible,
+											la résolution peut être affinée
+jusqu'à un millimètre.
+											C'est plus de cent fois mieux
+											que ce que l'on peut discerner
+avec une vue de dix dixièmes
+											de l'autre côté de la rue.
+									","
+											İşte burada entegre fotonik 
+devreye giriyor.
+											İnternetin dijital verisi
+											bazıları yüz pikosaniye kadar kısa olan
+											hassas zamanlı 
+ışık atımlarıyla taşınıyor.
+											Bu atımları oluşturmanın bir yolu 
+Mach- Zehnder düzenleyicisi kullanmak.
+											Bu cihaz, parazit olarak adlandırılan
+											belirli bir dalga özelliğinden 
+faydalanıyor.
+											Çakıl taşlarını bir gölete 
+attığınızı düşünün:
+											Dalgalanma yayılıp üst üste bindikçe
+bir örüntü oluşur.
+											Bazı yerlerde, dalga tepe noktaları
+çok fazla büyür;
+											diğer yerlerde ise tamamen sıfırlanırlar.
+											Mazh-Zehnder düzenleyicisi 
+benzer bir şey yapıyor.
+											Işık dalgalarını iki paralel kola bölüyor
+ve sonunda tekrar birleştiriyor.
+											Eğer ışık bir kolda yavaşlar ve gecikirse,
+											dalga senkronizasyonu bozuluyor 
+ve ışığı engelleyerek sıfırlanıyor.
+											Bu gecikmeyi bir kolda değiştirerek
+											düzenleyici bir açma / kapama düğmesi 
+gibi hareket eder ve ışık atımı yayar.
+											Yüz pikosaniye süren bir ışık atımı
+											birkaç santimetrelik bir
+derinlik çözümlemesi sağlıyor
+											ama yarının arabalarının bundan
+daha iyi görmesi gerekiyor.
+											Düzenleyiciye süper-hassas, 
+hızlı-hareketli
+											bir ışık algılayıcı eklenirse 
+çözümleme bir milimetreye çıkarılabilir.
+											Bu, caddenin karşısındaki 20/20 
+görüşüyle yapabileceklerimizden
+											yüz kat daha iyi.
+									","How do self-driving cars ""see""?",Sajan Saini,5:04,"TED-Ed,technology,animation,driverless cars,innovation,cars,invention,future,AI,machine learning"
+"
+","
+","
+","How do self-driving cars ""see""?",Sajan Saini,5:04,"TED-Ed,technology,animation,driverless cars,innovation,cars,invention,future,AI,machine learning"
+"
+											The first generation of automobile LIDAR 
+has relied on complex spinning assemblies
+											that scan from rooftops or hoods.
+											With integrated photonics,
+											modulators and detectors are being shrunk 
+to less than a tenth of a millimeter,
+											and packed into tiny chips that’ll one 
+day fit inside a car’s lights.
+											These chips will also include a clever 
+variation on the modulator
+											to help do away with moving parts 
+and scan at rapid speeds.
+									","
+											La première génération
+de lidars automobiles
+											dépendait de montages rotatifs complexes
+											qui observent les alentours
+depuis les toits ou les capots.
+											Avec l'optique intégrée,
+											les interféromètres
+et les capteurs rétrécissent
+											jusqu'à moins d'un dixième de millimètre
+											et sont contenus dans de minuscules puces
+qui entreront, un jour, dans les phares.
+											Ces puces incluront aussi une version
+plus intelligente de l'interféromètre
+											afin d'aider à en finir
+avec les pièces en mouvement
+											et à scanner lorsqu'on roule très vite.
+									","
+											İlk nesil otomobil LIDAR'ı, tavandan 
+ya da kaportadan itibaren tarayabilen
+											karmaşık dönüş düzeneklerine dayanıyordu.
+											Entegre fotonik ile birlikte,
+											düzenleyiciler ve algılayıcılar onda bir 
+milimetreden daha az bir değere küçülüyor
+											ve bir gün arabanın ışıklarına sığacak 
+küçük çiplere sıkıştırılıyor.
+											Bu çipler ayrıca düzenleyiciye, 
+hareket eden parçalarda
+											ve ani hızlarda taramaya yardım etmek 
+için akıllıca bir değişiklik de içerecek
+									","How do self-driving cars ""see""?",Sajan Saini,5:04,"TED-Ed,technology,animation,driverless cars,innovation,cars,invention,future,AI,machine learning"
+"
+","
+","
+","How do self-driving cars ""see""?",Sajan Saini,5:04,"TED-Ed,technology,animation,driverless cars,innovation,cars,invention,future,AI,machine learning"
+"
+											By slowing the light in a modulator 
+arm only a tiny bit,
+											this additional device will act more 
+like a dimmer than an on/off switch.
+											If an array of many such arms, each with 
+a tiny controlled delay,
+											is stacked in parallel, something novel 
+can be designed:
+											a steerable laser beam.
+									","
+											En ralentissant un petit peu la lumière
+dans le bras d'un interféromètre,
+											ce nouvel appareil agira plus
+comme un variateur qu'un interrupteur.
+											Si une série de bras, chacun
+avec un léger retard contrôlé,
+											est assemblée en parallèle,
+											quelque chose de novateur
+peut être conçu :
+											un rayon laser orientable.
+									","
+											Düzenleyici kolundaki ışığı
+çok az yavaşlatarak,
+											bu ek cihaz açma/kapama düğmesinden 
+ziyade azaltıcı olarak çalışacak.
+											Her biri kontrollü 
+küçük gecikmeli birçok kol
+											paralel olarak sıralanırsa
+yeni bir şey tasarlanabilir;
+											yönlendirilebilir bir lazer ışını.
+									","How do self-driving cars ""see""?",Sajan Saini,5:04,"TED-Ed,technology,animation,driverless cars,innovation,cars,invention,future,AI,machine learning"
+"
+","
+","
+","How do self-driving cars ""see""?",Sajan Saini,5:04,"TED-Ed,technology,animation,driverless cars,innovation,cars,invention,future,AI,machine learning"
+"
+											From their new vantage,
+											these smart eyes will probe and 
+see more thoroughly
+											than anything nature could’ve imagined—
+											and help navigate any number 
+of obstacles.
+											All without anyone breaking a sweat—
+											except for maybe one disoriented moose.
+									","
+											Avec leurs nouvelles technologies,
+											ces yeux intelligents scruteront
+et verront plus minutieusement
+											que tout ce que la nature a pu imaginer
+											et aideront à traverser
+d'innombrables obstacles.
+											Tout cela sans que
+personne ne transpire,
+											peut-être à l'exception
+d'un élan désorienté.
+									","
+											Bu akıllı gözler,
+											yeni görüş açılarından
+doğanın hayal edebileceğinden
+											daha çok inceleyecek, ayrıntılı görecek
+											ve sayısız engeli yönlendirmeye 
+yardımcı olacaklar.
+											Yolunu şaşırmış bir geyik dışında,
+											hiç kimse bir damla ter dökmeden.
+									","How do self-driving cars ""see""?",Sajan Saini,5:04,"TED-Ed,technology,animation,driverless cars,innovation,cars,invention,future,AI,machine learning"
+"
+","
+","
+","How do self-driving cars ""see""?",Sajan Saini,5:04,"TED-Ed,technology,animation,driverless cars,innovation,cars,invention,future,AI,machine learning"

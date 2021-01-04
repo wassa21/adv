@@ -1,0 +1,1965 @@
+en,es,tr,fr,title,speaker,duration,tags
+"
+","
+","
+","
+",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+											Algorithms are everywhere.
+											They sort and separate
+the winners from the losers.
+											The winners get the job
+											or a good credit card offer.
+											The losers don't even get an interview
+											or they pay more for insurance.
+											We're being scored with secret formulas
+that we don't understand
+											that often don't have systems of appeal.
+											That begs the question:
+											What if the algorithms are wrong?
+									","
+											Hay algoritmos por todos lados.
+											Ordenan y separan a los ganadores 
+de los perdedores.
+											Los ganadores consiguen el trabajo
+											o buenas condiciones de crédito.
+											A los perdedores ni siquiera 
+se les invita a una entrevista
+											o tienen que pagar más por el seguro.
+											Se nos califica mediante fórmulas
+secretas que no entendemos
+											y a las que no se puede apelar.
+											Eso plantea una pregunta:
+											¿Qué pasa si los algoritmos se equivocan?
+									","
+											Algoritmalar her yerde.
+											Kazananları kaybedenlerden ayırıyor.
+											Kazananlar ya işi alıyor
+											ya da iyi bir kredi kartı teklifi.
+											Kaybedenler iş görüşmesine bile çağrılmaz
+											veya sigorta primi için
+daha fazla ödeme yaparlar.
+											Doğrulama sistemi olmayan,
+anlamadığımız
+											gizli formülasyonlar ile puanlanıyoruz.
+											Burada şu soru akla geliyor:
+											Peki ya algoritmalar hatalıysa?
+									","
+											Les algorithmes sont partout.
+											Ils trient et séparent
+les vainqueurs des perdants.
+											Les vainqueurs obtiennent le poste
+											ou une bonne offre de carte de crédit.
+											Les perdants n'obtiennent
+même pas un entretien
+											ou paient leur assurance plus cher.
+											On nous classe avec des formules secrètes 
+que nous ne comprenons pas
+											qui n'offrent pas souvent 
+de systèmes de recours.
+											La question se pose donc :
+											et si les algorithmes sont faux ?
+									",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+","
+","
+","
+",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+											To build an algorithm you need two things:
+											you need data, what happened in the past,
+											and a definition of success,
+											the thing you're looking for
+and often hoping for.
+											You train an algorithm
+by looking, figuring out.
+											The algorithm figures out
+what is associated with success.
+											What situation leads to success?
+									","
+											Un algoritmo necesita dos cosas:
+											datos ocurridos en el pasado
+											y una definición del éxito;
+											esto es, lo que uno quiere y lo que desea.
+											Los algoritmos se entrenan
+mirando, descubriendo.
+											El algoritmo calcula a qué
+se asocia el éxito,
+											qué situaciones llevan al éxito.
+									","
+											Algoritma oluşturmak için 2 şey gerekli:
+											Geçmişte ne olduğunu gösteren veri,
+											o her zaman aradığınız
+											ve bulmayı umduğunuz başarı tanımına.
+											Sonuca ulaşmak için 
+algoritma çalıştırırsınız.
+											Algoritma başarı ile nelerin
+bağlantılı olduğunu keşfeder.
+
+
+											Hangi durum başarıya ulaştırır?
+									","
+											Deux choses constituent un algorithme :
+											des données historiques,
+											et une définition du succès,
+											ce que l'on espère trouver.
+											On forme un algorithme 
+en observant, en comprenant,
+											l'algorithme trouve ce que
+l'on associe au succès,
+											la situation qui mène au succès.
+											En fait,
+tout le monde utilise des algorithmes
+									",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+","
+","
+","
+",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+											Actually, everyone uses algorithms.
+											They just don't formalize them
+in written code.
+											Let me give you an example.
+											I use an algorithm every day
+to make a meal for my family.
+											The data I use
+											is the ingredients in my kitchen,
+											the time I have,
+											the ambition I have,
+											and I curate that data.
+											I don't count those little packages
+of ramen noodles as food.
+									","
+											En general todos usamos algoritmos
+											pero no los formalizamos 
+mediante un código escrito.
+											Les doy un ejemplo.
+											Yo uso un algoritmo todos los días
+para preparar la comida en casa.
+											Los datos que uso
+											son los ingredientes de la cocina,
+											el tiempo que tengo
+											y lo ambiciosa que estoy.
+											Y así organizo los datos.
+											No incluyo esos paquetitos
+de fideos como comida.
+									","
+											Aslında herkes algoritma kullanır.
+											Sadece yazılı olarak formüle etmezler.
+											Size bir örnek vereyim.
+											Aileme yemek yapmak için
+her gün algoritma kullanırım.
+											Kullandığım veri
+											mutfağımdaki malzemeler,
+											zaman,
+											tutkudur
+											ve bu verileri düzene koyarım.
+											Bu arada, Japon erişte paketlerini
+yemekten saymıyorum.
+									","
+											sans forcément les formaliser
+en les écrivant.
+											Voici un exemple :
+											chaque jour, en cuisinant
+je me sers d'un algorithme.
+											Les données que j'utilise
+											sont les ingrédients à disposition,
+											le temps dont je dispose,
+											l'ambition que j'ai,
+											et je conserve ces données.
+											Je ne considère pas les paquets
+de ramen comme de la nourriture.
+											(Rires)
+									",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+","
+","
+","
+",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+											(Laughter)
+									","
+											(Risas)
+									","
+											(Kahkahalar)
+									","
+											Ma définition du succès est :
+											un repas est réussi si mes enfants
+mangent des légumes.
+											Si mon fils était aux commandes,
+ce serait différent.
+											Pour lui, le succès serait
+de manger plein de Nutella.
+											Mais c'est moi qui choisis 
+ce qu'est le succès.
+											Je commande. C'est mon avis qui compte.
+											C'est la première règle des algorithmes.
+									",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+","
+","
+","
+",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+											My definition of success is:
+											a meal is successful
+if my kids eat vegetables.
+											It's very different
+from if my youngest son were in charge.
+											He'd say success is if
+he gets to eat lots of Nutella.
+											But I get to choose success.
+											I am in charge. My opinion matters.
+											That's the first rule of algorithms.
+									","
+											Mi definición del éxito es:
+											la comida tiene éxito, 
+si mis hijos comen verdura.
+											Lo que sería muy distinto, 
+si mi hijito tuviera el control.
+											Para él el éxito es comer
+mucha Nutella.
+											Pero yo soy quien elige el éxito.
+											Estoy al mando. Mi opinión cuenta.
+											Esa es la primera regla de los algoritmos.
+									","
+											Başarı tanımım şudur:
+											Çocuklarım sebzeleri yerse
+yemeğim başarılıdır.
+											En küçük oğluma sorulsaydı
+bu tanım farklı olurdu.
+											Onun başarı tanımı 
+çok miktarda Nutella yemek.
+											Ama başarıya ben ulaşmalıyım.
+											Bu iş benim sorumluluğumda.
+Görüşüm önemli.
+											Bu, algoritmaların ilk kuralı.
+									","
+											Les algorithmes sont des opinions
+intégrées dans du code.
+											C'est très différent de ce que 
+les gens pensent des algorithmes.
+											Ils pensent que les algorithmes sont
+objectifs, vrais et scientifiques.
+											C'est une astuce marketing.
+											C'en est une autre
+											de vous intimider avec des algorithmes,
+											de vous faire croire et craindre
+les algorithmes,
+											car vous croyez et craignez 
+les mathématiques.
+											Tout peut mal tourner quand on a
+une foi aveugle dans le Big Data.
+									",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+","
+","
+","
+",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+											Algorithms are opinions embedded in code.
+											It's really different from what you think
+most people think of algorithms.
+											They think algorithms are objective
+and true and scientific.
+											That's a marketing trick.
+											It's also a marketing trick
+											to intimidate you with algorithms,
+											to make you trust and fear algorithms
+											because you trust and fear mathematics.
+											A lot can go wrong when we put
+blind faith in big data.
+									","
+											Los algoritmos son opiniones 
+que se embeben en código.
+											Es muy diferente a cómo la gente 
+se imagina los algoritmos.
+											Se creen que los algoritmos son
+objetivos, verdaderos y científicos.
+											Ese en un truco del marketing.
+											Tambien es un truco del marketing
+											la intimidación con algoritmos,
+											que nos hacer confiar 
+y temer los algoritmos
+											porque confiamos y tememos 
+las matemáticas.
+											Muchas cosas pueden salir mal si
+confiamos a ciegas en datos masivos.
+									","
+											Algoritmalar, 
+kodların içine gömülmüş fikirlerdir.
+											İnsanların algoritmalar hakkındaki
+görüşlerinden farklı bir şey bu.
+											İnsanlar algoritmaların tarafsız, 
+doğru ve bilimsel olduğunu düşünür.
+											Bu bir pazarlama hilesi.
+											Algoritmalara güvenmeniz
+											ve onlardan korkmanız için
+											bir pazarlama hilesidir 
+çünkü matematikten de korkarsınız
+											ama sayılara güvenirsiniz.
+											Büyük veriye körü körüne inanırsak
+çok şey yanlış gidebilir.
+									","
+											Voici Kiri Soares. Elle est directrice 
+d'un lycée à Brooklyn.
+											En 2011, elle m'a dit que ses 
+professeurs étaient classés
+											par un algorithme complexe et secret
+											appelé le « modèle de valeur ajoutée ».
+											Je lui ai dit : « Trouve la formule, 
+montre-la moi,
+											et je vais te l'expliquer. »
+											Elle m'a dit : 
+« J'ai essayé de la trouver,
+											mais le Ministère de l'éducation
+m'a dit que c'était des ""maths""
+											et que je ne comprendrais pas. »
+									",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+","
+","
+","
+",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+											This is Kiri Soares.
+She's a high school principal in Brooklyn.
+											In 2011, she told me
+her teachers were being scored
+											with a complex, secret algorithm
+											called the ""value-added model.""
+											I told her, ""Well, figure out
+what the formula is, show it to me.
+											I'm going to explain it to you.""
+											She said, ""Well, I tried
+to get the formula,
+											but my Department of Education contact
+told me it was math
+											and I wouldn't understand it.""
+									","
+											Esta es Kiri Soares. Es la directora 
+de una escuela de Brooklyn.
+											En 2011 me contó que 
+sus maestros se clasificaban
+											mediante un algoritmo complejo y secreto
+											llamado ""modelo del valor añadido"".
+											Le dije, ""Intente saber 
+cuál es la fórmula, muéstremela.
+											Se la voy a explicar"".
+											Me respondió, 
+""Trate de conseguir la fórmula,
+											pero un conocido del Departamento 
+de Educación me dijo
+											que era matemática y 
+que no la entendería"".
+									","
+											Bu Kiri Soares.
+Brooklyn'de okul müdürü.
+											2011'de öğretmenlerin 
+'katma değer modeli' adında
+											gizli, karışık bir algoritma ile
+											puanlandıklarını söyledi.
+											""Formülasyonu bana göster,
+sana içeriğini açıklayayım"" dedim.
+											Cevap verdi: 
+""Doğrusu formülasyonu almaya çalıştım
+											fakat eğitim birimi bana
+bunun matematiksel olduğunu
+											ve içeriğini anlamayacağımı söyledi"".
+									","
+											Il y a pire.
+											Le New York Post a invoqué la loi
+sur la liberté d'information,
+											a obtenu les noms des enseignants
+ainsi que leur classement,
+											et les ont publiés 
+pour humilier les enseignants.
+											Quand j'ai tenté d'avoir les formules,
+le code source, par les mêmes moyens,
+											on m'a dit que je ne pouvais pas.
+											On me les a refusés.
+											Plus tard, j'ai découvert
+											que personne à New York n'avait
+accès à cette formule.
+											Personne ne la comprenait.
+											Puis quelqu'un de très malin
+s'en est mêlé, Gary Rubinstein.
+											Il a trouvé 665 enseignants
+des données du New York Post
+											qui avaient deux notes.
+											Cela peut arriver s'ils enseignaient
+											les maths en cinquième et en quatrième.
+											Il a décidé d'en faire un graphique.
+											Chaque point représente un enseignant.
+									",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+","
+","
+","
+",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+											It gets worse.
+											The New York Post filed
+a Freedom of Information Act request,
+											got all the teachers' names
+and all their scores
+											and they published them
+as an act of teacher-shaming.
+											When I tried to get the formulas,
+the source code, through the same means,
+											I was told I couldn't.
+											I was denied.
+											I later found out
+											that nobody in New York City
+had access to that formula.
+											No one understood it.
+											Then someone really smart
+got involved, Gary Rubinstein.
+											He found 665 teachers
+from that New York Post data
+											that actually had two scores.
+											That could happen if they were teaching
+											seventh grade math and eighth grade math.
+											He decided to plot them.
+											Each dot represents a teacher.
+									","
+											Esto se pone peor.
+											El New York Post la solicitó bajo la 
+Ley de Libertad a la Información.
+											Obtuvo los nombres de los maestros
+y su puntuación
+											y los publicó como un acto para
+avergonzar a los maestros.
+											Cuando intenté conseguir las fórmulas en 
+código base, usando el mismo mecanismo,
+											me dijeron que no se podía.
+											Me lo negaron.
+											Más tarde descubrí
+											que nadie tenía derecho 
+a la fórmula en Nueva York.
+											Nadie lo podía entender.
+											Entonces apareció un tipo muy 
+inteligente, Gary Rubenstein.
+											Localizó a 665 maestros por
+los datos del New York Post
+											que tenían dos puntuaciones.
+											Eso podía ocurrir si enseñaban
+											matemática en 7º y 8º grado.
+											Decidió hacer un gráfico.
+											Donde cada punto representa 
+a un maestro.
+									","
+											Daha kötüye gidiyor.
+											The New York Post, 
+""Bilgiye Özgürlük Hareketi"" kapsamındaki
+											talebi sonucu öğretmenlerin 
+isim ve puanlarını temin edip
+											adeta öğretmen ayıplama
+eylemi olarak sonuçları yayımladı.
+											Aynı yollarla formül ve kaynak kodunu
+almaya çalıştığımda
+											bunu alamayacağım söylendi.
+Talebim reddedildi.
+											Sonra New York'ta hiç kimsenin
+											bu formüle erişimi olmadığını öğrendim.
+											Kimse içeriğini bilmiyor, anlamıyor.
+											Sonra Gary Rubinstein adında 
+zeki biri olaya dâhil oldu.
+											Rubinstein, New York Post verisindeki
+665 öğretmenin aslında iki tane
+											yani mükerrer puanı olduğunu keşfetti.
+											Bu ancak, öğretmenler 
+7 ve 8'inci sınıflara
+											ders veriyor olsaydı oluşabilirdi.
+											Rubinstein, sonuçların grafiğini çizdi.
+											Her nokta bir öğretmeni temsil ediyor.
+									","
+											(Rires)
+									",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+","
+","
+","
+",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+											(Laughter)
+									","
+											(Risas)
+									","
+											(Kahkahalar)
+									","
+											Qu'est-ce que c'est ?
+									",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+","
+","
+","
+",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+											What is that?
+									","
+											Y eso ¿qué es?
+									","
+											Nedir bu?
+									","
+											(Rires)
+									",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+","
+","
+","
+",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+											(Laughter)
+									","
+											(Risas)
+									","
+											(Kahkahalar)
+									","
+											Ça n'aurait jamais dû être utilisé
+pour des évaluations individuelles.
+											On dirait presque un générateur aléatoire.
+									",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+","
+","
+","
+",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+											That should never have been used
+for individual assessment.
+											It's almost a random number generator.
+									","
+											Eso no debiera haberse usado nunca
+para evaluar a una persona.
+											Es casi un generador de números al azar.
+									","
+											Bu asla kişileri değerlendirmek için
+kullanılmamalıydı.
+											Tıpkı rasgele bir sayı üreticisi gibi.
+									","
+											(Applaudissements)
+									",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+","
+","
+","
+",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+											(Applause)
+									","
+											(Aplausos)
+									","
+											(Alkışlar)
+									","
+											Mais ça l'a été.
+											Voici Sarah Wysocki.
+											Elle a été virée
+avec 205 autres enseignants
+											du secteur scolaire de Washington,
+											malgré les excellentes
+recommandations de son directeur
+											et des parents de ses élèves.
+									",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+","
+","
+","
+",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+											But it was.
+											This is Sarah Wysocki.
+											She got fired, along
+with 205 other teachers,
+											from the Washington, DC school district,
+											even though she had great
+recommendations from her principal
+											and the parents of her kids.
+									","
+											Pero lo fue.
+											Esta es Sarah Wysocki.
+											La echaron junto a otros 205 maestros
+											de una escuela en Washington DC,
+											a pesar de tener muy buena recomendación 
+de la directora
+											y de los padres de sus alumnos.
+									","
+											Ama kullanıldı.
+											Bu Sarah Wysocki.
+											Diğer 205 öğretmen ile birlikte
+											Washington'ta görevine son verildi.
+											Oysa okul müdürü ve veliler
+											kendisinden çok memnundu.
+									","
+											Je sais ce que bon nombre
+d'entre vous pensent,
+											surtout les scientifiques de données,
+											vous vous dites que vous ne feriez jamais
+un algorithme aussi incohérent.
+											Mais les algorithmes peuvent mal tourner,
+											voire avoir des effets destructeurs
+avec de bonnes intentions.
+											Alors que quand un avion
+mal conçu s'écrase,
+											tout le monde le voit,
+											un algorithme mal conçu, lui,
+											peut continuer longtemps 
+à faire des ravages en silence.
+									",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+","
+","
+","
+",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+											I know what a lot
+of you guys are thinking,
+											especially the data scientists,
+the AI experts here.
+											You're thinking, ""Well, I would never make
+an algorithm that inconsistent.""
+											But algorithms can go wrong,
+											even have deeply destructive effects
+with good intentions.
+											And whereas an airplane
+that's designed badly
+											crashes to the earth and everyone sees it,
+											an algorithm designed badly
+											can go on for a long time,
+silently wreaking havoc.
+									","
+											Me imagino lo que estarán pensando,
+											especialmente los cientificos de 
+datos, los expertos en IA
+											Pensarán ""Nosotros nunca produciríamos
+un algoritmo tan inconsistente.""
+											Pero los algoritmos a veces fallan,
+
+											y tambien provocar mucha destrucción
+sin querer.
+											Y mientras un avión mal diseñado
+											se estrella y todos lo ven,
+											un algoritmo mal diseñado
+											puede funcionar mucho tiempo
+provocando un desastre silenciosamente.
+									","
+											Burada başta yapay zeka uzmanları
+											ve veri bilimciler olmak üzere
+ne düşündüğünüzü biliyorum.
+											Muhtemelen ""Böyle tutarsız bir
+algoritma oluşturmazdım"" diyorsunuz.
+											Oysa algoritmalar hatalı kurulabilir
+											ve kötü niyetle oluşturulmasalar da
+yıkıcı sonuçları olabilir.
+											Kötü tasarlanmış bir uçak
+											kaza yapar ve herkes hatayı görür,
+											oysa algoritma kötü tasarlandığında
+											zarar vermeye sessizce,
+uzun süre devam edebilir.
+									","
+											Voici Roger Ailes.
+									",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+","
+","
+","
+",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+											This is Roger Ailes.
+									","
+											Este es Roger Ailes.
+									","
+											Bu Roger Ailes.
+									","
+											(Rires)
+									",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+","
+","
+","
+",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+											(Laughter)
+									","
+											(Risas)
+									","
+											(Kahkahalar)
+									","
+											Il a fondé Fox News en 1996.
+											Plus de 20 femmes se sont plaintes
+de harcèlement sexuel,
+											elles ont dit ne pas avoir eu le droit
+de réussir chez Fox News.
+											Il a été viré l'an dernier,
+mais on a vu récemment
+											que ces problèmes persistent.
+											On peut se demander :
+											que devrait faire Fox News
+pour tourner la page ?
+									",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+","
+","
+","
+",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+											He founded Fox News in 1996.
+											More than 20 women complained
+about sexual harassment.
+											They said they weren't allowed
+to succeed at Fox News.
+											He was ousted last year,
+but we've seen recently
+											that the problems have persisted.
+											That begs the question:
+											What should Fox News do
+to turn over another leaf?
+									","
+											Fundador de Fox News en el 1996.
+											Mas de 20 mujeres se quejaron de
+acoso sexual.
+											Dijeron que no pudieron 
+tener éxito en Fox News.
+											Lo echaron el año pasado,
+pero hemos visto que hace poco
+											los problemas han continuado.
+											Esto plantea una pregunta:
+											¿Qué debe hacer Fox News para cambiar?
+									","
+											Fox News kanalını 1996'da kurdu.
+											Kanalda 20'den fazla kadın 
+taciz iddiasıyla şikayetçi oldu.
+											Haber kanalında başarıya ulaşmalarının
+engellendiğini söylediler.
+											Görevi geçen sene sonlandırıldı
+											ama problemlerin devam ettiğini öğrendik.
+											Bu, şu soruyu akla getiriyor:
+											Fox News, temiz bir sayfa açmak
+için ne yapmalı?
+									","
+											Et s'ils remplaçaient leur procédure
+de recrutement
+											par un algorithme ?
+											Ça a l'air bien, non ?
+											Pensez-y.
+											Les données,
+quelles seraient les données ?
+											Un choix raisonnable serait les
+candidatures des 21 dernières années.
+											Raisonnable.
+											Et la définition du succès ?
+											Le choix raisonnable serait,
+											mais qui a du succès chez Fox News ?
+											À mon avis, quelqu'un qui y est resté
+au moins quatre ans,
+											qui a été promu au moins une fois.
+											Ça m'a l'air raisonnable.
+											Et puis l'algorithme serait mis au point.
+											Mis au point pour sonder les gens,
+apprendre ce qui les a conduits au succès,
+											quels types de candidatures ont
+historiquement mené au succès
+											par cette définition.
+											Pensez à ce qu'il pourrait se passer
+											si on appliquait cela
+à un groupe actuel de candidats.
+											Le filtrage éliminerait les femmes
+											car elles ne ressemblent pas aux gens
+qui ont eu du succès dans le passé.
+									",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+","
+","
+","
+",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+											Well, what if they replaced
+their hiring process
+											with a machine-learning algorithm?
+											That sounds good, right?
+											Think about it.
+											The data, what would the data be?
+											A reasonable choice would be the last
+21 years of applications to Fox News.
+											Reasonable.
+											What about the definition of success?
+											Reasonable choice would be,
+											well, who is successful at Fox News?
+											I guess someone who, say,
+stayed there for four years
+											and was promoted at least once.
+											Sounds reasonable.
+											And then the algorithm would be trained.
+											It would be trained to look for people
+to learn what led to success,
+											what kind of applications
+historically led to success
+											by that definition.
+											Now think about what would happen
+											if we applied that
+to a current pool of applicants.
+											It would filter out women
+											because they do not look like people
+who were successful in the past.
+									","
+											Y si substituyeran su mecanismo
+de contratación
+											con un algoritmo de auto-
+aprendizaje automatizado?
+											¿Suena bien?
+											Piénsenlo,
+											Los datos, ¿qué datos serían?
+											Una eleccion razonable serian las últimas
+21 solicitudes recibidas por Fox News
+											Razonable.
+											Y ¿cuál sería la definición del éxito?
+											Algo razonable sería
+											preguntar, quién es exitoso en Fox News.
+											Me imagino que alguien que
+hubiera estado alli unos 4 años
+											y subido de puesto por lo menosuna vez.
+											¿Suena razonable?
+											Y así se adiestraría el algoritmo.
+											Se adiestraría para buscar a gente 
+que logra el éxito.
+											Y qué solicitudes antiguas 
+llegaron al éxito
+											según esa definición.
+											Ahora piensen que ocurriría
+											si lo usáramos con los candidatos de hoy.
+											Filtraría a las mujeres
+											ya que no parecen ser personas que
+hayan tenido éxito en el pasado.
+									","
+											İşe alım süreçlerini 
+makine öğrenmesine dayalı
+											bir algoritma ile değiştirseler ne olur?
+											Kulağa iyi geliyor, değil mi?
+											Bir düşünün.
+											Veri ne olurdu?
+											Son 21 yılda kanala yapılan
+iş başvuruları veri seçimi için
+											mantıklı olur.
+											Peki ya buradaki 'başarının tanımı' nedir?
+											Makul bir karar şöyle olurdu;
+											Fox News'da kim başarılı?
+											Diyelim ki 4 sene orada kalmış,
+											en az 1 kez terfi almış kişiler.
+											Kulağa mantıklı geliyor.
+											Sonra algoritma oluşturulurdu.
+											Kimlerin başarıya ulaştığını öğrenmek,
+											geçmişte ne tür başvuruların
+başarıya ulaştığını görmek için
+											algoritma oluşturulurdu.
+											Mevcut iş başvurularının bulunduğu havuza
+											bu yöntem uygulansa ne olabilirdi,
+düşünün.
+											Geçmişte başarılı olanlar gibi görünmeyen
+											kadınları filtreleyebilirdi.
+									","
+											Les algorithmes ne rendent pas
+les choses équitables
+											si on les applique aveuglément,
+avec négligence.
+											Ils n'instaurent pas l'équité.
+											Ils reproduisent nos pratiques du passé,
+											nos habitudes.
+											Ils automatisent le statu quo.
+									",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+","
+","
+","
+",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+											Algorithms don't make things fair
+											if you just blithely,
+blindly apply algorithms.
+											They don't make things fair.
+											They repeat our past practices,
+											our patterns.
+											They automate the status quo.
+											That would be great
+if we had a perfect world,
+											but we don't.
+											And I'll add that most companies
+don't have embarrassing lawsuits,
+											but the data scientists in those companies
+											are told to follow the data,
+											to focus on accuracy.
+											Think about what that means.
+											Because we all have bias,
+it means they could be codifying sexism
+											or any other kind of bigotry.
+									","
+											Los algoritmos no son justos
+											si uno usa algoritmos a ciegas.
+											No son justos.
+											Repiten prácticas anteriores,
+											nuestros patrones.
+											Automatizan al status quo.
+											Sería genial en un mundo perfecto,
+											pero no lo tenemos.
+											Y aclaro que la mayoria de las empresas
+no estan involucradas en litigios,
+											pero los cientificos de datos 
+de esas empresas
+											emplean esos datos
+											para lograr la precisión.
+											Piensen qué significa esto.
+											Porque todos tenemos prejuicios,
+y así podríamos codificar sexismo
+											u otro tipo de fanatismo.
+									","
+											Eğer sadece umarsızca
+											kör bir şekilde kullanırsanız
+											algoritmalar
+süreçleri daha adil hale getirmez.
+											Geçmişteki uygulamalarımızı,
+											kalıplarımızı tekrarlar durur.
+											Otomatikmen kalıcı hale gelir.
+											Mükemmel bir dünyada yaşasaydık
+bu iyi olurdu
+											fakat dünya mükemmel değil.
+											Şunu da söyleyeyim, pek çok şirketin
+yüz kızartıcı davası yoktur
+											fakat veriyi takip etmeleri
+											ve veriye odaklanmaları söylenen
+											veri bilimcileri vardır.
+											Bunun ne anlama geldiğini düşünün.
+											Çünkü hepimizin ön yargıları var,
+ki bu cinsiyetçiliği veya başka bir
+											ayrımcılığın kodlanabileceği
+anlamına gelebilir.
+									","
+											Cela aurait été bien 
+si nous avions un monde parfait,
+											mais ce n'est pas le cas.
+											De plus, la plupart des sociétés ne
+font pas l'objet de poursuites honteuses
+											mais les scientifiques de données 
+dans ces sociétés
+											sont invités à suivre les données,
+											à se concentrer sur la précision.
+											Imaginez ce que ça veut dire :
+											parce que nous avons tous un parti pris,
+cela veut dire qu'ils pourraient coder
+											des idées sexistes, entre autres.
+									",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+","
+","
+","
+",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+											Thought experiment,
+											because I like them:
+											an entirely segregated society —
+											racially segregated, all towns,
+all neighborhoods
+											and where we send the police
+only to the minority neighborhoods
+											to look for crime.
+											The arrest data would be very biased.
+											What if, on top of that,
+we found the data scientists
+											and paid the data scientists to predict
+where the next crime would occur?
+											Minority neighborhood.
+											Or to predict who the next
+criminal would be?
+											A minority.
+											The data scientists would brag
+about how great and how accurate
+											their model would be,
+											and they'd be right.
+									","
+											Un experimento de pensamiento,
+											porque me gusta,
+											una sociedad totalmente segregada.
+											segregada racialmente, 
+todas las ciudades y los barrios
+											y donde enviamos a la policia
+solo a barrios minoritarios
+											para detectar delitos.
+											Los arrestos serían sesgados.
+											Y, además, elegimos a los
+cientificos de datos
+											y pagamos por los datos para predecir
+dónde ocurrirán los próximos delitos.
+											El barrio de una minoría.
+											O a predecir quien será 
+el próximo criminal.
+											Una minoría.
+											Los cientificos de datos se jactarían
+de su grandeza y de la precisión
+											de su modelo,
+											y tendrían razón.
+									","
+											Düşünce deneyi yapalım
+											çünkü bunu seviyorum:
+											Tüm şehirler ve mahallelerinin
+ırk bakımından
+											ötekileştirildiği bir toplumda
+											polisler suç aramak için
+											sadece azınlık mahallelerine gidiyor.
+											Yakalamalar epey taraflı olurdu.
+											Bu sürecin yönetiminde
+gelecek suçların nerede olacağını öngören
+											ve maaş ödenen 
+veri bilimcileri olsa ne olurdu?
+											Azınlık mahalleleri.
+											Veya bir sonraki suçlunun kim
+olacağını öngörmek için?
+											Bir azınlık.
+											Veri bilimcileri, modellerinin ne kadar
+											iyi ve uygulanabilir olduğu konusunda
+											övünürlerdi
+ve haklı olurlardı da.
+									","
+											Petit exercice de réflexion
+											parce que j'aime en faire :
+											une société entièrement en proie
+à la ségrégation —
+											à la ségrégation raciale, dans toutes 
+les villes, tous les voisinages
+											et où la police va seulement
+dans les quartiers de minorité
+											à la recherche de crimes.
+											Les données policières seraient
+complètement biaisées.
+											Et si, en plus, on trouvait
+des experts en données
+											et qu'on les payait pour qu'ils nous
+prédisent le lieu du prochain crime ?
+											Le quartier des minorités.
+											Ou encore qu'ils prédisent qui serait
+le prochain criminel ?
+											Un membre d'une minorité.
+											Les experts en données se vanteraient
+de l'excellence et de l'exactitude
+											de leur modèle,
+											et ils auraient raison.
+									",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+","
+","
+","
+",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+											Now, reality isn't that drastic,
+but we do have severe segregations
+											in many cities and towns,
+											and we have plenty of evidence
+											of biased policing
+and justice system data.
+											And we actually do predict hotspots,
+											places where crimes will occur.
+											And we do predict, in fact,
+the individual criminality,
+											the criminality of individuals.
+											The news organization ProPublica
+recently looked into
+											one of those ""recidivism risk"" algorithms,
+											as they're called,
+											being used in Florida
+during sentencing by judges.
+											Bernard, on the left, the black man,
+was scored a 10 out of 10.
+											Dylan, on the right, 3 out of 10.
+											10 out of 10, high risk.
+3 out of 10, low risk.
+											They were both brought in
+for drug possession.
+											They both had records,
+											but Dylan had a felony
+											but Bernard didn't.
+											This matters, because
+the higher score you are,
+											the more likely you're being given
+a longer sentence.
+									","
+											La realidad no es tan drástica,
+pero tenemos grandes segregaciones
+											en muchas ciudades
+											y tenemos muchas pruebas
+											de datos políticos y 
+legislativos sesgados.
+											Y podemos predecir puntos calientes,
+											lugares donde podrá ocurrir un delito
+											Y así predecir un crimen individual
+											y la criminalidad de los individuos.
+											El organismo de noticias ProPublica 
+lo estudió hace poco.
+											un algoritmo de ""riesgo recidivista""
+											según los llaman
+											usado en Florida
+al hacer sentencias judiciales.
+											Bernardo, a la izquierda, un hombre negro
+sacó una puntuación de 10 de 10.
+											Dylan, a la derecha, 3 de 10.
+											10 de 10, alto riesgo
+3 de 10, bajo riesgo.
+											Los sentenciaron por tener drogas.
+											Ambos con antecedentes penales
+											pero Dylan habia cometido un delito
+											Bernard, no.
+											Esto importa porque
+a mayor puntuación
+											mayor probabilidad de 
+una sentencia más larga.
+									","
+											Şu an gerçeklik bu kadar keskin değil,
+ama pek çok bölgede
+											taraflı davranıldığını gösteren
+
+											polis ve hukuk sistemi verisi
+											ayrımcılık yapıldığını gösteriyor.
+											Aslına bakılırsa suçların meydana geleceği
+											sıcak bölgeleri öngörüyoruz.
+											Hatta bireysel suçluluk konusunda da
+											öngörü yapıyoruz.
+											ProPublica isimli organizasyon
+											Florida'da hakimlerce kullanılan,
+											'suçun tekrarlama riski' adı verilen
+											algoritmaya baktılar.
+											Algoritmada Bernard, soldaki siyah kişi,
+10 üzerinden 10 puan aldı.
+											Dylan, sağdaki kişi, 
+10 üzerinden 3 puan.
+											10 üzerinden 10 yüksek risk.
+10 üzerinden 3 düşük risk.
+											Her ikisi de uyuşturucu bulundurmaktan
+göz altına alındı.
+											Her ikisinin de sabıka kaydı var.
+											Ama Dylan'ın ağır suçu varken
+											Bernard'ın yoktu.
+											Bu önemli çünkü puan yükseldikçe
+											uzun süreli ceza alma ihtimali artıyor.
+									","
+											Bien sûr, la réalité n'est pas comme ça,
+mais la ségrégation existe tout de même
+											dans beaucoup d'endroits,
+											et nous avons assez de preuves
+											que les données policières et judiciaires
+sont biaisées.
+											Et nous prédisons vraiment
+les zones sensibles,
+											là où les crimes seront commis,
+											et nous prédisons aussi, en fait, 
+les infractions individuelles,
+											commises par un seul individu.
+											L'agence de presse « ProPublica »
+s'est récemment penchée
+											sur l'un de ces algorithmes
+de « risque de récidive »,
+											comme on les appelle,
+											utilisé par les juges en Floride 
+pendant la détermination de la peine.
+											Bernard, à gauche, l'homme noir,
+a obtenu un 10 sur 10.
+											Dylan, à droite, 3 sur 10.
+											10 sur 10 risque élevé,
+3 sur 10, risque faible.
+											Tous deux ont été jugés pour
+possession de drogue.
+											Tous deux avaient un casier,
+											mais Dylan avait déjà commis un crime,
+											ce qui n'était pas le cas de Bernard.
+											C'est important, car plus le score
+est élevé,
+											plus il est probable que la sentence 
+soit longue.
+									",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+","
+","
+","
+",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+											What's going on?
+											Data laundering.
+											It's a process by which
+technologists hide ugly truths
+											inside black box algorithms
+											and call them objective;
+											call them meritocratic.
+											When they're secret,
+important and destructive,
+											I've coined a term for these algorithms:
+											""weapons of math destruction.""
+									","
+											¿Que sucede?
+											Lavado de datos.
+											El proceso que se usa para
+ocultar verdades feas
+											dentro de una caja negra
+de algoritmos
+											y llamarlos objetivos;
+											llamándolos meritocráticos
+											cuando son secretos,
+importantes y destructivos
+											Les puse un nombre a estos algoritmos:
+											""armas matemáticas de destrucción""
+									","
+											Neler oluyor?
+											Veri manipülasyonu.
+											Bu, teknoloji uzmanlarının çirkin
+gerçekleri kara kutulu algoritmalarla
+											gizledikleri bir süreç.
+											Bunun objektif
+											ve ideal olduğunu söylüyorlar.
+											Gizli, önemli ve yıkıcı sonuçları olan
+											algoritmalar için bir deyim türettim:
+											""Matematiksel yıkım silahları""
+									","
+											Qu'est-ce qu'il se passe ?
+											Un blanchiment de données.
+											C'est un processus de technologues
+pour cacher des vérités gênantes
+											dans des algorithmes « boîte noire »
+											soi-disant objectifs,
+											soi-disant méritocratiques.
+											Quand ces algorithmes sont secrets, 
+importants et destructifs,
+											je leur ai inventé un nom :
+											« armes de destruction math-ive ».
+									",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+","
+","
+","
+",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+											(Laughter)
+									","
+											(Risas)
+									","
+											(Kahkahalar)
+									","
+											(Rires)
+									",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+","
+","
+","
+",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+											(Applause)
+									","
+											(Aplausos)
+									","
+											(Alkışlar)
+									","
+											(Applaudissements)
+									",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+","
+","
+","
+",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+											They're everywhere,
+and it's not a mistake.
+											These are private companies
+building private algorithms
+											for private ends.
+											Even the ones I talked about
+for teachers and the public police,
+											those were built by private companies
+											and sold to the government institutions.
+											They call it their ""secret sauce"" —
+											that's why they can't tell us about it.
+											It's also private power.
+											They are profiting for wielding
+the authority of the inscrutable.
+											Now you might think,
+since all this stuff is private
+											and there's competition,
+											maybe the free market
+will solve this problem.
+											It won't.
+											There's a lot of money
+to be made in unfairness.
+									","
+											Estan en todos sitios
+											Son empresas privadas
+que construyen algoritmos privados
+											para fines privados.
+											Incluso los mencionados
+de los maestros y la policía pública
+											fueron diseñados por empresas privadas
+											y vendidos a 
+instituciones gubernamentales.
+											Lo llaman su ""salsa secreta""
+											por eso no nos pueden hablar de ello.
+											Es un poder privado
+											que saca provecho por su
+autoridad inescrutable.
+											Entonces uno ha de pensar,
+ya que todo esto es privado
+											y hay competición,
+											tal vez un mercado libre
+podrá solucionarlo
+											Pero no.
+											Se puede ganar mucho dinero
+con la injusticia.
+									","
+											Bunlar her yerdeler
+ve her yerde olmaları hata sonucu değil.
+											Bunlar özel amaç için
+özel algoritmalar üreten
+											özel şirketler.
+											Öğretmenler ve polisler ile ilgili
+söylediklerim bile
+											özel şirketler tarafından üretilip
+											kamu kurumlarına satıldı.
+											Buna onların ""özel tarifi"" diyorlar
+											ve bu yüzden içeriği ile
+ilgili konuşmuyorlar.
+											Bu bir tür özel güç.
+											Kamu otoritesini kullanarak kar ediyorlar.
+											Tüm bunların özel sektörde olduğu
+											ve sektörde rekabet olduğu için
+serbest piyasanın
+											bu sorunu çözeceğini düşünüyorsanız
+											sorunu çözmeyecek.
+											Adaletsizlik ile elde edilen
+önemli miktarda para var.
+									","
+											Ils sont partout, et ce n'est pas
+une erreur !
+											Il s'agit de compagnie privées, 
+qui créent des algorithmes privés,
+											à des fins privées.
+											Même ceux dont j'ai parlé, 
+pour les professeurs et la police,
+											ont été mis au point 
+par des sociétés privées
+											et vendus au gouvernement.
+											Ils appellent ça 
+leur « recette secrète »,
+											et donc ne peuvent pas 
+nous en parler.
+											C'est aussi du pouvoir privé.
+											Ils tirent profit en donnant de 
+l'autorité à ce qu'on ne comprend pas.
+											Vous pourriez penser,
+puisque tout ceci est privé,
+											et qu'il y a concurrence,
+											que le marché libre pourrait
+résoudre ce problème.
+											Eh bien non.
+											Il y a beaucoup d'argent à gagner
+grâce à l'injustice.
+									",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+","
+","
+","
+",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+											Also, we're not economic rational agents.
+											We all are biased.
+											We're all racist and bigoted
+in ways that we wish we weren't,
+											in ways that we don't even know.
+											We know this, though, in aggregate,
+											because sociologists
+have consistently demonstrated this
+											with these experiments they build,
+											where they send a bunch
+of applications to jobs out,
+											equally qualified but some
+have white-sounding names
+											and some have black-sounding names,
+											and it's always disappointing,
+the results — always.
+									","
+											Tampoco somos agentes 
+económicos racionales.
+											Todos tenemos prejuicios
+											Somos racistas y fanáticos
+de una forma que no quisiéramos,
+											de maneras que desconocemos.
+											Lo sabemos al sumarlo
+											porque los sociólogos
+lo han demostrado consistentemente
+											con experimentos que construyeron
+											donde mandan una cantidad de solicitudes
+de empleo
+											de personas de calificaciones iguales
+pero algunas con apellidos blancos
+											y otras con apellidos negros,
+											y los resultados siempre los 
+decepcionan, siempre.
+									","
+											Ayrıca ekonomik olarak 
+rasyonel karar alıcılar değiliz.
+											Farkında olmadığımız
+ön yargılarımız var.
+											Farkında olmasak 
+ve öyle olmayı dilemesek bile
+											kafa tasçı ve dar kafalıyız.
+											Bunun böyle olduğunuz biliyoruz,
+											çünkü sosyologlar yaptıkları deneyler ile
+											öyle olduğumuzu gösterdiler.
+											Deneyde aynı yeteneklere sahip insanların
+											çok sayıda iş başvurusu vardı.
+Kimi başvurular siyah,
+											kimi başvurular beyaz insanı
+andıran isimlerle yapıldı.
+											Sonuç her zaman hayal kırıklığıydı.
+									","
+											De plus, nous ne sommes pas 
+des acteurs économiques rationnels.
+											Nous sommes tous partiaux.
+											Nous sommes tous racistes et intolérants
+sans le vouloir,
+											sans parfois même le savoir.
+											Globalement, pourtant, nous le savons,
+											car les sociologues l'ont 
+sans cesse démontré
+											avec ces expériences
+											où ils envoient des candidatures
+à qualifications égales
+											mais certaines avec des noms « blancs »
+											et d'autres avec des noms « noirs » :
+											les résultats sont toujours décevants. 
+Toujours.
+									",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+","
+","
+","
+",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+											So we are the ones that are biased,
+											and we are injecting those biases
+into the algorithms
+											by choosing what data to collect,
+											like I chose not to think
+about ramen noodles —
+											I decided it was irrelevant.
+											But by trusting the data that's actually
+picking up on past practices
+											and by choosing the definition of success,
+											how can we expect the algorithms
+to emerge unscathed?
+											We can't. We have to check them.
+											We have to check them for fairness.
+									","
+											Nosotros somos los prejuiciosos
+											que inyectamos prejuicios
+a nuestros algoritmos
+											al elegir qué datos recoger,
+											así como yo elegí no pensar 
+en los fideos—
+											Y decidi que no era importante.
+											Pero tenerle confianza a los datos
+basados en prácticas pasadas
+											y eligiendo la definición del éxito,
+											¿cómo pretendemos que los
+algoritmos emerjan intactos?
+											No podemos. Tenemos que verificarlos.
+											Hay que revisarlos por equidad.
+									","
+											Bizler farkında olmasak da taraflıyız
+											ve taraflılığımızı, 
+seçtiğimiz veriler ile
+											algoritmalara dahil ediyoruz.
+											Mesela ben erişteleri es geçtim.
+											Onların yemek olmadığını düşündüm.
+											Ancak geçmiş deneyimleri
+											ve başarı tanımlarını 
+baz alarak seçtiğimiz veriye
+											nasıl güvenebiliriz ve algoritmaların
+sağlıklı olacağını nasıl bekleyebiliriz?
+											Bunu yapamayız. 
+Algoritmaları test etmemiz gerekir.
+											Algoritmaların doğruluklarını
+test etmeliyiz.
+									","
+											Donc, nous sommes 
+porteurs de préjugés,
+											et nous les injectons dans les algorithmes
+											en choisissant 
+les données à collecter
+											comme quand j'ai choisi
+de mettre les ramen de côté,
+											car ce n'était pas pertinent.
+											Mais en se basant sur des données 
+qui reprennent des pratiques passées
+											et en définissant soi-même la réussite,
+											comment peut-on s'attendre à ce que
+les algorithmes en sortent indemnes ?
+											On ne peut pas. On doit les contrôler.
+											On doit contrôler leur équité.
+									",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+","
+","
+","
+",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+											The good news is,
+we can check them for fairness.
+											Algorithms can be interrogated,
+											and they will tell us
+the truth every time.
+											And we can fix them.
+We can make them better.
+											I call this an algorithmic audit,
+											and I'll walk you through it.
+									","
+											Y las buenas noticias son
+											que los algoritmos pueden ser 
+interrogados,
+											y nos dirán la verdad todas las veces.
+											Y los podemos arreglar.
+Y mejorarlos.
+											Lo explico. Esto se llama revisión 
+del algoritmo,
+											lo explico.
+									","
+											İyi haber şu ki bunu yapabiliriz.
+											Algoritmalar kontrol edilebilir
+											ve kontroller bize gerçeği söyleyebilir.
+											Algoritmaların hatalarını giderebiliriz.
+											Ben buna, 'algoritma denetimi'
+adını veriyorum
+											ve size bundan bahsedeyim.
+									","
+											La bonne nouvelle, c'est qu'on peut
+contrôler leur équité.
+											Les algorithmes peuvent être interrogés,
+											et ils diront la vérité à chaque fois.
+											Et on peut les corriger, 
+les améliorer.
+											J'appelle ça 
+un « audit algorithmique »,
+											et je vais vous l'expliquer.
+									",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+","
+","
+","
+",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+											First, data integrity check.
+											For the recidivism risk
+algorithm I talked about,
+											a data integrity check would mean
+we'd have to come to terms with the fact
+											that in the US, whites and blacks
+smoke pot at the same rate
+											but blacks are far more likely
+to be arrested —
+											four or five times more likely,
+depending on the area.
+											What is that bias looking like
+in other crime categories,
+											and how do we account for it?
+									","
+											Primero, verificación de 
+integridad de datos.
+											por el riesgo recidivista.
+											La verificación de la integridad de datos 
+implicaría una conciliación
+											que en EE. UU. los blancos y los 
+negros fuman marihuana
+											pero a los negros es mas fácil que 
+los arresten
+											más probablemente cuatro o cinco 
+veces más dependiendo de la zona.
+											Y ¿cómo son los prejuicios en 
+otras categorías criminales,
+											y cómo lo justificamos?
+									","
+											Öncelikle verinin doğruluğu testi.
+											Bahsettiğim suçun tekrarlama
+riski algoritmasında
+											verinin doğruluğu testi şu anlama gelir:
+											Amerika'da beyaz ve siyahlar arasında
+esrar tüketimi aynı ölçüde yaygın,
+											oysa siyahların tutuklanma ihtimalleri
+											bölgeye bağlı olarak 
+dört veya beş kat fazla.
+											Diğer suçlarda 
+bu tür bir taraflılık nasıldır
+											ve bunu nasıl inceleriz?
+									","
+											D'abord, vérification
+de l'intégrité des données.
+											Pour l'algorithme « risque de récidive »
+dont j'ai parlé,
+											cette vérification impliquera qu'il
+faudra se rendre compte du fait
+											qu'aux États-Unis, blancs et noirs 
+fument la même quantité de joints,
+											mais que les noirs ont bien plus de 
+chance d'être arrêtés,
+											quatre ou cinq fois plus selon la région.
+											A quoi ressemble ce préjugé
+dans les autres catégories de crime,
+											et comment en tient-on compte ?
+									",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+","
+","
+","
+",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+											Second, we should think about
+the definition of success,
+											audit that.
+											Remember — with the hiring
+algorithm? We talked about it.
+											Someone who stays for four years
+and is promoted once?
+											Well, that is a successful employee,
+											but it's also an employee
+that is supported by their culture.
+											That said, also it can be quite biased.
+											We need to separate those two things.
+											We should look to
+the blind orchestra audition
+											as an example.
+											That's where the people auditioning
+are behind a sheet.
+											What I want to think about there
+											is the people who are listening
+have decided what's important
+											and they've decided what's not important,
+											and they're not getting
+distracted by that.
+											When the blind orchestra
+auditions started,
+											the number of women in orchestras
+went up by a factor of five.
+									","
+											Segundo, debemos pensar 
+en la definición del éxito,
+											revisarla.
+											¿Recuerdan el algoritmo
+de la contratación?
+											alguien que se queda cuatro años 
+y asciende de cargo una vez?
+											Ese es el empleado exitoso,
+											pero tambien es el empleado
+apoyado por la cultura.
+											Esto puede ser bastante injusto.
+											Tenemos que separar dos cosas.
+											Mirar a la audicion de una 
+orquesta de ciegos
+											por ejemplo.
+											Los que dan la audición están 
+detrás de la partitura.
+											Lo que quiero que piensen
+											es que la gente que escucha
+decide lo que es importante
+											y lo que no lo es,
+											sin que eso nos distraiga.
+											Cuando empezaron las audiciones 
+de orquesta de ciegos
+											la cantidad de mujeres aumentó
+un factor de cinco veces.
+									","
+											İkincisi başarının tanımı hakkında düşünüp
+											onu gözden geçirmeliyiz.
+											İşe alım algoritmasından
+bahsetmiştim, hatırlayın.
+											Şirkette 4 yıl kalıp 
+en az bir kez terfi alan kişi.
+											Kendisini başarılı tanımlamıştık
+											ama kendisi ayrıca kültürlerince
+desteklenen bir kişi.
+											Bu da aslında bir taraflılık olabilir.
+											Bu iki şeyi ayırmamız gerekiyor.
+											Mesela orkestralara yönelik 'kör seçim'
+											adı verilen seçimlere bakalım.
+											Bu uygulamada ses sınavında olan kişiler
+											perdenin arkasında
+bulunduğundan görünmüyor.
+											Sadece dinlediği konusunda
+											bir sonuca ulaşan insanları düşünün.
+											Herhangi bir şeyden dikkatleri dağılmıyor.
+											Orkestra için 'kör seçim' 
+başladığından beri
+											orkestralardaki kadın sayısı 5 kat arttı.
+									","
+											Ensuite, on doit réfléchir 
+à la définition du succès,
+											la contrôler.
+											Vous vous souvenez,
+l'algorithme de recrutement ?
+											Quelqu'un qui reste plus de quatre ans 
+et est promu une fois ?
+											Eh bien, cet employé est performant,
+											mais cet aussi un employé soutenu
+par sa culture.
+											Cela peut donc aussi être biaisé.
+											Nous devons séparer ces deux idées.
+											Nous devrions prendre
+les auditions à l'aveugle
+											comme exemple.
+											Celles où les gens auditionnent 
+derrière un drap.
+											Ce à quoi je pense ici,
+											c'est que les gens qui écoutent
+ont décidé de ce qui est important,
+											et de ce qui ne l'est pas,
+											et ils ne se laissent pas distraire
+par cela.
+											Quand les auditions d'orchestre 
+à l'aveugle ont commencé,
+											le nombre de femmes dans les orchestres
+s'est multiplié par 5.
+									",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+","
+","
+","
+",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+											Next, we have to consider accuracy.
+											This is where the value-added model
+for teachers would fail immediately.
+											No algorithm is perfect, of course,
+											so we have to consider
+the errors of every algorithm.
+											How often are there errors,
+and for whom does this model fail?
+											What is the cost of that failure?
+									","
+											Tambien hay que pensar en la precisión
+											y así el modelo 
+del valor añadido fallaría.
+											Por supuesto ningún algoritmo es perfecto,
+											asi que hay que considerar los 
+errores de cada algoritmo.
+											¿Qué frecuencia tienen los errores
+y con quiénes falla?
+											Y ¿cuál es el costo de dicha falla?
+									","
+											Sonra kesinliği göz önünde
+bulundurmalıyız.
+											Bu öğretmenlere için katma değer modelinin
+anında başarısız olacağı aşama olurdu.
+											Elbette hiçbir algoritma mükemmel değil,
+											bu yüzden her algoritmanın
+hatalarını dikkate almalıyız.
+											Bu hatalar ne sıklıkla oluşuyor,
+hangileri modeli başarısız kılıyor?
+											Başarısızlığın maliyeti ne?
+									","
+											Ensuite, nous devons tenir compte
+de la précision.
+											Le modèle de « valeur-ajoutée » pour
+professeurs échouerait dans ce cas-là.
+											Aucun algorithme n'est parfait,
+évidemment,
+											donc nous devons examiner les 
+erreurs de tous les algorithmes.
+											Reviennent-elles souvent, 
+et pour qui est-ce que le modèle échoue ?
+											Quel est le coût de cet échec ?
+									",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+","
+","
+","
+",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+											And finally, we have to consider
+											the long-term effects of algorithms,
+											the feedback loops that are engendering.
+											That sounds abstract,
+											but imagine if Facebook engineers
+had considered that
+											before they decided to show us
+only things that our friends had posted.
+									","
+											Y por último, tenemos que considerar
+											los efectos a largo plazo 
+de los algoritmos,
+											los bucles de retroalimentación 
+que engendran.
+											Eso suena a abstracto.
+											Pero imagínese si los ingenieros 
+de Facebook lo hubieran considerado
+											antes de mostrarnos cosas
+publicadas por nuestros amigos.
+									","
+											Son aşamada
+											algoritmaların uzun dönemli etkilerini,
+											geri besleme döngülerini
+göz önünde bulundurmalıyız.
+											Kulağa soyut geliyor
+ama Facebook yazılımcıları
+											sadece arkadaşlarımızın paylaşımını
+görmemize karar vermeden önce
+											bunun üzerinde düşünseydi
+nasıl olurdu, hayal edin.
+									","
+											Enfin, nous devons prendre en compte
+											l'effet à long terme des algorithmes,
+											les boucles de réactions
+qu'ils engendrent.
+											Cela semble abstrait,
+											mais imaginez, si les ingénieurs 
+de Facebook y avaient pensé
+											avant de décider de nous montrer
+seulement les publications de nos amis.
+									",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+","
+","
+","
+",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+											I have two more messages,
+one for the data scientists out there.
+											Data scientists: we should
+not be the arbiters of truth.
+											We should be translators
+of ethical discussions that happen
+											in larger society.
+									","
+											Tengo dos mensajes,
+uno para los científicos de datos.
+											Cientificos de datos: no debemos
+ser los árbitros de la verdad.
+											Debemos ser tradutores de las
+discusiones éticas que ocurren
+											en toda la sociedad.
+									","
+											İki mesajım var. 
+Birincisi veri bilimciler için:
+											Bizler neyin doğru olduğuna
+karar verenler olmamalıyız.
+											Bizler toplumlarda meydana gelen 
+etik tartışmaların
+											tercümanları olmalıyız.
+									","
+											J'ai encore deux messages, un pour 
+les scientifiques de données ici.
+											Nous ne devrions pas être
+les arbitres de la vérité.
+											Nous devrions être les traducteurs 
+des discussions d'ordre éthique
+											de la société en général.
+									",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+","
+","
+","
+",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+											(Applause)
+									","
+											(Aplausos)
+									","
+											(Alkışlar)
+									","
+											(Applaudissements)
+									",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+","
+","
+","
+",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+											And the rest of you,
+											the non-data scientists:
+											this is not a math test.
+											This is a political fight.
+											We need to demand accountability
+for our algorithmic overlords.
+									","
+											Y para el resto de Uds.
+											los que no son científicos de datos:
+											esta no es un examen de matemáticas.
+											Es una lucha politica.
+											Tenemos que exigir responsabilidad
+a los lores de los algoritmos.
+									","
+											Ve geri kalanlar,
+											veri bilimci olmayanlar:
+											Bu herhangi bir matematik testi değil.
+											Bu bir politik mücadele.
+											Bizler algoritma amirlerinden
+sorumluluk talep etmeliyiz.
+									","
+											Et pour le reste d'entre vous,
+											qui n'êtes pas du milieu,
+											ceci n'est pas un test de math.
+											C'est une bataille politique.
+											Nous devons réclamer des comptes 
+à nos souverains algorithmiques.
+									",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+","
+","
+","
+",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+											(Applause)
+									","
+											(Aplausos)
+									","
+											(Alkışlar)
+									","
+											(Applaudissements)
+									",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+","
+","
+","
+",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+											The era of blind faith
+in big data must end.
+									","
+											La era de la fe ciega en los
+datos masivos debe terminar.
+									","
+											Büyük verideki kör inanç dönemi bitmeli.
+									","
+											L'ère de la confiance absolue 
+dans le Big Data doit prendre fin.
+									",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+","
+","
+","
+",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+											Thank you very much.
+									","
+											Muchas gracias.
+									","
+											Teşekkür ederim.
+									","
+											Merci beaucoup.
+									",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+","
+","
+","
+",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+											(Applause)
+									","
+											(Aplauso)
+									","
+											(Alkışlar)
+									","
+											(Applaudissements)
+									",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"
+"
+","
+","
+","
+",The era of blind faith in big data must end,Cathy O'Neil,13:18,"algorithm,data,inequality,marketing,society,technology"

@@ -1,0 +1,704 @@
+fr,en,pt,tr,es,de,title,speaker,duration,tags
+"
+","
+","
+","
+","
+","
+",How many ways can you arrange a deck of cards?,Yannay Khaikin,3:27,"animation,TED-Ed,math"
+"
+											Choisissez une carte, 
+n'importe quelle carte.
+											En fait, prenez-les toutes
+et jetez un coup d'oeil.
+											On utilise ce jeu classique de 52 cartes 
+depuis des siècles.
+											Tous les jours, des milliers 
+de jeux comme celui-ci
+											sont battus dans les casinos 
+du monde entier,
+											l'ordre est réarrangé à chaque fois.
+											Et pourtant, chaque fois que 
+vous prenez un jeu bien mélangé
+											comme celui-ci,
+											vous tenez certainement
+											un arrangement des cartes
+											qui n'a jamais existé 
+dans toute l'histoire.
+											Comment est-ce possible ?
+											La réponse se trouve dans le nombre
+d'arrangements différents possibles
+											de 52 cartes, ou 
+de n'importe quels objets.
+											52 peut ne pas sembler 
+un nombre si grand,
+											mais commençons par encore plus petit.
+											Disons que nous avons 4 personnes 
+qui tentent de s'asseoir
+											sur 4 chaises numérotées.
+											De combien de façons 
+peuvent-ils être assis ?
+											Pour commencer, une des 
+quatre personnes peut s'asseoir
+											sur la première chaise.
+											Ce choix fait,
+											seules trois personnes restent debout.
+											Quand la seconde personne s'assied,
+											seules deux personnes restent 
+comme candidates
+											pour la troisième chaise.
+											Une fois que la troisième 
+personne s'est assise,
+											la dernière personne 
+debout n'a d'autre choix
+											que de s'asseoir sur la quatrième chaise.
+											Si nous écrivons à la main
+tous les arrangements possibles,
+											ou permutations,
+											Il s'avère qu'il y a 24 façons
+											pour quatre personnes de 
+prendre place sur quatre chaises,
+											mais lorsqu'ils traitent avec un plus grand nombre,
+											Ça peut prendre un certain temps.
+											Nous allons donc voir 
+s'il y a un moyen plus rapide.
+											En reprenant du début,
+											vous pouvez voir que 
+chacun des quatre choix initial
+											pour la première chaire
+											conduit à trois choix possibles de plus
+pour la deuxième chaise,
+											et chacun de ces choix
+											mène à deux autres 
+pour la troisième chaise.
+											Ainsi, au lieu de compter 
+chaque scénario final individuellement,
+											on peut multiplier le nombre
+de choix pour chaque chaise :
+											4 x 2 x 3 x 1
+											pour obtenir le même résultat de 24.
+											Un modèle intéressant émerge.
+											Nous commençons par le nombre 
+d'objets que nous allons organiser,
+											quatre dans ce cas,
+											et on le multiplie des nombres entiers
+consécutivement plus petits
+											jusqu'à ce qu'on arrive à un.
+											C'est une découverte passionnante.
+											Si enthousiasmante 
+que les mathématiciens ont choisi
+											de symboliser ce genre de calcul,
+											connu comme une factorielle,
+											avec un point d'exclamation.
+											En règle générale, 
+la factorielle d'un entier positif
+											est calculée comme le produit
+											de ce même entier
+											et de tous les plus petits 
+entiers jusqu'à un.
+											Dans notre exemple simple,
+											le nombre de façons dont quatre personnes
+											peuvent être distribuées sur des chaires
+											s'écrit en quatre factorielles,
+											ce qui est égal à 24.
+											Revenons donc à notre jeu de cartes.
+											Tout comme il y avait 
+quatre façons factorielles
+											d'arranger quatre personnes,
+											Il y a 52 façons factorielles
+											de réorganiser 52 cartes.
+											Heureusement, nous n'avons pas 
+besoin de calculer à la main.
+											Il suffit d'entrer la fonction 
+dans une calculatrice,
+											et elle vous montrera que le nombre
+											d'arrangements possibles est
+											8,07 x 10 ^ 67,
+											ou environ 8 suivi de 67 zéros.
+											Ce nombre est grand comment ?
+											Eh bien, si une nouvelle 
+permutation de 52 cartes
+											était écrite à chaque seconde
+											en commençant il y a
+13,8 milliards d'années,
+											quand on pense qu'a eu lieu le Big Bang,
+											on continuerait encore 
+à l'écrire aujourd'hui
+											et qu'on poursuivrait pendant
+des millions d'années à venir.
+											En fait, il y a plus de façons possibles
+											d'arranger ce simple jeu de cartes
+											qu'il n'y a d'atomes sur la Terre.
+											Alors la prochaine fois que ce sera
+votre tour de battre les cartes,
+											prenez un moment pour vous souvenir
+											que vous tenez quelque chose qui
+											n'aura peut-être jamais existé avant
+											et n'existera peut-être 
+plus jamais à nouveau.
+									","
+											Pick a card, any card.
+											Actually, just pick up all of them and take a look.
+											This standard 52-card deck has been used for centuries.
+											Everyday, thousands just like it
+											are shuffled in casinos all over the world,
+											the order rearranged each time.
+											And yet, every time you pick up a well-shuffled deck
+											like this one,
+											you are almost certainly holding
+											an arrangement of cards
+											that has never before existed in all of history.
+											How can this be?
+											The answer lies in how many different arrangements
+											of 52 cards, or any objects, are possible.
+											Now, 52 may not seem like such a high number,
+											but let's start with an even smaller one.
+											Say we have four people trying to sit
+											in four numbered chairs.
+											How many ways can they be seated?
+											To start off, any of the four people can sit
+											in the first chair.
+											One this choice is made,
+											only three people remain standing.
+											After the second person sits down,
+											only two people are left as candidates
+											for the third chair.
+											And after the third person has sat down,
+											the last person standing has no choice
+											but to sit in the fourth chair.
+											If we manually write out all the possible arrangements,
+											or permutations,
+											it turns out that there are 24 ways
+											that four people can be seated into four chairs,
+											but when dealing with larger numbers,
+											this can take quite a while.
+											So let's see if there's a quicker way.
+											Going from the beginning again,
+											you can see that each of the four initial choices
+											for the first chair
+											leads to three more possible choices for the second chair,
+											and each of those choices
+											leads to two more for the third chair.
+											So instead of counting each final scenario individually,
+											we can multiply the number of choices for each chair:
+											four times three times two times one
+											to achieve the same result of 24.
+											An interesting pattern emerges.
+											We start with the number of objects we're arranging,
+											four in this case,
+											and multiply it by consecutively smaller integers
+											until we reach one.
+											This is an exciting discovery.
+											So exciting that mathematicians have chosen
+											to symbolize this kind of calculation,
+											known as a factorial,
+											with an exclamation mark.
+											As a general rule, the factorial of any positive integer
+											is calculated as the product
+											of that same integer
+											and all smaller integers down to one.
+											In our simple example,
+											the number of ways four people
+											can be arranged into chairs
+											is written as four factorial,
+											which equals 24.
+											So let's go back to our deck.
+											Just as there were four factorial ways
+											of arranging four people,
+											there are 52 factorial ways
+											of arranging 52 cards.
+											Fortunately, we don't have to calculate this by hand.
+											Just enter the function into a calculator,
+											and it will show you that the number of
+											possible arrangements is
+											8.07 x 10^67,
+											or roughly eight followed by 67 zeros.
+											Just how big is this number?
+											Well, if a new permutation of 52 cards
+											were written out every second
+											starting 13.8 billion years ago,
+											when the Big Bang is thought to have occurred,
+											the writing would still be continuing today
+											and for millions of years to come.
+											In fact, there are more possible
+											ways to arrange this simple deck of cards
+											than there are atoms on Earth.
+											So the next time it's your turn to shuffle,
+											take a moment to remember
+											that you're holding something that
+											may have never before existed
+											and may never exist again.
+									","
+											Tire uma carta,
+qualquer carta.
+											Na verdade, tire todas e olhe para elas.
+											Este baralho tradicional de 52 cartas
+é usado há séculos.
+											Todos os dias, milhares como ele
+											são baralhados
+em casinos por todo o mundo,
+											e de cada vez, muda-se a ordem das cartas.
+											E no entanto, sempre que temos
+um baralho bem baralhado
+											como este,
+											é quase certo que estamos a segurar
+											uma ordem de cartas
+											que nunca existiu em toda a história.
+											Como é que isto é possível?
+											A resposta reside em
+quantas ordens diferentes
+											de 52 cartas, ou quaisquer objectos,
+são possíveis.
+											Bom, 52 pode não parecer um número grande,
+											mas vamos começar com um mais pequeno.
+											Admitamos que temos quatro pessoas
+a tentarem sentar-se
+											em quatro cadeiras numeradas.
+											De quantas formas se podem sentar?
+											Para começar, 
+todas as quatro pessoas se podem sentar
+											na primeira cadeira.
+											É feita uma escolha,
+											e apenas sobram três pessoas em pé.
+											Após a segunda pessoa se sentar,
+											apenas sobram duas pessoas como candidatas
+											para a terceira cadeira.
+											E após a terceira pessoa se sentar,
+											a última pessoa não tem escolha
+											a não ser sentar-se na quarta cadeira.
+											Se escrevermos à mão
+todas as ordens possíveis,
+											ou permutações,
+											parece que existem 24 formas
+											de quatro pessoas se sentarem
+em quatro cadeiras,
+											mas quando lidamos com números maiores,
+											isto pode demorar um bocado.
+											Então, vamos ver se existe
+uma maneira mais rápida.
+											Partindo do início,
+											podemos ver que cada uma
+das quatro opções iniciais
+											para a primeira cadeira,
+											leva a três opções para a segunda,
+											e cada uma dessas opções
+											leva a mais duas para a terceira cadeira.
+											Então, em vez de contar cada cenário final
+de forma individual,
+											podemos multiplicar o número de opções
+para cada cadeira:
+											quatro vezes três vezes dois vezes um
+											para alcançar o mesmo resultado de 24.
+											Surge um padrão interessante.
+											Começamos pelo número de objectos
+que estamos a baralhar,
+											quatro neste caso,
+											e multiplicamos sucessivamente
+por inteiros mais pequenos
+											até atingirmos o um.
+											Isto é uma descoberta emocionante.
+											Tão emocionante
+que os matemáticos decidiram
+											simbolizar este tipo de cálculo,
+											conhecido por factorial,
+											com um ponto de exclamação.
+											Regra geral, o factorial
+de qualquer número inteiro positivo
+											é calculado pelo produto
+											do mesmo inteiro
+											por todos os inteiros 
+mais pequenos, até um.
+											No nosso exemplo simples,
+											o número de formas que quatro pessoas
+											se podem sentar em cadeiras
+											é dado por quatro factorial,
+											que é igual a 24.
+											Voltemos ao nosso baralho.
+											Tal como havia quatro factorial formas
+											de baralhar as pessoas,
+											existem 52 factorial formas
+											de baralhar 52 cartas.
+											Felizmente,
+não temos de calcular isto à mão.
+											Basta inserir a função na calculadora,
+											e ela mostra que o número
+											de formas possíveis
+											é 8.07 x 10 elevado a 67,
+											ou aproximadamente
+oito seguido de 67 zeros.
+											Quão grande é este número?
+											Bom, se uma permutação de 52 cartas
+											fosse escrita a cada segundo,
+											começando há 13,8 mil milhões 
+de anos atrás,
+											quando se pensa que o ""Big Bang"" ocorreu,
+											ainda hoje se estava a escrever
+											e continuaria por milhões de anos.
+											De facto, existem mais formas possíveis
+											de dispor este simples
+baralho de cartas
+											do que átomos na Terra.
+											Da próxima vez que for 
+a sua vez de baralhar,
+											pare um pouco para se lembrar
+											que está a segurar algo
+											que pode nunca ter existido
+											e que poderá nunca existir novamente.
+									","
+											Bir kart seçin, herhangi bir kart.
+											Aslında, hepsini alın ve bir bakın
+											Bu standart 52 kartlı deste
+yüzyıllardır kullanılıyor.
+											Her gün, bunun gibi binlercesi
+											dünya genelindeki tüm
+gazinolarda karıştırılıyor,
+											sırası yeniden düzenleniyor.
+											Buna rağmen, ne zaman elinize
+iyi karıştırılmış bir deste alsanız,
+											bu deste gibi,
+											neredeyse daha önce tarihte hiç olmamış
+											bir kart sıralanışını
+											elinizde tutuyorsunuz.
+											Peki bu nasıl olabiliyor ?
+											Cevap bu 52 kartın ya da nesnenin
+											kaç farklı şekilde sıralanabileceğinde
+yatıyor.
+											Şimdi, 52 büyük bir sayı
+olarak görülmeyebilir,
+											ama biz daha da küçük
+bir sayıyla başlayalım.
+											Diyelim ki, 4 kişi numaralandırılmış
+											4 farklı sandalyeye oturmak istiyor.
+											Kaç farklı şekilde oturabilirler?
+											Başlangıç olarak, 4 kişiden
+herhangi birisi
+											ilk sandalyeye oturabilir.
+											Bu seçimden sonra,
+											geriye 3 kişi ayakta kalıyor.
+											İkinci kişi oturduktan sonra ise,
+											geriye, üçüncü sandalyeye
+											oturmak üzere 2 kişi kalıyor.
+											Üçüncü kişi oturduktan sonra ise,
+											sonuncu kişiye dördüncü sandalyeye
+											oturmaktan başka seçenek kalmaz.
+											Her bir sıralamayı ya da
+permutasyonu tek tek
+											yazacak olursak,
+											dört kişinin dört sandalyeye 24 farklı
+											şekilde oturabileceği ortaya çıkar.
+											Ancak büyük sayılarla uğraşmak
+											ciddi zaman alabilir.
+											Peki bunun daha hızlı bir
+yolu var mı bakalım.
+											En başa dönecek olursak,
+											ilk sandalye için ilk dört
+seçimin her biri
+											ikinci sandalye için
+											üç tane daha seçime ve
+bu seçimlerin her biri
+											üçüncü sandalye için
+											iki tane daha seçime yol açar.
+											Bu yüzden her senaryoyu
+tek tek saymak yerine,
+											her bir sandalye için seçim
+sayısını çarpabiliriz:
+											dört çarpı üç çarpı iki çarpı bir
+											bize yine 24 sonucunu verecektir.
+											İlginç bir model doğar.
+											Sıralayacağımız nesne
+sayısı ile başlayarak,
+											bu olay için 4,
+											bir küçüğüyle çarparak ilerliyoruz,
+											ta ki 1 rakamına ulaşana kadar.
+											Bu çok heyecan verici bir keşif.
+											O kadar heyecan verici ki, matematikçiler
+											bu tür hesaplamayı faktöriyel
+olarak bilinen
+											ünlem işareti ile
+											sembölleştirdiler.
+											Genel bir kuralı olarak, 
+herhangi bir pozitif tamsayının
+											faktöriyelini hesaplarken,
+											yine aynı tam sayıdan başlayarak,
+											1 rakamına ulaşana kadar çarpılır.
+											Basit örneğimizdeki gibi,
+											dört kişinin dört sandalyeye
+											kaç farklı şekilde oturacakları,
+											dört faktöriyel olarak yazılır,
+											bu da 24'e eşit olur.
+											Destemize dönecek olursak.
+											Dört kişinin sıralanması için nasıl
+											dört faktöriyel yol var ise,
+											52 kartın sıralanması için de
+											52 faktoriyel yol vardır.
+											Çok şükür ki bu sayıyı elimizle 
+hesaplamak zorunda değiliz.
+											Sadece hesap makinesine
+fonksiyonu girdiğinizde
+											bir destenin kaç farklı şekilde
+											sıralanacağını siz gösterir
+											8.07 x 10^67,
+											ya da kabaca sekiz ve takip
+eden 67 tane sıfır.
+											Peki bu sayı ne kadar büyük?
+											Şöyle diyelim, 52 kardın yeni
+bir permütasyonu
+											her saniyede yazılacak olsaydı
+											13.8 milyar yıl önce,
+											büyük patlamanın olduğu sanılan
+zaman, başlanmış olsaydı
+											bu sıralanışları hala yazıyor olurduk
+											ve milyonlarca yıl daha
+yazmamız gerekirdi.
+											Aslında, bu basit kart
+destesinin sıralanış
+											olasılıkları sayısı dünya üzerindeki
+atomların sayısından
+											daha fazla olacaktır.
+											Bu yüzden, bir daha karıştırma
+sırası size geldiğinde
+											bir dakika ayırın ve
+											dünya üzerinde daha önce hiç var olmamış
+											ve asla olmayacak bir şeyi
+											elinizde tuttuğunuzu hatırlayın.
+									","
+											Elige una carta, cualquiera.
+											En realidad, levanta todas y ve.
+											Este mazo de 52 cartas 
+se ha usado durante siglos.
+											Todos los días, 
+miles al igual que este
+											se barajan en los casinos 
+de todo el mundo,
+											y el orden cambia cada vez.
+											Y, sin embargo, cada vez que 
+levantas un mazo bien barajado
+											como este,
+											casi con seguridad tienes
+											una disposición de cartas
+											que nunca antes ha existido 
+en toda la historia.
+											¿Cómo puede ser?
+											La respuesta radica en el 
+número de combinaciones diferentes
+											posibles de 52 cartas, 
+o de cualquier objeto.
+											52 puede no parece 
+un número muy alto,
+											pero empecemos con uno 
+incluso más pequeño.
+											Digamos que tenemos 4 personas 
+tratando de sentarse
+											en 4 sillas numeradas.
+											¿De cuántas formas pueden sentarse?
+											Para empezar, cualquiera de 
+las 4 personas puede sentarse
+											en la primera silla.
+											Una vez resuelto eso,
+											solo quedan 3 personas de pie.
+											Cuando se sienta la segunda persona,
+											solo quedan 2 personas candidatas
+											para la tercera silla.
+											Y cuando se sienta 
+la tercera persona,
+											la última persona parada 
+no tiene otra opción
+											que sentarse en la cuarta silla.
+											Si escribimos a mano todas 
+las combinaciones posibles,
+											o permutaciones,
+											resulta que hay 24 maneras
+											en que 4 personas pueden 
+sentarse en 4 sillas,
+											pero al tratar con 
+números más grandes,
+											esto puede demorar bastante.
+											Veamos si hay una 
+manera más rápida.
+											Empezando desde el 
+principio otra vez
+											puedes ver que cada una de 
+las 4 opciones iniciales
+											para la primera silla
+											lleva a 3 posibles opciones más 
+para la segunda silla,
+											y cada una de esas 3 opciones
+											lleva a 2 posibles opciones más, 
+para la tercera silla.
+											Por eso en vez de contar cada 
+escenario final en forma individual
+											podemos multiplicar la cantidad 
+de opciones para cada silla:
+											4 por 3 por 2 por 1
+											para obtener el 
+mismo resultado, 24.
+											Aparece un patrón interesante.
+											Empezamos con la cantidad de 
+objetos que queremos organizar,
+											4 en este caso,
+											y lo multiplicamos por números 
+consecutivos más pequeños
+											hasta llegar a 1.
+											Este es un descubrimiento apasionante.
+											Tanto, que los matemáticos han optado
+											por representar este tipo de cálculo,
+											conocido como factorial,
+											con un signo de exclamación.
+											Como regla general, el factorial 
+de cualquier entero positivo
+											se calcula como el producto
+											de ese mismo entero
+											por todos los enteros 
+más pequeños hasta 1.
+											En nuestro ejemplo simple,
+											la cantidad de formas 
+en que 4 personas
+											pueden acomodarse en 4 sillas
+											se escribe como 4 factorial,
+											que es igual a 24.
+											Volvamos a nuestro mazo.
+											Al igual que había 
+4 factorial formas
+											de acomodar 4 personas,
+											hay 52 factorial formas
+											de disponer 52 cartas.
+											Afortunadamente, no tenemos 
+que calcular esto a mano.
+											Basta con ingresar la función 
+en una calculadora
+											y mostrará que la cantidad
+											de formas posibles
+											es 8,07 x 10^67,
+											o, más o menos, 8 seguido de 67 ceros.
+											¿Cuán grande es ese número?
+											Bueno, si escribiéramos 
+cada permutación
+											de 52 cartas en un segundo
+											y empezamos hace 
+13 800 millones de años,
+											cuando se piensa que 
+ocurrió el Big Bang,
+											todavía hoy se estaría escribiendo
+											y seguiría durante millones de años.
+											De hecho, hay más formas posibles
+											de combinar este mazo de cartas
+											que átomos en la Tierra.
+											Así que la próxima vez que mezcles,
+											tómate un momento para recordar
+											que estás sosteniendo algo que
+											quizá nunca antes existió
+											y nunca vuelva a existir.
+									","
+											Zieh irgendeine Karte.
+											Genauer gesagt, nimm alle
+und schau sie dir an.
+											Dieses normale Deck mit 52 Karten
+wird seit Jahrhunderten verwendet.
+											Täglich werden Tausende wie dieses
+											in Casinos auf der ganzen Welt gemischt,
+											wobei sie stets neu angeordnet werden.
+											Doch bei jedem gut gemischten Kartendeck,
+											wie z. B. diesem,
+											bekommst du fast sicher
+eine Anordnung an Karten,
+											die vorher noch nie existiert hat.
+											Wie ist das möglich?
+											Die Antwort liegt in der Anzahl
+möglicher verschiedener Anordnungen
+											von 52 Karten oder anderen Objekten.
+											Die Zahl 52 klingt zwar nicht sehr groß,
+											aber fangen wir
+mit einer noch kleineren an.
+											Angenommen, wir möchten 4 Personen
+auf 4 nummerierte Stühle setzen.
+											Auf wie viele Arten geht das?
+											Anfangs kann jede Person
+auf Stuhl 1 sitzen.
+											Nach dieser Entscheidung
+bleiben nur noch 3 Personen.
+											Setzt sich die zweite Person,
+											sind nur noch 2 Kandidaten
+für Stuhl 3 übrig.
+											Sobald die dritte Person sitzt,
+											kann sich die letzte Person
+nur noch auf Stuhl 4 setzen.
+											Schreibt man alle denkbaren Anordnungen
+oder Permutationen von Hand heraus,
+											ergeben sich 24 Möglichkeiten,
+											um 4 Personen auf 4 Stühle zu setzen.
+											Doch bei größeren Zahlen
+kann das eine ganze Weile dauern.
+											Mal sehen, ob das auch schneller geht.
+											Also noch mal von vorn:
+											Jede der 4 anfänglichen
+Entscheidungen für Stuhl 1
+											führt zu 3 weiteren
+Entscheidungen für Stuhl 2
+											und jede dieser Entscheidungen
+											führt zu 2 weiteren für Stuhl 3.
+											Anstatt alle Situationen
+einzeln zu zählen,
+											multiplizieren wir die Anzahl
+der Möglichkeiten für jeden Stuhl,
+											also 4 x 3 x 2 x 1,
+											und erhalten dasselbe Ergebnis: 24.
+											Es entsteht ein interessantes Muster.
+											Wir beginnen mit der Anzahl
+der gegebenen Objekte,
+											in diesem Fall 4,
+											und multiplizieren sie mit
+fortlaufend kleineren ganzen Zahlen,
+											bis wir 1 erreichen.
+											Das ist eine spannende Entdeckung —
+											so spannend, dass Mathematiker
+entschieden haben,
+											diese als Fakultät bekannte Berechnung
+mit einem Ausrufezeichen zu versehen.
+											Grundsätzlich gilt: Die Fakultät
+jeder beliebigen natürlichen Zahl
+											wird durch das Produkt derselben Zahl
+											und allen kleineren ganzen Zahlen
+bis zur Zahl 1 berechnet.
+											In unserem Beispiel schreibt man
+die Anzahl der Anordnungen
+											von 4 Personen auf 4 Stühlen
+als ""4 Fakultät"", was 24 ergibt.
+											Zurück zu unserem Kartendeck.
+											So wie es 4 Fakultät
+verschiedene Möglichkeiten gab,
+											4 Personen zu setzen,
+											gibt es 52 Fakultät Möglichkeiten,
+52 Karten anzuordnen.
+											Zum Glück müssen wir das
+nicht von Hand ausrechnen.
+											Gib die Funktion
+in einen Taschenrechner ein
+											und du siehst:
+											Die Anzahl möglicher Anordnungen
+beträgt 8,07 x 10^67,
+											grob gesagt, eine 8 gefolgt von 67 Nullen.
+											Wie groß ist diese Zahl eigentlich?
+											Schriebe man jede Sekunde
+eine neue Permutation von 52 Karten aus
+											und hätte man damit
+vor 13,8 Milliarden Jahren begonnen,
+											als sich der Urknall ereignet haben soll,
+											dann schriebe man noch heute
+und weitere Jahrmillionen daran.
+											Tatsächlich gibt es mehr Möglichkeiten,
+dieses einfache Kartendeck anzuordnen,
+											als Atome auf der Erde.
+											Wenn du das nächste Mal
+die Karten mischst,
+											denk kurz daran,
+											dass du etwas nie Dagewesenes
+in der Hand halten könntest,
+											das es vielleicht nie wieder gibt.
+									",How many ways can you arrange a deck of cards?,Yannay Khaikin,3:27,"animation,TED-Ed,math"
+"
+","
+","
+","
+","
+","
+",How many ways can you arrange a deck of cards?,Yannay Khaikin,3:27,"animation,TED-Ed,math"

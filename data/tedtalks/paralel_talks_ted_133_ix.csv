@@ -1,0 +1,505 @@
+en,fr,title,speaker,duration,tags
+"
+","
+","The Artists | Think Like A Coder, Ep 5",Alex Rosenthal,6:25,"animation,TED-Ed,education,engineering,code,science,computers,programming"
+"
+											Dawn and the train are both breaking 
+when Ethic and Hedge arrive in the woods.
+											The adventurers 
+have recovered the first artifact—
+											the Node of Power—
+											and have come to the 198forest 
+in search of the second.
+									","
+											L'aube se lève et le train freine
+											quand Éthique et Hedge
+arrivent à la forêt.
+											Les aventuriers ont récupéré
+le premier artefact,
+											le nœud du pouvoir,
+											et sont venus à la forêt 198
+pour chercher le second.
+									","The Artists | Think Like A Coder, Ep 5",Alex Rosenthal,6:25,"animation,TED-Ed,education,engineering,code,science,computers,programming"
+"
+","
+","The Artists | Think Like A Coder, Ep 5",Alex Rosenthal,6:25,"animation,TED-Ed,education,engineering,code,science,computers,programming"
+"
+											Here they’re welcomed 
+by the director of the colony, Octavia.
+											She established this treehouse sanctuary
+											after the robots freed everyone 
+from having to work.
+											It was meant to be a haven 
+where people could follow their passions,
+											take up crafts, and find fulfillment.
+											Which they did… at first.
+											Some years ago everyone forgot the point.
+											They abandoned arts and crafts
+											and instead just painted and exhibited 
+pictures of themselves
+											over, and over, and over.
+									","
+											Ils sont accueillis par la directrice
+de la colonie, Octavia.
+											Elle a mis sur pied
+ce sanctuaire de cabanes
+											après que les robots ont affranchi
+tout le monde de leur travail.
+											C'était censé être un refuge où les gens
+pourraient suivre leur passion,
+											se mettre à l'artisanat et s'épanouir.
+											Ce qui fut le cas... au début.
+											Il y a quelques années,
+tout le monde l'a oublié.
+											Ils ont abandonné les arts et l'artisanat
+											et ont peint et exposé sans cesse
+des photos d'eux-mêmes.
+									","The Artists | Think Like A Coder, Ep 5",Alex Rosenthal,6:25,"animation,TED-Ed,education,engineering,code,science,computers,programming"
+"
+","
+","The Artists | Think Like A Coder, Ep 5",Alex Rosenthal,6:25,"animation,TED-Ed,education,engineering,code,science,computers,programming"
+"
+											The location of the second artifact 
+is no secret;
+											it’s in a tower, 
+guarded by a garrison of bots,
+											a bottomless ravine, 
+and who knows what other traps.
+											As soon as the tower 
+went up with the node inside,
+											human communication 
+across the land went dark.
+											Octavia’s been after it for years,
+											but try as she might, 
+the defenses thwart her.
+									","
+											L'emplacement du second artefact
+n'est pas un secret :
+											c'est une tour gardée
+par une garnison de robots,
+											un ravin sans fond
+et qui sait quels autres pièges.
+											Dès que la tour s'est élevée
+avec le nœud en son sein,
+											la communication humaine
+à travers le territoire s'est interrompue.
+											Octavia s'y attaque depuis des années,
+											mais même si elle essaye,
+les défenses déjouent ses tentatives.
+									","The Artists | Think Like A Coder, Ep 5",Alex Rosenthal,6:25,"animation,TED-Ed,education,engineering,code,science,computers,programming"
+"
+","
+","The Artists | Think Like A Coder, Ep 5",Alex Rosenthal,6:25,"animation,TED-Ed,education,engineering,code,science,computers,programming"
+"
+											In order to even get to the tower, 
+the team will need a distraction.
+											Octavia has an idea:
+											stir up the people 
+through some well-intentioned vandalism.
+									","
+											Pour entrer dans la tour,
+l'équipe aura besoin d'une distraction.
+											Octavia a une idée :
+											provoquer les gens
+grâce à du vandalisme bien intentionné.
+									","The Artists | Think Like A Coder, Ep 5",Alex Rosenthal,6:25,"animation,TED-Ed,education,engineering,code,science,computers,programming"
+"
+","
+","The Artists | Think Like A Coder, Ep 5",Alex Rosenthal,6:25,"animation,TED-Ed,education,engineering,code,science,computers,programming"
+"
+											The residents’ paintings are all squares 
+that come in different sizes,
+											all an odd number of pixels across.
+											Helper-bots 
+pick up the finished portraits
+											and hang them in public places 
+for everyone to admire.
+									","
+											Les peintures des résidents
+sont des carrés de toutes tailles,
+											avec toutes un nombre impair
+de pixels sur la largeur.
+											Des robots auxiliaires
+prennent les portraits finis
+											et les accrochent dans les lieux publics
+pour que tout le monde les admire.
+									","The Artists | Think Like A Coder, Ep 5",Alex Rosenthal,6:25,"animation,TED-Ed,education,engineering,code,science,computers,programming"
+"
+","
+","The Artists | Think Like A Coder, Ep 5",Alex Rosenthal,6:25,"animation,TED-Ed,education,engineering,code,science,computers,programming"
+"
+											There’s a slim margin of time 
+when Hedge can access the paintings.
+											If he were to deface each one with an X,
+											the people would blame the helper-bots,
+											creating just the distraction 
+the team needs.
+									","
+											Il y a un court moment où Hedge
+peut accéder aux peintures.
+											S'il les dégradait en y mettant un X,
+											les gens accuseraient
+les auxiliaires robots,
+											créant la distraction
+dont l'équipe a besoin.
+									","The Artists | Think Like A Coder, Ep 5",Alex Rosenthal,6:25,"animation,TED-Ed,education,engineering,code,science,computers,programming"
+"
+","
+","The Artists | Think Like A Coder, Ep 5",Alex Rosenthal,6:25,"animation,TED-Ed,education,engineering,code,science,computers,programming"
+"
+											If only it were so easy.
+											Hedge can’t just paint an X—
+											his painting processor 
+requires very specific instructions.
+											Treating the paintings as square grids,
+											he can fill in one pixel, 
+or little square, at a time.
+											He can move forwards 
+and make 90 degree turns over the canvas,
+											but can’t move diagonally.
+									","
+											Si seulement c'était si simple.
+											Hedge ne peut pas juste peindre un X,
+											son processeur de peinture requiert
+des instructions très spécifiques.
+											En considérant les peintures
+comme des grilles carrées,
+											il peut remplir un pixel,
+ou un petit carré, à la fois.
+											Il peut avancer et tourner
+de 90 degrés au-dessus de la toile,
+											mais il ne peut pas
+se déplacer en diagonale.
+									","The Artists | Think Like A Coder, Ep 5",Alex Rosenthal,6:25,"animation,TED-Ed,education,engineering,code,science,computers,programming"
+"
+","
+","The Artists | Think Like A Coder, Ep 5",Alex Rosenthal,6:25,"animation,TED-Ed,education,engineering,code,science,computers,programming"
+"
+											How does Ethic program Hedge 
+to paint an X over each portrait?
+									","
+											Comme Éthique doit-elle programmer Hedge
+pour peindre un X sur chaque portrait ?
+									","The Artists | Think Like A Coder, Ep 5",Alex Rosenthal,6:25,"animation,TED-Ed,education,engineering,code,science,computers,programming"
+"
+","
+","The Artists | Think Like A Coder, Ep 5",Alex Rosenthal,6:25,"animation,TED-Ed,education,engineering,code,science,computers,programming"
+"
+											Pause now to figure it out for yourself.
+									","
+											Mettez en pause maintenant
+si vous voulez trouver la réponse seul.
+									","The Artists | Think Like A Coder, Ep 5",Alex Rosenthal,6:25,"animation,TED-Ed,education,engineering,code,science,computers,programming"
+"
+","
+","The Artists | Think Like A Coder, Ep 5",Alex Rosenthal,6:25,"animation,TED-Ed,education,engineering,code,science,computers,programming"
+"
+											Here’s a hint.
+									","
+											Voici un indice.
+									","The Artists | Think Like A Coder, Ep 5",Alex Rosenthal,6:25,"animation,TED-Ed,education,engineering,code,science,computers,programming"
+"
+","
+","The Artists | Think Like A Coder, Ep 5",Alex Rosenthal,6:25,"animation,TED-Ed,education,engineering,code,science,computers,programming"
+"
+											Try drawing a square grid like this,
+											and simulating Hedge’s path over it.
+											What patterns can you find to guide him?
+									","
+											Essayez de dessiner
+une telle grille carrée
+											et de simuler le parcours de Hedge
+au-dessus de la grille.
+											Quels motifs pouvez-vous
+trouver pour le guider ?
+									","The Artists | Think Like A Coder, Ep 5",Alex Rosenthal,6:25,"animation,TED-Ed,education,engineering,code,science,computers,programming"
+"
+","
+","The Artists | Think Like A Coder, Ep 5",Alex Rosenthal,6:25,"animation,TED-Ed,education,engineering,code,science,computers,programming"
+"
+											Pause now to figure it out for yourself.
+									","
+											Mettez en pause maintenant
+si vous voulez trouver la réponse seul.
+									","The Artists | Think Like A Coder, Ep 5",Alex Rosenthal,6:25,"animation,TED-Ed,education,engineering,code,science,computers,programming"
+"
+","
+","The Artists | Think Like A Coder, Ep 5",Alex Rosenthal,6:25,"animation,TED-Ed,education,engineering,code,science,computers,programming"
+"
+											The challenge here 
+is to craft a set of instructions
+											that will work for any square grid.
+											Fortunately, 
+one of the strengths of programming
+											is the flexibility 
+to solve not just one problem,
+											but a whole class of them all at once.
+											It often helps to start with one case, 
+and work towards the general.
+									","
+											Le défi ici, c'est d'élaborer
+un ensemble d'instructions
+											qui fonctionneront
+pour n'importe quelle grille carrée.
+											Heureusement, l'un des atouts
+de la programmation
+											est sa flexibilité pour résoudre
+pas juste un problème,
+											mais toute une classe
+de problèmes à la fois.
+											Souvent, cela aide
+de commencer avec un cas
+											et d'aller vers les généralités.
+									","The Artists | Think Like A Coder, Ep 5",Alex Rosenthal,6:25,"animation,TED-Ed,education,engineering,code,science,computers,programming"
+"
+","
+","The Artists | Think Like A Coder, Ep 5",Alex Rosenthal,6:25,"animation,TED-Ed,education,engineering,code,science,computers,programming"
+"
+											Let’s say we had this square.
+											Hedge can measure the length of its sides 
+and store that number as a variable.
+											Now, what we need is a plan 
+for how Hedge will paint an X,
+											pixel by pixel.
+											There’s more than one right answer 
+for how to do this;
+											let’s look at two.
+									","
+											Disons que nous avons ce carré.
+											Hedge peut mesurer la taille de ses côtés
+											et enregistrer ce nombre
+en tant que variable.
+											Nous avons maintenant besoin d'un plan
+quant à comment Hedge peindra un X,
+											pixel par pixel.
+											Il y a plus d'une bonne réponse
+sur comment faire cela,
+											considérons-en deux.
+									","The Artists | Think Like A Coder, Ep 5",Alex Rosenthal,6:25,"animation,TED-Ed,education,engineering,code,science,computers,programming"
+"
+","
+","The Artists | Think Like A Coder, Ep 5",Alex Rosenthal,6:25,"animation,TED-Ed,education,engineering,code,science,computers,programming"
+"
+											First, what if Hedge went row by row, 
+like a typewriter?
+											If it’s a 9 pixel by 9 pixel painting,
+											in the first row he’d paint, 
+skip 7, and then paint again.
+											In the second row he’d skip the first, 
+paint, skip 5, and paint.
+											And so on.
+											The pattern here is that for each row 
+the pixels skipped at the beginning
+											go up by one,
+											and the pixels skipped in the middle 
+go down by 2.
+											Things get more complicated 
+when Hedge reaches the center.
+											Here there’s a row 
+with just one pixel painted.
+											Then the whole thing reverses—
+											the number of pixels skipped 
+goes down by one each time on the left,
+											and up by two each time in the middle.
+									","
+											Et si Hedge allait ligne par ligne,
+comme une machine à écrire ?
+											Si c'est une peinture
+de neuf pixels de côté,
+											sur la première ligne il peindrait,
+passerait sept pixels puis peindrait.
+											Sur la seconde ligne,
+il passerait le premier pixel,
+											en peindrait un, en passerait cinq
+puis en peindrait un.
+											Et ainsi de suite.
+											La formule c'est qu'à chaque ligne,
+											le nombre de pixels
+passés au début augmente de un
+											et le nombre de pixels
+passés au milieu diminue de deux.
+											Les choses se compliquent
+quand Hedge arrive au centre.
+											Il y a une ligne où il n'y a
+qu'un seul pixel peint.
+											Puis tout s'inverse :
+											le nombre de pixels passés
+diminue de un sur la gauche
+											et augmente de deux au milieu.
+									","The Artists | Think Like A Coder, Ep 5",Alex Rosenthal,6:25,"animation,TED-Ed,education,engineering,code,science,computers,programming"
+"
+","
+","The Artists | Think Like A Coder, Ep 5",Alex Rosenthal,6:25,"animation,TED-Ed,education,engineering,code,science,computers,programming"
+"
+											Instructing Hedge to do this 
+with a series of loops will work
+											and is a perfectly fine solution.
+											The main drawback is that 
+this requires quite a bit of logic—
+											knowing what to do in the middle, 
+when to reverse the process,
+											and exactly how to reverse it.
+									","
+											Instruire Hedge de faire ainsi
+avec une série de boucles marchera
+											et c'est une très bonne solution.
+											Le principal inconvénient
+est que cela nécessite de la logique :
+											savoir quoi faire au milieu,
+quand inverser le processus
+											et exactement comment l'inverser.
+									","The Artists | Think Like A Coder, Ep 5",Alex Rosenthal,6:25,"animation,TED-Ed,education,engineering,code,science,computers,programming"
+"
+","
+","The Artists | Think Like A Coder, Ep 5",Alex Rosenthal,6:25,"animation,TED-Ed,education,engineering,code,science,computers,programming"
+"
+											So how might we approach this
+											so that the logic remains consistent 
+from start to finish?
+											The key insight is to look at a grid 
+as a series of concentric squares.
+											Each square follows the same pattern—
+											painted pixels in the corners, 
+and unaltered pixels in between.
+											So if we can figure out a way 
+to paint one nested square,
+											transition to the next, and repeat, 
+we can paint them all.
+									","
+											Comment approcher cela
+											pour que la logique reste la même
+du début à la fin ?
+											La clé, c'est de considérer la grille
+comme un ensemble de carrés concentriques.
+											Chaque carré suit le même schéma :
+											des pixels peints dans les coins
+et des pixels intacts entre.
+											Si nous pouvons trouver
+comment peindre un carré imbriqué,
+											passer au suivant et répéter,
+nous pouvons tous les peindre.
+									","The Artists | Think Like A Coder, Ep 5",Alex Rosenthal,6:25,"animation,TED-Ed,education,engineering,code,science,computers,programming"
+"
+","
+","The Artists | Think Like A Coder, Ep 5",Alex Rosenthal,6:25,"animation,TED-Ed,education,engineering,code,science,computers,programming"
+"
+											Painting the outermost one is easy.
+											Start in a corner and paint that pixel.
+											If we call the length of the painting n,
+											fly forward n minus 1 spaces.
+											Paint another pixel, and turn right.
+											Now do the whole thing again… and again.
+											Now move forward one less space, 
+turn right, fly forward once,
+											and Hedge will be 
+in the next concentric square
+											and ready to repeat the whole process.
+											Each square is n minus 2 pixels smaller 
+than the last in length and width,
+											and we can follow this spiral pattern 
+all the way to the center
+											with a loop and a variable 
+that tracks how far Hedge should fly.
+									","
+											Peindre le carré extérieur est facile.
+											Commencer dans un coin
+et peindre ce pixel.
+											Si nous appelons n
+la largeur de la peinture,
+											se déplacer de n - 1 pixels.
+											Peindre un autre pixel
+et tourner à droite.
+											Répéter cela deux fois.
+											Avancer d'un pixel de moins,
+tourner à droite, avancer
+											et Hedge sera au coin
+du carré concentrique suivant
+											et prêt à répéter tout le processus.
+											Chaque carré a un côté plus court
+de deux pixels que le précédent
+											et nous pouvons suivre
+ce motif en spirale jusqu'au centre
+											avec une boucle et une variable suivant
+la distance que Hedge doit parcourir.
+									","The Artists | Think Like A Coder, Ep 5",Alex Rosenthal,6:25,"animation,TED-Ed,education,engineering,code,science,computers,programming"
+"
+","
+","The Artists | Think Like A Coder, Ep 5",Alex Rosenthal,6:25,"animation,TED-Ed,education,engineering,code,science,computers,programming"
+"
+											Is one of these methods 
+better than the other?
+											It really depends on what you value.
+											The strength of the spiral 
+is the simplicity of finding a pattern
+											and reusing the same logic 
+from start to finish.
+											The advantage of the typewriter approach
+											is that it’s a more generalized solution,
+											meaning it can be adapted 
+much more simply to fill in any pattern.
+											For Ethic’s sake, 
+either will do just fine.
+									","
+											Une de ces méthodes est-elle
+meilleure que l'autre ?
+											Cela dépend de ce qui vous importe.
+											La force de la spirale est la simplicité
+pour trouver un motif
+											et réutiliser la même logique
+du début à la fin.
+											L'avantage de l'approche
+de la machine à écrire
+											est qu'elle est plus générale,
+											elle peut être plus facilement adaptée
+à n'importe quel motif.
+											Pour Éthique, les deux
+marcheront très bien.
+									","The Artists | Think Like A Coder, Ep 5",Alex Rosenthal,6:25,"animation,TED-Ed,education,engineering,code,science,computers,programming"
+"
+","
+","The Artists | Think Like A Coder, Ep 5",Alex Rosenthal,6:25,"animation,TED-Ed,education,engineering,code,science,computers,programming"
+"
+											So here’s what happens.
+									","
+											Voici ce qu'il se passe.
+									","The Artists | Think Like A Coder, Ep 5",Alex Rosenthal,6:25,"animation,TED-Ed,education,engineering,code,science,computers,programming"
+"
+","
+","The Artists | Think Like A Coder, Ep 5",Alex Rosenthal,6:25,"animation,TED-Ed,education,engineering,code,science,computers,programming"
+"
+											Hedge rapidly defaces 
+all of the portraits.
+											And within moments
+											cries of anguish 
+break out all over the forest.
+									","
+											Hedge dégrade rapidement
+tous les portraits.
+											En quelques instants,
+											des cris d'angoisse
+éclatent dans toute la forêt.
+									","The Artists | Think Like A Coder, Ep 5",Alex Rosenthal,6:25,"animation,TED-Ed,education,engineering,code,science,computers,programming"
+"
+","
+","The Artists | Think Like A Coder, Ep 5",Alex Rosenthal,6:25,"animation,TED-Ed,education,engineering,code,science,computers,programming"
+"
+											The garrison guarding the tower 
+abandon their posts
+											to calm the agitated people,
+											and Ethic, Hedge, 
+and Octavia slip through—
+											and nearly slip 
+into the depths of the gorge
+											standing between them and the tower.
+									","
+											La garnison gardant la tour
+abandonne son poste
+											pour calmer les gens agités
+											et Éthique, Hedge et Octavia se faufilent
+											et manquent de tomber
+dans les profondeurs du ravin
+											qui se tient entre eux et la tour.
+									","The Artists | Think Like A Coder, Ep 5",Alex Rosenthal,6:25,"animation,TED-Ed,education,engineering,code,science,computers,programming"
+"
+","
+","The Artists | Think Like A Coder, Ep 5",Alex Rosenthal,6:25,"animation,TED-Ed,education,engineering,code,science,computers,programming"

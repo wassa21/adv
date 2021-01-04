@@ -1,0 +1,731 @@
+en,es,tr,fr,de,title,speaker,duration,tags
+"
+","
+","
+","
+","
+","Building ""self-aware"" robots",Hod Lipson,6:18,"AI,cognitive science,demo,design,evolution,robots,technology"
+"
+											So, where are the robots?
+											We've been told for 40 years already that they're coming soon.
+											Very soon they'll be doing everything for us.
+											They'll be cooking, cleaning, buying things, shopping, building. But they aren't here.
+											Meanwhile, we have illegal immigrants doing all the work,
+											but we don't have any robots.
+											So what can we do about that? What can we say?
+											So I want to give a little bit of a different perspective
+											of how we can perhaps look at these things in a little bit of a different way.
+											And this is an x-ray picture
+											of a real beetle, and a Swiss watch, back from '88. You look at that —
+											what was true then is certainly true today.
+											We can still make the pieces. We can make the right pieces.
+											We can make the circuitry of the right computational power,
+											but we can't actually put them together to make something
+											that will actually work and be as adaptive as these systems.
+									","
+											Entonces, ¿dónde están los robots?
+											Nos han dicho por 40 años que ya vienen.
+											Muy pronto estarán haciendo todo por nosotros:
+											cocinarán, limpiarán, comprarán, construirán. Pero aún no están aquí.
+											Mientras tanto tenemos inmigrantes ilegales haciendo todo el trabajo,
+											pero no tenemos robots.
+											¿Qué podemos hacer al respecto? ¿Qué podemos decir?
+											Quiero compartir un poco de otra perspectiva,
+											de cómo quizás podamos ver estas cosas de forma ligeramente distinta.
+											Y esta es una foto de rayos X
+											de un escarabajo y un reloj suizo, del año 1988. Viendo eso,
+											lo que fue cierto entonces es cierto hoy.
+											Podemos hacer las piezas y hacerlas correctamente,
+											podemos hacer los circuitos para una capacidad de cómputo adecuada,
+											pero en la práctica no podemos unirlos para construir algo
+											que realmente funcione y sea tan adaptable como estos sistemas.
+									","
+											Peki, nerede o robotlar?
+											40 yılı aşkın süredir çok yakında gelecekleri söylenen robotlar.
+											Çok yakında bizim için herşeyi yapıyor olacaklar.
+											Yemek, temizlik, alışveriş, inşaat yapıyor olacaklar. Ama hala ortalıkta yoklar.
+											Bu arada kaçak göçmenler tüm bu işleri yapıyorlar,
+											ama ortada hiç robot yok.
+											Peki bu konuda ne yapabiliriz? Ne diyebiliriz?
+											O yüzden ben belki biraz farklı bir bakış açısıyla yaklaşarak
+											bu duruma nasıl daha farklı bir şekilde bakabileceğimizi anlatacağım.
+											Gördükleriniz bir böcekle, 1988'den kalma
+											isveç yapımı bir kol saatinin röntgenleri. Bunlara şimdi baktığınızda görünen ile,
+											o zaman bakıldıığında görünen aynı.
+											Hala aynı parçaları üretebiliyoruz, doğru parçarları yapıyoruz,
+											gerekli işlem gücü için devreleri üretebiliyoruz,
+											ama aslında, hakikaten çalışacak ve bu sistemler gibi uyumlu olabilecek
+											birşey ortaya çıkarmak için bu parçaları düzgünce birleştiremiyoruz.
+									","
+											Où sont les robots?
+											On nous dit depuis 40 ans qu'ils arrivent bientôt.
+											Que bientôt ils feront tout pour nous:
+											la cuisine, le nettoyage, les achats, les courses, la construction. Mais ils ne sont pas là.
+											A la place, nos avons des immigrés qui font toutes ces tâches,
+											mais pas de robots.
+											Que pouvons-nous y faire? Que pouvons-nous dire?
+											Je veux vous laisser entrevoir une perspective différente,
+											un point de vue différent sur ces choses.
+											Voici une radio
+											d'un vrai scarabée, et d'une montre suisse, qui date de 1988. Regardez —
+											ce qui était vrai alors l'est toujours aujourd'hui.
+											Nous savons toujours créer les pièces, les bonnes pièces,
+											le circuit pour obtenir la puissance de calcul nécessaire,
+											mais nous ne savons pas les combiner pour créer quelque chose
+											qui fonctionnera réellement et sera aussi adaptif que ces systèmes.
+									","
+											Also, wo sind die Roboter?
+											Seit 40 Jahren wird uns schon gesagt, dass sie bald kommen.
+											Sehr bald würden sie alles für uns machen:
+											kochen, putzen, einkaufen, bauen. Aber sie sind nicht hier.
+											Inzwischen haben wir illegale Immigranten, die diese Arbeiten verrichten,
+											aber wir haben keine Roboter.
+											Was können wir deshalb unternehmen? Was können wir sagen?
+											Ich möchte eine andere Sichtweise anbieten,
+											aus der wir diese Dinge vielleicht ein wenig anders betrachten können.
+											Das ist ein Röntgenbild
+											eines Käfers und einer Schweizer Uhr aus dem Jahr 1988.
+											Seitdem hat sich im Prinzip nichts geändert.
+											Wir können noch immer die Einzelteile anfertigen.
+											Wir können die Schaltkreise für die entsprechende Rechenleistung herstellen,
+											aber wir können sie nicht kombinieren, um etwas zu erschaffen,
+											das tatsächlich so funktioniert und so lernfähig ist wie diese Systeme.
+									","Building ""self-aware"" robots",Hod Lipson,6:18,"AI,cognitive science,demo,design,evolution,robots,technology"
+"
+","
+","
+","
+","
+","Building ""self-aware"" robots",Hod Lipson,6:18,"AI,cognitive science,demo,design,evolution,robots,technology"
+"
+											So let's try to look at it from a different perspective.
+											Let's summon the best designer, the mother of all designers.
+											Let's see what evolution can do for us.
+											So we threw in — we created a primordial soup
+											with lots of pieces of robots — with bars, with motors, with neurons.
+											Put them all together, and put all this under kind of natural selection,
+											under mutation, and rewarded things for how well they can move forward.
+											A very simple task, and it's interesting to see what kind of things came out of that.
+									","
+											Así que intentemos verlo desde una perspectiva diferente.
+											Llamemos al mejor diseñador, la madre de todos los diseñadores:
+											veamos que puede hacer por nosotros la evolución.
+											Entonces mezclamos, creamos una sopa primordial
+											con montones de piezas de robots, con barras, motores, neuronas.
+											Los juntamos todos, pusimos todo eso bajo cierta clase de selección natural,
+											bajo mutación, y recompensamos la capacidad de avance.
+											Una tarea muy simple, y es interesante ver la clase de cosas que surgen de ahí.
+									","
+											Öyleyse bunlara başka bir yönden bakmayı deneyelim.
+											Tüm tasarımcıların atası, en iyi tasarımcıyı çağıralım o zaman:
+											değişimin bizim için neler yapabileceğine bir bakalım.
+											Biz de kalıplar, motorlar ve sinir hücreleri gibi
+											robot parçalarını birbirine karıştırdık ve ilkel bir çorba yaptık.
+											Bunların hepsini bir araya koyduk ve bir çeşit doğal ayıklanma süreciyle
+											mutasayona bıraktık ve ilerleme kabiliyetlerine göre onları ödüllendirdik.
+											Çok basit bir işti ve onun sonucunda ne olacağını görmek enteresan oldu.
+									","
+											Essayons donc d'observer sous une autre perspective.
+											Appelons le meilleur architecte, le plus grand architecte de tous les temps :
+											regardons ce que l'évolution peut faire pour nous.
+											Donc nous nous sommes lancés, nous avons créé une soupe primaire
+											avec beaucoup de morceaux de robots : des barres, des moteurs, des neurones.
+											on les a assemblés, et soumis à une sorte de sélection naturelle,
+											à une mutation, et récompensé les choses selon leur capacité à avancer.
+											Un travail très simple, mais il est intéressant de voir ce qui en est sorti.
+									","
+											Betrachten wir es aus einer anderen Perspektive.
+											Rufen wir den besten Designer auf, die Mutter aller Designer:
+											Schauen wir, was die Evolution für uns tun kann.
+											Wir haben also alles hineingeworfen - sozusagen eine Ur-Suppe erschaffen
+											mit vielen Teilen von Robotern: mit Stangen, mit Motoren, mit Neuronen.
+											Wir haben alles vermischt und einer Art natürlichen Auslese ausgesetzt, Mutation.
+											Und wir haben Dinge dafür belohnt, wie gut sie sich vorwärts bewegen können.
+											Eine sehr einfache Aufgabe. Es ist interessant zu sehen, was dabei herauskam.
+									","Building ""self-aware"" robots",Hod Lipson,6:18,"AI,cognitive science,demo,design,evolution,robots,technology"
+"
+","
+","
+","
+","
+","Building ""self-aware"" robots",Hod Lipson,6:18,"AI,cognitive science,demo,design,evolution,robots,technology"
+"
+											So if you look, you can see a lot of different machines
+											come out of this. They all move around.
+											They all crawl in different ways, and you can see on the right,
+											that we actually made a couple of these things,
+											and they work in reality. These are not very fantastic robots,
+											but they evolved to do exactly what we reward them for:
+									","
+											Así que si observan, pueden ver un montón de máquinas diferentes
+											saliendo de esto. Todas se mueven,
+											todas ellas se arrastran a su manera y, pueden ver a la derecha
+											que efectivamente hemos fabricado un par de estas cosas,
+											y funcionan en el mundo real. No son robots muy fantásticos pero
+											evolucionaron para hacer exactamente aquello por lo que los recompensamos;
+									","
+											Baktığınızda, çok farklı makinaların ortaya çıktığını
+											görebilirsiniz. Hepsi etrafta dolaşıyor,
+											farklı şekillerde yol alıyor, ve sağ tarafta gördüğünüz gibi,
+											biz bunlardan bir iki tane yaptık, ve onlar
+											gerçekte de çalışıyorlar. Onlar pek muhteşem robotlar olmasalar da,
+											sonucunda bizim onları ödüllendirdiğimiz şeyi yapmak için geliştiler:
+									","
+											Observez : vous pouvez voir plein de machines différentes
+											émerger. Elles se déplacent toutes,
+											elles bougent de plein de façons, et vous pouvez voir à droite,
+											que nous en avons créé un certain nombre,
+											qui fonctionnent vraiment. Ce ne sont pas des robots extraordinaires,
+											mais ils évoluent pour faire ce pour quoi nous les récompensons :
+									","
+											Sie können viele verschiedene Maschinen sehen,
+											die so entstanden sind. Sie bewegen sich alle,
+											sie krabbeln auf verschiedene Arten, und Sie können hier rechts sehen,
+											dass wir einige dieser Dinge hergestellt haben.
+											Und sie funktionieren tatsächlich. Keine besonders aufregenden Roboter,
+											aber sie entwickelten sich, um genau das zu tun, wofür wir sie belohnten:
+									","Building ""self-aware"" robots",Hod Lipson,6:18,"AI,cognitive science,demo,design,evolution,robots,technology"
+"
+","
+","
+","
+","
+","Building ""self-aware"" robots",Hod Lipson,6:18,"AI,cognitive science,demo,design,evolution,robots,technology"
+"
+											for moving forward. So that was all done in simulation,
+											but we can also do that on a real machine.
+											Here's a physical robot that we actually
+											have a population of brains,
+											competing, or evolving on the machine.
+											It's like a rodeo show. They all get a ride on the machine,
+											and they get rewarded for how fast or how far
+											they can make the machine move forward.
+											And you can see these robots are not ready
+											to take over the world yet, but
+											they gradually learn how to move forward,
+											and they do this autonomously.
+									","
+											para moverse hacia adelante. Así que eso fue hecho en simulación
+											pero también podemos hacerlo en una máquina de verdad.
+											Aquí está un robot físico que de hecho
+											tiene una población de cerebros,
+											compitiendo o evolucionando, en la máquina.
+											Es como un espectáculo de rodeo: todos se pueden subir a la máquina
+											y son recompensados por qué tan rápido o qué tan lejos
+											pueden hacer que la máquina avance.
+											Y pueden ver que esos robots no están listos
+											aún para dominar al mundo, pero
+											aprenden gradualmente a avanzar
+											y hacen esto de forma autónoma.
+									","
+											ileri gitmek için. Aslında bunların hepsi canlandırmada yapılmıştı,
+											ama biz bunu gerçek bir makinada da yapabiliriz.
+											İşte burada gördüğünüz fiziksel bir robot,
+											ve o aslında bir makinanın üzerinde
+											yarışan veya değişen bir beyine sahip.
+											Bu bir rodeo gösterisi gibi, herkes makinayı bir defa sürüyor
+											ve makinayı ilerletme veya hızlandırma
+											miktarlarına göre ödüllendiriliyor.
+											Ve görüldüğü gibi bu robotlar dünyayı ele geçirmek için
+											henüz hazır değiller, ama
+											düzenli olarak nasıl ileri gidebileceklerini öğreniyorlar,
+											ve bunu kendi kendilerine yapıyorlar.
+									","
+											pour avancer. Tout cela a été fait sur ordinateur,
+											mais on peut aussi le faire dans le monde réel.
+											Voici un vrai robot à qui nous avons en fait
+											donné un ensemble de cerveaux,
+											qui s'affrontent, ou évoluent, sur la machine.
+											C'est comme un rodéo, ils sont tous sur la machine,
+											et ils sont récompensés selon leur vitesse ou leur capacité
+											à faire évoluer la machine.
+											Vous voyez que ces robots ne sont pas prêts
+											à dominer le monde, mais
+											ils apprennent peu à peu comment évoluer,
+											et ce, de manière autonome.
+									","
+											sich vorwärts zu bewegen. Das ist nur eine Simulation,
+											aber es funktioniert auch mit einer echten Maschine.
+											Hier ist ein echter Roboter,
+											in dem eine Population von Gehirnen
+											wetteifert und sich entwickelt.
+											Wie beim Rodeo: Alle bekommen einen Ritt auf der Maschine
+											und werden dafür belohnt, wie schnell oder weit
+											sie die Maschine vorwärts bewegen können.
+											Diese Roboter sind noch nicht bereit,
+											die Weltherrschaft zu übernehmen.
+											Aber sie lernen allmählich, sich vorwärts zu bewegen.
+											Und sie tun das autonom.
+									","Building ""self-aware"" robots",Hod Lipson,6:18,"AI,cognitive science,demo,design,evolution,robots,technology"
+"
+","
+","
+","
+","
+","Building ""self-aware"" robots",Hod Lipson,6:18,"AI,cognitive science,demo,design,evolution,robots,technology"
+"
+											So in these two examples, we had basically
+											machines that learned how to walk in simulation,
+											and also machines that learned how to walk in reality.
+											But I want to show you a different approach,
+											and this is this robot over here, which has four legs.
+											It has eight motors, four on the knees and four on the hip.
+											It has also two tilt sensors that tell the machine
+											which way it's tilting.
+									","
+											Así que en esos dos ejemplos, básicamente tenemos
+											máquinas que aprendieron cómo caminar en una simulación
+											y también máquinas que aprendieron cómo caminar en la realidad.
+											Pero quiero mostrarles un enfoque distinto
+											y es este robot de aquí, el cual tiene cuatro patas,
+											tiene ocho motores, cuatro en las rodillas y cuatro en las caderas.
+											Tiene también 2 sensores de inclinación que le dicen a la máquina
+											por cuál lado se está inclinando.
+									","
+											Bu iki örnekte de gördüğünüz gibi, temel olarak
+											sanal ortamda yürümeyi öğrenen makinalarımız ve
+											aynı zamanda gerçek hayatta yürümeyi öğrenen makinalarımız var.
+											Ama ben size farklı bir yaklaşım göstermek istiyorum,
+											işte burada gördüğünüz 4 bacağı olan robotumuzun,
+											8 motoru var, 4 adet dizlerde ve 4 adet kalçada.
+											Bunun yanında makinanın hangi yöne eğildiğini gösteren
+											eğim algılayıcıları var.
+									","
+											Dans ces deux exemples, nous avons simplement
+											des machines qui ont appris à marcher en laboratoire,
+											mais aussi des machines qui ont appris à marcher dans le monde réel.
+											Je veux vous montrer une autre approche,
+											ce robot, là-bas, qui a quatre jambes,
+											huit moteurs, quatre sur les genoux et quatre sur les hanches.
+											Il a aussi deux capteurs de verticalité qui lui disent
+											comment il est incliné.
+									","
+											In diesen zwei Beispielen haben wir Maschinen gesehen,
+											die in der Simulation gelernt haben, zu gehen,
+											und andere, die es in der Wirklichkeit gelernt haben.
+											Aber ich möchte Ihnen einen anderen Ansatz zeigen.
+											Und das ist dieser Roboter. Er hat vier Beine und acht Motoren,
+											vier für die Knie und vier für die Hüften.
+											Er hat auch zwei Neigungssensoren, die ihm anzeigen,
+											in welche Richtung er sich neigt.
+									","Building ""self-aware"" robots",Hod Lipson,6:18,"AI,cognitive science,demo,design,evolution,robots,technology"
+"
+","
+","
+","
+","
+","Building ""self-aware"" robots",Hod Lipson,6:18,"AI,cognitive science,demo,design,evolution,robots,technology"
+"
+											But this machine doesn't know what it looks like.
+											You look at it and you see it has four legs,
+											the machine doesn't know if it's a snake, if it's a tree,
+											it doesn't have any idea what it looks like,
+											but it's going to try to find that out.
+											Initially, it does some random motion,
+											and then it tries to figure out what it might look like.
+											And you're seeing a lot of things passing through its minds,
+											a lot of self-models that try to explain the relationship
+											between actuation and sensing. It then tries to do
+											a second action that creates the most disagreement
+											among predictions of these alternative models,
+											like a scientist in a lab. Then it does that
+											and tries to explain that, and prune out its self-models.
+									","
+											Pero esta máquina no sabe cómo es ella misma.
+											Mirándola sabes que tiene cuatro patas
+											pero la máquina no sabe si es una serpiente, un árbol,
+											no tiene ni idea de cómo es
+											pero va a tratar de descubrirlo.
+											Al principio, hace algunos movimientos al azar
+											y entonces intenta descubrir cómo puede ser
+											y se ven un montón de cosas pasar por ""sus mentes"",
+											un montón de modelos de sí misma que tratan de explicar la relación
+											entre su actuación y su percepción y entonces intenta ejecutar
+											una segunda acción que genere la mayor discrepancia
+											entre las predicciones de esos modelos alternativos,
+											como un científico en un laboratorio. Entonces hace eso
+											e intenta explicarlo y depura sus modelos de sí misma.
+									","
+											Ama bu makina kendisinin neye benzediğini bilmiyor.
+											Siz ona bakıyor ve görüyorsunuz ki 4 bacağı var,
+											ama makina kendisinin bir yılan mı yoksa bir ağaç mı
+											olduğunu bilmiyor, bu konuda hiç bir fikri yok,
+											ama bunu öğrenmek için uğraşacak.
+											İlk başlarda rastgele hareket ediyor
+											ve sonrasında nasıl göründüğünü anlamaya çabalıyor.
+											Ve görüyorsunuz aklından bir sürü şey geçiyor,
+											kendi kişisel modelini açıklamak için hareketleriyle algılaması
+											arasındaki bağlantıyı çözmeye çalışıyor. Sanki bir bilim adamı gibi
+											ikinci bir adım atarak bu tahmini modeller arasında
+											kendisine en büyük kararsızlığı oluşturmaya
+											devam ediyor. Daha sonra bunları yaparak
+											kendisini açıklamaya çalışıyor ve çıkardığı modelleri sadeleştiriyor.
+									","
+											Mais cette machine ne sait pas à quoi elle ressemble.
+											Vous la regardez et vous voyez ses quatre jambes,
+											la machine ne sait pas si c'est un serpent, un arbre,
+											elle n'a aucune idée de ce à quoi elle ressemble,
+											mais elle va essayer de le deviner.
+											Au début, elle fait des mouvements au hasard,
+											et elle essaye de deviner à quoi elle peut ressembler —
+											vous voyez un tas de choses lui traverser l'esprit,
+											un tas de modèles qui essayent d'expliquer le lien
+											entre la mise en action et la perception — et puis elle essaie de
+											faire un second mouvement qui crée le plus grand contraste
+											parmi les prédictions de ces modèles alternatifs,
+											tel un scientifique dans un labo. Elle le fait
+											et essaye de l'expliquer, et d'éliminer ses propres modèles.
+									","
+											Diese Maschine weiß nicht, wie sie aussieht.
+											Sie sehen, dass sie vier Beine hat.
+											Aber sie weiß nicht, ob sie eine Schlange oder ein Baum ist.
+											Sie hat keine Vorstellung von ihrem Aussehen,
+											aber sie wird versuchen es herauszufinden.
+											Anfänglich bewegt sie sich zufällig,
+											und dann versucht sie herauszufinden, wie sie aussehen könnte.
+											Es gehen ihr viele Dinge durch den Kopf,
+											viele Modelle ihrer Selbst, die die Beziehung zwischen
+											Handeln und Wahrnehmen erklären sollen.
+											Eine zweite Aktion versucht dann, den größtmöglichen Widerspruch zwischen
+											den so gewonnenen Vorhersagen zu erzeugen,
+											wie ein Wissenschaftler im Labor.
+											Dann versucht sie, sich das alles zu erklären und die Modelle ihrer Selbst auszulichten.
+									","Building ""self-aware"" robots",Hod Lipson,6:18,"AI,cognitive science,demo,design,evolution,robots,technology"
+"
+","
+","
+","
+","
+","Building ""self-aware"" robots",Hod Lipson,6:18,"AI,cognitive science,demo,design,evolution,robots,technology"
+"
+											This is the last cycle, and you can see it's pretty much
+											figured out what its self looks like. And once it has a self-model,
+											it can use that to derive a pattern of locomotion.
+											So what you're seeing here are a couple of machines —
+											a pattern of locomotion.
+											We were hoping that it wass going to have a kind of evil, spidery walk,
+											but instead it created this pretty lame way of moving forward.
+									","
+											Este es el último ciclo y pueden ver que prácticamente
+											ha descubierto cómo es y una vez que tiene un modelo de sí misma,
+											puede usarlo para derivar un patrón de locomoción.
+											Así que lo que ven aquí son un par de máquinas,
+											un patrón de locomoción.
+											Esperábamos que fuera a tener un tipo de andar maligno, arácnido,
+											pero en cambio creó esta forma de avanzar bastante patética.
+									","
+											Burada gördüğünüz ise son aşama ve görüyorsunuz ki nasıl göründüğünü
+											bir hayli anlamış durumda. Kendi modelini bir kere oluşturduktan sonra,
+											bu modeli bir hareket dizisi oluşturmak için kullanabilir.
+											Burada görmekte olduğunuz birkaç makine,
+											birbirini takip eden bir dizi hareket yapıyor.
+											Umuyorduk ki bir çeşit şeytani, örümceksi yürüyüş yöntemi olacak
+											ama görüyoruz ki, ilerlemek için çok aksak bir yol geliştirdi.
+									","
+											Ceci est le dernier cycle, et vous voyez qu'elle a plutôt
+											deviné à quoi elle ressemble, et une fois qu'elle sait quel est son modèle,
+											elle s'en sert pour déterminer son mode de déplacement.
+											Vous voyez ici des machines —
+											un modèle de déplacement.
+											Nous espérions qu'il acquerrait une sorte de démarche d'araignée,
+											mais au contraire, elle a créé cette manière plutôt boiteuse d'avancer.
+									","
+											Das ist der letzte Zyklus, und Sie sehen,
+											dass sie herausgefunden hat, wie sie aussieht, und sobald sie ein Modell ihrer Selbst hat,
+											kann sie es verwenden, um davon ein Bewegungsmuster abzuleiten.
+											Hier sehen Sie das Bewegungsmuster
+											einer Maschine.
+											Wir hofften, dass sie eine Art bösen, spinnenartigen Gang haben würde,
+											aber stattdessen entwickelte sie diese ziemlich lahme Art der Vorwärtsbewegung.
+									","Building ""self-aware"" robots",Hod Lipson,6:18,"AI,cognitive science,demo,design,evolution,robots,technology"
+"
+","
+","
+","
+","
+","Building ""self-aware"" robots",Hod Lipson,6:18,"AI,cognitive science,demo,design,evolution,robots,technology"
+"
+											But when you look at that, you have to remember
+											that this machine did not do any physical trials on how to move forward,
+											nor did it have a model of itself.
+											It kind of figured out what it looks like, and how to move forward,
+											and then actually tried that out.
+											(Applause)
+									","
+											Pero cuando miran eso tienen que recordar
+											que esta máquina no hizo ningún ensayo físico sobre cómo avanzar,
+											ni tenía un modelo de sí misma.
+											Más o menos descubrió cómo era, y cómo podía avanzar,
+											y entonces lo intentó en realidad.
+											(Aplausos)
+									","
+											Ama bu robota bakarken ileri gitmek için hiç bir
+											fiziksel denemede bulunmadığını ve kendi fiziksel yapısını bilmediğini
+											aklınızdan çıkarmamanız gerekiyor.
+											Bir şekilde kendi şeklini ve nasıl ilerleyebileceğini anlamaya çalıştı
+											ve çıkardığı yöntemle ilerlemeyi denedi.
+											(Alkışlar)
+									","
+											En voyant cela, vous devez toutefois vous rappeler
+											que cette machine n'a pas pu tester physiquement comment avancer,
+											et n'avait pas modèle d'elle-même.
+											En gros, elle a deviné à quoi elle ressemble, et comment avancer,
+											et a ensuite essayé de le faire.
+											(Applaudissements)
+									","
+											Aber Sie müssen bedenken,
+											dass diese Maschine nie real ausprobiert hat, wie sie sich vorwärts bewegen kann,
+											noch hatte sie ein Modell ihrer selbst.
+											Sie hat irgendwie ausgerechnet, wie sie aussieht und sich vorwärts bewegen kann
+											und hat es dann tatsächlich ausprobiert.
+											(Applaus)
+									","Building ""self-aware"" robots",Hod Lipson,6:18,"AI,cognitive science,demo,design,evolution,robots,technology"
+"
+","
+","
+","
+","
+","Building ""self-aware"" robots",Hod Lipson,6:18,"AI,cognitive science,demo,design,evolution,robots,technology"
+"
+											So, we'll move forward to a different idea.
+											So that was what happened when we had a couple of —
+											that's what happened when you had a couple of — OK, OK, OK —
+											(Laughter)
+											— they don't like each other. So
+											there's a different robot.
+											That's what happened when the robots actually
+											are rewarded for doing something.
+											What happens if you don't reward them for anything, you just throw them in?
+									","
+											Entonces, probemos una idea diferente.
+											Eso fue lo que ocurrió cuando teníamos un par de...
+											fue lo que ocurrió cuando tienes un par... OK, OK, OK,
+											(Risas)
+											no se caen bien. Entonces
+											hay un robot diferente.
+											Eso fue lo que ocurrió cuando los robots fueron
+											recompensados por hacer algo.
+											¿Qué ocurre si no los recompensas en lo absoluto, si sólo los pones ahí?
+									","
+											Şimdi başka bir fikre doğru ilerleyelim.
+											Bu gördükleriniz, birkaç şeyde olanlar —
+											Bu, birkaç şeyde olanlar — Tamam,Tamam,Tamam —
+											Gülüşmeler
+											— birbirlerini pek sevmiyorlar. Peki,
+											bu da başka bir robot.
+											Burada da robotları yaptıkları şeye göre
+											ödüllendirildikten sonra olanlar.
+											Onları yaptıklarından dolayı ödüllendirmeyip sadece çorbaya dahil ederseniz ne olur?
+									","
+											Passons maintenant à une autre idée.
+											Que se passerait-il si nous avions un couple —
+											ce qui arrive quand vous avez un couple — OK, OK, OK —
+											(Rires)
+											— ils ne s'aiment pas.
+											Voici un autre robot.
+											Voici ce qui arrive quand les robots sont effectivement
+											récompensés pour avoir fait quelque chose.
+											Que se passe-t-il si vous ne les récompensez jamais, vous les laissez seuls?
+									","
+											Schauen wir uns eine andere Sache an.
+											Das geschah also, als wir einige —
+											das geschah, als wir einige —
+											(Lachen)
+											— sie mögen einander nicht.
+											Das ist ein anderer Roboter.
+											Das geschieht, wenn die Roboter für etwas,
+											das sie tun, belohnt werden.
+											Was geschieht, wenn man sie für gar nichts belohnt?
+									","Building ""self-aware"" robots",Hod Lipson,6:18,"AI,cognitive science,demo,design,evolution,robots,technology"
+"
+","
+","
+","
+","
+","Building ""self-aware"" robots",Hod Lipson,6:18,"AI,cognitive science,demo,design,evolution,robots,technology"
+"
+											So we have these cubes, like the diagram showed here.
+											The cube can swivel, or flip on its side,
+											and we just throw 1,000 of these cubes into a soup —
+											this is in simulation —and don't reward them for anything,
+											we just let them flip. We pump energy into this
+											and see what happens in a couple of mutations.
+											So, initially nothing happens, they're just flipping around there.
+											But after a very short while, you can see these blue things
+											on the right there begin to take over.
+									","
+											Tenemos estos cubos, como el diagrama muestra aquí.
+											El cubo puede girar, o ponerse de lado,
+											y dejamos mil de esos cubos en una sopa,
+											esto es en simulación, y no los recompensamos por nada,
+											sólo los dejamos dar vueltas. Le insertamos energía a esto
+											y vemos que ocurre en un par de mutaciones.
+											Al principio no pasa nada, sólo están dando de vueltas por ahí.
+											Pero muy poco después puedes ver esas cosas azules
+											a la derecha que empiezan a prevalecer.
+									","
+											Bu şekilde gördüğünüz gibi, küplerimiz var.
+											Bu küpler dönebiliyor veya olduğu yerde yere değen kenarını değiştirebiliyor,
+											ve biz bu küplerden 1000 tanesini bir çorbaya attık —
+											canlandırma amacıyla — ve onları ödüllendirmedik,
+											sadece takla atmalarına izin verdik. Enerji pompalayarak
+											bir iki değişimden sonra neler olduğunu görmek istedik.
+											İlk başta hiç birşey olmadı, sadece takla atıp durdular.
+											Ama çok kısa süre sonra şu küçük mavi şeyler sağ tarafa
+											doğru kaymaya başladılar.
+									","
+											Nous avons ces cubes, comme montrés sur le diagramme.
+											Le cube peut pivoter, tourner sur le côté,
+											nous lançons 1000 cubes dans une soupe —
+											en simulation du moins — et nous ne les récompensons pas,
+											nous les laissons se retourner. Nous envoyons de l'énergie
+											et regardons les mutations qui peuvent arriver.
+											Au départ, rien ne se passe, ils se contentent de pivoter.
+											Mais peu après, vous pouvez voir ces choses bleues
+											sur la droite commencer à dominer.
+									","
+											Wir benutzten diese Würfel.
+											Sie können sich drehen oder auf die Seite kippen.
+											Wir werden einfach 1.000 dieser Würfel in einen Topf werfen und nicht belohnen.
+											Das hier ist eine Simulation.
+											Wir lassen sie sich nur bewegen. Wir pumpen Energie hinein
+											und beobachten, was in ein paar Mutationen geschieht.
+											Anfänglich geschieht überhaupt nichts, sie zappeln nur herum.
+											Aber nach kurzer Zeit können Sie sehen, wie die blauen Dinger
+											auf der rechten Seite die Oberhand gewinnen.
+									","Building ""self-aware"" robots",Hod Lipson,6:18,"AI,cognitive science,demo,design,evolution,robots,technology"
+"
+","
+","
+","
+","
+","Building ""self-aware"" robots",Hod Lipson,6:18,"AI,cognitive science,demo,design,evolution,robots,technology"
+"
+											They begin to self-replicate. So in absence of any reward,
+											the intrinsic reward is self-replication.
+											And we've actually built a couple of these,
+											and this is part of a larger robot made out of these cubes.
+											It's an accelerated view, where you can see the robot actually
+											carrying out some of its replication process.
+											So you're feeding it with more material — cubes in this case —
+											and more energy, and it can make another robot.
+											So of course, this is a very crude machine,
+											but we're working on a micro-scale version of these,
+											and hopefully the cubes will be like a powder that you pour in.
+									","
+											Empiezan a autorreplicarse. Así que en ausencia de toda recompensa
+											la recompensa intrínseca es autorreplicación.
+											Y de hecho hemos construido un par de éstos
+											y esto es parte de un robot más grande hecho con estos cubos,
+											es una vista acelerada donde puedes ver al robot
+											ejecutando parte de su proceso de replicación.
+											Así que si estás dándole más material, cubos en este caso,
+											y más energía y puede hacer otro robot.
+											Por supuesto, es una máquina muy rudimentaria
+											pero estamos trabajando en una versión a microescala,
+											esperando que algún día los cubos sean como un polvo que puedas echar.
+									","
+											Kendilerini kopyalamaya başladılar. Görüğünüz gibi,
+											Ödül verilmezken asıl ödül kendini kopyalamak oluyor.
+											Ardından bunlardan birkaç tane yaptık,
+											ve bunlar daha büyük olan diğer bir robotun parçalarıydı.
+											Bu bir hızlandırılmış gösterim ve robotu kendini kopyalama
+											işlemini sürdürürken görüyorsunuz.
+											Daha çok malzemeyle — burada küpler ile mesela — ve
+											enerjiyle besliyorsunuz, sonra başka bir robot oluşturuyor.
+											Tabi ki burada gördüğünüz çok kaba bir makina
+											ama biz mikro boyutlarda olanları üzerinde çalışıyoruz,
+											ve umudumuz toz gibi robotlar üretebiliyor olmak.
+									","
+											Elles commencent à s'auto-répliquer. En l'absence de récompense,
+											la récompense intrinsèque est l'auto-réplication.
+											Nous en avons donc construit des comme cela,
+											qui sont un morceau d'un plus grand robot créé à partir de ces cubes,
+											voici en vue accélérée, le robot effectivement
+											en train de s'auto-répliquer.
+											Vous leur donnez plus de matériaux — des cubes en l'occurrence —
+											et plus d'énergie, et cela crée un autre robot.
+											Bien sûr, c'est un robot très grossier,
+											mais nous travaillons à une version microscopique,
+											et nous espérons que les cubes seront comme une poudre à répandre.
+									","
+											Sie beginnen sich selbst zu reproduzieren. Ohne jede Belohnung
+											wird die Selbst-Reproduktion zur intrinsischen Belohnung.
+											Wir haben einige gebaut.
+											Das hier ist ein Teil eines größeren Roboters, der aus diesen Würfeln besteht.
+											Es ist eine beschleunigte Ansicht, in der man sieht,
+											wie sich der Roboter selbst repliziert.
+											Wenn man ihn mit mehr Material füttert, in diesem Fall mit Würfeln,
+											und mit mehr Energie, kann er einen weiteren Roboter bauen.
+											Das ist natürlich eine sehr primitive Maschine,
+											aber wir arbeiten auch an Mikro-Versionen.
+											Hoffentlich werden die Würfel wie Puder, das man wo hinzugibt.
+									","Building ""self-aware"" robots",Hod Lipson,6:18,"AI,cognitive science,demo,design,evolution,robots,technology"
+"
+","
+","
+","
+","
+","Building ""self-aware"" robots",Hod Lipson,6:18,"AI,cognitive science,demo,design,evolution,robots,technology"
+"
+											OK, so what can we learn? These robots are of course
+											not very useful in themselves, but they might teach us something
+											about how we can build better robots,
+											and perhaps how humans, animals, create self-models and learn.
+											And one of the things that I think is important
+											is that we have to get away from this idea
+											of designing the machines manually,
+											but actually let them evolve and learn, like children,
+											and perhaps that's the way we'll get there. Thank you.
+											(Applause)
+									","
+											¿Qué podemos aprender? Estos robots, por supuesto,
+											no son muy útiles por sí mismos pero podrían enseñarnos algo
+											sobre cómo podemos construir mejores robots
+											y quizás cómo los humanos y animales crean modelos de sí mismos y aprenden.
+											Y una de las cosas que creo es importante
+											es que tenemos que abandonar esta idea
+											de diseñar máquinas manualmente
+											sino más bien dejarlas evolucionar y aprender, como niños,
+											y quizás esa es la forma en que lo consigamos. Gracias.
+											(Aplausos)
+									","
+											Peki, ne öğrenebiliriz? Bu robotlar tabi ki
+											tek başlarına pek yararlı değiller ama belki bize nasıl daha iyi
+											robotlar yapabileceğimiz konusunda ve belki insanoğlunun
+											ve hayvanların nasıl kendi kopyalarını yapabilecekleri konusunda birşeyler öğretebilirler.
+											Ve bence önemli olan şeylerden bir tanesi de
+											elle makinalar tasarlama
+											fikrinden uzaklaşmalıyız, ve onların
+											çocukmuş gibi kendilerini geliştirip öğrenmelerini sağlamalıyız,
+											Belki bu şekilde başarıya ulaşabiliriz. Teşekkürler.
+											(Alkışlar)
+									","
+											Qu'apprenons-nous? Ces robots ne sont bien sûr
+											pas très utiles en eux-mêmes, mais ils pourraient nous apprendre
+											comment construire de meilleurs robots,
+											et peut-être comment les humains et les animaux créent leurs modèles et apprennent.
+											La chose la plus importante, est, je pense
+											que si nous devons sortir de cette idée
+											de concevoir des machines ""à la main""
+											mais au contraire de les laisser évoluer et apprendre, comme des enfants,
+											peut-être nous y arriverons ainsi. Merci.
+											(Applaudissements)
+									","
+											OK, was können wir daraus lernen? Diese Roboter sind natürlich
+											an sich nicht sehr nützlich, aber sie könnten uns beibringen,
+											wie man bessere Roboter baut
+											und vielleicht wie Menschen und Tiere lernen und Modelle ihrer Selbst erzeugen.
+											Ich denke, es ist wichtig,
+											dass wir uns von der Idee lösen,
+											Maschinen selbst zu entwerfen.
+											Wir sollten sie sich entwickeln und lernen lassen wie Kinder.
+											Vielleicht ist das der richtige Weg. Vielen Dank.
+											(Applaus)
+									","Building ""self-aware"" robots",Hod Lipson,6:18,"AI,cognitive science,demo,design,evolution,robots,technology"
+"
+","
+","
+","
+","
+","Building ""self-aware"" robots",Hod Lipson,6:18,"AI,cognitive science,demo,design,evolution,robots,technology"

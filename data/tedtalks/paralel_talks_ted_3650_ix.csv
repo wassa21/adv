@@ -1,0 +1,1243 @@
+en,es,tr,fr,title,speaker,duration,tags
+"
+","
+","
+","
+",The beautiful math behind the world's ugliest music,Scott Rickard,9:43,"TEDx,entertainment,math,music,science,science and art,algorithm,composing,collaboration"
+"
+											So what makes a piece of music beautiful?
+									","
+											¿Qué hace que la música sea hermosa?
+									","
+											Bir müzik parçasını güzel yapan nedir?
+									","
+											Qu’est-ce qui rend
+une œuvre musicale belle ?
+									",The beautiful math behind the world's ugliest music,Scott Rickard,9:43,"TEDx,entertainment,math,music,science,science and art,algorithm,composing,collaboration"
+"
+","
+","
+","
+",The beautiful math behind the world's ugliest music,Scott Rickard,9:43,"TEDx,entertainment,math,music,science,science and art,algorithm,composing,collaboration"
+"
+											Well, most musicologists would argue
+											that repetition is a key aspect of beauty,
+											the idea that we take a melody,
+a motif, a musical idea,
+											we repeat it, we set up
+the expectation for repetition,
+											and then we either realize it
+or we break the repetition.
+											And that's a key component of beauty.
+											So if repetition and patterns
+are key to beauty,
+											then what would the absence
+of patterns sound like,
+											if we wrote a piece of music
+that had no repetition whatsoever in it?
+											That's actually an interesting
+mathematical question.
+											Is it possible to write a piece of music
+that has no repetition whatsoever?
+											It's not random — random is easy.
+											Repetition-free, it turns
+out, is extremely difficult,
+											and the only reason
+that we can actually do it
+											is because of a man
+who was hunting for submarines.
+											It turns out, a guy who was trying
+to develop the world's perfect sonar ping
+											solved the problem of writing
+pattern-free music.
+											And that's what the topic
+of the talk is today.
+									","
+											Bueno, la mayoría de 
+los musicólogos dirían
+											que la repetición es un 
+aspecto clave de la belleza.
+											La idea que tenemos de una melodía, 
+un motivo, una idea musical,
+											es repetirla, crear la expectativa 
+de la repetición,
+											y luego llevarla a cabo 
+o detener la repetición.
+											Ese es un aspecto clave de la belleza.
+											Así que si la repetición y los patrones 
+son claves para la belleza,
+											entonces, ¿cómo sería 
+el sonido sin patrones
+											si compusiéramos música 
+sin repetición alguna?
+											Es realmente un problema 
+matemático interesante.
+											¿Es posible componer música 
+que no tenga repetición alguna?
+											No me refiero a música aleatoria;
+eso es fácil.
+											Resulta que es muy difícil 
+evitar la repetición
+											y solo podemos lograrlo gracias
+											a un hombre que cazaba submarinos.
+											Un hombre que intentaba desarrollar 
+el impulso sonoro perfecto para sonares
+											resolvió el problema de 
+componer música sin patrones.
+											Y ese es el tema de la charla de hoy.
+									","
+											Bir çok müzikologun dediğine göre,
+											tekrarlamalar güzelliğin anahtarıdır,
+											melodiye yazdığımız düşüncemiz,
+bir motif, bir müzik fikri,
+											tekrarlıyoruz, 
+tekrardan beklentilerimiz var,
+											en sonda tekrarları ya farkediyoruz
+ya da kırıyoruz.
+											Bu, müziğin güzelliğinin anahtarı.
+											Peki, eğer tekrarlar ve desenler
+güzelliyin anahtarıysa,
+											desenlerin olmadığı bir müzik nasıl olur?
+											Tekrarlar olmayan sade bir müzik 
+kulağa nasıl gelir?
+											Bu, çok ilginç bir matematik sorusudur.
+											Asla tekrarlar olmayan
+bir müzik yapmak mümkün mü?
+											Rastgele değil— rastgele kolaydır.
+											Tekrarsız müzik yapmak, kesinlikle zordur
+											ve bunu yapmamızın tek sebebi
+											denizaltını görmek isteyen bir adamdır.
+											Denizaltına kaliteli monoton sinyal
+göndermeye çalışan bir adam
+											problemi desensiz müzik yaparak çözmüştü.
+											Bu, bugünkü konuşmamızın konusudur.
+									","
+											La plupart de musicologues affirment
+											que la clé de la beauté réside
+dans les répétitions,
+											dans l’idée qu’avec une mélodie,
+un air, une inspiration musicale
+											puisse être répétée, suscitant ainsi
+l’attente de la répétition,
+											que nous réalisions effectivement, ou pas.
+											Il s'agit d'un élément clé de la beauté.
+											Si la répétition et les motifs musicaux
+sont essentiels à la beauté,
+											à quoi ressemblera
+l'absence des motifs musicaux
+											si nous composons une œuvre musicale
+dépourvue de toute répétition ?
+											En fait, c'est une vraie
+question mathématique.
+											Est-il possible de composer une œuvre
+musicale sans aucune répétition ?
+											Non pas le fait du hasard,
+ça serait facile.
+											Le fait est qu’il est extrêmement ardu
+d’échapper aux répétitions.
+											Si on peut y arriver,
+											c’est uniquement grâce à un homme
+qui voulait détecter les sous-marins.
+											Et oui, un type qui voulait concevoir
+le ping parfait pour les sonars
+											a résolu le problème de composer
+de la musique sans motif.
+											Je vais vous expliquer
+tout cela aujourd’hui.
+									",The beautiful math behind the world's ugliest music,Scott Rickard,9:43,"TEDx,entertainment,math,music,science,science and art,algorithm,composing,collaboration"
+"
+","
+","
+","
+",The beautiful math behind the world's ugliest music,Scott Rickard,9:43,"TEDx,entertainment,math,music,science,science and art,algorithm,composing,collaboration"
+"
+											So, recall that in sonar,
+											you have a ship that sends
+out some sound in the water,
+											and it listens for it — an echo.
+											The sound goes down, it echoes
+back, it goes down, echoes back.
+											The time it takes the sound to come back
+tells you how far away it is:
+											if it comes at a higher pitch,
+											it's because the thing
+is moving toward you;
+											if it comes back at a lower pitch,
+it's moving away from you.
+											So how would you design
+a perfect sonar ping?
+									","
+											Les recuerdo que en el sonar,
+											hay un barco que emite 
+una señal acústica en el agua
+											y escucha su reflexión, su eco.
+											Cuando el sonido baja, 
+produce un eco que regresa.
+											El tiempo que tarda en regresar
+nos indica cuán lejos está.
+											Si se vuelve un tono más alto,
+es porque el objeto se acerca.
+											Si se vuelve un tono más bajo, 
+es porque el objeto se aleja de nosotros.
+											¿Cómo diseñarían un impulso
+sonoro perfecto para sonares?
+									","
+											Monoton sinyâli yeniden 
+hatırlatacak olursak,
+											gemiden suya gönderilen ses dalgasıdır,
+											bu dalga eko verir.
+											Ses sürekli aşağı gidip geri döner.
+											Sinyâlin gitdiği yolun aldığı zaman
+bize mesafenin uzunluğunu söyler :
+											daha yüksek aşamaya gelirse,
+											cismin size yaklaştığını gösterir;
+											eğer aşağıya düşerse, 
+cismin sizden uzaklaştığını gösterir.
+											Bu sinyâli en iyi nasıl hazırlayabiliriz?
+									","
+											Un sonar, vous le savez,
+											guette l’écho du son produit
+dans l’eau par un navire.
+											Le son descend, se réfléchit,
+redescend, et rebondit à nouveau.
+											Le délai avant d'entendre l’écho du son
+émis, permet de déterminer la distance.
+											Un écho plus aigu indique
+un objet qui navigue vers vous,
+											alors qu’un son plus grave indique
+que cet objet s’éloigne.
+											Comment concevoir
+le ping parfait d'un sonar ?
+									",The beautiful math behind the world's ugliest music,Scott Rickard,9:43,"TEDx,entertainment,math,music,science,science and art,algorithm,composing,collaboration"
+"
+","
+","
+","
+",The beautiful math behind the world's ugliest music,Scott Rickard,9:43,"TEDx,entertainment,math,music,science,science and art,algorithm,composing,collaboration"
+"
+											Well, in the 1960s, a guy
+by the name of John Costas
+											was working on the Navy's extremely
+expensive sonar system.
+											It wasn't working, because the ping
+they were using was inappropriate.
+											It was a ping much
+like the following here.
+											You can think of this as the notes
+and this is time.
+									","
+											Bien, en la década de 1960, 
+un hombre llamado John Costas
+											trabajaba en el supercostoso 
+sistema sonar de la Marina de EE.UU.
+											El sistema no funcionaba porque el
+impulso sonoro que usaban no era adecuado.
+											Era un impulso sonoro muy parecido a este,
+											pueden pensar en esto como las notas
+y esto es el tiempo.
+									","
+											1960'larda, John Costas isimli biri
+											Navy'nin pahalı sonar sistemi
+üzerinde çalışıyordu.
+											Sistem çalışmadı, çünkü 
+sinyâl doğru seçilmemişti.
+											Yaklaşık şöyle bir şey oluşmuştu.
+											Bunu notlar şeklinde ve bunu
+zaman şeklinde düşünebilirsiniz.
+									","
+											Dans les années 60,
+un type appelé John Costas
+											contribuait au coûteux développement
+d’un système de sonar de la Marine.
+											Ça n’avançait pas parce que le ping
+qu’ils utilisaient était inadéquat.
+											Le ping ressemblait à ceci.
+											De ce côté, vous avez les notes,
+et ici, le temps.
+									",The beautiful math behind the world's ugliest music,Scott Rickard,9:43,"TEDx,entertainment,math,music,science,science and art,algorithm,composing,collaboration"
+"
+","
+","
+","
+",The beautiful math behind the world's ugliest music,Scott Rickard,9:43,"TEDx,entertainment,math,music,science,science and art,algorithm,composing,collaboration"
+"
+											(Piano notes play high to low)
+									","
+											(Notas de piano de mayor a menor)
+									","
+											(Piano notları alçalıyor)
+									","
+											(Notes de piano d’aigu à grave)
+									",The beautiful math behind the world's ugliest music,Scott Rickard,9:43,"TEDx,entertainment,math,music,science,science and art,algorithm,composing,collaboration"
+"
+","
+","
+","
+",The beautiful math behind the world's ugliest music,Scott Rickard,9:43,"TEDx,entertainment,math,music,science,science and art,algorithm,composing,collaboration"
+"
+											So that was the sonar ping
+they were using, a down chirp.
+											It turns out that's a really bad ping.
+											Why? Because it looks
+like shifts of itself.
+											The relationship between the first
+two notes is the same as the second two,
+											and so forth.
+											So he designed a different
+kind of sonar ping,
+											one that looks random.
+											These look like a random pattern
+of dots, but they're not.
+											If you look very carefully,
+											you may notice that, in fact,
+the relationship between each pair of dots
+											is distinct.
+											Nothing is ever repeated.
+											The first two notes
+and every other pair of notes
+											have a different relationship.
+									","
+											Ese era el impulso sonoro que usaban: 
+un chirrido descendente.
+											Resulta que era muy malo.
+											¿Por qué? Porque parece 
+una variación de sí mismo.
+											La relación entre las dos primeras notas 
+es la misma de las dos siguientes
+											y así en adelante.
+											Así que diseñó un tipo diferente 
+de impulso sonoro:
+											uno que parece aleatorio.
+											Esto parece ser un patrón de puntos 
+aleatorios, pero no lo es.
+											Si observan cuidadosamente,
+											notarán que, de hecho, la relación 
+entre cada par de puntos
+											es distinta.
+											Nada se repite.
+											Las dos primeras notas 
+y todos los pares de notas
+											tienen una relación diferente.
+									","
+											Onların kullandıkları
+zayıf cıvıltılı sonar sinyaldi.
+											Yani çok kötü bir vızıltı sesi.
+											Neden? Çünkü bu kendi değişimi gibi
+görünüyor.
+											İlk iki not arasındaki ilişki sonraki 
+iki not arasındakı ilişkinin aynısı ve
+											dördüncü de onun gibi.
+											Yani o, farklı bir sonar sinyâl tasarladı,
+											rastgele gibi görünen .
+											Noktaların rasgele desenine benziyorlardı,
+ama değillerdi.
+											Çok dikkatlice bakarsanız,
+											her çift nokta arasında ilişkinin
+belirgin olduğunu
+											farkdebilirsiniz.
+											Hiç bir şey tekrarlanmamıştır.
+											İlk çift nota ve diğer sonraki çiftler
+											farklı ilişkiyle bağlanmışlar.
+									","
+											Voici le ping du sonar qu’ils
+utilisaient, un chirp vers les graves.
+											C’était vraiment
+un très mauvais ping.
+											Pourquoi ? Parce qu’il donne
+l’impression de se dupliquer.
+											La relation entre les deux premières
+notes est identique aux deux suivantes,
+											et ainsi de suite.
+											Il a donc conçu un autre type de ping,
+											qui paraitrait aléatoire.
+											La position des points dans le tableau
+semble aléatoire, mais en fait non.
+											Un observateur attentif remarquera
+											qu’en réalité, la relation entre chaque
+couple de points est unique.
+											Rien n’est jamais répété.
+											La relation entre les deux premières
+notes et chaque autre paire de notes
+											est toujours différente.
+									",The beautiful math behind the world's ugliest music,Scott Rickard,9:43,"TEDx,entertainment,math,music,science,science and art,algorithm,composing,collaboration"
+"
+","
+","
+","
+",The beautiful math behind the world's ugliest music,Scott Rickard,9:43,"TEDx,entertainment,math,music,science,science and art,algorithm,composing,collaboration"
+"
+											So the fact that we know
+about these patterns is unusual.
+											John Costas is the inventor
+of these patterns.
+											This is a picture from 2006,
+shortly before his death.
+											He was the sonar engineer
+working for the Navy.
+											He was thinking about these patterns,
+											and he was, by hand, able to come
+up with them to size 12 —
+											12 by 12.
+											He couldn't go any further
+and thought maybe they don't exist
+											in any size bigger than 12.
+											So he wrote a letter
+to the mathematician in the middle,
+											a young mathematician in California
+at the time, Solomon Golomb.
+									","
+											Y si conocemos estos patrones 
+es por algo inusual.
+											John Costas es el inventor 
+de estos patrones.
+											Esta es una foto del 2006, 
+poco antes de su muerte.
+											Era el ingeniero que trabajaba 
+en sonares para la Marina.
+											Pensó en estos patrones
+											y pudo crearlos manualmente, 
+hasta el tamaño 12;
+											12 por 12.
+											No pudo ir más allá y pensó 
+que tal vez no existía
+											un tamaño más grande que 12.
+											Así que escribió una carta 
+al matemático del medio,
+											en ese entonces era un joven matemático
+de California, Solomon Golomb.
+									","
+											Yani bizim bu desenler hakkında bilgimiz
+farklı, olağandışıdır.
+											Bu desenlerin yaratıcısı John Costas'dır.
+											Bu, 2006'dan bir fotoğraf,
+ölümünden kısa süre önce.
+											O, Navy'de çalışan
+bir deniz radarı mühendisiydi.
+											Bu desenler hakkında düşünüyordu,
+											O, tekbaşına onları 12 —
+											12x12 boyutlu yapabilirdi.
+											Çok ilerleemedi, düşündü ki,
+12'den büyük
+											boyut olmayabilirdi.
+											Bu fikirle o zamanlar 
+Kaliforniya'da yaşayan matematikçi
+											Solomon Golomb'a bir mektup yazdı.
+									","
+											Le fait même d’avoir connaissance
+de ces motifs est curieux en soi.
+											C’est John Costas qui les a inventés.
+											Voici une photo de lui, en 2006,
+peu avant son décès.
+											C’est lui l’ingénieur
+des sonars de la Marine.
+											Il réfléchissait à ces motifs
+											et il en a créé sur une matrice
+de 12 cases sur 12, à la main.
+											12 sur 12.
+											Il n’a pas pu aller plus loin et pensait
+que 12 pouvait être un maximum.
+											Il a donc écrit
+au mathématicien au centre,
+											un jeune mathématicien
+de Californie, Solomon Golomb.
+									",The beautiful math behind the world's ugliest music,Scott Rickard,9:43,"TEDx,entertainment,math,music,science,science and art,algorithm,composing,collaboration"
+"
+","
+","
+","
+",The beautiful math behind the world's ugliest music,Scott Rickard,9:43,"TEDx,entertainment,math,music,science,science and art,algorithm,composing,collaboration"
+"
+											It turns out that Solomon Golomb
+											was one of the most gifted discrete
+mathematicians of our time.
+											John asked Solomon if he could tell him
+the right reference
+											to where these patterns were.
+											There was no reference.
+											Nobody had ever thought
+about a repetition,
+											a pattern-free structure before.
+											So, Solomon Golomb spent the summer
+thinking about the problem.
+											And he relied on the mathematics
+of this gentleman here,
+											Évariste Galois.
+									","
+											Resulta que Solomon Golomb
+											era uno de los especialistas en matemática
+discreta más talentosos de nuestro tiempo.
+											John le preguntó a Solomon 
+si podía darle la referencia correcta
+											sobre dónde encontrar estos patrones.
+											No existía referencia.
+											Nadie había pensado antes 
+en una repetición,
+											una estructura sin patrones.
+											Solomon Golomb pasó el verano 
+pensando en el problema.
+											Se basó en las matemáticas 
+de este caballero,
+											Évariste Galois.
+									","
+											Görünüyor ki, Solomon Golomb,
+											zamanımızın en yetenekli matematik 
+ustalarından biriydi.
+											John Solomon'dan bu desenlerin 
+nerede olduğunu doğru referansla
+											söylemesini istedi.
+											Ama referans yoktu.
+											Daha önce hiç kimse tekrarlar hakkında,
+											desensiz bir yapı hakkında düşünmedi.
+											Solomon Golomb tüm yazı
+problemin üzerinde çalışmakla geçirdi.
+											O, Evariste Galois isimli birinin
+											matematiğine güvendi.
+									","
+											Solomon Golomb s’est avéré être
+											un des mathématiciens les plus doués
+et les plus discrets de notre époque.
+											John lui a demandé s’il pouvait
+donner la bonne référence
+											pour trouver ces motifs.
+											Mais il n’y en avait pas.
+											Personne n’avait jamais envisagé
+de structure sans répétition, sans motif.
+											Solomon Golomb a donc passé son été
+à réfléchir à ce problème.
+											Pour ça, il a fait appel
+aux mathématiques de ce monsieur, ici,
+											Évariste Galois.
+									",The beautiful math behind the world's ugliest music,Scott Rickard,9:43,"TEDx,entertainment,math,music,science,science and art,algorithm,composing,collaboration"
+"
+","
+","
+","
+",The beautiful math behind the world's ugliest music,Scott Rickard,9:43,"TEDx,entertainment,math,music,science,science and art,algorithm,composing,collaboration"
+"
+											Now, Galois is a very
+famous mathematician.
+											He's famous because he invented
+a whole branch of mathematics
+											which bears his name,
+called Galois field theory.
+											It's the mathematics of prime numbers.
+											He's also famous
+because of the way that he died.
+											The story is that he stood up
+for the honor of a young woman.
+											He was challenged to a duel,
+and he accepted.
+											And shortly before the duel occurred,
+											he wrote down all
+of his mathematical ideas,
+											sent letters to all of his friends,
+saying ""Please, please"" —
+											this was 200 years ago —
+											""Please, please, see that these things
+get published eventually.""
+											He then fought the duel,
+was shot and died at age 20.
+											The mathematics that runs
+your cell phones, the internet,
+											that allows us to communicate, DVDs,
+											all comes from the mind
+of Évariste Galois,
+											a mathematician who died 20 years young.
+									","
+											Galois es un matemático muy famoso
+											porque inventó toda una rama 
+de las matemáticas,
+											que lleva su nombre, la teoría 
+de campos de Galois.
+											Son las matemáticas de los números primos.
+											También es famoso 
+por la forma en que murió.
+											Dice la historia que defendió 
+el honor de una joven.
+											Fue retado a duelo y aceptó.
+											Poco antes del duelo,
+											escribió todas sus ideas matemáticas,
+											diciendo por favor, por favor, por favor
+											—esto hace 200 años—
+											""Por favor, por favor, procuren que 
+se publiquen en algún momento"".
+											Luego, durante el duelo, fue baleado 
+y murió a los 20 años.
+											Las matemáticas que ejecutan nuestros 
+teléfonos móviles, Internet,
+											que nos permiten comunicarnos, el DVD,
+											todo viene de la mente de Évariste Galois,
+											un matemático que murió joven, 
+a los 20 años.
+									","
+											Galois ünlü bir matematikçidir.
+											Ünlü olmasına sebep ise bütün bir
+matematik alanını keşfetmesi ki
+											bu alan Galois alanı teorisi
+olarak adlandırılır.
+											Bu, asal sayıların matematiğidir.
+											Ayrıca ölüm sebebi ile de meşhur biridir.
+											Hikaye şöyledir ki, o genç bir kadının
+onuru için ayağa kalkar.
+											Düelloya çağrılır ve kabul eder.
+											Düellodan kısa süre önce,
+											matematikle bağlı düşüncelerini yazar
+											ve mektupları dostlarına gönderir —
+											bu, 200 yıl önce olmuş —
+											""Lütfen, lütfen, bunların sonunda
+yayınlandığını görün.""
+											Sonra düelloya katılır ve 20 yaşında
+ateş edilerek öldürülür.
+											Telefonlarınızı, interneti çalıştıran,
+											bize iletişim kurmaya, DVD kullanmaya
+yardım eden matematik
+											20 yaşında ölen matematikçi 
+Evariste Galois'in
+											beynindeki düşünceleridir.
+									","
+											Galois est un mathématicien très connu.
+											Il est célèbre car il a carrément inventé
+une branche des mathématiques
+											qui porte son nom, la théorie Galois.
+											Ce sont les mathématiques
+des nombres premiers.
+											La manière dont il est mort
+a aussi contribué à sa célébrité.
+											L’histoire dit qu’il a défendu
+l’honneur d’une jeune femme.
+											Il a accepté le duel
+qu’on lui demandait de relever.
+											Peu avant la date de ce duel,
+											il a mis par écrit
+toutes ses idées mathématiques
+											et a envoyé des lettres à tous ses amis :
+											c’était il y a 200 ans -
+											« « Je vous en prie : faites en sorte que
+ces documents soient publiés un jour. »
+											Il s’est rendu sur le champ du duel,
+et est mort par balle, à l’âge de 20 ans.
+											Les mathématiques qui font
+fonctionner nos portables, l’Internet,
+											qui nous permettent de communiquer,
+d’utiliser des DVD,
+											émanent de l’esprit d’Évariste Galois,
+											d’un mathématicien mort à 20 ans.
+									",The beautiful math behind the world's ugliest music,Scott Rickard,9:43,"TEDx,entertainment,math,music,science,science and art,algorithm,composing,collaboration"
+"
+","
+","
+","
+",The beautiful math behind the world's ugliest music,Scott Rickard,9:43,"TEDx,entertainment,math,music,science,science and art,algorithm,composing,collaboration"
+"
+											When you talk about
+the legacy that you leave ...
+											Of course, he couldn't have
+even anticipated
+											the way that his mathematics
+would be used.
+											Thankfully, his mathematics
+was eventually published.
+											Solomon Golomb realized that that was
+exactly the mathematics needed
+											to solve the problem of creating
+a pattern-free structure.
+											So he sent a letter back to John saying,
+											""It turns out you can generate
+these patterns using prime number theory.""
+											And John went about and solved
+the sonar problem for the Navy.
+									","
+											Cuando hablamos del legado que deja,
+											por supuesto no podía ni imaginar
+											la forma en que se usarían
+sus matemáticas.
+											Afortunadamente, 
+sus teorías se publicaron.
+											Solomon Golomb notó que esas 
+matemáticas eran lo que necesitaba
+											para resolver el problema de la creación
+de una estructura sin patrones.
+											Así que envió una carta a John diciendo:
+											""Se pueden generar los patrones
+usando la teoría de los números primos"".
+											Y John resolvió el problema 
+del sonar de la Marina de EE.UU.
+									","
+											Bıraktığınız miras hakkında konuşurken ...
+											Elbette, o düşüncesinin
+
+											bu kadar yararlı olacağını 
+tahmin edemezdi.
+											Neyse ki, onun düşünceleri
+sonunda yayınlandı.
+											Solomon Golomb anladı ki,
+bu tamamen aradığı şeydi —
+											desensiz müzik
+yaratmak için gereken matematik.
+											John'a bir mektup gönderdi, 
+şöyle söylüyordu:
+											""Yapman gereken şey, 
+asal sayı teorisini kullanmak.""
+											John çalışmaya devam etdi ve Navy için
+sonar problemi çözmeyi başardı.
+									","
+											Vous parlez d’un héritage !
+											Il ne pouvait évidemment pas présager
+											comment on allait appliquer
+ses mathématiques.
+											Heureusement, on a publié
+ses mathématiques.
+											Solomon Golomb a compris que c’était
+exactement les mathématiques nécessaires
+											pour résoudre le problème de création
+de structure sans motif récurrent.
+											Il a répondu par écrit à John :
+											« On peut générer ces motifs en utilisant
+la théorie des nombres premiers. »
+											C’est ce que John a fait et c’est ainsi
+qu’il a résolu le problème du sonar.
+									",The beautiful math behind the world's ugliest music,Scott Rickard,9:43,"TEDx,entertainment,math,music,science,science and art,algorithm,composing,collaboration"
+"
+","
+","
+","
+",The beautiful math behind the world's ugliest music,Scott Rickard,9:43,"TEDx,entertainment,math,music,science,science and art,algorithm,composing,collaboration"
+"
+											So what do these patterns look like again?
+											Here's a pattern here.
+											This is an 88-by-88-sized Costas array.
+											It's generated in a very simple way.
+											Elementary school mathematics
+is sufficient to solve this problem.
+											It's generated by repeatedly
+multiplying by the number three:
+											1, 3, 9, 27, 81, 243 ...
+											When I get to a number that's larger
+than 89 which happens to be prime,
+											I keep taking 89s away
+until I get back below.
+											And this will eventually fill
+the entire grid, 88 by 88.
+											There happen to be 88 notes on the piano.
+											So today, we are going to have
+the world premiere
+											of the world's first
+pattern-free piano sonata.
+									","
+											Entonces, ¿qué aspecto
+tienen estos patrones?
+											Aquí hay uno.
+											Esta es una matriz de Costas 
+de dimensión 88 por 88.
+											Se genera de una manera muy simple.
+											Las matemáticas de la primaria son 
+suficientes para resolver este problema.
+											Se genera multiplicando 
+repetidamente por el número tres:
+											1, 3, 9, 27, 81, 243...
+											Si lo hacemos más de 89 veces, 
+ese número resulta ser primo,
+											me quedan 89 por llenar para poder volver.
+											Y esto terminará completando 
+toda la cuadrícula de 88 por 88.
+											Y resulta que hay 88 notas en el piano.
+											Así que hoy vamos a escuchar 
+el estreno mundial
+											de la primera sonata para piano sin patrón.
+									","
+											Bu desenler nasıl gözüküyordu?
+											Burada bir desenimiz var.
+											88x88 boyutunda Costas dizisi.
+											Çok basit bir yöntemle oluşturuldu.
+											Ortaokul matematiği bile 
+bu problem için yeterlidir.
+											Bu desen devamlı olarak 
+3'e çarpma işlemi yapılarak oluşturuldu:
+											1, 3, 9, 27, 81, 243 ...
+											89'dan büyük olan asal sayıya yetiştiğimde
+											geriye, aşağı dönünceye kadar 
+89'ları alıyorum.
+											Nihayet, 88x88 boyutlu 
+kafes dolmuş olacak.
+											Piano klavyesinde 88 nota vardır.
+											Bugün biz dünyadaki ilk desensiz sonatanın
+											girişini dinleyeceğiz.
+									","
+											À quoi ressemblent ces motifs ?
+											En voici un.
+											C’est une matrice de Costas de 88 sur 88.
+											On peut la générer très facilement.
+											Les mathématiques enseignées
+à l'école primaire suffisent.
+											On la génère en multipliant
+systématiquement par le chiffre trois :
+											1, 3, 9, 27, 81, 243 ...
+											Chaque fois qu’on obtient un nombre
+premier plus grand que 89, un premier,
+											on soustrait 89 jusqu'à obtenir
+un nombre plus petit que 89.
+											On finit ainsi par remplir
+la matrice de 88 sur 88.
+											Il se trouve qu’il y a 88 notes
+sur un piano.
+											Ce soir, c'est une première mondiale,
+											la première sonate de tous les temps
+sans motifs musicaux.
+									",The beautiful math behind the world's ugliest music,Scott Rickard,9:43,"TEDx,entertainment,math,music,science,science and art,algorithm,composing,collaboration"
+"
+","
+","
+","
+",The beautiful math behind the world's ugliest music,Scott Rickard,9:43,"TEDx,entertainment,math,music,science,science and art,algorithm,composing,collaboration"
+"
+											So, back to the question of music:
+											What makes music beautiful?
+											Let's think about one of the most
+beautiful pieces ever written,
+											Beethoven's Fifth Symphony
+and the famous ""da na na na!"" motif.
+											That motif occurs hundreds
+of times in the symphony —
+											hundreds of times
+in the first movement alone
+											and also in all the other
+movements as well.
+											So the setting up of this repetition
+is so important for beauty.
+											If we think about random music
+as being just random notes here,
+											and over here, somehow, Beethoven's Fifth
+in some kind of pattern,
+											if we wrote completely pattern-free music,
+											it would be way out on the tail.
+											In fact, the end of the tail of music
+would be these pattern-free structures.
+											This music that we saw before,
+those stars on the grid,
+											is far, far, far from random.
+											It's perfectly pattern-free.
+									","
+											Ahora, volvamos a la pregunta de la música:
+											¿Qué hace que la música sea hermosa?
+											Pensemos en las composiciones 
+más bellas de la historia,
+											La quinta sinfonía de Beethoven,
+y el famoso motivo ""¡da, na, na, naa!""
+											Ese motivo se repite cientos 
+de veces en la sinfonía,
+											cientos de veces solo 
+en el primer movimiento,
+											y también en el resto de los movimientos.
+											Por eso la estructura de esta repetición
+es muy importante para su belleza.
+											Si pensamos en la música aleatoria 
+como una serie de notas al azar, aquí,
+											y de alguna manera La quinta sinfonía 
+de Beethoven es un tipo de patrón,
+											si escribiésemos música 
+completamente libre de patrones,
+											estaría completamente lejos, en la cola.
+											De hecho, al final de la cola de la música
+podría ser esta estructura sin patrones.
+											La música que hemos visto antes, 
+las estrellas en la cuadrícula,
+											está muy, muy lejos de ser aleatoria.
+											Está completamente libre de patrones.
+									","
+											Sorumuza geri dönelim:
+											Müziği güzel yapan nedir?
+											Şimdiye kadar bestelenmiş 
+en iyi müzikler hakkında düşünelim,
+											Beethovenin 5. Senfonisi ve ünlü 
+""da na na na!"" motifi.
+											Bu motife senfoninin 
+birçok yerinde rast gelebilirsiniz —
+											sadece ilk bölümde yüzlerce defa vardır
+											ve ayrıca diğer bölümlerde de vardır.
+											Bu tekrarların kurulması 
+müziğin estetiği için çok önemli.
+											Eğer rasgele notalardan oluşan 
+rasgele bir müzik ve bir şekilde,
+											Beethoven'in 5. Senfonisini 
+herhangi bir desenle düşünürseniz,
+											desensiz bir müzik bestelersek,
+											finalde bir yerlerde olurdu.
+											Aslında, müziğin final bölümü bu desensiz 
+yapıdan oluşurdu.
+											Az önce gördüğümüz müzik,
+ızgaralardakı notalar
+											rasgeleden çok çok uzak.
+											Tamamen desensizdi.
+									","
+											Revenons à notre question sur la musique :
+											qu’est-ce qui rend une musique belle ?
+											Pensons un moment à une des plus
+belles musiques jamais composées,
+											la cinquième symphonie de Beethoven et
+son célèbre motif « Pom pom pom pooom ».
+											Ce motif apparaît des centaines
+de fois dans la symphonie —
+											plusieurs centaines de fois
+dans le premier mouvement
+											et dans tous les mouvements, d’ailleurs.
+											La configuration de cette répétition
+est cruciale pour la beauté.
+											Si une composition aléatoire se limitait
+à des notes aléatoires, ici,
+											et que la cinquième symphonie
+de Beethoven est ici,
+											le passage exempt de motifs
+serait loin, en fin du coda.
+											En fait, seule la fin du coda
+serait exempte de structures à motif.
+											Or, la musique que nous avons observée
+précédemment, ces points sur une matrice,
+											est loin, très loin, d’être aléatoire.
+											Elle est entièrement exempte de motif.
+									",The beautiful math behind the world's ugliest music,Scott Rickard,9:43,"TEDx,entertainment,math,music,science,science and art,algorithm,composing,collaboration"
+"
+","
+","
+","
+",The beautiful math behind the world's ugliest music,Scott Rickard,9:43,"TEDx,entertainment,math,music,science,science and art,algorithm,composing,collaboration"
+"
+											It turns out that musicologists —
+											a famous composer by the name
+of Arnold Schoenberg —
+											thought of this in the 1930s,
+'40s and '50s.
+											His goal as a composer was to write music
+											that would free music
+from tonal structure.
+											He called it the ""emancipation
+of the dissonance.""
+											He created these structures
+called ""tone rows.""
+											This is a tone row there.
+											It sounds a lot like a Costas array.
+											Unfortunately, he died 10 years
+before Costas solved the problem
+											of how you can mathematically
+create these structures.
+									","
+											Resulta que los musicólogos
+											—un famoso compositor 
+llamado Arnold Schönberg—
+											pensaron en esto en los años 30, 40 y 50.
+											Su objetivo era componer música
+											completamente sin estructura tonal.
+											La denominó ""emancipación
+de la disonancia"".
+											Creó estructuras llamadas ""fila de tonos"".
+											Esta es una fila de tonos.
+											Suena parecido a la matriz de Costas.
+											Por desgracia, murió 10 años antes 
+de que Costas resolviera el problema
+											de cómo crear matemáticamente 
+estas estructuras.
+									","
+											Müzikologlar —
+											Arnold Schoenberg isimli bir besteci —
+											bunu 1930'larda, 
+40'larda ve 50'lerde düşündü.
+											Besteci olarak onun hedefi
+											ton yapısından uzak bir müzik yapmaktı.
+											O bunu 'uyumsuzluğun kurtuluşu' 
+adlandırdı.
+											'Ton sıraları' adlı yapılar oluşturdu.
+											Orada bir ton sırası var.
+											Bu, Costas dizisine benziyor.
+											Ne yazık ki, Costas matematiksel olarak
+bu yapıları isbat ettiğinde
+											artık onun ölümünün 10. yıldönümüydü.
+									","
+											Des musicologues —
+											un compositeur célèbre en particulier,
+Arnold Schoenberg —
+											y a songé dans les années 30, 40 et 50.
+											Son objectif de compositeur
+fut de composer une musique
+											entièrement dénuée de structure tonale
+											qu'il a appelée
+« l’émancipation de la dissonance ».
+											Il a créé des structures
+appelées « séries d'éléments ».
+											En voici une.
+											Ça ressemble beaucoup
+aux matrices de Costas.
+											Hélas, il est mort 10 ans avant que
+Costas ne résolve le problème
+											de la création mathématique
+de ces structures.
+									",The beautiful math behind the world's ugliest music,Scott Rickard,9:43,"TEDx,entertainment,math,music,science,science and art,algorithm,composing,collaboration"
+"
+","
+","
+","
+",The beautiful math behind the world's ugliest music,Scott Rickard,9:43,"TEDx,entertainment,math,music,science,science and art,algorithm,composing,collaboration"
+"
+											Today, we're going to hear the world
+premiere of the perfect ping.
+											This is an 88-by-88-sized Costas array,
+											mapped to notes on the piano,
+											played using a structure called
+a Golomb ruler for the rhythm,
+											which means the starting
+time of each pair of notes
+											is distinct as well.
+											This is mathematically almost impossible.
+											Actually, computationally,
+it would be impossible to create.
+											Because of the mathematics
+that was developed 200 years ago,
+											through another mathematician
+recently and an engineer,
+											we were able to actually compose
+this, or construct this,
+											using multiplication by the number three.
+									","
+											Hoy vamos a escuchar el estreno mundial 
+del pulso sonoro perfecto.
+											Esta es una matriz de Costas 
+de tamaño 88 por 88,
+											adaptada a las notas del piano,
+											que se toca usando una estructura 
+llamada regla de Golomb para el ritmo,
+											lo que significa que el tiempo 
+de inicio de cada par de notas
+											es distinto, también.
+											Esto es matemáticamente casi imposible.
+											De hecho, desde el punto de vista
+computacional, imposible de crear.
+											Gracias a las matemáticas que 
+se desarrollaron hace 200 años
+											—recientemente gracias a otro
+matemático y un ingeniero—
+											hoy podemos componer o construir esto,
+											multiplicando por tres.
+									","
+											Bugün biz dünyadaki en iyi sonar sinyâli
+ilk defa dinleyeceğiz.
+											Bu, 88x88 boyutlu Costas dizisi'dir,
+											piano notaları üzerine kurulmuş,
+											ritim için Golomb cetveli kullanılmıştır;
+											yani her çift notun başlangıcı
+											farklı ve belirgindir.
+											Bu, matematiksel olarak, 
+neredeyse mümkünsüzdür.
+											Aslında, hesaplama sonucu,
+bunu yaratmak mümkün değil.
+											Bu fikir 200 yıl önce,
+											başka bir matematikçi
+ve mühendis sayesinde
+											3'e çarpma işlemini tekrarlayarak
+											bu yapını kurmamızın 
+mümkün olduğunu öğrendik.
+									","
+											Nous allons écouter ensemble le ping
+parfait en première mondiale.
+											Voici une matrice de Costas de 88 sur 88,
+											et nous lui avons assigné des notes.
+											Pour le rythme, on utilise
+une structure appelée règle de Golomb,
+											ce qui signifie que le début de chaque
+paire de notes est différent aussi.
+											Mathématiquement,
+c’est presque impossible.
+											C’est même impossible de créer cela
+avec un ordinateur.
+											Nous rendons hommage à des
+mathématiques développées il y a 200 ans,
+											passées ensuite dans les mains
+d’un mathématicien et d'un ingénieur
+											qui nous ont permis de composer
+et construire ceci,
+											en multipliant par trois.
+									",The beautiful math behind the world's ugliest music,Scott Rickard,9:43,"TEDx,entertainment,math,music,science,science and art,algorithm,composing,collaboration"
+"
+","
+","
+","
+",The beautiful math behind the world's ugliest music,Scott Rickard,9:43,"TEDx,entertainment,math,music,science,science and art,algorithm,composing,collaboration"
+"
+											The point when you hear this music
+											is not that it's supposed to be beautiful.
+											This is supposed to be
+the world's ugliest piece of music.
+											In fact, it's music
+that only a mathematician could write.
+									","
+											Lo más importante al escuchar esta música
+											no es que se suponga que es bella.
+											Se supone que es la pieza 
+más fea del mundo de la música.
+											De hecho, es música que solo 
+un matemático puede escribir.
+									","
+											Müziği dinlediğinzde
+											onun güzel olması şart değil.
+											Bilâkis, bu dünyanın 
+en kötü müziği olmalı.
+											Aslında, bu sadece bir matematikçinin
+besteleyebileceği bir müzik.
+									","
+											Retenez bien à l’esprit,
+en écoutant cette musique,
+											qu’elle n’est pas censée être belle.
+											Elle est censée être la musique
+la plus atroce au monde.
+											Bref, une musique que seul
+un mathématicien aurait pu écrire.
+									",The beautiful math behind the world's ugliest music,Scott Rickard,9:43,"TEDx,entertainment,math,music,science,science and art,algorithm,composing,collaboration"
+"
+","
+","
+","
+",The beautiful math behind the world's ugliest music,Scott Rickard,9:43,"TEDx,entertainment,math,music,science,science and art,algorithm,composing,collaboration"
+"
+											(Laughter)
+									","
+											(Risas)
+									","
+											(Kahkahalar)
+									","
+											(Rires)
+									",The beautiful math behind the world's ugliest music,Scott Rickard,9:43,"TEDx,entertainment,math,music,science,science and art,algorithm,composing,collaboration"
+"
+","
+","
+","
+",The beautiful math behind the world's ugliest music,Scott Rickard,9:43,"TEDx,entertainment,math,music,science,science and art,algorithm,composing,collaboration"
+"
+											When you're listening to this
+piece of music, I implore you:
+											try and find some repetition.
+											Try and find something that you enjoy,
+											and then revel in the fact
+that you won't find it.
+									","
+											Mientras escuchen esta pieza, por favor,
+											traten de encontrar las repeticiones,
+											traten de encontrar algo que disfruten,
+											y luego alégrense de no encontrarlo.
+									","
+											Bu müziği dinlerken, sizden rica ediyorum:
+											bir tekrar bulmaya çalışın.
+											Keyfini çıkarabileceğiniz bir şey bulun,
+											bulamayacaksınız, eğlenin.
+									","
+											Quand vous l’écouterez,
+je vous en supplie,
+											essayez de détecter une répétition.
+											Essayez de trouver un passage
+agréable à votre oreille.
+											Alors, vous pourrez savourer le fait
+que vous n’en avez pas trouvé.
+									",The beautiful math behind the world's ugliest music,Scott Rickard,9:43,"TEDx,entertainment,math,music,science,science and art,algorithm,composing,collaboration"
+"
+","
+","
+","
+",The beautiful math behind the world's ugliest music,Scott Rickard,9:43,"TEDx,entertainment,math,music,science,science and art,algorithm,composing,collaboration"
+"
+											(Laughter)
+									","
+											(Risas)
+									","
+											(Kahkahalar)
+									","
+											(Rires)
+									",The beautiful math behind the world's ugliest music,Scott Rickard,9:43,"TEDx,entertainment,math,music,science,science and art,algorithm,composing,collaboration"
+"
+","
+","
+","
+",The beautiful math behind the world's ugliest music,Scott Rickard,9:43,"TEDx,entertainment,math,music,science,science and art,algorithm,composing,collaboration"
+"
+											So without further ado, Michael Linville,
+											the [Dean] of Chamber Music
+at the New World Symphony,
+											will perform the world premiere
+of the perfect ping.
+									","
+											Así, sin más preámbulos, Michael Linville,
+											el director de música de cámara
+de la Sinfónica del Nuevo Mundo
+											interpretará el estreno mundial 
+del impulso sonoro perfecto.
+									","
+											Daha fazla patırtı yapmadan,
+
+											Yeni Dünya Senfonisi'nin başkanı 
+Michael Linville
+											bu muhteşem desensiz müziği çalacak.
+									","
+											Sans plus attendre, Michael Linville,
+											le doyen de la musique de chambre
+de l’académie New World Symphony,
+											va jouer pour nous, en première mondiale,
+le ping parfait.
+									",The beautiful math behind the world's ugliest music,Scott Rickard,9:43,"TEDx,entertainment,math,music,science,science and art,algorithm,composing,collaboration"
+"
+","
+","
+","
+",The beautiful math behind the world's ugliest music,Scott Rickard,9:43,"TEDx,entertainment,math,music,science,science and art,algorithm,composing,collaboration"
+"
+											(Music)
+									","
+											(Música)
+									","
+											(Müzik)
+									","
+											(Musique)
+									",The beautiful math behind the world's ugliest music,Scott Rickard,9:43,"TEDx,entertainment,math,music,science,science and art,algorithm,composing,collaboration"
+"
+","
+","
+","
+",The beautiful math behind the world's ugliest music,Scott Rickard,9:43,"TEDx,entertainment,math,music,science,science and art,algorithm,composing,collaboration"
+"
+											(Music ends)
+									","
+											(Fin de la música)
+									","
+											(Müzik bitiyor)
+									","
+											(Fin de la musique)
+									",The beautiful math behind the world's ugliest music,Scott Rickard,9:43,"TEDx,entertainment,math,music,science,science and art,algorithm,composing,collaboration"
+"
+","
+","
+","
+",The beautiful math behind the world's ugliest music,Scott Rickard,9:43,"TEDx,entertainment,math,music,science,science and art,algorithm,composing,collaboration"
+"
+											(Scott Rickard, off-screen) Thank you.
+									","
+											Gracias.
+									","
+											Teşekkür ederim.
+
+									","
+											(Scott Rickard, voix off) :
+Merci beaucoup.
+									",The beautiful math behind the world's ugliest music,Scott Rickard,9:43,"TEDx,entertainment,math,music,science,science and art,algorithm,composing,collaboration"
+"
+","
+","
+","
+",The beautiful math behind the world's ugliest music,Scott Rickard,9:43,"TEDx,entertainment,math,music,science,science and art,algorithm,composing,collaboration"
+"
+											(Applause)
+									","
+											(Aplausos)
+									","
+											(Alkışlar)
+									","
+											(Applaudissements)
+									",The beautiful math behind the world's ugliest music,Scott Rickard,9:43,"TEDx,entertainment,math,music,science,science and art,algorithm,composing,collaboration"
+"
+","
+","
+","
+",The beautiful math behind the world's ugliest music,Scott Rickard,9:43,"TEDx,entertainment,math,music,science,science and art,algorithm,composing,collaboration"

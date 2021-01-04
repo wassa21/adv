@@ -1,0 +1,684 @@
+en,es,pt,tr,fr,title,speaker,duration,tags
+"
+","
+","
+","
+","
+",How does your smartphone know your location?,Wilton L. Virgo,4:48,"design,engineering,technology,TED-Ed,invention,innovation,animation,telescopes,science"
+"
+											How does your smartphone
+know exactly where you are?
+											The answer lies 12,000 miles 
+over your head
+											in an orbiting satellite that keeps time
+to the beat of an atomic clock
+											powered by quantum mechanics.
+											Phew.
+											Let's break that down.
+											First of all, why is it so important 
+to know what time it is on a satellite
+											when location is what
+we're concerned about?
+											The first thing 
+your phone needs to determine
+											is how far it is from a satellite.
+											Each satellite constantly 
+broadcasts radio signals
+											that travel from space to your phone
+at the speed of light.
+											Your phone records 
+the signal arrival time
+											and uses it to calculate 
+the distance to the satellite
+											using the simple formula,
+distance = c x time,
+											where c is the speed of light
+and time is how long the signal traveled.
+											But there's a problem.
+											Light is incredibly fast.
+											If we were only able to calculate 
+time to the nearest second,
+											every location on Earth, and far beyond,
+											would seem to be the same 
+distance from the satellite.
+											So in order to calculate that distance
+to within a few dozen feet,
+											we need the best clock ever invented.
+											Enter atomic clocks,
+some of which are so precise
+											that they would not gain or lose a second
+											even if they ran 
+for the next 300 million years.
+											Atomic clocks work 
+because of quantum physics.
+											All clocks must have a constant frequency.
+											In other words, a clock must carry out
+some repetitive action
+											to mark off equivalent increments of time.
+											Just as a grandfather clock 
+relies on the constant swinging
+											back and forth of a pendulum 
+under gravity,
+											the tick tock of an atomic clock
+											is maintained by the transition 
+between two energy levels of an atom.
+											This is where quantum physics 
+comes into play.
+											Quantum mechanics 
+says that atoms carry energy,
+											but they can't take on 
+just any arbitrary amount.
+											Instead, atomic energy 
+is constrained to a precise set of levels.
+											We call these quanta.
+											As a simple analogy, 
+think about driving a car onto a freeway.
+											As you increase your speed,
+											you would normally continuously go 
+from, say, 20 miles/hour up to 70 miles/hour.
+											Now, if you had a quantum atomic car,
+											you wouldn't accelerate 
+in a linear fashion.
+											Instead, you would instantaneously jump,
+or transition, from one speed to the next.
+											For an atom, when a transition 
+occurs from one energy level to another,
+											quantum mechanics says
+											that the energy difference 
+is equal to a characteristic frequency,
+											multiplied by a constant,
+											where the change in energy is equal to 
+a number, called Planck's constant,
+											times the frequency.
+											That characteristic frequency 
+is what we need to make our clock.
+											GPS satellites rely on cesium and rubidium
+atoms as frequency standards.
+											In the case of cesium 133,
+											the characteristic clock frequency
+is 9,192,631,770 Hz.
+											That's 9 billion cycles per second.
+											That's a really fast clock.
+											No matter how skilled a clockmaker may be,
+											every pendulum, wind-up mechanism
+											and quartz crystal resonates 
+at a slightly different frequency.
+											However, every cesium 133 atom 
+in the universe
+											oscillates at the same exact frequency.
+											So thanks to the atomic clock,
+											we get a time reading accurate
+to within 1 billionth of a second,
+											and a very precise measurement
+of the distance from that satellite.
+											Let's ignore the fact that you're almost
+definitely on Earth.
+											We now know that you're at a fixed 
+distance from the satellite.
+											In other words, you're somewhere 
+on the surface of a sphere
+											centered around the satellite.
+											Measure your distance 
+from a second satellite
+											and you get another overlapping sphere.
+											Keep doing that,
+											and with just four measurements,
+											and a little correction 
+using Einstein's theory of relativity,
+											you can pinpoint your location to exactly
+one point in space.
+											So that's all it takes:
+											a multibillion-dollar 
+network of satellites,
+											oscillating cesium atoms,
+											quantum mechanics,
+											relativity,
+											a smartphone,
+											and you.
+											No problem.
+									","
+											¿Cómo sabe tu smartphone
+exactamente dónde estás?
+											La respuesta está a 
+19 000 km sobre tu cabeza
+											en un satélite en órbita que mantiene
+la hora de un reloj atómico
+											impulsado por mecánica cuántica.
+											¡Ufff!
+											Analicemos eso.
+											Primero, ¿por qué es tan importante
+saber qué hora es en un satélite
+											si queremos saber la ubicación?
+											Lo primero que tiene
+que determinar tu teléfono
+											es la distancia a un satélite.
+											Cada satélite emite señales 
+de radio constantemente
+											que viajan por el espacio hasta 
+tu teléfono a la velocidad de la luz.
+											Tu teléfono registra la hora
+de llegada de la señal
+											y la usa para calcular
+la distancia al satélite
+											usando la formula simple
+distancia = c x tiempo,
+											donde 'c' es la velocidad de la luz
+y tiempo es cuánto viajó la señal.
+											Pero hay un problema.
+											La luz es increíblemente rápida.
+											Si la precisión fuese en segundos,
+											cualquier lugar de la 
+Tierra, y mucho más allá,
+											parecería encontrarse a la 
+misma distancia desde el satélite.
+											Por eso para calcular esa distancia
+con precisión de metros,
+											necesitamos el mejor reloj de la historia.
+											Algunos relojes atómicos
+son tan precisos
+											que no adelantarán
+ni atrasarán un segundo
+											aún funcionando en los 
+próximos 300 millones de años.
+											Los relojes atómicos funcionan
+gracias a la física cuántica.
+											Los relojes deben tener
+una frecuencia constante.
+											En otras palabras, un reloj
+hace la acción repetitiva
+											de marcar incrementos
+equivalentes de tiempo.
+											Así como un reloj de pie se basa
+en el balanceo constante
+											de ida y vuelta de un 
+péndulo bajo la gravedad,
+											el tic tac de un reloj atómico
+											se mantiene por la transición entre
+dos niveles de energía de un átomo.
+											Ahí entra en juego la física cuántica.
+											La mecánica cuántica dice que
+los átomos transportan energía,
+											pero no pueden transportar
+cantidades arbitrarias.
+											En cambio, la energía atómica está 
+limitada a un conjunto preciso de niveles.
+											Los llamamos cuantos.
+											Como simple analogía, piensa en 
+conducir un auto en una carretera.
+											Conforme aumentas la velocidad,
+											normalmente pasarías
+de 30 km/h a 110 km/h.
+											Ahora, con un auto atómico cuántico,
+											no acelerarías de manera lineal.
+											En cambio, saltarías instantáneamente
+de una velocidad a la siguiente.
+											Para un átomo, cuando se produce una
+transición de un nivel de energía a otro,
+											la mecánica cuántica dice
+											que la diferencia de energía es
+igual a una frecuencia característica,
+											multiplicada por una constante,
+											donde el cambio en la energía es igual
+a un número, llamado constante de Planck,
+											multiplicado por la frecuencia.
+											Esa frecuencia característica es lo que
+necesitamos para hacer nuestro reloj.
+											Los satélites de GPS dependen
+de los átomos de cesio y rubidio
+											como patrones de frecuencia.
+											En el caso del cesio 133,
+											la frecuencia de reloj característica
+es 9 192 631 770 Hz.
+											Son 9000 millones de ciclos por segundo.
+											Es un reloj muy rápido.
+											Sin importar lo experto
+que sea el relojero
+											cada péndulo, mecanismo 
+de cuerda y cristal de cuarzo
+											resuena a una frecuencia
+ligeramente diferente.
+											Sin embargo, cada átomo
+de cesio 133 en el universo
+											oscila exactamente a la misma frecuencia.
+											Por eso, gracias al reloj atómico,
+											tenemos una precisión del orden de
+1 mil millonésima parte de segundo,
+											y una medición muy precisa de
+la distancia desde ese satélite.
+											Ignoremos el hecho de que estás 
+casi seguramente a ras del suelo.
+											Ahora sabemos que estás a 
+una distancia fija del satélite.
+											O sea, estás en un lugar
+en la superficie de una esfera
+											con centro en el satélite.
+											Midiendo la distancia
+desde un segundo satélite
+											tenemos otra esfera superpuesta.
+											Repetimos esta operación
+											y con solo 4 mediciones,
+											y una pequeña corrección usando
+la teoría de la relatividad de Einstein,
+											se puede señalar la ubicación 
+exacta de un punto en el espacio.
+											Eso es todo lo necesario:
+											una multimillonaria red de satélites,
+											la oscilación de los átomos de cesio,
+											mecánica cuántica,
+											relatividad,
+											un smartphone,
+											y tú.
+											No hay problema.
+									","
+											Como é que o nosso Smartphone
+sabe exatamente onde estamos?
+											A resposta está a 19 000 km de altura
+											num satélite que regula as
+horas por um relógio atómico
+											impulsionado pela mecânica quântica
+											Ufa!
+											Vejamos por partes.
+											Primeiro, porque é tão importante
+saber que horas são num satélite,
+											quando aquilo que nos preocupa
+é a localização?
+											A primeira coisa que o nosso telefone
+precisa de determinar
+											é a que distância 
+ele se encontra de um satélite.
+											Cada satélite emite
+permanentemente sinais de rádio
+											que viajam do espaço 
+para o nosso telefone, à velocidade da luz.
+											O nosso telefone regista
+o tempo de chegada do sinal
+											e usa-o para calcular
+a distância até ao satélite
+											usando uma fórmula simples:
+distância = c x tempo
+											em que c é a velocidade da luz
+e o tempo a duração da viagem do sinal.
+											Mas há um problema.
+											A luz é incrivelmente rápida.
+											Se só pudéssemos calcular
+a hora até ao segundo,
+											todos os locais na Terra, 
+e para além dela,
+											pareceriam estar
+à mesma distância do satélite.
+											Portanto, para calcular essa distância
+num raio de poucos metros,
+											precisamos do melhor relógio
+jamais inventado.
+											Entram aqui os relógios atómicos,
+alguns dos quais são tão precisos
+											que não se adiantam nem atrasam um segundo
+											mesmo que estejam a trabalhar
+durante os próximos 300 milhões de anos.
+											Os relógios atómicos funcionam
+com base na física quântica.
+											Todos os relógios têm que ter
+uma frequência constante.
+											Por outras palavras, um relógio
+tem que ter uma ação repetitiva
+											para distinguir incrementos
+equivalentes de tempo.
+											Tal como o relógio de caixa alta
+depende do balançar constante
+											de um lado para o outro,
+de um pêndulo sob a força da gravidade,
+											o tique-taque de um relógio atómico
+											é mantido pela transição
+entre dois níveis de energia de um átomo.
+											É aqui que entra em ação
+a física quântica.
+											A mecânica quântica
+diz que os átomos contêm energia,
+											mas não podem conter
+qualquer quantidade arbitrária.
+											A energia atómica está forçada
+a um conjunto preciso de níveis.
+											Chamamos-lhe ""quanta"".
+											Numa analogia simples, pensem em guiar
+um carro numa autoestrada.
+											Quando aumentamos a velocidade
+											passamos gradualmente, por exemplo,
+de 30km/hora para 100 km/hora.
+											Mas, se tivermos um carro atómico quantum,
+											não aceleraremos de modo linear.
+											Saltamos instantaneamente 
+de uma velocidade para a outra.
+											A mecânica quântica diz que, 
+num átomo,
+											quando ocorre uma transição
+de um nível de energia para outro,
+											a diferença de energia
+é igual a uma frequência característica,
+											multiplicada por uma constante,
+											em que a mudança de energia é igual
+a um número, chamado constante de Planck,
+											o tempo vezes a frequência.
+											É desta frequência característica
+que precisamos para fazer o nosso relógio.
+											Os satélites GPS dependem dos átomos
+de césio e rubídio
+											como padrões de frequência.
+											No caso do césio 133,
+											a frequência característica do relógio
+											é de nove mil milhões, 
+cento e noventa e dois milhões,
+											seiscentos e trinta e um mil,
+setecentos e setenta Hz.
+											Ou seja 9000 milhões
+de ciclos por segundo.
+											É um relógio realmente rápido.
+											Por mais habilidoso
+que seja um relojoeiro,
+											cada mecanismo de pêndulo, de corda,
+de cristal de quartzo
+											funciona a uma frequência
+ligeiramente diferente.
+											Mas todos os átomos de césio 133
+do universo
+											oscilam à mesma frequência,
+exatamente.
+											Portanto, graças ao relógio atómico,
+											temos uma leitura rigorosa do tempo
+até a um mil-milionésimo de segundo
+											e uma medição muito precisa
+da distância a esse satélite.
+											Ignoremos o facto de que estamos,
+com certeza, na Terra.
+											Sabemos agora que estamos
+a uma distância fixa do satélite.
+											Por outras palavras, estamos algures
+na superfície duma esfera
+											centrada em volta do satélite.
+											Medimos a nossa distância
+em relação a um segundo satélite
+											e obtemos outra esfera sobreposta.
+											Continuemos a fazer isso,
+e apenas com quatro medições
+											e uma pequena correção, usando
+a teoria da relatividade de Einstein,
+											podemos assinalar a nossa localização
+exatamente num ponto no espaço.
+											Portanto, basta termos:
+											uma rede de satélites de muitos
+milhares de milhões de dólares,
+											átomos de césio a oscilar,
+											mecânica quântica,
+											relatividade,
+											um Smartphone
+											e nós.
+											É simples.
+									","
+											Akıllı telefonunuz tam olarak nerede 
+olduğunuzu nasıl biliyor?
+											Cevap başınızın 19,312 km üstünde
+											kuantum mekaniği ile çalışan
+bir atomik saatin
+											atışlarıyla zamanı belirleyen bir uydudadır.
+											Huh.
+											Daha detaylı bakalım.
+											Öncelikle, yerimizi öğrenmek istediğimizde,
+											uyduda zamanın ne olduğu neden
+bu kadar önemli?
+											İlk önce telefonunuzun uydudan
+											ne kadar uzakta olduğunu bilmesi gerekiyor.
+											Her bir uydu sürekli
+olarak uzaydan telefonunuza
+											ışık hızında giden radyo sinyalleri yollar.
+											Telefonunuz sinyalin geldiği zamanı kaydeder
+											ve uyduyla arasındaki mesafesi hesaplamak 
+için kullanır.
+											Bunun için şu basit formülü kullanır,
+
+											Mesafe= c x zaman,
+											burada c ışık hızı ve 
+zamanda sinyalin seyahat etme süresidir.
+											Fakat bir sorun var.
+											Işık son derece hızlıdır.
+											Eğer biz sadece en yakın ikinci 
+saniyeyi hesaplayabilseydik.
+											Dünya üzerindeki her nokta, 
+
+											ve daha ötesi,
+											uyduya aynı uzaklıktaymış gibi gözükürdü.
+											Bu mesafeyi birkaç
+metreyle hesaplayabilmek için,
+											icat edilmiş en iyi saate ihtiyacımız var.
+											Atomik saatler,
+bazıları o kadar hassastır ki
+											300 milyon yıl çalışsalar bile
+											bir saniye ileri gitmezler
+veya geride kalmazlar.
+											Atomik saatler kuantum fiziği 
+sayesinde çalışır.
+											Bütün saatlerin sabit bir 
+frekansı olmalıdır.
+											Yani bir saat, zaman artışını
+belirleyebilmek için
+											sürekli bir devinim gerçekleştirmelidir.
+											Tıpkı ayaklı duvar saatlerinde sarkacın
+yer çekimi etkisinde
+											ileri geri salınımıyla çalıştığı gibi,
+											bir atomik saatin tik takı da
+											bir atomdaki iki enerji seviyesinde 
+geçişlerle sağlanır.
+											Burası kuantum fiziğinin oyuna dahil 
+olduğu yerdir.
+											Kuantum mekaniği der ki; 
+atomlar enerji taşır,
+											fakat rastgele miktarlarda taşımazlar.
+											Bunun yerine, atomik enerji belirli 
+seviye gruplarıyla sınırlandırılmıştır.
+											Bunlara quanta denir.
+											Basit bir benzetme olarak, bir arabayla 
+yol aldığınızı düşünün.
+											Hızınız artırdıkça,
+											Normal olarak 30 km/saat'ten 
+110 km/saat'e aralıksız olarak çıkarsınız.
+											Şimdi, eğer kuantum atomik arabanız olsaydı,
+											doğrusal şekilde ivmelenemezdiniz.
+											Bunun yerine, aniden zıplardınız, 
+veya geçerdiniz, bir hızdan diğerine.
+											Bir atomda, bir enerji seviyesinden
+diğerine geçiş olduğu zaman,
+											kuantum mekaniği der ki;
+											bu enerji değişimi karakteristik 
+bir frekansa eşittir,
+											bir sabitle çarpılmış,
+											burada enerjideki değişim eşittir,
+											Planck sabiti denilen sayı çarpı frekanstır.
+											Bu karakteristik frekansa, saatimizi 
+oluştururken kullanırız.
+											GPS uyduları sezyum ve rubidyum 
+atomlarının frekanslarını standart alır.
+											sezyum 133'ün
+											karakteristik saat frekansı 
+
+											9,192,631,770 Hz'tir.
+											Bu da 1 saniyede 9 milyar çevrim demektir.
+											Gerçekten çok hızlı bir saat.
+											Saatçinin ne kadar yetenekli 
+olduğunu önemli değil,
+											her sarkaç, kurma mekanizması
+											ve quartz kristalleri
+az da olsa farklı frekansta salınırlar.
+											Buna rağmen, evrendeki 
+bütün sezyum 133 atomları
+											tam olarak aynı frekansta salınırlar.
+											Böylece atomik saat sayesinde,
+											zamanı saniyenin milyarda biri hassasiyetle,
+											ve uydudan olan mesafeyi de çok hassas
+bir şekilde belirleyebiliyoruz.
+											Hemen hemen kesinlikle dünyada 
+olduğunuzu ihmal edelim.
+											Uydudan sabit bir uzaklıkta 
+olduğunuzu biliyoruz.
+											Yani, merkezinde uydunun bulunduğu kürenin
+											yüzeyinin bir yerindesiniz.
+											Mesafeniz ikinci bir uydudan da ölçülür
+											ve örtüşen başka bir küredesinizdir.
+											Böyle devam eder,
+											dört ölçüm sonucunda,
+											ve Einstein'ın izafiyet teorisi 
+kullanılarak yapılan küçük bir düzeltme ile,
+											Uzaydaki yerinizi bir nokta olarak
+kesin bir şekilde belirleyebilirsiniz.
+											Bütün bunlar düşünüldüğünde:
+											milyar dolarlık uydu bağlantısı,
+											sezyum atomunun salınımı,
+											kuantum mekaniği,
+											izafiyet,
+											akıllı telefon
+											ve siz.
+											Sorun yok.
+									","
+											Comment ton <i>smartphone</i>
+sait exactement où tu es ?
+											La réponse se trouve à 19 000 km
+au dessus de ta tête
+											dans un satellite en orbite qui suit
+le temps au rythme d'une horloge atomique
+											qui marche grâce à la mécanique quantique.
+											Ouff !
+											Expliquons cela.
+											D'abord, pourquoi est-il si important
+pour le satellite de connaître l'heure,
+											si ce qui nous intéresse
+est notre position ?
+											La première chose que ton mobile
+doit déterminer
+											est sa distance au satellite.
+											Chaque satellite émet
+des signaux radio constamment
+											qui vont de l'espace à ton téléphone
+à la vitesse de la lumière.
+											Ton mobile enregistre
+l'heure d'arrivée du signal
+											et l'utilise pour calculer
+sa distance au satellite
+											en utilisant la formule simple :
+« distance = c x temps »,
+											où « c » est la vitesse
+de la lumière
+											et « temps » est le temps
+du voyage du signal.
+											Mais il y a un problème.
+											La lumière est incroyablement rapide.
+											Si on n'était capable de mesurer l'heure
+qu'à la seconde près,
+											tous les endroits sur terre,
+et bien au-delà d'elle,
+											sembleraient être à même distance
+du satellite.
+											Alors, afin de calculer la distance
+à quelques mètres près,
+											on a besoin de la meilleure horloge
+jamais inventée.
+											Introduisons les horloges atomiques,
+dont certaines sont aussi précises
+											qu'elles n'auraient pas une seconde
+de retard ou d'avance
+											même si elles fonctionnaient pendant
+300 millions d'années.
+											Les horloges atomiques fonctionnent
+grâce à la physique quantique.
+											Toute horloge doit avoir
+une fréquence constante.
+											En d'autres termes, une horloge
+doit effectuer une action répétitive
+											pour délimiter
+des intervalles de temps équivalents.
+											De même qu'une horloge de salon
+dépend du balancement constant
+											des va-et-vient d'un pendule
+grâce à la pesanteur,
+											le tic-tac d'une horloge atomique
+											est maintenu par la transition
+entre deux niveaux d'énergie d'un atome.
+											C'est là que la physique quantique
+entre en jeu.
+											La mécanique quantique dit que
+les atomes transportent de l'énergie,
+											mais ils ne peuvent pas en transporter
+une quantité arbitraire,
+											car l'énergie atomique est limitée
+à un ensemble précis de niveaux.
+											Niveaux appelés « quanta ».
+											À titre d'exemple, pensons à la conduite
+d'une voiture sur l'autoroute.
+											Si on accélère,
+											on passe normalement de, disons,
+30 à 110 kilomètres/heure continûment.
+											Cependant, avec une voiture
+atomique quantique,
+											on n'accélérerait pas
+de façon linéaire.
+											À la place, on ferait un bond
+de transition entre les deux vitesses.
+											Pour un atome, quand une transition
+entre deux niveaux d'énergie se produit,
+											la mécanique quantique dit
+											que la différence d'énergie est égale
+à une fréquence caractéristique,
+											multipliée par une constante ;
+											la variation d'énergie est ainsi égale
+											au produit de la constante « h » ,
+dite de Planck, et de la fréquence.
+											On a uniquement besoin de cette fréquence
+caractéristique pour faire notre horloge.
+											Les satellites GPS
+dépendent des fréquences
+											liées aux atomes de césium et rubidium.
+											Dans le cas du césium 133,
+											la fréquence caractéristique
+est de 9 192 631 770 Hz.
+											Ce sont 9 milliards de cycles par seconde.
+											C'est une horloge vraiment rapide.
+											Peu importe l'expertise de l'horloger,
+											toute pendule, mécanisme à ressorts
+											ou quartz résonne à une fréquence
+légèrement différente.
+											Cependant, chaque atome de césium 133
+dans l'univers
+											oscille exactement à la même fréquence.
+											Alors, grâce à l'horloge atomique,
+											on obtient une lecture du temps avec
+une précision au milliardième de seconde,
+											et une mesure très précise
+de la distance au satellite.
+											Ignorons que tu es
+certainement sur terre.
+											On sait maintenant que tu es à une
+distance fixe du satellite.
+											Autrement dit, tu es quelque part
+sur la surface d'une sphère
+											centrée autour du satellite.
+											Mesure ta distance à un
+deuxième satellite
+											et tu obtiens une sphère
+chevauchant la première.
+											Répète cette opération,
+											et avec juste quatre mesures,
+											et une petite correction via
+la théorie de la relativité d'Einstein,
+											tu peux identifier ta position
+comme un seul point dans l'espace.
+											C'est tout ce qu'il faut :
+											un réseau de satellites multimillionnaire,
+											l'oscillation des atomes de césium,
+											la mécanique quantique,
+											la relativité,
+											un <i>smartphone</i>,
+											et toi.
+											Pas de problème !
+									",How does your smartphone know your location?,Wilton L. Virgo,4:48,"design,engineering,technology,TED-Ed,invention,innovation,animation,telescopes,science"
+"
+","
+","
+","
+","
+",How does your smartphone know your location?,Wilton L. Virgo,4:48,"design,engineering,technology,TED-Ed,invention,innovation,animation,telescopes,science"

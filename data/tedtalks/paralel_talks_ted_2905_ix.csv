@@ -1,0 +1,2675 @@
+es,pt,tr,en,fr,de,title,speaker,duration,tags
+"
+","
+","
+","
+","
+","
+",Let's teach kids to code,Mitch Resnick,16:48,"Internet,TEDx,children,computers,education,parenting,technology,youth,code"
+"
+											Era un sábado por la tarde, en mayo,
+											cuando de pronto me di cuenta
+											de que al día siguiente era
+el Día de la Madre
+											y no le había comprado
+nada a mi mamá,
+											así que comencé a pensar
+											¿qué debería regalarle 
+a mi madre en su día?
+											Pensé: ¿por qué no le hago
+											una tarjeta interactiva
+del Día de la Madre
+											utilizando el software Scratch
+que había desarrollado
+											con mi grupo de investigación 
+en el MIT Media Lab?
+											Lo desarrollamos para que la 
+gente pueda crear fácilmente
+											sus propios juegos, animaciones
+e historias interactivas
+											y luego compartirlas
+con otros.
+											Pensé que esta sería una 
+oportunidad para utilizar Scratch
+											y hacerle una tarjeta interactiva a mi mamá.
+									","
+											Era uma tarde de sábado em Maio,
+											e eu descobri de repente
+											que o dia seguinte seria o Dia da Mãe,
+											e eu não tinha comprado nada para minha mãe,
+											então comecei a pensar sobre
+											o que eu deveria comprar à minha mãe neste dia?
+											Então pensei, porque não fazer
+											um cartão interativo para o dia da mãe
+											usando o software Scratch que eu estava a desenvolver
+											como a minha equipa de investigação no Laboratório de Media do MIT?
+											Desenvolvemos este software para que as pessoas pudessem criar facilmente
+											as suas próprias histórias, jogos e animações interativas.
+											e depois as pudessem partilhar com os outros.
+											Então pensei que esta seria uma oportunidade para usar o Scratch
+											para fazer um cartão interativo para minha mãe.
+									","
+											Mayıs'ta bir cumartesi öğleniydi,
+											ve birden ertesi günün
+											Anneler Günü olduğunu fark ettim,
+											ve annem için bir şey almamıştım,
+											bu yüzden Anneler Günü için,
+											anneme ne almalıyım diye düşünmeye başladım.
+											Düşündüm ki, neden ona
+											benim MIT Medya Labaratuarı'ndaki araştırma grubumla
+											geliştirdiğim Scratch programını kullanarak
+											etkileyici bir Anneler Günü kartı yapmayayım?
+											Biz bunu insanlar kendi etkileyici hikayelerini,
+											oyunlarını ve animasyonlarını kolaylıkla oluşturmaları ve
+											sonra projelerini başkalarıyla paylaşmaları için geliştirdik.
+											Ve düşündüm ki, bu, annem için etkileyici bir kart
+											yapmam için Scratch'ı kullanmak bir fırsat olabilirdi.
+									","
+											It was a Saturday afternoon in May,
+											and I suddenly realized
+											that the next day was Mother's Day,
+											and I hadn't gotten anything for my mom,
+											so I started thinking about
+											what should I get my mom for Mother's Day?
+											I thought, why don't I make her
+											an interactive Mother's Day card
+											using the Scratch software that I'd been developing
+											with my research group at the MIT Media Lab?
+											We developed it so that people could easily create
+											their own interactive stories and games and animations,
+											and then share their creations with one another.
+											So I thought, this would be an opportunity to use Scratch
+											to make an interactive card for my mom.
+									","
+											Un samedi après-midi du mois de mai,
+											je me suis soudainement rendu compte
+											que la Fête des Mères était le lendemain
+											et que je n'avais rien pour ma mère,
+											j'ai alors commencé à me demander
+											ce que je pourrais bien
+lui acheter pour la Fête des Mères.
+											Je me suis dit, pourquoi ne pas lui créer
+											une carte interactive pour la Fête des Mères
+											en utilisant le logiciel Scratch
+que j'étais en train de développer
+											avec mon groupe de recherche au
+Laboratoire audiovisuel du MIT ?
+											On l'a développé pour que les gens
+puissent facilement créer
+											leurs propres histoires, jeux
+et animations interactives,
+											et partager ensuite leurs créations entre eux.
+											Donc, je me suis dit que ça serait
+une opportunité d'utiliser Scratch
+											pour créer une carte
+interactive pour ma maman.
+									","
+											Es war ein Samstagnachmittag im Mai
+											und mir wurde plötzlich klar,
+											dass am nächsten Tag Muttertag war
+											und ich nichts für meine Mutter besorgt hatte.
+											Und so grübelte ich,
+											was ich meiner Mutter zum 
+Muttertag schenken könnte.
+											Ich dachte, warum mache ich ihr nicht
+											eine interaktive Muttertagskarte
+											mit der Scratch-Software, 
+die ich mit meiner
+											Forschungsgruppe am 
+MIT-Media-Lab entwickelt hatte.
+											Wir hatten sie entwickelt, 
+damit Menschen leicht
+											ihre eigenen interaktiven Geschichten, 
+Spiele und Animationen schaffen
+											und dann ihre Kreationen 
+miteinander teilen könnten.
+											Also dachte ich, dies wäre eine 
+Gelegenheit, Scratch zu benutzen,
+											um eine interaktive Karte 
+für meine Mutter zu machen.
+									",Let's teach kids to code,Mitch Resnick,16:48,"Internet,TEDx,children,computers,education,parenting,technology,youth,code"
+"
+","
+","
+","
+","
+","
+",Let's teach kids to code,Mitch Resnick,16:48,"Internet,TEDx,children,computers,education,parenting,technology,youth,code"
+"
+											Antes de crear mi propia tarjeta del Día de la Madre,
+											pensé en echarle un vistazo
+											a la página web de Scratch.
+											En los últimos años,
+niños de todo el mundo
+											de 8 años en adelante
+han compartido sus proyectos.
+											Me pregunté si entre esos
+tres millones de proyectos,
+											alguien habría pensado en crear 
+tarjetas del Día de la Madre.
+											Así que escribí en el cuadro de búsqueda
+											""Día de la Madre""
+											y me sorprendí encantado de ver una lista
+											de docenas y docenas de
+tarjetas del Día de la Madre
+											que aparecieron en la 
+página web de Scratch,
+											muchas de ellas sólo 
+en las últimas 24 horas
+											hechas por procrastinadores como yo.
+											Así que comencé a verlas.
+(Música)
+											Vi una de ellas que presentaba un gatito
+											y a su mamá deseándo
+un feliz Día de las Madres.
+											El creador, muy considerado,
+											le ofrecía a su mamá
+poder verla otra vez.
+											Otra era un proyecto interactivo en el que
+											cuando mueves el ratón sobre
+las letras de ""Feliz Día de la Madre"",
+											se revela una frase 
+especial del Día de la Madre.
+											En esta, el creador contaba una historia
+											sobre como había buscado
+en Google para averiguar
+											cuando era el Día de la Madre.
+											[Teclas] Y una vez que se enteró,
+											entregó un saludo especial
+del Día de la Madre
+											sobre lo mucho que la amaba.
+									","
+											Antes de fazer o cartão para a minha mãe,
+											pensei em consultar
+											o site do Scratch.
+											Durante os últimos anos, crianças do mundo inteiro
+											com 8 ou mais anos, têm partilhado os seus projetos
+											e eu pensei, será que no meio daqueles 3 milhões de projetos
+											houve mais alguém que pensou em fazer cartões para o Dia da Mãe?
+											Então, na caixa de pesquisa, escrevi
+											""Dia da Mãe""
+											e fiquei surpreendido e encantado ao ver uma lista
+											de dezenas e dezenas de cartões do Dia da Mãe
+											que apareceram no site do Scratch.
+											muitos dos quais feitos nas últimas 24 horas
+											por preguiçosos como eu.
+											Então, comecei a ver os projetos. (Música)
+											Vi um que tinha um gatinho
+											e a sua mãe onde o gatinho desejava um feliz Dia da Mãe à sua mãe
+											O criador foi muito atencioso
+											e até colocou um botão para 'Repetir'.
+											Outro era um projeto interativo que, quando
+											se movia o rato sobre as letras 'Feliz Dia da Mamã'
+											revelava uma slogan de 'Dia da Mãe'.
+											(Música) Nesse projeto, o criador contou a história
+											sobre como usou o Google para descobrir
+											quando era o Dia da Mãe.
+											(A escrever) E quando descobriu que o Dia das Mãe estava a chegar,
+											entregou uma saudação especial de Dia da Mãe
+											e disse o quanto amava a sua mãe.
+									","
+											Kendi Anneler Günü kartımı yapmadan önce,
+											Scratch'ın websitesine bir göz atmayı
+											düşündüm.
+											Ve son birkaç yıldır, tüm dünyadaki 8 ve üzeri yaşlardaki
+											çocuklar projelerini paylaşmıştı,
+											ve ben de bu 3 milyon projeden herhangi birinin
+											Anneler Günü kartlarını yapmış olup olmayacağını merak ettim.
+											Arama kutucuğuna ''Anneler Günü''
+											diye yazdım ve çoğu
+											sadece son 24 saat içinde benim gibi erteleyenler tarafından
+											Scratch sitesinde gösterilen
+											düzinelerce Anneler Günü kartlarının bir listesini
+											gördüğüme çok şaşırdım
+											ve çok memnun oldum.
+											Ve onlara bakmaya başladım. (Müzik)
+											Gördüğüm bir tanesinde bir kedi yavrusu ve annesi vardı
+											ve yavru annesine mutlu bir Anneler Günü diliyordu.
+											Paylaşımı yapan çok düşünceli bir şekilde annesine
+											bir tekrar izleme seçeneği öneriyordu.
+											Diğer bir tanesi interaktif bir projeydi;
+											fareyi ""Mutlu Anne Günü""'nün harflerinin üzerine getirince
+											özel bir Anneler Günü slogan'ı ortaya çıkıyordu.
+											(Müzik) Bunda ise proje sahibi, nasıl Google'layıp
+											Anneler Günü'nün ne zaman olduğunu
+											öğrendiğini anlatıyordu.
+											Ve Anneler Günü'nün ne zaman olduğunu öğrenince
+											annesini ne kadar sevdiğini gösteren özel bir Anneler Günü
+											mesajı gönderiyordu.
+									","
+											Before making my own Mother's Day card,
+											I thought I would take a look
+											at the Scratch website.
+											So over the last several years, kids around the world
+											ages 8 and up, have shared their projects,
+											and I thought, I wonder if, of those three million projects,
+											whether anyone else has thought to put up Mother's Day cards.
+											So in the search box I typed in
+											""Mother's Day,""
+											and I was surprised and delighted to see a list
+											of dozens and dozens of Mother's Day cards
+											that showed up on the Scratch website,
+											many of them just in the past 24 hours
+											by procrastinators just like myself.
+											So I started taking a look at them. (Music)
+											I saw one of them that featured a kitten
+											and her mom and wishing her mom a happy Mother's Day.
+											And the creator very considerately
+											offered a replay for her mom.
+											Another one was an interactive project where,
+											when you moved the mouse over the letters of ""Happy Mom Day,""
+											it reveals a special happy Mother's Day slogan.
+											(Music) In this one, the creator told a narrative
+											about how she had Googled to find out
+											when Mother's Day was happening.
+											(Typing) And then once she found out when Mother's Day was happening,
+											she delivered a special Mother's Day greeting
+											of how much she loved her mom.
+									","
+											Avant de créer ma propre
+carte de Fête des Mères,
+											J'ai voulu jeter un coup d'œil
+											au site web de Scratch.
+											Au cours des dernières années,
+des enfants du monde entier,
+											âgés de 8 ans ou plus, ont partagé leurs projets,
+											et je me suis demandé
+si parmi ces 3 millions de projets,
+											il y avait quelqu'un qui avait pensé à
+partager des cartes pour la Fête des Mères.
+											Donc, j'ai tapé dans l'outil de recherche
+											""Fête des Mères""
+											et j'ai été surpris et ravi de voir qu'une liste
+											de dizaines et dizaines de cartes
+de Fête des Mères
+											sont apparues sur le site Scratch,
+											beaucoup d'entre elles ayant été postées
+au cours des dernières 24 heures
+											par des procrastinateurs tout comme moi.
+											Alors j'ai commencé à les regarder. 
+(Musique).
+											J'en ai vu une dans laquelle il y avait un chaton
+											qui souhaitait à sa maman
+une joyeuse Fête des Mères.
+											Et le créateur proposait avec beaucoup d'égards
+											à sa mère la possibilité de voir
+l'animation à nouveau.
+											Il y avait un autre projet interactif où,
+											quand on survolait avec le curseur
+les lettres de ""Bonne Fête des Mères"",
+											un slogan spécial pour
+la Fête des Mères apparaissait.
+											(Musique) 
+Dans celle-ci, la créatrice raconte
+											comment elle a dû aller sur Google pour connaître
+											la date de la Fête des Mères.
+											(Bruits de tapotement de clavier)
+Et une fois qu'elle a trouvé la date de la Fête des Mères
+											elle a envoyé des vœux spéciaux
+de Fête des Mères
+											qui exprimaient à quel point
+elle aime sa mère.
+									","
+											Bevor ich jedoch meine 
+eigene Muttertagskarte machte,
+											wollte ich einen Blick
+											auf die Scratch-Webseite werfen.
+											Die vergangenen Jahre haben 
+Kinder auf der ganzen Welt,
+											8 Jahre und älter, ihre Projekte dort geteilt
+											und ich fragte mich, ob bei einem 
+dieser drei Millionen Projekte,
+											irgendjemand daran gedacht hatte, 
+eine Muttertagskarte einzustellen.
+											Also gab ich ins Suchfeld ein:
+											""Muttertag""
+											und ich war positiv überrascht, eine Liste mit
+											Dutzenden von Muttertagskarten zu sehen,
+											die auf der Scratch-Webseite auftauchten,
+											viele davon erst in den vergangenen 24 Stunden
+											von Zauderern wie mir selbst.
+											Also sah ich sie mir an. (Musik)
+											Ich sah eine mit einem Kätzchen
+											und seiner Mutter, der es 
+einen schönen Muttertag wünschte.
+											Und die Entwicklerin hatte sehr bedacht
+											eine Wiederholungsfunktion für ihre Mutter eingebaut.
+											Eine andere war ein interaktives Projekt, bei dem,
+											wenn man die Maus über die Buchstaben 
+von ""Happy Mom Day"" bewegte,
+											ein spezieller Muttertagsspruch erschien.
+											(Musik) Bei dieser hier erzählte 
+die Entwicklerin eine Geschichte
+											darüber, wie sie gegoogelt hatte, um herauszufinden,
+											wann Muttertag wäre.
+											(Tastengeräusche) Und als sie 
+es herausgefunden hatte,
+											schickte sie einen besonderen Muttertagsgruß,
+											wie sehr sie ihre Mutter liebe.
+									",Let's teach kids to code,Mitch Resnick,16:48,"Internet,TEDx,children,computers,education,parenting,technology,youth,code"
+"
+","
+","
+","
+","
+","
+",Let's teach kids to code,Mitch Resnick,16:48,"Internet,TEDx,children,computers,education,parenting,technology,youth,code"
+"
+											De verdad disfruté viendo estos proyectos
+											e interactuando con ellos.
+											De hecho, me gustaron tanto, 
+que en vez de hacer mi propio proyecto,
+											le envié a mi madre los enlaces a casi 
+una docena de proyectos. (Risas)
+											Reaccionó exactamente de la
+manera que yo esperaba.
+											Me escribió diciéndome:
+											""Estoy muy orgullosa de tener 
+un hijo que haya creado el software
+											que le permitió a esos niños crear sus 
+tarjetas del Día de la Madre"".
+									","
+											Eu gostei muito de ver estes projetos
+											e de interagir com eles.
+											Na verdade, gostei tanto que em vez de fazer o meu próprio projeto,
+											mandei uma dezena de 'links' destes projetos para minha mãe. (Risos)
+											E ela reagiu exatamente como eu gostaria.
+											Ela respondeu, dizendo:
+											""Estou tão orgulhosoa por ter um filho que criou o software
+											que permitiu a essas crianças fazerem cartões de Dia da Mãe para as suas mães!""
+									","
+											Bu projelere bakmaktan
+											gerçekten çok zevk aldım.
+											O kadar sevdim ki, kendi projemi yapmak yerine,
+											anneme onlarca projenin linkini gönderdim. (Kahkahalar)
+											Ve gerçekten, annem bunu tam tahmin ettiğim gibi karşıladı.
+											Bana cevap yazdı ve dedi ki,
+											""Bu çocukların annelerine, Anneler Günü kartı göndermelerini sağlayan
+											bir yazılımı oğlum oluşturduğu için gurur duyuyorum.""
+									","
+											So I really enjoyed looking at these projects
+											and interacting with these projects.
+											In fact, I liked it so much that, instead of making my own project,
+											I sent my mom links to about a dozen of these projects. (Laughter)
+											And actually, she reacted exactly the way that I hoped that she would.
+											She wrote back to me and she said,
+											""I'm so proud to have a son that created the software
+											that allowed these kids to make Mother's Day cards for their mothers.""
+									","
+											J'ai vraiment adoré regarder ces projets
+											et interagir avec eux.
+											En fait, j'ai tellement aimé ça,
+qu'au lieu de créer mon propre projet,
+											j'ai envoyé à ma mère les liens
+d'une douzaine de ces projets. (Rires)
+											Et elle a réagi exactement
+comme je l'avais espéré.
+											Elle m'a répondu :
+											« Je suis si fière d'avoir un fils
+qui a créé un logiciel
+											permettant aux enfants de créer des cartes
+de Fête des Mères pour leur maman. »
+									","
+											Es machte mir also großen Spaß, 
+mir all diese Projekte anzusehen
+											und mit diesen Projekten zu interagieren.
+											Ich mochte es sogar so sehr, dass 
+ich anstelle meines eigenen Projektes
+											meiner Mutter Links zu etwa einem Dutzend 
+dieser Projekte schickte. (Gelächter)
+											Und sie reagierte genau so, 
+wie ich es mir erhofft hatte.
+											Sie schrieb mir zurück und sagte:
+											""Ich bin so stolz, einen Sohn zu haben, 
+der eine Software entwickelt hat,
+											die es diesen Kindern ermöglichte, 
+ihren Müttern Muttertagskarten zu machen.""
+									",Let's teach kids to code,Mitch Resnick,16:48,"Internet,TEDx,children,computers,education,parenting,technology,youth,code"
+"
+","
+","
+","
+","
+","
+",Let's teach kids to code,Mitch Resnick,16:48,"Internet,TEDx,children,computers,education,parenting,technology,youth,code"
+"
+											Mi mamá estaba feliz 
+y eso me hizo feliz,
+											pero en realidad estaba aún 
+más feliz por otro motivo.
+											Estaba feliz porque esos 
+niños estaban utilizando Scratch
+											de la manera que habíamos 
+esperado que lo hicieran.
+											Mientras crean tarjetas interactivas
+para el Día de la Madre,
+											se podía ver que realmente
+											estaban dominando las nuevas tecnologías.
+											¿Qué quiero decir con dominar?
+											Eran capaces de comenzar a expresarse
+											y a expresar sus ideas.
+											Cuando llegan a dominar el lenguaje,
+											significa que pueden escribir
+una entrada en su diario,
+											contarle un chiste a alguien 
+o escribirle una carta a un amigo.
+											Y es algo similar con las nuevas tecnologías.
+											Al escribir, al crear estas tarjetas interactivas,
+											estos niños mostraban
+que efectivamente dominan
+											las nuevas tecnologías.
+									","
+											Então a minha mãe ficou feliz e eu também.
+											mas eu estava ainda mais feliz por uma outra razão.
+											Eu estava feliz porque estas crianças estavam usando o Scratch
+											da maneira que eu esperava.
+											Enquanto criavam os seus cartões interativos para o Dia da Mãe
+											podia-se ver que eles estavam realmente
+											a ficar fluentes com novas tecnologias.
+											O que eu quero dizer com fluente?
+											Quero dizer que se começavam a conseguir expressar
+											e expressar as suas ideias.
+											Quando alguém fica fluente num idioma
+											isso significa que pode escrever no seu diário
+											ou contar uma piada a alguém ou escrever uma carta a um amigo.
+											Acontece o mesmo com novas tecnologias.
+											Ao escrever, ao criar estes cartões interativos de Dia da Mãe,
+											estas crianças estavam a mostrar que eram realmente
+											fluentes com novas tecnologias.
+									","
+											Annem mutluydu, ve bu beni mutlu etti,
+											ama aslında başka bir nedenden dolayı daha mutluydum.
+											Mutluydum, çünkü bu çocuklar Scratch'i tam da
+											bizim istediğimiz şekilde kullanıyorlardı.
+											Çocuklar bu interaktif Anneler günü kartlarını oluştururken
+											onların gerçekten yeni teknolojileri
+											akıcı bir şekilde öğrendikleri görülüyor.
+											Akıcı bir şekilde derken ne mi kastediyorum?
+											Kastettiğim kendi ve fikirlerini
+											ifade etmeye başlamaları.
+											Bir dili akıcı şekilde öğrendiğinizde bu
+											günlüğünüze bu dilde yazabilir veya birine
+											fıkra anlatabilir veya arkadaşınıza mektup yazabilirsiniz demektir.
+											Yeni teknolojilerde de bu benzerdir.
+											Bu interaktif Anneler Günü kartlarını yazarak ve oluşturarak
+											bu çocuklar bu yeni teknolojileri akıcı şekilde öğrendiklerini
+											gösteriyorlar.
+									","
+											So my mom was happy, and that made me happy,
+											but actually I was even happier for another reason.
+											I was happy because these kids were using Scratch
+											just in the way that we had hoped that they would.
+											As they created their interactive Mother's Day cards,
+											you could see that they were really
+											becoming fluent with new technologies.
+											What do I mean by fluent?
+											I mean that they were able to start expressing themselves
+											and to start expressing their ideas.
+											When you become fluent with language,
+											it means you can write an entry in your journal
+											or tell a joke to someone or write a letter to a friend.
+											And it's similar with new technologies.
+											By writing, be creating these interactive Mother's Day cards,
+											these kids were showing that they were really fluent
+											with new technologies.
+									","
+											Donc ma mère était heureuse,
+ce qui m'a rendu heureux,
+											mais en réalité, j'étais encore plus
+heureux pour une autre raison.
+											J'étais heureux parce-que
+ces enfants utilisaient Scratch
+											exactement comme nous l'avions espéré.
+											En créant leurs cartes interactives
+pour la Fête des Mères,
+											on pouvait voir qu'ils commençaient vraiment
+											à maîtriser les nouvelles technologies.
+											Qu'est-ce que je veux dire par maîtriser ?
+											Je veux dire qu'ils sont capables de s'exprimer
+											et d'exprimer leurs idées.
+											Quand vous commencer
+à maîtriser une langue,
+											ça veut dire que vous pouvez
+écrire dans votre journal,
+											ou raconter une plaisanterie à quelqu'un,
+ou écrire une lettre à un ami.
+											Et c'est la même chose avec
+les nouvelles technologies.
+											En écrivant, en créant ces cartes
+interactives pour la Fête des Mères,
+											ces enfants ont montré qu'ils maîtrisaient
+											les nouvelles technologies.
+									","
+											Meine Mutter war also glücklich 
+und das machte mich glücklich,
+											doch eigentlich machte mich ein 
+anderer Grund sogar noch glücklicher.
+											Ich war glücklich, denn diese Kinder nutzten Scratch
+											genau so, wie wir es uns erhofft hatten.
+											Beim Erstellen ihrer interaktiven Muttertagskarten
+											konnte man sehen, dass sie wirklich
+											lernten, ""fließend"" mit neuen 
+Technologien umzugehen.
+											Was meine ich mit ""fließend""?
+											Ich meine, dass sie damit begannen, 
+sich ausdrücken zu können
+											und ihre Ideen ausdrücken zu können.
+											Wenn man in einer Sprache fließend wird,
+											bedeutet das, dass man einen Eintrag 
+in sein Tagebuch schreiben,
+											jemandem einen Witz erzählen oder 
+einem Freund einen Brief schreiben kann.
+											Mit neuen Technologien ist es ähnlich.
+											Beim Schreiben, beim Entwickeln 
+dieser interaktiven Muttertagskarten
+											zeigten diese Kinder, 
+dass sie wirklich fließend
+											in den neuen Technologien waren.
+									",Let's teach kids to code,Mitch Resnick,16:48,"Internet,TEDx,children,computers,education,parenting,technology,youth,code"
+"
+","
+","
+","
+","
+","
+",Let's teach kids to code,Mitch Resnick,16:48,"Internet,TEDx,children,computers,education,parenting,technology,youth,code"
+"
+											Quizás no se sorprendarán,
+											porque muchas veces la gente cree
+											que los jóvenes pueden hacer 
+todo tipo de cosas con la tecnología.
+											Es decir, todos nosotros hemos oído que 
+a los jóvenes los llaman ""nativos digitales"".
+											Pero soy escéptico con este término.
+											No estoy tan seguro de que
+los consideremos nativos digitales.
+											Cuando lo analizamos, 
+¿cómo pasan la mayor parte del tiempo
+											los jóvenes cuando
+utilizan las nuevas tecnologías?
+											A menudo se los ve en situaciones como ésta
+											o como ésta,
+											y no hay duda de que los jóvenes
+											están muy cómodos y familiarizados
+con la navegación por internet,
+											chateando, enviando mensajes de texto y jugando.
+											Pero eso no los hace 
+dominar la tecnología.
+									","
+											Talvez não fiquem tão surpreendidos com isto
+											porque muitas vezes as pessoas sentem que
+											os jovens hoje em dia conseguem fazer muitas coisas com tecnologia.
+											Todos nós já ouvimos referirem-se aos jovens como ""nativos digitais.""
+											Mas eu sou um pouco cético com este termo.
+											Não tenho a certeza se devemos ver os jovens como nativos digitais.
+											Quando vemos com atenção, como é que os jovens
+											passam a maior parte do seu tempo usando as novas tecnologias?
+											Normalmente é possível vê-los nestas situações,
+											ou nesta,
+											e não há dúvida que os jovens
+											sentem-se muito confortáveis a navegar [na Web],
+											a conversar e a mandar mensagens e a jogar.
+											Mas isto não os torna fluentes.
+									","
+											Belki bu sizi şaşırtmayacak
+											çünkü çoğu zaman insanlar günümüz gençlerinin
+											teknolojiyle her türlü şeyi yapabildiğini hissediyor.
+											Hepimiz gençlere ""dijital yerli"" dendiğini duymuşuzdur.
+											Ama benim bu terim hakkımda kuşkularım var.
+											Gençleri dijital yerliler olarak düşünmeli miyiz emin değilim.
+											Gerçekten baktığınızda, gençler nasıl
+											zamanlarının çoğunu yeni teknolojileri kullanarak geçiriyor?
+											Onları sık sık bu gibi durumlarda görürsünüz,
+											ya da böyle,
+											ve şüphesiz gençler
+											chat'te, mesajlaşmada, oyunlarda
+											çok rahatlar ve bunlara aşinalar.
+											Ama bu onları akılı yapmaz.
+									","
+											Now maybe you won't be so surprised by this,
+											because a lot of times people feel that
+											young people today can do all sorts of things with technology.
+											I mean, all of us have heard young people referred to as ""digital natives.""
+											But actually I'm sort of skeptical about this term.
+											I'm not so sure we should be thinking of young people as digital natives.
+											When you really look at it, how is it that young people
+											spend most of their time using new technologies?
+											You often see them in situations like this,
+											or like this,
+											and there's no doubt that young people
+											are very comfortable and familiar browsing
+											and chatting and texting and gaming.
+											But that doesn't really make you fluent.
+									","
+											Bon alors peut-être que vous n'êtes
+pas vraiment surpris,
+											parce que les gens pensent souvent
+											que les jeunes d'aujourd'hui peuvent faire
+toutes sortes de choses avec la technologie.
+											Je veux dire, nous avons tous entendu parler
+des jeunes en tant que ""natifs numériques"".
+											Mais en réalité, je suis plutôt
+sceptique sur l'utilisation de ce mot.
+											Je ne suis pas sûr qu'il faille considérer
+les jeunes en tant que natifs numériques.
+											Quand on y regarde de plus près,
+comment les jeunes
+											passent-ils la plupart de leur temps
+à utiliser les nouvelles technologies ?
+											On les voit souvent dans
+des situations comme celle-ci,
+											ou celle-là,
+											et il ne fait aucun doute que les jeunes
+											sont tout-à-fait à l'aise et familiers
+avec les moteurs de recherche
+											les discussions instantanées - ou chats -
+les sms et les jeux.
+											Mais ça ne fait pas d'eux des personnes
+qui maîtrisent les nouvelles technologies.
+									","
+											Nun erstaunt Sie dies vielleicht nicht allzu sehr,
+											denn oft glauben Menschen, dass
+											junge Menschen heutzutage alles Mögliche 
+mit Technologie anstellen können.
+											Wir alle haben schon einmal die Bezeichnung 
+""Digital Natives"" für junge Leute gehört.
+											Doch ich bin skeptisch, 
+was diesen Terminus angeht.
+											Ich bin nicht so sicher, ob wir von jungen Leuten 
+als ""Digital Natives"" denken sollten.
+											Wenn Sie es sich einmal genau anschauen: 
+Wie verbringen junge Leute
+											den Großteil ihrer Zeit, wenn sie
+neue Technologien nutzen?
+											Oft sieht man sie in solchen Situationen,
+											oder so,
+											und zweifelsohne sind junge Leute
+											sehr sicher und geübt darin, zu browsen,
+											zu chatten, zu texten und zu spielen.
+											Das macht einen jedoch nicht zwingend fließend.
+									",Let's teach kids to code,Mitch Resnick,16:48,"Internet,TEDx,children,computers,education,parenting,technology,youth,code"
+"
+","
+","
+","
+","
+","
+",Let's teach kids to code,Mitch Resnick,16:48,"Internet,TEDx,children,computers,education,parenting,technology,youth,code"
+"
+											Así que los jóvenes tienen mucha experiencia
+											y confianza interactuando
+con las nuevas tecnologías,
+											pero muchos menos crean
+											y se expresan con ellas.
+											Es casi como si pudieran leer,
+											pero no escribir con las nuevas tecnologías.
+									","
+											Hoje em dia, os jovens têm muita experiência
+											e bastante familiaridade na interação com novas tecnologias
+											mas têm pouca experiência a criar (coisas) com novas tecnologias
+											e a expressarem-se com novas tecnologias.
+											É quase como se conseguissem ler
+											mas não conseguissem escrever com novas tecnologias.
+									","
+											Gençlerin günümüzde yeni teknolojilere aşinalar ve
+											bu teknolojilerle deneyimleri var,
+											ama bu yeni teknoloji yaratmada ve kendilerini
+											yeni teknolojilerle kendilerini ifade etmede daha az.
+											Neredeyse yeni teknolojilerle okuyabiliryorlar,
+											ama yazamıyorlar.
+									","
+											So young people today have lots of experience
+											and lots of familiarity with interacting with new technologies,
+											but a lot less so of creating with new technologies
+											and expressing themselves with new technologies.
+											It's almost as if they can read
+											but not write with new technologies.
+									","
+											Les jeunes d'aujourd'hui
+ont une grande expérience
+											et une grande facilité à interagir
+avec les nouvelles technologies,
+											mais beaucoup moins à créer
+avec les nouvelles technologies
+											et à s'exprimer à l'aide des nouvelles technologies.
+											C'est un peu comme s'ils savaient lire
+											mais pas écrire avec les nouvelles technologies.
+									","
+											Junge Leute haben heutzutage 
+also eine Menge Erfahrung
+											und Übung im Umgang 
+mit neuen Technologien,
+											doch weitaus weniger darin, anhand 
+neuer Technologien etwas zu schaffen
+											und sich mithilfe neuer Technologien auszudrücken.
+											Es ist fast so, als könnten sie lesen,
+											jedoch nicht schreiben mit 
+diesen neuen Technologien.
+									",Let's teach kids to code,Mitch Resnick,16:48,"Internet,TEDx,children,computers,education,parenting,technology,youth,code"
+"
+","
+","
+","
+","
+","
+",Let's teach kids to code,Mitch Resnick,16:48,"Internet,TEDx,children,computers,education,parenting,technology,youth,code"
+"
+											Y tengo mucho interés en ver 
+cómo podemos ayudarlos a dominarlas
+											para que así puedan escribir con ellas.
+											En realidad significa 
+que tienen que ser capaces
+											de escribir sus propios programas 
+o códigos informáticos.
+									","
+											E eu estou interessado em ver como podemos ajudar os jovens a ficarem fluentes
+											de forma a que possam escrever com novas tecnologias?
+											Isso quer dizer que eles precisam saber
+											escrever os seus próprios programas de computador, ou a programar.
+									","
+											Ve benim ilgilendiğim konu, bu gençlere yeni teknolojilerle
+											yazabilmeleri için nasıl yardım edebileceğimiz.
+											Ve bu demektir ki onlar kendi bilgisayar programlarını
+											yazabilmeliler, ya da kodlayabilmeliler.
+									","
+											And I'm really interested in seeing, how can we help young people become fluent
+											so they can write with new technologies?
+											And that really means that they need to be able to
+											write their own computer programs, or code.
+									","
+											Et je trouve très intéressant de voir comment
+on peut aider les jeunes à maîtriser
+											les nouvelles technologies de sorte
+qu'ils apprennent à écrire.
+											Ça veut dire qu'ils ont réellement
+besoin d'être capables
+											d'écrire leurs propres programmes
+informatiques ou de coder.
+									","
+											Und mich interessiert wirklich, wie wir jungen Leuten dabei helfen können, fließend zu werden,
+											sodass sie mit neuen Technologien schreiben können.
+											Und das bedeutet wirklich, 
+dass sie in der Lage sein müssen,
+											ihre eigenen Computerprogramme 
+zu schreiben oder zu programmieren.
+									",Let's teach kids to code,Mitch Resnick,16:48,"Internet,TEDx,children,computers,education,parenting,technology,youth,code"
+"
+","
+","
+","
+","
+","
+",Let's teach kids to code,Mitch Resnick,16:48,"Internet,TEDx,children,computers,education,parenting,technology,youth,code"
+"
+											Por lo tanto, cada vez más, 
+la gente está empezando a reconocer
+											la importancia de aprender
+a codificar, a programar.
+											En los últimos años, ha habido
+											cientos de nuevas organizaciones y páginas web
+											que ayudan a los jóvenes a aprender a codificar.
+											Busquen en línea, verán lugares como Codecademy
+											y eventos como CoderDojo
+											y sitios como Girls Who Code
+											o Black Girls Code.
+											Parece que todos
+se han puesto manos a la obra.
+											Saben, al comienzo de este año,
+											a comienzos del nuevo año,
+											el alcalde de Nueva York, Michael Bloomberg,
+											como propósito de Año Nuevo
+dijo que iba a aprender
+											a codificar en 2012.
+											Pocos meses después, 
+Estonia decidió
+											que todos los niños de primer grado 
+deberán aprender a codificar.
+											Y eso provocó un debate 
+en el Reino Unido
+											sobre si todos los niños británicos
+deberían aprender a codificar.
+									","
+											As pessoas estão a reconhecer cada vez mais
+											a importância de se aprender a programar.
+											Nos últimos anos, têm surgido
+											centenas de novas organizações e de sítios Web
+											que estão a ajudar os jovens a aprender a programar.
+											Se virem na Internet irão encontrar lugares como a 'Academia do Código (Codeacademy)'
+											e eventos como 'Dojo do Código' (CoderDojo)
+											e sítios Web como 'Meninas que programam'
+											ou 'Código das Meninas Negras' (Black Girls Code)'
+											Parece que toda a gente está a querer entrar em cena.
+											No início deste ano,
+											na passagem do ano,
+											o presidente da câmara de Nova Iorque, Michael Bloomberg,
+											fez uma resolução de Ano Novo em que dizia que iria aprender
+											a programar em 2012.
+											Alguns meses depois, a Estónia decidiu que
+											todos os alunos do 1° ano iriam aprender a programar
+											e isso gerou um debate no Reino Unido
+											onde se discutiu se todas as crianças deveriam aprender a programar.
+									","
+											Gittikçe insanlar kodlamayı öğrenmenin
+											önemini anlıyor.
+											Biliyor musunuz, son yıllarda
+											yüzlerce yeni organizasyon ve websitesi
+											genç insanların kodlamayı öğrenmesine yardım ediyor.
+											Internette baktığınızda Codeacademy gibi yerler ve
+											CoderDojo gibi etkinlikler ve
+											Kodlayan Kızlar gibi websiteleri göreceksiniz.
+											Veya Kodlayan Zenci Kızlar.
+											Öyle görünüyor ki herkes bir harekete geçme peşinde.
+											Biliyor musunuz, sadece bu senenin başında,
+											yeni yılın başında,
+											New York Belediye Başkanı Michael Bloomberg
+											Yeni yıl kararı olarak 2012'de
+											kodlamayı öğreneceğini söyledi.
+											Birkaç ay sonra, Estonya bütün
+											birinci sınıf öğrencilerinin kodlamayı öğrenmesi gerektiğine karar verdi.
+											Ve bu Birleşik Krallık'ta çocuklar kodlamayı öğrenmeli mi
+											tartışmasını tetikledi.
+									","
+											So, increasingly, people are starting to recognize
+											the importance of learning to code.
+											You know, in recent years, there have been
+											hundreds of new organizations and websites
+											that are helping young people learn to code.
+											You look online, you'll see places like Codecademy
+											and events like CoderDojo
+											and sites like Girls Who Code,
+											or Black Girls Code.
+											It seems that everybody is getting into the act.
+											You know, just at the beginning of this year,
+											at the turn of the new year,
+											New York City Mayor Michael Bloomberg
+											made a New Year's resolution that he was going to learn
+											to code in 2012.
+											A few months later, the country of Estonia decided that
+											all of its first graders should learn to code.
+											And that triggered a debate in the U.K.
+											about whether all the children there should learn to code.
+									","
+											Donc, de plus en plus, les gens
+commencent à reconnaître
+											l'importance d'apprendre à coder.
+											Vous savez, ces dernières années, il y a eu
+											des centaines de nouvelles organisations
+et de sites internet
+											pour aider les jeunes à apprendre à coder.
+											Si vous regardez sur le net, vous verrez
+des sites comme Codecademy,
+											des évènements comme CoderDojo,
+											et des sites comme Girls Who Code,
+											ou bien Black Girls Code.
+											On dirait que tout le monde s'y met.
+											Vous savez, juste au début de cette année,
+											au moment du nouvel an,
+											le maire de New York, Michael Bloomberg,
+											a pris la bonne résolution d'apprendre
+											à coder en 2012.
+											Quelques mois plus tard,
+l'Estonie a décidé que
+											tous les élèves de C.P.
+devaient apprendre à coder.
+											Et ça a déclenché un débat au Royaume-Uni
+											sur la nécessité que tous les enfants
+apprennent à coder en Estonie.
+									","
+											Nun, zunehmend erkennen Menschen
+											die Wichtigkeit an, Programmieren zu lernen.
+											Wissen Sie, in den letzten Jahren sind
+											hunderte von neuen Organisationen 
+und Webseiten entstanden,
+											die jungen Menschen beim Erlernen 
+von Programmieren helfen.
+											Man geht online und stößt auf Orte wie Codeacademy
+											und Events wie CoderDojo
+											und Seiten wie ""Girls Who Code""
+											oder ""Black Girls Code"".
+											Es scheint als springe jeder auf diesen Trend auf.
+											Wissen Sie, erst zu Beginn dieses Jahres,
+											zum Jahreswechsel, fasste
+											der Bürgermeister von New York, Michael Bloomberg,
+											den Vorsatz fürs neue Jahr, dass er im Jahr 2012
+											programmieren lernen würde.
+											Ein paar Monate später entschied das Land Estland,
+											dass alle seine Erstklässler 
+programmieren lernen sollten.
+											Und dies wiederum löste eine Debatte 
+in Großbritannien darüber aus,
+											ob alle Kinder dort programmieren lernen sollten.
+									",Let's teach kids to code,Mitch Resnick,16:48,"Internet,TEDx,children,computers,education,parenting,technology,youth,code"
+"
+","
+","
+","
+","
+","
+",Let's teach kids to code,Mitch Resnick,16:48,"Internet,TEDx,children,computers,education,parenting,technology,youth,code"
+"
+											Para algunos de ustedes, 
+cuando escuchan esto,
+											puede parecerles extraño 
+que todos aprendan a codificar.
+											Cuando la gente piensa 
+en la codificación, creen que es
+											algo que sólo una subcomunidad muy reducida
+											la que lo hace
+											y creen que codificar es algo así.
+											Y de hecho, si codificar fuera como esto,
+											solo sería una reducida subcomunidad
+											con habilidades matemáticas especiales 
+y antecedentes tecnológicos
+											la que podría codificar.
+									","
+											Para alguns de vós, pode parecer estranho quando ouvem
+											falar que toda a gente vai aprender a programar.
+											Quando a maioria das pessoas pensa em programação, pensa
+											em algo que está confinado
+											a um grupo pequeno de pessoas,
+											e acham que programar é isto.
+											E na verdade, se a programação é assim,
+											será apens um pequeno grupo de pessoas
+											com habilidades especiais em matemática e com bases
+											em tecnologia que conseguem programar.
+									","
+											Şimdi, bazılarınız bunu duyduğunda herkesin
+											kodlamayı öğrenmesini biraz tuhaf bulabilir.
+											Çoğu insan kodlama diye düşündüğünde,
+											çok dar bir topluluktaki insanların yaptığı
+											birşey olarak düşünüyor ve kodlamayı
+											böyle bir şey olarak görüyor.
+											Ve eğer kodlama böyle bir şey ise,
+											kodlayabilen insanlar gerçekten sınırlı bir topluluğa ait,
+											özel matematik yetenekleri ve teknolojik geçmişi olan
+											insanlar olur.
+									","
+											Now, for some of you, when you hear about this,
+											it might seem sort of strange about everybody learning to code.
+											When many people think of coding, they think of it
+											as something that only a very narrow sub-community
+											of people are going to be doing,
+											and they think of coding looking like this.
+											And in fact, if this is what coding is like,
+											it will only be a narrow sub-community of people
+											with special mathematical skills and technological background
+											that can code.
+									","
+											Maintenant, pour certains d'entre vous,
+quand vous entendez ça,
+											ça peut paraître étrange que
+tout le monde apprenne à coder.
+											Pour beaucoup de gens,
+quand ils pensent au code, ils pensent
+											que c'est réservé à une
+sous-communauté très étroite
+											de personnes ayant cette connaissance,
+											et ils pensent que coder ressemble à ça.
+											Et en fait, si coder ressemblait à ça,
+											seule une petite sous-communauté
+de personnes
+											ayant des compétences mathématiques
+spéciales ainsi qu'un profil technologique
+											pourrait coder.
+									","
+											Nun, einigen von Ihnen mag 
+es merkwürdig vorkommen,
+											dass alle Welt Programmieren lernen will.
+											Viele denken an Programmieren als etwas,
+											dass nur ein sehr kleiner Teil der Gesellschaft
+											je tun wird,
+											und sie glauben, programmieren sehe so aus.
+											Und tatsächlich, wenn dies programmieren ist,
+											wird es nur eine kleine Untergruppe an Menschen
+											mit speziellen mathematischen Fähigkeiten 
+und technologischem Hintergrund sein,
+											die programmieren können.
+									",Let's teach kids to code,Mitch Resnick,16:48,"Internet,TEDx,children,computers,education,parenting,technology,youth,code"
+"
+","
+","
+","
+","
+","
+",Let's teach kids to code,Mitch Resnick,16:48,"Internet,TEDx,children,computers,education,parenting,technology,youth,code"
+"
+											Pero codificar no tiene que ser así.
+											Déjenme mostrarles como es codificar en Scratch.
+											En Scratch, para codificar, 
+solo tienen que juntar bloques.
+											En este caso, toman un ""bloque mover""
+											lo encajan en un grupo
+											y el grupo de bloques 
+controla el comportamiento
+											de los diferentes personajes en su juego o historia,
+											en este caso controlando el pez grande.
+											Después de crear su programa, 
+pueden hacer clic en ""compartir"",
+											para compartirlo con otras personas,
+											para que puedan usar el proyecto
+											y comenzar a trabajar también en él.
+									","
+											Mas programar não precisa de ser assim.
+											Deixem-me mostrar-vos como é programar no Scratch.
+											No Scratch, para programar apenas é preciso juntar tijolos.
+											Neste caso, pega-se num tijolo do 'movimento',
+											coloca-se o tijolo no monte
+											e os montes de tijolos controlam os comportamentos
+											das diferentes personagens no vosso jogo ou na vossa história,
+											neste caso controlando o peixe grande.
+											Depois que terem criado o vosso programa, podem clicar em ""partilhar"",
+											e depois podem partilhar o vosso projeto com outras pessoas,
+											para que possam usar o projeto e
+											e possam contribuir também.
+									","
+											Ama kodlama böyle olmak zorunda değil.
+											Size Scratch'de kodlamanın nasıl bir şey olduğunu göstereyim.
+											Scratchde kodlamak için blokları birbirine ekliyorsunuz.
+											Örneğin, bir bloğu alıyorsunuz ve
+											bir yığına ekliyorsunuz ve
+											bu blok yığınları oyununuzdaki veya hikayenizdeki
+											farklı karakterlerin hareketlerini kontrol ediyor,
+											bu örnekte büyük balığı kontrol ettiği gibi.
+											Programınızı oluşturduktan sonra, ""paylaş""a basabilir,
+											ve projenizi başkalarıyla paylaşabilirsiniz,
+											böylece onlar da projenizi kullanabilir ve
+											başka projelere başlayabilirler.
+									","
+											But coding doesn't have to be like this.
+											Let me show you about what it's like to code in Scratch.
+											So in Scratch, to code, you just snap blocks together.
+											In this case, you take a move block,
+											snap it into a stack,
+											and the stacks of blocks control the behaviors
+											of the different characters in your game or your story,
+											in this case controlling the big fish.
+											After you've created your program, you can click on ""share,""
+											and then share your project with other people,
+											so that they can use the project
+											and start working on the project as well.
+									","
+											Mais coder n'a pas à être comme ça.
+											Laissez-moi vous montrer
+comment on code avec Scratch.
+											Alors avec Scratch, pour coder,
+il suffit d'assembler des blocs.
+											Dans ce cas, vous prenez une brique,
+											vous l'accrochez à une pile,
+											et les piles de briques
+contrôlent les comportements
+											de différents personnages
+dans votre jeu ou votre histoire,
+											dans ce cas, contrôler le gros poisson.
+											Après avoir créé le programme,
+vous pouvez cliquer sur ""Partager"",
+											et ensuite partager votre projet
+avec d'autres personnes,
+											qui peuvent alors utiliser votre projet
+											et commencer à travailler
+sur le projet également.
+									","
+											Doch Programmieren muss nicht so aussehen.
+											Lassen Sie mich Ihnen zeigen, was es bedeutet, 
+in Scratch zu programmieren.
+											Also, in Scratch packt man, um zu 
+programmieren, nur Blöcke zusammen.
+											In diesem Fall nimmt man einen Bewegungsblock,
+											packt ihn auf einen Stapel
+											und die Stapel an Blöcken bestimmen das Verhalten
+											der verschiedenen Charaktere in 
+einem Spiel oder einer Geschichte,
+											in diesem Fall das des großen Fisches.
+											Nachdem man ein Programm erstellt hat, 
+kann man auf ""teilen"" klicken
+											und dann sein Projekt mit anderen teilen,
+											sodass sie das Projekt benutzen können
+											und auch anfangen können, 
+an dem Projekt zu arbeiten.
+									",Let's teach kids to code,Mitch Resnick,16:48,"Internet,TEDx,children,computers,education,parenting,technology,youth,code"
+"
+","
+","
+","
+","
+","
+",Let's teach kids to code,Mitch Resnick,16:48,"Internet,TEDx,children,computers,education,parenting,technology,youth,code"
+"
+											Hacer un juego sobre peces
+no es lo único
+											que pueden hacer con Scratch.
+											Entre los millones de proyectos
+en la página web de Scratch,
+											hay de todo, desde historias animadas
+											a proyectos escolares de ciencia;
+											desde telenovelas de anime
+											hasta kits de construcción virtual.
+											Desde recreaciones de videojuegos clásicos
+											hasta encuestas de opinión política;
+											desde tutoriales de trigonometría
+											hasta arte interactivo y, sí,
+											tarjetas interactivas del Día de la Madre.
+									","
+											Claro que fazer um jogo sobre peixes não é a única coisa
+											que se pode fazer com o Scratch.
+											Dos milhões de projetos no sítio Web do Scratch,
+											há de tudo, como por exemplo, histórias animadas
+											projetos escolares sobre ciência,
+											novelas 'anime',
+											kits de construção virtual,
+											recriações de jogos clássicos
+											sondagens políticas,
+											aulas de trigonometria,
+											obras de arte interativas e sim,
+											cartões interativos para o Dia da Mãe!
+									","
+											Tabii ki balık oyunu yapmak Scratch ile yapabileceğiniz
+											tek şey değil.
+											Scratch websitesindeki milyonlarca proje arasında,
+											animasyonlu hikayelerden
+											okul için eğitim projelerine,
+											animasyon pembe dizilerden,
+											sanal inşaat takımlarına,
+											klasik video oyunlarının yapımından
+											politik fikir anketlerine,
+											trigonometri derslerinden
+											interaktif sanat eserlerine ve evet,
+											interaktif Anneler Günü kartlarına kadar her şey mümkün.
+									","
+											So, of course, making a fish game isn't the only thing
+											you can do with Scratch.
+											Of the millions of projects on the Scratch website,
+											there's everything from animated stories
+											to school science projects
+											to anime soap operas
+											to virtual construction kits
+											to recreations of classic video games
+											to political opinion polls
+											to trigonometry tutorials
+											to interactive artwork, and, yes,
+											interactive Mother's Day cards.
+									","
+											Donc, bien sûr, faire un jeu de poisson
+n'est pas la seule chose
+											qu'on peut faire avec Scratch.
+											Parmi les millions de projets
+sur le site web de Scratch,
+											il y a de tout, des histoires animées,
+											des projets scolaires de science,
+											des feuilletons animés,
+											des kits de construction virtuelle,
+											des reconstitutions de jeux vidéo classiques,
+											des sondages politiques,
+											des tutoriels de trigonométrie,
+											des œuvres interactives et oui,
+											des cartes de Fête des Mères.
+									","
+											So, natürlich ist ein Fischspiel nicht das Einzige,
+											das Sie mit Scratch anstellen können.
+											Unter den Millionen Projekten 
+auf der Scratch-Webseite
+											gibt es alles von animierten Geschichten,
+											schulischen Wissenschaftsprojekten,
+											Anime-Seifenopern,
+											virtuellen Baukästen,
+											Neuerfindungen alter Videospiel-Klassiker,
+											über politische Meinungsumfragen,
+											und Trigonometrie-Übungen,
+											bis hin zu interaktiver Kunst und, ja,
+											interaktiven Muttertagskarten.
+									",Let's teach kids to code,Mitch Resnick,16:48,"Internet,TEDx,children,computers,education,parenting,technology,youth,code"
+"
+","
+","
+","
+","
+","
+",Let's teach kids to code,Mitch Resnick,16:48,"Internet,TEDx,children,computers,education,parenting,technology,youth,code"
+"
+											Así que creo que hay muchas maneras diferentes
+											para que la gente pueda expresarse usando esto,
+											para que sea capaz de tomar sus ideas 
+y compartirlas con el mundo.
+											Y no solo tiene que quedarse en la pantalla.
+											También pueden codificar para interactuar 
+con el mundo físico a su alrededor.
+											Aquí tengo un ejemplo de Hong Kong,
+											en donde unos niños crearon un juego
+											y luego crearon su propio 
+dispositivo de interfaz física
+											y tenía sensor de luz. El sensor de luz
+											detecta el agujero en la tabla,
+											así que mientras mueven la sierra física,
+											el sensor de luz detecta el agujero
+											y controla la sierra virtual en la pantalla
+											y aserra el árbol.
+									","
+											Assim, creio que há muitas maneiras diferentes para
+											que as pessoas se possam expressar usando isto,
+											e assim partilhar as suas ideias com o mundo.
+											E isto não fica apenas no ecrã.
+											É possível programar para interagir com o mundo físico à vossa volta.
+											Aqui está um exemplo de Hong Kong,
+											onde algumas crianças fizeram um jogo
+											e depois criaram um dispositivo de interação físico
+											que tinha um sensor de luz.
+											O sensor de luz detectava o buraco na madeira
+											e então quando moviam a serra de madeira,
+											o sensor de luz detectava o furo
+											e controlava a serra virtual no ecrã
+											e serrava a árvore.
+									","
+											Insanların Scratch'i kullanarak kendilerini ifade etmek için
+											fikirlerini alıp dünya ile paylaşabilmeleri için
+											bir sürü farklı yol var diye düşünüyorum,
+											Ve bunlar sadece ekranda kalmıyor.
+											Etrafınızdaki fiziksel dünya ile etkileşmek için de kodlayabilirsiniz.
+											Hong Kong'dan bir örnek:
+											bir kaç çocuk bir oyun yapıyorlar ve
+											oyunları için bir fiziksel arayüz aygıtı oluşturuyorlar.
+											Aygıtın bir ışık sensörü var ve bu sensör
+											paneldeki deliği farkediyor,
+											böylece testereyi oynattıklarında,
+											bu ışık sensörü deliği farkedip
+											ekrandaki sanal testereyi kontrol ediyor
+											ve ağacı kesiyor.
+									","
+											So I think there's so many different ways
+											that people can express themselves using this,
+											to be able to take their ideas and share their ideas with the world.
+											And it doesn't just stay on the screen.
+											You can also code to interact with the physical world around you.
+											Here's an example from Hong Kong,
+											where some kids made a game
+											and then built their own physical interface device
+											and had a light sensor, so the light sensor
+											detects the hole in the board,
+											so as they move the physical saw,
+											the light sensor detects the hole
+											and controls the virtual saw on the screen
+											and saws down the tree.
+									","
+											Alors je pense qu'il y de
+nombreuses façons différentes
+											pour que les gens s'expriment en utilisant Scratch,
+											afin de partager leurs idées avec le monde.
+											Et ça ne fait pas que rester sur l'écran.
+											Vous pouvez aussi programmer pour interagir
+avec le monde réel autour de vous.
+											Voici un exemple qui nous vient de Hong Kong,
+											dans lequel des enfants on fait un jeu
+											et ont ensuite construit
+leur appareil d'interface physique,
+											puis ont ajouté un capteur de lumière qui
+											détecte le trou dans le tableau,
+											de sorte que quand ils bougent la scie,
+											le détecteur de lumière reconnaît le trou
+											et contrôle la scie virtuelle sur l'écran
+											et abat l'arbre avec la scie.
+									","
+											Es gibt so viele verschiedene Arten,
+											wie Menschen sich damit ausdrücken können,
+											um ihre Ideen zu nehmen 
+und sie mit der Welt zu teilen.
+											Und es beschränkt sich nicht auf den Bildschirm.
+											Man kann so programmieren, 
+dass man mit der physischen Welt interagiert.
+											Hier ist ein Beispiel aus Hong Kong,
+											wo ein paar Kinder ein Spiel machten
+											und dann ihre eigene 
+physische Schnittstelleneinrichtung bauten
+											mit einem Lichtsensor,
+											der das Loch im Brett erkennt,
+											um so die physische Säge zu bewegen.
+											Der Lichtsensor erkennt die Öffnung
+											und kontrolliert die virtuelle Säge auf dem Bildschirm
+											und fällt den Baum.
+									",Let's teach kids to code,Mitch Resnick,16:48,"Internet,TEDx,children,computers,education,parenting,technology,youth,code"
+"
+","
+","
+","
+","
+","
+",Let's teach kids to code,Mitch Resnick,16:48,"Internet,TEDx,children,computers,education,parenting,technology,youth,code"
+"
+											Vamos a continuar viendo las nuevas formas
+											de juntar el mundo físico y el mundo virtual
+											y conectarlo al mundo a nuestro alrededor.
+											Este puede ser un ejemplo
+de una nueva versión de Scratch
+											que estaremos lanzando en algunos meses.
+											También tratamos
+											de impulsarlos hacia nuevas direcciones.
+											Acá hay un ejemplo.
+											Utiliza la webcam.
+											Moviendo mi mano,
+puedo reventar los globos
+											o puedo mover el insecto.
+											Es un poco parecido a Microsoft Kinect,
+											en donde interactúan con 
+el mundo con sus movimientos.
+											Pero en vez de solo jugar
+con el juego de otra persona,
+											pueden crear los juegos
+											y si ven el juego de alguien,
+											con solo hacer clic en ""ver adentro"",
+											pueden ver el grupo de bloques que lo controlan.
+											Hay un nuevo bloque que indica la cantidad 
+de movimiento de video que hay
+											y luego, si hay mucho movimiento de video,
+											entonces le indicará al globo que se reviente.
+									","
+											Vamos continuar a ver novas formas
+											de juntar o mundo físico e virtual
+											e de ligar o mundo à nossa volta.
+											Este é um exemplo de uma nova versão do Scratch
+											que lançaremos nos próximos meses,
+											e estamos também a encorajar-vos seguirem
+											novas direcções.
+											Aqui está um exemplo.
+											Usa a câmara de vídeo do computador.
+											E quando movimento a minha mão, consigo rebentar os balões
+											ou posso mudar o inseto de sítio.
+											É um pouco parecido com Microsoft Kinect,
+											onde é possível interagir com o mundo através de gestos.
+											Mas em vez de apenas jogar um jogo feito por outra pessoa,
+											podem criar os vossos próprios jogos,
+											e se virem o jogo de alguém,
+											podem clicar em ""olhar para dentro"",
+											e ver os montes de tijolos que o controlam.
+											Há um novo bloco que diz quanto movimento há no video,
+											e se houver bastante movimento,
+											ele dirá ao balão para rebentar.
+									","
+											Fiziksel ve sanal dünyayı bir araya getirmek için
+											ve etrafımızdaki dünyaya bağlanmak için yeni yollar
+											aramaya devam ediyoruz.
+											Bu Scratch'in yeni versiyonundan bir örnek,
+											bir kaç ay sonra çıkacak bu versiyon,
+											ve sizi yeni ufuklara doğru
+											yönlendirmeyi umud ediyoruz.
+											Mesela bir örnek:
+											Bu bir webcam kullanıyor.
+											Elimi oynattığımda, balonları patlatabiliyorum
+											ya da böceği oynatabiliyorum.
+											Biraz Microsoft Kinect gibi,
+											fiziksel hareketlerle etkileşerek oynanıyor.
+											Ama başkasının oyununu oynamak yerine,
+											kendi oyununuzu oluşturabiliyorsunuz,
+											ve başkasının oyununu gördüğünüzde,
+											""içine bak"" diyebiliyorsunuz
+											ve oyunu kontrol eden kod bloklarına bakabiliyorsunuz.
+											Örneğin yeni bir blok var artık ne kadar video hareketi olduğunu gösteren
+											ve eğer bu kadar video hareketi varsa
+											balon patlayacak.
+									","
+											We're going to continue to look at new ways
+											of bringing together the physical world and the virtual world
+											and connecting to the world around us.
+											This is an example from a new version of Scratch
+											that we'll be releasing in the next few months,
+											and we're looking again to be able
+											to push you in new directions.
+											Here's an example.
+											It uses the webcam.
+											And as I move my hand, I can pop the balloons
+											or I can move the bug.
+											So it's a little bit like Microsoft Kinect,
+											where you interact with gestures in the world.
+											But instead of just playing someone else's game,
+											you get to create the games,
+											and if you see someone else's game,
+											you can just say ""see inside,""
+											and you can look at the stacks of blocks that control it.
+											So there's a new block that says how much video motion there is,
+											and then, if there's so much video motion,
+											it will then tell the balloon to pop.
+									","
+											On va continuer à observer de nouvelles façons
+											d'associer le monde physique au monde virtuel
+											et de le connecter au monde qui nous entoure.
+											Ceci est un exemple d'une
+nouvelle version de Scratch
+											qui sera lancée dans les prochains mois,
+											et on cherche une fois de plus à
+											vous pousser vers de nouvelles directions.
+											Voici un exemple.
+											On utilise une webcam.
+											Et lorsque je bouge ma main,
+je peux faire éclater les ballons
+											ou je peux faire bouger l'insecte.
+											Donc c'est un petit peu comme
+Kinect de Microsoft,
+											qui permet d'interagir avec les
+mouvements dans le monde [réel].
+											Mais au lieu de ne jouer qu'avec le jeu
+de quelqu'un d'autre,
+											vous pouvez créer des jeux,
+											et si vous voyez le jeu de quelqu'un d'autre,
+											vous pouvez tout simplement
+dire ""voir à l'intérieur"",
+											vous pouvez regarder la pile
+de briques qui le contrôlent.
+											Donc il y a une nouvelle brique qui donne
+la quantité de mouvements vidéo,
+											et ensuite, s'il y a cette quantité
+de mouvements vidéo,
+											alors ça commandera au ballon d'éclater.
+									","
+											Wir werden weiter nach neuen Wegen suchen,
+											die physische und die virtuelle Welt 
+zusammenzubringen
+											und mit der Welt um uns herum zu verbinden.
+											Das ist ein Beispiel aus 
+einer neuen Version von Scratch,
+											die wir in den nächsten Monaten veröffentlichen
+											und wir versuchen erneut, damit
+											in neue Richtungen vorzudringen.
+											Hier ist ein Beispiel.
+											Es nutzt die Webcam.
+											Und wenn ich meine Hand bewege, 
+kann ich die Ballons zerplatzen lassen
+											oder ich kann den Käfer bewegen.
+											Das ist ein wenig wie die Microsoft Kinect,
+											wo man durch Gesten mit der Welt interagiert.
+											Aber anstatt das Spiel eines anderen zu spielen,
+											kann man Spiele erschaffen
+											und wenn man das Spiel eines anderen sieht,
+											kann man einfach ""hineinschauen""
+											und man kann sich die Datenfelder ansehen, 
+die es kontrollieren.
+											Da ist also ein neuer Block, der festlegt, 
+wie viel Videobewegung es gibt,
+											und wenn es so viel Videobewegung gibt,
+											wird es den Ballon zum Platzen bringen.
+									",Let's teach kids to code,Mitch Resnick,16:48,"Internet,TEDx,children,computers,education,parenting,technology,youth,code"
+"
+","
+","
+","
+","
+","
+",Let's teach kids to code,Mitch Resnick,16:48,"Internet,TEDx,children,computers,education,parenting,technology,youth,code"
+"
+											De la misma manera que esto utiliza la cámara
+											para obtener información en Scratch,
+											también pueden utilizar el micrófono.
+											Acá hay un ejemplo de proyecto 
+que utiliza el micrófono.
+											Les voy a pedri a todos Uds.
+que controlen este juego
+											utilizando sus voces.
+									","
+											Da mesma forma que se usa a câmara de vídeo para
+											para enviar informação para Scratch,
+											podem também usar o microfone.
+											Aqui há um exemplo de um projeto que está a usar o microfone.
+											Vou deixar-vos controlar este jogo
+											através das vossas vozes.
+									","
+											Kameranın Scratch'e bilgi göndermesi yöntemiyle
+											aynı şekilde
+											mikrofonu da kullanabilirsiniz.
+											Bu, mikrofonu kullanan bir örnek.
+											Bu oyunu sizin sesinizi kullanarak kontrol
+											etmenize izin vereceğim.
+									","
+											The same way that this uses the camera
+											to get information into Scratch,
+											you can also use the microphone.
+											Here's an example of a project using the microphone.
+											So I'm going to let all of you control this game
+											using your voices.
+									","
+											De la même façon que la caméra est utilisée
+											pour transmettre de l'information à Scratch,
+											on peut utiliser un microphone.
+											Voici un exemple de projet qui utilise un micro.
+											Alors je vais vous tous,
+vous laisser contrôler de ce jeu
+											à l'aide de vos voix.
+									","
+											Genauso wie die Kamera hier genutzt wird,
+											um Information in Scratch hineinzubekommen,
+											kann man auch das Mikrofon benutzen.
+											Hier ist ein Beispiel eines Projekts, 
+das das Mikrofon verwendet.
+											Ich lasse Sie alle also dieses Spiel
+											mit Ihren Stimmen kontrollieren.
+									",Let's teach kids to code,Mitch Resnick,16:48,"Internet,TEDx,children,computers,education,parenting,technology,youth,code"
+"
+","
+","
+","
+","
+","
+",Let's teach kids to code,Mitch Resnick,16:48,"Internet,TEDx,children,computers,education,parenting,technology,youth,code"
+"
+											(Grillos) (Gritos) (Masticando)
+											(Risas)
+											(Aplausos)
+									","
+											(Grilos a cantar) (Gritos) (Mastigação)
+											(Risos)
+											(Aplausos)
+									","
+											(Cırcır böceği sesleri) (Bağırmalar) (Isırma sesleri)
+											(Kahkaha)
+											(Alkış)
+									","
+											(Crickets chirping) (Shouts) (Chomping)
+											(Laughter)
+											(Applause)
+									","
+											(Chants de criquets) (Cris) (Bruit de mastication)
+											(Rires)
+											(Applaudissements)
+									","
+											(Grillenzirpen) (Rufe) (Kauen)
+											(Gelächter)
+											(Applaus)
+									",Let's teach kids to code,Mitch Resnick,16:48,"Internet,TEDx,children,computers,education,parenting,technology,youth,code"
+"
+","
+","
+","
+","
+","
+",Let's teach kids to code,Mitch Resnick,16:48,"Internet,TEDx,children,computers,education,parenting,technology,youth,code"
+"
+											Cuando los niños crean proyectos como éste,
+											están aprendiendo a codificar,
+											pero aún más importante, 
+aprenden codificando.
+											Porque a medida que aprenden a codificar,
+											esto los capacita para aprender muchas otras cosas,
+											les abre muchas nuevas 
+oportunidades de aprendizaje.
+											Nuevamente, es útil hacer una
+analogía con la lectura y la escritura.
+											Cuando aprenden a leer y escribir,
+se les abren oportunidades
+											para aprender muchas otras cosas.
+											Cuando aprenden a leer, 
+pueden luego aprender leyendo.
+											Y es lo mismo con la codificación.
+											Si aprenden a codificar,
+pueden aprender codificando.
+											Algunas de las cosas 
+que pueden aprender son obvias.
+											Aprenden más sobre 
+cómo funcionan las computadoras.
+											Pero eso es solo el comienzo.
+											Cuando aprenden a codificar,
+se abre una oportunidad
+											para aprender muchas otras cosas.
+									","
+											Enquanto as crianças criam projetos assim,
+											estão a aprender a programar,
+											mas ainda mais importante, estão a programar para aprender.
+											Enquanto aprendem a programar,
+											isso permite-lhes aprender muitas outras coisas,
+											e cria muitas oportunidades de aprendizagem.
+											Mais uma vez é útil fazer uma analogia entre a leitura e a escrita.
+											Quando aprendemos a ler e a escrever, isso cria
+											oportunidades para que possamos aprender outras coisas.
+											Quando aprendemos a ler, podemos então ler para aprender.
+											É a mesma coisa com a programação.
+											Se aprendemos a programar, podemos programar para aprender.
+											Algumas das coisas que podemos aprender são óbvias.
+											Podemos aprender mais sobre como funcionam os computadores.
+											Mas isso é apenas o início.
+											Quando aprendemos a programar, abre-se uma oportunidade para se aprender
+											muitas outras coisas.
+									","
+											Çocuklar bu tür projeleri yazarken
+											kodlamayı öğreniyor,
+											daha da önemlisi kodlayarak öğreniyor.
+											Çünkü kodlamayı öğrenirken,
+											bir yandan da bir sürü başka şey öğreniyorlar,
+											kodlama bir sürü yeni öğrenme imkanı yaratıyor.
+											Okuma ve yazma ile karşılaştırmakta fayda var.
+											Okuma ve yazma öğrendiğinizde bu başka
+											bir sürü şeyi öğrenmenize imkan tanır.
+											Okumayı öğrendiğinizde, öğrenmek için okuyabilirsiniz.
+											Kodlamada da aynı durum söz konusu.
+											Kodlamayı öğrendiğinizde, öğrenmek için kodlayabilirsiniz.
+											Öğrenebileceğiniz bazı şeyler gerçekten çok açık.
+											Bilgisayarların nasıl çalıştığını öğrenebilirsiniz.
+											Ama bu sadece başlangıç.
+											Kodlamayı öğrendiğinizde, daha çok şey
+											öğrenmeniz mümkün.
+									","
+											As kids are creating projects like this,
+											they're learning to code,
+											but even more importantly, they're coding to learn.
+											Because as they learn to code,
+											it enables them to learn many other things,
+											opens up many new opportunities for learning.
+											Again, it's useful to make an analogy to reading and writing.
+											When you learn to read and write, it opens up
+											opportunities for you to learn so many other things.
+											When you learn to read, you can then read to learn.
+											And it's the same thing with coding.
+											If you learn to code, you can code to learn.
+											Now some of the things you can learn are sort of obvious.
+											You learn more about how computers work.
+											But that's just where it starts.
+											When you learn to code, it opens up for you to learn
+											many other things.
+									","
+											Quand les enfants créent
+des projets comme celui-ci,
+											ils apprennent à programmer,
+											mais plus important encore,
+ils programment pour apprendre.
+											Parce qu'en apprenant à programmer,
+											ça leur permet d'apprendre
+plein d'autres choses
+											et leur donne de nombreuses
+opportunités d'apprentissage.
+											Encore une fois, c'est utile de faire
+l'analogie avec la lecture et l'écriture.
+											Quand on apprend à lire
+et à écrire, ça donne
+											l'opportunité d'apprendre
+beaucoup d'autres choses.
+											Quand on apprend à lire, on peut alors
+lire pour apprendre.
+											C'est la même chose avec la programmation.
+											Quand on apprend à programmer,
+on peut programmer pour apprendre.
+											Maintenant certaines des choses qu'on
+peut apprendre sont évidentes.
+											On apprend comment les ordinateurs fonctionnent.
+											Mais c'est juste le commencement.
+											Quand on apprend à programmer, ça ouvre
+les portes de l'apprentissage
+											de bien d'autres choses.
+									","
+											Wenn Kinder solche Projekte erstellen,
+											lernen sie zu programmieren,
+											aber noch wichtiger, 
+sie programmieren um zu lernen.
+											Denn wenn sie programmieren lernen,
+											lernen sie auch viele andere Dinge und
+											das öffnet viele neue Möglichkeiten des Lernens.
+											Wieder ist es nützlich, eine Analogie 
+zum Lesen und Schreiben zu ziehen.
+											Wenn man lesen und schreiben lernt, öffnet das
+											Gelegenheiten, um so viele andere Dinge zu lernen.
+											Wenn man lesen lernt, 
+kann man lesen um zu lernen.
+											Das Gleiche trifft auf das Programmieren zu.
+											Wenn man lernt zu programmieren, 
+kann man programmieren um zu lernen.
+											Einige dieser erlernbaren Dinge 
+sind offensichtlich.
+											Man lernt mehr darüber, wie Computer arbeiten.
+											Aber das ist nur der Anfang.
+											Wenn man Programmieren lernt, 
+ermöglicht das einem auch
+											viele andere Dinge zu lernen.
+									",Let's teach kids to code,Mitch Resnick,16:48,"Internet,TEDx,children,computers,education,parenting,technology,youth,code"
+"
+","
+","
+","
+","
+","
+",Let's teach kids to code,Mitch Resnick,16:48,"Internet,TEDx,children,computers,education,parenting,technology,youth,code"
+"
+											Déjenme mostrarles un ejemplo.
+											Acá hay otro proyecto
+											lo vi cuando estaba visitando
+											uno de los clubes de computación.
+											Estos son centros de aprendizaje
+extraescolar que hemos ayudado a crear
+											y que ayudan a jóvenes de
+comunidades de bajos recursos
+											a que aprendan a expresarse 
+creativamente con las nuevas tecnologías.
+											Unos años atrás, cuando fui a uno de estos clubes,
+											vi a un chico de trece años 
+que utilizaba nuestro software Scratch
+											para crear un juego parecido a éste
+											y estaba muy feliz y orgulloso de su juego,
+											pero también quería hacer más.
+											Quería que tuviera puntaje.
+											Era un juego en donde 
+el pez grande se come al pequeño.
+											Quería que tuviera puntuación,
+para que cada vez
+											que el pez grande se comiera al pequeño,
+											el puntaje subiera y llevara la cuenta
+											y no sabía cómo hacerlo.
+											Así que le mostré cómo.
+											En Scratch pueden crear algo llamado variable.
+											Lo llamaré puntaje.
+											Y eso crea unos nuevos bloques para ustedes
+											y también crea un pequeño marcador
+que lleva la cuenta del puntaje,
+											así que cada vez que haga clic
+en ""cambiar puntaje"", lo aumentará.
+											Así que se lo mostré a...
+											llamémoslo Víctor... y Víctor,
+											cuando vio que este bloque 
+lo dejaría aumentar el puntaje,
+											supo exactamente qué hacer.
+											Tomó el bloque
+											y lo puso en el programa,
+											exactamente donde el pez
+grande se come al pequeño.
+											Así que, cada vez que 
+el pez grande se come al pequeño,
+											el puntaje aumentará en uno.
+											Y de hecho funciona.
+											Lo vio y estaba tan emocionado
+											que extendió su mano hacia mí
+											y dijo ""gracias, gracias, gracias"".
+											Y lo que pensé fue:
+											¿cuán a menudo los alumnos 
+les agradecen a sus profesores
+											por enseñarles las variables? (Risas)
+											No pasa en la mayoría de las aulas,
+											pero eso es porque cuando
+los niños aprenden las variables,
+											no saben por qué las aprenden.
+											No es algo que
+puedan usar.
+											Cuando aprenden algo así en Scratch,
+											lo hacen de una manera
+significativa y motivante,
+											de manera que comprendan la razón 
+para aprender las variables
+											y vemos que los niños las aprenden
+											con mayor profundidad y mejor.
+											A Víctor, estoy seguro,
+le enseñaron las variables en la escuela,
+											pero realmente no... 
+no estaba prestando atención.
+											Ahora tenía una razón para aprenderlas.
+											Cuando aprendes codificando,
+											aprendes en un contexto significativo,
+que es la mejor manera de aprender.
+									","
+											Deixem-me dar-vos um exemplo.
+											Aqui está um outro projeto,
+											que vi quando estava a visitar
+											um 'Clube de Computadores'.
+											Estes clubes são centros educativos extra curriculares que nós ajudámos a começar
+											e que ajudam jovens oriundos de comunidades com fracas condições económicas
+											a aprenderem a expressar-se de uma forma criativa com novas tecnologias.
+											Quando fui a um desses clubes, há uns anos atrás,
+											vi um rapaz de 13 anos que estava a usar o nosso software Scratch
+											para criar um jogo parecido com este,
+											e ele estava muito feliz e orgulhoso com o seu jogo,
+											mas também queria fazer mais.
+											Ele queria guardar a pontuação do jogo.
+											Este era um jogo onde o peixe grande comia o peixe pequeno,
+											mas ele queria guardar a pontuação, para que cada vez
+											que o peixe grande comesse o pequeno,
+											a pontuação aumentasse e ficasse visível,
+											mas ele não sabia fazer isso.
+											Então mostrei-lhe o que fazer.
+											No Scratch, podemos criar uma coisa chamada 'variável'.
+											Vou chamar-lhe Pontuação.
+											E isto cria alguns novos tijolos,
+											e também cria um pequeno placar que mantem a pontuação,
+											para que cada vez que eu clicar em ""mudar pontuação"", ele aumente os pontos.
+											Eu mostrei isto ao rapaz do clube —
+											vamos chamá-lo de Victor — e o Victor,
+											quando viu que este tijolo lhe permitia aumentar a pontuação,
+											ele soube exatamente o que fazer a seguir.
+											Ele pegou no tijolo
+											e ele colocou-o no programa
+											exatamente onde o peixe grande come o peixe pequeno.
+											Então, cada vez que o peixe grande come o peixe pequeno,
+											o programa incrementa a pontuação, e os pontos sobem uma unidade.
+											E está, de facto, a funcionar!
+											O rapaz viu isso, e estava tão entusiasmado,
+											que ele esticou a sua mão para mim,
+											e disse, 'Obrigado, obrigado, obrigado.""
+											O que passou pela minha cabeça foi,
+											""Quantas vezes os professores são agradecidos pelos alunos
+											quando lhes ensinam variáveis?"" (Risos)
+											Não acontece na maioria das aulas,
+											porque numa sala de aula, quando as crianças aprendem sobre variáveis,
+											eles não sabem porquê que têm que aprender aquilo.
+											Não é algo que possam usar na prática.
+											Mas quando se aprende algo assim no Scratch,
+											aprende-se de uma forma que faz sentido e que é motivante,
+											e que se percebe a razão para aprender variáveis,
+											e vemos que as crianças aprendem mais profundamente
+											e aprendem melhor.
+											O Victor, com certeza, teve aulas sobre variáveis na escola,
+											mas na realidade não estava a prestar atenção.
+											Neste caso, ele tinha um motivo para aprender variáveis.
+											Quando aprendemos através da programação e programamos para aprender,
+											estamos a aprender num contexto significativo, e esta é a melhor forma para aprender.
+									","
+											Size bir örnek vereyim.
+											Bu ziyaret ettiğim
+											bilgisayar kulüplerinden birinde gördüğüm
+											başka bir proje.
+											Bu kulüpler okul sonrası eğitimi desteklemek için başlattığımız merkezler
+											ve düşük gelirli mahallelerden gelen gençlerin kendilerini
+											yeni teknolojilerle yaratıcı bir şekilde ifade etmelerine yardım ediyorlar.
+											Bir kaç sene önce bu kulüplerden birine gittiğimde,
+											Scratch programımızı kullanan 13 yaşında bir çocuk gördüm,
+											buna benzer bir oyun yapıyordu ve
+											oyunundan memnundu ve onunla gurur duyuyordu,
+											ama aynı zamanda daha çok şey yapmak istiyordu.
+											Mesela puanları kaydetmek istiyordu.
+											Bu büyük balıkların küçük balıkları yediği bir oyundu ama
+											puanları kaydedebilmek istiyordu böylece
+											büyük balık küçük balığı her yiyişinde
+											puan yükselecekti,
+											ama bunu nasıl yapacağını bilmiyordu.
+											Ben de gösterdim.
+											Scratch'de, bir değişken oluşturabilirsiniz,
+											Bunu ""puan"" diye adlandıralım.
+											Bu yeni bloklar oluşturmanızı sağlar,
+											ve böylece küçük bir puan kutusu puanı takip eder,
+											ve her ""puanı değiştir""'e basışımda, puanı yükseltir.
+											Bunu bu kulüp üyesine gösterdim -
+											adı Victor'du - ve Victor
+											bu puan ekleyen bloğu gördüğünde
+											ne yapması gerektiğini bliiyordu.
+											Bloğu aldı
+											ve programa yerleştirdi
+											tam da büyük balığın küçük balığı yediği yere.
+											Böylece büyük balık küçük balığı her yediğinde
+											puan işliyor ve puan yükseliyordu.
+											Ve gerçekten de çalıştı.
+											Bunu gördüğünde çok heyecanlandı,
+											elini bana uzattı ve
+											""teşekkür ederim, teşekkür ederim, teşekkür ederim!"" dedi.
+											Bu sırada benim aklımdan geçen
+											acaba öğretmenler ne kadar sıklıkta değişkenleri
+											öğrettikleri için öğrencilerinden böyle teşekkür duyarlar? (Kahkaha)
+											Birçok sınıfta bu olmuyor ama bu birçok sınıfta
+											çocuklar değişkenleri öğrenirken,
+											bunu neden öğrendiklerini bilmedikleri için.
+											Bunu kullanabilecekleri bir yer aslında yok.
+											Bu tür fikirleri Scratch'te öğrendiğinizde
+											bunu gerçekten anlamlı ve motive edici bir şekilde öğreniyorsunuz
+											ve değişkenleri öğrenmenizin nedenini anlıyorsunuz
+											ve biz çocukların böylece daha derin ve
+											daha iyi öğrendiğini görebiliyoruz.
+											Victor eminim ki okulda değişkenleri öğrenmişti,
+											ama öğrenmemişti, dikkat etmemişti.
+											Şimdi ise değişkenleri öğrenmesi için bir neden vardı.
+											Böylece kodlama sayesinde öğreniyorsunuz ve öğrenmek için kodluyorsunuz
+											ve anlamlı bir bağlamda öğreniyorsunuz - öğrenmenin en iyi şekli.
+									","
+											Let me show you an example.
+											Here's another project,
+											and I saw this when I was visiting
+											one of the computer clubhouses.
+											These are after-school learning centers that we helped start
+											that help young people from low-income communities
+											learn to express themselves creatively with new technologies.
+											And when I went to one of the clubhouses a couple years ago,
+											I saw a 13-year-old boy who was using our Scratch software
+											to create a game somewhat like this one,
+											and he was very happy with his game and proud of his game,
+											but also he wanted to do more.
+											He wanted to keep score.
+											So this was a game where the big fish eats the little fish,
+											but he wanted to keep score, so that each time
+											the big fish eats the little fish,
+											the score would go up and it would keep track,
+											and he didn't know how to do that.
+											So I showed him.
+											In Scratch, you can create something called a variable.
+											I'll call it score.
+											And that creates some new blocks for you,
+											and also creates a little scoreboard that keeps track of the score,
+											so each time I click on ""change score,"" it increments the score.
+											So I showed this to the clubhouse member —
+											let's call him Victor — and Victor,
+											when he saw that this block would let him increment the score,
+											he knew exactly what to do.
+											He took the block
+											and he put it into the program
+											exactly where the big fish eats the little fish.
+											So then, each time the big fish eats the little fish,
+											he will increment the score, and the score will go up by one.
+											And it's in fact working.
+											And he saw this, and he was so excited,
+											he reached his hand out to me,
+											and he said, ""Thank you, thank you, thank you.""
+											And what went through my mind was,
+											how often is it that teachers are thanked by their students
+											for teaching them variables? (Laughter)
+											It doesn't happen in most classrooms,
+											but that's because in most classrooms, when kids learn about variables,
+											they don't know why they're learning it.
+											It's nothing that, really, they can make use of.
+											When you learn ideas like this in Scratch,
+											you can learn it in a way that's really meaningful and motivating for you,
+											that you can understand the reason for learning variables,
+											and we see that kids learn it more deeply
+											and learn it better.
+											Victor had, I'm sure, been taught about variables in schools,
+											but he really didn't — he wasn't paying attention.
+											Now he had a reason for learning variables.
+											So when you learn through coding, and coding to learn,
+											you're learning it in a meaningful context, and that's the best way of learning things.
+									","
+											Laissez-moi vous montrer un exemple.
+											Voici un autre projet,
+											que j'ai vu quand j'ai visité
+											un de ces clubs d'informatique.
+											Ce sont des centres pour les activités extrascolaires que nous avons aidés à lancer
+											et qui proposent aux jeunes
+des quartiers défavorisés
+											d'apprendre à s'exprimer de manière créative en utilisant les nouvelles technologies.
+											Et quand je suis allé à un des clubs
+il y a quelques années,
+											J'ai vu un garçon de 13 ans
+qui utilisait le logiciel Scratch
+											pour créer un jeu un peu comme celui-ci,
+											il était très heureux avec son jeu
+et il en était fier,
+											mais il voulait faire plus.
+											Il voulait en garder une trace.
+											Alors c'était un jeu dans lequel
+un gros poisson mange un petit poisson,
+											mais il voulait garder le score,
+de sorte qu'à chaque fois
+											que le gros poisson
+mangerait un petit poisson,
+											le score augmenterait
+et ça en garderait une trace
+											mais il ne savait pas comment faire.
+											Alors je lui ai montré.
+											Avec Scratch, vous pouvez créer quelque chose qu'on appelle une variable.
+											Je l'appellerai score.
+											Ça vous crée quelques nouvelles briques,
+											et ça crée aussi un petit écran de résultat
+qui enregistre ce score,
+											donc à chaque fois que je clique sur
+""Modifier score"", ça incrémente le score.
+											Donc j'ai montré ça au membre de ce club —
+											appelons le Victor — et quand Victor,
+											a vu que cette nouvelle brique allait
+lui permettre d'incrémenter le score,
+											il a su exactement quoi faire.
+											Il a pris la brique
+											et l'a ajoutée au programme
+											exactement là où le gros poisson mange le petit poisson.
+											Ainsi, à chaque fois que le gros poisson
+mange un petit poisson,
+											ça incrémentera le score, et le score
+augmentera de un en un.
+											Et ça marche vraiment.
+											Il a vu ça et il était si excité,
+											qu'il a approché sa main vers moi,
+											et il a dit : « Merci, Merci, Merci ».
+											Et voilà ce qui m'est venu à l'esprit :
+											est-ce fréquent que les professeurs soient remerciés par leurs étudiants
+											pour leur avoir enseigné les variables ? 
+(Rires)
+											Dans la plupart des salles de classe,
+ça n'arrive pas,
+											mais c'est parce que dans la plupart des classes, quand les enfants apprennent les variables,
+											ils ne savent pas pourquoi ils apprennent ça.
+											Ça n'est vraiment en rien quelque chose
+qui peut leur être utile.
+											Quand on apprend des concepts
+comme ceux-ci dans Scratch,
+											on les apprend d'une manière qui leur donne vraiment un sens et qui est motivante,
+											et on comprend alors pourquoi
+on apprend les variables,
+											et on observe que les enfants
+apprennent de façon plus profonde
+											et apprennent mieux.
+											Je suis sûr que Victor a appris
+ce qu'était une variable à l'école,
+											mais il n'avait pas vraiment appris
+— il n'y avait pas vraiment fait attention.
+											Maintenant il avait une raison
+d'apprendre les variables.
+											Donc quand on apprend grâce à la programmation, et qu'on programme pour apprendre,
+											on apprend dans un contexte qui a du sens,
+et c'est la meilleure façon d'apprendre.
+									","
+											Lassen Sie mich ein Beispiel zeigen.
+											Hier ist ein weiteres Projekt,
+											und ich sah das, als ich eines
+											der Computer-Clubhäuser besuchte.
+											Das sind nachschulische Lernzentren, 
+die wir auf den Weg brachten,
+											die jungen Menschen aus einkommensschwachen Gemeinschaften helfen,
+											sich mittels neuer Technologien 
+kreativ auszudrücken.
+											Als ich vor ein paar Jahren 
+zu einem der Clubhäuser ging,
+											sah ich einen 13-jährigen Jungen, 
+der unsere Scratch-Software benutzte,
+											um ein Spiel zu machen, 
+das so ähnlich wie dieses ist,
+											und er war sehr glücklich über 
+dieses Spiel und stolz darauf,
+											aber er wollte auch noch mehr tun.
+											Er wollte Punkte zählen.
+											Dieses war ein Spiel, wo die großen Fische 
+die kleinen Fische essen,
+											aber er wollte den Punktestand zeigen, 
+damit jedes Mal,
+											wenn der große Fisch den kleinen Fisch frisst,
+											die Punktzahl steigt und das sichtbar wird,
+											und er wusste nicht, wie er das machen sollte.
+											Also zeigte ich es ihm.
+											In Scratch kann man eine Variable erzeugen.
+											Ich nenne das ""Spielstand"".
+											Und das erzeugt ein paar neue Blockcodes,
+											und es erzeugt auch kleine Anzeigetafeln, 
+die den Punktestand wiedergeben,
+											und so erhöht er sich jedes Mal,
+wenn man auf ""Punktestand ändern klickt.
+											Ich zeigte das also dem Clubhaus-Mitglied –
+											wir nennen ihn mal Victor – und Victor wusste,
+											als er sah, dass dieser Blockcode ihm 
+ermöglichte, den Punktestand hochzuzählen,
+											genau was er tun musste.
+											Er nahm den Block
+											und fügte ihn genau dort in das Programm ein,
+											wo der große Fisch den kleinen Fisch frisst.
+											Also wird er jedes Mal, wenn der 
+große Fisch den kleinen Fisch frisst,
+											den Punktestand erhöhen und 
+die Punktzahl steigt um eine Einheit.
+											Und es funktioniert tatsächlich.
+											Er sah das und war so begeistert, dass er
+											seine Hand nach mir ausstreckte
+											und sagt: ""Danke, danke, danke.""
+											Und sofort ging mir durch den Kopf,
+											wie oft sich Schüler bei ihren Lehrern bedanken,
+											weil sie ihnen Variablen beibringen? (Gelächter)
+											Das passiert in den meisten Klassenzimmern nicht,
+											aber das liegt daran, dass wenn 
+Kinder über Variablen lernen,
+											sie meistens nicht wissen, wofür sie das lernen.
+											Es ist nichts, was sie wirklich anwenden können.
+											Wenn man Konzepte wie dieses in Scratch lernt,
+											lernt man das auf eine Weise, 
+die wirklich sinnvoll und motivierend ist,
+											sodass man verstehen kann, 
+warum man Variablen erlernen soll,
+											und wir stellen fest, dass Kinder genauer
+											und besser lernen.
+											Victor waren sicher in der Schule 
+Variablen beigebracht worden,
+											aber er gab nicht wirklich acht.
+											Jetzt gab es einen Grund dafür
+Variablen zu erlernen.
+											Wenn man durch Programmieren lernt, 
+und programmiert um zu lernen,
+											lernt man in einem sinnvollen Kontext, 
+und das ist die beste Art, Dinge zu lernen.
+									",Let's teach kids to code,Mitch Resnick,16:48,"Internet,TEDx,children,computers,education,parenting,technology,youth,code"
+"
+","
+","
+","
+","
+","
+",Let's teach kids to code,Mitch Resnick,16:48,"Internet,TEDx,children,computers,education,parenting,technology,youth,code"
+"
+											Así, cuando los niños como Víctor 
+crean proyectos como éste,
+											aprenden conceptos importantes, 
+como las variables,
+											pero eso es solo el comienzo.
+											Como Víctor trabajó en este proyecto
+y creó las secuencias de comandos,
+											también estaba aprendiendo 
+sobre el proceso de diseño,
+											cómo empezar con la chispa de una idea
+											y convertirla en un proyecto completo y funcional
+											como el que ven aquí.
+											Así que estaba aprendiendo muchos 
+principios básicos de diseño diferentes
+											sobre cómo experimentar con nuevas ideas,
+											cómo tomar ideas complejas y 
+descomponerlas en partes más simples,
+											cómo colaborar con otras personas,
+											cómo encontrar y arreglar 
+los <i>bugs</i> cuando las cosas salen mal,
+											cómo mantenerse perseverar
+											frente a las frustración
+cuando las cosas no funcionan bien.
+											Esas con habilidades importantes
+											que no solo atañen a la codificación.
+											Son relevantes para todo tipo 
+de actividades diferentes.
+									","
+											Quando crianças como o Victor estão a criar projetos como este,
+											estão a aprender conceitos importantes sobre variáveis,
+											mas isso é apenas o início.
+											Enquanto o Victor trabalhava no seu projeto e criava as sequências de comandos,
+											ele estava também a aprender sobre o processo de concepção,
+											de como começar com a 'faísca' de uma ideia e
+											e de como transformá-la num projeto completo e funcional
+											como viram aqui.
+											Ele estava a aprender muitos princípios básicos do processo de concepção,
+											de como experimentar com novas ideias,
+											como começar com ideias complexas e dividi-las em partes mais simples,
+											como colaborar com outras pessoas nos seus projetos,
+											como encontrar e corrigir erros quando há problemas,
+											e como manter a persistência e perseverança
+											quando as coisas não correm bem.
+											Estas competências são importantes e
+											não são apenas relevantes para programar.
+											São relevantes para muitas atividades diferentes.
+									","
+											Victor gibi çocuklar bu tarz projeler yapıyor
+											ve değişkenler gibi önemli kavramları öğreniyorlar,
+											ki bu daha sadece başlangıç
+											Victor projesi üzerinde çalışırken ve kodlar yazarken
+											aynı zamanda tasarım sürecini de öğreniyordu:
+											nasıl bir fikir ile başlanıp
+											onu gelişmiş çalışan bir projeye dönüştüreceğini
+											burada gördüğünüz gibi.
+											Tasarımın bir kaç ana prensibini öğreniyordu:
+											yeni fikirler nasıl denenir,
+											karmaşık fikirler nasıl daha basit parçalara ayırılır,
+											projenizde nasıl başkalarıyla işbirliği yapılır,
+											kod hataları nasıl bulunur ve düzeltilir,
+											ve nasıl engeller karşısında, bir şeyler çalışmadığında
+											azimle devam edilir.
+											Bunlar çok önemli yetenekler
+											ve sadece kodlama ile alakalı değiller.
+											Bir sürü başka aktivitede de geçerliler.
+									","
+											So as kids like Victor are creating projects like this,
+											they're learning important concepts like variables,
+											but that's just the start.
+											As Victor worked on this project and created the scripts,
+											he was also learning about the process of design,
+											how to start with the glimmer of an idea
+											and turn it into a fully-fledged, functioning project
+											like you see here.
+											So he was learning many different core principles of design,
+											about how to experiment with new ideas,
+											how to take complex ideas and break them down into simpler parts,
+											how to collaborate with other people on your projects,
+											about how to find and fix bugs when things go wrong,
+											how to keep persistent and to persevere
+											in the face of frustrations when things aren't working well.
+											Now those are important skills
+											that aren't just relevant for coding.
+											They're relevant for all sorts of different activities.
+									","
+											Alors quand des enfants comme Victor
+créent des projets comme celui-ci,
+											ils apprennent des concepts importants
+tels que les variables,
+											mais ça n'est que le début.
+											Pendant que Victor travaillait
+sur ce projet et écrivait les scripts,
+											il a également appris le processus de conception,
+											comment commencer avec une idée lumineuse
+											et en faire un projet concert, qui fonctionne
+											comme vous pouvez le voir ici.
+											Alors il apprenait de nombreux principes fondamentaux de la conception,
+											comment tester de nouvelles idées,
+											comment prendre des idées complexes
+et les décomposer en étapes simples,
+											comment collaborer avec
+d'autres personnes sur un projet,
+											comment identifier et résoudre les bugs
+quand il y a des erreurs,
+											comment rester concentré et persévérer
+											face à la frustration quand les choses
+ne se déroulent pas bien.
+											Ces compétences essentielles
+											ne sont pas uniquement
+utiles à la programmation.
+											Elles sont pertinentes pour
+toutes sortes d'activités.
+									","
+											Wenn Kinder wie Victor solche Projekte erschaffen,
+											erlernen sie wichtige Konzepte wie Variablen,
+											aber das ist nur der Anfang.
+											Währen Victor an diesem Projekt 
+arbeitete und Skripte erstellte,
+											lernte er auch etwas über den Designprozess,
+											wie man mit einem zündenden Gedanken beginnt
+											und ihn in ein ausgewachsenes, 
+funktionierendes Projekt verwandelt,
+											wie man das hier sieht.
+											Also lernte er viele verschiedene 
+Grundprinzipien des Designs kennen,
+											wie man mit neuen Ideen experimentiert,
+											wie man komplexe Ideen nimmt 
+und sie in einfachere Teile zerlegt,
+											wie man in seinen Projekten 
+mit anderen zusammenarbeitet,
+											wie man Fehler findet und behebt, 
+wenn Dinge falsch laufen,
+											wie man hartnäckig und ausdauernd bleibt
+											wenn man Frustrationen begegnet, 
+wenn Dinge nicht gut funktionieren.
+											Das sind wichtige Fertigkeiten,
+											die nicht nur für 
+das Programmieren relevant sind.
+											Sie sind für alle möglichen 
+verschiedenen Aktivitäten relevant.
+									",Let's teach kids to code,Mitch Resnick,16:48,"Internet,TEDx,children,computers,education,parenting,technology,youth,code"
+"
+","
+","
+","
+","
+","
+",Let's teach kids to code,Mitch Resnick,16:48,"Internet,TEDx,children,computers,education,parenting,technology,youth,code"
+"
+											Ahora, ¿quién sabe si Víctor crecerá y se convertirá
+											en programador o en un informático profesional?
+											Quizá no es muy probable.
+											Pero, independientemente de lo que haga,
+											será capaz de utilizar esas habilidades 
+de diseño que aprendió.
+											Independientemente de si crece 
+y se convierte en gerente de marketing
+											o en mecánico o en un organizador comunitario,
+											estas ideas son útiles para todos.
+											De nuevo, es útil utilizar la analogía con el lenguaje.
+											Cuando dominan la lectura y escritura,
+											no es algo que hagan
+											para convertirse en escritores profesionales.
+											Muy pocas personas se convierten 
+en escritores profesionales.
+											Pero es útil para todos aprender
+a leer y escribir.
+											Lo mismo con la codificación.
+											La mayoría de las personas 
+no se convertirá
+											en informático profesional o en programador,
+											pero esas habilidades de pensar creativamente,
+											razonar sistemáticamente 
+y trabajar en colaboración...
+											habilidades que desarrollan 
+cuando codifican en Scratch...
+											son cosas que la gente puede utilizar 
+sin importar el trabajo que tengan.
+									","
+											Quem sabe se o Victor vai crescer e se vai tornar
+											num programador ou num informático profissional?
+											Talvez não seja muito provável,
+											mas independentemente do que ele fizer,
+											ele poderá fazer uso destas competências de concepção que adquiriu.
+											Independentemente de crescer e de ser tornar num diretor de marketing
+											ou num mecânico ou num organizador da comunidade,
+											aquelas ideias são úteis para todos.
+											Uma vez mais, é útil fazer a analogia com um idioma.
+											Quando nos tornamos fluentes a ler e a escrever,
+											não o fazemos para nos tornarmos
+											escritores profissionais.
+											Na realidade, poucas pessoas se tornam escritores profissionais.
+											Mas é útil para todos que aprendam a ler e escrever.
+											O mesmo acontece com a programação.
+											A maioria das pessoas quando crescerem não se irão tornar
+											programadores ou informáticos profissionais,
+											mas a capacidade de pensar de uma forma criativa,
+											com pensamento estruturado, de trabalhar em colaboração —
+											competências que se desenvolvem quando se usa o Scratch —
+											são coisas que as pessoas podem usar independentemente do que fizerem profissionalmente.
+									","
+											Kim bilir, Victor büyüyünce programcı veya
+											profesyonel bir bilgisayar bilimcisi olacak mı?
+											Çok muhtemel değil,
+											ama ne yaparsa yapsın,
+											bu öğrendiği tasarım becerilerini kullanabilecek.
+											Büyüyünce pazarlama müdürü de olsa,
+											mekanik de olsa,
+											bu fikirler herkes için faydalı.
+											Yine dil ile olan benzerliği düşünmek faydalı.
+											Okula ve yazmada akıcı olduğunuzda
+											bu profesyonel bir yazar olmak için
+											yaptığınız bir şey değil.
+											Çok az insan yazar olabiliyor.
+											Ama okuma ve yazmayı öğrenmek herkes için faydalı.
+											Bu kodlama için de geçerli.
+											Çoğumuz ileride profesyonel
+											bilgisayar bilimcisi veya programcı olmayacağız,
+											ama bu yaratıcı düşünme becerisi,
+											sistematik analitik düşünme ve işbirliği -
+											Scratch'te kodlarken geliştirdiğiniz beceriler -
+											İşinizde ne yaparsanız yapın faydalı olan beceriler.
+									","
+											Now, who knows if Victor is going to grow up and become
+											a programmer or a professional computer scientist?
+											It's probably not so likely,
+											but regardless of what he does,
+											he'll be able to make use of these design skills that he learned.
+											Regardless of whether he grows up to be a marketing manager
+											or a mechanic or a community organizer,
+											that these ideas are useful for everybody.
+											Again, it's useful to think about this analogy with language.
+											When you become fluent with reading and writing,
+											it's not something that you're doing
+											just to become a professional writer.
+											Very few people become professional writers.
+											But it's useful for everybody to learn how to read and write.
+											Again, the same thing with coding.
+											Most people won't grow up to become professional
+											computer scientists or programmers,
+											but those skills of thinking creatively,
+											reasoning systematically, working collaboratively —
+											skills you develop when you code in Scratch —
+											are things that people can use no matter what they're doing in their work lives.
+									","
+											Maintenant, qui sait si Victor va grandir et devenir
+											programmeur ou informaticien ?
+											C'est peu probable,
+											mais peu importe ce qu'il fait,
+											il sera capable d'utiliser les compétences
+de conception qu'il a acquises.
+											Peu importe qu'il devienne directeur de marketing
+											ou mécanicien ou militant associatif,
+											ces idées sont utiles à tout le monde.
+											Encore une fois, c'est utile de penser
+à l'analogie avec le langage.
+											Quand on commence
+à lire et écrire couramment,
+											ce n'est pas quelque chose qu'on fait
+											uniquement pour devenir écrivain professionnel.
+											Très peu de gens deviennent
+des écrivains professionnels.
+											Mais c'est très utile pour tout le monde
+d'apprendre à lire et à écrire.
+											C'est encore la même chose
+avec la programmation.
+											La plupart des gens ne deviennent pas
+											des ingénieurs informaticiens ou programmeurs,
+											mais ces compétences de pensées créatives,
+											de raisonnement systématique, de travail collaboratif —
+											des compétences que vous développez
+quand vous codez avec Scratch —
+											sont des choses que les gens peuvent utiliser peu importe ce qu'ils font dans leur vie professionnelle.
+									","
+											Wer weiß, ob Victor später 
+zu einem Programmierer
+											oder einem professionellen Informatiker wird?
+											Es ist vielleicht nicht so wahrscheinlich,
+											aber unabhängig von dem, was er macht,
+											kann er diese erlernten 
+Gestaltungsfähigkeiten nutzen.
+											Unabhängig davon, ob er 
+später Marketing-Manager,
+											Mechaniker oder Gemeindearbeiter wird,
+											sind diese Ideen für jeden nützlich.
+											Es macht wiederum Sinn, über eine Analogie 
+mit Sprache nachzudenken.
+											Wenn man fließend lesen und schreiben kann,
+											macht man das nicht,
+											um ein Schriftsteller zu werden.
+											Nur sehr wenige Menschen 
+werden Schriftsteller.
+											Aber es ist für jeden von Nutzen, 
+lesen und schreiben zu lernen.
+											Das Gleiche gilt für das Programmieren.
+											Die meisten Leute werden keine
+											Informatiker oder Programmierer,
+											aber die Fähigkeit kreativ zu denken,
+											logisch zu denken und zusammenzuarbeiten –
+											Fähigkeiten, die man entwickelt, 
+wenn man in Scratch programmiert –
+											können Menschen unabhängig davon nutzen, 
+was sie in ihrem Arbeitsleben machen.
+									",Let's teach kids to code,Mitch Resnick,16:48,"Internet,TEDx,children,computers,education,parenting,technology,youth,code"
+"
+","
+","
+","
+","
+","
+",Let's teach kids to code,Mitch Resnick,16:48,"Internet,TEDx,children,computers,education,parenting,technology,youth,code"
+"
+											Y no es solo sobre la vida laboral.
+											La codificación también los hace capaces
+											de expresar sus ideas y 
+sentimientos en su vida personal.
+											Déjenme terminar con solo un ejemplo más.
+											Este es un ejemplo que llegó
+											después de haberle enviado a mi mamá 
+las tarjetas del Día de la Madre.
+											Mi madre decidió que 
+quería aprender a utilizar Scratch
+											e hizo este proyecto para mi cumpleaños
+											y me envió una tarjeta de 
+feliz cumpleaños de Scratch.
+											Este proyecto no va a ganar 
+ningún premio de diseño
+											y pueden estar seguros
+de que mi madre de 83 años
+											no está entrenando para convertirse en 
+programadora o informática profesional.
+											Pero trabajar en este proyecto le permitió
+											conectar con alguien que quiere
+											y le permitió seguir aprendiendo nuevas cosas
+											y continuar practicando su creatividad
+											y desarrollando nuevas maneras de expresarse.
+									","
+											E não apenas profissionalmente.
+											A programação também nos torna capazes de
+											expressar ideias e sentimentos na nossa vida pessoal.
+											Deixem-me terminar com apenas mais um exemplo.
+											Este é um exemplo que surgiu
+											depois que eu ter enviado os cartões para a minha mãe,
+											ela decidiu que queria aprender Scratch.
+											Então ela fez este projeto para meu aniversário
+											e mandou-me um cartão de Feliz Aniversário no Scratch.
+											Este projeto não vai ganhar nenhum prémio de design,
+											e podem ter a certeza que a minha mãe com 83 anos
+											não está a estudar para se tornar programador ou informático.
+											Mas trabalhar neste projeto permitiu-lhe
+											fazer uma ligação com alguém com quem ela se preocupa
+											e permitiu-lhe continuar a aprender coisas novas
+											e a praticar a sua criatividade
+											e a desenvolver novas maneiras de se expressar.
+									","
+											Ve sadece profesyonel hayatınız da değil.
+											Kodlamak kişisel yaşamınızda fikirlerinizi ve
+											duygularınız ifade etmenize de yardımcı olabilir.
+											Son bir örnekle bitireyim.
+											Bu örnek anneme Anneler Günü kartını
+											gönderdikten sonra annem Scratch
+											öğrenmeye karar verdiğinde ortaya çıktı.
+											Annem doğum günüm için bu projeyi yaptı
+											ve bana bir Scratch mutlu yıllar kartı gönderdi.
+											Bu proje herhangi bir tasarım ödülü kazanmayacak,
+											ve 83 yaşındaki annem kesinlikle profesyonel programcı
+											veya bilgisayar bilimcisi olmaya niyetli değil.
+											Ama bu proje üzerinde çalışmak annemin önem verdiği
+											biriyle bağlantı kurmasını sağladı,
+											yeni bir şeyler öğrenmeye devam etmesini sağladı,
+											yaratıcılığını kullanmaya devam etmesini ve
+											kendini yeni yollarla ifade edebilmesini sağladı.
+									","
+											And it's not just about your work life.
+											Coding can also enable you to
+											express your ideas and feelings in your personal life.
+											Let me end with just one more example.
+											So this is an example that came from
+											after I had sent the Mother's Day cards to my mom,
+											she decided that she wanted to learn Scratch.
+											So she made this project for my birthday
+											and sent me a happy birthday Scratch card.
+											Now this project is not going to win any prizes for design,
+											and you can rest assured that my 83-year-old mom
+											is not training to become a professional programmer or computer scientist.
+											But working on this project enabled her
+											to make a connection to someone that she cares about
+											and enabled her to keep on learning new things
+											and continuing to practice her creativity
+											and developing new ways of expressing herself.
+									","
+											Et il ne s'agit pas seulement
+de votre vie professionnelle.
+											Programmer peut également vous permettre
+											d'exprimer vos idées et vos sentiments
+dans votre vie personnelle.
+											Laissez-moi terminer en vous
+donnant un dernier exemple.
+											Revenons à mon histoire de Fête des Mères :
+											après que j'ai envoyé à ma mère ma carte
+pour la Fête des Mères,
+											elle a décidé qu'elle voulait
+apprendre à utiliser Scratch.
+											Elle a donc fait ce projet
+pour mon anniversaire
+											et m'a envoyé une carte de vœux
+à l'aide de Scratch.
+											Bon, ce projet ne gagnera
+aucun prix pour sa conception,
+											et vous pouvez être certains
+que ma mère de 83 ans
+											n'a pas l'intention de devenir programmeur professionnel ou ingénieur informaticien.
+											Mais en travaillant sur ce projet, elle a réussi à
+											créer un lien avec quelqu'un
+qui compte pour elle,
+											à continuer à apprendre de nouvelles choses
+											à continuer à exercer sa créativité
+											et à développer de nouvelles
+façons de s'exprimer.
+									","
+											Und es geht nicht nur um Ihr Arbeitsleben.
+											Programmieren kann es Ihnen auch ermöglichen,
+											in Ihrem Privatleben Ihre Ideen 
+und Gefühle auszudrücken.
+											Lassen Sie mich mit noch einem Beispiel schließen.
+											Dieses Beispiel entstand, nachdem
+											ich meiner Mutter die Muttertagskarten 
+geschickt hatte
+											und sie entschieden hatte, 
+dass sie Scratch lernen wollte.
+											Sie machte dieses Projekt für meinen Geburtstag
+											und schickte mir eine Scratch-Geburtstagskarte.
+											Dieses Projekt wird sicher keinen Preis 
+für sein Design gewinnen,
+											und Sie können sicher sein, 
+dass meine 83-jährige Mutter
+											keine Karriere als Programmiererin 
+oder Informatikerin zum Ziel hat.
+											Aber die Arbeit an diesem Projekt 
+hat sie dazu befähigt,
+											mit jemand in Verbindung zu treten, 
+der ihr etwas bedeutet,
+											und immer wieder neue Dinge zu lernen,
+											und fortdauernd ihre Kreativität auszuüben,
+											und neue Wege zu entwickeln, sich auszudrücken.
+									",Let's teach kids to code,Mitch Resnick,16:48,"Internet,TEDx,children,computers,education,parenting,technology,youth,code"
+"
+","
+","
+","
+","
+","
+",Let's teach kids to code,Mitch Resnick,16:48,"Internet,TEDx,children,computers,education,parenting,technology,youth,code"
+"
+											Así que echamos un vistazo y vemos
+											que Michael Bloomberg está aprendiendo a codificar,
+											todos los niños de Estonia lo hacen,
+											incluso mi mamá ha aprendido a hacerlo,
+											¿no creen que es hora de pensar
+											en aprender a codificar?
+											Si están interesados, dénle una oportunidad.
+											Los animo a visitar el sitio web de Scratch.
+											Es scratch.mit.edu
+											y dénle una oportunidad a la codificación.
+									","
+											Quando olhamos, e vemos que
+											Michael Bloomberg está a aprender a programar,
+											que todas as crianças da Estónia estão a aprender a programar,
+											até a minha mãe aprendeu a programar,
+											não acham que chegou a hora de pensarem
+											em aprender a programar?
+											Se estiverem interessados em experimentar,
+											convido-vos a visitar o sítio Web do Scratch.
+											O endereço é <i>scratch.mit.edu</i>
+											onde podem dar uma oportunidade à programação!
+									","
+											Buna baktığımızda görüyoruz ki
+											Michael Bloomberg kodlamayı öğreniyor,
+											Estonya'lı çocuklar kodlamayı öğreniyor,
+											benim annem bile kodlamayı öğrendi,
+											sizin de kodlamayı öğrenme
+											zamanınız gelmedi mi?
+											Eğer denemek isterseniz,
+											Scratch websitesini incelemenizi kesinlikle öneriyorum.
+											scratch.mit.edu adresine gidip
+											kodlamayı deneyin.
+									","
+											So as we take a look and we see that
+											Michael Bloomberg is learning to code,
+											all of the children of Estonia learn to code,
+											even my mom has learned to code,
+											don't you think it's about time that you might be
+											thinking about learning to code?
+											If you're interested in giving it a try,
+											I'd encourage you to go to the Scratch website.
+											It's scratch.mit.edu,
+											and give a try at coding.
+									","
+											Alors quand on y regarde
+de plus près, on réalise que
+											Michael Bloomberg apprend à programmer,
+											que tous les enfants d'Estonie
+apprennent à programmer,
+											que même ma mère a appris à programmer,
+											ne pensez-vous pas qu'il est temps
+											de vous mettre à l'apprentissage
+de la programmation ?
+											Si vous voulez faire un essai,
+											je vous encourage à aller
+sur le site de Scratch.
+											C'est scratch.mit.edu,
+											et essayez de programmer.
+									","
+											Wenn wir uns nun anschauen,
+											dass Michael Bloomberg programmieren lernt,
+											dass alle estischen Kinder lernen zu programmieren,
+											und sogar meine Mutter gelernt hat 
+zu programmieren,
+											glauben Sie nicht, dass es höchste Zeit sei,
+											dass Sie daran denken Programmieren zu lernen?
+											Wenn Sie's mal versuchen wollen,
+											dann ermuntere ich Sie, auf 
+die Scratch-Website zu gehen,
+											auf scratch.mit.edu,
+											und es mit dem Programmieren auszuprobieren.
+									",Let's teach kids to code,Mitch Resnick,16:48,"Internet,TEDx,children,computers,education,parenting,technology,youth,code"
+"
+","
+","
+","
+","
+","
+",Let's teach kids to code,Mitch Resnick,16:48,"Internet,TEDx,children,computers,education,parenting,technology,youth,code"
+"
+											Muchas gracias. (Aplausos)
+									","
+											Muito obrigado! (Aplausos)
+									","
+											Çok teşekkürler. (Alkış)
+									","
+											Thanks very much. (Applause)
+									","
+											Merci beaucoup. 
+(Applaudissements)
+									","
+											Vielen Dank. (Applaus)
+									",Let's teach kids to code,Mitch Resnick,16:48,"Internet,TEDx,children,computers,education,parenting,technology,youth,code"
+"
+","
+","
+","
+","
+","
+",Let's teach kids to code,Mitch Resnick,16:48,"Internet,TEDx,children,computers,education,parenting,technology,youth,code"

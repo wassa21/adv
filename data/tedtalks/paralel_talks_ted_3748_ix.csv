@@ -1,0 +1,1727 @@
+en,es,pt,fr,tr,title,speaker,duration,tags
+"
+","
+","
+","
+","
+",A beginner's guide to quantum computing,Shohini Ghose,10:04,"TED Fellows,quantum physics,computers,science,future,technology,innovation,invention,encryption,physics,medicine,nature,exploration"
+"
+											Let's play a game.
+											Imagine that you are in Las Vegas,
+											in a casino,
+											and you decide to play a game
+on one of the casino's computers,
+											just like you might play
+solitaire or chess.
+											The computer can make moves
+in the game, just like a human player.
+											This is a coin game.
+											It starts with a coin showing heads,
+											and the computer will play first.
+											It can choose to flip the coin or not,
+											but you don't get to see the outcome.
+											Next, it's your turn.
+											You can also choose
+to flip the coin or not,
+											and your move will not be revealed
+to your opponent, the computer.
+											Finally, the computer plays again,
+and can flip the coin or not,
+											and after these three rounds,
+											the coin is revealed,
+											and if it is heads, the computer wins,
+											if it's tails, you win.
+									","
+											Juguemos un juego.
+											Imaginen que están en Las Vegas,
+											en un casino,
+											y deciden jugar un juego
+en una de las computadoras,
+											como cuando juegan
+al solitario o al ajedrez.
+											La computadora puede hacer jugadas
+como si fuera un jugador humano.
+											Este va a ser un juego de monedas.
+											Empieza con una moneda mostrando cara,
+											y la computadora juega primero.
+											Puede decidir entre lanzar la moneda o no,
+											pero Uds. no podrán ver el resultado.
+											Ahora es su turno.
+											Uds. también pueden decidir
+entre lanzar la moneda o no,
+											y su jugada no le será revelada 
+a su oponente, la computadora.
+											Finalmente la computadora juega de nuevo
+											y puede lanzar la moneda o no.
+											Después de estas tres rondas,
+											se muestra la moneda.
+											Si es cara, gana la computadora.
+											Si es sello, ganan Uds.
+									","
+											Vamos jogar um jogo.
+											Imaginem que estão em Las Vegas,
+											num casino
+											e decidem jogar um jogo
+num dos computadores do casino,
+											como quando fazem uma paciência
+ou jogam xadrez.
+											O computador pode fazer jogadas
+no jogo, como se fosse um ser humano.
+											É um jogo de moedas.
+											Começa com uma moeda a mostrar caras
+											e o computador é o primeiro a jogar.
+											Pode optar por virar a moeda ou não,
+											mas não vemos o resultado.
+											A seguir é a nossa vez.
+											Também podemos optar
+por virar a moeda ou não
+											e a nossa jogada não é revelada
+ao adversário, o computador.
+											Por fim, o computador volta a jogar
+e pode virar a moeda ou não.
+											Ao fim destas três jogadas,
+											a moeda aparece.
+											Se for cara, o computador ganha;
+											se for coroa, ganhamos nós.
+									","
+											Jouons ensemble.
+											Imaginez que vous êtes à Las Vegas
+											dans un casino.
+											Vous décidez de jouer à un jeu,
+sur un ordinateur du casino,
+											tout comme vous pourriez jouer
+au solitaire ou aux échecs.
+											L'ordinateur peut faire ses mouvements
+dans le jeu comme un joueur humain.
+											Ceci est un jeu de jetons.
+											On commence avec un jeton,
+côté face vers le haut,
+											et l'ordinateur joue en premier.
+											Il peut choisir, ou non,
+de tirer à pile ou face
+											mais vous ne pouvez pas 
+connaître le résultat.
+											Maintenant, c'est à votre tour.
+											Vous pouvez aussi choisir
+de tirer à pile ou face, ou non,
+											et votre tour n'est pas révélé
+à votre adversaire, l'ordinateur.
+											Ensuite, l'ordinateur joue de nouveau
+et peut tirer à pile ou face, ou non.
+											Et après ces trois tours,
+											le jeton est dévoilé,
+											et si c'est face, l'ordinateur gagne,
+											si c'est pile, vous gagnez.
+									","
+											Haydi bir oyun oynayalım.
+											Las Vegas'da olduğunuzu düşünün,
+											kumarhanedesiniz
+											ve oradaki bilgisayarlardan birinde 
+oyun oynamaya karar veriyorsunuz,
+											aynı solitaire ya da satranç oynar gibi.
+											Bilgisayar da aynı bir insan
+gibi hamleler yapabiliyor.
+											Oyun yazı-tura.
+											Tura ile başlanıyor
+											ve ilk önce bilgisayar oynayacak.
+											Yazı-tura atmak onun seçimine bırakılmış
+											fakat siz sonucu göremiyorsunuz.
+											Şimdi sıra sizde.
+											Siz de parayı atabilir ya da
+olduğu gibi bırakabilirsiniz,
+											sizin hamleniz rakibinize 
+yani bilgisayara gösterilmeyecektir.
+											Son olarak bilgisayar yine oynayacak,
+parayı ister atar ister atmaz.
+											Bu üç turun sonunda
+											para açılır.
+											Eğer turaysa bilgisayar kazanır.
+											yazıysa siz kazanırsınız.
+									",A beginner's guide to quantum computing,Shohini Ghose,10:04,"TED Fellows,quantum physics,computers,science,future,technology,innovation,invention,encryption,physics,medicine,nature,exploration"
+"
+","
+","
+","
+","
+",A beginner's guide to quantum computing,Shohini Ghose,10:04,"TED Fellows,quantum physics,computers,science,future,technology,innovation,invention,encryption,physics,medicine,nature,exploration"
+"
+											So it's a pretty simple game,
+											and if everybody plays honestly,
+and the coin is fair,
+											then you have a 50 percent chance
+of winning this game.
+											And to confirm that,
+											I asked my students to play
+this game on our computers,
+											and after many, many tries,
+											their winning rate ended up
+being 50 percent, or close to 50 percent,
+											as expected.
+											Sounds like a boring game, right?
+									","
+											Es un juego muy simple.
+											Si todos juegan honestamente 
+y si la moneda es imparcial,
+											tienen un 50 % de probabilidad ganar.
+											Para confirmarlo,
+											le pedí a mis alumnos que jugaran
+este juego en sus computadoras.
+											Después de muchos intentos,
+											su tasa de éxito resultó ser
+alrededor del 50 %,
+											como se esperaba.
+											Parece un juego aburrido, ¿cierto?
+									","
+											É um jogo muito simples.
+											Se todos jogarem sem batota,
+e a moeda for perfeita,
+											temos 50% de probabilidade
+de ganhar este jogo.
+											Para confirmar isso,
+											pedi aos meus alunos para jogarem
+este jogo nos seus computadores.
+											Depois de muitas, muitas tentativas
+											a taxa de vitórias acabou por ser
+de 50% ou perto dos 50%,
+											conforme esperado.
+											Parece ser um jogo aborrecido, não é?
+									","
+											C'est donc un jeu plutôt simple
+											et si chacun joue honnêtement
+et que le jeton n'est pas truqué,
+											vous avez 50% de chances
+de gagner à ce jeu.
+											Pour confirmer ceci,
+											j'ai demandé à mes étudiants
+d'y jouer sur nos ordinateurs.
+											Après de très nombreux essais,
+											leur taux de victoire a fini
+par se rapprocher de 50%,
+											comme prévu.
+											Cela semble ennuyeux, comme jeu, non ?
+									","
+											Yani oldukça basit bir oyun
+											ve herkes dürüstçe oynarsa
+ve para da hileli değilse
+											oyunu kazanma şansınız yüzde 50.
+											Bunu doğrulamak için
+											öğrencilerimden oyunu bilgisayarlarımızda
+oynamalarını istedim.
+											Pek, pek çok deneme sonucunda
+											kazanma oranı yüzde 50
+veya yüzde 50'ye yakın oldu
+											beklendiği gibi.
+											Sıkıcı bir oyun gibi geliyor değil mi?
+									",A beginner's guide to quantum computing,Shohini Ghose,10:04,"TED Fellows,quantum physics,computers,science,future,technology,innovation,invention,encryption,physics,medicine,nature,exploration"
+"
+","
+","
+","
+","
+",A beginner's guide to quantum computing,Shohini Ghose,10:04,"TED Fellows,quantum physics,computers,science,future,technology,innovation,invention,encryption,physics,medicine,nature,exploration"
+"
+											But what if you could play this game
+on a quantum computer?
+											Now, Las Vegas casinos
+do not have quantum computers,
+											as far as I know,
+											but IBM has built
+a working quantum computer.
+											Here it is.
+									","
+											Pero ¿qué pasaría si pudiéramos jugarlo 
+en una computadora cuántica?
+											Por ahora, en Las Vegas no hay
+computadoras cuánticas,
+											hasta donde yo sé,
+											pero IBM ha construido
+una computadora cuántica.
+											Aquí está.
+									","
+											E se pudéssemos jogar este jogo
+num computador quântico?
+											Os casinos de Las Vegas não têm
+computadores quânticos,
+											tanto quanto sei,
+											mas a IBM construiu
+um computador quântico.
+											É este.
+									","
+											Mais si l'on pouvait y jouer
+sur un ordinateur quantique ?
+											Les casinos de Las Vegas n'ont pas
+encore d'ordinateurs quantiques,
+											à ma connaissance,
+											mais IBM a construit
+un ordinateur quantique opérant.
+											Le voici.
+									","
+											Fakat bu oyunu kuantum bilgisayarda 
+oynasaydınız ne olurdu?
+											Şimdilik Las Vegas kumarhanelerinde 
+kuantum bilgisayar yok
+											benim bildiğim kadarıyla,
+											fakat IBM çalışan bir
+kuantum bilgisayar yaptı.
+											İşte burada.
+									",A beginner's guide to quantum computing,Shohini Ghose,10:04,"TED Fellows,quantum physics,computers,science,future,technology,innovation,invention,encryption,physics,medicine,nature,exploration"
+"
+","
+","
+","
+","
+",A beginner's guide to quantum computing,Shohini Ghose,10:04,"TED Fellows,quantum physics,computers,science,future,technology,innovation,invention,encryption,physics,medicine,nature,exploration"
+"
+											But what is a quantum computer?
+											Well, quantum physics describes
+											the behavior of atoms
+and fundamental particles,
+											like electrons and photons.
+											So a quantum computer operates
+											by controlling the behavior
+of these particles,
+											but in a way that is completely different
+from our regular computers.
+											So a quantum computer
+is not just a more powerful version
+											of our current computers,
+											just like a light bulb
+is not a more powerful candle.
+											You cannot build a light bulb
+by building better and better candles.
+											A light bulb is a different technology,
+											based on deeper scientific understanding.
+											Similarly, a quantum computer
+is a new kind of device,
+											based on the science of quantum physics,
+											and just like a light bulb
+transformed society,
+											quantum computers
+have the potential to impact
+											so many aspects of our lives,
+											including our security needs,
+our health care and even the internet.
+									","
+											Pero ¿qué es una computadora cuántica?
+											Bueno, la física cuántica describe
+											el comportamiento de los átomos
+y de las partículas fundamentales,
+											como los electrones y los fotones.
+											La computadora cuántica opera controlando
+el comportamiento de estas partículas,
+											pero de una manera completamente
+diferente a las computadoras normales.
+											Así que una computadora cuántica
+no es solo una versión más poderosa
+											de nuestras computadoras actuales.
+											Así como la bombilla no es
+una vela más poderosa.
+											No se puede fabricar una bombilla
+fabricando velas cada vez mejores.
+											La bombilla tiene una tecnología diferente
+											y se basa en un conocimiento
+científico más profundo.
+											Asimismo, una computadora cuántica
+es una nueva clase de dispositivo,
+											basado en los principios
+de la física cuántica.
+											Y así como la bombilla 
+transformó la sociedad,
+											las computadoras cuánticas
+tienen el potencial de impactar
+											muchos aspectos de nuestras vidas,
+											incluyendo nuestra seguridad, 
+la atención médica e incluso el internet.
+									","
+											O que é um computador quântico?
+											A física quântica descreve
+											o comportamento dos átomos
+e das partículas fundamentais
+											como eletrões e fotões.
+											Assim, um computador quântico funciona
+											controlando o comportamento
+dessas partículas,
+											mas de uma forma totalmente diferente
+dos nossos computadores normais.
+											Um computador quântico
+não é uma versão mais potente
+											dos nossos computadores normais,
+											tal como uma lâmpada elétrica
+não é uma vela mais potente.
+											Não podemos construir uma lâmpada
+construindo velas cada vez melhores.
+											Uma lâmpada elétrica
+é uma tecnologia diferente,
+											baseada numa compreensão científica
+mais profunda.
+											De igual modo, um computador quântico
+é um tipo novo de aparelho
+											baseado na ciência da física quântica.
+											Tal como a lâmpada elétrica
+transformou a sociedade,
+											os computadores quânticos
+têm o potencial de causar impacto
+											em muitos aspetos da nossa vida,
+											incluindo as necessidades de segurança,
+os cuidados de saúde e até a Internet.
+									","
+											Mais qu'est-ce qu'un
+ordinateur quantique ?
+											En fait, la physique quantique décrit
+											le comportement des atomes
+et des particules fondamentales,
+											comme les électrons et les photons.
+											Un ordinateur quantique fonctionne
+											en contrôlant le comportement
+de ces particules,
+											mais d'une manière totalement différente
+de nos ordinateurs habituels.
+											Un ordinateur quantique n'est donc pas
+uniquement une version plus puissante
+											de nos ordinateurs actuels,
+											de la même manière que l'ampoule
+n'est pas une bougie plus puissante.
+											On ne peut pas construire une ampoule
+en fabriquant de meilleures bougies.
+											L'ampoule est une technologie différente,
+											basée sur des connaissances
+scientifiques plus avancées.
+											De la même façon, un ordinateur quantique
+est un nouveau type d'instrument,
+											fondé sur la science
+de la physique quantique
+											et de la même manière
+que l'ampoule a transformé la société,
+											les ordinateurs quantiques
+ont le potentiel d'influencer
+											beaucoup d'aspects de notre vie,
+											y compris notre sécurité,
+nos services de santé et même l'Internet.
+									","
+											Fakat, kuantum bilgisayar nedir?
+											Kuantum fizik atomların davranışlarını
+											ve elektron ve proton gibi
+											temel parçacıklarını tanımlamaktadır.
+											Bu nedenle kuantum bilgisayar 
+bu parçacıkların davranışlarını
+											kontrol ederek işlem görür,
+											fakat normal bilgisayarlardan tamamen
+farklı bir şekilde.
+											Yani, kuantum bilgisayar sadece
+											şimdiki bilgisayarların
+daha güçlüolanı değildir,
+											ampulün mumdan daha güçlü 
+olmaması gibi.
+											Daha daha iyi bir mum yaparak 
+ampül yapamazsınız.
+											Ampül daha derin bir 
+bilimsel anlayışa dayanan
+											farklı bir teknolojidir.
+											Benzer şekilde, kuantum bilgisayar da 
+kuantum fiziğine dayanan
+											yeni bir tür cihazdır
+											ve ampulün toplumu değiştirdiği gibi
+
+											Kuantum bilgisayarların, güvenlik 
+ihtiyacımız, sağlık hizmetimiz
+											ve hatta internet gibi 
+hayatımızın bir çok yönünü
+											etkilemesi için potansiyeli bulunmaktadır.
+									",A beginner's guide to quantum computing,Shohini Ghose,10:04,"TED Fellows,quantum physics,computers,science,future,technology,innovation,invention,encryption,physics,medicine,nature,exploration"
+"
+","
+","
+","
+","
+",A beginner's guide to quantum computing,Shohini Ghose,10:04,"TED Fellows,quantum physics,computers,science,future,technology,innovation,invention,encryption,physics,medicine,nature,exploration"
+"
+											So companies all around the world
+are working to build these devices,
+											and to see what
+the excitement is all about,
+											let's play our game on a quantum computer.
+											So I can log into IBM's
+quantum computer from right here,
+											which means I can play the game remotely,
+											and so can you.
+											To make this happen, you may remember
+getting an email ahead of time, from TED,
+											asking you whether you would choose
+to flip the coin or not,
+											if you played the game.
+											Well, actually, we asked you to choose
+between a circle or a square.
+											You didn't know it, but your choice
+of circle meant ""flip the coin,""
+											and your choice of square
+was ""don't flip.""
+											We received 372 responses.
+											Thank you.
+											That means we can play 372 games
+against the quantum computer
+											using your choices.
+											And it's a pretty fast game to play,
+											so I can show you the results right here.
+									","
+											Empresas de todo el mundo trabajan
+para construir estos dispositivos.
+											Y para ver de qué se trata todo esto,
+											vamos a jugar este juego
+en una computadora cuántica.
+											Desde aquí puedo ingresar
+a la computadora cuántica de IBM,
+											o sea que puedo jugar de forma remota,
+											y Uds. también.
+											Para que esto funcione, recordarán
+que recibieron un correo de TED
+											preguntándoles si elegirían
+lanzar la moneda o no,
+											en caso de jugar el juego.
+											En realidad les pedimos que eligieran
+entre un círculo y un cuadrado.
+											No lo sabían, pero el círculo
+significaba ""lanzar la moneda""
+											y el cuadrado era ""no lanzar"".
+											Recibimos 372 respuestas.
+											Gracias.
+											Significa que podemos jugar 372 rondas
+contra la computadora cuántica
+											usando sus selecciones.
+											Y es un juego bastante rápido,
+											así que les mostraré los resultados.
+									","
+											Assim, há empresas em todo o mundo
+a trabalhar para criar esses aparelhos.
+											Para vermos porque é tão grande
+esse entusiasmo,
+											vamos jogar o nosso jogo
+num computador quântico.
+											Ora bem, posso entrar no computador
+quântico da IBM daqui mesmo,
+											ou seja, posso jogar o jogo à distância
+											e vocês também podem.
+											Lembram-se de ter recebido
+um ""email"" do TED,
+											perguntando se queriam optar
+por virar a moeda ou não,
+											no caso de jogarem o jogo.
+											Na verdade, pedimos que escolhessem
+entre um círculo e um quadrado.
+											Vocês não sabiam, mas a escolha
+de um círculo significava ""virar a moeda""
+											e a escolha do quadrado
+significava ""não virar"".
+											Recebemos 372 respostas.
+											Obrigada.
+											Isso significa que podemos jogar 372 jogos
+contra o computador quântico
+											usando as vossas opções.
+											É um jogo que se joga muito depressa,
+											por isso posso mostrar já
+os resultados.
+									","
+											Des entreprises du monde entier
+cherchent à construire ces appareils
+											et pour comprendre leur engouement,
+											jouons à notre jeu
+sur un ordinateur quantique.
+											Je peux donc me connecter
+à l'ordinateur quantique d'IBM d'ici,
+											ce qui signifie que je peux jouer
+au jeu à distance
+											et par conséquent, vous aussi.
+											Pour réaliser cela, vous vous souvenez
+peut-être d'un courriel de TED
+											qui vous demandait si vous choisiriez
+de tirer à pile ou face, ou non,
+											si vous jouiez au jeu.
+											En réalité, nous vous avons demandé
+de choisir entre un cercle et un carré.
+											Vous ne le saviez pas, mais le cercle
+signifiait « tirer à pile ou face »
+											et le carré signifiait
+« ne pas lancer le jeton ».
+											Nous avons reçu 372 réponses.
+											Merci.
+											Cela signifie que nous pouvons jouer
+372 parties contre l'ordinateur quantique
+											en utilisant vos décisions.
+											Et c'est un jeu plutôt rapide,
+											donc voici les résultats.
+									","
+											Bu nedenle dünyanın her yerindeki
+şirketler, bu cihazları üretmek
+											ve ilgi çekici olan şeyin
+ne olduğunu görmek için çalışıyor.
+											oyunumuzu kuantum bilgisayarda oynayalım.
+											Buradan IBM'in kuantum
+bilgisayarına bağlanıyorum,
+											yani oyunu uzaktan oynayabilirim
+											ve siz de bunu yapabilirsiniz.
+											Bunu yapmak için, TED'den önceden 
+e-posta almayı unutmamalısınız,
+											Eğer oyunu oynarsanız
+											size parayı atmayı seçip
+seçmediğinizi soracaktır.
+											Aslında, sizin daire ile kare arasından
+birini seçmenizi istedik.
+											Bunu bilmiyordunuz, fakat daire 
+seçiminiz ""parayı at""
+											kare seçiminiz ise ""parayı atma""
+anlamına gelmekteydi.
+											372 cevap aldık.
+											Teşekkür ederim.
+											Bu, 372 defa kuantum bilgisayara
+karşı sizin tercihlerinizi kullanarak
+											oynayabiliriz anlamına gelmekte.
+											Oldukça hızlı bir oyun,
+											bu nedenle hemen buracıkta size 
+sonuçları gösterebilirim.
+									",A beginner's guide to quantum computing,Shohini Ghose,10:04,"TED Fellows,quantum physics,computers,science,future,technology,innovation,invention,encryption,physics,medicine,nature,exploration"
+"
+","
+","
+","
+","
+",A beginner's guide to quantum computing,Shohini Ghose,10:04,"TED Fellows,quantum physics,computers,science,future,technology,innovation,invention,encryption,physics,medicine,nature,exploration"
+"
+											Unfortunately, you didn't do very well.
+									","
+											Lamentablemente, no les fue muy bien.
+									","
+											Infelizmente,
+vocês não se saíram muito bem.
+									","
+											Malheureusement, vous n'avez pas brillé.
+									","
+											Maalesef, hiç de iyi bir iş 
+çıkartamamışsınız.
+									",A beginner's guide to quantum computing,Shohini Ghose,10:04,"TED Fellows,quantum physics,computers,science,future,technology,innovation,invention,encryption,physics,medicine,nature,exploration"
+"
+","
+","
+","
+","
+",A beginner's guide to quantum computing,Shohini Ghose,10:04,"TED Fellows,quantum physics,computers,science,future,technology,innovation,invention,encryption,physics,medicine,nature,exploration"
+"
+											(Laughter)
+									","
+											(Risas)
+									","
+											(Risos)
+									","
+											(Rires)
+									","
+											(Gülüşme)
+									",A beginner's guide to quantum computing,Shohini Ghose,10:04,"TED Fellows,quantum physics,computers,science,future,technology,innovation,invention,encryption,physics,medicine,nature,exploration"
+"
+","
+","
+","
+","
+",A beginner's guide to quantum computing,Shohini Ghose,10:04,"TED Fellows,quantum physics,computers,science,future,technology,innovation,invention,encryption,physics,medicine,nature,exploration"
+"
+											The quantum computer won
+almost every game.
+											It lost a few only because
+of operational errors in the computer.
+									","
+											La computadora cuántica
+ganó casi todas las rondas.
+											Solo perdió algunas porque tuvo
+errores operativos en el sistema.
+									","
+											O computador quântico ganhou
+quase todos os jogos.
+											Perdeu alguns por causa
+de erros operacionais no computador.
+									","
+											L'ordinateur quantique a gagné
+presque toutes les parties.
+											Il en a perdu quelques-unes
+à cause d'erreurs internes.
+									","
+											Kuantum bilgisayar neredeyse
+bütün oyunları kazanmış.
+											Operasyonel hatalar nedeniyle sadece
+birkaç oyun kaybetmiş.
+									",A beginner's guide to quantum computing,Shohini Ghose,10:04,"TED Fellows,quantum physics,computers,science,future,technology,innovation,invention,encryption,physics,medicine,nature,exploration"
+"
+","
+","
+","
+","
+",A beginner's guide to quantum computing,Shohini Ghose,10:04,"TED Fellows,quantum physics,computers,science,future,technology,innovation,invention,encryption,physics,medicine,nature,exploration"
+"
+											(Laughter)
+									","
+											(Risas)
+									","
+											(Risos)
+									","
+											(Rires)
+									","
+											(Gülüşme)
+									",A beginner's guide to quantum computing,Shohini Ghose,10:04,"TED Fellows,quantum physics,computers,science,future,technology,innovation,invention,encryption,physics,medicine,nature,exploration"
+"
+","
+","
+","
+","
+",A beginner's guide to quantum computing,Shohini Ghose,10:04,"TED Fellows,quantum physics,computers,science,future,technology,innovation,invention,encryption,physics,medicine,nature,exploration"
+"
+											So how did it achieve
+this amazing winning streak?
+											It seems like magic or cheating,
+											but actually, it's just
+quantum physics in action.
+											Here's how it works.
+											A regular computer simulates
+heads or tails of a coin as a bit,
+											a zero or a one,
+											or a current flipping on and off
+inside your computer chip.
+											A quantum computer
+is completely different.
+											A quantum bit has a more fluid,
+nonbinary identity.
+											It can exist in a superposition,
+or a combination of zero and one,
+											with some probability of being zero
+and some probability of being one.
+											In other words,
+its identity is on a spectrum.
+											For example, it could have
+a 70 percent chance of being zero
+											and a 30 percent chance of being one
+											or 80-20 or 60-40.
+											The possibilities are endless.
+											The key idea here
+											is that we have to give up
+on precise values of zero and one
+											and allow for some uncertainty.
+											So during the game,
+											the quantum computer creates
+this fluid combination of heads and tails,
+											zero and one,
+											so that no matter what the player does,
+											flip or no flip,
+											the superposition remains intact.
+											It's kind of like stirring
+a mixture of two fluids.
+											Whether or not you stir,
+the fluids remain in a mixture,
+											but in its final move,
+											the quantum computer
+can unmix the zero and one,
+											perfectly recovering heads
+so that you lose every time.
+									","
+											Entonces, ¿cómo logró
+esta increíble racha de victorias?
+											Parece magia o una trampa,
+											pero realmente es solo
+física cuántica en acción.
+											Así es cómo funciona.
+											Una computadora normal simula las caras
+o sellos de una moneda como un bit:
+											un cero o un uno,
+											o una corriente que circula o no
+dentro del chip de la computadora.
+											Una computadora cuántica 
+es completamente diferente.
+											Un bit cuántico tiene una identidad
+más fluida, no binaria.
+											Puede existir en una superposición,
+o una combinación de cero y uno,
+											con cierta probabilidad de ser cero
+y cierta probabilidad de ser uno.
+											En otras palabras, su identidad
+está en un espectro.
+											Por ejemplo, puede tener un 70 %
+de probabilidad de ser cero
+											y un 30 % de probabilidad de ser uno.
+											O puede ser 80-20, o 60-40.
+											Las posibilidades son infinitas.
+											La idea principal aquí
+											es que debemos dejar de lado
+los valores precisos de cero y uno
+											y dar lugar a cierta incertidumbre.
+											Así que durante el juego,
+											la computadora cuántica crea
+esta combinación fluida de caras y sellos,
+											cero y uno,
+											de modo que no importa
+si el jugador lanza o no:
+											la superposición se mantiene intacta.
+											Es como si estuvieran revolviendo
+una mezcla de dos fluidos.
+											Ya sea que revuelvan o no,
+los fluidos se mantienen en la mezcla.
+											Pero en su última jugada,
+											la computadora cuántica 
+puede separar el cero y el uno,
+											y recuperar sin problemas la cara
+de modo que Uds. siempre pierden.
+									","
+											Como é que ele conseguiu
+esta proeza espantosa?
+											Parece magia ou batota,
+											mas, na verdade, é apenas
+a física quântica em ação.
+											Funciona assim.
+											Um computador normal simula
+cara ou coroa duma moeda como um bit,
+											um 0 ou um 1,
+											ou virar ou não virar
+no ""chip"" do nosso computador.
+											Um computador quântico
+é totalmente diferente.
+											Um bit quântico tem uma identidade
+mais fluida, não binária.
+											Pode existir numa sobreposição
+ou numa combinação de O e de 1,
+											com alguma probabilidade de ser 0
+e alguma probabilidade de ser 1.
+											Por outras palavras, a sua identidade
+está num espetro.
+											Por exemplo, pode ter 70%
+de probabilidades de ser 0
+											e 30% de hipóteses de ser 1
+											ou 80-20, ou 60-40.
+											As possibilidades são infindáveis.
+											A ideia principal aqui
+											é que temos de abandonar
+os valores exatos de 0 e de 1
+											e permitir uma certa incerteza.
+											Assim, durante o jogo,
+											o computador quântico cria
+esta combinação fluida de caras e coroas,
+											de 0 e de 1,
+											de modo que, faça o jogador o que fizer,
+											vire a moeda ou não vire,
+											a sobreposição mantém-se intacta.
+											É como revolver uma mistura
+de dois fluidos.
+											Quer a revolvam ou não,
+os fluidos continuam na mistura,
+											mas no movimento final,
+											o computador quântico
+pode separar o 0 e o 1,
+											recuperando perfeitamente as caras
+e, por isso, nós perdemos sempre.
+									","
+											Alors comment a-t-il obtenu
+cette superbe série de victoires ?
+											On dirait de la magie ou de la triche,
+											mais en fait, ce n'est rien
+que la physique quantique en action.
+											Voici comment cela fonctionne.
+											Un ordinateur habituel modélise
+le pile ou face sur un jeton par un bit,
+											soit un 0, soit un 1,
+											ou par un interrupteur on/off
+dans la puce de l'ordinateur.
+											Un ordinateur quantique
+est complètement différent.
+											Un bit quantique possède une identité
+plus fluide, non binaire.
+											Il peut être une superposition
+ou une combinaison de 0 et de 1,
+											avec une probabilité de valoir 0
+et une probabilité de valoir 1.
+											En d'autres termes, son identité
+appartient à un spectre.
+											Par exemple, il pourrait avoir
+70% de chances de valoir 0
+											et 30% de chances de valoir 1,
+											ou 80-20, ou 60-40.
+											Les possibilités sont innombrables.
+											L'idée fondamentale ici
+											est qu'il faut abandonner
+les valeurs précises que sont 0 et 1
+											et autoriser une incertitude.
+											Durant la partie,
+											l'ordinateur quantique crée
+cette combinaison fluide de pile ou face,
+											de 0 et de 1,
+											de manière à ce que,
+quoi que le joueur fasse,
+											jeton lancé ou non,
+											la superposition demeure intacte.
+											C'est un peu comme remuer
+un mélange de deux fluides.
+											Que vous remuiez ou non,
+les fluides restent dans le mélange,
+											mais lors de son deuxième tour,
+											l'ordinateur peut rétablir le 0 ou le 1,
+											en rétablissant parfaitement le côté face,
+pour que vous perdiez à chaque fois.
+									","
+											Bu kazanma periyodunu nasıl başarmıştı?
+											Bu bir tür sihir veya aldatma
+gibi görünüyor
+											fakat aslında, bu sadece aksiyondaki
+kuantum fiziğidir.
+											İşte nasıl çalıştığı.
+											Normal bilgisayarlar yazı veya 
+turayı bit olarak simule ederler,
+											sıfır veya bir olarak
+											veya mevcut atma açık veya kapalı
+sizin bilgisayarınızın içindeki çipte.
+											Kuantum Bilgisayar tamamen farklıdır.
+											Kuantum bit daha değişkendir,
+binary olmayan bir yapısı vardır.
+											Üst üste konulmuş ve bir araya getirilmiş
+sıfır ve birlerden oluşabilir,
+											bazı sıfır olma ihtimali ve bazı bir 
+olma ihtimali ile birlikte.
+											Yani, kimiliği bir spektrumdadır.
+											Örneğin, yüzde 70 sıfır 
+
+											ve yüzde 30 bir olma ihtimalini 
+barındırabilir
+											veya 80-20 veya 60-40.
+											İhtimaller sonsuz.
+											Burada anahtar fikir
+											sıfır ve birin mutlak değerini terk
+etmek zorundayız
+											ve bazı belirsizliklere 
+izin vermeliyiz.
+											Oyun boyunca,
+											Kuantum bilgisayar yazı ve turanın bu 
+değişken kombinasyonunu yaratmakta,
+											sıfır ve bir,
+											bu nedenle oyuncuların ne
+yaptığı yazı veya tura
+											önemli değil,
+											üst üste çakıştırma zarar 
+görmemiş halde kalacaktır.
+											İki sıvının karıştırılması 
+gibi bir şey.
+											Karıştırın veya karıştırmayın,
+sıvı karışım olarak kalır.
+											Fakat en son harekette,
+											Kuantum bilgisayar bir ve sıfırı 
+ayrıştırır,
+											mükemmel olarak turayı elde eder,
+bu nedenle her zaman kaybedersiniz.
+									",A beginner's guide to quantum computing,Shohini Ghose,10:04,"TED Fellows,quantum physics,computers,science,future,technology,innovation,invention,encryption,physics,medicine,nature,exploration"
+"
+","
+","
+","
+","
+",A beginner's guide to quantum computing,Shohini Ghose,10:04,"TED Fellows,quantum physics,computers,science,future,technology,innovation,invention,encryption,physics,medicine,nature,exploration"
+"
+											(Laughter)
+									","
+											(Risas)
+									","
+											(Risos)
+									","
+											(Rires)
+									","
+											(Gülüşme)
+									",A beginner's guide to quantum computing,Shohini Ghose,10:04,"TED Fellows,quantum physics,computers,science,future,technology,innovation,invention,encryption,physics,medicine,nature,exploration"
+"
+","
+","
+","
+","
+",A beginner's guide to quantum computing,Shohini Ghose,10:04,"TED Fellows,quantum physics,computers,science,future,technology,innovation,invention,encryption,physics,medicine,nature,exploration"
+"
+											If you think this is all a bit weird,
+you are absolutely right.
+											Regular coins do not exist
+in combinations of heads and tails.
+											We do not experience
+this fluid quantum reality
+											in our everyday lives.
+											So if you are confused by quantum,
+											don't worry, you're getting it.
+									","
+											Si piensan que esto es algo extraño,
+tienen toda la razón.
+											No existen las monedas 
+con una mezcla de cara y sello.
+											No vivimos esta realidad cuántica fluida
+											en nuestra cotidianidad.
+											Así que si los confunde
+esto de la teoría cuántica
+											no se preocupen que lo están entendiendo.
+									","
+											Se acham que isto é um pouco estranho,
+têm toda a razão.
+											Não há moedas normais 
+com uma mistura de caras e coroas.
+											Não temos experiência
+desta realidade de fluido quântico
+											na nossa vida quotidiana.
+											Portanto, se se sentem confusos
+com o quântico,
+											não se preocupem, hão de lá chegar.
+									","
+											Si vous pensez que tout cela est étrange,
+vous avez absolument raison.
+											Les jetons normaux n'existent pas
+comme combinaisons de pile ou face.
+											Nous ne vivons pas
+cette réalité quantique fluide
+											au quotidien.
+											Donc si le quantique vous embrouille,
+											ne vous inquiétez pas,
+c'est que vous comprenez.
+									","
+											Bunların hepsinin garip olduğunu
+düşünüyorsanız, kesinlikle haklısınız.
+											Normal para tura ve yazının 
+kombinasyonundan oluşmaz.
+											Günlük yaşamımızda bu değişken 
+kuantum gerçekliğini
+											tecrübe etmiyoruz.
+											Bu nedenle kuantum tarafından 
+kafanız karıştırıldıysa
+											endişe etmeyin, demek ki anlıyorsunuz.
+									",A beginner's guide to quantum computing,Shohini Ghose,10:04,"TED Fellows,quantum physics,computers,science,future,technology,innovation,invention,encryption,physics,medicine,nature,exploration"
+"
+","
+","
+","
+","
+",A beginner's guide to quantum computing,Shohini Ghose,10:04,"TED Fellows,quantum physics,computers,science,future,technology,innovation,invention,encryption,physics,medicine,nature,exploration"
+"
+											(Laughter)
+									","
+											(Risas)
+									","
+											(Risos)
+									","
+											(Rires)
+									","
+											(Gülüşmeler)
+									",A beginner's guide to quantum computing,Shohini Ghose,10:04,"TED Fellows,quantum physics,computers,science,future,technology,innovation,invention,encryption,physics,medicine,nature,exploration"
+"
+","
+","
+","
+","
+",A beginner's guide to quantum computing,Shohini Ghose,10:04,"TED Fellows,quantum physics,computers,science,future,technology,innovation,invention,encryption,physics,medicine,nature,exploration"
+"
+											But even though we don't experience
+quantum strangeness,
+											we can see its very real
+effects in action.
+											You've seen the data for yourself.
+											The quantum computer won
+											because it harnessed
+superposition and uncertainty,
+											and these quantum properties are powerful,
+											not just to win coin games,
+											but also to build
+future quantum technologies.
+											So let me give you three examples
+of potential applications
+											that could change our lives.
+									","
+											Pero aun sin experimentar
+esta rareza cuántica,
+											podemos ver sus efectos reales en acción.
+											Ya han visto los datos.
+											La computadora cuántica ganó
+											porque aprovechó la superposición
+											y la incertidumbre.
+											Estas propiedades cuánticas son poderosas
+											no solo para ganar
+en juegos de monedas,
+											sino también para construir
+futuras tecnologías cuánticas.
+											Les daré tres ejemplos
+de potenciales aplicaciones
+											que podrían cambiar nuestras vidas.
+									","
+											Mas mesmo que não entendamos
+a estranheza do quântico,
+											vemos os seus efeitos em ação.
+											Viram bem os dados?
+											O computador quântico ganhou
+											porque domina a sobreposição
+e a incerteza
+											e essas propriedades quânticas
+são poderosas,
+											não apenas para ganhar
+jogos de moedas,
+											mas para criar futuras
+tecnologias quânticas.
+											Vou dar-vos três exemplos
+de possíveis aplicações
+											que podem mudar a nossa vida.
+									","
+											Néanmoins, même si l'on ne vit pas
+l'étrangeté quantique,
+											nous pouvons en observer les effets réels.
+											Vous avez vu les statistiques.
+											L'ordinateur quantique a gagné
+											car il a exploité
+la superposition et l'incertitude.
+											Et ces propriétés quantiques
+sont puissantes,
+											non seulement pour gagner
+aux jeux de jetons,
+											mais également pour construire
+les technologies quantiques futures.
+											Je vais vous donner trois exemples
+d'applications potentielles
+											qui pourraient bouleverser nos vies.
+									","
+											Kuantum garipliğini daha önce
+tecrübe etmememize rağmen
+											aksiyondaki çok gerçekçi 
+etkisini görebiliriz.
+											Kendiniz için olan dataları
+gördünüz.
+											Kuantum bilgisayar kazandı
+											çünkü üst üste yapılan faaliyeti ve 
+belirsizliği kontrolü altında tuttu
+											ve bu kuantum özellikleri çok güçlü,
+											sadece yazı tura oyununu 
+kazanmak için değil
+											aynı zamanda gelecek kuantum 
+teknolojisini inşa etmek için de.
+											Şimdi size hayatımızı değiştirecek
+potansiyel uygulamalar hakkında
+											üç örnek vereyim.
+									",A beginner's guide to quantum computing,Shohini Ghose,10:04,"TED Fellows,quantum physics,computers,science,future,technology,innovation,invention,encryption,physics,medicine,nature,exploration"
+"
+","
+","
+","
+","
+",A beginner's guide to quantum computing,Shohini Ghose,10:04,"TED Fellows,quantum physics,computers,science,future,technology,innovation,invention,encryption,physics,medicine,nature,exploration"
+"
+											First of all, quantum uncertainty
+could be used to create private keys
+											for encrypting messages
+sent from one location to another
+											so that hackers could not
+secretly copy the key perfectly,
+											because of quantum uncertainty.
+											They would have to break
+the laws of quantum physics
+											to hack the key.
+											So this kind of unbreakable encryption
+is already being tested by banks
+											and other institutions worldwide.
+											Today, we use more than 17 billion
+connected devices globally.
+											Just imagine the impact quantum encryption
+could have in the future.
+									","
+											En primer lugar, la incertidumbre cuántica
+podría usarse para crear claves secretas
+											para cifrar mensajes enviados 
+de una ubicación a otra.
+											Así, los piratas informáticos no podrían
+copiar las claves a la perfección
+											debido a la incertidumbre cuántica.
+											Tendrían que romper
+las leyes de la física cuántica
+											para descifrar la clave.
+											Este tipo de cifrado inquebrantable
+ya está siendo testeado por bancos
+											y otras instituciones en todo el mundo.
+											Hoy, usamos más de 17 mil millones 
+de dispositivos conectados globalmente.
+											Imaginen el impacto que la criptografía 
+cuántica podría tener en el futuro.
+									","
+											Primeiro, a incerteza quântica
+pode ser usada para criar chaves privadas
+											para codificar mensagens
+enviadas de um local para outro
+											de modo que os ""hackers"" não podem
+copiar perfeitamente essa chave,
+											por causa da incerteza quântica.
+											Teriam de infringir
+as leis da física quântica
+											para piratearem a chave.
+											Este tipo de codificação impenetrável
+já está a ser testada pelos bancos
+											e por outras instituições
+em todo o mundo.
+											Hoje, usamos mais de 17 mil milhões
+de aparelhos interligados, mundialmente.
+											Imaginem o impacto que a codificação
+quântica pode ter no futuro.
+									","
+											Tout d'abord, l'incertitude quantique
+pourrait servir à créer des clefs privées
+											pour chiffrer des messages envoyés
+d'un endroit à un autre
+											sans que les hackers puissent
+parfaitement copier la clef en secret,
+											à cause de l'incertitude quantique.
+											Ils auraient à briser les lois
+de la physique quantique
+											pour pirater la clef.
+											Ce type de chiffrement indéchiffrable
+est déjà testé par des banques
+											et d'autres institutions du monde entier.
+											De nos jours, plus de 17 milliards
+d'appareils sont connectés dans le monde.
+											Imaginez l'impact
+que ce chiffrage pourrait avoir plus tard.
+									","
+											İlk olarak, kuantum belirsizliği 
+bir merkezden diğer bir merkeze
+											gönderilen mesajların kriptolanması 
+için kişiye özel anahtar oluşturabilir.
+											Bu durumda hackerlar,
+kuantum belirsizliği nedeniyle
+											gizlice anahtarları mükemmel 
+bir şekilde kopyalayamazlar.
+											Anahtarları kırmaları için, kuantum
+fiziğinin kanunlarını 
+
+											kırmaları gerekecektir.
+											Bu tarz kırılamayan 
+kriptolar bankalar ve
+											diğer uluslararası kuruluşlar 
+tarafından test edilmektedir.
+											Bugün, dünya çapında 17 milyar 
+birbirine bağlantılı cihaz kullanmaktayız.
+											Sadece kuantum kriptolamasının 
+gelecekte yapabileceği etkiyi hayal edin.
+									",A beginner's guide to quantum computing,Shohini Ghose,10:04,"TED Fellows,quantum physics,computers,science,future,technology,innovation,invention,encryption,physics,medicine,nature,exploration"
+"
+","
+","
+","
+","
+",A beginner's guide to quantum computing,Shohini Ghose,10:04,"TED Fellows,quantum physics,computers,science,future,technology,innovation,invention,encryption,physics,medicine,nature,exploration"
+"
+											Secondly, quantum technologies could also
+transform health care and medicine.
+											For example, the design and analysis
+of molecules for drug development
+											is a challenging problem today,
+											and that's because
+exactly describing and calculating
+											all of the quantum properties
+of all the atoms in the molecule
+											is a computationally difficult task,
+even for our supercomputers.
+											But a quantum computer could do better,
+											because it operates using
+the same quantum properties
+											as the molecule it's trying to simulate.
+											So future large-scale quantum
+simulations for drug development
+											could perhaps lead to treatments
+for diseases like Alzheimer's,
+											which affects thousands of lives.
+									","
+											En segundo lugar, 
+las tecnologías cuánticas
+											también podrían transformar
+la atención médica y la medicina.
+											Por ejemplo, el diseño y el análisis de
+moléculas para el desarrollo de fármacos
+											hoy en día es un problema desafiante,
+											porque calcular y describir exactamente
+											todas las propiedades cuánticas
+de todos los átomos en una molécula
+											es una tarea computacionalmente difícil,
+incluso para nuestras súper computadoras.
+											Una computadora cuántica
+lo podría hacer mejor,
+											porque opera con las mismas
+propiedades cuánticas
+											que la molécula que tratar simular.
+											Así que las futuras simulaciones
+cuánticas a gran escala
+											para el desarrollo farmacéutico
+											podrían conducir a tratamientos
+para enfermedades como el Alzheimer,
+											que afectan a miles de vidas.
+									","
+											Segundo, as tecnologias quânticas
+											também podem transformar
+os cuidados de saúde e a medicina.
+											Por exemplo, o ""design"" e a análise
+de moléculas para o fabrico de fármacos
+											é hoje um problema difícil
+											porque descrever e calcular,
+exatamente,
+											todas as propriedades quânticas
+de todos os átomos na molécula
+											é uma tarefa de cálculo difícil
+mesmo para um supercomputador.
+											Mas um computador quântico
+pode fazer melhor,
+											porque funciona, usando
+as mesmas propriedades quânticas
+											que as moléculas que está
+a tentar simular.
+											Assim, as simulações quânticas
+de grande escala
+											para o desenvolvimento de medicamentos
+											talvez possa levar a tratamentos
+para doenças como a de Alzheimer,
+											que afeta milhares de vidas.
+									","
+											Deuxièmement, les technologies quantiques
+pourraient aussi transformer la médecine.
+											Par exemple, la conception et l'analyse
+de molécules pour créer des médicaments
+											est un réel défi de nos jours
+											car décrire exactement et calculer
+											toutes les propriétés quantiques
+de tous les atomes d'une molécule
+											est une tâche informatiquement difficile,
+même pour nos superordinateurs.
+											Mais un ordinateur quantique
+pourrait mieux faire,
+											car il opère grâce
+aux mêmes propriétés quantiques
+											que celles de la molécule qu'il modélise.
+											A l'avenir, les modélisations quantiques
+à grande échelle de médicaments
+											pourraient aboutir à des traitements
+de maladies comme Alzheimer,
+											qui affecte des milliers de vies.
+									","
+											İkinci olarak, kuantum teknolojisi sağlık 
+ve ilaç kullanımını değiştirecektir.
+											Örneğin, ilaç gelişimi için moleküllerin
+dizayn ve analiz edilmesi
+											bugün önemli bir problemdir
+											ve bu yüzden moleküllerdeki tüm 
+atomların kuantum özelliklerini tam
+											olarak hesaplamak ve tanımlamak
+											süper bilgisayarlar için bile gerçekten 
+hesaplaması güç bir görevdir.
+											Fakat kuantum bilgisayar daha 
+iyisini yapabilir,
+											çünkü simule etmeye çalıştıkları 
+moleküller gibi
+											aynı kuantum özellikleri 
+kullanarak işlemektedir.
+											İlaç gelişimi için gelecek geniş 
+kapsamlı kuantum simülasyonları,
+											binlerce hayatı etkileyen
+Alzheimer gibi hastalıkların
+											iyileşmesine yol açabilir.
+									",A beginner's guide to quantum computing,Shohini Ghose,10:04,"TED Fellows,quantum physics,computers,science,future,technology,innovation,invention,encryption,physics,medicine,nature,exploration"
+"
+","
+","
+","
+","
+",A beginner's guide to quantum computing,Shohini Ghose,10:04,"TED Fellows,quantum physics,computers,science,future,technology,innovation,invention,encryption,physics,medicine,nature,exploration"
+"
+											And thirdly, my favorite
+quantum application
+											is teleportation of information
+from one location to another
+											without physically transmitting
+the information.
+											Sounds like sci-fi, but it is possible,
+											because these fluid identities
+of the quantum particles
+											can get entangled across space and time
+											in such a way that when you change
+something about one particle,
+											it can impact the other,
+											and that creates
+a channel for teleportation.
+											It's already been demonstrated
+in research labs
+											and could be part
+of a future quantum internet.
+											We don't have such a network as yet,
+											but my team is working
+on these possibilities,
+											by simulating a quantum network
+on a quantum computer.
+											So we have designed and implemented
+some interesting new protocols
+											such as teleportation
+among different users in the network
+											and efficient data transmission
+											and even secure voting.
+									","
+											Y en tercer lugar, mi aplicación
+favorita de la cuántica
+											es la teletransportación
+de información de un lugar a otro
+											sin transmitir físicamente la información.
+											Suena a ciencia ficción, pero es posible
+											porque estas identidades fluidas
+de las partículas cuánticas
+											pueden enredarse
+en el espacio y el tiempo
+											de manera que un cambio en una partícula,
+											puede afectar a la otra,
+											y eso crea un canal 
+para la teletransportación.
+											Ya ha sido demostrado en
+laboratorios de investigación
+											y podría ser parte de un
+futuro internet cuántico.
+											Aún no tenemos una red cuántica,
+											pero mi equipo está trabajando
+en estas posibilidades,
+											simulando una red cuántica
+en una computadora cuántica.
+											Hemos diseñado e implementado
+algunos nuevos e interesantes protocolos
+											como la teletransportación
+entre diferentes usuarios en la red,
+											la transmisión eficiente de datos
+											e incluso el voto seguro.
+									","
+											Terceiro, a aplicação quântica 
+que eu prefiro,
+											é o teletransporte de informações
+de um local para outro,
+											sem transmitir fisicamente
+essas informações.
+											Parece ficção científica, mas é possível,
+											porque essas identidades fluidas
+das partículas quânticas
+											podem emaranhar-se
+no espaço e no tempo
+											de uma forma que, quando mudamos
+qualquer coisa numa partícula,
+											ela pode causar impacto noutra
+											e isso cria um canal
+para o teletransporte.
+											Já ficou demonstrado
+em laboratórios de investigação
+											e pode fazer parte
+de uma futura Internet quântica.
+											Ainda não temos uma rede dessas,
+											mas a minha equipa está a trabalhar
+nessas possibilidades,
+											simulando uma rede quântica
+num computador quântico.
+											Concebemos e implementámos
+novos protocolos interessantes
+											como o teletransporte entre vários
+utilizadores na rede
+											e uma eficaz transmissão de dados,
+											e até mesmo a segurança nas votações.
+									","
+											Et troisièmement,
+mon application quantique favorite
+											est la téléportation d'information
+d'un endroit à un autre
+											sans la transmettre physiquement.
+											Cela ressemble à de la science-fiction
+mais c'est possible,
+											car les identités fluides
+des particules quantiques
+											peuvent être enchevêtrées
+à travers l'espace-temps
+											de manière à ce qu'en changeant
+quelque chose sur une particule,
+											cela ait un impact sur l'autre
+											et cela ouvre la voie à la téléportation.
+											Cela a déjà été montré
+dans des labos de recherche
+											et pourrait faire partie
+d'un futur Internet quantique.
+											Nous n'avons pas encore de tel réseau
+											mais mon équipe travaille
+sur ces possibilités
+											en simulant un réseau quantique
+sur un ordinateur quantique.
+											Nous avons donc conçu et implémenté
+quelques nouveaux protocoles intéressants
+											comme la téléportation parmi
+différents utilisateurs du réseau,
+											une transmission de données efficace
+											et même un vote sécurisé.
+									","
+											Üçüncü olarak, benim favorim olan 
+kuantum uygulaması ise
+											fiziksel olarak bilgiyi transfer
+etmeden
+											bilginin bir yerden diğer bir yere
+ışınlanması uygulamasıdır.
+											Bilim kurgu gibi geliyor fakat
+bu mümkün,
+											çünkü bu kuantum parçacıklarının 
+bu değişken yapısı
+											uzay ve zaman boyunca 
+bir şekilde birbirine kenetlenebilir,
+											bir parçacık ile ilgili 
+bir değişiklik yaptığınızda
+											bu diğerini de etkileyebilir
+											ve bu ışınlanma için bir kanal
+oluşturabilir.
+											Bu zaten laboratuvar ortamında 
+gerçekleştirildi
+											ve ileride kuantum internetinin
+bir parçası olabilir.
+											Henüz böyle bir ağa sahip değiliz,
+											fakat benim takımım kuantum
+ağını kuantum bilgisayarda
+											simüle ederek bu olasılıklar 
+hakkında çalışıyor,
+											Ağ üzerindeki farklı kullanıcılar
+arasında ışınlanma ,
+											yeterli data transferi
+											ve hatta güvenli oylama gibi
+											bazı ilginç yeni protokolleri 
+dizayn edip uyguluyoruz.
+									",A beginner's guide to quantum computing,Shohini Ghose,10:04,"TED Fellows,quantum physics,computers,science,future,technology,innovation,invention,encryption,physics,medicine,nature,exploration"
+"
+","
+","
+","
+","
+",A beginner's guide to quantum computing,Shohini Ghose,10:04,"TED Fellows,quantum physics,computers,science,future,technology,innovation,invention,encryption,physics,medicine,nature,exploration"
+"
+											So it's a lot of fun for me,
+being a quantum physicist.
+											I highly recommend it.
+									","
+											Así que ser física cuántica
+es muy divertido para mí.
+											Lo recomiendo inmensamente.
+									","
+											Para mim, que sou física quântica,
+é muito divertido.
+											Recomendo-o fortemente.
+									","
+											Je m'amuse beaucoup
+en tant que physicienne du quantique.
+											Je vous le recommande.
+									","
+											Yani, kuantum fizikçisi olmak 
+benim için çok eğlenceli bir şey.
+											Bunu çok fazla tavsiye ederim.
+									",A beginner's guide to quantum computing,Shohini Ghose,10:04,"TED Fellows,quantum physics,computers,science,future,technology,innovation,invention,encryption,physics,medicine,nature,exploration"
+"
+","
+","
+","
+","
+",A beginner's guide to quantum computing,Shohini Ghose,10:04,"TED Fellows,quantum physics,computers,science,future,technology,innovation,invention,encryption,physics,medicine,nature,exploration"
+"
+											(Laughter)
+									","
+											(Risas)
+									","
+											(Risos)
+									","
+											(Rires)
+									","
+											(Gülüşme)
+									",A beginner's guide to quantum computing,Shohini Ghose,10:04,"TED Fellows,quantum physics,computers,science,future,technology,innovation,invention,encryption,physics,medicine,nature,exploration"
+"
+","
+","
+","
+","
+",A beginner's guide to quantum computing,Shohini Ghose,10:04,"TED Fellows,quantum physics,computers,science,future,technology,innovation,invention,encryption,physics,medicine,nature,exploration"
+"
+											We get to be explorers
+in a quantum wonderland.
+											Who knows what applications
+we will discover next.
+											We must tread carefully and responsibly
+											as we build our quantum future.
+											And for me, personally,
+											I don't see quantum physics as a tool
+just to build quantum computers.
+											I see quantum computers as a way
+for us to probe the mysteries of nature
+											and reveal more about this hidden world
+outside of our experiences.
+											How amazing that we humans,
+											with our relatively limited
+access to the universe,
+											can still see far beyond our horizons
+											just using our imagination
+and our ingenuity.
+											And the universe rewards us
+											by showing us how incredibly
+interesting and surprising it is.
+									","
+											Somos exploradores del país
+de las maravillas cuánticas.
+											Quién sabe qué aplicaciones 
+descubriremos luego.
+											Debemos pisar con cuidado
+y ser responsables,
+											a medida que construimos 
+nuestro futuro cuántico.
+											Personalmente, no veo la física cuántica
+											como una mera herramienta
+para construir computadoras cuánticas.
+											Veo las computadoras cuánticas
+											como un medio para explorar
+los misterios de la naturaleza
+											y revelar más acerca de este mundo oculto
+más allá de nuestras experiencias.
+											Es increíble que nosotros los humanos,
+											con el acceso relativamente
+limitado al universo que tenemos,
+											seamos capaces de ver
+más allá de nuestro horizontes
+											tan solo con la imaginación y el ingenio.
+											Y el universo nos recompensa
+											mostrándonos lo increíblemente
+interesante y sorprendente que es.
+									","
+											Acabamos como exploradores
+de um mundo quântico maravilhoso.
+											Quem sabe que aplicações
+descobriremos a seguir.
+											Temos de caminhar com cautela
+e responsabilidade
+											à medida que construímos
+o futuro quântico.
+											Para mim, pessoalmente,
+											não vejo a física quântica
+											como um mero instrumento
+só para criar computadores quânticos.
+											Vejo os computadores quânticos
+											como uma forma de sondar
+os mistérios da Natureza
+											e revelar mais sobre este mundo oculto
+que nunca experimentámos.
+											Como é espantoso que nós,
+os seres humanos,
+											com o nosso acesso ao universo,
+relativamente limitado,
+											ainda possamos ver para além
+dos nossos horizontes
+											usando apenas a nossa imaginação
+e o nosso engenho.
+											O universo recompensa-nos
+											mostrando-nos como é
+incrivelmente interessante
+											e surpreendente.
+									","
+											Nous sommes les explorateurs
+d'un pays des merveilles quantique.
+											Qui sait quelles applications
+nous découvrirons à l'avenir.
+											Nous devons avancer prudemment
+et de manière responsable
+											en construisant notre avenir quantique.
+											Et pour moi, personnellement,
+											la physique quantique n'est pas un outil
+pour fabriquer des ordinateurs quantiques.
+											Je vois ces ordinateurs comme une façon
+de sonder les mystères de la nature
+											et d'en révéler plus sur ce monde caché
+au-delà de ce que l'on vit.
+											Il est stupéfiant que nous, humains,
+											avec notre accès à l'univers
+relativement limité,
+											puissions tout de même voir
+au-delà de nos horizons
+											seulement grâce à notre imagination
+et notre ingéniosité.
+											Et l'univers nous récompense
+											en nous montrant à quel point
+il est intéressant et surprenant.
+									","
+											Biz kuantum harikalar diyarında
+kaşif olmak için yol alıyoruz.
+											Yakında hangi uygulamayı 
+bulacağımızı kim bilebilir.
+											Kuantum geleceğini inşa ederken;
+											dikkatli ve sorumlu 
+davranmak zorundayız.
+											Benim açımdan şahsen
+											kuantum fiziğini sadece kuantum bilgisayar
+yapmak için bir araç olarak görmüyorum.
+											Kuantum bilgisayarları, bizim için, 
+geleceğin gizemini araştırmak ve
+											bizim tecrübelerimiz dışında kalan
+bu gizli dünya hakkında daha
+											fazla şey ortaya çıkartacak 
+bir yol olarak görüyorum.
+											Biz insanlar ne kadar hayret vericiyiz,
+											evrene nispeten kısıtlı 
+erişimimiz ile
+											sadece hayal gücümüzü ve 
+becerimizi kullanarak
+											kendi ufkumuzdan çok ötesini
+görebilmekteyiz.
+											Evren bizi, ne kadar inanılmaz
+derecede ilginç ve sürprizlerle
+											dolu olduğunu göstererek 
+ödüllendirmektedir.
+									",A beginner's guide to quantum computing,Shohini Ghose,10:04,"TED Fellows,quantum physics,computers,science,future,technology,innovation,invention,encryption,physics,medicine,nature,exploration"
+"
+","
+","
+","
+","
+",A beginner's guide to quantum computing,Shohini Ghose,10:04,"TED Fellows,quantum physics,computers,science,future,technology,innovation,invention,encryption,physics,medicine,nature,exploration"
+"
+											The future is fundamentally uncertain,
+											and to me, that is certainly exciting.
+									","
+											El futuro es fundamentalmente incierto,
+											y eso para mí es ciertamente emocionante.
+									","
+											O futuro é fundamentalmente incerto
+											e, para mim,
+isso é certamente emocionante.
+									","
+											L'avenir est fondamentalement incertain,
+											et cela, à mes yeux,
+est certainement passionnant.
+									","
+											Gelecek temel olarak belirsizdir
+											ve bu bizi kesinlikle 
+heyecanlandırmaktadır.
+									",A beginner's guide to quantum computing,Shohini Ghose,10:04,"TED Fellows,quantum physics,computers,science,future,technology,innovation,invention,encryption,physics,medicine,nature,exploration"
+"
+","
+","
+","
+","
+",A beginner's guide to quantum computing,Shohini Ghose,10:04,"TED Fellows,quantum physics,computers,science,future,technology,innovation,invention,encryption,physics,medicine,nature,exploration"
+"
+											Thank you.
+									","
+											Gracias.
+									","
+											Obrigada.
+									","
+											Merci.
+									","
+											Teşekkür ederim.
+									",A beginner's guide to quantum computing,Shohini Ghose,10:04,"TED Fellows,quantum physics,computers,science,future,technology,innovation,invention,encryption,physics,medicine,nature,exploration"
+"
+","
+","
+","
+","
+",A beginner's guide to quantum computing,Shohini Ghose,10:04,"TED Fellows,quantum physics,computers,science,future,technology,innovation,invention,encryption,physics,medicine,nature,exploration"
+"
+											(Applause)
+									","
+											(Aplausos)
+									","
+											(Aplausos)
+									","
+											(Applaudissements)
+									","
+											(Alkışlar)
+									",A beginner's guide to quantum computing,Shohini Ghose,10:04,"TED Fellows,quantum physics,computers,science,future,technology,innovation,invention,encryption,physics,medicine,nature,exploration"
+"
+","
+","
+","
+","
+",A beginner's guide to quantum computing,Shohini Ghose,10:04,"TED Fellows,quantum physics,computers,science,future,technology,innovation,invention,encryption,physics,medicine,nature,exploration"

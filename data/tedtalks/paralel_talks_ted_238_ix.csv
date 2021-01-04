@@ -1,0 +1,2307 @@
+en,es,tr,fr,de,title,speaker,duration,tags
+"
+","
+","
+","
+","
+",Visualizing the medical data explosion,Anders Ynnerman,16:36,"TEDx,data,health,medicine,science,technology,visualizations,virtual reality"
+"
+											I will start by posing a little bit of a challenge:
+											the challenge of dealing with data,
+											data that we have to deal with
+											in medical situations.
+											It's really a huge challenge for us.
+											And this is our beast of burden —
+											this is a Computer Tomography machine,
+											a CT machine.
+											It's a fantastic device.
+											It uses X-rays, X-ray beams,
+											that are rotating very fast around the human body.
+											It takes about 30 seconds to go through the whole machine
+											and is generating enormous amounts of information
+											that comes out of the machine.
+											So this is a fantastic machine
+											that we can use
+											for improving health care,
+											but as I said, it's also a challenge for us.
+											And the challenge is really found in this picture here.
+											It's the medical data explosion
+											that we're having right now.
+											We're facing this problem.
+											And let me step back in time.
+									","
+											Voy a empezar con un pequeño desafío,
+											el desafío del tratamiento de datos
+											de los datos que procesamos
+											en cuestiones médicas.
+											Realmente es un desafío enorme.
+											Y este es nuestro caballo de batalla:
+											el escáner de tomografías,
+											el tomógrafo computado.
+											Es un dispositivo excepcional.
+											Usa rayos X, haces de rayos X,
+											que giran muy rápido por todo el cuerpo humano.
+											Tarda unos 30 segundos en pasar por toda la máquina
+											y genera como salida del proceso
+											ingentes cantidades de información.
+											Por eso es una máquina excepcional
+											que puede usarse
+											para mejorar la asistencia sanitaria.
+											Pero, como dije, también representa un desafío.
+											Y en esta imagen de aquí puede verse bien el desafío.
+											Se trata de la explosión de datos médicos
+											de hoy en día.
+											Tenemos este problema.
+											Retrocedamos en el tiempo.
+									","
+											Size öncelikle karşılaştığımız bir zorluktan,
+											verilerle uğraşmanın, tıbbi durumlara
+											ait olan verilerle uğraşmanın zorluğundan
+											bahsetmek istiyorum.
+											Bu bizim için gerçekten de çok büyük bir zorluk,
+											en zorlandığımız şey bu.
+											Bu bir bilgisayarlı tomografi cihazı —
+											bir BT cihazı.
+											Müthiş bir cihaz.
+											X-ışınlarını kullanıyor,
+											insan vücudu etrafında hızla dönen X ışınlarını kullanıyor.
+											Makineye girip çıkmak yaklaşık 30 saniye sürüyor
+											ve bu sürenin sonunda makina inanılmaz miktarlarda
+											veri üretiyor.
+											Bu, sağlık hizmetlerini
+											iyileştirmek için kullanabileceğimiz
+											müthiş bir cihaz. Ama daha önce belirttiğim gibi
+											aynı zamanda büyük bir sorun.
+											Zorluğu bu resimde görmek mümkün.
+											Şu an yaşadığımız bir nevi tıbbi
+											veri patlaması.
+											Yaşadığımız sorun bu.
+											Sizi zamanda geri götürmeme izin verin.
+									","
+											Je vais commencer par lancer un tout petit défi,
+											le problème du traitement des données,
+											des données que nous devons traiter
+											dans le contexte médical.
+											C'est vraiment un énorme défi pour nous.
+											Et ceci est notre bête de somme.
+											C'est un appareil à tomographie calculée par ordinateur —
+											un scanner CT.
+											C'est un appareil extraordinaire.
+											Il utilise les rayons X, des faisceaux de rayons X,
+											qui tournent très rapidement autour du corps humain.
+											Il faut environ 30 secondes pour passer à travers tout l'appareil
+											et d'énormes quantités d'informations sont produites
+											en sortie de la machine.
+											C'est une machine extraordinaire
+											que nous pouvons utiliser
+											pour améliorer les soins de santé.
+											Mais, comme je l'ai dit, c'est aussi un défi à relever.
+											Toute l'ampleur du problème se trouve sur cette image.
+											Il s'agit de l'explosion des données médicales
+											qui se produit en ce moment même.
+											C'est le problème auquel nous sommes confrontés.
+											Laissez-moi revenir en arrière.
+									","
+											Ich möchte zu Beginn eine kleine Herausforderung darstellen:
+											die Analyse von Daten.
+											Daten, mit denen wir
+											in medizinischem Kontext zu tun haben.
+											Das ist wirklich eine sehr große Herausforderung für uns.
+											Das hier ist unser Lasttier.
+											Es ist ein Computertomograph,
+											ein CT-Gerät.
+											Es ist eine fantastische Apparatur.
+											Sie benutzt Röntgenstrahlen,
+											die sehr schnell um den menschlichen Körper kreisen.
+											Es dauert ungefähr 30 Sekunden, bis man einmal durch die gesamte Maschine durch ist.
+											Dabei werden ungeheure Mengen von Daten
+											in der Maschine erzeugt.
+											Das ist also ein fantastisches Gerät,
+											das uns helfen kann,
+											die medizinische Versorgung zu verbessern.
+											Wie ich aber schon sagte: Es ist auch eine Herausforderung für uns.
+											Auf diesem Foto können Sie diese Herausforderung sehen.
+											Es geht um die ungeheure Zunahme an medizinischen Daten,
+											die wir im Moment erleben.
+											Das ist das Problem, dem wir uns stellen müssen.
+											Lassen Sie mich ein paar Jahre zurück gehen.
+									",Visualizing the medical data explosion,Anders Ynnerman,16:36,"TEDx,data,health,medicine,science,technology,visualizations,virtual reality"
+"
+","
+","
+","
+","
+",Visualizing the medical data explosion,Anders Ynnerman,16:36,"TEDx,data,health,medicine,science,technology,visualizations,virtual reality"
+"
+											Let's go back a few years in time and see what happened back then.
+											These machines that came out —
+											they started coming in the 1970s —
+											they would scan human bodies,
+											and they would generate about 100 images
+											of the human body.
+											And I've taken the liberty, just for clarity,
+											to translate that to data slices.
+											That would correspond to about 50 megabytes of data,
+											which is small
+											when you think about the data we can handle today
+											just on normal mobile devices.
+											If you translate that to phone books,
+											it's about one meter of phone books in the pile.
+											Looking at what we're doing today
+											with these machines that we have,
+											we can, just in a few seconds,
+											get 24,000 images out of a body,
+											and that would correspond to about 20 gigabytes of data,
+											or 800 phone books,
+											and the pile would then be 200 meters of phone books.
+											What's about to happen —
+											and we're seeing this; it's beginning —
+											a technology trend that's happening right now
+											is that we're starting to look at time-resolved situations as well.
+											So we're getting the dynamics out of the body as well.
+											And just assume
+											that we will be collecting data during five seconds,
+											and that would correspond to one terabyte of data —
+											that's 800,000 books
+											and 16 kilometers of phone books.
+											That's one patient, one data set.
+											And this is what we have to deal with.
+									","
+											Remontémonos unos años en el tiempo y veamos qué sucedía entonces.
+											Estas máquinas que salieron
+											-empezaron a aparecer en los años 70-
+											escaneaban cuerpos humanos
+											generando unas 100 imágenes
+											del cuerpo.
+											Me he tomado la libertad, por una cuestión de claridad,
+											de traducir eso a magnitudes de datos.
+											Eso correspondería a unos 50 Mb de datos,
+											algo pequeño
+											si pensamos en los datos que podemos manejar hoy
+											en nuestros dispositivos móviles.
+											Si lo comparamos con las guías telefónicas
+											es como una pila de un metro de guías telefónicas.
+											Viendo lo que estamos haciendo hoy
+											con estas máquinas que tenemos
+											podemos, en pocos segundos,
+											obtener 24.000 imágenes de un cuerpo.
+											Y eso equivaldría a unos 20 Gb de datos
+											u 800 guías telefónicas.
+											La pila de guías telefónicas sería de 200 metros.
+											Lo que está por suceder
+											-lo estamos viendo, está empezando-
+											es una tendencia tecnológica que observamos ahora:
+											se está comenzando a observar también la dimensión tiempo.
+											Así, estamos capturando también la dinámica del cuerpo.
+											Supongamos
+											que vamos a recolectar datos durante 5 segundos
+											y eso corresponde a 1 terabyte de datos.
+											Equivale a 800.000 guías,
+											a una pila de 16 Km de guías,
+											para un solo paciente, un conjunto de datos.
+											A esto es a lo que nos enfrentamos.
+									","
+											Birkaç yıl geriye gidelim ve o zaman bunların nasıl olduğuna bakalım.
+											Bu makineler 1970'li yıllarda
+											ortaya çıkmaya başladı.
+											İnsan vücudunu tarıyorlar ve
+											insan vücuduna ait yaklaşık
+											100 görüntü üretiyorlardı.
+											Konuyu daha iyi açıklamak için
+											bunu veri dilimlerine çevirmek istiyorum.
+											Bunlar yaklaşık 50 MB veriye denk geliyordu,
+											ki bugün mobil cihazlarımızda uğraştığımız
+											veri miktarını düşünecek olursanız
+											bu oldukça ufak bir veri.
+											Bunu telefon rehberi birimine çevirecek olursanız,
+											yerden 1 metre yüksekliği olan bir telefon rehberi sütunu demek.
+											Şimdi de bugün sahip olduğumuz
+											makinelerle yaptıklarımıza bir bakalım,
+											sadece birkaç saniye içinde,
+											vücuttan 24 bin görüntü alabiliyoruz.
+											Bu yaklaşık 20 GB veri demek,
+											ya da 800 telefon rehberi.
+											Üstüste koysanız bu yaklaşık 200 metre eder.
+											Gördüğünüz, görmekte olduğunuz
+											şu anda süregelen bu teknoloji trendi ile
+											artık zamana bağlı durumlarla da
+											ilgilenmeye başlıyoruz.
+											Artık vücuttan ilgili dinamikleri de alabiliyoruz.
+											Farz edin ki
+											beş saniye boyunca veri toplayacağız,
+											bu bir terabayt veriye eşdeğer olacaktır.
+											Bu 800.000 kitap ve
+											16 km yüksekliğinde bir telefon rehberi kulesi demek.
+											Bu tek bir hasta, bir veri seti.
+											Altından kalkmamız gereken sorun da bu.
+									","
+											Revenons quelques années en arrière, et observons ce qui se passait à l'époque.
+											Les appareils qui sortaient alors —
+											ils ont commencé à arriver dans les années 70 —
+											scannaient le corps humain,
+											et produisaient environ une centaine d'images
+											de ce corps.
+											J'ai pris la liberté, pour que ce soit plus clair,
+											de traduire cela en termes de données numériques.
+											Ça correspondrait à environ 50 Mo,
+											ce qui est peu
+											quand vous pensez aux quantités de données que nous pouvons manipuler de nos jours
+											rien que sur nos portables normaux.
+											Si vous traduisez ça en annuaires,
+											ça fait une pile d'annuaires d'environ un mètre de haut.
+											Quand on voit ce que l'on peut faire aujourd'hui
+											avec les machines dont nous disposons,
+											on peut, en seulement quelques secondes,
+											obtenir 24 000 images d'un corps.
+											Cela correspondrait à environ 20 Go,
+											ou 800 annuaires.
+											La pile d'annuaires ferait alors 200 mètres de haut.
+											Ce qui va se produire —
+											et nous le voyons déjà, ça commence —
+											c'est une tendance technologique qui arrive en ce moment même,
+											est que nous commençons également à regarder les images en temps réel.
+											Nous obtenons également la dynamique du corps.
+											Supposez seulement
+											que nous ne recueillions des données que sur une durée de cinq secondes,
+											cela correspondrait à un téraoctet de données.
+											C'est à dire 800 000 annuaires,
+											une pile de 16 km de haut.
+											Et cela pour un seul patient, un seul examen.
+											Voilà ce à quoi nous devons faire face.
+									","
+											Lassen Sie uns ein paar Jahre zurück gehen und sehen, was damals los war.
+											Diese Geräte, die zuerst so
+											um 1970 auf den Markt kamen,
+											sie scannten menschliche Körper
+											und machten ungefähr 100 Aufnahmen
+											des menschlichen Körpers.
+											Ich habe mir die Freiheit genommen, der Deutlichkeit zuliebe,
+											das in Bildschichten zu übersetzen.
+											Das entspricht ungefähr 50 MB an Daten,
+											was nicht viel ist,
+											wenn man an die Datenmengen denkt,
+											die heute ein einfaches Mobiltelefon verarbeiten kann.
+											Wenn wir das auf Telefonbücher übertragen,
+											kämen wir auf einen Stapel von ungefähr einem Meter Höhe .
+											Betrachten wir das, was wir heute
+											mit den Geräten, die uns zur Verfügung stehen, machen.
+											Wir erhalten in nur wenigen Sekunden
+											24.000 Aufnahmen eines Körper.
+											Das entspricht ungefähr 20 GB Daten
+											oder 800 Telefonbüchern.
+											Und der Stapel wäre 200 Meter hoch.
+											Was passieren wird
+											(und wir sehen es schon jetzt, es geht gerade los),
+											ist ein aktueller Technologietrend:
+											Wir haben begonnen, Ergebnisse im Verlauf zu betrachten.
+											Wir erhalten also auch dynamische Informationen über einen Körper.
+											Nehmen wir an,
+											dass wir Daten über einen Zeitraum von fünf Sekunden sammeln.
+											Das würde einem Terabyte Daten entsprechen.
+											Das sind 800.000 Bücher
+											und 16 km Telefonbücher.
+											Das ist ein Patient, ein einziger Datensatz.
+											Das ist es, womit wir es zu tun haben.
+									",Visualizing the medical data explosion,Anders Ynnerman,16:36,"TEDx,data,health,medicine,science,technology,visualizations,virtual reality"
+"
+","
+","
+","
+","
+",Visualizing the medical data explosion,Anders Ynnerman,16:36,"TEDx,data,health,medicine,science,technology,visualizations,virtual reality"
+"
+											So this is really the enormous challenge that we have.
+											And already today — this is 25,000 images.
+											Imagine the days
+											when we had radiologists doing this.
+											They would put up 25,000 images,
+											they would go like this, ""25,0000, okay, okay.
+											There is the problem.""
+											They can't do that anymore. That's impossible.
+											So we have to do something that's a little bit more intelligent than doing this.
+											So what we do is that we put all these slices together.
+											Imagine that you slice your body in all these directions,
+											and then you try to put the slices back together again
+											into a pile of data, into a block of data.
+											So this is really what we're doing.
+											So this gigabyte or terabyte of data, we're putting it into this block.
+											But of course, the block of data
+											just contains the amount of X-ray
+											that's been absorbed in each point in the human body.
+											So what we need to do is to figure out a way
+											of looking at the things we do want to look at
+											and make things transparent that we don't want to look at.
+											So transforming the data set
+											into something that looks like this.
+											And this is a challenge.
+											This is a huge challenge for us to do that.
+									","
+											Este es el desafío enorme que tenemos.
+											Y ya hoy en día esto representa 25.000 imágenes.
+											Imaginen esos días
+											en los que los radiólogos hacían la tarea.
+											Colocaban 25.000 imágenes
+											hacían algo así como 25 mil veces ""bien, bien,
+											¡ahí está el problema!""
+											Ya no pueden hacer eso; resulta imposible.
+											Entonces tenemos que hacer algo un poquito más inteligente.
+											Lo que hacemos es consolidar todos estos cortes.
+											Imaginen que hacen cortes del cuerpo en todas estas direcciones
+											y luego tratan de consolidar los cortes
+											en una pila de datos, en un bloque de datos.
+											Esto es lo que estamos haciendo.
+											Colocamos este gibabyte o terabyte de datos en este bloque.
+											Pero, claro, el bloque de datos
+											contiene los rayos X
+											absorbidos por todos los puntos del cuerpo humano.
+											Tenemos que encontrar una manera
+											de ver las cosas que queremos ver
+											y hacer transparentes las cosas que no queremos ver.
+											Hay que transformar los datos
+											en algo que se parezca a esto.
+											Y esto es un desafío.
+											Lograr esto es un desafío enorme.
+									","
+											Yani gerçekten önümüzde müthiş bir zorluk var.
+											Ve bugün bile, — bu 250 bin görüntü.
+											Bunları radyoloji uzmanlarının
+											yaptığı günleri düşünün.
+											25 bin görüntüye bakıp,
+											""evet, evet, 25 bin, evet...
+											Hah, işte problem şurada."" diyeceklerdi.
+											Bunu artık yapamıyorlar; bu imkansız.
+											Bu nedenle, artık bunu yapabilecek daha akıllı birşeye ihtiyacımız var.
+											Bu nedenle, bütün bu dilimleri bir araya getiriyoruz.
+											Vücudunuzu tüm yönlerde dilimlediğinizi hayal edin,
+											Daha sonra da bu dilimleri tekrar birleştirmeye çalışıyorsunuz,
+											tek bir bilgi yığını halinde, bir blok veri.
+											İşte bizim gerçekte yaptığımız bu.
+											Bu bir gigabayt ya da terabaytlık veriyi bir blok halinde yığıyoruz.
+											Ama elbette, bu veri yığını
+											insan vücudundaki her nokta
+											tarafından soğrulan X-ışını miktarı kadar veri içeriyor.
+											Bu nedenle, yapmamız gereken
+											bakmak istediğimiz şeyleri bize gösteren
+											görmek istemediklerimizi ise şeffaflaştıran bir yöntem bulmak.
+											Bu veri dizisini şuna benzer
+											bir şeye dönüştürüyoruz.
+											İşte işin zor olan kısmı bu.
+											Bu, bizim aşmamız gereken ciddi bir engel.
+									","
+											C'est vraiment l'énorme défi qui se présente à nous.
+											Et dès aujourd'hui — il s'agit de 25 000 images.
+											Imaginez l'époque
+											où les radiologues travaillaient de cette façon.
+											Ils auraient affiché 25 000 clichés,
+											et ils auraient dit 25 000 fois :"" Tout va bien, tout va bien,
+											Ah, voilà le problème. ""
+											On ne peut plus faire ça, c'est impossible.
+											Alors on doit trouver quelque chose d'un peu plus intelligent que ça.
+											Ce que nous faisons donc, c'est de regrouper toutes ces coupes.
+											Imaginez que vous découpez votre corps dans tous les sens,
+											et puis vous essayez de remettre les tranches ensemble
+											pour former une pile de données, un bloc de données.
+											C'est ce que nous faisons en réalité.
+											Ce gigaoctet, ou téraoctet de données, nous le mettons dans ce bloc.
+											Mais, bien sûr, le bloc de données
+											n'indique que la quantité de rayons X
+											qui a été absorbée par chaque point du corps humain.
+											Nous devons donc trouver un moyen
+											de voir les choses que nous voulons observer
+											et de rendre transparentes les choses que nous ne voulons pas observer.
+											C'est-à-dire de transformer l'ensemble des données
+											en quelque chose qui ressemble à ça.
+											Et c'est très difficile.
+											Le défi pour nous est énorme.
+									","
+											Das ist also die ungeheure Herausforderung, die vor uns liegt.
+											Und schon heute: Das hier sind 25.000 Aufnahmen.
+											Denken Sie daran, wie es war,
+											als wir das noch von Radiologen haben machen lassen.
+											Die hätten 25.000 Aufnahmen aufgehängt,
+											die hätten das so gemacht: »25.0000, gut, gut.
+											Hier ist das Problem.«
+											Die können das nicht mehr leisten; das ist unmöglich.
+											Wir müssen uns also etwas Schlaueres ausdenken.
+											Was wir also tun, ist Folgendes: Wir legen alle diese Schichten aufeinander.
+											Stellen Sie sich vor, dass Sie einen Körper in alle diese Richtungen zerschneiden
+											und dann versuchen, diese Scheiben wieder
+											zu einem Stapel von Daten zusammenzufügen, zu einem Datenblock.
+											Das ist also, was wir wirklich tun.
+											Wir nehmen ein Giga- oder Terabyte Daten und packen es auf einen Stapel.
+											Aber natürlich beinhaltet dieser Datensatz
+											nur die Anzahl an Röntgenstrahlung,
+											die an einem bestimmtem Punkt des menschlichen Körper absorbiert wurde.
+											Wir müssen also einen Weg finden,
+											die Dinge zu sehen, die wir sehen möchten.
+											und Dinge, die wir nicht sehen wollen, auszublenden.
+											Den Datensatz zu verwandeln,
+											in etwas, das so aussieht.
+											Und das ist eine Herausforderung.
+											Es ist eine ungeheure Herausforderung.
+									",Visualizing the medical data explosion,Anders Ynnerman,16:36,"TEDx,data,health,medicine,science,technology,visualizations,virtual reality"
+"
+","
+","
+","
+","
+",Visualizing the medical data explosion,Anders Ynnerman,16:36,"TEDx,data,health,medicine,science,technology,visualizations,virtual reality"
+"
+											Using computers, even though they're getting faster and better all the time,
+											it's a challenge to deal with gigabytes of data,
+											terabytes of data
+											and extracting the relevant information.
+											I want to look at the heart.
+											I want to look at the blood vessels. I want to look at the liver.
+											Maybe even find a tumor,
+											in some cases.
+											So this is where this little dear comes into play.
+											This is my daughter.
+											This is as of 9 a.m. this morning.
+											She's playing a computer game.
+											She's only two years old,
+											and she's having a blast.
+											So she's really the driving force
+											behind the development of graphics-processing units.
+											As long as kids are playing computer games,
+											graphics is getting better and better and better.
+											So please go back home, tell your kids to play more games,
+											because that's what I need.
+									","
+											El uso de computadoras, si bien son cada vez más rápidas y mejores,
+											es un desafío tratar con gigabytes de datos,
+											terabytes de datos,
+											y extraer la información relevante.
+											Quiero ver el corazón,
+											quiero ver los vasos sanguíneos, quiero ver el hígado,
+											incluso quizá encontrar un tumor
+											en algunos casos.
+											Y es ahí donde entra en juego mi pequeña.
+											Esta es mi hija.
+											Esto es de las 9 de esta mañana.
+											Está jugando con un videojuego,
+											con tan sólo dos años
+											está en la gloria.
+											Ella es la fuerza motriz
+											que impulsa el desarrollo de unidades de procesamiento gráfico.
+											A medida que los niños juegan a los videojuegos
+											los gráficos se vuelven cada vez mejores.
+											Así que, por favor, vuelvan a casa y díganle a los niños que jueguen más
+											porque eso es lo que necesito.
+									","
+											Gigabaytlarca veriyi işlemek için bilgisayarları kullanmak,
+											her ne kadar her geçen anda daha hızlı ve iyi oluyorlarsa da
+											terbaytlarca veriyi işlemek ve işe yarar
+											veriyi içlerinden ayıklamak gerçekten zor.
+											Kalbe bakmak istiyorum,
+											kan damarlarına bakmak istiyorum, karaciğere bakmak istiyorum,
+											hatta bazı vakalarda
+											bir tümör arıyorum.
+											İşte bu ufaklığın devreye girdiği an bu.
+											Bu benim kızım.
+											Burada saat sabah 9:00,
+											ve o bilgisayarda oyun oynuyor.
+											Henüz sadece iki yaşında,
+											ve acayip eğleniyor.
+											Grafik işlemci geliştirme birimlerinin
+											arkasındaki itici güç gerçekte o.
+											Çocuklar bilgisayar oynamaya devam ettikleri sürece
+											grafikler her geçen gün daha iyiye gidecektir.
+											Bu nedenle eve gidince, çocuklarınıza bilgisayarda oyun oynamalarını söyleyin.
+											Çünkü ihtiyacımız olan şey bu.
+									","
+											En utilisant des ordinateurs, même s'ils deviennent tout le temps plus rapides et meilleurs,
+											il est très difficile de traiter des gigaoctets de données,
+											des téraoctets de données,
+											et d'en extraire les informations utiles.
+											Je veux observer le cœur,
+											je veux observer les vaisseaux sanguins, je veux observer le foie,
+											peut-être même détecter une tumeur
+											dans certains cas.
+											Et voilà où ce petit amour entre en jeu.
+											C'est ma fille.
+											A 9 h 00, ce matin même.
+											Elle joue à un jeu sur ordinateur.
+											Elle n'a que deux ans,
+											et elle s'éclate.
+											C'est elle la vraie force motrice
+											qui pousse au développement des cartes graphiques.
+											Aussi longtemps que les gamins joueront à des jeux sur ordinateur,
+											le traitement graphique continuera à s'améliorer de plus en plus.
+											Alors rentrez chez vous, s'il vous plaît, et dites à vos enfants de jouer plus souvent,
+											parce que j'en ai besoin.
+									","
+											Selbst mit Computern, die immer schneller und besser werden,
+											ist es eine Herausforderung, mit Gigabytes an Daten,
+											Terabytes an Daten, zu arbeiten
+											und die relevanten Informationen herauszufischen.
+											Ich will das Herz sehen können,
+											Ich will die Blutgefässe sehen, die Leber.
+											Vielleicht kann ich sogar einen Tumor
+											finden.
+											Hier kommt dieser kleine Spatz ins Spiel.
+											Das ist meine Tochter.
+											Das ist von heute früh 9:00 Uhr.
+											Sie spielt ein Computerspiel.
+											Sie ist erst zwei Jahre alt,
+											und sie hat einen Heidenspaß.
+											Sie ist die eigentliche Antriebskraft
+											hinter der Entwicklung von Grafikprozessoren.
+											Solange Kinder Computerspiele spielen,
+											wird deren Grafik besser und besser und besser.
+											Gehen Sie also nach Hause und bitten Sie Ihre Kinder, mehr Spiele zu spielen,
+											denn das ist es, was ich brauche.
+									",Visualizing the medical data explosion,Anders Ynnerman,16:36,"TEDx,data,health,medicine,science,technology,visualizations,virtual reality"
+"
+","
+","
+","
+","
+",Visualizing the medical data explosion,Anders Ynnerman,16:36,"TEDx,data,health,medicine,science,technology,visualizations,virtual reality"
+"
+											So what's inside of this machine
+											is what enables me to do the things that I'm doing
+											with the medical data.
+											So really what I'm doing is using these fantastic little devices.
+											And you know, going back
+											maybe 10 years in time
+											when I got the funding
+											to buy my first graphics computer —
+											it was a huge machine.
+											It was cabinets of processors and storage and everything.
+											I paid about one million dollars for that machine.
+											That machine is, today, about as fast as my iPhone.
+											So every month there are new graphics cards coming out,
+											and here is a few of the latest ones from the vendors —
+											NVIDIA, ATI, Intel is out there as well.
+											And you know, for a few hundred bucks
+											you can get these things and put them into your computer,
+											and you can do fantastic things with these graphics cards.
+											So this is really what's enabling us
+											to deal with the explosion of data in medicine,
+											together with some really nifty work
+											in terms of algorithms —
+											compressing data,
+											extracting the relevant information that people are doing research on.
+									","
+											Lo que está dentro de esta máquina
+											me permite hacer las cosas que hago
+											con los datos médicos.
+											En realidad estoy usando estos dispositivos, extraordinarios y pequeños.
+											Y, ya saben, me retrotraigo
+											quizá 10 años en el tiempo
+											a cuando conseguí los fondos
+											para comprar mi primer equipo gráfico.
+											Era una máquina enorme.
+											Había gabinetes de procesadores, almacenamiento, etc.
+											Pagué cerca de un millón de dólares por esa máquina.
+											Esa máquina hoy es tan rápida como mi iPhone.
+											Todos los meses salen nuevas tarjetas gráficas.
+											Estas son algunas de las últimas versiones:
+											NVIDIA, ATI, Intel está por ahí también.
+											Y, ya saben, por unos cientos de dólares
+											se consiguen componentes para el equipo informático,
+											y pueden hacerse cosas extraordinarias con estas tarjetas gráficas.
+											Esto es lo que nos está permitiendo
+											manejar la explosión de datos médicos;
+											esto y un trabajo muy ingenioso
+											en materia de algoritmos,
+											compresión de datos,
+											y de extracción de información relevante para las investigaciones en curso.
+									","
+											Bakın, bu makinenin içinde
+											tıbbi verilerle yaptığım bu işleri
+											yapmamı sağlayan düzenek mevcut.
+											Aslında kullandıklarım bu ufak müthiş cihazlar.
+											Biliyorsunuz ya, geçmişe gidecek olursak
+											belki de 10 yıl geriye,
+											ilk grafik bilgisayarımı almamı sağlayan
+											ödeneği aldığım zamana.
+											O zamanlar bunlar dev gibi makinelerdi.
+											İşlemciler, yedekleyiciler kocaman dolaplardı.
+											Bu makine için yaklaşık bir milyon dolar ödemiştim.
+											Bu makine, yaklaşık benim bugün kullandığım iPhone hızında.
+											Her ay yeni bir görüntü kartı piyasaya çıkıyor.
+											Burada tedarikçilerin son makinelerinden örnekler var —
+											NVIDIA, ATI, Intel de bunlardan biri.
+											Biliyorsunuz, birkaç yüz dolar verirseniz
+											bunlardan birini alıp evdeki bilgisayarınıza takabilir
+											ve bu görüntü kartları ile muhteşem şeyler yapabilirsiniz.
+											Bizim, tıp alanındaki patlama yapan
+											veri ile uğraşmamızı sağlayan şey bu,
+											algoritma içeren hoş birkaç
+											iş ile birlikte —
+											veri sıkıştırma ve
+											araştırmadaki anlamlı veriyi diğerlerinin arasından bulma.
+									","
+											C'est ce qui est à l'intérieur de cet appareil
+											qui me permet de faire ce que je j'accomplis
+											avec les données médicales.
+											Ce que je fais en vérité, c'est que j'utilise ces petits appareils extraordinaires.
+											Et vous savez, si je reviens
+											peut-être dix ans en arrière
+											quand j'ai obtenu le financement
+											pour acheter mon premier ordinateur de traitement graphique.
+											C'était une énorme machine.
+											C'était des rangées de processeurs, de stockage, de tout cela.
+											J'ai payé cette machine aux alentours d'un million de dollars.
+											Et elle était à peu près aussi rapide que mon iPhone aujourd'hui.
+											Chaque mois il y a de nouvelles cartes graphiques qui sortent.
+											En voici quelques unes des dernières mises en vente —
+											NVIDIA, ATI. Intel est également présent.
+											Et vous savez, pour quelques centaines d'euros,
+											vous pouvez les acquérir et les mettre dans votre ordinateur,
+											et vous pouvez faire des choses extraordinaires avec ces cartes graphiques.
+											C'est donc ce qui nous permet de faire face
+											à l'explosion des données en médecine,
+											ajouté à l'élaboration de quelques solutions très habiles
+											en termes d'algorithmes —
+											de compression des données,
+											d'extraction des informations utiles aux travaux des chercheurs.
+									","
+											Das, was in dieser Maschine steckt,
+											ermöglicht es mir, das zu tun, was ich
+											mit medizinischen Daten tue.
+											Ich benutze also diese fantastischen kleinen Geräte.
+											Und wissen Sie, vor zehn Jahren,
+											es war vor ungefähr 10 Jahren,
+											als ich die Fördergelder bekam,
+											um meinen ersten Grafikcomputer zu kaufen.
+											Es war eine riesige Maschine.
+											Es war ein Schrank voll mit Prozessoren und Speicher und allem Möglichen.
+											Ich habe rund eine Million Dollar für diese Maschine bezahlt.
+											Heute ist sie ungefähr so schnell wie mein iPhone.
+											Jeden Monat kommen neue Grafikkarten heraus.
+											Hier sind einige der neuesten:
+											NVIDIA, ATI, Intel ist auch dabei.
+											Und wissen Sie, für ein paar Hunderter
+											kann man diese Dinge kaufen und in einen Computer einbauen
+											und fantastische Sachen damit tun.
+											Das also ist es, was es uns wirklich erlaubt,
+											die Explosion von Daten in der Medizin aufzufangen;
+											dies und ein wenig wirklich raffinierter Arbeit
+											hinsichtlich Algorithmen
+											und Datenkompression.
+											So beziehen wir die relevanten Informationen aus dem, woran Menschen forschen.
+									",Visualizing the medical data explosion,Anders Ynnerman,16:36,"TEDx,data,health,medicine,science,technology,visualizations,virtual reality"
+"
+","
+","
+","
+","
+",Visualizing the medical data explosion,Anders Ynnerman,16:36,"TEDx,data,health,medicine,science,technology,visualizations,virtual reality"
+"
+											So I'm going to show you a few examples of what we can do.
+											This is a data set that was captured using a CT scanner.
+											You can see that this is a full data [set].
+											It's a woman. You can see the hair.
+											You can see the individual structures of the woman.
+											You can see that there is [a] scattering of X-rays
+											on the teeth, the metal in the teeth.
+											That's where those artifacts are coming from.
+											But fully interactively
+											on standard graphics cards on a normal computer,
+											I can just put in a clip plane.
+											And of course all the data is inside,
+											so I can start rotating, I can look at it from different angles,
+											and I can see that this woman had a problem.
+											She had a bleeding up in the brain,
+											and that's been fixed with a little stent,
+											a metal clamp that's tightening up the vessel.
+											And just by changing the functions,
+											then I can decide what's going to be transparent
+											and what's going to be visible.
+											I can look at the skull structure,
+											and I can see that, okay, this is where they opened up the skull on this woman,
+											and that's where they went in.
+											So these are fantastic images.
+											They're really high resolution,
+											and they're really showing us what we can do
+											with standard graphics cards today.
+									","
+											Ahora les voy a mostrar unos ejemplos de lo que puede hacerse.
+											Estos son datos capturados con un tomógrafo.
+											Pueden ver que se trata de datos completos.
+											Es una mujer. Se ve el cabello
+											y las estructuras individuales de la mujer.
+											Pueden ver que hay dispersión de rayos X
+											en los dientes, en el metal de los dientes.
+											De allí vienen todos estos artefactos.
+											De forma totalmente interactiva,
+											con tarjetas gráficas comunes, en un equipo normal,
+											puedo hacer un plano de video.
+											Y como, por supuesto, tiene todos los datos
+											puedo rotarlo, verlo desde distintos ángulos,
+											y ver que esta mujer tenía un problema.
+											Tenía una hemorragia cerebral
+											que se había solucionado con un pequeño stent
+											una espiral de metal que está sujetando el vaso.
+											Y con sólo cambiar las funciones
+											puedo decidir qué cosa va a ser transparente
+											y qué es lo que se va a ver.
+											Puedo ver la estructura del cráneo
+											y que, bueno, este es el lugar donde abrieron el cráneo de la mujer
+											y allí es donde intervinieron.
+											Son imágenes extraordinarias.
+											Son realmente de alta resolución
+											y nos muestran lo que podemos hacer
+											hoy en día con las tarjetas gráficas comunes.
+									","
+											Size neler yapabildiğimize ilişkin birkaç örnek vermek istiyorum.
+											Bu veri seti bir BT tarayıcı kullanılarak elde edildi.
+											Bunun eksiksiz bir veri olduğunu görüyorsunuz.
+											O bir kadın. Saçları görebiliyorsunuz.
+											Kadının vücudunun detaylarını seçebilirsiniz.
+											Burada, dişlerde X-ışını saçılımlarını
+											görebilirsiniz, bunlar dişlerdeki metaller.
+											Bu artifaktlar buradan geliyor.
+											Ama aynen normal bir bilgisayardaki
+											standart bir grafik kartı gibi,
+											verileri bir klip haline getirebilirim.
+											Elbette bütün veri burada, içinde.
+											Böylece sağa sola çevirebilir, istediğim açılardan bakabilirim.
+											Bakınca bu kadının bir sorunu olduğunu görebiliyorum.
+											Beyninde bir kanama var.
+											Ufak bir stent ile tamir edilmiş,
+											yani damarı tıkayan bir metal kliple.
+											Fonksiyonları değiştirerek,
+											neyin saydam olacağını, neyin görünür
+											olacağını ayarlayabilirim.
+											Kafatasının yapısına bakabilirim,
+											bu kadının kafatasını açtıkları yeri görebilirim,
+											ve işte beyine buradan girmişler.
+											Yani bunlar muhteşem görüntüler.
+											Yüksek çözünürlüklü görüntüler,
+											ve bugün standart bir grafik kartı ile
+											neler yapabileceğimizi gösteriyorlar.
+									","
+											Je vais vous montrer quelques exemples de ce que nous pouvons faire.
+											Voici un ensemble de données qui ont été relevées par un scanner CT.
+											Vous pouvez voir que ces données sont complètes.
+											C'est une femme. Vous pouvez voir les cheveux.
+											Vous pouvez voir chaque organe de cette femme séparément.
+											Vous pouvez voir qu'il y a un éparpillement de rayons X
+											sur les dents, le métal des dents.
+											C'est la raison de ces traces.
+											Mais de façon complètement interactive,
+											avec une carte graphique standard, sur un ordinateur normal,
+											je peux faire une coupe plane.
+											Et bien sûr, toutes les données sont à l'intérieur,
+											je peux donc la faire tourner, je peux la voir sous différents angles,
+											et je peux voir que cette femme a eu un problème.
+											Elle a eu une hémorragie au cerveau,
+											qui a été soignée par un petit stent,
+											un tube en métal qui renforce le vaisseau.
+											Et rien qu'en changeant les réglages,
+											je peux décider de ce qui va être transparent,
+											et de ce qui va être visible.
+											Je peux observer la structure crânienne,
+											et je peux voir que, oui, c'est là qu'on a ouvert le crâne de cette femme,
+											et c'est par là qu'on est entré.
+											Ce sont des images extraordinaires.
+											Elles sont de très haute définition,
+											et sont vraiment un exemple de ce qu'on peut faire aujourd'hui
+											avec des cartes graphiques standard.
+									","
+											Ich werde Ihnen einige Beispiele zeigen von dem, was möglich ist.
+											Dies hier ist ein Datensatz, der mittels eines CT-Scanners erfasst wurde.
+											Wie Sie sehen, ist es ein vollständiger Datensatz.
+											Es ist eine Frau. Sie können ihr Haar sehen.
+											Man kann jeden einzelnen Knochen sehen.
+											Man kann sehen, dass Röntgenstrahlung gestreut werden:
+											von den Zähnen, dem Metall in den Zähnen.
+											Daher kommen also diese Artefakte.
+											Aber wirklich interaktiv wird es
+											mit Standard-Grafikkarten in ganz normalen Rechnern.
+											Ich kann einfach eine Schnittebene anlegen
+											Und natürlich stecken alle Daten da drin.
+											Ich kann anfangen, sie zu drehen, ich kann sie von verschiedenen Winkeln betrachten,
+											und ich kann sehen, dass diese Frau ein Problem hatte.
+											Sie hatte eine Blutung im Gehirn,
+											und die wurde mit ein kleinen Stent repariert,
+											einer Metallklammer, die das Gefäß zusammenpresst.
+											Und nur dadurch, dass ich die Einstellungen verändere,
+											kann ich dann entscheiden, was transparent
+											und was sichtbar sein wird.
+											Ich kann die Schädelknochen betrachten.
+											Das sieht okay aus, hier haben sie den Schädel dieser Frau geöffnet,
+											und hier sind sie reingegangen.
+											Dies sind also fantastische Aufnahmen
+											mit einer wirklich guten Auflösung.
+											Sie zeigen uns, was wir
+											heute mit Standard-Grafikkarten alles machen können.
+									",Visualizing the medical data explosion,Anders Ynnerman,16:36,"TEDx,data,health,medicine,science,technology,visualizations,virtual reality"
+"
+","
+","
+","
+","
+",Visualizing the medical data explosion,Anders Ynnerman,16:36,"TEDx,data,health,medicine,science,technology,visualizations,virtual reality"
+"
+											Now we have really made use of this,
+											and we have tried to squeeze a lot of data
+											into the system.
+											And one of the applications that we've been working on —
+											and this has gotten a little bit of traction worldwide —
+											is the application of virtual autopsies.
+											So again, looking at very, very large data sets,
+											and you saw those full-body scans that we can do.
+											We're just pushing the body through the whole CT scanner,
+											and just in a few seconds we can get a full-body data set.
+											So this is from a virtual autopsy.
+											And you can see how I'm gradually peeling off.
+											First you saw the body bag that the body came in,
+											then I'm peeling off the skin — you can see the muscles —
+											and eventually you can see the bone structure of this woman.
+									","
+											Hemos hecho un uso intensivo de esto
+											tratando de introducir gran cantidad de datos
+											en el sistema.
+											Y una de las aplicaciones en las que hemos trabajado
+											-esto atrajo la atención del mundo entero-
+											es la aplicación de autopsias virtuales.
+											Así que, de nuevo, analizando ingentes cantidades de datos
+											pueden verse esos barridos de cuerpo entero.
+											Pasamos todo el cuerpo por este tomógrafo
+											y en unos segundos obtenemos un conjunto de datos de todo el cuerpo.
+											Esto es de una autopsia virtual.
+											Pueden ver que gradualmente quito capas de piel.
+											Primero se vio la bolsa que cubría el cuerpo
+											después, al quitar la piel, se ven los músculos
+											y finalmente puede verse la estructura ósea de la mujer.
+									","
+											Bunları pekçok yerde kullandık ve
+											sisteme epey veri yüklemeye
+											çalıştık.
+											Üzerinde uğraştığımız uygulamalardan biri de —
+											ki bu dünya çapında epey ilgi çekti —
+											bu verilerin sanal otopsilerde kullanılması.
+											Anımsayın, çok ama çok büyük veri setlerine baktınız ve
+											bizim bu tüm-vücut taraması ile neler yapabildiğimizi gördünüz.
+											Vücudu bir bütün olarak BT tarayıcısından geçiriyoruz,
+											ve birkaç saat içinde tüm-vücut veri seti elde edebiliyoruz.
+											Bu görüntü, bir sanal otopsiden.
+											Nasıl kat kat soyulduğunu görebiliyorsunuz.
+											İlk gördüğünüz vücudun içinde geldiği ceset torbası,
+											sonra deriyi soyuyorum —kasları görebilirsiniz—
+											sonunda bu kadının kemiklerine kadar ineceksiniz.
+									","
+											Alors on s'en est vraiment servi,
+											et on a essayé de faire entrer plein de données
+											dans le système.
+											L'une des utilisations sur lesquelles nous travaillons —
+											et cela a suscité quelque intérêt dans le monde entier —
+											est le programme d'autopsies virtuelles.
+											Une fois de plus, en partant de très très grands ensembles de données,
+											vous avez vu ces scans en pied que nous pouvons faire.
+											Nous faisons juste passer le corps à travers le scanner CT,
+											et en seulement quelques secondes nous pouvons obtenir l'ensemble des données du corps entier.
+											Ceci provient d'une autopsie virtuelle.
+											Vous pouvez voir comment j'enlève progressivement les couches.
+											En premier vous avez vu le sac dans lequel le corps est arrivé,
+											puis j'enlève la peau — vous pouvez voir les muscles —
+											et finalement vous pouvez voir le squelette de cette femme.
+									","
+											Wir haben versucht, das auszunutzen, so gut es geht,
+											und wir haben versucht, eine große Menge Daten ins
+											System zu bekommen.
+											Eine der Anwendungen, mit denen wir gearbeitet haben
+											(und das hat weltweit immerhin für etwas Wirbel gesorgt),
+											sind virtuelle Autopsien.
+											Also nochmal, es geht um sehr, sehr große Datenmengen:
+											Sie haben ja diese Ganzkörperscans gesehen, die wir machen können.
+											Wir schicken den Körper einfach nur durch den gesamten CT-Scanner
+											und in nur wenigen Sekunden erhalten wir einen Datensatz für einen kompletten Körper.
+											Diese Aufnahmen stammen von einer virtuellen Autopsie.
+											Sie können sehen, wie ich Schicht um Schicht ablöse.
+											Zuerst haben Sie den Leichensack mit dem Körper gesehen.
+											Nun löse ich die Haut ab. Sie können die Muskeln sehen.
+											Schließlich sehen Sie die Knochenstruktur dieser Frau.
+									",Visualizing the medical data explosion,Anders Ynnerman,16:36,"TEDx,data,health,medicine,science,technology,visualizations,virtual reality"
+"
+","
+","
+","
+","
+",Visualizing the medical data explosion,Anders Ynnerman,16:36,"TEDx,data,health,medicine,science,technology,visualizations,virtual reality"
+"
+											Now at this point, I would also like to emphasize
+											that, with the greatest respect
+											for the people that I'm now going to show —
+											I'm going to show you a few cases of virtual autopsies —
+											so it's with great respect for the people
+											that have died under violent circumstances
+											that I'm showing these pictures to you.
+											In the forensic case —
+											and this is something
+											that ... there's been approximately 400 cases so far
+											just in the part of Sweden that I come from
+											that has been undergoing virtual autopsies
+											in the past four years.
+											So this will be the typical workflow situation.
+											The police will decide —
+											in the evening, when there's a case coming in —
+											they will decide, okay, is this a case where we need to do an autopsy?
+											So in the morning, in between six and seven in the morning,
+											the body is then transported inside of the body bag
+											to our center
+											and is being scanned through one of the CT scanners.
+											And then the radiologist, together with the pathologist
+											and sometimes the forensic scientist,
+											looks at the data that's coming out,
+											and they have a joint session.
+											And then they decide what to do in the real physical autopsy after that.
+									","
+											En este momento me gustaría hacer hincapié
+											en que, con el mayor de los respetos
+											por las personas que van a ver,
+											voy a mostrarles unos casos de autopsias virtuales
+											así que con gran respeto por las personas
+											que han muerto en circunstancias violentas
+											voy a mostrarles estas imágenes.
+											En el caso forense
+											ha habido
+											aproximadamente 400 casos hasta el momento
+											sólo en la parte de Suecia de la que provengo,
+											que ha sido objeto de autopsias virtuales
+											durante los últimos 4 años.
+											La dinámica típica de trabajo es así:
+											la policía decide
+											-en la tarde, cuando llega un caso-
+											decide, bueno, este es un caso que requiere autopsia.
+											Por la mañana, entre las 6 y las 7 de la mañana,
+											se transporta el cuerpo en la bolsa de plástico
+											hasta nuestro centro
+											y se pasa por uno de los tomógrafos.
+											Luego el radiólogo, junto con el patólogo
+											y a veces con el científico forense,
+											analizan los datos de salida
+											y tienen una sesión conjunta.
+											Y entonces deciden qué hacer en la autopsia física real posterior.
+									","
+											Bu noktada, size şimdi göstereceğim kişilerin
+											görüntülerine büyük bir saygı duyduğumu
+											belirtmek isterim.
+											Size birkaç sanal otopsi örneği göstereceğim —
+											göstereceğim örneklerde yer alan
+											vahşice öldürülen bu insanlara
+											büyük saygı duyduğumu belirtmek isterim.
+											Adli bir vakada —
+											ki geçtiğimiz dört yıl içinde
+											benim de yaşadığım İsveç'in bu bölgesinde
+											her yıl sanal otopsi yapılan
+											yaklaşık 400 vaka
+											mevcut.
+											Bu vakalardaki tipik iş akışı şöyledir.
+											Polis akşamdan vakalara karar verir
+											bir vaka geldiğinde —
+											tamam derler, bu otopsi yapılması gereken bir vaka.
+											Böylece, sabahleyin, saat 6 ile 7 arasında
+											cesetler, ceset torbalarının içinde
+											merkezimize getirilirler ve
+											BT tarayıcılarından biri ile taranırlar.
+											Daha sonra radyolog ve patolog,
+											bazen de adli tıp uzmanı
+											bir araya gelirler ve
+											çıkan verilere bakarlar.
+											Ancak bundan sonra vakaya gerçek otopsi yapıp yapmamaya karar verilir.
+									","
+											A ce stade, je voudrais aussi souligner que,
+											avec le plus grand respect
+											pour les personnes que je vais maintenant vous montrer —
+											je vais vous montrer quelques cas d'autopsies virtuelles —
+											c'est avec un grand respect pour ces personnes
+											qui sont mortes dans des circonstances violentes
+											que je vous montre ces images.
+											Dans le cadre médico-légal —
+											il y a eu jusqu'ici
+											environ 400 cas,
+											rien que dans la région de Suède d'où je viens,
+											qui ont subi une autopsie virtuelle
+											durant ces quatre dernières années.
+											Voilà le déroulement de la situation typique :
+											La police va décider —
+											dans la soirée, quand un cas se présente —
+											ils vont décider, d'accord, voilà un cas qui nécessite une autopsie.
+											Le lendemain, entre six et sept heures du matin,
+											le corps est transporté dans son sac
+											jusqu'à notre Centre,
+											et il est passé dans l'un de nos scanners CT.
+											Puis le radiologue, en compagnie du pathologiste
+											et parfois du médecin légiste,
+											examinent les données qui sortent,
+											et ils se concertent.
+											Ils décident alors de ce qu'ils vont faire lors de la vraie autopsie qui va suivre.
+									","
+											An dieser Stelle möchte ich betonen,
+											dass ich mit dem allergrößten Respekt
+											für die Menschen, die ich Ihnen gleich zeigen werde
+											(Ich werde Ihnen einige Beispiele von virtuelle Autopsien zeigen),
+											es geschieht also mit großen Respekt für die Menschen,
+											die unter gewalttätigen Umständen gestorben sind,
+											dass ich Ihnen die folgenden Aufnahmen zeige.
+											In einem forensischen Fall ...
+											und davon
+											gab es bis jetzt ungefähr 400 Fälle,
+											allein in dem Teil von Schweden, woher ich komme,
+											bei denen in den letzten vier Jahren
+											virtuelle Autopsien durchgeführt wurden.
+											So sieht also ein typischer Arbeitsablauf aus.
+											Die Polizei wird entscheiden
+											(am selben Abend, wenn ein Fall hereinkommt)
+											werden sie entscheiden, okay, das ist ein Fall, bei dem wir eine Autopsie durchführen müssen.
+											Am Morgen, so zwischen sechs und sieben Uhr,
+											wird der Körper dann im Leichensack
+											zu unserer Abteilung gebracht
+											und in einem der CT-Scanner gescannt.
+											Dann sieht sich ein Radiologe zusammen mit einem Pathologen
+											und manchmal auch ein forensicher Wissenschaftler,
+											die Daten an, die dabei herauskommen.
+											Gemeinsam entscheiden sie,
+											was in der anschließenden echten Autopsie getan werden muss.
+									",Visualizing the medical data explosion,Anders Ynnerman,16:36,"TEDx,data,health,medicine,science,technology,visualizations,virtual reality"
+"
+","
+","
+","
+","
+",Visualizing the medical data explosion,Anders Ynnerman,16:36,"TEDx,data,health,medicine,science,technology,visualizations,virtual reality"
+"
+											Now looking at a few cases,
+											here's one of the first cases that we had.
+											You can really see the details of the data set.
+											It's very high-resolution,
+											and it's our algorithms that allow us
+											to zoom in on all the details.
+											And again, it's fully interactive,
+											so you can rotate and you can look at things in real time
+											on these systems here.
+											Without saying too much about this case,
+											this is a traffic accident,
+											a drunk driver hit a woman.
+											And it's very, very easy to see the damages on the bone structure.
+											And the cause of death is the broken neck.
+											And this women also ended up under the car,
+											so she's quite badly beaten up
+											by this injury.
+									","
+											Mirando algunos casos
+											este es uno de los primeros casos que tuvimos.
+											Pueden ver los detalles del conjunto de datos;
+											tiene resolución muy alta.
+											Y gracias a nuestros algoritmos podemos
+											analizar todos los detalles.
+											Y, de nuevo, es totalmente interactivo
+											así que puede rotarse para analizar cosas en tiempo real
+											en estos sistemas de aquí.
+											Sin revelar mucho sobre este caso,
+											se trata de un accidente de tráfico,
+											un conductor ebrio que atropelló a una mujer.
+											Y es muy, muy fácil de ver los daños en la estructura ósea.
+											La causa de la muerte es la fractura del cuello.
+											Esta mujer terminó debajo del auto
+											así que sufrió un fuerte impacto
+											en esta lesión.
+									","
+											Birkaç örnek vakaya beraber bakalım.
+											Bu ilk vakalarımızdan biri.
+											Veri setinin detaylarını gerçekten de görebilirsiniz;
+											çok yüksek çözünürlükte.
+											Tüm detaylara yakın görüş imkanı sağlayan şey
+											bizim algoritmalarımız.
+											Tekrar belirteyim, bunlar tamamen interaktif,
+											yani buradaki sistemleri döndürebilir ve
+											istediğiniz şeye gerçek zamanlı olarak bakabilirsiniz.
+											Bu vaka hakkında çok birşey söylemeye gerek yok,
+											bu bir trafik kazası,
+											alkollü bir sürücü bu kadına çarpmış.
+											Kemik yapılarındaki hasarı görmek çok ama çok kolay.
+											Ölüm nedeni boyun kırılması.
+											Aynı zamanda araba bu kadının üzerinden de geçmiş,
+											bu kaza gerçekten onu
+											çok ciddi şekilde zedelemiş.
+									","
+											Voyons maintenant quelques cas,
+											voici l'un de nos tout premiers.
+											Vous pouvez vraiment voir les détails de l'ensemble de données ;
+											c'est à très haute définition.
+											Et ce sont nos algorithmes qui nous permettent
+											d'agrandir chaque détail.
+											Là aussi, c'est totalement interactif,
+											vous pouvez le faire pivoter et voir les choses en temps réel
+											sur ces systèmes là.
+											Sans trop en dire sur ce cas,
+											il s'agit d'un accident de circulation,
+											un chauffard ivre a renversé une femme.
+											Il est très très facile de voir les dégâts sur le squelette.
+											Et la cause du décès qui est la nuque brisée.
+											Cette femme a de plus fini sous la voiture,
+											alors elle est assez gravement abîmée
+											par l'accident.
+									","
+											Lassen Sie uns einige Fälle ansehen;
+											dies ist einer unserer ersten Fälle.
+											Sie können die genauen Einzelheiten sehen,
+											es ist eine Aufnahme mit wirklich hoher Auflösung.
+											Und es sind unsere Algorithmen, die es uns ermöglichen
+											an diese Details heranzuzoomen.
+											Noch mal, es ist komplett interaktiv,
+											man kann es drehen und sich die Dinge in Echtzeit ansehen
+											auf diesen Systemen.
+											Ohne zu viel über diesen Fall zu sagen,
+											dies ist ein Verkehrsunfall:
+											Ein betrunkener Fahrer überfuhr eine Frau.
+											Und es ist sehr, sehr leicht, die Schäden an der Knochenstruktur zu sehen.
+											Die Todesursache ist der gebrochene Hals.
+											Und diese Frau ist auch unter das Auto geraten,
+											sie ist wirklich schwer zugerichtet worden
+											durch diese Verletzung.
+									",Visualizing the medical data explosion,Anders Ynnerman,16:36,"TEDx,data,health,medicine,science,technology,visualizations,virtual reality"
+"
+","
+","
+","
+","
+",Visualizing the medical data explosion,Anders Ynnerman,16:36,"TEDx,data,health,medicine,science,technology,visualizations,virtual reality"
+"
+											Here's another case, a knifing.
+											And this is also again showing us what we can do.
+											It's very easy to look at metal artifacts
+											that we can show inside of the body.
+											You can also see some of the artifacts from the teeth —
+											that's actually the filling of the teeth —
+											but because I've set the functions to show me metal
+											and make everything else transparent.
+											Here's another violent case. This really didn't kill the person.
+											The person was killed by stabs in the heart,
+											but they just deposited the knife
+											by putting it through one of the eyeballs.
+											Here's another case.
+											It's very interesting for us
+											to be able to look at things like knife stabbings.
+											Here you can see that knife went through the heart.
+											It's very easy to see how air has been leaking
+											from one part to another part,
+											which is difficult to do in a normal, standard, physical autopsy.
+											So it really, really helps
+											the criminal investigation
+											to establish the cause of death,
+											and in some cases also directing the investigation in the right direction
+											to find out who the killer really was.
+									","
+											Aquí hay otro caso: un apuñalamiento.
+											De nuevo, nos está mostrando qué hacer.
+											Es muy fácil detectar artefactos metálicos
+											dentro del cuerpo.
+											Pueden verse algunos de los artefactos de los dientes
+											-en realidad, el relleno de los dientes-
+											dado que configuré la función que me muestra metales
+											haciendo transparente todo lo demás.
+											Este es otro caso violento. Esto no mató realmente a la persona.
+											La persona murió a causa de las puñaladas en el corazón
+											pero dejaron el cuchillo
+											atravesado en los globos oculares.
+											Aquí hay otro caso.
+											Nos resulta muy interesante
+											poder llegar a ver cosas como las puñaladas.
+											Aquí puede verse que el cuchillo atravesó el corazón.
+											Se ve muy fácilmente cómo el aire se había estado filtrando
+											de un lado al otro,
+											algo difícil de lograr en una autopsia física normal, común.
+											Así que es de gran ayuda
+											en la investigación criminal
+											para establecer la causa de la muerte
+											y en algunos casos también dirige la investigación en la dirección correcta
+											para descubrir la autoría del crimen.
+									","
+											Bu başka bir vaka, bir bıçaklanma.
+											Bu vaka da neler yapabileceğimizi çok iyi gösteriyor.
+											Vücut içinde kalan metal kalıntılarına
+											bakmamız çok kolay.
+											Dişlerde de bazı artifaktlar görüyorsunuz —
+											bunlar diş dolguları —
+											bunları görüyorsunuz çünkü ayarları sadece metalleri gösterecek
+											ve bunun dışındaki herşeyi şeffaflaştıracak hale getirdim.
+											Bu bir başka şiddet vakası. Bu kişiyi öldüren şey bu değil.
+											Bu kişi, kalbinden bıçaklandığı için ölmüş,
+											ama katiller işleri bitince bıçağı
+											göz kürelerinden birine saplayıp bırakmışlar.
+											Bu başka bir vaka.
+											Bizim için, bu tip bıçaklanma olaylarına
+											böyle bakabiliyor olmak çok ilginç.
+											Burada bıçağın kalbi nasıl deldiğini görüyorsunuz.
+											Havanın bir taraftan diğer tarafa sızdığını görmek
+											çok kolay.
+											Ki bunu görmek standart bir otopside çok zordur.
+											Bu teknik, adli kovuşturmada
+											ölüm nedenini bulma konusunda
+											çok ama çok yardımcı olup,
+											bazı vakalarda soruşturmanın doğru yöne gitmesini sağlayarak
+											katilin bulunmasına yardımcı oluyor.
+									","
+											Voici un autre cas, une attaque au couteau.
+											Ça nous montre une fois encore ce que nous pouvons faire.
+											Il est très facile d'observer les objets en métal,
+											nous pouvons les montrer à l'intérieur du corps.
+											Vous pouvez aussi voir des objets dans la mâchoire —
+											ce sont en réalité les plombages —
+											mais c'est parce que j'ai réglé les fonctions pour faire apparaître le métal
+											et rendre tout le reste transparent.
+											Voici un autre cas de violence. Ce n'est pas vraiment ça qui a tué la personne.
+											Elle a été tuée par des coups de poignard dans le cœur,
+											mais ils se sont simplement débarrassé du couteau
+											en l'enfonçant dans l'un des globes oculaires.
+											Voici un autre cas.
+											C'est très intéressant pour nous
+											de pouvoir observer des choses comme les coups de couteau.
+											Ici vous pouvez voir que le couteau a transpercé le cœur.
+											On peut facilement voir comment l'air a fui
+											d'un endroit à l'autre,
+											ce qui est difficile dans une autopsie normale, standard.
+											Cela aide énormément
+											l'enquête criminelle
+											à établir la cause du décès,
+											et dans certains cas, à orienter l'enquête dans la bonne direction
+											pour découvrir qui est vraiment le meurtrier.
+									","
+											Hier ist ein anderer Fall, eine Messerstecherei.
+											Und das zeigt uns noch mal, was wir tun können.
+											Metallartefakte können
+											im Körper sehr leicht nachgewiesen werden.
+											Sie können auch einige der Artefakte sehen, die durch die Zähne verursacht werden,
+											besser gesagt, die Zahnfüllungen.
+											Aber weil ich die Einstellungen so vorgenommen habe, dass sie mir Metall zeigen,
+											und alles andere unsichtbar wird ...
+											Hier ist noch ein sehr brutaler Fall. Das Opfer wurde aber nicht umgebracht.
+											Dieses Opfer wurde durch Stiche ins Herz getötet,
+											Aber die Täter ließen das Messer zurück.
+											Sie bohrten es durch einen der Augäpfel.
+											Hier ist noch ein Fall.
+											Es ist sehr interessant für uns,
+											Verbrechen wie Messerstechereien zu analysieren.
+											Hier können Sie sehen, wie das Messer ins Herz eingedrungen ist.
+											Man kann leicht sehen, wie Luft
+											von einem Teil zum anderen gewandert ist,
+											was in einer normalen, klassischen Autopsie schwer auszumachen ist.
+											Dieses Vorgehen hilft also
+											bei einer kriminellen Untersuchung wirklich sehr,
+											die Todesursache festzustellen,
+											und in einigen Fällen die Untersuchung in die richtige Richtung zu lenken,
+											und herauszufinden, wer wirklich der Mörder ist.
+									",Visualizing the medical data explosion,Anders Ynnerman,16:36,"TEDx,data,health,medicine,science,technology,visualizations,virtual reality"
+"
+","
+","
+","
+","
+",Visualizing the medical data explosion,Anders Ynnerman,16:36,"TEDx,data,health,medicine,science,technology,visualizations,virtual reality"
+"
+											Here's another case that I think is interesting.
+											Here you can see a bullet
+											that has lodged just next to the spine on this person.
+											And what we've done is that we've turned the bullet into a light source,
+											so that bullet is actually shining,
+											and it makes it really easy to find these fragments.
+											During a physical autopsy,
+											if you actually have to dig through the body to find these fragments,
+											that's actually quite hard to do.
+									","
+											Este es otro caso que creo es interesante.
+											Aquí pueden ver la bala
+											alojada bien cerca de la columna vertebral de esta persona.
+											Y lo que hicimos fue transformar la bala en una fuente lumínica
+											para que realmente brillara
+											y esto facilitó la identificación de los fragmentos.
+											En una autopsia física
+											si uno tiene que escarbar en el cuerpo en busca de estos fragmentos
+											es algo muy difícil de hacer.
+									","
+											Benim ilginç bulduğum bir başka vaka.
+											Burada, bu kişinin
+											omurgasına saplanmış olan bu kurşunu görebiliyorsunuz.
+											yaptığımız kurşunu bir ışık kaynağı haline getirmek,
+											böylece ışıldıyor ve
+											onu bu parçalar arasında bulmak kolaylaşıyor.
+											Fiziksel bir otopside,
+											bu parçaları bulmak için organların arasını eşelemeniz gerekir,
+											ki bu oldukça zor bir şeydir.
+									","
+											Voici un autre cas que je trouve intéressant.
+											Vous pouvez voir ici une balle
+											qui s'est logée juste à côté de la colonne vertébrale de cette personne.
+											Et ce que nous avons fait, c'est de transformer cette balle en source lumineuse,
+											de façon à ce que la balle brille réellement,
+											ce qui rend la recherche des fragments très facile.
+											Lors d'une autopsie physique,
+											si vous devez réellement fouiller le corps pour retrouver les fragments,
+											c'est vraiment assez dur à faire.
+									","
+											Hier ist noch ein Fall, den ich interessant finde.
+											Hier sehen Sie eine Gewehrkugel,
+											die dicht neben der Wirbelsäule dieses Menschen eingedrungen ist.
+											Was wir also gemacht haben, war, diese Gewehrkugel in eine Lichtquelle zu verwandeln,
+											so dass die Gewehrkugel richtig leuchtet.
+											Das macht es sehr leicht, diese Fragmente
+											während einer physischen Autopsie zu finden,
+											Wenn Sie sich durch den Körper wühlen müssten, um diese Fragmente zu finden,
+											Das ist schon ziemlich schwierig.
+									",Visualizing the medical data explosion,Anders Ynnerman,16:36,"TEDx,data,health,medicine,science,technology,visualizations,virtual reality"
+"
+","
+","
+","
+","
+",Visualizing the medical data explosion,Anders Ynnerman,16:36,"TEDx,data,health,medicine,science,technology,visualizations,virtual reality"
+"
+											One of the things that I'm really, really happy
+											to be able to show you here today
+											is our virtual autopsy table.
+											It's a touch device that we have developed
+											based on these algorithms, using standard graphics GPUs.
+											It actually looks like this,
+											just to give you a feeling for what it looks like.
+											It really just works like a huge iPhone.
+											So we've implemented
+											all the gestures you can do on the table,
+											and you can think of it as an enormous touch interface.
+											So if you were thinking of buying an iPad,
+											forget about it. This is what you want instead.
+											Steve, I hope you're listening to this, all right.
+											So it's a very nice little device.
+											So if you have the opportunity, please try it out.
+											It's really a hands-on experience.
+											So it gained some traction, and we're trying to roll this out
+											and trying to use it for educational purposes,
+											but also, perhaps in the future,
+											in a more clinical situation.
+											There's a YouTube video that you can download and look at this,
+											if you want to convey the information to other people
+											about virtual autopsies.
+									","
+											Una de las cosas que realmente me complace mucho
+											poder mostrarles aquí hoy
+											es nuestra mesa de autopsias virtuales.
+											Es un dispositivo táctil que hemos desarrollado
+											en base a estos algoritmos que usan tarjetas gráficas comunes.
+											Esta es su apariencia,
+											simplemente para darles una idea de su aspecto.
+											Funciona igual que un iPhone gigante.
+											Hemos implementado
+											todos los gestos que pueden hacerse sobre la mesa
+											y puede concebirse como una interfaz táctil enorme.
+											Así que si estaban pensando en comprar un iPad
+											olvídenlo; lo que desean es esto.
+											Steve, espero que estés escuchando esto, correcto.
+											Es un pequeño dispositivo muy lindo.
+											Así que si tienen la oportunidad, por favor, pruébenlo.
+											Es realmente una experiencia práctica.
+											Ha suscitado mucha atención y estamos tratando de desarrollarlo
+											y de usarlo con fines educativos
+											pero también, quizá en el futuro,
+											en un contexto más clínico.
+											Hay un video en YouTube que pueden bajar y mirar
+											si quieren transmitir la información a otras personas
+											sobre las autopsias virtuales.
+									","
+											Bugün, burada size göstermekten
+											mutluluk duyduğum şeylerden biri de
+											bizim sanal otopsi masamız.
+											Bu algoritmaları baz alarak ve standart grafik GPU'ları kullanarak
+											geliştirdiğimiz bir dokunmatik cihaz.
+											Aslında şöyle birşey,
+											size nasıl olduğunu anlatmak istiyorum.
+											Dev bir iPhone gibi çalışıyor aslında.
+											Bir masada yapacağınız tüm hareketleri
+											buna uyarladık. Bunu dev
+											bir dokunmatik arayüz olarak düşünün.
+											Yani eğer bir iPad almayı planlıyorsanız,
+											boşverin, onun yerine bunu alın.
+											Steve, umarım sen de izliyorsundur bunu.
+											Yani bu çok hoş bir cihaz.
+											Eğer bir fırsat bulursanız mutlaka deneyin.
+											Bizzat yaşanması gereken bir deneyim.
+											Biraz ilgi yarattık, şimdi bunu yaygınlaştırmaya ve
+											eğitim amaçlı kullanılmasını sağlamaya çalışıyoruz,
+											hatta ileride belki
+											klinik ortamda da kullanılabilir.
+											Bu bilgiyi başkaları ile de paylaşmak isterseniz
+											You Tube'da sanal otopsilerle ilgili bir video var,
+											izleyebilir veya yükleyebilirsiniz.
+									","
+											Une des choses que je suis très très heureux
+											de pouvoir vous montrer aujourd'hui
+											est notre table d'autopsie virtuelle.
+											C'est un appareil tactile que nous avons élaboré
+											basé sur ces algorithmes, et qui utilise un processeur graphique standard.
+											Voici de quoi cela a l'air en vrai,
+											juste pour vous donner un idée de ce à quoi cela ressemble.
+											Ça marche vraiment comme un énorme iPhone.
+											Nous avons implémenté
+											tous les gestes que vous pouvez faire sur une table classique,
+											vous pouvez voir cela comme une énorme interface tactile.
+											Alors si vous aviez l'intention d'acheter un iPad,
+											laissez tomber, voilà ce qu'il vous faut à la place.
+											Steve, j'espère bien que tu nous écoutes.
+											C'est un petit appareil très sympa.
+											Alors si vous en avez l'occasion, essayez-le.
+											C'est vraiment une expérience concrète.
+											Nous avons eu des réactions favorables, et nous essayons de le développer,
+											et de l'utiliser à des fins pédagogiques,
+											mais aussi, peut-être à l'avenir,
+											dans un contexte plus clinique.
+											Il y a une vidéo sur YouTube que vous pouvez télécharger et regarder,
+											si vous voulez relayer l'information sur les autopsies virtuelles
+											vers d'autres personnes.
+									","
+											Eines der Dinge, die ich Ihnen hier und heute
+											wirklich gerne zeige,
+											ist unser virtueller Autopsietisch.
+											Es ist ein Touch-Device, das wir
+											mit Standard-Grafikkarten basierend auf diesen Algorithmen entwickelt haben.
+											Es sieht so aus:
+											nur um Ihnen ein Gefühl zu geben dafür, wie es aussieht.
+											Es funktioniert eigentlich so wie ein großes iPhone.
+											Wir haben also
+											alle diese Gesten, die man direkt auf dem Tisch machen kann,
+											und Sie können es als ein riesiges Touch-Screen-Interface betrachten.
+											Falls Sie also ein iPad kaufen wollen,
+											vergessen Sie es; das hier ist, was Sie wirklich wollen.
+											Steve, ich hoffe, dass du dir das hier anhörst, okay?
+											Es ist also ein sehr nettes, kleines Gerät.
+											Falls Sie jemals die Gelegenheit haben, dann probieren Sie es bitte aus.
+											Es ist wirklich eine praktische Erfahrung.
+											Es gibt schon einiges Interesse daran und wir wollen es auf den Markt zu bringen
+											und für Lehrzwecke einsetzen.
+											Vielleicht können wir es auch auch demnächst
+											in einer eher klinischen Situation anwenden.
+											Es gibt ein YouTube-Video, das Sie herunterladen und angucken können,
+											falls Sie Informationen über virtuelle Autopsien
+											an andere Menschen weitergeben wollen.
+									",Visualizing the medical data explosion,Anders Ynnerman,16:36,"TEDx,data,health,medicine,science,technology,visualizations,virtual reality"
+"
+","
+","
+","
+","
+",Visualizing the medical data explosion,Anders Ynnerman,16:36,"TEDx,data,health,medicine,science,technology,visualizations,virtual reality"
+"
+											Okay, now that we're talking about touch,
+											let me move on to really ""touching"" data.
+											And this is a bit of science fiction now,
+											so we're moving into really the future.
+											This is not really what the medical doctors are using right now,
+											but I hope they will in the future.
+											So what you're seeing on the left is a touch device.
+											It's a little mechanical pen
+											that has very, very fast step motors inside of the pen.
+											And so I can generate a force feedback.
+											So when I virtually touch data,
+											it will generate forces in the pen, so I get a feedback.
+											So in this particular situation,
+											it's a scan of a living person.
+											I have this pen, and I look at the data,
+											and I move the pen towards the head,
+											and all of a sudden I feel resistance.
+											So I can feel the skin.
+											If I push a little bit harder, I'll go through the skin,
+											and I can feel the bone structure inside.
+											If I push even harder, I'll go through the bone structure,
+											especially close to the ear where the bone is very soft.
+											And then I can feel the brain inside, and this will be the slushy like this.
+									","
+											Bueno, ya que estamos hablando de cosas táctiles,
+											pasemos a datos que tocan, que conmueven.
+											Esto por el momento es ciencia ficción
+											así que nos transportamos al futuro.
+											Esto no es algo que los médicos estén usando ahora mismo
+											pero espero que suceda en el futuro.
+											Lo que ven a la izquierda es un dispositivo táctil.
+											Es un lapicito mecánico
+											que tiene dentro motores muy, muy veloces.
+											Así puedo generar una reacción háptica .
+											De modo que cuando toco virtualmente los datos
+											se generan fuerzas táctiles en el lápiz y así obtengo una respuesta.
+											En este caso particular
+											se trata del barrido de una persona viva.
+											Tengo este lápiz, analizo los datos,
+											muevo el lápiz hacia la cabeza
+											y de repente siento una resistencia.
+											Así puedo sentir la piel.
+											Si presiono un poquito más voy a atravesar la piel
+											y a sentir la estructura ósea del interior.
+											Si presiono aún más fuerte voy a atravesar la estructura ósea
+											sobre todo cerca del oído donde el hueso es muy blando.
+											Y luego puedo sentir el interior del cerebro, como si fuera algo fangoso .
+									","
+											Peki, dokunmaktan bahsediyorduk,
+											veriye gerçekten dokunmaya geçelim.
+											Bunun biraz bilim kurgu gibi göründüğünü biliyorum,
+											işte şimdi geleceğe doğru bakıyoruz.
+											Bu, doktorların şu an kullanmakta olduğu bir şey değil,
+											ama umuyorum gelecekte olacak.
+											Solda gördüğünüz bir dokunmatik cihaz.
+											Küçük mekanik bir kalem.
+											Bu kalemin içinde çok hızlı step motorları var,
+											böylelikle bir güç geribildiriminde bulunabiliyor.
+											Yani gerçek anlamda veriye dokunduğum zaman,
+											bu, kalemde dokunma kuvvetleri yaratacak, ve ben bir geribildirim alacağım.
+											Bu örnekte, veri,
+											yaşayan bir insanın tomografisi.
+											Elimde bu kalemle veriye bakıyorum,
+											kalemi kafaya doğru yaklaştırıyorum,
+											birden bir engel hissediyorum elimde.
+											Böylelikle deriyi hissedebiliyorum.
+											Biraz daha kuvvetle bastırırsam, deriyi geçebilirim,
+											ve içerideki kemik yapıyı hissedebilirim.
+											Daha da hızlı bastırırsam, kemik yapının da içine girebilirim,
+											özellikle de kemiğin yumuşak olduğu kulağa yakın yerlerdeysem.
+											Daha sonra içerideki beyin dokusunu hissedebilirim, böyle yumuşak bir hissi olacaktır.
+									","
+											Bon, puisque nous parlons de toucher,
+											passons à la possibilité de toucher réellement les données.
+											C'est un peu de la science-fiction, là,
+											on se projette dans le futur.
+											Ça n'est pas vraiment ce que les médecins utilisent actuellement,
+											mais j'espère qu'ils le feront à l'avenir.
+											Ce que vous voyez à gauche est un appareil tactile.
+											C'est un petit stylet mécanique
+											qui a des moteurs pas à pas extrêmement rapides à l'intérieur.
+											Je peux donc produire un retour de force.
+											Alors, quand je touche virtuellement les données
+											cela va produire des retours de force dans le stylet, et j'obtiens ainsi une réaction.
+											Dans ce cas précis,
+											il s'agit du scan d'une personne vivante.
+											J'ai ce stylet, et j'examine les données,
+											je déplace le stylet vers la tête,
+											et tout à coup, je sens une résistance.
+											Et ainsi je peux sentir la peau.
+											Si j'appuie un peu plus fort, je vais traverser la peau,
+											et je pourrai sentir l'os à l'intérieur.
+											Si j'appuie encore plus fort, je traverserai le crâne,
+											particulièrement près de l'oreille, où l'os est très tendre.
+											Et alors je pourrai sentir le cerveau à l'intérieur, et ça aura une consistance de neige fondue, comme ceci.
+									","
+											Okay, jetzt da wir über »Berühren« reden,
+											lassen Sie mich über die wirklich anrührende Daten reden.
+											Das ist jetzt ein bisschen Science Fiction.
+											Wir bewegen uns also wirklich in die Zukunft.
+											Dies ist nicht wirklich das, was die Ärzte momentan benutzen,
+											aber ich hoffe, dass sie es in Zukunft tun.
+											Was Sie da auf der linken Seite sehen, ist ein Touch Device.
+											Es ist ein kleiner, mechanischer Stift,
+											der in seinem Inneren sehr, sehr schnelle Schrittmotoren eingebaut hat.
+											Ich kann also eine Kraftrückmeldung erzeugen.
+											Wenn ich also Daten virtuell berühre,
+											kann das Kräfte in dem Stift erzeugen, so dass ich eine Rückmeldung erhalte.
+											Also in dieser besonderen Situation
+											ist das ein Scan von einer lebenden Person.
+											Ich habe diesen Stift und ich sehe mir die Daten an,
+											bewege den Stift in Richtung seines Kopfes
+											und plötzlich fühle ich eine Widerstand.
+											Ich kann Haut fühlen.
+											Wenn ich ein bisschen fester drücke, gehe ich durch die Haut
+											und kann die Knochenstruktur im Inneren fühlen.
+											Wenn ich noch fester drücke, werde ich durch die Knochenstruktur gehen,
+											besonders am Ohr, wo die Knochen sehr weich sind.
+											Und dann kann ich das Gehirn im Inneren fühlen, und es wird schwammig sein, so wie hier.
+									",Visualizing the medical data explosion,Anders Ynnerman,16:36,"TEDx,data,health,medicine,science,technology,visualizations,virtual reality"
+"
+","
+","
+","
+","
+",Visualizing the medical data explosion,Anders Ynnerman,16:36,"TEDx,data,health,medicine,science,technology,visualizations,virtual reality"
+"
+											So this is really nice.
+											And to take that even further, this is a heart.
+											And this is also due to these fantastic new scanners,
+											that just in 0.3 seconds,
+											I can scan the whole heart,
+											and I can do that with time resolution.
+											So just looking at this heart,
+											I can play back a video here.
+											And this is Karljohan, one of my graduate students
+											who's been working on this project.
+											And he's sitting there in front of the Haptic device, the force feedback system,
+											and he's moving his pen towards the heart,
+											and the heart is now beating in front of him,
+											so he can see how the heart is beating.
+											He's taken the pen, and he's moving it towards the heart,
+											and he's putting it on the heart,
+											and then he feels the heartbeats from the real living patient.
+											Then he can examine how the heart is moving.
+											He can go inside, push inside of the heart,
+											and really feel how the valves are moving.
+											And this, I think, is really the future for heart surgeons.
+											I mean it's probably the wet dream for a heart surgeon
+											to be able to go inside of the patient's heart
+											before you actually do surgery,
+											and do that with high-quality resolution data.
+											So this is really neat.
+									","
+											Así que está muy bien.
+											Y para ir incluso más lejos, esto es un corazón.
+											Y esto es posible también gracias a estos nuevos escáneres excepcionales
+											que en apenas 0,3 segundo
+											escanean todo el corazón
+											con la secuencia de tiempo incluida.
+											Así que analizando este corazón
+											aquí puedo reproducir un video.
+											Este es Karljohan, uno de mis estudiantes de posgrado
+											que está trabajando en el proyecto.
+											Está sentado frente al dispositivo háptico, al sistema de respuesta háptica,
+											está moviendo su lápiz hacia el corazón
+											y ahora el corazón está latiendo frente a él
+											así que puede ver cómo late el corazón.
+											Él toma el lápiz, lo mueve hacia el corazón,
+											lo coloca sobre el corazón,
+											y luego siente los latidos del paciente vivo real.
+											Luego puede examinar cómo se mueve el corazón.
+											Puede entrar, presionar dentro del corazón
+											y sentir realmente cómo se mueven las válvulas.
+											Creo que este es el futuro de los cardiólogos.
+											Quiero decir, probablemente sea una fantasía para un cardiólogo
+											poder meterse en el corazón del paciente
+											antes de practicar la cirugía
+											y hacerlo con datos de resolución de alta calidad.
+											Así que es realmente algo genial.
+									","
+											Bu gerçekten çok güzel.
+											Daha da ileri gidecek olursak, bu kalp.
+											Gene bu yeni tarayıcılar sayesinde,
+											sadece 0.3 saniyede
+											tüm kalbi tarayabilirim.
+											Bunu zaman çözünürlüklü yapabilirim.
+											Böylece kalbe bakarken,
+											bu videoyu çalıştırabilirim.
+											Bu Karljohan, bu projede çalışan
+											doktora öğrencilerimden biri.
+											Burada, Haptic cihazının, bu güç geribildirimi cihazının önünde oturuyor,
+											elindeki kalemi kalbe yaklaştırıyor,
+											şu an kalp önünde atıyor,
+											böylelikle kalbin nasıl attığını görebiliyor.
+											Kalemi aline alıp kalbe doğru yaklaştırıyor,
+											kalbe dokunuyor,
+											ve yaşayan bir hastanın kalp atışlarını hissedebiliyor.
+											Böylece kalbin hareketlerini inceleyebilir.
+											Kalbin içine girip, içeriden dokunabilir,
+											ve kalp kapaklarının nasıl hareket ettiğini hissedebilir.
+											Bence bu, kalp cerrahlarının geleceği.
+											Büyük ihtimalle kalp cerrahlarının fantazilerini bu cihaz süslüyordur,
+											ameliyat yapmadan önce,
+											hastanın kalbinin içine girip bakmak,
+											hem de yüksek çözünürlüklü veri ile.
+											Gerçekten fantazi.
+									","
+											C'est vraiment bien.
+											Et pour aller encore plus loin, voilà un cœur.
+											C'est aussi grâce à ces nouveaux scanners extraordinaires,
+											avec lesquels, en seulement 0,3 secondes,
+											je peux scanner la totalité du cœur,
+											et je peux le faire avec une dimension temporelle.
+											Et donc, pour observer ce cœur,
+											je peux faire tourner une vidéo.
+											Voici Karljohan, l'un de mes étudiants de troisième cycle,
+											qui travaille sur ce projet.
+											Il est assis devant l'appareil haptique, le système de retour de force,
+											et il déplace le stylet vers le cœur,
+											et le cœur bat maintenant devant lui,
+											pour qu'il puisse voir comment il bat.
+											Il a pris le stylet, et il le déplace vers le cœur,
+											il le pose sur le cœur,
+											et il sent les battements de cœur du véritable patient en vie.
+											Il peut alors examiner les mouvements du cœur.
+											Il peut entrer à l'intérieur, pénétrer à l'intérieur du cœur,
+											et sentir vraiment comment les valves bougent.
+											Ceci, je crois, est vraiment l'avenir pour les chirurgiens cardiaques.
+											Je veux dire, c'est probablement le plus grand fantasme pour un chirurgien du cœur
+											que de pouvoir aller voir à l'intérieur du cœur du patient
+											avant de passer à l'acte chirurgical,
+											et de faire cela avec des données de qualité haute définition.
+											C'est vraiment super.
+									","
+											Dies ist also wirklich klasse.
+											Und um einen Schritt weiter zu gehen, haben wir hier ein Herz.
+											Und auch dies verdanken wir diesen fantastischen neuen Scannern,
+											dass wir in nur 0,3 Sekunden
+											das ganze Herz scannen können.
+											Ich kann das mit einer zeitlichen Auflösung machen.
+											Ich schaue nur auf das Herz
+											und kann ein ein Video abspielen.
+											Und dies ist Karl Johan, einer meiner Magisterstudenten,
+											der an diesem Projekt arbeitet.
+											Und er sitzt da vor dem haptischen Apparat, dem Kraft-Rückmelde-System
+											und er bewegt seinen Stift in Richtung Herz,
+											und das Herz schlägt direkt vor ihm.
+											so dass er sehen kann, wie das Herz schlägt.
+											Er hat den Stift genommen und er bewegt ihn in Richtung Herz
+											und er platziert ihn auf dem Herzen
+											und er kann den Herzschlag des lebenden Patienten fühlen.
+											Dann kann er untersuchen, wie das Herz sich bewegt.
+											Er kann reingehen und das Innere des Herzen drücken,
+											und er kann fühlen, wie die Herzklappen sich bewegen.
+											Dies, so glaube ich, ist die Zukunft für Herzchirurgen.
+											Ich glaube, das ist der feuchteTraum eines Herzchirurgen, dass er
+											ins Innere eines Herzens gelangt,
+											noch bevor es zur eigentlichen Operation kommt,
+											und das alles mit Daten höchster Auflösung.
+											Dass ist wirklich Klasse.
+									",Visualizing the medical data explosion,Anders Ynnerman,16:36,"TEDx,data,health,medicine,science,technology,visualizations,virtual reality"
+"
+","
+","
+","
+","
+",Visualizing the medical data explosion,Anders Ynnerman,16:36,"TEDx,data,health,medicine,science,technology,visualizations,virtual reality"
+"
+											Now we're going even further into science fiction.
+											And we heard a little bit about functional MRI.
+											Now this is really an interesting project.
+											MRI is using magnetic fields
+											and radio frequencies
+											to scan the brain, or any part of the body.
+											So what we're really getting out of this
+											is information of the structure of the brain,
+											but we can also measure the difference
+											in magnetic properties of blood that's oxygenated
+											and blood that's depleted of oxygen.
+											That means that it's possible
+											to map out the activity of the brain.
+											So this is something that we've been working on.
+											And you just saw Motts the research engineer, there,
+											going into the MRI system,
+											and he was wearing goggles.
+											So he could actually see things in the goggles.
+											So I could present things to him while he's in the scanner.
+											And this is a little bit freaky,
+											because what Motts is seeing is actually this.
+											He's seeing his own brain.
+											So Motts is doing something here,
+											and probably he is going like this with his right hand,
+											because the left side is activated
+											on the motor cortex.
+											And then he can see that at the same time.
+											These visualizations are brand new.
+											And this is something that we've been researching for a little while.
+									","
+											Ahora vamos aún más lejos en la ciencia ficción.
+											Hemos oído hablar de la resonancia magnética funcional.
+											Este es un proyecto realmente interesante.
+											La resonancia usa campos magnéticos
+											y frecuencias de radio
+											para escanear el cerebro, o cualquier parte del cuerpo.
+											Lo que obtenemos de esto
+											es información sobre la estructura del cerebro
+											pero también podemos medir la diferencia
+											entre las propiedades magnéticas de la sangre oxigenada
+											y las de la sangre con poco oxígeno.
+											Eso significa que es posible
+											trazar un mapa de la actividad cerebral.
+											Es algo en lo que hemos estado trabajando.
+											Acaban de ver allí a Motts, el ingeniero de investigación,
+											entrando al sistema de resonancia magnética
+											y llevaba gafas.
+											Podía ver con las gafas.
+											Así que le pude mostrar cosas mientras estaba en el aparato.
+											Y esto es un poco raro
+											porque allí Motts está viendo
+											su propio cerebro.
+											Motts está haciendo algo,
+											probablemente está haciendo así con la mano derecha,
+											porque se activó el lado izquierdo
+											en la corteza motora.
+											Y al mismo tiempo puede verlo.
+											Estas visualizaciones son completamente nuevas.
+											Es algo que hemos estado investigando durante mucho tiempo.
+									","
+											Şimdi bilim kurgu alanına biraz daha girelim.
+											Daha önce işlevsel MRI ile ilgili birşeyler duymuştuk.
+											Şimdi bu gerçekten ilginç bir proje.
+											MRI, beyni ya da vücudun herhangi bir yerini
+											görüntüleyebilmek için
+											radyo dalgaları ya da manyetik alanlar kullanıyor.
+											Burada bizim esas elde ettiğimiz şey
+											beynin yapısına ait bilgi elde etmek.
+											Fakat, aynı zamanda oksijen bakımından zengin kan ile
+											oksijeni az olan kan arasındaki
+											manyetik özellikler farkını da ölçebiliriz.
+											Bu demek oluyor ki, beyin
+											faaliyetlerinin haritasını çıkarabiliriz.
+											Şu anda üzerinde çalıştığımız şey bu.
+											Burada gördüğünüz Motts, bizim araştırma mühendisimiz
+											MRI cihazına giriyor.
+											Gözünde gözlükler var.
+											Bu gözlüklerle, tarayıcı içindeyken görebilir,
+											ben de ona tarayıcıdayken birşeyler gösterebilirim.
+											Bu biraz ürkütücü,
+											çünkü Motts aslında bunu görüyor.
+											Kendi beynini.
+											Motts burada birşeyler yapıyor.
+											Muhtemelen sağ eliyle böyle yapıyor,
+											çünkü sol taraf
+											motor korteks tarafından aktif durumda.
+											Aynı zamanda bunu da görebiliyor.
+											Bu görseller çok yeni.
+											Son zamanlarda araştırdığımız şeylerden biri de bu.
+									","
+											Maintenant nous allons encore un peu plus loin dans la science-fiction.
+											Nous avons un peu entendu parler de l'IRM fonctionnelle.
+											Voilà un projet vraiment intéressant.
+											L'IRM utilise des champs magnétiques
+											et des fréquences radio
+											pour scanner le cerveau, ou n'importe quelle partie du corps.
+											Ce que l'on obtient en réalité
+											ce sont des informations sur la structure du cerveau,
+											mais on peut aussi mesurer la différence de propriétés magnétiques
+											entre le sang qui est oxygéné
+											et le sang qui s'est appauvri en oxygène.
+											Cela signifie qu'il est possible
+											d'établir une carte de l'activité du cerveau.
+											C'est quelque chose sur quoi nous travaillons.
+											Vous venez juste de voir Motts, notre ingénieur d'étude,
+											entrer dans la machine d'IRM,
+											et il portait des lunettes.
+											Pour qu'il puisse voir des choses dans les lunettes, en fait.
+											Pour que je puisse lui montrer des choses pendant qu'il est dans le scanner.
+											Et c'est un peu bizarre,
+											parce que ce que Motts voit, c'est en fait ceci.
+											Il voit son propre cerveau.
+											Motts fait quelque chose, là.
+											Il fait probablement comme ça avec sa main droite,
+											parce que le côté gauche du cortex de la motricité
+											est actif.
+											Et il peut voir ceci en même temps.
+											Ces représentations sont toutes nouvelles.
+											C'est quelque chose sur quoi nous menons des recherches depuis un certain temps.
+									","
+											Jetzt gehen wir weiter in den Science-Fiction-Bereich.
+											Wir wissen also ein klein wenig über funktionierende Magnetresonanztomografie.
+											Das ist jetzt ein wirklich interessantes Projekt.
+											Magnetresonanztomografie benutzt Magnetfelder
+											und Radiowellen,
+											um das Gehirn oder irgendeinen Teil des Körper zu scannen.
+											Was wir wirklich dabei herausbekommen,
+											sind Informationen über den Aufbau des Gehirns,
+											aber wir können auch den Unterschied messen
+											von Blut, das sauerstoffangereichert ist,
+											und Blut, das nicht sauerstoffangereichert ist.
+											Das bedeutet, dass es möglich ist,
+											eine Landkarte der Gehirnaktivitäten zu entwerfen.
+											Das ist also etwas, woran wir an gearbeitet haben.
+											Und Sie haben gerade gesehen, wie Motts, der Forschungsingenieur,
+											in den MRT gegangen ist und dabei
+											eine Brille trug.
+											Also er kann mit dieser Brille richtig sehen.
+											Ich kann ihm Sachen zeigen, während er im Scanner ist.
+											Und das ist ein bisschen abgefahren,
+											weil das, was Motts sieht, das hier ist:
+											Er sieht sein eigenes Gehirn.
+											Motts macht da also etwas im MRT.
+											Wahrscheinlich macht er so mit seiner rechten Hand,
+											weil die linke Hälfte des
+											motorischen Kortex aktiv ist.
+											Und er kann das gleichzeitig sehen.
+											Diese Veranschaulichungen sind brandneu.
+											Und das ist etwas, woran wir schon seit einer Weile forschen.
+									",Visualizing the medical data explosion,Anders Ynnerman,16:36,"TEDx,data,health,medicine,science,technology,visualizations,virtual reality"
+"
+","
+","
+","
+","
+",Visualizing the medical data explosion,Anders Ynnerman,16:36,"TEDx,data,health,medicine,science,technology,visualizations,virtual reality"
+"
+											This is another sequence of Motts' brain.
+											And here we asked Motts to calculate backwards from 100.
+											So he's going ""100, 97, 94.""
+											And then he's going backwards.
+											And you can see how the little math processor is working up here in his brain
+											and is lighting up the whole brain.
+											Well this is fantastic. We can do this in real time.
+											We can investigate things. We can tell him to do things.
+											You can also see that his visual cortex
+											is activated in the back of the head,
+											because that's where he's seeing, he's seeing his own brain.
+											And he's also hearing our instructions
+											when we tell him to do things.
+											The signal is really deep inside of the brain as well,
+											and it's shining through,
+											because all of the data is inside this volume.
+											And in just a second here you will see —
+											okay, here. Motts, now move your left foot.
+											So he's going like this.
+											For 20 seconds he's going like that,
+											and all of a sudden it lights up up here.
+											So we've got motor cortex activation up there.
+											So this is really, really nice,
+											and I think this is a great tool.
+											And connecting also with the previous talk here,
+											this is something that we could use as a tool
+											to really understand
+											how the neurons are working, how the brain is working,
+											and we can do this with very, very high visual quality
+											and very fast resolution.
+									","
+											Esta es otra secuencia del cerebro de Motts.
+											Aquí le pedimos que cuente desde 100 hacia atrás.
+											Así que empezó ""100, 97, 94""
+											y luego va hacia atrás.
+											Pueden ver cómo trabaja el pequeño procesador matemático aquí arriba en su cerebro
+											e ilumina todo el cerebro.
+											Bueno, esto es fantástico. Podemos hacerlo en tiempo real.
+											Podemos investigar cosas. Podemos pedirle hacer cosas.
+											Pueden ver también que su corteza visual
+											está activa en la parte posterior de la cabeza,
+											porque es ahí donde está viendo, viendo su propio cerebro.
+											Y también está escuchando nuestras instrucciones
+											cuando le pedimos que haga cosas.
+											La señal también es muy profunda dentro del cerebro
+											pero brilla todo
+											porque todos los datos están dentro de este volumen.
+											Y en un segundo van a ver...
+											Motts, ahora mueve el pie izquierdo.
+											Él hace así.
+											Durante 20 segundos está haciendo así
+											y de pronto se ilumina aquí arriba.
+											Se produce una activación de la corteza motora allí arriba.
+											Es genial.
+											Creo que es una gran herramienta.
+											Y relacionándolo con la charla previa
+											esto es algo que podríamos usar como herramienta
+											para entender realmente
+											el funcionamiento de las neuronas y del cerebro
+											y podemos hacerlo con una calidad visual muy alta
+											y con una resolución muy rápida.
+									","
+											Bu gördüğünüz Motts'un beyninin bir başka aktivitesi.
+											Burada Motts'dan 100'den başlayarak geriye saymasını istedik.
+											""100, 97, 94...."" diye sayıyor.
+											Geriye doğru sayarken,
+											beynin şurasındaki ufak matematik işlemcisinin çalıştığını ve
+											bütün beyni aydınlattığını görebilirsiniz.
+											Muhteşem bir şey. Gerçek zamanlı olarak yapabiliriz bunu.
+											Bazı şeyleri araştırabilir. Ona birşeyler yapmasını söyleyebiliriz.
+											Aynız amanda kafasının arka kısmındaki
+											görme alanının da aktif hale geldiğini görüyorsunuz,
+											çünkü baktığı şey bu, kendi beynine bakıyor.
+											Aynı zamanda biz ona birşeyler yapmasını söylediğimizde
+											bizim komutlarımızı da duyuyor.
+											Bu sinyal beynin epey derinlerinde olmasına rağmen,
+											ışıltısı görülebiliyor,
+											bunun nedeni buradaki yüksek veri miktarı.
+											Biraz sonra şunu göreceksiniz —
+											Tamam, burada. Motts sol ayağını oynatıyor.
+											Böyle yapıyor.
+											20 saniye boyunca böyle yapıyor,
+											birden yukarılarda bir yer ışıldamaya başlıyor.
+											Burada aktive olan yer motor korteks.
+											Bu gerçekten çok ama çok hoş.
+											ve bence müthiş bir cihaz.
+											Bir önceki konuşmaya bir bağlantı yapacak olursam,
+											bu sinir hücrelerinin, beynin nasıl çalıştığını
+											gerçekten de
+											anlamamıza yarayacak bir cihaz.
+											Ve bunu çok ama çok iyi bir çözünürlükle ve
+											görüntü kalitesiyle yapabiliriz.
+									","
+											Voici une autre séquence du cerveau de Motts.
+											Ici, nous avons demandé à Motts de compter à rebours à partir de 100.
+											Il fait : "" 100, 97, 94...""
+											Il le fait à l'envers.
+											Et vous pouvez voir comment le petit processeur mathématique travaille dans son cerveau,
+											et illumine tout le cerveau.
+											Eh bien, c'est extraordinaire. On peut faire ça en temps réel.
+											On peut étudier des tas de choses. On peut lui demander de faire des trucs.
+											Vous pouvez aussi voir que son cortex visuel
+											est actif, à l'arrière de sa tête,
+											parce que c'est là qu'il voit, il voit son propre cerveau.
+											Et il entend également nos instructions
+											quand nous lui disons de faire quelque chose.
+											De plus, le signal est vraiment profond à l'intérieur du cerveau,
+											mais il brille au travers,
+											parce qu'il y a toutes les données à l'intérieur de ce volume.
+											Dans juste un instant vous allez voir —
+											Bien, là, Motts, maintenant bouge ton pied gauche.
+											Il fait comme ça.
+											Pendant 20 secondes, il fait comme ça,
+											et tout à coup, ça s'illumine là-haut.
+											Nous avons le cortex moteur qui s'active là-haut.
+											C'est vraiment, vraiment bien.
+											Je pense que c'est un outil formidable.
+											Et en rapport avec la conférence qui m'a précédé ici,
+											c'est quelque chose que nous pourrions utiliser comme outil
+											pour comprendre vraiment
+											comment marchent les neurones, comment marche le cerveau,
+											et nous pouvons le faire avec de la très, très bonne qualité visuelle
+											et une résolution très rapide.
+									","
+											Dies ist noch eine Sequenz von Motts Gehirn.
+											Hier baten wir ihn, von 100 rückwärts zu zählen.
+											Also zählt er: 100, 97, 94.
+											Er zählt rückwärts.
+											Und Sie können sehen, wie der kleine Mathematikprozessor hier in seinem Gehirn arbeitet
+											und das ganze Gehirn erhellt.
+											Das ist fantastisch. Wir können das in Echtzeit machen.
+											Wir können Sachen untersuchen. Wir können ihm befehlen, Dinge zu tun.
+											Wir können auch sehen, dass sein visueller Kortex
+											am Hinterkopf aktiv ist,
+											denn dort sieht er, er sieht sein eigenes Gehirn.
+											Er hört unsere Befehle auch,
+											wenn wir ihm etwas befehlen.
+											Das Signal sitzt sehr tief im Inneren des Gehirns,
+											aber es leuchtet bis an die Oberfläche,
+											weil alle Informationen sich im Innern dieses Bereichs befinden.
+											Und in nur einer Sekunde hier können Sie sehen –
+											Okay, hier. Motts, bewege deinen linken Fuß.
+											Also tut er es.
+											20 Sekunden lang macht er so.
+											Dann plötzlich leuchtet es hier.
+											Wir haben hier also eine Aktivierung des motorischen Kortex.
+											Das ist also wirklich, wirklich nett.
+											Und ich glaube, dass dies ein fantastisches Werkzeug ist.
+											Um hier an den vorhergehenden Vortrag anzuknüpfen,
+											dies ist etwas, das uns helfen kann,
+											wirklich zu verstehen,
+											wie Neuronen funktionieren, wie das Gehirn funktioniert.
+											Wir können das mit sehr, sehr hoher visueller Qualität
+											und sehr hoher Auflösung erreichen.
+									",Visualizing the medical data explosion,Anders Ynnerman,16:36,"TEDx,data,health,medicine,science,technology,visualizations,virtual reality"
+"
+","
+","
+","
+","
+",Visualizing the medical data explosion,Anders Ynnerman,16:36,"TEDx,data,health,medicine,science,technology,visualizations,virtual reality"
+"
+											Now we're also having a bit of fun at the center.
+											So this is a CAT scan — Computer Aided Tomography.
+											So this is a lion from the local zoo
+											outside of Norrkoping in Kolmarden, Elsa.
+											So she came to the center,
+											and they sedated her
+											and then put her straight into the scanner.
+											And then, of course, I get the whole data set from the lion.
+											And I can do very nice images like this.
+											I can peel off the layer of the lion.
+											I can look inside of it.
+											And we've been experimenting with this.
+											And I think this is a great application
+											for the future of this technology,
+											because there's very little known about the animal anatomy.
+											What's known out there for veterinarians is kind of basic information.
+											We can scan all sorts of things,
+											all sorts of animals.
+											The only problem is to fit it into the machine.
+											So here's a bear.
+											It was kind of hard to get it in.
+											And the bear is a cuddly, friendly animal.
+											And here it is. Here is the nose of the bear.
+											And you might want to cuddle this one,
+											until you change the functions and look at this.
+											So be aware of the bear.
+									","
+											En el centro también nos divertimos un poco.
+											Esta es una TAC, tomografía asistida por computadora.
+											Esta es una leona del zoológico local
+											de las afueras de Norrköping en Kolmarden, Elsa.
+											Elsa vino al centro
+											y la sedaron
+											para meterla en el escáner.
+											Luego, claro, obtuve todo el conjunto de datos de la leona.
+											Y puedo hacer imágenes muy lindas como esta.
+											Puedo quitar las capas de la leona.
+											Puedo ver dentro de ella.
+											Hemos estado experimentando con esto.
+											Creo que es una gran aplicación
+											para el futuro de esta tecnología.
+											Porque se sabe muy poco de la anatomía animal.
+											Lo que conocen los veterinarios es información muy elemental.
+											Nosotros podemos escanear todo tipo de cosas,
+											todo tipo de animales.
+											El único problema es meterlos en la máquina.
+											Aquí hay un oso.
+											Es un poco complicado meterlo allí.
+											El oso es un animal tierno y amistoso.
+											Y aquí está. He aquí el hocico del oso.
+											Es posible que quisieran abrazarlo
+											hasta que yo cambie la función y vean esto.
+											Así que tengan cuidado con el oso.
+									","
+											Bizim merkezimizde arada eğlendiğimiz zamanlar da oluyor.
+											Bu bir Bilgisayar Destekli Tomografi ( CAT scan).
+											Bu yerel hayvanat bahçesinden bir aslan,
+											Norrkoping'in heme dışından, Elsa, Kolmarden'den.
+											Bizim merkezimize geldi,
+											onu uyuşturdular ve
+											hemen tarayıcının içine koydular.
+											Elbette, bu aslana ait tüm veri setini ben de edindim.
+											Ve bu verilerle çok hoş görüntüler elde edebilirim.
+											Aslanın üzerinden bir tabaka sıyırabilirim.
+											Onun içine bakabilirim.
+											Bununla epey bir deney yaptık.
+											Bence, bu cihaz, bu teknolojinin
+											geleceği için çok önemli.
+											Çünkü, hayvan anatomisi hakkında çok az şey biliniyor.
+											Veterinerler, çok basit ve temel şeyleri biliyorlar.
+											Her şeyi tarayıcıya sokabiliriz,
+											her tür hayvanı.
+											Tek sorun makineye sığıdarabilmek.
+											Burada bir ayı var.
+											Makineye sokmak biraz zor oldu.
+											Ayı sevecen, yumoş bir hayvan değil mi?
+											İşte burada. Ayının burnunu görüyorsunuz.
+											Ama fonksiyonları değiştirip de öyle bakarsanız
+											onu artık pek yumoş bulmayabilirsiniz.
+											Ayılara dikkat edin.
+									","
+											Il nous arrive aussi de nous amuser au Centre.
+											Ceci est un CAT scan — Computer Aided Tomography.
+											C'est Elsa, une lionne du zoo de notre région,
+											près de Norrkoping, dans la forêt de Kolmarden.
+											Elle est arrivée au Centre,
+											et ils l'ont endormie,
+											et passée directement dans le scanner.
+											Ensuite, bien sûr, j'obtiens tout l'ensemble des données de la lionne.
+											Et je peux faire de très jolies images comme celle-ci.
+											Je peux enlever des couches de la lionne.
+											Je peux observer l'intérieur.
+											Nous avons testé cela.
+											Et je pense que c'est une application formidable
+											pour l'avenir de cette technologie.
+											Parce qu'on en sait très peu sur l'anatomie animale.
+											Le seul savoir disponible pour les vétérinaires est très basique, en somme.
+											Nous pouvons scanner toutes sortes de choses,
+											toutes sortes d'animaux.
+											Le seul problème est de les faire entrer dans la machine.
+											Voici un ours.
+											Ça a été un peu dur de le faire rentrer.
+											L'ours est un animal affectueux, amical.
+											Le voilà. Voilà le nez de l'ours.
+											Vous pourriez avoir envie de câliner celui-ci,
+											jusqu'à ce que vous changiez les réglages et que vous voyiez ceci.
+											Alors, attention aux ours.
+									","
+											Wir haben aber auch ein bisschen Spaß am Institut.
+											Dies ist also ein CAT-Scan – »Computertomografie«.
+											Dies ist eine Löwin aus dem Zoo hier
+											außerhalb von Norrköping in Kolmarden, Elsa.
+											Sie kam also zu uns ans Institut
+											und wurde betäubt und
+											dann kam sie sofort in den Scanner.
+											Und dann, natürlich, bekomme ich den gesamten Datensatz der Löwin.
+											Und ich kann sehr schöne Aufnahmen wie diese hier machen.
+											Ich kann die Haut der Löwin ablösen.
+											Ich kann in ihr Innerstes sehen.
+											Und damit experimentieren wir seit einiger Zeit.
+											Und ich glaube, dies eine der ganz großen zukünftigen Anwendungen
+											dieser Technologie.
+											Wir wissen noch sehr wenig über die Anatomie von Tieren ...
+											Tierärzten steht eine Art Basisinformationen zur Verfügung.
+											Wir können alles Mögliche scannen,
+											alle Arten von Tieren.
+											Das einzige Problem ist, wie wir sie in die Maschine bekommen.
+											Hier ist also ein Bär.
+											Es war schwer, ihn hinein zu bekommen.
+											Und ein Bär ist ein kuscheliges, freundliches Tier.
+											Und hier ist sie. Hier ist die Nase des Bären.
+											Und Sie wollen ihn vielleicht streicheln,
+											bis Sie die Einstellungen ändern und das hier sehen.
+											Also: Achtung vor dem Bären.
+									",Visualizing the medical data explosion,Anders Ynnerman,16:36,"TEDx,data,health,medicine,science,technology,visualizations,virtual reality"
+"
+","
+","
+","
+","
+",Visualizing the medical data explosion,Anders Ynnerman,16:36,"TEDx,data,health,medicine,science,technology,visualizations,virtual reality"
+"
+											So with that,
+											I'd like to thank all the people
+											who have helped me to generate these images.
+											It's a huge effort that goes into doing this,
+											gathering the data and developing the algorithms,
+											writing all the software.
+											So, some very talented people.
+											My motto is always, I only hire people that are smarter than I am
+											and most of these are smarter than I am.
+									","
+											Para terminar
+											quisiera agradecer a todas las personas
+											que me han ayudado a generar estas imágenes.
+											Esto ha demandado un gran esfuerzo,
+											recopilar los datos y desarrollar los algoritmos,
+											codificar todo el software.
+											Son personas con mucho talento.
+											Mi lema es que siempre contrato personas más inteligentes que yo
+											y la mayoría de ellos son más inteligente que yo.
+									","
+											Bu noktada,
+											bu görüntüleri oluşturmama yardımcı olan
+											herkese çok teşekkür etmek istiyorum.
+											Bunu yapmak çok büyük bir emek gerektirdi,
+											verileri toplamak, algoritmaları geliştirmek,
+											bütün bu yazılımı yapmak.
+											Hepsi çok yetenekli insanlar.
+											Benim prensibim her zaman, benden daha zeki insanları işe almak olmuştur
+											ve bu kişilerin çoğu benden çok daha zeki.
+									","
+											Pour finir,
+											je voudrais remercier toutes les personnes
+											qui m'ont aidé à produire ces images.
+											C'est un énorme travail que de réussir cela,
+											rassembler les données, développer les algorithmes,
+											écrire tous les programmes.
+											Ces personnes ont énormément de talent.
+											Ma devise est toujours : "" N'embauche que des gens plus intelligents que toi"",
+											et la plupart d'entre eux sont plus intelligents que moi.
+									","
+											Hiermit
+											möchte ich gerne allen Menschen danken,
+											die mir geholfen haben, diese Aufnahmen zu machen.
+											Es hat eines ungeheuren Aufwands bedurft,
+											alle Daten zusammeln und die Algorithmen zu entwickeln,
+											die Software zu schreiben.
+											Also, sehr begabte Menschen.
+											Mein Motto ist: Ich stelle nur Leute ein, die klüger sind als ich.
+											Und die meisten von ihnen sind klüger als ich.
+									",Visualizing the medical data explosion,Anders Ynnerman,16:36,"TEDx,data,health,medicine,science,technology,visualizations,virtual reality"
+"
+","
+","
+","
+","
+",Visualizing the medical data explosion,Anders Ynnerman,16:36,"TEDx,data,health,medicine,science,technology,visualizations,virtual reality"
+"
+											So thank you very much.
+									","
+											Así que muchas gracias.
+									","
+											Hepinize çok teşekkür ederim.
+									","
+											Merci beaucoup.
+									","
+											Also, vielen Dank.
+									",Visualizing the medical data explosion,Anders Ynnerman,16:36,"TEDx,data,health,medicine,science,technology,visualizations,virtual reality"
+"
+","
+","
+","
+","
+",Visualizing the medical data explosion,Anders Ynnerman,16:36,"TEDx,data,health,medicine,science,technology,visualizations,virtual reality"
+"
+											(Applause)
+									","
+											(Aplausos)
+									","
+											(Alkışlar)
+									","
+											(Applaudissements)
+									","
+											(Applaus)
+									",Visualizing the medical data explosion,Anders Ynnerman,16:36,"TEDx,data,health,medicine,science,technology,visualizations,virtual reality"
+"
+","
+","
+","
+","
+",Visualizing the medical data explosion,Anders Ynnerman,16:36,"TEDx,data,health,medicine,science,technology,visualizations,virtual reality"

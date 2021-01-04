@@ -1,0 +1,673 @@
+fr,en,es,pt,title,speaker,duration,tags
+"
+","
+","
+","
+",Big Data,Tim Smith,5:50,"animation,data,TED-Ed,education,physics,global issues,Internet"
+"
+											Le « Big Data » - les données massives - 
+est une notion insaisissable,
+											qui représente une quantité 
+d'informations numériques,
+											très difficile à stocker,
+											de transporter,
+											ou d'analyser.
+											Le Big Data est si volumineux
+											qu'il submerge les technologies d'aujourd'hui
+											et nous pousse à créer la prochaine génération
+											d'outils et de techniques de stockage de données.
+											Le Big Data n'est pas nouveau.
+											En effet, les physiciens du CERN bataillent
+											avec le problème de leurs données massives 
+en constante expansion depuis des décennies.
+											Il y a cinquante ans, les données du CERN 
+pouvaient être stockées
+											dans un seul ordinateur.
+											Certes, ce n'était pas un ordinateur habituel,
+											il s'agissait d'un ordinateur central
+											qui remplissait un bâtiment entier.
+											Pour analyser les données,
+											les physiciens du monde entier 
+se rendaient au CERN
+											pour se connecter à l'énorme machine.
+											Dans les années 1970, 
+nos données massives en croissance constante
+											ont été réparties à travers 
+différents ensembles d'ordinateurs,
+											qui se sont multipliés au CERN.
+											Chaque ensemble était relié
+											dans les réseaux dédiés, faits sur place.
+											Mais les physiciens collaboraient 
+sans tenir compte
+											des frontières entre les ensembles,
+											et avaient donc besoin d'accéder
+aux données sur tous les ensembles.
+											Alors, nous avons connecté 
+les réseaux indépendants ensemble
+											dans notre propre CERNET.
+											Dans les années 1980, 
+des îles de réseaux similaires
+											parlant des dialectes différents
+											ont surgi dans toute l'Europe et les États-Unis,
+											rendant l'accès distant possible mais tortueux.
+											Pour faciliter à nos physiciens 
+du monde entier
+											l'accès aux données massives 
+sans cesse croissantes
+											stockées au CERN sans se déplacer,
+											les réseaux devaient parler
+											la même langue.
+											Nous avons adopté la norme de travail 
+d'Internet naissante des États-Unis,
+											suivis par le reste de l'Europe,
+											et nous avons établi 
+le lien principal du CERN
+											entre l'Europe et les États-Unis en 1989,
+											et le véritable internet mondial a décollé !
+											Les physiciens pouvaient alors 
+facilement accéder
+											aux téraoctets de données massives
+											à distance de partout dans le monde,
+											générer des résultats,
+											et écrire des publications
+dans leurs établissements d'accueil.
+											Puis, ils ont voulu partager leurs découvertes
+											avec tous leurs collègues.
+											Pour faciliter ce partage de l'information
+											nous avons créé le web 
+au début des années 1990.
+											Les physiciens n'avaient plus besoin de savoir
+											où l'information était stockée
+											pour la trouver et y accéder sur le web,
+											une idée qui a pris à travers le monde
+											et a transformé la façon 
+dont nous communiquons
+											dans notre vie quotidienne.
+											Dans le début des années 2000,
+											la croissance continue 
+de nos données massives
+											a dépassé notre capacité 
+à l'analyser au CERN,
+											malgré les bâtiments pleins d'ordinateurs.
+											Nous avons dû commencer 
+à distribuer les pétaoctets de données
+											à nos partenaires
+											afin d'employer l'informatique 
+et le stockage locaux
+											dans des centaines d'instituts différents.
+											Pour orchestrer ces ressources interconnectées
+											avec leurs diverses technologies,
+											nous avons élaboré une grille de calcul,
+											permettant le partage sans soudure
+											des ressources informatiques 
+partout dans le monde.
+											Elle repose sur des relations de confiance 
+et d'échange mutuel.
+											Mais ce modèle de grille 
+n'a pas pu être transféré
+											hors de notre communauté si facilement,
+											où tout le monde ne dispose pas 
+de ressources à partager
+											ni d'entreprises dont on puisse attendre
+											qu'elles aient le même niveau de confiance.
+											Au lieu de cela, une approche alternative, 
+plus proche du fonctionnement des affaires,
+											pour accéder à des ressources à la demande
+											s'est généralisé récemment,
+											c'est ce qu'on appelle le « cloud computing »,
+											que les autres communautés 
+exploitent désormais
+											pour l'analyse de leurs données massives.
+											Il peut sembler paradoxal 
+pour un endroit comme le CERN,
+											qu'un laboratoire centré sur l'étude
+											des éléments constitutifs de la matière,
+incroyablement petits,
+											soit à l'origine de quelque chose d'aussi gros 
+que des données massives.
+											Mais la façon dont nous étudions
+les particules fondamentales,
+											ainsi que les forces par lesquelles
+elles interagissent,
+											consiste à les créer fugitivement,
+											en créant des collisions de protons 
+dans nos accélérateurs
+											et en capturant leur trace
+											quand ils partent
+à une vitesse proche de la lumière.
+											Pour voir ces traces,
+											notre détecteur, avec 150 millions de capteurs,
+											agit comme une caméra 3D vraiment massive,
+											qui prend une photo de chaque collision -
+											c'est jusqu'à 14 millions de fois par seconde.
+											Ça fait beaucoup de données.
+											Mais si les données massives existent
+depuis si longtemps,
+											pourquoi soudain en entend-on parler 
+tout le temps maintenant ?
+											Eh bien, comme l'explique 
+la métaphore ancienne,
+											le tout est plus grand 
+que la somme de ses parties,
+											et ce n'est donc plus seulement la
+science qui les exploite.
+											Le fait que nous pouvons tirer 
+plus de connaissances
+											en réunissant les informations connexes
+											et en repérant des corrélations
+											peut informer et enrichir les nombreux aspects 
+de la vie quotidienne
+											soit en temps réel,
+											comme le trafic ou les conditions financières,
+											dans les évolutions à court terme,
+											telles que situations médicales
+ou météorologique,
+											ou dans des situations prédictives,
+											comme les tendances en affaires, 
+le crime ou les maladies.
+											Pratiquement tous les domaines 
+se tournent vers la collecte de données massives,
+											avec les réseaux de capteurs mobiles couvrant le globe,
+											les caméras sur le terrain et dans les airs,
+											les archives qui stockent
+les informations publiées sur le web,
+											et les enregistreurs qui capturent les activités
+											des citoyens de l'Internet partout dans le monde.
+											Le défi consiste à inventer 
+de nouveaux outils et techniques
+											pour exploiter ces vastes stockages,
+											d'informer le processus décisionnel,
+											pour améliorer le diagnostic médical,
+											et sinon pour répondre aux besoins et désirs
+											de la société de demain 
+de façons qui sont inimaginables aujourd'hui.
+									","
+											Big data is an elusive concept.
+											It represents an amount of digital information,
+											which is uncomfortable to store,
+											transport,
+											or analyze.
+											Big data is so voluminous
+											that it overwhelms the technologies of the day
+											and challenges us to create the next generation
+											of data storage tools and techniques.
+											So, big data isn't new.
+											In fact, physicists at CERN have been rangling
+											with the challenge of their ever-expanding big data for decades.
+											Fifty years ago, CERN's data could be stored
+											in a single computer.
+											OK, so it wasn't your usual computer,
+											this was a mainframe computer
+											that filled an entire building.
+											To analyze the data,
+											physicists from around the world traveled to CERN
+											to connect to the enormous machine.
+											In the 1970's, our ever-growing big data
+											was distributed across different sets of computers,
+											which mushroomed at CERN.
+											Each set was joined together
+											in dedicated, homegrown networks.
+											But physicists collaborated without regard
+											for the boundaries between sets,
+											hence needed to access data on all of these.
+											So, we bridged the independent networks together
+											in our own CERNET.
+											In the 1980's, islands of similar networks
+											speaking different dialects
+											sprung up all over Europe and the States,
+											making remote access possible but torturous.
+											To make it easy for our physicists across the world
+											to access the ever-expanding big data
+											stored at CERN without traveling,
+											the networks needed to be talking
+											with the same language.
+											We adopted the fledgling internet working standard from the States,
+											followed by the rest of Europe,
+											and we established the principal link at CERN
+											between Europe and the States in 1989,
+											and the truly global internet took off!
+											Physicists could easily then access
+											the terabytes of big data
+											remotely from around the world,
+											generate results,
+											and write papers in their home institutes.
+											Then, they wanted to share their findings
+											with all their colleagues.
+											To make this information sharing easy,
+											we created the web in the early 1990's.
+											Physicists no longer needed to know
+											where the information was stored
+											in order to find it and access it on the web,
+											an idea which caught on across the world
+											and has transformed the way we communicate
+											in our daily lives.
+											During the early 2000's,
+											the continued growth of our big data
+											outstripped our capability to analyze it at CERN,
+											despite having buildings full of computers.
+											We had to start distributing the petabytes of data
+											to our collaborating partners
+											in order to employ local computing and storage
+											at hundreds of different institutes.
+											In order to orchestrate these interconnected resources
+											with their diverse technologies,
+											we developed a computing grid,
+											enabling the seamless sharing
+											of computing resources around the globe.
+											This relies on trust relationships and mutual exchange.
+											But this grid model could not be transferred
+											out of our community so easily,
+											where not everyone has resources to share
+											nor could companies be expected
+											to have the same level of trust.
+											Instead, an alternative, more business-like approach
+											for accessing on-demand resources
+											has been flourishing recently,
+											called cloud computing,
+											which other communities are now exploiting
+											to analyzing their big data.
+											It might seem paradoxical for a place like CERN,
+											a lab focused on the study
+											of the unimaginably small building blocks of matter,
+											to be the source of something as big as big data.
+											But the way we study the fundamental particles,
+											as well as the forces by which they interact,
+											involves creating them fleetingly,
+											colliding protons in our accelerators
+											and capturing a trace of them
+											as they zoom off near light speed.
+											To see those traces,
+											our detector, with 150 million sensors,
+											acts like a really massive 3-D camera,
+											taking a picture of each collision event -
+											that's up to 14 millions times per second.
+											That makes a lot of data.
+											But if big data has been around for so long,
+											why do we suddenly keep hearing about it now?
+											Well, as the old metaphor explains,
+											the whole is greater than the sum of its parts,
+											and this is no longer just science that is exploiting this.
+											The fact that we can derive more knowledge
+											by joining related information together
+											and spotting correlations
+											can inform and enrich numerous aspects of everyday life,
+											either in real time,
+											such as traffic or financial conditions,
+											in short-term evolutions,
+											such as medical or meteorological,
+											or in predictive situations,
+											such as business, crime, or disease trends.
+											Virtually every field is turning to gathering big data,
+											with mobile sensor networks spanning the globe,
+											cameras on the ground and in the air,
+											archives storing information published on the web,
+											and loggers capturing the activities
+											of Internet citizens the world over.
+											The challenge is on to invent new tools and techniques
+											to mine these vast stores,
+											to inform decision making,
+											to improve medical diagnosis,
+											and otherwise to answer needs and desires
+											of tomorrow's society in ways that are unimagined today.
+									","
+											""Big data"" es un concepto esquivo.
+											Denota a una cantidad de información digital
+											incómoda de almacenar,
+											transportar
+											o analizar.
+											Son cantidades tan cuantiosas
+											que sobrepasan a las tecnologías actuales
+											y nos desafían a crear la próxima generación
+											de herramientas y técnicas
+de almacenamiento de datos.
+											""Big data"" no es una idea nueva.
+											De hecho, los físicos del CERN
+han estado riñendo
+											con el desafío de esta expansión
+creciente de datos durante décadas.
+											Hace 50 años, los datos
+del CERN podían almacenarse
+											en una sola computadora.
+											Claro, no era la computadora común,
+											sino una computadora central
+											que ocupaba todo un edificio.
+											Para analizar los datos,
+											físicos de todo el mundo viajaban al CERN
+											para conectarse a la enorme máquina.
+											En los años 70, los datos
+cada vez más voluminosos
+											se distribuían en diferentes
+grupos de computadoras,
+											que proliferaron en el CERN.
+											Cada grupo se reunía
+											en redes caseras, dedicadas.
+											Pero los físicos colaboraban
+sin tener en cuenta
+											los límites existentes entre los grupos
+											ya que necesitaban acceder 
+a todos los datos.
+											Por eso se tendieron puentes
+entre las redes independientes
+											de la propia CERNET.
+											En los años 80 otras redes aisladas similares
+											con diferentes dialectos
+											surgieron en toda Europa y EE.UU.,
+											y eso permitió el acceso remoto,
+pero era tortuoso.
+											Para facilitar el acceso
+de los físicos de todo el mundo
+											a los volúmenes de datos siempre crecientes
+											almacenados en el CERN,
+sin tener que viajar,
+											las redes tenían que hablar
+											el mismo idioma.
+											Adoptamos la incipiente norma
+de trabajo en Internet de EE.UU.,
+											seguidos por el resto de Europa,
+											y establecimos el enlace principal en el CERN
+											entre Europa y EE.UU. en 1989,
+											¡y la red Internet comenzó 
+a hacerse realmente global!
+											Los físicos podían acceder fácilmente entonces
+											a los terabytes de datos
+											en forma remota desde todo el mundo,
+											generar resultados,
+											y escribir artículos
+en sus instituciones locales.
+											Luego, quisimos compartir los hallazgos
+											con todos los colegas.
+											Para facilitar este intercambio de información,
+											creamos la Web a principios de los 90.
+											Los físicos ya no necesitaban saber
+											dónde estaba almacenada la información
+											para encontrarla y accederla desde la red;
+											una idea que prendió en todo el mundo
+											y ha transformado la forma de comunicarnos
+											en nuestras vidas cotidianas.
+											A principios del 2000
+											el continuo crecimiento
+de nuestros datos
+											superaba nuestra capacidad
+de análisis en el CERN,
+											a pesar de tener edificios
+repletos de computadoras.
+											Tuvimos que empezar a distribuir
+los petabytes de datos
+											a los socios que colaboraban con nosotros
+											para usar capacidad local
+de almacenamiento y cómputo
+											en cientos de instituciones diferentes.
+											Para organizar estos recursos interconectados
+											con sus diversas tecnologías,
+											desarrollamos una red de computadoras
+											que permite el intercambio irrestricto
+											de recursos informáticos en todo el mundo.
+											Esto se basa en relaciones de confianza
+y de intercambio mutuo.
+											Pero este modelo de red no podía transferirse
+											fuera de nuestra comunidad tan fácilmente,
+											pues no todos tienen recursos para compartir
+											ni puede esperarse que las empresas
+											tengan el mismo nivel de confianza.
+											En cambio, un enfoque alternativo, más empresarial
+											para el acceso ""a la carta"" de los recursos,
+											floreció recientemente,
+											y se llama computación en la nube;
+											algo que otras comunidades
+están explotando ahora
+											para analizar sus grandes
+volúmenes de datos.
+											Puede resultar paradójico
+que en un lugar como el CERN,
+											un laboratorio que estudia
+											lo inimaginablemente pequeño
+que constituye la materia,
+											sea la fuente de grandes
+volúmenes de datos [big data].
+											Pero la forma en que estudiamos
+las partículas fundamentales,
+											así como las fuerzas mediante
+las que interactúan,
+											implica crearlas fugazmente,
+											hacer colisionar protones
+en nuestros aceleradores
+											y capturar sus rastros
+											a casi la velocidad de la luz.
+											Para ver esos rastros,
+											nuestro detector,
+con 150 millones de sensores,
+											funciona como una cámara 3D gigante,
+											que toma fotos de cada colisión.
+											Esto ocurre unas 14 millones
+de veces por segundo.
+											Eso genera muchos datos.
+											Pero si este volumen de datos
+existe desde hace tanto,
+											¿por qué de repente cobra
+tanta notoriedad ahora?
+											Bueno, como dice la vieja metáfora,
+											el todo es más grande que la suma de sus partes,
+											y ya no es solo la ciencia
+que lo está usando.
+											Poder obtener más conocimiento
+											uniendo información relacionada
+											y detectando correlaciones
+											puede iluminar y enriquecer numerosos
+aspectos de la vida cotidiana,
+											sea en tiempo real,
+											como el estado del tránsito
+o de las finanzas,
+											o en evoluciones de corto plazo,
+											como las médicas o meteorológicas,
+											o en situaciones predictivas,
+											como las tendencias en el comercio,
+el crimen y las enfermedades.
+											Se está recopilando ingentes volúmenes
+de datos en todas las áreas,
+											con redes de sensores móviles
+que abarcan el mundo,
+											cámaras en la tierra y en el aire,
+											archivos que almacenan información
+publicada en la web,
+											y registran las actividades
+											de los internautas de todo el mundo.
+											El desafío consiste en inventar
+nuevas herramientas y técnicas
+											para analizar estos vastos repositorios,
+											para iluminar la toma de decisiones,
+											mejorar los diagnósticos médicos,
+											y, en otras palabras, responder
+a las necesidades y deseos
+											de la sociedad del futuro
+de formas, hoy, inimaginables.
+									","
+											Os ""big data"" são um conceito traiçoeiro.
+											Representam uma quantidade
+de informações digitais,
+											muito difíceis de armazenar,
+											de transportar ou de analisar.
+											Os ""big data"" são tão volumosos
+											que sobrecarregam as tecnologias do dia
+											e desafiam-nos a criar a próxima geração
+											de ferramentas e técnicas
+de armazenamento de dados.
+											Os ""big data"" não são uma coisa nova.
+											Com efeito, os físicos no CERN
+têm vindo a debater-se
+											com o problema do crescimento
+dos ""big data"", desde há décadas.
+											Há 50 anos, os dados do CERN 
+podiam ser guardados
+											num único computador.
+											Claro, não era um computador vulgar,
+											era um computador central
+											que ocupava um edifício inteiro.
+											Para analisar os dados,
+											físicos do mundo inteiro
+deslocavam-se ao CERN
+											para se ligarem àquela máquina enorme.
+											Nos anos 70, os ""big data"",
+sempre em crescimento,
+											foram distribuídos por diversos grupos
+de computadores,
+											que proliferaram no CERN.
+											Cada grupo estava ligado
+											por redes dedicadas, feitas de propósito.
+											Mas os físicos colaboravam,
+sem se preocuparem
+											com os limites entre esses grupos.
+											e, portanto, precisavam
+de aceder aos dados de todos eles.
+											Por isso, fizemos pontes
+entre as redes independentes
+											na nossa CERNET.
+											Nos anos 80, surgiram
+ilhas de redes semelhantes,
+											falando diferentes dialetos,
+											por toda a Europa e EUA,
+											tornando possível
+o acesso remoto mas tortuoso.
+											Para facilitar a vida
+aos físicos do mundo inteiro,
+											quanto ao acesso aos ""big data"",
+sempre em crescimento,
+											guardados no CERN, 
+sem terem de se deslocar,
+											era preciso que as redes
+falassem a mesma linguagem.
+											Adotámos a norma de trabalho
+da nova Internet, nos EUA,
+											no que fomos seguidos
+pelo resto da Europa,
+											e instituímos a principal ligação do CERN,
+											entre a Europa e os EUA em 1989,
+											e assim arrancou
+a Internet realmente global!
+											Os físicos passaram a ter
+um acesso fácil e à distância
+											ao terabytes dos ""big data""
+do mundo inteiro,
+											a gerar resultados,
+											e a escrever artigos
+nos seus institutos locais.
+											Depois, quiseram partilhar
+as suas descobertas
+											com todos os colegas.
+											Para facilitar
+esta partilha de informações,
+											criámos a ""web"" no início dos anos 90.
+											Os físicos já não precisavam de saber
+											onde estavam armazenadas as informações
+											para as encontrar na ""web""
+e ter-lhes acesso,
+											uma ideia que se espalhou
+pelo mundo inteiro
+											e transformou a forma como comunicamos
+											na nossa vida diária.
+											No início dos anos 2000,
+											o contínuo crescimento dos ""big data""
+											ultrapassou a capacidade 
+de os analisarmos no CERN,
+											apesar de termos edifícios
+cheios de computadores.
+											Tivemos que distribuir
+os petabytes de dados
+											pelos nossos parceiros colaboradores
+											a fim de utilizar a informática
+e a armazenagem locais
+											em centenas de diversos institutos.
+											Para orquestrar
+estes recursos interligados
+											com as suas diversas tecnologias,
+											elaborámos uma grelha informática,
+											que permitia a partilha ininterrupta
+											dos recursos informáticos
+por todo o globo.
+											Isto assenta em relações de confiança
+e de troca mutual.
+											Mas este modelo de grelha
+não podia ser transferido
+											para fora da nossa comunidade, facilmente,
+											porque nem toda a gente
+tem recursos para partilhar
+											nem podíamos esperar que as empresas
+											tivessem o mesmo grau de confiança.
+											Em alternativa, tem vindo
+a florescer recentemente,
+											uma abordagem mais empresarial
+											para acesso a recursos, sob pedido.
+											Chama-se ""nuvem informática"",
+											que outras comunidades
+estão agora a explorar
+											para analisar os seus ""big data"".
+											Pode parecer um paradoxo
+que um local como o CERN,
+											um laboratório focado no estudo
+											de elementos constitutivos da matéria,
+incrivelmente pequenos,
+											seja a origem duma coisa
+tão grande como os ""big data"".
+											Mas a forma como estudamos
+as partículas fundamentais,
+											assim como as forças 
+segundo as quais elas interagem,
+											consiste em criá-las fugazmente,
+											fazendo colidir protões
+nos nossos aceleradores
+											e captando o rasto deles
+											quando eles aceleram à velocidade da luz.
+											Para ver esses rastos,
+											o nosso detetor,
+com 150 milhões de sensores,
+											atua como uma câmara a 3D
+muito grande,
+											que tira uma foto de cada colisão
+											— ou seja 14 milhões de vezes por segundo.
+											Isto produz uma grande
+quantidade de dados.
+											Mas se os ""big data""
+já existem há tanto tempo
+											porque é que, de repente,
+ouvimos falar deles agora?
+											Como explica a antiga metáfora,
+											o todo é maior do que a soma das partes,
+											e já não é só a ciência que explora isso.
+											O facto de podermos obter
+mais conhecimentos
+											reunindo informações relacionadas,
+											e detetando correlações
+											pode informar e enriquecer
+inúmeros aspetos da vida diária,
+											quer em tempo real,
+											como o tráfico
+ou as condições financeiras,
+											quer em evoluções a curto prazo,
+											como em situações médicas
+ou meteorológicas
+											quer em situações de previsão,
+											como as tendências nos negócios,
+no crime ou na doença.
+											Praticamente todos os campos
+estão a virar-se para os ""big data"",
+											com redes móveis de sensores,
+espalhadas pelo globo,
+											câmaras no solo e no ar,
+											arquivos que guardam informações
+publicadas na ""web"",
+											e registadores que captam as atividades
+											de cidadãos da Internet, por todo o mundo.
+											O problema está na invenção
+de novas ferramentas e técnicas
+											para explorar estes enormes armazéns,
+											para informar a tomada de decisões,
+											para melhorar os diagnósticos médicos
+											e também para responder
+a necessidades e desejos
+											da sociedade de amanhã, 
+em formas que hoje são inimagináveis.
+									",Big Data,Tim Smith,5:50,"animation,data,TED-Ed,education,physics,global issues,Internet"
+"
+","
+","
+","
+",Big Data,Tim Smith,5:50,"animation,data,TED-Ed,education,physics,global issues,Internet"

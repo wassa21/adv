@@ -1,0 +1,1113 @@
+en,es,tr,fr,de,title,speaker,duration,tags
+"
+","
+","
+","
+","
+",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+											I want to start out by asking you to think back to when you were a kid,
+											playing with blocks.
+											As you figured out how to reach out and grasp,
+											pick them up and move them around,
+											you were actually learning how to think and solve problems
+											by understanding and manipulating spatial relationships.
+											Spatial reasoning is deeply connected
+											to how we understand a lot of the world around us.
+									","
+											Quiero empezar pidiéndoles que recuerden cuando eran niños,
+											jugando con bloques.
+											Mientras aprendían como alcanzarlos y tomarlos,
+											levantarlos y moverlos,
+											En realidad estaban aprendiendo cómo pensar y solucionar problemas
+											a través del entendimiento y manipulación de relaciones espaciales.
+											El razonamiento espacial está profundamente conectado
+											a cómo entendemos mucho del mundo a nuestro alrededor.
+									","
+											Konuşmaya başlarken, sizlerden çocukken
+											oyuncak küplerle oynadığınız günleri düşünmenizi istiyorum.
+											Küplere uzanıp, kavrayıp,
+											havada hareket ettirmeyi öğrenirken, aslında
+											uzaysal ilişkileri anlayıp, kontrol ederek
+											problemlerin çözüm yollarını öğrenmiştiniz.
+											Uzaysal sorgulama etrafımızdaki dünyayı
+											nasıl anladığımızla yakından ilişkili.
+									","
+											Je vais commencer par vous demander de vous souvenir quand vous étiez enfant,
+											et que vous jouiez avec des cubes.
+											Tandis que vous découvriez comment tendre le bras et les saisir,
+											les soulever et les déplacer,
+											vous appreniez en fait à réfléchir et à résoudre des problèmes
+											en comprenant et en manipulant des relations dans l'espace.
+											Le raisonnement dans l'espace est profondément lié
+											à notre façon de comprendre une grande partie du monde qui nous entoure.
+									","
+											Ich möchte damit beginnen Sie zu bitten, an die Zeit Ihrer Kindheit zurückzudenken,
+											als Sie mit Bauklötzen spielten.
+											Während Sie erkannten, wie man die Hände ausstreckt und zugreift,
+											die Klötze aufnimmt und bewegt,
+											lernten Sie tatsächlich, zu überlegen und Probleme durch
+											das Verstehen und Verändern räumlicher Zusammenhänge zu lösen.
+											Das räumliche Denken ist eng damit verbunden,
+											wie wir einen Großteil unserer Umgebung verstehen.
+									",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+","
+","
+","
+","
+",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+											So, as a computer scientist
+											inspired by this utility of our interactions with physical objects —
+											along with my adviser Pattie, and my collaborator Jeevan Kalanithi —
+											I started to wonder — what if when we used a computer,
+											instead of having this one mouse cursor that was a like a digital fingertip
+											moving around a flat desktop,
+											what if we could reach in with both hands and grasp information physically,
+											arranging it the way we wanted?
+											This question was so compelling that we decided to explore the answer,
+											by building Siftables.
+									","
+											Así que, como un científico de computación
+											inspirado por esta utilidad de nuestras interacciones con objetos físicos,
+											en conjunto con mi asesora Pattie y mi colaborador Jeevan Kalanithi,
+											me empecé a preguntar ¿qué pasaría si cuando usamos una computadora,
+											en lugar de tener un ratón que es como un apuntador digital
+											moviéndose a través de un escritorio plano,
+											qué pasaría si pudiéramos con nuestras manos obtener y tomar la información físicamente,
+											acomodándola en la manera que quisiéramos?
+											Esta pregunta fue tan irresistible que decidimos explorar la respuesta,
+											construyendo los Siftables.
+									","
+											Bir bilgisayar bilimcisi olarak
+											fiziksel cisimlerle ilişkimizden elde ettiğimiz faydadan esinlenerek —
+											danışmanım Patti ve iş arkadaşım Jeevan Kalanithi ile beraber —
+											bilgisayar kullanırken düz bir masaüstünde
+											bir dijital parmak ucu gibi olan tek bir fare imleci yerine
+											bilgiye iki elimizle ulaşıp, fiziksel olarak kavrayıp
+											istediğimiz gibi düzenleyebilseydik,
+											ne olur diye merak etmeye başladım.
+											Soru o kadar ilgi çekici idiydi ki, Siftable'ları inşa ederek,
+											cevabını bulmaya çalıştık.
+									","
+											Donc, en tant qu'informaticien
+											inspiré par cette utilité de nos interactions avec les objets physiques,
+											avec l'aide de ma conseillère Pattie, et de mon collaborateur Jeevan Kalanithi,
+											j'ai commencé à me demander... qu'adviendrait-il si pour utiliser un ordinateur,
+											au lieu d'avoir ce curseur de souris qui sert de doigt numérique
+											qui se promène sur un bureau plat,
+											on pouvait tendre les deux mains et saisir l'information physiquement,
+											pour l'arranger de la manière qu'on veut ?
+											Cette question était tellement fascinante que nous avons décidé d'étudier la réponse,
+											en fabriquant les Siftables.
+									","
+											Als Informatiker
+											- inspiriert von der Art unserer Interaktion mit realen Objekten -
+											zusammen mit meinem Fachberater Patti und meinem Kollegen Jeevan Kalanithi,
+											begann ich mich zu wundern: Was wäre, wenn wir Computer nutzen würden,
+											die anstelle eines Maus-Zeigers, der sich wie eine digitale Fingerspitze
+											auf einer flachen Arbeitsfläche bewegt...
+											... Was wäre, wenn wir mit beiden Händen eingreifen könnten und Daten physisch ergreifen
+											und sie so anordnen könnten, wie wir es wollen?
+											Diese Frage war so ergreifend, dass wir uns zur Erforschung der Antwort entschieden und
+											Siftables entwickelten.
+									",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+","
+","
+","
+","
+",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+											In a nutshell, a Siftable is an interactive computer
+											the size of a cookie.
+											They're able to be moved around by hand,
+											they can sense each other, they can sense their motion,
+											and they have a screen and a wireless radio.
+											Most importantly, they're physical,
+											so like the blocks, you can move them just by reaching out and grasping.
+											And Siftables are an example of a new ecosystem
+											of tools for manipulating digital information.
+											And as these tools become more physical,
+											more aware of their motion, aware of each other,
+											and aware of the nuance of how we move them,
+											we can start to explore some new and fun interaction styles.
+											So, I'm going to start with some simple examples.
+									","
+											En breve, un Siftable es una computadora interactiva
+											del tamaño de una galleta.
+											Se pueden mover con las manos,
+											se pueden detectar entre sí, pueden detectar su movimiento,
+											tienen una pantalla y una conexión inalámbrica.
+											Más importante, son físicos,
+											así que como los bloques, los puedes mover simplemente alcanzándolos y tomándolos.
+											Y los Siftables son un ejemplo de un nuevo ecosistema
+											de herramientas para manipular información digital.
+											Y mientras estas herramientas se vuelven más físicas,
+											más conscientes de su movimiento, conscientes uno de otro,
+											y conscientes de las sutilezas de cómo los movemos,
+											nosotros empezamos a explorar nuevos y divertidos estilos de interacción.
+											Así que, voy a empezar con algunos ejemplos simples.
+									","
+											Özetle, Siftable kurabiye büyüklüğünde
+											interaktif bir bilgisayar.
+											Elinizle hareket ettirebiliyorsunuz,
+											birbirlerini ve kendi hareketlerini sezebiliyorlar.
+											Bir ekranları ve kablosuz radyoları var.
+											En önemlisi, Siftable'lar birer fiziksel cisim,
+											tıpkı oyuncak küpler gibi. Onları kavrayıp, hareket ettirebilirsiniz.
+											Siftable'lar yeni dijital bilgi işleme aygıtları
+											ekosisteminden bir örnek.
+											Bu araçlar maddeleştikçe,
+											hareketlerinden ve birbirlerinden haberdar oldukça,
+											onları nasıl hareket ettirdiğimizin farkında oldukça,
+											yeni ve eğlenceli etkileşim yöntemleri keşfedeceğiz.
+											Şimdi birkaç basit örnekle başlamak istiyorum.
+									","
+											Pour résumer, un Siftable est un ordinateur interactif
+											de la taille d'un cookie.
+											On peut les déplacer à la main,
+											ils peuvent se reconnaître entre eux, ils peuvent sentir leur mouvement,
+											et ils sont équipés d'un écran et d'une radio sans fil.
+											Plus important encore, ce sont des objets physiques,
+											donc tout comme les cubes, on peut les déplacer simplement en tendant le bras et en les prenant en main.
+											Et les Siftables sont un exemple de nouvel écosystème
+											d'outils pour manipuler l'information numérique.
+											A mesure que ces outils deviennent de plus en plus physiques,
+											davantage conscients de leur mouvement, de la présence des autres,
+											et conscients des nuances dans notre façon de les déplacer,
+											on peut commencer à étudier de nouveaux styles d'interactions amusants.
+											Donc je vais commencer par quelques exemples simples.
+									","
+											Kurz gesagt, ein Siftable ist ein interaktiver Computer
+											in der Größe eines Kekses.
+											Sie können mit der Hand bewegt werden,
+											sie können sich gegenseitig wahrnehmen, sie können ihre Bewegungen erfassen
+											und sie haben einen Bildschirm und einen Funkempfänger.
+											Viel wichtiger: Sind sind körperlich,
+											weshalb man sie wie Bauklötze lediglich durch das Ausstrecken der Hände und Zugreifen bewegen kann.
+											Und die Siftables sind ein Beispiel einer neuen Generation
+											von Hilfsmitteln zur Manipulation digitaler Daten.
+											Und wenn diese Hilfsmittel körperlicher werden
+											und ein Bewusstsein für ihre Bewegungen entwickeln, sich gegenseitig erkennen
+											und die Feinheiten unseres Umgangs mit ihnen wahrnehmen,
+											dann können wir mit der Erforschung neuer und unterhaltsamer Interaktionsarten beginnen.
+											Ich fange mit einigen einfachen Beispielen an.
+									",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+","
+","
+","
+","
+",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+											This Siftable is configured to show video,
+											and if I tilt it in one direction, it'll roll the video this way;
+											if I tilt it the other way it rolls it backwards.
+											And these interactive portraits are aware of each other.
+											So if I put them next to each other, they get interested.
+											If they get surrounded, they notice that too,
+											they might get a little flustered.
+											And they can also sense their motion and tilt.
+									","
+											Este Siftable está configurado para mostrar video,
+											y si lo inclino en una dirección, rodará el video de esta manera,
+											y si lo inclino en la otra, lo rodará en reversa.
+											Y estos retratos interactivos están conscientes uno del otro.
+											Así que si los pongo juntos, se interesan.
+											Si quedan rodeados, también se dan cuenta,
+											se pueden poner algo nerviosos.
+											También pueden detectar su movimiento e inclinación.
+									","
+											Bu Siftable video göstermek için ayarlanmış,
+											ve şimdi onu bir yöne doğru döndürsem, video şu yönde dönüyor.
+											diğer yöne çevirirsem, video ters dönüyor.
+											Bu interaktif portreler de birbirlerinin farkındalar.
+											Yanyana koyduğum zaman, birbirlerinin ilgilerini çekiyorlar.
+											Çevrelendiklerini de anlayabiliyorlar,
+											biraz telaşlanabilirler.
+											Hareket ettiklerini ve eğildiklerini de hissedebiliyorlar.
+									","
+											Ce Siftable est configuré pour montrer de la vidéo,
+											et si je l'incline dans une direction, il fera avancer la vidéo dans ce sens,
+											si je l'incline dans l'autre sens la vidéo reviendra en arrière.
+											Et ces portraits interactifs sont conscients de la présence des autres.
+											Donc si je les mets les uns à côté des autres, ils s'y intéressent.
+											S'ils se retrouvent encerclés, ils s'en rendent compte aussi,
+											et ils peuvent devenir un peu agités.
+											Ils peuvent aussi sentir leur mouvement et leur inclinaison.
+									","
+											Dieser Siftable ist für die Videowiedergabe konfiguriert
+											und wenn Ich ihn in eine Richtung kippe, wird das Video vorwärts abgespielt;
+											wenn ich ihn in die andere Richtung kippe, läuft es rückwärts.
+											Und diese interaktiven Portraits nehmen sich gegenseitig wahr.
+											Wenn ich sie also nebeneinander lege, weckt das ihr Interesse.
+											Wenn sie voneinader umgeben sind, bemerken sie das auch
+											und können etwas nervös werden.
+											Und sie fühlen ebenso ihre Bewegungen und Neigung.
+									",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+","
+","
+","
+","
+",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+											One of the interesting implications on interaction, we started to realize,
+											was that we could use everyday gestures on data,
+											like pouring a color the way we might pour a liquid.
+											So in this case, we've got three Siftables configured to be paint buckets
+											and I can use them to pour color into that central one,
+											where they get mixed.
+											If we overshoot, we can pour a little bit back.
+									","
+											Una de las implicaciones interesantes de ésta interacción, nos empezamos a dar cuenta,
+											fue que podíamos usar gestos comunes en datos,
+											como vaciar color en la manera en que vaciamos un líquido.
+											Así que en este caso, tenemos tres Siftables configurados como botes de pintura
+											y los puedo usar para vaciar color a este central,
+											donde se mezclan.
+											Si nos excedemos, podemos regresar un poco.
+									","
+											Bu etkileşimlerden sonra farkettiğimiz bir şey de
+											günlük hareketlerimizi veri üzerinde kullanabileceğimiz idi.
+											Mesela bir rengi, sıvıyı döker gibi dökmek.
+											Bu durumda, boya kutusu olarak yapılandırılmış 3 tane Siftable'ımız var
+											ve ben bunları merkezdekine renk dökmek için kullanabilirim.
+											Yani renkleri karıştırabilirim.
+											Eğer haddinden fazla koyarsak, azıcık boyayı geri alabiliriz.
+									","
+											Nous avons commencé à réaliser que l'une des implications intéressantes de l'interaction,
+											c'était que l'on pouvait utiliser des gestes du quotidien avec les données,
+											comme de verser une couleur de la même manière qu'on verserait un liquide.
+											Donc dans ce cas, on a trois Siftables configurés en pots de peinture
+											et je peux les utiliser pour verser des couleurs dans celui du milieu,
+											où elles se mélangent.
+											Si on en met trop, on peut en enlever un petit peu.
+									","
+											Eine interessante Folge der Interaktionen, die wir zu erkennen begannen,
+											war, dass wir alltägliche Gesten auf Daten anwenden könnten,
+											wie etwa Farben so zu schütten, wie man dies mit Flüssigkeiten tut.
+											In diesem Fall haben wir drei Siftables als Farbtöpfe konfiguriert
+											und ich kann sie nutzen, um Farbe in den in der Mitte zu gießen,
+											wo sie dann vermischt werden.
+											Wenn wir es übertreiben, können wir ein wenig zurückschütten.
+									",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+","
+","
+","
+","
+",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+											There are also some neat possibilities for education,
+											like language, math and logic games
+											where we want to give people the ability to try things quickly,
+											and view the results immediately.
+											So here I'm —
+											(Applause)
+											This is a Fibonacci sequence that I'm making with a simple equation program.
+									","
+											También hay algunas buenas posibilidades para la educación,
+											como los idiomas, las matemáticas y los juegos lógicos,
+											donde queremos darle a la gente la habilidad de probar cosas rápidamente,
+											y ver los resultados de inmediato.
+											Así que aquí yo...
+											(Aplauso)
+											Esta es una secuencia de Fibonacci que estoy haciendo con un simple programa de ecuaciones.
+									","
+											Eğitim için de çok güzel uygulamalar var.
+											dil öğrenme, matematik ve mantık oyunları gibi
+											İnsanlara bir şeyi hızlıca denettirip,
+											anında sonucu görmelerini istediğimiz alanlar gibi.
+											Mesela burada —
+											(Alkış)
+											basit bir denklem programını kullanan Fibonacci serisini görüyoruz.
+									","
+											Cela ouvre aussi de belles opportunités en ce qui concerne l'éducation,
+											comme les langues, les mathématiques et les jeux de logique,
+											où on veut donner aux gens la possibilité de faire des essais rapidement,
+											et de constater les résultats immédiatement.
+											Donc là je...
+											(Applaudissements)
+											C'est une suite de Fibonacci que je fais avec un simple programme d'équation.
+									","
+											Es gibt außerdem auch einige nette Möglichkeiten in der Bildung
+											wie Sprachen, Mathematik oder Logikspiele,
+											wo wir den Leuten die Möglichkeit des schnellen Ausprobierens geben
+											und die Ergebnisse sofort sehen wollen.
+											Hier bin ich...
+											(Applaus)
+											Das ist eine Fibonacci-Folge, die ich mit einem einfachen Gleichungsprogramm erstelle.
+									",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+","
+","
+","
+","
+",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+											Here we have a word game that's kind of like a mash-up between Scrabble and Boggle.
+											Basically, in every round
+											you get a randomly assigned letter on each Siftable,
+											and as you try to make words it checks against a dictionary.
+											Then, after about 30 seconds, it reshuffles,
+											and you have a new set of letters and new possibilities to try.
+									","
+											Aquí tenemos un juego de palabras que es algo así como una mezcla de Scrabble y Boggle.
+											Básicamente, en cada ronda
+											recibes una letra asignada al azar en cada Siftable,
+											y mientras pruebas formar palabras las revisa contra un diccionario.
+											Entonces, después de cerca de 30 segundos se reinicia,
+											y tienes un nuevo conjunto de letras y nuevas posibilidades a intentar.
+									","
+											Burada Scrabble ve Boggle karışımı bir oyunu görüyoruz.
+											Her aşamada
+											her Siftable'da rastgele harfler beliriyor
+											ve siz kelimeler oluşturdukça, Siftable bir sözlükten kontrol yapıyor.
+											30 saniye sonra harfler yenileniyor,
+											siz de yeni kelimeler türetmekle uğraşıyorsunuz.
+									","
+											Ici on a un jeu de lettres qui est une espèce de mélange entre le Scrabble et le Boggle.
+											En gros, à chaque tour
+											une lettre est attribuée aléatoirement sur chaque Siftable,
+											et tandis que vous essayez de faire des mots, il vérifie dans un dictionnaire.
+											Ensuite, au bout de 30 secondes, il mélange à nouveau,
+											et on a un nouvel ensemble de lettres et de nouvelles possibilités à explorer.
+									","
+											Das ist ein Spiel mit Wörtern, das eine Art Mischung aus Scrabble und Boggle ist.
+											Grundsätzlich bekommt man jede Runde
+											auf jeden Siftable zufällig zugewiesene Buchstaben
+											und während man versucht, Wörter zu bilden, werden diese über ein Wörterbuch geprüft.
+											Dann, nach ungefähr 30 Sekunden, wird wieder gemischt
+											und man hat eine neue Buchstabenkombination und neue Möglichkeiten auszuprobieren.
+									",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+","
+","
+","
+","
+",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+											(Applause)
+											Thank you.
+											(Applause)
+									","
+											(Aplauso)
+											Gracias.
+											(Aplauso)
+									","
+											(Alkış)
+											Teşekkürler.
+											(Alkış)
+									","
+											(Applaudissements)
+											Merci.
+											(Applaudissements)
+									","
+											(Applaus)
+											Vielen Dank.
+											(Applaus)
+									",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+","
+","
+","
+","
+",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+											So these are some kids that came on a field trip to the Media Lab,
+											and I managed to get them to try it out, and shoot a video.
+											They really loved it.
+											And, one of the interesting things about this kind of application
+											is that you don't have to give people many instructions.
+											All you have to say is, ""Make words,""
+											and they know exactly what to do.
+									","
+											Entonces, estos son unos niños que nos visitaron en Medina Lab,
+											y arreglé que los niños los probaran y tomamos un video.
+											Realmente les encantó.
+											Y una de las cosas interesantes acerca de este tipo de aplicación
+											es que no tienes que darle a la gente muchas instrucciones.
+											Todo lo que tienes que decir es: ""Formen Palabras"",
+											y saben exactamente qué hacer.
+									","
+											Bu gördükleriniz Media Lab'a ziyarete gelen öğrenciler.
+											Onlara Siftable'ları kullandırdım ve bir video çektim.
+											Gerçekten çok sevdiler.
+											Bu tip uygulamanın ilginç taraflarından biri de
+											insanlara çok fazla talimat vermek zorunda olmayışınız.
+											tek söylemeniz gereken ""Kelimeler türetin""
+											sonrasın çocuklar zaten ne yapacaklarını tam olarak biliyor.
+									","
+											Voici des enfants qui sont venus au Media Lab pour une sortie scolaire,
+											et j'ai réussi à leur faire essayer, sous l'œil de la caméra.
+											Ils ont vraiment adoré.
+											De plus, l'un des aspects intéressants de ce genre d'application
+											c'est qu'on n'a pas besoin de donner aux gens des tas d'instructions.
+											Tout ce qu'on a à dire, c'est: ""Fais des mots"",
+											et ils savent exactement quoi faire.
+									","
+											Das sind einige Kinder die auf einem Ausflug zum Media Lab kamen.
+											Ich konnte sie dazu bewegen, es auszuprobieren und habe ein Video davon aufgenommen.
+											Sie haben es wirklich geliebt.
+											Ein interessanter Umstand bei dieser Art von Anwendungen ist,
+											dass man den Leuten nicht viele Anweisungen geben muss.
+											Alles was man sagen muss ist ""Bildet Wörter""
+											und sie wissen genau, was zu tun ist.
+									",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+","
+","
+","
+","
+",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+											So here's another few people trying it out.
+											That's our youngest beta tester, down there on the right.
+											Turns out, all he wanted to do was to stack the Siftables up.
+											So to him, they were just blocks.
+											Now, this is an interactive cartoon application.
+											And we wanted to build a learning tool for language learners.
+											And this is Felix, actually.
+											And he can bring new characters into the scene,
+											just by lifting the Siftables off the table that have that character shown on them.
+											Here, he's bringing the sun out.
+									","
+											Así que aquí hay otros personas probándolos.
+											Este es nuestro probador beta más joven, abajo a la derecha.
+											Resulta que todo lo que quería hacer era apilar los Siftables.
+											Así que para él, sólo eran bloques.
+											Ahora, esta aplicación es una caricatura interactiva
+											y queríamos construir una herramienta de aprendizaje para el idioma.
+											Y este es Félix, de hecho.
+											Y puede traer nuevos personajes a la escena,
+											simplemente con levantar de la mesa los Siftables que muestran al personaje.
+											Aquí, está poniendo al sol.
+									","
+											Burada da Siftable'ları deneyen bir başka grup.
+											Sağ alttaki çocuk bizim en genç testçimiz.
+											Yapmak istediği tek şeyin Siftable'ları üst üste dizmek olduğunu anlıyoruz.
+											Onun için bunlar sadece birer küp.
+											Bu da etkileşimli çizgi film uygulaması.
+											Yapmak istediğimiz, dil öğrenenler için bir araç oluşturmaktı.
+											Bu, Felix.
+											Ve sahneye yeni karakterler getirebiliyor,
+											tek yapması gereken, üzerine o karakterin gösterildiği Siftable'ları masadan kaldırmak.
+											Burada çocuk güneşi kaldırıyor.
+									","
+											Voici un autre groupe de gens en train de les essayer.
+											Voilà notre plus jeune bêta testeur, en bas à droite.
+											En fait, tout ce qui l'intéressait c'était d'empiler les Siftables.
+											Pour lui, ce n'était que des cubes.
+											Là, on a une application de dessin animé interactif.
+											Nous voulions construire un outil d'apprentissage pour ceux qui apprennent des langues.
+											Eh bien voilà Félix.
+											Il peut amener de nouveaux personnages dans la scène,
+											simplement en soulevant de la table les Siftables présentant ce personnage.
+											Là, il fait lever le Soleil.
+									","
+											Hier sind noch ein paar Leute, die es testen.
+											Das ist unser jüngster Beta-Tester dort unten rechts.
+											Es stellte sich heraus, dass er die Siftables nur stapeln wollte.
+											Also für ihn waren sie nur Bauklötze.
+											Dies ist eine interaktive Trickfilmanwendung.
+											Wir wollten ein Lernmittel für Sprachlerner entwickeln.
+											Das ist Felix.
+											Er kann neue Charaktere in die Szene bringen,
+											indem er den Siftable vom Tisch aufhebt, der diese Figur zeigt.
+											Hier lässt er die Sonne aufgehen.
+									",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+","
+","
+","
+","
+",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+											Video: The sun is rising.
+									","
+											Video: El sol se eleva.
+									","
+											Video: Güneş doğuyor.
+									","
+											Vidéo: Le Soleil se lève.
+									","
+											(Video: Die Sonne geht auf)
+									",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+","
+","
+","
+","
+",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+											David Merrill: Now he's brought a tractor into the scene.
+									","
+											David Merrill: Ahora ha traído un tractor a escena.
+									","
+											David Merrill: Şimdi traktör sahnede.
+									","
+											David Merrill: Là il a ajouté un tracteur à la scène.
+									","
+											Jetzt holt er einen Traktor in die Szene.
+									",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+","
+","
+","
+","
+",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+											Video: The orange tractor.
+											Good job! Yeah!
+									","
+											Video: El tractor naranja
+											¡Buen trabajo! ¡Sí!
+									","
+											Video: Turuncu traktör.
+											Güzel iş! Evet!
+									","
+											Vidéo: Le tracteur orange.
+											Bien joué ! Ouais !
+									","
+											(Video: Der orangene Traktor)
+											Gute Arbeit! Ja!
+									",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+","
+","
+","
+","
+",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+											DM: So by shaking the Siftables and putting them next to each other
+											he can make the characters interact —
+									","
+											Al agitar los Siftables y colocándolos juntos
+											puede hacer a los personajes interactuar.
+									","
+											Siftable'ları sallayarak ve yanyana koyarak
+											karakterlerin etkileşmesini sağlıyor —
+									","
+											Donc en secouant les Siftables et en les plaçant les uns à côté des autres
+											il peut faire interagir les personnages...
+									","
+											Indem er die Siftables schüttelt und sie nebeneinander legt
+											kann er die Charaktere interagieren lassen...
+									",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+","
+","
+","
+","
+",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+											Video: Woof!
+									","
+											Video: ¡Guau!
+									","
+											Video: Hav!
+									","
+											Vidéo: Ouaf !
+									","
+											(Video: Wau!)
+									",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+","
+","
+","
+","
+",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+											DM: inventing his own narrative.
+									","
+											DM: inventando su propia narrativa.
+									","
+											David Merrill: kendi hikayesini oluşturdu bile.
+									","
+											DM: et inventer sa propre histoire.
+									","
+											...seine eigene Geschichte erfinden.
+									",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+","
+","
+","
+","
+",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+											Video: Hello!
+									","
+											Video: ¡Hola!
+									","
+											Video: Merhaba!
+									","
+											Vidéo: Salut !
+									","
+											(Video: Hallo!)
+									",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+","
+","
+","
+","
+",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+											DM: It's an open-ended story,
+											and he gets to decide how it unfolds.
+									","
+											DM: Es una historia con final abierto,
+											y él decide como se desarrolla
+									","
+											David Merrill: ucu açık bir hikaye,
+											olayların nasıl gelişeceğine çocuk karar veriyor.
+									","
+											DM: C'est une histoire avec une fin ouverte,
+											à lui de choisir le dénouement.
+									","
+											Es ist eine Geschichte mit offenem Ende
+											und er kann entscheiden, wie sie sich entwickelt.
+									",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+","
+","
+","
+","
+",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+											Video: Fly away, cat.
+									","
+											Video: Vuela, gato.
+									","
+											Video: Kedi, kaybol.
+									","
+											Vidéo: Enfuis-toi, le chat.
+									","
+											(Video: Fliegende Katze)
+									",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+","
+","
+","
+","
+",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+											DM: So, the last example I have time to show you today
+											is a music sequencing and live performance tool
+											that we've built recently,
+											in which Siftables act as sounds
+											like lead, bass and drums.
+											Each of these has four different variations,
+											you get to choose which one you want to use.
+											And you can inject these sounds into a sequence
+											that you can assemble into the pattern that you want.
+											And you inject it by just bumping up the sound Siftable against a sequence Siftable.
+											There are effects that you can control live, like reverb and filter.
+											You attach it to a particular sound and then tilt to adjust it.
+											And then, overall effects like tempo and volume
+											that apply to the entire sequence.
+											So let's have a look.
+									","
+											DM: Entonces, el último ejemplo que tengo tiempo de mostrarles hoy
+											es una herramienta para secuenciar música y actuación en vivo
+											que construimos recientemente,
+											en la cual los Siftables actúan como sonidos
+											tales como instrumento líder, bajo y tambores.
+											Cada uno de éstos tiene cuatro diferentes variaciones,
+											y tú eliges cuál quieres usar.
+											Y puedes inyectar estos sonidos a una secuencia
+											la cual puedes ensamblar en el patrón que quieras.
+											Y lo inyectas simplemente al golpear un Siftable de sonido contra un Siftable de secuencia.
+											Estos son efectos que puedes controlar en vivo, como reverberación y filtros.
+											Lo conectas a un sonido en particular y lo inclinas para ajustarlo.
+											Y después, efectos globales como tempo y volumen
+											que se aplican a la secuencia entera.
+											Así que veamos.
+									","
+											David Merrill: Kalan sürede de size
+											oluşturduğumuz müzik sıralama ve
+											canlı performans aletini göstereceğim.
+											Bu alette Siftable'lar ses kaynağı, klavye,
+											bas ve davul gibi davranıyorlar.
+											Hepsinin 4 ayarı var
+											ve bir tanesini seçmeniz lazım.
+											Sesleri sıraya koyup,
+											istediğiniz ritmi oluşturabilirsiniz.
+											Sesleri sıraya sokmak için ses Siftable'ını sıralama Siftable'ının üstüne çıkarmak lazım.
+											Kontrol edebileceğiniz efektler - canlı performans, yankı verme, filtreleme.
+											Bir sesi Siftable'a bağladıktan sonra ayarlamak için biraz eğiyorsunuz.
+											Tempo, ses gibi tüm diğer efektler
+											tüm sıraya uygulanıyor.
+											Şimdi bir bakalım.
+									","
+											DM: Le dernier exemple que j'ai le temps de vous montrer aujourd'hui
+											est un outil d'arrangement musical et de performance en direct
+											que nous avons construit récemment,
+											dans lequel les Siftables jouent le rôle de sons
+											comme la voix principale, la basse et la batterie.
+											Chacun d'entre eux possède quatre variations,
+											on peut choisir celle qu'on veut utiliser.
+											Et on peut intégrer ces sons dans une séquence
+											que l'on peut assembler au sein du schéma qu'on veut.
+											et on l'intègre simplement en cognant le Siftable de son contre un Siftable de séquence.
+											Il y a des effets que l'on peut contrôler en direct, comme la réverbération et le filtre.
+											On l'attache à un son en particulier et ensuite on incline pour l'ajuster.
+											En plus, il y a des effets généraux comme le tempo et le volume
+											qui s'appliquent à toute la séquence.
+											Jetons un œil.
+									","
+											Das letzte Beispiel, für das ich heute Zeit habe, es zu zeigen,
+											ist ein Musik-Sequencer für Live-Auftritte,
+											das wir kürzlich entwickelt haben
+											und in dem Siftables als Töne,
+											wie Führungsstimme, Bass und Schlagzeug agieren.
+											Jedes hat vier verschiedene Variationen;
+											Man kann auswählen, welche man nutzen möchte.
+											Und man kann diese Töne in die Sequenz einspeisen,
+											die man wiederum in beliebigen Mustern anordnen kann.
+											Und man speist sie ein, indem man einfach einen Ton-Siftable an einen Sequenz-Siftable hält.
+											Dort sind Effekte, die man live verändern kann, wie z.B. Hall und Filter.
+											Man verbindet ihn mit einem bestimmten Ton und neigt ihn dann zum Einstellen.
+											Und dann noch übergeordnete Effekte wie Tempo und Lautstärke,
+											die man auf die gesamte Sequenz anwendet.
+											Also schauen wir mal.
+									",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+","
+","
+","
+","
+",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+											Video: (Music)
+									","
+											Video: (Música)
+									","
+											Video: (Müzik)
+									","
+											Vidéo: (Musique)
+									","
+											(Video: ♫ Musik ♫)
+									",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+","
+","
+","
+","
+",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+											DM: We'll start by putting a lead
+											into two sequence Siftables, arrange them into a series,
+											extend it, add a little more lead.
+											Now I put a bass line in.
+									","
+											DM: Empezaremos poniendo un instrumento líder
+											en dos Siftables de secuencia, los organizamos en una serie,
+											la extendemos, y agregamos sonido.
+											Ahora, introduzco el bajo.
+									","
+											David Merrill: Şu iki sıralama Siftable'ına
+											biraz klavye ekleyelim, seri haline getirelim,
+											uzatalım, biraz daha klavye ekleyelim.
+											Bas ekliyorum.
+									","
+											DM: On va commencer en mettant une voix principale
+											dans deux Siftables de séquence, on les met à la suite,
+											on allonge la suite avec un peu plus de voix principale.
+											Là j'ajoute une ligne de basse.
+									","
+											Wir beginnen, in dem wir die Führungsstimme
+											in zwei Sequenz-Siftable einspeisen und diese in einer Reihe anordnen,
+											sie erweitern und ein bisschen mehr der Stimme hinzufügen.
+											Jetzt füge ich einen Bass hinzu.
+									",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+","
+","
+","
+","
+",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+											Video: (Music)
+											DM: Now I'll put some percussion in.
+											Video: (Music)
+									","
+											Video: (Música)
+											DM: Ahora pondré algo de percusión
+											Video: (Música)
+									","
+											Video: (Müzik)
+											David Merrill: Biraz perküsyon ilave ediyorum.
+											Video: (Müzik)
+									","
+											Vidéo: (Musique)
+											DM: Maintenant je vais ajouter des percussions.
+											Vidéo: (Musique)
+									","
+											(Video: ♫ Musik ♫)
+											Jetzt werde ich noch etwas Schlagzeug dazu tun.
+											(Video: ♫ Musik ♫)
+									",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+","
+","
+","
+","
+",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+											DM: And now I'll attach the filter to the drums, so I can control the effect live.
+									","
+											DM: Y ahora conecto el filtro a los tambores, para poder controlar el efecto en vivo.
+									","
+											David Merrill: Şimdi davullara filtre ekleyeceğim. Efekti canlı kontrol edebilirim böylece.
+									","
+											DM: Et maintenant je vais attacher le filtre à la batterie, pour pouvoir contrôler les effets en direct.
+									","
+											Und jetzt verbinde ich den Filter mit dem Schlagzeug, damit ich den Effekt live steuern kann.
+									",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+","
+","
+","
+","
+",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+											Video: (Music)
+									","
+											Video: (Música)
+									","
+											Video: (Müzik)
+									","
+											Vidéo: (Musique)
+									","
+											(Video: ♫ Musik ♫)
+									",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+","
+","
+","
+","
+",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+											DM: I can speed up the whole sequence
+											by tilting the tempo one way or the other.
+									","
+											DM: Puedo acelerar la secuencia completa
+											al inclinar el tempo en una u otra dirección.
+									","
+											David Merrill: Tempoyu eğerek
+											tüm sırayı hızlandırabilirim.
+									","
+											DM: Je peux accélérer toute la séquence
+											en inclinant le tempo dans un sens ou dans l'autre.
+									","
+											Ich kann die ganze Sequenz beschleunigen,
+											indem ich das Tempo in die eine oder andere Richtung kippe.
+									",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+","
+","
+","
+","
+",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+											Video: (Music)
+									","
+											Video: (Música)
+									","
+											Video: (Müzik)
+									","
+											Vidéo: (Musique)
+									","
+											(Video: ♫ Musik ♫)
+									",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+","
+","
+","
+","
+",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+											DM: And now I'll attach the filter to the bass for some more expression.
+									","
+											DM: Y ahora conectaré el filtro al bajo para conseguir más expresión.
+									","
+											David Merrill: Şimdi de basa filtre ekliyorum.
+									","
+											DM: Et maintenant je vais attacher le filtre à la basse, pour plus d'expressivité.
+									","
+											Und jetzt verbinde ich den Filter noch mit dem Bass; für etwas mehr Ausdruck.
+									",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+","
+","
+","
+","
+",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+											Video: (Music)
+									","
+											Video: (Música)
+									","
+											Video: (Müzik)
+									","
+											Vidéo: (Musique)
+									","
+											(Video: ♫ Musik ♫)
+									",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+","
+","
+","
+","
+",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+											DM: I can rearrange the sequence while it plays.
+											So I don't have to plan it out in advance, but I can improvise,
+											making it longer or shorter as I go.
+											And now, finally, I can fade the whole sequence out
+											using the volume Siftable, tilted to the left.
+									","
+											DM: Y puedo reacomodar la secuencia mientras toca.
+											Así que no tengo que planearla previamente, pero puedo improvisar,
+											acortándola ó alargándola en la marcha.
+											Y ahora, finalmente, puedo atenuar toda la secuencia
+											usando el Siftable de volumen, inclinándolo a la izquierda.
+									","
+											David Merrill: Sırayı değiştirebilirim.
+											Önceden bir planım yok,
+											doğaçlama yapıyorum.
+											Son olarak da tüm sıranın sesini,
+											ses Siftable'ını sola eğerek, azaltarak durdurabilirim.
+									","
+											DM: Je peux réorganiser la séquence pendant la lecture.
+											Je n'ai donc pas besoin de la planifier à l'avance, mais je peux improviser,
+											je peux l'allonger ou la raccourcir en plein milieu.
+											Et enfin, je peux diminuer progressivement le volume de la séquence
+											en utilisant le Siftable de volume, incliné sur la gauche.
+									","
+											Ich kann die Sequenz während sie abläuft umstellen.
+											Dadurch muss ich sie nicht im Vorfeld planen, sondern kann improvisieren;
+											sie währenddessen verlängern oder verkürzen.
+											Und abschließend kann ich die ganze Sequenz ausblenden,
+											indem ich den Lautstärke-Siftable nach links neige.
+									",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+","
+","
+","
+","
+",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+											(Applause)
+											Thank you.
+									","
+											(Aplauso)
+											Gracias.
+									","
+											(Alkış)
+											Teşekkürler.
+									","
+											(Applaudissements)
+											Merci.
+									","
+											(Applaus)
+											Vielen Dank.
+									",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+","
+","
+","
+","
+",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+											So, as you can see,
+											my passion is for making new human-computer interfaces
+											that are a better match to the ways our brains and bodies work.
+											And today, I had time to show you one point in this new design space,
+											and a few of the possibilities that we're working to bring out of the laboratory.
+											So the thought I want to leave you with
+											is that we're on the cusp of this new generation of tools
+											for interacting with digital media
+											that are going to bring information into our world
+											on our terms.
+											Thank you very much.
+											I look forward to talking with all of you.
+									","
+											Así que, como pueden ver,
+											mi pasión es realizar nuevas interfaces entre humanos y computadoras
+											que se acoplen mejor a la forma en que nuestros cerebros y cuerpos funcionan.
+											Y hoy, tuve tiempo de mostrarles un punto en este nuevo espacio de diseño,
+											y algunas de las posibilidades en las que estamos trabajando para sacar del laboratorio.
+											Así que los quiero dejar con un pensamiento:
+											estamos en la cúspide de esta nueva generación de herramientas
+											para interactuar con medios digitales,
+											las cuales van a traer información a nuestro mundo
+											bajo nuestros términos.
+											Muchas gracias.
+											Espero hablar con todos ustedes.
+									","
+											Gördüğünüz gibi
+											benim tutkum beynimize ve vücudumuza daha uygun
+											yeni insan-bilgisayar arayüzleri geliştirmek.
+											Bugün sizlere, bu yeni tasarım uzayından bir nokta gösterebildim,
+											ve hayata geçirmek istediğimiz birkaç imkandan bahsettim.
+											Kafanızda bırakmak istediğim düşünce ise,
+											dijital medyayı takip eden
+											bilgiyi bizim istediğimiz gibi getiren
+											yeni nesil uygulamaların
+											şu an zirvesinde olduğumuz.
+											Çok teşekkürler.
+											Hepinizle konuşmayı dört gözle bekliyorum.
+									","
+											Donc, comme vous le voyez,
+											ma passion est de créer de nouvelles interfaces entre humains et ordinateurs
+											qui correspondent mieux à la façon dont fonctionnent notre cerveau et notre corps.
+											Aujourd'hui, j'ai eu le temps de vous montrer un point de ce nouvel espace de conception,
+											et quelques-unes des possibilités que nous cherchons à faire sortir du laboratoire.
+											La dernière pensée que je veux vous transmettre,
+											c'est que cette nouvelle génération d'outils s'annonce
+											pour interagir avec les médias numériques,
+											qui apporteront l'information dans notre monde
+											à notre manière.
+											Merci beaucoup.
+											J'ai hâte de discuter avec vous tous.
+									","
+											Wie Sie also sehen können,
+											liegt meine Begeisterung darin, neue Mensch-Computer-Schnittstellen zu entwickeln,
+											die besser zu dem passen, wie unsere Gehirne und Körper arbeiten.
+											Und heute hatte ich Zeit, Ihnen einen Teil dieser neuen Design-Welt
+											und einige der Möglichkeiten dessen zu zeigen, woran wir in unserem Labor arbeiten.
+											Der Gedanke, den ich Ihnen mit auf den Weg geben möchte,
+											ist dass wir an der Schwelle zu dieser neuen Generation von Werzeugen
+											zur Interaktion mit digitalen Medien stehen,
+											die Informationen in unsere Welt bringen,
+											die unseren Anforderungen entspricht.
+											Vielen Dank,
+											ich freue mich auf die Gespräche mit Ihnen allen!
+									",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+","
+","
+","
+","
+",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+											(Applause)
+									","
+											(Aplauso)
+									","
+											(Alkış)
+									","
+											(Applaudissements)
+									","
+											(Applaus)
+									",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"
+"
+","
+","
+","
+","
+",Toy tiles that talk to each other,David Merrill,7:09,"art,business,children,computers,design,education,invention,music,technology,toy"

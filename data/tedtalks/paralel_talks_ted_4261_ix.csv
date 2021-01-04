@@ -1,0 +1,843 @@
+fr,en,es,de,tr,pt,title,speaker,duration,tags
+"
+","
+","
+","
+","
+","
+",Can you solve the prisoner boxes riddle?,Yossi Elran,4:32,"creativity,music,TED-Ed,math,animation"
+"
+											Votre groupe favori
+est doué en matière de musique,
+											mais pas autant
+en terme d'organisation.
+											Ils égarent sans cesse
+leurs instruments en tournée,
+											ce qui rend leur manager furieux.
+											Le jour du grand concert,
+											le groupe se réveille
+et se découvre ligotés
+											dans une salle de répétition
+insonorisée et sans fenêtre.
+											Leur manager explique la situation.
+											Il y a dix grandes boîtes dehors.
+											Chacune contient un de vos instruments,
+											mais ne vous fiez pas aux images,
+car elles ont été placées au hasard.
+											Je vais vous laisser sortir un par un.
+											Quand vous serez dehors, vous pourrez
+regarder dans cinq de ces boîtes
+											avant que la sécurité
+ne vous ramène au bus de tournée.
+											Vous ne pouvez pas toucher
+les instruments
+											ni communiquer d'aucune façon
+vos découvertes aux autres,
+											ni marquer les boîtes, ni crier, rien.
+											Si chacun de vous parvient
+à trouver son instrument,
+											alors vous pourrez jouer ce soir.
+											Sinon, la maison de disques vous lâche.
+											Vous avez trois minutes pour y réfléchir
+avant que nous commencions.
+											Le groupe se désespère.
+											Après tout, chaque musicien n'a que 50%
+de chance de trouver son instrument
+											en ouvrant cinq boîtes au hasard.
+											Et les chances que les dix réussissent
+sont encore plus faibles :
+											seulement 1 sur 1024.
+											Mais soudain, il le batteur trouve
+une stratégie solide
+											qui possède plus de 35% de chances
+de réussir.
+											Pouvez-vous trouver de quoi il s'agit ?
+											Appuyez sur Pause à l'écran suivant
+si vous voulez trouver par vous-même !
+											Réponse dans : 3
+											Réponse dans : 2
+											Réponse dans : 1
+											Voici ce que le batteur a dit :
+											chacun ouvre d'abord la boîte
+ornée du dessin de son instrument.
+											Si votre instrument est à l'intérieur,
+c'est bon.
+											Sinon, regardez de quel instrument
+il s'agit,
+											puis ouvrez la boîte
+ornée de l'image correspondante.
+											Continuez ainsi jusqu'à trouver
+votre instrument.
+											Les musiciens sont sceptiques,
+											mais à leur grande surprise,
+ils retrouvent tous leurs biens.
+											Et quelques heures plus tard, ils jouent
+devant des milliers de fans en délire.
+											Comment la stratégie du batteur
+fonctionne-t-elle ?
+											Chaque musicien suit un enchaînement
+											qui commence par la boîte dont l'image
+correspond à leur instrument
+											et finit par la boîte qui le contient.
+											Notons que s'ils continuaient,
+cela les ramènerait au départ,
+											il s'agit donc d'une boucle.
+											Par exemple, si les boîtes
+sont arrangées ainsi,
+											la chanteuse ouvrirait la première
+et y trouverait la batterie,
+											irait à la huitième
+où elle trouverait la basse,
+											et découvrirait son micro
+dans la troisième boîte,
+											ce qui la ramènerait à la première.
+											Cela marche beaucoup mieux
+qu'en devinant au hasard
+											car en commençant avec la boîte
+ornée de l'image de son instrument,
+											chaque musicien réduit ses recherches
+à la boucle qui contient son instrument,
+											et il y a une probabilité correcte,
+environ 35%,
+											que toutes les boucles
+contiendront cinq boîtes ou moins.
+											Comment calculons-nous ces chances ?
+											Pour faire simple,
+démontrons ça avec un exemple simplifié :
+											quatre instruments et pas plus de deux
+suppositions autorisées par musicien.
+											Commençons par trouver
+les probabilités d'un échec,
+											les chances pour que quelqu'un
+ait besoin d'ouvrir trois boîtes ou plus
+											avant de trouver son instrument.
+											Il y a six boucles distinctes
+comprenant quatre boîtes.
+											Une façon amusante de les compter
+consiste à dessiner un carré,
+											mettre un instrument à chaque coin,
+											puis tracer les diagonales.
+											Comptez le nombre de boucles uniques
+que vous pouvez trouver
+											et gardez en tête que ces deux-ci
+sont considérées identiques,
+											elles débutent juste
+à des points différents.
+											Cependant, ces deux-là sont différentes.
+											Nous pouvons distinguer les huit boucles
+de trois boîtes à l'aide de triangles.
+											Vous trouverez quatre triangles possibles
+											en fonction de l'instrument
+que vous laissez de côté,
+											et deux chemins différents pour chacun.
+											Des 24 combinaisons de boîtes possibles,
+											il y en a donc 14 qui mènent à l'échec,
+											et dix couronnées de succès.
+											Cet algorithme fonctionne pour
+n'importe quel nombre pair de musiciens,
+											mais pour faire vite,
+											cela se traduit par une simple équation.
+											S'il y a dix musiciens,
+les chances sont d'environ 35%.
+											Mais s'il y en avait mille ?
+											Un million ?
+											Lorsque la variable n augmente,
+les probabilités s'approchent de 30%.
+											Rien de garanti, mais avec un peu
+de chance musicienne, rien d'impossible.
+											Salut à tous, si vous avez aimé
+cette énigme, essayez-vous à celles-ci.
+									","
+											Your favorite band is great
+at playing music,
+											but not so great at being organized.
+											They keep misplacing 
+their instruments on tour,
+											and it's driving their manager mad.
+											On the day of the big concert,
+											the band wakes up 
+to find themselves tied up
+											in a windowless, 
+soundproof practice room.
+											Their manager explains what's happening.
+											Outside, there are ten large boxes.
+											Each contains one of your instruments,
+											but don't be fooled by the pictures -
+they've been randomly placed.
+											I'm going to let you out one at a time.
+											While you're outside, you can look
+inside any five boxes
+											before security
+takes you back to the tour bus.
+											You can't touch the instruments
+											or in any way communicate what you find
+to the others.
+											No marking the boxes, shouting, nothing.
+											If each one of you 
+can find your own instrument,
+											then you can play tonight.
+											Otherwise, the label is dropping you.
+											You have three minutes to think about it
+before we start.
+											The band is in despair.
+											After all, each musician only has a 50%
+chance of finding their instrument
+											by picking five random boxes.
+											And the chances that all ten will succeed
+are even lower -
+											just 1 in 1024.
+											But suddenly, the drummer comes up
+with a valid strategy
+											that has a better than 35% chance
+of working.
+											Can you figure out what it was?
+											Pause the video on the next screen
+if you want to figure it out for yourself!
+											Answer in: 3
+											Answer in: 2
+											Answer in: 1
+											Here's what the drummer said:
+											Everyone first open the box
+with the picture of your instrument.
+											If your instrument is inside, you're done.
+											Otherwise, look at whatever's in there,
+											and then open the box 
+with that picture on it.
+											Keep going that way until you find
+your instrument.
+											The bandmates are skeptical,
+											but amazingly enough,
+they all find what they need.
+											And a few hours later, they're playing
+to thousands of adoring fans.
+											So why did the drummer's strategy work?
+											Each musician follows a linked sequence
+											that starts with the box whose outside
+matches their instrument
+											and ends with the box 
+actually containing it.
+											Note that if they kept going,
+that would lead them back to the start,
+											so this is a loop.
+											For example, if the boxes 
+are arranged like so,
+											the singer would open the first box
+to find the drums,
+											go to the eighth box to find the bass,
+											and find her microphone in the third box,
+											which would point back to the first.
+											This works much better 
+than random guessing
+											because by starting with the box 
+with the picture of their instrument,
+											each musician restricts their search to
+the loop that contains their instrument,
+											and there are decent odds, about 35%,
+
+											that all of the loops 
+will be of length five or less.
+											How do we calculate those odds?
+											For the sake of simplicity, 
+we'll demonstrate with a simplified case,
+											four instruments and no more than 
+two guesses allowed for each musician.
+											Let's start by finding 
+the odds of failure,
+											the chance that someone will need
+to open three or four boxes
+											before they find their instrument.
+											There are six distinct four-box loops.
+											One fun way to count them 
+is to make a square,
+											put an instrument at each corner,
+											and draw the diagonals.
+											See how many unique loops you can find,
+											and keep in mind that these two 
+are considered the same,
+											they just start at different points.
+											These two, however, are different.
+											We can visualize the eight distinct
+three-box loops using triangles.
+											You'll find four possible triangles
+
+											depending on which instrument 
+you leave out,
+											and two distinct paths on each.
+											So of the 24 possible 
+combinations of boxes,
+											there are 14 that lead to faliure,
+											and ten that result in success.
+											That computational strategy works for any
+even number of musicians,
+											but if you want a shortcut,
+											it generalizes to a handy equation.
+											Plug in ten musicians, 
+and we get odds of about 35%.
+											What if there were 1,000 musicians?
+											1,000,000?
+											As n increases, 
+the odds approach about 30%.
+											Not a guarantee, but with a bit of
+musician's luck, it's far from hopeless.
+											Hi everybody, if you liked this riddle,
+try solving these two.
+									","
+											Tu banda favorita 
+es genial tocando música,
+											pero no tan genial organizándose.
+											Siguen guardando mal 
+sus instrumentos durante la gira,
+											y esto enloquece a su manager.
+											El día del gran concierto,
+											la banda se despierta encerrada
+											en una sala de ensayo 
+insonorizada sin ventanas.
+											Su manager les explica 
+lo que está pasando.
+											Afuera hay diez cajas grandes.
+											Cada una contiene uno de sus instrumentos,
+											pero no se dejen engañar por las imágenes,
+que han sido puestas al azar.
+											Voy a dejar salir de a uno a la vez.
+											Mientras esté fuera, puede observar 
+el interior de las cinco cajas
+											antes de que los de seguridad 
+lo lleven de vuelta al bus de la gira.
+											No puede tocar los instrumentos
+											o usar cualquier otra forma de comunicar 
+a los otros sobre lo que encuentra.
+											Ni marcar las cajas, gritar, nada.
+											Si cada uno de Uds.
+puede encontrar su instrumento,
+											podrá tocar esta noche.
+											De lo contrario, se caerá el cartel.
+											Tienen tres minutos para pensar 
+en ello antes de empezar.
+											La banda está desesperada.
+											Cada músico tiene solamente un 50 % de 
+probabilidad de encontrar su instrumento
+											escogiendo al azar cinco cajas.
+											Y las posibilidades de que los diez 
+tengan éxito son aún más bajas,
+											solo 1 en 1024.
+											Pero, de repente, el batería 
+dice una estrategia válida
+											que tiene una oportunidad 
+mejor que un 35 % de servir.
+											¿Puedes adivinar cuál era?
+											¡Pausa el video en la pantalla siguiente 
+si quieres averiguarlo por ti mismo!
+											Respuesta en: 3
+											Respuesta en: 2
+											Respuesta en: 1
+											Esto es lo que dijo el tambor:
+											Todo el mundo abre por primera vez 
+la caja con la imagen de su instrumento.
+											Si el instrumento está 
+en el interior, hecho.
+											De lo contrario, 
+mira lo que sea esté allí,
+											y luego abre la caja 
+con la imagen en ella.
+											Sigue así hasta que 
+encuentre su instrumento.
+											Los compañeros de banda
+están escépticos,
+											pero, sorprendentemente, todos
+encuentran lo que necesitan.
+											Y un par de horas más tarde, 
+están tocando ante miles de fans.
+											Y ¿por qué funciona la estrategia 
+del batería?
+											Cada músico sigue una secuencia unida
+											que comienza con el cuadro cuyo exterior 
+coincide con el instrumento
+											y termina con la caja 
+que lo contiene en realidad.
+											Ten en cuenta que si seguían adelante, 
+los llevaría de nuevo al comienzo,
+											por lo que este es un bucle.
+											Por ejemplo, si las cajas 
+están dispuestas así,
+											el cantante abriría la primera caja 
+para encontrar los tambores,
+											ir a la octava caja 
+para encontrar el bajo,
+											y encontrar su micrófono 
+en la tercera caja,
+											lo que apuntaría de nuevo a la primera.
+											Esto funciona mucho mejor 
+que adivinar al azar
+											porque al partir de la caja 
+con la imagen de su instrumento,
+											cada músico restringe su búsqueda 
+al bucle que contiene el instrumento,
+											y hay probabilidades decentes, 
+aproximadamente un 35 %,
+											de que todos los bucles serán 
+de longitud cinco o menos.
+											¿Cómo calculamos las probabilidades?
+											En aras de la simplicidad, vamos a 
+demostrarlo con un caso simplificado,
+											cuatro instrumentos y no más de dos 
+conjeturas permitidas a cada músico.
+											Empecemos encontrando 
+las probabilidades de fracaso,
+											la posibilidad de que alguien tenga 
+que abrir tres o cuatro cajas
+											antes de encontrar su instrumento.
+											Hay seis bucles de cuatro distintas caja.
+											Una manera divertida de contarlos 
+es hacer un cuadrado,
+											poner un instrumento en cada esquina,
+											y trazar las diagonales.
+											Ver cuántos bucles únicos 
+puedes encontrar,
+											Y tener en cuenta que estos 
+dos son considerados lo mismo,
+											solo inician en diferentes puntos.
+											Estos dos, sin embargo, son diferentes.
+											Podemos visualizar los ocho bucles de tres
+cajas distintas utilizando triángulos.
+											Encontrarás cuatro triángulos posibles
+											dependiendo de qué 
+instrumento se deja fuera,
+											y dos caminos distintos en cada uno.
+											Así que una de las 24 posibles 
+combinaciones de cajas,
+											hay 14 que conducen a falla,
+											y diez que se traducen en éxito.
+											Esa estrategia computacional funciona 
+para cualquier número par de músicos,
+											pero si quieres un atajo,
+											se generaliza a una ecuación útil.
+											Pon diez músicos, y obtenemos 
+probabilidades de alrededor del 35 %.
+											¿Y si había 1000 músicos?
+											¿1 000 000?
+											Conforme n aumenta, las probabilidades 
+se acercan a aproximadamente 30 %.
+											No hay garantía,
+											pero con un poco de suerte de los músicos,
+está lejos de ser impoisible.
+											Hola todos, si te ha gustado este enigma, 
+intenta resolver estos dos.
+									","
+											Deine Lieblingsband
+spielt großartig Musik,
+											ist aber weniger gut organisiert.
+											Die Musiker verlegen 
+andauernd ihre Instrumente,
+											was ihren Manager in den Wahnsinn treibt.
+											Am Tag ihres großen Konzerts
+											wacht die Band gefesselt auf,
+											in einem fensterlosen, 
+schalldichten Übungsraum.
+											Ihr Manager erklärt ihnen die Situation:
+											""Draußen sind 10 große Boxen.
+											In jeder ist eines eurer Instrumente,
+											aber lasst euch nicht von den Bildern 
+täuschen, die sind zufällig angebracht.
+											Ich lasse jeweils einen von euch raus.
+											Wenn ihr draußen seid, 
+dürft ihr fünf Boxen öffnen,
+											bevor der Sicherheitsdienst
+euch zurückbringt.
+											Ihr dürft die Instrumente weder anfassen
+											noch den anderen mitteilen,
+was ihr gefunden habt,
+											noch die Boxen markieren, 
+schreien, gar nichts.
+											Wenn jeder von euch 
+sein Instrument findet,
+											dürft ihr heute Abend spielen.
+											Wenn nicht, kündigt euch der Musikverlag.
+											Ihr dürft 3 Minuten gemeinsam 
+nachdenken bevor wir anfangen.""
+											Die Band ist verzweifelt.
+											Jeder Musiker hat nur eine 50%-Chance,
+sein eigenes Instrument zu finden,
+											wenn er zufällig 5 Boxen auswählt.
+											Die Chance, dass alle 10 Musiker
+Erfolg haben, ist noch geringer —
+											nur 1 zu 1 024.
+											Plötzlich fällt dem Schlagzeuger
+eine sinnvolle Strategie ein,
+											deren Erfolgschance größer ist als 35 %.
+											Weißt du, welche es ist?
+											Halte das Video an, wenn du 
+es selbst herausfinden willst!
+											[Übersetzung der Regeln 
+steht in der Videobeschreibung]
+											Antwort in: 3
+											Antwort in: 2
+											Antwort in: 1
+											Hier ist die Idee des Schlagzeugers:
+											""Jeder öffnet zuerst die Box 
+mit dem Bild seines Instruments.
+											Wenn euer Instrument 
+darin ist, seid ihr fertig.
+											Ansonsten schaut ihr euch an,
+welches Instrument darin liegt
+											und öffnet die Box 
+mit dem dazu passenden Bild.
+											Macht so weiter, bis ihr 
+euer Instrument findet.""
+											Die Musiker sind skeptisch,
+											aber erstaunlicherweise 
+finden alle ihre Instrumente
+											und wenige Stunden später 
+spielen sie vor mehreren tausend Fans.
+											Warum hat die Idee 
+des Schlagzeugers funktioniert?
+											Jeder Musiker geht
+einer verknüpften Abfolge nach,
+											die mit der Box beginnt, deren Außenseite 
+seinem Instrument entspricht
+											und mit der Box endet, 
+in der das Instrument ist.
+											Würden sie so weitermachen, 
+würde es sie wieder bis zum Anfang führen.
+											Es handelt sich um eine Schleife.
+											Wenn die Boxen so angeordnet wären,
+											würde die Sängerin in der 1. Box
+das Schlagzeug finden,
+											dann zur 8. Box gehen,
+in der der Bass ist,
+											und ihr Mikrophon in der 3. Box finden,
+											was sie wieder zur
+ersten Box führen würde.
+											Das funktioniert viel besser 
+als zu raten.
+											Wenn jeder Musiker mit der Box 
+beginnt, die sein Instrument abbildet,
+											begrenzt er seine Suche auf die Schleife,
+in der sich sein Instrument befindet
+											und mit einer Wahrscheinlichkeit von 35 %
+											haben alle Schleifen eine Länge 
+von fünf oder weniger Boxen.
+											Wie berechnen wir 
+diese Wahrscheinlichkeit?
+											Wir verdeutlichen es anhand
+eines vereinfachten Falls:
+											Vier Instrumente und jeder Musiker
+darf nur zwei Boxen öffnen.
+											Wie wahrscheinlich ist ein Misserfolg,
+											d. h. dass jemand drei 
+oder vier Boxen öffnen muss,
+											um sein Instrument zu finden.
+											Für vier Boxen gibt es 
+sechs mögliche Schleifen.
+											Um die Anzahl an Schleifen zu finden, 
+nehmen wir ein Viereck
+											mit einem Instrument in jeder Ecke
+											und zeichnen die Diagonalen.
+											Wie viele einzigartige
+Schleifen findest du?
+											Bedenke, dass diese beiden gleich sind,
+											sie beginnen nur an 
+verschiedenen Punkten.
+											Diese beiden sind allerdings verschieden.
+											Bei einer Schleifenlänge von 3 
+gibt es 8 Möglichkeiten
+											die wir mit Dreiecken darstellen können.
+											Du findest vier mögliche Dreiecke,
+											je nachdem, welche Instrumente du auslässt
+											und zwei eigene Wege 
+für jedes Instrument.
+											Von den 24 möglichen 
+Kombinationen der Boxen
+											führen 14 zum Misserfolg
+											und zehn zum Erfolg.
+											Diese rechnerische Strategie funktioniert 
+für jede gerade Anzahl an Musikern,
+											aber dank dieser praktischen Gleichung
+											geht es auch schneller.
+											Bei zehn Musikern haben wir eine
+Erfolgswahrscheinlichkeit von ca. 35 %.
+											Was, wenn es 1.000 Musiker gäbe?
+											1.000.000?
+											Je größer n wird, desto mehr nähert sich 
+die Erfolgswahrscheinlichkeit 30 % an.
+											Keine Garantie, aber mit ein wenig 
+Musiker-Glück nicht hoffnungslos.
+											Wenn dir dieses Rätsel gefallen hat,
+gefallen dir vielleicht auch diese beiden!
+									","
+											En sevdiğiniz grup müzik çalmada harika
+											ancak organize olmada o kadar değil.
+											Enstrümanlarını turda
+hep yanlış yerlere koyuyorlar
+											ve bu, yöneticilerini delirtiyor.
+											Büyük konserin yapılacağı gün
+											grup, kendisini penceresiz, ses geçirmez
+											bir uygulama odasında
+bağlı bularak uyanırlar.
+											Yöneticileri neler olduğunu açıklar.
+											Dışarıda on tane büyük kutu var.
+											Her birinde enstrümanlarınızdan biri var
+											ancak resimlere aldanmayın 
+-bunlar rastgele yerleştirilmiştir.
+											Size birer birer izin vereceğim.
+											Dışarıdayken güvenlik sizi tur
+otobüsüne geri götürmeden önce,
+											beş kutunun da içine bakabilirsiniz.
+											Enstrümanlara dokunamazsınız
+											ya da bulduğunuz şeyi diğerlerine
+ne şekilde olursa olsun söyleyemezsiniz.
+											Kutuları işaretlemek,
+bağırmak, hiçbir şey yok.
+											Her biriniz kendi
+enstrümanını bulabilirse,
+											o zaman bu gece konsere çıkabilirsiniz.
+											Aksi takdirde, şirket sizi bırakıyor.
+											Başlamadan önce bunu
+düşünmek için üç dakikanız var.
+											Grup umutsuzluk içinde.
+											Her şeyden önce, her müzisyenin
+sadece beş rastgele kutu seçerek
+											enstrümanlarını bulma şansı %50.
+											Bunların hepsinin başarılı olma
+şansı daha da düşük
+											- 1024'te sadece 1.
+											Ama birden, davulcu %35'ten
+											daha iyi bir olasılığa sahip
+geçerli bir strateji bulur.
+											Bunun ne olduğunu bulabilir misin?
+											[Kendiniz çözmek istiyorsanız videoyu
+bir sonraki ekranda durdurun! ]
+											Cevap için: 3
+											Cevap için: 2
+											Cevap için: 1
+											İşte davulcunun söylediği:
+											Herkes ilk olarak enstrümanının
+resmi olan kutuyu açar.
+											Eğer enstrüman içerideyse iş tamam.
+											Aksi hâlde, içeride ne olduğuna bakar
+											ve sonra içeridekinin
+resmi olan kutuyu açar.
+											Enstrümanını bulana kadar
+böyle devam eder.
+											Grup arkadaşları şüphelidir
+											ama şaşırtıcı derecede yeterlidir, 
+hepsi istediklerini bulurlar.
+											Birkaç saat sonra binlerce
+hayranın önünde konsere çıkarlar.
+											Şimdi, davulcu stratejisi
+nasıl işe yaradı?
+											Her müzisyen, dış kısmı
+											enstrümanıyla eşleşen ve aslında
+onu içeren kutuyla biten
+											bağlantılı bir diziyi izler.
+											Unutmayın ki devam ettirdikleri
+takdirde, bunlar başa döner,
+											bu da bir döngüdür.
+											Örneğin, kutular böyle ayarlansa,
+											şarkıcı ilk kutuyu
+açtığında davulu bulsun,
+											sekizinci kutuya gidince kontrbası bulsun
+											ve üçüncü kutudaki mikrofonunu
+											birinciye işaret edecek şekilde bulur.
+											Bu, rastgele tahminden
+çok daha iyi çalışır,
+											çünkü her bir müzisyen, kendi
+enstrümanının resmini içeren
+											kutudan başlayarak, aradıklarını kendi
+enstrümanlarını içeren döngüyle kısıtlar
+											ve tüm döngülerin uzunluğunun
+											beş veya daha az olması
+daha olası, %35 civarında.
+											Bu olasılıkları nasıl hesaplarız?
+											Kolaydan başlayalım, basit
+bir durumu ele alalım:
+											Her bir müzisyen için dört enstrüman
+ve en fazla iki tahmin olsun.
+											Başarısızlık olasılıklarını, yani kişinin
+											enstrümanını bulmadan önce üç
+ya da dört kutu açma olasılığını
+											bularak başlayalım.
+											Altı farklı dört-kutu döngüsü var.
+											Bunu saymanın eğlenceli
+bir yolu, bir kare çizip
+											her köşeye bir enstrüman koymak
+											ve köşegenleri çizmektir.
+											Kaç adet farklı döngü
+bulabileceğinizi düşünün
+											ve bu ikisinin aynı kabul
+edileceğini aklınızda tutun,
+											sadece farklı noktalardan başlıyorlar.
+											Fakat bu ikisi farklıdır.
+											Üçgenleri kullanan sekiz farklı
+üç-kutu döngüyü görebiliriz.
+											Hangi enstrümanı dışarda
+bıraktığınıza göre
+											dört olası üçgen ve her birinde
+											iki farklı yol bulacaksınız.
+											Yani 24 olası kutu kombinasyonundan
+											14 tanesi başarısızlığa ve 10 tanesi
+											başarıya sebep oluyor.
+											Bu hesap yöntemi her çift
+sayıda müzisyen için işliyor,
+											ama kısa bir yol isterseniz
+											kullanışlı genel bir denklem verilebilir.
+											10 müzisyen olsaydı
+olasılık %35 civarındaydı.
+											Peki 1.000 müzisyen olsaydı?
+											1.000.000?
+											n arttıkça, olasılık
+yaklaşık %30'a yaklaşır.
+											Garanti yok, ama biraz müzisyen
+şansıyla umutsuzluktan uzaklaşılır.
+											Herkese selam, bu bilmeceyi
+sevdiyseniz bu ikisini çözmeye çalışın.
+									","
+											A vossa banda preferida
+é ótima a tocar música...
+											mas não é tão boa em organizar-se.
+											Andam sempre a trocar
+os instrumentos nas digressões,
+											o que deixa o agente deles furioso.
+											No dia do grande concerto,
+											a banda acorda e descobre
+que está manietada
+											numa sala de ensaios, 
+sem janelas e à prova de som.
+											O agente explica-lhes
+o que está a acontecer.
+											Lá fora, há 10 grandes caixas.
+											Cada uma delas contém
+um dos vossos instrumentos,
+											mas não se fiem nos desenhos
+— foram colocados ao acaso.
+											Vou levar lá para fora
+um de cada vez.
+											Quando estiverem lá fora,
+podem abrir cinco caixas quaisquer
+											antes de a segurança
+vos levar para o autocarro.
+											Não podem tocar nos instrumentos
+											nem, de qualquer modo,
+comunicar aos outros o que viram.
+											Não podem marcar as caixas,
+nem gritar, nada.
+											Se todos conseguirem
+encontrar os vossos instrumentos,
+											podem tocar esta noite.
+											De contrário, a editora abandona-vos.
+											Têm três minutos para pensar,
+antes de começarmos.
+											A banda fica desesperada.
+											Cada músico só tem 50% de hipóteses
+de encontrar o seu instrumento
+											escolhendo cinco caixas ao acaso.
+											E as hipóteses de todos os 10 acertarem
+ainda são mais baixas
+											— apenas uma em 1024.
+											Mas, de repente, o baterista
+aparece com uma estratégia válida
+											que tem mais de 35% de hipóteses
+de funcionar.
+											Conseguem descobrir qual foi?
+											[Parem o vídeo no próximo ecrã
+se quiserem descobrir sozinhos.]
+											Resposta em: 3
+											Resposta em: 2
+											Resposta em: 1
+											O baterista disse isto:
+											""Cada um abre primeiro a caixa
+com o desenho do seu instrumento.
+											""Se o vosso instrumento estiver lá dentro,
+estão safos.
+											""Caso contrário, vejam o que
+é que está lá dentro
+											""depois abram a caixa
+que tem essa mesma imagem.
+											""Continuem a fazer isso,
+até descobrirem o vosso instrumento"".
+											Os colegas da banda estão céticos,
+											mas o que é espantoso
+é que todos encontraram o que queriam.
+											Umas horas depois, estão a tocar
+para milhares de fãs em delírio.
+											Então, porque é que a estratégia
+do baterista funcionou?
+											Cada músico segue
+uma sequência interligada
+											que começa com a caixa cujo exterior
+corresponde ao seu instrumento
+											e acaba na caixa que o contém.
+											De notar que, se continuassem
+a fazer o mesmo, iriam parar ao princípio.
+											Trata-se de um ciclo fechado.
+											Por exemplo, se as caixas
+estivessem organizadas deste modo,
+											o cantor abria a primeira caixa 
+e encontrava a bateria,
+											ia à oitava caixa
+e encontrava a viola baixo,
+											e encontrava o microfone
+na terceira caixa,
+											que voltava a apontar para a primeira.
+											Isto funciona muito melhor 
+do que um palpite ao acaso,
+											porque, ao começar com a caixa
+com a imagem do seu instrumento,
+											cada músico restringe a sua pesquisa
+ao ciclo que contém o seu instrumento
+											e há boas probabilidades,
+— cerca de 35% —
+											de que todos os ciclos
+terão um comprimento de cinco ou menos.
+											Como calculamos essas probabilidades?
+											Por uma questão de simplificação,
+vamos demonstrar um caso simplificado,
+											com quatro instrumentos e apenas
+dois palpites para cada músico.
+											Comecemos por encontrar
+as probabilidades de fracasso,
+											a hipótese de que alguém 
+precise de abrir três ou quatro caixas,
+											antes de encontrar o seu instrumento.
+											Há seis ciclos distintos em quatro caixas.
+											Uma forma engraçada de os contar
+é fazer um quadrado,
+											colocar um instrumento em cada canto,
+											e desenhar as diagonais.
+											Vejam quantos ciclos únicos encontram
+											e reparem que estes dois
+consideram-se o mesmo,
+											só que começam em pontos diferentes.
+											Mas estes dois são diferentes.
+											Podemos visualizar os 8 ciclos distintos
+das três caixas, usando triângulos.
+											Encontramos quatro triângulos possíveis
+											consoante qual o instrumento
+que deixarmos de fora
+											e dois caminhos distintos
+para cada um deles.
+											Portanto, das 24 combinações
+de caixas possíveis
+											há 14 que levam ao fracasso,
+											e 10 que acabam no êxito.
+											Esta estratégia matemática funciona
+para qualquer número par de músicos
+											mas, se quisermos um atalho,
+											generalizamos para uma equação prática.
+											Se houver 10 músicos,
+as probabilidades são cerca de 35%.
+											E se fossem mil músicos?
+											Um milhão?
+											À medida que o número aumenta,
+a probabilidade aproxima-se de 30%.
+											Não é uma garantia, mas com um pouco
+de sorte, está longe de ser impossível.
+											Olá, se gostaram deste enigma,
+tentem resolver estes dois.
+									",Can you solve the prisoner boxes riddle?,Yossi Elran,4:32,"creativity,music,TED-Ed,math,animation"
+"
+","
+","
+","
+","
+","
+",Can you solve the prisoner boxes riddle?,Yossi Elran,4:32,"creativity,music,TED-Ed,math,animation"

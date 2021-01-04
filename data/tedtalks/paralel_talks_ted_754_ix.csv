@@ -1,0 +1,1476 @@
+fr,en,pt,de,es,title,speaker,duration,tags
+"
+","
+","
+","
+","
+",Inside OKCupid: The math of online dating,Christian Rudder,7:19,"technology,math,TED-Ed,relationships,animation"
+"
+											Bonjour, je m'appelle Christian Rudder,
+											je suis un des fondateurs de OK Cupid.
+											C'est désormais l'un des plus grands sites
+de rencontre aux États-Unis.
+											Comme presque tout le monde sur le site,
+											j'étais doué en math 
+et comme vous pouvez l'imaginer,
+											nous étions connus pour l'approche analytique
+											que nous avions de l'amour.
+											On appelle ça notre algorithme d'appariement.
+											Essentiellement, l'algorithme d'appariement
+d'OK Cupid
+											nous aide à décider
+si deux personnes peuvent sortir ensemble.
+											Nous avons construit notre business dessus.
+											Cependant, algorithme est un mot prétentieux,
+											les gens préfèrent le laisser tomber,
+											mais un algorithme est simplement
+une façon systématique,
+											pas à pas,
+de résoudre un problème.
+											Ça n'a rien de prétentieux.
+											Ici, dans cette leçon, je vais vous expliquer
+											comment on en est arrivé
+à notre algorithme à nous
+											pour que vous voyez comment ça marche.
+											Maintenant, pourquoi est-ce que 
+les algorithmes sont importants ?
+											Pourquoi est-ce que cette leçon existe ?
+											Eh bien, relisez cette phrase importante
+que je viens de dire :
+											c'est une façon de résoudre
+un problème pas à pas
+											et, comme vous le savez probablement,
+											les ordinateurs excellent
+dans les processus pas à pas.
+											Un ordinateur sans algorithme
+											est simplement
+un couteux presse-papiers.
+											Depuis que les ordinateurs sont
+omniprésents dans notre vie quotidienne,
+											les algorithmes sont partout.
+											Les mathématiques derrière
+l'algorithme d'appariement d'OK Cupid
+											sont étonnamment simples.
+											Ce sont juste quelques additions,
+											multiplications
+											et quelques racines carrées.
+											La difficulté lors de la conception, 
+cependant,
+											était de comprendre comment 
+prendre quelque chose de mystérieux,
+											l'attirance humaine,
+											et la décomposer en éléments
+avec lesquels un ordinateur peut travailler.
+											La première chose dont nous avons besoin 
+pour faire correspondre des gens sont des données,
+											ce sur quoi
+l'algorithme puisse travailler.
+											La meilleure façon d'avoir rapidement 
+des données des gens
+											est tout simplement de les demander.
+											Donc nous avons décidé qu'OK Cupid 
+devait poser des questions aux utilisateurs :
+											« Est-ce que vous voulez des enfants ? »,
+											« À quelle fréquence vous lavez vous les dents ? »,
+											« Est-ce que vous aimez les films d'horreur ? »
+											et des trucs importants comme 
+« Est-ce que vous croyez en Dieu ? »
+											Certes, beaucoup de questions sont bonnes
+											pour faire correspondre
+ce qui est comparable,
+											quand deux personnes 
+répondent de la même manière.
+											Par exemple, deux personnes 
+qui aiment bien les films d'horreur
+											se correspondent probablement mieux
+											qu'une personne qui les aime
+											et une qui ne les aime pas.
+											Mais qu'en est-il d'une question comme,
+											« Aimez-vous être le centre de l'attention ? »
+											Si les deux personnes d'un couple
+répondent oui,
+											alors il va y avoir de gros problèmes.
+											Nous avons compris ça rapidement
+											et nous avons décidé
+que nous avions besoin
+											d'un peu plus d'information 
+pour chaque question.
+											Nous devions demander aux personnes 
+de donner non seulement leur réponse,
+											mais également la réponse
+qu'ils attendaient de l'autre.
+											Ça a vraiment bien marché,
+											mais nous avions besoin 
+d'une dimension supplémentaire.
+											Certaines questions nous en disent plus
+sur une personne que d'autres.
+											Par exemple, une question sur la politique, 
+quelque chose comme,
+											« Qu'est-ce qui est pire : 
+brûler un livre ou brûler un drapeau ? »
+											pourrait en révéler plus sur quelqu'un 
+que ses goûts cinématographiques.
+											Et ça n'a pas beaucoup de sens de donner 
+le même poids à toutes ces choses,
+											nous avons donc ajouté
+une dernière donnée.
+											Pour chaque question
+qu'OK Cupid vous pose,
+											vous avez la possibilité de nous dire
+											le rôle qu'elle joue dans votre vie,
+											ça va de non significatif à obligatoire.
+											Donc, pour chaque question,
+											nous avons trois choses
+pour notre algorithme :
+											premièrement, votre réponse ;
+											deuxièmement, 
+comment vous souhaitez que quelqu'un,
+											votre partenaire potentiel,
+											réponde
+											et troisièmement, quelle est l'importance 
+de cette question pour vous.
+											Avec toutes ces informations,
+											OK Cupid peut déterminer
+comment deux personnes s'entendront.
+											L'algorithme mouline les chiffres
+et nous donne un résultat.
+											Comme exemple pratique,
+											regardons comment on vous 
+fait correspondre à quelqu'un,
+											que nous appelerons ""B"".
+											Votre taux de correspondance avec B
+est fondé sur
+											les questions auxquelles 
+vous avez répondu tous les deux.
+											Appelons la série de questions communes ""s"".
+											Comme c'est un exemple très simple, 
+utilisons une petite série ""s""
+											avec seulement deux questions en commun
+											et calculons la correspondance.
+											Voici nos deux exemples de questions.
+											La première, disons, « Êtes-vous bordélique ? »,
+											les réponses possibles sont
+											beaucoup,
+											moyennement
+											et très organisé.
+											Disons que vous répondiez 
+« très organisé »,
+											et que vous souhaitez que 
+l'autre réponde « très organisé »,
+											et que cette question est
+très importante pour vous.
+											Fondamentalement vous êtes 
+un maniaque de la propreté.
+											Vous êtes propre,
+											vous voulez que l'autre soit propre
+											et c'est comme ça.
+											Supposons que B soit un peu différent.
+											Il a répondu très organisé pour lui-même,
+											mais moyennement est correct pour lui
+											comme réponse de l'autre,
+											et la question n'a pas d'importance pour lui.
+											Regardons la seconde question,
+											c'est l'une de notre exemple précédent :
+											« Aimez-vous être le centre de l'attention ? »
+											Les réponses sont uniquement oui et non.
+											Donc vous avez répondu « Non »,
+											vous attendez comme 
+réponse de l'autre « non »,
+											et la question est
+faiblement importante pour vous.
+											Maintenant B a répondu « Oui »,
+											il attend quelqu'un qui réponde « Non »,
+											parce qu'il veut la lumière pour lui
+											et la question est
+plutôt importante pour lui.
+											Essayons de calculer tout ça.
+											Notre première étape est,
+											comme nous utilisons
+des ordinateurs,
+											nous devons assigner
+des valeurs numériques
+											aux idées comme « plutôt important »
+et « très important »
+											parce que les ordinateurs ont besoin
+que tout soit chiffré.
+											Nous, à OK Cupid, avons choisi
+l'échelle suivante :
+											non significatif vaut 0,
+											un peu important vaut 1,
+											plutôt important vaut 10,
+											très important est 50
+											et obligatoire vaut 250.
+											Ensuite, l'algorithme fait
+deux calculs simples.
+											Le premier est « à quel niveau les réponses 
+de B sont satisfaisantes pour vous »,
+											ce qui revient « à combien de points
+a B sur votre échelle ? »
+											Vous avez indiqué
+que la réponse de B
+											à la première question
+à propos du rangement
+											était très importante pour vous.
+											Ça vaut 50 points
+et B les as eus.
+											La seconde question
+vaut seulement 1
+											parce que vous avez répondu
+que c'était seulement un peu important
+											et B avait répondu faux.
+											Donc les réponses de B
+valent 50 points sur 51.
+											C'est 98% de satisfaction.
+											C'est vraiment bon.
+											La seconde question
+que regarde l'algorithme
+											est à quel niveau
+vous satisfaites B.
+											B a placé un point
+sur votre réponse
+											à la question sur le rangement
+											et 10 à votre réponse
+à la seconde.
+											Sur ces 11 points,
+c'est 1 plus 10,
+											vous gagnez 10,
+											vous correspondez l'un à l'autre
+pour la seconde question.
+											Donc vos réponses
+donnent 10 sur 11
+											ce qui vaut
+91% de satisfaction pour B.
+											Ce n'est pas mal.
+											L'étape finale est de prendre 
+les deux pourcentages de correspondances
+											et d'obtenir un chiffre
+pour vous deux.
+											Pour faire ça,
+l'algorithme multiplie vos résultats
+											et prend la racine n-ième,
+											où n est le nombre de questions.
+											Parce que s,
+le nombre de questions,
+											dans cet exemple,
+est seulement 2
+											nous avons :
+le pourcentage d'appariement est égal
+											à la racine carrée
+de 98% fois 91%.
+											Qui est égal à 94%.
+											Ce 94% est
+votre taux d'appariement avec B.
+											C'est l'expression mathématique
+											de comment vous seriez heureux
+l'un avec l'autre
+											fondé sur ce que nous savons.
+											Maintenant, pourquoi est-ce que
+l'algorithme multiplie au lieu de
+											faire la moyenne des deux 
+taux de correspondances ensemble
+											puis prend la racine carrée ?
+											En général, cette formule est appelée
+la moyenne géométrique,
+											c'est une bonne façon
+de combiner des valeurs
+											qui ont de grandes variations
+											et présentent
+des propriétés très différentes.
+											En d'autres mots, c'est parfait 
+pour un appariement sentimental.
+											On a de grandes plages de valeurs
+											et des quantités de valeurs différentes,
+											comme je l'ai dit, au sujet des films,
+											de la politique,
+											de la religion,
+											de tout.
+											Intuitivement, aussi,
+ça a du sens.
+											Deux personnes qui se correspondent
+chacune à 50%
+											devraient être une meilleure combinaison
+											que deux autres
+qui se correspondent à 0 et 100,
+											parce que l'affection doit être mutuelle.
+											Après avoir ajouté une petite correction
+pour la marge d'erreur
+											dans le cas où
+on a très peu de questions,
+											comme dans l'exemple,
+											on est prêt.
+											À chaque fois qu'OK Cupid 
+associe deux personnes,
+											on passe par les étapes
+qu'on vient de montrer.
+											En premier on collecte
+les données liées aux questions,
+											puis on compare
+les choix et les préférences
+											pour les autres personnes 
+d'une façon mathématique, simple.
+											Ça, cette capacité à prendre 
+des phénomènes réels
+											et à les transformer en quelque chose 
+qu'un microprocesseur puisse comprendre,
+											est, je pense,
+											la plus importante compétence que 
+quelqu'un puisse avoir actuellement.
+											De la même façon que vous utilisez des phrases 
+pour raconter une histoire à une personne,
+											vous utilisez des algorithmes pour raconter
+une histoire à un ordinateur.
+											Si vous apprenez la langue,
+											vous pouvez sortir et raconter des histoires.
+											J'espère que ça vous aidera à le faire.
+									","
+											Hello, my name is Christian Rudder,
+											and I was one of the founders of OkCupid.
+											It's now one of the biggest
+dating sites in the United States.
+											Like most everyone at the site,
+I was a math major,
+											As you may expect, we're known
+for the analytic approach we take to love.
+											We call it our matching algorithm.
+											Basically, OkCupid's matching
+algorithm helps us decide
+											whether two people should go on a date.
+											We built our entire business around it.
+											Now, algorithm is a fancy word,
+											and people like to drop it
+like it's this big thing.
+											But really, an algorithm
+is just a systematic,
+											step-by-step way to solve a problem.
+											It doesn't have to be fancy at all.
+											Here in this lesson,
+											I'm going to explain how we arrived
+at our particular algorithm,
+											so you can see how it's done.
+											Now, why are algorithms even important?
+											Why does this lesson even exist?
+											Well, notice one very significant
+phrase I used above:
+											they are a step-by-step
+way to solve a problem,
+											and as you probably know, computers
+excel at step-by-step processes.
+											A computer without an algorithm
+											is basically an expensive paperweight.
+											And since computers are such
+a pervasive part of everyday life,
+											algorithms are everywhere.
+											The math behind OkCupid's matching
+algorithm is surprisingly simple.
+											It's just some addition, multiplication,
+a little bit of square roots.
+											The tricky part in designing it
+											was figuring out how to take
+something mysterious,
+											human attraction,
+											and break it into components
+that a computer can work with.
+											The first thing we needed
+to match people up was data,
+											something for the algorithm to work with.
+											The best way to get data quickly
+from people is to just ask for it.
+											So we decided that OkCupid
+should ask users questions,
+											stuff like, ""Do you want
+to have kids one day?""
+											""How often do you brush your teeth?""
+											""Do you like scary movies?""
+											And big stuff like,
+""Do you believe in God?""
+											Now, a lot of the questions
+are good for matching like with like,
+											that is, when both people
+answer the same way.
+											For example, two people
+who are both into scary movies
+											are probably a better match
+than one person who is and one who isn't.
+											But what about a question like,
+											""Do you like to be
+the center of attention?""
+											If both people in a relationship
+are saying yes to this,
+											they're going to have massive problems.
+											We realized this early on,
+											and so we decided we needed
+a bit more data from each question.
+											We had to ask people to specify
+not only their own answer,
+											but the answer they wanted
+from someone else.
+											That worked really well.
+											But we needed one more dimension.
+											Some questions tell you more
+about a person than others.
+											For example, a question
+about politics, something like,
+											""Which is worse:
+book burning or flag burning?""
+											might reveal more about someone
+than their taste in movies.
+											And it doesn't make sense
+to weigh all things equally,
+											so we added one final data point.
+											For everything that OkCupid asks you,
+											you have a chance to tell us
+the role it plays in your life.
+											And this ranges
+from irrelevant to mandatory.
+											So now, for every question,
+we have three things for our algorithm:
+											first, your answer;
+											second, how you want someone else —
+your potential match — to answer;
+											and third, how important
+the question is to you at all.
+											With all this information,
+											OkCupid can figure out
+how well two people will get along.
+											The algorithm crunches the numbers
+and gives us a result.
+											As a practical example,
+											let's look at how we'd match you
+with another person.
+											Let's call him ""B.""
+											Your match percentage with B is based
+on questions you've both answered.
+											Let's call that set
+of common questions ""s.""
+											As a very simple example,
+we use a small set ""s""
+											with just two questions in common,
+											and compute a match from that.
+											Here are our two example questions.
+											The first one, let's say, is,
+""How messy are you?""
+											And the answer possibilities are:
+											very messy, average and very organized.
+											And let's say you answered
+""very organized,""
+											and you'd like someone else
+to answer ""very organized,""
+											and the question is very important to you.
+											Basically, you're a neat freak.
+											You're neat, you want someone else
+to be neat, and that's it.
+											And let's say B is a little bit different.
+											He answered ""very organized"" for himself,
+											but ""average"" is OK with him
+as an answer from someone else,
+											and the question is only
+a little important to him.
+											Let's look at the second question,
+from our previous example:
+											""Do you like to be
+the center of attention?""
+											The answers are ""yes"" and ""no.""
+											You've answered ""no,"" you want
+someone else to answer ""no,""
+											and the question is only
+a little important to you.
+											Now B, he's answered ""yes.""
+											He wants someone else to answer ""no,""
+											because he wants the spotlight on him,
+											and the question is somewhat
+important to him.
+											So, let's try to compute all of this.
+											Our first step is, since we use
+computers to do this,
+											we need to assign numerical values
+											to ideas like ""somewhat
+important"" and ""very important,""
+											because computers need
+everything in numbers.
+											We at OkCupid decided
+on the following scale:
+											""Irrelevant"" is worth 0.
+											""A little important"" is worth 1.
+											""Somewhat important"" is worth 10.
+											""Very important"" is 50.
+											And ""absolutely mandatory"" is 250.
+											Next, the algorithm makes
+two simple calculations.
+											The first is: How much did
+B's answers satisfy you?
+											That is, how many possible points
+did B score on your scale?
+											Well, you indicated that B's answer
+to the first question,
+											about messiness,
+											was very important to you.
+											It's worth 50 points and B got that right.
+											The second question is worth only 1,
+											because you said
+it was only a little important.
+											B got that wrong,
+											so B's answers were 50
+out of 51 possible points.
+											That's 98% satisfactory. Pretty good.
+											The second question the algorithm
+looks at is: How much did you satisfy B?
+											Well, B placed 1 point on your answer
+to the messiness question
+											and 10 on your answer to the second.
+											Of those 11, that's 1 plus 10,
+you earned 10 —
+											you guys satisfied each other
+on the second question.
+											So your answers were 10 out of 11
+equals 91 percent satisfactory to B.
+											That's not bad.
+											The final step is to take
+these two match percentages
+											and get one number for the both of you.
+											To do this, the algorithm
+multiplies your scores,
+											then takes the nth root,
+											where ""n"" is the number of questions.
+											Because s, which is the number
+of questions in this sample,
+											is only 2,
+											we have: match percentage
+equals the square root
+											of 98 percent times 91 percent.
+											That equals 94 percent.
+											That 94 percent is your match
+percentage with B.
+											It's a mathematical expression
+of how happy you'd be with each other,
+											based on what we know.
+											Now, why does the algorithm multiply,
+											as opposed to, say, average
+the two match scores together,
+											and do the square-root business?
+											In general, this formula
+is called the geometric mean.
+											It's a great way to combine
+values that have wide ranges
+											and represent very different properties.
+											In other words, it's perfect
+for romantic matching.
+											You've got wide ranges and you've got
+tons of different data points,
+											like I said, about movies, politics,
+religion — everything.
+											Intuitively, too, this makes sense.
+											Two people satisfying
+each other 50 percent
+											should be a better match
+than two others who satisfy 0 and 100,
+											because affection needs to be mutual.
+											After adding a little correction
+for margin of error,
+											in the case where we have
+a small number of questions,
+											like we do in this example,
+											we're good to go.
+											Any time OkCupid matches two people,
+											it goes through the steps
+we just outlined.
+											First it collects data about your answers,
+											then it compares your choices
+and preferences to other people's
+											in simple, mathematical ways.
+											This, the ability to take
+real-world phenomena
+											and make them something
+a microchip can understand,
+											is, I think, the most important skill
+anyone can have these days.
+											Like you use sentences
+to tell a story to a person,
+											you use algorithms
+to tell a story to a computer.
+											If you learn the language,
+you can go out and tell your stories.
+											I hope this will help you do that.
+									","
+											Olá, chamo-me Christian Rudder
+											e fui um dos fundadores do OKCupid.
+											É um dos maiores sites
+de encontros nos EUA.
+											Como quase toda a gente no site,
+											eu sou formado em matemática
+											e somos conhecidos 
+pela abordagem analítica ao amor.
+											Chamamos-lhe
+o nosso algoritmo casamenteiro.
+											O algoritmo casamenteiro do OKCupid
+											ajuda-nos a decidir se duas pessoas
+se deveriam encontrar.
+											Construímos todo um negócio à volta disso.
+											Algoritmo é uma palavra cara,
+											e as pessoas gostam de a usar 
+como se fosse uma coisa muito especial,
+											mas não passa de uma maneira sistemática,
+											de resolver um problema passo-a-passo.
+											Não tem que ser nada de especial.
+											Nesta lição, vou explicar
+											como chegamos 
+ao nosso algoritmo em particular
+											para verem como se faz.
+											Porque é que os algoritmos
+são importantes?
+											Porque é que esta lição existe?
+											Reparem na frase muito
+significativa que eu usei:
+											são uma maneira de, passo-a-passo,
+resolver um problema.
+											Como sabem, os computadores são excelentes
+											em processos passo-a-passo.
+											Um computador sem algoritmo
+											não é passa de um pisa-papéis caro.
+											Como os computadores
+são uma parte dominante do dia-a-dia,
+											os algoritmos estão por todo o lado.
+											A matemática do algoritmo do OKCupid
+											é surpreendentemente simples.
+											É só somar, multiplicar
+											e algumas raízes quadradas.
+											A parte complicada de o desenhar,
+											foi entender como transformar
+algo misterioso,
+											a atração humana,
+											e decompô-la em componentes
+com que um computador pudesse trabalhar.
+											Precisávamos de informação
+para ""casar"" as pessoas,
+											para que o algoritmo pudesse trabalhar.
+											A melhor forma de conseguir
+informações das pessoas é pedir-lhas.
+											Portanto, o OKCupid devia
+fazer perguntas aos utilizadores, como:
+											""Quer vir a ter filhos?""
+											""Com que frequência lava os dentes?"",
+											""Gosta de filmes de terror?""
+											e coisas importante 
+como ""Acredita em Deus?""
+											Convém haver muitas perguntas
+											para se encontrarem pontos em comum,
+											ou seja, duas pessoas
+darem a mesma resposta.
+											Por exemplo, duas pessoas
+que gostam de filmes de terror
+											devem dar-se melhor do que 
+uma que gosta e outra que não.
+											Mas se for uma pergunta como:
+											""Gosta de ser o centro das atenções?""
+											Se as duas pessoas numa relação
+dizem que sim,
+											então vão ter grandes problemas.
+											Depressa percebemos isto,
+											por isso precisávamos de mais informações 
+em cada pergunta.
+											Pedimos às pessoas para
+serem específicas na sua resposta
+											e também sobre a resposta
+que queriam da outra pessoa.
+											Isso resultou muito bem,
+											mas precisávamos de mais uma dimensão.
+											Algumas perguntas dizem mais
+sobre uma pessoa que outras.
+											Por exemplo, uma pergunta
+sobre política, tipo:
+											""O que é pior: queimar livros
+ou queimar a bandeira?""
+											pode ser mais reveladora
+do que a sua preferência em filmes.
+											Não faz sentido dar o mesmo peso a tudo,
+											portanto adicionámos
+um novo ponto de informação.
+											Em todas as perguntas que o OKCupid faz,
+											podem dizer-nos o papel 
+que desempenha na vossa vida,
+											Isto varia de ""irrelevante"" 
+a ""obrigatório"".
+											Portanto, para cada pergunta,
+											temos três pontos no nosso algoritmo:
+											primeiro, a vossa resposta;
+											segundo, a resposta que querem
+											que o vosso parceiro potencial, dê;
+											e terceiro, a importância 
+que dão à pergunta..
+											Com todas estas informações,
+											o OKCupid pode perceber 
+se duas pessoas se darão bem.
+											O algoritmo trabalha 
+os números e dá um resultado.
+											Como exemplo prático,
+											vamos ver como vos sugeriríamos
+outra pessoa,
+											vamos chamar-lhe ""B"".
+											A percentagem de compatibilidade com B
+											baseia-se nas perguntas
+a que ambos responderam.
+											Vamos chamar ""s"" 
+a este conjunto de perguntas comuns.
+											Como exemplo simples, 
+usamos um conjunto ""s"" pequeno
+											apenas com duas perguntas comuns
+											e calculamos a compatibilidade
+a partir daí.
+											As duas perguntas são estas:
+											A primeira é:
+""É desarrumado?""
+											As possibilidades de resposta são:
+											muito desarrumado,
+											normal,
+											e muito organizado.
+											Se responderem
+""muito organizada"",
+											querem que a outra pessoa responda 
+""muito organizado"",
+											e a pergunta for muito importante,
+											é porque têm a mania da arrumação.
+											É arrumada e quer 
+que o outro seja arrumado,
+											Suponhamos que B é um pouco diferente.
+											Respondeu que é muito organizado,
+											mas que a outra pessoa pode
+ser apenas normal,
+											e que a pergunta 
+não é importante para ele.
+											Vamos ver a segunda pergunta,
+											que é a do exemplo anterior:
+											""Gosta de ser o centro das atenções?""
+											As resposta são apenas sim e não.
+											Vocês respondem que ""não"",
+querem que o outro responda ""não"",
+											e a pergunta não é muito importante.
+											B respondeu ""sim"",
+quer que o outro responda ""não"",
+											porque quer que as atenções
+se concentrem nele,
+											e a pergunta é mais ou menos importante.
+											Vamos tentar calcular tudo isto.
+											Como usamos computadores
+para fazer isso,
+											o primeiro passo é atribuir 
+valores numéricos
+											a ideias como ""relativamente importante""
+e ""muito importante""
+											porque os computadores
+precisam de tudo em algarismos.
+											No OKCupid optamos pela seguinte escala:
+											irrelevante vale 0,
+											pouca importância vale 1,
+											alguma importância vale 10,
+											muito importante vale 50,
+											e completamente obrigatório vale 250.
+											A seguir, o algoritmo 
+faz dois simples cálculos.
+											O primeiro é: quanto é que
+as respostas de B lhe agradam,
+											isto é, quantos pontos 
+obteve B na sua escala?
+											Como indicaram que a resposta de B
+											à primeira pergunta sobre arrumação
+											era muito importante,
+											isso vale 50 pontos 
+e B acertou na resposta.
+											A segunda pergunta só vale 1
+											porque disseram 
+que era pouco importante,
+											e B não acertou.
+											Portanto as respostas de B
+valem 50 em 51 pontos possíveis.
+											Isso é uma satisfação de 98%,
+É bastante bom.
+											O segundo cálculo do algoritmo
+											avalia se as vossas respostas 
+satisfazem B.
+											B atribui 1 ponto à vossa resposta
+à pergunta da arrumação
+											e 10 à vossa resposta à segunda.
+											Desses 11, ou seja 1 mais 10,
+ganharam 10,
+											acertaram na segunda resposta um do outro.
+											Portanto as respostas deram 10 em 11
+											o que é 91% satisfatório para B.
+											Não é nada mau.
+											O passo final é pegar 
+nas duas percentagens de compatibilidade
+											e obter um número para os dois.
+											Para isso, o algoritmo
+multiplica as pontuações,
+											depois calcula a raiz de n,
+											em que n é o número de perguntas.
+											Como s, que é o número de perguntas,
+											neste exemplo, é apenas 2,
+											temos uma percentagem de compatibilidade
+											igual à raiz quadrada de 98% vezes 91%.
+											Isto dá 94%.
+											Estes 94% são a vossa percentagem
+de compatibilidade com B.
+											É uma expressão matemática
+de como se darão bem
+											com base no que sabemos.
+											Porque é que o algoritmo multiplica,
+											em vez de fazer a média 
+das duas percentagens
+											e depois fazer a raiz quadrada?
+											Esta fórmula chama-se média geométrica,
+											uma excelente forma
+de combinar valores
+											que apresentam grandes variações
+											e representam propriedades 
+muito diferentes.
+											É perfeita para compatibilidade romântica.
+											Temos grandes variações
+e milhares de diferentes dados,
+											sobre filmes, sobre política,
+											sobre religião, sobre tudo.
+											De uma forma intuitiva, isto faz sentido.
+											Duas pessoas que correspondam a 50%
+											devem ser mais compatíveis
+											que outras que têm 
+compatibilidade a 0 e 100,
+											porque o afeto tem que ser mútuo.
+											Depois de pequenas correções
+para permitir uma margem de erro,
+											se o número de perguntas
+for muito reduzido, como neste exemplo,
+											estamos prontos.
+											Sempre que o OKCupid compara duas pessoas,
+											segue os passos que acabámos de explicar.
+											Primeiro recolhe os dados 
+das respostas,
+											depois compara as escolhas e preferências
+com outras pessoas
+											de forma simples e matemática.
+											Acho que esta capacidade de pegar
+em fenómenos do mundo real
+											e transformá-los em algo que
+um microchip consegue compreender,
+											é a capacidade mais importante que
+uma pessoa pode ter atualmente.
+											Tal como usamos frases
+para contar histórias às pessoas,
+											usamos algoritmos para
+contar histórias a um computador.
+											Se aprendermos a linguagem,
+											podemos sair e contar histórias.
+											Espero que isto vos ajude a fazer isso.
+									","
+											Hallo, ich bin Christian Rudder
+											und ich bin Mitbegründer von OKCupid.
+											Heute ist es eine der größten
+Dating-Sites in den USA.
+											Wie fast jeder dort habe ich
+											Mathe studiert und
+erwartungsgemäß
+											sind wir für unseren 
+analytischen Ansatz
+											zur Liebe bekannt.
+											Wir nennen es unseren
+Treffer-Algorithmus.
+											OKCupids Treffer-Algorithmus hilft uns
+											bei der Entscheidung, ob zwei 
+Leute sich verabreden sollten.
+											Darauf haben wir unser 
+ganzes Geschäft aufgebaut.
+											""Algorithmus"" klingt hochtrabend,
+											und Leute meinen, 
+es sei eine große Sache,
+											aber in Wahrheit ist 
+es nur ein Konzept,
+											wie man Schritt für Schritt
+ein Problem lösen kann.
+											Er muss gar nicht
+hochtrabend sein.
+											Ich werde jetzt erklären,
+											wie wir auf unseren speziellen
+Algorithmus gekommen sind,
+											damit ihr seht, 
+wie das funktioniert.
+											Warum sind Algorithmen
+überhaupt wichtig?
+											Warum gibt es diese
+Lektion überhaupt?
+											Vorhin habe ich einen
+wichtigen Satz gesagt:
+											Mit ihnen kann man Schritt für 
+Schritt ein Problem lösen,
+											und bekanntermaßen
+											sind Computer dabei
+einsame Spitze.
+											Ein Computer ohne Algorithmus
+											ist im Grunde ein teurer
+Briefbeschwerer.
+											Da Computer in unserem Leben
+allgegenwärtig sind,
+											sind es auch Algorithmen.
+											Die Mathematik hinter OKCupids
+Treffer-Algorithmus
+											ist überraschend einfach.
+											Es sind nur ein 
+paar Additionen,
+											Multiplikationen
+											und ein paar Quadratwurzeln.
+											Die Herausforderung dabei war,
+											herauszufinden, wie man 
+etwas Geheimnisvolles –
+											menschliche Anziehungskraft –
+											für einen Computer in ""mundgerechte ""
+Stücke aufsplitten kann.
+											Zunächst brauchten wir Daten,
+um Menschen zusammen zu bringen.
+											Etwas, womit der
+Algorithmus arbeiten kann.
+											Am schnellsten bekommt 
+man Daten von Menschen,
+											wenn man einfach darum bittet.
+											Wir beschlossen, dass OKCupid
+Anwender einfach fragen sollte,
+											z. B. ""Willst du 
+einmal Kinder haben?""
+											und ""Wie oft putzt 
+du deine Zähne?"",
+											""Magst du unheimliche Filme?""
+											und große Fragen wie
+""Glaubst du an Gott?""
+											Viele dieser Fragen 
+eignen sich gut dafür,
+											ähnliche Menschen 
+zusammenzuführen,
+											das heißt, wenn Menschen 
+die gleichen Antworten geben.
+											Wenn z. B. alle beide
+unheimliche Filme mögen,
+											passen sie vielleicht
+besser zusammen
+											als zwei Menschen,
+											von denen sie nur einer mag.
+											Aber was ist z. B. mit Fragen wie:
+											""Stehst du gerne im Mittelpunkt?""
+											Wenn beide Partner dies bejahen,
+											dann werden sie massive
+Probleme haben.
+											Das haben wir schnell bemerkt,
+											also wollten wir
+											zu jeder Frage weitere Daten haben.
+											Wir baten Menschen, nicht nur
+ihre eigene Antwort zu geben,
+											sondern auch die Antwort, die
+sie sich vom anderen wünschen.
+											Das funktionierte sehr gut,
+											aber wir benötigten 
+eine weitere Dimension.
+											Manche Fragen verraten mehr
+über einen Menschen als andere.
+											Eine Frage über Politik wie
+											""Was ist schlimmer: Bücher
+oder Flaggen zu verbrennen?""
+											kann mehr über jemanden 
+verraten als sein Filmgeschmack.
+											Es ist auch sinnlos, alles
+gleich zu gewichten,
+											also haben wir noch
+etwas hinzugefügt.
+											Bei jeder Frage von OKCupid
+											kannst du angeben,
+											welche Rolle sie in
+deinem Leben spielt,
+											auf einer Skala von ""unwichtig"" 
+bis ""ein Muss"".
+											Bei jeder Frage
+											erhalten wir 3 Dinge für
+unseren Algorithmus:
+											Erstens, deine Antwort,
+											zweitens, wie jemand anders –
+											der potentielle Treffer –
+											antworten soll;
+											und drittens, wie wichtig dir
+die Frage überhaupt ist.
+											Mit diesen Informationen
+											kann OKCupid einschätzen, wie gut 
+zwei Menschen zusammenpassen.
+											Der Algorithmus rechnet 
+und liefert ein Ergebnis.
+											Ein praktisches Beispiel:
+											Schauen wir uns an, wie wir für dich
+											einen Treffer – sagen wir ""B"" – finden.
+											Die Trefferquote mit B basiert auf
+											Fragen, die ihr beide beantwortet habt.
+											Nennen wir die Gruppe 
+gemeinsamer Fragen ""s"".
+											Als einfaches Beispiel 
+verwenden wir ein kleines ""s""
+											bei nur 2 gleichen Fragen
+											und suchen nach einer Trefferquote.
+											Hier sind zwei Beispielfragen:
+											Erstens: ""Wie unordentlich 
+bist du?""
+											und die Antwortmöglichkeiten sind:
+											sehr unordentlich,
+											durchschnittlich,
+											und sehr organisiert.
+											Angenommen, du sagst: 
+""Sehr organisiert"",
+											und möchtest, dass der andere
+""sehr organisiert"" antwortet
+											und die Frage ist dir sehr wichtig.
+											Weil du ein
+Sauberkeitsfanatiker bist.
+											Du bist sauber,
+											der andere soll es auch sein,
+											fertig.
+											Sagen wir, B ist ein bisschen anders.
+											Er antwortet selbst ""sehr organisiert"",
+											aber ""durchschnittlich"" ist als Antwort
+											von jemand anderem für ihn ok,
+											und die Frage ist ihm
+nicht sehr wichtig.
+											Schauen wir uns die 2. Frage
+											aus unserem vorigen Beispiel an:
+											""Stehst du gerne im Mittelpunkt?""
+											Die Antworten lauten ja und nein.
+											Du hast ""nein"" geantwortet,
+											der andere soll auch ""nein"" sagen,
+											und die Frage ist dir
+nicht sehr wichtig.
+											B antwortet ""ja"",
+											der andere soll ""nein"" sagen,
+											weil er im Rampenlicht stehen will,
+											und die Frage ist ihm 
+einigermaßen wichtig.
+											Rechnen wir das jetzt durch.
+											Als ersten Schritt –
+											weil wir dafür Computer verwenden –
+											müssen wir Zahlenwerte
+											mit Vorstellungen wie ""einigermaßen wichtig""
+und ""sehr wichtig"" verbinden,
+											weil Computer alles in Zahlen brauchen.
+											Bei OKCupid haben wir uns
+wie folgt entschieden:
+											0 ist ""unwichtig"",
+											1 ist ""ein wenig wichtig"",
+											""einigermaßen wichtig"" ist 10,
+											""sehr wichtig"" ist 50,
+											und ""ein Muss"" ist 250.
+											Der Algorithmus macht dann
+zwei einfache Rechnungen.
+											Die erste ist: Wie sehr bist du
+mit Bs Antwort zufrieden,
+											das heißt, wie viele mögliche Punkte
+hat B auf deiner Skala erzielt?
+											Du hast gesagt, dass Bs Antwort
+											auf die erste Frage nach der Sauberkeit
+											für dich sehr wichtig ist.
+											Das sind 50 Punkte, 
+und B hat richtig geantwortet.
+											Die zweite Frage erreicht nur 1,
+											weil du gesagt hast,
+es ist nicht sehr wichtig
+											und B hat falsch geantwortet.
+											B hat also 50 von 51 
+möglichen Punkten erzielt.
+											Das bedeutet zu 98% 
+zufriedenstellend.
+											Das ist ganz gut.
+											Die zweite Frage des Algorithmus betrifft
+											Bs Zufriedenheit mit dir.
+											B vergab 1 Punkt auf deine Antwort
+											bezüglich der Sauberkeit
+											und 10 auf deine zweite Antwort.
+											Von diesen 11 Punkten – 
+das sind 1 plus 10 –
+											hast du 10 bekommen.
+											Bei der 2. Frage waren beide
+mit der Antwort zufrieden.
+											deine 10 Punkte von 11
+											liefern 91% Zufriedenheit bei B.
+											Das ist nicht übel.
+											Im letzten Schritt nehmen 
+wir diese beiden Prozentsätze
+											und basteln daraus 
+eine Zahl für euch beide.
+											Dazu multipliziert der 
+Algorithmus eure Punkte,
+											zieht die n-te Wurzel daraus,
+											n ist die Anzahl der Fragen.
+											Denn ""s"" – die Anzahl der Fragen –
+											hier ist nur 2,
+											und unsere Trefferquote ist
+											die Quadratwurzel aus 98% mal 91%.
+											Das ergibt 94%.
+											Deine Trefferquote mit B liegt bei 94%.
+											So drückt die Mathematik aus,
+											wie glücklich ihr miteinander
+											auf Grundlage unserer 
+Informationen wärt.
+											Warum multipliziert der Algorithmus,
+											anstatt den Durchschnitt der 
+beiden Ergebnisse insgesamt
+											und die Quadratwurzel auszurechnen?
+											Diese Formel nennt man den 
+geometrischen Mittelwert.
+											Damit kann man sehr gut Werte
+miteinander kombinieren,
+											die eine große Spannweite haben
+											und ganz verschiedene 
+Eigenschaften darstellen.
+											Anders gesagt, ist es für
+romantische Treffer perfekt.
+											Es gibt eine große Spannweite
+											und Unmengen verschiedener Datenpunkte,
+											wie z. B. über Filme,
+											Politik,
+											Religion,
+											über alles.
+											Auch intuitiv ist das sinnvoll.
+											Zwei Menschen mit gegenseitig 
+50% Zufriedenheit
+											sollten besser zusammenpassen
+											als zwei andere mit einer 
+Zufriedenheit von 0 und 100,
+											weil Zuneigung beiderseitig sein muss.
+											Nach einer kleinen Korrektur 
+für Fehlerspielräume,
+											falls wir nur sehr wenige Fragen haben,
+											wie hier in diesem Beispiel,
+											können wir loslegen.
+											Jedesmal, wenn OKCupid
+zwei Menschen zusammenführt,
+											werden alle angesprochenen
+Schritte durchgegangen.
+											Zuerst werden Daten über
+deine Antworten gesammelt,
+											danach deine Wünsche und Vorlieben
+											mit anderen Menschen auf einfache, 
+mathematische Weise verglichen.
+											Diese Fähigkeit, Phänomene 
+der realen Welt
+											in etwas umzuwandeln, das 
+ein Mikrochip verstehen kann,
+											ist meiner Meinung nach
+											die wichtigste Fähigkeit, die
+jemand heutzutage haben kann.
+											So wie du Sätze verwendest, um 
+jemandem eine Geschichte zu erzählen,
+											verwendet man Algorithmen, um
+einem Computer eine Geschichte zu erzählen.
+											Wenn du die Sprache erlernen kannst,
+											kannst du der Welt
+deine Geschichten erzählen.
+											Dies wird dir hoffentlich dabei helfen.
+									","
+											Hola, soy Christian Rudder
+											y fui uno de los fundadores
+de OK Cupid.
+											Hoy es uno de los sitios de citas 
+más grande de Estados Unidos.
+											Como casi todos en el sitio,
+											tenía un título en matemáticas 
+y, como era de esperar,
+											éramos conocidos por 
+el enfoque analítico
+											que tenemos del amor.
+											Le llamamos el algoritmo 
+de compatibilidad.
+											En esencia el algoritmo 
+de compatibilidad de OK Cupid
+											nos ayuda a decidir si dos personas 
+debieran tener una cita.
+											Sobre esa base construimos 
+todo nuestro negocio.
+											Ahora, algoritmo es 
+una palabra pomposa
+											y la gente tiende a ignorarla 
+por ampulosa,
+											pero en realidad, un algoritmo
+es solo una forma sistemática
+											de resolver problemas paso a paso.
+											No tiene que ser nada pomposo.
+											Aquí en esta lección, explicaré
+											cómo concebimos 
+nuestro algoritmo,
+											así lo podrás entender.
+											Ahora, ¿por qué son importantes
+los algoritmos?
+											¿Para qué existe esta lección?
+											Bueno, nota una frase 
+muy significativa que usé arriba:
+											una forma de resolver 
+problemas paso a paso,
+											y como probablemente sepas,
+											las computadoras se lucen en
+los procesos paso a paso.
+											Una computadora sin un algoritmo
+											es en esencia un pisapapeles caro.
+											Y dado que las computadoras son una parte 
+tan dominante de la vida cotidiana,
+											los algoritmos están dondequiera.
+											La matemática subyacente al algoritmo 
+de compatibilidad de OK Cupid
+											es sorprendentemente sencilla.
+											Son solo unas sumas,
+											multiplicaciones,
+											y unas cuantas raíces cuadradas.
+											Aunque el truco de diseño estaba
+											en averiguar cómo tomar 
+algo tan misterioso,
+											como la atracción humana,
+											y separarlo en sus componentes para que 
+una computadora pueda trabajar con ellos.
+											Bueno, lo primero que necesitamos 
+para aparejar personas son datos,
+											algo que el algoritmo necesita.
+											El mejor modo de 
+conseguir datos de la gente
+											es simplemente preguntando.
+											Así, decidimos que OK Cupid 
+debería preguntar a los usuarios
+											cosas como, ""¿quieres
+tener hijos algún día?""
+											y ""¿con qué frecuencia
+te cepillas los dientes?"",
+											""¿te gustan las películas de terror?"",
+											y grandes temas como:
+""¿Crees en Dios?""
+											Ahora, muchas de las
+preguntas son buenas
+											para aparear entre iguales,
+											es decir cuando ambas 
+personas contestan igual.
+											Por ejemplo, dos personas a las que 
+les gustan las películas de terror
+											probablemente hacen mejor pareja
+											que una persona que le gusta
+											y otra que no.
+											Pero qué pasa con una pregunta como,
+											""¿te gusta ser el centro de atención?""
+											Si ambos en una relación dicen que sí,
+											entonces tendremos problemas grandes.
+											Pronto nos dimos cuenta de esto,
+											así que decidimos que necesitábamos
+											un poco más de datos 
+para cada pregunta.
+											Teníamos que pedir que especificaran 
+no solo su propia respuesta,
+											sino la respuesta que 
+querían del otro.
+											Eso funcionó muy bien,
+											pero necesitamos
+una dimensión más.
+											Algunas preguntas dicen más 
+de una persona que otras.
+											Por ejemplo, una pregunta 
+de política, algo como,
+											""¿qué es peor: quemar un libro 
+o una bandera?"",
+											puede revelar más de alguien 
+que su gusto fílmico.
+											Y no tiene sentido 
+ponderar todo por igual,
+											así que sumamos 
+un punto final de datos.
+											Por cada cosa que 
+pregunta OK Cupid,
+											tienen una oportunidad de decirnos
+											el rol que juega en sus vidas,
+											y esto varía desde 
+lo irrelevante a lo obligatorio.
+											Ahora pues, por cada pregunta,
+											tenemos tres cosas 
+para nuestro algoritmo:
+											primero, tu respuesta;
+											segundo, cómo quieres que el otro,
+											tu pareja potencial,
+											responda;
+											y tercero, qué tan importante 
+es la pregunta para ti.
+											Con toda esta información,
+											OO Cupid puede averiguar 
+qué tan bien se llevarán dos personas.
+											El algoritmo desmenuza los números 
+y les da un resultado.
+											Como un ejemplo práctico,
+											veamos cómo te apareamos 
+con otra persona,
+											que llamaremos ""B"".
+											Tu porcentaje de compatibilidad 
+con B se basa en
+											preguntas que ambos respondieron.
+											Que llamaremos el conjunto 
+de preguntas comunes, ""s"".
+											Como un ejemplo muy sencillo,
+usaremos un conjunto pequeño ""s""
+											con solo dos preguntas en común
+											y calcularemos de eso, una pareja.
+											He aquí nuestros dos preguntas ejemplo.
+											La primera, digamos, 
+""¿qué tan desordenado eres?""
+											y las posibles respuestas son:
+											muy desordenado,
+											promedio
+											y muy ordenado.
+											Digamos que contestas 
+""muy ordenado"",
+											y quisieras a alguien que 
+conteste, ""muy ordenado"",
+											y la preguntas es 
+muy importante para ti.
+											En suma tienes manía por el orden.
+											Eres ordenada,
+											quieres a alguien ordenado,
+											sin más.
+											Digamos que B es 
+un poquito diferente.
+											Responde que es 
+muy ordenado consigo mismo
+											pero promedio le parece bien
+											como respuesta del otro.
+											Y la pregunta le es poco relevante.
+											Miremos la segunda pregunta,
+											es la del ejemplo anterior:
+											""¿te gusta ser el centro de atención?""
+											Las respuestas son sí y no.
+											Ahora si contestas ""no"",
+											cómo quieres que 
+sea el ""no"" del otro.
+											Y la pregunta tiene 
+poca relevancia para ti.
+											Ahora B, contesta ""sí"",
+											quiere a alguien 
+que conteste ""no"",
+											porque quiere destacarse,
+											y la pregunta le es relevante.
+											Intentemos calcular todo esto.
+											Nuestro primer paso es,
+											dado que usamos computadoras,
+											necesitamos asignar valores numéricos
+											a ideas como ""algo importante"" 
+y ""muy importante""
+											porque las computadoras 
+necesitan todo en números.
+											Nosotros en OK Cupid 
+elegimos la siguiente escala:
+											irrelevante equivale a 0,
+											un poco importante equivale a 1,
+											algo importante equivale a 10,
+											muy importante equivale a 50,
+											y es absolutamente obligatorio a 250.
+											Siguiente paso, el algoritmo 
+hace dos simples cálculos.
+											El primero es qué tanto 
+te gustaron las respuestas de B,
+											esto es, ¿cuántos puntos posibles 
+obtuvo B en tu escala?
+											Bueno, tú indicaste que 
+la respuesta de B
+											a la primera pregunta sobre el desorden
+											era muy importante para ti.
+											Lo que equivale a 50 puntos y B acertó.
+											La segunda pregunta equivale solo a 1
+											porque dijiste que era 
+solo poco relevante,
+											y B la tiene mal.
+											Así, las respuestas de B fueron 
+50 de 51 puntos posibles.
+											Esto es 98 % satisfactorio,
+											lo cual es bastante bueno.
+											Y la segunda pregunta 
+del algoritmo ve
+											qué tanto le satisfaces a B.
+											Bueno, B te dio 1 punto 
+en tu respuesta
+											a la pregunta del desorden
+											y 10 en la respuesta a la segunda.
+											De esos 11, es decir 1 más 10,
+											te ganaste 10,
+											de la segunda pregunta ambos 
+están satisfechos entre sí.
+											Entonces sus respuestas 
+fueron 10 de 11
+											que equivale al 91% de 
+satisfacción para B.
+											No está mal.
+											El paso final es tomar estos 
+dos porcentajes de compatibilidad
+											y obtener un número para ambos.
+											Para hacer esto, el algoritmo 
+multiplica sus resultados,
+											hace la raíz de n,
+											donde n es el número de preguntas.
+											Dado que s, es el número de preguntas,
+											en este ejemplo, es solamente 2,
+											tenemos porcentajes de 
+compatibilidad que equivalen
+											a la raíz cuadrada de 98 % por 91 %,
+											que equivale a 94 %.
+											Este 94 % es tu porcentaje 
+de compatibilidad con B.
+											Es una expresión matemática
+											de qué tan feliz serían entre sí
+											con base a lo que sabemos.
+											Ahora bien, ¿por qué el algoritmo 
+se multiplica opuesto a, digamos,
+											el promedio de los dos resultados 
+de compatibilidad juntos
+											y por qué la raíz cuadrada?
+											En general, esta fórmula 
+se llama media geométrica,
+											que es un gran camino 
+para combinar valores
+											que tienen rangos amplios
+											y representan propiedades muy diferentes.
+											Es decir, es perfecto para 
+relaciones románticas.
+											Tenemos rangos amplios
+											y tenemos toneladas
+de datos diferentes,
+											como dije, de películas,
+											de política,
+											de religión,
+											de todo.
+											Intuitivamente, a su vez, tiene sentido.
+											Dos personas que se satisfecen 
+en 50 % a la otra
+											debieran ser una mejor pareja
+											que otros dos que 
+se satisfacen entre 0 y 100,
+											porque el afecto necesita ser mutuo.
+											Pero sumando una pequeña 
+corrección de margen de error,
+											en el caso que haya una pequeña 
+cantidad de preguntas,
+											como hicimos en este ejemplo,
+											estamos listos para salir.
+											Cada vez que OK Cupid 
+junta a dos personas,
+											prosigue con los pasos 
+que acabamos de esbozar.
+											Primero se recolectan 
+los datos de sus respuestas,
+											luego se comparan 
+sus elecciones y preferencias
+											con las de otros
+en modo simple y matemático.
+											Esto, la habilidad de tomar 
+fenómenos del mundo real
+											y hacer que un microchip
+los pueda entender,
+											es, creo,
+											la destreza más importante que 
+uno puede tener en la actualidad.
+											Así como usas oraciones para 
+contar una historia a una persona,
+											usas algoritmos para contar 
+una historia a una computadora.
+											Si aprendes el lenguaje,
+											puedes salir y contar tus historias.
+											Espero que esto te sirva para hacerlo.
+									",Inside OKCupid: The math of online dating,Christian Rudder,7:19,"technology,math,TED-Ed,relationships,animation"
+"
+","
+","
+","
+","
+",Inside OKCupid: The math of online dating,Christian Rudder,7:19,"technology,math,TED-Ed,relationships,animation"

@@ -1,0 +1,918 @@
+en,tr,fr,title,speaker,duration,tags
+"
+","
+","
+","How we can build AI to help humans, not hurt us",Margaret Mitchell,9:56,"algorithm,AI,communication,collaboration,innovation,intelligence,society,computers,Google"
+"
+											I work on helping computers
+communicate about the world around us.
+											There are a lot of ways to do this,
+											and I like to focus on helping computers
+											to talk about what they see
+and understand.
+											Given a scene like this,
+											a modern computer-vision algorithm
+											can tell you that there's a woman
+and there's a dog.
+											It can tell you that the woman is smiling.
+											It might even be able to tell you
+that the dog is incredibly cute.
+											I work on this problem
+											thinking about how humans
+understand and process the world.
+											The thoughts, memories and stories
+											that a scene like this
+might evoke for humans.
+											All the interconnections
+of related situations.
+											Maybe you've seen
+a dog like this one before,
+											or you've spent time
+running on a beach like this one,
+											and that further evokes thoughts
+and memories of a past vacation,
+											past times to the beach,
+											times spent running around
+with other dogs.
+											One of my guiding principles
+is that by helping computers to understand
+											what it's like to have these experiences,
+											to understand what we share
+and believe and feel,
+											then we're in a great position
+to start evolving computer technology
+											in a way that's complementary
+with our own experiences.
+									","
+											Bilgisayarların çevremizdeki dünya ile 
+iletişim kurmasına yardım etmek
+											üzerine çalışıyorum ve bunu yapmanın 
+birçok yolu var
+											ben bilgisayarlara gördükleri ve 
+anladıkları hakkında konuşmaları için
+											yardım etme üzerine odaklanmayı 
+tercih ettim.
+											Böyle bir sahneyi göz önüne alın,
+											modern bilgisayar-vizyonu algoritması
+											burada bir kadın var 
+ve bir köpek var diyebilir.
+											Kadının gülümsediğini size söyleyebilir.
+											Hatta köpeğin inanılmaz bir şekilde
+sevimli olduğunu söyleyebilir.
+											Benim üzerinde çalıştığım problem 
+yapay zekânın insanların dünyayı
+											nasıl anladığını ve
+nasıl değerlendirdiğini düşünmesi.
+											Düşünceler, anılar ve hikâyeler.
+											bu gibi sahneler insanlara 
+hatırlatılabilir.
+											İlgili durumların tüm bağlantıları.
+											Belki de daha önce bunun gibi bir 
+köpek görmüşsünüzdür
+											veya bunun gibi sahilde koşarak
+zaman geçirmişsinizdir
+											ve ayrıca eski bir tatile ait
+anı ve düşünceleri anımsatmaktadır,
+											sahildeki geçmiş zamanlar,
+											başka köpeklerle beraber etrafta beraber
+koşarak geçen zamanlar.
+											Bana ışık tutan prensiplerimden
+bir tanesi de bu tecrübeye sahip olmanın
+											nasıl bir şey olduğunu 
+bilgisayarın anlamasını sağlarsak
+											ne paylaştığımızı, neye inandığımızı ve 
+ne hissettiğimizi anlamasını sağlarsak
+											bilgisayar teknolojisini
+bizim tecrübelerimizle uyumlu bir şekilde
+											geliştirmeye başlamak için
+harika bir yerdeyiz demektir.
+									","
+											J'aide les ordinateurs à communiquer 
+avec le monde qui nous entoure.
+											Il y a plein de façons de le faire,
+											mais j'aime me consacrer
+à aider les ordinateurs
+											à parler de ce qu'ils voient
+et de ce qu'ils comprennent.
+											Pour une scène comme celle-ci,
+											un algorithme moderne de reconnaissance
+											peut vous dire qu'il y a
+une femme et un chien.
+											Il peut vous dire
+que la femme est souriante.
+											Il pourrait même vous dire que le chien
+est incroyablement mignon.
+											Je travaille sur ce problème
+											en étudiant la façon dont les humains
+comprennent et traitent le monde.
+											Les pensées, les souvenirs
+et les histoires
+											qu'une scène comme celle-ci
+pourrait évoquer pour un humain.
+											Toutes les interconnexions
+avec les situations proches.
+											Peut-être avez-vous déjà vu
+un chien semblable auparavant,
+											ou que vous avez beaucoup couru
+sur une plage comme celle-ci
+											et cela évoque d'autres pensées
+et des souvenirs de vacances passées,
+											des moments passés à la plage,
+											des moments passés à courir
+avec d'autres chiens.
+											Un de mes principes est d'aider
+les ordinateurs à comprendre
+											à quoi ressemblent de telles expériences,
+											pour leur faire comprendre ce que
+nous partageons, croyons et ressentons.
+											C'est ainsi qu'on pourra commencer à faire
+évoluer la technologie informatique
+											pour qu'elle soit complémentaire
+de nos propres expériences.
+									","How we can build AI to help humans, not hurt us",Margaret Mitchell,9:56,"algorithm,AI,communication,collaboration,innovation,intelligence,society,computers,Google"
+"
+","
+","
+","How we can build AI to help humans, not hurt us",Margaret Mitchell,9:56,"algorithm,AI,communication,collaboration,innovation,intelligence,society,computers,Google"
+"
+											So, digging more deeply into this,
+											a few years ago I began working on helping
+computers to generate human-like stories
+											from sequences of images.
+											So, one day,
+											I was working with my computer to ask it
+what it thought about a trip to Australia.
+											It took a look at the pictures,
+and it saw a koala.
+											It didn't know what the koala was,
+											but it said it thought
+it was an interesting-looking creature.
+											Then I shared with it a sequence of images
+about a house burning down.
+											It took a look at the images and it said,
+											""This is an amazing view!
+This is spectacular!""
+											It sent chills down my spine.
+											It saw a horrible, life-changing
+and life-destroying event
+											and thought it was something positive.
+											I realized that it recognized
+the contrast,
+											the reds, the yellows,
+											and thought it was something
+worth remarking on positively.
+											And part of why it was doing this
+											was because most
+of the images I had given it
+											were positive images.
+											That's because people
+tend to share positive images
+											when they talk about their experiences.
+											When was the last time
+you saw a selfie at a funeral?
+									","
+											Bu nedenle, bunu daha derinlemesine
+araştırırken,
+											birkaç yıl önce bir dizi fotoğraftan 
+bilgisayarların insan benzeri hikâyeler
+											üretmesine yardımcı olmak üzere
+çalışmaya başladım.
+											Ve bir gün,
+											bilgisayarımla Avustralya gezisi hakkında
+ne düşündüğünü sormak için çalışıyordum.
+											Resme baktı ve bir koala gördü.
+											Koala'nın ne olduğunu bilmiyor
+											fakat ilginç görünümlü bir 
+yaratık olduğunu düşündüğünü söyledi.
+											Ardından onunla bir dizi yanan ev 
+resmi paylaştım.
+											Resimlere baktı ve dedi ki,
+											"" Bu hayret verici bir görüntü,
+bu olağanüstü.""
+											Ürperdim.
+											O korkunç, hayatı değiştiren ve hayatı yok
+eden olay gördü
+											ve bir şeylerin olumlu olduğunu düşündü.
+											Bence, kırmızı sarı zıtlığını
+											algıladı
+											ve olumlu bakmaya değer
+bir şey olarak düşündü.
+											Ve kısmen bunu yapmasının nedeni
+											ona vermiş olduğum resimlerin 
+çoğunluğunun
+											olumlu görüntüler olmasıydı.
+
+											Bunun nedeni insanlar kendi
+tecrübelerinden bahsederken
+											olumlu resimleri paylaşmaya 
+meyillidirler.
+											En son ne zaman cenaze töreninde
+paylaşılan bir selfie gödünüz?
+									","
+											Donc, pour approfondir ce sujet,
+											ces dernières années, j'ai aidé
+les ordinateurs à créer des histoires
+											à partir de séquences d'images.
+											Un jour,
+											j'étais sur mon PC et je lui ai demandé
+son avis sur un voyage en Australie.
+											Il a regardé les images,
+et il a vu un koala.
+											Il ne savait pas ce que c'était, 
+
+											mais, selon lui, cette créature
+avait l'air intéressante.
+											Puis, j'ai partagé avec lui une séquence
+d'images d'une maison qui brûlait.
+											Il a regardé les images et il a dit :
+											« C'est une vue incroyable !
+C'est spectaculaire ! »
+											Et ça m'a donné des frissons.
+											Il a vu un événement horrible, qui peut
+bouleverser et détruire une vie,
+											et il pensait que c'était
+une chose positive.
+											J'ai compris qu'il discernait
+le contraste,
+											les rouges, les jaunes,
+											et il trouvait, sans mauvaise pensée,
+que ça méritait d'être vu.
+											S'il disait ça, c'était en partie
+											parce que la plupart des images
+que je lui avais apportées
+											étaient des images positives.
+											C'est parce que les gens ont tendance
+à partager des images positives
+											quand ils parlent de leurs expériences.
+											Se prend-on en portrait avec
+son portable à un enterrement ?
+									","How we can build AI to help humans, not hurt us",Margaret Mitchell,9:56,"algorithm,AI,communication,collaboration,innovation,intelligence,society,computers,Google"
+"
+","
+","
+","How we can build AI to help humans, not hurt us",Margaret Mitchell,9:56,"algorithm,AI,communication,collaboration,innovation,intelligence,society,computers,Google"
+"
+											I realized that,
+as I worked on improving AI
+											task by task, dataset by dataset,
+											that I was creating massive gaps,
+											holes and blind spots
+in what it could understand.
+											And while doing so,
+											I was encoding all kinds of biases.
+											Biases that reflect a limited viewpoint,
+											limited to a single dataset —
+											biases that can reflect
+human biases found in the data,
+											such as prejudice and stereotyping.
+											I thought back to the evolution
+of the technology
+											that brought me to where I was that day —
+											how the first color images
+											were calibrated against
+a white woman's skin,
+											meaning that color photography
+was biased against black faces.
+											And that same bias, that same blind spot
+											continued well into the '90s.
+											And the same blind spot
+continues even today
+											in how well we can recognize
+different people's faces
+											in facial recognition technology.
+											I though about the state of the art
+in research today,
+											where we tend to limit our thinking
+to one dataset and one problem.
+											And that in doing so, we were creating
+more blind spots and biases
+											that the AI could further amplify.
+									","
+											Anladım ki yapay zekâyı geliştirmek
+üzere çalışıyorken
+											görevden göreve, 
+veri setinden veri setine,
+											çok büyük boşluklar,
+											delikler ve onun anlayabileceği 
+kör noktalar yaratıyordum.
+											Ve bunu yaparken,
+											her türlü ön yargıyı kodluyordum.
+											Kısıtlı bir bakış açısını yansıtan
+ön yargılar,
+											tek veri seti ile sınırlanmış—
+											insan ön yargılarını yansıtabilen
+ön yargılar verilerde de bulunur,
+											ön yargı ve basma kalıp düşünceler gibi.
+											Beni o gün olduğum yere 
+getiren teknolojinin
+											evrimini düşündüm—
+											ilk renkli resmin nasıl
+											beyaz kadının tenine uyarlandığını
+											renkli fotoğrafçılığın siyah yüzlere karşı
+ön yargılı olduğu anlamına geliyordu.
+											Ve bu benzer ön yargı, 
+bu aynı kör nokta
+											90'larda da devam etti.
+											Hatta aynı kör nokta yüz tanıma
+teknolojisinde farklı insanların
+											yüzlerini ne kadar iyi 
+tanıdığımız konusunda
+											bugün de devam etmektedir.
+											Bugünkü araştırmalardaki gelişmişlik 
+seviyesini düşündüm, kendi düşüncemizi
+											bir veri setinde ve bir problemde 
+sınırlamaya meyilli olduğumuz yerde.
+											Ve bunu yaparken, yapay zekânın
+daha fazla büyüteceği
+											birçok kör nokta
+ve ön yargı yarattım.
+									","
+											J'ai compris que, pendant
+que j'améliorais l'IA,
+											fonction par fonction, jeu de données
+par jeu de données,
+											je créais des lacunes massives,
+											des trous et des biais cognitifs
+dans ce que l'IA pouvait comprendre.
+											Et, en faisant cela,
+											je codais toute sorte de préjugés.
+											Des préjugés qui reflètent
+un point de vue limité,
+											limité à un seul jeu de données.
+											Des partis pris qui reflètent des biais
+humains, retrouvés dans les données,
+											comme les préjugés et les stéréotypes.
+											Je repensais à l'évolution technologique
+											qui m'a amenée là
+où j'en suis aujourd'hui.
+											Que les premières images en couleur
+											ont été calibrées sur la peau
+d'une femme blanche,
+											les photographies en couleur étaient
+donc biaisées pour les visages noirs.
+											Et ces mêmes préjugés,
+ces mêmes biais cognitifs
+											se sont poursuivis dans les années 90.
+											Ces biais cognitifs sont
+encore là aujourd'hui
+											dans notre façon de reconnaître
+les visages de gens différents
+											grâce à la reconnaissance faciale.
+											J'ai réfléchi à l'état de l'art
+de la recherche actuelle,
+											qui a tendance à limiter la réflexion à un
+seul jeu de données et à un seul problème.
+											Ce faisant, on a créé encore plus
+de biais cognitifs et de préjugés
+											que l'IA pourrait encore amplifier.
+									","How we can build AI to help humans, not hurt us",Margaret Mitchell,9:56,"algorithm,AI,communication,collaboration,innovation,intelligence,society,computers,Google"
+"
+","
+","
+","How we can build AI to help humans, not hurt us",Margaret Mitchell,9:56,"algorithm,AI,communication,collaboration,innovation,intelligence,society,computers,Google"
+"
+											I realized then
+that we had to think deeply
+											about how the technology we work on today
+looks in five years, in 10 years.
+											Humans evolve slowly,
+with time to correct for issues
+											in the interaction of humans
+and their environment.
+											In contrast, artificial intelligence
+is evolving at an incredibly fast rate.
+											And that means that it really matters
+											that we think about this
+carefully right now —
+											that we reflect on our own blind spots,
+											our own biases,
+											and think about how that's informing
+the technology we're creating
+											and discuss what the technology of today
+will mean for tomorrow.
+									","
+											Ardından anladım ki, bugün üzerinde
+çalıştığımız teknolojinin
+											beş yıl içresinde, 10 yıl içerisinde nasıl
+görüneceğini derinlemesine düşünmeliydik.
+											İnsan zamanla insanlarla ve 
+çevresiyle etkileşimindeki
+											meseleleri düzelterek 
+yavaş yavaş evrimleşir.
+											Aksine, yapay zekâ inanılmaz bir 
+hızla evrimleşmektedir.
+											Ve bu şu anlama gelir,
+bu hemen şimdi
+											dikkatli bir şekilde
+düşünmemiz gereken bir konudur —
+											ki biz bunun üzerine kendi 
+kör noktamızı
+											kendi ön yargılarımızı yansıtıyoruz
+											ve bu bilgi teknolojilerini nasıl 
+yarattığımız hakkında düşünmeliyiz
+											ve bugünün teknolojisinin yarın 
+için ne ifade edeceğini tartışmalıyız.
+									","
+											J'ai alors compris qu'il fallait imaginer
+											le devenir de la technologie actuelle
+dans cinq ou dix ans.
+											L'être humain évolue lentement,
+il prend le temps de corriger
+											ses interactions avec son environnement.
+											En revanche, l'intelligence artificielle
+évolue à un rythme incroyablement rapide.
+											Par conséquent, c'est important
+											de réfléchir soigneusement 
+à ça dès maintenant –
+											à nos propres biais cognitifs,
+											nos préjugés,
+											et comment ils influencent
+la technologie en création –
+											et de discuter du sens
+de la technologie pour le futur.
+									","How we can build AI to help humans, not hurt us",Margaret Mitchell,9:56,"algorithm,AI,communication,collaboration,innovation,intelligence,society,computers,Google"
+"
+","
+","
+","How we can build AI to help humans, not hurt us",Margaret Mitchell,9:56,"algorithm,AI,communication,collaboration,innovation,intelligence,society,computers,Google"
+"
+											CEOs and scientists have weighed in
+on what they think
+											the artificial intelligence technology
+of the future will be.
+											Stephen Hawking warns that
+											""Artificial intelligence
+could end mankind.""
+											Elon Musk warns
+that it's an existential risk
+											and one of the greatest risks
+that we face as a civilization.
+											Bill Gates has made the point,
+											""I don't understand
+why people aren't more concerned.""
+											But these views —
+											they're part of the story.
+											The math, the models,
+											the basic building blocks
+of artificial intelligence
+											are something that we call access
+and all work with.
+											We have open-source tools
+for machine learning and intelligence
+											that we can contribute to.
+											And beyond that,
+we can share our experience.
+											We can share our experiences
+with technology and how it concerns us
+											and how it excites us.
+											We can discuss what we love.
+											We can communicate with foresight
+											about the aspects of technology
+that could be more beneficial
+											or could be more problematic over time.
+									","
+											CEO'lar ve bilim insanları geleceğin 
+yapay zekâ teknolojilerinin
+											ne olacağını düşünmek üzerine 
+ağırlıklarını koydular.
+											Stephen Hawking,
+											""Yapay zekâ insanların sonu olabilir""
+uyarısını yaptı.
+											Elon Musk, bunun bir varoluşsal
+risk olduğu ve toplum olarak
+											karşı karşıya olduğumuz en büyük 
+risklerden biri olduğu konusunda uyardı.
+											Bill Gates
+bir noktaya işaret etti;
+											""İnsanların niçin daha fazla alakadar
+olmadığını anlamıyorum.""
+											Fakat bu görüşler—
+											hikâyenin sadece bir bölümü.
+											Matematik, modeller
+											yapay zekânın temel yapı taşları
+											erişim olarak tanımladığımız ve
+bununla alakadar şeylerdir.
+											Machine Learning ve katkıda 
+bulunduğumuz zekâ için
+											açık kaynak araçlarına sahibiz.
+											Ve bunun ötesinde, tecrübelerimizi
+paylaşabiliyoruz.
+											Tecrübelerimizi teknolojiyle
+paylaşabiliyoruz ve bizi nasıl
+											alakadar ettiği
+bizi nasıl cezbettiği
+											Neyi sevdiğimizi tartışabiliriz.
+											Daha faydalı olabilecek veya zamanla
+
+											daha sorunlu olabilecek teknolojinin 
+görünümleri hakkında
+											ön görü ile iletişim kurabiliriz.
+									","
+											Des PDG et des scientifiques
+se sont prononcés
+											sur le futur de l'intelligence
+artificielle de demain.
+											Stephen Hawking nous alerte :
+											« L'intelligence artificielle pourrait 
+détruire l'humanité. »
+											Elon Musk nous dit que 
+c'est un risque existentiel,
+											un des plus grands que
+notre civilisation devra affronter.
+											Bill Gates a fait remarquer :
+											« Je ne sais pas pourquoi les gens
+ne sont pas plus inquiets. »
+											Mais ces points de vue
+											font partie d'une histoire.
+											Les maths, les modèles,
+											les bases même
+de l'intelligence artificielle
+											sont des choses que nous pouvons
+tous aborder et améliorer.
+											Il existe des logiciels libres
+pour l'apprentissage automatique
+											auxquels chacun peut contribuer.
+											Et au-delà de ça, nous pouvons
+partager notre expérience,
+											nos expériences avec la technologie,
+comment elle nous touche
+											et nous passionne.
+											On peut parler de nos passions.
+											On peut parler de nos hypothèses
+											sur les aspects de la technologie
+qui pourraient devenir plus utiles
+											ou bien poser plus de problèmes
+au fil du temps.
+									","How we can build AI to help humans, not hurt us",Margaret Mitchell,9:56,"algorithm,AI,communication,collaboration,innovation,intelligence,society,computers,Google"
+"
+","
+","
+","How we can build AI to help humans, not hurt us",Margaret Mitchell,9:56,"algorithm,AI,communication,collaboration,innovation,intelligence,society,computers,Google"
+"
+											If we all focus on opening up
+the discussion on AI
+											with foresight towards the future,
+											this will help create a general
+conversation and awareness
+											about what AI is now,
+											what it can become
+											and all the things that we need to do
+											in order to enable that outcome
+that best suits us.
+											We already see and know this
+in the technology that we use today.
+											We use smart phones
+and digital assistants and Roombas.
+											Are they evil?
+											Maybe sometimes.
+											Are they beneficial?
+											Yes, they're that, too.
+											And they're not all the same.
+											And there you already see
+a light shining on what the future holds.
+											The future continues on
+from what we build and create right now.
+											We set into motion that domino effect
+											that carves out AI's evolutionary path.
+									","
+											Eğer geleceğe yönelik öngörü ile beraber
+yapay zekâ üzerine tartışma
+											açmak üzerine odaklanırsak
+											bu şimdi yapay zekânın ne olduğu,
+											ne olabileceği
+											ve bize en uygun sonucu 
+mümkün kılması için
+											yapmamız gereken her şey hakkında
+											genel bir tartışma ve farkındalık 
+yaratmamıza yardım edecektir.
+											Bunu bugün kullandığımız teknolojide
+zaten gördük ve anladık.
+											Akıllı telefon, dijital asistan ve
+Roombas kullanıyoruz.
+											Bunlar kötü mü?
+											Belki bazen.
+											Faydalı mı?
+											Evet, ayrıca faydalı.
+											Ve bunların hepsi aynı değil.
+											Ve burada geleceğin getireceklerinin
+ışığını şimdiden görüyorsun.
+											Gelecek şimdi yarattığımız ve inşa 
+ettiğimiz şeyden devam ediyor.
+											Yapay zekânın evrimsel yolunu açan
+											domino etkisi yaratan hareketi başlattık.
+									","
+											Si on se met tous à ouvrir
+une discussion sur l'IA,
+											avec un horizon de long terme,
+											on contribuera à créer un débat
+et une prise de conscience générale
+											sur ce qu'est l'IA aujourd'hui,
+											ce qu'elle peut devenir
+											et tout ce qu'on doit faire
+											pour arriver à atteindre
+le meilleur résultat pour nous.
+											C'est déjà le cas avec la technologie
+qu'on utilise aujourd'hui.
+											On utilise des téléphones, des assistants
+personnels et des robots aspirateurs.
+											Sont-ils nuisibles ?
+											Parfois, peut-être.
+											Sont-ils utiles ?
+											Oui, ils le sont aussi.
+											Et ils ne sont pas tous pareils.
+											Et c'est là qu'on voit déjà
+une lueur positive dans le futur.
+											Le futur avance grâce à tout ce
+qu'on construit aujourd'hui.
+											On a mis en mouvement l'effet domino
+											qui construit l'évolution de l'IA.
+									","How we can build AI to help humans, not hurt us",Margaret Mitchell,9:56,"algorithm,AI,communication,collaboration,innovation,intelligence,society,computers,Google"
+"
+","
+","
+","How we can build AI to help humans, not hurt us",Margaret Mitchell,9:56,"algorithm,AI,communication,collaboration,innovation,intelligence,society,computers,Google"
+"
+											In our time right now,
+we shape the AI of tomorrow.
+											Technology that immerses us
+in augmented realities
+											bringing to life past worlds.
+											Technology that helps people
+to share their experiences
+											when they have difficulty communicating.
+											Technology built on understanding
+the streaming visual worlds
+											used as technology for self-driving cars.
+											Technology built on understanding images
+and generating language,
+											evolving into technology that helps people
+who are visually impaired
+											be better able to access the visual world.
+											And we also see how technology
+can lead to problems.
+											We have technology today
+											that analyzes physical
+characteristics we're born with —
+											such as the color of our skin
+or the look of our face —
+											in order to determine whether or not
+we might be criminals or terrorists.
+											We have technology
+that crunches through our data,
+											even data relating
+to our gender or our race,
+											in order to determine whether or not
+we might get a loan.
+											All that we see now
+											is a snapshot in the evolution
+of artificial intelligence.
+											Because where we are right now,
+											is within a moment of that evolution.
+											That means that what we do now
+will affect what happens down the line
+											and in the future.
+									","
+											Bizim zamanımızda şimdi,
+yarının yapay zekâsını şekillendiriyoruz.
+											Bizi artırılmış gerçekliğin 
+içine daldıran teknoloji
+											geçmiş dünyaları canlandırıyor.
+											İrtibat kurmakta zorluk çektiklerinde
+kendi tecrübelerini paylaşmalarında
+											insanlara yardımcı olan teknoloji.
+											Akan görsel dünyaları anlamak üzerine 
+inşa edilmiş olan teknoloji
+											sürücüsüz arabalarda kullanıyor.
+											Resimleri anlama ve dil üretmeyi anlama 
+üzerine inşa edilmiş olan teknoloji
+											görme engelli insanların 
+görsel dünyaya daha iyi ulaşmalarına
+											yardım eden teknolojiye evriliyor.
+											Aynı zamanda teknolojinin nasıl 
+sorunlara yol açabileceğini de görüyoruz.
+											Bugün, ten rengimiz veya yüzümüzün
+görüntüsü gibi doğuştan gelen
+											fiziksel özelliklerimizi analiz ederek
+											bizim suçlu veya terörist olma ya da 
+olmama ihtimalimizi belirlemek için
+											kullanan teknolojilere sahibiz.
+											Kredi alıp alamayacağımıza karar
+vermek için verilerimizi
+											hatta cinsiyetimiz veya ırkımızla 
+ilgili verileri kullanarak
+											hesaplamalar yapan 
+bir teknolojiye sahibiz.
+											Şimdi gördüğümüz her şey
+											yapay zekânın evriminde anlık bir 
+görüntüdür.
+											Çünkü şimdi olduğumuz yer
+											bu evrimin içinde kısa bir an.
+											Bunun anlamı, şu anda yaptığımız şey
+gelecekte olacak
+											şeyleri etkileyecektir.
+									","
+											C'est aujourd'hui qu'on façonne
+l'IA de demain.
+											Une technologie qui nous immerge 
+dans les réalités augmentées,
+											ramenant à la vie des mondes passés.
+											Une technologie qui aide les gens
+à partager leurs expériences
+											quand ils ont du mal à communiquer.
+											Une technologie basée sur la compréhension
+des univers visuels en flux continu,
+											qui fait fonctionner
+les véhicules autonomes.
+											Une technologique d'analyse d'images
+et de création de langages,
+											qui évolue en une technologie 
+pour aider les troubles de la vue,
+											afin de pouvoir mieux
+accéder au monde visuel.
+											On voit aussi comment
+la technologie peut créer des problèmes.
+											On est maintenant
+											capables d’analyser les
+caractéristiques physiques innées,
+											comme la couleur de notre peau
+ou l'apparence du visage,
+											pour déterminer nos probabilités
+de devenir un criminel ou un terroriste.
+											On a des logiciels capables
+de traiter toutes les données
+											même celles concernant notre genre
+ou notre couleur de peau,
+											afin de déterminer si on peut
+ou non contracter un crédit.
+											Tout ce qu'on voit
+											n'est qu'un aperçu de l'évolution 
+de l'intelligence artificielle.
+											Parce que nous sommes maintenant
+											à un stade précis de cette évolution.
+											C'est-à-dire que ce qu'on fait maintenant
+aura des répercussions par la suite
+											et dans le futur.
+									","How we can build AI to help humans, not hurt us",Margaret Mitchell,9:56,"algorithm,AI,communication,collaboration,innovation,intelligence,society,computers,Google"
+"
+","
+","
+","How we can build AI to help humans, not hurt us",Margaret Mitchell,9:56,"algorithm,AI,communication,collaboration,innovation,intelligence,society,computers,Google"
+"
+											If we want AI to evolve
+in a way that helps humans,
+											then we need to define
+the goals and strategies
+											that enable that path now.
+											What I'd like to see is something
+that fits well with humans,
+											with our culture and with the environment.
+											Technology that aids and assists
+those of us with neurological conditions
+											or other disabilities
+											in order to make life
+equally challenging for everyone.
+											Technology that works
+											regardless of your demographics
+or the color of your skin.
+											And so today, what I focus on
+is the technology for tomorrow
+											and for 10 years from now.
+									","
+											Eğer yapay zekânın insanlığa yardım etme
+yolunda evrimleşmesini istiyorsak
+											bize bu yolu sağlayacak hedef ve
+stratejileri belirlemeye
+											ihtiyacımız var.
+											Görmek istediğim şey
+											insanlar ile, bizim kültürümüz ve 
+çevremiz ile uyumlu bir şeylerdir.
+											Hayatı herkes için eşit derecede 
+zorlayıcı yapmak için
+											nörolojik hastalıkları olanlar 
+
+											ya da diğer engelli olanlarımıza 
+yardımcı ve destekleyici olacak teknoloji.
+											Demografik yapı veya
+											ten rengine bakmaksızın çalışan teknoloji.
+											Ve bugün, odaklandığım şey gelecek
+için, bundan 10 yıl sonrası için
+											teknoloji.
+									","
+											Si on veut que l'IA évolue 
+pour aider l'humanité,
+											on doit définir des objectifs
+et des stratégies
+											pour tracer aujourd'hui cette voie.
+											Je voudrais voir une IA
+qui cohabite avec nous, les humains,
+											avec nos cultures et notre environnement.
+											Une technologie qui vient en aide à ceux
+qui ont des problèmes neurologiques
+											ou tout autre handicap
+											afin de garantir l'égalité des chances
+dans la vie pour tous.
+											Une technologie fonctionnant
+											quel que soit votre statut démographique
+ou votre couleur de peau.
+											Aujourd'hui, je me focalise donc
+sur la technologie de demain,
+											pour les dix ans à venir.
+									","How we can build AI to help humans, not hurt us",Margaret Mitchell,9:56,"algorithm,AI,communication,collaboration,innovation,intelligence,society,computers,Google"
+"
+","
+","
+","How we can build AI to help humans, not hurt us",Margaret Mitchell,9:56,"algorithm,AI,communication,collaboration,innovation,intelligence,society,computers,Google"
+"
+											AI can turn out in many different ways.
+											But in this case,
+											it isn't a self-driving car
+without any destination.
+											This is the car that we are driving.
+											We choose when to speed up
+and when to slow down.
+											We choose if we need to make a turn.
+											We choose what the AI
+of the future will be.
+											There's a vast playing field
+											of all the things that artificial
+intelligence can become.
+											It will become many things.
+											And it's up to us now,
+											in order to figure out
+what we need to put in place
+											to make sure the outcomes
+of artificial intelligence
+											are the ones that will be
+better for all of us.
+									","
+											Yapay zekâ farklı şekillerde 
+ortaya çıkabilir.
+											Fakat bu durumda,
+											varış noktası olmayan bir sürücüsüz
+araba değildir.
+											Burada bizim sürdüğümüz 
+bir araba vardır.
+											Ne zaman hızlanacağını veya 
+yavaşlayacağını biz seçeriz.
+											Dönüş yapmamız gerekiyorsa biz seçeriz.
+											Gelecekteki yapay zekânın ne olacağını
+biz belirleriz.
+											Yapay zekânın olabileceği
+											her şeyin geniş
+oyun alanları vardır.
+											Birçok şey olacaktır.
+											Ve şimdi bu bize kaldı,
+											bunu halletmek adına
+											yapay zekanın sonuçlarından 
+emin olmak için
+											yerine koymamız gereken şey
+hepimiz için daha iyi olanlardır.
+									","
+											L'IA peut devenir plein
+de choses différentes.
+											Mais dans ce cas,
+											ce ne sera pas un véhicule autonome 
+sans destination.
+											Ce sera une voiture qu'on pilote.
+											On choisira quand accélérer
+et quand ralentir.
+											On décidera de faire un virage ou non.
+											On sélectionnera ce à quoi
+ressemblera l'IA dans le futur.
+											Il y a beaucoup de choses
+											que l'intelligence artificielle
+peut devenir.
+											Elle a un énorme potentiel.
+											Et c'est à nous, aujourd'hui,
+											de trouver ce qu'on doit
+mettre en place
+											pour s'assurer que les effets
+de l'intelligence artificielle
+											soient bénéfiques pour nous tous.
+									","How we can build AI to help humans, not hurt us",Margaret Mitchell,9:56,"algorithm,AI,communication,collaboration,innovation,intelligence,society,computers,Google"
+"
+","
+","
+","How we can build AI to help humans, not hurt us",Margaret Mitchell,9:56,"algorithm,AI,communication,collaboration,innovation,intelligence,society,computers,Google"
+"
+											Thank you.
+									","
+											Teşekkür ederim.
+									","
+											Merci.
+									","How we can build AI to help humans, not hurt us",Margaret Mitchell,9:56,"algorithm,AI,communication,collaboration,innovation,intelligence,society,computers,Google"
+"
+","
+","
+","How we can build AI to help humans, not hurt us",Margaret Mitchell,9:56,"algorithm,AI,communication,collaboration,innovation,intelligence,society,computers,Google"
+"
+											(Applause)
+									","
+											(Alkış)
+									","
+											(Applaudissements)
+									","How we can build AI to help humans, not hurt us",Margaret Mitchell,9:56,"algorithm,AI,communication,collaboration,innovation,intelligence,society,computers,Google"
+"
+","
+","
+","How we can build AI to help humans, not hurt us",Margaret Mitchell,9:56,"algorithm,AI,communication,collaboration,innovation,intelligence,society,computers,Google"

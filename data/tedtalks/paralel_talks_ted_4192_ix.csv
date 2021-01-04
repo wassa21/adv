@@ -1,0 +1,761 @@
+en,es,pt,fr,tr,de,title,speaker,duration,tags
+"
+","
+","
+","
+","
+","
+",The mathematical secrets of Pascal's triangle,Wajdi Mohamed Ratemi,4:34,"teaching,math,TED-Ed,animation,education"
+"
+											This may look like a neatly arranged
+stack of numbers,
+											but it's actually
+a mathematical treasure trove.
+											Indian mathematicians called it 
+the Staircase of Mount Meru.
+											In Iran, it's the Khayyam Triangle.
+											And in China, it's Yang Hui's Triangle.
+											To much of the Western world,
+it's known as Pascal's Triangle
+											after French mathematician Blaise Pascal,
+											which seems a bit unfair
+since he was clearly late to the party,
+											but he still had a lot to contribute.
+											So what is it about this that has so 
+intrigued mathematicians the world over?
+											In short, 
+it's full of patterns and secrets.
+											First and foremost, there's the pattern
+that generates it.
+											Start with one and imagine invisible
+zeros on either side of it.
+											Add them together in pairs, 
+and you'll generate the next row.
+											Now, do that again and again.
+											Keep going and you'll wind up 
+with something like this,
+											though really Pascal's Triangle 
+goes on infinitely.
+											Now, each row corresponds to what's called
+the coefficients of a binomial expansion
+											of the form (x+y)^n,
+											where n is the number of the row,
+											and we start counting from zero.
+											So if you make n=2 and expand it,
+											you get (x^2) + 2xy + (y^2).
+											The coefficients, 
+or numbers in front of the variables,
+											are the same as the numbers in that row
+of Pascal's Triangle.
+											You'll see the same thing with n=3,
+which expands to this.
+											So the triangle is a quick and easy way
+to look up all of these coefficients.
+											But there's much more.
+											For example, add up 
+the numbers in each row,
+											and you'll get successive powers of two.
+											Or in a given row, treat each number
+as part of a decimal expansion.
+											In other words, row two is
+(1x1) + (2x10) + (1x100).
+											You get 121, which is 11^2.
+											And take a look at what happens
+when you do the same thing to row six.
+											It adds up to 1,771,561,
+which is 11^6, and so on.
+											There are also geometric applications.
+											Look at the diagonals.
+											The first two aren't very interesting:
+all ones, and then the positive integers,
+											also known as natural numbers.
+											But the numbers in the next diagonal
+are called the triangular numbers
+											because if you take that many dots,
+											you can stack them 
+into equilateral triangles.
+											The next diagonal 
+has the tetrahedral numbers
+											because similarly, you can stack
+that many spheres into tetrahedra.
+											Or how about this:
+shade in all of the odd numbers.
+											It doesn't look like much
+when the triangle's small,
+											but if you add thousands of rows,
+											you get a fractal 
+known as Sierpinski's Triangle.
+											This triangle isn't just 
+a mathematical work of art.
+											It's also quite useful,
+											especially when it comes 
+to probability and calculations
+											in the domain of combinatorics.
+											Say you want to have five children,
+											and would like to know the probability
+											of having your dream family 
+of three girls and two boys.
+											In the binomial expansion,
+											that corresponds 
+to girl plus boy to the fifth power.
+											So we look at the row five,
+											where the first number 
+corresponds to five girls,
+											and the last corresponds to five boys.
+											The third number 
+is what we're looking for.
+											Ten out of the sum 
+of all the possibilities in the row.
+											so 10/32, or 31.25%.
+											Or, if you're randomly 
+picking a five-player basketball team
+											out of a group of twelve friends,
+											how many possible groups 
+of five are there?
+											In combinatoric terms, this problem would
+be phrased as twelve choose five,
+											and could be calculated with this formula,
+											or you could just look at the sixth 
+element of row twelve on the triangle
+											and get your answer.
+											The patterns in Pascal's Triangle
+											are a testament to the elegantly 
+interwoven fabric of mathematics.
+											And it's still revealing fresh secrets
+to this day.
+											For example, mathematicians recently 
+discovered a way to expand it
+											to these kinds of polynomials.
+											What might we find next?
+											Well, that's up to you.
+									","
+											Esto puede parecer una pila
+de números bien ordenados,
+											pero en realidad es un tesoro matemático.
+											Los matemáticos indios la llamaron 
+escalera del Monte Meru.
+											En Irán, es el triángulo de Khayyam.
+											Y en China, es el triángulo de Yang Hui.
+											Para gran parte del mundo occidental, 
+se le conoce como el triángulo de Pascal
+											por el matemático francés Blaise Pascal,
+											lo que parece algo injusto ya que él 
+llegó claramente tarde a la fiesta,
+											pero todavía tenía mucho que aportar.
+											¿Qué es lo que tiene que ha intrigado 
+a los matemáticos de todo el mundo?
+											En resumen, 
+está lleno de patrones y secretos.
+											En primer lugar, 
+está el patrón que lo genera.
+											Comienza con 1 e imagina 0 invisibles 
+a cada lado del mismo.
+											Suma los pares, 
+para generar la siguiente fila.
+											Ahora, haz esto una y otra vez.
+											Sigue adelante y terminarás 
+con algo como esto,
+											aunque en realidad el triángulo de Pascal 
+continúa infinitamente.
+											Cada fila corresponde a lo que se llama 
+los coeficientes de un desarrollo binomial
+											de la forma (x + y) ^ n,
+											donde n es el número de la fila,
+											empezando a contar desde cero.
+											Así que si haces a n = 2 y lo expandes,
+											te da (x ^ 2) + 2xy + (y ^ 2).
+											Los coeficientes o números 
+delante de las variables,
+											son los mismos que los números 
+en la fila del Triángulo de Pascal.
+											Verás lo mismo con n = 3, 
+que se expande a esto.
+											El triángulo es una manera rápida y fácil 
+de consultar todos estos coeficientes.
+											Pero hay mucho más.
+											Por ejemplo, 
+suma los números en cada fila,
+											y obtendrás sucesivas potencias de 2.
+											O en una fila trata cada número 
+como parte de una expansión decimal.
+											En otras palabras, 
+la fila dos es (1x1) + (2x10) + (1x100).
+											Obtendrás 121, que es 11 ^ 2.
+											Y echa un vistazo a lo que sucede 
+cuando haces lo mismo a la fila 6.
+											Suma 1.771.561, 
+que es 11 ^ 6, y así sucesivamente.
+											También hay aplicaciones geométricas.
+											Mira las diagonales.
+											Las dos primeras poco interesantes: 
+todos uno, y luego los enteros positivos,
+											también conocidos como números naturales.
+											Pero los números en la siguiente diagonal 
+son llamados los números triangulares
+											porque al tomar muchos puntos,
+											puedes apilarlos 
+en triángulos equiláteros.
+											La siguiente diagonal 
+tiene los números tetraédricos
+											porque del mismo modo, puedes apilar 
+muchas esferas en tetraedros.
+											O qué tal esto: sombreado 
+en todos los números impares.
+											No parece mucho 
+con el triángulo pequeño,
+											pero si se agregas miles de filas,
+											obtienes un fractal 
+conocido como triángulo de Sierpinski.
+											Este triángulo no es solo 
+un trabajo de arte matemático.
+											También es muy útil,
+											especialmente cuando se trata 
+de probabilidad y cálculos
+											en el dominio de la combinatoria.
+											Digamos que quieres tener 5 hijos,
+											y te gustaría saber la probabilidad
+											de tener tu familia de ensueño 
+de 3 niñas y 2 niños.
+											En la expansión binomial,
+											corresponde a chica más chico 
+a la quinta potencia.
+											Fijémonos en la fila cinco,
+											donde el primer número 
+corresponde a 5 chicas,
+											y el último corresponde a 5 chicos.
+											El tercer número 
+es lo que estamos buscando.
+											10 de la suma de todas 
+las posibilidades en la fila.
+											de modo 10/32, o 31,25 %.
+											O, si estás escogiendo al azar un equipo 
+de baloncesto de 5 jugadores
+											de un grupo de 12 amigos,
+											¿cuántos posibles grupos de 5 hay?
+											En términos combinatorias, este problema 
+se expresa como de 12 elegir 5,
+											y podría calcularse con esta fórmula,
+											o podrías mirar el sexto elemento 
+de la fila doce en el triángulo
+											y obtener tu respuesta.
+											Los patrones en el triángulo de Pascal
+											son un testimonio del elegante 
+entretejido de las matemáticas.
+											Y todavía está revelando 
+secretos frescos a hoy.
+											Por ejemplo, se descubrió 
+recientemente una manera de ampliarlo
+											a este tipo de polinomios.
+											¿Qué podemos encontrar a continuación?
+											Bueno, eso depende de ti.
+									","
+											Isto pode parecer uma pilha 
+de números bem arrumados,
+											mas, na verdade,
+é um rico manancial matemático.
+											Os matemáticos indianos chamavam-lhe
+a Escadaria do Monte Meru.
+											No Irão, é o Triângulo Khayyám.
+											E na China, é o Triângulo de Yang Hui.
+											Para grande parte do mundo ocidental
+é conhecido como o Triângulo de Pascal,
+											do matemático francês Blaise Pascal,
+											o que parece bastante injusto
+porque, obviamente, ele foi o último
+											embora ainda tenha contribuído muito.
+											O que é que tem de especial, que tanto
+intrigou matemáticos do mundo inteiro?
+											Em poucas palavras, 
+está cheio de padrões e de segredos.
+											Primeiro e acima de tudo,
+há o padrão que o gera.
+											Comecem com um e imaginem 
+um zero invisível de cada lado.
+											Somem-nos aos pares, 
+gerando a linha seguinte.
+											Voltem a fazer o mesmo,
+uma e outra vez.
+											Continuem e vão acabar
+com uma coisa assim,
+											embora o Triângulo de Pascal
+continue até ao infinito.
+											Cada linha corresponde ao que se chama
+os coeficientes de expansão binomial
+											da forma (x+y) elevado a n,
+											em que n é o número da linha,
+											e começamos a contar a partir do zero.
+											Portanto, se fizermos n=2 e expandirmos,
+											temos (x^2) + 2xy + (y^2).
+											Os coeficientes, ou números 
+em frente das variáveis,
+											são os mesmos que os números 
+nessa linha do Triângulo de Pascal.
+											Veremos a mesma coisa com n=3, 
+que expande assim.
+											Portanto, o triângulo é uma forma rápida
+e fácil de encontrar esses coeficientes.
+											Mas há muito mais ainda.
+											Por exemplo,
+somem os números em cada linha,
+											e obtêm sucessivas potências de dois.
+											Numa dada linha, tratem cada número
+como uma parte duma expansão decimal.
+											Por outras palavras, a linha dois é
+(1x1) + (2x10) + (1x100).
+											Obtemos 121, que é 11 elevado a 2.
+											Vejam o que acontece, 
+quando fazemos o mesmo na linha seis.
+											Obtemos 1 771 561,
+											que é 11 elevado a 6,
+											e assim sucessivamente.
+											Também há aplicações geométricas.
+											Olhem para as diagonais.
+											As duas primeiras 
+não são muito interessantes:
+											a primeira é tudo uns, 
+a segunda, os inteiros positivos,
+											também conhecidos por números naturais.
+											Mas os números na diagonal seguinte,
+chamam-se os números triangulares
+											porque, se agarrarmos nesses números,
+											podemos empilhar os círculos
+em triângulos equiláteros.
+											A diagonal seguinte
+tem os números tetraédricos
+											porque, do mesmo modo, 
+podemos empilhar as esferas em tetraedros.
+											E agora isto: tapem
+todos os números ímpares.
+											Não se vê grande coisa 
+quando o triângulo é pequeno,
+											mas se acrescentarmos milhares de linhas,
+											obtemos um fractal, conhecido 
+por Triângulo de Sierpinski.
+											Este triângulo não é apenas 
+uma obra de arte matemática.
+											Também é muito útil,
+											em especial no que se refere
+a probabilidades e cálculos
+											no domínio da combinatória.
+											Digamos que queremos ter cinco filhos,
+											e gostaríamos de saber a probabilidade
+											de ter uma família de sonho 
+de três raparigas e dois rapazes.
+											Na expansão binomial,
+											isso corresponde a (rapariga mais rapaz)
+elevado à quinta potência.
+											Portanto, olhemos para a linha cinco,
+											em que o primeiro termo
+corresponde a cinco raparigas,
+											e o último corresponde a cinco rapazes.
+											O terceiro termo é aquele
+de que andamos à procura.
+											A parcela 10, na soma 
+de todas as possibilidades na linha.
+											Portanto, 10 sobre 32, ou seja, 31,25%.
+											Se, ao acaso, escolhermos uma equipa 
+de basquetebol de cinco jogadores
+											num grupo de doze colegas,
+											quantos grupos possíveis de cinco existem?
+											Em termos combinatórios,
+											este problema seria descrito
+como ""cinco escolhidos em doze""
+											e podia ser calculado com esta fórmula.
+											Ou podíamos olhar para o sexto elemento
+da linha doze do triângulo
+											e obter a resposta.
+											Os padrões no Triângulo de Pascal
+											são um testemunho do elegante
+tecido entretecido da matemática.
+											E ainda continuam a revelar 
+novos segredos, hoje em dia.
+											Por exemplo, os matemáticos descobriram
+há pouco uma forma de o expandirem
+											até este tipo de polinomiais.
+											O que mais descobriremos a seguir?
+											Bem, isso agora é convosco.
+									","
+											Cela peut ressembler à un empilement 
+de nombres bien rangés,
+											mais c'est en fait
+un trésor mathématique.
+											Les mathématiciens indiens l'appelaient
+« l'escalier du mont Meru ».
+											En Iran, il est appelé 
+« Triangle de Khayyam ».
+											Et en Chine, il s'appelle
+« Triangle de Yang Hui ».
+											Pour une grande partie
+du monde occidental,
+											il est connu sous le nom
+de « Triangle de Pascal »,
+											d'après le mathématicien français
+Blaise Pascal,
+											ce qui semble un peu injuste car il est
+clairement arrivé après la bataille,
+											même s'il avait encore
+beaucoup à apporter.
+											Alors, qu'est-ce qui a tant intrigué
+											les mathématiciens du monde entier ?
+											En bref, il regorge
+de motifs et de secrets.
+											Tout d'abord, il y a le modèle
+qui le génère.
+											Commencez avec un un
+et imaginez-le encadré de zéros.
+											Additionnez les chiffres par paires 
+et vous obtenez la ligne suivante.
+											Maintenant, recommencez
+encore et encore.
+											Continuez ainsi et vous aboutirez
+à quelque chose comme ça,
+											bien que le triangle de Pascal
+se poursuive à l'infini.
+											Chaque ligne correspond à ce qu'on appelle
+les coefficients du développement binomial
+											de la forme (x+y)^n
+											où n représente le rang de la ligne,
+											en commençant par 0
+pour la première ligne.
+											Et donc, pour n= 2,
+en développant on obtient :
+											(x^2) + 2xy + (y^2)
+											Les coefficients, ou nombres 
+devant les variables,
+											sont les mêmes que les nombres de la ligne
+correspondante du triangle de Pascal.
+											Vous pouvez voir la même chose pour n=3
+qui se développe ainsi.
+											Ainsi ce triangle est un moyen simple et
+rapide de retrouver tous ces coefficients.
+											Mais il y a beaucoup plus.
+											Par exemple, en additionnant 
+les nombres de chaque ligne
+											vous obtenez
+les puissances successives de 2.
+											Ou, pour une ligne donnée, traitez chaque
+nombre comme une décomposition décimale,
+											en d'autres termes, la deuxième ligne
+égale (1x1) + (2x10) + (1x100).
+											Vous obtenez 121, soit 11^2.
+											De la même manière, voyez ce qui se passe 
+avec la sixième ligne.
+											La décomposition donne 1 771 561,
+soit 11^6 et ainsi de suite.
+											Il y a aussi 
+des applications géométriques.
+											Prenez les diagonales.
+											Les deux premières ne sont pas
+très intéressantes : une suite de uns,
+											puis les nombres entiers positifs
+appelés entiers naturels.
+											Mais dans la diagonale suivante, les
+nombres sont appelés nombres triangulaires
+											parce qu’en prenant ce nombre de points,
+											vous pouvez les empiler 
+en formant des triangles équilatéraux.
+											La diagonale suivante contient
+les nombres tétraédriques
+											parce que vous pouvez également empiler ce
+même nombre de billes dans un tétraèdre.
+											Ou encore ceci :
+grisez tous les nombres impairs.
+											Ça ne ressemble à rien
+quand le triangle est petit,
+											mais en considérant des milliers de lignes
+											vous obtenez une fractale connue sous
+le nom de « Triangle de Sierpinski ».
+											Ce triangle n'est pas seulement
+une œuvre d'art mathématique.
+											Il est aussi très utile
+											dans les calculs et les probabilités
+											dans le domaine de la combinatoire.
+											Disons que vous voulez avoir 5 enfants,
+											et que vous voulez connaître
+la probabilité
+											d'avoir votre famille rêvée
+de 3 filles et 2 garçons.
+											Dans le développement du binôme,
+											cela correspond à fille plus garçon 
+le tout à la puissance 5.
+											Regardons la cinquième ligne,
+											ou le premier nombre 
+correspond à 5 filles,
+											et le dernier à 5 garçons.
+											Le troisième correspond
+à ce que nous cherchons.
+											10 sur la totalité
+des possibilités de la ligne.
+											Donc 10 sur 32, soit 31,5 %.
+											Ou, si vous tirez au sort 5 joueurs
+de basket pour former une équipe
+											parmi un groupe de 12 amis,
+											combien d'équipes différentes 
+pouvez-vous former ?
+											En combinatoire, ce problème s’énonce
+comme un tirage de 5 parmi 12,
+											et pourrait être calculé
+avec cette formule,
+											ou vous pouvez simplement regarder le
+6eme élément de la 12eme ligne du triangle
+											pour avoir votre réponse.
+											Les motifs contenus
+dans le triangle de Pascal
+											témoignent de l'élégance
+du tissu des mathématiques.
+											Des secrets sont encore révélés
+de nos jours.
+											Par exemple, des mathématiciens
+ont découvert récemment
+											comment l'étendre à ce genre de polynômes.
+											Qu'est-ce qui viendra ensuite ?
+											Eh bien, ça dépend de vous !
+									","
+											Zarifçe düzenlenmiş bir yığın
+sayıya benziyor olabilir;
+											fakat bu aslında matematiksel
+bir hazine sandığı.
+											Hintli matematikçiler ona
+Meru Dağı'nın Merdivenleri der.
+											İran'da Hayyam Üçgeni olarak bilinir.
+											Çin'de ise Yang Hui'nin
+Üçgeni adı verilir.
+											Batı dünyasının büyük bölümünde
+ise Pascal Üçgeni denir.
+											Bu ad, Fransız matematikçi
+Blaise Pascal'ın onuruna verilmiştir.
+											Bu pek adil sayılmaz, çünkü
+Pascal'ın partiye geç kaldığı çok açık.
+											Yine de pek çok katkıda bulunmuştur.
+											Peki dünyanın her yanından matematikçinin
+ilgisini çeken ne var bunda?
+											Kısaca söylemek gerekirse,
+desenler ve sırlarla dolu.
+											Bunların ilki ve en önemlisi,
+onu üreten desenin kendisi.
+											1 ile başlayın ve iki tarafında görünmez
+sıfırlar olduğunu hayal edin.
+											Bu sayıları ikişer ikişer toplayın
+ve toplamları bir alt satıra yazın.
+											Ardından bunu tekrar tekrar
+yinelemeyi sürdürün.
+											Devam ederseniz şuna benzer
+bir şey elde edersiniz.
+											Tabii aslında Pascal Üçgeni
+sonsuza kadar böyle gider.
+											Buradaki her satır, 
+(x+y)^n biçimindeki
+											binom açılımının katsayılarına denk gelir.
+											n, saymaya sıfırdan başlandığında,
+											satırın sıra numarasıdır.
+											Yani eğer n=2 alıp açılımı yaparsanız,
+											(x^2) + 2xy + (y^2) elde edersiniz.
+											Katsayılar, yani
+değişkenlerin önündeki sayılar,
+											Pascal Üçgeni'nin satırlarındaki
+sayıların aynısıdır.
+											Şu şekilde açılımı yapılan
+n=3 için de aynısı geçerlidir.
+											Dolayısıyla üçgen, bu katsayıların hepsini
+görmenin hızlı ve kolay bir yoludur.
+											Dahası da var.
+											Örneğin her bir satırdaki
+sayıları topladığınızda,
+											2'nin ardışık kuvvetlerini elde edersiniz.
+											Ya da bir satırdaki her sayıyı
+ondalık bir açılımın parçası olarak alın.
+											Yani ikinci satır şöyle olur:
+(1x1) + (2x10) + (1x100).
+
+											121 bulunur, ki o da 11^2 demektir.
+											Şimdi aynı şeyi 6. satıra
+yapınca ne çıktığına bakın.
+											Toplamda 1.771.561 eder.
+Bu 11^6 demektir ve böyle sürer.
+											Ayrıca geometrik uygulamaları da var.
+											Köşegenlere bakın.
+											İlk ikisi pek ilginç değil:
+1'ler ve pozitif tamsayılar,
+											yani doğal sayılar.
+											Fakat bir sonraki köşegendeki sayılara
+üçgensel sayılar denir.
+											Çünkü bunlar kadar sayıda nokta alırsanız,
+											eşkenar üçgen şeklinde dizebilirsiniz.
+											Sonraki köşegende ise
+dörtyüzlü sayılar vardır.
+											Benzer biçimde, bunlar kadar sayıda
+küreyi dörtyüzlü dizebilirsiniz.
+											Bir de şuna bakın:
+Tüm tek sayıları gölgeleyelim.
+											Üçgen küçükken pek bir şeye benzemiyor.
+											Ama binlerce satır eklediğinizde,
+											Sierpinski Üçgeni olarak bilinen
+bir fraktal elde edersiniz.
+											Bu üçgen matematiksel
+bir sanattan ibaret değildir.
+											Aynı zamanda çok yararlıdır;
+											özellikle de olasılık ve
+											kombinetorik hesaplamaları konusunda.
+											Diyelim 5 çocuk sahibi olmak istiyorsunuz.
+											Hayalinizdeki gibi 3 kızınızın
+ve 2 oğlunuzun
+											olma olasılığını merak ediyorsunuz.
+											Binom açılımında,
+											bunun karşılığı
+kız artı erkek üssü 5 olur.
+											Şimdi 5. satıra bakalım.
+											Buradaki ilk sayı 5 kıza,
+											son sayı ise 5 erkeğe karşılık gelir.
+											Bizim aradığımız ise üçüncü sayı olur.
+											Satırdaki tüm olasılıkların
+toplamı içinden 10,
+											yani 10/32 veya %31,25.
+											Eğer 12 arkadaşınız arasından
+basketbol takımı için
+											rastgele 5 kişi seçiyorsanız,
+											kaç tane olası 5 kişilik
+grup çıkarabilirsiniz?
+											Kombinetorik terimleriyle, bu probleme
+12'den 5 seçmek denir.
+											Şu formülle hesaplanabilir
+											veya üçgenin 12. satırındaki
+6. elemana bakarak da
+											yanıtı bulabilirsiniz.
+											Pascal Üçgeni'ndeki şablonlar
+											matematiğin zarif dokusunun vasiyeti.
+											Üstelik bugün hâlâ
+yeni sırları açığa çıkıyor.
+											Örneğin matematikçiler yakın zamanda
+bu tür polinomlara
+											onu açmanın yolunu buldu.
+											Acaba başka neler bulabiliriz?
+											Bu size bağlı.
+									","
+											Das sieht zwar aus wie
+ein sauber angeordneter Stapel Zahlen,
+											aber es ist eine
+mathematische Schatzkiste.
+											Indische Mathematiker nannten es
+""Stufen des Berges Meru"".
+											Im Iran heißt es ""Chayyām-Dreieck"".
+											In China ist es das ""Yang-Hui-Dreieck"".
+											In der westlichen Welt ist es meist
+als Pascalsches Dreieck bekannt.
+											Es nach dem französischen Mathematiker
+Blaise Pascal zu benennen,
+											scheint etwas unfair,
+da er deutlich zu spät dran war;
+											doch er hatte noch viel beizutragen.
+											Was fasziniert Mathematiker
+aus aller Welt also so sehr daran?
+											Kurz gesagt: Es ist voller
+Muster und Geheimnisse.
+											Zunächst ist da das Muster,
+nach dem es entsteht.
+											Beginne mit Eins und stell dir
+unsichtbare Nullen auf beiden Seiten vor.
+											Addiere sie paarweise
+und schon bildest du die nächste Reihe.
+											Das wiederholst du immer wieder.
+											Mach weiter, bis so etwas
+Ähnliches entsteht,
+											auch wenn sich das Pascalsche Dreieck
+eigentlich unendlich fortsetzt.
+											Jede Zeile entspricht den sogenannten
+Koeffizienten des binomischen Lehrsatzes
+											in der Form (x+y)^n,
+											bei dem n die Nummer der Zeile ist
+											und man bei Null anfängt zu zählen.
+											Wenn man also n=2 nimmt und es erweitert,
+											erhält man (x^2) + 2xy + (y^2).
+											Die Koeffizienten
+oder Zahlen vor den Variablen
+											sind dieselben wie die Zahlen
+in dieser Zeile des Pascalschen Dreiecks.
+											Mit n=3 passiert das Gleiche,
+was dann so aussieht.
+											Mit dem Dreieck kann man die Koeffizienten
+also schnell und einfach ermitteln.
+											Aber da ist noch viel mehr.
+											Zähle etwa die Zahlen
+in jeder Zeile zusammen
+											und du erhältst nacheinander
+alle Potenzen von Zwei.
+											Oder nimm jede Zahl einer beliebigen Zeile
+als Teil einer Dezimalentwicklung.
+											Anders gesagt, Zeile zwei ist
+(1x1) + (2x10) + (1x100).
+											Man erhält 121, was 11^2 entspricht.
+											Sieh dir an, was passiert,
+wenn man dasselbe in Zeile sechs macht.
+											Die Summe ist 1.771.561,
+was 11^6 entspricht, usw.
+											Es gibt auch geometrische Anwendungen.
+											Sieh die Diagonalen an.
+											Die ersten beiden sind eher uninteressant:
+											alles Einsen, dann die positiven Zahlen,
+											auch als natürliche Zahlen bekannt.
+											Doch die Zahlen in der nächsten Diagonale
+nennt man Dreieckszahlen.
+											Denn mit dieser Anzahl Punkte
+											lassen sie sich als
+gleichseitige Dreiecke anordnen.
+											Die nächste Diagonale
+hat vierflächige Zahlen,
+											weil man ebenso viele Kugeln
+als Tetraeder anordnen kann.
+											Oder wie wäre es damit:
+Markiere alle ungeraden Zahlen.
+											Es sieht nach wenig aus
+wenn das Dreieck klein ist,
+											doch wenn man tausende Zeilen addiert
+											erhält man ein Fraktal,
+das man Sierpinski-Dreieck nennt.
+											Dieses Dreieck ist nicht nur
+ein mathematisches Kunstwerk.
+											Es ist vor allem sehr nützlich,
+											wenn es um Wahrscheinlichkeit
+und Berechnungen in der Kombinatorik geht.
+											Sagen wir, du willst fünf Kinder
+und möchtest wissen,
+											wie wahrscheinlich deine Traumfamilie
+von drei Mädchen und zwei Jungen ist.
+											Beim binomischen Lehrsatz entspricht das
+""Mädchen plus Junge hoch fünf"".
+											Schauen wir uns also Zeile fünf an,
+											wo die erste Zahl fünf Mädchen
+und die letzte fünf Jungen entspricht
+											Die dritte Zahl ist, was wir suchen.
+											Zehn geteilt durch die Summe
+aller Möglichkeiten der Zeile,
+											also 10/32 oder 31,25%.
+											Oder wenn du aus einer
+Gruppe von 12 Freunden
+											zufällig fünf Spieler
+für ein Basketballteam wählst,
+											wie viele Fünfergruppen sind dann möglich?
+											Auf dem Gebiet der Kombinatorik
+hieße dieses Problem ""fünf aus zwölf""
+											und ließe sich mit
+dieser Formel berechnen.
+											Oder man sieht sich das sechste Element
+von Zeile zwölf des Dreiecks an
+											und erhält so die Antwort.
+											Die Muster im Pascalschen Dreieck
+											sind ein Beleg für die elegant
+verwobenen Strukturen der Mathematik.
+											Und es enthüllt
+bis heute neue Geheimnisse.
+											So haben Mathematiker
+kürzlich einen Weg gefunden,
+											es zu dieser Art Polynome zu erweitern.
+											Was finden wir wohl als Nächstes?
+											Nun, das liegt an dir.
+									",The mathematical secrets of Pascal's triangle,Wajdi Mohamed Ratemi,4:34,"teaching,math,TED-Ed,animation,education"
+"
+","
+","
+","
+","
+","
+",The mathematical secrets of Pascal's triangle,Wajdi Mohamed Ratemi,4:34,"teaching,math,TED-Ed,animation,education"

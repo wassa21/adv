@@ -1,0 +1,714 @@
+en,pt,es,tr,fr,title,speaker,duration,tags
+"
+","
+","
+","
+","
+",Can you solve the virus riddle?,Lisa Winer,4:52,"animation,TED-Ed,virus,disease,history,math,natural disaster"
+"
+											Your research team has found
+a prehistoric virus
+											preserved in the permafrost
+											and isolated it for study.
+											After a late night working,
+											you're just closing up the lab
+when a sudden earthquake hits
+											and knocks out the power.
+											As the emergency generators kick in,
+an alarm confirms your worst fears:
+											all the sample vials have broken.
+											The virus is contained for now,
+											but unless you can destroy it,
+											the vents will soon open
+and unleash a deadly airborne plague.
+											Without hesitation, you grab
+your HazMat suit
+											and get ready to save the world.
+											The lab is a four by four compound
+of 16 rooms
+											with an entrance on the northwest corner
+and an exit at the southeast.
+											Each room is connected to the adjacent
+ones by an airlock,
+											and the virus has been released
+in every room except the entrance.
+											To destroy it, you must enter each
+contaminated room
+											and pull its emergency 
+self-destruct switch.
+											But there's a catch.
+											Because the security system 
+is on lockdown,
+											once you enter the contaminated room,
+											you can't exit without 
+activating the switch,
+											and once you've done so,
+											you won't be able to go 
+back in to that room.
+											You start to draw out possible
+routes on a pad of paper,
+											but nothing seems to get you
+to the exit
+											without missing at least one room.
+											So how can you destroy the virus
+in every contaminated room
+											and survive to tell the story?
+											Pause here if you want 
+to figure it out for yourself.
+											Answer in: 3
+											Answer in: 2
+											Answer in: 1
+											If your first instinct is to try to graph
+your possible moves on a grid,
+											you've got the right idea.
+											This puzzle is related to 
+the Hamiltonian path problem
+											named after the 19th century Irish 
+mathematician William Rowan Hamilton.
+											The challenge 
+of the path problem
+											is to find whether a given graph
+has a Hamiltonian path.
+											That's a route that visits 
+every point within it exactly once.
+											This type of problem, classified 
+as NP-complete,
+											is notoriously difficult when the graph
+is sufficiently large.
+											Although any proposed solution
+can be easily verified,
+											we have no reliable formula or shortcut
+for finding one,
+											or determining that one exists.
+											And we're not even sure
+if it's possible for computers
+											to reliably find 
+such solutions, either.
+											This puzzle adds a twist
+to the Hamiltonian path problem
+											in that you have to start 
+and end at specific points.
+											But before you waste a ton of graph paper,
+											you should know that a true
+Hamiltonian path
+											isn't possible with these end points.
+											That's because the rooms form a grid
+with an even number of rooms on each side.
+											In any grid with that configuration,
+											a Hamiltonian path that starts and 
+ends in opposite corners is impossible.
+											Here's one way of understanding why.
+											Consider a checkerboard grid with
+an even number of squares on each side.
+											Every path through it will alternate
+black and white.
+											These grids will all also have an even
+total number of squares
+											because an even number times
+and even number is even.
+											So a Hamiltonian path on an
+even-sided grid that starts on black
+											will have to end on white.
+											And one that starts on white
+will have to end on black.
+											However, in any grid with even
+numbered sides,
+											opposite corners are the same color,
+											so it's impossible to start and end
+a Hamiltonian path on opposite corners.
+											It seems like you're out of luck,
+											unless you look at the rules carefully
+and notice an important exception.
+											It's true that once you activate
+the switch in a contaminated room,
+											it's destroyed and you can never go back.
+											But there's one room 
+that wasn't contaminated - the entrance.
+											This means that you can leave it once
+without pulling the switch
+											and return there when you've
+destroyed either of these two rooms.
+											The corner room may have
+been contaminated
+											from the airlock opening,
+but that's okay
+											because you can destroy the entrance
+after your second visit.
+											That return trip gives you four options
+for a successful route,
+											and a similar set of options if you
+destroyed this room first.
+											Congratulations. You've prevented
+an epidemic of apocalyptic proportions,
+											but after such a stressful episode,
+you need a break.
+											Maybe you should take up that recent
+job offer to become a traveling salesman.
+									","
+											A tua equipa de investigação
+encontrou um vírus pré-histórico
+											preservado no ""permafrost""
+											e isolou-o para estudo.
+											Depois de uma longa noite de trabalho,
+											estás a fechar o laboratório
+quando ocorre um súbito tremor de terra
+											que deita abaixo a eletricidade.
+											Quando os geradores de emergência
+começam a trabalhar,
+											um alarme confirma os teus piores receios:
+											os frascos de amostras
+estão todos partidos.
+											O vírus, por enquanto, está contido
+											mas, a não ser que o destruas,
+											os respiradouros que em breve se vão abrir
+											desencadearão uma praga mortal
+lançada pelo ar.
+											Sem hesitação, agarras
+no teu fato protetor
+											e preparas-te para salvar o mundo.
+											O laboratório é um complexo
+de 16 salas, num quadrado de 4 x 4,
+											com uma entrada no canto noroeste
+e uma saída a sudeste.
+											Cada sala está ligada às adjacentes
+por uma câmara de vácuo
+											e o vírus espalhou-se
+por todas as salas, exceto a entrada.
+											Para o destruir tens que entrar
+em todas as salas contaminadas
+											e acionar o interruptor de emergência
+de autodestruição.
+											Mas há um problema.
+											Como o sistema de segurança
+está ativado,
+											depois de entrares na sala contaminada
+											não podes sair sem ativares o interruptor
+											e, depois de fazeres isso,
+											não podes voltar a essa sala.
+											Começas a traçar num bloco
+todos os caminhos possíveis
+											mas nenhum deles parece
+levar-te à saída
+											sem falhar, pelo menos, uma sala.
+											Como podes destruir o vírus
+em todas as salas contaminadas
+											e sobreviver para contar a história?
+											Detém-te aqui, se quiseres 
+resolvê-lo sozinho.
+											Resposta em: 3
+											Resposta em 2:
+											Resposta em: 1
+											Se o teu primeiro instinto
+é tentar um grafo
+											dos possíveis movimentos numa grelha,
+											captaste a ideia certa.
+											Este enigma está relacionado
+com o problema do caminho hamiltoniano
+											assim chamado segundo
+William Rowan Hamilton,
+											um matemático irlandês do século XIX.
+											O desafio do problema do caminho
+											é descobrir se um determinado grafo
+tem um caminho hamiltoniano.
+											É um caminho que visita apenas uma vez
+todos os pontos que contém.
+											Este tipo de problema,
+classificado como NP-complete,
+											é extremamente difícil
+quando o grafo é muito grande.
+											Embora qualquer solução proposta
+seja facilmente verificável,
+											não temos uma fórmula ou atalho fiáveis
+para a encontrar,
+											ou para determinar se ela existe.
+											Nem sequer temos a certeza
+se os computadores
+											podem encontrar essa solução fiável.
+											Este enigma acrescenta uma nova versão
+ao problema do caminho hamiltoniano
+											na medida em que temos que começar
+e acabar em pontos específicos.
+											Mas, antes que gastes
+uma tonelada de papel,
+											tens que saber que não é possível 
+um verdadeiro caminho hamiltoniano
+											com estes dois pontos extremos,
+											porque as salas formam uma grelha
+com um número par de salas de cada lado.
+											Em qualquer grelha com esta configuração,
+											um caminho hamiltoniano que começa
+e termina em cantos opostos, é impossível.
+											Eis uma forma de perceber porquê.
+											Considera um tabuleiro de damas
+											com um número par
+de quadrados de cada lado
+											Todos os caminhos possíveis 
+alternarão entre o preto e o branco.
+											Estas grelhas também vão ter 
+um número par de quadrados
+											porque o produto de um número par
+por um número par é sempre par.
+											Por isso, um caminho hamiltoniano
+numa grelha com um lado par
+											que comece num quadrado preto
+terá que acabar num quadrado branco.
+											E um caminho que comece num branco
+terá que acabar num quadrado preto.
+											No entanto, em qualquer grelha
+com lados pares,
+											os cantos opostos têm a mesma cor,
+											por isso, é impossível começar e acabar
+um caminho hamiltoniano em cantos opostos.
+											Parece que estás com pouca sorte,
+											a não ser que olhes
+para as regras com atenção
+											e repares numa exceção importante.
+											É verdade que, depois de acionares
+o interruptor numa sala contaminada,
+											ela é destruída e não podes voltar atrás.
+											Mas há uma sala que não foi contaminada
+— a entrada —
+											Isso significa que podes sair de lá
+sem acionar o interruptor
+											e voltar lá depois de teres destruído
+uma destas duas salas.
+											A sala do canto pode ter sido contaminada
+											com a abertura da câmara de vácuo,
+mas não faz mal
+											porque podes destruir a entrada
+depois da segunda visita.
+											Este regresso dá-te quatro opções
+para um caminho com êxito
+											e um conjunto de opções semelhante
+se destruíres esta sala primeiro.
+											Parabéns!
+											Impediste uma epidemia
+de proporções apocalípticas
+											mas, depois de tão angustiante episódio,
+precisas de uma pausa.
+											Talvez devas aceitar
+aquela oferta de trabalho
+											para seres caixeiro-viajante.
+									","
+											Tu equipo de investigación
+ha encontrado un virus prehistórico
+											conservado en el permafrost
+y lo ha aislado para su estudio.
+											Tras una noche de trabajo,
+estás cerrando el laboratorio
+											cuando de repente
+											se produce un terremoto
+y hay un corte de electricidad.
+											Cuando se encienden 
+los generadores de emergencia
+											una alarma confirma tu peor pesadilla:
+											todos los viales 
+con las muestras se han roto.
+											El virus está contenido por ahora,
+											pero a menos que puedas destruirlo,
+											los respiraderos pronto se abrirán
+											y desencadenarán 
+una mortífera plaga aérea.
+											Sin dudarlo, agarras
+tu traje de protección
+											y te preparas para salvar el mundo.
+											El laboratorio es un complejo de
+cuatro por cuatro de 16 habitaciones
+											con una entrada en la esquina noroeste
+y una salida en el sureste.
+											Las habitaciones están conectadas
+entre sí por una esclusa,
+											y el virus ha sido liberado
+en cada habitación excepto la entrada.
+											Para destruirlo, debes entrar 
+en cada habitación contaminada
+											y tirar del interruptor de emergencia
+para su auto-destrucción.
+											Pero hay una trampa.
+											Debido a que el sistema 
+de seguridad está bloqueado,
+											una vez que entras en la
+habitación contaminada,
+											no se puede salir sin
+activar el interruptor,
+											y una vez que lo hayas hecho,
+											ya no podrás volver a esa habitación.
+											Empiezas a dibujar posibles
+rutas en una libreta de papel,
+											pero ninguna parece llevarte a la salida
+											sin que falte al menos una habitación.
+											Entonces, ¿cómo puedes destruir el virus
+en cada habitación contaminada
+											y sobrevivir para contar la historia?
+											Pausa aquí si quieres
+averiguarlo por tí mismo.
+											Respuesta en: 3
+											Respuesta en: 2
+											Respuesta en: 1
+											Si tu primer instinto es dibujar 
+tus posibles rutas en una cuadrícula,
+											vas bien encaminado.
+											Este rompecabezas está relacionado 
+con el problema del camino hamiltoniano
+											nombrado en honor del matemático irlandés
+del siglo XIX William Rowan Hamilton.
+											El desafío del problema del camino
+											es descubrir si una gráfica dada
+tiene una ruta hamiltoniana.
+											Es una ruta que visita cada punto
+dentro de ella exactamente una vez.
+											Este tipo de problema,
+clasificado como NP-completo,
+											es muy difícil cuando el gráfico
+es lo bastante grande.
+											Aunque cualquier solución propuesta
+puede ser verificada fácilmente,
+											no tenemos ninguna fórmula fiable
+o atajo para encontrar uno,
+											o determinar que existe.
+											Y ni siquiera estamos seguros 
+de si es posible para los ordenadores
+											encontrar de manera 
+fiable tales soluciones.
+											Este rompecabezas agrega un giro
+al problema de la trayectoria hamiltoniana
+											ya que tienes que empezar
+y terminar en puntos específicos.
+											Pero antes de gastar una
+tonelada de papel cuadriculado,
+											debes saber que una verdadera
+ruta hamiltoniana
+											no es posible con estos puntos finales.
+											Eso es porque las habitaciones
+forman una cuadrícula
+											con un número par de
+habitaciones en cada lado.
+											En cualquier cuadrícula
+con esa configuración,
+											un camino hamiltoniano que comienza y
+termina en esquinas opuestas es imposible.
+											He aquí una manera de entender por qué.
+											Imagina un tablero cuadriculado 
+con un número par de cuadros en cada lado.
+											Cada ruta a través de él 
+alternará blanco y negro.
+											La cuadrícula también tendrá 
+un número total de cuadrados par,
+											porque un número par 
+por otro número par da par.
+											Así que un camino hamiltoniano en una
+cuadrícula par que empieza en negro
+											tendrá que terminar en blanco.
+											Y si empieza en blanco
+tendrá que terminar en negro.
+											Sin embargo, en cualquier
+cuadrícula con lados pares,
+											las esquinas opuestas son del mismo color,
+											por lo que es imposible iniciar
+y terminar un camino hamiltoniano
+											en las esquinas opuestas.
+											Parece que se te ha acabado la suerte.
+											A no ser que mires las reglas con atención
+y notes una importante excepción.
+											Es cierto
+											que una vez que activas el interruptor
+en una habitación contaminada,
+											es destruida y no puedes volver atrás.
+											Pero hay una habitación
+que no estaba contaminada - la entrada.
+											Esto significa que puedes dejarla 
+una vez sin tirar del interruptor
+											y regresar a ella cuando hayas destruido
+cualquiera de estas dos habitaciones.
+											La habitación de la esquina
+puede haber sido contaminada
+											por la apertura de la esclusa,
+pero no pasa nada
+											porque puedes destruir la entrada
+después de tu segunda visita.
+											Ese viaje de vuelta te da cuatro 
+opciones para una ruta exitosa,
+											y un grupo similar de opciones 
+si destruiste esta habitación primero.
+											Enhorabuena.
+											Has evitado una epidemia 
+de dimensiones apocalípticas,
+											pero tras un suceso tan estresante, 
+necesitas un descanso.
+											Tal vez deberías aceptar
+esa nueva oferta de trabajo
+											para ser vendedor ambulante.
+									","
+											Araştırma ekibiniz, dondurulmuş
+											ve araştırılmak üzere saklanan
+											tarih öncesi bir virüs buldu.
+											Uzun bir gece çalışması ardından,
+											tam laboratuvarı kapatmak üzereyken
+aniden bir deprem olur
+											ve elektrik kesilir.
+											Acil durum jeneratörleri devreye girer,
+alarm çalar ve korktuğunuz başınıza gelir:
+											tüm virüs flakonları kırılmıştır.
+											Virüs şimdilik kontrol altında olsa da
+											yok etmediğiniz takdirde,
+											havalandırma yakında açılacak
+ve havayla ölümcül bir veba yayılacak.
+											Tereddüt etmeden 
+HazMat giysinizi giyiyorsunuz
+											ve dünyayı kurtarmaya girişiyorsunuz.
+											Laboratuvar her biri 4 odalı 4 kat
+ve toplam 16 odadan oluşuyor,
+											girişi kuzeybatı,
+çıkışı ise güneydoğu cephesinde.
+											Her oda bir diğerine hava kilidiyle bağlı
+											ve virüs giriş hariç her odada yayıldı.
+											Yok etmek için her enfekte odaya
+giriş yapmanız
+											ve acil durum kendini yok etme
+şalterini çalıştırmanız lazım.
+											Ancak bir sorun var.
+											Güvenlik sistemi kilitli olduğundan,
+											enfekte odaya giriş yaptığınız zaman
+											şalteri çalıştırmadan çıkamazsınız
+											ve eğer çalıştırırsanız,
+											o odaya geri giremezsiniz.
+											Bir kağıda mümkün olan
+çıkış yollarını çiziyorsunuz,
+											fakat hiçbir yol en az bir oda kaçırmadan
+											sizi çıkışa götürmüyor.
+											Peki nasıl enfekte her odadaki
+virüsü yok edip
+											hayatta kalarak bu olayı anlatabilirsiniz?
+											Kendiniz çözmek istiyorsanız
+burada durdurun.
+											Cevap için: 3
+											Cevap için: 2
+											Cevap için: 1
+											İlk içgüdünüz mümkün hareketlerinizi
+bir grafik üstünde göstermekse,
+											doğru düşündünüz demektir.
+											Hamilton yolu problemi ile 
+bağlantılı bu bulmaca
+											adını 19. yüzyıl İrlandalı matematikçi
+William Rowan Hamilton'dan alır.
+											Yol probleminin zorluğu
+											eldeki grafikte Hamilton yolu
+olup olmadığını bulabilmektir.
+											Bu yol, her noktaya yalnızca bir kez
+uğranarak izlenen bir güzergâhtır.
+											NP-tam olarak sınıflandırılan 
+bu tür bir problem,
+											grafik yeteri kadar büyükse 
+bilindiği gibi epey zordur.
+											Sunulan çözümler kolaylıkla doğrulansa da
+											çözüm ve hatta bir çözümün olduğuna dair
+ne güvenilir bir formül,
+											ne de bir kısayol vardır.
+											Bilgisayarların bile güvenilir bir çözüm
+											bulabileceğinden emin değiliz.
+											Bu bulmaca Hamilton yolu problemine
+belli bir noktalarda
+											başlayıp bitirmemiz gereken 
+bir zorluk ekliyor.
+											Bir yığın grafik kağıdı harcamadan önce,
+											doğru bir Hamilton yolunun
+											bu noktalarla mümkün olmadığını 
+bilmenizde fayda var.
+											Çünkü odalar her iki tarafta da çift sayı
+olduğu zaman bir tablo oluşturuyor.
+											Bu şekilde ayarlanan her tabloda
+											birbirine zıt noktalarda başlayıp biten 
+bir Hamilton yolu imkansızdır.
+											Anlamak için bir örnek verelim.
+											Her tarafında çift sayıda kareler olan
+bir satranç tahtası düşünün.
+											Üzerinden geçeceğiniz her yol
+siyah ve beyaz arasında değişecektir.
+											Ayrıca bu tabloların toplam 
+kare sayısı da çift olacaktır
+											çünkü iki çift sayıyı çarptığınızda
+sonuç yine çift olur.
+											Yani çift sayılı bir tabloda siyah ile
+başlanan bir Hamilton yolu
+											beyaz üzerinde bitecektir.
+											Beyaz üzerinde başlanan yol ise
+siyah ile bitecektir.
+											Ancak, çift sayılı her tabloda
+											zıt köşeler aynı renktedir,
+											bu yüzden bir Hamilton yolunu zıt 
+köşelerde başlayıp bitirmek imkansızdır.
+											Şansınız yok gibi görünüyor,
+											tabii eğer kurallara dikkatlice bakıp
+bir istisna fark etmediyseniz.
+											Enfekte bir odadaki şalteri indirdiğinizde
+											her şeyin yok olduğu 
+ve geri dönemeyeceğiniz doğru.
+											Ancak enfekte olmayan bir oda var: giriş.
+											Bu da demektir ki şalteri indirmeden
+o odayı bir kez terk edip
+											bu iki odadan birini yok ettikten sonra
+oraya geri dönebilirsiniz.
+											Köşe oda hava kilidinin açılmasıyla
+											enfekte olmuş olabilir ama sorun yok
+											çünkü girişi ikinci ziyaretinizden 
+sonra yok edebilirsiniz.
+											Geri dönüş size başarılı bir güzergâh için
+dört seçenek ve eğer önce
+											bu odayı yok ettiyseniz 
+benzer bir grup seçenek sunuyor.
+											Tebrikler. Apokaliptik ölçülerde 
+bir salgını önlediniz
+											ama böyle bir uğraşın ardından
+molaya ihtiyacınız var.
+											Belki de şu seyyar satıcı işini
+kabul etseniz iyi olur.
+									","
+											Votre équipe de chercheurs a trouvé 
+un virus préhistorique
+											préservé dans le permafrost
+											et l'a isolé pour l'étudier.
+											Après une longue nuit de travail,
+											vous vous apprêtez à fermer le labo
+quand un tremblement de terre soudain
+											paralyse le réseau électrique.
+											Quand le générateur de secours démarre,
+une alarme confirme votre pire crainte :
+											tous les flacons d'échantillons
+sont cassés.
+											Le virus est contenu pour l'instant,
+											mais si vous ne le détruisez pas,
+											les conduits d'aération s'ouvriront
+et libèreront une peste mortelle.
+											Sans hésiter, vous enfilez votre
+combinaison de protection
+											et vous vous préparez à sauver le monde.
+											Le labo est une enceinte 
+de 4 par 4, soit 16 pièces,
+											avec une entrée à l'angle nord-ouest
+et une sortie au sud-est.
+											Chaque pièce est reliée
+aux pièces voisines par un sas,
+											et le virus a été libéré
+dans chaque pièce sauf l'entrée.
+											Pour le détruire, vous devez entrer
+dans chaque pièce contaminée
+											et enclencher l'interrupteur
+d'auto-destruction.
+											Mais il y a un piège.
+											Comme le système de sécurité
+est verrouillé,
+											quand vous entrez
+dans une pièce contaminée,
+											vous ne pouvez plus en sortir
+sans activer l'interrupteur,
+											et une fois que c'est fait,
+											vous ne pourrez plus
+retourner dans cette pièce.
+											Vous commencez à dessiner tous les
+itinéraires possibles sur un bloc-notes,
+											mais rien ne vous permet 
+d’atteindre la sortie
+											sans rater au moins une pièce.
+											Alors comment faire pour détruire le virus
+dans chaque pièce contaminée,
+											et survivre pour raconter l'histoire ?
+											Faites « Pause » si vous souhaitez
+trouver la réponse par vous-même.
+											Réponse dans : 3
+											Réponse dans : 2
+											Réponse dans : 1
+											Si votre premier instinct est de dessiner
+tous les chemins possibles sur une grille,
+											vous avez la bonne idée.
+											Ce puzzle est lié au problème
+du chemin hamiltonien,
+											du nom du mathématicien irlandais du
+19ème siècle, William Rowan Hamilton.
+											Le défi de ce problème
+											est de trouver si un graphe donné
+possède un chemin hamiltonien.
+											C'est un trajet qui passe exactement
+une seule fois par chaque point.
+											Ce type de problème, classé comme
+NP-complet,
+											est réputé difficile quand le graphe
+est suffisamment grand.
+											Bien que toute solution proposée
+puisse être facilement vérifiée,
+											il n'existe aucune formule ou raccourci
+fiable pour en trouver une,
+											ou pour déterminer s'il en existe une.
+											Et nous ne sommes même pas sûrs
+que les ordinateurs
+											puissent trouver de manière fiable
+de telles solutions.
+											Cette énigme ajoute une contrainte
+au problème du chemin hamiltonien,
+											puisque vous devez commencer et finir
+par des points spécifiques.
+											Mais avant de gaspiller 
+une tonne de papier quadrillé,
+											vous devriez savoir qu'un vrai
+chemin hamiltonien
+											est impossible avec ces extrémités.
+											C'est parce que les pièces forment
+une grille aux côtés pairs.
+											Dans toute grille avec
+cette configuration,
+											un chemin hamiltonien qui débute et finit
+par des coins opposés est impossible.
+											Voici un moyen de comprendre pourquoi.
+											Imaginez un échiquier avec
+un nombre pair de carrés de chaque côté.
+											Chaque chemin traversant l'échiquier
+alternera le blanc et le noir.
+											Ces grilles ont aussi toutes
+un nombre total de carrés pair
+											parce qu'en multipliant deux nombre pairs,
+on obtient un nombre pair.
+											Un chemin hamiltonien sur une grille
+aux côtés pairs démarrant sur du noir
+											devra se terminer sur du blanc.
+											Et un chemin commençant sur du blanc
+devra se terminer sur du noir.
+											Toutefois, dans toute grille
+aux côtés pairs,
+											les coins opposés sont de la même couleur,
+											il est donc impossible de débuter et finir
+un chemin hamiltonien
+											sur des coins opposés.
+											On dirait que vous n'avez pas de chance,
+											à moins de bien regarder les règles
+et remarquer une exception importante.
+											C'est vrai qu'une fois l'interrupteur
+activé dans une pièce contaminée,
+											celle-ci est détruite
+et vous ne pouvez plus y retourner.
+											Mais il y a une pièce
+qui n'a pas été contaminée - l'entrée.
+											Cela signifie que vous pouvez en sortir
+une fois sans activer l'interrupteur
+											et y retourner une fois que
+vous avez détruit l'une de ces pièces.
+											La pièce du coin peut être contaminée
+											par l'ouverture du sas,
+mais ce n'est pas grave
+											parce que vous pouvez détruire l'entrée
+après votre deuxième passage.
+											Ce voyage retour vous donne 4 options
+pour un trajet couronné de succès,
+											et un lot similaire d'options
+si vous détruisez cette pièce en premier.
+											Félicitations. Vous avez évité
+une épidémie de proportion apocalyptique,
+											mais après un épisode aussi stressant,
+vous avez besoin d'une pause.
+											Peut-être devriez-vous accepter
+cette offre d'emploi pour devenir VRP.
+									",Can you solve the virus riddle?,Lisa Winer,4:52,"animation,TED-Ed,virus,disease,history,math,natural disaster"
+"
+","
+","
+","
+","
+",Can you solve the virus riddle?,Lisa Winer,4:52,"animation,TED-Ed,virus,disease,history,math,natural disaster"

@@ -1,0 +1,769 @@
+en,es,pt,fr,de,tr,title,speaker,duration,tags
+"
+","
+","
+","
+","
+","
+",Can you solve the prisoner hat riddle?,Alex Gendler,4:19,"collaboration,creativity,memory,philosophy,TED-Ed,animation"
+"
+											You and nine other individuals 
+have been captured
+											by super intelligent alien overlords.
+											The aliens think humans look quite tasty,
+											but their civilization forbids eating
+highly logical and cooperative beings.
+											Unfortunately, they're not sure 
+whether you qualify,
+											so they decide to give you all a test.
+											Through its universal translator,
+											the alien guarding you 
+tells you the following:
+											You will be placed in a single-file line
+facing forward in size order
+											so that each of you can see 
+everyone lined up ahead of you.
+											You will not be able to look behind you
+or step out of line.
+											Each of you will have either a black
+or a white hat on your head
+											assigned randomly,
+											and I won't tell you 
+how many of each color there are.
+											When I say to begin, each of you must
+guess the color of your hat
+											starting with the person in the back
+and moving up the line.
+											And don't even try saying words
+other than black or white
+											or signaling some other way,
+like intonation or volume;
+											you'll all be eaten immediately.
+											If at least nine of you guess correctly,
+you'll all be spared.
+											You have five minutes to discuss
+and come up with a plan,
+											and then I'll line you up,
+assign your hats, and we'll begin.
+											Can you think of a strategy guaranteed
+to save everyone?
+											Pause the video now 
+to figure it out for yourself.
+											Answer in: 3
+											Answer in: 2
+											Answer in: 1
+											The key is that the person 
+at the back of the line
+											who can see everyone else's hats
+can use the words ""black"" or ""white""
+											to communicate some coded information.
+											So what meaning can be 
+assigned to those words
+											that will allow everyone else 
+to deduce their hat colors?
+											It can't be the total number
+of black or white hats.
+											There are more than two possible values,
+											but what does have two possible values
+is that number's parity,
+											that is whether it's odd or even.
+											So the solution is to agree
+that whoever goes first will,
+											for example, say ""black"" if he sees
+an odd number of black hats
+											and ""white"" if he sees 
+an even number of black hats.
+											Let's see how it would play out
+if the hats were distributed like this.
+											The tallest captive sees three black
+hats in front of him,
+											so he says ""black,"" telling everyone else
+he sees an odd number of black hats.
+											He gets his own hat color wrong,
+but that's okay
+											since you're collectively allowed 
+to have one wrong answer.
+											Prisoner two also sees an odd
+number of black hats,
+											so she knows hers is white,
+and answers correctly.
+											Prisoner three sees 
+an even number of black hats,
+											so he knows that his must be 
+one of the black hats
+											the first two prisoners saw.
+											Prisoner four hears that and knows
+											that she should be looking for 
+an even number of black hats
+											since one was behind her.
+											But she only sees one, so she deduces
+that her hat is also black.
+											Prisoners five through nine are each
+looking for an odd number of black hats,
+											which they see, so they figure out
+that their hats are white.
+											Now it all comes down to you
+at the front of the line.
+											If the ninth prisoner saw 
+an odd number of black hats,
+											that can only mean one thing.
+											You'll find that this strategy works
+for any possible arrangement of the hats.
+											The first prisoner has a 50% chance of
+giving a wrong answer about his own hat,
+											but the parity information he conveys
+											allows everyone else 
+to guess theirs with absolute certainty.
+											Each begins by expecting to see an odd
+or even number of hats
+											of the specified color.
+											If what they count doesn't match,
+that means their own hat is that color.
+											And everytime this happens,
+											the next person in line will switch
+the parity they expect to see.
+											So that's it, you're free to go.
+											It looks like these aliens 
+will have to go hungry,
+											or find some less logical 
+organisms to abduct.
+									","
+											Tú y 9 personas 
+han sido capturados
+											por superinteligentes 
+alienígenas supremos,
+											que creen que los humanos 
+se ven apetecibles,
+											pero su civilización les prohíbe comer 
+seres sumamente lógicos y cooperativos.
+											Desafortunadamente, 
+dudan si Uds. califican,
+											así que deciden 
+hacerles una prueba.
+											Mediante su traductor universal,
+											los alienígenas que 
+los retienen les dicen:
+											""Serán formados en una sola fila 
+viendo al frente por orden de estatura,
+											tal que cada uno en la fila 
+pueda ver al frente.
+											No podrán ver 
+para atrás o salirse de la fila.
+											Cada uno tendrá puesto 
+un sombrero blanco o negro,
+											asignado aleatoriamente
+											y no les diré cuántos de cada color.
+											Cuando diga que empiecen, cada uno 
+debe adivinar el color de su sombrero
+											comenzando con la persona que 
+está atrás y hacia adelante en la fila.
+											Ni siquiera intenten decir otra palabra 
+que no sea blanco o negro
+											o señalizar de otra forma 
+con la entonación o el volumen;
+											de inmediato serán devorados.
+											Si al menos 9 de Uds. 
+aciertan, se salvarán.
+											Tienen 5 minutos 
+para discutir y concebir un plan,
+											luego serán formados en fila, 
+se les asignarán sombreros y comenzarán.
+											¿Pueden pensar en una estrategia 
+que garantice la salvación de todos?
+											Pon pausa al video ahora 
+y resuélvelo tú mismo.
+											Respuesta en: 3
+											Respuesta en: 2
+											Respuesta en: 1
+											La clave está en 
+la persona al final de la fila,
+											que puede ver todos los sombreros y
+usar las palabras ""blanco"" o ""negro""
+											para comunicar información codificada.
+											Así, ¿qué significado 
+se puede asignar a esas palabras
+											que permitan que todos deduzcan 
+los colores de sus sombreros?
+											No puede ser el número total 
+de sombreros blancos o negros.
+											Existen más de dos posibles valores,
+											pero lo que tiene dos posibles valores
+es la paridad del número,
+											es decir si es par o impar.
+											Así la solución es acordar 
+que quien vaya primero,
+											por ejemplo, diga ""negro"" si ve 
+un número impar de sombreros negros
+											y ""blanco"" si ve un número par 
+de sombreros blancos.
+											Veamos cómo saldría si el número 
+de sombreros estuviera distribuido así.
+											El preso más alto ve 
+tres sombreros negros frente a él,
+											así que dice ""negro"", para decirle 
+a todos los demás que ve un número impar.
+											Se equivoca con el color de 
+su propio sombrero, pero está bien,
+											dado que en conjunto se permite 
+que tengan una respuesta mal.
+											La preso dos también ve un 
+número impar de sombreros negros,
+											así que sabe que el suyo es 
+blanco y responde correctamente.
+											El prisionero tres ve un número 
+par de sombreros negros,
+											así que sabe que su sombrero 
+es uno de los negros,
+											que los dos primeros presos vieron.
+											La presa cuatro oye eso y sabe
+											que debería buscar un número 
+impar de sombreros negros,
+											puesto que uno está detrás de ella.
+											Pero sólo ve uno, así que deduce 
+que su sombrero es negro.
+											Los presos del cinco al nueve cada uno 
+busca un número impar de sombreros negros
+											lo que ven, entonces deducen 
+que sus sombreros son blancos.
+											Ahora todo se reduce a ti 
+que estás al frente de la fila.
+											Si el noveno preso vio un número 
+impar de sombreros negros,
+											eso significa una sola cosa.
+											Verás que esta estrategia funciona para 
+cualquier posible arreglo de sombreros.
+											El primer preso tiene una posibilidad del 
+50 % de contestar mal sobre su sombrero,
+											pero la información 
+de paridad que trasmite
+											permite que todos los demás 
+adivinen con absoluta certeza.
+											Cada uno comienza esperando ver 
+un número par o impar de sombreros
+											del color específico.
+											Si lo que cuentan no coincide, significa 
+que su propio sombrero es de ese color.
+											Cada vez que esto ocurre,
+											la siguiente persona en la fila 
+cambiará la paridad que espera ver.
+											Eso es todo y son libres de irse.
+											Parece que estos alienígenas
+pasarán hambre
+											o tendrán que buscar organismos 
+menos lógicos que raptar.
+									","
+											Tu e mais nove indivíduos 
+foram raptados
+											por suseranos extraterrestres
+super inteligentes.
+											Os extraterrestres acham 
+que os seres humanos devem ser saborosos,
+											mas a sua civilização proíbe-os 
+de comerem seres lógicos e cooperantes.
+											Infelizmente, não têm a certeza
+se vocês têm essas qualidades
+											por isso decidem sujeitar-vos a um teste.
+											Através do seu intérprete universal,
+											o extraterrestre que vos guarda
+diz o seguinte:
+											""Vão pôr-se em fila indiana, 
+virados para a frente,
+											""por ordem de alturas,
+											""de modo que cada um possa ver
+todos os que estão à sua frente.
+											""Não podem olhar para trás,
+nem sair da fila.
+											""Cada um de vocês terá um chapéu
+preto ou branco na cabeça,
+											""atribuído ao acaso.
+											""Eu não vos vou dizer
+quantos são de cada cor.
+											""Quando eu disser 'começar',
+											""cada um tem que adivinhar 
+a cor do seu chapéu,
+											""começando pela pessoa que está atrás
+e seguindo até à da frente.
+											""Não se atrevam a dizer
+qualquer outra palavra
+											""que não seja 'preto' ou 'branco',
+											""nem dar qualquer outra indicação,
+quer por entoação ou volume.
+											""Serão comidos imediatamente.
+											""Se, pelo menos nove de vocês adivinharem
+corretamente, serão todos poupados.
+											""Têm cinco minutos para conversar
+e arranjar um plano.
+											""Depois, põem-se em fila, 
+eu distribuo os chapéus e começamos"".
+											Conseguem pensar numa estratégia
+garantida para salvar toda a gente?
+											[Parem agora o vídeo
+para resolverem sozinhos]
+											[Reposta em: 3]
+											[Resposta em: 2]
+											[Resposta em: 1]
+											O segredo está na última pessoa na fila,
+											que pode ver os chapéus de todos,
+											e pode usar as palavras
+""branco"" ou ""preto""
+											para comunicar 
+qualquer informação codificada.
+											Que significado pode ser atribuído
+a essas palavras
+											que permita que todos os outros 
+deduzam qual a cor do seu chapéu?
+											Não pode ser o número total
+de chapéus pretos ou brancos.
+											Há mais do que dois valores possíveis.
+											O que tem apenas dois valores possíveis 
+é a paridade dos números,
+											ou seja, se são ímpares ou pares.
+											Portanto, a solução é combinar
+que o primeiro a falar,
+											diga ""preto"", por exemplo, 
+se vir um número ímpar de chapéus pretos
+											e ""branco"", se vir um número par
+de chapéus pretos.
+											Vejamos como funcionaria se os chapéus
+estivessem distribuídos desta forma.
+											O prisioneiro mais alto vê 
+três chapéus pretos à sua frente,
+											portanto, diz ""preto"", 
+informando toda a gente
+											que está a ver um número ímpar
+de chapéus pretos.
+											Não acerta na cor do seu chapéu,
+mas não faz mal,
+											porque, no conjunto, 
+podem ter uma resposta errada.
+											A prisioneira dois também vê 
+um número ímpar de chapéus pretos,
+											portanto sabe que o dela é branco,
+e responde corretamente.
+											O prisioneiro três vê 
+um número par de chapéus pretos,
+											portanto, sabe que o dele tem que ser
+um dos chapéus pretos
+											que os dois primeiros prisioneiros viram.
+											A prisioneira quatro ouve isso
+e fica a saber
+											que tem que procurar
+um número par de chapéus pretos
+											visto que um deles está atrás dela.
+											Mas como só vê um, deduz 
+que o chapéu dela também é preto.
+											Os cinco prisioneiros seguintes procuram
+um número ímpar de chapéus pretos.
+											Mas como o veem, concluem
+que os seus chapéus são brancos.
+											Agora, o problema é teu, 
+no lugar da frente.
+											Se o nono prisioneiro viu 
+um número ímpar de chapéus pretos,
+											isso só pode significar uma coisa.
+											Esta estratégia funciona 
+com qualquer possível arranjo dos chapéus.
+											O primeiro prisioneiro
+tem 50% de hipóteses
+											de dar uma resposta errada 
+quanto ao seu chapéu,
+											mas a informação de paridade
+que transmite
+											permite que todos os outros adivinhem
+a cor do seu com uma certeza absoluta.
+											Começam todos a verificar se veem
+um número de chapéus par ou ímpar
+											da cor especificada.
+											Se aquilo que contam não condiz,
+											isso significa que é o seu chapéu 
+que tem essa cor.
+											Sempre que isto acontece,
+											a pessoa seguinte altera a paridade
+que espera ver.
+											Já está, estão livres para se irem embora.
+											Parece que os extraterrestres
+vão ter que passar fome
+											ou procurar raptar
+organismos menos lógicos.
+									","
+											Des extraterrestres super intelligents
+											viennent de vous capturer 
+avec 9 autres personnes.
+											Vous leur paraissez appétissant.
+											Mais leur civilisation 
+leur interdit de consommer
+											des êtres dotés d'un esprit 
+logique et collaboratif.
+											Malheureusement, ils ne savent pas trop
+si vous faites partie de cette catégorie.
+											Ils décident donc 
+de vous faire passer un test.
+											Grâce à leur traducteur universel,
+											les extraterrestres vous disent ceci :
+											Mettez-vous en un seul rang,
+											dans la même direction, 
+et par ordre de taille.
+											Chacun d'entre vous peut donc voir 
+tous ceux qui sont devant lui.
+											Il vous est interdit de regarder 
+derrière vous, ou de faire un pas de côté.
+											Nous allons donner à chacun 
+d'entre vous un chapeau, noir ou blanc,
+											de manière aléatoire.
+											Nous ne vous dirons pas combien de
+chapeaux il y a pour chaque couleur.
+											Quand je vous le dirai, chacun de vous 
+doit deviner la couleur de son chapeau,
+											en commençant pas le dernier,
+un après l'autre.
+											Celui qui dit autre chose
+que noir ou blanc,
+											ou qui tente de tricher, 
+en utilisant l'intonation de sa voix,
+											sera immédiatement dévoré.
+											Si minimum 9 d'entre vous devinent 
+correctement, vous serez épargnés.
+											Vous avez 5 minutes pour discuter 
+entre vous de votre stratégie.
+											Ensuite, vous vous alignerez.
+Nous distribuerons les chapeaux.
+											Trouverez-vous une stratégie 
+qui vous sauvera tous ?
+											Mettez la vidéo sur pause et réfléchissez.
+											Réponse dans : 3
+											2
+											1
+											La clef de l'énigme, 
+c'est la personne à l'arrière,
+											car elle voit tous les chapeaux,
+et peut utiliser « noir » et « blanc »
+											comme mot de code 
+pour transmettre une information.
+											Quel sens peut-on assigner à ces mots
+											qui permettra aux autres de déduire 
+la couleur de leur chapeau ?
+											Ça ne peut pas être le nombre total 
+de chapeaux noirs ou blancs,
+											parce qu'il y a plus 
+que deux valeurs possibles.
+											Il y a une donnée n'a que deux valeurs :
+la parité des nombres,
+
+											c'est à dire, s'ils sont impairs ou pairs.
+											La solution est donc de se mettre d'accord
+que le premier à parler,
+											dira par exemple, « noir » s'il voit
+un nombre impair de chapeaux noirs,
+											et « blanc », s'il voit un nombre 
+pair de chapeaux noirs.
+											Testons cette solution ensemble,
+en distribuant les chapeaux aléatoirement.
+											Le prisonnier le plus grand voit
+3 chapeaux noirs.
+											Il dit donc « noir »,
+											le code qui informe tous les autres 
+d'un nombre impair de chapeaux noirs.
+											Son chapeau n'est pas noir, 
+mais ce n'est pas grave,
+											puisque vous êtes autorisé
+à une erreur au total.
+											Le deuxième aussi voit
+un nombre impair de chapeaux noirs.
+											Il déduit donc que son chapeau est blanc.
+Réponse correcte.
+											Le prisonnier 3 voit un nombre pair 
+de chapeaux noirs.
+											Il sait donc que le sien 
+est forcément un des chapeaux noirs,
+											mentionnés par les deux 
+premiers prisonniers.
+											Le prisonnier 4 entend ça,
+et en déduit
+											qu'il reste un nombre pair 
+de chapeaux noirs.
+											En effet, il y en a un derrière elle.
+											Mais elle n'en voit qu'un. Ça lui permet 
+de déduire que son chapeau est noir.
+											Les prisonniers 5 à 9 constatent
+un nombre impair de chapeaux noirs.
+											Ils peuvent constater cette situation
+et déduire que leur chapeau est blanc.
+											C'est maintenant votre tour.
+											Si le neuvième prisonnier a vu
+un nombre impair de chapeaux noirs,
+											ça ne peut signifier qu'une seule chose.
+											Vous constaterez 
+que cette stratégie fonctionne
+											pour n'importe quelle distribution 
+de chapeaux.
+											Le premier prisonnier a 
+une chance sur deux de se tromper,
+											mais l'information sur la parité 
+qu'il transmet aux autres,
+											leur permet de deviner la couleur 
+de leur chapeau avec certitude.
+											C'est basé sur le nombre pair 
+ou impair de chapeaux
+											d'une certaine couleur 
+que vous pouvez voir.
+											Si votre décompte ne correspond pas,
+											ça signifie que votre chapeau 
+est de cette couleur.
+											Chaque fois que c'est le cas,
+											la personne suivante change 
+la parité qu'il s'attend à voir.
+											Voilà ! Vous êtes libres.
+											Les extraterrestres vont 
+rester sur leur faim.
+											A moins qu'ils ne jettent leur dévolu 
+un organisme moins logique.
+									","
+											Du wurdest zusammen mit neun anderen
+											von superintelligenten Aliens entführt.
+											Diese finden Menschen ziemlich lecker,
+											aber es ist ihnen verboten,
+											hochgradig logisch denkende
+und kooperative Lebewesen zu verzehren.
+											Leider sind sie sich da bei dir unsicher.
+											Daher beschließen sie,
+euch alle auf die Probe zu stellen.
+											Mit seinem Universalübersetzer
+											sagt dir das Alien, das dich bewacht:
+											Ihr werdet hintereinander in einer Reihe
+so der Größe nach aufgestellt,
+											dass jeder von euch
+alle vor sich Stehenden sehen kann.
+											Ihr werdet nicht hinter euch schauen
+oder aus der Reihe heraustreten können.
+											Jeder von euch wird, zufällig verteilt,
+einen schwarzen oder weißen Hut tragen.
+											Und ich werde euch nicht sagen,
+wie viele es von jeder Farbe gibt.
+											Wenn ich ""Los!"" sage, müsst ihr jeweils
+einen Tipp für eure Hutfarbe abgeben.
+											Zuerst rät die Person ganz hinten
+und dann die jeweils nächste in der Reihe.
+											""Schwarz"" und ""Weiß"" ist dabei alles,
+was ihr sagen dürft.
+											Andere Signale z. B. durch Lautstärke
+oder Tonfall sind nicht erlaubt.
+											Sonst werdet ihr alle sofort gegessen.
+											Wenn mindestens neun von euch
+richtig raten, werden alle verschont.
+											Ihr habt fünf Minuten,
+um einen Plan zu schmieden.
+											Dann stelle ich euch in eine Reihe,
+setze euch Hüte auf und es geht los.
+											Kannst du dir eine Strategie
+ausdenken, um alle zu retten?
+											Drücke jetzt auf Pause, um selbst
+auf die Lösung zu kommen.
+											Antwort in 3
+											Antwort in 2
+											Antwort in 1
+											Der Trick dabei ist,
+dass die hinterste Person,
+											die die Hüte aller anderen sehen kann,
+											die Wörter ""Schwarz""
+und ""Weiß"" benutzen kann,
+											um verschlüsselte Informationen
+zu kommunizieren.
+											Welche Bedeutung kann diesen Wörtern
+also zugewiesen werden,
+											die es allen anderen erlaubt,
+ihre Hutfarbe abzuleiten?
+											Es kann nicht die Gesamtzahl an
+schwarzen oder weißen Hüten sein.
+											Hier gibt es mehr als zwei mögliche Werte.
+											Genau zwei mögliche Werte
+hat allerdings die Parität dieser Zahl.
+											Dies ist die Eigenschaft, ob eine Zahl
+gerade oder ungerade ist.
+											Die Lösung ist also zu vereinbaren,
+dass der Erste z. B. ""Schwarz"" sagt,
+											falls er eine ungerade Zahl
+an schwarzen Hüten sieht,
+											und ""Weiß"", falls er eine gerade Zahl
+an schwarzen Hüten sieht.
+											Schauen wir einmal, wie es funktionieren
+würde, wenn die Hüte so verteilt wären.
+											Der größte Gefangene sieht
+vor sich drei schwarze Hüte.
+											Er sagt ""Schwarz"",
+um den anderen mitzuteilen,
+											dass er eine ungerade Zahl
+an schwarzen Hüten sieht.
+											Er rät seine eigene Hutfarbe falsch,
+aber das ist okay,
+											da ihr insgesamt eine Antwort
+falsch haben dürft.
+											Gefangene 2 sieht auch eine
+ungerade Anzahl an schwarzen Hüten.
+											Daher weiß sie, dass ihrer weiß ist,
+und gibt die korrekte Antwort.
+											Gefangener 3 sieht eine
+gerade Anzahl an schwarzen Hüten.
+											Also weiß er, dass sein Hut
+einer der schwarzen Hüte sein muss,
+											die die ersten zwei Gefangenen sahen.
+											Gefangene 4 hört das und weiß,
+											dass sie nach einer geraden Anzahl
+von schwarzen Hüten suchen muss,
+											da hinter ihr ein schwarzer war.
+											Sie sieht aber nur einen.
+											Also schließt sie daraus,
+dass ihrer auch schwarz ist.
+											Die Gefangenen 5 bis 9 suchen alle nach
+einer ungeraden Zahl von schwarzen Hüten,
+											die sie auch sehen.
+											Daraus schließen sie,
+dass ihre Hüte weiß sind.
+											Jetzt kommt alles auf dich
+als Ersten in der Reihe an.
+											Wenn der neunte Gefangene eine
+ungerade Zahl an schwarzen Hüten sah,
+											kann das nur eines bedeuten.
+											Diese Strategie funktioniert
+für beliebige Anordnungen der Hüte.
+											Der erste Gefangene hat eine Chance
+von 50 %, eine falsche Antwort zu geben.
+											Aber die Information über
+die Parität, die er übermittelt,
+											erlaubt es allen anderen, ihre Antwort
+mit absoluter Gewissheit zu finden.
+											Jeder erwartet jeweils, eine gerade
+oder ungerade Anzahl an Hüten
+											der vorher festgelegten Farbe zu sehen.
+											Eine Abweichung vom eigenen
+Zählergebnis bedeutet dann,
+											dass der eigene Hut von dieser Farbe ist.
+											Und jedes Mal, wenn das passiert,
+											wechselt die folgende Person
+zur jeweils anderen Parität.
+											Das ist alles. Du darfst gehen.
+											Diese Aliens bleiben dann wohl hungrig
+											oder werden ein paar weniger
+logische Organismen entführen müssen.
+									","
+											Siz ve diğer dokuz kişi süper zeki
+											uzaylı komutanlarca kaçırıldınız.
+											Uzaylılar insanları
+oldukça lezzetli görüyor
+											ancak medeniyetleri, son derece mantıklı
+ve işbirlikçi canlıları yemeyi yasaklıyor.
+											Ne yazık ki, kalitenizden emin değiller,
+											bu nedenle hepinize bir test
+uygulamaya karar verirler.
+											Evrensel tercümanı sayesinde
+											size muhafızlık yapan
+uzaylı şunları söyler:
+											Yüzünüz ileri dönük olarak tek sıra
+hâlinde boy sırasına konacaksınız,
+											böylece her biriniz, önündeki
+herkesi görebilecek.
+											Arkanıza bakamayacak
+ve sıradan çıkamayacaksnız.
+											Her birinizin kafasında, rastgele
+konmuş siyah ya da
+											beyaz bir şapka olacak
+											ve her renkten kaç tane
+bulunduğu söylenmeyecek.
+											Başlayın dediğimde her biriniz,
+arkadan öne doğru
+											şapkanızın rengini tahmin etmelisiniz.
+											Sakın siyah ya da beyazdan
+farklı bir kelime söylemeyin
+											ya da ses veya tonlama gibi başka
+bir işaret vermeye çalışmayın;
+											aksi durumda hemen yeneceksiniz.
+											En az dokuzunuz doğru bilirse
+hepiniz serbest bırakılacaksınız.
+											Tartışıp anlaşmak için beş dakikanız var
+											ve sonra sizi sıraya koyup,
+şapkalarınızı giydirip başlayacağız.
+											Herkesin kurtulmasını garantileyen
+bir stratejiniz var mı?
+											Düşünmek için videoyu şimdi durdurun.
+											Cevap için: 3
+											Cevap için: 2
+											Cevap için: 1
+											Anahtar, sıranın arkasındaki
+											diğer herkesin şapkasını gören
+kişinin, kodlu bilgi iletmek için
+											""siyah"" veya ""beyaz""
+kelimelerini kullanabilmesidir.
+											Şimdi herkesin kafasındaki
+şapkanın rengini anlaması için
+											bu kelimelere hangi
+anlamlar yüklenmelidir?
+											Siyah veya beyaz şapkaların
+toplam sayısı olamaz.
+											İkiden fazla olasılık var
+											ama sayıların denkliğinin
+iki olası değeri var,
+											tek ya da çift.
+											Böylece çözüm hangisinin ilk
+olacağına karar vermeye kalıyor,
+											örneğin, diyelim ""siyah"" tek
+sayıdaki siyah şapka sayısını
+											ve ""beyaz"" çift sayıdaki
+şapka siyah sayısını göstersin.
+											Şapkaların şu şekilde dağıtılması
+durumunda nasıl oynanacağını görelim.
+											En arkadaki tutsak önünde
+üç tane siyah şapka görüyor,
+											dolayısıyla ""siyah"" diyerek herkese tek
+sayıda siyah şapka olduğunu açıklıyor.
+											Kendi şapkasını yanlış söylemiş
+oluyor ama önemli değil,
+											çünkü toplamda bir yanlışa izin var.
+											İkinci tutsak yine tek sayıda
+siyah şapka görüyor,
+											böylece kendisininkinin beyaz
+olduğunu anlayıp doğru cevaplıyor.
+											Üçüncü tutsak çift sayıda
+siyah şapka görüyor,
+											yani ilk iki tutsağın gördüğü
+siyah şapkalardan birini
+											giydiğini anlıyor.
+											Dördüncü tutsak bunu duyuyor
+											ve biri arkasında olduğundan
+çift sayıda siyah şapka
+											olması gerektiğini biliyor.
+											Sadece bir tane gördüğünden kendi
+şapkasının siyah olduğunu anlıyor.
+											Beşinciden dokuzuncu tutsağa kadar
+hepsi tek sayıda siyah şapka arıyorlar
+											ama zaten bir tane gördüklerinden
+şapkalarının beyaz olduğunu biliyorlar.
+											Şimdi sıranın en önüne geliyor.
+											Eğer dokuzuncu tutsak tek
+sayıda siyah şapka gördüyse
+											bu tek anlama gelebilir.
+											Bu stratejinin her tür sıralama
+için işleyeceğini göreceksiniz.
+											İlk tutsak yüzde 50 şansla kendi
+şapkasını yanlış söyleyebilir
+											ama ilettiği denklik bilgisiyle
+											diğer herkesin doğru tahminde
+bulunmalarını garantiler.
+											Her biri belirlenen renkten
+tek ya da çift sayıda şapka
+											görmeyi umarak başlarlar.
+											Eğer kendi saydıkları uyuşmazsa
+şapkalarının o renk olduğu anlamına gelir.
+											Her seferinde bu olduğunda
+											sonraki kişi görmeyi
+beklediği denkliği değiştirir.
+											İşte oldu, artık söyleyebilirsiniz.
+											Anaşılan bu uzaylılar aç gidecekler
+											veya kaçıracak daha az mantıklı
+organizmalar bulacaklar.
+									",Can you solve the prisoner hat riddle?,Alex Gendler,4:19,"collaboration,creativity,memory,philosophy,TED-Ed,animation"
+"
+","
+","
+","
+","
+","
+",Can you solve the prisoner hat riddle?,Alex Gendler,4:19,"collaboration,creativity,memory,philosophy,TED-Ed,animation"

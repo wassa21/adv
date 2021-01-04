@@ -1,0 +1,978 @@
+fr,en,es,pt,title,speaker,duration,tags
+"
+","
+","
+","
+",The technology of touch,Katherine Kuchenbecker,6:28,"TEDYouth,engineering,technology"
+"
+											Je suis professeur d’ingénierie mécanique
+											à l'Université de Pennsylvanie
+											et mon passe-temps préféré,
+c'est la photographie.
+											Et comme je voyage dans le monde entier,
+											j'aime prendre des photos comme celles-ci
+											pour me rappeler toutes les choses
+											belles et intéressantes que j'ai vues.
+											Mais ce que je ne peux pas faire, 
+c'est enregistrer et partager
+											l'impression que l'on a 
+quand on touche ces objets.
+											C'est surprenant parce que
+											le sens du toucher est important
+											dans toutes vos interactions physiques,
+											les tâches de manipulation,
+											tout ce que vous faites.
+											Et donc, le sens du toucher 
+est en fait assez intéressant.
+											Il a deux composantes principales.
+											La première, est 
+les sensations tactiles,
+											ce que vous sentez sur votre peau.
+											La deuxième, est 
+les sensations kinesthésiques —
+											la position de votre corps,
+											le déplacement,
+											et les forces extérieures.
+											Et vous savez bien intégrer 
+ces deux sensations,
+											pour mieux comprendre vos 
+interactions avec le monde
+											et ce que vous touchez.
+											Est-ce une pierre, un chat, un lapin ?
+Qu'est-ce que c'est ?
+											Alors, en tant qu'ingénieure, 
+je suis vraiment fascinée
+											et j'admire beaucoup ce que
+											les gens font avec leurs mains.
+											Et je suis intriguée et intéressée
+											à l'idée de créer de
+meilleures technologies
+											en exploitant la capacité humaine
+											au moyen du sens du toucher.
+											Pourrais-je améliorer notre interface
+avec la technologie
+											en vous permettant de 
+profiter de vos mains ?
+											En effet, j'y crois.
+											C'est le fondement du domaine 
+appelé ""l'haptique"",
+											dans lequel je travaille.
+											Il s'agit de la technologie 
+tactile interactive.
+											En bref,
+											à mesure que vous vous déplacez 
+à travers le monde,
+											si j'arrive a créer un système
+qui mesure ce mouvement-là
+											et je vous présente des sensations
+apparemment normales,
+											au fil du temps,
+											qui coïncident avec les 
+sensations du monde réel,
+											je peux vous faire 
+toucher quelque chose
+											qui n'est pas là.
+											Bon, voici les exemples.
+											Elles proviennent toutes 
+de mon labo à Penn[sylvanie].
+											Le premier est à propos du problème
+											que je vous montrais :
+											comment capturer les sensations des objets
+											pour recréer ces expériences-là ?
+											Et on résout ce problème-ci
+											en créant un appareil portatif
+											équipé de plusieurs
+capteurs à l'intérieur.
+											Un capteur de pression
+											pour mesurer combien vous poussez,
+											un capteur de mouvements
+											pour suivre si vous bougez,
+											et un capteur de vibration,
+											un accéléromètre, à l'intérieur
+											pour détecter si vous l'agitez;
+											qui vous dit si
+vous touchez de la toile,
+											de la soie ou autre chose.
+											Et puis on prend 
+les données des interactions.
+											Voici 10 secondes de données.
+											Vous pouvez voir les vibrations 
+augmenter et diminuer
+											selon la façon dont vous bougez.
+											Avec cela, on conçoit un 
+modèle mathématique
+											et le programmons dans une tablette
+											et donc quand vous appuyez 
+le stylet sur l'écran,
+											un actionneur de bobine acoustique 
+dans le support blanc
+											émet des vibrations 
+pour vous donner l'illusion
+											que vous appuyez sur une surface réelle,
+											tout comme si vous dessiniez
+											sur une toile réelle.
+											On peut créer des illusions fascinantes
+											pour toute sorte de surface
+											et c'est vraiment amusant.
+											On l'appelle l'haptographie.
+											La photographie haptique.
+											Cela apporte des avantages
+											tel que pour les achats en ligne
+											ou les expositions interactives au musée
+											où toucher les artefacts est interdit
+											bien que vous 
+vouliez toujours le faire.
+											Le deuxième exemple
+											provient d'une collaboration
+											avec la Dr. Margarit Maggio
+de dentisterie à Penn.
+											Elle apprend à ses élèves
+											à savoir où dans la bouche du patient
+											se trouvent les caries.
+											Ils font des radiographies
+											mais une grande partie 
+du jugement clinique
+											vient de ce qu'ils touchent
+											quand ils explorent vos dents.
+											Vous l'avez déjà expérimenté.
+											Ils touchent pour savoir 
+si la dent est dure,
+											alors saine,
+											mais si elle est moelle est collante,
+											c'est un signe que l'émail 
+se décompose.
+											Ces jugements-ci sont difficiles
+											pour les nouveaux élèves
+											car ils n'ont pas assez d’expérience.
+											Et ils doivent l’apprendre
+											avant de pratiquer sur un patient réel.
+											Alors, nous intégrons un accéléromètre
+											à la sonde dentaire
+											et nous enregistrons 
+ce que Dr. Maggio sent
+											en touchant des dents extraites.
+											Et nous pouvons vous lire une vidéo
+											avec une piste tactile.
+											Donc pas seulement une piste audio
+											mais une piste tactile dans l'outil.
+											Vous pouvez sentir
+											ce que la dentiste sentait
+											et vous entrainer aux diagnostics.
+											Voici un échantillon.
+											C'est une dent qui a l'air
+suspecte, n'est-ce pas ?
+											Elle est couverte de tâches brunes
+											et vous vous demandez,
+											s'il faut faire un plombage.
+											Mais si vous la touchez,
+											toutes les surfaces sont dures et saines
+											donc le patient 
+n'a pas besoin d'un plombage.
+											Ce sont les diagnostics
+											que les médecins font
+											et je crois que notre technologie
+											est prometteuse pour
+la formation en médecine
+											parce que c'est vraiment simple
+											et ça réussi à recréer
+ce que les gens sentent
+											à l'aide d'outils.
+											Ça pourrait aussi aider à créer des jeux
+											plus interactifs et sympas
+											et plus réalistes quant à vos sensations.
+											Le dernière exemple est encore
+											à propos du déplacement.
+											Si vous avez déjà appris un sport,
+											vous savez comment on maitrise 
+un sport, tel que le surf ?
+											On pratique.
+											Vous pratiquez beaucoup, n'est-ce pas ?
+											Faites de petites corrections,
+											écoutez l'entraîneur
+											et améliorez vos mouvements.
+											On pourrait se servir des ordinateurs
+											pour créer un processus
+plus efficace et amusant.
+											Par exemple, ici,
+											si j'ai six mouvements différents
+											à vous apprendre,
+											vous allez à mon labo à Penn
+											et testez notre système.
+											Une Kinect enregistre vos mouvements,
+											un écran montre des graphiques,
+											et vous recevez des signaux tactiles,
+											de rétroaction haptique,
+											transmis par ces brassards
+											qui ont des capteurs dedans
+											et qui guident vos déplacements.
+											Dans l'ensemble,
+											en suivant ce déplacement-ci,
+											si vous déviez,
+											ou votre main est trop en haut,
+											nous mettons en marche 
+les moteurs sur votre peau
+											pour vous dire de les baisser
+											comme un entraîneur qui vous guide
+											et vous aide à maîtriser 
+les mouvements plus vite
+											et à faire des corrections plus précises.
+											Nous avons conçu ce système 
+pour la rééducation post-AVC,
+											mais cela a plein d'applications,
+											tel que pour la danse
+											ou pour toute sorte 
+d'entraînement sportif également.
+											A présent vous connaissez un peu
+											le domaine de l'haptique
+											dont vous découvrirez 
+plus à l'avenir.
+											Je vous ai montré 3 exemples
+											et voudrais prendre un moment
+											pour remercier toutes les élèves
+											qui travaillent avec moi
+											et mes collaborateurs.
+											Ils font un super groupe.
+											Et vous aussi, je vous 
+remercie pour votre attention.
+											(Applaudissements)
+									","
+											I'm a mechanical engineering professor
+											at the University of Pennsylvania,
+											and my favorite hobby is photography.
+											And as I travel around the world,
+											I love taking photographs like these,
+											so I can remember all
+the beautiful and interesting things
+											that I've seen.
+											But what I can't do is record and share
+											how these objects feel to touch.
+											And that's kind of surprising,
+											because your sense of touch
+is really important.
+											It's involved in every physical
+interaction you do every day,
+											every manipulation task,
+anything you do in the world.
+											So the sense of touch
+is actually pretty interesting.
+											It has two main components.
+											The first is tactile sensations,
+											things you feel in your skin.
+											And the second is kinesthetic sensations.
+											This has to do with the position
+of your body and how it's moving,
+											and the forces you encounter.
+											And you're really good at incorporating
+											both of these types of sensations together
+											to understand the physical interactions
+you have with the world
+											and understand as you touch a surface:
+											is it a rock, is it a cat,
+is it a bunny, what is it?
+											And so, as an engineer,
+											I'm really fascinated
+											and I have a lot of respect
+for how good people are with their hands.
+											And I'm intrigued and curious
+											about whether we could
+make technology better
+											by doing a better job at leveraging
+											the human capability
+with the sense of touch.
+											Could I improve the interfaces
+to computers and machines
+											by letting you take
+advantage of your hands?
+											And indeed, I think we can,
+											and that's at the core
+of a field called haptics,
+											and this is the area that I work in.
+											It's all about interactive
+touch technology.
+											And the way it works is,
+											as you move your body through the world,
+											if, as an engineer, I can make a system
+that can measure that motion,
+											and then present to you
+sensations over time
+											that kind of make sense,
+											that match up with what you might feel
+in the real world,
+											I can fool you into thinking
+you're touching something
+											even though there's nothing there.
+											So here are three examples
+											and these are all done
+from research in my lab at Penn.
+											The first one is all about that same
+problem that I was showing you:
+											how can we capture how objects feel
+											and recreate those experiences?
+											So the way we solve this problem
+											is by creating a hand-held tool
+											that has many different sensors inside.
+											It has a force sensor, so we can tell
+how hard you're pushing;
+											it has motion tracking, so we can tell
+exactly where you've moved it;
+											and it has a vibration sensor,
+an accelerometer, inside,
+											that detects the shaking
+back and forth of the tool
+											that lets you know
+that's a piece of canvas
+											and not a piece of silk or something else.
+											Then we take the data we record
+from these interactions.
+											Here's ten seconds of data.
+											You can see how the vibrations
+get larger and smaller,
+											depending on how you move.
+											And we make a mathematical
+model of those relationships
+											and program them into a tablet computer
+											so that when you take the stylus
+											and go and touch the screen,
+											that voice-coil actuator
+in the white bracket
+											plays vibrations to give you the illusion
+											that you're touching the real surface,
+											just like if you touched, dragged
+back and forth, on the real canvas.
+											We can create very compelling illusions.
+											We can do this for all kinds of surfaces
+and it's really a lot of fun.
+											We call it haptography —
+haptic photography.
+											And I think it has potential
+benefits in all sorts of areas
+											like online shopping,
+maybe interactive museum exhibits,
+											where you're not supposed
+to touch the precious artifacts,
+											but you always want to.
+											The second example I want to tell you
+about comes from a collaboration I have
+											with Dr. Margrit Maggio
+at the Penn Dental School.
+											Part of her job is to teach
+dental students
+											how to tell where in a patient's mouth
+there are cavities.
+											Of course they look at X-rays,
+											but a large part of this clinical judgment
+comes from what they feel
+											when they touch your teeth
+with a dental explorer.
+											You've all had this happen,
+they go across.
+											What they're feeling for is if the tooth
+is really hard, then it's healthy,
+											but if it's kind of soft and sticky,
+											that's a signal that the enamel
+is starting to decay.
+											These types of judgments are hard
+for a new dental student to make,
+											because they haven't touched
+a lot of teeth yet.
+											And you want them to learn this
+before they start practicing
+											on real human patients.
+											So what we do is add an accelerometer
+on to the dental explorer,
+											and then we record what Dr. Maggio feels
+											as she touches different extracted teeth.
+											And we can play it back for you as a video
+											with a touch track —
+											not just a sound track,
+but also a touch track,
+											that you can feel by holding
+that repeating tool.
+											You feel the same things the dentist
+felt when they did the recording,
+											and practice making judgments.
+											So here's a sample one.
+											Here's a tooth that looks
+kind of suspicious, right?
+											It has all those brown stains.
+											You might be thinking, ""We should
+definitely put a filling in this tooth.""
+											But if you pay attention to how it feels,
+											all the surfaces of this tooth
+are hard and healthy,
+											so this patient does not need a filling.
+											And these are exactly the kind
+of judgments doctors make every day
+											and I think this technology
+we've invented has a lot of potential
+											for many different things in medical
+training, because it's really simple
+											and it does a great job at recreating
+what people feel through tools.
+											I think it could also help make games
+more interactive and fun
+											and more realistic
+in the sensations that you feel.
+											The last example I want to tell you about
+is again about human movement.
+											So if any of you have ever learned sports,
+											how do you get good
+at something like surfing?
+											You practice.
+											You practice some more and more, right?
+											Making small corrections,
+maybe getting some input from a coach,
+											learning how to improve your motions.
+											I think we could use computers
+											to help make that process
+more efficient and more fun.
+											And so here, for example,
+if I have six different arm movements
+											that I want you to learn,
+											you come into my lab at Penn
+and try out our system.
+											We use a Kinect to measure your motions,
+we show graphics on the screen,
+											and then we also give you touch cues,
+											haptic feedback on your arm,
+											delivered by these haptic arm bands
+which have motors inside,
+											and guide you as you move.
+											So, if we put it together,
+											as you're trying to track this motion,
+											if you deviate — say, maybe,
+your arm is a little too high —
+											we turn on the motors
+right there on the skin
+											to let you know you should move down,
+											almost like a coach gently guiding you
+											and helping you master
+these movements more quickly
+											and make more precise corrections.
+											We developed this system
+for use in stroke rehabilitation,
+											but I think there are a lot
+of applications,
+											like maybe dance training
+or all sorts of sports training as well.
+											So now you know a little bit
+about the field of haptics,
+											which I think you'll hear more
+about in the coming years.
+											I've shown you three examples.
+											I just want to take a moment
+											to acknowledge the great students
+who work with me in my lab at Penn
+											and my collaborators.
+											They're a great group.
+											I also want to thank you
+for your kind attention.
+											(Applause)
+									","
+											Soy profesora de Ingeniería Mecánica
+											en la Universidad de Pensilvania
+											y mi pasatiempo favorito
+es la fotografía.
+											Mientras viajo por el mundo
+											me gusta tomar fotos como estas
+											que me permiten recordar
+todas las cosas bellas
+											e interesantes que he visto.
+											Pero hay algo que no puedo hacer:
+no puedo recordar y compartir
+											la sensación de estos objetos al tacto.
+											Y esto es más bien sorprendente
+											porque el sentido del tacto
+es muy importante.
+											Es un sentido involucrado en toda
+interacción física cotidiana,
+											en toda tarea de manipulación,
+											en todo lo que hacemos en el mundo.
+											Y es un sentido bastante interesante.
+											Tiene dos componentes principales.
+											El primero son las sensaciones táctiles,
+											cosas que uno siente en la piel.
+											Y el segundo son
+las sensaciones quinestésicas,
+											algo que tiene que ver
+con la posición del cuerpo,
+											la forma en que se mueve
+											y las fuerzas que encuentra.
+											Somos muy buenos para combinar
+											los dos tipos de sensaciones,
+											para entender las interacciones físicas
+											que tenemos con el mundo
+											y para determinar cuándo
+se toca una superficie.
+											¿Es una roca, un gato,
+un conejo, o qué es?
+											Y, como ingeniera, estoy fascinada
+											y le tengo mucho respeto
+											a la forma en que la gente
+se desenvuelve con sus manos.
+											Siento curiosidad y me intriga
+											saber si podríamos mejorar la tecnología
+											sacando más provecho
+											a la capacidad humana
+del sentido del tacto.
+											¿Podría mejorar las interfaces
+de computadores y máquinas
+											si permito que la gente aproveche
+lo que puede hacer con sus manos?
+											¡Claro que podemos!
+											Ese es el corazón de un campo
+llamado ""háptica"",
+											el campo en el que yo trabajo.
+											Tiene que ver con la tecnología
+táctil interactiva.
+											Funciona así:
+											conforme movemos
+el cuerpo por el mundo
+											si, como ingeniera,
+puedo hacer un sistema
+											que mida ese movimiento
+											y luego presentar
+las sensaciones en el tiempo,
+											en correspondencia,
+											coincidiendo con lo que
+uno siente en el mundo real,
+											eso podría engañarnos y hacernos creer
+que estamos tocando algo
+											cuando no hay nada allí.
+											Veamos tres ejemplos
+											a partir de estudios realizados
+en mi laboratorio.
+											El primero tiene que ver con
+											el problema que les estaba mostrando:
+											¿Cómo podemos capturar
+la sensación que dejan los objetos
+											y recrear estas experiencias?
+											Resolvemos este problema
+											creando una herramienta de mano
+											que dentro tiene muchos sensores.
+											Tiene un sensor de fuerza
+											que nos permite establecer
+cuán duro uno está empujando,
+											rastrear el movimiento,
+											saber donde uno ha movido algo exactamente
+											y un sensor de vibración,
+											un acelerómetro
+											que detecta las sacudidas hacia atrás
+y hacia adelante de la herramienta
+											y que nos permite determinar que se
+trata de un pedazo de lienzo
+											y no de seda o algo así.
+											Y entonces tomamos los datos
+que registramos
+											de estas interacciones...
+											aquí hay diez segundos de datos.
+											Se puede ver cómo las vibraciones
+se hacen más grandes y más pequeñas
+											dependiendo de cómo nos movemos.
+											Entonces tomamos los datos y hacemos
+un modelo matemático de estas relaciones
+											y las programamos en una tableta
+											para que cuando tomamos el bolígrafo
+											y tocamos la pantalla
+											ese accionador de bobina de audio
+que está en el soporte blanco
+											produce vibraciones que dan la ilusión
+											de tocar una superficie real
+											como si tocáramos, arrastrando
+hacia atrás y hacia adelante,
+											en el lienzo real.
+											Podemos crear ilusiones
+muy convincentes.
+											Podemos hacerlo para toda
+clase de superficies
+											y es realmente divertido.
+											Lo llamamos haptografía,
+											fotografía háptica.
+											Creo que tiene beneficios potenciales
+											en toda clase de campos
+como en las compras en línea,
+											quizá en exhibiciones
+de museo interactivas,
+											donde no se espera que uno toque
+											los preciados artefactos,
+pero uno siempre lo desea.
+											El segundo ejemplo
+del que quiero hablarles
+											viene de una colaboración
+											con la Dra. Margrit Maggio
+de odontología en la U. de Pensilvania.
+											Parte de su trabajo consiste en enseñarle
+a los estudiantes de odontología
+											cómo establecer dónde hay cavidades
+											en la boca de un paciente.
+											Por supuesto que observan radiografías,
+											pero gran parte de su juicio clínico
+											viene de lo que pueden sentir
+											al tocar dientes con un explorador dental.
+											Todos hemos pasado por esto.
+Ellos proceden.
+											Y esperamos sentir que el diente
+esté efectivamente duro
+											y por lo tanto sano,
+											pero si se siente algo
+blando y pegajoso,
+											es una señal de que el esmalte
+está empezando a decaer.
+											Y este tipo de juicios
+son difíciles de realizar
+											para un estudiante
+de odontología novato
+											porque todavía no ha tocado muchos dientes.
+											Y uno quiere que aprendan bien esto
+											antes de empezar a practicar
+con pacientes reales.
+											Por eso adosamos un acelerómetro
+											al explorador dental
+											y grabamos lo que
+siente la Dra. Maggio
+											al tocar diferentes
+dientes ya extraídos.
+											Y lo podemos reproducir
+en forma de video,
+											con una pista de contacto.
+											No sólo una pista de sonido,
+sino también una pista de contacto
+											que uno puede sentir al sostener
+esa herramienta repetitiva.
+											Uno puede sentir las mismas cosas
+											que sintió el dentista cuando
+hizo las grabaciones
+											y practicar realizando diagnósticos.
+											Aquí hay una muestra.
+											Este diente parece sospechoso, ¿no?
+											Tiene todas esas manchas de café
+											y podría pensarse:
+											""Definitivamente deberíamos
+rellenar ese diente"".
+											Pero si prestamos atención
+a cómo se siente
+											veremos que todas las superficies
+del diente están duras y saludables
+											y este paciente no necesita relleno.
+											Los médicos hacen estos diagnósticos
+											todos los días
+											y creo que esta tecnología
+que hemos creado
+											tiene mucho potencial para muchas cosas
+											en el entrenamiento médico
+porque es muy simple
+											y funciona bien recreando
+											lo que siente la gente
+mediante herramientas.
+											Creo que también podría
+ayudar a hacer juegos
+											más interactivos, divertidos
+											y más realistas en las
+sensaciones que generan.
+											Por último, quiero hablar nuevamente
+											del ejemplo del movimiento humano.
+											Si alguno ha aprendido
+alguna vez algún deporte,
+											sabe cómo se llega a ser bueno
+en el surf, por ejemplo.
+											Con práctica.
+											Uno practica más y más, ¿sí?
+											Hacemos pequeñas correcciones
+											en función de lo que
+dice el entrenador
+											aprendiendo a mejorar los movimientos.
+											Creo que podemos usar las computadoras
+											para hacer ese proceso
+más eficiente y divertido.
+											Y aquí, por ejemplo,
+											tengo seis movimientos
+diferentes de brazo
+											que quiero que Uds. aprendan,
+											vengan a mi laboratorio
+en la U. de Pensilvania
+											y prueben nuestro sistema.
+											Usamos un kinect para medir los movimientos,
+											les mostramos gráficos en la pantalla,
+											y luego les damos pistas táctiles,
+											retroalimentación háptica al brazo
+											enviada a través de estas
+bandas de brazo hápticas
+											que tienen motores por dentro
+											y que lo guían a uno mientras se mueve.
+											Si unimos todo esto
+											al intentar reproducir un movimiento
+											si uno se desvía,
+											digamos que el brazo está
+demasiado arriba,
+											se encienden los motores que están
+allí en la piel
+											para hacerle saber
+que debería bajarlo,
+											casi como un entrenador
+que gentilmente lo guía
+											ayudándole a dominar
+estos movimientos más rápidamente
+											y a realizar correcciones más precisas.
+											Desarrollamos este sistema para
+rehabilitación de infartos cerebrales
+											pero creo que tiene
+muchísimas aplicaciones,
+											como en el aprendizaje
+del baile por ejemplo,
+											o el entrenamiento en toda suerte
+de deportes también.
+											Así que ahora saben un poco
+											del campo de la háptica,
+											de la que yo creo que oirán más
+en los años venideros.
+											Les he mostrado tres ejemplos
+											y quiero sólo tomarme un momento
+											para hacer un reconocimiento
+a todos los estudiantes fantásticos
+											que trabajan conmigo en el laboratorio
+de la U. de Pensilvania
+											y a mis colaboradores,
+											¡son un gran grupo!
+											También quiero agradecerles
+su amable atención.
+											(Aplausos)
+									","
+											Sou professora de engenharia mecânica
+											na Universidade da Pensilvânia
+											e o meu passatempo preferido
+é a fotografia.
+											Quando viajo mundo fora,
+											adoro tirar fotografias como estas,
+											para poder recordar todas as coisas
+belas e interessantes que vi.
+											Mas o que eu não consigo
+é registar e partilhar
+											a sensação que temos
+quando tocamos nestes objetos.
+											É uma coisa surpreendente
+											porque o sentido do tacto
+é muito importante
+											em todas as interações
+físicas que fazemos todos os dias,
+											todas as tarefas de manipulação,
+tudo o que fazemos.
+											O sentido do tacto
+é muito interessante.
+											Tem dois componentes principais.
+											O primeiro são as sensações tácteis,
+											as coisas que sentimos na nossa pele.
+											O segundo são as sensações cinestésicas.
+											Isto tem a ver com a posição
+do corpo e como nos movimentamos
+											e as forças que encontramos.
+											Somos muito bons a incorporar
+estes dois tipos de sensações
+											para perceber as interações físicas
+que temos com o mundo
+											e perceber, quando tocamos
+numa superfície,
+											se é uma rocha, se é um gato,
+se é um coelhinho, o que será?
+											Assim, enquanto engenheira,
+											sinto-me fascinada
+											e admiro imenso o que as pessoas
+fazem com as mãos.
+											Sinto-me intrigada e curiosa
+											com a possibilidade de criar
+melhores tecnologias
+											fazendo um trabalho melhor
+											aproveitando a aptidão humana
+com o sentido do tacto.
+											Poderei melhorar as interfaces
+com computadores e máquinas
+											deixando-vos tirar partido das mãos?
+											Na verdade, penso que sim.
+											Isso é a base de uma área
+chamada ciência háptica,
+											a área em que estou a trabalhar.
+											Trata da tecnologia interativa do tacto.
+											Funciona deste modo:
+											quando movimentamos o corpo
+no nosso meio ambiente,
+											se eu conseguir criar um sistema
+que meça esse movimento
+											e apresentar sensações
+ao longo do tempo
+											que sejam coincidentes
+											com o que vocês sentem
+no mundo real,
+											posso levar-vos a crer
+que estão a tocar numa coisa
+											apesar de não haver nada ali.
+											Temos aqui três exemplos
+											que provêm da investigação
+no meu laboratório na Pensilvânia.
+											O primeiro trata do mesmo problema
+que vos estava a mostrar.
+											Como captar a forma
+como sentimos os objetos
+											e recriar essas experiências?
+											Resolvemos este problema
+											criando um utensílio portátil
+											que tem vários detetores
+diferentes lá dentro.
+											Tem um sensor de pressão, para
+saber a força que usamos.
+											Tem um detetor de movimento, para
+seguir os nossos movimentos.
+											e tem um sensor de vibrações,
+um acelerómetro, lá dentro,
+											que deteta o movimento
+de um lado para o outro
+											que nos diz que isto é um pedaço de tela
+											e não um pedaço de seda 
+ou outra coisa.
+											Depois vemos o registo
+de dados dessas interações.
+											Isto são 10 segundos de dados.
+											Vemos como as vibrações
+ficam maiores e mais pequenas,
+											consoante a forma como nos movemos.
+											Fazemos um modelo matemático
+dessas relações
+											e programamo-las num ""tablet"".
+											Assim, quando agarrarmos no estilete
+e tocarmos no ecrã,
+											um atuador da bobina acústica
+no suporte branco
+											emite as vibrações que dão a ilusão
+											de estarmos a tocar na superfície real,
+											tal como se tocássemos
+na tela real, de um lado para o outro.
+											Podemos criar ilusões fascinantes
+											para todos os tipos de superfícies
+e é muito divertido.
+											Chamamos-lhe uma haptografia
+— fotografia háptica.
+											Tem benefícios potenciais
+em todo o tipo de áreas,
+											como nas compras ""online"",
+nas exposições interativas de museus,
+											onde não podemos tocar
+nos artefactos preciosos,
+											mas queremos fazê-lo.
+											O segundo exemplo provém
+de uma colaboração que tive
+											com a Dra. Margrit Maggio,
+da Escola Dentária da Pensilvânia.
+											Ela ensina os alunos a saber
+											onde há cáries
+na boca de um paciente.
+											Claro que eles fazem radiografias
+											mas uma boa parte da avaliação clínica
+provém do que eles sentem
+											quando tocam nos dentes
+com um explorador dental.
+											Já viram isso acontecer.
+											O que eles sentem é que,
+se o dente está bem rijo, está são,
+											mas se está mole e pegajoso
+											é sinal que o esmalte
+começa a degradar-se.
+											Estas avaliações são difíceis de fazer
+para um novo aluno,
+											porque ainda não tocaram em muitos dentes.
+											Queremos que eles aprendam
+antes de começarem a praticar
+											em pacientes humanos reais.
+											Então, adicionamos um acelerómetro
+ao explorador dental
+											e registamos o que a Dra. Maggio sente
+											quando toca em diferentes
+dentes arrancados.
+											Podemos passar um vídeo
+											com uma banda táctil
+											— não só uma banda sonora
+mas uma banda táctil.
+											Com aquele utensílio de repetição
+											sentimos o mesmo que a dentista
+sentiu, quando fez a gravação
+											e praticamos o diagnóstico.
+											Isto é uma amostra.
+											É um dente que parece
+bastante suspeito, não é?
+											Tem estas manchas castanhas.
+											Devem pensar: 
+""Temos que chumbar este dente"".
+											Mas se prestarem atenção ao seu toque,
+											todas as superfícies do dente
+estão rijas e saudáveis,
+											portanto o dente não precisa de chumbo.
+											É este o tipo de diagnóstico
+que os médicos fazem todos os dias
+											e penso que esta tecnologia
+que inventámos tem muito potencial
+											para a formação médica,
+porque é muito simples
+											e recria o que as pessoas sentem,
+através de utensílios.
+											Penso que pode ajudar a fazer jogos
+mais interativos e divertidos
+											e mais realistas, nas sensações
+que experimentamos.
+											O último exemplo que quero dar
+é sobre o movimento humano.
+											Se algum de vocês já praticou desporto,
+											como melhoramos
+numa coisa como o ""surf""?
+											Praticamos.
+											Praticamos cada vez mais, não é?
+											Fazendo pequenas correções,
+recebendo instruções de um treinador,
+											aprendendo a melhorar os movimentos.
+											Podemos usar computadores
+											para este processo
+ser mais eficaz e mais divertido.
+											Por exemplo, se eu tiver
+seis movimentos diferentes dos braços
+											que quero que vocês aprendam,
+											vocês vão ao meu laboratório
+na Pensilvânia e usam o nosso sistema.
+											Temos um Kinect para medir os movimentos,
+mostramos gráficos no ecrã,
+											e depois damos-vos pistas de toque,
+											um ""feedback"" háptico do braço,
+											realizado por estas bandas hápticas
+de braços que têm motores no interior
+											e vos guiarão enquanto se movem.
+											Se pusermos tudo junto,
+											enquanto estão a tentar
+seguir este movimento,
+											se vocês se desviam — por exemplo,
+o braço está demasiado alto —
+											ligamos os motores aqui mesmo na pele
+											para vocês saberem que têm que o baixar,
+											como um treinador que vos guia
+											e vos ajuda a dominar
+esses movimentos mais rapidamente
+											e a fazer correções mais precisas.
+											Desenvolvemos este sistema
+para uso em reabilitações de AVC
+											mas penso que tem muitas aplicações
+											como no treino de dança,
+ou em todo o tipo de desportos.
+											Ficaram a saber alguma coisa
+sobre a área da háptica
+											e penso que irão ouvir falar dela
+nos próximos anos.
+											Mostrei-vos três exemplos.
+											Quero aproveitar o momento
+											para agradecer aos ótimos alunos
+e colaboradores
+											que trabalham comigo
+no laboratório da Pensilvânia
+											São um grupo fantástico.
+											Também quero agradecer
+a vossa simpática atenção.
+											(Aplausos)
+									",The technology of touch,Katherine Kuchenbecker,6:28,"TEDYouth,engineering,technology"
+"
+","
+","
+","
+",The technology of touch,Katherine Kuchenbecker,6:28,"TEDYouth,engineering,technology"

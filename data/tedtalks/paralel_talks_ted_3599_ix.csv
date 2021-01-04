@@ -1,0 +1,952 @@
+es,fr,title,speaker,duration,tags
+"
+","
+",The next software revolution: programming biological cells,Sara-Jane Dunn,14:47,"biology,science,synthetic biology,genetics,technology,future,health,DNA,biotech,medical research,medicine"
+"
+											La segunda mitad del siglo pasado 
+estuvo completamente definida
+											por una revolución tecnológica:
+											la revolución del software.
+											La capacidad de programar electrones 
+en un material llamado silicio
+											hizo posibles tecnologías, 
+empresas e industrias
+											que en un punto fueron inimaginables 
+para muchos de nosotros,
+											pero que ya han cambiado fundamentalmente
+la forma en que funciona el mundo.
+											Sin embargo, la primera
+mitad de este siglo,
+											va a ser transformada
+por una nueva revolución de software:
+											la revolución del software viviente.
+											Y esto será impulsado por 
+la capacidad de programación bioquímica
+											en un material llamado biología.
+											Y hacerlo nos permitirá aprovechar 
+las propiedades de la biología.
+											para generar nuevos tipos de terapias,
+											para reparar tejido dañado,
+											reprogramar células defectuosas
+											o incluso construir sistemas operativos 
+programables a partir de bioquímica.
+											Si podemos hacer esto, 
+y necesitamos hacerlo,
+											su impacto será tan grande
+											que hará palidecer, en comparación, 
+la primera revolución de software.
+											Y eso es porque el software viviente 
+transformaría la totalidad de la medicina,
+											la agricultura y la energía,
+											y estos son sectores que eclipsan 
+a los dominados por la TI.
+											Imaginen plantas programables que fijan 
+el nitrógeno de manera más efectiva
+											o resisten los hongos 
+patógenos emergentes,
+											o incluso programar cultivos
+para que sean perennes en lugar de anuales
+											para que puedan duplicar
+los rendimientos cada año.
+											Eso transformaría la agricultura
+											y es como mantendremos alimentada 
+a nuestra creciente población mundial.
+											O imaginen inmunidad programable,
+											diseño y aprovechamiento
+de dispositivos moleculares que guían
+											su sistema inmunológico para detectar,
+erradicar o incluso prevenir enfermedades.
+											Esto transformaría la medicina
+											y la forma de mantener la salud
+de una población que crece y envejece.
+											Ya tenemos muchas de las herramientas 
+que harán realidad el software viviente.
+											Podemos editar genes 
+con precisión con CRISPR.
+											Podemos reescribir el código genético 
+una base a la vez.
+											Incluso podemos construir circuitos 
+sintéticos que funcionen con ADN.
+											Pero descubrir cómo y cuándo
+manejar estas herramientas
+											todavía es un proceso de ensayo y error.
+											Se necesita una gran experiencia, 
+años de especialización.
+											Y los protocolos experimentales 
+son difíciles de descubrir.
+											y con demasiada frecuencia, 
+difíciles de reproducir.
+											Y, ya saben, hay una tendencia en biología
+a enfocarnos mucho en las partes,
+											pero todos sabemos que algo 
+como volar no se entendería
+											solo estudiando plumas.
+											Por lo tanto, programar biología aún no es
+tan simple como programar su computadora.
+											Y para empeorar las cosas,
+											los sistemas vivos no se parecen 
+en gran medida a los sistemas diseñados
+											que Uds. y yo programamos todos los días.
+											A diferencia de 
+los sistemas de ingeniería,
+											los sistemas vivos se autogeneran,
+											se autoorganizan,
+											operan a escalas moleculares.
+											Y estas interacciones a nivel molecular
+											conducen generalmente
+a una salida robusta a escala macro.
+											Incluso pueden repararse a sí mismos.
+											Consideren, por ejemplo, 
+la humilde planta doméstica,
+											como la de sus repisas 
+de la chimenea en casa
+											que siguen olvidando regar.
+											Todos los días, a pesar de su negligencia,
+esa planta tiene que despertarse
+											y descubrir cómo asignar sus recursos.
+											¿Crecerá, fotosintetizará, 
+producirá semillas o florecerá?
+											Y esa es una decisión que debe tomarse 
+a nivel de todo el organismo.
+											Pero una planta no tiene cerebro 
+para resolver todo eso.
+											Tiene que conformarse 
+con las células de sus hojas.
+											Tienen que responder al medio ambiente
+											y tomar las decisiones 
+que afectan a toda la planta.
+											De alguna manera debe haber un programa 
+ejecutándose dentro de estas celdas,
+											un programa que responde 
+a señales y claves de entrada
+											y da forma a lo que hará esa célula.
+											Y luego esos programas 
+deben operar de manera distribuida
+											a través de células individuales,
+											para que puedan coordinarse
+y que la planta pueda crecer y florecer.
+											Si pudiéramos entender 
+estos programas biológicos,
+											si pudiéramos entender 
+la computación biológica,
+											transformaría nuestra capacidad 
+de entender cómo y por qué
+											las células hacen lo que hacen.
+											Porque, si entendemos estos programas,
+											podríamos depurarlos
+cuando las cosas salgan mal.
+											O podríamos aprender de ellos cómo 
+diseñar el tipo de circuitos sintéticos
+											que realmente explotan 
+el poder computacional de la bioquímica.
+											Mi pasión por esta idea
+me llevó a una carrera en investigación
+											en la interfaz de matemáticas, 
+informática y biología.
+											En mi trabajo, me enfoco en el concepto 
+de biología como computación.
+											Y eso significa preguntar,
+¿qué calculan las células,
+											y cómo podemos descubrir 
+estos programas biológicos?
+											Comencé a hacer estas preguntas junto 
+con algunos colaboradores brillantes
+											en Microsoft Research 
+y la Universidad de Cambridge,
+											donde en conjunto queremos entender
+											el programa biológico que se ejecuta 
+dentro de un tipo único de célula:
+											una célula madre embrionaria.
+											Estas células son únicas 
+porque son totalmente inocentes.
+											Pueden convertirse en lo que quieran:
+											una célula cerebral, cardíaca, 
+ósea, pulmonar,
+											cualquier tipo de célula adulta.
+											Esta inocencia, las distingue,
+											y también encendió la imaginación 
+de la comunidad científica,
+											que se dio cuenta, de que si 
+pudiéramos aprovechar ese potencial,
+											tendríamos una herramienta 
+poderosa para la medicina.
+											Si pudiéramos descubrir 
+cómo toman la decisión
+											de convertirse en un tipo 
+de célula u otro,
+											podríamos ser capaces de aprovecharlas
+											para generar células que necesitamos 
+para reparar tejidos enfermos o dañados.
+											Pero cumplir esta visión 
+no está exento de desafíos,
+											sobre todo porque 
+estas células particulares,
+											emergen solo seis días 
+después de la concepción.
+											Y luego, en un día más 
+o menos, se han ido.
+											Han emprendido los diferentes caminos
+											que forman todas las estructuras 
+y órganos del cuerpo adulto.
+											Pero resulta que el destino 
+de las células es mucho más plástico
+											de lo que imaginamos.
+											Hace unos 13 años,
+											algunos científicos mostraron
+algo verdaderamente revolucionario.
+											Al insertar solo un puñado 
+de genes en una célula adulta,
+											como una de sus células de la piel,
+											se puede transformar 
+esa célula al estado inocente.
+											Es un proceso que en realidad 
+se conoce como ""reprogramación""
+											y nos permite imaginar 
+una especie de utopía de células madre,
+											la capacidad de tomar una muestra 
+de las propias células de un paciente,
+											transformarlas de nuevo al estado inocente
+											y usar esas células para hacer
+lo que ese paciente pueda necesitar,
+											ya sean células cerebrales o cardíacas.
+											Pero durante la última década más o menos,
+											averiguar cómo cambiar el destino celular,
+											todavía es un proceso de ensayo y error.
+											Incluso en los casos en que descubrimos 
+protocolos experimentales exitosos,
+											siguen siendo ineficientes
+											y carecemos de una comprensión 
+fundamental de cómo y por qué funcionan.
+											Si uno se las arregla para convertir 
+una célula madre en una célula cardíaca,
+											eso no nos dice cómo 
+cambiar una célula madre
+											en una célula cerebral.
+											Entonces queríamos entender 
+el programa biológico
+											que corre dentro de una 
+célula madre embrionaria,
+											y comprender el cálculo realizado 
+por un sistema vivo
+											comenzando con una 
+pregunta devastadoramente simple:
+											¿qué es lo que ese sistema 
+realmente tiene que hacer?
+											La informática en realidad 
+tiene un conjunto de estrategias
+											para lidiar con lo que el software 
+y el hardware están destinados a hacer.
+											Cuando escriben un programa, 
+codifican una pieza de software,
+											desean que se ejecute correctamente.
+											Desean rendimiento, funcionalidad.
+											Desean evitar errores.
+											Les puede costar mucho.
+											Cuando un desarrollador
+escribe un programa,
+											podría escribir un conjunto
+de especificaciones.
+											Esto es lo que debe hacer su programa.
+											Tal vez debería comparar 
+el tamaño de dos números
+											u ordenar números por tamaño.
+											Existe la tecnología que nos 
+permite verificar automáticamente
+											si están satisfechas
+nuestras especificaciones,
+											si ese programa hace lo que debería hacer.
+											Nuestra idea era que de la misma manera,
+											observaciones experimentales,
+cosas que medimos en el laboratorio,
+											corresponden a especificaciones de lo 
+que debe hacer el programa biológico.
+											Así que solo necesitábamos 
+encontrar una manera
+											para codificar este nuevo 
+tipo de especificación.
+											Digamos que han estado ocupado 
+en el laboratorio midiendo sus genes
+											y descubrieron que 
+si el Gene A está activo,
+											entonces Gene B o Gene C 
+parece estar activo.
+											Podemos escribir esa observación 
+como una expresión matemática
+											si podemos usar el lenguaje de la lógica:
+											Si A, entonces B o C.
+											Ahora, este es un ejemplo muy simple,
+											Es solo para ilustrar el punto.
+											Podemos codificar expresiones 
+verdaderamente ricas
+											que capturan el proceder de múltiples 
+genes o proteínas a lo largo del tiempo
+											a través de múltiples 
+experimentos diferentes.
+											Y así, al traducir nuestras observaciones
+											en expresiones matemáticas
+de esta manera,
+											es posible probar si esas 
+observaciones pueden surgir o no
+											de un programa de interacciones genéticas.
+											Y desarrollamos una herramienta
+para hacer justamente esto.
+											Pudimos usar esta herramienta 
+para codificar observaciones
+											como expresiones matemáticas
+											y luego esa herramienta nos permitiría 
+descubrir el programa genético
+											que podría dar explicación de todos.
+											Y luego aplicamos 
+este enfoque para descubrir
+											el programa genético que se ejecuta 
+dentro de las células madre embrionarias
+											para ver si podíamos entender 
+cómo inducir ese estado inocente.
+											Esta herramienta se construyó realmente
+											en un solucionador que se implementa
+habitualmente en todo el mundo
+											para verificación 
+de software convencional.
+											Entonces comenzamos con un conjunto
+de casi 50 especificaciones diferentes
+											que generamos a partir
+de observaciones experimentales
+											de células madre embrionarias.
+											Y al codificar estas observaciones 
+en esta herramienta,
+											pudimos descubrir 
+el primer programa molecular
+											que podría explicarlos todos.
+											Eso es una hazaña en sí misma, ¿verdad?
+											Ser capaz de conciliar todas 
+estas observaciones diferentes
+											no es el tipo de cosas que pueden 
+hacer al dorso de un sobre,
+											incluso si tienen un sobre 
+realmente grande.
+											Como tenemos este tipo de comprensión,
+											podríamos ir un paso más allá.
+											Podríamos usar este programa para
+predecir qué podría hacer esta célula
+											en condiciones que aún 
+no habíamos probado.
+											Podríamos sondear el programa en silico.
+											Y así lo hicimos:
+											generamos predicciones 
+que probamos en el laboratorio,
+											y encontramos que este programa
+era altamente predictivo.
+											Nos dijo cómo podríamos 
+acelerar el progreso,
+											volver al estado inocente 
+de forma rápida y eficiente.
+											Nos dijo a qué genes 
+apuntar para hacer eso,
+											qué genes podrían incluso 
+obstaculizar ese proceso.
+											Incluso el programa predijo el orden 
+en que se activarían los genes.
+											Entonces, este enfoque realmente
+nos permitió descubrir la dinámica
+											de lo que están haciendo las células.
+											El desarrollo no es un método específico 
+para la biología de células madre.
+											Más bien, nos permite 
+dar sentido a la computación.
+											siendo llevada a cabo por la célula
+											en el contexto de interacciones genéticas.
+											En realidad, es solo 
+un componente básico.
+											El campo necesita urgentemente 
+desarrollar nuevos enfoques
+											para entender la computación 
+biológica más ampliamente
+											y a diferentes niveles,
+											desde el ADN hasta el flujo 
+de información entre las células.
+											Solo este tipo de 
+comprensión transformadora
+											nos permitirá aprovechar la biología 
+de manera predecible y confiable.
+											Pero para programar la biología,
+también necesitaremos desarrollar
+											los tipos de herramientas e idiomas
+											que permiten a los experimentadores 
+y científicos computacionales
+											diseñar la función biológica
+											y hacer que esos diseños se compilen 
+en el código de máquina de la celda,
+											su bioquímica
+											para que luego podamos 
+construir esas estructuras.
+											Eso es algo parecido 
+a un compilador de software vivo,
+											y estoy orgullosa de ser parte 
+de un equipo en Microsoft
+											que está trabajando para desarrollar uno.
+											Aunque decir que es
+un gran desafío es un eufemismo,
+											pero si se lleva a cabo,
+											sería el puente final entre 
+el software y el wetware.
+											Sin embargo, en términos más generales, la
+biología de programación solo será posible
+											si podemos transformar el campo 
+en uno verdaderamente interdisciplinario.
+											Se necesita unir 
+las ciencias físicas y de la vida,
+											y científicos de cada una 
+de estas disciplinas
+											necesitan poder trabajar 
+juntos con idiomas comunes
+											y compartir preguntas científicas.
+											A largo plazo, vale la pena recordar 
+que muchas de las compañías gigantes
+											de software y tecnología con las que Uds.
+y yo trabajamos todos los días
+											difícilmente podrían haber sido imaginadas
+											cuando comenzamos a programar 
+en microchips de silicio.
+											Y si comenzamos ahora a pensar 
+en el potencial de la tecnología
+											habilitado por la biología computacional,
+											veremos algunos de los pasos 
+que debemos seguir en el camino
+											para hacer eso realidad.
+											Existe el pensamiento aleccionador
+de que este tipo de tecnología
+											podría estar abierto al mal uso.
+											Si estamos dispuestos
+a hablar sobre el potencial
+											para programar células inmunes,
+											también deberíamos pensar 
+en el potencial de las bacterias
+											diseñadas para evadirlos.
+											Puede haber gente dispuesta a hacer eso.
+											Un pensamiento tranquilizador en esto
+											es que, bueno, menos para los científicos
+											es que la biología es frágil
+al ser manipuleada.
+											Así que programar biología no será algo
+											que harán en el cobertizo de su jardín.
+											Pero como estamos al comienzo de esto,
+											podemos avanzar 
+con los ojos bien abiertos.
+											Podemos hacer las preguntas
+difíciles por adelantado,
+											podemos establecer 
+las salvaguardas necesarias
+											y, como parte de eso, tendremos
+que pensar en nuestra ética.
+											Tendremos que pensar 
+en poner límites a la implementación
+											de la función biológica.
+											Como parte de esto, la investigación 
+en bioética tendrá que ser una prioridad.
+											No puede ser relegado al segundo lugar
+											en la emoción de la innovación científica.
+											Pero el premio final, 
+el destino final en este viaje,
+											serían aplicaciones innovadoras 
+e industrias innovadoras
+											en áreas desde agricultura y medicina 
+hasta energía y materiales
+											e incluso la informática en sí misma.
+											Imagínense, que algún día podríamos
+alimentar el planeta de manera sostenible
+											en la máxima energía verde
+											si pudiéramos imitar algo que 
+las plantas descubrieron hace milenios:
+											cómo aprovechar la energía del sol 
+con una eficiencia que no tiene paralelo
+											por nuestras células solares actuales.
+											Si entendiéramos ese programa
+de interacciones cuánticas
+											que permiten que las plantas absorban 
+la luz solar de manera tan eficiente,
+											podríamos traducir eso en 
+construir circuitos sintéticos de ADN
+											que ofrecen el material 
+para mejores células solares.
+											Hay equipos y científicos trabajando en
+los fundamentos de esto en este momento,
+											entonces, si recibiera la atención 
+adecuada y la inversión correcta,
+											se podría realizar en 10 o 15 años.
+											Estamos al comienzo 
+de una revolución tecnológica.
+											Comprender este antiguo tipo 
+de computación biológica
+											es el primer paso crítico.
+											Y si podemos darnos cuenta de esto,
+											entraríamos en la era 
+de un sistema operativo
+											que ejecuta software vivo
+											Muchas gracias.
+											(Aplausos)
+									","
+											La seconde moitié du 20e siècle
+a été complètement définie
+											par une révolution technologique :
+											la révolution du logiciel.
+											La capacité à programmer des électrons
+sur une matière, le silicium,
+											a rendu possible des technologies,
+des sociétés et des industries
+											qui nous étaient jusqu’alors
+inimaginables,
+											mais qui ont fondamentalement changé
+la manière dont fonctionne le monde.
+											Cependant, la première moitié du 21e
+											va être transformée par
+une nouvelle révolution du logiciel :
+											la révolution du logiciel vivant.
+											Et elle sera mise en action par la
+capacité à programmer la biochimie
+											sur une matière appelée biologie.
+											Et ainsi, nous pourrons utiliser
+les propriétés de la biologie
+											pour créer de nouveaux types de thérapies,
+											pour réparer des tissus endommagés,
+											pour reprogrammer
+des cellules défectueuses,
+											et même pour construire des systèmes
+d'exploitation par la biochimie.
+											Si nous y arrivons -
+et nous devons y arriver -
+											les impacts seront si importants
+											que cela rendra la première révolution
+logicielle insignifiante en comparaison.
+											Et cela parce le logiciel vivant
+transformera la totalité de la médecine,
+											de l'agriculture et de l'énergie,
+											des secteurs qui écrasent
+ceux dominés par l'informatique.
+											Imaginez des plantes programmables
+qui fixent l'azote plus efficacement
+											ou qui résistent
+aux nouveaux pathogènes fongiques.
+											Imaginez des récoltes programmées
+pour être vivaces plutôt qu'annuelles,
+											afin de pouvoir faire
+deux moissons par an.
+											Cela tranformerait l'agriculture
+											et permettrait de nourrir une population
+mondiale en croissance.
+											Imaginez une immunité programmable,
+											utilisant des dispositifs moléculaires
+guidant votre système immunitaire
+											pour détecter, éradiquer
+voire prévenir des maladies.
+											Cela transformerait la médecine
+											et la manière de maintenir une population
+vieillissante en bonne santé.
+											Nous avons déjà beaucoup des outils
+qui rendent possible le logiciel vivant.
+											On peut éditer précisément
+les gènes avec CRISPR.
+											On peut réécrire le code génétique
+base par base.
+											On peut même construire
+des circuits synthétiques à partir d'ADN.
+											Mais comprendre comment et quand
+se servir de tout ça
+											est encore un processus
+d'essais et d'erreurs.
+											Cela demande une grande expertise,
+des années de spécialisation.
+											Les protocoles expérimentaux
+sont compliqués à découvrir
+											et trop souvent, difficiles à reproduire.
+											Vous savez, on a tendance en biologie
+à beaucoup se focaliser sur les détails,
+											mais on sait tous que l'acte de voler
+n'aurait pas pu être compris
+											si on n'avait étudié que les plumes.
+											Et donc, programmer la biologie n'est pas
+aussi simple que programmer un odinateur.
+											Et pour compliquer les choses,
+											les systèmes vivants ne ressemblent
+pas du tout aux systèmes inventés
+											que vous et moi programmons
+tous les jours.
+											A l'inverse des systèmes conçus par nous,
+les systèmes vivants s'auto-reproduisent,
+											s'auto-organisent,
+											fonctionnent au niveau moléculaire.
+											Et les interactions à ce niveau
+											produisent généralement
+des résultats solides à l'échelle macro.
+											Ils peuvent même s'auto-réparer.
+											Observez, par exemple,
+la simple plante d'intérieur,
+											comme celle sur votre cheminée,
+											que vous oubliez toujours d'arroser.
+											Tous les jours, malgré votre négligence,
+la plante se réveille
+											et doit déterminer comment
+allouer ses ressources :
+											grandir, faire de la photosynthèse,
+produire des graines ou des fleurs ?
+											C'est une décision qui doit être prise
+au niveau de l'organisme entier.
+											Mais une plante n'a pas de cerveau
+pour se décider.
+											Elle doit se débrouiller
+avec les cellules de ses feuilles.
+											Elles doivent réagir à l'environnement
+											et prendre des décisions
+qui affectent la plante entière.
+											Et donc, d'une certaine manière, il y a un
+programme à l'intérieur de ces cellules,
+											qui réagira aux signaux extérieurs
+											et déterminera ce que cette cellule fera.
+											Ces programmes doivent ensuite
+travailler de manière distribuée,
+											cellule par cellule,
+											afin de coordonner leur action
+pour que la plante grandisse et fleurisse.
+											Si nous arrivions à comprendre
+ces programmes biologiques,
+											si nous arrivions à comprendre
+les calculs biologiques,
+											cela transformerait notre
+comprehension du comportement
+											des cellules.
+											Et si nous comprenions ces programmes,
+											nous pourrions les déboguer
+en cas de problème.
+											Ou nous pourrions apprendre d'eux comment
+concevoir les circuits synthétiques
+											qui exploitent vraiment
+la puissance de calcul de la biochimie.
+											Ma passion pour cette idée
+m'a menée dans une carrière de chercheur
+											au croisement des maths,
+de l'informatique et de la biologie.
+											Dans mon travail, je me concentre
+sur le concept de calcul biologique.
+											Et cela signifie chercher
+ce que les cellules calculent,
+											et tenter de découvrir
+ces programmes biologiques.
+											J'ai commencé à poser ces questions
+avec des collaborateurs géniaux
+											de la R&amp;D de Microsoft
+et de l'Université de Cambridge,
+											où nous essayons ensemble de comprendre
+											le programme biologique qui tourne
+dans un unique type de cellule :
+											une cellule souche embryonnaire.
+											Ces cellules sont uniques
+car elles sont totalement naïves.
+											Elles peuvent devenir
+ce qu'elles veulent :
+											une cellule du cerveau, du cœur,
+d'un os, d'un poumon,
+											n'importe quel type de cellule.
+											Cette naïveté qui les rend uniques
+											a enflammé l'imagination
+de la communauté scientifique,
+											qui a compris, si elle arrivait
+à exploiter ce potentiel,
+											qu'elle pourrait en faire un outil
+puissant pour la médecine.
+											Si on pouvait comprendre
+comment elles décident
+											de devenir un type ou l'autre,
+											on pourrait peut-être s'en servir
+											pour créer les cellules nécessaires pour
+réparer des tissus malades ou endommagés.
+											Mais atteindre ce but
+comporte pas mal de défis,
+											dont le principal est que ces cellules
+											apparaissent juste six jours
+après la conception.
+											Et disparaissent en un jour ou deux.
+											Elles auront pris le chemin
+											qui mène à toutes les structures
+et les organes du corps adulte.
+											Mais il s'avère que le destin des cellules
+est un peu moins figé
+											que nous ne le croyions.
+											Il y a 13 ans, des scientifiques ont
+montré quelque chose de révolutionnaire.
+											En injectant quelques gènes
+dans une cellule adulte,
+											par exemple, une cellule de peau,
+											on peut la faire revenir à son état naïf.
+											Ce processus est connu sous le nom
+de « reprogrammation ».
+											Il nous permet d'imaginer
+une sorte d'utopie :
+											collecter des cellules sur un patient,
+											les faire retourner à leur état naïf,
+											puis les transformer en ce dont
+le patient peut avoir besoin,
+											des neurones ou des cellules cardiaques.
+											Mais depuis dix ans,
+											on est toujours en train de tester
+											comment choisir le destin de la cellule.
+											Même dans les cas où on a découvert des
+protocoles expérimentaux qui fonctionnent,
+											ils restent inefficaces,
+											et on ne comprend toujours pas
+comment et pourquoi ils fonctionnent.
+											Savoir changer une cellule
+souche en une cellule cardiaque
+											ne vous dit en aucun cas comment
+changer une cellule souche
+											en un neurone.
+											Nous voulions donc comprendre
+le programme biologique
+											qui tourne dans une
+cellule souche embryonnaire.
+											Et comprendre les calculs
+effectués par un système vivant
+											démarre en posant une question
+incroyablement simple :
+											au fait, qu'est-ce que
+ce système doit faire ?
+											L'informatique utilise en fait
+un ensemble de stratégies
+											pour traiter ce que le logiciel
+et le matériel sont censés faire.
+											Quand vous écrivez un programme,
+vous codez du logiciel,
+											vous voulez qu'il fonctionne correctement,
+											qu'il soit performant, fonctionnel.
+											Vous voulez éviter les erreurs,
+qui pourraient coûter cher.
+											Quand un développeur écrit un programme,
+											il écrit d'abord
+un ensemble de spécifications,
+											ce que le programme est censé faire.
+											Peut-être doit-il comparer deux nombres
+											ou les ranger par ordre croissant.
+											Il existe des technologies qui vous
+permettent de vérifier automatiquement
+											si vos spécifications sont satisfaites,
+											si le programme fait
+ce qu'il est censé faire.
+											Notre idée est donc du même ordre :
+											des observations expérimentales,
+des mesures dans un laboratoire,
+											correspondant aux spécifications de ce que
+le programme biologique est censé faire.
+											On avait donc juste besoin de trouver
+											comment coder
+ce nouveau type de spécifications.
+											Imaginons que vous soyez là
+à observer les gènes,
+											vous trouvez que si le gène A est actif,
+											alors les gènes B ou C semblent actifs.
+											Vous pouvez écrire cette observation
+sous forme d'expression mathématique
+											en utilisant le langage de la logique :
+											Si A, alors B ou C.
+											Ok, c'est un exemple très simple,
+											juste pour illustrer mon propos.
+											On sait encoder des expressions complexes
+											qui décrivent réellement le comportement
+dans le temps de gènes ou de protéines
+											dans différentes expériences.
+											Ainsi, en traduisant vos observations
+											en expressions mathématiques,
+											il devient possible de tester
+si oui ou non ces observations émergent
+											d'un programme d'interactions génétiques.
+											Et nous avons développé
+un outil pour faire ça.
+											On a pu l'utiliser
+pour encoder nos observations
+											en expressions mathématiques,
+											et il nous a ensuite permis
+de découvrir le programme génétique
+											qui les expliquait toutes.
+											Et on a ensuite appliqué cette approche
+											pour découvrir le programme génétique qui 
+tourne à l'intérieur des cellules souches
+											pour voir si nous pouvions comprendre
+comment induire cet état naïf.
+											Cet outil a été en fait développé
+											à partir d'une solution communément
+utilisée dans le monde
+											pour vérifier du logiciel classique.
+											On a commencé avec un ensemble
+de presque 50 spécifications
+											générées à partir d'observations
+expérimentales sur des cellules souches.
+											Et en encodant ces observations
+dans cet outil,
+											on a pu découvrir
+le premier programme moléculaire
+											qui les expliquait toutes.
+											Ça, ce n'est pas un mince exploit, non ?
+											Arriver à réunir toutes ces observations
+											ne se fait pas sur un coin de table,
+											même si vous avez une grande table.
+											Et puisque nous avions compris cela,
+nous pouvions aller un cran plus loin.
+											On pouvait s'en servir pour prédire
+le comportement de la cellule
+											dans des conditions
+qu'on n'avait pas testées.
+											On pouvait mener une expérience virtuelle.
+											Et c'est ce qu'on a fait :
+											on a généré des prédictions
+qu'on a testées au laboratoire,
+											et on a vu que ce programme
+prédisait très bien.
+											Il nous disait comment
+accélérer nos progrès
+											pour retourner à l'état naïf
+rapidement et efficacement.
+											Il nous a dit quels gènes
+cibler pour ce faire,
+											quels gènes pourraient même
+entraver ce processus.
+											Le programme est même capable de prévoir
+dans quel ordre les gènes vont s'activer.
+											Cette approche nous a donc vraiment permis
+de découvrir la dynamique des cellules.
+											Nous avons développé une méthode qui
+n'est pas spécifique aux cellules souches.
+											Mais elle nous permet
+de comprendre les calculs
+											que la cellule effectue
+											dans ce contexte
+d'interactions génétiques.
+											C'est donc juste un élément de base.
+											Nous avons besoin de vite
+développer de nouvelles approches
+											pour comprendre plus largement
+les calculs biologiques,
+											et ce, à différents niveaux,
+											depuis l'ADN jusqu'aux flux
+d'information entre cellules.
+											Seulement ce type de compréhension
+transformative
+											nous permettra d'utiliser la biologique
+de manière prévisible et fiable.
+											Mais pour programmer la biologie,
+il nous faudra développer
+											les outils et les langages
+											qui permettront aux expérimentateurs
+et aux scientifiques computationnels
+											de concevoir des fonctions biologiques,
+											de les transposer dans le langage
+machine de la cellule,
+											sa biochimie,
+											afin de pouvoir ensuite
+créer ces structures.
+											Cela ressemble à un compilateur
+de logiciel vivant,
+											et je suis fière de faire
+partie d'une équipe
+											qui en développe une.
+											Même si dire que c'est un grand défi
+est plutôt un euphémisme,
+											si on y arrive,
+											ce sera le lien ultime
+entre le logiciel et le biologiciel.
+											Plus largement, programmer le vivant
+ne sera possible
+											que si on arrive à rendre
+le domaine vraiment multidisciplinaire.
+											Ça demande de joindre les sciences
+physiques et celles du vivant,
+											et les scientifiques
+dans ces deux disciplines
+											doivent être capables de travailler
+dans un langage commun
+											et d'avoir des questions partagées.
+											Sur le long terme, il faut se souvenir
+que les géants actuels du logiciel
+											et les technologies que nous
+utilisons tous les jours
+											auraient à peine pu être imaginés
+											quand nous avons commencé
+à programmer des composants en silicium.
+											Si nous imaginons maintenant
+le potentiel pour les technologies
+											apporté par la biologie computationnelle,
+											nous verrons quelques étapes
+du chemin qui nous mènera
+											vers la concrétisation.
+											Il faut également garder à l'esprit
+que ce type de technologie
+											pourrait être mal utilisé.
+											Si on parle aisément du potentiel de la
+programmation des cellules immunitaires,
+											nous devons aussi penser
+au potentiel des bactéries
+											conçues pour les contrecarrer.
+											Il pourrait exister des gens
+qui voudraient faire cela.
+											Toutefois, une pensée rassurante -
+											moins rassurante pour les scientifiques -
+											est que la biologie est
+une chose fragile à manipuler.
+											Programmer le vivant
+ne sera pas quelque chose
+											qu'on fera dans sa cuisine.
+											Mais comme on n'en est qu'au tout début,
+											nous pouvons avancer lucidement.
+											Nous pouvons déjà poser
+les questions difficiles,
+											mettre en place
+les garde-fous nécessaires,
+											et, en complément de tout ça,
+nous devons parler d'éthique.
+											Nous devons penser à mettre
+des limites dans l'implémentation
+											d'une fonction biologique.
+											Et donc, en même temps, la recherche
+en bioéthique devra être une priorité.
+											Elle ne peut pas être reléguée en second
+											à cause de l'attrait
+de l'innovation scientifique.
+											Mais la récompense ultime,
+le but de notre voyage,
+											sera des applications
+et une industrie permettant des progrès
+											en agriculture, en médecine,
+dans l'énergie et dans les matériaux,
+											et même en informatique.
+											Imaginez qu'un jour nous puissions
+alimenter en énergie la planète
+											par l'énergie verte ultime,
+											si nous arrivions à reproduire ce que les
+plantes ont compris il y longtemps :
+											comment exploiter l'énergie du soleil
+avec une efficacité sans commune mesure
+											avec nos panneaux solaires actuels.
+											Si nous arrivons à comprendre
+ces interactions quantiques
+											qui permettent aux plantes d'absorber
+la lumière si efficacement,
+											nous pourrons traduire cela pour
+construire des circuits ADN synthétiques
+											qui pourraient servir à créer
+de meilleurs capteurs solaires.
+											Il y a des équipes de scientifiques
+qui travaillent sur ces fondements,
+											et donc avec la bonne attention
+et les bons investissements,
+											on pourrait y arriver en 10 à 15 ans.
+											Nous sommes au début
+d'une révolution technologique,
+											Comprendre ce type ancien
+de calcul biologique
+											est la première étape.
+											Si nous y arrivons,
+											nous entrerons dans l'ère
+d'un système d'exploitation
+											faisant tourner du logiciel vivant.
+											Merci beaucoup.
+											(Applaudissements)
+									",The next software revolution: programming biological cells,Sara-Jane Dunn,14:47,"biology,science,synthetic biology,genetics,technology,future,health,DNA,biotech,medical research,medicine"
+"
+","
+",The next software revolution: programming biological cells,Sara-Jane Dunn,14:47,"biology,science,synthetic biology,genetics,technology,future,health,DNA,biotech,medical research,medicine"

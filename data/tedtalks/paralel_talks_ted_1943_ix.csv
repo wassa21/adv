@@ -1,0 +1,2844 @@
+en,pt,fr,de,title,speaker,duration,tags
+"
+","
+","
+","
+",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+											It used to be that if you wanted
+to get a computer to do something new,
+											you would have to program it.
+											Now, programming, for those of you here
+that haven't done it yourself,
+											requires laying out in excruciating detail
+											every single step that you want
+the computer to do
+											in order to achieve your goal.
+											Now, if you want to do something
+that you don't know how to do yourself,
+											then this is going
+to be a great challenge.
+									","
+											Era habitual, quando queríamos 
+que um computador fizesse algo novo,
+											termos que o programar.
+											Para aqueles que nunca programaram,
+											a programação requer especificar
+com enorme detalhe,
+											todos os passos que queremos
+que o computador execute
+											para alcançarmos o nosso objetivo.
+											Se queremos fazer algo que não
+sabemos fazer nós próprios,
+											será um grande desafio.
+									","
+											Avant, si vous vouliez qu'un ordinateur
+fasse quelque chose de nouveau,
+											vous deviez le programmer.
+											La programmation, pour ceux 
+d'entre vous qui n'en ont jamais fait,
+											nécessite de décrire,
+à un niveau de détail effrayant,
+											chaque étape que vous voulez
+que l'ordinateur fasse
+											pour atteindre votre but.
+											Mais si ce que vous voulez, 
+vous ne savez pas le faire vous-même,
+											la programmation devient un immense défi.
+									","
+											Wenn man früher wollte, 
+dass ein Computer etwas Neues tat,
+											musste man ihn programmieren.
+											Für alle, die es noch nie
+selbst probiert haben:
+											Beim Programmieren 
+muss man bis ins kleinste Detail
+											jeden einzelnen Schritt definieren,
+den der Computer erledigen soll,
+											um sein Ziel zu erreichen.
+											Will man also etwas tun, 
+was man selbst noch nicht kann,
+											dann wird das eine große Herausforderung.
+									",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+","
+","
+","
+",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+											So this was the challenge faced
+by this man, Arthur Samuel.
+											In 1956, he wanted to get this computer
+											to be able to beat him at checkers.
+											How can you write a program,
+											lay out in excruciating detail,
+how to be better than you at checkers?
+											So he came up with an idea:
+											he had the computer play
+against itself thousands of times
+											and learn how to play checkers.
+											And indeed it worked,
+and in fact, by 1962,
+											this computer had beaten
+the Connecticut state champion.
+									","
+											Este foi o desafio enfrentado
+por este homem, Arthur Samuel.
+											Em 1965, ele queria que um computador
+											o vencesse nas damas.
+											Como podemos escrever um programa,
+											com grande detalhe, que seja melhor
+do que nós nas damas?
+											Ele teve uma ideia:
+											pôs o computador a jogar contra
+si próprio, milhares de vezes,
+											para aprender a jogar damas.
+											Funcionou e, em 1962,
+											o computador venceu o campeão
+do estado do Connecticut.
+									","
+											C'est à ce défi que se confronta
+cet homme, Arthur Samuel.
+											En 1956, il voulut que cet ordinateur
+											soit capable de le battre au jeu de dames.
+											Comment écrire un programme,
+											décrire, en d'effrayants détails, comment 
+être meilleur que vous aux dames ?
+											Il eut une idée :
+											faire jouer l'ordinateur contre
+lui-même des milliers de fois
+											et lui faire apprendre à jouer aux dames.
+											Ça a si bien fonctionné que dès 1962
+											l'ordinateur avait battu
+le champion du Connecticut.
+									","
+											Dieser Herausforderung stellte sich 
+dieser Mann, Arthur Samuel.
+											1956 wollte er diesem Computer beibringen,
+											ihn im Spiel Dame zu schlagen.
+											Wie kann man ein Programm schreiben
+											und bis ins kleinste Detail definieren, 
+wie man sich selbst in Dame übertrifft?
+											Also hatte er eine Idee:
+											Er ließ den Computer tausende Male 
+gegen sich selbst spielen,
+											sodass er Dame spielen lernte.
+											Das funktionierte wirklich, und schon 1962
+											besiegte dieser Computer 
+den Landesmeister von Connecticut.
+									",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+","
+","
+","
+",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+											So Arthur Samuel was
+the father of machine learning,
+											and I have a great debt to him,
+											because I am a machine
+learning practitioner.
+											I was the president of Kaggle,
+											a community of over 200,000
+machine learning practictioners.
+											Kaggle puts up competitions
+											to try and get them to solve
+previously unsolved problems,
+											and it's been successful 
+hundreds of times.
+											So from this vantage point,
+I was able to find out
+											a lot about what machine learning
+can do in the past, can do today,
+											and what it could do in the future.
+											Perhaps the first big success of 
+machine learning commercially was Google.
+											Google showed that it is
+possible to find information
+											by using a computer algorithm,
+											and this algorithm is based
+on machine learning.
+											Since that time, there have been many
+commercial successes of machine learning.
+											Companies like Amazon and Netflix
+											use machine learning to suggest
+products that you might like to buy,
+											movies that you might like to watch.
+											Sometimes, it's almost creepy.
+											Companies like LinkedIn and Facebook
+											sometimes will tell you about
+who your friends might be
+											and you have no idea how it did it,
+											and this is because it's using
+the power of machine learning.
+											These are algorithms that have
+learned how to do this from data
+											rather than being programmed by hand.
+									","
+											Arthur Samuel foi, assim, o pai
+da aprendizagem automática
+											e tenho uma grande dívida para com ele,
+											porque sou um profissional
+da aprendizagem automática.
+											Fui o presidente da Kaggle,
+											uma comunidade de cerca de 200 000
+profissionais da aprendizagem automática.
+											A Kaggle estabelece competições,
+											em que se tenta resolver problemas
+ainda não resolvidos,
+											e teve sucesso centenas de vezes.
+											Desta posição vantajosa
+pude descobrir muito
+											sobre o que a aprendizagem automática
+pode fazer no passado, no presente
+											e o que poderá fazer no futuro.
+											O primeiro grande sucesso comercial da
+aprendizagem automática foi a Google.
+											A Google mostrou que é possível
+encontrar informação
+											usando o algoritmo de um computador,
+											e este algoritmo é baseado
+em aprendizagem automática.
+											Desde então, houve muitos sucessos
+comerciais da aprendizagem automática.
+											Empresas como a Amazon e a Netflix
+											usam a aprendizagem automática para
+sugerir produtos que talvez compremos,
+											filmes que talvez gostemos de ver.
+											Por vezes, é quase assustador.
+											Empresas como o LinkedIn e o Facebook
+											por vezes dizem-nos quem poderão
+ser os nossos amigos
+											e não temos ideia de como
+elas fizeram isso,
+											porque estão a usar o poder
+da aprendizagem automática.
+											Estes algoritmos aprenderam a fazer
+isto a partir de dados
+											em vez de serem programados à mão.
+									","
+											Arthur Samuel est le père
+de la machine apprenante,
+											et j'ai une grande dette envers lui,
+											parce que je travaille dans ce secteur.
+											J'ai été président de Kaggle,
+											une communauté de 200 000 praticiens 
+de l'apprentissage automatique.
+											Kaggle met en place des compétitions
+											pour les amener à résoudre
+des problèmes jusque là non résolus,
+											et ça a été un succès
+des centaines de fois.
+											De ce point de vue privilégié,
+j'ai pu découvrir
+											beaucoup sur ce que l'apprentissage 
+automatique pouvait et peut faire,
+											et sur ce qu'il pourra faire demain.
+											Le premier grand succès commercial, 
+c'est peut-être Google.
+											Google a montré qu'il était possible
+de trouver des informations
+											en utilisant un algorithme,
+											et cet algorithme est basé
+sur l'apprentissage automatique.
+											L'apprentissage automatique a depuis connu
+beaucoup d'autres succès commerciaux
+											Des sociétés comme Amazon ou Netflix
+											l'utilisent pour suggérer des produits 
+que vous pourriez vouloir acheter,
+											des films que vous pourriez aimer voir.
+											Parfois, c'en est presque effrayant.
+											Des entreprises comme LinkedIn et Facebook
+											vous disent parfois qui
+pourraient être vos amis
+											et vous ne savez pas comment elles font,
+											car elles utilisent le pouvoir
+de l'apprentissage automatique.
+											Ces algorithmes ont appris à le faire
+à partir de données
+											plutôt que d'être programmés manuellement.
+									","
+											Arthur Samuel war also 
+der Urvater des Maschinellen Lernens
+											und ich schulde ihm viel,
+											denn ich bin ein Fachmann 
+im Maschinellen Lernen.
+											Ich war Präsident von Kaggle,
+											einer Plattform von über 200 000 
+Fachleuten für Maschinelles Lernen.
+											Kaggle veranstaltet Wettbewerbe,
+											bei denen bisher ungelöste Probleme 
+gelöst werden sollen,
+											und das war schon 
+hunderte Male erfolgreich.
+											Aus dieser Warte habe 
+ich viel darüber gelernt,
+											was Maschinelles Lernen
+früher konnte, was es heute kann
+											und was es zukünftig vollbringen könnte.
+											Der vielleicht erste kommerzielle Erfolg 
+im Maschinellen Lernen war Google.
+											Google hat bewiesen, 
+dass man Informationen
+											über einen Computeralgorithmus
+finden kann,
+											der auf Maschinellem Lernen basiert.
+											Seitdem gab es viele kommerzielle Erfolge 
+im Maschinellen Lernen.
+											Firmen wie Amazon oder Netflix
+											nutzen Maschinelles Lernen
+für Kaufempfehlungen
+											oder Filmvorschläge.
+											Manchmal ist das beinahe gruselig.
+											Firmen wie LinkedIn oder Facebook
+											schlagen Ihnen manchmal neue Freunde vor
+											und Sie haben keine Ahnung, wie das geht,
+											und genau das ist die Macht 
+des Maschinellen Lernens.
+											Diese Algorithmen haben
+anhand vorhandener Daten gelernt,
+											anstatt von Hand programmiert zu werden.
+									",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+","
+","
+","
+",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+											This is also how IBM was successful
+											in getting Watson to beat
+the two world champions at ""Jeopardy,""
+											answering incredibly subtle
+and complex questions like this one.
+											[""The ancient 'Lion of Nimrud' went missing
+from this city's national museum in 2003 
+(along with a lot of other stuff)""]
+											This is also why we are now able
+to see the first self-driving cars.
+											If you want to be able to tell
+the difference between, say,
+											a tree and a pedestrian,
+well, that's pretty important.
+											We don't know how to write
+those programs by hand,
+											but with machine learning,
+this is now possible.
+											And in fact, this car has driven 
+over a million miles
+											without any accidents on regular roads.
+									","
+											Esta foi também a razão do sucesso da IBM
+											ao conseguir que o Watson ganhasse
+a dois campeões mundiais no ""Jeopardy"",
+											respondendo a questões incrivelmente
+subtis e complexas.
+											Esta é também a razão de podermos ver
+os primeiros carros autónomos.
+											É bastante importante podermos distinguir
+											uma árvore de um peão.
+											Não sabemos como escrever
+esses programas à mão,
+											mas isso é agora possível
+com a aprendizagem automática.
+											Este carro conduziu mais
+de um milhão de quilómetros
+											em estradas normais,
+sem qualquer acidente.
+									","
+											De la même manière, 
+IBM a pu faire en sorte
+											que Watson batte les champions du monde 
+de « Jeopardy »,
+											en répondant à des questions
+très difficiles comme :
+											« Le ""Lion de Nimrud"" a disparu
+en 2003 du musée de cette ville »
+											C'est aussi pourquoi nous voyons
+les premières voitures autonomes.
+											Être capable de faire
+la différence entre, disons,
+											un arbre et un piéton,
+est plutôt important.
+											Nous ne savons pas écrire
+de tels programmes manuellement,
+											mais l'apprentissage automatique
+rend la chose possible.
+											Cette voiture a roulé
+plus de 1,6 millions de km
+											sur des routes ordinaires,
+sans le moindre accident.
+									","
+											So konnte auch IBM Watson dazu bringen,
+											die zwei Weltmeister
+der Quizshow ""Jeopardy"" zu schlagen,
+											wo man knifflige, komplexe Fragen
+beantworten musste, z. B.:
+											[""2003 verschwand u. a. 
+der antike 'Löwe von Nimrud'
+											aus dem Museum dieser Stadt.""]
+											Daher gibt es nun
+erste selbstfahrende Autos.
+											Will man den Unterschied
+											etwa zwischen Baum und
+Fußgänger erkennen, ist das wichtig.
+											Wir wissen nicht, wie man 
+solche Programme schreibt,
+											aber durch Maschinelles Lernen 
+ist das jetzt möglich.
+											Dieses Auto ist schon über 1 Mio. km
+											ohne den kleinsten Unfall 
+auf normalen Straßen gefahren.
+									",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+","
+","
+","
+",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+											So we now know that computers can learn,
+											and computers can learn to do things
+											that we actually sometimes
+don't know how to do ourselves,
+											or maybe can do them better than us.
+											One of the most amazing examples
+I've seen of machine learning
+											happened on a project that I ran at Kaggle
+											where a team run by a guy
+called Geoffrey Hinton
+											from the University of Toronto
+											won a competition for
+automatic drug discovery.
+											Now, what was extraordinary here
+is not just that they beat
+											all of the algorithms developed by Merck
+or the international academic community,
+											but nobody on the team had any background
+in chemistry or biology or life sciences,
+											and they did it in two weeks.
+											How did they do this?
+											They used an extraordinary algorithm
+called deep learning.
+											So important was this that in fact
+the success was covered
+											in The New York Times in a front page
+article a few weeks later.
+											This is Geoffrey Hinton
+here on the left-hand side.
+											Deep learning is an algorithm
+inspired by how the human brain works,
+											and as a result it's an algorithm
+											which has no theoretical limitations
+on what it can do.
+											The more data you give it and the more
+computation time you give it,
+											the better it gets.
+									","
+											Sabemos agora que os computadores
+conseguem aprender.
+											Conseguem aprender a fazer coisas
+											que nós, por vezes, não sabemos
+fazer sozinhos,
+											ou fazem-no melhor do que nós.
+											Um dos exemplos mais fantásticos
+da aprendizagem automática que eu vi
+											surgiu num projeto
+que desenvolvi na Kaggle
+											em que uma equipa liderada
+por um tipo chamado Geoffrey Hinton
+											da Universidade de Toronto,
+venceu uma competição
+											sobre descoberta automática
+de medicamentos.
+											O mais extraordinário não foi terem
+vencido todos os algoritmos
+											desenvolvidos pela Merck ou pela
+comunidade académica internacional,
+											mas ninguém na equipa ter formação
+em química, biologia ou ciências naturais
+											e fizeram-no em duas semanas.
+											Como fizeram isto?
+											Usaram um algoritmo extraordinário
+chamado aprendizagem profunda.
+											Isso foi tão importante que saiu
+num artigo na primeira página
+											no New York Times, algumas semanas depois.
+											Este do lado esquerdo
+é o Geoffrey Hinton.
+											A aprendizagem profunda é um algoritmo
+inspirado no cérebro humano.
+											e, como resultado, é um algoritmo
+											que não tem limitações teóricas
+em relação ao que pode fazer.
+											Quanto mais dados e tempo
+de computação fornecermos
+											melhor ele fica.
+									","
+											Nous savons maintenant que les ordinateurs
+peuvent apprendre,
+											et apprendre à faire des choses
+											que nous ne savons pas 
+toujours faire nous-mêmes,
+											ou qu'ils peuvent peut-être
+faire mieux que nous.
+											Un des cas les plus étonnants
+d'apprentissage automatique que j'ai vu
+											s'est produit lors d'un projet de Kaggle,
+											où une équipe dirigée par Geoffrey Hinton,
+											de l'Université de Toronto,
+											a gagné un concours de
+découverte de la drogue.
+											Ce qui est extraordinaire n'est
+pas juste qu'ils aient battu
+											tous les algorithmes de Merck ou de la
+communauté universitaire internationale,
+											mais que personne de l'équipe n'ait de
+formation en chimie ou biologie,
+											et qu'ils l'aient fait en deux semaines.
+											Comment ont-ils fait ?
+											Avec un algorithme génial
+appelé apprentissage profond.
+											Ça a été si important
+que leur succès donna lieu
+											à un article en une du New York Times
+quelques semaines plus tard.
+											Il s'agit de Geoffrey Hinton,
+là, à gauche, sur l'écran.
+											L'apprentissage profond s'inspire
+du fonctionnement du cerveau :
+											c'est un algorithme qui n'a donc
+aucune limite théorique.
+											Plus vous lui donnez de données,
+et de temps de calcul,
+											plus il devient meilleur.
+									","
+											Wir wissen also, 
+dass Computer lernen können
+											und dass sie auch Dinge lernen können,
+											von denen wir nicht wissen, 
+wie sie funktionieren,
+											und manchmal sogar besser als wir.
+											Eines der faszinierendsten Beispiele 
+für Maschinelles Lernen
+											habe ich bei einem meiner 
+Kaggle-Projekte gesehen,
+											als ein Team unter der Leitung
+von Geoffrey Hinton
+											von der Universität Toronto
+											den Wettstreit für automatische 
+Drogenerkennung gewann.
+											Außergewöhnlich war 
+daran nicht nur ihr Sieg
+											gegen all die Algorithmen von Merck 
+und der internationalen akademischen Welt,
+											sondern, dass das Team kein Vorwissen
+zu Chemie oder Biowissenschaften hatte
+											und nur zwei Wochen brauchte.
+											Wie haben sie das gemacht?
+											Sie nutzten einen besonderen
+Algorithmus namens Deep Learning.
+											Ihr Erfolg war so bedeutend,
+											dass er wenig später auf der Titelseite 
+der NY Times erschien.
+											Hier auf der linken Seite 
+sehen Sie Geoffrey Hinton.
+											Deep Learning basiert auf der Funktion 
+des menschlichen Gehirns
+											und deswegen ist es ein Algorithmus,
+											dessen Funktion theoretisch 
+keine Grenzen gesetzt sind.
+											Je mehr Daten und Rechenzeit man hat,
+											desto besser wird er.
+									",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+","
+","
+","
+",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+											The New York Times also
+showed in this article
+											another extraordinary
+result of deep learning
+											which I'm going to show you now.
+											It shows that computers 
+can listen and understand.
+									","
+											O New York Times também
+mostrou, nesse artigo,
+											outro resultado extraordinário
+da aprendizagem profunda
+											que vou agora mostrar-vos.
+											Mostra que os computadores
+conseguem ouvir e compreender
+									","
+											Le New York Times montra
+aussi dans son article
+											un autre résultat inouï
+de l'apprentissage profond,
+											que je vais maintenant vous montrer.
+											Il montre que les ordinateurs
+sont capables d'écouter et comprendre.
+									","
+											Die New York Times zeigte in ihrem Artikel
+											noch ein Resultat des Deep Learning,
+											das ich Ihnen jetzt vorstellen will.
+											Es beweist, dass Computer 
+zuhören und verstehen können.
+									",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+","
+","
+","
+",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+											(Video) Richard Rashid: Now, the last step
+											that I want to be able
+to take in this process
+											is to actually speak to you in Chinese.
+											Now the key thing there is,
+											we've been able to take a large amount 
+of information from many Chinese speakers
+											and produce a text-to-speech system
+											that takes Chinese text
+and converts it into Chinese language,
+											and then we've taken
+an hour or so of my own voice
+											and we've used that to modulate
+											the standard text-to-speech system
+so that it would sound like me.
+											Again, the result's not perfect.
+											There are in fact quite a few errors.
+											(In Chinese)
+											(Applause)
+											There's much work to be done in this area.
+											(In Chinese)
+											(Applause)
+									","
+											(Vídeo) Richard Rashid: O último passo
+											que quero poder dar neste processo
+											é falar-vos em chinês.
+											O segredo para isso
+											é que conseguimos reunir muita
+informação de oradores chineses
+											e produzir um sistema texto-fala
+											que converte texto em chinês
+para a língua chinesa.
+											Depois usámos cerca de uma hora
+da minha própria voz
+											para modular o sistema texto-fala padrão
+											para que falasse como eu.
+											O resultado não é perfeito.
+											Há ainda alguns erros.
+											(Em chinês)
+											(Aplausos)
+											Há muito trabalho a fazer nesta área.
+											(Em chinês)
+											(Aplausos)
+									","
+											(Vidéo) Richard Rashid:
+La dernière étape
+											que je voudrais pouvoir atteindre,
+											c'est de vous parler en chinois.
+											L'élément-clé ici, c'est
+											que nous avons pu collecter beaucoup
+de données auprès de nombreux sinophones
+											et produire un système de vocalisation
+											qui convertit du texte chinois
+en parole chinoise,
+											puis nous avons pris environ une heure
+d'enregistrement de ma propre voix,
+											et nous l'avons utilisé pour moduler
+											le système de vocalisation,
+afin que la voix ressemble à la mienne.
+											Le résultat n'est pas parfait.
+											Il y a un certain nombre d'erreurs.
+											(En chinois)
+											(Applaudissements)
+											Il y a encore beaucoup de travail à faire
+											(En chinois)
+											(Applaudissements)
+									","
+											Richard Rashid (Video):
+Als letzten Schritt in diesem Prozess
+											werde ich Chinesisch mit Ihnen sprechen.
+											Als wichtigsten Schritt haben wir
+											anhand großer Informationsmengen
+von vielen Chinesisch-Sprechern
+											ein Text-zu-Sprache-System gebaut,
+											das chinesischen Text
+in chinesche Sprache umwandelt,
+											und dann haben wir eine etwa einstündige 
+Aufnahme meiner Stimme benutzt,
+											um das Text-zu-Sprache-System 
+so zu ändern, dass es wie ich klingt.
+											Wieder ist das Ergebnis nicht perfekt.
+											Eigentlich hat es sogar 
+ganz schön viele Fehler.
+											(Auf Chinesisch)
+											(Applaus)
+											In diesem Bereich ist noch viel zu tun.
+											(Chinesisch)
+											(Applaus)
+									",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+","
+","
+","
+",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+											Jeremy Howard: Well, that was at
+a machine learning conference in China.
+											It's not often, actually,
+at academic conferences
+											that you do hear spontaneous applause,
+											although of course sometimes
+at TEDx conferences, feel free.
+											Everything you saw there
+was happening with deep learning.
+											(Applause) Thank you.
+											The transcription in English
+was deep learning.
+											The translation to Chinese and the text
+in the top right, deep learning,
+											and the construction of the voice
+was deep learning as well.
+									","
+											Isto foi numa conferência sobre
+aprendizagem automática na China.
+											Não é frequente ouvir,
+em conferências académicas,
+											aplausos espontâneos.
+											embora aconteça, por vezes,
+em conferências TEDx.
+											Todo o que vimos foi devido
+a aprendizagem profunda.
+											(Aplausos)
+Obrigado.
+											A transcrição para inglês foi feita
+com aprendizagem profunda,
+											assim como a tradução para chinês,
+no texto em cima, à direita,
+											e a construção da voz.
+									","
+											J. H. : C'était une conférence en
+Chine sur l'apprentissage automatique.
+											Il est rare, 
+lors de conférences universitaires,
+											d'entendre des applaudissements spontanés,
+											quoique cela arrive parfois aux
+conférences TEDx. N'hésitez pas.
+											L'apprentissage profond était
+derrière tout ça.
+											(Applaudissements)
+Merci.
+											La transcription en anglais,
+											la traduction en chinois
+											et la construction de la voix étaient
+tous de l'apprentissage profond.
+									","
+											Jeremy Howard: Das war eine Konferenz
+zu Maschinellem Lernen in China.
+											Übrigens hört man 
+bei akademischen Konferenzen
+											nur ganz selten Zwischenapplaus,
+											obwohl das bei TEDx-Konferenzen 
+durchaus erwünscht sein kann.
+											Was Sie eben gesehen haben,
+basiert auf Deep Learning.
+											(Applaus) Danke!
+											Die englische Transkription 
+war Deep Learning.
+											Die Übersetzung ins Chinesische und
+der Text rechts oben – Deep Learning
+											und die Modellierung der Stimme
+— ebenfalls Deep Learning.
+									",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+","
+","
+","
+",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+											So deep learning is
+this extraordinary thing.
+											It's a single algorithm that
+can seem to do almost anything,
+											and I discovered that a year earlier,
+it had also learned to see.
+											In this obscure competition from Germany
+											called the German Traffic Sign 
+Recognition Benchmark,
+											deep learning had learned
+to recognize traffic signs like this one.
+											Not only could it
+recognize the traffic signs
+											better than any other algorithm,
+											the leaderboard actually showed
+it was better than people,
+											about twice as good as people.
+											So by 2011, we had the first example
+											of computers that can see
+better than people.
+											Since that time, a lot has happened.
+											In 2012, Google announced that
+they had a deep learning algorithm
+											watch YouTube videos
+											and crunched the data
+on 16,000 computers for a month,
+											and the computer independently learned
+about concepts such as people and cats
+											just by watching the videos.
+											This is much like the way
+that humans learn.
+											Humans don't learn
+by being told what they see,
+											but by learning for themselves
+what these things are.
+											Also in 2012, Geoffrey Hinton,
+who we saw earlier,
+											won the very popular ImageNet competition,
+											looking to try to figure out 
+from one and a half million images
+											what they're pictures of.
+											As of 2014, we're now down
+to a six percent error rate
+											in image recognition.
+											This is better than people, again.
+									","
+											A aprendizagem profunda
+é algo extraordinário.
+											É um único algoritmo que parece
+poder fazer quase tudo.
+											Descobri que, um ano antes, também
+tinha aprendido a ver.
+											Nesta competição obscura, na Alemanha,
+											— Referência Alemã para Reconhecimento
+de Sinais de Trânsito —
+											a aprendizagem profunda conseguiu
+reconhecer sinais de trânsito.
+											Conseguiu reconhecer sinais de trânsito,
+melhor do que qualquer outro algoritmo,
+											e a avaliação mostrou que era cerca de
+duas vezes melhor do que as pessoas.
+											Por volta de 2011, 
+tivemos o primeiro exemplo
+											de computadores que conseguem
+ver melhor do que as pessoas.
+											Desde então, muito aconteceu.
+											Em 2012, a Google anunciou que tinham
+um algoritmo de aprendizagem profunda
+											a observar vídeos no Youtube
+											e a processar dados de 16 000
+computadores por mês,
+											O computador conseguiu de forma autónoma
+aprender conceitos como pessoas e gatos
+											apenas observando os vídeos.
+											Isto é semelhante ao modo
+como os humanos aprendem.
+											Não aprendem dizendo-lhes
+o que estão a ver,
+											mas aprendendo por si
+o que estas coisas são.
+											Também em 2012, o Geoffrey Hinton,
+que vimos antes,
+											venceu a competição muito
+popular ImageNet,
+											ao tentar identificar, num conjunto
+de 1,5 milhões de imagens,
+											o que elas representavam.
+											Em 2014, reduzimos para 6% a taxa de erro
+											no reconhecimento de imagem.
+											Isto é melhor do que as
+pessoas conseguem fazer.
+									","
+											L'apprentissage profond est
+cette chose extraordinaire.
+											C'est un seul algorithme qui semble
+pouvoir presque tout faire,
+											et j'ai découvert qu'un an plus tôt,
+il avait aussi appris à voir.
+											Dans une obscure compétition en Allemagne,
+											le « Test de Reconnaissance
+de Panneaux Routiers »,
+											l'apprentissage profond a appris à
+reconnaître des panneaux,
+											non seulement mieux
+que tous les autres algorithmes,
+											mais également mieux
+que les humains -
+											environ deux fois mieux :
+											dès 2011, nous avions un exemple
+											d'ordinateurs pouvant voir
+mieux qu'un être humain.
+											Depuis, beaucoup de choses
+se sont passées.
+											En 2012, Google a annoncé qu'un
+algorithme d'apprentissage profond,
+											regardant des vidéos YouTube
+											et analysant les données sur
+16 000 ordinateurs pendant un mois,
+											a pu apprendre, de lui-même, les concepts
+de « chat » ou encore d'« être humain »,
+											juste en regardant ces vidéos.
+											Les êtres humains apprennent 
+de la même manière :
+											on n'apprend pas une chose
+par explication,
+											mais on l'apprend par 
+les perceptions individuelles.
+											En 2012 également, Geoffrey Hinton,
+dont nous avons déjà parlé,
+											a gagné le très réputé
+concours « ImageNet »,
+											où il s'agit d'identifier,
+au sein d'un million et demi d'images,
+											les images en question.
+											En 2014, nous sommes tombés
+à un taux d'erreur de 6%
+											en reconnaissance visuelle.
+											C'est, de nouveau,
+mieux qu'un être humain.
+									","
+											Deep Learning ist also 
+eine außergewöhnliche Sache.
+											Es ist ein einziger Algorithmus, 
+der scheinbar fast alles kann
+											und ich fand heraus, dass er 
+ein Jahr zuvor sehen gelernt hatte.
+											Bei einem obskuren Wettbewerb 
+der Ruhr-Universität Bochum
+											zum Erkennen von Verkehrszeichen
+											hat Deep Learning gelernt, 
+Verkehrszeichen wie dieses zu erkennen.
+											Er konnte Verkehrszeichen nicht nur
+											besser als andere Algorithmen erkennen;
+											die Rangliste zeigte, 
+dass er sogar Menschen übertraf
+											und zwar um das Doppelte.
+											2011 gab es also das erste Beispiel
+											für Computer, die besser 
+sehen können als Menschen.
+											Seitdem ist viel passiert.
+											2012 gab Google bekannt, 
+dass sie einen Deep-Learning-Algorithmus
+											Youtube Videos schauen ließen
+											und die Daten auf 16 000 Computern 
+einen Monat lang berechnen ließen
+											und dass der Computer allein 
+Konzepte wie Menschen oder Katzen
+											einzig durch das Betrachten 
+von Videos erkannt hat.
+											Menschen lernen sehr ähnlich.
+											Sie lernen nicht, indem man
+ihnen sagt, was sie sehen,
+											sondern sie lernen selbst, 
+was diese Dinge sind.
+											Übrigens hat 2012 Geoffrey Hinton, 
+den wir vorher gesehen haben,
+											den beliebten ImageNet-Wettbewerb
+mit seinem Versuch gewonnen,
+											auf 1,5 Mio. Bildern 
+die Motive zu erkennen.
+											2014 sind wir mittlerweile
+nur noch bei einer 6%igen Fehlerrate
+											bei der Bilderkennung.
+											Das ist wiederum besser als Menschen.
+									",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+","
+","
+","
+",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+											So machines really are doing
+an extraordinarily good job of this,
+											and it is now being used in industry.
+											For example, Google announced last year
+											that they had mapped every single
+location in France in two hours,
+											and the way they did it was
+that they fed street view images
+											into a deep learning algorithm
+to recognize and read street numbers.
+											Imagine how long
+it would have taken before:
+											dozens of people, many years.
+											This is also happening in China.
+											Baidu is kind of 
+the Chinese Google, I guess,
+											and what you see here in the top left
+											is an example of a picture that I uploaded
+to Baidu's deep learning system,
+											and underneath you can see that the system
+has understood what that picture is
+											and found similar images.
+											The similar images actually
+have similar backgrounds,
+											similar directions of the faces,
+											even some with their tongue out.
+											This is not clearly looking
+at the text of a web page.
+											All I uploaded was an image.
+											So we now have computers which
+really understand what they see
+											and can therefore search databases
+											of hundreds of millions
+of images in real time.
+									","
+											As máquinas estão realmente a fazer
+um trabalho extraordinário
+											que está agora a ser usado na indústria.
+											Por exemplo, a Google
+anunciou, no ano passado,
+											que mapearam todos os locais
+de França, em duas horas.
+											Processaram imagens de rua com um
+algoritmo de aprendizagem profunda,
+											para que reconhecesse
+e lesse números de ruas.
+											Imaginem quanto tempo
+isto teria demorado antes:
+											dúzias de pessoas, durante muitos anos.
+											Isto também está a acontecer na China.
+											Baidu é uma espécie de
+Google chinesa, acho eu.
+											O que veem aqui em cima, à esquerda,
+é um exemplo de uma imagem
+											que transferi para o sistema
+de aprendizagem profunda da Baidu.
+											Em baixo, podem ver que o sistema
+percebeu o que a imagem era
+											e encontrou imagens semelhantes.
+											As imagens semelhantes têm, 
+na verdade, fundos idênticos,
+											direções semelhantes das faces
+											e algumas até com a língua de fora.
+											Isto não é evidente no texto
+de uma página ""web"".
+											Só transferi uma imagem.
+											Temos, agora, computadores que 
+compreendem realmente o que veem
+											e que podem, por isso, procurar
+nas bases de dados
+											de centenas de milhões
+de imagens, em tempo real.
+									","
+											Les machines font vraiment
+ici un travail extraordinaire,
+											avec, désormais, des
+applications industrielles.
+											Par exemple, Google a annoncé l'an dernier
+											qu'ils avaient cartographié l'ensemble
+des lieux de France en deux heures,
+											en fournissant des images
+de Street View
+											à un algorithme d'apprentissage profond,
+pour qu'il reconnaisse les numéros de rue.
+											Imaginez le temps
+qu'il aurait fallu avant :
+											des dizaines de personnes,
+plusieurs années.
+											C'est la même histoire en Chine.
+											Baidu est, on peut dire,
+une sorte de Google chinois.
+											Ce que vous voyez en haut à gauche,
+											est une photo que j'ai chargée sur le
+système d'apprentissage profond de Baidu,
+											et, dessous, vous voyez que le système
+a compris ce qui était sur la photo,
+											et trouvé des images similaires.
+											Les images similaires ont le 
+même arrière-plan,
+											la tête dans le même sens,
+											certaines même avec la langue sortie.
+											Ce n'est pas une recherche
+sur le texte d'une page web.
+											Je n'ai chargé qu'une image.
+											Les ordinateurs peuvent donc désormais
+vraiment comprendre ce qu'ils voient,
+											et consulter une base de données
+											de centaines de millions d'images
+en temps réel.
+									","
+											Maschinen sind dabei 
+also außergewöhnlich gut
+											und das wird nun auch 
+in der Wirtschaft genutzt.
+											Zum Beispiel hat Google
+letztes Jahr bekanntgegeben,
+											dass sie jeden Ort Frankreichs 
+in nur 2 Stunden kartografiert hätten,
+											indem sie Street-View-Bilder in einen 
+Deep-Learning-Algorithmus einspeisten,
+											der dann Hausnummern 
+erkennen und lesen konnte.
+											Davor hätte es dutzende Leute 
+und viele Jahre gebraucht.
+											Dasselbe passiert in China.
+											Baidu ist sowas wie 
+das chinesische Google,
+											und was Sie hier oben links sehen,
+											ist z. B. ein Bild, das ich in Baidus
+Deep-Learning-System hochgeladen habe.
+											Darunter sehen Sie, 
+dass das System das Bild verstanden
+											und ähnliche Bilder gefunden hat.
+											Die ähnlichen Bilder haben 
+ähnliche Hintergründe,
+											ähnliche Gesichts-Ausrichtung,
+											manche sogar die rausgestreckte Zunge.
+											Das System schaut eindeutig nicht
+auf den Text einer Website.
+											Es hatte nur ein Bild.
+											Also haben wir jetzt Computer, 
+die wirklich verstehen, was sie sehen,
+											und daher Datenbanken
+											mit vielen Millionen Bildern 
+in Echtzeit durchsuchen können.
+									",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+","
+","
+","
+",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+											So what does it mean
+now that computers can see?
+											Well, it's not just 
+that computers can see.
+											In fact, deep learning
+has done more than that.
+											Complex, nuanced sentences like this one
+											are now understandable
+with deep learning algorithms.
+											As you can see here,
+											this Stanford-based system
+showing the red dot at the top
+											has figured out that this sentence
+is expressing negative sentiment.
+											Deep learning now in fact
+is near human performance
+											at understanding what sentences are about
+and what it is saying about those things.
+											Also, deep learning has
+been used to read Chinese,
+											again at about native
+Chinese speaker level.
+											This algorithm developed
+out of Switzerland
+											by people, none of whom speak
+or understand any Chinese.
+											As I say, using deep learning
+											is about the best system
+in the world for this,
+											even compared to native
+human understanding.
+									","
+											O que significa realmente os computadores
+conseguirem agora ver?
+											Não se trata apenas de conseguirem ver.
+											De facto, a aprendizagem profunda
+tem feito mais do que isso.
+											Frases complexas, com nuances, como esta
+											são agora percetíveis, com os algoritmos
+de aprendizagem profunda.
+											Como podem ver aqui,
+											este sistema de Stanford,
+com o ponto vermelho no topo,
+											percebeu que esta frase expressa
+um sentimento negativo.
+											A aprendizagem profunda está agora
+próxima do desempenho humano,
+											na perceção do sentido das frases
+e no que diz sobre essas coisas.
+											A aprendizagem profunda também 
+tem sido usada para ler chinês,
+											a um nível próximo de um chinês nativo.
+											Este algoritmo foi desenvolvido na Suíça
+											por pessoas que não falam
+nem percebem chinês.
+											Como disse, a aprendizagem profunda
+											é o melhor sistema do mundo para isto
+											comparado até com a compreensão
+de um ser humano.
+									","
+											Quelles conséquences, maintenant que
+les ordinateurs peuvent voir ?
+											Les machines ne savent pas seulement voir.
+											L'apprentissage profond va plus loin.
+											Une phrase complexe et
+nuancée comme celle-ci,
+											est maintenant compréhensible
+par ces algorithmes.
+											Comme vous pouvez le voir,
+											ce système de Stanford,
+avec le point rouge en haut,
+											a compris que la phrase
+comportait un jugement négatif.
+											L'apprentissage profond est désormais
+proche des performances humaines
+											pour comprendre le sujet d'une phrase,
+et le jugement qui y est exprimé.
+											Il a aussi été utilisé
+pour lire le chinois,
+											à un niveau proche de
+celui d'un locuteur natif.
+											Cet algorithme a été développé en Suisse
+											par des personnes dont aucune ne parlait
+ni ne comprenait le chinois.
+											Utiliser l'apprentissage profond
+											constitue le meilleur système
+dans ce cas,
+											même comparé
+à la compréhension humaine.
+									","
+											Aber was bedeutet es nun, 
+dass Computer sehen können?
+											Tja, es ist nicht nur so, dass sie sehen.
+											Genau genommen kann
+Deep Leaning noch mehr.
+											Komplexe, differenzierte Sätze wie dieser
+											können nun mit Deep-Learning-Algorithmen 
+verstanden werden.
+											Wie Sie hier sehen können,
+											zeigt dieses System aus Stanford
+mit dem roten Punkt oben,
+											dass es die negative Botschaft 
+des Satzes erkannt hat.
+											Deep Learning ist jetzt 
+fast so gut wie Menschen
+											im Verstehen, worum es in Sätzen 
+geht und was gesagt wird.
+											Deep Learning wird auch genutzt,
+um Chinesisch zu lesen
+											wieder fast auf Muttersprachler-Niveau.
+											Der Algorithmus dafür 
+stammt von Leuten aus der Schweiz,
+											die allesamt kein Chinesisch 
+sprechen oder verstehen.
+											Wie ich schon sagte: Deep Learning
+											ist so ziemlich das beste 
+System der Welt dafür,
+											sogar im Vergleich mit 
+dem Wissen von Muttersprachlern.
+									",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+","
+","
+","
+",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+											This is a system that we
+put together at my company
+											which shows putting
+all this stuff together.
+											These are pictures which
+have no text attached,
+											and as I'm typing in here sentences,
+											in real time it's understanding
+these pictures
+											and figuring out what they're about
+											and finding pictures that are similar
+to the text that I'm writing.
+											So you can see, it's actually
+understanding my sentences
+											and actually understanding these pictures.
+											I know that you've seen
+something like this on Google,
+											where you can type in things
+and it will show you pictures,
+											but actually what it's doing is it's
+searching the webpage for the text.
+											This is very different from actually
+understanding the images.
+											This is something that computers
+have only been able to do
+											for the first time in the last few months.
+									","
+											Este é um sistema que desenvolvemos
+na minha empresa
+											que mostra como juntar tudo isto.
+											Estas imagens não têm texto associado.
+											À medida que vou escrevendo estas frases
+											estas imagens vão sendo
+compreendidas em tempo real,
+											percebendo o que significam,
+											e descobrindo imagens de acordo
+com o texto que vou escrevendo.
+											Como podem ver, está de facto
+a perceber as minhas frases
+											e a perceber estas imagens.
+											Sei que viram algo parecido na Google,
+											em que podem escrever coisas
+e são-vos mostradas imagens.
+											Na realidade, o que está a fazer
+é pesquisar o vosso texto na ""web"".
+											Isso é muito diferente de perceber
+realmente as imagens.
+											Isto é algo que os computadores
+só começaram a fazer
+											há alguns meses, pela primeira vez.
+									","
+											Il s'agit ici d'un système
+mis en place dans mon entreprise,
+											qui regroupe tout ça.
+											Ce sont des images qui ne sont
+pas liées à du texte,
+											et, alors que j'écris ici des phrases,
+											en temps réel, le système comprend
+les images,
+											identifie leur sujet,
+											et trouve des images correspondant au
+texte que j'écris.
+											Il comprend véritablement mes phrases,
+											et comprend véritablement ces images.
+											Je sais que vous voyez 
+ça sur Google,
+											où l'on peut trouver des images
+en tapant un texte,
+											mais ce n'est qu'une recherche
+dans le texte de la page web.
+											C'est très différent de comprendre
+vraiment les images.
+											C'est quelque chose que
+les ordinateurs n'ont pu faire
+											pour la première fois
+que très récemment.
+									","
+											Dieses System haben wir 
+in meiner Firma entworfen,
+											das all diesen Kram zusammenfügt.
+											Das sind Bilder ohne angehängten Text
+											und während ich diese Sätze hier eintippe,
+											versteht das System die Bilder in Echtzeit
+											und erkennt, was sie zeigen,
+											und findet ähnliche Bilder 
+zu dem eingetippten Text.
+											Sie sehen also, 
+es versteht wirklich meine Sätze
+											und ebenso diese Bilder.
+											Ich weiß, dass Sie 
+sowas Ähnliches von Google kennen,
+											wo man Text eingeben kann 
+und einem Bilder gezeigt werden,
+											aber da wird nur die Website 
+nach dem Text durchsucht.
+											Das ist ein großer Unterschied dazu,
+die Bilder zu verstehen.
+											Letzteres haben Computer erst
+											vor ein paar Monaten gelernt.
+									",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+","
+","
+","
+",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+											So we can see now that computers
+can not only see but they can also read,
+											and, of course, we've shown that they
+can understand what they hear.
+											Perhaps not surprising now that
+I'm going to tell you they can write.
+											Here is some text that I generated
+using a deep learning algorithm yesterday.
+											And here is some text that an algorithm
+out of Stanford generated.
+											Each of these sentences was generated
+											by a deep learning algorithm
+to describe each of those pictures.
+											This algorithm before has never seen
+a man in a black shirt playing a guitar.
+											It's seen a man before,
+it's seen black before,
+											it's seen a guitar before,
+											but it has independently generated
+this novel description of this picture.
+											We're still not quite at human
+performance here, but we're close.
+											In tests, humans prefer
+the computer-generated caption
+											one out of four times.
+											Now this system is now only two weeks old,
+											so probably within the next year,
+											the computer algorithm will be
+well past human performance
+											at the rate things are going.
+											So computers can also write.
+									","
+											Os computadores conseguem
+não apenas ver, mas também ler.
+											Já mostrámos, claro, que conseguem
+perceber o que ouvem.
+											Talvez não fiquem surpreendidos
+se vos disser que conseguem escrever.
+											Aqui está um texto que gerei ontem
+com um algoritmo de aprendizagem profunda.
+											E aqui está um texto gerado
+por um algoritmo de Stanford.
+											Cada uma destas frases foi gerada
+											por um algoritmo de aprendizagem profunda
+para descrever cada uma destas imagens.
+											Este algoritmo nunca tinha visto antes um
+homem de T-shirt preta a tocar guitarra.
+											Já tinha visto um homem e a cor preta.
+											Já tinha visto uma guitarra.
+											Mas gerou de forma independente
+esta nova descrição da imagem.
+											Ainda não estamos bem ao nível do
+desempenho humano, mas perto.
+											Em testes, os humanos preferem 
+a descrição gerada pelo computador,
+											uma em cada quatro vezes.
+											Este sistema tem apenas duas semanas,
+por isso, provavelmente, no próximo ano,
+											o algoritmo estará bem à frente
+do desempenho humano,
+											tendo em conta a rapidez destas coisas.
+											Os computadores também conseguem escrever.
+									","
+											Les ordinateurs peuvent donc
+non seulement voir, mais aussi lire,
+											et, bien sûr, nous avons montré qu'ils
+peuvent comprendre ce qu'ils entendent.
+											Pas très surprenant si je vous
+dis maintenant qu'ils peuvent écrire.
+											A partir d'un algorithme d'apprentissage
+profond, j'ai généré ce texte hier.
+											Ici, ce sont des textes générés par un
+algorithme de Stanford.
+											Chacune de ces phrases a été générée
+											par un algorithme d'apprentissage profond
+décrivant l'image au-dessus.
+											Cet algorithme n'avait jamais vu un homme
+habillé en noir jouant de la guitare.
+											Il avait vu déjà vu un homme,
+déjà vu du noir,
+											déjà vu une guitare,
+											mais a généré de manière autonome
+cette nouvelle description de cette photo.
+											Nous n'atteignons pas encore
+les performances humaines, mais presque.
+											Dans les tests réalisés, les personnes
+préfèrent la légende de l'ordinateur
+											une fois sur quatre.
+											Ce système n'a que deux semaines,
+											et l'on peut supposer que d'ici un an,
+											l'algorithme aurait surpassé
+les performances humaines
+											- au rythme où ça va.
+											Les ordinateurs peuvent donc aussi écrire.
+									","
+											Wir haben gesehen, dass Computer nicht
+nur sehen, sondern auch lesen können.
+											Wir haben natürlich auch gesehen, 
+dass sie verstehen, was sie hören.
+											Vielleicht sind Sie nicht überrascht, 
+dass sie auch schreiben können.
+											Diesen Text habe ich gestern mit einem
+Deep-Learning-Algorithmus erzeugt.
+											Diesen Text hier hat 
+ein Algorithmus aus Stanford erzeugt.
+											Jeder dieser Sätze wurde mit
+einem Deep-Learning-Algorithmus erzeugt,
+											um das jeweilige Bild zu beschreiben.
+											Vorher hat der Algorithmus nie einen Mann 
+im schwarzen Hemd Gitarre spielen sehen.
+											Er hat einen Mann, die Farbe Schwarz,
+											und eine Gitarre gesehen,
+											aber er hat selbstständig 
+diese neue Bildbeschreibung erstellt.
+											Menschliche Leistung ist das 
+noch nicht, aber nah dran.
+											In Tests bevorzugen Menschen 
+die computer-generierte Bildbeschreibung
+											nur eines von vier Malen.
+											Aber das System ist jetzt
+erst 2 Wochen alt,
+											sodass wahrscheinlich im nächsten Jahr
+											der Computeralgorithmus
+die menschliche Leistung übertrifft,
+											so schnell wie die Dinge gerade gehen.
+											Computer können also auch schreiben.
+									",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+","
+","
+","
+",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+											So we put all this together and it leads
+to very exciting opportunities.
+											For example, in medicine,
+											a team in Boston announced
+that they had discovered
+											dozens of new clinically relevant features
+											of tumors which help doctors
+make a prognosis of a cancer.
+											Very similarly, in Stanford,
+											a group there announced that,
+looking at tissues under magnification,
+											they've developed 
+a machine learning-based system
+											which in fact is better
+than human pathologists
+											at predicting survival rates
+for cancer sufferers.
+											In both of these cases, not only
+were the predictions more accurate,
+											but they generated new insightful science.
+											In the radiology case,
+											they were new clinical indicators
+that humans can understand.
+											In this pathology case,
+											the computer system actually discovered
+that the cells around the cancer
+											are as important as
+the cancer cells themselves
+											in making a diagnosis.
+											This is the opposite of what pathologists
+had been taught for decades.
+											In each of those two cases,
+they were systems developed
+											by a combination of medical experts
+and machine learning experts,
+											but as of last year,
+we're now beyond that too.
+											This is an example of
+identifying cancerous areas
+											of human tissue under a microscope.
+											The system being shown here
+can identify those areas more accurately,
+											or about as accurately,
+as human pathologists,
+											but was built entirely with deep learning
+using no medical expertise
+											by people who have
+no background in the field.
+											Similarly, here, this neuron segmentation.
+											We can now segment neurons
+about as accurately as humans can,
+											but this system was developed
+with deep learning
+											using people with no previous 
+background in medicine.
+									","
+											Juntamos tudo isto e obtemos
+oportunidades muito excitantes.
+											Por exemplo, na medicina,
+											uma equipa de Boston anunciou
+que descobriu
+											dúzias de novas características de
+tumores, clinicamente relevantes,
+											que ajudam os médicos a fazer
+prognósticos em relação a um cancro.
+											De igual modo, em Stanford,
+											um grupo anunciou que, 
+observando tecidos ampliados,
+											desenvolveu um sistema baseado
+na aprendizagem automática
+											que supera os patologistas humanos
+											na previsão de taxas de sobrevivência
+de pacientes de cancro.
+											Em ambos os casos, 
+as previsões foram mais precisas,
+											e também geraram novas
+perspetivas científicas.
+											No caso da radiologia,
+											revelaram-se novos indicadores clínicos
+que os humanos podem perceber.
+											Neste caso da patologia,
+											o sistema computacional descobriu
+que as células em torno do cancro
+											são tão importantes quanto
+as próprias células cancerígenas
+											na realização de um diagnóstico.
+											Isto é o contrário do que os patologistas
+têm aprendido ao longo de décadas.
+											Em ambos os casos, estes sistemas
+foram desenvolvidos
+											por especialistas médicos
+e de aprendizagem automática.
+											No último ano, fomos também além disso.
+											Isto é um exemplo de identificação
+de áreas cancerígenas,
+											em tecido humano, ao microscópio.
+											O sistema aqui apresentado consegue
+identificar essas áreas
+											de forma mais precisa, ou tão precisa
+quanto os patologistas humanos,
+											mas foi construído com aprendizagem
+profunda, sem conhecimentos médicos,
+											por pessoas sem formação na área.
+											De modo semelhante, nesta
+segmentação neuronal.
+											Podemos agora segmentar neurónios
+de forma tão precisa quanto um humano,
+											mas este sistema foi desenvolvido
+com aprendizagem profunda
+											com pessoas sem formação
+prévia em medicina.
+									","
+											Si l'on rassemble tout ça, les
+perspectives deviennent prometteuses.
+											Par exemple, en médecine,
+											une équipe de Boston a annoncé
+qu'elle avait découvert
+											des dizaines de nouveaux signes cliniques
+											de tumeurs, qui aident les docteurs
+à diagnostiquer un cancer.
+											De façon très proche, à Stanford,
+											une équipe a annoncé qu'en
+observant des tissus au microscope,
+											ils ont développé un système
+de machine apprenante
+											qui est vraiment meilleur
+qu'un pathologiste
+											pour prédire les taux de survie
+de personnes atteintes de cancer.
+											Dans ces deux cas, non seulement
+les prévisions étaient meilleures,
+											mais elles ont aussi permis
+des découvertes majeures.
+											Dans l'exemple en radiologie,
+											de nouveaux signes cliniques
+compréhensibles par l'homme.
+											Dans l'exemple en pathologie,
+											le système informatique a découvert
+que les cellules autour du cancer
+											étaient aussi importantes que les cellules
+cancéreuses elles-mêmes
+											pour porter un diagnostic,
+											à rebours de ce qui a été enseigné
+aux pathologistes pendant des décennies.
+											Dans ces deux cas, les systèmes
+ont été développés
+											en associant experts médicaux et
+experts de l'apprentissage automatique,
+											mais, depuis l'an dernier,
+un nouveau cap a été franchi.
+											Il s'agit ici d'un exemple
+d'identification de zones cancéreuses
+											d'un tissu humain au microscope.
+											Ce système peut identifier ces zones
+avec plus de précisions,
+											ou, du moins, avec autant de précision
+qu'un pathologiste,
+											mais a été entièrement créé par
+l'apprentissage profond créé
+											par des personnes n'ayant
+pas de formation médicale.
+											De même, pour cette
+classification de neurones.
+											On peut désormais classer les neurones
+avec autant de précisions qu'un humain,
+											et ce système a été créé
+avec l'apprentissage profond,
+											par des gens n'ayant pas de
+connaissance médicale antérieure.
+									","
+											Wenn wir das alles kombinieren,
+kriegen wir sehr spannenden Möglichkeiten.
+											In der Medizin, zum Beispiel,
+											hat ein Team aus Boston verkündet,
+											dass es Dutzende 
+neue klinisch relevante Merkmale
+											von Tumoren entdeckt hätte,
+die Ärzten bei der Krebsprognose helfen.
+											Ähnlich hat in Stanford
+eine Gruppe bekanntgegeben,
+											dass sie für die Gewebeanalyse
+in vergrößerter Aufnahme
+											ein Maschinelles Lernsystem 
+entwickelt haben,
+											das menschliche Pathologen 
+tatsächlich dabei übertrifft,
+											die Überlebenschancen von 
+Krebspatienten vorherzusagen.
+											In beiden Fällen waren 
+die Vorhersagen nicht nur genauer,
+											sie förderten auch neue
+wissenschaftliche Erkenntnisse.
+											Im Fall der Radiologie
+											waren es neue klinische Indikatoren,
+die Menschen verstehen.
+											Im Fall der Pathologie
+											hat das Computersystem herausgefunden, 
+dass die Zellen rund um den Krebs
+											genauso wichtig sind 
+wie die Krebszellen selbst
+											beim Erstellen der Diagnose.
+											Das ist das Gegenteil davon, was man 
+Pathologen jahrzehntelang beibrachte.
+											In beiden Fällen wurden die Systeme
+											gemeinsam von Experten der Medizin 
+und des Maschinellen Lernens entwickelt,
+											aber seit letztem Jahr haben 
+wir auch das überwunden.
+											Das hier ist ein Beispiel, 
+wie man krebsgeschädigte Bereiche
+											menschlichen Gewebes
+unter dem Mikroskop erkennt.
+											Das hier gezeigte System 
+erkennt solche Bereiche genauer,
+											oder etwa gleich genau, 
+wie menschliche Pathologen,
+											aber es wurde allein mit Deep Learning, 
+ohne medizinisches Wissen,
+											von Leuten ohne Ausbildung 
+in diesem Feld entwickelt.
+											Ähnlich ist es bei dieser 
+Neuronen-Segmentierung.
+											Neuronen können jetzt damit etwa so genau
+wie durch Menschen segmentieren werden,
+											aber dieses System wurde 
+mit Deep Learning
+											von Leuten ohne 
+medizinisches Vorwissen entwickelt.
+									",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+","
+","
+","
+",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+											So myself, as somebody with
+no previous background in medicine,
+											I seem to be entirely well qualified
+to start a new medical company,
+											which I did.
+											I was kind of terrified of doing it,
+											but the theory seemed to suggest
+that it ought to be possible
+											to do very useful medicine
+using just these data analytic techniques.
+											And thankfully, the feedback
+has been fantastic,
+											not just from the media
+but from the medical community,
+											who have been very supportive.
+											The theory is that we can take
+the middle part of the medical process
+											and turn that into data analysis
+as much as possible,
+											leaving doctors to do
+what they're best at.
+											I want to give you an example.
+											It now takes us about 15 minutes
+to generate a new medical diagnostic test
+											and I'll show you that in real time now,
+											but I've compressed it down to 
+three minutes by cutting some pieces out.
+											Rather than showing you
+creating a medical diagnostic test,
+											I'm going to show you 
+a diagnostic test of car images,
+											because that's something
+we can all understand.
+									","
+											Eu próprio, sendo alguém sem
+formação prévia em medicina
+											sou perfeitamente qualificado para abrir
+uma nova empresa médica,
+											Foi o que fiz.
+											Estava aterrorizado em relação a isso
+											mas a teoria sugeria ser possível
+											fazer medicina muito útil usando apenas
+estas técnicas de análise de dados.
+											Felizmente, a resposta
+tem sido fantástica.
+											Não apenas dos ""media"", mas também
+da comunidade médica,
+											que tem dado muito apoio.
+											A teoria é que podemos considerar
+a fase intermédia do processo médico
+											e transformá-la em análise de dados,
+tanto quanto possível,
+											deixando os médicos fazer
+aquilo em que são bons.
+											Quero dar-vos um exemplo.
+											Bastam 15 minutos para gerar um novo
+teste diagnóstico médico.
+											Vou mostrar-vos agora em tempo real,
+											mas comprimi para três minutos,
+cortando algumas partes.
+											Em vez de vos mostrar a criação de um
+novo teste diagnóstico médico,
+											vou mostrar-vos um teste diagnóstico
+de imagens de carros,
+											porque é algo fácil de perceber.
+									","
+											Moi-même, sans connaissance
+médicale antérieure,
+											je semble être pleinement qualifié 
+pour créer une entreprise dans la santé
+											- ce que j'ai fait.
+											J'étais terrifié à cette idée,
+											mais, la théorie suggérait
+qu'il devait être possible
+											d'être utile dans ce secteur en ne maniant
+que ces moyens d'analyse de données.
+											Et, heureusement, les retours
+ont été fabuleux,
+											ceux des médias,
+mais aussi ceux du corps médical,
+											qui a été d'un grand soutien.
+											La théorie, c'est que l'on peut isoler
+la partie centrale du processus médical,
+											pour procéder, autant que possible,
+à des analyses de données,
+											et laisser les médecins se consacrer
+sur leurs forces.
+											Je veux vous donner un exemple.
+											Il nous faut désormais environ 15 minutes
+pour faire un nouveau diagnostic médical,
+											et je vais vous le montrer en temps réel,
+											même si je l'ai réduit à trois minutes
+en supprimant certaines parties.
+											Plutôt que de vous montrer la création
+d'un diagnostic médical,
+											je vais vous montrer un diagnostic
+d'images de voitures :
+											c'est quelque chose que
+tout le monde comprend.
+									","
+											Sogar ich, als jemand 
+ohne medizinische Ausbildung,
+											scheine nun genug für die Gründung
+eines medizinisches Unternehmens zu wissen
+											— und das habe ich auch.
+											Ich hatte irgendwie Angst davor,
+											aber theoretisch 
+schien es möglich zu sein,
+											in der Medizin sehr nützliche Dinge allein
+mit solchen Datenanalysen zu bewirken.
+											Glücklicherweise war 
+das Feedback fantastisch,
+											sowohl von den Medien 
+als auch von Medizinern,
+											die mich sehr unterstützt haben.
+											Theoretisch können wir den Mittelteil 
+des medizinischen Vorgangs
+											so viel wie möglich 
+der Datenanalyse überlassen,
+											sodass Ärzte nur noch tun müssen, 
+was sie am besten können.
+											Ich will Ihnen ein Beispiel geben.
+											Aktuell brauchen wir 15 Minuten, um einen 
+neuen medizinischen Diagnosetest zu bauen.
+											Das zeige ich Ihnen jetzt in Echtzeit,
+											aber ich habe es durch Zusammenschneiden 
+auf 3 Minuten gekürzt.
+											Anstatt Ihnen das Erstellen eines
+medizinischen Tests zu zeigen,
+											zeige ich Ihnen einen
+Diagnosetest für Autobilder,
+											denn das verstehen wir alle.
+									",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+","
+","
+","
+",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+											So here we're starting with 
+about 1.5 million car images,
+											and I want to create something
+that can split them into the angle
+											of the photo that's being taken.
+											So these images are entirely unlabeled,
+so I have to start from scratch.
+											With our deep learning algorithm,
+											it can automatically identify
+areas of structure in these images.
+											So the nice thing is that the human
+and the computer can now work together.
+											So the human, as you can see here,
+											is telling the computer
+about areas of interest
+											which it wants the computer then
+to try and use to improve its algorithm.
+											Now, these deep learning systems actually
+are in 16,000-dimensional space,
+											so you can see here the computer
+rotating this through that space,
+											trying to find new areas of structure.
+											And when it does so successfully,
+											the human who is driving it can then
+point out the areas that are interesting.
+											So here, the computer has
+successfully found areas,
+											for example, angles.
+											So as we go through this process,
+											we're gradually telling
+the computer more and more
+											about the kinds of structures
+we're looking for.
+											You can imagine in a diagnostic test
+											this would be a pathologist identifying
+areas of pathosis, for example,
+											or a radiologist indicating
+potentially troublesome nodules.
+											And sometimes it can be
+difficult for the algorithm.
+											In this case, it got kind of confused.
+											The fronts and the backs
+of the cars are all mixed up.
+											So here we have to be a bit more careful,
+											manually selecting these fronts
+as opposed to the backs,
+											then telling the computer
+that this is a type of group
+											that we're interested in.
+									","
+											Começamos com cerca de 1,5 milhões
+de imagens de carros.
+											Quero criar algo que consiga dividi-las
+											segundo o ângulo em que a foto foi tirada.
+											Estas imagens não estão catalogadas,
+tenho de começar do zero.
+											Com o nosso algoritmo,
+											podem identificar-se automaticamente
+áreas de estruturas nestas imagens.
+											O interessante é o homem e o computador
+poderem agora trabalhar em conjunto.
+											O humano, como podem ver aqui,
+											está a dizer ao computador
+quais as áreas de interesse
+											que quer que o computador use
+para melhorar o seu algoritmo.
+											Estes sistemas de aprendizagem profunda
+estão em espaços de dimensão 16 000.
+											Podem ver aqui o computador a rodar
+isto através desse espaço,
+											tentando encontrar novas
+áreas de estrutura.
+											Quando consegue fazê-lo com sucesso,
+											o humano que está a comandá-lo
+pode indicar áreas de interesse.
+											Aqui o computador encontrou
+áreas, com sucesso.
+											Ângulos, por exemplo.
+											Ao longo deste processo,
+											vamos dizendo mais coisas ao computador
+											sobre o tipo de estruturas que procuramos.
+											Podem imaginar que, num diagnóstico,
+isto seria o patologista a identificar
+											áreas patológicas, por exemplo.
+											Ou o radiologista a indicar nódulos
+potencialmente problemáticos.
+											Por vezes pode ser difícil,
+para o algoritmo.
+											Neste caso, ficou algo confuso.
+											As frentes e as traseiras dos carros
+estão todas misturadas.
+											Aqui temos que ser um
+pouco mais cuidadosos,
+											selecionado manualmente estas frentes
+por oposição às traseiras,
+											dizendo depois ao computador
+que isto é o tipo de grupo
+											em que estamos interessados.
+									","
+											Nous commençons avec environ
+1,5 million d'images de voitures,
+											et ce que je veux, c'est les organiser
+selon l'angle selon lequel
+											la photo a été prise.
+											Ces images ne sont pas cataloguées :
+je dois partir de zéro.
+											Notre algorithme
+d'apprentissage profond
+											permet d'identifier les structures
+dans ces images.
+											L'être humain et l'ordinateur peuvent
+maintenant travailler ensemble.
+											L'être humain, comme vous le voyez ici,
+											indique à la machine
+les zones d'intérêt,
+											celles à lesquelles il veut qu'elle 
+s'intéresse pour améliorer son algorithme.
+											Les systèmes d'apprentissage profond sont
+des espaces à 16 000 dimensions [sic],
+											et vous pouvez voir ici l'ordinateur qui
+pivote au sein de cet espace,
+											pour trouver de nouvelles structures.
+											Quand il y arrive,
+											l'être humain peut ensuite lui signaler
+les zones intéressantes.
+											Ici, l'ordinateur a pu trouver
+une zone avec,
+											par exemple, des angles.
+											Au fur et à mesure,
+											nous en disons de plus en plus
+à l'ordinateur
+											sur le type de structures
+que l'on recherche.
+											Imaginez un diagnostic médical,
+											par exemple un pathologiste identifiant
+des zones malades,
+											ou un radiologue montrant
+des nodules potentiellement inquiétants.
+											Parfois, cela devient difficile
+pour l'algorithme.
+											Ici, il s'est un peu emmêlé les pinceaux.
+											L'avant et l'arrière des voitures
+sont mêlés.
+											Nous devons faire
+un peu plus attention,
+											et dissocier manuellement les avants
+des arrières,
+											puis dire à l'ordinateur que
+cette classification nous importe.
+									","
+											Hier fangen wir mit ungefähr 
+1,5 Mio. Autobildern an,
+											und ich möchte etwas bauen,
+das sie nach dem Winkel sortiert,
+											in dem das Foto gemacht wurde.
+											Diese Bilder sind jetzt noch 
+nicht benannt, ich fange bei Null an.
+											Unser Deep-Learning-Algorithmus
+											erkennt automatisch
+Strukturflächen auf den Bildern.
+											Das Schöne ist, dass Mensch und Computer
+jetzt zusammenarbeiten können.
+											Wie Sie hier sehen,
+											gibt der Mensch dem Computer 
+Zielbereiche vor,
+											womit der Computer dann versuchen soll,
+seinem Algorithmus zu verbessern.
+											Eigentlich sind diese Deep-Learning-
+Systeme im 16 000-dimensionalen Raum,
+											hier können Sie den Computer
+das durch den Raum
+											auf der Suche nach neuen 
+Strukturflächen rotieren sehen.
+											Wenn er dabei Erfolg hat,
+											kann der menschliche Betreiber 
+dann die interessanten Bereiche festlegen.
+											Hier hat der Computer Bereiche gefunden,
+											zum Beispiel Winkel.
+											Im Verlauf des Prozesses
+											sagen wir dem Computer immer mehr
+											über die gesuchten Strukturen.
+											Bei einem Diagnose-Test zum Beispiel
+											würde das dem Pathologen helfen,
+kranke Bereiche zu identifizieren,
+											oder dem Radiologen bei 
+potentiell gefährlichen Knoten.
+											Manchmal wird es 
+schwer für den Algorithmus.
+											In diesem Fall war er etwas verwirrt.
+											Die Vorder- und Rückseiten 
+der Autos sind vermischt.
+											Wir müssen hier also sorgfältiger sein,
+											und die Vorderseiten manuell 
+von den Rückseiten trennen,
+											um dann dem Computer zu sagen, 
+dass das Teil einer Gruppe ist,
+											die uns interessiert.
+									",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+","
+","
+","
+",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+											So we do that for a while,
+we skip over a little bit,
+											and then we train the
+machine learning algorithm
+											based on these couple of hundred things,
+											and we hope that it's gotten a lot better.
+											You can see, it's now started to fade
+some of these pictures out,
+											showing us that it already is recognizing
+how to understand some of these itself.
+											We can then use this concept
+of similar images,
+											and using similar images, you can now see,
+											the computer at this point is able to
+entirely find just the fronts of cars.
+											So at this point, the human
+can tell the computer,
+											okay, yes, you've done
+a good job of that.
+									","
+											Fazemos isto durante algum tempo,
+avançamos um pouco,
+											e depois treinamos o algoritmo
+de aprendizagem automática,
+											baseados nestas centenas de coisas,
+											e esperamos que fique bastante melhor.
+											Podem ver que algumas imagens
+estão a começar a desvanecer,
+											mostrando-nos que já está a descobrir
+como perceber algumas destas sozinho.
+											Podemos, então, usar o conceito
+de imagens semelhantes.
+											Usando imagens semelhantes,
+podemos ver que o computador
+											é capaz, neste ponto, de identificar
+apenas as frentes dos carros.
+											Neste ponto, o humano pode
+dizer ao computador:
+											""Fizeste aqui um bom trabalho!""
+									","
+											Nous continuons comme ça,
+et, un peu plus tard,
+											nous allons former l'algorithme
+											sur la base de ces classifications,
+											et espérer qu'il s'est amélioré.
+											Comme vous le voyez, il a commencé à
+estomper certaines photos,
+											montrant qu'il sait déjà comment
+comprendre certaines d'entre elles.
+											Nous pouvons ensuite utiliser ce
+concept d'images similaires,
+											et, voir que, en s'en servant,
+											l'ordinateur est désormais capable de
+trouver seulement les avants de voiture.
+											A ce stade, l'être humain
+peut dire à l'ordinateur :
+											«Ok, tu t'en es bien sorti. »
+											Bien sûr, parfois, même à ce stade,
+									","
+											Das machen wir für eine Weile,
+wir springen ein wenig weiter,
+											und dann trainieren wir den Algorithmus,
+											basierend auf diesen paar hundert Sachen,
+											und hoffen, dass er besser geworden ist.
+											Wie Sie sehen, lässt er 
+einige dieser Bilder jetzt verblassen
+											und zeigt uns, dass er schon jetzt 
+ein wenig selbst erkennt.
+											Wir können das Konzept 
+der ähnlichen Bilder nutzen
+											und dabei sehen Sie,
+											dass der Computer jetzt in der Lage ist, 
+nur die Vorderseiten der Autos zu finden.
+											Also kann der Mensch dem 
+Computer an diesem Punkt sagen,
+											okay, du hast gute Arbeit geleistet.
+									",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+","
+","
+","
+",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+											Sometimes, of course, even at this point
+											it's still difficult
+to separate out groups.
+											In this case, even after we let the
+computer try to rotate this for a while,
+											we still find that the left sides
+and the right sides pictures
+											are all mixed up together.
+											So we can again give
+the computer some hints,
+											and we say, okay, try and find
+a projection that separates out
+											the left sides and the right sides
+as much as possible
+											using this deep learning algorithm.
+											And giving it that hint —
+ah, okay, it's been successful.
+											It's managed to find a way
+of thinking about these objects
+											that's separated out these together.
+									","
+											Por vezes, claro, mesmo neste ponto,
+											ainda é difícil distinguir os grupos.
+											Neste caso, mesmo depois de deixarmos o
+computador rodar isto durante algum tempo,
+											ainda vemos que as imagens
+dos lados esquerdo e direito
+											estão todas misturadas.
+											Podemos dar, de novo, algumas
+pistas ao computador.
+											Dizemos: ""Tenta descobrir uma
+projeção que separe,
+											""o lado esquerdo do direito,
+o mais possível,
+											""usando este algoritmo
+de aprendizagem profunda.""
+											Dando-lhe esta pista, ele tem sucesso.
+											Conseguiu descobrir um modo
+de pensar neste objetos
+											que permitiu separá-los.
+									","
+											il est encore difficile
+de faire des groupes.
+											Ici, même après avoir laissé l'ordinateur
+pivoter pendant un moment,
+											les photos de voitures vues de droite
+et celles vues de gauche sont
+											encore toutes mêlées.
+											Nous lui donnons de nouveau
+des indications,
+											puis lui disons de chercher
+une projection qui fait le tri
+											entre les photos de droite et de gauche -
+											avec l'algorithme d'apprentissage profond.
+											Avec ces indications, nous avons réussi.
+											Il a trouvé une manière de considérer
+ces objets qui en permet le tri.
+									","
+											Natürlich ist es manchmal
+selbst hier schwer,
+											die einzelnen Gruppen zu unterscheiden.
+											Selbst nachdem der Computer 
+die Bilder eine Weile rotiert hat,
+											sind die rechten und linken Seiten 
+der Bilder immer noch
+											komplett durcheinander.
+											Wieder können wir dem
+Computer Hinweise geben
+											und sagen, okay, jetzt 
+versuch mal einen Weg,
+											der die rechte und linke Seite
+so gut wie möglich
+											mit dem Deep-Learning-Algorithmus trennt.
+											Und mit diesem Hinweis — 
+ah, okay, jetzt hat er Erfolg.
+											Er hat einen Weg gefunden, 
+diese Objekte so sehen,
+											der diese hier aussortiert hat.
+									",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+","
+","
+","
+",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+											So you get the idea here.
+											This is a case not where the human
+is being replaced by a computer,
+											but where they're working together.
+											What we're doing here is we're replacing
+something that used to take a team
+											of five or six people about seven years
+											and replacing it with something
+that takes 15 minutes
+											for one person acting alone.
+									","
+											Percebem a ideia.
+											Neste caso, o humano não está
+a ser substituído pelo computador.
+											Estão a trabalhar em conjunto.
+											O que estamos a fazer é substituir
+algo que exigia uma equipa
+											de cinco ou seis pessoas,
+durante sete anos,
+											por algo que demora 15 minutos,
+											com uma pessoa a trabalhar sozinha.
+									","
+											Vous avez saisi l'idée.
+											Nous ne somme pas ici dans une
+substitution de l'homme par la machine,
+											mais dans un travail conjoint.
+											Ce que nous faisons, c'est prendre
+quelque chose qui mobilisait une équipe
+											de cinq ou six personnes pendant sept ans
+											et y substituer quelque chose qui
+prend 15 minutes à une seule personne.
+									","
+											Sie haben jetzt einen Eindruck davon.
+											Das ist kein Fall, wo der Mensch 
+von einem Computer ersetzt wird,
+											sondern sie arbeiten zusammen.
+											Wir ersetzen hier etwas, wofür man 
+früher ein Team von fünf oder sechs Leuten
+											7 Jahre beschäftigt hat,
+											durch etwas, das 15 Minuten
+											für eine einzige Person braucht.
+									",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+","
+","
+","
+",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+											So this process takes about
+four or five iterations.
+											You can see we now have 62 percent
+											of our 1.5 million images 
+classified correctly.
+											And at this point, we
+can start to quite quickly
+											grab whole big sections,
+											check through them to make sure
+that there's no mistakes.
+											Where there are mistakes, we can
+let the computer know about them.
+											And using this kind of process
+for each of the different groups,
+											we are now up to
+an 80 percent success rate
+											in classifying the 1.5 million images.
+											And at this point, it's just a case
+											of finding the small number
+that aren't classified correctly,
+											and trying to understand why.
+											And using that approach,
+											by 15 minutes we get
+to 97 percent classification rates.
+									","
+											Este processo demora
+quatro ou cinco iterações.
+											Podem ver que temos agora 62%
+											dos nossos 1,5 milhões de imagens,
+classificadas corretamente.
+											Neste ponto, podemos começar rapidamente
+											a trabalhar grandes secções,
+											e a verificar se não há erros.
+											Se houver erros, podemos fazer
+com que o computador o saiba.
+											Usando este processo, para cada
+um dos diferentes grupos,
+											temos agora uma taxa
+de sucesso de 80%,
+											na classificação de 1,5 milhões
+de imagens.
+											Neste ponto, trata-se de descobrir
+											as poucas que não estão
+classificadas corretamente,
+											e tentar perceber porquê.
+											Utilizando esta abordagem
+											conseguimos uma taxa de classificação
+de 97% em 15 minutos.
+									","
+											Cette méthode nécessite quatre
+ou cinq itérations,
+											et nous avons maintenant 62%
+											de nos 1,5 million d'images
+classifiées correctement.
+											A ce stade, nous pouvons
+commencer à prendre
+											des parties entières,
+											et vérifier rapidement
+qu'il n'y a pas d'erreurs.
+											Quand il y a des erreurs, nous en
+informons l'ordinateur,
+											et, en utilisant cette méthode
+pour tous les groupes,
+											nous en arrivons à un
+taux de réussite de 80%
+											dans la classification de ces images.
+											A partir de là, il s'agit juste
+											de trouver le petit nombre d'images
+mal classées,
+											et à essayer de comprendre pourquoi.
+											Avec cette approche,
+											en 15 minutes, nous parvenons à un 
+taux de classification de 97%.
+									","
+											Dieser Vorgang braucht ungefähr 
+vier oder fünf Durchgänge.
+											Wie Sie sehen, sind wir nun bei 62 %
+											korrekt klassifizierten Bildern
+aus 1,5 Millionen.
+											An dieser Stelle können 
+wir anfangen, sehr schnell
+											große Bereiche zu erfassen,
+											und sie auf Fehler zu überprüfen.
+											Wenn es Fehler gibt, lassen wir 
+das den Computer wissen.
+											Indem wir diesen Vorgang auf jede
+der einzelnen Gruppen anwenden,
+											sind wir jetzt bei 
+einer 80%igen Erfolgsrate
+											beim Klassifizieren der 1,5 Mio. Bilder.
+											An diesem Punkt müssen wir nur noch
+											die kleine Zahl der 
+falsch klassifizierten Bilder finden
+											und versuchen, die Ursache zu verstehen.
+											Wenden wir das an,
+											sind wir nach 15 Minuten 
+bei einer Erfolgsquote von 97 %.
+									",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+","
+","
+","
+",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+											So this kind of technique
+could allow us to fix a major problem,
+											which is that there's a lack
+of medical expertise in the world.
+											The World Economic Forum says
+that there's between a 10x and a 20x
+											shortage of physicians
+in the developing world,
+											and it would take about 300 years
+											to train enough people
+to fix that problem.
+											So imagine if we can help
+enhance their efficiency
+											using these deep learning approaches?
+									","
+											Esta técnica pode permitir-nos
+resolver um grande problema
+											que é a falta de especialistas
+médicos no mundo.
+											O Fórum Económico Mundial refere
+que há 10 a 20 vezes menos médicos
+											do que o necessário,
+nos países em desenvolvimento.
+											E que serão necessários 300 anos
+											para formar as pessoas necessárias
+para resolver o problema.
+											Imaginem que podemos ajudar
+a melhorar a sua eficiência
+											usando esta abordagem
+de aprendizagem profunda.
+									","
+											Ce type de méthode pourrait nous
+permettre de régler un problème majeur :
+											le manque d'expertise médicale
+dans le monde.
+											Le Forum économique mondial estime
+qu'il faudrait 10 à 20 fois plus
+											de médecins dans les pays
+en voie de développement
+											et qu'il faudrait 300 ans
+											pour former suffisamment de personnes
+et régler ce problème.
+											Imaginez alors que nous puissions
+accroître leur productivité
+											avec ces méthodes d'apprentissage profond.
+									","
+											Also könnten wir mit dieser Technik 
+ein großes Problem beheben,
+											nämlich, das Fehlen medizinischen 
+Fachwissens in der Welt.
+											Laut Weltwirtschaftsforum gibt es 
+zwischen 10x und 20x
+											zu wenige Ärzte in Entwicklungsländern
+											und es würde etwa 300 Jahre dauern,
+											genug Leute auszubilden, 
+um das Problem zu beheben.
+											Können Sie sich vorstellen, 
+dass wir ihre Effizienz
+											mit diesen Deep-Learning-Ansätzen
+steigern können?
+									",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+","
+","
+","
+",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+											So I'm very excited
+about the opportunities.
+											I'm also concerned about the problems.
+											The problem here is that
+every area in blue on this map
+											is somewhere where services
+are over 80 percent of employment.
+											What are services?
+											These are services.
+											These are also the exact things that
+computers have just learned how to do.
+											So 80 percent of the world's employment
+in the developed world
+											is stuff that computers 
+have just learned how to do.
+											What does that mean?
+											Well, it'll be fine.
+They'll be replaced by other jobs.
+											For example, there will be
+more jobs for data scientists.
+											Well, not really.
+											It doesn't take data scientists 
+very long to build these things.
+											For example, these four algorithms
+were all built by the same guy.
+											So if you think, oh, 
+it's all happened before,
+											we've seen the results in the past
+of when new things come along
+											and they get replaced by new jobs,
+											what are these new jobs going to be?
+											It's very hard for us to estimate this,
+											because human performance
+grows at this gradual rate,
+											but we now have a system, deep learning,
+											that we know actually grows
+in capability exponentially.
+											And we're here.
+											So currently, we see the things around us
+											and we say, ""Oh, computers
+are still pretty dumb."" Right?
+											But in five years' time,
+computers will be off this chart.
+											So we need to be starting to think
+about this capability right now.
+									","
+											Estou muito entusiasmado
+com as oportunidades,
+											mas também estou preocupado
+em relação aos problemas.
+											O problema é que as áreas
+a azul, neste mapa,
+											são locais onde os serviços representam
+mais de 80% dos empregos.
+											O que são os serviços?
+											Isto são serviços.
+											São também as coisas que 
+os computadores aprenderam a fazer.
+											80% dos postos de trabalho,
+no mundo desenvolvido,
+											são coisas que os computadores
+aprenderam a fazer.
+											O que significa isto?
+											Não há problema. Serão substituídos
+por outros empregos.
+											Por exemplo, haverá mais empregos
+para especialistas em dados.
+											Bem, não exatamente.
+											Os especialistas não demoram muito
+tempo a construir estas coisas.
+											Estes quatro algoritmos foram
+desenvolvidos pela mesma pessoa.
+											Se pensarmos bem, isto já aconteceu antes.
+											Já vimos, no passado, o resultado
+de surgirem coisas novas
+											que são substituídas por novos empregos.
+											O que serão estes novos empregos?
+											É muito difícil fazermos previsões,
+											porque o desempenho humano
+cresce a um ritmo gradual,
+											mas temos agora um sistema
+de aprendizagem profunda,
+											cuja capacidade cresce exponencialmente.
+											Estamos neste ponto.
+											Atualmente, vemos as coisas
+à nossa volta e pensamos:
+											""Os computadores ainda são muito burros.""
+											Mas em cinco anos os computadores
+estarão fora deste gráfico.
+											Temos que começar já
+a pensar nesta capacidade.
+									","
+											Les opportunités m'enchantent.
+											Mais les dangers m’inquiètent.
+											Le problème, c'est que dans tous les pays
+en bleu sur la carte,
+											le secteur tertiaire représente
+plus de 80% de l'emploi.
+											C'est quoi le secteur tertiaire ?
+											C'est ça.
+											Ce sont exactement ces choses que les
+ordinateurs viennent d'apprendre à faire.
+											80% des emplois dans les pays développés
+											consiste en ce qu'une machine
+sait désormais faire.
+											Qu'est-ce que cela veut dire ?
+											Tout ira bien.
+D'autres emplois les remplaceront,
+											par exemple, dans l'analyse de données.
+											Pas vraiment.
+											Ce n'est pas long pour un analyste de
+données de construire ça.
+											Par exemple, ces quatre algorithmes
+sont tous de la même personne.
+											Vous pensez peut-être
+que c'est du déjà-vu,
+											que nous connaissons les conséquences
+de l'arrivée de nouvelles choses,
+											de nouveaux emplois qui
+remplacent les anciens.
+											Que seront ces nouveaux emplois ?
+											C'est très dur à estimer :
+											l'amélioration des performances
+humaines est graduelle,
+											tandis que ce système,
+l'apprentissage profond,
+											s'améliore de façon exponentielle.
+											Et nous en sommes là.
+											En regardant autour de nous,
+nous pensons :
+											« Les machines sont
+toujours idiotes ». Pas vrai ?
+											Mais d'ici cinq ans, elles seront
+bien plus haut dans la courbe.
+											Nous devons commencer à penser
+dès maintenant à ces capacités futures.
+									","
+											Ich bin ganz begeistert
+von den Möglichkeiten.
+											Ich mache mir auch 
+Sorgen über die Probleme.
+											Das Problem hierbei ist, 
+in jedem blauen Bereich auf der Karte
+											machen Dienstleistungen 
+über 80 % der Beschäftigung aus.
+											Was sind Dienstleistungen?
+											Das sind Dienstleistungen.
+											Das sind außerdem genau die Dinge, 
+die Computer gerade gelernt haben.
+											Also sind 80 % der Beschäftigung 
+der entwickelten Welt Dinge,
+											die Computer gerade gelernt haben.
+											Was bedeutet das?
+											Naja, es wird alles gut. 
+Andere Jobs ersetzen diese.
+											Zum Beispiel wird es 
+mehr Jobs für Informatiker geben.
+											Nun, nicht ganz.
+											Informatiker brauchen nicht lange, 
+diese Dinge zu bauen.
+											Zum Beispiel wurden diese 4 
+Algorithmen vom selben Typen gebaut.
+											Wenn Sie also denken, oh,
+das ist alles nicht neu,
+											wir haben in der Vergangenheit gesehen, 
+wenn etwas Neues kommt,
+											werden sie durch neue Jobs ersetzt,
+											was also sind diese neuen Jobs?
+											Das ist sehr schwer einzuschätzen,
+											weil menschliche Leistung 
+schrittweise wächst,
+											aber wir haben jetzt ein System, 
+Deep Learning,
+											das seine Leistung 
+nachweislich exponentiell steigert.
+											Und da sind wir.
+											Zurzeit sehen wir die Dinge um uns herum
+											und sagen ""Computer sind
+immer noch ziemlich dumm."" Oder?
+											Aber in fünf Jahren werden Computer
+nicht mehr Teil dieser Tabelle sein.
+											Wir müssen also schon jetzt anfangen, 
+über diese Leistung nachzudenken.
+									",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+","
+","
+","
+",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+											We have seen this once before, of course.
+											In the Industrial Revolution,
+											we saw a step change
+in capability thanks to engines.
+											The thing is, though,
+that after a while, things flattened out.
+											There was social disruption,
+											but once engines were used 
+to generate power in all the situations,
+											things really settled down.
+											The Machine Learning Revolution
+											is going to be very different
+from the Industrial Revolution,
+											because the Machine Learning Revolution,
+it never settles down.
+											The better computers get
+at intellectual activities,
+											the more they can build better computers
+to be better at intellectual capabilities,
+											so this is going to be a kind of change
+											that the world has actually
+never experienced before,
+											so your previous understanding
+of what's possible is different.
+									","
+											É claro que já vimos isto.
+											Na Revolução Industrial,
+											vimos uma grande avanço na capacidade,
+graças às máquinas.
+											A questão é que, passado algum tempo,
+as coisas estabilizaram.
+											Houve ruturas sociais.
+											Mas quando as máquinas foram usadas
+para gerar poder em todas as situações,
+											as coisas acalmaram.
+											A Revolução da Aprendizagem Automática
+será muito diferente
+											
+da Revolução Industrial,
+											porque a Revolução da Aprendizagem
+Automática nunca estabilizará.
+											Quanto melhores forem os computadores
+em atividades intelectuais,
+											melhores computadores se construirão,
+com mais capacidades intelectuais.
+											Isto será um tipo de mudança
+											que o mundo nunca presenciou antes.
+											A nossa perceção do que é
+possível é diferente.
+									","
+											Ce n'est pas la première fois, bien sûr.
+											Les machines de la Révolution Industrielle
+augmentèrent nos capacités.
+											Mais, au bout d'un moment,
+les choses se calmèrent.
+											Il y eut des troubles sociaux, mais
+											une fois les machines utilisées 
+pour la plupart des cas utiles,
+											les choses s'apaisèrent.
+											La Révolution des Machines Apprenantes
+											sera très différente
+de la Révolution Industrielle,
+											parce que dans son cas, les choses
+ne se calmeront pas.
+											Plus les ordinateurs progressent
+dans les activités cérébrales,
+											plus ils peuvent créer de meilleurs
+ordinateurs, et progresser encore.
+											Nous sommes devant un type d'évolution
+											que le monde n'a jamais
+expérimentée auparavant :
+											notre compréhension antérieure
+des possibles n'est pas adaptée.
+									","
+											Wir haben das natürlich schon mal gesehen.
+											Die Industrielle Revolution
+											bewirkte einen Evolutionssprung
+der Leistung durch Motoren.
+											Aber nach einer Weile 
+beruhigten sich die Dinge.
+											Es gab soziale Umbrüche,
+											aber sobald die Motoren damals
+zur Energiegewinnung genutzt wurden,
+											beruhigten sich die Dinge.
+											Die Revolution des Maschinellen Lernens
+											wird ganz anders 
+als die Industrielle Revolution,
+											weil die Revolution nie zu Ende ist.
+											Je besser Computer 
+bei intellektuellen Aktivitäten werden,
+											desto bessere Computer können sie bauen,
+											die intellektuell noch 
+leistungsfähiger sind,
+											also wird das eine Art Wandel,
+											den die Welt nie zuvor gesehen hat,
+											sodass sich Ihr Verständnis 
+des Möglichen ändert.
+									",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+","
+","
+","
+",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+											This is already impacting us.
+											In the last 25 years,
+as capital productivity has increased,
+											labor productivity has been flat,
+in fact even a little bit down.
+									","
+											Isto já está a afetar-nos.
+											Nos últimos 25 anos, à medida que a
+produtividade do capital aumentou,
+											a produtividade laboral manteve-se,
+na verdade até desceu um pouco.
+									","
+											Nous en subissons déjà les impacts.
+											Ces 25 dernières années, alors que
+la productivité du capital augmentait,
+											la productivité du travail restait stable,
+était même légèrement en baisse.
+									","
+											Das beeinflusst uns schon jetzt.
+											In den letzten 25 Jahren ist
+die Produktivität des Kapitals gestiegen,
+											aber die Produktivität der Arbeit 
+blieb gleich und sank sogar ein bisschen.
+									",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+","
+","
+","
+",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+											So I want us to start
+having this discussion now.
+											I know that when I often tell people
+about this situation,
+											people can be quite dismissive.
+											Well, computers can't really think,
+											they don't emote,
+they don't understand poetry,
+											we don't really understand how they work.
+											So what?
+											Computers right now can do the things
+											that humans spend most
+of their time being paid to do,
+											so now's the time to start thinking
+											about how we're going to adjust our
+social structures and economic structures
+											to be aware of this new reality.
+											Thank you.
+											(Applause)
+									","
+											Quero que tenhamos esta discussão agora.
+											Sei que, quando falo disto às pessoas,
+											elas mostram algum desdém.
+											""Os computadores não conseguem pensar.""
+											""Eles não se emocionam,
+nem percebem poesia.""
+											""Não percebemos, na verdade,
+como funcionam.""
+											E depois?
+											Os computadores conseguem
+fazer as coisas
+											que os humanos são pagos para fazer,
+na maior parte do seu tempo.
+											Este é o tempo para começar a pensar
+											como vamos ajustar as nossas
+estruturas sociais e económicas
+											para fazer face a esta nova realidade.
+											Obrigado.
+											(Aplausos)
+									","
+											Je voudrais lancer
+ce débat dès maintenant.
+											Je sais d'expérience que lorsque
+je parle de ça aux gens,
+											ils peuvent être sceptiques.
+											Les machines ne peuvent pas penser,
+											elles n'ont pas d'émotions,
+ne comprennent pas la poésie.
+											Nous ne comprenons pas
+comment elles fonctionnent.
+											Et alors ?
+											Elles peuvent dès maintenant faire
+ce pour quoi les hommes sont payés.
+											C'est le moment de commencer
+											à réfléchir à la façon d'ajuster nos
+structures sociales et économiques,
+											d'être au fait de cette nouvelle réalité.
+											Merci.
+											(Applaudissements)
+									","
+											Deswegen will ich, dass wir
+diese Diskussion jetzt führen.
+											Wenn ich Leuten 
+von dieser Situation erzähle,
+											sind sie oft sehr abschätzig.
+											Computer denken nicht wirklich,
+											sie fühlen nichts, 
+sie verstehen Lyrik nicht,
+											wir verstehen nicht wirklich, 
+wie sie funktionieren.
+											Ja, und?
+											Computer können jetzt Dinge tun,
+											für die Menschen ihre meiste Zeit 
+gegen Bezahlung aufwenden.
+											Wir sollten also jetzt überlegen,
+											wie wir unsere sozialen und 
+wirtschaftlichen Strukturen anpassen,
+											um diese neue Realität zu erkennen.
+											Danke.
+											(Applaus)
+									",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"
+"
+","
+","
+","
+",The wonderful and terrifying implications of computers that can learn,Jeremy Howard,19:45,"AI,algorithm,computers,health,intelligence,technology,machine learning"

@@ -1,0 +1,1420 @@
+es,tr,fr,de,title,speaker,duration,tags
+"
+","
+","
+","
+",The birth of the computer,George Dyson,17:18,"computers,engineering,history,library,military,science,software,technology"
+"
+											El año pasado les conté, en siete minutos, sobre el Proyecto Orion,
+											el cual era una tecnología improbable
+											que técnicamente pudo haber funcionado,
+											pero tuvo una oportunidad política de un año en que podía realizarse,
+											así que no sucedió. Fue un sueño que no se realizó.
+											Este año les contaré la historia del nacimiento de la computación digital.
+											Esta fue una introducción perfecta.
+											Y es una historia que sí se funcionó. Sucedió,
+											y las máquinas están en todas partes.
+											Y era una tecnología inevitable.
+											Si la gente sobre la que voy a hablarles —
+											si no lo hubieran hecho, alguien más lo habría hecho.
+											Fue algo así como la idea correcta en el momento justo.
+											Este es el universo de Barricelli. El universo en que vivimos ahora.
+											Es el universo en que estas máquinas
+											hacen ahora todo esto, incluyendo cambiar la biología.
+											Comenzaré la historia con la primera bomba atómica en Trinity,
+											que fue el Proyecto Manhattan. Era un poco como TED:
+											reunió un grupo grande de gente muy inteligente.
+											Y tres de las personas más inteligentes eran
+											Stan Ulam, Richard Feynman y John von Neumann,
+											y fue von Neumann quien dijo, luego de la bomba,
+											que estaba trabajando en algo más importante que las bombas:
+											estaba pensando en computadoras.
+											No sólo estaba pensando en ellas; contruyó una. Ésta es la máquina que hizo.
+											(risas)
+											Construyó esta máquina,
+											e hizo una hermosa demostración de cómo funcionaba realmente,
+											con estas partes. Y es una idea que se origina mucho antes.
+											La primera persona que realmente lo explicó
+											fue Thomas Hobbes, quien en 1651,
+											explicó cómo la aritmética y la lógica eran lo mismo,
+											y que si quieres pensamiento artificial y lógica artificial,
+											lo puedes hacer con aritmética.
+											Dijo que se necesitaba adición y sustracción.
+											Leibniz, quien llegó un poco más tarde — en 1679 —
+											demostró que ni siquiera se necesitaba la sustracción.
+											Se podía hacer todo con la adición.
+											Aquí tenemos toda la lógica y aritmética binaria
+											que condujo a la revolución de la computación,
+											y Leibniz fue la primera persona que habló de construir tal máquina.
+											Habló de hacerlo con canicas,
+											con compuertas y lo que ahora llamamos registros de cambios,
+											donde cambiando las compuertas, las canicas caen en las pistas.
+											Y eso es lo que estas máquinas hacen,
+											excepto que en lugar de usar canicas,
+											usan electrones.
+											Y entonces pasamos a von Neumann, 1945,
+											cuando él de alguna manera reinventa todo esto de nuevo.
+											Y en 1945, después de la guerra, ya existía la electrónica
+											para, de hecho, tratar de construir una máquina así.
+											Junio de 1945. La bomba no había sido lanzada aún,
+											y von Neumann estaba organizando la teoría para construir esto,
+											lo cual nos remite a Turing,
+											quien, anteriormente, tuvo la idea de que se podía hacer esto
+											con una máquina de estados finitos sin un cerebro,
+											sólo leyendo y releyendo una cinta.
+											El otro cuasi génesis de lo que von Neumannn hizo
+											fue la dificultad para predecir el clima.
+											Lewis Richardson vio que se podía hacer con una matriz celular de personas,
+											dándole a cada una una porción, y luego reuniéndolo todo.
+											Aquí tenemos un modelo eléctrico que ilustra una mente con voluntad,
+											pero capaz sólo de dos ideas.
+											(risas).
+											Y esa es realmente la computadora más simple.
+											Es básicamente por qué se necesita el qubit,
+											porque sólo tiene dos ideas.
+											Y si se ponen muchas de ellas juntas,
+											se tiene la esencia de la computadora moderna.
+											la unidad aritmética, el control central, la memoria,
+											el medio de registro, la entrada y la salida.
+											Pero, hay un problema. Esto es el — ya saben,
+											lo vimos al iniciar estos programas.
+											Las instrucciones que gobiernan esta operación
+											deben darse en detalle absolutamente exhaustivo.
+											Así que la programación debe ser perfecta, o no funciona.
+											Si buscan el origen de esto,
+											la historia clásica nos remite hasta el ENIAC.
+											Pero en realidad de la máquina que les hablaré,
+											la Máquina del Instituto para Grandes Estudios, que está allá,
+											en realidad debería estar allí. Estoy tratando de revisar la historia,
+											y darle a esta gente más crédito del que tienen.
+											Una computadora así abriría universos
+											que en el presente están fuera del rango de todo instrumento,
+											abre un nuevo mundo, y estas personas lo vieron.
+											El sujeto que debía haber construido esta máquina
+											era el del medio, Vladimir Zworykin, de RCA.
+											RCA, con probablemente la peor decisión de negocios
+											de la historia, decidió no dedicarse a las computadoras.
+											Pero las primeras reuniones, Noviembre de 1945, fueron en oficinas de RCA.
+											RCA lo comenzó todo y luego dijo,
+											los televisores son el futuro, no las computadoras.
+											Lo esencial estaba todo allí —
+											todas las cosas que hacen funcionar estas máquinas.
+											Von Neumann, y un lógico, y un matemático del ejército
+											lo reunieron. Entonces, necesitaban un lugar donde construirlo.
+											Cuando RCA dijo que no, decidieron hacerlo en Princeton,
+											donde Freeman trabajaba en el Instituto.
+											Allí pasé mi infancia.
+											Ese soy yo, mi hermana Esther, quien habló antes,
+											así que recordamos el nacimiento de esta cosa.
+											Ese es Freeman, hace mucho,
+											y ese era yo.
+											Y este es von Neumann y Morgenstern,
+											quien escribió la Teoría de Juegos.
+											Estas fuerzas se reunieron allí, en Princeton.
+											Oppenheimer, quien construyó la bomba.
+											La máquina fue en realidad usada mayormente para los cálculos de la bomba.
+											Y Julian Bigelow, quien tomó
+											el lugar de [??] como el ingeniero para resolver, usando electrónica,
+											cómo construir esto. Toda el grupo de personas que trabajaron en esto,
+											las mujeres delante, quienes hicieron la mayoría del código,fueron las primeras programadoras.
+											Estos fueron los prototipos de geeks, los nerds.
+											No encajaban en el Instituto.
+											Esta es una carta del director, preocupado por —
+											""desaprobable en cuanto al azúcar.""
+											(Risas).
+											Pueden leer el texto.
+											(Risas).
+											Hackers metiéndose en problemas por primera vez.
+											(Risas).
+											No eran físicos teóricos.
+											Eran hombres con pistolas de soldadura, y realmente construyeron esto.
+											Y lo damos por sentado ahora que cada una de estas máquinas
+											tiene millones de transistores, haciendo miles de millones de ciclos por segundo.
+											Usaban tubos de vacío, técnicas muy poco rigurosas
+											para conseguir comportamiento binario de estas válvulas de radio.
+											De hecho usarban 6J6, la válvula común de radio,
+											porque descubrieron que eran más confiables que las válvulas más caras.
+											Y lo que hicieron en el Instituto fue publicar cada paso del camino.
+											Se emitieron reportes, de modo que esta máquina fue clonada
+											en otros 15 lugares del mundo.
+											Y fue el microprocesador original.
+											Todas las computadoras de ahora son copias de esa máquina.
+											La memoria estaba en tubos de rayos catódicos —
+											un montón de puntos en el frente del tubo,
+											muy, muy sensible a perturbaciones electromagnéticas.
+											Había 40 de estos tubos,
+											como un motor V-40 haciendo de memoria.
+											(Risas).
+											La entrada y la salida se hacían por teletipo al principio.
+											Este es una unidad de alambre, usando ruedas de bicicleta.
+											Este es el arquetipo del disco rígidos de sus máquinas de hoy.
+											Luego cambiaron a un tambor magnético.
+											Este es un equipo IBM modificado,
+											que originó toda la industria de proceso de datos, luego en IBM.
+											Y este es el inicio de los gráficos por computadora.
+											El ""Graph'g-Beam Turn On."" La siguiente imagen,
+											es — que yo sepa — la primera pantalla de mapa de bits digital, 1954.
+											Y Von Neumann vivía en una nube teórica
+											haciendo estudios abstractos sobre cómo construír
+											máquinas confiables con componentes no confiables.
+											Estos sujetos bebiendo té con azúcar
+											escribían en sus bitácoras tratando de hacer funcionar esto, con
+											estos 2.600 tubos de vacío que fallaban la mitad del tiempo.
+											Y esto es lo que hice estos seis meses, releer las bitácoras.
+											""Tiempo de funcionamiento: dos minutos. Entrada-salida: 90 minutos.""
+											Esto incluye una gran cantidad de error humano.
+											Trataban siempre de descifrar, ¿cuál es error de la máquina? ¿cuál humano?
+											¿Cuál de código, cuál de hardware?
+											Ese es un ingeniero vigilando el tubo número 36,
+											tratando de saber por qué la memoria no está en foco.
+											Tenía que enfocar la memoria — parecía bien.
+											Así que tenía que enfocar cada tubo para que la memoria funcionase.
+											además de tener, se figurarán, problemas de software.
+											""No hay caso. Fui a casa."" (Risas)
+											""Imposible seguir la maldita cosa, ¿dónde hay un directorio?""
+											Ya entonces se quejaban de los manuales:
+											""antes de cerrarlo con disgusto.""
+											La aritmética general — los registros de operación,
+											trasnochando mucho.
+											MANIAC, que se convirtió en el acrónimo de la máquina,
+											Integrador y Calculador Matemático y Numérico, ""perdió la memoria.""
+											""MANIAC recuperó la memoria cuando se apagó la corriente,"" ""¿máquina o humano?""
+											""¡Ajá!"" Lo descubrieron: es un problema de código:
+											""Encontré problema en código, espero.""
+											""Error de código, máquina no culpable.""
+											""Maldición, puedo ser tan terco como esta cosa.""
+											(Risas).
+											""Y se hizo de día."" Entonces trabajaban toda la noche.
+											Esta cosa funcionaba 24 horas al día, mayormente en cálculos de bombas.
+											""Todo hasta este punto es tiempo perdido."" ""¿Qué caso tiene? Buenas noches.""
+											""Control maestro apagado. Al demonio. Me voy."" (Risas)
+											""Algo pasa con el acondicionador de aire —
+											olor a correas quemadas en el aire.""
+											""Un corto — no encender la máquina.""
+											""Máquina de IBM volcando substancia como brea en los autos. Viene del techo.""
+											Trabajaban en condiciones muy duras.
+											(Risas).
+											Aquí. ""Un ratón se subió al ventilador
+											detrás del regulador, ventilador vibrando. Resultado: no más ratón.""
+											(Risas).
+											""Aquí yace ratón. Nacido ? Muerto 4:50 AM, Mayo 1953.""
+											(Risas).
+											Hay un chiste que alguien escribiò:
+											""Aquí yace el ratón Marston.""
+											Si eres matemático, lo entenderán,
+											porque Marston era un matemático que
+											objetaba la presencia de la computadora.
+											""Atrapé una luciérnaga del tambor, corriendo a dos kilociclos.""
+											Son dos mil ciclos por segundo —
+											""sí, soy gallina"" — entonces dos kilociclos era velocidad lenta.
+											La velocidad alta era 16 kilociclos.
+											No sé si recuerdan una Mac que corriera a 16 Megahertz.
+											Eso es lento.
+											""He duplicado ambos resultados.
+											""¿Cómo sabré cuál es correcto, asumiendo que uno es correcto?
+											Este es el tercer resultado diferente.
+											Sé cuando estoy maldito.""
+											(Risas).
+											""Hemos duplicado errores antes.""
+											""La máquina funciona, bien. El código no.""
+											""Sólo ocurre cuando la máquina está encendida.""
+											Y a veces las cosas marchan bien.
+											""Máquina una belleza, una alegría por siempre."" ""Ejecución perfecta.""
+											""Pensamiento final: cuando haya errores mejores y más grandes, los tendremos.""
+											Se suponía que nadie supiese que estaban diseñando bombas.
+											Están diseñando bombas de hidrógeno.Pero alguien en la bitácora,
+											tarde una noche, finalmente dibujó una bomba.
+											Y ese fue el resultado. Era Mike,
+											la primera bomba termonuclear, en 1952.
+											Que fue diseñada en esa máquina,
+											en los bosques detrás del instituto.
+											Von Neumann invitó a una banda de fenómenos
+											de todo el mundo para trabajar en estos problemas.
+											Barricelli, terminó haciendo lo que ahora llamamos vida artificial,
+											tratando de ver si, en este universo artificial —
+											él era un genetista-viral — muy, muy adelantado a su tiempo.
+											Aún está por delante de cosas que se hacen ahora.
+											Tratando de iniciar un sistema genético artificial en la computadora.
+											Su universo se inició el 3 de Marzo del '53.
+											Hace casi exactamente — serán 50 años este Jueves, creo.
+											Y ha visto todo en términos de —
+											Él podía leer el código binario directamente de la máquina.
+											Tenía un entendimiento maravilloso.
+											Otros no podían ni encender la máquina. Siempre funcionaba para él.
+											Incluso los errores se duplicaban.
+											(Risas).
+											""El Dr. Barricelli dice la máquina está equivocada, el código es correcto.""
+											Diseñó este universo, y lo ejecutó.
+											Cuando la gente de la bomba se fue, pudo quedarse allí.
+											Pudo ejecutar esto toda la noche, ejecutar estas cosas.
+											Si alguien recuerda a Stephen Wolfram,
+											quien reinventó todo esto.
+											Y lo publicó. No estaba oculto y perdido.
+											Fue publicado en la literatura.
+											""Si es tan fácil crear organismos vivos, ¿por qué no crear algunos tú mismo?""
+											Decidió intentarlo,
+											iniciar esta biología artificial en las máquinas.
+											Y descubrió estas, especie de —
+											Era como un naturalista que llega
+											y observa este diminuto universo de 5000 bytes
+											y ve estas cosas sucediendo
+											que podemos ver en el mundo exterior, en biología.
+											Estas son algunas generaciones de su universo.
+											Pero sólo seguirán siendo números;
+											no se convertirán en organismos.
+											Tienen que tener algo.
+											Si tienes un genotipo debes tener un fenotipo.
+											Deben salir y hacer algo. Y él empezó a hacer eso,
+											darles a estos organismos numéricos cosas con qué jugar,
+											jugar ajedrez con otras máquinas y cosas así.
+											Y comenzaron a evolucionar.
+											Y él recorrió el país después de eso.
+											Cada vez que había una máquina nueva, más rápida, él la usaba,
+											y vio exactamente lo que sucede ahora:
+											que los programas, en lugar de apagarse — cuando sales del programa,
+											siguen ejecutándose
+											y, básicamente, el tipo de cosas que Windows hace —
+											ejecutándose como un organismo multicelular en muchas máquinas —
+											previó que eso sucedería.
+											Y vio que la evolución misma era un proceso inteligente.
+											No era una especie de inteligencia creadora,
+											sino que era una computación paralela gigantesca
+											que tendría alguna inteligencia.
+											Y llegó a decir
+											que no decía que fuera un ser vivo,
+											o un nuevo tipo de vida;
+											era sólo otra versión de la misma cosa sucediendo.
+											Y realmente no hay diferencia entre lo que hacía en su computadora
+											y lo que la naturaleza hizo hace miles de millones de años.
+											¿Podrías hacerlo de nuevo ahora?
+											Entonces, cuando fui a los archivos buscando esto,
+											el archivista vino un día, diciendo,
+											""Creo que encontré otra caja que fue descartada.""
+											Y era su universo en tarjetas perforadas.
+											Y allí está, 50 años más tarde. Como en animación suspendida.
+											Esas son las instrucciones para ejecutarlo —
+											este es el código fuente
+											para uno de esos universos,
+											con una nota de los ingenieros
+											diciendo que tenían algunos problemas.
+											""Debe haber algo en este código que no has explicado aún.""
+											Y creo que esa es la verdad. Aún no entendemos
+											cómo estas instrucciones simples pueden llevar a una complejidad en aumento.
+											¿Cuál es la línea que divide
+											cuándo es similar a la vida y cuándo está realmente vivo?
+											Estas tarjetas, gracias a que aparecí, serán salvadas.
+											Y la pregunta es, ¿debemos ejecutarlas o no?
+											¿Podemos ejecutarlas?
+											¿Quisieran dejarlas libres en la Internet?
+											Estas máquinas podrían pensar —
+											estos organismos, si volvieran a la vida ahora,
+											que murieron y fueron al cielo, hay un universo —
+											mi laptop es 10 mil millones de veces
+											el tamaño del universo en el que vivieron cuando Barricelli dejó el proyecto.
+											Estab pensando muy hacia adelante, en
+											cómo esto realmente crecería en una nueva forma de vida.
+											¡Y eso está sucediendo!
+											Cuando Juan Enriquez nos contó de
+											estos 12 billones de bits transferidos ida y vuelta,
+											de estos datos genomicos en los estudios de proteínas,
+											eso es lo que Barricelli imaginó:
+											que este código digital en estas máquinas
+											está comenzando a escribir código —
+											ya está escribiendo a partir de ácidos nucleicos.
+											Lo hemos estado haciendo desde que comenzamos PCR
+											y sintetizamos pequeñas cadenas de ADN.
+											Y muy pronto estaremos sintetizando las proteínas,
+											y como Steve nos demostró, eso abre un mundo completamente nuevo.
+											Es un mundo que von Neumann mismo previó.
+											Esto fue publicado después de su muerte: sus notas inconclusas
+											sobre máquinas auto-replicantes.
+											Qué se necesita para hacer que las máquinas
+											comiencen a reproducirse.
+											Se necesitaron tres personas:
+											Barricelli tenía el concepto del código como algo viviente.
+											Von Neumann vio cómo construír las máquinas.
+											Que ahora, a última cuenta, cuatro millones
+											de estas máquinas de Von Neumann son construídas cada 24 horas.
+											Y Julian Bigelow, quien murió hace 10 días —
+											este es el obituario de John Markoff para él —
+											Él era el importante eslabón perdido,
+											el ingeniero que llegó
+											y sabía cómo poner juntos esos tubos de vacío y hacerlos trabajar.
+											Y todas nuestras computadoras tienen dentro
+											las copias de la arquitectura que él tuvo que diseñar
+											un día, como con lápiz y papel.
+											Y le debemos un crédito tremendo por eso.
+											Y explicó, de manera generosa,
+											el espíritu que trajo estas diferentes personas
+											al Instituto de Estudios Avanzados en los 40 para este proyecto,
+											y lo hizo disponible libremente, sin patentes, sin restricciones,
+											sin disputas de propiedad intelectual para el resto del mundo.
+											Esa el la última entrada en la bitácora
+											cuando la máquina fue apagada, Julio de 1958.
+											Y era Julian BIgelow quien la estuvo ejecutando hasta medianoche
+											cuando la máquina fue oficialmente apagada.
+											Y ese es el fin.
+											Muchas gracias.
+											(Aplausos)
+									","
+											Geçen yıl size 7 dakikada Orion Projesi'nden bahsetmiştim.
+											İnanması güç bir teknolojiydi.
+											Teknik olarak çalışabilirdi,
+											ama gerçekleşebileceği bir yıllık bürokratik bir süre vardı,
+											fakat hayata geçirilemedi. Gerçekleşemeyen bir hayal olarak kaldı.
+											Bu yıl size dijital hesaplamanın doğuşundan bahsedeceğim.
+											Harika bir buluştu.
+											Ve gerçekleşen bir hikaye,
+											dört bir yanımız makinalarla çevrili.
+											Kaçınılmaz bir teknolojiydi.
+											Şimdi size hikayesini anlatacağım insanlar yapmasaydı,
+											başka birileri mutlaka yapacaktı.
+											Bir bakıma, doğru zamanda doğru fikirdi.
+											Bu Barricelli'nin evreni. Yaşadığımız evren, bu evren.
+											Bu evrende bu makinalar bir sürü şey yapıyorlar,
+											biyolojiyi değiştirmek dahil.
+											Hikayeme Trinity'deki atom bombasıyla başlıyorum,
+											yani Manhattan Projesi'yle. Aslında bu biraz TED'e benziyordu,
+											birçok akıllı insanı bir araya getirmişti.
+											En akıllılarından üçü:
+											Stan Ulam, Richard Feynman ve John von Neumann'dı.
+											von Neumann bombadan sonra,
+											bombadan çok daha önemli şeyleri üzerine çalışıyordu:
+											bilgisayarları düşünüyordu.
+											Sadece düşünmüyordu, bir tane de yaptı. Yaptığı bilgisayar buydu.
+											(Gülüşmeler)
+											Bu makinayı yaptı
+											ve nasıl çalıştığı hakkında bir bilgimiz olmuş oldu:
+											bu küçük bitlerle (ikilik sayma sistemindeki sayılar). Bu aslında bir hayli eskiye dayanan bir fikir.
+											Bunu ilk açıklayan insan 1651'de Thomas Hobbes'tı.
+											Aritmetik ve mantığın aslında aynı şey olduğunu
+											ve eğer sanal düşünme ve sanal mantığı yaratmak istiyorsak,
+											bunu yapmak için sadece
+											aritmetiğin yeterli olduğunu açıkladı.
+											Toplama ve çıkarmaya ihtiyacınız vardı.
+											Biraz daha sonra yaşayan Leibniz 1679'da,
+											aslında çıkarmaya bile ihtiyacınız olmadığını gösterdi.
+											Tamamını toplamayla yapabilirdiniz.
+											Bilgisayar devrimi için gerekli olan
+											ikili sistem aritmetiğine ve mantığına sahiptik
+											ve böyle bir makinayı yapmaktan ilk bahseden Leibniz oldu.
+											Bunu bilyelerle, geçitlerle ve şimdi kaydırma kaydı dediğimiz,
+											geçitleri ve bilyeleri yollardan aşağıya kaydırmaya
+											yarayan elemanlarla yapmayı önerdi.
+											Bütün bu makinalar temelde böyle çalışıyor,
+											sadece bilyeler yerine bu işi
+											elektronlar yapıyor.
+											Bundan sonra von Neumann'a geçiyoruz,
+											1945'te bir bakıma aynı şeyi yeniden keşfediyor.
+											1945'te, savaştan sonra, elektronik bilimi
+											böyle bir makinayı gerçekten deneyip, yapacak kadar ilerlemişti.
+											Haziran 1945. Daha bomba fırlatılmamıştı
+											ve von Neumann teoriyi bir araya getirip bu makinayı yapıyordu.
+											Teori Turing'e kadar gidiyor.
+											Turing bu işleri bir şeridi okuyup, şeride yazabilen
+											beyinsiz, küçük bir sonlu durum makinası ile
+											yapma fikrini öne sürmüştü.
+											von Neumann'ın yarattığı başka bir şeyse,
+											hava tahmininin ne kadar zor olacağıydı.
+											Lewis Richardson, hücresel bir insan ağına problemin küçük bir parçasını
+											verip, sonra birleştirerek çözülebileceğini öngördü.
+											Burada bir karar verme mekanizmasının elektriksel modelini görüyoruz.
+											Tek sorunu var: sadece iki fikri olabiliyor.
+											(Gülüşmeler)
+											Bu gerçekten görebileceğiniz en basit bilgisayar.
+											Bu temelde qubit'e neden ihtiyaç duyduğumuzu gösteriyor,
+											çünkü sadece iki fikri olabiliyor.
+											Bunlardan birçoğunu bir araya getirdiğinizde,
+											modern bilgisayarın ana parçasını elde ediyorsunuz.
+											Aritmetik ünitesi, işlemci, hafıza,
+											kayıt ortamı, girdiler ve çıktılar.
+											Ama, kritik bir hata var.
+											Bunu programı başlatırken gördük.
+											Bu operasyonu kontrol eden talimatlar
+											çok ayrıntılı bir şekilde verilmeli.
+											Yani mükemmel programlanmış olmalı, yoksa çalışmaz.
+											Bunun özüne baktığınızda,
+											klasik tarih sizi burada gördüğünüz ENIAC'a götürecek.
+											Ama aslında şimdi size anlatacağım
+											Üstün Çalışma Makinası Enstitüsü, taa yukarıdaki,
+											aslında şurada aşağıda olmalıydı. Şimdi tarihi canlandırıp,
+											bu insanlara haklarını teslim etmek istiyorum.
+											Böyle bir makina bize yeni evrenler keşfetme imkanı verecekti,
+											bütün cihazların kapasitelerinin ötesinde olan evrenler.
+											Yepyeni bir dünyanın kapılarını açacaktı ve bu insanlar bunu gördüler.
+											Bu makinayı yapacak olan kişi, ortada gördüğünüz,
+											RCA'dan Vladimir Zworykin idi.
+											RCA herhalde şimdiye kadar verilmiş en aptalca kararlardan olan,
+											bilgisayar işine girmeme kararı verdi.
+											Ama ilk toplantılar Kasım 1945'te RCA'da yapıldı.
+											Bütün bunları RCA başlattı ve sonra geleceğin bilgisayarda değil,
+											televizyonda olduğuna karar verdi.
+											Makinanın çalışmasını sağlayacak
+											parçalar ortadaydı.
+											von Neumann, bir mantıkbilimcisi ve ordudan bir matematikçi,
+											bu parçaları bir araya getirdi. Sadece makinayı yapacak bir yere ihtiyaçları vardı.
+											RCA hayır deyince, Freeman'ın çalıştığı
+											Princeton'da yapmaya karar verdiler,
+											benim çocukluğumun geçtiği yerde.
+											Bu ben ve sizinle daha önce konuşan kardeşim Esther.
+											Gördüğünüz gibi ilk bilgisayarın doğuşunda oradaydık.
+											Bu da uzun zaman önce Freeman,
+											ve ben.
+											Bunlar von Neumann ve Morgenstern
+											Oyunların Kuramı'nın yazarı.
+											Bütün bu güçler Princeton'da bir araya geldi.
+											Bombayı yapan Oppenheimer'ı görüyorsunuz.
+											Bu makina bomba hesaplamalarını sıralamada kullanıldı.
+											Ve Julian Bigelow
+											elektronik bilimini kullanarak bu aletin nasıl yapılacağını
+											öneren mühendis. Bütün bu insanlar ve kodların
+											çoğunu yazan öndeki kadınlar, ilk programcılardı.
+											Bunlar geeklerin ve ineklerin prototipleri idi.
+											Enstitü'ye sığmadılar.
+											Bu oranın müdüründen bir mektup —
+											""şeker miktarının yetersiz olduğundan"" şikayetçi.
+											(Gülüşmeler)
+											Yazıları okuyabilirsiniz.
+											(Gülüşmeler)
+											Bu ise hackerların ilk defa başlarını belaya sokmaları oldu.
+											(Gülüşmeler)
+											Bunlar teorik fizikçiler değildi,
+											ellerine lehim aletini alıp bu şeyi birleştirdiler.
+											Bu insanlar sayesinde simdi içinde milyarlarca transistör olan,
+											saniyede milyarlarca işlem yapan bilgisayarlar hiç şaşırmadan çalışıyorlar.
+											İkili sonuçlar almak için,
+											çok ilkel vakum tüplerini kullanıyorlardı.
+											Pahalı olanlardan daha güvenilir olduğu için,
+											sık kullanılan bir radyo tüpü olan 6J6'yı kullandılar.
+											Enstitü'de attıkları her adımı yayınladılar.
+											Böylece bu makinadan dünyanın başka yerlerinde
+											15 tane daha yapıldı.
+											Böylece ilk mikroişlemci yapıldı.
+											Şimdi kullandığımız bütün bilgisayarlar bunun bir kopyası.
+											Bellek katot ışınlı tüpteydi (CRT) —
+											elektromanyetik tepkilere bir hayli duyarlı
+											birçok nokta olarak.
+											Bu tüplerin 40 tanesi
+											V-40 motoru gibi çalışıyordu.
+											(Gülüşmeler)
+											Başlangıçta girdi ve çıktı teletype aracılığıyla idi.
+											Bu bisiklet tekerleklerini kullananan bir kablo sürücüsüydü.
+											Bu şimdiki bilgisayarlarınızdaki sabit diskin atası.
+											Daha sonra manyetik zara geçtiler.
+											Bu IBM'in değiştirdiği ekipman,
+											ileride IBM'de bilgi-işleme endüstrisinin temeli.
+											Bu bilgisayar grafiklerinin başlangıcı oldu.
+											Bu slayt ""G-ışını grafiği başlangıcı"",
+											1954'te — bildiğim kadarıyla — ilk dijital bmp dosyası.
+											Evet, von Neumann güvenilmez parçalardan nasıl güvenilir
+											bir makina yapılabileceği konusunda
+											teorik araştırma yapıyordu.
+											Bu bilim insanları, bol şekerli çaylarını içip,
+											sürekli arıza çıkaran 2600 vakum tüpüyle bu şeyi
+											çalıştırmaya çalışıp, çabalarını kayıt ediyorlardı.
+											Ben de son altı aydır onların kayıtlarını inceliyorum.
+											""Çalışma zamanı: iki dakika. Girdi, çıktı: 90 dakika.""
+											Büyük miktarda insan hatası içeriyor.
+											Makina hatası nedir? İnsan hatası nedir? Bu sorulara cevap vermeye çalışıyorlardı.
+											Program nedir? Donanım nedir?
+											Bu 36 numaralı tübe bakıp,
+											belleğin neden odaklanmadığını anlamaya çalışan bir mühendis.
+											Belleği odaklamaya çalışıyordu — düzgün gözüküyor.
+											Belleğin çalışması için her bir tüpü odaklaması gerekiyordu.
+											Tabii bir de programlama hataları vardı.
+											""Çalışmadı, eve gittim."" (Gülüşmeler)
+											""Kahrolası şeyi çalıştırmak imkansız, dizin nerede?""
+											Yani daha o zamandan şikayet etmeye başlamışlardı.
+											""tiksinerek kapatmadan önce.""
+											Genel aritmetik — çalışma kayıtları,
+											sabahlara kadar çalışıyorlardı.
+											Matematik Ve Sayısal Birleştirici Ve Hesaplayıcı,
+											kısaca MANIAC (İngilizce'de manyak), ""belleğini kaybetti.""
+											""MANIAC güç gidince belleğini geri kazandı"", ""makina mı insan mı?""
+											""Aha!"" Sonunda buldular: kodlama hatası.
+											""Sorunu kodda bulduk, umarım.""
+											""Kod hatası, alet suçlu değil.""
+											""Kahretsin, bu makina kadar inatçı olabilirim.""
+											(Gülüşmeler)
+											""Ve gün ağardı."" Bütün gece çalıştılar.
+											Alet günde 24 saat çalışıyordu, büyük ölçüde bomba hesaplamaları yaparak.
+											""Şimdiye kadar yapılan her şey zaman kaybı."" ""Ne işe yarayacak sanki? İyi geceler.""
+											""Ana kontrol kapalı. Cehenneme kadar yolu var."" (Gülüşmeler)
+											""Havalandırmada bir sorun var —
+											havada yanan v-kemerinin kokusu var.""
+											""Kısa devre — makinayı açmayın.""
+											""IBM makinası kartların üstüne zift gibi bir şey döküyor. Zift tavandan geliyor.""
+											Gerçekten zor şartlar altında çalışıyorlardı.
+											(Gülüşmeler)
+											""Soğutucunun içine fare girdi,
+											soğutucuyu çalıştırdı. Sonuç: artık fare yok.""
+											(Gülüşmeler)
+											""Fare burada yatıyor. Doğum? Ölüm 4:50, Mayıs 1953.""
+											(Gülüşmeler)
+											Birisinin kaleme aldığı bir şaka:
+											""Fare Marston burada yatıyor.""
+											Matematikçiyseniz bunu anlarsınız.
+											Çünkü Marston orada duran bilgisayara
+											karşı çıkan bir matematikçi idi.
+											""Zardan bir ampul alındı, iki kilodevirde çalışıyor.""
+											Saniyede 2000 devire denk geliyor.
+											""evet, korkağım"" — yani iki kilodevir düşük hızdı.
+											Yüksek hız 16 kilodevirdi.
+											Bilmiyorum 16 megahertzde çalışan bir Mac hatırlar mısınız.
+											O düşük bir hız.
+											""İki sonucu da tekrarladım.
+											Hangisinin doğru olduğunu nereden bilebilirim, tabii birisinin doğru olduğunu varsayarsak?
+											Bu da üçüncü sonuç.
+											Ne zaman başımın belada olduğunu bilirim.""
+											(Gülüşmeler)
+											""Daha önce hatalı sonuçları tekrarlamıştık.""
+											""Makina çalışıyor, güzel. Kod değil.""
+											""Yalnız makina çalışırken olur.""
+											Bazen işlerin iyi gittiği de oluyordu.
+											""Makine muazzam bir şey."" ""Mükemmel çalışıyor.""
+											""Ayrılırken not: Daha büyük ve güzel hatalarımız da olacak.""
+											Aslında bombaları tasarladıklarını kimsenin bilmemesi gerekiyordu.
+											Hidrojen bombası tasarlıyorlardı. Ama bir gece, geç saatte
+											birisi sonunda bir bomba çizdi.
+											Sonuç buydu. Mike,
+											ilk termonükleer bomba.
+											1952'de enstitünün arkasındaki korulukta
+											tasarlandı.
+											von Neumann çeşitli işlerde çalışmak üzere,
+											dünyanın dört bir yanından insanlar davet etti.
+											Barricelli şimdi sanal yaşam dediğimiz
+											şey üzerinde çalışmak için geldi.
+											Zamanının çok çok ötesinde bir virüs genetikçisiydi.
+											3 Mart 1953'te başladı.
+											Bilgisayarda çalışan sanal genetik sistem yaratmaya çalıştı.
+											3 Mart 1953'te başladı.
+											Önümüzdeki Salı 50 yıl oluyor.
+											Bilgisayardan bitleri
+											direk olarak okuyabiliyordu.
+											Harika bir ilişkisi vardı onlarla.
+											Diğerleri beceremezken o, makinayı her zaman çalıştırabiliyordu.
+											Hataları bile tekrar ediyordu.
+											(Gülüşmeler)
+											""Dr. Barricelli kodunun dogru, makinanın yanlış olduğunu iddia ediyor.""
+											Bu evreni tasarladı ve çalıştırdı.
+											Bombacılar eve gittiğinde içeriye girmesine izin verildi.
+											Bütün gece bunları çalıştırıyordu.
+											Stephen Wolfram'ı hatırlıyorsanız,
+											bunları baştan keşfetti.
+											Ve yayınladı. Tozlu raflara kaldırılmadı.
+											Literatürde yayınlandı.
+											""Yaşayan canlılar yaratmak bu kadar kolaysa, neden kendimizden birkaç tane yaratmayalım?""
+											Sanal biyolojiyi makinada çalıştırmayı
+											denemeye karar verdi.
+											Bütün bunları buldu bir bakıma.
+											Biyolojide bir doğabilimcinin gelip,
+											bu 5000 baytlık küçük evrene bakıp,
+											dış dünyada gördüğümüz her şeyi
+											görmesi gibiydi.
+											Bu onun evreninin yarattıklarının bir kısmı.
+											Fakat sayı olarak kalacaklar,
+											organizmaya dönüşemeyecekler.
+											Bir şeye sahip olmalılar.
+											Bir genetik haritanız, bir de dış görüntünüz var.
+											Dışarı çıkıp bir şey yapmalılar. Bunu yapmaya başladı.
+											Bu küçük sayısal organizmalara, oynayacakları bir şeyler vermeye başladı,
+											diğer makinalarla oynayabilecekleri satranç vb.
+											Ve gelişmeye başladılar.
+											Bundan sonra ülkeyi dolaştı.
+											Yeni, hızlı makina bulduğunda onu kullanmaya başladı
+											ve tam olarak şunu gördü:
+											programları kapatmaktansa — programdan çıktığınızda,
+											çalıştırmaya devam edersiniz
+											ve Windows gibi programların yaptıkları —
+											birçok makinada çalışan çok hücreli organizmalar gibi —
+											bunların olacağını gördü.
+											Evrimin kendisinin akıllı bir şey olduğunu gördü.
+											Yaratıcı bir zeka değildi,
+											bu şey zekası olan
+											dev bir paralel programdı.
+											Bunun yaşam benzeri,
+											ya da yeni bir yaşam formu değil de
+											aynı şeyin tekrarlandığı başka bir versiyon
+											olduğunu söyledi.
+											Gerçekten bilgisayarda yaptığının,
+											doğanın milyarlarca yıl önce yaptığından bir farkı yoktu.
+											Yeniden yapabilir misiniz?
+											Bunlara bakmak için arşivleri kurcaladığımda,
+											arşiv sorumlusu bir gün bana
+											""Sanırım atılan başka bir kutu bulduk."" dedi.
+											Bu da onun delikli kartlardaki evreni idi.
+											50 yıl sonra orada duruyor. Durdurulmuş animasyon gibi.
+											Bu çalıştırma talimatları —
+											bu evrenlerden birisinin
+											kaynak kodu,
+											mühendislerden bir notla birlikte,
+											bazı sorunlar yaşadıklarını söylüyor.
+											""Bu kodun daha açıklamadığınız bir yönü olmalı.""
+											Bence bu gerçek. Şimdi bile bu basit komutların,
+											nasıl da karmaşıklaştığını anlamıyoruz.
+											Yaşam benzeri ve yaşayanı ayırt eden
+											çizgi nedir?
+											Bu kartlar benim sayemde kurtuldu.
+											Şimdi asıl soru onları çalıştırmalı mıyız?
+											Çalıştırabilir miyiz?
+											İnternete salmak iyi bir fikir mi?
+											Bu makinalar şunu düşünecekler mi acaba —
+											bu organizmalar tekrar yaşamaya başlarlarsa,
+											ölüp cennete gitmişler gibi mi düşünecekler, bir evren var —
+											benim dizüstü bilgisayarım Barricelli'nin onları yarattıklarında
+											yaşadıkları evrenden 10 milyon kat büyük.
+											İleriyi düşünüyordu, bunların gerçekte
+											nasıl yeni bir yaşam şekli oluşturacaklarını.
+											Şimdi bu oluyor!
+											Juan Enriquez bize proteomik laboratuvarına gönderilen
+											12 milyon trilyon biti
+											anlattı,
+											bu işte Barricelli'nin hayal ettiği şeydi:
+											makinalardaki bu dijital komutlar
+											gerçekten kodlamaya başlıyorlar —
+											gerçekten nükleik asitlerden kodluyorlar.
+											PCR'ye ve küçük DNA parçacıklarını
+											birleştirmeye başladığımızdan beri aslında bunu yapıyoruz.
+											Çok yakında protein sentezlemeye başlayacağız.
+											Steve'in bize gösterdiği gibi, bu yeni bir dünyanın kapılarını açacak.
+											von Neumann'ın kendisinin hayal ettiği dünyanın.
+											Kendi kendini çoğaltan makinalar üzerine tamamlanmamış notları
+											o öldükten sonra yayınlandı.
+											Bu makinaların üremeye başlayacakları yere
+											hızla ilerlemeleri için gerekli olanlar.
+											Burada üç isim rol oynadı:
+											kodları yaşayan şeylere Barricelli benzetti.
+											Makinaların nasıl yapılacağını von Neumann gördü.
+											Son sayıma göre her 24 saatte
+											4 milyon von Neumann makinası yapılıyor.
+											Ve 10 gün önce ölen Julian Bigelow —
+											bu John Markaoff""un anma yazısından —
+											o kayıp halka idi,
+											gelip bu vakum tüplerini nasıl birleştirip,
+											çalıştıracağımızı bilen mühendisti.
+											Şimdi kullandığımız bütün bilgisayarların
+											içindeki mimariyi günün birinde
+											kağıt kalemle tasarlayandı.
+											Ona çok şey borçluyuz.
+											O 40'larda bu değişik insanları
+											Gelişmiş Araştırma Enstitüsü'ne
+											getiren ruhu cömertçe açıkladı
+											ve patentsiz, kısıtlamasız,
+											herkesle bedelsiz paylaştı.
+											Bu kayıt defterindeki son not,
+											makina Haziran 1958'de kapandığında yazılmış.
+											Makina kapatıldığında onu geceyarısına kadar
+											çalıştıran Julian Bigelow'du.
+											Anlatacaklarım bu kadar.
+											Çok teşekkür ederim.
+											(Alkışlar)
+									","
+											L'année passée, je vous ai conté en 7 minutes l'histoire du projet Orion,
+											cette technologie invraisemblable
+											qui, techniquement, aurait pu fonctionner
+											mais qui ne disposait que d'une seule année politique pour se réaliser
+											et qui a donc échoué. C'était un rêve qui ne ne se réalisa pas.
+											Cette année, je vais vous conter l'histoire de la naissance du calcul numérique.
+											C'était une parfaite introduction.
+											C'est un rêve qui a fonctionné, qui s'est réalisé.
+											Ces machines sont partout autour de nous.
+											Cette technologie était inévitable.
+											Si les personnes dont je vais vous parler
+											ne l'avaient pas fait, quelqu'un d'autre l'aurait fait.
+											Ils ont donc eu la bonne idée au bon moment.
+											Voici l'univers de Barricelli. C'est l'univers dans lequel nous vivons.
+											C'est l'univers dans lequel ces machines
+											font toutes ces choses, y compris modifier la biologie.
+											Je commence avec l'histoire de la première bombe atomique à Trinity.
+											Il s'agissait du projet Manhattan. C'était un peu comme TED :
+											ça réunit plein d'intellectuels.
+											Les trois têtes de ce groupe étaient
+											Stan Ulam, Richard Feynman et John von Neumann.
+											Neumann dit, après la bombe atomique,
+											qu'il travaillait sur quelque chose bien plus important que les bombes.
+											Il parlait des ordinateurs.
+											Il ne se contenta pas d'en parler, il en a construit un. Voilà la machine qu'il construisit.
+											(Rires)
+											Il construisit cette machine
+											et nous avons là une magnifique démonstration du fonctionnement
+											de ces petits bits. Mais cette idée est apparue bien avant ça.
+											Le premier à réellement expliquer ce concept
+											fut Thomas Hobbes, qui, en 1651,
+											expliqua que l'arithmétique et la logique représente la même chose
+											et que, si vous souhaitez créer une pensée et une logique artificielles,
+											vous pouvez le faire avec l'arithmétique.
+											Il dit que vous avez besoin, pour cela, de l'addition et de la soustraction.
+											Leibniz, un peu plus tard, en 1679,
+											montra que vous n'avez même pas besoin de la soustraction.
+											Vous pouvez tout réaliser à l'aide de l'addition.
+											Voilà toute l'arithmétique et la logique binaires
+											qui ont dirigé la révolution informatique.
+											Leibniz fut le premier à véritablement mentionner la construction d'une telle machine.
+											Il en parla en termes de billes
+											qui possèdent des portes et ce que l'on nomme des registres à décalage
+											grâce auxquels vous manipulez les portes et faites tomber les billes le long du chemin.
+											C'est ce que ces machines font,
+											si ce n'est qu'à la place d'utiliser des billes,
+											elles utilisent des électrons.
+											Ensuite vient von Neumann, en 1945, époque à laquelle
+											il réinventa le tout.
+											En 1945, après la guerre, l'électronique nécessaire
+											à la construction d'une telle machine était alors disponible.
+											Juin 1945. La bombe atomique n'avait en fait pas encore été lâchée
+											et von Neumann établissait la théorie nécessaire à la construction de cette machine.
+											ça remonte donc jusqu'à Turing qui,
+											avant ça, établit qu'il était possible de construire tout ça
+											avec une petite machine stupide, un automate fini
+											qui se contente de lire un texte entrant et un texte sortant.
+											Une autre stimulation au travail de von Neumann
+											était la difficulté d'effectuer des prévisions météorologiques.
+											Lewis Richardson comprit comment faire cela à l'aide d'un réseau de personnes
+											fournissant chacune un morceau du puzzle et en les recombinant.
+											Voici un modèle électrique d'un esprit effectuant un choix
+											mais qui ne peut générer que 2 idées.
+											(Rires)
+											C'est à proprement parlé le plus simple des ordinateurs.
+											C'est exactement pour cela que vous avez besoin du qubit
+											car il n'a que deux idées.
+											En assemblent un grand nombre de ces éléments,
+											vous obtenez la base de l'ordinateur moderne:
+											l'unité arithmétique, le centre de contrôle, la mémoire,
+											le système d'enregistrement, les entrées et les sorties.
+											Mais il y a un piège.
+											C'est ce qui fut observé avec les premiers programmes :
+											les instructions qui gouvernent une opération
+											doivent absolument être entrées exhaustivement.
+											Le programme doit être parfait sans quoi il ne fonctionnera pas.
+											L'histoire classique
+											retrace tout ça jusqu'à l'ENIAC ici en bas.
+											Mais la machine dont je vais vous parler,
+											la machine de l'Institute for Grand Study qui se trouve tout là-haut,
+											devrait en fait se trouver ici en bas. Je vais donc essayer de rectifier l'histoire
+											et attribuer plus de crédits à ces gens qu'ils n'en ont eu jusque-là.
+											Un tel ordinateur devait ouvrir les portes d'univers
+											qui sont pour l'instant hors de portée de tous les instruments.
+											Il mène à un monde entièrement nouveau. Et ces gens s'en sont rendus compte.
+											C'est Vladimir Zworykin de la RCA (Radio Corporation of America), au milieu,
+											qui était censé construire cette machine.
+											Mais la RCA fit un des choix les plus pitoyables de l'histoire
+											et décida de ne pas se lancer dans l'informatique.
+											Cependant, le premier meeting, en novembre 1945, eut lieu dans les locaux de la RCA.
+											La RCA lança ce projet et décida finalement
+											que les télévisions étaient le futur, pas les ordinateurs.
+											L'essentiel - tout ce qui faisait tourner
+											ces machines - était là.
+											Von Neumann, un logicien et un mathématicien de l'armée
+											avaient tout rassemblé. Il ne cherchait qu'un endroit où construire leur machine.
+											Quand la RCA refusa de les aider, ils se rendirent à Princeton
+											où se trouvait l'institut pour lequel travaillait Freeman.
+											J'étais alors enfant.
+											C'est moi là, avec ma soeur qui vous a parlé tout à l'heure.
+											On vient donc de l'époque de cette machine.
+											Voilà Freeman, il y a fort longtemps.
+											Et ça c'est moi.
+											Von Neumann et Morgenstern
+											qui a écrit ""Théorie des jeux..."".
+											Ils ont tous unis leur forces à Princeton.
+											Oppenheimer qui aida à construre la bombe.
+											Cette machine fut d'ailleurs principalement utilisée pour des calculs balistiques.
+											Julian Bigelow remplaça l'ingénieur
+											et imagina comment construire cette machine
+											à l'aide de l'électronique. Voici l'ensemble des collaborateurs de ce projet
+											avec, au premier rang, les femmes qui ont fait le gros de la programmation.
+											Voici les prototypes du geek, les premiers nerds.
+											Ils faisaient tache dans l'Institut.
+											Voici une lettre du directeur se faisant du souci
+											""principalement par la surconsommation de sucre"".
+											Ecrit : ""Pourquoi les informaticiens ne viendraient-ils pas à 17h boire le thé avec tout le monde, sous une surveillance appropriée ?""
+											Ecrit : ""Pourquoi les informaticiens ne viendraient-ils pas à 17h boire le thé avec tout le monde, sous une surveillance appropriée ?""
+											Ecrit : ""Pourquoi les informaticiens ne viendraient-ils pas à 17h boire le thé avec tout le monde, sous une surveillance appropriée ?""
+											Les hackers en décousaient pour la première fois avec les autorités.
+											(Rires)
+											Ce n'étaient pas des physiciens théoriciens.
+											Ils travaillaient au fer à souder. Et ils finirent par construire cette machine.
+											Il nous semble évident à présent que ces machines
+											possèdent des milliards de transistor et effectuent des milliards de cycles chaque seconde sans la moindre erreur.
+											Ils utilisèrent pour ça des tubes électroniques. Obtenir un comportement binaire
+											avec un de ces tubes électroniques est une manipulation extrêmement aléatoire.
+											Ils utilisérent des 6J6, les tubes électroniques présents dans les radios,
+											car ils les trouvaient plus sûrs que les tubes plus chers.
+											Ils publièrent chaque étape de leur avancée.
+											Des rapports furent distribués et, de cette manière, leur machine
+											fut clonée à 15 endroits dans le monde.
+											C'était véritablement le premier microprocesseur.
+											Tous les ordinateurs ne sont que des copies de cette machine.
+											Des tubes cathodiques constituaient la mémoire,
+											un ensemble de points sur le tube,
+											de très, très faibles variations électromagnétiques.
+											Il y avait 40 tubes,
+											c'était donc un peu comme une V40 en guise de mémoire.
+											(Rires)
+											Les données étaient entrées et obtenues à l'aide d'un télétype.
+											Voici un enregistreur construit à l'aide de roues de vélos.
+											C'est l'archétype du disque dur qui se trouve dans votre ordinateur.
+											Ils sont ensuite passés aux tambours magnétiques.
+											Ils modifièrent le matériel d'IBM
+											qui est à l'origine de l'industrie du traitement de données.
+											Et voilà les débuts de l'imagerie informatique.
+											Le ""Graph's-Beam Turn On"".
+											Voilà, autant que je sache, la première représentation d'une image numérique. Elle date de 1954.
+											Von Neumann était donc plongé dans un océan théorique
+											en train de faire des études abstraites sur la possibilité de construire
+											des machines fiables à l'aide d'éléments qui ne l'étaient pas.
+											Ces gens qui buvaient ce thé si sucré
+											établirent un registre à propos leurs tentatives sur
+											ces 2600 tubes électroniques qui lâchaient la moitié du temps.
+											Feuilleter ces registres est ce qui m'a occupé ces six derniers mois.
+											""Exécution : 2 minutes. Entrées/sorties : 90 minutes.""
+											Ca inclut toutes les erreurs humaines.
+											Ils essayèrent en permanence de déterminer quelle était la part d'erreur humaine et celle due à la machine,
+											ce qui venait du programme et du matériel.
+											Voici un ingénieur qui inspecte le tube 36
+											pour déterminer pourquoi la mémoire flanchait.
+											Il devait régler la mémoire ! ""Ca a l'air de fonctionner.""
+											Il devait régler chaque tube jusqu'à ce que la mémoire fonctionne
+											sans parler de tous les problèmes de programmation.
+											""Inutile ! Rentré à la maison !""
+											""Impossible de comprendre ce p... de truc, où est le dossier ?""
+											Ils se plaignaient donc déjà des manuels:
+											""Dégoûté avant de fermer.""
+											""Arithmétique générale - Registre d'opération""
+											Ils travaillaient tard le soir.
+											Ils avaient nommé la machine MANIAC, acronyme pour
+											Intégrateur Mathématique Et Numérique Et Calculatrice. ""MANIAC a perdu la mémoire.""
+											""MANIAC a retrouvé sa mémoire au cours d'une panne de courant."" ""Machine ou humain ?""
+											""AHA !"" Ils ont compris qu'il s'agissait d'une erreur de code :
+											""Trouvé un problème de code. J'espère.""
+											""Erreur de code, machine non coupable.""
+											""Je suis aussi borné que cette machine.""
+											(Rires)
+											""Et l'aube arriva."" Ils ont donc tourné toute la nuit.
+											Cette machine fonctionnait 24h par jour, principalement pour effectuer des calculs balistiques.
+											""Tout ce qu'on a effectué jusque là n'est que du temps perdu."" ""À quoi bon ? Bonne nuit.""
+											""Plus de contrôle principal. Fait chier. Complètement faux.""
+											""Il y a un problème avec l'aération,
+											il y a comme une odeur de courroie brûlée dans l'air.""
+											""Court-circuit, ne pas allumer la machine.""
+											""La machine d'IBM dépose une sorte de goudron sur les cartes mémoire. Le goudron vient du toit.""
+											Ils travaillaient vraiment dans des mauvaises conditions.
+											(Rires)
+											""Une souris est passée dans le ventilateur
+											derrière le régulateur, le ventilateur s'est mis à vibrer. Résultat : plus de souris.""
+											(Rires)
+											""Ici repose souris. Née ? Morte à 4h50, mai 1953.""
+											(Rires)
+											Quelqu'un a inclut une blague pour initiés :
+											""Ici repose la Souris de Marston.""
+											C'est une blague de mathématicien.
+											Marston était un mathématicien
+											qui s'opposa à la présence de l'ordinateur à cet endroit.
+											""Retiré une luciole du tambour."" ""Tourne à 2 000 tours.""
+											C'est-à-dire 2 000 tours par seconde.
+											""Oui, je suis découragé."" Donc 2000 tours était lent.
+											""Rapide"" signifiait 16 000 tours par seconde.
+											Je ne sais pas si vous vous souvenez d'un Mac à 16 mégahertz.
+											C'est vraiment lent.
+											""J'ai reproduit les résultats.
+											Comment je sais lequel est le bon, en supposant qu'un est correct ?""
+											""On a maintenant trois résultats différents.
+											Je sais quand on se fout de moi.""
+											(Rires)
+											""On a reproduit les erreurs.""
+											""La machine va bien, pas le code.""
+											""N'arrive que lorsque la machine fonctionne.""
+											Parfois tout va bien.
+											""Cette machine est un bijou, une source de plaisir éternelle."" ""Fonctionne parfaitement.""
+											""Pensée d'adieu : même si les erreurs se multiplient, on finira par les avoir.""
+											Personne n'était sensé savoir qu'ils étaient en train de faire des bombes.
+											Ils étudient les bombes à hydrogène. Quelqu'un, tard dans la nuit,
+											dessina finalement une bombe dans le registre.
+											Le résultat fut le suivant : Mike,
+											la première bombe thermonucléaire, en 1952.
+											Elle fut construite à l'aide de cette machine,
+											quelque part dans les bois, derrière l'Institut.
+											Von Neumann avait invité une bande de fous
+											venus des quatre coins du monde pour résoudre ces problèmes.
+											Baricelli, qui était venu pour créer ce que l'on nomme à présent la vie artificielle,
+											rechercha dans cet univers artificiel...
+											C'était un généticien viral vraiment, vraiment en avance sur son temps.
+											Il est d'ailleurs encore en avance sur une partie de ce qui se fait actuellement.
+											...il chercha à élaborer un système génétique artificiel, informatique.
+											Il commença le 3 mars 1953,
+											ça fera donc 50 ans mardi prochain.
+											Il perçut chaque chose en termes de...
+											Il lisait le code binaire sous sa forme brute.
+											Il était très compréhensif.
+											Certains personnes ne comprenaient pas comment la machine fonctionnait. Lui n'a jamais eu le moindre problème.
+											""Même les erreurs ont été répétées.""
+											(Rires)
+											""Dr. Barricelli affirme que la machine a tort, le code est juste.""
+											Il a donc imaginé et supervisé cet univers.
+											Quand les calculs balistiques furent finis, il fut autorisé à utiliser cette machine.
+											Il l'utilisa des nuits entières.
+											Stephen Wolfram
+											réinventa tout ça.
+											Et le publia. Ce ne fut pas mis sous clé et caché du public.
+											Ils le publièrent dans la littérature.
+											""Si c'est si simple de créer des êtres vivants, pourquoi ne pas en créer quelques uns vous-même?""
+											Il décida donc de s'adonner
+											à la biologie artificielle informatique.
+											Il découvrit toutes sortes de choses.
+											Il agit un peu comme un naturaliste
+											observant ce minuscule univers de 5 000 octets
+											et ce qu'il s'y déroule
+											comme on peut le voir dans le monde extérieur en biologie.
+											Voici quelques uns des produits de son univers.
+											""Mais tout cela restera numérique,
+											ça ne deviendra pas organique.""
+											Il leur faut quelque chose de particulier.
+											Il y a le génotype et le phénotype.
+											Il faut qu'ils sortent et fassent quelque chose.
+											Il donna donc à ces petits êtres numériques de quoi jouer.
+											Jouer aux échecs avec d'autres machines, etc...
+											Ils se sont donc mis à évoluer.
+											Puis il s'est mis à voyager.
+											À chaque fois qu'il trouva une nouvelle machine rapide, il réitéra l'expérience
+											et releva exactement ce qui se passe actuellement:
+											les programmes, au lieu d'être arrêtés lorsqu'on les quitte
+											peuvent continuer à tourner,
+											un peu comme un organisme multicellulaire en plusieurs machines.
+											C'est-à-dire tout ce que Windows fait.
+											Il eut la vision de tout cela.
+											Il comprit que cette évolution elle-même était un processus intelligent.
+											Ce n'était pas une intelligence créatrice,
+											mais un ensemble de calculs parallèles
+											qui possède une sorte d'intelligence.
+											Il a suivi son idée pour expliquer
+											qu'il ne sous-entendait pas que c'était là une forme de vie
+											ou un nouveau type de vie.
+											C'était simplement une autre version de ce qui se passe dans la vie.
+											Ce qu'il réalisait sur cet ordinateur et ce que la nature avait fait
+											il y a des milliards d'années étaient fondamentalement identiques.
+											Pourriez-vous réaliser la même chose à présent ?
+											Un jour, alors que j'approfondissais tout ça dans les archives,
+											surgit l'archiviste et dit:
+											""Je crois qu'on a trouvé une autre boîte qui a été jetée.""
+											Il s'agissait de son univers de cartes perforées.
+											Tout était là, 50 ans plus tard. En quelque sorte en biostase.
+											Voici l'instruction de compilation.
+											Il s'agit en fait du code source
+											de l'un de ces univers
+											accompagné d'une annotation des ingénieurs
+											mentionnant qu'ils rencontrèrent des problèmes.
+											""Il doit y avoir quelque chose dans ce code que vous n'avez pas encore expliqué.""
+											Je crois que c'est bien là toute la vérité. On ne comprend
+											toujours pas comment ces instructions simples peuvent mener à une complexité grandissante.
+											Il s'agit là de la ligne de démarcation
+											entre la vie et une simple copie de celle-ci.
+											Ces cartes, grâce à mon intrusion, sont préservées.
+											Et la question est, devrions-nous les compiler ou non ?
+											Sommes-nous capables de les compiler ?
+											Pouvons-nous les diffuser sur Internet ?
+											Ces machines penseraient qu'elles...
+											Ces organismes, s'ils pouvaient revenir à la vie,
+											bien qu'ils soient morts et partis depuis longtemps, il reste un univers...
+											Mon ordinateur est dix mille millions de fois
+											plus grand que l'univers dans lequel ils ont vécu lorsque Baricelli abandonna ce projet.
+											Il pensa bien plus loin,
+											il pensa à la manière selon laquelle tout ça se changerait en un nouveau mode de vie.
+											Et c'est ce qui se passe à présent!
+											Lorsque Juan Enriquez nous parla
+											de ces 12 000 milliards de bits qui sont transférés d'un endroit à un autre,
+											de toutes ces données génétiques envoyées au laboratoire protéomique,
+											il s'agissait de ce à quoi Baricelli pensait :
+											le code numérique de ces machines
+											est en fait en train de coder
+											à partir d'acides aminés.
+											C'est ce que l'on a fait depuis la PCR
+											et la synthèse de petites séquences d'ADN.
+											Très bientôt, nous synthétiserons des protéines
+											et comme Steve l'a montré, c'est un monde entièrement nouveau qui s'ouvrira à nous.
+											Ce sera un monde que von Neumann imagina.
+											Ceci fut publié après sa mort. Il s'agit de ses notes
+											à propos de machines autoreproductrices.
+											Comment enclencher ces machines
+											de manière à les faire se reproduire.
+											Trois personnes se penchèrent sur le sujet :
+											Baricelli imagina le concept de code en tant qu'objet vivant.
+											Von Neumann découvrit comment construire ces machines.
+											Aux dernières nouvelles, 4 millions
+											de ces machines de von Neumann sont construites chaque jour.
+											Et Julian Bigelow qui mourut il y a 10 jours.
+											Cet article est son éloge nécrologique.
+											Il était le lien manquant,
+											l'ingénieur qui trouva comment
+											assembler ces tubes électroniques et les faire fonctionner.
+											Tous nos ordinateurs contiennent
+											les copies de l'architecture qu'il dut dessiner,
+											un jour, au papier et au crayon.
+											On lui doit énormément.
+											Il expliqua, de manière très généreuse,
+											l'esprit qui amena toutes ces personnes
+											à l'Institute for Advanced Study, dans les années 40, à réaliser ce projet,
+											librement accessible au reste du monde, sans brevet
+											ni restriciton ou propriété intellectuelle.
+											Voici la dernière entrée du registre,
+											lorsque la machine fut débranchée, en juillet 1958.
+											C'est Julian Bigelow qui l'utilisa jusqu'à minuit
+											avant que la machine ne soit éteinte.
+											C'est la fin.
+											Merci beaucoup.
+											(Applaudissements)
+									","
+											Letztes Jahr habe ich Ihnen in sieben Minuten vom Orion-Projekt erzählt,
+											das jene sehr unglaubwürdige Technik umfasste,
+											die eigentlich hätte funktionieren können.
+											Dieses Projekt hatte jedoch aufgrund der politischen Rahmenbedingungen nur ein Jahr, um realisiert zu werden.
+											Aber dies war nicht möglich. Es war ein Traum, der einfach nicht in Erfüllung ging.
+											Dieses Jahr werde ich Ihnen die Geschichte über die Anfänge des digitalen Computers erzählen.
+											Dies war eine perfekte Einführung.
+											Es ist eine Geschichte, die tatsächlich funktionierte. Es passierte wirklich
+											und die Rechner sind aus unserem Alltag nicht mehr wegzudenken.
+											Diese Technik war unabdingbar.
+											Wenn diese Menschen, über die ich gleich berichten werde,
+											wenn diese Menschen es nicht getan hätten, dann hätten es andere getan.
+											Es war sozusagen die richtige Idee zur richtigen Zeit.
+											Das ist Barricellis Universum. Das ist das Universum, in dem wir jetzt leben.
+											Es ist das Universum, in dem diese Maschinen
+											all diese Dinge tun, einschließlich der Veränderung der Biologie.
+											Ich fange die Geschichte mit der ersten Atombombe an, dem Trinity-Test,
+											also dem „Manhattan-Projekt“. Es war ein bisschen so wie bei TED:
+											dieses Projekt versammelte viele intelligente Menschen.
+											Drei der intelligentesten von ihnen waren
+											Stan Ulam, Richard Feynman und John von Neumann.
+											Es war von Neumann, der sagte, dass er nach der Bombe
+											an etwas viel Wichtigerem als an Bomben arbeite:
+											Er dachte fortwährend an Computer.
+											Aber er dachte nicht nur über sie nach, sondern er baute einen. Das ist der Rechner, den er baute.
+											(Gelächter)
+											Er baute diesen Rechner
+											und in einer großartigen Demonstration wurde uns gezeigt, wie dieser Rechner
+											mit diesen kleinen Bits eigentlich funktioniert. Es ist eine Idee, die weit in die Geschichte zurückreicht.
+											Der erste, der es wahrhaftig erklärte,
+											war Thomas Hobbes, der im Jahre 1651 erläuterte,
+											dass Arithmetik und Logik das gleiche sind.
+											Wenn man also künstliches Denken und künstliche Logik entwickeln will,
+											dann kann man all dies mit Arithmetik tun.
+											Er sagte, dass es dazu nur der Addition und der Subtraktion bedürfe.
+											Leibniz bewies etwas später, und zwar 1679,
+											dass die Subtraktion eigentlich gar nicht vonnöten war.
+											Man konnte das Ganze mit der Addition bewältigen.
+											Hier haben wir die ganze binäre Arithmetik und Logik,
+											die die Computer-Revolution vorantrieben.
+											Leibniz war der erste, der tatsächlich darüber sprach, solch eine Maschine zu bauen.
+											Er dachte dabei an Murmeln,
+											Gatter und an das, was wir heute Schieberegister nennen,
+											wobei die Gatter geschoben werden, so dass die Murmeln in die Spur hineinfallen.
+											Das ist alles, was diese Rechner machen,
+											ausgenommen, dass sie heute mit Elektronen funktionieren
+											anstatt mit Murmeln.
+											Und dann kommen wir zu von Neumann, der 1945
+											das gleiche noch einmal erfunden hat.
+											Im Jahre 1945, nach dem Krieg, existierte die Elektronik eigentlich nur,
+											um solch eine Rechenmaschine zu bauen und auszuprobieren.
+											Im Juni 1945, als die Atombombe noch nicht abgeworfen worden war,
+											entwickelte von Neumann die ganze Theorie, wie man diese Maschine tatsächlich bauen könnte.
+											Diese Theorie geht ebenfalls auf Turing zurück,
+											der zuvor den Gedanken hatte, dass man all dies mit
+											einem sehr hirnlosen, kleinen endlichen Automaten tun könnte,
+											nämlich einfach ein Band einlesen und es danach ablesen.
+											Eine weitere Leistung von Neumanns war
+											sein Beitrag zur Wettervorhersage.
+											Lewis Richardson erkannte, dass man dies mit einem zellularem Datenfeld von Computern tun konnte,
+											indem man jedem von ihnen eine Zelle zuteilt und die Daten dann zusammenrechnet.
+											Hier haben wir ein elektrisches Modell, das ein eigenes Gedächtnis mit einem Willen besitzt,
+											aber nur zu zwei Gedanken fähig ist.
+											(Gelächter)
+											Das ist überhaupt der einfachste Computer.
+											Daher braucht man das Quantenbit,
+											weil er nur zwei Gedanken fassen kann.
+											Wenn viele davon angehäuft werden,
+											ergeben sie die Grundlagen des modernen Computers:
+											die arithmetische Einheit, den Hauptprozessor, den Speicher,
+											den Registersatz, die Eingabe und die Ausgabe.
+											Aber es gibt einen Haken,der fatal ist und
+											den wir schon am Anfang entdeckt haben, als wir die Programme starteten.
+											Die Anweisungen, die diesen Vorgang steuern,
+											müssen ganz genau eingegeben werden.
+											Die Programmierung muss also perfekt sein, sonst funktioniert es nicht.
+											Wenn sie die Ursprünge des Computers betrachten,
+											führte uns die klassische Geschichte irgendwie zum ENIAC zurück.
+											Aber über die Maschine, über die ich gleich reden werde,
+											die Institute for Advanced Study-Maschine, die ganz weit dort oben ist,
+											sollte eigentlich weiter unten stehen. Ich versuche also, die Geschichte zu korrigieren,
+											und einigen Menschen mehr Anerkennung zu zollen, als sie vorher bekamen.
+											Solch ein Computer öffnet neue Welten,
+											die heutzutage außerhalb der Reichweite von vielen anderen Maschinen liegen.
+											Er öffnet eine ganz neue Welt und diese Menschen haben das erkannt.
+											Wladimir Zworikyn von RCA, der Mann in der Mitte,
+											sollte eigentlich die Rechenmaschine bauen.
+											Aber RCA fällte wahrscheinlich eine der schlechtesten geschäftlichen Entscheidungen
+											aller Zeiten, nämlich die Entwicklung des Computers nicht weiter zu verfolgen.
+											Im November 1945 gab es jedoch erste Treffen in den Büroräumen von RCA.
+											RCA initiierte das Ganze und sagte letztendlich,
+											dass den Fernsehgeräten die Zukunft gehöre und nicht den Computern.
+											Die Grundlagen waren alle da -
+											all die Dinge, die es braucht, damit die Rechenmaschinen laufen.
+											Von Neumann, ein Logiker und ein Mathematiker von der Armee
+											brachten alles zusammen. Dann brauchten sie einen Raum, um sie zu bauen.
+											Als die RCA ablehnte, entschieden sie, sie in Princton zu bauen,
+											dort, wo Freeman am Institut arbeitete.
+											Dort verbrachte ich meine Kindheit.
+											Das bin ich und das ist meine Schwester Esther, die zuvor zu Ihnen sprach.
+											Uns beide gibt es also schon so lange wie den Computer.
+											Das ist Freeman, vor langer Zeit,
+											und das bin ich.
+											Das sind von Neumann und Morgenstern,
+											die die ""Spieltheorie"" begründeten.
+											All diese intelligenten Männer versammelten sich in Princeton.
+											Das ist Oppenheimer, der die Atombombe gebaut hatte.
+											Die Rechenmaschine wurde eigentlich hauptsächlich für das Durchführen von Bombenberechnungen eingesetzt.
+											Julian Bigelow, der Zworykins Platz als Elektroingenieur einnahm,
+											sollte herausfinden, wie man mit Hilfe der Elektronik
+											solch eine Maschine baut. Das ist die ganze Gruppe, die daran arbeitete,
+											und die Frauen im Vordergrund, die eigentlich die ganze Kodierung übernahmen, waren die ersten Programmierer.
+											Diese Männer waren der Urtyp des Computerfreaks, des Nerds.
+											Sie passten einfach nicht ins Institut.
+											Das ist ein Brief vom Direktor, besorgt über -
+											""besonders unfair, was den Zucker betrifft.""
+											(Gelächter)
+											Sie können den Text lesen.
+											(Schallendes Gelächter)
+											So gerieten Hacker zum ersten Mal in Schwierigkeiten.
+											(Gelächter)
+											Sie waren keine Theoretiker,
+											sondern richtige Tüftler. Sie bauten tatsächlich diese Rechenmaschine.
+											Heutzutage gehen wir wie selbstverständlich davon aus, dass jede dieser Rechenmaschinen
+											Milliarden von Transistoren hat, die Milliarden von Zyklen pro Sekunde, ohne auszufallen, durchführen.
+											Sie verwendeten Elektronenröhren. Es war sehr schwierig,
+											überhaupt binäres Verhalten bei den Elektronenröhren zu erreichen.
+											Sie benutzten die 6J6, die herkömmliche Radioröhre,
+											weil sie merkten, dass diese betriebssicherer war als die teureren Elektronenröhren.
+											Am Institut veröffentlichten sie jeden weiteren Entwicklungsschritt,
+											so dass die Rechenmaschine an 15 weiteren Orten
+											auf der Welt nachgebaut werden konnte,
+											und so war es auch. Es war der ursprüngliche Mikroprozessor.
+											Alle heute gebauten Computer sind Nachahmungen dieses Rechners.
+											Der Speicher befand sich in einer Kathodenstrahlröhre -
+											jede Menge Punkte auf dem Leuchtschirm der Röhre -,
+											die sehr empfindlich auf elektromagnetische Störungen reagiert.
+											Da waren nun 40 von diesen Röhren;
+											das ist, als ob ein V40-Motor den Speicher antreiben würde.
+											(Gelächter)
+											Die Ein- und Ausgabe funktionierte zuerst per Fernschreiberband.
+											Das ist ein Kabel-Laufwerk, für das ein Rad eines Fahrrads genutzt wird.
+											Das ist der Urtyp der Festplatte, die heute in den Computern ist.
+											Dann stiegen sie auf eine Magnettrommel um.
+											Das sind die umgebauten IBM-Maschinen,
+											die den Ursprung der gesamten Datenverarbeitungsbranche darstellen, später auch bei IBM.
+											Das ist der Anfang der Computergrafik.
+											Der ""Graph'g-Beam Turn On"". Das nächste Bild
+											zeigt - soweit ich weiß - die erste digitale Bitmap-Anzeige, und zwar von 1954.
+											Von Neumann war aber schon in höhere theoretische Gefilde abgehoben.
+											Er stellte abstrakte Studien an, nämlich wie man betriebssichere
+											Maschinen mit betriebsunsicheren Bauteilen bauen konnte.
+											Diese Tüftler, die Tee mit viel Zucker darin tranken,
+											schrieben in ihre Betriebsbücher, um den Rechner mit all diesen
+											2600 Elektronenröhren, die die Hälfte der Zeit ausfielen, zum Laufen zu bringen.
+											Die letzten sechs Monate habe ich also damit verbracht, diese Betriebsbücher durchzusehen.
+											""Laufzeit: 2 Minuten. Eingabe, Ausgabe: 90 Minuten.""
+											Dies schließt eine große Menge an menschlichem Fehlverhalten ein.
+											Sie versuchten immer herauszufinden, woran es lag. An der Maschine? Am menschlichen Fehlverhalten?
+											Am Code? An der Hardware?
+											Hier starrt ein Elektroingenieur auf Röhre Nr. 36
+											und versucht herauszufinden, warum der Speicher nicht richtig eingestellt ist.
+											Er musste den Speicher richtig einstellen, dann war es ok.
+											Er musste jede einzelne Röhre richtig einstellen, um den Speicher zum Laufen zu bringen,
+											ganz zu schweigen von Software-Problemen.
+											""Taugte nichts, ging nach Hause."" (Gelächter)
+											Unmöglich diesem verdammten Ding zu folgen, wo ist eine Betriebsanleitung?""
+											Sie beschwerten sich also bereits damals über Betriebsanleitungen:
+											""bevor ich es angewidert ausschaltete ...""
+											""Allgemeine Arithmetik: Betriebsbücher.""
+											Sie arbeiteten bis spät in die Nacht hinein.
+											""MANIAC"" war das Akronym für die Rechenmaschine,
+											Mathematical and Numerical Integrater and Calculator. ""MANIAC hat seine Erinnerung verloren.""
+											""MANIAC hat seine Erinnering wiedererlangt, als der Strom ausfiel."" ""Maschine oder Mensch?""
+											""Aha!"" Schließlich fanden sie heraus, dass es ein Programmierungsproblem war.
+											""Fand Problem im Code, hoffe ich zumindest.""
+											Programmierungsfehler, Maschine nicht schuldig.""
+											""Verdammt, ich kann genauso stur wie dieses Ding sein.""
+											(Gelächter)
+											""Und der Morgen brach an."" Sie liefen also die ganze Nacht,
+											24 Stunden am Tag, führten die Rechner hauptsächlich Bombenberechnungen durch.
+											""Alles bis zu diesem Zeitpunkt ist verschwendete Zeit."" ""Wem nützt das schon? Gute Nacht.""
+											""Master Control aus. Zum Teufel damit. Ganz aus."" (Gelächter)
+											""Mit der Klimaanlage stimmt irgendetwas nicht -
+											es liegt ein Geruch von anbrennenden Keilriemen in der Luft.""
+											""Ein Kurzer - schaltet den Rechner nicht ein.""
+											""IBM-Maschine lagert eine teer-ähnliche Substanz auf den Steckkarten ab. Der Teer kommt vom Dach.""
+											Sie mussten also wirklich unter härtesten Bedingungen arbeiten.
+											(Gelächter)
+											Oder hier ""Eine Maus ist in das Gebläse
+											hinter den Rahmen geklettert. Habe das Gebläse auf Vibration gestellt. Ergebnis: Keine Maus mehr.""
+											(Gelächter)
+											""Hier ruht eine Maus. Geboren: ?. Gestorben: 4:50 Uhr, Mai 1953.""
+											(Gelächter)
+											Da hat jemand einen Insider-Witz dazu geschrieben:
+											""Hier ruht Marston-Maus.""
+											Als Mathematiker verstehen sie das,
+											weil Marston ein Mathematiker war, der
+											sich der Existenz des Computers widersetzte.
+											""Habe einen Leuchtkäfer aus der Trommel herausgeholt."" ""Läuft mit 2 Kilozyklen.""
+											Das sind 2000 Zyklen pro Sekunde -
+											""Ja, ich bin ein Feigling"" - 2 Kilozyklen bedeutete langsame Geschwindigkeit.
+											Schnelle Geschwindigkeit bedeutete 16 Kilozyklen.
+											Ich weiß nicht, ob sie sich daran erinnern, dass ein Mac,
+											der mit 16 MHz lief, langsam war.
+											""Ich habe jetzt beide Ergebnisse dupliziert.
+											Wie weiß ich nun, welches das richtige ist, mit der Annahme, dass nur eines das richtige ist?
+											Jetzt habe ich drei verschiedene Ergebnisse.
+											Ich weiß, wenn ich mich geschlagen geben muss.""
+											(Gelächter)
+											""Wir haben bereits vorher Fehler dupliziert.""
+											""Maschine funktioniert, Code nicht.""
+											""Geschieht nur, wenn die Rechenmaschine läuft.""
+											Manchmal laufen die Dinge auch gut.
+											""Die Rechenmaschine ist eine schöne Sache und bedeutet ewiges Glück."" ""Läuft einwandfrei.""
+											""Schlussgedanke: Wenn es größere und bessere Fehler gibt, dann haben wir sie.""
+											Niemand sollte also wissen, dass sie eigentlich Bomben entwarfen.
+											Sie konzipierten Wasserstoffbomben. Doch eines späten Abends
+											zeichnete schließlich jemand eine Bombe.
+											Das war also das Ergebnis: Mike,
+											die erste thermonukleare Bombe im Jahr 1952.
+											Sie wurde mit dieser Rechenmaschine
+											in den Wäldern hinter dem Institut konzipiert.
+											Von Neumann lud also eine ganze Reihe Nerds
+											aus der ganzen Welt ein, um an all diesen Problemen zu arbeiten.
+											Barricelli kam, um sich mit - sie wie wir es heute nennen - künstlichem Leben zu befassen.
+											Er versuchte tatsächlich herauszufinden, ob in dieser künstlichen Welt ...
+											Er war ein Virus-Genforscher und seiner Zeit weit, weit, weit voraus.
+											Er ist sogar noch einigen Sachen voraus, die heute erforscht werden.
+											Er versuchte ein künstliches, genetisches System im Computer zum Laufen zu bringen,
+											das begann ... Sein Universum begann am 3. März '53.
+											Also ist es nächsten Dienstag fast auf den Tag genau 50 Jahre her.
+											Er sah alles in Bezug auf ...
+											Er konnte den binären Code direkt vom Rechner ablesen.
+											Er hatte ein wunderbares Verhältnis zur Rechenmaschine.
+											Andere brachten die Maschine nicht zum Laufen, bei ihm lief sie immer.
+											Selbst Fehler wurden dupliziert.
+											(Gelächter)
+											""Dr. Barricelli behauptet, dass mit der Maschine etwas nicht stimme und nicht mit dem Code.""
+											Also konzipierte er dieses Universum und ließ es laufen.
+											Es war ihm gestattet, weiter zu arbeiten, wenn die Leute, die an der Bombe arbeiteten, nach Hause gingen.
+											Er ließ die Maschine die ganze Nacht laufen.
+											Falls sich jemand an Stephen Wolfram erinnert,
+											der das Ganze noch einmal erfand.
+											Er veröffentlichte es. Es war nicht weggeschlossen und verschunden.
+											Es wurde in der Fachliteratur veröffentlicht.
+											""Wenn es so einfach ist, lebende Organismen zu erschaffen, warum dann nicht ein paar selbst erschaffen?""
+											Also machte er einen Versuch und
+											begann künstliches Leben in den Rechenmaschinen zu erschaffen.
+											Er fand alles das, ...
+											Es war, als ob ein Naturalist hereinkommt und
+											sich dieses kleine 5000-Byte-Universum ansieht und
+											alle Dinge und Prozesse so vorfindet,
+											wie wir sie in natura miterleben.
+											Das sind einige Generationen seines Universums,
+											aber sie bleiben nur Zahlen.
+											Sie werden nicht zu Organismen.
+											Aber sie müssen etwas zu tun haben.
+											Es ist ein Genotyp und ein Phänotyp vorhanden.
+											Sie müssen hinaus gehen und etwas tun. Das tat er,
+											indem er diesen kleinen numerischen Organismen etwas zum Spielen gab.
+											So spielten sie Schach mit anderen Maschinen und so weiter.
+											Auf diese Weise entwickelten sie sich.
+											Danach reiste er durch das ganze Land.
+											Jedes Mal, wenn es eine neue, schnelle Rechenmaschine gab, fing er an sie zu nutzen
+											und sah genau das, was heutzutage passiert,
+											nämlich dass die Progamme, anstatt ausgeschaltet zu werden ...
+											Also wenn man ein Programm verlässt, dann läuft alles weiter,
+											so wie wir es heute von Windows kennen,
+											wie ein mehrzelliger Organismus auf mehreren Maschinen und
+											dies konnte er alles sehen.
+											Er erkannte, dass die Evolution an sich ein intelligenter Prozess war.
+											Es war nicht irgendeine Art Intelligenz eines Schöpfers involviert,
+											sondern die Sache selbst war eine riesige Parallelrechnung,
+											die etwas Intelligenz in sich trug.
+											Er scheute keine Mühen zu sagen,
+											dass er nicht sage, dass dies lebensähnlich sei
+											oder eine Art neues Leben darstellte.
+											Es war einfach nur eine andere Version von dem, was geschehen war.
+											Es gab tatsächlich keinen Unterschied zwischen dem, was er mit dem Computer tat,
+											und dem, was vor Milliarden von Jahren in natura geschah.
+											Könnte man es erneut entstehen lassen?
+											Als ich also in diese Archive ging und die Sachen durchforstete,
+											kam eines Tages der Archivar und sagte :
+											""Ich denke, dass wir noch eine Kiste gefunden haben, die weggeworfen wurde.""
+											Und da war es. Sein Universum auf Lochkarten.
+											Nun sitzen wir 50 Jahre später hier ... Es ist eine Art außer Kraft gesetzte Animation.
+											Das sind die Anweisungen für die Funktionsweise ...
+											Das ist tatsächlich der Quell-Code
+											für eines dieser Universen
+											mit einer Notiz von Elektroingenieuren,
+											die besagt, dass sie Probleme haben.
+											""Es ist irgendetwas mit dem Code, dass sie uns noch nicht erklärt haben.""
+											Ich denke, dass dies der Wahrheit entspricht. Denn wir verstehen immer noch nicht,
+											wie diese einfachen Anweisungen zu erhöhter Komplexität führen.
+											Wo ist die Trennlinie zwischen dem
+											Lebensähnlichen und dem Tatsächlich-am-Leben-Seienden?
+											Diese Karten werden jetzt dank meiner Aufdeckung sicher gestellt.
+											Aber die Frage ist, sollen wir es noch einmal probieren oder nicht?
+											Schaffen wir es überhaupt?
+											Soll man sie einfach auf das Internet loslassen?
+											Diese Rechenmaschinen würden sich fragen, ob sie -
+											diese Organismen, wenn sie zurück ins Leben kämen -
+											bereits gestorben und im Himmel angelangt wären, im Universum.
+											Mein Laptop ist 10.000 Millionen Mal
+											größer als das Universum, in dem sie lebten, als Barricelli das Projekt beendete.
+											Er hat weit voraus gedacht,
+											nämlich wie sich all dies tatsächlich zu einer neuen Art von Leben entwickeln würde.
+											Das ist es auch, was wirklich geschah!
+											Als Juan Enriquez uns über die
+											12 Billionen Bits erzählte, die vor und zurück übertragen wurden,
+											und über die genomischen Daten, die an das Proteomik-Labor gingen,
+											handelte es sich dabei um das, was Barricelli im Sinne hatte,
+											nämlich dass dieser digitale Code in diesen Rechenmaschinen
+											tatsächlich zu kodieren begann -
+											er kodiert bereits von Nukleinsäuren.
+											Wir tun dies, seit wir mit der Polymerase-Kettenreaktion (PCR)
+											und mit dem Synthetisieren von kleinen DNA-Strängen angefangen haben.
+											Sehr bald werden wir tatsächlich Proteine künstlich herstellen
+											und wie Stephen uns das gezeigt hat, öffnet dies eine ganz neue Welt.
+											Es ist eine Welt, die sich von Neumann selbst vorstellte.
+											Dies wurde posthum veröffentlicht: seine unvollendeten Notizen
+											über selbst produzierende Maschinen,
+											also wie man diese Maschinen wieder zum Laufen bringt und
+											dann dazu, dass sie selbst reproduzieren.
+											Dafür bedurfte es tatsächlich drei Menschen:
+											Barricelli hatte das Konzept des Codes als etwas Lebendiges im Kopf;
+											Von Neumann erkannte, wie man diese Rechenmaschinen bauen konnte,
+											so dass jetzt, nach der jüngsten Schätzung, alle 24 Stunden
+											4 Millionen von dieser Von-Neumann-Maschine gebaut werden; und
+											Julian Bigelow, der vor 10 Tagen starb -
+											das ist John Markhoff's Nachruf auf ihn.
+											Er war das wichtige fehlende Glied,
+											der Elektroingenieur, der hereinkam
+											und wusste, wie man diese Elektronenröhre zusammen montierte und zum Laufen brachte.
+											Jeder Computer hat die Kopie der Bauweise in sich,
+											die er eines Tages zwangsläufig
+											auf dem Papier entwarf.
+											Wir stehen zutiefst in seiner Schuld.
+											Er erklärte auf wohlwollende Art und Weise,
+											die Einstellung, die all diese verschiedenen Menschen
+											in den 40er Jahren im Institute for Advanced Study versammelte, um dieses Projekt durchzuführen,
+											und es mit keinen Patenten, Beschränkungen und intellektuellen
+											Eigenschaftsdisputen dem Rest der Welt zugänglich machte.
+											Das ist der letzte Eintrag ins Betriebsbuch,
+											als die Rechenmaschine im Juli 1958 heruntergefahren wurde.
+											Es war Julian Bigalow, der sie bis Mitternacht laufen ließ,
+											als die Rechenmaschine dann offiziell ausgeschaltet wurde.
+											Das ist das Ende.
+											Vielen Dank für Ihre Aufmerksamkeit.
+											(Applaus)
+									",The birth of the computer,George Dyson,17:18,"computers,engineering,history,library,military,science,software,technology"
+"
+","
+","
+","
+",The birth of the computer,George Dyson,17:18,"computers,engineering,history,library,military,science,software,technology"

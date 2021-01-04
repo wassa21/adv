@@ -1,0 +1,1699 @@
+en,es,fr,title,speaker,duration,tags
+"
+","
+","
+",All your devices can be hacked,Avi Rubin,16:56,"Internet,TEDx,computers,hack,security,technology,encryption"
+"
+											I'm a computer science professor,
+											and my area of expertise is
+											computer and information security.
+											When I was in graduate school,
+											I had the opportunity to overhear my grandmother
+											describing to one of her fellow senior citizens
+											what I did for a living.
+											Apparently, I was in charge of making sure that
+											no one stole the computers from the university. (Laughter)
+											And, you know, that's a perfectly reasonable thing
+											for her to think, because I told her I was working
+											in computer security,
+											and it was interesting to get her perspective.
+									","
+											Soy profesor de informática,
+											y mi área de especialización es
+											informática y seguridad de la información.
+											Cuando estaba en la universidad
+											tuve la oportunidad de escuchar a mi abuela
+											describiéndole a uno de sus 
+compañeros de edad avanzada
+											lo que yo hacía para vivir.
+											Aparentemente yo era el encargado de
+											que nadie robara las computadoras 
+de la universidad. (Risas)
+											Y, saben, es perfectamente comprensible
+											que ella pensara eso, 
+porque le dije que trabajaba
+											en seguridad informática,
+											así que su perspectiva 
+resultaba bastante interesante.
+									","
+											Je suis enseignant en informatique,
+											mon domaine d'expertise est
+											la sécurité des systèmes d'information.
+											Quand j'étais à l'Université,
+											j'ai eu l'occasion d'entendre ma grand-mère
+											décrire à l'un des pensionnaires
+de sa maison de retraite
+											ce que je faisais comme travail.
+											Apparemment, j'étais chargé de m'assurer
+											que personne ne volait
+les ordinateurs de l'université. (Rires)
+											C'est une hypothèse raisonnable de sa part
+											puisque je lui avais expliqué que je travaillais
+											dans la sécurité informatique,
+											et ça a été intéressant d'avoir son point de vue.
+									",All your devices can be hacked,Avi Rubin,16:56,"Internet,TEDx,computers,hack,security,technology,encryption"
+"
+","
+","
+",All your devices can be hacked,Avi Rubin,16:56,"Internet,TEDx,computers,hack,security,technology,encryption"
+"
+											But that's not the most ridiculous thing I've ever heard
+											anyone say about my work.
+											The most ridiculous thing I ever heard is,
+											I was at a dinner party, and a woman heard
+											that I work in computer security,
+											and she asked me if — she said her computer had been
+											infected by a virus, and she was very concerned that she
+											might get sick from it, that she could get this virus. (Laughter)
+											And I'm not a doctor, but I reassured her
+											that it was very, very unlikely that this would happen,
+											but if she felt more comfortable, she could be free to use
+											latex gloves when she was on the computer,
+											and there would be no harm whatsoever in that.
+									","
+											Pero eso no es lo más 
+absurdo que he escuchado
+											sobre mi trabajo.
+											Lo más absurdo que he oído fue
+											cuando estaba en una 
+cena y una mujer escuchó
+											que trabajaba en seguridad informática,
+											y me preguntó si... dijo 
+que su computadora tenía
+											un virus y estaba muy preocupada de que ella
+											pudiera infectarse y caer enferma. (Risas)
+											Y yo no soy médico pero le aseguré que
+											era muy, pero muy poco probable, 
+que algo así sucediera,
+											pero que si se sentía 
+más tranquila, podía ponerse
+											guantes de látex cuando usara su computadora
+											ya que esto no le haría daño alguno.
+									","
+											Mais ce n'est pas la chose la plus ridicule
+que j'ai entendue
+											au sujet de mon travail.
+											C'est plutôt ceci :
+											j'étais à un dîner, et une femme a entendu
+											que je travaillais dans la sécurité informatique.
+											Elle me demande si son ordinateur,
+											infecté par un virus — elle était très angoissée —
+											pouvait le lui transmettre et la rendre malade. 
+(Rires)
+											Je ne suis pas médecin, mais je l'ai rassurée
+											en affirmant que c'était très peu probable,
+											mais que si cela la rassurait, elle pouvait utiliser
+											son ordinateur avec des gants en latex,
+											que cela ne lui ferait pas de mal.
+									",All your devices can be hacked,Avi Rubin,16:56,"Internet,TEDx,computers,hack,security,technology,encryption"
+"
+","
+","
+",All your devices can be hacked,Avi Rubin,16:56,"Internet,TEDx,computers,hack,security,technology,encryption"
+"
+											I'm going to get back to this notion of being able to get
+											a virus from your computer, in a serious way.
+											What I'm going to talk to you about today
+											are some hacks, some real world cyberattacks that people
+											in my community, the academic research community,
+											have performed, which I don't think
+											most people know about,
+											and I think they're very interesting and scary,
+											and this talk is kind of a greatest hits
+											of the academic security community's hacks.
+											None of the work is my work. It's all work
+											that my colleagues have done, and I actually asked them
+											for their slides and incorporated them into this talk.
+									","
+											Más adelante voy a retomar 
+esta idea de ser infectado por
+											un virus de su computadora, 
+de una manera seria.
+											De lo que voy a hablar hoy
+											es de algunos 'hacks', ciberataques 
+en el mundo real, que personas
+											de mi comunidad, 
+la académico-investigativa,
+											han realizado, y que creo
+											que la mayoría de la gente desconoce,
+											y que considero que son muy 
+interesantes y atemorizantes,
+											así es que esta charla 
+es como los grandes éxitos
+											en los hacks de la comunidad de 
+académicos de seguridad informática.
+											Nada de este trabajo es mío. Todo
+											ha sido realizado por mis 
+colegas y en realidad les pedí
+											sus diapositivas y las 
+incluí en esta charla.
+									","
+											Je vais revenir sur cette idée d'infection virale
+											par l'ordinateur, un peu plus sérieusement.
+											Ce dont je vais vous parler aujourd'hui
+											c'est de piratage,
+de cyber-attaques réelles que les gens
+											de ma communauté
+— celle de la recherche universitaire —
+											ont réalisées. Je pense que
+											peu de personnes sont au courant
+											alors que c'est à la fois intéressant et effrayant.
+											Cet exposé est une sorte de ""best of""
+											des attaques de la communauté universitaire
+de sécurité informatique.
+											Aucun de ces résultats n'est le mien. C'est le fruit
+											des travaux de mes collègues, et je leur ai demandé
+											si je pouvais utiliser leurs diapositives
+dans cet exposé.
+									",All your devices can be hacked,Avi Rubin,16:56,"Internet,TEDx,computers,hack,security,technology,encryption"
+"
+","
+","
+",All your devices can be hacked,Avi Rubin,16:56,"Internet,TEDx,computers,hack,security,technology,encryption"
+"
+											So the first one I'm going to talk about
+											are implanted medical devices.
+											Now medical devices have come a long way technologically.
+											You can see in 1926 the first pacemaker was invented.
+											1960, the first internal pacemaker was implanted,
+											hopefully a little smaller than that one that you see there,
+											and the technology has continued to move forward.
+											In 2006, we hit an important milestone from the perspective
+											of computer security.
+											And why do I say that?
+											Because that's when implanted devices inside of people
+											started to have networking capabilities.
+											One thing that brings us close to home is we look
+											at Dick Cheney's device, he had a device that
+											pumped blood from an aorta to another part of the heart,
+											and as you can see at the bottom there,
+											it was controlled by a computer controller,
+											and if you ever thought that software liability
+											was very important, get one of these inside of you.
+									","
+											Así que de lo primero que voy a hablar
+											es de los dispositivos médicos implantados.
+											Hoy en día los dispositivos médicos 
+son tecnológicamente muy avanzados.
+											En 1926 se inventó 
+el primer marcapasos.
+											En 1960 fue implantado 
+el primer marcapasos,
+											afortunadamente, un poco más pequeño 
+que el que se puede ver aquí
+											y la tecnología ha seguido avanzando.
+											En 2006 alcanzamos un hito 
+importante desde la perspectiva
+											de la seguridad informática.
+											¿Y por qué digo esto?
+											Porque fue entonces cuando los 
+dispositivos implantados en personas
+											comenzaron a tener capacidad 
+de conexión en red.
+											Si echamos un vistazo
+											al dispositivo de Dick Cheney, que
+											bombeaba sangre desde la 
+aorta a otra parte del corazón
+											y, como pueden ver aquí abajo,
+											estaba controlado por un ordenador,
+											y si alguna vez han pensado 
+que la confiabilidad de un software
+											era muy importante, pónganse 
+uno de éstos dentro de Uds.
+									","
+											La première attaque que je vais aborder
+											concerne les dispositifs médicaux
+implantés dans l'organisme.
+											Ces dispositifs ont déjà
+un long parcours technologique.
+											Le premier pacemaker a été inventé en 1926,
+											et en 1960, le premier pacemaker interne
+a été implanté.
+											J'espère qu'il était un peu plus petit
+que celui que vous pouvez voir ici.
+											Depuis, la technologie n'a cessé de progresser.
+											En 2006, on a atteint
+une étape importante dans le domaine
+											de la sécurité informatique.
+											Pourquoi est-ce que je dis cela ?
+											Parce que c'est à cette époque
+que les appareils implantés dans l'organisme
+											ont commencé à pouvoir communiquer en réseau.
+											Parmi les choses qui nous font
+prendre conscience de cela,
+											le dispositif de Dick Cheney : un appareil
+											chargé de pomper le sang depuis une artère
+pour l'envoyer dans une autre partie du cœur.
+											Comme vous pouvez le voir en bas,
+											cet appareil était contrôlé par un ordinateur ;
+											Si vous n'avez jamais pensé
+que la fiabilité d'un logiciel
+											puisse être importante, faites-vous donc implanter
+l'un de ces appareils dans votre organisme.
+									",All your devices can be hacked,Avi Rubin,16:56,"Internet,TEDx,computers,hack,security,technology,encryption"
+"
+","
+","
+",All your devices can be hacked,Avi Rubin,16:56,"Internet,TEDx,computers,hack,security,technology,encryption"
+"
+											Now what a research team did was they got their hands
+											on what's called an ICD.
+											This is a defibrillator, and this is a device
+											that goes into a person to control their heart rhythm,
+											and these have saved many lives.
+											Well, in order to not have to open up the person
+											every time you want to reprogram their device
+											or do some diagnostics on it, they made the thing be able
+											to communicate wirelessly, and what this research team did
+											is they reverse engineered the wireless protocol,
+											and they built the device you see pictured here,
+											with a little antenna, that could talk the protocol
+											to the device, and thus control it.
+											In order to make their experience real — they were unable
+											to find any volunteers, and so they went
+											and they got some ground beef and some bacon
+											and they wrapped it all up to about the size
+											of a human being's area where the device would go,
+											and they stuck the device inside it
+											to perform their experiment somewhat realistically.
+											They launched many, many successful attacks.
+											One that I'll highlight here is changing the patient's name.
+											I don't know why you would want to do that,
+											but I sure wouldn't want that done to me.
+											And they were able to change therapies,
+											including disabling the device — and this is with a real,
+											commercial, off-the-shelf device —
+											simply by performing reverse engineering and sending
+											wireless signals to it.
+									","
+											Lo que hizo un equipo de investigadores
+											fue tomar lo que se llama un DAI.
+											Esto es un desfibrilador y es un aparato
+											que va implantado dentro de una 
+persona para controlar su ritmo cardíaco
+											y éstos han salvado muchas vidas.
+											Bueno, para no tener 
+que abrir a la persona
+											cada vez que se quiere 
+reprogramar el dispositivo
+											o que hay que hacer un diagnóstico 
+del mismo, lo que hacen es que el aparato
+											se puede comunicar vía inalámbrica, 
+y lo que este equipo de investigación hizo
+											fue utilizar ingeniería inversa 
+al protocolo inalámbrico,
+											y construyeron el dispositivo 
+que ven en la fotografía,
+											con una pequeña antena 
+que podía transmitir el protocolo
+											al dispositivo y de esta manera controlarlo.
+											Para poder hacer un experimento 
+real —fueron incapaces
+											de encontrar voluntarios— así que
+											tomaron carne molida y tocino
+											y lo envolvieron todo 
+hasta lograr el tamaño
+											de la zona de una persona 
+donde el dispositivo iría ubicado,
+											y pusieron el dispositivo dentro
+											para realizar un experimento que 
+fuera más o menos realista.
+											Realizaron muchos, 
+muchos ataques exitosos.
+											Uno que me gustaría destacar aquí 
+es cambiar el nombre del paciente.
+											No sé por qué alguien querría hacer eso,
+											pero estoy seguro de que 
+no quisiera que me lo hicieran a mí.
+											Y fueron capaces de cambiar terapias,
+											incluyendo la deshabilitación 
+del dispositivo —y esto con
+											un dispositivo comercial, 
+de venta al público—
+											simplemente realizando 
+ingeniería inversa y enviando
+											señales inalámbricas al mismo.
+									","
+											L'une des équipes de recherche a mis la main
+											sur ce qu'on appelle un DAI.
+											C'est un défibrillateur : un appareil
+											qu'on implante pour contrôler
+le rythme cardiaque.
+											Ces appareils ont déjà sauvé de nombreuses vies.
+											Pour éviter d'avoir à opérer le patient,
+											chaque fois que vous voulez reprogrammer l'appareil
+											ou le vérifier, ils ont fait en sorte que
+											le dispositif puisse communiquer sans fil.
+L'équipe de recherche a fait
+											de la rétro-ingénierie
+sur le protocole de communication sans fil,
+											puis a créé la machine que vous voyez ici,
+											qui pouvait, grâce à une petite antenne,
+communiquer
+											avec l'appareil, et donc le contrôler.
+											Pour rendre leur expérience plus réelle
+											— ils n'ont pas trouvé de volontaires —
+											ils ont pris du steak haché et du bacon
+											ont emballé tout ça pour que cela ait la taille
+											de la partie du corps humain
+où l'appareil devrait se loger,
+											puis ils ont installé le dispositif à l'intérieur
+											afin de réaliser leur expérience
+en conditions quasi réelles.
+											Ils ont réussi beaucoup d'attaques,
+											comme changer le nom du patient.
+											Je ne sais pas pourquoi vous voudriez faire ça,
+											mais je suis sûr que je ne voudrais pas
+qu'on me le fasse.
+											Ils ont également réussi à changer le traitement,
+											notamment en désactivant l'appareil
+											— un appareil standard du commerce —
+											simplement par rétro-ingénierie du protocole,
+puis par envoi sans fil
+											de signaux à l'appareil.
+									",All your devices can be hacked,Avi Rubin,16:56,"Internet,TEDx,computers,hack,security,technology,encryption"
+"
+","
+","
+",All your devices can be hacked,Avi Rubin,16:56,"Internet,TEDx,computers,hack,security,technology,encryption"
+"
+											There was a piece on NPR that some of these ICDs
+											could actually have their performance disrupted
+											simply by holding a pair of headphones onto them.
+									","
+											Había una parte en el NPR 
+de algunos de estos desfibriladores
+											que podía lograr que se 
+interrumpiera su desempeño
+											simplemente sosteniendo unos 
+auriculares encima de ellos.
+									","
+											Dans un article sur NPR, il était dit que certains DAI
+											pouvaient voir leur fonctionnement perturbé
+											par la simple présence d'écouteurs posés dessus.
+									",All your devices can be hacked,Avi Rubin,16:56,"Internet,TEDx,computers,hack,security,technology,encryption"
+"
+","
+","
+",All your devices can be hacked,Avi Rubin,16:56,"Internet,TEDx,computers,hack,security,technology,encryption"
+"
+											Now, wireless and the Internet
+											can improve health care greatly.
+											There's several examples up on the screen
+											of situations where doctors are looking to implant devices
+											inside of people, and all of these devices now,
+											it's standard that they communicate wirelessly,
+											and I think this is great,
+											but without a full understanding of trustworthy computing,
+											and without understanding what attackers can do
+											and the security risks from the beginning,
+											there's a lot of danger in this.
+									","
+											Ahora, la tecnología inalámbrica e Internet
+											pueden mejorar los cuidados 
+de la salud notablemente.
+											En la pantalla hay varios 
+ejemplos de situaciones
+											en donde los médicos están 
+observando los implantes
+											dentro de las personas, y para 
+todos estos dispositivos ahora,
+											es un estándar que se puedan 
+comunicar inalámbricamente,
+											y creo que esto es estupendo,
+											pero sin un completo entendimiento 
+de la informática fiable,
+											y sin entender desde un inicio 
+lo que los atacantes pueden hacer
+											y los riesgos de la seguridad,
+											hay mucho peligro en esto.
+									","
+											Bien évidemment, les technologies sans fil et Internet
+											peuvent grandement améliorer les services de santé.
+											Il y a plusieurs exemples, affichés à l'écran,
+											de situations où les docteurs
+préfèrent implanter des appareils
+											dans le corps des patients, et tous ces systèmes
+											communiquent désormais sans fil, c'est la norme.
+											Je pense que c'est une bonne chose,
+											mais sans une pleine compréhension
+de la fiabilité informatique,
+											des possibilités d'attaques
+											et des risques de sécurité inhérents,
+											le danger est grand.
+									",All your devices can be hacked,Avi Rubin,16:56,"Internet,TEDx,computers,hack,security,technology,encryption"
+"
+","
+","
+",All your devices can be hacked,Avi Rubin,16:56,"Internet,TEDx,computers,hack,security,technology,encryption"
+"
+											Okay, let me shift gears and show you another target.
+											I'm going to show you a few different targets like this,
+											and that's my talk. So we'll look at automobiles.
+									","
+											Bien, vamos a cambiar de 
+rumbo y mostrar otro ejemplo.
+											Voy a mostrarles algunos 
+ejemplos diferentes, como este
+											que será mi tema. 
+Hablemos de automóviles.
+									","
+											Passons à la vitesse supérieure
+en changeant de cible.
+											Je vais vous montrer quelques cibles potentielles
+											c'est mon sujet du jour.
+Intéressons-nous aux voitures.
+									",All your devices can be hacked,Avi Rubin,16:56,"Internet,TEDx,computers,hack,security,technology,encryption"
+"
+","
+","
+",All your devices can be hacked,Avi Rubin,16:56,"Internet,TEDx,computers,hack,security,technology,encryption"
+"
+											This is a car, and it has a lot of components,
+											a lot of electronics in it today.
+											In fact, it's got many, many different computers inside of it,
+											more Pentiums than my lab did when I was in college,
+											and they're connected by a wired network.
+											There's also a wireless network in the car,
+											which can be reached from many different ways.
+											So there's Bluetooth, there's the FM and XM radio,
+											there's actually wi-fi, there's sensors in the wheels
+											that wirelessly communicate the tire pressure
+											to a controller on board.
+											The modern car is a sophisticated multi-computer device.
+									","
+											Este es un vehículo, 
+y tiene muchos componentes,
+											hoy en día, muchos 
+de ellos son electrónicos.
+											De hecho, tiene muchos 
+ordenadores dentro de él,
+											más Pentiums que los que tenía 
+mi laboratorio cuando estaba en la facultad,
+											y están conectados por una red cableada.
+											También hay una red inalámbrica en el auto,
+											a la que se tiene acceso por diferentes medios.
+											Bluetooth, radio FM, radio XM,
+											de hecho posee un wi-fi, 
+hay sensores en las ruedas
+											que comunican la presión 
+de las mismas inalámbricamente
+											a un controlador en la cabina.
+											El auto moderno es un sofisticado 
+dispositivo multicomputadora.
+									","
+											De nos jours, une voiture possède
+											de nombreux composants électroniques.
+											En réalité, on y trouve
+plusieurs ordinateurs embarqués
+											— plus de Pentiums
+que dans le laboratoire de mon université —
+											ces ordinateurs sont connectés
+par un réseau filaire.
+											Une voiture possède également un réseau sans fil
+											accessible de différentes manières :
+											par Bluetooth, par radio FM, par radio satellite,
+											également par Wi-Fi. Des capteurs dans les roues
+											transmettent en sans fil la pression des pneus
+											à un contrôleur embarqué.
+											La voiture moderne est
+un dispositif informatique complexe.
+									",All your devices can be hacked,Avi Rubin,16:56,"Internet,TEDx,computers,hack,security,technology,encryption"
+"
+","
+","
+",All your devices can be hacked,Avi Rubin,16:56,"Internet,TEDx,computers,hack,security,technology,encryption"
+"
+											And what happens if somebody wanted to attack this?
+											Well, that's what the researchers
+											that I'm going to talk about today did.
+											They basically stuck an attacker on the wired network
+											and on the wireless network.
+											Now, they have two areas they can attack.
+											One is short-range wireless, where you can actually
+											communicate with the device from nearby,
+											either through Bluetooth or wi-fi,
+											and the other is long-range, where you can communicate
+											with the car through the cellular network,
+											or through one of the radio stations.
+											Think about it. When a car receives a radio signal,
+											it's processed by software.
+											That software has to receive and decode the radio signal,
+											and then figure out what to do with it,
+											even if it's just music that it needs to play on the radio,
+											and that software that does that decoding,
+											if it has any bugs in it, could create a vulnerability
+											for somebody to hack the car.
+									","
+											¿Y qué ocurre si alguien intenta atacarlo?
+											Bueno, eso es lo que 
+hicieron los investigadores
+											de los que les voy a hablar.
+											Básicamente adhirieron un 
+atacante a la red cableada
+											y a la red inalámbrica.
+											De esta forma tienen dos 
+flancos por donde atacar.
+											Uno es una red inalámbrica 
+de corto alcance, con la cual
+											puedes comunicarte 
+con un dispositivo cercano,
+											tanto por Bluetooth como por wi-fi,
+											y la otra es de largo alcance, 
+con la que puedes comunicarte
+											con el auto a través de la red móvil
+											o a través de una de 
+las estaciones de radio.
+											Piénsenlo. Cuando un coche 
+recibe una señal de radio
+											es procesada por un software.
+											Este software tiene que recibir y 
+descodificar esta señal de radio
+											y luego saber qué hacer con ella,
+											incluso si solo fuera música que 
+será reproducida en la radio,
+											y ese software que 
+realiza esta descodificación,
+											si tiene algún fallo, puede 
+generar una vulnerabilidad
+											para alguien que quiera hackear el auto.
+									","
+											Que se passerait-il si quelqu'un piratait ce système ?
+											Eh bien, c'est ce qu'ont fait les chercheurs
+											dont je vais vous parler.
+											En gros, ils ont placé un programme pirate
+sur le réseau filaire
+											et sur le réseau sans fil.
+											Ainsi, ils ont deux angles d'attaque :
+											le premier, à courte portée en sans fil, permettant
+											de communiquer avec le système à proximité
+											par Bluetooth ou Wi-Fi ;
+											le second, à longue portée,
+permettant de communiquer
+											avec la voiture par le réseau de téléphonie mobile
+											ou par une station de radio.
+											Réfléchissez-y : quand une voiture
+reçoit un signal radio,
+											il est traité par un logiciel.
+											Ce logiciel reçoit et décode le signal radio,
+											puis déduit ce qu'il doit en faire
+											même s'il s'agit seulement
+de musique pour l'autoradio.
+											Si ce logiciel qui décode le signal
+											a des bugs, il peut être à l'origine d'une faille
+											que l'on peut exploiter pour pirater la voiture.
+									",All your devices can be hacked,Avi Rubin,16:56,"Internet,TEDx,computers,hack,security,technology,encryption"
+"
+","
+","
+",All your devices can be hacked,Avi Rubin,16:56,"Internet,TEDx,computers,hack,security,technology,encryption"
+"
+											The way that the researchers did this work is,
+											they read the software in the computer chips
+											that were in the car, and then they used sophisticated
+											reverse engineering tools
+											to figure out what that software did,
+											and then they found vulnerabilities in that software,
+											and then they built exploits to exploit those.
+											They actually carried out their attack in real life.
+											They bought two cars, and I guess
+											they have better budgets than I do.
+											The first threat model was to see what someone could do
+											if an attacker actually got access
+											to the internal network on the car.
+											Okay, so think of that as, someone gets to go to your car,
+											they get to mess around with it, and then they leave,
+											and now, what kind of trouble are you in?
+											The other threat model is that they contact you
+											in real time over one of the wireless networks
+											like the cellular, or something like that,
+											never having actually gotten physical access to your car.
+									","
+											Los investigadores hicieron este trabajo así:
+											leyeron el software en 
+los chips del ordenador
+											del auto y luego utilizaron 
+herramientas sofisticadas
+											de ingeniería inversa
+											para saber lo que hacía el software,
+											encontraron sus vulnerabilidades,
+											y crearon mecanismos para atacarlas.
+											De hecho, realizaron el ataque en la vida real.
+											Compraron dos autos —me imagino
+											que tienen un mejor presupuesto que yo—.
+											El primer modelo era para 
+comprobar lo que sucedería
+											si un atacante tuviera acceso
+											a la red interna del auto.
+											Bien, piensa en ello como 
+si alguien accede a tu coche,
+											lo utiliza para hacer tonterías 
+por ahí y luego lo abandona,
+											y ahora, ¿en qué 
+problema te han metido?
+											El otro modelo es uno en el cual te contactan
+											en tiempo real a través de 
+una de las redes inalámbricas
+											como con un móvil, o algo similar,
+											y nunca tienen acceso físico a tu auto.
+									","
+											Voici comment ont procédé les chercheurs :
+											Ils ont étudié le logiciel présent
+sur les puces électroniques
+											présentes dans la voiture, puis ont utilisé
+											des outils complexes de rétro-ingénierie
+											afin de déterminer ce que le logiciel faisait.
+											Ils ont trouvé des failles dans ce logiciel
+											puis ont développé
+des programmes exploitant ces failles.
+											Ils ont enfin réalisé leur attaque
+dans des conditions réelles.
+											Ils ont acheté deux voitures — j'imagine
+											qu'ils ont de meilleurs budgets que moi.
+											La première expérience devait permettre de voir
+											ce qu'un hacker pouvait faire s'il accédait
+											au réseau interne de la voiture.
+											Imaginez : quelqu'un s'introduit dans votre voiture,
+											y bidouille quelque chose, puis s'en va.
+											Que risquez-vous désormais ?
+											La seconde expérience consiste à pirater la voiture
+											en temps réel par un réseau sans fil
+											— comme celui de téléphonie mobile ou un autre —
+											sans jamais avoir besoin d'accéder
+physiquement à cette voiture.
+									",All your devices can be hacked,Avi Rubin,16:56,"Internet,TEDx,computers,hack,security,technology,encryption"
+"
+","
+","
+",All your devices can be hacked,Avi Rubin,16:56,"Internet,TEDx,computers,hack,security,technology,encryption"
+"
+											This is what their setup looks like for the first model,
+											where you get to have access to the car.
+											They put a laptop, and they connected to the diagnostic unit
+											on the in-car network, and they did all kinds of silly things,
+											like here's a picture of the speedometer
+											showing 140 miles an hour when the car's in park.
+											Once you have control of the car's computers,
+											you can do anything.
+											Now you might say, ""Okay, that's silly.""
+											Well, what if you make the car always say
+											it's going 20 miles an hour slower than it's actually going?
+											You might produce a lot of speeding tickets.
+									","
+											Así es como se ve el equipo 
+para el primer modelo
+											en el cual tienen acceso al auto.
+											Toman una computadora y la 
+conectan a la unidad de diagnóstico
+											de la red interna del coche 
+y hacen todo tipo de tonterías,
+											como por ejemplo aquí 
+hay una foto del velocímetro
+											mostrando 225 km por hora 
+cuando el auto está aparcado.
+											Una vez que han controlado 
+los ordenadores del auto,
+											puedes hacer cualquier cosa.
+											Bueno, ahora podrías decir 
+""Oye, eso es absurdo"".
+											Bueno, ¿qué pasaría si se lograra 
+que el auto siempre indicara
+											que va como a 30 km por hora 
+menos de las que realmente va?
+											Te podrían poner un montón de multas.
+									","
+											Voici à quoi ressemblait leur installation
+dans le premier cas,
+											avec un accès à la voiture.
+											Ils ont utilisé un ordinateur portable
+qu'ils ont connecté à l'unité de diagnostic
+											du réseau interne de la voiture,
+puis ont fait toutes sortes de choses stupides
+											comme le montre cette image du compteur de vitesse
+											indiquant 220 km / h à l'arrêt.
+											Une fois qu'on a le contrôle
+sur les ordinateurs embarqués,
+											on peut faire ce qu'on veut.
+											Peut-être vous dites-vous :
+""Bon, ça c'est ridicule.""
+											Mais qu'en serait-il
+si le compteur affichait systématiquement
+											la vitesse réduite de 30 km / h ?
+											Certainement un grand nombre d'amendes
+pour excès de vitesse.
+									",All your devices can be hacked,Avi Rubin,16:56,"Internet,TEDx,computers,hack,security,technology,encryption"
+"
+","
+","
+",All your devices can be hacked,Avi Rubin,16:56,"Internet,TEDx,computers,hack,security,technology,encryption"
+"
+											Then they went out to an abandoned airstrip with two cars,
+											the target victim car and the chase car,
+											and they launched a bunch of other attacks.
+											One of the things they were able to do from the chase car
+											is apply the brakes on the other car,
+											simply by hacking the computer.
+											They were able to disable the brakes.
+											They also were able to install malware that wouldn't kick in
+											and wouldn't trigger until the car was doing something like
+											going over 20 miles an hour, or something like that.
+											The results are astonishing, and when they gave this talk,
+											even though they gave this talk at a conference
+											to a bunch of computer security researchers,
+											everybody was gasping.
+											They were able to take over a bunch of critical computers
+											inside the car: the brakes computer, the lighting computer,
+											the engine, the dash, the radio, etc.,
+											and they were able to perform these on real commercial
+											cars that they purchased using the radio network.
+											They were able to compromise every single one of the
+											pieces of software that controlled every single one
+											of the wireless capabilities of the car.
+											All of these were implemented successfully.
+									","
+											Luego fueron a una pista de 
+aterrizaje abandonada con dos autos,
+											la víctima y el perseguidor,
+											y realizaron otros ataques.
+											Una de las cosas que pudieron 
+hacer desde el auto perseguidor
+											fue hacer frenar al otro auto,
+											simplemente hackeando su ordenador.
+											Fueron capaces de inhibir los frenos.
+											También fueron capaces de instalar 
+programas maliciosos que no tuvieran efecto
+											y que no funcionaran hasta 
+que el auto hiciera algo como
+											ir a más de 30 km por hora.
+											Los resultados son asombrosos, 
+y cuando compartieron esta charla,
+											incluso impartiéndola en una conferencia
+											a un grupo de científicos 
+en seguridad computacional,
+											todo el mundo estaba boquiabierto.
+											Fueron capaces de tomar el control de 
+varios de los ordenadores críticos
+											dentro del auto: el que controla los frenos, las luces,
+											el motor, el tablero, la radio, etc...
+											y fueron capaces de hacerlo en 
+vehículos reales de la calle
+											que compraron, 
+utilizando la señal de radio.
+											Fueron capaces de comprometer cada
+											parte del software que controlaba cada una
+											de la conexiones inalámbricas del auto.
+											Cada una de ellas fue 
+implementada exitosamente.
+									","
+											Puis ils sont allés sur une piste d'atterrissage
+désaffectée avec deux voitures
+											— une voiture cible et une voiture de poursuite —
+											et ont lancé plusieurs autres attaques.
+											Ils ont notamment réussi à actionner les freins
+											de la voiture cible depuis la voiture de poursuite,
+											simplement en piratant l'ordinateur de bord.
+											Ils ont aussi pu désactiver les freins.
+											Ils ont enfin réussi à installer
+un virus qui ne se déclenche
+											que lorsque la voiture effectue une action
+											comme dépasser les 30 km / h par exemple.
+											Les résultats sont stupéfiants, et même
+											quand ils les ont présentés lors d'une conférence
+											destinée à des chercheurs en sécurité informatique,
+											tous étaient stupéfaits.
+											Ils ont pu prendre le contrôle
+de plusieurs ordinateurs critiques
+											de la voiture : le contrôleur des freins, de l'éclairage,
+											du moteur, du tableau de bord, de la radio, etc.
+											Et ils ont pu faire cela sur des voitures
+											achetées dans le commerce,
+en les piratant par radio.
+											Ils ont réussi à compromettre
+											chacune des parties du logiciel qui contrôle
+											toutes les fonctions sans fil de la voiture.
+											Toutes ces attaques ont été couronnées de succès.
+									",All your devices can be hacked,Avi Rubin,16:56,"Internet,TEDx,computers,hack,security,technology,encryption"
+"
+","
+","
+",All your devices can be hacked,Avi Rubin,16:56,"Internet,TEDx,computers,hack,security,technology,encryption"
+"
+											How would you steal a car in this model?
+											Well, you compromise the car by a buffer overflow
+											of vulnerability in the software, something like that.
+											You use the GPS in the car to locate it.
+											You remotely unlock the doors through the computer
+											that controls that, start the engine, bypass anti-theft,
+											and you've got yourself a car.
+									","
+											¿Cómo se podría robar un 
+auto utilizando este modelo?
+											Bueno, se podría poner en peligro 
+a través de un desbordamiento de memoria
+											de la vulnerabilidad en 
+este software, o algo parecido.
+											Se utiliza el GPS en el auto para localizarlo.
+											Se quita la llave de las puertas 
+remotamente a través de la computadora
+											que controla esto, se enciende 
+el motor, se ignora la alarma antirobo,
+											y listo, ya tienes un vehículo.
+									","
+											Comment ferait-on pour voler une voiture
+avec cette méthode ?
+											Eh bien, vous exploitez une faille de <i>buffer overflow</i>
+											dans le logiciel, ou quelque chose du genre.
+											Puis vous localisez la voiture à l'aide du GPS intégré.
+											À distance, vous ouvrez
+les portières en accédant
+											à l'ordinateur qui contrôle le verrouillage,
+vous démarrez le moteur, vous contournez l'antivol
+											et vous avez votre voiture.
+									",All your devices can be hacked,Avi Rubin,16:56,"Internet,TEDx,computers,hack,security,technology,encryption"
+"
+","
+","
+",All your devices can be hacked,Avi Rubin,16:56,"Internet,TEDx,computers,hack,security,technology,encryption"
+"
+											Surveillance was really interesting.
+											The authors of the study have a video where they show
+											themselves taking over a car and then turning on
+											the microphone in the car, and listening in on the car
+											while tracking it via GPS on a map,
+											and so that's something that the drivers of the car
+											would never know was happening.
+									","
+											La observación fue bastante interesante.
+											Los autores del estudio tienen 
+un vídeo en el que se muestra
+											como ellos tomaron control 
+del vehículo y luego encendieron
+											el micrófono y los parlantes en el auto
+											mientras lo rastreaban vía GPS en un mapa,
+											de forma que eso es 
+algo que los conductores
+											nunca sabrían que está sucediendo.
+									","
+											Autre aspect très intéressant : la surveillance.
+											Les auteurs de l'étude montrent dans une vidéo
+											comment ils ont pris le contrôle d'une voiture,
+											ont allumé le micro embarqué pour écouter,
+											tandis que la voiture était pistée
+par GPS sur une carte,
+											et tout cela de manière
+à ce que les personnes à bord
+											ne se rendent compte de rien.
+									",All your devices can be hacked,Avi Rubin,16:56,"Internet,TEDx,computers,hack,security,technology,encryption"
+"
+","
+","
+",All your devices can be hacked,Avi Rubin,16:56,"Internet,TEDx,computers,hack,security,technology,encryption"
+"
+											Am I scaring you yet?
+											I've got a few more of these interesting ones.
+											These are ones where I went to a conference,
+											and my mind was just blown, and I said,
+											""I have to share this with other people.""
+									","
+											¿Ya tienen algo de miedo?
+											Aún tengo algunas más 
+de estas historias interesantes.
+											Éstas son algunas que 
+recuerdo de una conferencia,
+											en la que mi mente estaba simplemente 
+asombrada, y yo me decía,
+											""Tengo que compartir esto con otra gente"".
+									","
+											Déjà effrayés ?
+											En voici encore quelques-unes intéressantes.
+											Voici celles que j'ai découvertes
+lors d'une conférence ;
+											j'en suis tombé à la renverse, et je me suis dit
+											qu'il fallait que je le partage avec d'autres.
+									",All your devices can be hacked,Avi Rubin,16:56,"Internet,TEDx,computers,hack,security,technology,encryption"
+"
+","
+","
+",All your devices can be hacked,Avi Rubin,16:56,"Internet,TEDx,computers,hack,security,technology,encryption"
+"
+											This was Fabian Monrose's lab
+											at the University of North Carolina, and what they did was
+											something intuitive once you see it,
+											but kind of surprising.
+											They videotaped people on a bus,
+											and then they post-processed the video.
+											What you see here in number one is a
+											reflection in somebody's glasses of the smartphone
+											that they're typing in.
+											They wrote software to stabilize —
+											even though they were on a bus
+											and maybe someone's holding their phone at an angle —
+											to stabilize the phone, process it, and
+											you may know on your smartphone, when you type
+											a password, the keys pop out a little bit, and they were able
+											to use that to reconstruct what the person was typing,
+											and had a language model for detecting typing.
+											What was interesting is, by videotaping on a bus,
+											they were able to produce exactly what people
+											on their smartphones were typing,
+											and then they had a surprising result, which is that
+											their software had not only done it for their target,
+											but other people who accidentally happened
+											to be in the picture, they were able to produce
+											what those people had been typing, and that was kind of
+											an accidental artifact of what their software was doing.
+									","
+											Esta es del laboratorio de Fabian Monrose
+											en la Universidad de Carolina del Norte, 
+y lo que hicieron fue
+											algo intuitivo, una vez que uno lo ha visto,
+											pero sorprendente a la vez.
+											Ellos grabaron en video 
+a personas en un autobús,
+											y postprocesaron el vídeo.
+											Lo que ven aquí, en el número uno es el
+											reflejo de los anteojos 
+de alguien, del teléfono móvil
+											en el que está escribiendo.
+											Ellos escribieron software para estabilizar
+											—aunque estuvieron dentro del autobús
+											y quizás con alguien sosteniendo el 
+teléfono en un ángulo específico—
+											para estabilizar el teléfono, procesarlo y
+											Uds. deben saber que en su
+teléfono, cuando ingresan
+											una contraseña, las teclas resaltan 
+un poco, por lo que fueron capaces
+											de usar eso para reconstruir lo que 
+la persona estaba escribiendo,
+											y tenían un modelo de lenguaje 
+para detectar que escribían.
+											Lo interesante fue, 
+al grabar esto en un autobús,
+											que fueron capaces de producir 
+exactamente lo que la gente
+											estaba escribiendo en sus teléfonos,
+											y luego tuvieron un resultado sorprendente,
+											su software lo había hecho 
+no solamente para su blanco,
+											sino para otras personas 
+que accidentalmente
+											fueron enfocados; fueron capaces de producir
+											que era lo que ellos habían 
+estado escribiendo, eso fue un
+											un resultado accidental de lo 
+que su software estaba haciendo.
+									","
+											Le travail du laboratoire dirigé par Fabian Monrose
+											à l'université de Caroline du Nord
+											consiste à quelque chose d'intuitif
+											mais plutôt surprenant.
+											Ils ont filmé des personnes dans un bus
+											puis ont traité la vidéo en postproduction.
+											Ce que vous voyez là au numéro 1,
+											c'est la reflet du smartphone d'une personne
+											dans ses lunettes.
+											Ils ont écrit un programme pour stabiliser
+											— même dans un bus
+											ou avec un certain angle de vue —
+											l'image du téléphone et la traiter.
+											Vous savez, quand vous entrez
+un mot de passe sur votre smartphone,
+											les touches sur lesquelles on appuie
+se mettent légèrement en surbrillance.
+											Ils ont pu utiliser cela
+pour reconstituer ce que l'utilisateur entrait,
+											et définir un modèle de langage
+pour détecter un texte tapé.
+											Ce qui est intéressant,
+c'est qu'en filmant dans un bus,
+											ils ont pu reconstituer exactement
+ce que les personnes
+											avaient tapé sur leurs smartphones.
+											Puis ils ont eu la surprise de constater
+											que leur logiciel l'avait fait
+non seulement pour la personne ciblée
+											mais également pour les autres personnes
+											apparaissant accidentellement sur la vidéo.
+Ils ont pu reconstituer
+											ce que ces personnes tapaient ;
+c'était une sorte d'effet
+											secondaire involontaire de leur logiciel.
+									",All your devices can be hacked,Avi Rubin,16:56,"Internet,TEDx,computers,hack,security,technology,encryption"
+"
+","
+","
+",All your devices can be hacked,Avi Rubin,16:56,"Internet,TEDx,computers,hack,security,technology,encryption"
+"
+											I'll show you two more. One is P25 radios.
+											P25 radios are used by law enforcement
+											and all kinds of government agencies
+											and people in combat to communicate,
+											and there's an encryption option on these phones.
+											This is what the phone looks like. It's not really a phone.
+											It's more of a two-way radio.
+											Motorola makes the most widely used one, and you can see
+											that they're used by Secret Service, they're used in combat,
+											it's a very, very common standard in the U.S. and elsewhere.
+											So one question the researchers asked themselves is,
+											could you block this thing, right?
+											Could you run a denial-of-service,
+											because these are first responders?
+											So, would a terrorist organization want to black out the
+											ability of police and fire to communicate at an emergency?
+											They found that there's this GirlTech device used for texting
+											that happens to operate at the same exact frequency
+											as the P25, and they built what they called
+											My First Jammer. (Laughter)
+											If you look closely at this device,
+											it's got a switch for encryption or cleartext.
+											Let me advance the slide, and now I'll go back.
+											You see the difference?
+											This is plain text. This is encrypted.
+											There's one little dot that shows up on the screen,
+											and one little tiny turn of the switch.
+											And so the researchers asked themselves, ""I wonder how
+											many times very secure, important, sensitive conversations
+											are happening on these two-way radios where they forget
+											to encrypt and they don't notice that they didn't encrypt?""
+									","
+											Les mostraré dos más. Una son las radios P25.
+											Los P25 son radios utilizados por la policía,
+											por todo tipo de agencias gubernamentales
+											y por los soldados en combate para comunicarse,
+											hay una opción de encriptación en esos teléfonos.
+											Así es como se ve un teléfono. 
+En realidad no es un teléfono.
+											Es más como un radio de doble-vía.
+											Motorola fabrica uno de los más 
+utilizados, y Uds. pueden ver
+											que son utilizados por el Servicio 
+Secreto y también en combate,
+											es un estándar bastante, bastante 
+común en EE.UU. y en otros lugares.
+											Así que una de las preguntas que 
+los investigadores se han hecho es,
+											¿se podría bloquear este aparato, no?
+											¿Podrías efectuar un ataque 
+tipo denegación de servicio,
+											considerando que estos son 
+equipos de primera respuesta?
+											Entonces, ¿podría una organización 
+terrorista eliminar
+											la capacidad de la policía y de los bomberos 
+de informar sobre alguna emergencia?
+											Encontraron que hay un dispositivo GirlTech 
+usado para mandar mensajes de texto
+											que opera en exactamente 
+la misma frecuencia
+											que el P25, así es que 
+construyeron lo que llamaron
+											Mi Primer Bloqueador de Señal. (Risas)
+											Si ven de cerca este dispositivo,
+											posee un interruptor para encriptación o texto puro.
+											Permítanme pasar de diapositiva, 
+y ahora regresaré.
+											¿Ven la diferencia?
+											Este es texto puro. 
+Este es encriptado.
+											Hay un pequeño punto que 
+se despliega en la pantalla,
+											y también se ve un 
+pequeño giro en el interruptor.
+											Así es que los investigadores 
+se dijeron, ""¿Me pregunto como
+											es posible que muchas veces conversaciones 
+bien seguras, importantes y delicadas
+											se dan en estos radios de dos-vías cuando se olvida
+											encriptar y no se dan 
+cuenta de que no encriptaron?""
+									","
+											Je vais vous en montrer encore deux.
+Tout d'abord, les radios P25.
+											Les radios P25 sont utilisées par la police
+											ainsi que toutes sortes d'agences gouvernementales
+											ou même les soldats au front, pour communiquer.
+											Ces téléphones possèdent une option d'encodage.
+											Voici à quoi ressemble ce téléphone.
+Ce n'est pas vraiment un téléphone,
+											plutôt un émetteur-récepteur.
+											Motorola produit le modèle le plus utilisé,
+et vous pouvez voir
+											qu'il est utilisé par les services secrets,
+par les soldats au front, etc.
+											C'est très commun aux États-Unis et ailleurs.
+											La question que se sont posée les chercheurs,
+											était : pourrait-on bloquer ces communications ?
+											Pourrait-on provoquer un déni de service
+											sur ces communications d'urgence ?
+											Est-ce qu'une organisation terroriste
+pourrait aveugler
+											les communications de la police
+et des pompiers lors d'une urgence ?
+											Ils ont découvert qu'un appareil de GirlTech permettant d'échanger des SMS
+											utilise exactement la même fréquence
+											que les radios P25 ; ils ont donc conçu
+ce qu'ils ont appelé
+											""Mon Premier Brouilleur"".
+(Rires)
+											Si vous observez attentivement l'appareil,
+											il y a un interrupteur pour encoder ou non.
+											Laissez-moi passer à la diapositive suivante,
+puis revenir à celle-ci.
+											Vous voyez la différence ?
+											Ici on est en texte clair. Là, c'est encodé.
+											Il y a un petit point qui apparaît sur l'écran,
+											et un petit changement au niveau de l'interrupteur.
+											Les chercheurs se sont donc demandé
+											combien de fois des conversations
+très sensibles et importantes
+											sont transmises avec ces émetteurs-récepteurs
+											où l'option d'encodage a été oubliée
+sans que les interlocuteurs ne le remarquent.
+									",All your devices can be hacked,Avi Rubin,16:56,"Internet,TEDx,computers,hack,security,technology,encryption"
+"
+","
+","
+",All your devices can be hacked,Avi Rubin,16:56,"Internet,TEDx,computers,hack,security,technology,encryption"
+"
+											So they bought a scanner. These are perfectly legal
+											and they run at the frequency of the P25,
+											and what they did is they hopped around frequencies
+											and they wrote software to listen in.
+											If they found encrypted communication, they stayed
+											on that channel and they wrote down, that's a channel
+											that these people communicate in,
+											these law enforcement agencies,
+											and they went to 20 metropolitan areas and listened in
+											on conversations that were happening at those frequencies.
+											They found that in every metropolitan area,
+											they would capture over 20 minutes a day
+											of cleartext communication.
+											And what kind of things were people talking about?
+											Well, they found the names and information
+											about confidential informants. They found information
+											that was being recorded in wiretaps,
+											a bunch of crimes that were being discussed,
+											sensitive information.
+											It was mostly law enforcement and criminal.
+											They went and reported this to the law enforcement
+											agencies, after anonymizing it,
+											and the vulnerability here is simply the user interface
+											wasn't good enough. If you're talking
+											about something really secure and sensitive, it should
+											be really clear to you that this conversation is encrypted.
+											That one's pretty easy to fix.
+									","
+											Así es que compraron un scanner. 
+Estos son perfectamente legales
+											y operan en la frecuencia del P25,
+											lo que hicieron fue saltar 
+en varias frecuencias
+											y diseñaron un software para escuchar.
+											Si se encontraban con comunicación 
+encriptada, ellos permanecían
+											en ese canal y anotaban, 
+que ese era un canal
+											por medio del cual la 
+gente se comunicaba,
+											agencias de policía federal,
+											y se fueron a 20 áreas 
+metropolitanas y escucharon
+											conversaciones que se 
+daban en esas frecuencias.
+											Encontraron que en 
+cada área metropolitana,
+											capturaban más de 20 minutos diarios
+											de comunicación clara.
+											Y ¿de qué hablaba la gente?
+											Bueno, ellos encontraron 
+nombres e información
+											acerca de informantes confidenciales. 
+Encontraron información
+											que estaba siendo 
+intervenida telefónicamente,
+											se discutían varios crímenes,
+											información delicada.
+											En su mayoría era información 
+criminal y de policía federal.
+											Fueron y lo reportaron 
+a la policía federal,
+											después de dejarlo en el anonimato,
+											y en este caso la vulnerabilidad 
+es simplemente que la interfaz de usuario
+											no era lo suficientemente 
+buena. Si se va hablar
+											de algo realmente seguro 
+y sensible, debe
+											tenerse completamente claro 
+que esa conversación está encriptada.
+											Eso se resuelve fácilmente.
+									","
+											Ils se sont donc procurés un scanner radio,
+un dispositif parfaitement légal aux États-Unis.
+											Ils l'ont utilisé à la fréquence des radios P25
+											et ont parcouru les fréquences environnantes
+											puis ont développé un logiciel d'écoute.
+											S'ils trouvaient une communication encodée,
+ils restaient
+											sur cette fréquence, en indiquant que cette fréquence
+											était utilisée par ces personnes pour communiquer,
+											ces agents de maintien de l'ordre.
+											Ainsi, ils sont allés dans 20 agglomérations
+et ont écouté
+											les conversations transmises sur ces fréquences.
+											Ils ont découvert que
+dans chacune de ces agglomérations
+											ils captaient plus de 20 minutes de communication
+											en clair par jour.
+											Et de quoi parlaient ces personnes ?
+											Eh bien, de noms et d'informations
+											concernant des informateurs ; d'informations
+											enregistrées lors d'écoutes téléphoniques ;
+											d'un certain nombre de délits examinés
+											et d'informations sensibles,
+											principalement policières et criminelles.
+											Ils l'ont signalé aux agences de maintien
+											de l'ordre, après avoir anonymisé les données.
+											La faille ici était simplement due à une mauvaise
+											interface utilisateur. Si vous êtes en train de discuter
+											de sujets sensibles qui doivent être sécurisés,
+il faudrait
+											que la conversation soit
+clairement indiquée comme encodée.
+											Cette faille est facile à corriger.
+									",All your devices can be hacked,Avi Rubin,16:56,"Internet,TEDx,computers,hack,security,technology,encryption"
+"
+","
+","
+",All your devices can be hacked,Avi Rubin,16:56,"Internet,TEDx,computers,hack,security,technology,encryption"
+"
+											The last one I thought was really, really cool,
+											and I just had to show it to you, it's probably not something
+											that you're going to lose sleep over
+											like the cars or the defibrillators,
+											but it's stealing keystrokes.
+											Now, we've all looked at smartphones upside down.
+											Every security expert wants to hack a smartphone,
+											and we tend to look at the USB port, the GPS for tracking,
+											the camera, the microphone, but no one up till this point
+											had looked at the accelerometer.
+											The accelerometer is the thing that determines
+											the vertical orientation of the smartphone.
+											And so they had a simple setup.
+											They put a smartphone next to a keyboard,
+											and they had people type, and then their goal was
+											to use the vibrations that were created by typing
+											to measure the change in the accelerometer reading
+											to determine what the person had been typing.
+											Now, when they tried this on an iPhone 3GS,
+											this is a graph of the perturbations that were created
+											by the typing, and you can see that it's very difficult
+											to tell when somebody was typing or what they were typing,
+											but the iPhone 4 greatly improved the accelerometer,
+											and so the same measurement
+											produced this graph.
+											Now that gave you a lot of information while someone
+											was typing, and what they did then is used advanced
+											artificial intelligence techniques called machine learning
+											to have a training phase,
+											and so they got most likely grad students
+											to type in a whole lot of things, and to learn,
+											to have the system use the machine learning tools that
+											were available to learn what it is that the people were typing
+											and to match that up
+											with the measurements in the accelerometer.
+											And then there's the attack phase, where you get
+											somebody to type something in, you don't know what it was,
+											but you use your model that you created
+											in the training phase to figure out what they were typing.
+											They had pretty good success. This is an article from the USA Today.
+											They typed in, ""The Illinois Supreme Court has ruled
+											that Rahm Emanuel is eligible to run for Mayor of Chicago""
+											— see, I tied it in to the last talk —
+											""and ordered him to stay on the ballot.""
+											Now, the system is interesting, because it produced
+											""Illinois Supreme"" and then it wasn't sure.
+											The model produced a bunch of options,
+											and this is the beauty of some of the A.I. techniques,
+											is that computers are good at some things,
+											humans are good at other things,
+											take the best of both and let the humans solve this one.
+											Don't waste computer cycles.
+											A human's not going to think it's the Supreme might.
+											It's the Supreme Court, right?
+											And so, together we're able to reproduce typing
+											simply by measuring the accelerometer.
+											Why does this matter? Well, in the Android platform,
+											for example, the developers have a manifest
+											where every device on there, the microphone, etc.,
+											has to register if you're going to use it
+											so that hackers can't take over it,
+											but nobody controls the accelerometer.
+									","
+											Finalmente, el último caso es algo 
+que creo que es algo genial,
+											y tenía que mostrárselos, 
+probablemente no es algo
+											por lo que Uds. dejarán de dormir
+											como los autos o los desfibriladores,
+											pero está robando tecleadas.
+											Hemos visto a los teléfonos inteligentes boca abajo.
+											Cada experto de seguridad quiere 
+hackear un teléfono inteligente,
+											y tendemos a analizar el puerto 
+USB, el GPS para el rastreo,
+											la cámara, el micrófono, 
+pero nadie hasta este punto
+											había observado el acelerómetro.
+											El acelerómetro es eso que determina
+											la orientación vertical del teléfono inteligente.
+											Así que hicieron algo sencillo.
+											Pusieron un teléfono 
+inteligente junto a un teclado,
+											y pusieron a la gente 
+a teclear, su meta era
+											usar las vibraciones que 
+eran generadas al teclear
+											para medir el cambio en 
+la lectura del acelerómetro
+											y determinar así lo que la 
+persona había estado escribiendo.
+											Ahora, al intentar esto en el iPhons 3GS,
+											esta es una gráfica de 
+las perturbaciones creadas
+											al escribir, y como pueden 
+observar es bastante difícil
+											de decir cuándo o qué era lo 
+que alguien estaba escribiendo,
+											pero en el iPhone 4 con 
+el acelerómetro mejorado,
+											la misma medición
+											produjo esta gráfica.
+											Esto quiere decir que se dio bastante 
+información mientras alguien
+											estaba tecleando y lo que 
+hicieron entonces fue utilizar
+											técnicas avanzadas de inteligencia 
+artificial llamadas aprendizaje de máquinas
+											para tener una fase de entrenamiento,
+											y fue así que invitaron a 
+varios alumnos universitarios
+											a que escribieran varias 
+cosas, y para aprender,
+											y poder tener las herramientas 
+de aprendizaje de máquina
+											disponibles para aprender 
+lo que la gente escribía
+											y poder así comparar
+											con las mediciones del acelerómetro.
+											Luego vino la fase de ataque, en la que
+											alguien escribía algo, 
+se desconocía el contenido,
+											pero utilizando el modelo creado
+											en la fase de entrenamiento, se determinaba 
+qué era lo que se estaba escribiendo.
+											Fue algo bastante exitoso. 
+Este es un artículo del USA Today.
+											Ellos escribieron ""La Suprema Corte 
+de Illinois ha ordenado
+											que Rahm Emanuel es elegible como 
+candidato para la Alcaldía de Chicago"".
+											—vean, esto lo ligué en la última charla—
+											""y le ordenaron permanecer 
+en la papeleta electoral"".
+											Lo interesante de este 
+sistema es que produjo
+											""Suprema de Illinois"" y 
+entonces no estaba seguro.
+											El modelo produjo varias opciones,
+											y esto es lo asombroso de algunas técnicas de I.A.,
+											las computadoras son 
+buenas en algunas cosas,
+											los humanos buenos en otras,
+											tomen lo mejor de ambos y dejen 
+que los humanos resuelvan esto.
+											No desperdicien los ciclos de computadora.
+											Un humano no va a pensar 
+que es la voluntad Suprema.
+											Es la Corte Suprema, ¿verdad?
+											Y así, juntos lograron reproducir 
+lo que se había escrito
+											simplemente midiendo el acelerómetro.
+											¿Por qué importa esto? 
+Bueno, en la plataforma Android,
+											por ejemplo, los diseñadores tienen un manifiesto
+											en el que cada dispositivo, el micrófono, etc...
+											tiene que ser registrado si va a ser utilizado
+											para que los hackers no puedan controlarlo,
+											pero nadie controla el acelerómetro.
+									","
+											La dernière chose que je trouvais
+vraiment, vraiment génial,
+											je vais juste vous le montrer ;
+ça ne va sûrement pas
+											vous empêcher de dormir
+											comme les voitures ou les défibrillateurs.
+											Il s'agit de reconnaissance de frappe au clavier.
+											Les smartphones ont été étudiés
+sous toutes les coutures.
+											Tout expert en sécurité souhaite
+pirater un smartphone ;
+											on s'est intéressé au port USB,
+au GPS pour pister le téléphone,
+											à la caméra, au micro, mais personne jusque-là
+											ne s'est intéressé à l'accéléromètre.
+											L'accéléromètre est le composant qui détermine
+											l'orientation verticale du smartphone.
+											Ils ont donc mis au point une installation simple :
+											après avoir placé un téléphone
+à proximité d'un clavier,
+											ils ont demandé à des personnes
+de taper au clavier ; leur but était
+											d'exploiter les vibrations
+créées par la frappe des touches,
+											pour mesurer les changements de l'accéléromètre
+											permettant ainsi de déterminer 
+ce que la personne écrit.
+											Avec un iPhone 3GS,
+											voici le graphe des perturbations créées
+											lors de la frappe : comme vous pouvez le voir,
+il est difficile
+											de déterminer quand quelqu'un écrit
+ou ce qu'il écrit ;
+											mais l'accéléromètre de l'iPhone 4
+a été grandement amélioré,
+											et avec les mêmes mesures,
+											on obtient ce graphe.
+											Cela vous donne beaucoup d'informations
+quand quelqu'un
+											écrit quelque chose ; les chercheurs ont utilisé
+											des techniques avancées d'intelligence artificielle
+comme l'apprentissage automatique
+											afin d'établir une phase d'apprentissage.
+											Puis ils ont demandé certainement
+à des étudiants diplômés
+											d'écrire tout un tas de choses
+afin que le système puisse
+											— grâce aux outils d'apprentissage automatique —
+											apprendre à reconnaître
+ce que les personnes écrivaient
+											et l'apparier
+											avec les mesures de l'accéléromètre.
+											Vient ensuite la phase d'attaque,
+											où quelqu'un écrit quelque chose que l'on ignore
+											mais grâce au modèle défini
+											par la phase d'apprentissage,
+on détermine ce qu'il écrit.
+											Leurs résultats étaient plutôt bons.
+Voici un article d'USA Today.
+											Il y est écrit : ""La Cour Suprême de l'Illinois a décrété
+											que Rahm Emanuel a droit de se présenter
+au poste de maire de Chicago""
+											— remarquez le lien avec la dernière conférence —
+											""et le somme de rester en lice.""
+											Le système a un comportement intéressant :
+il a retrouvé
+											les deux premiers mots
+mais ensuite n'était pas certain.
+											Le modèle a donc proposé une liste de possibilités.
+											C'est là la beauté de certaines techniques
+d'intelligence artificielle :
+											les ordinateurs sont bons dans certains domaines,
+											les humains dans d'autres.
+											Il s'agit de choisir le meilleur des deux : ici l'humain.
+											Ne perdez pas de temps
+à faire calculer les ordinateurs.
+											Un être humain saura
+qu'il ne s'agit pas du Pouvoir Suprême
+											mais de la Cour Suprême, n'est-ce pas ?
+											Et ainsi, ensemble, nous sommes capables
+de retrouver ce qui est écrit
+											simplement en observant
+les mesures de l'accéléromètre.
+											Pourquoi est-ce important ? Eh bien, sur Androïd
+											par exemple, les développeurs ont un manifeste
+											sur lequel chaque dispositif — le micro, etc. —
+											doit être déclaré si vous voulez l'utiliser :
+											ainsi les pirates ne peuvent en prendre le contrôle,
+											mais personne ne contrôle l'accéléromètre.
+									",All your devices can be hacked,Avi Rubin,16:56,"Internet,TEDx,computers,hack,security,technology,encryption"
+"
+","
+","
+",All your devices can be hacked,Avi Rubin,16:56,"Internet,TEDx,computers,hack,security,technology,encryption"
+"
+											So what's the point? You can leave your iPhone next to
+											someone's keyboard, and just leave the room,
+											and then later recover what they did,
+											even without using the microphone.
+											If someone is able to put malware on your iPhone,
+											they could then maybe get the typing that you do
+											whenever you put your iPhone next to your keyboard.
+									","
+											Entonces, ¿cuál es el punto? Pueden dejar su iPhone
+											junto al teclado de alguien, y dejar la habitación,
+											y más tarde recuperar lo que hicieron ellos,
+											aún sin utilizar el micrófono.
+											Si alguien es capaz de copiar 
+software malicioso en su iPhone,
+											también quizás podría 
+acceder a lo que escriban
+											cuando pongan su iPhone junto a su teclado.
+									","
+											Quelle est l'idée derrière cela ?
+Vous pouvez laisser votre iPhone à côté
+											du clavier de quelqu'un,
+puis simplement quitter la pièce ;
+											plus tard, vous récupèrerez ce qui a été écrit,
+											même sans l'usage d'un micro.
+											Si quelqu'un parvient à installer
+une appli malveillante sur votre iPhone,
+											il pourrait peut-être récupérer
+ce que vous écrivez
+											lorsque vous laissez votre iPhone
+à côté de votre clavier.
+									",All your devices can be hacked,Avi Rubin,16:56,"Internet,TEDx,computers,hack,security,technology,encryption"
+"
+","
+","
+",All your devices can be hacked,Avi Rubin,16:56,"Internet,TEDx,computers,hack,security,technology,encryption"
+"
+											There's several other notable attacks that unfortunately
+											I don't have time to go into, but the one that I wanted
+											to point out was a group from the University of Michigan
+											which was able to take voting machines,
+											the Sequoia AVC Edge DREs that
+											were going to be used in New Jersey in the election
+											that were left in a hallway, and put Pac-Man on it.
+											So they ran the Pac-Man game.
+									","
+											Hay muchos más ataques 
+notables que desgraciadamente
+											no puedo compartir por falta de tiempo, 
+pero él que quiero mencionar
+											fue el realizado por un grupo 
+de la Universidad de Michigan
+											que fue capaz de tomar 
+las máquinas de votación,
+											a los equipos de grabación 
+directa (DRE) Sequoia AVC Edge que
+											iban a utilizarse en las 
+elecciones de New Jersey
+											y que fueron dejados en un 
+pasillo, se les instaló Pac-Man.
+											Así es que jugaron Pac-Man en ellas.
+									","
+											Il y a pas mal d'autres attaques remarquables
+dont je n'ai
+											malheureusement pas le temps de parler,
+mais je voulais
+											attirer votre attention sur un groupe
+de l'Université du Michigan
+											qui ont pu récupérer des machines à voter,
+											des Sequoia AVC Edge DRE
+											qui allaient être utilisées
+lors d'une élection dans le New Jersey.
+											Ces machines étaient laissées dans le hall.
+Ils ont installé Pac-Man dessus.
+											Ils ont donc pu jouer à Pac-Man.
+									",All your devices can be hacked,Avi Rubin,16:56,"Internet,TEDx,computers,hack,security,technology,encryption"
+"
+","
+","
+",All your devices can be hacked,Avi Rubin,16:56,"Internet,TEDx,computers,hack,security,technology,encryption"
+"
+											What does this all mean?
+											Well, I think that society tends to adopt technology
+											really quickly. I love the next coolest gadget.
+											But it's very important, and these researchers are showing,
+											that the developers of these things
+											need to take security into account from the very beginning,
+											and need to realize that they may have a threat model,
+											but the attackers may not be nice enough
+											to limit themselves to that threat model,
+											and so you need to think outside of the box.
+									","
+											¿Qué quiere decir todo esto?
+											Bueno, creo que la sociedad 
+tiende a adoptar la tecnología
+											rápidamente. Me encanta tener
+el próximo genial aparato.
+											Pero es bastante importante, y estos 
+investigadores lo están demostrando,
+											que los desarrolladores de estas cosas
+											deben tomar en cuenta desde 
+el inicio los aspectos de seguridad,
+											y que consideren que aunque tengan 
+soluciones para manejar las amenazas,
+											los hackers pueden no 
+ser tan amables como
+											para limitarse a ese modelo de amenazas,
+											y por ello tienen que pensar fuera de lo normal.
+									","
+											Qu'est-ce que tout cela signifie ?
+											Eh bien, je pense que notre société a tendance
+à adopter de nouvelles technologies
+											très rapidement.
+On est séduit par le prochain gadget génial.
+											Mais c'est très important,
+comme nous le démontrent ces chercheurs,
+											que les développeurs travaillant dans ce domaine
+											doivent prendre en compte la sécurité dès le début
+											et réaliser que malgré leur modèle de risques
+											les pirates n'auront peut-être pas la décence
+											de s'y limiter ;
+											il faut donc penser hors des chemins battus.
+									",All your devices can be hacked,Avi Rubin,16:56,"Internet,TEDx,computers,hack,security,technology,encryption"
+"
+","
+","
+",All your devices can be hacked,Avi Rubin,16:56,"Internet,TEDx,computers,hack,security,technology,encryption"
+"
+											What we can do is be aware
+											that devices can be compromised,
+											and anything that has software in it
+											is going to be vulnerable. It's going to have bugs.
+											Thank you very much. (Applause)
+									","
+											Lo que nosotros podemos 
+hacer, es estar conscientes
+											de que los dispositivos 
+pueden ser comprometidos,
+											y que cualquier cosa que 
+tenga software dentro de sí
+											puede ser vulnerable. Tendrá fallos.
+											Muchas gracias. (Aplausos)
+									","
+											Nous pouvons prendre conscience
+											que tout dispositif peut être compromis,
+											et que tout ce qui comporte du logiciel
+											est susceptible d'être vulnérable.
+Il y aura forcément des bugs.
+											Merci beaucoup.
+(Applaudissements)
+									",All your devices can be hacked,Avi Rubin,16:56,"Internet,TEDx,computers,hack,security,technology,encryption"
+"
+","
+","
+",All your devices can be hacked,Avi Rubin,16:56,"Internet,TEDx,computers,hack,security,technology,encryption"

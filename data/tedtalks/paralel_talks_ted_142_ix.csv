@@ -1,0 +1,1485 @@
+en,tr,fr,de,title,speaker,duration,tags
+"
+","
+","
+","
+",A new equation for intelligence,Alex Wissner-Gross,11:48,"TEDx,intelligence,mind,physics,science,math,brain,neuroscience,cognitive science,future,gaming,robots,machine learning,AI,extraterrestrial life,cosmos,universe,engineering,software,programming"
+"
+											Intelligence — what is it?
+											If we take a look back at the history
+											of how intelligence has been viewed,
+											one seminal example has been
+											Edsger Dijkstra's famous quote that
+											""the question of whether a machine can think
+											is about as interesting
+											as the question of whether a submarine
+											can swim.""
+											Now, Edsger Dijkstra, when he wrote this,
+											intended it as a criticism
+											of the early pioneers of computer science,
+											like Alan Turing.
+											However, if you take a look back
+											and think about what have been
+											the most empowering innovations
+											that enabled us to build
+											artificial machines that swim
+											and artificial machines that [fly],
+											you find that it was only through understanding
+											the underlying physical mechanisms
+											of swimming and flight
+											that we were able to build these machines.
+											And so, several years ago,
+											I undertook a program to try to understand
+											the fundamental physical mechanisms
+											underlying intelligence.
+									","
+											Zekâ nedir?
+											Eğer zekânın nasıl algılandığı konusunda
+											tarihe göz atarsak,
+											yaratıcı bir örnek,
+											Edsger Dijkstra'nın şu ünlü deyişidir:
+											""Bir makinenin düşünüp düşünemeyeceği sorusu,
+											hemen hemen bir denizaltının
+											yüzüp yüzemeyeceği sorusu
+											kadar ilginçtir.""
+											Edsger Dijkstra bunu
+											Alan Turing gibi,
+											bilgisayar biliminin öncülerine
+											yönelik bir eleştiri olarak yazmıştı.
+											Ancak, geriye dönüp bakar
+											ve yüzen yapay makineler
+											ile uçan yapay makineleri
+											yapmamızı sağlayan
+											en faydalı buluşların
+											neler olduğunu düşünürseniz,
+											yalnızca yüzme ve uçmanın altında yatan
+											fiziksel mekanizmaları anlayabilmemiz
+											sebebiyle bu makineleri
+											yapabildiğimizi görürsünüz.
+											Ben de birkaç yıl önce
+											zekânın altında yatan
+											temel fiziksel mekanizmaları anlayabilmek için
+											bir program üstlendim.
+									","
+											L'intelligence — qu'est-ce que c'est?
+											Si nous jetons un œil à l'histoire
+											de la façon dont
+l'intelligence a été vue,
+											un exemple précurseur fut
+											la célèbre citation d'Edsger Dijkstra 
+disant que
+											la question 
+« Une machine peut-elle penser ? »
+											est à peu près 
+aussi intéressante
+											que la question « Un sous-marin
+											peut-il nager ? »
+											Edsger Dijkstra, en l'écrivant,
+											la dirigeait comme une critique
+											des pionniers 
+des sciences informatiques,
+											comme Alan Turing.
+											Cependant, si vous prenez du recul
+											et pensez à ce qu'étaient
+											les innovations les plus puissantes
+											qui nous ont permis de construire
+											des machine artificielles sachant nager
+											et des machines artificielles
+sachant voler,
+											vous trouvez que 
+ce fut uniquement à travers
+											la compréhension des mécanismes 
+physiques sous-jacents
+											de la nage et du vol
+											que nous avons pu
+construire ces machines.
+											Donc, il y a plusieurs années,
+											j'ai entrepris un programme 
+pour essayer de comprendre
+											les mécanismes physiques fondamentaux
+											sous-jacents à l'intelligence.
+									","
+											Intelligenz — Was ist das?
+											Wenn wir uns ansehen, wie Intelligenz
+											geschichtlich interpretiert wurde,
+											dann war das berühmte Zitat
+											von Edsger Dijkstra ein Durchbruch:
+											""Die Frage, ob eine Maschine denken kann,
+											ist ungefähr so interessant
+											wie die Frage, ob ein U-Boot
+											schwimmen kann.""
+											Als Edsger Dijkstra dies geschrieben hat,
+											wollte er die frühen Pioniere
+											der Informatik kritisieren,
+											wie zum Beispiel Alan Turing.
+											Wenn wir aber zurückschauen
+											und darüber nachdenken,
+											welche bahnbrechenden Erfindungen
+											uns am meisten dazu befähigt haben,
+											schwimmende Maschinen
+											und denkende [fliegende] Maschinen 
+zu bauen,
+											sehen wir, dass uns nur das Verständnis
+											des physikalischen Mechanismus
+											des Schwimmens und Fliegens
+											dazu befähigt hat, 
+diese Maschinen zu bauen.
+											Deshalb habe ich vor einigen Jahren
+											den Versuch gestartet,
+											den fundamentalen physikalischen 
+Mechanismus
+											der Intelligenz zu verstehen.
+									",A new equation for intelligence,Alex Wissner-Gross,11:48,"TEDx,intelligence,mind,physics,science,math,brain,neuroscience,cognitive science,future,gaming,robots,machine learning,AI,extraterrestrial life,cosmos,universe,engineering,software,programming"
+"
+","
+","
+","
+",A new equation for intelligence,Alex Wissner-Gross,11:48,"TEDx,intelligence,mind,physics,science,math,brain,neuroscience,cognitive science,future,gaming,robots,machine learning,AI,extraterrestrial life,cosmos,universe,engineering,software,programming"
+"
+											Let's take a step back.
+											Let's first begin with a thought experiment.
+											Pretend that you're an alien race
+											that doesn't know anything about Earth biology
+											or Earth neuroscience or Earth intelligence,
+											but you have amazing telescopes
+											and you're able to watch the Earth,
+											and you have amazingly long lives,
+											so you're able to watch the Earth
+											over millions, even billions of years.
+											And you observe a really strange effect.
+											You observe that, over the course of the millennia,
+											Earth is continually bombarded with asteroids
+											up until a point,
+											and that at some point,
+											corresponding roughly to our year, 2000 AD,
+											asteroids that are on
+											a collision course with the Earth
+											that otherwise would have collided
+											mysteriously get deflected
+											or they detonate before they can hit the Earth.
+											Now of course, as earthlings,
+											we know the reason would be
+											that we're trying to save ourselves.
+											We're trying to prevent an impact.
+											But if you're an alien race
+											who doesn't know any of this,
+											doesn't have any concept of Earth intelligence,
+											you'd be forced to put together
+											a physical theory that explains how,
+											up until a certain point in time,
+											asteroids that would demolish the surface of a planet
+											mysteriously stop doing that.
+											And so I claim that this is the same question
+											as understanding the physical nature of intelligence.
+									","
+											Bir durup düşünelim.
+											Önce bir düşünce deneyiyle başlayalım.
+											Dünya biyolojisi, dünya nöroloji bilimi veya
+											dünya zekâsı hakkında hiçbir şey
+											bilmeyen bir uzaylı olduğunuzu düşünün.
+											Ancak inanılmaz teleskoplarınız var
+											ve dünyayı seyredebiliyorsunuz.
+											Aynı zamanda çok uzun hayatlarınız var,
+											böylece dünyayı milyonlarca, hatta milyarlarca
+											yıl seyredebiliyorsunuz.
+											Ve çok garip bir sonuç gözlemliyorsunuz.
+											Şunu gözlemliyorsunuz: 1000 yıl boyunca
+											dünya sürekli göktaşı yağmuru altındayken
+											bir an geliyor ve
+											kabaca bizim zamanımızdaki,
+											M.S.2000 senesindeki o andan itibaren,
+											yörüngesi Dünya'nın
+											yörüngesi ile çakışan, dolayısıyla
+											çarpması beklenen göktaşları
+											dünyaya çarpmadan, esrarengiz bir şekilde
+											yön değiştiriyor veya patlıyorlar.
+											Elbette, dünyalılar olarak
+											biz biliyoruz ki, bunun nedeni
+											kendimizi korumaya çalışıyor olmamız.
+											Bir çarpışmayı engellemeye çalışıyoruz.
+											Ama eğer bunların hiçbirinden haberdar olmayan,
+											dünya zekâsı ile ilgili hiçbir fikre sahip olmayan
+											bir uzaylı iseniz,
+											belli bir noktaya kadar
+											bir gezegenin yüzeyini tahrip eden göktaşlarının
+											esrarengiz bir şekilde bundan vazgeçmesi üzerine,
+											bunun nasıl olduğunu açıklayan fiziksel bir kuram
+											ortaya koymaya mecbur olursunuz.
+											Ben de, bu sorunun zekânın fiziki yapısını
+											anlamakla aynı soru olduğunu iddia ediyorum.
+									","
+											Prenons du recul.
+											Commençons tout d'abord 
+avec une expérience de pensée.
+											Supposons que
+vous êtes une race extra-terrestre
+											qui ne sait rien 
+ni de la biologie terrestre
+											ni des neurosciences terrestres 
+ou encore de l'intelligence terrestre,
+											mais vous avez des télescopes incroyables
+											et vous êtes à même de voir la Terre,
+											et vous avez de très longues vies,
+											donc vous pouvez voir la Terre
+											sur des millions, 
+même des milliards d'années.
+											Et vous verrez un phénomène 
+très étrange.
+											Vous observerez que, 
+durant le dernier millénaire,
+											la Terre est continuellement
+bombardée d’astéroïdes
+											jusqu'à un moment,
+											et à ce moment,
+											qui correspond à environ 2000 années
+de notre calendrier
+											les astériodes 
+sur une trajectoire de collision
+											avec la Terre
+											qui l'auraient percutée
+											ont mystérieusement dévié
+											ou ont explosé
+avant de pouvoir atteindre la Terre.
+											Bien sûr, en tant que terriens,
+											nous savons que 
+la raison serait
+											que nous essayons de nous sauver.
+											Nous essayons d'éviter un impact.
+											Mais si vous êtes
+une race extra-terrestre
+											qui ne sait rien de tout cela,
+											qui n'a aucune idée
+du concept d'intelligence terrestre,
+											vous seriez forcés de mettre en place
+											une théorie physique 
+qui explique comment,
+											à partir d'un certain point dans le temps,
+											les astéroïdes qui démoliraient 
+la surface d'une planète
+											en sont mystérieusement empêchés.
+											Je pense donc que 
+c'est la même question
+											que celle qui consiste à comprendre 
+la nature physique de l'intelligence.
+									","
+											Gehen wir einen Schritt zurück
+											und beginnen mit einem Gedankenexperiment.
+											Stellen wir uns vor, 
+wir wären Außerirdische,
+											die nichts über irdische Biologie,
+											Neurowissenschaften oder Intelligenz wissen,
+											aber fantastische Teleskope haben,
+											mit denen wir die Erde beobachten können,
+											und ein erstaunlich langes Leben haben,
+											sodass wir die Erde über Millionen,
+											sogar Milliarden von Jahren 
+beobachten können.
+											Da sehen wir einen sehr seltsamen Effekt,
+											nämlich dass die Erde 
+über die Jahrtausende hinweg,
+											kontinuierlich von Asteroiden 
+bombardiert wird
+											bis zu einem Punkt,
+											und dass an dem Punkt,
+											ungefähr im Jahr 2000 n. Chr.,
+											Asteroiden, die sich auf
+											Kollisionskurs mit der Erde befinden,
+											die sonst kollidiert wären,
+											mysteriöserweise abgelenkt werden
+											oder explodieren, bevor sie die Erde treffen.
+											Als Erdbewohner kennen wir natürlich
+											den eigentlichen Grund dafür, nämlich
+											dass wir uns selbst zu retten versuchen.
+											Wir versuchen einen Einschlag zu vermeiden.
+											Aber wenn man ein Außerirdischer wäre,
+											der von all dem nichts weiß,
+											der keine Ahnung von 
+irdischer Intelligenz hat,
+											wäre man gezwungen,
+											eine physikalische Theorie aufzustellen,
+											warum Asteroiden, die bis zu 
+einem bestimmten Zeitpunkt
+											die Oberfläche des Planeten 
+zerstört haben,
+											dies mysteriöserweise nicht mehr tun.
+											Ich behaupte, dass das 
+die gleiche Frage ist,
+											wie die Frage nach 
+der physikalischen Natur der Intelligenz.
+									",A new equation for intelligence,Alex Wissner-Gross,11:48,"TEDx,intelligence,mind,physics,science,math,brain,neuroscience,cognitive science,future,gaming,robots,machine learning,AI,extraterrestrial life,cosmos,universe,engineering,software,programming"
+"
+","
+","
+","
+",A new equation for intelligence,Alex Wissner-Gross,11:48,"TEDx,intelligence,mind,physics,science,math,brain,neuroscience,cognitive science,future,gaming,robots,machine learning,AI,extraterrestrial life,cosmos,universe,engineering,software,programming"
+"
+											So in this program that I
+undertook several years ago,
+											I looked at a variety of different threads
+											across science, across a variety of disciplines,
+											that were pointing, I think,
+											towards a single, underlying mechanism
+											for intelligence.
+											In cosmology, for example,
+											there have been a variety of
+different threads of evidence
+											that our universe appears to be finely tuned
+											for the development of intelligence,
+											and, in particular, for the development
+											of universal states
+											that maximize the diversity of possible futures.
+											In game play, for example, in Go —
+											everyone remembers in 1997
+											when IBM's Deep Blue beat 
+Garry Kasparov at chess —
+											fewer people are aware
+											that in the past 10 years or so,
+											the game of Go,
+											arguably a much more challenging game
+											because it has a much higher branching factor,
+											has also started to succumb
+											to computer game players
+											for the same reason:
+											the best techniques right now
+for computers playing Go
+											are techniques that try to maximize future options
+											during game play.
+											Finally, in robotic motion planning,
+											there have been a variety of recent techniques
+											that have tried to take advantage
+											of abilities of robots to maximize
+											future freedom of action
+											in order to accomplish complex tasks.
+											And so, taking all of these different threads
+											and putting them together,
+											I asked, starting several years ago,
+											is there an underlying mechanism for intelligence
+											that we can factor out
+											of all of these different threads?
+											Is there a single equation for intelligence?
+									","
+											İşte yıllar önce başladığım bu programda,
+											bilimdeki, çeşitli dsiplinlerdeki
+											farklı bağlantı çeşitlerine baktım
+											ki bence bunlar
+											zekânın altyapısını oluşturan tek bir mekanizmaya
+											işaret ediyor.
+											Örneğin evrenbilimde
+											pek çok kanıt gösteriyor ki, evrenimiz
+											zekânın gelişmesi için, özellikle de
+											olası gelecek çeşitliliğini
+											en yüksek sayıya ulaştıracak
+											evren durumlarının
+											gelişmesi için özenle ayarlanmıştır.
+											Go oyunu gibi bazı oyunlarda —
+											satrançta IBM bilgisayar Deep Blue'nun
+											Garry Kasparov'u yendiğini herkes hatırlar —
+											çok az insan farkında olsa da,
+											yaklaşık son 10 senedir,
+											daha fazla sayıda
+											dallanma olasılığına sahip olması nedeniyle
+											daha zor kabul edilen Go oyunu da
+											bilgisayarlar karşısında
+											aynı nedenden dolayı
+											yenik düşmeye başlamıştır:
+											Şu anda Go oynayan bilgisayarların en iyi teknikleri,
+											oyun esnasında olası gelecek sayısını en yükseğe
+											ulaştırmayı deneyen tekniklerdir.
+											Nihayet, robotik hareket planlamada,
+											karmaşık görevlerin başarılması amacıyla
+											robotların becerilerini kullanarak,
+											gelecek hareket özgürlüğü olasılıklarını
+											en yüksek sayıya ulaştıracak
+											çok çeşitli yeni teknikler bulunmaktadır.
+											Böylece, bütün bu bağlantıları alıp
+											bir araya getirerek,
+											yıllar önce şu soruyu sordum:
+											Zekâ için bütün bu farklı bağlantıları
+											göz önüne alabileceğimiz
+											temel bir mekanizma bulunuyor mu?
+											Zekâ için tek bir denklem var mı?
+									","
+											Et dans ce programme 
+que j'ai entrepris il y a plusieurs années,
+											j'ai étudié une variété 
+de différents fils conducteurs
+											à travers la science, 
+à travers une multitude de disciplines,
+											qui convergeaient, je le pense,
+											vers un unique, mécanisme sous-jacent
+											pour décrire l'intelligence.
+											En cosmologie, par exemple,
+											il y a eu une multitude de preuves
+											que notre Univers semble 
+être finement ajusté
+											pour le développement de l'intelligence,
+											et, en particulier, pour le développement
+											des états universaux
+											qui maximisent la diversité 
+de futurs possibles.
+											Dans la stratégie de jeu, 
+par exemple, dans le Go —
+											tout le monde se souvient de 1997
+											lorsque le Deep Blue d'IBM 
+a battu Garry Kasparov aux échecs —
+											mais peu de gens
+sont au courant
+											que dans les dix dernières années,
+											le jeu de Go,
+											sans doute un jeu
+bien plus stimulant
+											car il a un bien plus grand facteur 
+de ramification,
+											a aussi commencé à succomber
+											face aux programmes informatiques
+											pour la même raison :
+											les meilleures techniques 
+pour les ordinateurs jouant au Go
+											sont des techniques 
+qui tentent de maximiser les options futures
+											durant la partie.
+											Finalement, dans la planification 
+des mouvements chez les robots,
+											une grande variété 
+de nouvelles techniques
+											qui ont essayé 
+de tirer avantage
+											de la capacité des robots 
+à maximiser
+											la liberté d'action future
+											de façon à accomplir
+des tâches complexes.
+											De cette façon, 
+parlant de tous ces différents sujets
+											et les mettant ensemble,
+											je me suis demandé, 
+il y a quelques années,
+											s'il y avait un mécanisme 
+sous-jacent à l'intelligence
+											que nous pourrions tirer
+											de tous ces différents sujets ?
+											Y a-t-il une équation unique
+pour l'intelligence ?
+									","
+											Deshalb habe ich mir in dem Versuch, 
+den ich vor einigen Jahren gestartet habe,
+											viele unterschiedliche Themen angesehen,
+											aus verschiedenen 
+wissenschaftlichen Bereichen,
+											die, denke ich, alle auf einen einzigen,
+											der Intelligenz zugrundeliegenden
+											Mechanismus hindeuten.
+											In der Kosmologie, zum Beispiel,
+											gab es mehrere verschiedene Beweisketten,
+											dass unser Universum genau
+auf die Entwicklung
+											von Intelligenz abgestimmt 
+zu sein scheint,
+											und, noch genauer, für die Entwicklung
+											von universellen Zuständen,
+											die die Vielfalt möglicher Zukünfte 
+maximieren.
+											Beim Spielen, zum Beispiel, bei Go —
+											alle erinnern sich noch an das Jahr 1997,
+											als der Deep Blue von IBM
+Garry Kasparov im Schach schlug —
+											weniger Menschen sind sich bewusst,
+											dass etwa in den letzten 10 Jahren
+											das Spiel Go,
+											mutmaßlich ein 
+viel anspruchsvolleres Spiel,
+											da es einen viel höheren 
+Verzweigungsfaktor hat,
+											immer öfter auch
+											von Computern gewonnen wird,
+											und zwar aus dem gleichen Grund:
+											die momentan besten Techniken 
+für Computer, Go zu spielen,
+											sind Techniken, die zukünftige Optionen
+während des Spiels
+											zu maximieren versuchen.
+											Bei der Planung von Roboterbewegung
+											gibt es eine Reihe neuer Techniken,
+											die versuchen auszunutzen,
+											dass Roboter zukünftige Handlungsfreiheit
+											maximieren können,
+											um komplexe Aufgaben zu erfüllen.
+											Also mit dem gesammelten Wissen
+											aus all diesen verschiedenen Bereichen
+											habe ich mich vor einigen Jahren gefragt,
+											ob es einen der Intelligenz
+zugrundeliegenden Mechanismus gibt,
+											den wir aus all diesen Gedankensträngen
+											herausfiltern können?
+											Gibt es eine einzelne Gleichung 
+für Intelligenz?
+									",A new equation for intelligence,Alex Wissner-Gross,11:48,"TEDx,intelligence,mind,physics,science,math,brain,neuroscience,cognitive science,future,gaming,robots,machine learning,AI,extraterrestrial life,cosmos,universe,engineering,software,programming"
+"
+","
+","
+","
+",A new equation for intelligence,Alex Wissner-Gross,11:48,"TEDx,intelligence,mind,physics,science,math,brain,neuroscience,cognitive science,future,gaming,robots,machine learning,AI,extraterrestrial life,cosmos,universe,engineering,software,programming"
+"
+											And the answer, I believe, is yes.
+[""F = T ∇ Sτ""]
+											What you're seeing is probably
+											the closest equivalent to an E = mc²
+											for intelligence that I've seen.
+											So what you're seeing here
+											is a statement of correspondence
+											that intelligence is a force, F,
+											that acts so as to maximize future freedom of action.
+											It acts to maximize future freedom of action,
+											or keep options open,
+											with some strength T,
+											with the diversity of possible accessible futures, S,
+											up to some future time horizon, tau.
+											In short, intelligence doesn't like to get trapped.
+											Intelligence tries to maximize
+future freedom of action
+											and keep options open.
+											And so, given this one equation,
+											it's natural to ask, so what can you do with this?
+											How predictive is it?
+											Does it predict human-level intelligence?
+											Does it predict artificial intelligence?
+											So I'm going to show you now a video
+											that will, I think, demonstrate
+											some of the amazing applications
+											of just this single equation.
+									","
+											Ve yanıt, bence, evettir.
+[""F = T ∇ Sτ""]
+											Bu gördüğünüz, muhtemelen
+											zekâ için bir E = mc² formülüne
+											en yakın olandır, benim bildiğim kadarıyla.
+											Bu gördüğünüz ifade
+											şuna karşılık geliyor:
+											Zekâ bir F kuvveti olup, etkisi
+											gelecek hareket özgürlüğü sayısını yükseltmektir.
+											Etkisi, olası erişilebilir gelecek çeşitliliği S olmak üzere,
+											tau zamanına dek, T gücü ile
+											gelecek hareket özgürlüğü miktarını
+											en yükseğe ulaştırmak veya
+											seçenekleri açık tutmaktır.
+											Kısacası, zekâ kısıtlanmayı sevmez.
+											Zekâ, gelecekteki hareket özgürlüğünü en yükseğe çıkarmaya
+											ve seçenekleri açık tutmaya çalışır.
+											Bu yüzden, bu denkleme bakıp
+											bununla ne yapılabilir, diye sormak doğaldır.
+											Ne kadar öngürü sağlar?
+											İnsan düzeyindeki zekâyı mı öngörür?
+											Yapay zekâyı mı öngörür?
+											Şimdi size göstereceğim video
+											bence, bu tek denklemin
+											nefes kesen uygulamalarından
+											bazılarını gösteriyor.
+									","
+											Et la réponse, je pense, 
+est oui. [« F = T ∇ Sτ»]
+											Ce que vous voyez 
+est probablement
+											le plus proche équivalent
+à un E = mc²
+											pour l'intelligence que j'ai jamais vu.
+											Ce que vous voyez ici
+											est l'assertion
+											que l'intelligence est une force, F,
+											qui agit de façon 
+à maximiser la capacité d'action future.
+											Elle agit de façon 
+à maximiser la capacité d'action future,
+											ou encore elle garde 
+le maximum d'options possibles,
+											avec une certaine vigueur puissance T,
+											avec la diversité 
+de futurs accessibles possibles, S,
+											jusqu'à un horizon temporel futur, tau.
+											En bref, l'intelligence 
+n'aime pas être prise au piège.
+											L'intelligence tente 
+de maximiser la liberté d'action future
+											et garde des portes ouvertes.
+											Étant donné cette unique équation,
+											il est naturel de se demander, 
+que pouvons-nous faire avec ça ?
+											A quel point est-ce utile 
+pour établir des prévisions ?
+											Est-ce qu'elle prédit l'intelligence humaine ?
+											Est-ce qu'elle prédit 
+l'intelligence artificielle ?
+											Je vais maintenant 
+vous montrer une vidéo
+											qui va, je pense, mettre en valeur
+											quelques applications incroyables
+											de cette seule équation.
+									","
+											Und die Antwort, glaube ich, ist ja.
+[""F = T ∇ Sτ""].
+											Was Sie gerade sehen, ist wahrscheinlich
+											die beste Entsprechung zu E = mc²
+											für Intelligenz, die ich gesehen habe.
+											Was Sie hier sehen,
+											ist eine Aussage der Übereinstimmung,
+											dass Intelligenz eine Kraft ist (F),
+											die so wirkt, dass die zukünftige 
+Handlungsfreiheit maximiert wird.
+											Sie wirkt so, dass die zukünftige 
+Handlungsfreiheit maximiert wird,
+											oder hält Optionen offen,
+											mit einer Stärke (T),
+											mit der Vielfältigkeit möglicher 
+erreichbarer Zukünfte (S),
+											bis zu einem zukünftigen Zeithorizont (tau).
+											Kurz gesagt, Intelligenz mag es nicht,
+in eine Falle zu tappen.
+											Intelligenz versucht, zukünftige 
+Handlungsfreiheit zu maximieren,
+											und Optionen offen zu halten.
+											Nun, mit dieser einen Gleichung
+											ist es ganz natürlich zu fragen, 
+was können wir damit machen?
+											Was kann sie vorhersagen?
+											Prognostiziert sie menschliche Intelligenz?
+											Prognostiziert sie künstliche Intelligenz?
+											Jetzt werde ich Ihnen ein Video zeigen,
+											das, glaube ich,
+											einige der erstaunlichen Anwendungen
+											dieser Gleichung demonstrieren wird.
+									",A new equation for intelligence,Alex Wissner-Gross,11:48,"TEDx,intelligence,mind,physics,science,math,brain,neuroscience,cognitive science,future,gaming,robots,machine learning,AI,extraterrestrial life,cosmos,universe,engineering,software,programming"
+"
+","
+","
+","
+",A new equation for intelligence,Alex Wissner-Gross,11:48,"TEDx,intelligence,mind,physics,science,math,brain,neuroscience,cognitive science,future,gaming,robots,machine learning,AI,extraterrestrial life,cosmos,universe,engineering,software,programming"
+"
+											(Video) Narrator: Recent research in cosmology
+											has suggested that universes that produce
+											more disorder, or ""entropy,"" over their lifetimes
+											should tend to have more favorable conditions
+											for the existence of intelligent
+beings such as ourselves.
+											But what if that tentative cosmological connection
+											between entropy and intelligence
+											hints at a deeper relationship?
+											What if intelligent behavior doesn't just correlate
+											with the production of long-term entropy,
+											but actually emerges directly from it?
+											To find out, we developed a software engine
+											called Entropica, designed to maximize
+											the production of long-term entropy
+											of any system that it finds itself in.
+											Amazingly, Entropica was able to pass
+											multiple animal intelligence
+tests, play human games,
+											and even earn money trading stocks,
+											all without being instructed to do so.
+											Here are some examples of Entropica in action.
+									","
+											(Video) Sunucu: Yeni bir evrenbilim araştırması,
+											ömürleri boyunca daha fazla
+											düzensizlik ya da ""entropi"" üreten evrenlerin
+											bizim gibi akıllı varlıkların var olması için
+											daha uygun koşullara sahip olmaya yatkın olduğunu öne sürdü.
+											Ancak entropi ve zekâ arasındaki bu belirsiz
+											kozmolojik bağlantı ya daha derin
+											bir ilişkiye işaret ediyorsa?
+											Ya zeki davranış, uzun süreli entropi üretimi
+											ile sadece ilişkili olmayıp,
+											aslında doğrudan oradan doğuyorsa?
+											Bunu bulmak üzere Entropica adında
+											bir yazılım motoru geliştirdik.
+											İçinde bulunduğu her sistemde uzun süreli entropi
+											üretimini maksimize etmek üzere tasarlandı.
+											Şaşılacak şekilde, Entropica
+											hayvanlara yönelik birçok zekâ testini geçti, insanlara yönelik oyunlar oynadı
+											ve hatta hisse senetleri alıp satarak para kazandı,
+											bunların hepsini talimat almadan yaptı.
+											İşte Entropica iş başındayken bazı örnekler.
+									","
+											(Vidéo) Narrateur : Des recherches 
+récentes en cosmologie
+											ont suggéré que 
+les univers qui produisent
+											plus de désordre, ou « entropie »
+au cours de leur durée de vie
+											devraient tendre à avoir 
+des conditions plus favorables
+											à l'existence d'être intelligents 
+comme nous.
+											Mais si cette connexion expérimentale 
+en cosmologie
+											entre l'entropie et l'intelligence
+											suggérait une corrélation plus profonde ?
+											Et si le comportement intelligent
+n'était pas simplement corrélé
+											avec la production d'une entropie 
+sur le long-terme,
+											mais plutôt qu'elle émergeait
+directement de celle-ci ?
+											Pour savoir, nous avons développé 
+une machine logicielle
+											appelée Entropica, créée pour maximiser
+											la production d'une entropie 
+sur le long-terme
+											du système quelconque 
+dans lequel elle se trouve.
+											Aussi impressionnant que 
+ça puisse paraître, Entropica fut à même
+											de réussir plusieurs tests 
+d'intelligence animale, a pu jouer
+											à des jeux humains, et elle a même réussi 
+à gagner de l'argent en plaçant en bourse,
+											le tout sans à recevoir d'instruction.
+											Voici quelques exemples
+d'Entropica en action.
+									","
+											(Video) Erzähler: Neue Forschung 
+in der Kosmologie
+											deutet darauf hin, dass Universen,
+											die mehr Unordnung, oder ""Entropie"",
+in ihrem Leben produzieren,
+											dazu tendieren, vorteilhaftere Bedingungen
+											für die Existenz intelligenten Lebens,
+so wie das unsere, zu besitzen.
+											Aber was ist, wenn diese eventuelle
+kosmologische Verbindung
+											zwischen Entropie und Intelligenz
+											auf einen tieferen Zusammenhang hindeutet?
+											Was, wenn intelligentes Verhalten 
+nicht nur
+											mit der Produktion 
+langfristiger Entropie korreliert,
+											sondern sich sogar direkt 
+daraus entwickelt?
+											Um das herauszufinden, haben wir eine Engine,
+[eigenständiger Teil eines Computerprogramms]
+											""Entropica"", entwickelt, um die Produktion
+											von langfristiger Entropie 
+jedes Systems zu maximieren,
+											in dem sich die Engine befindet.
+											Erstaunlicherweise hat Entropica
+											viele Tierintelligenztests bestanden, 
+Spiele erfolgreich gespielt
+											und sogar Geld mit Aktien verdient,
+											jeweils ohne jegliche Anleitung.
+											Hier sind einige Beispiele 
+von Entropica in Aktion.
+									",A new equation for intelligence,Alex Wissner-Gross,11:48,"TEDx,intelligence,mind,physics,science,math,brain,neuroscience,cognitive science,future,gaming,robots,machine learning,AI,extraterrestrial life,cosmos,universe,engineering,software,programming"
+"
+","
+","
+","
+",A new equation for intelligence,Alex Wissner-Gross,11:48,"TEDx,intelligence,mind,physics,science,math,brain,neuroscience,cognitive science,future,gaming,robots,machine learning,AI,extraterrestrial life,cosmos,universe,engineering,software,programming"
+"
+											Just like a human standing
+upright without falling over,
+											here we see Entropica
+											automatically balancing a pole using a cart.
+											This behavior is remarkable in part
+											because we never gave Entropica a goal.
+											It simply decided on its own to balance the pole.
+											This balancing ability will have appliactions
+											for humanoid robotics
+											and human assistive technologies.
+											Just as some animals can use objects
+											in their environments as tools
+											to reach into narrow spaces,
+											here we see that Entropica,
+											again on its own initiative,
+											was able to move a large
+disk representing an animal
+											around so as to cause a small disk,
+											representing a tool, to reach into a confined space
+											holding a third disk
+											and release the third disk
+from its initially fixed position.
+											This tool use ability will have applications
+											for smart manufacturing and agriculture.
+											In addition, just as some other animals
+											are able to cooperate by pulling
+opposite ends of a rope
+											at the same time to release food,
+											here we see that Entropica is able to accomplish
+											a model version of that task.
+											This cooperative ability has interesting implications
+											for economic planning and a variety of other fields.
+									","
+											Tıpkı düşmeden ayakta duran bir insan gibi,
+											Entropica'nın tekerlekli aracı kullanarak
+											çubuğu dengede tutmaya çalıştığını görüyoruz.
+											Bu davranış bir açıdan dikkate değer,
+											çünkü Entropica'ya hiç bir amaç vermemiştik.
+											Kendi kendine direği dengelemeye karar verdi.
+											Bu dengeleme becerisinin
+											insansı robotlar ve
+											insan destekleme teknolojileri için uygulamaları olacaktır.
+											Bazı hayvanların dar alanlara
+											ulaşmak için çevrelerindeki nesneleri
+											alet olarak kullanabilmelerine benzer şekilde,
+											burada Entropica'yı
+											yine kendi inisiyatifiyle,
+											bir hayvanı temsil eden büyük disk ile,
+											bir aracı temsil eden küçük diski kapalı bir alana
+											ulaşmasını sağlamak üzere hareket ettirerek,
+											üçüncü bir diski tutup
+											baştaki sabit pozisyonundan kurtarabildiğini görüyoruz.
+											Bu alet kullanma becerisinin
+											akıllı imalat ve tarım için uygulamaları olacaktır.
+											Buna ilaveten, aynen bazı hayvanların
+											yiyeceği serbest bırakmak için bir halatın iki ucunu
+											aynı anda tutarak işbirliği yapabilmeleri gibi,
+											burada Entropica'nın bu görevin model versiyonunu
+											başarabildiğini görüyoruz.
+											Bu işbirliği kabiliyetinin iktisadi planlama ve
+											pek çok başka alana ilginç etkileri bulunmaktadır.
+									","
+											Tout comme un humain 
+se tenant debout sans tomber,
+											nous voyons ici Entropica
+											utilisant un chariot pour automatiquement
+tenir une barre en équilibre.
+											Ce comportement 
+est remarquable en partie
+											car nous n'avons jamais donné 
+de but à Entropica.
+											Elle a simplement décidé d'elle même 
+de tenir la barre en équilibre.
+											Cette capacité de tenir l'équilibre 
+aura des applications
+											pour la robotique humanoïde
+											et les technologies 
+d'assistance aux humains.
+											Tout comme les animaux 
+peuvent utiliser des objets
+											dans leur environnement 
+comme les outils
+											pour atteindre des lieux étroits,
+											ici nous voyons Entropica,
+											encore de sa propre initiative,
+											être capable de bouger un grand disque
+représentant un animal
+											de façon 
+à faire qu'un petit disque,
+											représentant un outil, 
+puisse atteindre un espace confiné
+											en tenant un troisième disque
+											et relâche le troisième disque 
+de sa position fixe initiale.
+											Cet outil aura des applications
+											en fabrication intelligente
+et dans l'agriculture.
+											En plus, tout comme d'autres animaux
+											sont capables de coopérer 
+en tirant les bouts opposés d'une corde
+											en même temps 
+pour libérer de la nourriture,
+											nous voyons ici qu'Entropica 
+est à même d'accomplir
+											une version modélisée 
+de cette tâche.
+											Cette capacité de coopération 
+a des applications intéressantes
+											pour la planification économique 
+et dans une multitude d'autre domaines.
+									","
+											Wie ein Mensch aufrecht stehend,
+ohne umzufallen,
+											sehen wir hier Entropica,
+											wie sie automatisch einen Stab
+auf einem Wagen balanciert.
+											Dieses Verhalten ist bemerkenswert,
+											weil wir Entropia nie ein Ziel 
+gegeben haben.
+											Sie hat einfach von selbst entschieden,
+den Stab zu balancieren.
+											Diese Fähigkeit zu balancieren, 
+wird Anwendung
+											für humanoide Robotik
+											und technische Hilfsmittel finden.
+											So wie manche Tiere Objekte
+											in ihrer Umwelt als Werkzeuge nutzen,
+											um in enge Räume einzudringen,
+											sehen wir hier, dass Entropica 
+es geschafft hat,
+											wieder aus eigener Initiative,
+											eine große Scheibe, die ein Tier darstellt,
+so zu bewegen,
+											dass eine kleine Scheibe, ein Werkzeug,
+											in einen begrenzten Raum eindringt,
+											der eine dritte Scheibe enthält,
+											und befreit die dritte Scheibe
+aus ihrer Fixierung.
+											Diese Fähigkeit wird Anwendung finden
+											bei eleganten Produktionstechniken
+und Landwirtschaft.
+											Außerdem, genau wie manche Tiere
+											kooperieren, indem sie gleichzeitig
+an beiden Enden eines Seils ziehen,
+											um an Essen zu gelangen,
+											sehen wir hier, dass Entropia es schafft,
+											dies im Modell umzusetzen.
+											Diese Kooperationsfähigkeit 
+hat interessante Auswirkungen
+											für Wirtschaftsplanung 
+und viele andere Bereiche.
+									",A new equation for intelligence,Alex Wissner-Gross,11:48,"TEDx,intelligence,mind,physics,science,math,brain,neuroscience,cognitive science,future,gaming,robots,machine learning,AI,extraterrestrial life,cosmos,universe,engineering,software,programming"
+"
+","
+","
+","
+",A new equation for intelligence,Alex Wissner-Gross,11:48,"TEDx,intelligence,mind,physics,science,math,brain,neuroscience,cognitive science,future,gaming,robots,machine learning,AI,extraterrestrial life,cosmos,universe,engineering,software,programming"
+"
+											Entropica is broadly applicable
+											to a variety of domains.
+											For example, here we see it successfully
+											playing a game of pong against itself,
+											illustrating its potential for gaming.
+											Here we see Entropica orchestrating
+											new connections on a social network
+											where friends are constantly falling out of touch
+											and successfully keeping
+the network well connected.
+											This same network orchestration ability
+											also has applications in health care,
+											energy, and intelligence.
+											Here we see Entropica directing the paths
+											of a fleet of ships,
+											successfully discovering and
+utilizing the Panama Canal
+											to globally extend its reach from the Atlantic
+											to the Pacific.
+											By the same token, Entropica
+											is broadly applicable to problems
+											in autonomous defense, logistics and transportation.
+									","
+											Entropica, çok çeşitli alanlara
+											yaygın olarak uygulanabilir.
+											Örneğin, burada kendi kendine
+											başarılı bir şekilde pinpon oynadığın görüyoruz.
+											Bu da oyunlar için potansiyelini göstermektedir.
+											Burada Entropica'nın, arkadaşların
+											durmadan bağlantıyı kopardığı bir sosyal ağda
+											yeni bağlantılar kurmasını
+											ve ağında bağlantılarını başarılı şekilde sürdürmesini izliyoruz.
+											Bu ağ düzenleme kabiliyetinin,
+											sağlık, enerji ve zekâ alanında
+											uygulamaları bulunmaktadır.
+											Burada, Entropica'nın gemi filosunun
+											rotasını ayarlamasını,
+											erişimini küresel olarak Atlantik'ten Pasifik'e
+											genişletmek için Panama Kanalı'nı
+											keşfedip yararlanmasını görüyoruz.
+											Bu kapsamda, Entropica
+											otonom savunma, lojistik ve ulaşımdaki
+											sorunlar için kapsamlı olarak kullanılabilir.
+									","
+											Entropica peut être 
+largement mise en œuvre
+											dans une multitude de domaines.
+											Par exemple, ici nous la voyons
+jouer à une partie
+											de pong contre elle-même 
+avec succès,
+											illustrant son potentiel pour le jeu.
+											Ici nous voyons Entropica
+											orchestrant de nouvelles connexions
+sur un réseau social
+											où les amis 
+se perdent de vue constamment
+											et arrivent à conserver
+un réseau bien connecté.
+											Cette même capacité 
+à l'orchestration de réseaux
+											a aussi des applications 
+dans les domaines de la santé,
+											de l'énergie, et du renseignement.
+											Ici nous voyons Entropica 
+commandant les routes
+											d'une flotte de bateaux,
+											découvrant et utilisant avec succès
+le Canal de Panama
+											pour étendre mondialement 
+son emprise de l'Atlantique
+											au Pacifique.
+											De la même façon, Entropica
+											peut être mise en œuvre 
+dans les problèmes
+											de défense autonome, 
+de logistique et de transport.
+									","
+											Entropica kann auf eine Vielzahl
+											von Gebieten angewendet werden.
+											Hier sehen wir sie erfolgreich
+											ein Pong-Spiel gegen sich selbst spielen,
+											was ihr Potential im Spielen zeigt.
+											Hier sehen wir Entropica dabei,
+											wie sie neue Verbindungen 
+in sozialen Netzwerken arrangiert,
+											wo Freunde immer wieder 
+den Kontakt verlieren;
+											sie erhält das Netzwerk 
+erfolgreich aufrecht.
+											Dieselbe Fähigkeit des Networkings
+											hat auch Anwendung 
+bei medizinischer Versorgung,
+											Energie und Intelligenz.
+											Hier sehen wir Entropica,
+											wie sie eine Schiffsflotte lenkt,
+											den Panamakanal erfolgreich
+entdeckt und benutzt,
+											um ihre Reichweite global vom Atlantik
+											in den Pazifik auszudehnen.
+											Aus dem gleichen Grund ist Entropica
+											weitreichend auf Probleme
+											in autonomer Verteidigung, Logistik 
+und Transport anwendbar.
+									",A new equation for intelligence,Alex Wissner-Gross,11:48,"TEDx,intelligence,mind,physics,science,math,brain,neuroscience,cognitive science,future,gaming,robots,machine learning,AI,extraterrestrial life,cosmos,universe,engineering,software,programming"
+"
+","
+","
+","
+",A new equation for intelligence,Alex Wissner-Gross,11:48,"TEDx,intelligence,mind,physics,science,math,brain,neuroscience,cognitive science,future,gaming,robots,machine learning,AI,extraterrestrial life,cosmos,universe,engineering,software,programming"
+"
+											Finally, here we see Entropica
+											spontaneously discovering and executing
+											a buy-low, sell-high strategy
+											on a simulated range traded stock,
+											successfully growing assets under management
+											exponentially.
+											This risk management ability
+											will have broad applications in finance
+											and insurance.
+									","
+											Son olarak burada, Entropica'yı
+											temsili alım satımı yapılan çeşitli hisse senetlerini
+											kendiliğinden keşfedip, düşük fiyata alıp yüksek fiyata satma
+											stratejisiyle değerlendirmesini,
+											yönetimindeki varlıkları başarılı bir şekilde
+											katlayarak büyütmesini izliyoruz.
+											Bu risk yönetimi kabiliyetinin
+											finans ve sigorta alanında geniş uygulamaları
+											olacaktır.
+									","
+											Enfin, nous voyons Entropica
+											découvrant spontanément et exécutant
+											une stratégie achat-prix bas, 
+vente-prix haut
+											sur un place boursière simulée,
+											faisant grossir avec succès 
+ses actifs de façon
+											exponentielle.
+											Cette capacité
+à la maitrise du risque
+											aura des applications vastes
+en finance
+											et en assurance.
+									","
+											Zum Schluss sehen wir hier, wie Entropica
+											eine ""billig kaufen, teuer verkaufen""-Strategie
+											an einer simulierten Fernhandelsbörse
+											spontan entdeckt und anwendet
+											und dadurch das verwaltete Vermögen
+											exponentiell vermehrt.
+											Diese Fähigkeit zum Risikomanagement
+											wird umfassende Anwendung in Finanzen
+											und Versicherungen haben.
+									",A new equation for intelligence,Alex Wissner-Gross,11:48,"TEDx,intelligence,mind,physics,science,math,brain,neuroscience,cognitive science,future,gaming,robots,machine learning,AI,extraterrestrial life,cosmos,universe,engineering,software,programming"
+"
+","
+","
+","
+",A new equation for intelligence,Alex Wissner-Gross,11:48,"TEDx,intelligence,mind,physics,science,math,brain,neuroscience,cognitive science,future,gaming,robots,machine learning,AI,extraterrestrial life,cosmos,universe,engineering,software,programming"
+"
+											Alex Wissner-Gross: So what you've just seen
+											is that a variety of signature human intelligent
+											cognitive behaviors
+											such as tool use and walking upright
+											and social cooperation
+											all follow from a single equation,
+											which drives a system
+											to maximize its future freedom of action.
+									","
+											Alex Wissner-Gross: Biraz önce gördükleriniz,
+											alet kullanımı, ayakta yürümek
+											ve sosyal işbirliği gibi
+											insana özgü zeki bilişsel davranışın
+											çeşitli örnekleri olup,
+											tümü gelecekteki hareket özgürlüğünü
+											maksimize etme amaçlı bir sistemi yöneten
+											tek bir denklemden çıkmaktadır.
+									","
+											Alex Wissner-Gross : Ce que
+vous venez de voir
+											est qu'une variété 
+de comportements cognitifs
+											caractéristiques 
+de l'intelligence humaine
+											comme l'utilisation d'outils, 
+la marche debout
+											et la coopération sociale
+											suivent toutes une équation unique,
+											qui conduit un système
+											pour maximiser 
+sa capacité d'action future.
+									","
+											Alex Wissner-Gross: 
+Wir haben gerade gesehen,
+											dass eine Vielzahl 
+von eindeutig menschlich-intelligenten
+											kognitiven Verhaltensweisen,
+											so wie Werkzeuggebrauch, aufrechter Gang
+											und soziale Kooperation,
+											alle aus einer einzigen Gleichung folgen,
+											die ein System dazu bringt,
+											seine zukünftige Handlungsfreiheit 
+zu maximieren.
+									",A new equation for intelligence,Alex Wissner-Gross,11:48,"TEDx,intelligence,mind,physics,science,math,brain,neuroscience,cognitive science,future,gaming,robots,machine learning,AI,extraterrestrial life,cosmos,universe,engineering,software,programming"
+"
+","
+","
+","
+",A new equation for intelligence,Alex Wissner-Gross,11:48,"TEDx,intelligence,mind,physics,science,math,brain,neuroscience,cognitive science,future,gaming,robots,machine learning,AI,extraterrestrial life,cosmos,universe,engineering,software,programming"
+"
+											Now, there's a profound irony here.
+											Going back to the beginning
+											of the usage of the term robot,
+											the play ""RUR,""
+											there was always a concept
+											that if we developed machine intelligence,
+											there would be a cybernetic revolt.
+											The machines would rise up against us.
+											One major consequence of this work
+											is that maybe all of these decades,
+											we've had the whole concept of cybernetic revolt
+											in reverse.
+											It's not that machines first become intelligent
+											and then megalomaniacal
+											and try to take over the world.
+											It's quite the opposite,
+											that the urge to take control
+											of all possible futures
+											is a more fundamental principle
+											than that of intelligence,
+											that general intelligence may in fact emerge
+											directly from this sort of control-grabbing,
+											rather than vice versa.
+									","
+											Burada derin bir ironi var.
+											Robot teriminin ilk kullanıldığı zamana
+											geri dönersek,
+											yani R.U.R. oyununa,
+											baştan beri hep şu görüş vardı:
+											Eğer makine zekâsı geliştirecek olursak,
+											sibernetik bir isyan çıkacaktır.
+											Makineler bize karşı ayaklanacaklardır.
+											Bu çalışmanın en önemli sonuçlarından biri şu:
+											Belki de bu onlarca yıl boyunca
+											sibernetik isyan kavramının bütününü
+											tersinden alıyorduk.
+											Makinelerin önce zeka sahibi olmaları
+											ve ardından megalomanyaklaşıp
+											dünyayı ele geçirmeleri değildi.
+											Tam tersine, yani,
+											olası tüm gelecekleri
+											kontrol etme dürtüsü,
+											zekanınkinden daha temel
+											bir ilke,
+											genel anlamda zeka aslında doğrudan
+											bu tür kontrol düşkünlüğünden doğabilir,
+											tersinden ziyade.
+									","
+											Toutefois, il y a 
+une profonde ironie ici.
+											Revenons à l'origine
+											de l'usage du mot robot,
+											la pièce de théâtre « RUR »;
+											il y a toujours eu le concept
+											que si nous développions 
+une intelligence machine,
+											il y aurait une révolte cybernétique.
+											Les machines 
+se soulèveraient contre nous.
+											Une conséquence majeure 
+de ce travail
+											est peut-être que 
+durant toutes ces décennies,
+											nous avons eu tout le concept
+de révolte cybernétique
+											à l'envers.
+											Les machines ne deviennent pas 
+d'abord intelligentes
+											puis mégalomanes
+											puis essayent 
+de conquérir le monde.
+											C'est plutôt l'opposé,
+											que l'insistance 
+à vouloir prendre le contrôle
+											de tous les futurs possibles
+											est un principe
+plus fondamental encore
+											que celui d'intelligence,
+											l'intelligence générale
+pourrait en effet
+											émerger directement 
+de ce type de prise de contrôle,
+											plutôt que le contraire.
+									","
+											Dies führt zu einer tiefen Ironie.
+											Wenn wir zurückgehen zum Anfang
+											der Nutzung des Wortes ""Roboter"",
+											dem Spiel ""RUR"",
+											dann gab es immer das Konzept,
+											dass, wenn wir 
+maschinelle Intelligenz entwickelten,
+											es eine kypernetische Revolte gäbe.
+											Die Maschinen würden sich gegen uns wenden.
+											Eine wichtige Folgerung 
+aus dieser Arbeit ist,
+											dass wir vielleicht seit Jahrzehnten
+											das Konzept kybernetischer Revolten
+											falsch herum gesehen haben.
+											Maschinen werden nicht zuerst intelligent
+											und dann größenwahnsinning,
+											und versuchen, die Welt zu erobern.
+											Das ziemliche Gegenteil stimmt,
+											dass der Drang zur Kontrolle
+											aller möglichen Zukünfte
+											ein fundamentaleres Prinzip ist,
+											als das der Intelligenz,
+											dass allgemeine Intelligenz sogar direkt
+											aus dieser Art Kontrolldrang hervortritt,
+											statt umgekehrt.
+									",A new equation for intelligence,Alex Wissner-Gross,11:48,"TEDx,intelligence,mind,physics,science,math,brain,neuroscience,cognitive science,future,gaming,robots,machine learning,AI,extraterrestrial life,cosmos,universe,engineering,software,programming"
+"
+","
+","
+","
+",A new equation for intelligence,Alex Wissner-Gross,11:48,"TEDx,intelligence,mind,physics,science,math,brain,neuroscience,cognitive science,future,gaming,robots,machine learning,AI,extraterrestrial life,cosmos,universe,engineering,software,programming"
+"
+											Another important consequence is goal seeking.
+											I'm often asked, how does the ability to seek goals
+											follow from this sort of framework?
+											And the answer is, the ability to seek goals
+											will follow directly from this
+											in the following sense:
+											just like you would travel through a tunnel,
+											a bottleneck in your future path space,
+											in order to achieve many other
+											diverse objectives later on,
+											or just like you would invest
+											in a financial security,
+											reducing your short-term liquidity
+											in order to increase your wealth over the long term,
+											goal seeking emerges directly
+											from a long-term drive
+											to increase future freedom of action.
+									","
+											Diğer bir önemli sonuç, amaç arayışıdır.
+											Bana sıkça şu soruluyor: Amaca yönelme becerisi
+											bu çeşit bir yapıdan nasıl ortaya çıkar?
+											Amaca yönelme becerisinin doğrudan
+											bunun sonucu oluşu
+											şöyle açıklanabilir:
+											Sonradan pek çok başka hedefe ulaşabilir
+											olmak amacıyla, önünüzdeki yollar arasındaki
+											sıkıntı verici tünellerden
+											geçmeyi seçmeniz gibi,
+											ya da uzun vadede
+											birikiminizi arttırmak için
+											kısa vadede harcamalarınızı azaltarak
+											finansal güvence yatırımı yapmanız gibi,
+											amaç arayışı da doğrudan,
+											gelecekteki hareket özgürlüğünü arttırmak amaçlı
+											uzun vadeye yönelik bir dürtüden kaynaklanır.
+									","
+											Une autre conséquence importante 
+est la recherche du but.
+											On me demande souvent, 
+comment la capacité
+											à chercher des buts
+suit ce genre de système ?
+											Et la réponse c'est que 
+la capacité à poursuivre des objectifs
+											découlera simplement
+											de cette façon :
+											tout comme vous voyageriez
+à travers un tunnel,
+											un goulot 
+dans votre chemin spatial futur,
+											de façon à atteindre
+											beaucoup d'objectifs divers
+plus tard,
+											ou tout comme vous investiriez
+											dans une sécurité financière,
+											réduisant vos liquidités
+à court-terme
+											de façon à augmenter votre richesse 
+sur le long-terme,
+											la poursuite d'objectifs 
+émerge directement
+											d'une tendance sur le long terme
+											à augmenter
+la liberté d'action future.
+									","
+											Eine weitere wichtige Folgerung 
+ist die Zielsuche.
+											Ich werde oft gefragt, wie resultiert 
+die Fähigkeit, Ziele zu suchen,
+											aus dieser Grundstruktur?
+											Und die Antwort darauf: 
+Die Fähigkeit zur Zielsuche
+											folgt direkt daraus,
+											und zwar im folgenden Sinn:
+											Genau wie Sie durch 
+einen Tunnel reisen würden,
+											einem Flaschenhals der möglichen Zukünfte,
+											sodass Sie später viele andere Ziele
+											erreichen können,
+											oder genauso wie Sie
+											in finanzielle Sicherheit investieren,
+											dadurch kurzfristig weniger liquide sind,
+											aber langfristig Ihr Vermögen vergrößern,
+											so folgt Zielsuche direkt
+											aus einem langfristigen Drang,
+											die zukünftige Handlungsfreiheit 
+zu vergrößern.
+									",A new equation for intelligence,Alex Wissner-Gross,11:48,"TEDx,intelligence,mind,physics,science,math,brain,neuroscience,cognitive science,future,gaming,robots,machine learning,AI,extraterrestrial life,cosmos,universe,engineering,software,programming"
+"
+","
+","
+","
+",A new equation for intelligence,Alex Wissner-Gross,11:48,"TEDx,intelligence,mind,physics,science,math,brain,neuroscience,cognitive science,future,gaming,robots,machine learning,AI,extraterrestrial life,cosmos,universe,engineering,software,programming"
+"
+											Finally, Richard Feynman, famous physicist,
+											once wrote that if human civilization were destroyed
+											and you could pass only a single concept
+											on to our descendants
+											to help them rebuild civilization,
+											that concept should be
+											that all matter around us
+											is made out of tiny elements
+											that attract each other when they're far apart
+											but repel each other when they're close together.
+											My equivalent of that statement
+											to pass on to descendants
+											to help them build artificial intelligences
+											or to help them understand human intelligence,
+											is the following:
+											Intelligence should be viewed
+											as a physical process
+											that tries to maximize future freedom of action
+											and avoid constraints in its own future.
+									","
+											Son olarak, ünlü fizikçi Richard Feynman
+											bir zamanlar şöyle yazmıştı: Eğer insan uygarlığı
+											yok olsaydı ve gelecek nesile uygarlığı
+											tekrar kurmaları için sadece bir
+											düşünce iletilebilecek olaydı,
+											bu kavram şu olmalıydı:
+											Çevremizdeki bütün maddeler
+											ayrıyken birbirlerini çeken,
+											fakat yakınken birbirlerini iten
+											küçük yapı taşlarından oluşmuştur.
+											Gelecek nesillerin yapay zeka
+											yapılandırmasına ya da
+											insan zekasını anlamalarına yardımcı olmak için,
+											onlara iletmek istediğim
+											kendi eşdeğer ifadem ise şudur:
+											Zekâ, gelecekteki hareket özgürlüğü miktarını
+											en yüksekte tutmaya ve
+											kısıtlamalardan kaçınmaya çalışan
+											fiziksel bir süreç olarak görülmelidir.
+									","
+											Enfin, Richard Feynman, 
+physicien célèbre,
+											écrit un jour que 
+si la civilisation humaine était détruite
+											et que nous pouvions 
+ne laisser qu'un unique concept
+											à nos descendants
+											pour les aider 
+à reconstruire la civilisation,
+											ce concept devrait être
+											que toute la matière autour de nous
+											est constituée 
+d'éléments minuscules
+											qui s'attirent les uns les autres 
+quand ils sont éloignés
+											mais se repoussent les uns les autres 
+quand ils sont proches.
+											Mon équivalent pour ce message
+											à laisser à nos descendants
+											pour les aider 
+à construire l'intelligence artificielle
+											ou pour les aider à comprendre
+l'intelligence humaine,
+											est la suivante :
+											l'intelligence devrait être perçue
+											comme un processus physique
+											qui tente de maximiser 
+la capacité d'action future
+											et éviter les contraintes 
+de son propre futur.
+									","
+											Zum Abschluss, Richard Feynman, 
+berühmter Physiker,
+											hat einmal geschrieben, dass, wenn die 
+menschliche Zivilisation zerstört würde,
+											und nur ein einziges Konzept 
+an unsere Nachfahren
+											weitergegeben werden könnte,
+											um den Wiederaufbau zu unterstützen,
+											sollte es dieses sein:
+											dass alle Materie um uns herum
+											aus winzigen Elementen besteht,
+											die sich anziehen, wenn sie 
+weit voneinander weg sind,
+											aber sich abstoßen, wenn sie 
+nah zusammen sind.
+											Mein Äquivalent dieser Aussage,
+											Nachfahren etwas zu hinterlassen,
+											um den Aufbau künstlicher Intelligenz 
+zu unterstützen,
+											oder ihnen zu helfen, 
+menschliche Intelligenz zu verstehen,
+											ist das folgende:
+											Intelligenz sollte gesehen werden
+											als ein physikalischer Prozess,
+											der zukünftige Handlungsfreiheit 
+zu maximieren versucht,
+											und Einschränkungen der Zukunft vermeidet.
+									",A new equation for intelligence,Alex Wissner-Gross,11:48,"TEDx,intelligence,mind,physics,science,math,brain,neuroscience,cognitive science,future,gaming,robots,machine learning,AI,extraterrestrial life,cosmos,universe,engineering,software,programming"
+"
+","
+","
+","
+",A new equation for intelligence,Alex Wissner-Gross,11:48,"TEDx,intelligence,mind,physics,science,math,brain,neuroscience,cognitive science,future,gaming,robots,machine learning,AI,extraterrestrial life,cosmos,universe,engineering,software,programming"
+"
+											Thank you very much.
+									","
+											Çok teşekkür ederim.
+									","
+											Merci beaucoup.
+									","
+											Vielen Dank.
+									",A new equation for intelligence,Alex Wissner-Gross,11:48,"TEDx,intelligence,mind,physics,science,math,brain,neuroscience,cognitive science,future,gaming,robots,machine learning,AI,extraterrestrial life,cosmos,universe,engineering,software,programming"
+"
+","
+","
+","
+",A new equation for intelligence,Alex Wissner-Gross,11:48,"TEDx,intelligence,mind,physics,science,math,brain,neuroscience,cognitive science,future,gaming,robots,machine learning,AI,extraterrestrial life,cosmos,universe,engineering,software,programming"
+"
+											(Applause)
+									","
+											(Alkış)
+									","
+											(Applaudissements)
+									","
+											(Applaus)
+									",A new equation for intelligence,Alex Wissner-Gross,11:48,"TEDx,intelligence,mind,physics,science,math,brain,neuroscience,cognitive science,future,gaming,robots,machine learning,AI,extraterrestrial life,cosmos,universe,engineering,software,programming"
+"
+","
+","
+","
+",A new equation for intelligence,Alex Wissner-Gross,11:48,"TEDx,intelligence,mind,physics,science,math,brain,neuroscience,cognitive science,future,gaming,robots,machine learning,AI,extraterrestrial life,cosmos,universe,engineering,software,programming"

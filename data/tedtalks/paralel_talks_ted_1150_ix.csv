@@ -1,0 +1,814 @@
+en,fr,title,speaker,duration,tags
+"
+","
+",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+											Hello.
+											I'm not a real person.
+											I'm actually a copy of a real person.
+											Although, I feel like a real person.
+											It's kind of hard to explain.
+											Hold on — I think I saw
+a real person ... there's one.
+											Let's bring him onstage.
+									","
+											Salut.
+											Je ne suis pas une vraie personne.
+											Je suis une copie d'une vraie personne.
+											Même si je me sens
+comme une vraie personne.
+											C'est plutôt dur à expliquer.
+											Attendez - je pense que j'ai vu
+une vraie personne... En voilà une.
+											Amenons-le sur scène.
+									",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+","
+",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+											Hello.
+									","
+											Salut.
+									",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+","
+",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+											(Applause)
+									","
+											(Applaudissements)
+									",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+","
+",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+											What you see up there is a digital human.
+											I'm wearing an inertial
+motion capture suit
+											that's figuring what my body is doing.
+											And I've got a single camera here
+that's watching my face
+											and feeding some machine-learning software
+that's taking my expressions,
+											like, ""Hm, hm, hm,""
+											and transferring it to that guy.
+											We call him ""DigiDoug.""
+											He's actually a 3-D character
+that I'm controlling live in real time.
+									","
+											Ce que vous voyez là-haut est
+un humain numérique.
+											Je porte un costume inertiel
+de motion capture
+											qui sait ce que mon corps fait.
+											Et j'ai une caméra ici
+qui observe mon visage
+											et nourrit un logiciel d'apprentissage
+automatique qui prend mes expressions,
+											comme « Hm, hm, hm »
+											et le transfère à ce gars.
+											On l'appelle « DigiDoug ».
+											C'est en fait un personnage 3D
+que je contrôle en direct, en temps réel.
+									",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+","
+",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+											So, I work in visual effects.
+											And in visual effects,
+											one of the hardest things to do
+is to create believable, digital humans
+											that the audience accepts as real.
+											People are just really good
+at recognizing other people.
+											Go figure!
+											So, that's OK, we like a challenge.
+									","
+											Je travaille dans les effets spéciaux.
+											Et dans les effets spéciaux,
+											une des choses les plus dures à faire
+est créer des humains numériques crédibles
+											que le public accepte comme réels.
+											Les gens sont juste très bons
+pour reconnaître d'autres gens.
+											Sans blague !
+											Mais ça va, on aime les défis.
+									",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+","
+",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+											Over the last 15 years,
+											we've been putting
+humans and creatures into film
+											that you accept as real.
+											If they're happy, you should feel happy.
+											And if they feel pain,
+you should empathize with them.
+											We're getting pretty good at it, too.
+											But it's really, really difficult.
+											Effects like these take thousands of hours
+											and hundreds of really talented artists.
+									","
+											Au cours des 15 dernières années,
+											nous avons mis des humains
+et des créatures dans les films
+											que vous acceptez comme réels.
+											S'ils sont heureux, vous devriez
+vous sentir heureux
+											Et s'ils souffrent, vous devriez ressentir
+de l'empathie pour eux.
+											Nous devenons plutôt bons à ça aussi.
+											Mais c'est vraiment, vraiment difficile.
+											Des effets comme ceux-ci demandent
+des milliers d'heures
+											et des centaines d'artistes
+vraiment doués.
+									",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+","
+",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+											But things have changed.
+											Over the last five years,
+											computers and graphics cards
+have gotten seriously fast.
+											And machine learning,
+deep learning, has happened.
+											So we asked ourselves:
+											Do you suppose we could create
+a photo-realistic human,
+											like we're doing for film,
+											but where you're seeing
+the actual emotions and the details
+											of the person who's controlling
+the digital human
+											in real time?
+											In fact, that's our goal:
+											If you were having
+a conversation with DigiDoug
+											one-on-one,
+											is it real enough so that you could tell
+whether or not I was lying to you?
+											So that was our goal.
+									","
+											Mais les choses ont changé.
+											Au cours des cinq dernières années,
+											ordinateurs et cartes graphiques sont
+devenus sérieusement rapides.
+											Et l'apprentissage automatique,
+profond, est apparu.
+											Donc nous nous sommes demandé :
+											supposons que nous puissions créer
+un humain photo-réaliste,
+											comme nous le faisons pour un film
+											mais où vous pourriez voir
+les vraies émotions et les détails
+											de la personne qui contrôle
+l'humain numérique
+											en temps réel ?
+											En fait, c'est notre but.
+											Si vous aviez une conversation
+avec Digi Doug
+											en face à face,
+											serait-ce assez réel pour que
+vous puissiez dire s'il vous ment ?
+											C'était notre but.
+									",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+","
+",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+											About a year and a half ago,
+we set off to achieve this goal.
+											What I'm going to do now is take you
+basically on a little bit of a journey
+											to see exactly what we had to do
+to get where we are.
+											We had to capture
+an enormous amount of data.
+											In fact, by the end of this thing,
+											we had probably one of the largest
+facial data sets on the planet.
+											Of my face.
+									","
+											Il y a à peu près un an et demi, on
+s'est mis en route pour atteindre ce but.
+											Ce que je vais maintenant faire est
+vous emmener en voyage
+											voir exactement ce que nous avions à faire
+pour en arriver là.
+											Nous devions stocker
+une quantité énorme de données.
+											De fait, à la fin du processus,
+											nous avions probablement l'une des plus
+grandes bases de données faciales
+											au monde.
+											De mon visage.
+									",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+","
+",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+											(Laughter)
+									","
+											(Rires)
+									",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+","
+",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+											Why me?
+											Well, I'll do just about
+anything for science.
+											I mean, look at me!
+											I mean, come on.
+											We had to first figure out
+what my face actually looked like.
+											Not just a photograph or a 3-D scan,
+											but what it actually looked like
+in any photograph,
+											how light interacts with my skin.
+											Luckily for us, about three blocks away
+from our Los Angeles studio
+											is this place called ICT.
+											They're a research lab
+											that's associated with the University
+of Southern California.
+											They have a device there,
+it's called the ""light stage.""
+											It has a zillion
+individually controlled lights
+											and a whole bunch of cameras.
+											And with that, we can reconstruct my face
+under a myriad of lighting conditions.
+											We even captured the blood flow
+											and how my face changes
+when I make expressions.
+											This let us build a model of my face
+that, quite frankly, is just amazing.
+											It's got an unfortunate
+level of detail, unfortunately.
+									","
+											Pourquoi moi ?
+											Eh bien, je ferai n'importe quoi pour
+la science.
+											Je veux dire, regardez-moi !
+											Genre vraiment.
+											Nous devions d'abord nous figurer à quoi
+ressemblait réellement mon visage.
+											Pas seulement une photo ou un scan 3D,
+											mais à quoi cela ressemblerait
+dans n'importe quelle photo,
+											la manière dont la lumière interagirait
+avec ma peau.
+											Heureusement pour nous, à environ trois
+pâtés de maison de notre studio de LA
+											se trouve un endroit appelé ICT.
+											C'est un laboratoire de recherche
+											en association avec l'Université
+de Californie du Sud.
+											Ils ont un appareil là-bas,
+appelé le « light stage ».
+											Ce sont des millions de lumières
+contrôlées individuellement
+											et tout un régiment de caméras.
+											Nous pouvons reconstruire mon visage
+sous une myriade de conditions lumineuses.
+											Nous avons même enregistré le flux sanguin
+											et la manière dont mon visage change
+lors de mes mimiques.
+											Ceci nous a permis de construire un modèle
+qui, entre nous, est juste incroyable.
+											Il possède un fâcheux niveau
+de détails malheureusement.
+									",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+","
+",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+											(Laughter)
+									","
+											(Rires)
+									",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+","
+",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+											You can see every pore, every wrinkle.
+											But we had to have that.
+											Reality is all about detail.
+											And without it, you miss it.
+											We are far from done, though.
+											This let us build a model of my face
+that looked like me.
+											But it didn't really move like me.
+											And that's where
+machine learning comes in.
+											And machine learning needs a ton of data.
+											So I sat down in front of some
+high-resolution motion-capturing device.
+											And also, we did this traditional
+motion capture with markers.
+											We created a whole bunch
+of images of my face
+											and moving point clouds
+that represented that shapes of my face.
+											Man, I made a lot of expressions,
+											I said different lines
+in different emotional states ...
+											We had to do a lot of capture with this.
+											Once we had this enormous amount of data,
+											we built and trained deep neural networks.
+											And when we were finished with that,
+											in 16 milliseconds,
+											the neural network can look at my image
+											and figure out everything about my face.
+											It can compute my expression,
+my wrinkles, my blood flow —
+											even how my eyelashes move.
+											This is then rendered
+and displayed up there
+											with all the detail
+that we captured previously.
+									","
+											Vous pouvez voire chaque pore, chaque ride
+											mais nous devions les avoir.
+											La réalité n'est qu'une question de détail
+											Et sans ça, vous la perdez.
+											Nous sommes loin d'avoir fini par contre.
+											Ceci nous a permis de construire un modèle
+de mon visage qui me ressemble,
+											mais qui ne bouge pas vraiment comme moi.
+											Et c'est là qu'intervient
+l'apprentissage automatique.
+											Et cet apprentissage requiert 
+des tonnes de données.
+											Je me suis assis en face d'un appareil
+de motion capture haute résolution.
+											Et aussi, nous avons fait le traditionnel
+motion capture avec des marqueurs.
+											Nous avons créé tout un tas d'images
+de mon visage
+											et bougé des nuages de points qui
+représentaient les formes de mon visage.
+											Bon sang, j'ai fait beaucoup d'expressions
+											j'ai dit différentes phrases
+dans des états émotionnels différents...
+											Nous avons dû faire beaucoup de captures.
+											Une fois que nous avons eu
+cette énorme quantité de données,
+											nous avons construit et entraîné 
+des réseaux neuronaux profonds.
+											Et quand nous avons terminé avec ça,
+											en 16 millisecondes,
+											le réseau neuronal peut regarder mon image
+											et tout déterminer à propos de mon visage.
+											Il peut calculer mon expression,
+mes rides, mon flux sanguin —
+											et même comment mes cils bougent.
+											C'est ensuite retranscrit
+et affiché là-haut
+											avec tous les détails que
+nous avons auparavant enregistrés.
+									",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+","
+",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+											We're far from done.
+											This is very much a work in progress.
+											This is actually the first time
+we've shown it outside of our company.
+											And, you know, it doesn't look
+as convincing as we want;
+											I've got wires coming out
+of the back of me,
+											and there's a sixth-of-a-second delay
+											between when we capture the video
+and we display it up there.
+											Sixth of a second — that's crazy good!
+											But it's still why you're hearing
+a bit of an echo and stuff.
+											And you know, this machine learning
+stuff is brand-new to us,
+											sometimes it's hard to convince
+to do the right thing, you know?
+											It goes a little sideways.
+									","
+											Nous sommes loin d'avoir terminé.
+											C'est vraiment un travail en cours.
+											C'est aussi la première fois que nous le
+montrons en dehors de notre entreprise.
+											Et, vous savez, ça n'a pas l'air aussi
+abouti qu'on le voudrait ;
+											j'ai des fils qui sortent derrière moi,
+											et il y a un délai d'un sixième de seconde
+											entre la capture de la vidéo
+et l'affichage là-haut.
+											Un sixième de seconde — c'est super bon !
+											Mais c'est pourquoi vous entendez
+un peu d'écho, entre autres.
+											L'apprentissage automatique
+est tout nouveau pour nous,
+											parfois c'est dur de le convaincre
+de bien faire, n'est-ce pas ?
+											Ça va un peu de travers.
+									",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+","
+",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+											(Laughter)
+									","
+											(Rires)
+									",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+","
+",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+											But why did we do this?
+											Well, there's two reasons, really.
+											First of all, it is just crazy cool.
+									","
+											Mais pourquoi faisons-nous ça ?
+											Eh bien il y a deux raisons.
+											Tout d'abord, c'est incroyablement cool.
+									",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+","
+",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+											(Laughter)
+									","
+											(Rires)
+									",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+","
+",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+											How cool is it?
+											Well, with the push of a button,
+											I can deliver this talk
+as a completely different character.
+											This is Elbor.
+											We put him together
+to test how this would work
+											with a different appearance.
+											And the cool thing about this technology
+is that, while I've changed my character,
+											the performance is still all me.
+											I tend to talk out of the right
+side of my mouth;
+											so does Elbor.
+									","
+											A quel point c'est cool ?
+											Si j'appuie sur un bouton,
+											je peux délivrer ce discours à travers
+un personnage complètement différent.
+											Voici Elbor.
+											Nous l'avons assemblé pour tester
+comment ceci marcherait
+											avec une apparence différente.
+											Et le truc cool avec cette technologie est
+que, pendant que je change mon personnage,
+											la performance est encore la mienne.
+											J'ai tendance à parler depuis 
+le coin droit de ma bouche
+											donc Elbor aussi.
+									",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+","
+",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+											(Laughter)
+									","
+											(Rires)
+									",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+","
+",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+											Now, the second reason we did this,
+and you can imagine,
+											is this is going to be great for film.
+											This is a brand-new, exciting tool
+											for artists and directors
+and storytellers.
+											It's pretty obvious, right?
+											I mean, this is going to be
+really neat to have.
+											But also, now that we've built it,
+											it's clear that this
+is going to go way beyond film.
+									","
+											La seconde raison est,
+et vous vous en doutiez,
+											parce que ce sera génial pour un film.
+											C'est un tout nouvel outil
+											pour les artistes, les réalisateurs
+et les scénaristes.
+											C'est plutôt évident, n'est-ce pas ?
+											Enfin, ce sera vraiment super à avoir.
+											Mais en plus, maintenant 
+que nous l'avons construit,
+											il est clair que cela va bien
+au-delà d'un film.
+									",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+","
+",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+											But wait.
+											Didn't I just change my identity
+with the push of a button?
+											Isn't this like ""deepfake""
+and face-swapping
+											that you guys may have heard of?
+											Well, yeah.
+											In fact, we are using
+some of the same technology
+											that deepfake is using.
+											Deepfake is 2-D and image based,
+while ours is full 3-D
+											and way more powerful.
+											But they're very related.
+											And now I can hear you thinking,
+											""Darn it!
+											I though I could at least
+trust and believe in video.
+											If it was live video,
+didn't it have to be true?""
+											Well, we know that's not
+really the case, right?
+											Even without this, there are simple tricks
+that you can do with video
+											like how you frame a shot
+											that can make it really misrepresent
+what's actually going on.
+											And I've been working
+in visual effects for a long time,
+											and I've known for a long time
+											that with enough effort,
+we can fool anyone about anything.
+											What this stuff and deepfake is doing
+											is making it easier and more accessible
+to manipulate video,
+											just like Photoshop did
+for manipulating images, some time ago.
+									","
+											Mais attendez.
+											Ne viens-je pas de changer
+mon identité en un clic ?
+											N'est-ce pas comme un « deepfake »
+et un face-swap
+											dont vous avez peut-être entendu parler ?
+											Eh bien, oui.
+											De fait, nous utilisons une technologie
+presque analogue
+											à celle du deepfake.
+											Le deepfake est en 2D et basé sur l'image,
+tandis que le nôtre est entièrement 3D
+											et bien plus puissant.
+											Mais ils sont très liés.
+											Je peux vous entendre penser :
+											« Mince !
+											Je pensais que je pouvais
+au moins croire une vidéo.
+											Si c'est une vidéo en direct,
+n'est-ce pas censé être vrai ? »
+											Nous savons que ce n'est pas
+vraiment le cas, n'est-ce pas ?
+											Même sans ça, il y a de simples trucs
+que nous pouvons faire avec la vidéo
+											comme la manière de cadrer un plan
+											qui peut être vraiment peu représentative
+de ce qu'il se passe.
+											Et j'ai travaillé dans les effets spéciaux
+pendant longtemps,
+											et je sais depuis longtemps
+											qu'avec assez d'efforts, nous pouvons
+duper n'importe qui sur n'importe quoi.
+											Ce que ce truc et le deepfake font,
+											c'est de rendre plus facile 
+et plus accessible la manipulation vidéo,
+											de la même manière que Photoshop
+avec les images depuis quelques années.
+									",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+","
+",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+											I prefer to think about
+											how this technology could bring
+humanity to other technology
+											and bring us all closer together.
+											Now that you've seen this,
+											think about the possibilities.
+											Right off the bat, you're going to see it
+in live events and concerts, like this.
+											Digital celebrities, especially
+with new projection technology,
+											are going to be just like the movies,
+but alive and in real time.
+											And new forms of communication are coming.
+											You can already interact
+with DigiDoug in VR.
+											And it is eye-opening.
+											It's just like you and I
+are in the same room,
+											even though we may be miles apart.
+											Heck, the next time you make a video call,
+											you will be able to choose
+the version of you
+											you want people to see.
+											It's like really, really good makeup.
+											I was scanned about a year and a half ago.
+											I've aged.
+											DigiDoug hasn't.
+											On video calls, I never have to grow old.
+									","
+											Je préfère penser à comment
+											cette technologie pourrait amener
+l'humanité vers d'autres technologies
+											et pourrait nous rapprocher.
+											Maintenant que vous avez vu ceci,
+											pensez aux possibilités.
+											Tout de suite, vous allez penser à des 
+événements et concerts directs, comme ici.
+											Les célébrités numériques, surtout avec
+les nouvelles technologies de projection,
+											vont être comme les films,
+mais vivantes et en temps réel.
+											Et de nouvelles formes 
+de communication arrivent.
+											Vous pouvez déjà interagir avec
+DigiDoug en réalité virtuelle.
+											Et c'est révélateur.
+											C'est juste comme si vous et moi
+étions dans la même pièce,
+											même si nous sommes séparés 
+par des kilomètres.
+											Mince, la prochaine fois que vous passez
+un appel vidéo,
+											vous serez capable de choisir l'apparence
+											que vous voulez montrer aux autres.
+											C'est comme du très, très bon maquillage.
+											J'ai été scanné il y a un an et demi.
+											J'ai pris de l'âge,
+											pas DigiDoug.
+											En appels vidéo, je ne vieillirai pas.
+									",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+","
+",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+											And as you can imagine,
+this is going to be used
+											to give virtual assistants
+a body and a face.
+											A humanity.
+											I already love it that when I talk
+to virtual assistants,
+											they answer back in a soothing,
+humanlike voice.
+											Now they'll have a face.
+											And you'll get all the nonverbal cues
+that make communication so much easier.
+											It's going to be really nice.
+											You'll be able to tell when
+a virtual assistant is busy or confused
+											or concerned about something.
+									","
+											Comme vous pouvez l'imaginer,
+cela va être utilisé
+											pour donner un corps et un visage
+aux assistants virtuels.
+											Une humanité.
+											J'aime déjà parler
+à des assistants virtuels
+											qui me répondent avec une voix humaine.
+											Maintenant, ils ont un visage.
+											Et vous recevez
+tous les signaux non-verbaux
+											qui rendent la communication
+tellement plus facile.
+											Ça va être vraiment sympa.
+											Vous serez capable de dire quand
+un assistant virtuel est occupé, gêné
+											ou préoccupé par quelque chose.
+									",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+","
+",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+											Now, I couldn't leave the stage
+											without you actually being able
+to see my real face,
+											so you can do some comparison.
+											So let me take off my helmet here.
+											Yeah, don't worry,
+it looks way worse than it feels.
+									","
+											Je ne peux pas quitter la scène
+											sans que vous ne puissiez 
+voir mon vrai visage,
+											histoire d'avoir une bonne comparaison.
+											Laissez-moi enlever mon casque.
+											Oui, ne vous inquiétez pas,
+ça a l'air pire que ça ne l'est.
+									",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+","
+",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+											(Laughter)
+									","
+											(Rires)
+									",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+","
+",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+											So this is where we are.
+											Let me put this back on here.
+									","
+											Voici où nous en sommes.
+											Laissez-moi le remettre là-dessus.
+									",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+","
+",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+											(Laughter)
+											Doink!
+									","
+											(Rires)
+											Doink.
+									",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+","
+",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+											So this is where we are.
+											We're on the cusp of being able
+to interact with digital humans
+											that are strikingly real,
+											whether they're being controlled
+by a person or a machine.
+											And like all new technology these days,
+											it's going to come with some
+serious and real concerns
+											that we have to deal with.
+											But I am just so really excited
+											about the ability to bring something
+that I've seen only in science fiction
+											for my entire life
+											into reality.
+											Communicating with computers
+will be like talking to a friend.
+											And talking to faraway friends
+											will be like sitting with them
+together in the same room.
+									","
+											Voici donc où nous en sommes.
+											Nous sommes à l'aube d'être capables
+d'interagir avec des humains numériques
+											qui sont remarquablement réels,
+											qu'ils soient contrôlés par une personne
+ou par une machine.
+											Et comme toute nouvelle technologie,
+											elle arrive avec des préoccupations
+sérieuses et réelles
+											que nous devons traiter.
+											Mais je suis vraiment excité
+											par la capacité à amener quelque chose
+que je n'ai vu que dans de la SF
+											toute ma vie
+											dans le monde réel.
+											Communiquer avec des ordinateurs
+sera comme parler avec un ami.
+											Et parler avec des amis éloignés
+											sera comme s’asseoir avec eux
+dans la même pièce.
+									",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+","
+",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+											Thank you very much.
+									","
+											Merci beaucoup.
+									",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+","
+",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+											(Applause)
+									","
+											(Applaudissements)
+									",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"
+"
+","
+",Digital humans that look just like us,Doug Roble,12:34,"technology,emotions,film,animation,design,entertainment,visualizations,movies,art"

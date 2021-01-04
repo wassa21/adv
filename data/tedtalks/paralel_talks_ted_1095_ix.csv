@@ -1,0 +1,500 @@
+fr,en,tr,es,title,speaker,duration,tags
+"
+","
+","
+","
+",Can you solve the control room riddle?,Dennis Shasha,3:40,"TED-Ed,math,animation"
+"
+											Vous êtes le meilleur espion
+de votre pays
+											et vous devez infiltrer
+le quartier général
+											du syndicat du mal, trouver 
+le panneau de contrôle secret
+											et désactiver 
+leur rayon de la mort.
+											Mais tout ce dont vous disposez,
+c'est l'information suivante,
+											recueillie par
+votre équipe de surveillance :
+											Le quartier général est une énorme
+pyramide avec une seule pièce au sommet,
+											deux pièces en dessous,
+											et ainsi de suite.
+											Le panneau est caché
+derrière un un tableau
+											au niveau le plus haut correspondant
+aux conditions suivantes :
+											chaque pièce a exactement trois portes 
+menant vers les autres pièces de l'étage,
+											à l'exception de la salle de contrôle,
+											qui n'est reliée qu'à une seule autre,
+											il n'y a pas de couloirs,
+											et vous pouvez oublier les escaliers.
+											Malheureusement, 
+vous n'avez pas de plan,
+											et vous n'avez le temps
+de visiter qu'un seul étage
+											avant que le système d'alarme 
+ne se réactive.
+											Pouvez-vous trouver à quel étage
+se trouve la salle de contrôle ?
+											Faites une pause pour résoudre l'énigme.
+											Réponse dans: 3
+											Réponse dans: 2
+											Réponse dans: 1
+											Pour résoudre ce problème,
+il faut le visualiser.
+											Pour commencer, nous savons
+qu'à l'étage recherché
+											il y a une salle,
+											appelons-la salle A,
+											avec une porte donnant
+sur la salle de contrôle,
+											plus une porte donnant sur la salle B,
+											et une sur la C.
+											Donc il doit il y avoir
+au moins quatre pièces,
+											que l'on peut représenter
+par des cercles
+											et en dessinant des lignes
+entre eux pour les portes.
+											Une fois les pièces B et C reliées,
+											il n'y a plus d'autre connexion possible,
+											donc le quatrième étage 
+en partant du sommet est exclu.
+											On sait que le panneau
+doit être le plus haut possible,
+											donc essayons de descendre
+dans la pyramide.
+											Le cinquième étage en partant du haut
+ne correspond pas non plus.
+											On peut s'en rendre compte
+en le dessinant,
+											mais pour être sûr de n'avoir rien manqué,
+											voici une autre façon de faire :
+											chaque porte correspond
+à une ligne sur notre graphe
+											connectant deux pièces voisines.
+											Donc en fin de compte, il doit il y avoir 
+un nombre pair de voisines
+											peu importe le nombre
+de connexions que nous faisons.
+											Au cinquième étage, afin de 
+remplir les conditions de départ,
+											nous avons besoin de quatre pièces
+avec chacune trois voisines,
+											plus la salle de contrôle
+avec une voisine,
+											ce qui fait un total de treize voisines.
+											Comme c'est un nombre impair, 
+c'est impossible,
+											et, en effet, ça élimine tous les étages
+ayant un nombre de pièces impaires.
+											Descendons d'un étage.
+											Quand on dessine les pièces,
+											Ô surprise, on peut trouver
+un agencement qui fonctionne.
+											D'ailleurs, l'étude de ce genre
+de modèles visuels
+											qui montrent les connexions 
+et les relations entre différents objets
+											est appellée théorie des graphes.
+											Dans un graphe simple,
+											on appelle les cercles
+représentant des objets des nœuds
+											et les lignes des arêtes.
+											Les chercheurs qui étudient 
+de tels graphes posent des questions
+											comme « Quelle est la distance 
+entre ces deux nœuds ? »
+											« Combien d'arêtes le nœud
+le plus populaire a-t-il ? »
+											« Existe-t-il un chemin entre
+ces deux nœuds, et de quelle longueur ? »
+											On utilise souvent ces graphes pour
+représenter des réseaux de communication,
+											mais ils peuvent représenter
+presque tout type de réseau,
+											des réseaux de transport dans une ville
+											aux relations entre les gens,
+											les interactions chimiques
+entre les protéines
+											ou la propagation d'une épidémie
+à travers des lieux divers.
+											Ainsi, armé de ces techniques,
+revenons à la pyramide.
+											Vous évitez les gardes
+et les caméras de sécurité,
+											vous infiltrez le sixième étage
+en partant du haut,
+											trouvez le panneau caché,
+											poussez quelques leviers,
+											et envoyez le rayon de la mort
+dans l'océan.
+											Maintenant, il est temps
+de résoudre ce mystère :
+											pourquoi votre équipe donne-t-elle
+toujours des informations cryptiques.
+											Aurevoir à tous
+											Si vous avez aimé cette énigme,
+essayez ces deux-là.
+									","
+											As your country's top spy,
+											you must infiltrate the headquarters
+of the evil syndicate,
+											find the secret control panel,
+											and deactivate their death ray.
+
+											But all you have to go on 
+is the following information
+											picked up by your surveillance team.
+											The headquarters is a massive pyramid
+with a single room at the top level,
+											two rooms on the next,
+											and so on.
+											The control panel is hidden
+behind a painting
+											on the highest floor that can satisfy
+the following conditions:
+											Each room has exactly three doors
+to other rooms on that floor,
+											except the control panel room,
+											which connects to only one,
+											there are no hallways,
+											and you can ignore stairs.
+											Unfortunately, 
+you don't have a floor plan,
+											and you'll only have enough time
+to search a single floor
+											before the alarm system reactivates.
+											Can you figure out which floor
+the control room is on?
+											Pause now to solve the riddle yourself.
+											Answer in: 3
+											Answer in: 2
+											Answer in: 1
+											To solve this problem, 
+we need to visualize it.
+											For starters, we know 
+that on the correct floor
+											there's one room,
+											let's call it room A,
+											with one door to the control panel room,
+											plus one door to room B,
+											and one to C.
+											So there must be at least four rooms,
+											which we can represent as circles,
+											drawing lines between them
+for the doorways.
+											But once we connect rooms B and C,
+											there are no other connections possible,
+											so the fourth floor down 
+from the top is out.
+											We know the control panel has to be
+as high up as possible,
+											so let's make our way down the pyramid.
+											The fifth highest floor 
+doesn't work either.
+											We can figure that out by drawing it,
+											but to be sure we haven't missed
+any possibilities,
+											here's another way.
+											Every door corresponds to a line
+in our graph
+											that makes two rooms into neighbors.
+											So in the end, there have to be
+an even number of neighbors
+											no matter how many connections we make.
+											On the fifth highest floor,
+to fulfill our starting conditions,
+											we'd need four rooms 
+with three neighbors each,
+											plus the control panel room
+with one neighbor,
+											which makes 13 total neighbors.
+											Since that's an odd number,
+it's not possible,
+											and, in fact, this also rules out every
+floor that has an odd number of rooms.
+											So let's go one more floor down.
+											When we draw out the rooms,
+											low and behold, we can find an arrangement
+that works like this.
+											Incidentally, the study 
+of such visual models
+											that show the connections and
+relationships between different objects
+											is known as graph theory.
+											In a basic graph, the circles representing
+the objects are known as nodes,
+											while the connecting lines 
+are called edges.
+											Researchers studying such graphs
+ask questions like,
+											""How far is this node from that one?""
+											""How many edges does 
+the most popular node have?""
+											""Is there a route between these two nodes,
+and if so, how long is it?""
+											Graphs like this are often used
+to map communication networks,
+											but they can represent almost
+any kind of network,
+											from transport connections within a city
+											and social relationships among people,
+											to chemical interactions between proteins
+											or the spread of an epidemic
+through different locations.
+											So, armed with these techniques,
+back to the pyramid.
+											You avoid the guards and security cameras,
+											infiltrate the sixth floor from the top,
+											find the hidden panel,
+											pull some conspicuous levers,
+											and send the death ray crashing
+into the ocean.
+											Now, time to solve the mystery
+											of why your surveillance team
+always gives you cryptic information.
+											Hi everybody.
+											If you liked this riddle, 
+try solving these two.
+									","
+											Ülkenin en iyi casusu olarak
+											kötülük sendikasının ana merkezine sızıp,
+											gizli kontrol panelini bulup,
+											ölümcül ışını etkisiz hâle getirmelisin.
+											Ama bildiğin her şey,
+											gözetleme ekibinin bulduğu şu bilgiler:
+											Ana merkez, en üst katında bir oda,
+											bir alt katında iki oda
+											düzeninde ilerleyen bir piramit.
+											Kontrol paneli şu koşulları sağlayabilen
+											en üst kattaki odada resmin arkasında:
+											Tek odaya açılan kontrol paneli
+											odası hariç her odada
+											başka odalara açılan tam üç kapı var,
+											koridorlar yok,
+											merdivenleri de saymayın.
+											Maalesef kat planın yok
+											ve alarm çalmadan önce,
+											sadece bir katı arama zamanın var.
+											Kontrol panelinin hangi katta 
+olduğunu bulabilir misin?
+											Bulmacayı kendin çözmek için şimdi durdur.
+											Cevap: 3
+											Cevap: 2
+											Cevap: 1
+											Bulmacayı çözmek için
+gözümüzde canlandıralım.
+											Öncelikle doğru katta sadece bir odanın
+											olduğunu biliyoruz.
+											Buna A odası diyelim,
+											bir kapısı kontrol paneline
+											bir kapısı B odasına,
+											biri de C odasına açılıyor.
+											Yani en az dört odası olmalı.
+											Bunları kapıları temsil eden çizgilerle
+											birleştirilmiş dairelerle gösterebiliriz.
+											Fakat B ve C odalarını 
+birleştirdiğimiz anda,
+											başka bağlantı olamaz.
+											Demek ki en üstten dört kat
+aşağısı elendi.
+											Kontrol panelinin olabilecek en yüksek
+odada olduğunu biliyoruz,
+											o nedenle üstten alta çözelim.
+											Yukarıdan beşinci kat da olmuyor.
+											Bunu çizerek görebiliriz,
+											ama gözümüzden bir şey
+kaçırmadığımızdan emin olmak için
+											başka bir yolla deneyelim.
+											Her çizgi iki odayı komşu yapan
+											bir kapıya denk düşüyor.
+											Yani sonunda kaç bağlantı
+kurarsak kuralım,
+											çift sayıda komşu olmalı.
+											Yukarıdan beşinci katta bu 
+koşulu sağlamak için
+											her birinin üç komşusu olan dört odaya
+											ve bir komşusu olan kontrol paneline,
+											yani toplamda 13 komşuya ihtiyacımız var.
+											Bu bir tek sayı olduğu için
+bu katta imkânsız
+											ve hatta tek sayılı odası olan
+her katı da eliyor.
+											Bir kat daha inelim.
+											Odaları çizdiğimiz zaman,
+											bak şu işe ki, şöyle bir düzen buluyoruz.
+											Bu arada, bu tip görsel modellerin
+											bağlantılarını ve ilişkilerini incelemeye
+
+											grafik teorisi diyoruz.
+											Basit bir grafikte, dairelerle gösterilen
+objeler düğüm,
+											birleştiren çizgiler de kenar 
+olarak biliniyor.
+											Bu tip grafikleri inceleyen araştırmacılar
+şunun gibi sorular soruyorlar:
+											""Bu düğüm diğerinden ne kadar uzakta?""
+											""En popüler düğümün kaç bağlantısı var?""
+											""Bu iki düğümün arasında bağlantı var mı
+ve varsa ne kadar uzun?""
+											Bunun gibi grafikler çoğu zaman iletişim 
+ağlarını göstermek için kullanılıyor.
+											Aslında şehirdeki ulaşım bağlantılarından,
+											insanlar arasındaki sosyal ilişkilere,
+											proteinler arasındaki kimyasal etkileşime
+											ve salgınların farklı bölgelere 
+yayılışına kadar
+											bir çok şeyi göstermek için
+kullanılabilirler.
+											Bu teknikleri öğrenmiş bir şekilde
+piramide dönelim.
+											Gardiyanlara ve güvenlik
+kameralarına yakalanmadan,
+											üstten altıncı kata sızıp
+											gizli paneli bulup
+											en göze batan kolları indirdikten sonra
+											ölümcül ışınları okyanusun 
+dibine yolladın.
+											Şimdi, neden gözetim ekibinin sana
+											hep bulmacalı mesajlar verdiğini 
+çözmenin zamanı.
+											Herkese merhaba,
+											bu bulmacayı sevdiysen, bu ikisini 
+çözmeyi denemelisin.
+									","
+											Como mejor espía de tu país,
+											te infiltras en la sede principal
+de la agrupación del mal,
+											encuentras el panel secreto
+											y desactivas su rayo mortal.
+											Pero todo lo que tienes
+es la siguiente información
+											recolectada por tu equipo de vigilancia.
+											La sede es una enorme pirámide con
+una sola habitación en la parte superior,
+											2 habitaciones en el nivel inferior
+y así sucesivamente.
+											El panel de control está
+oculto detrás de un cuadro
+											en la planta que satisface
+las siguientes condiciones:
+											cada habitación tiene
+exactamente tres puertas
+											para acceder a las otras
+habitaciones de la misma planta,
+											salvo la habitación del panel de
+control que solo tiene una puerta.
+											No hay pasillos y las
+escaleras no ayudan.
+											Desafortunadamente,
+no tienes un plano del piso
+											y solo tendrás tiempo suficiente
+para buscar en una sola planta
+											antes de que se reactive
+el sistema de alarma.
+											¿Puedes averiguar en qué planta
+se encuentra la sala de control?
+											Haz pausa ahora para
+resolver el enigma.
+											La respuesta en: 3, 2, 1.
+											Para resolver este problema,
+tenemos que visualizarlo.
+											Para empezar, sabemos
+que en la planta correcta
+											hay una sola habitación,
+											llamémosla la habitación A,
+											con una puerta a la sala de control,
+											más una puerta a la sala B,
+											y una a la sala C.
+											Debería haber al menos 4 habitaciones
+											que podemos representar con círculos,
+											y trazar líneas entre
+ellos para las puertas.
+											Pero para conectar las salas B y C
+											no hay otra conexión posible,
+											por lo tanto el cuarto piso por debajo
+de la parte superior queda eliminado.
+											Sabemos que el panel de control
+debe estar lo más alto posible,
+											así que iremos bajando.
+											El quinto piso por debajo de la
+planta superior tampoco encaja.
+											Podemos entenderlo dibujándolo,
+											pero para que no omitamos
+ninguna de las posibilidades,
+											hagamoslo de otra manera.
+											Cada puerta corresponde
+a una línea en nuestro gráfico
+											y convierte a 2 habitaciones
+en adyacentes.
+											Por lo tanto, al final, tiene que
+haber un número par de vecinos
+											independientemente del número
+de conexiones que hacemos.
+											En el quinto piso más alto, para cumplir
+con nuestras condiciones iniciales,
+											necesitaríamos cuatro habitaciones
+con tres vecinos cada uno,
+											además de la sala de
+control con un vecino,
+											lo que da un total de 13 vecinos.
+											Como se trata de un número
+impar, es imposible,
+											y, de hecho, descarta todas las plantas
+que tienen un número impar de cuartos.
+											Así que bajemos un piso más.
+											Cuando dibujamos las habitaciones,
+											de repente encontramos una
+configuración que encaja.
+											Por cierto, el estudio
+de tales modelos visuales
+											que muestran las conexiones y
+relaciones entre diferentes objetos
+											se conoce como la teoría de grafos.
+											En un grafo simple, los círculos
+llamados nodos representan objetos
+											y las líneas que conectan
+los nodos se llaman arcos.
+											Los investigadores que estudian
+estos grafos hacen preguntas como:
+											""¿Qué distancia hay entre estos nodos?""
+											""¿Cuántos arcos tiene
+el nodo más popular?""
+											""¿Hay una ruta entre estos dos nodos,
+y de ser así, ¿qué longitud tiene?""
+											Grafos como este a menudo se usan
+para mapear redes de comunicación,
+											pero pueden representar
+casi cualquier tipo de red,
+											desde la red de transporte urbana,
+											y las relaciones interpersonales,
+											hasta las interacciones
+químicas entre las proteínas
+											o la propagación de una epidemia
+a través de diversos lugares.
+											Por lo tanto, armados con estas
+técnicas, volvamos a la pirámide.
+											Evitas los guardias
+y las cámaras de seguridad,
+											te infiltras en la sexta planta
+desde arriba,
+											encuentras el panel oculto,
+accionas algunas palancas visibles
+											y desvías el rayo mortal en alta mar.
+											Ahora es momento
+de resolver el misterio
+											de por qué tu equipo siempre
+te envía información críptica.
+											Hola a todos.
+											Si les gustó este enigma, intenten
+resolver estos dos también.
+									",Can you solve the control room riddle?,Dennis Shasha,3:40,"TED-Ed,math,animation"
+"
+","
+","
+","
+",Can you solve the control room riddle?,Dennis Shasha,3:40,"TED-Ed,math,animation"

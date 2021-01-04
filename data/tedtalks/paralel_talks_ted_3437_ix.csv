@@ -1,0 +1,1878 @@
+en,es,fr,de,title,speaker,duration,tags
+"
+","
+","
+","
+",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+											Welcome. If I could have the first slide, please?
+											Contrary to calculations made by some engineers, bees can fly,
+											dolphins can swim, and geckos can even climb
+											up the smoothest surfaces. Now, what I want to do, in the short time I have,
+											is to try to allow each of you to experience
+											the thrill of revealing nature's design.
+											I get to do this all the time, and it's just incredible.
+											I want to try to share just a little bit of that with you in this presentation.
+											The challenge of looking at nature's designs —
+											and I'll tell you the way that we perceive it, and the way we've used it.
+											The challenge, of course, is to answer this question:
+											what permits this extraordinary performance of animals
+											that allows them basically to go anywhere?
+											And if we could figure that out, how can we implement those designs?
+									","
+											Bienvenidos. ¿Me pueden poner la primera diapositiva?
+											En contra de los cálculos de algunos ingenieros, las abejas pueden volar
+											los delfines pueden nadar y las lagartijas pueden escalar
+											sobre las superficies más lisas. Ahora lo que quiero hacer, en el corto tiempo que tengo,
+											es tratar de permitir a cada uno de ustedes experimentar
+											de alguna manera, la emoción de revelar los secretos del diseño natural.
+											Yo lo hago todo el tiempo, y es simplemente increíble.
+											Quiero compartir un poco de eso con ustedes en esta presentación.
+											El desafío de mirar los diseños naturales -
+											y les diré de qué manera lo percibimos, y cómo lo hemos usado.
+											El desafío desde luego, es responder a esta pregunta:
+											¿Qué concede este extraordinario desempeño
+											que les permite básicamente ir a cualquier parte?
+											Y ¿si pudiéramos encontrar la manera de implementar esos diseños?
+									","
+											Bonjour. Pourrais-je avoir le premier slide s'il vous plait?
+											Contrairement aux calculs de certains ingénieurs, les abeilles peuvent voler,
+											les dauphins peuvent nager, et les geckos peuvent toujours
+											grimper sur les surfaces les plus lisses. Maintenant ce que je veux faire, dans le peu de temps dont je dispose,
+											c'est de permettre à chacun de vous d'essayer,
+											en quelque sorte, de découvrir ce que la nature à su mettre au point.
+											J'essaye de le faire tout le temps, c'est tout bonnement incroyable.
+											Je vais essayer de vous le faire partager un peu avec cette présentation.
+											""Le challenge de découvrir les inventions de la nature""
+											et je vais vous dire la façon dont nous le percevons, et la façon dont nous l'utilisons.
+											La difficulté bien sûr est de répondre à cette question :
+											Quelle est l'extraordinaire capacité de cet animal
+											qui lui permet d'aller où il le désire?
+											Si nous pouvions l'utiliser, dans quel domaine pourrions-nous le faire?
+									","
+											Willkommen. Die erste Folie, bitte.
+											Im Gegensatz zu den Berechnungen
+mancher Ingenieure können Bienen fliegen,
+											Delfine schwimmen und Geckos
+sogar die glattesten Oberflächen
+											emporklettern. In der kurzen Zeit,
+die ich habe, möchte ich Ihnen
+											den Nervenkitzel nahebringen, 
+den man beim Enthüllen
+											der komplexen Strukturen der Natur erlebt.
+											Das mache ich die ganze Zeit,
+und es ist einfach unglaublich.
+											Durch diese Präsentation möchte ich versuchen,
+etwas davon mit Ihnen zu teilen.
+											Die Herausforderung das Design der Natur zu erforschen –
+											und ich werde erklären, wie wir sie wahrnehmen
+und verwendet haben.
+											Die Herausforderung besteht darin, 
+diese Frage zu beantworten:
+											Was ermöglicht diese außergewöhnliche
+Leistung der Tiere,
+											die es ihnen erlaubt, überall hinzugehen?
+											Und wenn wir das herausfinden könnten,
+wie können wir die Entwürfe umsetzen?
+									",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+","
+","
+","
+",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+											Well, many biologists will tell engineers, and others,
+											organisms have millions of years to get it right;
+											they're spectacular; they can do everything wonderfully well.
+											So, the answer is bio-mimicry: just copy nature directly.
+											We know from working on animals that the truth is
+											that's exactly what you don't want to do — because evolution works
+											on the just-good-enough principle, not on a perfecting principle.
+											And the constraints in building any organism, when you look at it,
+											are really severe. Natural technologies have incredible constraints.
+											Think about it. If you were an engineer and I told you
+											that you had to build an automobile, but it had to start off to be this big,
+											then it had to grow to be full size and had to work every step along the way.
+											Or think about the fact that if you build an automobile, I'll tell you that you also — inside it —
+											have to put a factory that allows you to make another automobile.
+									","
+											Bueno, muchos biólogos le dirán a los ingenieros y a otros,
+											que los organismos han tenido millones de años para perfeccionarse,
+											que son espectaculares, que pueden hacer todo maravillosamente bien.
+											Así que la respuesta es el bio-mimetismo - copiar a la naturaleza directamente.
+											Sabemos al trabajar con animales que la verdad es
+											que eso es exactamente lo que no quieres hacer. Porque la evolución trabaja
+											bajo el principio de “apenas-bien-basta”, no bajo el principio de la perfección.
+											Y las limitaciones en construir cualquier organismo, cuando lo piensas bien,
+											son realmente severas. Las tecnologías naturales tienen increíbles limitaciones,
+											Piénsalo. Si fueras un ingeniero y yo te dijera
+											que tienes que construir un automóvil pero que debes empezar así de pequeñito
+											y luego tiene que crecer a tamaño completo y tiene que funcionar en cada etapa.
+											Piensa en el hecho de que construyeras el automóvil y de que yo te dijera que dentro de él tienes que
+											construirle también un fábrica que le permita hacer otro automóvil.
+									","
+											Donc, beaucoup de biologistes diront aux ingénieurs et aux autres,
+											les êtres vivants ont eu des millions d'années pour tout mettre au point,
+											ils sont spectaculaires, ils peuvent tout faire extrêmement bien.
+											Et le mieux à faire est la ""biomimicry"" : juste copier directement ce que la nature a fait.
+											Nous savons, à force de travailler sur les animaux, que ces solutions
+											sont opposées à ce que chacun essaye de faire. En effet l'évolution est basée
+											sur le principe du ""juste suffisant"", pas sur la perfection.
+											Et les contraintes à l'origine de tout organisme sont, à bien y regarder,
+											très strictes. Les technologies de la nature sont incroyablement contraintes.
+											Réfléchissez y. Si vous étiez un ingénieur et que je vous disais
+											que vous avez à construire une automobile qui doit être de cette taille au début,
+											puis qui doit grandir jusqu'à avoir sa taille normale et qui enfin doit fonctionner à chaque étape de sa croissance.
+											Dites vous aussi que si vous construisiez cette automobile, vous devriez aussi
+											mettre une usine capable de fabriquer une seconde automobile à l'intérieur.
+									","
+											Nun, viele Biologen erzählen Ingenieuren und anderen,
+											dass Organismen Jahrmillionen hatten, um es richtig zu machen;
+											sie sind spektakulär,
+sie können alles wunderbar tun.
+											Also, die Antwort ist Bio-Mimikry:
+Kopieren Sie einfach direkt die Natur.
+											Wir wissen aus der Arbeit an Tieren,
+dass wir genau das
+											in Wahrheit nicht tun wollen – weil die Evolution nach dem
+											“Gerade gut genug""-Prinzip arbeitet, nicht nach einem perfektionierenden Prinzip.
+											Und die Einschränkungen beim Aufbau
+jedes Organismus sind, wenn man ihn betrachtet,
+											wirklich gravierend. Natürliche Technologien
+sind unglaublich eingeschränkt.
+											Stellen Sie sich vor:
+Sie wären ein Ingenieur und ich sagte Ihnen,
+											dass Sie ein Auto bauen müssten, 
+aber es müßte anfangs so klein sein,
+											und dann zur vollen Größe heranwachsen 
+und dabei jederzeit fehlerfrei funktionieren.
+											Oder Sie müssen so ein kleines Auto bauen,
+aber es muss in sich auch
+											eine Fabrik haben, in der man 
+ein weiteres Auto bauen kann.
+									",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+","
+","
+","
+",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+											(Laughter)
+									","
+											(Risas)
+									","
+											(Rires)
+									","
+											(Lachen)
+									",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+","
+","
+","
+",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+											And you can absolutely never, absolutely never, because of history
+											and the inherited plan, start with a clean slate.
+											So, organisms have this important history.
+											Really evolution works more like a tinkerer than an engineer.
+											And this is really important when you begin to look at animals.
+											Instead, we believe you need to be inspired by biology.
+											You need to discover the general principles of nature,
+											and then use these analogies when they're advantageous.
+											This is a real challenge to do this, because animals,
+											when you start to really look inside them — how they work —
+											appear hopelessly complex. There's no detailed history
+											of the design plans, you can't go look it up anywhere.
+											They have way too many motions for their joints, too many muscles.
+											Even the simplest animal we think of, something like an insect,
+											and they have more neurons and connections than you can imagine.
+									","
+											Y no puedes absolutamente nunca, absolutamente nunca, a causa de la historia
+											y del plan heredado, comenzar de ceros.
+											Así que los organismos tienen esta importante historia.
+											Realmente la evolución trabaja más como alguien que repara experimentando y jugueteando que como un ingeniero.
+											Y esto es realmente importante cuando comienzas a estudiar a los animales.
+											Al contrario, creemos que debes inspirarse en la biología.
+											Necesitas descubrir los principios generales de la naturaleza
+											y entonces usar esas analogías cuando sean ventajosas.
+											Es un verdadero desafío hacer esto porque los animales,
+											cuando comienzas a mirar dentro de ellos, cómo funcionan,
+											parecen ser desesperantemente complejos. No hay una historia detallada
+											de los planos de diseño, no puedes encontrarlos en parte alguna.
+											Tienen demasiados movimientos para sus articulaciones, demasiados músculos
+											aún el más simple de los animales que se nos ocurra, como un insecto,
+											y tienen más neuronas y conexiones de lo que pueda imaginar.
+									","
+											Or, vous ne pouvez jamais, absolument jamais, en raison de l'histoire
+											et du principe d'héritage, commencer à partir de rien.
+											Les organismes ont cet historique si important.
+											En réalité, l'évolution fonctionne plus comme un réparateur que comme un ingénieur.
+											C'est très important à cerner quand vous commencez à regarder les animaux.
+											Plutôt que de croire qu'il faut toujours s'inspirer de la biologie,
+											il vous faut découvrir les principes même qui régissent la nature
+											et utiliser des analogies quand c'est avantageux.
+											C'est vraiment complexe à faire car ces animaux,
+											quand on commence à bien y regarder, la façon dont ils fonctionnent,
+											apparait désespérément complexe. Il n'y a pas d'archive
+											de plans, vous ne pouvez les trouver nulle part.
+											Ils ont développé bien trop de libertés via leurs articulations, trop de muscles,
+											même dans les plus simples des animaux, comme les insectes,
+											et ils ont bien plus de neurones et de connections que vous pouvez l'imaginer.
+									","
+											Und Sie können absolut nie, absolut nie,
+wegen der Geschichte
+											und des ererbten Plans bei Null beginnen.
+											Organismen haben also diese wichtige Geschichte.
+											Die Evolution arbeitet in Wirklichkeit eher 
+wie ein Tüftler als ein Ingenieur.
+											Und das ist wirklich wichtig, 
+wenn Sie beginnen, Tiere zu erforschen.
+											Man soll sich aber von der Biologie inspirieren lassen.
+											Die allgemeinen Grundsätze der Natur entdecken
+											und dann diese Analogien verwenden,
+wenn sie von Vorteil sind.
+											Das ist eine echte Herausforderung,
+weil Tiere,
+											wenn Sie sich Tiere von innen anschauen – 
+wie sie funktionieren –
+											scheinen sie hoffnungslos komplex zu sein.
+Es gibt keine detaillierte Geschichte
+											der Baupläne, man kann sie nirgendwo nachschlagen.
+											Sie haben für ihre Gelenke viel zu viele Bewegungen, 
+zu viele Muskeln.
+											Auch wenn wir an das einfachste Tier denken,
+etwa ein Insekt,
+											sie haben mehr Neuronen und Verbindungen,
+als Sie sich vorstellen können.
+									",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+","
+","
+","
+",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+											How can you make sense of this? Well, we believed —
+											and we hypothesized — that one way animals could work simply,
+											is if the control of their movements
+											tended to be built into their bodies themselves.
+											What we discovered was that two-, four-, six- and eight-legged animals
+											all produce the same forces on the ground when they move.
+											They all work like this kangaroo, they bounce.
+											And they can be modeled by a spring-mass system that we call the spring mass system
+											because we're biomechanists. It's actually a pogo stick.
+											They all produce the pattern of a pogo stick. How is that true?
+											Well, a human, one of your legs works like two legs of a trotting dog,
+											or works like three legs, together as one, of a trotting insect,
+											or four legs as one of a trotting crab.
+											And then they alternate in their propulsion,
+											but the patterns are all the same. Almost every organism we've looked at this way
+											— you'll see next week, I'll give you a hint,
+											there'll be an article coming out that says that really big things
+											like T. rex probably couldn't do this, but you'll see that next week.
+									","
+											¿Cómo puedes entender esto? Bueno, creímos -
+											y suponemos - que una manera en la cual los animales pueden funcionar simplemente,
+											es si el control de sus movimientos
+											tendiera a estar construido dentro de sus cuerpos mismos.
+											Hemos descubierto que los animales de dos, cuatro, seis y ocho patas
+											producen las mismas fuerzas sobre el terreno cuando se mueven.
+											Todos funcionan como este canguro, rebotan.
+											Y pueden ser modelados por un sistema de resortes y aunque lo llamamos sistema de resortes
+											porque somos bio-mecánicos, en realidad es un saltador que rebota.
+											Todos producen el patrón de un saltador. ¿De qué forma es esto verdad?
+											Bueno, un ser humano, una de sus piernas, trabaja como dos piernas de un perro trotando
+											y trabaja como las tres piernas juntas de un insecto trotando,
+											o cuatro piernas juntas como en un cangrejo trotando.
+											Y entonces alternan su propulsión
+											pero los patrones son los mismos. Casi todo organismo que hemos estudiado
+											- lo verán la semana entrante - les daré una pista,
+											saldrá un artículo que dice que animales realmente grandes
+											como el T. Rex probablemente no podían hacer esto, pero lo verán la semana próxima.
+									","
+											Comment pourrions nous concevoir tout cela? En fait nous croyons...
+											et nous partons du principe... que dans un sens, les animaux fonctionneraient simplement,
+											comme si le contrôle de leurs mouvements
+											pouvaient être issus de leur corps eux même.
+											Ce que nous avons découvert c'est que les animaux avec deux, quatres, six, huit pattes,
+											exercent le même effort sur le sol lorsqu'ils se déplacent.
+											Ils fonctionnent tous comme ce kangourou, ils sautent.
+											Et peuvent être modélisés par un ensemble de masse et de ressorts, que nous appelons système masse-ressort
+											parce que nous somme des bio-mécaniciens, mais en fait c'est un bâton-sauteur.
+											Ils ont tous développés les caractéristiques d'un bâton-sauteur. Comment cela peut il être possible?
+											En fait, pour un homme, une de vos jambes équivaut à deux pattes d'un chien qui trotte,
+											ou trois pattes fonctionnant ensemble d'un insecte qui trotte,
+											voir quatre pour un crabe.
+											puis ils alternent pour se propulser,
+											mais le principe est toujours le même. Comme presque chaque organisme que nous avons observé de cette manière
+											- vous allez le voir la semaine prochaine - Je vais vous donner un indice,
+											il va y avoir prochainement un article qui explique que certains animaux très gros
+											comme le T. Rex ne pouvaient sans doutes pas faire cela, mais vous le verrez la semaine prochaine.
+									","
+											Wie soll man das verstehen können?
+Nun, wir glaubten –
+											und stellten die Hypothese auf – dass eine Art, in der Tiere funktionieren könnten,
+											darin besteht, dass die Bewegungssteuerung
+											eher in ihre Körper selbst eingebaut ist.
+											Wir entdeckten, dass zwei-, vier-, 
+sechs- und achtbeinige Tiere
+											bei ihrer Bewegung alle die gleichen Kräfte
+auf den Boden ausüben.
+											Sie alle funktionieren wie dieses Känguruh,
+sie hüpfen.
+											Und sie können durch ein Feder-Masse-System
+modelliert werden. Wir nennen das so,
+											weil wir Biomechaniker sind. 
+Es ist eigentlich ein Pogo-Stab.
+											Sie alle produzieren das Muster eines Pogo-Stabs.
+Wie kann das sein?
+											Bei Menschen funktioniert eines Ihrer Beine
+wie zwei Beine eines laufenden Hundes,
+											oder wie drei Beine eines laufenden Insekts,
+											oder vier Beine einer laufenden Krabbe.
+											Und sie bewegen sich abwechselnd vorwärts,
+											aber die Muster sind alle gleich. Fast jeder Organismus,
+den wir so untersucht haben –
+											nächste Woche werden Sie es selbst sehen,
+											da wird ein Artikel erscheinen, der erklärt,
+dass wirklich große Wesen –
+											ein T. Rex wohl eher nicht, aber Sie
+werden es nächste Woche sehen.
+									",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+","
+","
+","
+",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+											Now, what's interesting is the animals, then — we said — bounce along
+											the vertical plane this way, and in our collaborations with Pixar,
+											in ""A Bug's Life,"" we discussed the
+											bipedal nature of the characters of the ants.
+											And we told them, of course, they move in another plane as well.
+											And they asked us this question. They say, ""Why model
+											just in the sagittal plane or the vertical plane,
+											when you're telling us these animals are moving
+											in the horizontal plane?"" This is a good question.
+											Nobody in biology ever modeled it this way.
+											We took their advice and we modeled the animals moving
+											in the horizontal plane as well. We took their three legs,
+											we collapsed them down as one.
+											We got some of the best mathematicians in the world
+											from Princeton to work on this problem.
+											And we were able to create a model
+											where animals are not only bouncing up and down,
+											but they're also bouncing side to side at the same time.
+											And many organisms fit this kind of pattern.
+											Now, why is this important to have this model?
+											Because it's very interesting. When you take this model
+											and you perturb it, you give it a push,
+											as it bumps into something, it self-stabilizes, with no brain
+											or no reflexes, just by the structure alone.
+											It's a beautiful model. Let's look at the mathematics.
+									","
+											Ahora lo que es interesante es que los animales que dijimos que rebotan
+											en el plano vertical de esta manera, y en nuestra colaboración con Pixar
+											en la película ""Bichos"", discutimos la
+											naturaleza bípeda de los personajes de las hormigas.
+											Y les dijimos que desde luego, se mueven en otro plano también
+											y nos hicieron esta pregunta. Dijeron, ""¿Por qué modelar
+											sólo el plano sagital o plano vertical
+											cuando nos están diciendo que esos animales se mueven
+											en el plano horizontal?"" Esta es una buena pregunta.
+											Nadie en biología los había modelado de esta forma.
+											Seguimos su consejo y modelamos a los animales moviéndose
+											en la plano horizontal también. Tomamos sus tres patas
+											y las colapsamos a una
+											pusimos a algunos de los mejores matemáticos del mundo
+											de Princeton a trabajar en este problema.
+											Y pudimos crear un modelo
+											donde los animales no sólo rebotan de arriba a abajo,
+											sino también rebotan de lado a lado al mismo tiempo.
+											Y muchos organismos entran en esta clase de patrón.
+											Ahora, ¿por qué es importante tener este modelo?
+											Porque es muy interesante. Cuando tomas este modelo
+											y lo perturbas, le das un empujón,
+											como cuando choca con algo, se auto-estabiliza, sin cerebro,
+											o sin reflejos, sólo gracias a la estructura.
+											Es un modelo bello. Ahora, veamos las matemáticas.
+									","
+											Maintenant ce qui est intéressant c'est que l'on ai dit que les animaux bondissaient
+											dans le plan vertical, et avec notre collaboration avec Pixar
+											dans ""1001 pattes"" nous avons discutés
+											de la nature bipède des fourmies.
+											Et nous leur avons dit que bien sûr, ils se déplacent sur tous les plans de la même façon,
+											et ils nous ont posé la question : ""Pourquoi faire des modèles
+											uniquement dans le plan sagital ou le plan vertical,
+											alors que vous nous avez dit que ces animaux se déplacent
+											dans le plan horizontal?"" C'est une bonne question.
+											Personne en biologie n'avait jamais modélisé de cette façon.
+											Nous avons pris en compte leur conseil et nous avons modélisé les animaux se déplacant
+											dans le plan horizontal aussi. Nous avons pris leurs trois jambes,
+											que nous avons condensé en une seul,
+											et nous avons cherché quelques uns des meilleurs mathématiciens du monde
+											venant de Princeton pour travailler sur ce problème.
+											Nous avons été capable de créer un modèle
+											où les animaux ne bondissent pas uniquement de bas en haut,
+											mais ils bondissent aussi de chaque coté en même temps.
+											Or, beaucoup d'organismes fonctionnent de cette manière.
+											Maintenant, pourquoi un tel modèle est il si important?
+											Parce que c'est vraiment intéressant. Quand vous prenez ce modèle
+											et que vous le perturbez, que vous lui donnez une poussée,
+											comme s'il cognait contre quelquechose, il s'auto-stabilise, sans avoir besoin de cerveau,
+											ou de réflexes, la structure suffit.
+											C'est un magnifique modèle. Maintenant jetons un oeil aux mathématiques
+									","
+											Interessant ist, dass sich die Tiere entlang der
+											vertikalen Ebene hüpfend, bewegen.
+In unserer Zusammenarbeit mit Pixar
+											in ""Das große Krabbeln"" diskutierten wir über die
+											zweibeinige Natur der Ameisenfiguren.
+											Und wir sagten ihnen, klar, sie bewegen
+sich auch in einer anderen Ebene.
+											Und sie stellten uns diese Frage.
+Sie sagten: ""Warum sollten wir
+											nur in der Sagittalebene oder
+der vertikalen Ebene modellieren,
+											wenn Sie uns sagen, dass diese Tiere sich
+											in der horizontalen Ebene bewegen?""
+Das ist eine gute Frage.
+											In der Biologie hat es nie jemand so modelliert.
+											Wir nahmen ihren Rat an und modellierten
+die sich bewegenden Tiere
+											auch in der horizontalen Ebene.
+Wir nahmen ihre drei Beine,
+											fassten sie zu einem zusammen.
+											Wir hatten einige der
+weltbesten Mathematiker
+											von Princeton, um an
+diesem Problem zu arbeiten.
+											Und wir waren in der Lage,
+ein Modell zu schaffen,
+											wo Tiere nicht nur auf und ab sprangen,
+											sondern auch zur gleichen Zeit seitwärts.
+											Und viele Organismen passen in dieses Muster.
+											Nun, warum ist so ein Modell wichtig?
+											Weil es sehr interessant ist.
+Wenn Sie dieses Modell nehmen
+											und Sie stören es, geben ihm einen Stoß,
+											als ob es in etwas hineinläuft,
+stabilisiert es sich selbst,
+											ohne Gehirn und ohne Reflexe, nur durch die Struktur allein.
+											Es ist ein wunderschönes Modell. 
+Schauen wir uns die Mathematik an.
+									",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+","
+","
+","
+",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+											(Laughter)
+									","
+											(Risas)
+									","
+											(Rires)
+									","
+											(Lachen)
+									",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+","
+","
+","
+",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+											That's enough!
+									","
+											Eso es suficiente.
+									","
+											C'est suffisant.
+									","
+											Das ist genug!
+									",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+","
+","
+","
+",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+											(Laughter)
+									","
+											(Risas)
+									","
+											(Rires)
+									","
+											(Lachen)
+									",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+","
+","
+","
+",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+											The animals, when you look at them running,
+											appear to be self-stabilizing like this,
+											using basically springy legs. That is, the legs can do
+											computations on their own; the control algorithms, in a sense,
+											are embedded in the form of the animal itself.
+											Why haven't we been more inspired by nature and these kinds of discoveries?
+											Well, I would argue that human technologies are really different from
+											natural technologies, at least they have been so far.
+											Think about the typical kind of robot that you see.
+											Human technologies have tended to be large, flat,
+											with right angles, stiff, made of metal. They have rolling devices
+											and axles. There are very few motors, very few sensors.
+											Whereas nature tends to be small, and curved,
+											and it bends and twists, and has legs instead, and appendages,
+											and has many muscles and many, many sensors.
+											So it's a very different design. However, what's changing,
+											what's really exciting — and I'll show you some of that next —
+											is that as human technology takes on more of the characteristics
+											of nature, then nature really can become a much more useful teacher.
+									","
+											Los animales, cuando los ves correr,
+											parecen estar auto-estabilizados de esta manera,
+											usando básicamente piernas con resortes. Esto es, las piernas pueden
+											hacer cálculos por sí mismas, en cierto sentido los algoritmos de control
+											están integrados en la forma del animal mismo.
+											¿Por qué no hemos sido inspirados más por la naturaleza y esta clase de descubrimientos?
+											Bueno, argumentaría que las tecnologías humanas son realmente diferentes de
+											las tecnologías naturales, al menos lo han sido hasta ahora.
+											Piensa en la típica clase de robot que ves.
+											Las tecnologías humanas han tendido a ser grandes, planas
+											con ángulos rectos, rígidas, hechas de metal. Tienen mecanismos para rodar
+											y ejes. Tienen muy pocos motores, muy pocos sensores.
+											Mientras que la naturaleza tiende a ser pequeña, y curva,
+											y flexible y girable y a cambio tiene patas y apéndices,
+											y tiene muchos músculos y muchos, muchos sensores.
+											Así que es un diseño muy diferente. Sin embargo, lo que está cambiando,
+											lo que es realmente excitante - y les mostraré algo de ello enseguida -
+											es que al empezar a tomar la tecnología humana algunas de las características
+											de la naturaleza, entonces la naturaleza puede convertirse en una maestra más útil.
+									","
+											Les animaux, quand vous les regardez courir,
+											semblent être auto-stabilisés de cette façon,
+											en utilisant uniquement leurs ""jambes sauteuses"". C'est que les jambes peuvent
+											se débrouiller seules, les algorithmes de contrôle sont, en un sens,
+											compris dans la structure de l'animal elle-même.
+											Pourquoi n'avons nous pas étés plus inspirés par la nature et ce type de découvertes?
+											Et bien, j'aimerais dire que les technologies humaines sont vraiment différentes
+											des technologie de la nature, ou du moins sont elles vraiment éloignées.
+											Réfléchissez au type de robot classique que vous voyez.
+											Les technologies humaines ont tendance à être larges, brutes,
+											avec des angles vifs, rigide, fait de métal. Elles ont des roues
+											et des axes. Elles ont très peu de moteurs, peu de capteurs.
+											Alors que la nature tend à être petit, arrondi,
+											elle se courbe et se tord et possède des jambes et des appendices,
+											elle a beaucoup de muscles et beaucoup, beaucoup de capteurs.
+											C'est donc un design très différent. Du moins, ce qui change,
+											ce qui est vraiment excitant — et je vais vous le présenter après —
+											c'est que les technologies humaines se basent de plus en plus sur les caractéristiques
+											de la nature, donc la nature devient vraiment de plus en plus un professeur incontournable.
+									","
+											Wenn Sie die Tiere beim Laufen beobachten,
+											scheinen sie selbst-stabilisierend zu sein, wie dieses,
+											weil ihre Beine im Prinzip federn. Die Beine können
+											ihre eigenen Berechnungen ausführen; 
+die Steuerungsalgorithmen sind sozusagen
+											in die Form des Tieres selbst eingebettet.
+											Warum wurden wir nicht mehr von der Natur 
+und Entdeckungen dieser Art inspiriert?
+											Nun, ich würde behaupten, dass menschliche 
+Technologien wirklich anders als
+											natürliche Technologien sind, 
+zumindest waren sie es bisher.
+											Denken Sie an die typische Art von Roboter, die man sieht.
+											Menschliche Technologien waren eher groß und flach,
+											mit rechten Winkeln, steif, aus Metall bestehend. 
+Sie haben rollende Elemente
+											und Achsen. Es gibt sehr wenige Motoren oder Sensoren.
+											Die Natur dagegen ist eher klein und kurvig,
+											und biegt und windet sich 
+und hat stattdessen Beine und Anhängsel
+											und viele Muskeln und viele, viele Sensoren.
+											Es ist also ein ganz anderes Design. 
+Doch was sich verändert,
+											was wirklich spannend ist – 
+ich zeige Ihnen gleich etwas darüber –
+											ist, wenn die menschliche Technologie mehr 
+von den Eigenschaften der Natur annimmt,
+											dann kann die Natur wirklich 
+ein viel nützlicherer Lehrer werden.
+									",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+","
+","
+","
+",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+											And here's one example that's really exciting.
+											This is a collaboration we have with Stanford.
+											And they developed this new technique, called Shape Deposition Manufacturing.
+											It's a technique where they can mix materials together and mold any shape
+											that they like, and put in the material properties.
+											They can embed sensors and actuators right in the form itself.
+											For example, here's a leg: the clear part is stiff,
+											the white part is compliant, and you don't need any axles there or anything.
+											It just bends by itself beautifully.
+											So, you can put those properties in. It inspired them to show off
+											this design by producing a little robot they named Sprawl.
+											Our work has also inspired another robot, a biologically inspired bouncing robot,
+											from the University of Michigan and McGill
+											named RHex, for robot hexapod, and this one's autonomous.
+											Let's go to the video, and let me show you some of these animals moving
+											and then some of the simple robots
+											that have been inspired by our discoveries.
+											Here's what some of you did this morning, although you did it outside,
+											not on a treadmill.
+											Here's what we do.
+									","
+											He aquí un ejemplo que es verdaderamente excitante.
+											Esta es una colaboración con Stanford.
+											Y ellos han desarrollado esta nueva técnica llamada Manufactura de Depósito Formado.
+											Es una técnica en la cual mezclan los materiales y moldean cualquier forma
+											que gusten, y entonces ponen las propiedades del material.
+											Pueden integrar sensores y actuadores dentro de la forma misma.
+											Por ejemplo, aquí está una pata - la parte clara es rígida,
+											la parte blanca es flexible, y no necesitas ejes o cualquier otra cosa.
+											Se dobla por sí misma bellamente.
+											Así que puedes poner tales propiedades dentro. Les inspiró a presumir
+											este diseño en la producción de un pequeño robot llamado Sprawl [desgarbado].
+											Nuestro trabajo ha inspirado también otro robot, un robot saltador inspirado en la biología
+											de las universidades de Michigan y McGill
+											llamado RHex, por robot hexápodo, y este es autónomo.
+											Vayamos al video y déjenme mostrarles a algunos de esos animales moviéndose.
+											Y después algunos de los robots simples
+											que han sido inspirados por nuestros descubrimientos.
+											He aquí lo que algunos de ustedes hicieron esta mañana, aunque lo hicieron afuera
+											y no sobre una caminadora.
+											Esto es lo que hacemos.
+									","
+											Et voici un exemple qui est vraiment intéressant.
+											C'est une collaboration que nous avons avec Stanford.
+											Et ils ont développé cette nouvelle technique appelée ""Shape Deposition Manufacturing"" (SDM)
+											C'est une technique qui permet de mélanger des matériaux ensemble et de mouler
+											toutes les formes qu'ils veulent, et de leurs donner les propriétés des matériaux.
+											Ils peuvent inclure les capteurs et les servocommandes directement dans la forme elle-même.
+											Par exemple, voici une jambe — la partie transparente est rigide,
+											la partie blanche est souple, et vous n'avez pas besoin du moindre axe ou quoique ce soit.
+											Elle se plie juste parfaitement d'elle même.
+											Vous pouvez donc mettre ces propriétés dans la jambe elle même. Ça les a poussé
+											à présenter cette étude en créant un petit robot qu'ils ont appelé Sprawl.
+											Nos travaux ont aussi inspiré un autre robot, un robot sautant inspiré de la biologie,
+											fait par l'Université du Michigan et McGill,
+											appelé RHex, pour Robot Hexapode, et celui ci est autonome.
+											Passons à la vidéo et laissez moi vous montrer quelques-uns de ces animaux se déplaçant.
+											Ainsi qu'une partie de ces robots basiques
+											qui ont été inspirés par nos découvertes.
+											C'est une partie de ce que vous avez fait ce matin, quoique vous le fassiez dehors
+											même si ce n'est pas sur un tapis-roulant.
+											Voilà ce que nous faisons
+									","
+											Und hier ist ein Beispiel, das wirklich aufregend ist.
+											Dies ist eine Zusammenarbeit mit Stanford.
+											Und sie entwickelten diese neue Technik, 
+genannt Shape-Deposition Manufacturing.
+											Das ist eine Technik, bei der sie Materialien mischen 
+und in jede beliebige Form gießen
+											und dabei auch die Werkstoffeigenschaften bestimmen können.
+											Sie können Sensoren und Aktoren direkt in die Form einbetten.
+											Zum Beispiel, hier ist ein Bein: der klare Teil ist steif,
+											der weiße Teil flexibel und sie brauchen 
+keine Achsen oder so etwas.
+											Es beugt sich von selbst wunderbar.
+											Also, man kann diese Eigenschaften einbauen. 
+Es hat sie inspiriert,
+											dieses Design anhand eines kleinen Roboters,
+der Sprawl heißt, vorzuführen.
+											Unsere Arbeit hat auch einen anderen Roboter inspiriert, 
+einen biologisch-inspirierten hüpfenden Roboter
+											von der University of Michigan und McGill,
+											RHex genannt, für Roboter Hexapod, und dieser ist autonom.
+											Beginnen wir mit dem Video und lassen Sie mich Ihnen 
+einige dieser Tiere in Bewegung zeigen,
+											und dann einige der einfachen Roboter,
+											die von unseren Entdeckungen inspiriert wurden.
+											Hier ist etwas, was einige von Ihnen heute morgen 
+getan haben, obwohl Sie es draußen getan haben,
+											nicht auf einem Laufband.
+											Hier ist, was wir tun.
+									",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+","
+","
+","
+",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+											(Laughter)
+									","
+											(Risas)
+									","
+											(Rires)
+									","
+											(Lachen)
+									",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+","
+","
+","
+",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+											This is a death's head cockroach. This is an American cockroach
+											you think you don't have in your kitchen.
+											This is an eight-legged scorpion, six-legged ant, forty-four-legged centipede.
+											Now, I said all these animals are sort of working like pogo sticks —
+											they're bouncing along as they move. And you can see that
+											in this ghost crab, from the beaches of Panama and North Carolina.
+											It goes up to four meters per second when it runs.
+											It actually leaps into the air, and has aerial phases
+											when it does it, like a horse, and you'll see it's bouncing here.
+											What we discovered is whether you look at the leg of a human
+											like Richard, or a cockroach, or a crab, or a kangaroo,
+											the relative leg stiffness of that spring is the same for everything we've seen so far.
+											Now, what good are springy legs then? What can they do?
+											Well, we wanted to see if they allowed the animals
+											to have greater stability and maneuverability.
+											So, we built a terrain that had obstacles three times the hip height
+											of the animals that we're looking at.
+											And we were certain they couldn't do this. And here's what they did.
+											The animal ran over it and it didn't even slow down!
+											It didn't decrease its preferred speed at all.
+											We couldn't believe that it could do this. It said to us
+											that if you could build a robot with very simple, springy legs,
+											you could make it as maneuverable as any that's ever been built.
+									","
+											Esta es una cucaracha calavera - esta es una cucaracha americana
+											la cual ustedes piensan que no tienen en su cocina.
+											Este es un escorpión de ocho patas, hormiga de seis patas, y un ciempiés de cuarenta y cuatro patas.
+											He dicho que todos esos animales funcionan como un saltador -
+											rebotan al moverse y ustedes pueden verlo
+											en el cangrejo fantasma de las playas de Panamá y Carolina del Norte.
+											Puede alcanzar los cuatro metros por segundo cuando corre.
+											De hecho brinca en el aire y tiene fases aéreas
+											cuando lo hace, como un caballo, y verán que está rebotando aquí.
+											Lo que descubrimos es que ya sea que mires la pierna de un ser humano,
+											como Richard, o de una cucaracha, o de un cangrejo o de un canguro,
+											la rigidez relativa de la pierna en el brinco es la misma para todo lo que hemos visto hasta ahora.
+											Ahora ¿de qué sirven piernas con resorte? ¿qué pueden hacer?
+											Bueno, queríamos ver si les permitían a los animales
+											tener mayor estabilidad y maniobrabilidad.
+											Así que construimos un terreno que tenía obstáculos tres veces más altos que la cadera
+											de los animales que estábamos observando
+											y estábamos seguros que no podían hacerlo. Y esto es lo que hicieron.
+											El animal corre sobre los obstáculos y sin siquiera disminuir su velocidad.
+											No disminuyó su velocidad preferida para nada.
+											No podíamos creer que pudiera hacer esto. Esto nos dijo
+											que si construyes un robot con una piernas con resorte muy simples
+											puedes hacerlo tan maniobrable como cualquier cosa que se haya construido antes.
+									","
+											C'est une blatte tête-de-mort — c'est une blatte Américaine
+											vous pensez que vous n'en avez pas dans votre cuisine.
+											C'est un scorpions avec 8 pattes, une fourmis à 6 pattes, un centipède avec 44 pattes.
+											Maintenant, je vous ai dit que ces animaux marchent en quelque sorte comme des bâtons-sauteurs —
+											ils sautent alors qu'ils se déplacent et vous pouvez le voir
+											avec ce crabe fantôme des plages de Panama et de la Caroline du Nord.
+											Il peut aller jusqu'à 4 mètre par seconde quand il court.
+											Il bondit en fait dans les airs et a donc des phases aériennes
+											quand il fait cela, comme un cheval, et vous voyez qu'il bondit ici.
+											Ce que nous avons découvert est que même quand vous regardez les jambes d'un humain
+											comme Richard, ou une blatte, ou un crabe, ou un kangourou,
+											la partie rigide du ressort est la même dans tout ce que nous avons vu jusqu'ici.
+											Ces jambes sauteuses sont très biens, mais que peuvent elles faire ?
+											En fait, nous voulions voir si elles permettaient aux animaux
+											d'avoir une meilleure stabilité et manœuvrabilité.
+											Nous avons donc crée un terrain pourvu d'obstacles grand comme trois fois la hauteur de hanche
+											des animaux que nous observions
+											et nous étions certains qu'ils ne pourraient pas le franchir. Et voici ce qu'ils ont fait.
+											L'animal le traverse et ne ralenti même pas.
+											Ça ne réduit même pas sa vitesse de croisière du tout.
+											Nous ne pouvions croire qu'il pouvait faire cela. Il nous a indiqué
+											que si vous pouvez construire un robot avec des jambes sauteuses toutes simples,
+											vous pourrez le rendre aussi manœuvrable que tout ce qui a été construit jusque là.
+									","
+											Dies ist eine Totenkopfschabe.
+Das ist eine amerikanische Schabe, von der
+											Sie denken, Sie haben sie nicht in Ihrer Küche.
+											Dies ist ein achtbeiniger Skorpion, eine sechsbeinige Ameise,
+ein vierundvierzigbeiniger Tausendfüßler.
+											Nun sagte ich, all diese Tiere funktionieren 
+etwa wie Pogo-Stäbe –
+											sie hüpfen vorwärts, wenn sie sich bewegen. 
+Und Sie können das
+											bei dieser Geist-Krabbe sehen, von den Stränden 
+von Panama und North Carolina.
+											Sie kommt beim Laufen auf bis zu vier Metern pro Sekunde.
+											Tatsächlich springt sie in die Luft 
+und schwebt dann phasenweise,
+											wie ein Pferd, und Sie sehen sie hier hüpfen.
+											Was wir entdeckt haben, ist, 
+ob man das Bein eines Menschen betrachtet
+											wie Richard, oder das einer Schabe 
+oder einer Krabbe oder eines Kängurus,
+											die relative Beinsteifheit dieser Feder ist gleich 
+für alle, die wir bis jetzt gesehen haben.
+											Nun, warum dann federnde Beine? Was können sie tun?
+											Nun, wir wollten sehen, ob sie den Tieren
+											mehr Stabilität und Wendigkeit ermöglichen.
+											Also bauten wir ein Gelände mit Hindernissen, 
+dreimal so hoch wie die Hüfthöhe
+											der Tiere, die wir untersuchten.
+											Und wir waren sicher, sie könnten das nicht tun. 
+Und hier ist, was sie taten.
+											Das Tier lief darüber und ist nicht einmal langsamer geworden!
+											Es verminderte seine bevorzugte 
+Geschwindigkeit überhaupt nicht.
+											Wir konnten nicht glauben, dass es 
+das tun konnte. Es zeigt uns,
+											dass, wenn man einen Roboter mit 
+sehr einfachen, federnden Beinen bauen könnte,
+											man ihn so wendig machen könnte,
+wie alles was bisher gebaut worden ist.
+									",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+","
+","
+","
+",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+											Here's the first example of that. This is the Stanford
+											Shape Deposition Manufactured robot, named Sprawl.
+											It has six legs — there are the tuned, springy legs.
+											It moves in a gait that an insect uses, and here it is
+											going on the treadmill. Now, what's important about this robot,
+											compared to other robots, is that it can't see anything,
+											it can't feel anything, it doesn't have a brain, yet it can maneuver
+											over these obstacles without any difficulty whatsoever.
+											It's this technique of building the properties into the form.
+											This is a graduate student. This is what he's doing to his thesis project —
+											very robust, if a graduate student
+											does that to his thesis project.
+									","
+											Aquí está el primer ejemplo de ello, este es el robot de Stanford
+											construido con la Manufactura de Depósito Formado llamado Sprawl.
+											Tiene seis patas - y son las patas sincronizadas con resorte.
+											Se mueve de la misma manera que un insecto y aquí está
+											en la caminadora. Ahora, lo que es importante respecto de este robot
+											comparado con otros robots, es que no puede ver,
+											no puede sentir, no tiene un cerebro, sin embargo puede maniobrar
+											sobre estos obstáculos sin dificultad alguna.
+											Esta es la técnica de integrar las propiedades en la forma.
+											Este es un estudiante de doctorado, esto es lo que él le hace a su proyecto de tesis,
+											muy robusto si un estudiante de doctorado
+											le hace esto a su proyecto de tesis.
+									","
+											Voici le premier exemple, voici le robot de Stanfort
+											fait avec le principe de prototypage rapide (SDM) appelé Sprawl.
+											Il a six jambes, ce sont les jambes sauteuses améliorées.
+											Il se déplace avec la même démarche que les insectes et le voici
+											se déplaçant sur le tapis roulant. Maintenant ce qui est vraiment important avec ce robot,
+											comparé aux autres robots, c'est qu'il ne peut rien voir du tout,
+											il ne peut rien ressentir, il n'a pas de cerveau, pourtant il peut manœuvrer
+											à travers ces obstacles sans la moindre difficulté.
+											C'est la technique qui consiste à incorporer les propriétés dans la forme.
+											Voici un élève diplômé, voilà ce qu'il fait à son projet de thèse,
+											extrêmement solide si un élève diplômé
+											peut réussir à faire la même chose à son projet de thèse.
+									","
+											Hier ist das erste Beispiel davon. 
+Das ist Sprawl, der Stanford
+											Shape Deposition Manufacturing Roboter.
+											Er hat sechs Beine – es sind die getunte, federnde Beine.
+											Sein Gang gleicht dem eines Insekts und hier
+											läuft er auf dem Laufband. Nun, 
+was bei diesem Roboter im Vergleich
+											zu anderen Robotern wichtig ist, 
+ist, dass er nichts sehen kann,
+											er kann nichts fühlen, er hat kein Gehirn, aber er kann
+											ohne jede Schwierigkeiten über diese Hindernisse manövrieren.
+											Es ist diese Technik, wo man die Eigenschaften
+direkt in die Struktur einbaut.
+											Dies ist ein Student. Das tut er für seine Diplomarbeit –
+											sehr robust, wenn ein Student
+											das für seine Diplomarbeit macht.
+									",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+","
+","
+","
+",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+											(Laughter)
+									","
+											(Risas)
+									","
+											(Rires)
+									","
+											(Lachen)
+									",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+","
+","
+","
+",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+											This is from McGill and University of Michigan. This is the RHex,
+											making its first outing in a demo.
+									","
+											Este viene de las universidades de Michigan y McGill, este es el RHex,
+											haciendo su primer salida en una demostración.
+									","
+											Celui-ci vient de McGill et de l'université du Michigan, c'est RHex,
+											faisant sa première sortie pour une démonstration.
+									","
+											Das ist von der McGill und der Universität von Michigan. 
+Das ist der RHex,
+											auf seinem ersten Ausflug bei einer Vorführung.
+									",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+","
+","
+","
+",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+											(Laughter)
+									","
+											(Risas)
+									","
+											(Rires)
+									","
+											(Lachen)
+									",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+","
+","
+","
+",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+											Same principle: it only has six moving parts,
+											six motors, but it has springy, tuned legs. It moves in the gait of the insect.
+											It has the middle leg moving in synchrony with the front,
+											and the hind leg on the other side. Sort of an alternating tripod,
+											and they can negotiate obstacles just like the animal.
+									","
+											El mismo principio. Sólo tiene seis partes móviles.
+											Seis motores, pero tiene patas con resorte, patas sincronizadas. Se mueve con postura de un insecto
+											la pata central se mueve en sincronía con la frontal
+											y la trasera del lado opuesto. Como un trípode alternante,
+											y puede maniobrar obstáculos tal como el animal.
+									","
+											Même principe. Il possède uniquement six parties mobiles.
+											Six moteurs, mais il a des jambes sauteuses améliorées. Il marche à la façon d'un insecte
+											la jambe centrale est synchronisée avec celle de devant
+											et de derrière du coté opposé. Une sorte de tripode alterné,
+											et ils peuvent négocier les obstacles tout à fait comme les animaux.
+									","
+											Gleiches Prinzip: er hat nur sechs bewegliche Teile,
+											sechs Motoren, aber er hat federnde, abgestimmte Beine. 
+Er bewegt sich in der Gangart des Insekts.
+											Das mittlere Bein bewegt sich synchron mit dem vorderen
+											und dem hinteren Bein auf der anderen Seite. 
+Es ist eine Art alternierendes Dreibein,
+											und sie können mit Hindernissen 
+genauso wie ein Tier umgehen.
+									",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+","
+","
+","
+",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+											(Laughter)
+									","
+											(Risas)
+									","
+											(Rires)
+									","
+											(Lachen)
+									",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+","
+","
+","
+",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+											(Voice: Oh my God.)
+									","
+											¡Dios Mío!
+									","
+											Oh mon dieu.
+									","
+											(Stimme: Mein Gott.)
+									",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+","
+","
+","
+",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+											(Applause)
+									","
+											(Aplausos)
+									","
+											(Applaudissements)
+									","
+											(Applaus)
+									",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+","
+","
+","
+",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+											Robert Full: It'll go on different surfaces — here's sand —
+											although we haven't perfected the feet yet, but I'll talk about that later.
+											Here's RHex entering the woods.
+									","
+											Puede moverse en diferentes superficies, aquí en la arena,
+											aunque no hemos perfeccionado los pies todavía, pero hablaré de ello más tarde.
+											Aquí está RHex entrando al bosque.
+									","
+											Il se déplace sur différentes surfaces, ici du sable,
+											cependant nous n'avons pas optimisé le pied actuellement, mais je vous en parlerai après.
+											Voici RHex entrant dans les bois.
+									","
+											Robert Full: Es wird auf verschiedenen Oberflächen gehen
+– hier ist Sand –
+											obwohl wir die Füße noch nicht perfektioniert haben, 
+aber ich werde darüber später sprechen.
+											Hier ist RHex, der in den Wald geht.
+									",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+","
+","
+","
+",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+											(Laughter)
+									","
+											(Risas)
+									","
+											(Rires)
+									","
+											(Lachen)
+									",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+","
+","
+","
+",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+											Again, this robot can't see anything, it can't feel anything,
+											it has no brain. It's just working with a tuned mechanical system,
+											with very simple parts, but inspired from the fundamental dynamics of the animal.
+											(Voice: Ah, I love him, Bob.) RF: Here's it going down a pathway.
+											I presented this to the jet propulsion lab at NASA, and they said
+											that they had no ability to go down craters to look for ice,
+											and life, ultimately, on Mars. And he said —
+											especially with legged-robots, because they're way too complicated.
+											Nothing can do that. And I talk next. I showed them this video
+											with the simple design of RHex here. And just to convince them
+											we should go to Mars in 2011, I tinted the video orange
+											just to give them the sense of being on Mars.
+									","
+											Otra vez, este robot no puede ver, no puede sentir cosa alguna,
+											no tiene cerebro. Trabaja solamente con un sistema mecánico sincronizado
+											con partes muy simples. Pero está inspirado en las dinámicas fundamentales del animal.
+											¡Ah! Lo adoro Bob. Aquí avanza sobre un pasillo.
+											Le presenté esto al Jet Propulsion Lab de la NASA y dijeron
+											que ellos no tenían la habilidad de bajar a los cráteres para buscar hielo,
+											y finalmente vida, en Marte. Y él dijo -
+											particularmente usando robots con patas, porque son demasiado complicados.
+											Nada puede hacer eso. Yo hablo después. Les muestro este video
+											con el simple diseño de RHex, y solo para convencerlos
+											que debemos ir a Marte en el 2011, entinté el video en color naranja
+											para darle la impresión de estar en Marte.
+									","
+											Cette fois encore, ce robot ne peut rien voir, rien ressentir,
+											il n'a pas de cerveau. Il fonctionne uniquement avec un système mécanique
+											avec des pièces très simples. Mais inspiré des dynamiques fondamentales des animaux.
+											Ah, je l'aime Bob. Là il descend un chemin.
+											Je l'ai présenté au laboration de propulsion jet de la NASA, et ils ont dit
+											qu'il n'avait pas la capacité de descendre dans des cratères pour chercher de la glace,
+											et de la vie à terme, sur Mars. Et ils disent cela
+											en particulier avec les robots marchants parce qu'ils sont trop compliqués.
+											C'est impossible à faire. Puis j'ai pris la parole. Je leurs ai montré cette vidéo
+											avec la conception basique de ce RHex, et juste pour les convaincre
+											que nous devrions aller sur Mars en 2011, j'ai teint la vidéo en orange
+											pour leur donner l'impression d'être sur Mars.
+									","
+											Noch einmal, dieser Roboter kann 
+nichts sehen, kann nichts fühlen,
+											hat kein Gehirn. Er funktioniert einfach 
+mit einem abgestimmten mechanischen System,
+											mit sehr einfachen Teilen, aber inspiriert 
+von der grundlegenden Dynamik des Tieres.
+											(Stimme: Ah, ich liebe ihn, Bob.) 
+RF: Hier geht er einen Weg hinunter.
+											Ich stellte dies dem Jet Propulsion Lab der NASA vor
+und sie sagten,
+											dass sie nicht die Fähigkeit hätten
+in Krater abzusteigen um nach Eis zu suchen,
+											und letztlich nach Leben auf dem Mars. Und er sagte –
+											besonders mit Robotern mit Beinen, 
+weil sie viel zu kompliziert seien.
+											Nichts kann das tun. Und dann redete ich. 
+Ich zeigte ihnen dieses Video
+											mit dem schlichten Design des RHex hier. 
+Und nur um sie zu überzeugen,
+											dass wir 2011 zum Mars fliegen sollten, 
+tönte ich das Video orange,
+											nur um ihnen das Gefühl zu geben, auf dem Mars zu sein.
+									",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+","
+","
+","
+",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+											(Laughter)
+									","
+											(Risas)
+									","
+											(Rires)
+									","
+											(Lachen)
+									",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+","
+","
+","
+",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+											(Applause)
+									","
+											(Aplauso)
+									","
+											(Applaudissements)
+									","
+											(Applaus)
+									",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+","
+","
+","
+",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+											Another reason why animals have extraordinary performance,
+											and can go anywhere, is because they have an effective interaction
+											with the environment. The animal I'm going to show you,
+											that we studied to look at this, is the gecko.
+											We have one here and notice its position. It's holding on.
+											Now I'm going to challenge you. I'm going show you a video.
+											One of the animals is going to be running on the level,
+											and the other one's going to be running up a wall. Which one's which?
+											They're going at a meter a second. How many think the one on the left
+											is running up the wall?
+									","
+											Otra razón por la cual los animales tienen este extraordinario desempeño
+											y pueden ir a donde sea, es porque tienen una interacción efectiva
+											con el medio. El animal que voy a mostrarles
+											que estudiamos para ver esto es la lagartija.
+											Tenemos una aquí y noten su posición. Se adhiere.
+											Ahora, los voy a desafiar. Les mostraré un video.
+											Uno de los animales está corriendo en una superficie horizontal,
+											y el otro está escalando una pared. ¿Cuál es cuál?
+											Están corriendo a un metro por segundo. ¿Cuántos de ustedes piensan que el de la izquierda
+											está escalando una pared?
+									","
+											Une autre raison pour laquelle les animaux ont des performances extraordinaires
+											et peuvent aller n'importe où, c'est parce qu'ils ont une interaction efficace
+											avec leur environnement. L'animal que je vais vous présenter
+											et sur lequel nous allons travailler est le gecko.
+											Nous en avons un ici, notez sa position. Il ne bouge pas.
+											Maintenant je vais vous mettre à l'épreuve. Je vais vous montrer une vidéo.
+											L'un des animaux sera en train de courir à l'horizontale,
+											et l'autre sera en train de monter à un mur. Qui est qui?
+											Ils avancent à un mètre par seconde. Combien pensez que celui de gauche
+											montait le mur?
+									","
+											Ein weiterer Grund, warum Tiere
+außergewöhnliche Leistung erbringen,
+											und überall hingehen können, 
+ist ihre effektive Interaktion mit der Umwelt.
+											Das Tier, das ich Ihnen zeigen werde,
+											welches wir untersucht haben, ist der Gecko.
+											Wir haben einen hier. Beachten Sie 
+seine Position. Es hält sich fest.
+											Jetzt habe ich eine Herausforderung 
+für Sie. Ich zeige Ihnen ein Video.
+											Eines der Tiere läuft auf der Ebene,
+											und das andere läuft eine Wand hinauf. 
+Welches ist welches?
+											Sie laufen mit einer Geschwindigkeit von einem Meter 
+pro Sekunde. Wie viele glauben, dass der auf der linken Seite,
+											die Wand hochläuft?
+									",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+","
+","
+","
+",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+											(Applause)
+									","
+											(Aplauso)
+									","
+											(Applaudissements)
+									","
+											(Applaus)
+									",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+","
+","
+","
+",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+											Okay. The point is it's really hard to tell, isn't it? It's incredible,
+											we looked at students do this and they couldn't tell.
+											They can run up a wall at a meter a second, 15 steps per second,
+											and they look like they're running on the level. How do they do this?
+											It's just phenomenal. The one on the right was going up the hill.
+											How do they do this? They have bizarre toes. They have toes
+											that uncurl like party favors when you blow them out,
+											and then peel off the surface, like tape.
+											Like if we had a piece of tape now, we'd peel it this way.
+											They do this with their toes. It's bizarre! This peeling inspired
+											iRobot — that we work with — to build Mecho-Geckos.
+											Here's a legged version and a tractor version, or a bulldozer version.
+											Let's see some of the geckos move with some video,
+											and then I'll show you a little bit of a clip of the robots.
+											Here's the gecko running up a vertical surface. There it goes,
+											in real time. There it goes again. Obviously, we have to slow this down a little bit.
+									","
+											Muy bien. El punto es que es realmente difícil distinguirlos, ¿no es así? Es increíble,
+											vimos a estudiantes hacer esto y no podían diferenciarlos.
+											Pueden correr sobre una pared a un metro por segundo, 15 pasos por segundo
+											y parece que estuvieran corriendo en un plano horizontal. ¿Cómo lo hacen?
+											Es fenomenal. El de la derecha está escalando la pared.
+											¿Cómo hacen esto? - tienen dedos extraños - tienen dedos
+											que se desenrrollan como espantasuegras cuando los inflas
+											y luego se despegan de la superficie como cinta adhesiva.
+											Como si tuviéramos un pedazo de cinta adhesiva y lo despegáramos de esta forma.
+											Esto es lo que hacen con sus dedos. Es estrafalario. Este despegarse inspiró
+											el iRobot con el que trabajamos, para construir Mecho-Geckos.
+											Esta es la versión con patas y la versión tractor, o una versión bulldozer.
+											Veamos algunas lagartijas moverse en el video
+											y entonces les mostraré un corto de los robots.
+											Aquí está la lagartija escalando una superficie vertical, aquí va,
+											en tiempo real, aquí va otra vez. Obviamente tenemos que lentificar esto un poco.
+									","
+											Okay. Le fait est que c'est vraiment dur à expliquer, n'est ce pas? C'est incroyable,
+											nous avons observé des étudiants faisant cette expérience et ils n'ont pas pu expliquer.
+											Ils peuvent monter à un mur à un mètre à la seconde, 15 pas par seconde
+											et comme s'ils courraient sur une surface horizontale. Comment peuvent-ils faire cela?
+											C'est juste phénoménal. Celui de droite monte sur un obstacle.
+											Comment font ils cela — ils ont des orteils étranges — ils ont des orteils
+											qui se déroulent comme un cracker quand vous le faites exploser,
+											et se décrochent de la surface comme un ruban adhésif.
+											Comme si nous avions du ruban adhésif et que nous le décrochions ainsi.
+											Ils font cela avec leurs orteils. C'est bizarre. Ce décrochage a inspiré
+											iRobot avec lequel nous avons travaillé, pour fabriquer des Meca-Geckos.
+											Il y a une version avec pattes, une version tracteur et une version bulldozer.
+											Voyons quelques mouvements du gecko avec quelques vidéos,
+											et par la suite je vais vous montrer quelques extraits des robots.
+											Ici un gecko court sur une surface verticale, il vient de passer
+											en temps réel, il vient à nouveau de passer. Évidemment nous devons ralentir un petit peu.
+									","
+											Okay. Der Punkt ist, es ist wirklich schwer 
+zu sagen, nicht wahr? Es ist unglaublich,
+											Studenten haben es versucht und sie konnten es nicht sagen.
+											Sie können eine Wand hochlaufen, 
+1 Meter pro Sekunde, 15 Schritte pro Sekunde,
+											und sie sehen aus, als ob sie auf der Ebene laufen. 
+Wie schaffen sie das?
+											Es ist einfach phänomenal. Der eine 
+auf der rechten Seite lief den Hügel hinauf.
+											Wie schaffen sie es? Sie haben bizarre Zehen. 
+Sie haben Zehen,
+											die sich strecken wie eine Partytröte, 
+wenn man hineinbläst,
+											und sich dann von der Oberfläche lösen, wie Klebeband.
+											Wenn wir jetzt ein Stück Klebeband hätten, 
+würden wir es auf diese Art ablösen.
+											Sie tun dies mit ihren Zehen. Es ist bizarr! 
+Dieses Ablösen inspirierte
+											iRobot – mit denen wir zusammenarbeiten – 
+dazu Mecho-Geckos zu bauen.
+											Hier ist eine zweibeinige Version
+und eine Traktor- oder Bulldozer-Version.
+											Sehen wir uns in ein paar Videos an, 
+wie einige der Geckos sich bewegen,
+											und dann zeige ich Ihnen ein Stück eines Clips mit Robotern.
+											Hier läuft der Gecko auf einer 
+senkrechten Fläche hoch. Dort geht er,
+											in Echtzeit. Dort geht er wieder. Offensichtlich 
+müssen wir dies ein wenig langsamer machen.
+									",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+","
+","
+","
+",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+											You can't use regular cameras.
+											You have to take 1,000 pictures per second to see this.
+											And here's some video at 1,000 frames per second.
+											Now, I want you to look at the animal's back.
+											Do you see how much it's bending like that? We can't figure that out —
+											that's an unsolved mystery. We don't know how it works.
+											If you have a son or a daughter that wants to come to Berkeley,
+											come to my lab and we'll figure this out. Okay, send them to Berkeley
+											because that's the next thing I want to do. Here's the gecko mill.
+									","
+											No puedes usar cámaras comunes.
+											Tienes que tomar 1,000 cuadros por segundo para ver esto.
+											Aquí está un video a 1,000 cuadros por segundo.
+											Ahora, miren la espalda del animal.
+											¿Ven cuánto se dobla de esa manera? No lo entendemos -
+											es un misterio por resolver. No sabemos cómo funciona.
+											Si tienen un hijo o hija que quiere venir a Berkeley,
+											que vengan a mi laboratorio y resolveremos esto. Bueno, mándenlos a Berkeley
+											porque es la siguiente cosa que quiero hacer. Aquí está la caminadora para lagartijas.
+									","
+											Vous ne pouvez pas utiliser des cameras standards.
+											Vous devez prendre 1.000 images par seconde pour voir cela.
+											Et voici quelques vidéos à 1.000 images par seconde.
+											Maintenant je veux voir le dos de l'animal.
+											Vous voyez à quel point il se plie comme cela? On n'arrive pas à comprendre pourquoi —
+											c'est un mystère insoluble. Nous ne savons pas comment il fonctionne.
+											Si vous avez un fils ou une fille qui veut venir à Berkeley,
+											dans mon laboratoire, nous pourrions chercher à comprendre. Okay, envoyez les à Berkeley
+											car c'est la prochaine chose que je veux réaliser. Voici le rouleau à gecko.
+									","
+											Man kan keine normalen Kameras benutzen.
+											Man muss 1.000 Bilder pro Sekunde machen, um es zu sehen.
+											Und hier ist ein Video mit 1.000 Bildern pro Sekunde.
+											Nun möchte ich, dass Sie den Rücken des Tieres ansehen.
+											Sehen Sie, wie stark es sich biegt? 
+Wir kommen nicht drauf –
+											das ist ein ungelöstes Rätsel. 
+Wir wissen nicht, wie es funktioniert.
+											Wenn Sie einen Sohn oder eine Tochter 
+haben, die nach Berkeley kommen wollen,
+											kommen Sie in mein Labor und wir werden
+dies herausfinden. Okay, senden Sie sie nach Berkeley,
+											weil das ist das Nächste, das ich tun möchte.
+Hier ist das Gecko-Laufband.
+									",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+","
+","
+","
+",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+											(Laughter)
+									","
+											(Risas)
+									","
+											(Rires)
+									","
+											(Lachen)
+									",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+","
+","
+","
+",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+											It's a see-through treadmill with a see-through treadmill belt,
+											so we can watch the animal's feet, and videotape them
+											through the treadmill belt, to see how they move.
+											Here's the animal that we have here, running on a vertical surface.
+											Pick a foot and try to watch a toe, and see if you can see what the animal's doing.
+											See it uncurl and then peel these toes.
+											It can do this in 14 milliseconds. It's unbelievable.
+											Here are the robots that they inspire, the Mecho-Geckos from iRobot.
+											First we'll see the animals toes peeling — look at that.
+											And here's the peeling action of the Mecho-Gecko.
+											It uses a pressure-sensitive adhesive to do it.
+											Peeling in the animal. Peeling in the Mecho-Gecko —
+											that allows them climb autonomously. Can go on the flat surface,
+											transition to a wall, and then go onto a ceiling.
+											There's the bulldozer version. Now, it doesn't use pressure-sensitive glue.
+											The animal does not use that.
+											But that's what we're limited to, at the moment.
+									","
+											Es una caminadora transparente con una banda transparente
+											para que podamos ver las patas de los animales y tomarles video
+											a través de la banda, para ver cómo se mueven.
+											Aquí está el animal que tenemos, corriendo sobre una superficie vertical,
+											escojan una pata y traten de ver un dedo, a ver si pueden ver lo que el animal está haciendo.
+											Véanlo desenrrollar y despegar esos dedos.
+											Lo puede hacer en 14 milisegundos. Es increíble.
+											Aquí están los robots que han inspirado, el Meco-Geckos de iRobot.
+											Primero vemos los dedos del animal despegarse - miren eso.
+											Y aquí está la acción de despegar del Meco-Gecko
+											usa un adhesivo sensible a la presión para hacerlo.
+											Despegar en el animal, despegar en el Meco-Gecko,
+											que les permite escalar autónomamente, subir una superficie plana,
+											pasar a una pared y luego al techo.
+											Esta es la versión bulldozer. Ahora, no usa el pegamento sensible a la presión.
+											El animal no usa eso.
+											Pero eso es a lo que estamos limitados por el momento.
+									","
+											C'est un tapis roulant transparent car avec un tapis transparent,
+											nous pouvons voir les pattes de l'animal, et les enregistrer
+											à travers le tapis, pour voir comment ils avancent.
+											Voici l'animal que nous avons ici, courant sur une surface verticale,
+											choisissons une patte et essayons de voir l'orteil, et voyons si nous percevons ce que l'animal fait.
+											Regardez le dérouler et décoller ses orteils.
+											Il peut faire ça en 14 millisecondes. C'est incroyable.
+											Voici les robots qu'ils ont inspirés, les Meca-Gecko d'iRobot.
+											Premièrement nous verrons les orteils se décoller — regardez ça.
+											Et voici l'action de décollement du Meca-Gecko
+											il utilise un adhésif sensible à la pression pour faire cela.
+											Décollement chez l'animal, décollement chez le meca-gecko,
+											ça lui permet de grimper de façon autonome sur une surface plate
+											puis sur un mur, puis d'aller sur le plafond.
+											Là c'est la version bulldozer. Cette fois il n'utilise pas une glu sensible à la pression.
+											L'animal n'utilise pas ça.
+											Mais c'est ça qui nous limite pour le moment.
+									","
+											Es ist ein durchsichtiges Gerät 
+mit einem durchsichtigen Laufband,
+											damit wir die Füße des Tieres sehen können 
+und sie durch das Laufband filmen können,
+											um zu beobachten, wie sie sich bewegen.
+											Hier ist das Tier, welches wir hier haben, 
+es läuft auf einer vertikalen Oberfläche.
+											Wählen Sie einen Fuß, und sehen Sie, ob Sie 
+beobachten können, was das Tier mit einem Zeh macht.
+											Sehen Sie, wie es diese Zehen streckt und dann ablöst.
+											Es kann dies in 14 Millisekunden machen. Es ist unglaublich.
+											Hier sind die Roboter, die sie inspirieren, 
+die Mecho-Geckos von iRobot.
+											Zuerst werden wir sehen, wie die Tiere 
+die Zehen ablösen – sehen Sie mal an.
+											Und hier ist die Ablöseaktion des Mecho-Gecko.
+											Er macht das mit einem druckempfindlichen Klebstoff.
+											Ablösen bei dem Tier. Ablösen beim Mecho-Gecko –
+											welches es ihnen erlaubt, selbständig zu klettern. 
+Er kann auf der flachen Oberfläche gehen,
+											herüber zu einer Wand, und dann an die Decke.
+											Da ist die Bulldozer-Version. Nun, sie verwendet 
+keinen druckempfindlichen Klebstoff.
+											Das Tier benutzt das nicht.
+											Aber das ist das, worauf wir im Moment beschränkt sind.
+									",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+","
+","
+","
+",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+											What does the animal do? The animal has weird toes.
+											And if you look at the toes, they have these little leaves there,
+											and if you blow them up and zoom in, you'll see
+											that's there's little striations in these leaves.
+											And if you zoom in 270 times, you'll see it looks like a rug.
+											And if you blow that up, and zoom in 900 times,
+											you see there are hairs there, tiny hairs. And if you look carefully,
+											those tiny hairs have striations. And if you zoom in on those 30,000 times,
+											you'll see each hair has split ends.
+											And if you blow those up, they have these little structures on the end.
+											The smallest branch of the hairs looks like spatulae,
+											and an animal like that has one billion of these nano-size split ends,
+											to get very close to the surface. In fact, there's the diameter of your hair —
+											a gecko has two million of these, and each hair has 100 to 1,000 split ends.
+											Think of the contact of that that's possible.
+									","
+											¿Qué hace el animal? El animal tiene dedos extraños
+											y si miras sus dedos tienen estas pequeñas hojas ahí,
+											y si las magnificas verás
+											que hay pequeñas estriaciones en esas hojas.
+											Y si amplías 270 veces, verás que parece una alfombra.
+											Y si amplías 900 veces
+											puedes ver que tiene pelos ahí, pequeños pelos, y si miras cuidadosamente
+											esos diminutos pelos tienen estriaciones. Y si los amplías 30,000 veces
+											puedes ver que cada pelo termina en una bifurcación.
+											Y si amplías esos puedes ver que tienen pequeñas estructuras en la punta.
+											La más pequeña rama de los pelos parece una espátula
+											y un animal como este tiene mil millones de esas puntas bifurcadas de nano-tamaño
+											para entrar en contacto con la superficie. De hecho, aquí está el diámetro de un cabello humano
+											una lagartija tiene dos millones de esos y cada pelo tiene entre 100 y 1,000 puntas bifurcadas.
+											Piense en el contacto que eso hace posible.
+									","
+											Que fait l'animal? Il a des orteils bizarres,
+											et si vous regardez ces orteils ils ont des petites lamelles ici,
+											et si vous les écartez et que vous zoomez vous verrez
+											qu'il y a des petites stries dans ces lamelles.
+											Et si vous zoomez 270 fois, vous verrez que ça ressemble à un tapis.
+											Et si vous les écartez et zoomez 900 fois,
+											vous voyez qu'il y a des poils ici, de minuscules poils, et si vous regardez attentivement
+											ces minuscules poils ont des stries. Et si vous zoomez sur elles 30.000 fois,
+											vous verrez que chaque poil est aplati au bout.
+											Et si vous les séparez, ils ont ces petites structures au bout.
+											La plus petite partie de ces poils ressemble à une spatule
+											et un animal comme celui ci possède 1 milliard de ces bout aplatis nanoscopiques.
+											pour aller très très près de la surface. En fait, ils ont le diamètre de vos cheveux,
+											un gecko en possède 2 millions et chaque cheveu a entre 100 et 1.000 bout aplatis.
+											Imaginez le contact qui en résulte.
+									","
+											Was tut das Tier? Das Tier hat komische Zehen.
+											Und wenn Sie die Zehen ansehen,
+haben sie diese kleinen Blätter,
+											und wenn man sie vergrößert 
+und hineinzoomt, sieht man
+											dass es kleine Schlieren in diesen Blättern gibt.
+											Und wenn man 270-mal vergrößert, 
+sieht man, dass es wie ein Teppich aussieht.
+											Und wenn man das 900-mal vergrößert,
+											sieht man winzige Haare. Und wenn Sie 
+sie sorgfältig ansehen,
+											bemerken Sie, dass diese winzigen Härchen Riefen haben. 
+Und wenn man 30.000-fach hineinzoomt,
+											sieht man, jedes Haar hat gespaltene Enden.
+											Und wenn man diese vergrößert, 
+sieht man kleine Strukturen am Ende.
+											Der kleinste Zweig der Haare sieht aus wie ein Spachtel,
+											und so ein Tier hat eine Milliarde 
+dieser gespaltenen Enden in Nano-Größe,
+											um ganz nah an die Oberfläche zu kommen. 
+Eigentlich ist das hier der Durchmesser ihrer Haare –
+											ein Gecko hat zwei Millionen davon 
+und jedes Haar hat 100 bis 1.000 gespaltene Enden.
+											Stellen Sie sich vor, welcher Kontakt dadurch möglich ist.
+									",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+","
+","
+","
+",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+											We were fortunate to work with another group
+											at Stanford that built us a special manned sensor,
+											that we were able to measure the force of an individual hair.
+											Here's an individual hair with a little split end there.
+											When we measured the forces, they were enormous.
+											They were so large that a patch of hairs about this size —
+											the gecko's foot could support the weight of a small child,
+											about 40 pounds, easily. Now, how do they do it?
+											We've recently discovered this. Do they do it by friction?
+											No, force is too low. Do they do it by electrostatics?
+											No, you can change the charge — they still hold on.
+											Do they do it by interlocking? That's kind of a like a Velcro-like thing.
+											No, you can put them on molecular smooth surfaces — they don't do it.
+											How about suction? They stick on in a vacuum.
+											How about wet adhesion? Or capillary adhesion?
+											They don't have any glue, and they even stick under water just fine.
+											If you put their foot under water, they grab on.
+											How do they do it then? Believe it or not, they grab on
+											by intermolecular forces, by Van der Waals forces.
+									","
+											Tenemos la fortuna de trabajar con otro grupo
+											en Stanford que construyó un sensor nano especial
+											que puede medir la fuerza de una pelo individual.
+											Aquí está un pelo individual con la punta bifurcada aquí,
+											cuando medimos las fuerzas eran enormes,
+											eran tan grandes que un pedazo de pelos de este tamaño,
+											la pata de la lagartija podría soportar el peso de un niño pequeño -
+											unos veinte kilos fácilmente. ¿Cómo lo hacen?
+											Recientemente descubrimos esto. ¿Lo hacen por fricción?
+											No, la fuerza es demasiado baja. ¿Lo hacen por electrostática?
+											No, puedes cambiar la carga, y siguen adheridos.
+											¿Lo hacen por enlaces? Algo como el velcro.
+											No, puedes ponerlos en superficies molecularmente lisas - no lo hacen.
+											¿Qué tal succión? Tampoco, pueden sujetarse en el vacío.
+											¿Qué tal adhesión mojada? ¿O adhesión capilar?
+											No tienen pegamento y se sostienen aun bajo el agua sin problemas.
+											Si pones sus patas bajo el agua igual se sostienen.
+											¿Cómo lo hacen entonces? Lo creas o no, se sostienen
+											por fuerzas intermoleculares, fuerzas de Van Der Waals.
+									","
+											Nous avons eu la chance de travailler avec un autre groupe
+											à Stanford qui nous a fabriqué un capteur spécial
+											qui nous a permis de mesurer l'effort sur un seul poil.
+											Voici un seul poil avec un léger écrasement au bout,
+											quand nous avons mesuré les efforts ils étaient énormes,
+											ils étaient si grands qu'avec un ensemble de poil de cette taille,
+											la patte du gecko pourrait supporter le poids d'un petit enfant —
+											autours de 40 livres facilement. Maintenant comment font ils cela?
+											Nous avons récemment découvert cela. Font ils cela grâce à la friction?
+											Non, les forces sont trop faibles. Font ils cela par électrostatique ?
+											Non, vous pouvez changer la charge, ils tiennent toujours.
+											Font ils ça par emboitement? C'est une sorte de Velcro.
+											Non, vous pouvez les mettre sur des surfaces lisses au niveau moléculaire — ça ne marche pas.
+											Et la succion? Ils tiennent dans le vide.
+											Et l'adhésion grâce à l'humidité? Ou l'adhésion capillaire?
+											Ils n'ont pas de sorte de glu et tiennent sous l'eau comme si de rien n'était.
+											Si vous passez leurs pattes sous l'eau ils tiennent toujours.
+											Comment peuvent ils faire cela alors? Croyez le ou non ils tiennent
+											grâce aux efforts intermoléculaires, les forces de Van der Waals.
+									","
+											Wir hatten das Glück mit einer weiteren Gruppe 
+aus Stanford zu arbeiten,
+											die uns einen speziellen MEMS Sensor gebaut hat,
+											mit dem wir die Kraft eines einzelnen Haares messen konnten.
+											Hier ist ein einzelnes Haar mit einem gespaltenen Ende.
+											Als wir die Kräfte gemessen haben, waren sie riesig.
+											Sie waren so groß, dass ein Stück Haare von der Größe
+											eines Geckofußes das Gewicht 
+eines kleinen Kindes von etwa
+											20 kg leicht tragen kann. Nun, wie schaft er das?
+											Wir haben das vor Kurzem entdeckt. 
+Machen sie es mittels Reibung?
+											Nein, die Kraft ist zu niedrig. 
+Machen sie es mit Elektrostatik?
+											Nein, man kann die Ladung ändern – 
+sie bleiben noch immer am Fleck.
+											Machen sie es durch Verzahnen? So wie Velcro.
+											Nein, man kann sie auf eine molekular 
+glatte Oberfläche setzen – sie machen es nicht.
+											Vielleicht mit Saugen? Nein, sie bleiben im Vakuum haften.
+											Was ist mit Nasshaftung? Oder Kapillarhaftung?
+											Sie haben keinen Klebstoff und sie kleben 
+auch unter Wasser ganz gut.
+											Wenn Sie ihre Füße unter Wasser bringen, 
+haften sie auch dort.
+											Wie machen sie es dann? Glauben Sie es 
+oder nicht, die Haftung kommt
+											von zwischenmolekularen Kräfte, 
+von den Van der Waals-Kräften.
+									",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+","
+","
+","
+",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+											You know, you probably had this a long time ago in chemistry,
+											where you had these two atoms, they're close together,
+											and the electrons are moving around. That tiny force is sufficient
+											to allow them to do that because it's added up so many times
+											with these small structures.
+											What we're doing is, we're taking that inspiration of the hairs,
+											and with another colleague at Berkeley, we're manufacturing them.
+											And just recently we've made a breakthrough, where we now believe
+											we're going to be able to create the first synthetic, self-cleaning,
+											dry adhesive. Many companies are interested in this.
+									","
+											Probablemente estudiaron esto hace mucho tiempo en Química
+											donde tienes estos dos átomos, muy juntos
+											y los electrones se mueven alrededor. Esa pequeña fuerza es suficiente
+											para permitirles hacer esto porque se multiplica muchas veces
+											con esas pequeñas estructuras.
+											Lo que estamos haciendo es tomar la inspiración de los pelos
+											y con otro colega en Berkeley, los estamos fabricando.
+											Y recientemente tuvimos un avance extraordinario por el cual creemos
+											que vamos a poder crear el primer adhesivo sintético, auto-limpiante,
+											Muchas compañías están interesadas en esto.
+									","
+											Vous en avez probablement entendu parlé il y a longtemps en chimie
+											lorsque vous avez deux atomes, suffisamment proches,
+											et que les électrons se déplacent autours. Ces petits efforts sont suffisants
+											pour leur permettre de faire cela car ils sont sommés de nombreuses fois
+											avec ces petites structures.
+											Ce que nous avons fait c'est s'inspirer de ces poils
+											et avec un autre collègue de Berkeley, nous les avons industrialisés.
+											Et tout récemment nous avons fait une percée avec laquelle nous pensons à présent
+											pouvoir créer le premier adhésif synthétique sec et auto-nettoyant.
+											Beaucoup de sociétés s'y intéressent.
+									","
+											Sie wissen schon, Sie hatten das 
+wahrscheinlich vor langer Zeit in Chemie,
+											wo man diese beiden Atome hatte, die nahe beieinander sind,
+											und die Elektronen bewegen sich rundherum. 
+Diese winzige Kraft genügt,
+											um ihnen zu ermöglichen, das zu tun, 
+weil sie sich innerhalb dieser kleinen Strukturen
+											so viele Male aufaddiert.
+											Was wir machen, ist, wir nehmen die Haare als Vorbild,
+											und stellen sie zusammen mit 
+einem anderen Kollegen aus Berkeley her.
+											Gerade kürzlich ist uns ein Durchbruch gelungen, 
+wo wir jetzt glauben,
+											dass wir den ersten synthetischen, 
+selbstreinigenden Trockenkleber
+											erzeugen können. Viele Firmen sind darin interessiert.
+									",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+","
+","
+","
+",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+											(Laughter)
+									","
+											(Risas)
+									","
+											(Rires)
+									","
+											(Lachen)
+									",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+","
+","
+","
+",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+											We also presented to Nike even.
+									","
+											También se lo presentamos a Nike.
+									","
+											Nous l'avons également présenté à Nike.
+									","
+											Wir haben es sogar Nike vorgestellt.
+									",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+","
+","
+","
+",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+											(Laughter)
+									","
+											(Risas)
+									","
+											(Rires)
+									","
+											(Lachen)
+									",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+","
+","
+","
+",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+											(Applause)
+									","
+											(Aplauso)
+									","
+											(Applaudissements)
+									","
+											(Applaus)
+									",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+","
+","
+","
+",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+											We'll see where this goes. We were so excited about this
+											that we realized that that small-size scale —
+											and where everything gets sticky, and gravity doesn't matter anymore —
+											we needed to look at ants and their feet, because
+											one of my other colleagues at Berkeley has built a six-millimeter silicone
+											robot with legs. But it gets stuck. It doesn't move very well.
+											But the ants do, and we'll figure out why, so that ultimately
+											we'll make this move. And imagine: you're going to be able
+											to have swarms of these six-millimeter robots available to run around.
+											Where's this going? I think you can see it already.
+									","
+											Ya veremos a dónde nos lleva esto. Estamos muy contentos por ello
+											y nos dimos cuenta que a pequeña escala,
+											y donde todo se vuelve adherible y la gravedad ya no importa,
+											necesitamos mirar a las hormigas y a sus patas porque
+											uno de mis otros colegas en Berkeley, ha construido un robot de silicón de seis
+											milímetros con patas. Pero se queda pegado. No se mueve muy bien.
+											Pero las hormigas lo hacen y tenemos que entender por qué, así que finalmente
+											tendremos que hacer esto. Imaginen, van a ser capaces de
+											tener enjambres de estos robots de seis milímetros corriendo.
+											¿Qué pasa? Creo que ya lo pueden ver.
+									","
+											Nous verrons où ça nous mènera. Nous étions si excités à propos de cela
+											que nous avons réalisé qu'à une échelle plus petite,
+											et dans un endroit où tout deviendrai collant, où la gravité n'aurait plus d'importance,
+											nous devrions regarder les fourmis et leurs pattes, parce que
+											un de mes autres collègues de Berkeley, a fabriqué un robot mobile en silicone
+											de 6 millimètre. Mais il reste coincé. Il ne bouge pas très bien.
+											Pourtant les fourmis y arrivent bien et nous allons voir comment, donc à terme
+											nous pourrons faire ces mouvements. Et imaginez, vous aurez la possibilité
+											d'avoir un essaim de ces robot de 6 millimètres capables de courir autour de vous.
+											Où cela nous mène? Je pense que vous pouvez déjà l'imaginer.
+									","
+											Wir werden sehen, wohin es führt. 
+Wir waren darüber so begeistert,
+											dass wir erkannten, dass der kleine Maßstab –
+											und wo alles klebrig wird und 
+die Schwerkraft keine Rolle mehr spielt –
+											wir uns mit Ameisen und deren Füße beschäftigen müssten,
+											weil einer meiner Kollegen in Berkeley 
+einen Sechs-Millimeter-Silikon-Roboter
+											mit Beinen gebaut hat. Aber er bleibt stecken. 
+Er bewegt sich nicht sehr gut.
+											Aber die Ameisen schon und wir werden 
+herausfinden warum, damit wir am Ende auch
+											diesen Schritt machen. Und stellen Sie sich vor: Sie werden
+											Schwärme dieser sechs-Millimeter-Roboter 
+zur Verfügung haben, die herumlaufen können.
+											Wohin führt das? Ich glaube, Sie können es schon erkennen.
+									",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+","
+","
+","
+",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+											Clearly, the Internet is already having eyes and ears,
+											you have web cams and so forth. But it's going to also have legs and hands.
+											You're going to be able to do programmable
+											work through these kinds of robots, so that you can run,
+											fly and swim anywhere. We saw David Kelly is at the beginning of that with his fish.
+											So, in conclusion, I think the message is clear.
+											If you need a message, if nature's not enough, if you care about
+											search and rescue, or mine clearance, or medicine,
+											or the various things we're working on, we must preserve
+											nature's designs, otherwise these secrets will be lost forever.
+											Thank you.
+									","
+											Claramente la Internet empieza a tener ojos y oídos,
+											tenemos cámaras web y tal. Pero ahora también tendrá piernas y manos.
+											Van a poder hacer trabajo
+											programable con esa clase de robots, de tal forma que puedan correr,
+											volar y nadar donde sea. Lo vimos con David Kelly al principio con sus peces.
+											Así que en conclusión, creo que el mensaje es claro.
+											Si necesitas un mensaje, si la naturaleza no es suficiente, si te importan
+											las operaciones de búsqueda y rescate, desactivación de minas o la medicina
+											o las varias cosas en las que estamos trabajando, debemos preservar
+											los diseños naturales, de otra manera esos secretos se perderán para siempre.
+											Gracias.
+									","
+											Internet a clairement déjà des yeux et des oreilles,
+											vous avez des webcams et ainsi de suite. Mais il sera aussi capable d'avoir des jambes et des mains.
+											Vous aurez la capacité de programmer
+											des tâches via ce genre de robots, donc vous pourrez courir,
+											voler ou nager n'importe où. Nous avons vu David Kelly's à l'origine de cela avec son poisson.
+											Donc en conclusion, je pense que le message est clair.
+											Si vous avez besoin d'un message, si la nature n'est pas suffisante, si vous vous intéressez
+											à la recherche et au secours, ou au déminage, ou à la médecine
+											ou aux diverses choses sur lesquelles nous travaillons, nous devons préserver
+											les inventions de la nature, autrement ces secrets seront perdus à jamais.
+											Merci
+									","
+											Klar, das Internet hat bereits Augen und Ohren,
+											es gibt schon Web-Kameras und so weiter. 
+Aber es wird auch Beine und Arme haben.
+											Sie werden durch diese Art von Robotern programmierbare
+											Arbeit erledigen können, so dass Sie überall hin laufen,
+											fliegen und schwimmen können. Wir sahen, 
+dass David Kelly mit seinem Fisch hierbei am Anfang ist.
+											So, zum Schluss, denke ich, die Botschaft ist klar.
+											Wenn Sie eine Nachricht benötigen, 
+wenn die Natur nicht ausreicht, wenn Sie sich für
+											Suche und Rettung oder Minenräumung 
+oder Medizin interessieren
+											oder für die verschiedenen Dinge, 
+an denen wir gerade arbeiten, müssen wir
+											das Design der Natur erhalten, sonst werden 
+diese Geheimnisse für immer verloren sein.
+											Vielen Dank.
+									",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+","
+","
+","
+",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+											(Applause)
+									","
+											(Aplauso)
+									","
+											(Applaudissements)
+									","
+											(Applaus)
+									",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"
+"
+","
+","
+","
+",Robots inspired by cockroach ingenuity,Robert Full,20:22,"animals,design,evolution,robots,science,technology,transportation"

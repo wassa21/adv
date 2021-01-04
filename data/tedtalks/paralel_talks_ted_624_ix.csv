@@ -1,0 +1,2418 @@
+en,es,pt,tr,fr,de,title,speaker,duration,tags
+"
+","
+","
+","
+","
+","
+",Architecture that senses and responds,Carlo Ratti,15:46,"cities,design,entertainment,technology"
+"
+											Good afternoon, everybody.
+											I've got something to show you.
+											(Laughter)
+											Think about this as a pixel, a flying pixel.
+											This is what we call, in our lab, sensible design.
+											Let me tell you a bit about it.
+											Now if you take this picture — I'm Italian originally,
+											and every boy in Italy grows up
+											with this picture on the wall of his bedroom —
+											but the reason I'm showing you this
+											is that something very interesting
+											happened in Formula 1 racing
+											over the past couple of decades.
+											Now some time ago,
+											if you wanted to win a Formula 1 race,
+											you take a budget, and you bet your budget
+											on a good driver and a good car.
+											And if the car and the driver were good enough, then you'd win the race.
+											Now today, if you want to win the race,
+											actually you need also something like this —
+											something that monitors the car in real time,
+											has a few thousand sensors
+											collecting information from the car,
+											transmitting this information into the system,
+											and then processing it
+											and using it in order to go back to the car with decisions
+											and changing things in real time
+											as information is collected.
+											This is what, in engineering terms,
+											you would call a real time control system.
+											And basically, it's a system made of two components —
+											a sensing and an actuating component.
+									","
+											Buenas tardes a todos.
+											Tengo algo que mostrarles.
+											(Risas)
+											Piensen que es un píxel, un píxel volador.
+											En nuestro laboratorio lo llamamos diseño sensible.
+											Les voy a contar un poco sobre esto.
+											Si se fijan en esta foto... soy de origen italiano,
+											todos los niños en Italia crecen
+											con esta foto en la pared de su dormitorio.
+											Pero la razón por la que les muestro esto
+											es que ha sucedido algo muy interesante
+											en las carreras de Fórmula 1
+											en las últimas dos décadas.
+											Hace ya algún tiempo,
+											si uno quería ganar una carrera de Fórmula 1,
+											tomaba un presupuesto y lo apostaba
+											a un buen piloto y un buen coche,
+											y si el coche y el piloto eran lo suficientemente buenos, uno ganaba la carrera.
+											Pero hoy, si uno quiere ganar una carrera,
+											hace falta también algo como esto...
+											Algo que monitoree el coche en tiempo real,
+											con miles de sensores
+											que recopilan información
+											y la transmiten al sistema
+											para luego procesarla
+											y usarla para darle instrucciones al coche
+											y cambiar cosas en tiempo real
+											a medida que se recopila información.
+											Esto es lo que, en ingeniería,
+											se denominaría sistema de control en tiempo real.
+											En esencia es un sistema que tiene dos componentes:
+											un sensor y un accionador.
+									","
+											Boa tarde a todos.
+											Tenho uma coisa para vos mostrar.
+											(Risos)
+											Pensem nisto como se fosse um píxel, 
+um píxel voador.
+											Isto é o que, no nosso laboratório,
+chamamos ""design"" sensível.
+											Vou falar um pouco sobre isto.
+											Olhem para esta fotografia
+											— sou italiano e, em Itália,
+todos o rapazes
+											têm esta imagem na parede do quarto.
+											Mas estou a mostrar-vos isto
+											porque aconteceu 
+uma coisa muito interessante
+											nas corridas de Fórmula 1,
+nas últimas décadas.
+											Há uns tempos,
+											se quiséssemos ganhar
+uma corrida da Fórmula 1
+											arranjávamos um orçamento 
+e apostá-lo-íamos
+											num bom condutor e num bom carro.
+											Se o carro e o condutor fossem 
+bastante bons, ele ganharia a corrida.
+											Hoje em dia, se quisermos
+ganhar a corrida,
+											também precisamos duma coisa
+											que acompanhe o carro em tempo real,
+											tenha uns milhares de sensores
+											a recolher as informações do carro,
+											a transmitir essas informações
+para o sistema,
+											a processá-las e a usá-las
+											para regressar ao carro com decisões
+											e mudar as coisas em tempo real
+											à medida que as informações
+são compiladas,
+											Em termos de engenharia,
+											chamar-lhe-íamos um sistema
+de controlo em tempo real.
+											Basicamente, é um sistema
+feito por dois componentes,
+											um componente sensível e outro atuante.
+									","
+											Herkese, iyi akşamlar.
+											Size göstermek istediğim bir şey var.
+											(Kahkaha sesleri)
+											Bunu uçabilen bir piksel olarak düşünün.
+											Laboratuvarımızdar buna akıllı tasarım diyoruz.
+											Bunun hakkında biraz bahsedeceğim.
+											Şimdi bu resmi ele alalım — Ben aslen Italyanım,
+											ve Italya'daki her erkek cocuk
+											yatakodasının duvarındaki bu resimle büyür.
+											Bunu göstermemin amacı
+											geçmiş on yıllarda
+											Formula 1 yarışlarında
+											çok ilginç birşey gerçekleşmiştir.
+											Bir zaman önce,
+											Formula 1 yarışı kazanmak için
+											bütçenizi alıp bu bütçeyi bahis olarak
+											iyi bir şöföre ve arabaya yatırırdınız.
+											Ve eğer araba ve şöförü yeterince iyi ise, yarışı kazanırdınız.
+											Bugün ise, yarışı kazanmak için,
+											böyle birşeye de ihtiyacınız var —
+											arabayı gerçek zamanlı gözlemleyebilen,
+											arabadan bilgi toplayan,
+											bu bilgileri de sisteme aktaran
+											birkaç bin sensör,
+											ve bu bilgileri topladıktan sonra
+											söz konusu bilgileri işleyip
+											çeşitli kararlarla arabaya geri dönüş yaparak
+											gerçek zamanlı değişikliklerin uygulanmasını sağlayan bir sistem.
+											Mühendislik terminolojisinde buna,
+											gerçek zamanlı kontrol sistemi denir.
+											Basit olarak bir sistem iki bileşenden oluşmaktadır —
+											bir algı bileşeni ve bir işletim bileşeni.
+									","
+											Bonjour, tout le monde.
+											J'ai quelque chose à vous montrer.
+											(Rires)
+											Imaginez que c'est un pixel, un pixel qui vole.
+											C'est ce que nous appelons, dans notre laboratoire, du design sensible.
+											Permettez-moi de vous en parler un peu.
+											Si vous prenez cette photo - je suis italien à l'origine,
+											et chaque garçon en Italie grandit
+											avec cette photo sur le mur de sa chambre.
+											Mais la raison pour laquelle je vous montre ça
+											c'est que quelque chose de très intéressant
+											s'est passé en course de Formule 1
+											au cours des deux dernières décennies.
+											Il y a quelque temps,
+											si vous vouliez gagner une course de Formule 1,
+											vous preniez un budget, et vous misiez votre budget
+											sur un bon conducteur et une bonne voiture.
+											Et si la voiture et le chauffeur étaient assez bons, alors vous gagniez la course.
+											Or, aujourd'hui, si vous voulez gagner la course,
+											il vous faut en fait aussi quelque chose comme ça -
+											quelque chose qui surveille la voiture en temps réel,
+											possède quelques milliers de capteurs
+											collecte les informations de la voiture,
+											transmet ces informations au système,
+											puis les traite
+											et les utilise pour revenir à la voiture avec des décisions
+											et changer les choses en temps réel
+											pendant que les informations sont recueillies.
+											C'est ce qu'en termes d'ingénierie,
+											on pourrait appeler un système de contrôle en temps réel.
+											Et au fond, c'est un système constitué de deux composantes -
+											une composante de détection et une d'actionnement.
+									","
+											Guten Tag, alle zusammen.
+											Ich habe hier etwas, das ich Ihnen zeigen möchte.
+											(Gelächter)
+											Denken Sie sich dies als Bildpunkt, als fliegenden Bildpunkt.
+											Das ist, was wir in unserem Labor, wahrnehmbares Design nennen.
+											Lassen Sie mich Ihnen ein wenig darüber erzählen.
+											Wenn Sie nun dieses Bild nehmen – ich bin ursprünglich Italiener,
+											und jeder Junge in Italien wächst mit
+											diesem Bild in seinem Zimmer auf.
+											Aber der Grund, warum ich Ihnen dies zeige
+											ist, das in der Formel 1 in den
+											vergangenen Jahrzehnten
+											etwas sehr Interessantes geschah.
+											Vor einiger Zeit war es so,
+											dass wenn Sie ein Formel 1 Rennen gewinnen wollten,
+											dann nahmen Sie Ihr Budget und setzten Ihr Geld
+											auf einen guten Fahrer und ein gutes Auto.
+											Und wenn das Auto und der Fahrer gut genug waren, dann gewannen Sie das Rennen.
+											Nun heutzutage, benötigen Sie, wenn Sie ein Rennen gewinnen wollen,
+											tatsächlich so etwas wie dieses hier –
+											etwas was das Auto in Echtzeit überwacht,
+											einige tausend Sensoren hat,
+											die Informationen aus dem Auto,
+											diese Informationen an das System weitergeben
+											und sie dann verarbeiten
+											und diese dann nutzen um diesem Auto Entscheidungen zurück zu senden
+											und Dinge in Echtzeit verändern
+											während Information gesammelt werden.
+											Dies würden Sie, in Ingenieurteams,
+											eine Echtzeit-Kontrollsystem nennen.
+											Und im Grunde, ist es ein System, das aus zwei Teilen besteht –
+											einem spürenden Teil und einem reagierendenTeil.
+									",Architecture that senses and responds,Carlo Ratti,15:46,"cities,design,entertainment,technology"
+"
+","
+","
+","
+","
+","
+",Architecture that senses and responds,Carlo Ratti,15:46,"cities,design,entertainment,technology"
+"
+											What is interesting today
+											is that real time control systems
+											are starting to enter into our lives.
+											Our cities, over the past few years,
+											just have been blanketed
+											with networks, electronics.
+											They're becoming like computers in open air.
+											And, as computers in open air,
+											they're starting to respond in a different way
+											to be able to be sensed and to be actuated.
+											If we fix cities, actually it's a big deal.
+											Just as an aside, I wanted to mention,
+											cities are only two percent of the Earth's crust,
+											but they are 50 percent of the world's population.
+											They are 75 percent of the energy consumption —
+											up to 80 percent of CO2 emissions.
+											So if we're able to do something with cities, that's a big deal.
+											Beyond cities,
+											all of this sensing and actuating
+											is entering our everyday objects.
+									","
+											Hoy lo interesante
+											es que los sistemas de control en tiempo real
+											están empezando a entrar en nuestras vidas.
+											Nuestras ciudades, en los últimos años,
+											han sido cubiertas
+											de redes y electrónica.
+											Se están volviendo computadoras al aire libre.
+											Y, como tales,
+											están empezando a responder de manera diferente
+											y pueden ser detectadas y accionadas.
+											Acondicionar las ciudades es algo grande.
+											Como nota aparte quería mencionar
+											que las ciudades son sólo el 2% de la corteza del planeta
+											pero representan el 50% de la población mundial;
+											el 75% del consumo de energía...
+											y hasta el 80% de las emisiones de CO2.
+											Si pudiéramos hacer algo con las ciudades, sería algo grande.
+											Más allá de las ciudades,
+											todas estas detecciones y activaciones
+											están entrando en nuestros objetos cotidianos.
+									","
+											O que é interessante hoje em dia
+											é que os sistemas
+de controlo em tempo real
+											estão a começar a entrar na nossa vida.
+											As nossas cidades, nos últimos anos
+											foram cobertas com redes, eletrónica.
+											Estão a tornar-se como 
+que computadores ao ar livre.
+											Como computadores ao ar livre,
+											estão a responder de modo diferente
+											para que possamos detetá-las
+e atuar sobre elas.
+											Se repararmos as cidades,
+será um grande feito.
+											Só um aparte, eu queria mencionar
+											que as cidades representam
+apenas 2% da crosta terrestre,
+											mas aglomeram 50% da população mundial.
+											Correspondem a 75% 
+do consumo energético
+											e a mais de 80% da emissão de CO2.
+											Por isso, se conseguirmos atuar sobre
+as cidades, será um grande feito.
+											Para além das cidades,
+											toda esta deteção e atuação
+											está a entrar nos nossos objetos diários.
+									","
+											Bugün ise ilginç olan
+											gerçek zamanlı kontrol sistemlerinin
+											hayatımıza dahil olduğudur.
+											Son yıllarada şehirlerimiz
+											ağlar, elektronik donanımları
+											ile kaplanmıştır.
+											Açık hava bilgisayarları gibiler.
+											Ve, açık havada bulunan bilgisayarlar gibi
+											algılanmaları ve işletilmeleri ile ilgili
+											farklı şekillerde tepki göstermektedirler.
+											Eğer şehirlerimizi düzeltebilirsek bu çok önemli bir durum.
+											Bir yan konu olarak şundan bahsetmek istiyorum,
+											Şehirlerimiz yer kabuğunun yalnızca yüzde ikisini oluşturmaktadır,
+											fakat dünya nufüsünün yüzde ellisini barındırmaktadır.
+											Enerji tüketiminin yüzde yetmişbeşini oluştururlar —
+											CO2 yayılımlarının yüzde sekseninden sorumlular.
+											Eğer şehirlerimizle ilgili bişey yapabilrsek önemli olacaktır.
+											Şehirlerin ötesinde
+											tüm bu algılama ve işletim bileşenleri
+											günlük kullanılan objeleri de etkilemektedir.
+									","
+											Ce qui est intéressant aujourd'hui
+											est que de véritables systèmes de contrôle en temps réel
+											commencent à entrer dans nos vies.
+											Nos villes, au cours des dernières années,
+											ont été complètement recouvertes
+											de réseaux, d'électronique.
+											Elles deviennent comme des ordinateurs à l'air libre.
+											Et, comme les ordinateurs à l'air libre,
+											elles commencent à répondre d'une manière différente
+											pour pouvoir être détectées et pour être actionnées.
+											Si nous réparons les villes, en fait ce n'est pas rien.
+											Soit dit en passant, je voulais mentionner,
+											que les villes ne représentent que 2% de la croûte terrestre,
+											mais 50 % de la population mondiale.
+											Elles représentent 75 % de la consommation d'énergie -
+											jusqu'à 80 % des émissions de CO2.
+											Donc, si nous pouvons faire quelque chose avec les villes, ce n'est pas rien.
+											Au-delà des villes,
+											toute cette détection et cet actionnement
+											entre dans nos objets quotidiens.
+									","
+											Was heutzutage interessant ist,
+											ist das Echtzeit-Kontrollsysteme
+											beginnen in unserem Leben aufzutauchen.
+											Unsere Städte wurden, in den letzten paar Jahren,
+											gerade mit Netzwerken und
+											Elektronik ausgerüstet.
+											Sie werden zu Computer im Freien.
+											Und als Computer im Freien,
+											fangen sie an, auf andere Art und Weise zu reagieren,
+											sie werden wahrgenommen und angetrieben.
+											Wenn wir Städte herrichten, ist das tatsächlich eine große Sache.
+											Nur nebenbei möchte ich erwähnen,
+											dass Städte nur zwei Prozent der Erdoberfläche sind,
+											aber 50 Prozent der weltweiten Bevölkerung dort leben.
+											Sie sind 75 Prozent des Energiekonsums –
+											verursachen bis zu 80 Prozent der CO2 Emissionen.
+											Wenn wir also etwas mit den Städten machen, ist das eine große Sache.
+											Über die Städte hinaus,
+											zieht all dieses Wahrnehmen und
+											Antreiben in Objekte des täglichen Lebens ein.
+									",Architecture that senses and responds,Carlo Ratti,15:46,"cities,design,entertainment,technology"
+"
+","
+","
+","
+","
+","
+",Architecture that senses and responds,Carlo Ratti,15:46,"cities,design,entertainment,technology"
+"
+											That's from an exhibition that
+											Paola Antonelli is organizing
+											at MoMA later this year, during the summer.
+											It's called ""Talk to Me.""
+											Well our objects, our environment
+											is starting to talk back to us.
+											In a certain sense, it's almost as if every atom out there
+											were becoming both a sensor and an actuator.
+											And that is radically changing the interaction we have as humans
+											with the environment out there.
+											In a certain sense,
+											it's almost as if the old dream of Michelangelo ...
+											you know, when Michelangelo sculpted the Moses,
+											at the end it said that he took the hammer, threw it at the Moses —
+											actually you can still see a small chip underneath —
+											and said, shouted,
+											""Perché non parli? Why don't you talk?""
+											Well today, for the first time,
+											our environment is starting to talk back to us.
+											And I'll show just a few examples —
+											again, with this idea of sensing our environment and actuating it.
+									","
+											Esto es de una exhibición
+											de Paola Antonelli
+											para fines de año en el MoMA, durante el verano.
+											Se llama ""Talk to Me"" (Háblame, NT)
+											Bueno, nuestros objetos, el entorno,
+											empiezan a hablarnos.
+											En cierto modo es como si casi todos los átomos existentes
+											se volvieran sensores y actuadores.
+											Y eso está cambiando por completo la interacción que como humanos tenemos
+											con el entorno exterior.
+											En cierto sentido
+											es casi como en el viejo sueño de Miguel Ángel...
+											Ya saben, cuando Miguel Ángel esculpió el Moisés,
+											se dice que al final tomó el martillo y se lo arrojó al Moisés
+											-de hecho aún se puede ver una pequeña mella debajo-
+											y dijo gritando:
+											""Perché non parli?"" (¿por qué no hablas?).
+											Bueno, hoy, por primera vez,
+											nuestro entorno empieza a hablarnos.
+											Y les voy a mostrar sólo unos ejemplos;
+											insistiendo en la idea de captar el entorno y accionar algo.
+									","
+											Isto faz parte de uma exposição
+											que a Paola Antonelli está a organizar
+											no MoMA no final deste ano,
+durante o Verão.
+											Chama-se ""Talk to Me"".
+											Os nossos objetos, o nosso ambiente,
+											estão a começar a responder-nos.
+											Num certo sentido, é quase como
+se todos os átomos existentes
+											estivessem a tornar-se simultaneamente
+num sensor e num atuador.
+											Isto está a mudar radicalmente
+as nossas interações com o ambiente.
+											De certa forma, é quase como
+o velho sonho de Miguel Ângelo.
+											Diz-se que, quando
+Miguel Ângelo esculpiu Moisés,
+											no final, pegou no martelo
+e atirou-o a Moisés
+											— ainda podemos ver 
+uma pequena fissura por baixo —
+											e gritou:
+											""Perché non parli? 
+Porque é que não falas?""
+											Hoje, pela primeira vez,
+											o ambiente está a começar 
+a falar connosco.
+											Vou mostrar só alguns exemplos,
+											mais uma vez, com esta ideia de detetar
+o nosso ambiente e atuar sobre ele.
+									","
+											Bu, yıl içerisinde yaz aylarında
+											Paola Antonelli'nin MoMA'da
+											düzenleyeceği bir sergidendir.
+											""Konuş benimle"" diye adlandırılmıştır.
+											Objelerimiz, çevremiz,
+											bizimle konuşmaya başlamıştır.
+											Bir anlamda sankı dış dünyadaki tüm atomlar
+											hem birer sensör hem de işletim bileşeni olmaya başlamıştır.
+											Bu da insanlar olarak dışardaki çevere ile olan
+											etkileşimlerimizi radikal bir biçimde değiştirmektedir.
+											Bir anlamda,
+											Michelangelo'nun rüyası gibi ...
+											Biliyorsunuz, Musa heykelini yaparken,
+											sonunda çekicini alıp Hz. Musa'ya attığı söylenir —
+											aslında altında küçük bir çentik görülebilir —
+											ve şöyle demiş, yani bağırmış
+											""Perché non parli? Neden konuşmuyorsun?""
+											Bugün ilk defa,
+											çevremiz bizimle konuşmaya başlamıştır.
+											Ve çevremizi algılama ve işletilmesi fikri ile ilgili
+											birkaç örnek göstereceğim —
+									","
+											Ça vient d'une exposition
+											que Paola Antonelli organise
+											au MoMA plus tard cette année, durant l'été.
+											Elle s'intitule ""Talk to Me"".
+											Eh bien nos objets, notre environnement,
+											commencent à nous répondre.
+											Dans un sens, c'est presque comme si chaque atome là dehors
+											devenait à la fois un capteur et un actionneur.
+											Et c'est train de changer radicalement l'interaction que nous, humains,
+											avons avec l'environnement là dehors.
+											Dans un certain sens,
+											c'est presque comme dans le vieux rêve de Michel-Ange ...
+											vous savez, quand Michel-Ange a sculpté le Moïse,
+											à la fin, il dit qu'il a pris le marteau, il l'a jeté à Moïse -
+											en fait vous pouvez encore voir un petit éclat dessous -
+											et a dit, crié,
+											""Perché Parli non? Pourquoi ne parles-tu pas?""
+											Eh bien aujourd'hui, pour la première fois,
+											notre environnement commence à nous répondre.
+											Et je vais vous montrer quelques exemples -
+											là encore, avec cette idée de détecter et d'actionner notre environnement.
+									","
+											Das ist von einer Ausstellung,
+											die Paola Antonelli für MoMA
+											später im Jahr, während des Sommers, organisiert.
+											Es heißt ""Sprich mit mir.""
+											Nun, all unsere Objekte, unsere Umwelt,
+											fangen an, zu uns zurück zu sprechen.
+											In einem gewissen Sinn, ist es fast so als ob jedes Atom da draußen
+											zu beiden wird, einem Sensor und einem Antreiber.
+											Und das verändert radikal die Interaktion, die wir Menschen
+											mit unserer Umwelt draußen haben.
+											In gewisser Weise,
+											ist es fast als ob der alte Traum von Michelangelo ...
+											wissen Sie, als Michelangelo den Moses formte,
+											heißt es, dass er am Ende den Hammer nahm und ihn auf Moses warf –
+											tatsächlich können Sie immer noch eine kleine Stelle untendrunter sehen –
+											und sagte, rief,
+											""Perché non parli? Warum sprichst du nicht?""
+											Nun, heute, fängt unsere Umwelt
+											zum allerersten Mal an, uns zu antworten.
+											Ich werde Ihnen nur einige Beispiele zeigen –
+											nochmal, mit der Idee unsere Umwelt wahrzunehmen und anzutreiben.
+									",Architecture that senses and responds,Carlo Ratti,15:46,"cities,design,entertainment,technology"
+"
+","
+","
+","
+","
+","
+",Architecture that senses and responds,Carlo Ratti,15:46,"cities,design,entertainment,technology"
+"
+											Let's starting with sensing.
+											Well, the first project I wanted to share with you
+											is actually one of the first projects by our lab.
+											It was four and a half years ago in Italy.
+											And what we did there
+											was actually use a new type of network at the time
+											that had been deployed all across the world —
+											that's a cellphone network —
+											and use anonymous and aggregated information from that network,
+											that's collected anyway by the operator,
+											in order to understand
+											how the city works.
+											The summer was a lucky summer — 2006.
+											It's when Italy won the soccer World Cup.
+											Some of you might remember, it was Italy and France playing,
+											and then Zidane at the end, the headbutt.
+											And anyway, Italy won at the end.
+									","
+											Empecemos con la detección.
+											El primer proyecto que quería compartir con Uds.
+											es en verdad uno de los primeros proyectos de nuestro laboratorio.
+											Esto fue hace 4 años y medio en Italia.
+											Lo que hicimos allí
+											fue usar un nuevo tipo de red de ese momento
+											que se había desarrollado por todo el mundo
+											-la red de telefonía celular-
+											y consolidamos información anónima de esa red
+											que de todos modos era recopilada por el operador
+											para entender
+											el funcionamiento de la ciudad.
+											Fue un verano con suerte el de 2006.
+											Fue el año en que Italia ganó la Copa del Mundo.
+											Quizá algunos lo recuerden, jugaban Italia y Francia,
+											y al final Zidane dio el cabezazo.
+											Y de todos modos, al final ganó Italia.
+									","
+											Comecemos com a deteção.
+											O primeiro projeto
+que queria partilhar convosco
+											foi um dos primeiros projetos
+do nosso laboratório.
+											Aconteceu há quatro anos e meio,
+na Itália.
+											Nessa altura, usámos um novo tipo de rede
+											que tinha sido instalada em todo o mundo
+											— uma rede de telemóveis —
+											e usámos a informação anónima
+e agregada dessa rede,
+											que seria, de qualquer forma,
+recolhida pela operadora
+											de forma a compreender
+como funciona a cidade.
+											Esse verão foi um verão sortudo — 2006.
+											Foi quando a Itália ganhou
+o campeonato do mundo de futebol.
+											Devem lembrar-se, 
+a Itália estava a jogar contra França,
+											e depois o Zidane no final, a cabeçada.
+											De qualquer forma,
+a Itália acabou por ganhar.
+									","
+											Algılama ile başlayalım.
+											Sizinle paylaşmak istediğim ilk proje
+											aslında laboratuvarımızdaki ilk projelerden biridir.
+											Dört buçuk yıl önce İtalya'daydı.
+											Ve orda yaptığımız
+											aslında tüm dünyaya dağıtılmış, —
+											cep telefonu ağı —
+											zamanında yeni olan bir ağ kullanmaktı
+											ve bu ağda operatör tarafından toplanan
+											anonim ve kümelenmiş bilgileri kullanarak
+											şehrin nasıl çalıştığını
+											anlamaya çalışacaktık.
+											Şanslı olduğumuz bir yazdı — 2006.
+											Italya Dünya Kupasını kazanmıştı.
+											Bazılarınız hatırlayacaktır, İtalya Fransa ile oynuyordu,
+											ve sonunda Zidane kafasıyla bir oyuncuya vurmuştu.
+											Her neyse, sonunda Italya kazandı.
+									","
+											Commençons par la détection.
+											Eh bien le premier projet que je voulais partager avec vous
+											est en fait l'un des premiers projets de notre laboratoire.
+											Il a pris quatre ans et demi en Italie.
+											Et ce que nous y avons fait
+											c'était en fait utiliser un nouveau type de réseau à l'époque
+											qui avait été déployé partout dans le monde -
+											c'est un réseau de téléphonie cellulaire -
+											et l'utilisation des informations anonymes et agrégées à partir de ce réseau,
+											qui sont recueillies de toute façon par l'opérateur
+											afin de comprendre
+											comment la ville fonctionne.
+											L'été a été un été de chance - 2006.
+											C'est quand l'Italie a remporté la Coupe du Monde.
+											Certains d'entre vous se souviennent peut-être, c'était Italie - France,
+											puis Zidane à la fin, le coup de boule.
+											Et enfin bref, l'Italie a gagné à la fin.
+									","
+											Lassen Sie uns mit dem Wahrnehmen beginnen.
+											Nun das erste Projekt, das ich Ihnen vorstellen möchte
+											ist in Wahrheit eines der ersten unseres Labors.
+											Es entstand vor viereinhalb Jahren in Italien.
+											Und was wir da getan haben,
+											war eigentlich eine damals neue Art von Netzwerk zu nutzen,
+											das auf der ganzen Welt eingesetzt wurde –
+											das ist ein Mobiltelefonnetz –
+											und anonyme und aggregierte Information aus diesem Netzwerk zu nutzen,
+											die ohnehin vom Betreiber gesammelt werden,
+											um zu verstehen
+											wie die Stadt funktioniert.
+											Der Sommer war ein glücklicher Sommer – 2006.
+											Es war als Italien die Fußball-Weltmeisterschaft gewann.
+											Einige von Ihnen werden sich erinnern, es war als Italien gegen Frankreich spielte,
+											und dann am Ende Zidane, der Kopfstoß.
+											Und egal, Italien hat am Ende gewonnen
+									",Architecture that senses and responds,Carlo Ratti,15:46,"cities,design,entertainment,technology"
+"
+","
+","
+","
+","
+","
+",Architecture that senses and responds,Carlo Ratti,15:46,"cities,design,entertainment,technology"
+"
+											(Laughter)
+									","
+											(Risas)
+									","
+											(Risos)
+									","
+											(Kahkaha sesleri)
+									","
+											(Rires)
+									","
+											(Gelächter)
+									",Architecture that senses and responds,Carlo Ratti,15:46,"cities,design,entertainment,technology"
+"
+","
+","
+","
+","
+","
+",Architecture that senses and responds,Carlo Ratti,15:46,"cities,design,entertainment,technology"
+"
+											Now look at what happened that day
+											just by monitoring activity
+											happening on the network.
+											Here you see the city.
+											You see the Colosseum in the middle,
+											the river Tiber.
+											It's morning, before the match.
+											You see the timeline on the top.
+											Early afternoon,
+											people here and there,
+											making calls and moving.
+											The match begins — silence.
+											France scores. Italy scores.
+											Halftime, people make a quick call and go to the bathroom.
+											Second half. End of normal time.
+											First overtime, second.
+											Zidane, the headbutt in a moment.
+											Italy wins. Yeah.
+											(Laughter)
+											(Applause)
+											Well, that night, everybody went to celebrate in the center.
+											You saw the big peak.
+											The following day, again everybody went to the center
+											to meet the winning team
+											and the prime minister at the time.
+											And then everybody moved down.
+											You see the image of the place called Circo Massimo,
+											where, since Roman times, people go to celebrate,
+											to have a big party, and you see the peak at the end of the day.
+											Well, that's just one example of how we can sense the city today
+											in a way that we couldn't have done
+											just a few years ago.
+									","
+											Ahora veamos qué pasó ese día
+											observando la actividad
+											ocurrida en la red.
+											Aquí vemos la ciudad.
+											Se ve el Coliseo en el medio
+											y el río Tíber.
+											Es la mañana, antes del juego.
+											La línea de tiempo está en la parte superior.
+											Por la tarde temprano
+											hay gente por aquí y allá
+											haciendo llamadas, moviéndose.
+											Comienza el partido: silencio.
+											Gol de Francia. Gol de Italia.
+											Entretiempo; la gente hace una llamada rápida y va al baño.
+											Segundo tiempo. Fin del tiempo reglamentario.
+											Primer tiempo adicional; segundo.
+											Zidane, y en un momento, el cabezazo.
+											Gana Italia, ¡sí!
+											(Risas)
+											(Aplausos)
+											Esa noche todos fueron a celebrarlo al centro.
+											Ahí ven el gran pico.
+											Al día siguiente todos fueron al centro
+											al encuentro del equipo ganador
+											y del primer ministro de entonces.
+											Y luego todo el mundo bajó.
+											Ven la imagen del lugar llamado Circo Massimo
+											donde, desde la época romana, la gente va a celebrar;
+											es una gran fiesta, puede verse el pico al final del día.
+											Este es sólo un ejemplo de cómo hoy se puede medir el pulso de la ciudad
+											de un modo que no habríamos podido hacer
+											hace sólo unos años.
+									","
+											Vejam o que aconteceu nesse dia
+											só pela monitorização da atividade da rede.
+											Vemos aqui a cidade.
+											Vemos o Coliseu no meio,
+											o rio Tibre.
+											É de manhã, antes do jogo.
+											Vemos a linha do tempo no cimo.
+											No início da tarde,
+											pessoas aqui e ali
+											a fazer chamadas e a movimentarem-se.
+											O jogo começa — silêncio.
+											A França marca. A Itália marca.
+											No intervalo, as pessoas fazem 
+uma chamada rápida e vão à casa de banho.
+											Segunda parte. Fim dos 90 minutos.
+											Primeiro prolongamento, segundo.
+											O Zidane, a cabeçada.
+											A Itália ganha. Iá!
+											(Risos)
+											(Aplausos)
+											Nessa noite, toda a gente foi 
+para o centro da cidade festejar.
+											Vemos aqui o grande pico.
+											No dia seguinte, toda a gente
+foi para o centro da cidade
+											para receber a equipa vencedora
+											e o primeiro-ministro da altura.
+											Depois toda a gente foi para baixo.
+											Vemos a imagem de um sítio
+chamado Circo Máximo,
+											para onde, deste os tempos romanos,
+as pessoas vão para festejar,
+											fazer uma grande festa,
+e vemos o pico no final do dia.
+											Este é só um exemplo de como
+podemos hoje sentir a cidade hoje,
+											de uma forma que não podíamos 
+fazer há uns anos.
+									","
+											Şimdi yalnızca ağ üzerindeki
+											hareketliliği izleyerek
+											o gün olanlara dikkatinizi çekmek istiyorum
+											Burada şehri görüyorsunuz.
+											Ortasında Colosseum'u görüyorsunuz,
+											Tiber nehri de gözüküyor.
+											Maçtan önceki sabah.
+											Üst tarafta zaman çizgisini görüyorsunuz.
+											Öğleden sonra
+											çeşitli yerlerdeki insanlar
+											arama yapıyorlar ve hareket ediyorlar.
+											Maç başlıyor — sessizlik var.
+											Fransa gol atıyor. Italya gol atıyor.
+											İlk yarı bitiyor, insanlar birilerini arayıp tuvalet ihtiyaçlarını gideriyorlar.
+											İkinci yarı. Maçın normal süresi bitiyor.
+											Uzatmaların ilk yarısı, ikinci yarısı.
+											Zidane'ın kafasıyla vurma anı.
+											Italya kazanıyor. Evet!
+											(Kahkaha sesleri)
+											(Alkış)
+											O gece herkes kutlamak için şehir merkezine gitmişti.
+											Büyük yoğunluk tepesini gördünüz
+											Ertesi gün herkez takımı
+											ve o zamanın Başbakanını karşılamak için
+											şehir merkezinde toplandı.
+											Sonra da herkes haritanın alt tarafına indi.
+											Burda Circo Massimo adındaki yeri görüyorsunuz,
+											Roma zamanlarından beri insanlar kutlamalarını yapmak için burada toplanır —
+											burada büyük bir parti yapıldı, günün sonunda oluşan tepeyi görüyorsunuz.
+											Bu şehri algılamak için kullanabileceğimiz örneklerden yalnızca biridir,
+											bunu bu şekliyle
+											birkaç yıl önce yapamazdık.
+									","
+											Maintenant, regardez ce qui s'est passé ce jour-là
+											rien qu'en surveillant l'activité
+											sur le réseau.
+											Ici vous pouvez voir la ville.
+											Vous voyez le Colisée au milieu,
+											le Tibre.
+											C'est le matin, avant le match.
+											Vous voyez le minutage en haut.
+											Début d'après midi,
+											les gens ici et là
+											qui téléphonent et se déplacent.
+											Le match commence - silence.
+											La France marque. l'Italie marque.
+											La mi-temps, les gens passent un coup de fil rapide et vont aux toilettes.
+											Deuxième mi-temps. Fin du temps réglementaire.
+											Première prolongation, deuxième prolongation.
+											Zidane, le coup de boule dans un instant.
+											L'Italie gagne. Oui.
+											(Rires)
+											(Applaudissements)
+											Eh bien, cette nuit-là, tout le monde est allé célébrer dans le centre.
+											Vous avez vu le grand pic.
+											Le lendemain, tout le monde s'est rendu au centre
+											pour rencontrer l'équipe gagnante
+											et le Premier ministre de l'époque.
+											Et puis tout le monde s'est déplacé vers le bas.
+											Vous voyez l'image de l'endroit appelé Circo Massimo,
+											où, depuis l'époque romaine, les gens vont pour célébrer -
+											pour faire une grande fête, et vous voyez le pic à la fin de la journée.
+											Eh bien, c'est juste un exemple de la façon dont nous pouvons sentir la ville aujourd'hui,
+											comme nous n'aurions pas pu le faire
+											il y a seulement quelques années.
+									","
+											Jetzt sehen Sie sich an was an diesem Tag passierte,
+											nur beim Beobachten der Aktivität,
+											die im Netzwerk passiert.
+											Hier sehen Sie die Stadt.
+											Sie sehen in der Mitte das Kolosseum,
+											den Fluß Tiber.
+											Am Morgen, vor dem Spiel.
+											Sie sehen oben die Zeitachse.
+											Früher Nachmittag,
+											Menschen hier und da,
+											die Anrufe tätigen und sich bewegen.
+											Das Spiel fängt an – Schweigen.
+											Frankreich macht ein Tor. Italien macht ein Tor.
+											Halbzeit, die Menschen machen einen kurzen Anruf, gehen auf Toilette.
+											Zweite Halbzeit. Ende der normalen Spielzeit.
+											Erste Verlängerung, zweite.
+											Zidane, in einem Augenblick der Kopfstoß.
+											Italien gewinnt. Yeah.
+											(Gelächter)
+											(Applaus)
+											Nun, in dieser Nacht, gingen alle ins Zentrum um zu feiern.
+											Sie sahen den großen Ausschlag.
+											Am nächsten Tag, gingen alle ins Zentrum
+											um das Siegerteam und den
+											Premierminister zu selben Zeit zu treffen.
+											Und dann gingen alle hinunter.
+											Sie sehen das Bild des Platzes Circo Massimo,
+											wo, seit der römischen Zeit, die Menschen zum feiern hingehen –
+											um eine große Party zu haben, und Sie sehen den Ausschlag am Ende des Tages.
+											Nun, das ist nur ein Beispiel, wie wir heute die Stadt spüren können,
+											auf eine Art und Weise wie wir es
+											vor einigen Jahren nicht konnten.
+									",Architecture that senses and responds,Carlo Ratti,15:46,"cities,design,entertainment,technology"
+"
+","
+","
+","
+","
+","
+",Architecture that senses and responds,Carlo Ratti,15:46,"cities,design,entertainment,technology"
+"
+											Another quick example about sensing:
+											it's not about people,
+											but about things we use and consume.
+											Well today, we know everything
+											about where our objects come from.
+											This is a map that shows you
+											all the chips that form a Mac computer, how they came together.
+											But we know very little about where things go.
+											So in this project,
+											we actually developed some small tags
+											to track trash as it moves through the system.
+											So we actually started with a number of volunteers
+											who helped us in Seattle,
+											just over a year ago,
+											to tag what they were throwing away —
+											different types of things, as you can see here —
+											things they would throw away anyway.
+											Then we put a little chip, little tag,
+											onto the trash
+											and then started following it.
+											Here are the results we just obtained.
+									","
+											Otro ejemplo rápido de detección:
+											no se trata de gente,
+											sino de cosas que usamos y consumimos.
+											Hoy en día sabemos todo
+											sobre la procedencia de nuestros objetos.
+											Este es un mapa que muestra
+											todos los chips que conforman una Mac, cómo se ensamblan.
+											Pero sabemos muy poco sobre adónde van las cosas.
+											Por eso en este proyecto
+											desarrollamos unas etiquetas pequeñas
+											para rastrear la basura en su desplazamiento por el sistema.
+											Empezamos con unos voluntarios
+											que nos ayudaron en Seattle
+											hace poco más de un año,
+											a etiquetar lo que estaban arrojando;
+											distinto tipo de cosas, como pueden ver,
+											cosas que de todos modos tirarían.
+											Luego les pusimos un pequeño chip, una etiqueta,
+											a la basura
+											y luego empezamos a rastrearla.
+											Estos son los resultados obtenidos.
+									","
+											Outro exemplo rápido sobre deteção.
+											Não é sobre pessoas,
+											mas sobre coisas 
+que usamos e consumimos.
+											Hoje, sabemos tudo
+											acerca de onde os nossos objetos vêm.
+											Este mapa mostra-nos todos os chips
+											que formam um computador Mac
+e como eles se interligam.
+											Mas sabemos muito pouco
+sobre o destino das coisas.
+											Por isso, neste projeto,
+											desenvolvemos umas pequenas etiquetas
+											que monitorizam o lixo à medida
+que ele se move pelo sistema.
+											Começámos com um pequeno
+número de voluntários
+											que nos ajudaram em Seattle,
+											há pouco mais de um ano,
+											a etiquetar o que eles deitavam fora
+											— diferentes tipos de coisas,
+como podem ver aqui —
+											coisas que deitariam fora
+de qualquer maneira.
+											Depois pusemos um pequeno chip,
+uma pequena etiqueta, no lixo
+											e começámos a segui-la.
+											Foram estes os resultados que obtivemos.
+									","
+											Algılama ile ilgili hızlaca bir örnek daha verelim:
+											bu insanlar ile ilgili değil,
+											fakat kullandığımız ve tükettiğimiz eşyalarla ilgilidir.
+											Bugün eşyalarımızın
+											nereden geldiğini çok iyi biliyoruz.
+											Bu harita bir Mac bilgasayarının
+											tüm çiplerinin nereden ve nasıl bir araya geldiklerini göstermektedir.
+											Ancak, bu eşyaların nereye gittiği hakkında pek az şey biliyoruz.
+											Dolaysıyla, bu projede
+											sistem içerisinde hareket eden bazı atılmış eşyalara
+											takabileceğimiz küçük etiketler geliştirdik.
+											Bu projeye yaklaşık
+											bir yıl önce,
+											atacakları eşyalarını etiketleyerek bize yardımcı olan
+											Seattle'da birkaç gönüllü ile başlamıştık —
+											burda attıkları çeşitli şeyleri görebiliyorsunuz —
+											bu eşyaları zaten atacaklardı.
+											Sonra biz de küçük bir çipi, küçük bir etiketi,
+											çöpün üzerine koyarak
+											takip ettik.
+											Bunlar elde ettiğimiz sonuçlar.
+									","
+											Un autre exemple de détection rapide :
+											il ne s'agit pas de personnes,
+											mais de choses que nous utilisons et consommons.
+											Eh bien aujourd'hui, nous savons tout
+											la provenance de nos objets.
+											Ceci est une carte qui vous montre
+											toutes les puces qui forment un ordinateur Mac, comment ils sont assemblés.
+											Mais nous en savons très peu sur l'endroit où les choses vont.
+											Donc, dans ce projet,
+											nous avons en fait élaboré des petites étiquettes
+											pour suivre les ordures au fil de leur déplacements à travers le système.
+											Donc nous avons commencé avec un certain nombre de bénévoles
+											qui nous ont aidés à Seattle,
+											il y a à peine un an,
+											pour mettre des puces sur ce qu'ils jetaient -
+											différents types de choses, comme vous pouvez le voir ici -
+											des choses qu'ils jetaient de toute façon.
+											Ensuite, nous avons mis une petite puce, une petite étiquette,
+											sur le déchet
+											puis nous avons commencé à le suivre.
+											Voici les résultats que nous venons d'obtenir.
+									","
+											Noch schnell ein anderes Beispiel für Spüren:
+											hier geht es nicht um Menschen,
+											sondern um Dinge, die wir benutzen und konsumieren.
+											Nun, heutzutage wissen wir alles darüber
+											woher unsere Sachen kommen.
+											Dies ist eine Karte, die Ihnen
+											all die Chips zeigt, aus denen ein Mac Computer besteht, wie sie zusammen kamen.
+											Aber wir wissen nur wenig darüber, wo die Sachen hingehen.
+											Also haben wir in diesem Projekt
+											tatsächlich einige kleine Marker entworfen
+											um den Müll zu verfolgen während er durch das System geht.
+											Wir haben also mit einigen Freiwilligen angefangen,
+											die uns,vor etwas mehr als einem Jahr,
+											in Seattle geholfen haben,
+											die Dinge zu markieren, die sie wegwarfen –
+											verschiedene Arten von Dingen, wie Sie sehen können –
+											Dinge, die sie ohnehin wegwerfen würden.
+											Dann haben wir die kleinen Chips, die kleinen Marken,
+											auf den Müll geklebt
+											und angefangen ihn zu verfolgen.
+											Hier sind die Ergebnisse, die wir gerade bekommen haben.
+									",Architecture that senses and responds,Carlo Ratti,15:46,"cities,design,entertainment,technology"
+"
+","
+","
+","
+","
+","
+",Architecture that senses and responds,Carlo Ratti,15:46,"cities,design,entertainment,technology"
+"
+											(Music)
+									","
+											(Música)
+									","
+											[Seguimos um total de 3000 objetos]
+									","
+											(Müzik)
+									","
+											(Musique)
+									","
+											(Musik)
+									",Architecture that senses and responds,Carlo Ratti,15:46,"cities,design,entertainment,technology"
+"
+","
+","
+","
+","
+","
+",Architecture that senses and responds,Carlo Ratti,15:46,"cities,design,entertainment,technology"
+"
+											From Seattle ...
+											after one week.
+											With this information we realized
+											there's a lot of inefficiencies in the system.
+											We can actually do the same thing with much less energy.
+											This data was not available before.
+											But there's a lot of wasted transportation and convoluted things happening.
+											But the other thing is that we believe
+											that if we see every day
+											that the cup we're throwing away, it doesn't disappear,
+											it's still somewhere on the planet.
+											And the plastic bottle we're throwing away every day still stays there.
+											And if we show that to people,
+											then we can also promote some behavioral change.
+											So that was the reason for the project.
+									","
+											Partiendo de Seattle...
+											después de una semana.
+											Con esta información nos dimos cuenta
+											de que hay muchas ineficiencias en el sistema.
+											Podemos hacer lo mismo con mucha menos energía.
+											Estos son datos que antes no existían.
+											Están sucediendo cosas complicadas y hay mucho transporte innecesario.
+											Pero la otra cosa que creemos
+											es que si vemos todos los días
+											que la taza que arrojamos no desaparece,
+											que todavía está en algún lugar del planeta,
+											que si la botella de plástico que arrojamos un día todavía sigue ahí,
+											que si le mostramos eso a la gente,
+											entonces podremos promover algún cambio de conducta.
+											Esa fue la razón del proyecto.
+									","
+											A partir de Seattle.
+											Após uma semana.
+											[Após 2 semanas]
+											[Após 3 semanas]
+											[Após um mês]
+											[Após 2 meses]
+											Com esta informação apercebemo-nos
+											que há imensas insuficiências no sistema.
+											Podemos fazer a mesma coisa
+com muito menos energia.
+											Antes, esta informação
+não estava disponível.
+											Há imenso desperdício no transportes
+e coisas complicadas a acontecer aqui.
+											Uma coisa em que acreditamos
+											é que, se virmos todos os dias,
+											que a chávena que deitámos fora
+não desaparece,
+											está ainda algures no planeta;
+											que a garrafa de plástico que deitamos fora
+todos os dias continua lá;
+											se mostrarmos isso às pessoas,
+											podemos conseguir
+algumas mudanças de comportamento.
+											Esta era a razão de ser do projeto.
+									","
+											Seattle'dan
+											bir hafta sonra.
+											Bu bilgilerle sistemin
+											çok verimsiz olduğunu anladık.
+											Aslında aynı şeyi çok daha az enerji ile gerçekleştirebiliriz.
+											Bu veriler daha önce mevcut değildi.
+											Fakat boşuna yapılan taşımacılık ve karışık olaylar oluyor.
+											Ancak, inanıyoruz ki
+											hergün çöpe attığımız
+											bardağın kaybolmadığını,
+											hala Dünya'da bir yerlerde olduğunu görürsek,
+											ve bu atılan bardağın kalıcı olduğunu fark ettirirsek,
+											bunu insanlara göstererek
+											davranışlarında bir değişiklik teşvik edebiliriz.
+											Projenin amacı da buydu.
+									","
+											De Seattle ...
+											après une semaine.
+											Avec ces informations, nous nous sommes rendus compte
+											qu'il y a beaucoup d'inefficacité dans le système.
+											Nous pouvons en fait faire la même chose avec beaucoup moins d'énergie.
+											Ces données n'étaient pas disponibles auparavant.
+											Mais il y a beaucoup de gaspillage de transport et des choses compliquées qui se passent.
+											Mais l'autre chose est que nous croyons
+											que si nous voyons tous les jours
+											que le gobelet que nous jetons ne disparaît pas,
+											il est toujours quelque part sur la planète.
+											Et la bouteille en plastique que nous jetons tous les jours reste toujours là.
+											Et si nous montrons ça aux les gens,
+											nous pouvons aussi promouvoir des changements de comportement.
+											C'était donc la raison du projet.
+									","
+											Von Seattle ...
+											nach einer Woche.
+											Mit dieser Information erkannten wir,
+											dass es eine Menge Ineffizienzen im System gibt.
+											Wir können die gleichen Dinge in der Tat mit weniger Energie machen.
+											Die Daten waren vorher nicht verfügbar.
+											Aber das passieren eine Menge unnützer Transporte und komplizierter Dinge.
+											Die andere Sache aber ist, dass wir glauben,
+											dass wenn wir jeden Tag sehen,
+											dass die Tasse, die wir wegwerfen, nicht einfach verschwindet,
+											dass sie immer noch irgendwo auf dem Planeten ist.
+											Und die Plastikflasche, die wir jeden Tag wegwerfen immer noch da bleibt.
+											Und wenn wir das den Menschen zeigen würden,
+											dann können wir eine Verhaltensänderung vorantreiben.
+											Das ist also der Grund für dieses Projekt.
+									",Architecture that senses and responds,Carlo Ratti,15:46,"cities,design,entertainment,technology"
+"
+","
+","
+","
+","
+","
+",Architecture that senses and responds,Carlo Ratti,15:46,"cities,design,entertainment,technology"
+"
+											My colleague at MIT, Assaf Biderman,
+											he could tell you much more about sensing
+											and many other wonderful things we can do with sensing,
+											but I wanted to go to the second part we discussed at the beginning,
+											and that's actuating our environment.
+											And the first project
+											is something we did a couple of years ago in Zaragoza, Spain.
+											It started with a question by the mayor of the city,
+											who came to us saying
+											that Spain and Southern Europe have a beautiful tradition
+											of using water in public space, in architecture.
+											And the question was: How could technology, new technology,
+											be added to that?
+											And one of the ideas that was developed at MIT in a workshop
+											was, imagine this pipe, and you've got valves,
+											solenoid valves, taps,
+											opening and closing.
+											You create like a water curtain with pixels made of water.
+											If those pixels fall,
+											you can write on it,
+											you can show patterns, images, text.
+											And even you can approach it, and it will open up
+											to let you jump through,
+											as you see in this image.
+									","
+											Mi colega del MIT, Assaf Biderman,
+											podría contarnos mucho más sobre detección
+											y muchas otras cosas geniales que podemos hacer con eso,
+											pero quería ir a la segunda parte que mencionamos al principio,
+											que es accionar sobre el entorno.
+											Y el primer proyecto
+											es algo que hicimos hace un par de años en Zaragoza (España).
+											Todo comenzó con una pregunta del alcalde de la ciudad,
+											que vino y nos dijo
+											que España y el sur de Europa tienen una hermosa tradición
+											del uso del agua en espacios públicos, en la arquitectura.
+											Y la pregunta fue: ¿cómo puede la tecnología, la nueva tecnología,
+											sumarse a eso?
+											Y una de las ideas que desarrollamos en el MIT, en un taller,
+											fue: imaginen que tienen un caño y válvulas,
+											válvulas de solenoide, lengüetas
+											que se abren y se cierran.
+											Se crea como una cortina de agua, con píxeles de agua.
+											Si caen los píxeles
+											se puede escribir en ellos,
+											mostrar patrones, imágenes, textos.
+											Y al acercarnos, la cortina se abrirá
+											para que podamos pasar,
+											como ven en la imagen.
+									","
+											O meu colega no MIT, Assaf Biderman,
+											podia explicar muito mais sobre deteção
+											e outras coisas espantosas
+que fazemos com a deteção,
+											mas quero voltar à segunda parte
+que referi no início,
+											relativamente à atuação sobre o ambiente.
+											O primeiro projeto é uma coisa
+											que fizemos há uns anos
+em Saragoça, Espanha.
+											Tudo começou com uma pergunta
+do alcaide da cidade,
+											que veio junto de nós dizendo
+											que a Espanha e o Sul da Europa
+têm uma bonita tradição
+											de usar a água no espaço público,
+na arquitetura, e nos perguntou:
+											""Como pode a nova tecnologia
+ser incorporada nisso?"".
+											Uma das ideias que o MIT 
+desenvolveu num ""workshop""
+											foi, imaginem, este tubo 
+com válvulas solenoides,
+											e abas, a abrir e a fechar.
+											Cria-se uma espécie de cortina de água,
+com píxeis feitos de água.
+											Se esses píxeis caem,
+											conseguimos escrever neles,
+											criar padrões, imagens, texto.
+											Podemos aproximar-nos dela
+											e ela abre-se para podermos atravessá-la,
+											como se pode ver nesta imagem.
+									","
+											MIT'deki meslektaşım Assaf Biderman,
+											algılama ile ilgili çok daha fazla bilgi verebilir
+											ve algılama ile yapılabilecek inanılmaz şeyleri anlatabilir,
+											fakat başta konuştuğumuz ikinci kısma geçmek istiyorum,
+											bu da çevremizi harekete geçirmek, işletmektir.
+											İlk proje bir kaç yıl önce
+											Zaragoza İspanya'da yaptığımız bişeydir.
+											Şehrin Belediye Başkanı
+											bize gelip yönelttiği bir soru ile başladı,
+											İspanya'nın ve Güney Avrupa'nın kamu alanlarındaki mimaride
+											su kullanmak ile ilgili güzel bir gelenek vardır.
+											Soru şuydu: Teknolojinin, yeni teknolojinin,
+											bu kavrama nasıl eklenebilirdi?
+											MIT'de bir atelye çalışmasında geliştirilen fikirlerden biri
+											açılap kapanan
+											solenoit vanaları, tabları
+											olan bir boru ile ilgiliydi.
+											Sudan oluşan pikselleri olan bir perde yaratıyorsunuz.
+											Pikseller düşerse,
+											yazı oluşturabilirsiniz,
+											şekiller, imajlar, metin gösterebilirsiniz.
+											Ve yaklaştığınızda içerisinden
+											atlayabilmeniz için açılabilir,
+											bu resimde görebildiğiniz gibi.
+									","
+											Mon collègue du MIT, Assaf Biderman,
+											il pourrait vous en dire beaucoup plus sur la détection
+											et beaucoup d'autres choses merveilleuses que nous pouvons faire avec la détection,
+											mais je voulais passer à la deuxième partie dont nous avons discuté au début,
+											et c'est l'actionnement de notre environnement.
+											Et le premier projet
+											est ce que nous avons fait il y a quelques années à Saragosse, en Espagne.
+											Ça a commencé par une question posée par le maire de la ville,
+											qui est venu nous dire
+											que l'Espagne et l'Europe du Sud ont une belle tradition
+											de l'utilisation de l'eau dans l'espace public, dans l'architecture.
+											Et la question était : comment la technologie pourrait, les nouvelles technologies,
+											y être ajoutée ?
+											Et l'une des idées qui a été développée au MIT dans un atelier
+											a été, imaginez ce tuyau, et vous avez des vannes,
+											des électrovannes, des robinets,
+											qui s'ouvrent et qui se ferment.
+											Vous pouvez créer comme un rideau d'eau avec des pixels en eau.
+											Si ces pixels tombent,
+											vous pouvez écrire sur eux,
+											vous pouvez montrer des motifs, des images, du texte.
+											Et vous pouvez même approcher ce dispositif, et il va s'ouvrir
+											pour vous permettre de passer à travers,
+											comme vous le voyez dans cette image.
+									","
+											Mein Kollege an der MIT, Assaf Biderman,
+											könnte Ihnen noch viel mehr über das Wahrnehmen
+											und die vielen anderen wunderbaren Dinge, die man mit Wahrnehmen machen kann, erzählen,
+											aber ich möchte gerne auf den zweiten Teil zu sprechen kommen, den wir am Anfang diskutierten
+											und das ist die Betätigung unserer Umwelt.
+											Und das erste Projekt
+											ist etwas, dass wir vor ein paar Jahren in Zaragoza, Spanien gemacht haben.
+											Es fing mit einer Frage des Bürgermeisters an,
+											der zu uns kam und sagte,
+											dass Spanien und Südeuropa eine schöne Tradition haben,
+											an öffentlichen Orten Wasser als Teil der Architektur zu nutzen.
+											Und die Frage war: Wie könnte man Technologie, neue Technologie
+											damit verbinden?
+											Und eine der Ideen, die am MIT in einem Arbeitskreis ermittelt wurden,
+											war, stellen Sie sich diese Schläuche vor, und Ventile,
+											Magnetventile, Klappen,
+											die sich öffnen und schließen.
+											Sie verursachen so was wie einen Wasservorhang mit Bildpunkten aus Wasser.
+											Wenn diese Bildpunkte herunterfallen,
+											können Sie darauf schreiben,
+											können Sie Muster, Bilder, Text anzeigen.
+											Und Sie können sich ihm nähern, und er wird sich öffnen,
+											um Sie durchspringen zu lassen,
+											wie Sie auf diesem Bild sehen können.
+									",Architecture that senses and responds,Carlo Ratti,15:46,"cities,design,entertainment,technology"
+"
+","
+","
+","
+","
+","
+",Architecture that senses and responds,Carlo Ratti,15:46,"cities,design,entertainment,technology"
+"
+											Well, we presented this to Mayor Belloch.
+											He liked it very much.
+											And we got a commission to design a building
+											at the entrance of the expo.
+											We called it Digital Water Pavilion.
+											The whole building is made of water.
+											There's no doors or windows,
+											but when you approach it,
+											it will open up to let you in.
+											(Music)
+											The roof also is covered with water.
+											And if there's a bit of wind,
+											if you want to minimize splashing, you can actually lower the roof.
+											Or you could close the building,
+											and the whole architecture will disappear,
+											like in this case.
+											You know, these days, you always get images during the winter,
+											when they take the roof down,
+											of people who have been there and said, ""They demolished the building.""
+											No, they didn't demolish it, just when it goes down,
+											the architecture almost disappears.
+											Here's the building working.
+											You see the person puzzled about what was going on inside.
+											And here was myself trying not to get wet,
+											testing the sensors that open the water.
+									","
+											Le presentamos esto al alcalde Belloch.
+											Le gustó mucho
+											y designó una comisión para diseñar el edificio
+											a la entrada de la Expo.
+											Lo llamamos Pabellón de Agua Digital.
+											Todo el edificio está hecho de agua.
+											No hay puertas ni ventanas,
+											pero cuando uno se aproxima
+											se abre para que uno pueda pasar.
+											(Música)
+											El techo también está cubierto de agua.
+											Y si hay un poco de viento,
+											si se quieren minimizar las salpicaduras, se baja el techo.
+											O se puede cerrar el edificio
+											y toda la arquitectura desaparece,
+											como en este caso.
+											Esos días siempre habrá alguien, en el invierno,
+											cuando bajan el techo,
+											alguien que estuvo allí y que dijo: ""Demolieron el edificio"".
+											No, no es que lo hayan demolido, sino que cuando se baja
+											casi toda la arquitectura desaparece.
+											Aquí está en funcionamiento.
+											Se ve a las personas intrigadas por lo que pasa dentro.
+											Y aquí estoy yo mismo tratando de no mojarme
+											al probar los sensores que abren el agua.
+									","
+											Apresentámos isto ao alcaide Belloch.
+											Ele gostou imenso.
+											E arranjámos uma encomenda
+para projetar um edifício
+											à entrada da exposição.
+											Chamámos-lhe Pavilhão de Água Digital.
+											Todo o edifício é feito de água.
+											Não tem portas nem janelas,
+											mas quando nos aproximamos,
+ele abre para nos deixar entrar.
+											(Música)
+											O telhado também está coberto de água.
+											E se houver um pouco de vento,
+											se quisermos minimizar os salpicos,
+podemos baixar o telhado
+											ou podemos fechar o edifício,
+											e toda a arquitetura desaparecerá,
+											como neste caso.
+											Ainda hoje, recebemos imagens, no inverno,
+											quando baixam o telhado,
+											de pessoas que dizem:
+											""Demoliram o edifício"".
+											Mas não o demoliram só que.
+quando ele baixa,
+											a arquitetura quase desaparece.
+											Este é o edifício em funcionamento.
+											Vemos uma pessoa curiosa com
+o que se está a passar lá dentro.
+											Aqui sou eu a tentar não me molhar,
+											a testar os sensores que abrem a água.
+									","
+											Biz bunu Belediye Başkanı Belloch'a sunduk.
+											Çok sevdi.
+											Ve exponun girişinde bir bina
+											tasarlamak için görevlendirildik.
+											Binayı Dijital Su Pavyonu diye adlandırdık.
+											Tüm bina sudan oluşmaktadır.
+											Kapısı veya penceresi yok,
+											fakat yaklaştığınızda
+											içeriye girebilmeniz için açılacaktır.
+											(Müzik)
+											Çatı da suyla kaplı olacaktır.
+											Ve eğer biraz rüzgar varsa
+											çatıyı biraz indirerek suyun sıçramasını önleyebilirsiniz.
+											Veya binayı kapatabilirsiniz,
+											ve bu durumdaki gibi
+											tüm mimari kaybolacaktır.
+											Bu kış günlerinde çatı indirildiğinde
+											oraya gidip binayı ziyaret eden insanların
+											bize yolladıkları e-maillerde ""Binayı yıktılar"" diye haber veriyorlar.
+											Hayır, binayı yıkmadılar, yalnız
+											çatıyı indirdiklerinde mimari nerdeyse kaybolmaktadır.
+											Burda binanın nasıl çalıştığını görebiliyorsunuz.
+											Burda bina içerisinde ne olduğunu öğrenmeye çalışan insanı görüyorsunuz.
+											Ve burda suyu çalıştıran sansörleri
+											denerken ıslanmamaya çalışıyorum.
+									","
+											Eh bien, nous l'avons présenté au maire Belloch.
+											Il a beaucoup aimé.
+											Et nous avons été commissionnés pour concevoir un bâtiment
+											à l'entrée de l'expo.
+											Nous l'avons appelé Pavillon de l'Eau Numérique.
+											L'ensemble du bâtiment est composé d'eau.
+											Il n'y a pas de portes ou fenêtres,
+											mais quand vous vous approchez,
+											il s'ouvre pour vous laisser entrer
+											(Musique)
+											Le toit est également recouvert d'eau.
+											Et si il y a un peu de vent,
+											si vous voulez minimiser les éclaboussures, vous pouvez en fait abaisser le toit.
+											Ou vous pouvez fermer le bâtiment,
+											et toute l'architecture va disparaître,
+											comme dans ce cas.
+											Vous savez, ces jours-ci, vous obtenez toujours des images pendant l'hiver
+											quand ils baissent le toit
+											des personnes qui y sont allés et ont dit : ""Ils ont démoli le bâtiment.""
+											Non, ils ne l'ont pas démoli, seulement au moment où il descend,
+											l'architecture disparaît presque.
+											Voici le bâtiment en fonction.
+											Vous voyez la personne perplexe quant à ce qui se passait à l'intérieur.
+											Et me voici essayant de ne pas me mouiller,
+											en testant les capteurs qui ouvrent l'eau.
+									","
+											Nun, wir haben das Bürgermeister Belloch vorgestellt.
+											Es hat ihm sehr gefallen.
+											Und wir bekamen den Auftrag ein Gebäude beim
+											Eingang der Expo zu entwerfen.
+											Wir nannten es den Digitalen Wasser Pavillion.
+											Das ganze Gebäude bestand aus Wasser.
+											Es gibt keine Türen oder Fenster,
+											aber wenn Sie sich ihm nähern,
+											wird es sich öffnen und Sie hinein lassen.
+											(Musik)
+											Das Dach war ebenfalls mit Wasser bedeckt.
+											Und wenn es windig ist,
+											wenn Sie das Spritzen verringern wollen, können Sie sogar das Dach herunter lassen.
+											Oder Sie könnten das Gebäude schließen
+											und die ganze Architektur wird, wie in diesem Fall,
+											verschwinden.
+											Wissen Sie, dieser Tage, wenn Sie das Dach herunterfahren,
+											bekommen Sie Bilder von Menschen,
+											die da waren und sagen, ""Sie haben das Gebäude zerstört.""
+											Nein, sie haben das Gebäude nicht zerstört, es ist nur so,
+											dass die Architektur beinahe verschwindet.
+											Hier sehen Sie, wie das Gebäude funktioniert.
+											Sie sehen die Person, die sich fragt, was im Inneren passiert.
+											Und hier sehen Sie mich, als ich versuchte beim
+											Testen der Sensoren, die das Wasser öffneten, nicht nass zu werden.
+									",Architecture that senses and responds,Carlo Ratti,15:46,"cities,design,entertainment,technology"
+"
+","
+","
+","
+","
+","
+",Architecture that senses and responds,Carlo Ratti,15:46,"cities,design,entertainment,technology"
+"
+											Well, I should tell you now what happened one night
+											when all of the sensors stopped working.
+											But actually that night, it was even more fun.
+											All the kids from Zaragoza came to the building,
+											because the way of engaging with the building became something different.
+											Not anymore a building that would open up to let you in,
+											but a building that would still make cuts and holes through the water,
+											and you had to jump without getting wet.
+									","
+											Creo que debería contarles lo que sucedió una noche
+											cuando todos los sensores dejaron de funcionar.
+											Esa noche fue en verdad incluso más divertida.
+											Todos los niños de Zaragoza vinieron al edificio
+											porque la manera de interactuar había cambiado un poco.
+											Ya no era un edificio que se abría para dejarte pasar,
+											sino un edificio que seguía haciendo cortes y agujeros de agua
+											y uno tenía que saltar para no mojarse.
+									","
+											Tenho que contar o que aconteceu uma noite
+											quando todos os sensores
+deixaram de funcionar.
+											Nessa noite, ainda foi mais divertido.
+											Todos os miúdos de Saragoça
+vieram ao edifício,
+											porque o modo de interagir 
+com o edifício ficou diferente.
+											Já não era um edifício que se abria
+para nos deixar entrar,
+											mas um edifício que fazia cortes
+e buracos na água,
+											e tínhamos de saltar sem nos molharmos.
+									","
+											Bir gece sensörler çalışmadığında
+											ne olduğunu anlatmalıyım.
+											Aslında o gece daha da eğlenceliydi.
+											Zaragoza'daki tüm gençler binaya geldi
+											çünkü bina ile etkileşimleri değişmişti.
+											Bina artık girmeniz için açılmıyordu,
+											fakat hala su perdesinde delikler ve yarıklar oluşuyorsu,
+											ve girebilmek için ıslanmadan içerisinden zıplamanız gerekiyordu.
+									","
+											Eh bien, je dois vous dire maintenant ce qui s'est passé une nuit
+											lorsque tous les capteurs ont cessé de fonctionner.
+											Mais en fait cette nuit-là, ça a été encore plus amusant.
+											Tous les enfants de Saragosse sont venus au bâtiment,
+											parce que la façon de s'engager avec le bâtiment était devenue quelque chose de différent.
+											Ce n'était plus un bâtiment qui s'ouvrait pour vous laisser entrer,
+											mais un bâtiment qui faisait quand même des coupes et des trous dans l'eau,
+											et vous deviez sauter sans vous mouiller.
+									","
+											Nun, sollte ich Ihnen erzählen, was eines Nachts passierte
+											als alle Sensoren aufhörten zu funktionieren.
+											Aber eigentlich war es in dieser Nacht ein noch größerer Spaß.
+											Alle Kinder aus Zaragoza kamen zu dem Gebäude,
+											denn die Art wie sie mit dem Gebäude spielten war ganz anders.
+											Nicht länger ein Gebäude, das sich öffnen würde um Sie ein zu lassen,
+											aber ein Gebäude, das immer noch Pausen und Löcher im Wasser hatte,
+											man musste jetzt springen ohne nass zu werden.
+									",Architecture that senses and responds,Carlo Ratti,15:46,"cities,design,entertainment,technology"
+"
+","
+","
+","
+","
+","
+",Architecture that senses and responds,Carlo Ratti,15:46,"cities,design,entertainment,technology"
+"
+											(Video) (Crowd Noise)
+									","
+											(Video) (Ruido de gente)
+									","
+											(Vídeo)
+									","
+											(Video) (Kalabalık gürültüsü)
+									","
+											(Vidéo) (bruit de la foule)
+									","
+											(Video) (Wasser und Menschenrufe)
+									",Architecture that senses and responds,Carlo Ratti,15:46,"cities,design,entertainment,technology"
+"
+","
+","
+","
+","
+","
+",Architecture that senses and responds,Carlo Ratti,15:46,"cities,design,entertainment,technology"
+"
+											And that was, for us, was very interesting,
+											because, as architects, as engineers, as designers,
+											we always think about how people will use the things we design.
+											But then reality's always unpredictable.
+											And that's the beauty of doing things
+											that are used and interact with people.
+									","
+											Y para nosotros eso fue muy interesante
+											porque como arquitectos, ingenieros, diseñadores,
+											siempre pensamos en el uso que la gente le dará a nuestros diseños.
+											Pero luego la realidad siempre es impredecible.
+											Y ésa es la belleza de hacer cosas
+											para interactuar, que la gente usa.
+									","
+											Para nós, foi muito interessante,
+											porque, enquanto arquitetos,
+engenheiros, designers,
+											pensamos sempre em como as pessoas
+vão usar as coisas que desenhamos.
+											Mas a realidade é sempre imprevisível.
+											Essa é a beleza de fazer coisas
+											que são usadas e interagem com as pessoas.
+									","
+											Bu bizim için çok ilginçti,
+											çünkü mimarlar, mühendisler ve tasarımcılar olarak
+											insanların tasarladığımız şeyleri nasıl kullanacağını hep düşünürüz.
+											Ancak gerçekte olacak olan şeylerin tahmini zordur.
+											Bu da insanlar tarafında kullanılan
+											ve onlarla etkileşimde bulunan şeyleri yapmanın güzelliğidir.
+									","
+											Et ça, pour nous, c'était très intéressant,
+											car en tant qu'architectes, ingénieurs, designers,
+											nous pensons toujours à la façon dont le gens utiliseront les choses que nous concevons.
+											Mais ensuite la réalité est toujours imprévisible.
+											Et c'est ce qui est beau dans le fait de faire des choses
+											qui sont utilisées et qui interagissent avec les gens.
+									","
+											Und das war, für uns, sehr spannend,
+											denn als Architekten, Ingenieure, als Designer,
+											denken wir immer darüber nach, wie die Menschen, die Dinge nutzen, die wir entwerfen.
+											Aber die Realität ist immer unvorhersehbar.
+											Und das ist das Schöne daran, Dinge zu kreieren,
+											die benutzt werden und mit den Menschen interagieren.
+									",Architecture that senses and responds,Carlo Ratti,15:46,"cities,design,entertainment,technology"
+"
+","
+","
+","
+","
+","
+",Architecture that senses and responds,Carlo Ratti,15:46,"cities,design,entertainment,technology"
+"
+											Here is an image then of the building
+											with the physical pixels, the pixels made of water,
+											and then projections on them.
+											And this is what led us to think about
+											the following project I'll show you now.
+											That's, imagine those pixels could actually start flying.
+											Imagine you could have small helicopters
+											that move in the air,
+											and then each of them with a small pixel in changing lights —
+											almost as a cloud that can move in space.
+											Here is the video.
+									","
+											Ésta es una imagen del edificio
+											con los píxeles físicos, los píxeles de agua,
+											y de proyecciones sobre ellos.
+											Y esto es lo que nos llevó a pensar
+											en el siguiente proyecto que les voy a mostrar.
+											Imaginen que esos píxeles pudieran empezar a volar.
+											Imaginen que pudieran tener pequeños helicópteros
+											en el aire
+											y que cada uno tuviese un pequeño píxel que cambia de color
+											como si fuera una nube que se mueve en el espacio.
+											Éste es el video.
+									","
+											Esta é uma imagem do edifício na altura
+											com os píxeis físicos,
+os píxeis feitos de água,
+											e depois as projeções sobre eles.
+											Isto é o que nos leva a pensar no projeto
+											que vos vou mostrar agora.
+											Imaginem que estes píxeis
+conseguiam começar a voar.
+											Imaginem que podiam ter
+pequenos helicópteros
+											que se movem no ar,
+											e cada um deles com um pequeno pixel
+com luzes que vão mudando,
+											quase como uma nuvem
+que se consegue mover no espaço.
+											Aqui está o vídeo.
+									","
+											Bu fiziksel pkselleri olan, sudan oluşan pikselleri olan
+											ve piksellerin üzerine projeksiyon yapılmış
+											binanın bir görüntüsüdür.
+											Ve bu da size şimdi göstereceğim
+											proje hakkında düşünmemizi sağlamıştır.
+											Bu piksellerin uçabildiğini hayal edin.
+											Havada hareket edebilen
+											küçük helikopterlere sahip olduğunuzu düşünün,
+											ve her birinde değişebilen ışıkları olan bir pikselin olduğunu düşünün —
+											boşlukta hareket edebilen bir bulut gibi.
+											Videosu burda.
+									","
+											Voici une image du bâtiment à l'époque
+											avec les pixels physiques, les pixels constitués d'eau,
+											et puis des projections dessus.
+											Et c'est ce qui nous a amenés à réfléchir
+											au projet suivant que je vais vous montrer maintenant.
+											C'est, imaginez si ces pixels pouvaient en fait se mettre à voler.
+											Imaginez si vous pouviez avoir de petits hélicoptères
+											qui se déplacent dans l'air,
+											et puis chacun d'eux avec un petit pixel dans des lumières qui changent —
+											presque comme un nuage qui peut se déplacer dans l'espace.
+											Voici la vidéo.
+									","
+											Hier ist nun ein Bild des Gebäudes
+											mit den physischen Bildpunkten, den Bildpunkten aus Wasser
+											und die Projektionen darauf.
+											Und dies ist es, was uns darauf brachte
+											über das folgende Projekt nachzudenken, das ich Ihnen jetzt zeige.
+											Stellen Sie sich vor diese Bildpunkte könnten wirklich anfangen zu fliegen.
+											Stellen Sie sich vor, Sie könnten kleine Hubschrauber haben,
+											die durch die Luft fliegen,
+											und jeder von Ihnen mit einem kleinen Bildpunkt mit wechselndem Licht –
+											fast so wie eine Wolke die sich durch den Raum bewegen kann.
+											Hier ist das Video.
+									",Architecture that senses and responds,Carlo Ratti,15:46,"cities,design,entertainment,technology"
+"
+","
+","
+","
+","
+","
+",Architecture that senses and responds,Carlo Ratti,15:46,"cities,design,entertainment,technology"
+"
+											(Music)
+									","
+											(Música)
+									","
+											(Vídeo)
+									","
+											(Müzik)
+									","
+											(Musique)
+									","
+											(Musik)
+									",Architecture that senses and responds,Carlo Ratti,15:46,"cities,design,entertainment,technology"
+"
+","
+","
+","
+","
+","
+",Architecture that senses and responds,Carlo Ratti,15:46,"cities,design,entertainment,technology"
+"
+											So imagine one helicopter,
+											like the one we saw before,
+											moving with others,
+											in synchrony.
+											So you can have this cloud.
+											You can have a kind of flexible screen or display, like this —
+											a regular configuration in two dimensions.
+											Or in regular, but in three dimensions,
+											where the thing that changes is the light,
+											not the pixels' position.
+											You can play with a different type.
+											Imagine your screen could just appear
+											in different scales or sizes,
+											different types of resolution.
+											But then the whole thing can be
+											just a 3D cloud of pixels
+											that you can approach and move through it
+											and see from many, many directions.
+											Here is the real Flyfire
+											control and going down to form the regular grid as before.
+											When you turn on the light, actually you see this. So the same as we saw before.
+											And imagine each of them then controlled by people.
+											You can have each pixel
+											having an input that comes from people,
+											from people's movement, or so and so.
+									","
+											Imaginen un helicóptero,
+											como el que vimos antes,
+											que se mueve con otros
+											en sincronía.
+											Podríamos formar esta nube,
+											una especie de pantalla flexible como ésta
+											con una configuración normal en dos dimensiones.
+											O normal, pero en tres dimensiones,
+											en la que lo que cambia es la luz,
+											no la posición de los píxeles.
+											Se puede jugar con un tipo diferente.
+											Imaginen que la pantalla apareciera
+											en distintas escalas y tamaños,
+											en distintos tipos de resolución.
+											Y que luego todo eso pudiera
+											una nube de píxeles en 3D
+											a la que uno puede acercarse, y atravesar,
+											y ver desde muy diversos ángulos.
+											Ésta es la verdadera Flyfire
+											controlada, yendo hacia abajo para formar una V, como antes.
+											Cuando se enciende la luz, se ve esto. Lo mismo que vimos antes.
+											Imaginen cada uno de ellos controlado por una persona.
+											Podemos tener cada pixel
+											con una entrada que viene de personas,
+											del movimiento de las personas, etc., etc.
+									","
+											Imaginem um helicóptero,
+											como aquele que vimos antes,
+											movendo-se com outros,
+											em sincronia,
+											de forma a termos esta nuvem.
+											Podemos ter uma espécie 
+de ecrã flexível ou display, assim
+											uma configuração regular 
+em duas dimensões.
+											Ou regular, mas em três dimensões,
+											em que a coisa que muda é a luz,
+											e não a posição dos píxeis.
+											Podemos brincar com um diferente tipo.
+											Imaginem que o vosso ecrã podia aparecer
+											em diferentes proporções ou tamanhos,
+											diferentes tipos de resolução.
+											Mas podia também ser só
+uma nuvem 3D de píxeis
+											da qual nos podemos aproximar
+e mover nela
+											e ver de muitas direções.
+											Este é o verdadeiro controlo Flyfire
+											a baixar para formar a grelha como antes.
+											Quando se liga a luz, vemos isto,
+o mesmo que vimos antes.
+											Imaginem que cada um deles
+é controlado por uma pessoa.
+											Podemos ter cada píxel com um input
+que vem das pessoas,
+											do movimento das pessoas,
+e por aí em diante.
+									","
+											Hayalinizde, daha önce gördüğümüz gibi
+											benzer örnekleriyle birlikte
+											senkronize olarak hareket eden
+											bir helikopteri canlandırın.
+											Böyle bir bulut elde edebiliyorsunuz.
+											Bir tür esnek ekranınız olabilir, böyle —
+											iki boyutlu düzenli bir konfigürasyon.
+											Veya düzenli fakat üç boyutlu,
+											burda değişen şey ışıktır,
+											piksellerin konumu değil.
+											Farklı bir tür ile oynayabilirsiniz.
+											Ekranınızın aniden
+											farklı ölçeklerde veya boyutlarda,
+											çeşitli çözünürlüklerde belirebileceğini düşünün.
+											Fakat tüm bunlar
+											yaklaşabileceğiniz, içerisinden geçebileceğiniz
+											ve bir çok açıdan görebileceğiniz
+											3 boyutlu bir piksel bulutu.
+											Bu gerçekteki Flyfire
+											daha önce gördüğünüz düzenli V şeklini oluşturmak için aşağıya inmektedir.
+											Işığı açtığınızda aslını bunu görüyorsunuz. Yani daha önce görgüğümüzün aynısı.
+											Ve her birinin insanlar tarafından idare edildiğini düşünün.
+											Her piksel,
+											insanların hareketlerinden veya dahasıtla
+											yapılan girdilerle kontrol edilebilir.
+									","
+											Alors imaginez un hélicoptère,
+											comme celui que nous venons de voir,
+											se déplaçant avec les autres,
+											en synchronie.
+											Alors vous pouvez avoir ce nuage.
+											Vous pouvez avoir une sorte d'écran ou d'affichage flexible, comme celui-ci -
+											une configuration habituelle en deux dimensions.
+											Ou habituelle, mais en trois dimensions,
+											où la chose qui change, c'est la lumière,
+											pas la position des pixels.
+											Vous pouvez jouer avec un type différent.
+											Imaginez si votre écran pouvait apparaître
+											sous des échelles et des tailles différentes,
+											différentes résolutions.
+											Mais alors tout ça peut n'être
+											qu'un nuage de pixels 3D
+											que vous pouvez approcher et traverser
+											et voir sous de nombreux angles différents.
+											Voici le véritable contrôle du Flyfire
+											qui descend pour former le V habituel comme avant.
+											Quand on allume la lumière, en fait on voit ça, la même chose que ce que nous avons vu avant.
+											Et imaginez que chacun d'entre eux soit ensuite contrôlé par les gens.
+											Vous pouvez faire que chaque pixel
+											reçoive une commande provenant des gens,
+											des mouvements des gens, etc.
+									","
+											Stellen Sie sich einen Hubschrauber vor,
+											wie den, den Sie vorhin gesehen haben,
+											der sich mit anderen bewegt,
+											vollkommen synchron.
+											Sie können diese Wolke haben.
+											Sie können eine Art flexiblen Bildschirm oder Anzeige haben, wie diese –
+											eine gleichmäßige Formation in zwei Dimensionen.
+											Oder unregelmäßig aber in drei Dimensionen,
+											bei der das, was sich ändert, das Licht ist,
+											nicht die Position der Bildpunkte.
+											Sie können mit verschiedenen Arten spielen.
+											Stellen Sie sich vor der Bildschirm könnte einfach
+											in unterschiedlichen Formaten oder Größen erscheinen,
+											in unterschiedlichen Auflösungen.
+											Aber dann könnte das ganze nur
+											eine 3D Wolke aus Bildpunkten sein,
+											auf die Sie zugehen können und durch die Sie sich hindurch bewegen,
+											die sie aus vielen, vielen Richtungen betrachten können.
+											Hier sehen Sie eine echte Flyfire-Steuerung,
+											die herabsinkt um wie zuvor ein gleichmäßiges V zu formen.
+											Wenn Sie das Licht einschalten, sieht es so aus. Also genauso, wie wir es vorher gesehen haben.
+											Stellen Sie sich vor, dass jedes einzelne von Menschen gesteuert wird.
+											Es könnte jeder einzelne Bildpunkt
+											einen Impuls haben, der von Menschen kommt,
+											von den Bewegungen der Menschen oder dergleichen.
+									",Architecture that senses and responds,Carlo Ratti,15:46,"cities,design,entertainment,technology"
+"
+","
+","
+","
+","
+","
+",Architecture that senses and responds,Carlo Ratti,15:46,"cities,design,entertainment,technology"
+"
+											I want to show you something here for the first time.
+											We've been working with Roberto Bolle,
+											one of today's top ballet dancers —
+											the étoile at Metropolitan in New York
+											and La Scala in Milan —
+											and actually captured his movement in 3D
+											in order to use it as an input for Flyfire.
+											And here you can see Roberto dancing.
+											You see on the left the pixels,
+											the different resolutions being captured.
+											It's both 3D scanning in real time
+											and motion capture.
+											So you can reconstruct a whole movement.
+											You can go all the way through.
+											But then, once we have the pixels, then you can play with them
+											and play with color and movement
+											and gravity and rotation.
+											So we want to use this as one of the possible inputs
+											for Flyfire.
+									","
+											Quiero mostrarles algo por primera vez.
+											Hemos estado trabajando con Roberto Bolle
+											-uno de los mejores bailarines de ballet de hoy,
+											la estrella del Metropolitan de Nueva York
+											y de La Scala de Milán-
+											para capturar sus movimientos en 3D
+											y usarlos como entrada para el Flyfire.
+											Aquí podemos ver a Roberto bailando.
+											A la izquierda ven los píxeles,
+											la captura en distintas resoluciones.
+											Es tanto digitalización 3D en tiempo real
+											como captura de movimiento.
+											Puede reconstruirse todo el movimiento.
+											Se puede recorrer todo el camino.
+											Y una vez que tenemos los píxeles podemos jugar con ellos,
+											con el color y el movimiento,
+											con la gravedad y la rotación.
+											Queremos usar esto como una posible entrada
+											para el Flyfire.
+									","
+											Quero mostrar-vos uma coisa
+aqui pela primeira vez.
+											Temos estado a trabalhar
+com Roberto Bolle,
+											um dos maiores bailarinos do nosso tempo,
+											o bailarino principal no
+Metropolitan de Nova Iorque
+											e no La Scala em Milão.
+											Captámos os seus movimentos em 3D
+											usando-os como input para o Flyfire.
+											E aqui podem ver o Roberto a dançar.
+											Veem à esquerda os píxeis,
+											as diferentes resoluções a ser captadas.
+											É simultaneamente scanning 
+3D em tempo real
+											e captura de movimentos.
+											Por isso podemos reconstruir
+um movimento inteiro.
+											E podemos ir até ao fim.
+											Mas, quando temos os píxeis,
+podemos brincar com eles
+											e brincar com cores, movimento,
+											gravidade e rotação.
+											Por isso queremos usar isto
+como um dos possíveis inputs para o Flyfire.
+									","
+											Burada ilk defa sizin huzurunuzda bişey göstereceğim.
+											Günümüzün önde gelen bale danscılarından biriyle,
+											'Roberto Bolle ile çalıştık —
+											New York'taki Metropolitan
+											ve Milan'daki La Scala'daki étoile —
+											ve Flyfire'da kullanmak maksadıyla
+											hareketlerini 3 boyutlu olarak yakaladık.
+											Burada Roberto'yu dans ederken görebiliyorsunuz.
+											Solda farklı çözünürlüklerde yakalanan
+											pikselleri görüyorsunuz.
+											Hem 3 boyutlu olarak gerçek zamanlı tarama
+											hem de hareket yakalama kullanılmıştır.
+											Dolaysıyla tüm hareketi başından sonuna kadar
+											yeniden kurabiliyorsunuz.
+											Pikselleri elde ettikten sonra onlarla
+											ve renklerle ve hareketle
+											ve yer çekimi ve rotasyonla oynamak mümkündür.
+											Dolaysıyle bunu Flyfire için olası bir girdi
+											olarak kullanmak istiyoruz.
+									","
+											Je veux vous montrer une chose ici pour la première fois.
+											Nous avons travaillé avec Roberto Bolle.
+											un des meilleurs danseurs de ballet d'aujourd'hui —
+											danseur étoile au Metropolitan de New York
+											et à la Scala de Milan —
+											et avons en fait capturé son mouvement en 3D
+											pour l'utiliser comme information pour le Flyfire.
+											Et ici vous pouvez voir Roberto danser.
+											Vous voyez les pixels à gauche,
+											alors que les différentes résolutions sont capturées.
+											C'est à la fois un scan 3D en temps réel
+											et une capture de mouvement.
+											On peut donc reconstruire un mouvement entier.
+											On peut faire tout ça.
+											Mais ensuite, une fois que nous avons les pixels, nous pouvons jouer avec
+											et jouer avec la couleur et le mouvement
+											et la gravité et la rotation.
+											Nous voulons donc l'utiliser comme une des sources d'informations
+											à envoyer au Flyfire.
+									","
+											Ich möchte Ihnen hier etwas zu allererst zeigen.
+											Wir haben mit Roberto Bolle gearbeitet,
+											einem der besten Balletttänzer unserer Zeit –
+											dem Étoile am Metropolitan Theater in New York
+											und der Scala in Mailand –
+											wir haben seine Bewegungen in 3D aufgenommen
+											um sie als Impuls für das Flyfire zu nutzen.
+											Hier sehen Sie Roberto tanzen.
+											Auf der linken Seite sehen Sie die Bildpunkte,
+											die verschiedenen eingefangenen Eindrücke.
+											Es ist gleichzeitig ein Echtzeit-3D-Scan
+											und eine Bewegungsaufnahme.
+											So dass Sie die ganze Bewegung nachvollziehen können.
+											Sie können das die ganze Zeit machen.
+											Aber dann, wenn wir einmal alle Bildpunkte haben, können Sie damit spielen
+											und mit Farbe Bewegung
+											Schwerkraft und Drehbewegung spielen.
+											Das möchten wir als einen möglichen Impuls
+											für das Flyfire nutzen.
+									",Architecture that senses and responds,Carlo Ratti,15:46,"cities,design,entertainment,technology"
+"
+","
+","
+","
+","
+","
+",Architecture that senses and responds,Carlo Ratti,15:46,"cities,design,entertainment,technology"
+"
+											I wanted to show you the last project we are working on.
+											It's something we're working on for the London Olympics.
+											It's called The Cloud.
+											And the idea here is, imagine, again,
+											we can involve people
+											in doing something and changing our environment —
+											almost to impart what we call cloud raising —
+											like barn raising, but with a cloud.
+											Imagine you can have everybody make a small donation for one pixel.
+											And I think what is remarkable
+											that has happened over the past couple of years
+											is that, over the past couple of decades,
+											we went from the physical world to the digital one.
+											This has been digitizing everything, knowledge,
+											and making that accessible through the Internet.
+									","
+											Quería mostrarles el último proyecto en el que estamos trabajando.
+											Es algo para los Juegos Olímpicos de Londres.
+											Se llama La Nube.
+											Y la idea es, imaginen otra vez,
+											que pudiéramos involucrar a la gente
+											para que haga algo y cambie nuestro entorno
+											-casi como un criadero de nubes-
+											como la cría de granero, pero con una nube.
+											Imaginen que pudiéramos hacer que todos donaran un poquito para un píxel.
+											Y creo que lo notable
+											que ha sucedido en los últimos años
+											es que, en las últimas dos décadas,
+											pasamos del mundo físico al mundo digital.
+											Hemos digitalizado todo, como el conocimiento,
+											y es accesible a través de Internet.
+									","
+											O último projeto
+em que estamos a trabalhar
+											é uma coisa para 
+os Jogos Olímpicos de Londres.
+											Chama-se ""A Nuvem"".
+											E a ideia aqui é, outra vez,
+											podermos envolver pessoas
+											a fazer algo e a mudar o nosso ambiente,
+											participar no que chamamos
+construção de nuvens,
+											como um esforço coletivo duma comunidade,
+mas com uma nuvem.
+											Imaginem que conseguimos que toda a gente
+faça uma pequena doação para um píxel.
+											Penso que o notável,
+e que aconteceu nos últimos anos,
+											é que, ao longo das últimas décadas,
+											passámos de um mundo físico 
+para um mundo digital.
+											Temos digitalizado tudo,
+como o conhecimento,
+											e está tudo acessível
+através da Internet.
+									","
+											Size üzerinde en son çaloştığımız projeyi göstermek istiyorum.
+											Londra'daki Olimpiyatlar için üzerinde çalıştığımız bişey.
+											Adı Bulut.
+											Burda fikir de insanları
+											katarak
+											birşeyleri yaparken çevremizi değiştirmeleridir. —
+											bulut kaldırma diye adlandırdığımız olay —
+											ahır inşaa etmek gibi fakat bu durumda bulut vardır.
+											Herkesin bir piksel için katkıda bulunduğunu düşünün.
+											Ve son yıllarda gerçekleşen
+											ilginç olduğunu düşündüğün şey
+											ise, son on yıllarda
+											fiziksel dünyadan sanal dünyaya geçiş yapmış olmamızdır.
+											Tüm bilgilerimizi dijitize ettik,
+											ve bu bilgilere İnternet aracılığıyla ulaşılmasını sağladık.
+									","
+											Je voulais vous montrer le dernier projet sur lequel nous travaillons.
+											C'est une chose sur laquelle nous travaillons pour les jeux olympiques de Londres.
+											Ça s'appelle le nuage.
+											Et l'idée ici est que imaginez encore une fois,
+											que nous pouvons impliquer les gens
+											pour qu'ils fassent quelque chose pour changer notre environnement —
+											presque pour communiquer ce que nous appelons une construction de nuage —
+											comme une construction de grange, mais avec un nuage.
+											Imagines que vous pouvez faire que tout le monde donne quelque chose pour un pixel.
+											Et je pense que ce qui est remarquable
+											et qui s'est produit ces deux dernières années
+											c'est que, au cours des 20 dernières années,
+											nous sommes passés du monde physique au monde numérique.
+											Tout a été numérisé, le savoir,
+											et tout a été rendu accessible par internet.
+									","
+											Ich möchte Ihnen das neueste Projekt zeigen an dem wir arbeiten.
+											Es ist etwas, an dem wir für die Olympischen Spiele in London arbeiten.
+											Es nennt sich The Cloud – die Wolke.
+											Die Idee ist wiederum, stellen Sie sich das vor, das
+											wir wieder die Menschen mit einbeziehen
+											um etwas zu tun und die Umwelt zu verändern –
+											fast so etwas, wie wir es nennen, Wolkenbewegung einzubauen
+											wie man ein Scheunentor bewegt, aber mit einer Wolke.
+											Stellen Sie sich vor, dass jeder eine kleine Spende für einen Bildpunkt geben kann.
+											Ich denke, dass das Bemerkenswerte der
+											der Geschehnisse letzten Jahre,
+											der letzten Jahrzehnte ist, dass wir von einer
+											physikalischen zu einer digitalen Welt gewechselt sind.
+											Das hat alles digitalisiert, Wissen,
+											und macht es durch das Internet zugänglich.
+									",Architecture that senses and responds,Carlo Ratti,15:46,"cities,design,entertainment,technology"
+"
+","
+","
+","
+","
+","
+",Architecture that senses and responds,Carlo Ratti,15:46,"cities,design,entertainment,technology"
+"
+											Now today, for the first time —
+											and the Obama campaign showed us this —
+											we can go from the digital world,
+											from the self-organizing power of networks,
+											to the physical one.
+											This can be, in our case,
+											we want to use it for designing and doing a symbol.
+											That means something built in a city.
+											But tomorrow it can be,
+											in order to tackle today's pressing challenges —
+											think about climate change or CO2 emissions —
+											how we can go from the digital world to the physical one.
+											So the idea that we can actually involve people
+											in doing this thing together, collectively.
+									","
+											Hoy, por primera vez
+											-y la campaña de Obama nos lo mostró-,
+											podemos pasar del mundo digital,
+											del poder auto-organizado de las redes,
+											al mundo físico.
+											En nuestro caso, esto puede
+											que queramos usarlo para diseñar y hacer un símbolo.
+											Eso significaría algo construido en una ciudad.
+											Pero mañana puede ser
+											para abordar los desafíos de hoy:
+											piensen en el cambio climático o las emisiones de CO2.
+											¿Cómo pasar del mundo digital al mundo físico?
+											La idea es que podemos hacer que la gente se involucre
+											en hacer esto juntos, de forma colectiva.
+									","
+											Hoje, pela primeira vez
+											— e a campanha de Obama
+mostrou-nos isto —
+											podemos passar do mundo digital,
+											do poder auto-organizador das redes,
+											para o mundo físico.
+											Isto pode significar, no nosso caso,
+											usá-lo para o design
+e construir um símbolo.
+											Isto é, uma coisa construída numa cidade.
+											Mas amanhã poderá ser,
+											com vista a fazer face aos desafios
+que hoje se aproximam
+											— pensem na alteração climática
+ou nas emissões de CO2 —
+											como podemos passar do mundo digital
+para o mundo físico.
+											A ideia de que podemos envolver as pessoas
+											para construir isto, coletivamente.
+									","
+											Bugün ilk defa —
+											ve bunu da bize Obama'nın seçim kampanyası göstermiştir —
+											dijital dünyadan,
+											ağların kendi kendilerini düzenleme gücünden,
+											fiziksel olanına geçiş yapıyoruz.
+											Bizim durumumuzda ise,
+											bie sembolü tasarlamak ve yapmak için kullanmak istiyoruz.
+											Bu bir şehirde inşaa edilen birşey anlamına gelmektedir.
+											Fakat yarın,
+											günümüzde bizi bekleyen mücadeleri aşabilmek maksadıyla —
+											iklim değişiklikleri veya CO2 yayılımlarını düşünün —
+											dijital dünyadan fiziksel dünyaya nasıl geçiş yapacağımız olabilir.
+											İnsanları toplu bir şekilde
+											bunu yapabilmeleri için bir fikir oluştu.
+									","
+											Aujourd'hui, pour la première fois -
+											et la campagne d'Obama nous l'a montré -
+											nous pouvons passer du monde numérique,
+											du pouvoir des réseaux à s'auto-organiser
+											au monde physique.
+											Dans notre cas, cela peut être
+											que nous voulons l'utiliser pour concevoir et faire un symbole.
+											Cela veut dire quelque chose de construit dans une ville.
+											Mais demain, cela peut être,
+											pour s'attaquer aux problèmes qui s'annoncent —
+											pensez au changement climatique ou aux émissions de CO2 —
+											comment nous pouvons passer du monde numérique au monde physique.
+											D'où l'idée que nous pouvons vraiment impliquer les gens
+											pour faire cette chose ensemble, collectivement.
+									","
+											Heutzutage, können wir zum ersten Mal –
+											und die Kampagne Obamas hat das gezeigt –
+											können wir von der digitalen Welt,
+											von den sich selbstorganisierenden Kräften der Netzwerke
+											zu der physikalischen Welt wechseln.
+											Das kann, in unserem Fall sein,
+											dass wir es benutzen um zu Designen und ein Symbol zu schaffen.
+											Das heißt etwas was in der Stadt gebaut ist.
+											Aber morgen kann es,
+											um uns den kommenden Herausforderungen zu stellen –
+											denken Sie da an den Klimawandel oder die CO2 Emissionen –
+											wie können wir dann von der digitalen Welt zur physikalischen wechseln.
+											Die Idee ist also, dass wir tatsächlich die Menschen mit einbeziehen,
+											in dem sie Dinge zusammen, kollektiv tun.
+									",Architecture that senses and responds,Carlo Ratti,15:46,"cities,design,entertainment,technology"
+"
+","
+","
+","
+","
+","
+",Architecture that senses and responds,Carlo Ratti,15:46,"cities,design,entertainment,technology"
+"
+											The cloud is a cloud, again, made of pixels,
+											in the same way as the real cloud
+											is a cloud made of particles.
+											And those particles are water,
+											where our cloud is a cloud of pixels.
+											It's a physical structure in London, but covered with pixels.
+											You can move inside, have different types of experiences.
+											You can actually see from underneath,
+											sharing the main moments
+											for the Olympics in 2012 and beyond,
+											and really using it as a way to connect with the community.
+											So both the physical cloud in the sky
+											and something you can go to the top [of],
+											like London's new mountaintop.
+											You can enter inside it.
+											And a kind of new digital beacon for the night —
+											but most importantly,
+											a new type of experience for anybody who will go to the top.
+									","
+											La nube es una nube, de nuevo, hecha de píxeles
+											de la misma manera que la nube real
+											es una nube de partículas.
+											Y esas partículas son agua,
+											mientras que en nuestra nube son píxeles.
+											Es una estructura física en Londres, pero cubierta de píxeles.
+											Uno puede moverse por dentro, tener distintas experiencias.
+											Puede verse desde abajo, servir para
+											compartir los momentos principales
+											de los Juegos Olímpicos de 2012 y aún más,
+											y puede usarse como una forma de conexión con la comunidad.
+											Así, es tanto una nube física del cielo
+											como algo a lo que uno puede subir,
+											como una nueva cima de Londres.
+											Uno puede entrar ahí
+											como si fuera un nuevo faro digital en la noche,
+											pero lo más importante es que
+											será una nueva experiencia para cualquiera que vaya a la cima.
+									","
+											A nuvem é uma nuvem,
+outra vez, feita de píxeis,
+											da mesma forma que uma nuvem verdadeira
+											é uma nuvem feita de partículas.
+											Essas partículas são água,
+											enquanto a nossa nuvem
+é uma nuvem de píxeis.
+											É uma estrutura física em Londres,
+mas coberta de píxeis.
+											Podemos mover-nos lá dentro,
+ter diferentes tipos de experiências.
+											Podemos até ver por baixo,
+											partilhando os principais momentos
+											dos Olímpicos de 2012 e anteriores,
+											e usando-a como uma forma
+de interagir com a comunidade.
+											Tanto a nuvem física no céu
+											e uma coisa a que podemos subir,
+											como o novo cume de Londres.
+											Podemos entrar.
+											E uma espécie de farol digital
+para a noite.
+											Mas, mais importante ainda,
+											um novo tipo de experiência
+para quem for até ao cimo.
+									","
+											Nasıl gerçek bir bulut
+											partiküllerden oluşmuşsa
+											bu bulut piksellerden oluşan bir buluttur,
+											Ve o partiküller su partikülleriyken
+											bizim bulutumuz piksellerden oluşan bir buluttur.
+											Londra'da piksellerle kaplı fiziksel bir yapısır.
+											İçerisinde dolaşıp değişik türde tecrübeler yaşayabilir.
+											Aşağıdan bakarak
+											2012 Olimpiyatlarının ve sonrasında düzenlencek olayların
+											en önemli anlarını paylaşabilirsiniz,
+											ve bireylerin toplumla bağlantı kurmak için ciddi bir araç olabilir.
+											Dolaysıtla hem gökyüzünde bulut olacak
+											hem de yukarısına kadar çıkılması mümkün olacaktır,
+											Londra'nın yeni dağı gibi.
+											İçine girebiliyorsun.
+											Ve geceleyin yeni bir tür kent simgesi olacak —
+											fakat en önemlisi,
+											yukarıya kadar çıkacak olan herkes için yeni bir tecrübe olacaktır.
+									","
+											Le nuage est un nuage, une fois encore, fait de pixels
+											de la même façon que le vrai nuage
+											est un nuage fait de particules.
+											Et ces particules sont de l'eau,
+											alors que notre nuage est un nuage de pixels.
+											C'est une structure physique à Londres, mais couverte de pixels.
+											Vous pouvez vous déplaçer à l'intérieur, faire différentes sortes de choses.
+											Vous pouvez vraiment voir par en-dessous,
+											partager les principaux moments
+											des jeux Olympiques de 2012 et au-delà,
+											et vraiment l'utiliser comme un moyen de vous connecter à la communauté.
+											Donc à la fois le nuage physique dans le ciel
+											et une chose sur laquelle vous pouvez monter,
+											comme le nouveau sommet de la montagne de Londres.
+											Vous pouvez entrer dedans.
+											Un nouveau genre de balise nocturne -
+											mais plus important
+											un nouveau genre d'expérience pour quiconque ira jusqu'au sommet.
+									","
+											Die Wolke ist wieder eine Wolke aus Bildpunkten,
+											in der gleichen Weise wie eine wirkliche Wolke
+											eine Wolke aus Partikeln ist.
+											Und diese Partikel sind Wasser,
+											während unsere Wolke eine Wolke aus Bildpunkten ist.
+											Es ist ein physikalisches Gebilde in London, aber mit Bildpunkten bedeckt.
+											Sie können sich innen bewegen und verschiedene Arten von Erfahrungen machen.
+											Sie können es Sie tatsächlich von unten ansehen,
+											die wichtigsten Momente für
+											Olympia 2012 und darüberhinaus teilen,
+											und es als Art der Verbindung zur Gemeinschaft nutzen.
+											Also beides, die physikalische Wolke im Himmel
+											und etwas an dessen Spitze Sie hingehen können,
+											wie Londons neuer Berggipfel.
+											Sie können hineingehen.
+											Und eine Art digitaler Leuchtturm in der Nacht –
+											aber als Allerwichtigstes,
+											eine neue Art der Erfahrung für alle, die an die Spitze gehen wollen.
+									",Architecture that senses and responds,Carlo Ratti,15:46,"cities,design,entertainment,technology"
+"
+","
+","
+","
+","
+","
+",Architecture that senses and responds,Carlo Ratti,15:46,"cities,design,entertainment,technology"
+"
+											Thank you.
+									","
+											Gracias.
+									","
+											Obrigado.
+									","
+											Teşekkür ederim.
+									","
+											Merci.
+									","
+											Danke.
+									",Architecture that senses and responds,Carlo Ratti,15:46,"cities,design,entertainment,technology"
+"
+","
+","
+","
+","
+","
+",Architecture that senses and responds,Carlo Ratti,15:46,"cities,design,entertainment,technology"
+"
+											(Applause)
+									","
+											(Aplausos)
+									","
+											(Aplausos)
+									","
+											(Alkış)
+									","
+											(Applaudissements)
+									","
+											(Applaus)
+									",Architecture that senses and responds,Carlo Ratti,15:46,"cities,design,entertainment,technology"
+"
+","
+","
+","
+","
+","
+",Architecture that senses and responds,Carlo Ratti,15:46,"cities,design,entertainment,technology"

@@ -1,0 +1,1424 @@
+es,tr,fr,de,title,speaker,duration,tags
+"
+","
+","
+","
+",The game layer on top of the world,Seth Priebatsch,12:02,"TEDx,business,entertainment,entrepreneur,gaming,money,psychology"
+"
+											Mi nombre es Seth Priebatsch. Soy el jefe ninja de SCVNGR.
+											Soy un orgulloso desertor de Princeton.
+											También orgulloso de haber sido trasladado aquí a Boston
+											donde crecí en realidad.
+											Sí, Boston.
+											Triunfos fáciles. Debería nombrar los países que tenemos por aquí.
+											Estoy bastante decidido a tratar de construir
+											una capa de juego por encima del mundo.
+											Y esta es una suerte de concepto nuevo y es realmente importante.
+											Porque mientras la última década
+											fue la década de lo social
+											y la década en que se construyó el marco
+											en el que nos conectamos con otra gente
+											la próxima década será la década en que
+											se construya el marco de juego
+											en el que se decidan las motivaciones que usamos para influir en el comportamiento,
+											y el marco en el que eso se construye,
+											y eso es algo realmente importante.
+									","
+											Adım Seth Priebatsch. SCVNGR'ın baş ninjasıyım.
+											Princeton'dan atılmaktan gurur duyuyorum.
+											Ayrıca Boston'a yeniden yerleşmekten de gurur duyuyorum
+											aslında büyüdüğüm yere.
+											Evet, Boston.
+											Kolay kazanımlar. Sadece gidip buralardaki eyaletleri adlandırmalıyım.
+											Aynı zamanda dünya üzerinde bir oyun katmanı
+											kurmaya oldukça kararlıyım.
+											Bu bir çeşit yeni konsept ve çok önemli.
+											Çünkü geçtiğimiz son 10 yıl
+											sosyalleşme dönemiydi
+											ve frameworklerin bulunduğu dönemdi
+											diğer insanlarla oluşturdukları ile bağlantı kurduğumuz dönemdi,
+											önümüdeki 10 yıllık dönem ise
+											oyun framworkünün oluşturulduğu
+											dürtülerimizin gerçekten davranışları etkilediği bir dönem olacak
+											ve oluşturulan bu framework için
+											kararlar verildi ve bu gerçekten önemli.
+									","
+											Je m’appelle Seth Priebatsch. Je suis le chef Ninja de SCVNGR.
+											Je suis un fier étudiant ayant quitté Princeton.
+											Fier également d'avoir déménagé ici à Boston,
+											où j’ai en fait grandi.
+											Oui, Boston.
+											Trop facile. Je pourrais vous citer tous les cantons du coin.
+											Je suis donc motivé à essayer de construire
+											une couche de jeu au dessus du monde.
+											C’est une sorte de nouveau concept, et c’est vraiment important.
+											Alors que la dernière décennie
+											a été la décennie du social
+											et la décennie où l'architecture
+											dans laquelle nous nous connectons aux autres a été construite,
+											la prochaine décennie sera la décennie où
+											nous construirons une architecture de jeu,
+											où les motivations que nous utilisons pour influencer le comportement,
+											et la structure dans laquelle elles sont construites,
+											se décident, et c’est vraiment important.
+									","
+											Mein Name ist Seth Priebatsch. Ich bin der leitende Ninja von SCVNGR
+											Ich bin stolzer Princeton-Abbrecher.
+											Ebenso stolz wieder hier nach Boston gezogen zu sein,
+											wo ich eigentlich aufgewachsen bin.
+											Yeah, Boston.
+											Billige Siege. Ich sollte einfach loslegen und die umliegenden Bezirke nennen.
+											Also, ich bin ziemlich fest entschlossen zu versuchen,
+											eine Schicht der Spiele an der Weltspitze aufzubauen.
+											Und das ist sozusagen ein neues Konzept und es ist wirklich wichtig.
+											Denn während die letzten Dekade
+											die Dekade des Sozialen
+											und die Dekade, in welcher das Gerüst,
+											in welchem wir uns mit anderen Menschen vernetzen, gebaut wurde,
+											wird die nächste Dekade die Dekade sein, wo
+											das Spielgerüst gebaut wird,
+											wo Motivation tatsächlich dafür eingesetzt wird, um Verhalten zu beeinflussen
+											und das Gerüst, in welchem das konstruiert wird,
+											wird bestimmt und das ist wirklich wichtig.
+									",The game layer on top of the world,Seth Priebatsch,12:02,"TEDx,business,entertainment,entrepreneur,gaming,money,psychology"
+"
+","
+","
+","
+",The game layer on top of the world,Seth Priebatsch,12:02,"TEDx,business,entertainment,entrepreneur,gaming,money,psychology"
+"
+											Y por eso digo que quiero construir una capa de juego por encima del mundo
+											pero eso no es del todo cierto
+											porque todavía está en construcción; todavía está sucediendo.
+											Y eso parece ahora mismo.
+											Parece como que la web vuelve a 1997, ¿verdad?
+											No es muy buena. Es desordenada.
+											Está llena de un montón de cosas diferentes
+											que, en breve, no son tan divertidas.
+											Hay planes de tarjetas de crédito y programas de millas de aerolíneas
+											y tarjetas de descuento y todos estos programas de fidelización
+											que realmente usan dinámica de juego
+											y en realidad están construyendo la capa de juego; apestan.
+											No están muy bien diseñados, ¿verdad?
+											Eso es lamentable.
+											Pero por suerte, como dice mi héroe de acción favorito,
+											Bob el Constructor:
+											""Podemos hacerlo mejor. Podemos hacerlo mejor"".
+											Y las herramientas, los recursos
+											que usamos para construir la capa de juego
+											son dinámicas de juego en sí mismas.
+											Y por eso el quid de esta presentación va a pasar por
+											cuatro dinámicas de juego realmente importantes, cosas realmente importantes,
+											que, si se las usa conscientemente,
+											se las puede usar para influir en el comportamiento
+											tanto para bien, para mal o algo intermedio.
+											Esperemos que para bien.
+											Pero estas son una suerte de etapas importantes
+											en las que se construirán esos marcos
+											y ahora queremos pensar en eso conscientemente.
+									","
+											Yani ben diyorum ki dünya üzerinde bir oyun katmanı oluşturmak istiyorum,
+											ama bu tam olarak doğru değil
+											çünkü bu zaten yapım aşamasında; şu anda gerçekleşiyor.
+											Ve şimdi bu şekilde görünüyor.
+											1997'deki internet gibi görünüyor değil mi?
+											Pek iyi değil. Darmadağın bir durumda.
+											Bir çok farklı şeyle dolu
+											ve kısaca eğlenceli değil.
+											Kredi kartı şemaları ve havayolu mil programları var
+											ve kuponlar ve bütün bu bağlantılı şemalar
+											aslında oyun dinamiklerini kullanıyorlar
+											ve oyun katmanını oluşturuyorlar, onlar berbatlar.
+											Pek iyi tasarlanmamışlar değil mi?
+											Bu da talihsizlik.
+											Ama şanslıyız ki, favori aksiyon kahramanım olarak
+											Usta Bob diyor ki;
+											""Daha iyisini yapabiliriz. Daha iyi inşa edebiliriz.""
+											Ve oyun oluşturmak için kullandığımız
+											araçların, kaynakların
+											kendileri birer oyun dinamiği.
+											Bu sunumun püf noktası gerçekten önemli 4 oyun dinamiğine
+											dikkat çekmek, gerçekten ilginç olanlara
+											öyle ki eğer bilinçli bir şekilde kullanırsanız
+											davranışları etkileyebilirsiniz
+											hem iyi hem kötü olarak, ya da ikisinin arasında
+											İyi olmasını umuyorum.
+											Ama bu frameworkün oluşturulacağı
+											önemli bir safha,
+											ve şimdi hepimiz bunun hakkında bilinçli olarak düşünmek istiyoruz.
+									","
+											Je dis donc que je veux construire une couche de jeu au dessus du monde,
+											mais ce n'est pas tout à fait vrai
+											parce que elle est déjà en construction ; c’est déjà en train d’arriver.
+											Et ça ressemble à peu près à ça en ce moment.
+											Ça ressemble un peu à ce qu’a fait le Web en 1997, pas vrai?
+											Ce n’est pas très bien. C’est bien chargé.
+											C’est plein de choses toutes différentes
+											qui, en bref, ne sont pas très amusantes.
+											Il y a des programmes de cartes bancaires et de miles aériens
+											et des systèmes de coupons, tous ces programmes de fidélité
+											qui en fait utilisent des dynamiques de jeu
+											et construisent en fait la couche de jeu, ils sont juste nuls.
+											Ils ne sont pas très bien conçus, pas vrai ?
+											Donc, pas de chance.
+											Mais heureusement, comme dit mon héro d’action préféré,
+											Bob the Builder,
+											“On peut faire mieux. On peut mieux le construire.”
+											Et les instruments, les ressources
+											que nous utilisons pour construire une couche de jeu
+											sont les dynamiques de jeu elles-mêmes.
+											Et donc l'essentiel de cette présentation est de passer en revue
+											quatre importantes dynamiques de jeu, très intéressantes,
+											qui, utilisées avec conscience,
+											peuvent être utilisé pour influencer le comportement,
+											pour le bien, pour le mal, et entre les deux.
+											Espérons pour le bien.
+											Mais cela représente les étapes importantes
+											dans lesquelles cette structure va se construire,
+											on veut donc tous y penser consciemment dès maintenant.
+									","
+											Und nun sage ich, dass ich eine Schicht der Spiele an der Weltspitze bauen will,
+											doch das ist nicht ganz wahr,
+											denn es ist bereits in der Entwicklung; es passiert schon.
+											Und es sieht jetzt genau so aus.
+											Es sieht aus wie das Internet damals 1997, richtig?
+											Es ist nicht sehr gut. Es ist unordentlich.
+											Es mit einer Menge unterschiedlicher Dinge gefüllt,
+											die, kurz gesagt, nicht lustig sind.
+											Da sind Kreditkartenübersichten und Vielfliegerprogramme von Fluggesellschaften
+											und Gutscheinkarten und all diese Treuepläne,
+											die uns tatsächlich Spieldynamiken entwickeln lassen
+											und in der Tat die Spieleschicht bauen, aber sie nerven einfach.
+											Sie sind nicht gut gestaltet, richtig?
+											Nun, das ist bedauerlich.
+											Aber glücklicherweise, wie mein Lieblings-Actionheld,
+											Bob der Baumeister sagt:
+											""Wir können das besser machen. Wir können das besser bauen.""
+											Und die Werkzeuge, die Ressourcen,
+											die wir nutzen, um die Spieleschicht zu bauen,
+											sind die Spieldynamiken selbst.
+											Und darum geht es im Kern dieser Präsentation darum, durch
+											vier wirklich wichtige Spieldynamiken, wirklich interessante Sachen, zu gehen,
+											die, wenn Sie sie bewusst nutzen,
+											können Sie das nutzen, um Verhalten zu beeinflussen,
+											sowohl für das Gute, für das Schlechte, für dazwischen.
+											Hoffentlich für das Gute.
+											Aber dies ist die Art von wichtigen Bauschabschnitten,
+											in welchen das Gerüst gebaut werden wird
+											und so werden nun wir alle bewusst darüber nachdenken.
+									",The game layer on top of the world,Seth Priebatsch,12:02,"TEDx,business,entertainment,entrepreneur,gaming,money,psychology"
+"
+","
+","
+","
+",The game layer on top of the world,Seth Priebatsch,12:02,"TEDx,business,entertainment,entrepreneur,gaming,money,psychology"
+"
+											Pero antes de pasar a eso hay una especie de pregunta que es: ¿por qué es importante?
+											Estoy haciendo esta afirmación de que existe una capa de juego por encima del mundo
+											y que es importante que la construyamos correctamente.
+											La razón por la cual es importante es que en la última década
+											lo hemos visto, ha sido la construcción de la capa social,
+											ha sido este marco de conexiones
+											y la construcción sobre esa capa terminó, finalizó.
+											Todavía hay mucho por explorar.
+											Todavía hay un montón de gente tratando de imaginarse lo social
+											y cómo apalancarlo y cómo usarlo
+											pero el marco de trabajo en sí está terminado
+											y se llama Facebook.
+											Y eso está bien, ¿no? Mucha gente está muy contenta con Facebook.
+											Me gusta mucho.
+											Han creado esta cosa llamada Grafo Abierto (Open Graph)
+											y poseen todas nuestras conexiones.
+											Poseen 500 millones de personas.
+											Y cuando uno quiere construir sobre la capa social
+											el marco de trabajo está decidido; es la API Open Graph.
+											Y si uno está feliz con eso, fantástico.
+											Si no lo está, muy mal. No hay nada que se pueda hacer.
+									","
+											Buna geçmeden önce bir sorum olacak : bu neden önemli?
+											Bununla dünya üzerinde bir oyun katmanı olduğunu iddaa ediyorum,
+											ve bunu düzenli bir şekilde oluşturmamız çok önemli.
+											Bunun bu kadar önemli olmasının sebebi son dönemde
+											sosyal katmanın oluşturulduğunu görmemiz
+											bağlantılar için framworkün,
+											ve bu katmandaki yapım bitti, katman bitti.
+											Hala araştırılması gereken çok şey var.
+											Hali hazırda sosyal katmanı çözmeye çalışan bir çok insan var
+											ve bunu nasıl başlattığımızı ve nasıl kullandığımızı çözmeye çalışan,
+											ama frameworkün kendisi tamamlandı,
+											ve adı da Facebook.
+											Bu tamamdır değil mi? Bir çok insan Facebook ile çok mutlu.
+											Ben de çok seviyorum.
+											Open Graph olarak adlandırdıkları bu şeyi yarattılar
+											ve bütün bağlantılarımıza sahipler.
+											Yarım milyar insana sahipler.
+											Yani sosyal katman üzerinde birşey oluşturmak istediğinizde,
+											kullanacağınız framework belirlidir; Open Graph API.
+											Bununla mutluysanız harika.
+											Mutlu değilseniz çok kötü. Yapabileceğiniz hiçbir şey yok.
+									","
+											Juste avant de nous y plonger, une question : pourquoi est-ce important ?
+											Je suis quelque part en train d'affirmer qu'il y a une couche de jeu au-dessus du monde,
+											et qu'il est très important de la contruire correctement.
+											La raison pour laquelle c’est si important est que, dans la dernière décennie
+											nous avons vu la construction d'une couche sociale,
+											d'une architecture pour les connexions,
+											et la construction de cette couche est terminée, c’est fini.
+											Il y a encore beaucoup de chose à explorer.
+											Il y a encore beaucoup de gens qui essayent de comprendre le social
+											et comment en tirer profit et comment l’utiliser,
+											mais l'architecture en elle-même est faite,
+											et ça s’appelle Facebook.
+											Et ce n’est pas mal, pas vrai ? Beaucoup de gens sont contents de Facebook.
+											Je l’aime bien aussi.
+											Ils ont créé cette chose qui s’appelle Open Graph,
+											et ils possèdent toutes nos connexions.
+											Ils possèdent un demi-milliard de personnes.
+											Donc quand vous voulez construire sur la couche sociale,
+											l'architecture a été décidée : c’est l'API Open Graph.
+											Et si ça vous plait, c’est super.
+											Autrement, tant pis pour vous. Vous ne pouvez rien y faire.
+									","
+											Nun bevor wir in das eintauchen, sind da noch ein paar Fragen wie: Wieso ist das wichtig?
+											Ich erhebe eine Art Anspruch daran, dass es eine Schicht der Spiele an der Weltspitze gibt
+											und das sehr wichtig ist, dass wir es ordnungsgemäß konstruieren.
+											Der Grund, dass das so wichtig ist der, dass was wir, im letzten Jahrzehnt,
+											gesehen haben, die Entstehung der Sozialen Ebene war,
+											ist dieses Gerüst für Verbindungen gewesen
+											und die Entwicklung auf dieser Ebene ist vorbei, sie ist beendet.
+											Da ist immer noch eine Menge zu entdecken.
+											Es gibt immer noch eine Menge Leute, die versuchen das Soziale zu verstehen
+											und wie wir dem zum Durchbruch verhelfen und wie wir es nutzen,
+											aber das Gerüst selbst ist fertig
+											und es heißt Facebook.
+											Und das ist ok, richtig? Eine Menge Leute sind sehr glücklich mit Facebook.
+											Ich mag es sehr.
+											Sie haben diese Sache, genannt Open Graph, erstellt
+											und sie besitzen alle unsere Verbindungen.
+											Ihnen gehört eine halbe Billion Menschen.
+											Und wenn Sie nun auf der sozialen Schicht entwickeln wollen
+											steht das Gerüst fest; es ist die Open Graph API.
+											Und wenn Sie damit glücklich sind, fantastisch.
+											Wenn nicht, ist das Schade. Es gibt nichts, was Sie tun können.
+									",The game layer on top of the world,Seth Priebatsch,12:02,"TEDx,business,entertainment,entrepreneur,gaming,money,psychology"
+"
+","
+","
+","
+",The game layer on top of the world,Seth Priebatsch,12:02,"TEDx,business,entertainment,entrepreneur,gaming,money,psychology"
+"
+											Pero la próxima década... y eso es algo real.
+											Quiero decir, queremos construir marcos de trabajo
+											de un modo que sea aceptable
+											que lo haga, ya saben, productivo sobre la marcha.
+											Así, la capa social se trata de estas conexiones.
+											La capa de juego se trata de la influencia.
+											No se trata de agregar una trama social a la Web
+											y conectarse con otra gente
+											dondequiera que uno esté y dondequiera que uno vaya.
+											Se trata en realidad de usar la dinámica, usar las fuerzas,
+											para influir en el comportamiento
+											de dónde uno está, qué hace uno, cómo lo hace.
+											Eso es muy, muy poderoso, y va a ser más importante que la capa social.
+											Va a afectar nuestras vidas mucho más profundamente
+											y quizá de manera más invisible.
+											Y es extremadamente crítico
+											que en este momento, mientras se está construyendo,
+											mientras los marcos de trabajo como Facebook, como Open Graph,
+											han sido creados para el equivalente de la capa de juego,
+											que pensamos en ello muy conscientemente,
+											y que lo hagamos de manera abierta,
+											que está disponible y que puede ser aprovechado para bien.
+									","
+											Ama bu önümüzdeki dönem — ve bu gerçek.
+											Demek istediğim, bunu kabul edilebilir kılan
+											frameworkler oluşturmak istiyoruz
+											ve bunu, bilirsiniz yol boyunca üretken kılmak istiyoruz.
+											Yani sosyal katman bütün bu bağlantılarla ilgili.
+											Oyun katmanı ise etki yaratmakla ilgili.
+											İnternete sosyal bir yapı eklemekle
+											ve sizin diğer insanlarla olduğunuz ve gittiğiniz heryerde
+											iletişim kurmanızla ilgili değil.
+											Aslında nerede olduğunuz, orda ne yaptığınız ve nasıl yaptığınızda
+											davranışınızı etkilemek içim dinamikleri ve
+											gücü kullanmakla ilgili.
+											Bu gerçekten çok güçlü ve sosyal katmandan daha önemli olacak.
+											Hayatımızı daha derinden etkileyecek
+											ve belki de daha görünür bir şekilde.
+											Ve bu aşama inanılmaz derecede kritik
+											henüz oluşturulmaktayken
+											Facebook, Open Graph gibi frameworklerin
+											oyun katmanı için mübadilleri oluşturuluyorken,
+											bunun hakkında bilinçli şekilde düşündüğümüzde
+											ve bunu herkese açık bir yolla yaptığımızda
+											buna ulaşılabilir ve iyi amaçlar için kullanılabilir.
+									","
+											Mais la prochaine décennie — et c’est vrai.
+											Je veux dire, nous voulons construire des architectures
+											qui fasse en sorte que ça soit acceptable
+											et les rendre, vous savez, efficaces sur la route.
+											Donc la couche sociale s'intéresse à toutes ces connexions.
+											La couche de jeu s'intéresse à l'influence.
+											Il ne s'agit pas d'ajouter un tissu social au Web
+											et de vous connecter à d’autres gens
+											partout où vous êtes et partout où vous allez.
+											En fait il s'agit l’utilisation de dynamiques, de forces,
+											pour influencer le comportement
+											là où vous êtes, ce que vous y faites, et comment vous le faites.
+											Ceci est vraiment très, très puissant, et ça va être même plus important que la couche sociale.
+											Ça va influencer nos vies plus profondément
+											et probablement de manière invisible.
+											C’est donc tellement critique
+											qu’en ce moment même, pendant que ça se construit,
+											pendant que des structures comme Facebook, comme Open Graph,
+											se créent pour l’équivalent de la couche de jeu,
+											que nous y pensions très consciemment,
+											et que nous le fassions de manière ouverte,
+											disponible, pour pouvoir l’utiliser de la bonne façon.
+									","
+											Aber diese nächste Dekade — und das ist das Wahre.
+											Ich meine, wir möchten Gerüste bauen
+											in einer Art, die es akzeptable macht
+											und die Sie, Sie wissen schon, in der Zukunft produktiv macht.
+											Also, bei der sozialen Schicht dreht sich alles um diese Verbindungen.
+											Bei der Spieleschicht dreht sich alles um Einfluss.
+											Es geht nicht darum eine soziale Struktur an das Netz zu bringen
+											und Sie mit anderen Menschen zu verbinden,
+											überall wo Sie sind und überall wo Sie hingehen.
+											Es geht eigentlich um Dynamiken, Kräfte zu nutzen,
+											um das Verhalten zu beeinflussen,
+											wo Sie sind, was Sie dort tun und wie Sie es tun.
+											Das ist wirklich, wirklich mächtig und wird bedeutender Sein als die soziale Schicht.
+											Es wird sich weitaus tiefer auf unser Leben auswirken
+											und möglicherweise unsichtbarer.
+											Und deshalb ist es unglaublich entscheidend,
+											das in diesem Moment, während es entwickelt wird,
+											während die Gerüste wie Facebook, wie Open Graph,
+											für das Äquivalent der Spieleschicht entwickelt werden,
+											das wir sehr bewusst darüber nachdenken,
+											und das wir dies auf einem offenen Weg tun,
+											der verfügbar ist und der wirksam für das Gute eingesetzt werden kann.
+									",The game layer on top of the world,Seth Priebatsch,12:02,"TEDx,business,entertainment,entrepreneur,gaming,money,psychology"
+"
+","
+","
+","
+",The game layer on top of the world,Seth Priebatsch,12:02,"TEDx,business,entertainment,entrepreneur,gaming,money,psychology"
+"
+											Y eso es a lo que me refiero con eso de dinámica de juego
+											porque la construcción recién comienza
+											y cuanto más conscientemente podamos pensar en esto
+											mejor seremos capaces de usarlo
+											para lo que queramos.
+											Así que, como dije, la manera en que uno experimenta y construye la capa de juego
+											no es con vidrio, acero y cemento.
+											Y los recursos que usamos no es esta
+											franja bidimensional de tierra que tenemos.
+											Los recursos son comunitarios y las herramientas, las materias primas, son estas dinámicas de juego.
+											Con eso, ya saben, un par de dinámicas de juego de las que voy hablar.
+											Cuatro. De vuelta en SCVNGR, nos gusta bromear
+											que con siete dinámicas de juego uno puede hacer que cualquiera haga cualquier cosa.
+											Y por eso hoy les voy a mostrar cuatro
+											porque espero tener todavía una ventaja competitiva al final de esto.
+									","
+											Ve bu benim oyun dinamikleri hakkında konuşmak istediğim şey
+											çünkü yapımı yeni başladı
+											ve bunun hakkında daha bilinçli düşünebildikçe
+											istediğimiz herhangi bir şey için
+											daha iyi kullanabilir olacağız.
+											Yani dediğim gibi, ilerleyeceğiniz ve oyun katmanını oluşturacağınız bu yol
+											camla, çimentoyla ve metalle kaplı değil.
+											Ve kullanacağımız kaynaklar sahip olduğumuz
+											2-boyutlu bir alan değil.
+											Kaynaklarımız bilgimizin paylaşımı ve araçlar, hammeddemiz bu oyun dinamikleri.
+											Yani bununla, bildiğiniz gibi, hakkında konuşduğumuz bir kaç oyun dinamiğiyle.
+											Dört. SCVNGR'de yedi oyun dinamiği ile herhangi birine
+											istediğinizi yaptırabileceğinizle ilgili şakalaşmayı severiz.
+											Ve bugün, bunların dördünü size göstereceğim,
+											çünkü hala bunun sonunda rekabetçi bir avantajım olmasını umuyorum.
+									","
+											Voila ce dont je veux parler pour les dynamiques de jeu,
+											parce que la construction a commencé,
+											et plus nous y pensons consciemment,
+											mieux nous pourrons l’utiliser
+											pour ce que nous voulons.
+											Donc, comme je vous disais, le moyen pour construire la couche de jeu
+											n’est pas avec du verre, de l’acier et du ciment.
+											Et les ressources que nous utilisons ce ne sont pas
+											des étendues de terres a deux dimensions que nous avons.
+											Les ressources sont le partage des intelligences et les matières premières sont les dynamiques de jeu.
+											Avec ça, vous voyez, quelques dynamiques de jeu à envisager.
+											Quatre. A SCVNGR, on aime se moquer en disant
+											qu’avec sept dynamiques de jeu, vous pouvez faire faire n’importe quoi à n’importe qui.
+											Donc aujourd’hui je vais vous parler de quatre d’entre elles,
+											parce que j’espère avoir encore un avantage compétitif à la fin de ce discours.
+									","
+											Und also das ist es, worüber ich bei den Spieldynamiken sprechen möchte,
+											denn die Entwicklung hat gerade begonnen
+											und je fokussierter wir darüber Nachdenken,
+											desto besser werden wir in der Lage sein, es zu nutzen,
+											für alles was wir wollen.
+											Also wie ich sagte, die Art die Sie wählen, um auf dieser Spielebene zu entwickeln,
+											ist nicht mit Glas und Stahl und Zement.
+											Und Ressourcen, die wir nutzen sind nicht diese
+											zweidimensionalen Landstriche, die wir haben.
+											Die Ressourcen sind Anerkennung und die Werkzeuge, die rohen Materialien sind diese Spieldynamiken.
+											Also damit, Sie wissen schon, ein paar Spieldynamiken besprechen.
+											Vier. Bei SCVNGR, machen wir gerne Witze,
+											dass man mit sieben Spieldynamiken, jeden dazu bringen kann alles zu tun.
+											Und also heute werde ich Ihnen vier zeigen,
+											denn ich hoffe, dass ich hier am Ende immer noch einen Wettbewerbsvorteil habe.
+									",The game layer on top of the world,Seth Priebatsch,12:02,"TEDx,business,entertainment,entrepreneur,gaming,money,psychology"
+"
+","
+","
+","
+",The game layer on top of the world,Seth Priebatsch,12:02,"TEDx,business,entertainment,entrepreneur,gaming,money,psychology"
+"
+											(Risas)
+									","
+											(gülüşler)
+									","
+											(Rires)
+									","
+											(Gelächter)
+									",The game layer on top of the world,Seth Priebatsch,12:02,"TEDx,business,entertainment,entrepreneur,gaming,money,psychology"
+"
+","
+","
+","
+",The game layer on top of the world,Seth Priebatsch,12:02,"TEDx,business,entertainment,entrepreneur,gaming,money,psychology"
+"
+											La primera es una dinámica de juego muy simple.
+											Se llama ""dinámica de cita"".
+											Y esta es una dinámica que para tener éxito
+											los jugadores tienen que hacer algo en un tiempo predefinido,
+											generalmente en un lugar predefinido.
+											Y estas dinámicas son un poco espeluznantes a veces,
+											porque uno piensa, ya saben,
+											otras personas pueden estar usando fuerzas que manipularán
+											cómo interactúo, qué hago, dónde lo hago, cuándo lo hago.
+											Esta suerte de pérdida de libre albedrío que sucede en los juegos
+											puede ser aterradora,
+											así que con cada dinámica voy a darles tres ejemplos...
+											uno que muestra cómo ya se está usando esto en el mundo real
+											para que Uds puedan racionalizarlo un poco;
+											uno que lo muestra en lo que consideramos un juego convencional...
+											pienso que todo es un juego, esto es una especie de
+											más de lo que uno pensaría que es un juego de mesa o de computadora;
+											y luego uno de cómo se puede usar para bien
+											para que veamos que estas fuerzas pueden ser realmente muy poderosas.
+									","
+											Birincisi, çok basit bir oyun dinamiği.
+											Görev Dinamiği.
+											Ve bu dinamikte başarmak için
+											oyuncular daha önceden belirlenmiş zamanda bir şey yapmalılar
+											genellikle önceden belirlenmiş bir konumda.
+											Ve bu dinamikler bazen biraz ürkütücü
+											çünkü diğer insanların etkileşim şeklinizi
+											yaptıklarınızı, nerde ve ne zaman yaptığınızı
+											manipüle edebileceğini biliyorsunuz, düşünüyorsunuz.
+											Oyunlarda bulunan özgür iradenin bu şekilde kaybı
+											korkutucu olabiliyor,
+											bundan ötürü her dinamikte üç örnek vereceğim —
+											gerçek dünyada nasıl kullanıldığını gösterecek bir tane,
+											böylece biraz olsun rasyonelleştirebileceksiniz,
+											geleneksel oyunda nasıl işleyeceğini düşündüğümüzü gösteren bir tane —
+											bence herşey bir çeşit oyundur
+											bir masada ya da bilgisayar ekranında oynandığını düşüneceğinizden fazlası
+											ve bunun nasıl iyi yönde kullanılabileceği,
+											böylece bu etkenlerin gerçekten çok güçlü olabileceğini görecebileceğiz.
+									","
+											Donc le premier, c’est une dynamique de jeu très simple.
+											Ça s’appelle la dynamique du rendez-vous.
+											Et c’est une dynamique dans laquelle, pour réussir,
+											les joueurs doivent faire quelque chose à un moment déterminé,
+											généralement dans un lieu déterminé.
+											Et ces dynamiques sont parfois effrayantes
+											parce que vous vous dites
+											que d’autres personnes peuvent utiliser des forces pour manipuler
+											mon interaction, ce que je fais, où je le fais, quand je le fais.
+											Cette sorte de perte du libre arbitre qui arrive dans les jeux
+											peut être effarant,
+											donc pour chaque dynamique, je vais vous donner trois exemples —
+											un qui montre comment on s’en sert déjà dans le monde réel,
+											pour que vous puissiez rationaliser un petit peu,
+											un qui démontre son utilisation dans les jeux conventionnels —
+											Je crois que tout est un jeu, ici c’est plutôt
+											ce que vous pourriez penser d’un jeu joué sur une table ou sur un écran,
+											un sur comment elle peut être utilisé pour le bien,
+											pour qu'on puisse voir que ces forces peuvent être vraiment puissantes.
+									","
+											Nun das erste ist eine sehr simple Spieldynamik.
+											Es heißt Termin Dynamik.
+											Und dies ist eine Dynamik, in welcher der Spieler, um erfolgreich zu sein,
+											etwas zu einer vorgegebenen Zeit tun muss,
+											normalerweise an einem vorgegebenen Ort.
+											Und diese Dynamiken sind manchmal ein bisschen beängstigend,
+											denn Sie denken, Sie wissen schon,
+											andere Menschen können Energie einsetzen, die beeinflussen wird,
+											wie ich interagiere, was ich tue, wo ich es tue, wann ich es tue.
+											Diese Art des Verlustes von freiem Willen, welche in den Spielen auftritt,
+											kann angsteinflößend sein.
+											Also, zu jeder Dynamik, werde ich drei Beispiele geben —
+											eine die zeigt, wie es derzeit schon in der realen Welt genutzt wird,
+											damit Sie es sich ein bisschen erschließen können,
+											eine, die in einem, wie wir es verstehen konventionellem Spiel, vorkommt —
+											Ich denke alles ist ein Spiel, dies ist mehr eine Art davon,
+											wovon Sie denken würden, dass ein Spiel gespielt wird, auf einem Brett oder Computerbildschirm
+											und dann eine, wie dies für etwas Gutes genutzt werden kann,
+											damit wir sehen können, dass diese Kräfte wirklich sehr mächtig sind.
+									",The game layer on top of the world,Seth Priebatsch,12:02,"TEDx,business,entertainment,entrepreneur,gaming,money,psychology"
+"
+","
+","
+","
+",The game layer on top of the world,Seth Priebatsch,12:02,"TEDx,business,entertainment,entrepreneur,gaming,money,psychology"
+"
+											Entonces, la primera... la dinámica de cita más famosa del mundo...
+											es algo llamado ""happy hour"".
+											Acababa de abandonar Princeton
+											y terminé en realidad por primera vez en un bar
+											y vi estas happy hour por todas partes, ¿no?
+											Y esto es simplemente una dinámica de cita.
+											Vengan a determinada hora y lleven los tragos a mitad de precio.
+											Para ganar todo lo que uno tiene que hacer es presentarse en el lugar correcto en el momento apropiado.
+											Esta dinámica de juego es tan poderosa
+											que no sólo influencia nuestro comportamiento sino que influencia toda nuestra cultura.
+											Ese es realmente un pensamiento aterrador:
+											que una dinámica de juego pueda cambiar cosas de manera tan poderosa.
+									","
+											Birincisi — dünyadaki en ünlü görev dinamiği —
+											Mutlu Saat.
+											Ben daha yeni Princeton'dan atıldım
+											ve aslında ilk sefer bir barda son buldu,
+											ve mekanda her yerde bu mutlu saat şeylerini gördüm.
+											Bu basit bir görev dinamiği.
+											Belirli zamanda gel ve içkini yarı fiyatına al.
+											Kazanmak için tüm yapman gereken doğru zamanda doğru yerde bulunmak.
+											Bu oyun dinamiği öylesine güçlü ki
+											sadece davranışlarımızı değil bütün kültürümüzü etkiliyor.
+											Bir oyun dinamiğinin olayları bu kadar güçlü
+											etkileyebilmesi korkutucu bir düşünce.
+									","
+											Donc le premier — la plus célèbre dynamique de rendez-vous au monde —
+											est ce qu'on appelle les ""happy hour"".
+											J’ai donc quitté très récemment Princeton
+											et je me suis retrouvé pour la première fois dans un bar,
+											et j’ai remarqué ces ""happy hour"" partout, d'accord.
+											Et c’est simplement une dynamique de rendez-vous.
+											Viens à une certaine heure, on se paye un verre à moitié prix.
+											Pour gagner, tout ce que vous avez à faire c’est vous présenter au bon endroit à la bonne heure.
+											Cette dynamique de jeu est tellement puissante,
+											qu'elle n'influence non seulement notre comportement, mais aussi la culture toute entière.
+											C'est vraiment une pensée effrayante,
+											qu'une seule dynamique de jeu peut changer complètement les choses.
+									","
+											Also die erste ist — die bedeutendste Termin Dynamik auf der Welt —
+											ist etwas, genannt ""Happy Hour"",
+											Also ich habe erst kürzlich mein Studium in Princeton abgebrochen
+											und bin tatsächlich das erste Mal in einer Bar gelandet
+											und ich sah also überall diese Happy Hour-Dinge.
+											Und das ist schlicht eine Termin Dynamik.
+											Kommen Sie zu einer gewissen Zeit, bekommen Sie Ihre Getränke zum halben Preis.
+											Um zu gewinnen, ist alles was Sie tun müssen, am richtigen Ort, zur richtigen Zeit zu sein.
+											Diese Spieldynamik ist so mächtig,
+											dass sie nicht einfach nur unser Verhalten beeinflusst, sie beeinflusst unsere gesamte Kultur.
+											Das ist ein wirklich beängstigender Gedanke,
+											dass eine Spieldynamik die Dinge so gewaltig ändern kann.
+									",The game layer on top of the world,Seth Priebatsch,12:02,"TEDx,business,entertainment,entrepreneur,gaming,money,psychology"
+"
+","
+","
+","
+",The game layer on top of the world,Seth Priebatsch,12:02,"TEDx,business,entertainment,entrepreneur,gaming,money,psychology"
+"
+											También existe en formas de juego más convencionales.
+											Estoy seguro que ya han oído de Farmville.
+											Si no lo han hecho, les recomiendo que lo jueguen.
+											No harán otra cosa en el resto del día.
+											Farmville tiene más usuarios activos que Twitter.
+											Es extremadamente poderoso y tiene esta dinámica
+											en la que uno tiene que regresar a cierta hora
+											para regar sus cultivos, cultivos falsos, o se marchitan.
+											Y es tan poderoso que, cuando ellos ajustan sus estadísticas,
+											cuando dicen que los cultivos se marchitan
+											en 8 horas, o en 6 horas, o en 24 horas,
+											eso cambia el ciclo de vida
+											de 70 millones de personas en el día.
+											Ellos regresarán como un reloj en diferentes momentos.
+											Así que si quisieran que el mundo termine, si quisieran que la productividad se detenga,
+											podrían hacer de esto un ciclo de 30 minutos
+											y nadie podría hacer nada más.
+											(Risas)
+											Eso es un poco aterrador.
+									","
+											Ayrıca daha geleneksel oyunlarda da mevcut.
+											Eminim şimdiye kadar Farmville'i duymuşsunuzdur.
+											Eğer duymadıysanız oynamanızı tavsiye ederim.
+											Günün geri kalanında hiç birşey yapmayacaksınız.
+											Farmville, Twitter'dan daha fazla aktif üyeye sahip.
+											İnanılmaz derecede güçlü ve ürünlerinizi, sahte ürünlerinizi,
+											sulamanız için belirli zamanda dönmeniz gereken oyun dinamiğine sahip,
+											aksi takdirde ürünleriniz soluyor.
+											Ve bu öylesine güçlü ki, istatistiklerine baktıklarında
+											ürünlerin 8 saat sonra solacağını gördüklerinde
+											ya da 6 saat sonra ya da 24 saat,
+											bu bazı 70 milyon insanın gün içindeki
+											hayat döngüsünü değiştiriyor.
+											Farklı zamanlarda saat gibi geri dönecekler.
+											Yani eğer dünyayı sonlandırmak isteseler, üretkenliği durdurmak isteseler,
+											bunu 30 dakikalık devirle yapabilirlerdi
+											ve hiçkimse başka birşey yapamazdı.
+											(gülüşler)
+											Bu biraz ürkütücü.
+									","
+											Elle existe aussi dans des formes de jeu plus conventionnels.
+											Je suis sûr que vous avez tous entendu parler de Farmville.
+											Sinon, je vous recommande d’y jouer.
+											Vous ne ferez rien d’autre du reste de la journée.
+											Farmville a plus d’utilisateurs actifs que Twitter.
+											C’est incroyablement puissant, et il a cette dynamique
+											dans laquelle vous êtes obligé de revenir à une certaine heure
+											pour arroser vos cultures — fausse culture — autrement elles dépérissent.
+											Et c’est tellement puissant que, lorsqu'ils changent leurs statistiques,
+											quand ils vous disent que vos cultures sont mortes
+											huit heures après, ou six heures après, ou 24 heures après,
+											ça change le cycle de vie
+											de 70 millions et quelque personnes pendant la journée.
+											Les gens reviennent comme des horloges à différents moments.
+											Donc, s’ils voulaient en finir avec le monde, ou arrêter la productivité,
+											ils pourraient en faire un cycle de 30 minutes,
+											et on ne pourrait rien faire d'autre.
+											(Rires)
+											Ça fait peur.
+									","
+											Sie existiert auch in konventionelleren Spielformen.
+											Ich bin sicher, Sie alle haben inzwischen von Farmville gehört.
+											Wenn nicht, empfehle ich Ihnen es zu spielen.
+											Sie werden den Rest des Tages mit nichts anderem mehr verbringen.
+											Farmville hat mehr aktive Nutzer als Twitter.
+											Es ist unglaublich mächtig und es hat diese Dynamik,
+											wo Sie zu einer gewissen Zeit zurückkommen müssen,
+											um Ihre Ernte zu bewässern — unechte Ernte — oder sie wird verwelken.
+											Und das ist so mächtig, dass wenn sie ihre Statistiken optimieren,
+											wenn sie sagen, dass Ihre Ernte
+											nach acht oder nach sechs oder nach 24 Stunden verwelkt,
+											es den Lebensrhythmus
+											von 70 Millionen Menschen, welche es über den Tag spielen, ändert.
+											Sie kommen wie ein Uhrwerk zu unterschiedlichen Zeiten zurück.
+											Also, wenn sie die Welt anhalten möchten, wenn sie Produktivität stoppen wollen,
+											könnten sie einen 30minütigen Intervall festlegen
+											und niemand würde irgendwas anderes machen.
+											(Gelächter)
+											Das ist ein bisschen erschreckend.
+									",The game layer on top of the world,Seth Priebatsch,12:02,"TEDx,business,entertainment,entrepreneur,gaming,money,psychology"
+"
+","
+","
+","
+",The game layer on top of the world,Seth Priebatsch,12:02,"TEDx,business,entertainment,entrepreneur,gaming,money,psychology"
+"
+											Pero esto podría usarse también para bien.
+											Esta es una compañía local llamada Vitality, y ellos han creado un producto
+											para ayudar a la gente a tomar su medicina a horario.
+											Eso es una cita.
+											Es algo que la gente no hace muy bien.
+											Y ellos tienen estos GlowCaps que, ya saben, avisan y mandan emails
+											y hacen todo tipo de cosas cool para recordarnos tomar la medicina.
+											Esta es una que no es un juego todavía pero debería serlo.
+											Uno debería obtener puntos por hacerlo a horario.
+											Uno debería perder puntos por no hacerlo a horario.
+											Ellos deberían reconocer conscientemente
+											que han construido una dinámica de cita y apalancar los juegos.
+											Y luego uno puede realmente lograr el bien de maneras interesantes.
+									","
+											Ama bu iyi amaçlar için de kullanılabilirdi.
+											Bu yerel bir şirket olan Vitality ve insanların ilaçlarını zamanında
+											almalarına yardım etmek için bir ürün üretiyorlar.
+											Bu bir görev.
+											Bu insanların pek iyi yapmadıkları birşey.
+											Ve bu GlowCapsler size ilacınızı almanız gerektiğini hatırlatmak için
+											parıldıyor, email atıyor ve bütün havalı şeyleri yapıyor.
+											Bu henüz bir oyun değil ama gerçekten olmalı.
+											Bunu zamanında yaptığınızda puan kazanmalısınız.
+											Zamanında yapmadığınızda puan kaybetmelisiniz.
+											Bir görev dinamiği kurduklarının ve oyunu başlattıklarının
+											bilincine ulaşmalılar.
+											Ve bazı ilginç yollarla gerçekten iyi işler başarabilirsiniz.
+									","
+											Mais on pourrait aussi l'utiliser pour le bien.
+											Voici une société locale qui s’appelle Vitality, et ils ont créé ce produit
+											pour aider les gens à prendre leurs médicaments à l'heure.
+											C’est un rendez-vous.
+											C’est quelque chose que les gens ne font pas très bien.
+											Et ils ont ces ""GlowCaps"" qui s’illuminent et vous envoient des courriels
+											et font toutes sortes de choses amusantes pour vous rappeler de prendre votre médicament.
+											Celui la n’est pas encore un jeu, mais il devrait l’être.
+											Vous devriez obtenir des points pour faire ça à temps.
+											Vous devriez en perdre quand vous ne le faites pas.
+											Ils devraient être conscients du fait
+											qu’ils ont construit une dynamique de rendez-vous et tirer profit du jeu.
+											Et vous pouvez vraiment obtenir de bons résultats de manière très intéressante.
+									","
+											Aber das kann ebenso für Gutes genutzt werden.
+											Das ist eine lokale Firma, genannt Vitality und sie haben ein Produkt erstellt,
+											um Menschen dabei zu unterstützen, ihre Medizin pünktlich zu nehmen.
+											Es ist ein Termin.
+											Es ist etwas, was die Menschen nicht so gut können.
+											Und sie haben diese Leuchtdeckel welche, Sie wissen schon, aufblinken und Ihnen E-Mails schicken
+											und all diese coolen Dinge tun, um Sie daran zu erinnern, Ihre Medizin zu nehmen.
+											Das ist etwas, was derzeit kein Spiel ist, aber wirklich sein sollte.
+											Sie sollten Punkte dafür kriegen, das termingerecht zu tun.
+											Sie sollten Punkte verlieren, wenn Sie es nicht rechtzeitig schaffen.
+											Sie sollten bewusst erkennen,
+											dass sie eine Termindynamik geschaffen haben und den Spielen zum Durchbruch verhelfen.
+											Und dann können Sie auf unterschiedliche Arten wirklich Gutes erreichen.
+									",The game layer on top of the world,Seth Priebatsch,12:02,"TEDx,business,entertainment,entrepreneur,gaming,money,psychology"
+"
+","
+","
+","
+",The game layer on top of the world,Seth Priebatsch,12:02,"TEDx,business,entertainment,entrepreneur,gaming,money,psychology"
+"
+											Vamos a saltar al próximo, tal vez. Sí.
+											""Influencia y estatus"".
+											Esta es una de las dinámicas de juego más famosas.
+											Se usa en todos lados.
+											Se usa en sus billeteras, en este momento.
+											Todos queremos esa tarjeta de crédito en el extremo izquierdo
+											porque es negra.
+											Y uno ve alguien en CVS o...
+											no CVS... en Christian Dior o algo así, y entonces...
+											No sé. No tengo una tarjeta negra; tengo tarjeta de débito.
+											(Risas)
+											Ellos sacan la tarjeta y uno los ve, tienen esa tarjeta negra.
+											La quiero porque eso significa que son más cool que yo
+											y la necesito.
+									","
+											Bir sonrakine geçecelim belki. Evet.
+											Etki ve Statü.
+											Bu da en meşhur oyun dinamikleirnden birisi.
+											Her yerde kullanılıyor.
+											Şu anda cüzdanlarımızın içinde.
+											Hepimiz en soldaki kredi kartını isteriz
+											çünkü o siyah.
+											Ve birisini CVS'de görürseniz yada —
+											CVS değil — Christian Dior ya da başka birşey ve sonra...
+											Bilmiyorum. Siyah kartım yok, banka kartım var.
+											(gülüşler)
+											Yani onlar kartı çıkartırlar ve adamım bilirsin onlarda bu siyah karttan vardır.
+											Onu istiyorum çünkü onların benden daha havalı
+											olduğunu gösteriyor ve buna ihtiyacım var.
+									","
+											On va passer à la suivante, peut-être. Oui.
+											Influence et statut.
+											Donc voici une des plus célèbres dynamiques de jeu.
+											On l’utilise partout.
+											C'est utilisé dans votre portefeuille, en ce moment même.
+											Tout le monde veut cette carte bancaire tout à gauche
+											parce qu’elle est noire.
+											Et vous voyez quelqu’un chez CVS ou —
+											pas CVS – chez Christian Dior ou par là, et après…
+											Je ne sais pas. Je n’ai pas de carte noire : j’ai une carte de débit.
+											(Rires)
+											Donc ils la sortent. Et vous voyez des hommes, ils ont cette carte.
+											Je la veux parce que ça veut dire qu'ils sont plus cool que moi,
+											et j’en ai besoin.
+									","
+											Springen wir vielleicht zum Nächsten. Ja.
+											Einfluss und Status.
+											Also das ist eine der bedeutendsten Spieldynamiken.
+											Sie wird überall genutzt.
+											Sie wird in Ihren Geldbörsen eingesetzt, genau jetzt.
+											Wir alle wollen diese Kreditkarte ganz links,
+											denn sie ist schwarz.
+											Und Sie sehen jemanden bei CVS oder —
+											nicht CVS — bei Christian Dior oder so und dann...
+											Ich weiß nicht, Ich habe keine schwarze Kreditkarte; Ich habe eine Debitkarte.
+											(Gelächter)
+											Also wenn sie sie zücken. Und Sie sehen Menschen, welche die schwarze Karte haben.
+											Ich will sie, denn sie sind cooler als ich es bin
+											und ich brauch das.
+									",The game layer on top of the world,Seth Priebatsch,12:02,"TEDx,business,entertainment,entrepreneur,gaming,money,psychology"
+"
+","
+","
+","
+",The game layer on top of the world,Seth Priebatsch,12:02,"TEDx,business,entertainment,entrepreneur,gaming,money,psychology"
+"
+											Y esto se usa en juegos también.
+											""Modern Warfare"", uno de los juegos de mejor venta de todos los tiempos.
+											Sólo soy nivel 4 pero quiero desesperadamente ser nivel 10
+											porque a ellos les dan esa placa roja muy cool
+											y eso significa que yo soy en algo mejor que todos los demás.
+											Y eso es muy poderoso para mí. El estatus es un muy buen motivador.
+									","
+											Ve bu oyunlarda da kullanılıyor.
+											""Modern Warfare"" tüm zamanların en iyi satan oyunlarından birisi.
+											Ben sadece 4. seviyedeyim ama 10. seviyede olmak için çıldırıyorum
+											çünkü 10. seviyede bu kırmızı havalı nişan var
+											ve bu benim şöyle ya da böyle herkesten daha iyi olduğumu gösterir.
+											Ve bu benim için çok güçlü. Statü gerçekten iyi bir motivasyondur.
+									","
+											Et ça s’utilise dans les jeux également.
+											“Modern Warfare”, un des jeux les plus vendus de tous les temps.
+											Je suis un niveau 4, mais je veux désespérément être un niveau 10,
+											parce qu’ils ont ce superbe badge rouge,
+											et ça signifie en quelque sorte que je suis meilleur que tous les autres.
+											Et ça a beaucoup d'emprise sur moi. Le statut est un vrai motivateur.
+									","
+											Und dies wird ebenfalls in Spielen eingesetzt.
+											""Modern Warfare"" eines der meistverkauften in der ganzen Geschichte.
+											Ich bin nur Level 4, aber ich will dringend Level 10 haben,
+											denn die haben dieses coole rote Abzeichen bekommen
+											und das bedeutet, dass ich irgendwie besser bin als jeder andere.
+											Und das ist sehr anziehend für mich. Status ist eine sehr gute Motivation.
+									",The game layer on top of the world,Seth Priebatsch,12:02,"TEDx,business,entertainment,entrepreneur,gaming,money,psychology"
+"
+","
+","
+","
+",The game layer on top of the world,Seth Priebatsch,12:02,"TEDx,business,entertainment,entrepreneur,gaming,money,psychology"
+"
+											También se usa en entornos más convencionales
+											y se puede usar más conscientemente en entornos convencionales.
+											La escuela... recuerdo, pasé un año,
+											así que creo que estoy calificado para hablar de la escuela
+											es un juego, sólo que no es un juego tan bien diseñado, ¿cierto?
+											Hay niveles. Hay C. Hay B. Hay A.
+											Hay estatus. Quiero decir, ¿qué es el mejor estudiante sino estatus?
+											Si llamamos mejor estudiante a ""caballero blanco paladín nivel 20"",
+											pienso que la gente probablemente trabajaría mucho más.
+											(Risas)
+											Así que la escuela es un juego y ha habido muchos experimentos
+											sobre cómo hacer esto correctamente.
+											Pero usémoslo conscientemente. ¿Por qué tener juegos que uno puede perder?
+											¿Por qué pasar de A a F o de B a C?
+											Eso apesta. ¿Por qué no subir de nivel?
+											Y en Princeton han experimentado esto en realidad
+											en cuestionarios en los que uno gana puntos de experiencia
+											y uno sube de B a A.
+											Y es muy poderoso.
+											Puede usarse de maneras interesantes.
+									","
+											Daha geleneksel seçeneklerde daha çok kullanılıyor
+											ve daha da bilinçli kullanılabilir.
+											Okul — unutmadan 1 yıl için başarabildim,
+											yani okul hakkında konuşma hakkım var diye düşünüyorum —
+											bir oyun sadece çok şahane düzenlenmiş değil.
+											Okulda seviyeler var. C, B, A.
+											Statüler. Yani bir ""Örnek Öğrenci"" statüden başka nedir?
+											Örnek öğrenciye ""20. seviye Beyaz Palandin Şövalye"" diyecek olsak
+											muhtemelen insanlar daha sıkı çalışırlardı.
+											(gülüşler)
+											Yani okul bir oyun ve bunu nasıl düzenlice yapacağımızla ilgili
+											birçok deneyim mevcut.
+											Ama bunu bilinçli bir şekilde ele alalım. Neden kaybedebileceğimiz oyunlar olduğu gibi?
+											Neden A'dan F'ye gidelim ya da B'den C'ye?
+											Bu berbat. Neden seviye atlamıyoruz?
+											Princton'da aslında bunu denediler;
+											deneyim puanı kazandığınız sınavlar var
+											ve B'den A'ya yükseliyorsunuz.
+											Ve bu çok güçlü.
+											İlgi çekici yönlerde kullanılabilir.
+									","
+											On l’utilise également dans des cadres plus conventionnels
+											et peut être utilisé plus consciemment dans des cadres conventionnels.
+											L’école – et souvenez-vous, j’y suis passé pendant un an,
+											je suis donc qualifié pour parler d’école —
+											est un jeu, juste un jeu pas très bien conçu, d'accord.
+											Il y a des niveaux. Il y a les C. Il y a les B. Il y a les A.
+											Il ya des statuts. Je veux dire, qu’est ce qu’un major si ce n’est pas un statut ?
+											Si on appelle major un ""chevalier blanc paladin niveau 20"",
+											je pense que les gens travailleraient beaucoup plus.
+											(Rires)
+											Donc l’école est un jeu. Et il y a eu plein d'expériences
+											sur comment faire ça correctement.
+											Mais utilisons-la consciemment. Comme, pourquoi avoir des jeux où on peut perdre ?
+											Pourquoi passer de A à F ou de B à C ?
+											C'est bête. Pourquoi ne pas monter en niveau ?
+											Et à Princeton ils ont en fait testé cela,
+											avec des questionnaires où vous gagnez des points expériences,
+											et vous passez du niveau B au niveau A.
+											Et c’est très puissant.
+											Il peut être utilisé de façon intéressante.
+									","
+											Es wird auch in konventionelleren Szenarien eingesetzt
+											und kann noch bewusster in konventionellen Bereichen eingesetzt werden.
+											Schule — und erinnern Sie sich, ich schaffte es durch ein Jahr,
+											also, ich denke, ich bin qualifieziert über Schule zu reden —
+											ist ein Spiel, es nur kein verdammt gut entwickeltes Spiel, nicht wahr.
+											Es gibt Level. Es gibt C. Es gibt B. Es gibt A.
+											Es gibt Status. Ich meine, was bedeutet es, Jahrgangsbester Absolvent zu sein, außer Status?
+											Wenn wir einen Jahrgangsbesten Absolventen einen ""weißen Ritter Paladin Level 20"" nennen,
+											glaube ich, würden die Menschen möglicherweise viel härter arbeiten.
+											(Gelächter)
+											Also Schule ist ein Spiel und es hat eine Menge Experimente gegeben,
+											wie man das richtig machen kann.
+											Aber lassen Sie es uns bewusst nutzen. Derart, wieso hat man Spiele, bei denen man verlieren kann?
+											Wieso geht man von einer A zu einer F oder von B zu einer C?
+											Das nervt. Wieso nicht besser werden?
+											Und in Princeton haben sie tatsächlich damit experimentiert,
+											sie hatten Tests bei welchen Sie Erfahrungspunkte sammeln
+											und von B zu A aufsteigen konnten.
+											Und es ist mächtig.
+											Es kann auf interessante Weisen genutzt werden.
+									",The game layer on top of the world,Seth Priebatsch,12:02,"TEDx,business,entertainment,entrepreneur,gaming,money,psychology"
+"
+","
+","
+","
+",The game layer on top of the world,Seth Priebatsch,12:02,"TEDx,business,entertainment,entrepreneur,gaming,money,psychology"
+"
+											La tercera de la que quiero hablar rápidamente es la ""dinámica de progresión""
+											en la que uno tiene que hacer progresos;
+											uno tiene que atravesar diferentes pasos de manera muy granular.
+											Esto se usa en todos lados, incluso en LinkedIn,
+											donde uno es un individuo incompleto.
+											Yo estoy al 85% completo en LinkedIn,
+											y eso me molesta.
+											Y esto está tan arraigado en nuestra psique
+											que cuando nos presentan una barra de progreso
+											y es presentada con pasos fáciles y granulares
+											a tomar para tratar de completar la barra de progreso, lo haremos.
+											Encontraremos la manera de mover esa línea azul
+											por toda la pantalla hasta el borde derecho.
+									","
+											Çabucak bahsetmek istediğim üçüncü dinamik ise İlerleme dinamiği,
+											burda ilerleme katetmeniz gerekiyor,
+											sıralı olarak farklı adımları geçmeniz gerekiyor.
+											Bu her yerde kullanılıyor, LinkedIn de dahil olmak üzere,
+											ki ben burda tam olarak yalnız değilim.
+											LinkedIn'de sadece %85 tamamlandım
+											ve bu canımı sıkıyor.
+											Bu aklımızda o kadar yer etmiş ki
+											bir ilerleme çubuğuyla karşılaşıp
+											bu kolay sıralı adımları deneyip tamamlamamız istendiğinde
+											bunu yapacağız.
+											Bu mavi çizgiyi sağ taraftaki bitişe kadar
+											ilerletmenin bir yolunu bulacağız.
+									","
+											La troisième donc je veux vous parler rapidement c’est la dynamique de progression,
+											ou en quelque sorte vous devez faire des progrès,
+											vous devez passer à travers différentes étapes de manière granulaire.
+											On l’utilise partout, LinkedIn inclus,
+											où je suis un individu pas tout à fait complet.
+											Je suis seulement complet à 85 % sur LinkedIn,
+											et ça m’embête.
+											Et c’est tellement incrusté dans votre tête
+											que, lorsque nous avons une barre de progression
+											présentée avec des étapes faciles, bien définies
+											à passer pour essayer de compléter cette barre, nous allons le faire.
+											On trouvera un moyen de faire bouger cette barre bleue.
+											jusqu’au bout à droite de l’écran.
+									","
+											Das dritte worüber ich schnell sprechen möchte, ist die Fortschrittsdynamik,
+											wo Sie eine Art Fortschritt machen müssen,
+											Sie müssen verschiedene Stufen in einer sehr granulösen Art und Weise durchlaufen.
+											Das wird überall genutzt, eingeschlossen LinkedIn,
+											wo ich ein unvollständiges Individuum bin.
+											Ich habe nur 85 Prozent auf LinkedIn vervollständigt
+											und das stört mich.
+											Und das sitzt so tief in unserer Psyche,
+											dass, wenn uns ein Fortschrittsbalken gezeigt wird,
+											und präsentiert mit leichten, körnigen Schritten
+											den Versuch zu wagen und den Fortschrittsbalken abzuschließen, werden wir es tun.
+											Wir werden einen Weg finden, die blaue Linie zu verschieben,
+											den ganzen Weg bis an die rechte Ecke des Monitors.
+									",The game layer on top of the world,Seth Priebatsch,12:02,"TEDx,business,entertainment,entrepreneur,gaming,money,psychology"
+"
+","
+","
+","
+",The game layer on top of the world,Seth Priebatsch,12:02,"TEDx,business,entertainment,entrepreneur,gaming,money,psychology"
+"
+											Esto se usa en los juegos convencionales también.
+											Quiero decir, uno ve que este es un paladín nivel 10,
+											y ese es un paladín nivel 20,
+											y si uno fuera a pelear, ya saben, los orcos en los campos de Mordor
+											contra Raz al Ghul,
+											uno probablemente querría ser el más grande, ¿no?
+											Yo querría.
+											Y así la gente trabaja mucho para subir niveles.
+											""World of Warcraft"" es uno de los juegos más exitosos de todos los tiempos.
+											El jugador promedio pasa algo así como
+											6, 6 horas y media al día con eso.
+											Los jugadores más dedicados tienen como un empleo de tiempo completo.
+											Es una locura. Y uno tiene estos sistemas en los que puede subir niveles.
+											Y eso es algo muy poderoso. La progresión es algo poderoso.
+									","
+											Bu geleneksel oyunlarda da kullanılıyor.
+											Demek istediğim, 10. seviyedeki paladini görüyorsunuz
+											ve bu da 20. seviye paladin
+											ve eğer Mordor alanında orklara karşı savaşacaksanız
+											Raz al Ghul'a karşı
+											muhtemelen sağdaki büyük olanı istersiniz değil mi.
+											Ben isterdim.
+											İnsanlar seviye atlamak için çok sıkı çalışıyorlar.
+											""World of Warcraft"" tüm zamanların en başarılı oyunlarından biri.
+											Ortalama bir oyuncu günde 6-6,5 saatini
+											oyun başında geçiriyor.
+											En bağımlı oyuncular için tam zamanlı bir iş gibi.
+											Bu delilik. Seviye atlayabileceğiniz sistemleri var.
+											Ve bu çok güçlü birşey. İlerleme güçtür.
+									","
+											On l’utilise également dans les jeux conventionnels.
+											Je veux dire, ceci est un paladin niveau 10,
+											et celui est un paladin niveau 20,
+											et si vous deviez combattre, par exemple, des orques sur les terres de Mordor
+											contre le Raz al Ghul,
+											vous voudrez probablement être le plus grand, pas vrai.
+											Moi oui.
+											Donc les gens travaillent durement pour monter en niveau.
+											""World of Warcraft"" est un des jeux les plus réussis de tous les temps.
+											Le joueur moyen passe à peu près
+											six à six heures et demi par jour dessus.
+											Pour les joueurs les plus dévoués, c'est un travail plein-temps.
+											C'est dingue. Et ils ont ces systèmes où vous pouvez monter en niveau.
+											Et c’est vraiment très puissant. La progression a un effet puissant.
+									","
+											Dies wird ebenfalls in konventionellen Spielen genutzt.
+											Ich meine, Sie sehen dies ist ein Paladin Level 10
+											und das ist ein Paladin Level 20
+											und wenn sie in einen Kampf gehen würden, Sie wissen schon, Orks auf den Feldern von Mordor,
+											gegen die Raz al Ghul,
+											würden sie vermutlich der größere sein wollen, nicht wahr.
+											Ich würde.
+											Und deswegen arbeiten Menschen sehr hart um aufzusteigen.
+											""World of Warcraft"" ist eines der erfolgreichsten Spiele aller Zeiten.
+											Der durchschnittliche Spieler verbringt irgendwas um
+											sechs, sechseinhalb Stunden am Tag damit.
+											Für die ambitioniertesten Spieler ist es wie ein Vollzeitjob.
+											Es ist verrückt. Und sie haben diese Systeme, wo Sie aufsteigen können.
+											Und das ist eine sehr mächtige Sache. Fortschritt ist mächtig.
+									",The game layer on top of the world,Seth Priebatsch,12:02,"TEDx,business,entertainment,entrepreneur,gaming,money,psychology"
+"
+","
+","
+","
+",The game layer on top of the world,Seth Priebatsch,12:02,"TEDx,business,entertainment,entrepreneur,gaming,money,psychology"
+"
+											Puede usarse de maneras muy convincentes para bien.
+											Una de las cosas en las que trabajamos en SCVNGR
+											es cómo se pueden usar juegos para dirigir el tráfico y los negocios hacia negocios locales,
+											para algo que es crucial para la economía.
+											Y aquí tenemos un juego que juega la gente.
+											Ellos viajan, tienen desafíos, ganan puntos.
+											Y hemos introducido una dinámica de progresión en eso
+											por la cual yendo al mismo lugar una y otra vez
+											realizando desafíos, comprometiéndose con el negocio,
+											uno mueve una barra verde desde el ángulo izquierdo hacia el ángulo derecho de la pantalla
+											y, finalmente, uno obtiene recompensas.
+											Y esto es lo suficientemente poderoso que podemos ver
+											que se engancha gente en estas dinámicas,
+											las empuja de nuevo a los mismos negocios locales
+											crea gran fidelidad, crea compromiso,
+											y es capaz de producir ganancias significativas
+											y diversión y compromiso con el negocio.
+											Estas dinámicas de progresión son poderosas
+											y pueden usarse en el mundo real.
+									","
+											Bu iyi amaçlar için de zorlayıcı yönlerde kullanılabilir.
+											SCVNGR'da üzerinde çalıştığımız şeylerden birisi de
+											iş trafiğini yerel iş çevrelerine yönlendirmek için oyunları nasıl kullanabileceğimiz
+											ki bu da ekonominin can damarlarından biridir.
+											Burada insanların oynadığı bir oyun var.
+											Bir yerlere gidiyorlar, meydan okuyorlar, puan kazanıyorlar.
+											Ve biz buna bir ilerleme çubuğu ekledik
+											aynı yere tekrar ve tekrar giderek,
+											meydan okuyarak, iş bağlantıları kurarak,
+											yeşil çubuğu sol köşeden sağ köşeye ilerletiyorsunuz
+											ve sonunda ödüller kazanıyorsunuz.
+											Ve bunun insanları bu dinamiklere
+											çekecek kadar güçlü olduğunu görüyoruz,
+											insanları aynı yerel iş çevresine itiyor,
+											büyük sadakat ve bağlılık oluşturuyor,
+											ve anlamlı bir geliri, eğlenceyi ve
+											bağlılığı iş çevrelerine taşıyabiliyor.
+											Bu ilerleme dinamikleri güçlü ve
+											gerçek dünyada kullanılabilirler.
+									","
+											Elle peut être utilisée de manière très convaincante pour le bien.
+											Une des choses sur lesquelles on travaille à SCVNGR
+											est l'utilisation des jeux pour piloter les flux et pousser les commerces aux affaires locales,
+											vers quelque chose qui est vraiment important pour l’économie.
+											Et ici vous avez un jeu que les gens jouent.
+											Ils vont dans des endroits, ils acceptent des défis, ils gagnent des points.
+											Et on a introduit une dynamique de progression,
+											où, en allant régulièrement à un endroit,
+											en acceptant des défis, en s’engageant dans les affaires,
+											vous avancez sur une barre verte de gauche à droite de l’écran,
+											et vous finissez par débloquer des récompenses.
+											Et c’est assez puissant pour que l'on voit
+											que ça accroche les gens à ces dynamiques,
+											ça les tire à nouveau vers les affaires locales,
+											ça crée une forte loyauté, ça crée de l’engagement,
+											et c'est capable de générer du profit
+											de l’amusement et de l’engagement par rapport aux affaires.
+											Ces dynamiques de progression sont puissantes
+											et peuvent être utilisées dans le monde réel.
+									","
+											Es kann ebenso in sehr fesselnden Wegen für etwas Gutes genutzt werden.
+											Eines der Dinge woran wir bei SCVNGR arbeiten,
+											ist wie Sie Spiele nutzen können, um die Anzahl der Besucher zu erhöhen und das Unternehmenswachstum für lokale Geschäfte zu optimieren,
+											in einer Art, die sehr entscheidend für die Wirtschaft ist.
+											Und hier haben wir ein Spiel das Menschen spielen.
+											Sie gehen an Orte, sie stellen sich Herausforderungen, sie verdienen Punkte.
+											Und wir haben eine Fortschrittsdynamik eingeführt,
+											durch das Besuchen derselben Plätze wieder und wieder,
+											durch das Absolvieren von Herausforderungen, durch die Kontaktaufnahme mit Geschäften,
+											bewegen Sie einen grünen Balken von der linken Ecke des Bildschirms hin zur rechten Ecke des Bildschirms
+											und Sie bekommen letztendlich Belohnungen.
+											Und das ist mächtig genug, dass wir sehen können,
+											dass es Menschen in diese Dynamiken hängt,
+											es zieht sie zurück in die gleichen Geschäfte,
+											erschafft hohe Treue und schafft Bindung,
+											und ist in der Lage bedeutungsvolles Einkommen zu generieren
+											und Spaß und Bindung an die Geschäfte.
+											Diese Fortschrittsdynamiken sind mächtig
+											und können in der realen Welt genutzt werden.
+									",The game layer on top of the world,Seth Priebatsch,12:02,"TEDx,business,entertainment,entrepreneur,gaming,money,psychology"
+"
+","
+","
+","
+",The game layer on top of the world,Seth Priebatsch,12:02,"TEDx,business,entertainment,entrepreneur,gaming,money,psychology"
+"
+											La última de la que quiero hablar, y es una grande para finalizar,
+											es el concepto de ""descubrimiento comunitario"",
+											una dinámica en la que todos tienen que trabajar juntos
+											para lograr algo.
+											Y el descubrimiento comunitario es poderoso porque aprovecha
+											la red que es la sociedad
+											para resolver problemas.
+											Esto se usa en algunas tiendas web famosas
+											como Digg, de la que estoy seguro todos han oído.
+											Digg es una dinámica comunitaria
+											para tratar de ser la fuente de las mejores noticias;
+											de las historias más interesantes.
+											Y, en un principio, hicieron esto en un juego.
+											Tenían una tabla de líderes en la que si uno recomendaba las mejores historias
+											uno obtenía puntos.
+											Y eso realmente motivaba a la gente a encontrar las mejores historias.
+											Pero se volvió tan poderoso que había en realidad una conspiración,
+											un grupo de personas, los siete principales de la tabla de líderes,
+											que trabajarían juntos para asegurarse de mantenerse en esa posición.
+											Y ellos recomendarían las historias de otras personas.
+											Y el juego se volvió más poderoso que el objetivo.
+											Y en realidad tuvieron que acabar cerrando la tabla de líderes
+											porque, si bien era efectiva,
+											era tan efectiva que dejó de proveer las mejores historias
+											y empezó a haber gente que trabajaba para mantener su liderazgo.
+											Por eso tuvimos que usar esta dinámica con cuidado.
+											También se usa en cosas como el Monopoly de McDonald's,
+											donde el juego no es el Monopoly que uno está jugando
+											sino la suerte de industrias artesanales que forman
+											para tratar de encontrar Boardwalk, ¿no?
+											Y ahora sólo buscan una pequeña etiqueta que dice ""Boardwalk"".
+									","
+											Konuşacağımız son dinamik — ve bitiş için iyi bir tane —
+											Toplumsal Bulgu konsepti,
+											birşeye ulaşabilmek için
+											herkesin birlikte çalışması gereken bir dinamik.
+											Ve toplumsal bulgunun güçlü olmasının sebebi
+											problemleri çözmek için
+											toplum ağını kullanması.
+											Bu bazı web tabanlı tüketici makalelerinde kullanılıyor
+											Digg gibi, eminin ki hepiniz hakkında duymuşsunuzdur.
+											Digg en iyi haberleri ve en ilginç makaleleri
+											bulmaya çalışan ve barındıran
+											bir toplumsal dinamik.
+											Ve ilk olarak bunu bir oyuna çevirdiler.
+											En iyi makaleleri tavsiye etmeniz durumunda puan
+											kazandığınız bir lider listeleri var.
+											Ve bu insanları en iyi makaleleri bulmak için gerçekten motive ediyor.
+											Ama bu öylesine güçlü hale geldi ki,
+											kendi pozisyonlarını koruduklarından emin olmak için
+											beraber çalışan bir grup insan vardı, Top 10'un ilk 7'si.
+											Onlar diğer insanların makalelerini tavsiye edebilirlerdi.
+											Oyun amaçtan daha güçlü hale geldi.
+											Aslında lider listesini kapatmak zorunda kaldılar
+											çünkü liste aktifken öylesine güçlüydü ki
+											insanlar yeni makaleleri aramayı bırakıp
+											liderliklerini korumak için beraber çalışmaya başlamışlardı.
+											Yani bunu dikkatli kullanmamız gerekiyor.
+											McDonald Monopoly gibi şeylerde de kullanılıyor
+											oynadığınız oyun Monoply'den çok
+											iskeleyi bulmaya çalıştığınız
+											bir kulübe endüstrisi olarak şekillenmiş durumda.
+											Ve şimdi sadece ""İskele"" yazan küçük bir etiket arıyorlar.
+									","
+											La dernière donc je veux vous parler — une remarquable pour terminer —
+											c’est le concept de découverte collective,
+											une dynamique dans laquelle tout le monde travaille ensemble
+											pour atteindre quelque chose.
+											Une découverte collective est puissante parce qu’elle pousse
+											le réseau, la société
+											à résoudre des problèmes.
+											On l’utilise dans certaines histoires célèbres du web qui viennent des consommateurs,
+											comme Digg, dont je suis sûr que vous en avez entendu parler.
+											Digg est une dynamique collective
+											pour essayer de trouver les meilleures informations,
+											les histoires les plus intéressantes.
+											Et ils en avaient fait un jeu, au début.
+											Ils avaient un classement où, si vous recommandiez les meilleures histoires,
+											vous obteniez des points.
+											Et ça motivait vraiment les gens à chercher les meilleures histoires.
+											Mais c’est devenu tellement puissant, qu'il y a eu en fait un cartel,
+											un groupe de personnes, les sept premiers du classement,
+											qui ont travaillé ensemble pour être sûr de maintenir leurs positions.
+											Et ils recommandaient les histoires d’autres gens.
+											Et le jeu est devenu plus puissant que l’objectif.
+											Et ils ont donc dû finir par fermer le classement
+											parce que, pendant qu’il était actif,
+											c’était tellement puissant qu’on avait plus vraiment les meilleures histoires
+											et qu’il y avait des gens qui travaillaient pour maintenir leurs positions.
+											On doit donc l'utiliser avec précaution.
+											Elle est utilisée également dans des choses comme le Monopoly McDonald’s,
+											où le jeu n’est pas le jeu du Monopoly habituel,
+											mais une espèce de petites industries qui se forment
+											pour essayer de trouver Boardwalk.
+											Et maintenant ils sont en train de chercher un autocollant qui dit ""Boardwalk"".
+									","
+											Das Letzte worüber ich sprechen möchte — und es ist ein großartiges für das Ende —
+											ist das Konzept von gemeinschaftlicher Entdeckung,
+											eine Dynamik, bei welcher alle zusammen arbeiten müssen,
+											um etwas zu erreichen.
+											Und gemeinschaftliche Entdeckung ist mächtig, denn es bringt
+											das Netzwerk, bekannt als Gesellschaft, in Schwung,
+											um Probleme zu lösen.
+											Das wird bei einigen bekannten Verbraucher-Webgeschichten getan,
+											wie Digg, wovon Sie sicher schon alle gehört haben.
+											Digg ist eine kommunale Dynamik,
+											die versucht, die besten Neuigkeiten zu finden,
+											die spannendsten Geschichten.
+											Und sie haben es anfangs zu einem Spiel gemacht.
+											Sie hatten eine Rangliste, wo, wenn Sie die besten Geschichten empfohlen haben,
+											Sie Punkte bekommen würden.
+											Und das hat die Menschen wirklich motiviert, die besten Geschichten zu finden.
+											Es wurde so mächtig, dass es tatsächlich zu Intrigen gekommen ist,
+											eine Gruppe Menschen, die obersten Sieben der Rangliste,
+											welche zusammenarbeiteten, um sicherzustellen, dass sie Ihre Position behalten.
+											Und sie haben die Stories der anderen empfohlen.
+											Und das Spiel wurde mächtiger als das Ziel.
+											Und sie mussten die Rangliste beenden und abschalten,
+											denn, obwohl es effektiv war,
+											war es so mächtig, dass die besten Geschichten nicht mehr gefunden wurden
+											und Menschen begannen, gemeinsam zu arbeiten, um ihre Ranglistenposition beizubehalten.
+											Also müssen wir damit sorgfältig umgehen.
+											Es wird auch bei Dingen wie McDonald's Monopoly genutzt,
+											wo das Spiel, was Sie spielen, nicht das Monopolyspiel ist,
+											aber es ist eine Art von Hausindustrie, die sich bildet,
+											um die Promenade zu finden, genau.
+											Und nun ist man einfach auf der Suche nach einem kleinen Aufkleber, wo draufsteht ""Promenade"".
+									",The game layer on top of the world,Seth Priebatsch,12:02,"TEDx,business,entertainment,entrepreneur,gaming,money,psychology"
+"
+","
+","
+","
+",The game layer on top of the world,Seth Priebatsch,12:02,"TEDx,business,entertainment,entrepreneur,gaming,money,psychology"
+"
+											Pero también puede usarse para encontrar cosas reales.
+											Este es el desafío del globo DARPA
+											en el que escondían un par de globos en todo Estados Unidos
+											y decían: ""Usen redes.
+											Traten de encontrar estos globos más rápido y el ganador recibirá $40.000"".
+											Y el ganador fue en realidad un grupo del MIT,
+											que creó una especie de esquema piramidal, una red,
+											donde la primera persona en recomendar la ubicación de un globo
+											obtenía $2.000 y cualquier otro que propagaba esa recomendación hacia arriba
+											también obtenía una parte de eso.
+											Y en 12 horas, fueron capaces de encontrar
+											todos estos globos, por todo el país, ¿correcto?
+											Una dinámica muy poderosa.
+									","
+											Ama gerçek şeyler için de kullanılabilir.
+											Bu DARPA'nın balon yarışı,
+											Birleşik Devletlerin her tarafına balonlar sakladılar ve
+											""Ağları kullanın, balonları en hızlı şekilde bulun
+											$40,000 ödülü alın."" dediler.
+											Kazanan MIT'den bir grup oldu,
+											grup bir piramit şeması, bir ağ oluşturdu
+											balonun yerini ilk tavsiye eden $2.000 alıyordu
+											ve tavsiyeyi devam ettiren, ilerleten
+											kişi de pay alıyordu.
+											Ve 12 saat içinde ülkenin her tarafında saklanan
+											bütün balonları bulabildiler.
+											Gerçekten güçlü bir dinamik.
+									","
+											Mais il peut être également utilisé pour trouver des choses réelles.
+											Ceci est le défi des ballons de la DARPA,
+											où ils ont dissimulés un certain nombre de ballons aux Etats-Unis
+											et ils ont dit, ""Utilisez les réseaux.
+											Essayez de trouver ces ballons le plus vite possible, et le vainqueur gagnera 40 000 $"".
+											Et le gagnant a été en fait un groupe du MIT,
+											qui avaient créé une sorte de schéma en pyramide, un réseau,
+											où la première personne qui donne un conseil sur l’emplacement du ballon
+											gagne 2 000 $ et n’importe qui soutient ce conseil
+											en gagne également une partie.
+											Et en 12 heures, ils ont été capables de trouver
+											tous ces ballons, dans tout le pays.
+											Une dynamique très puissante.
+									","
+											Aber es kann auch dafür genutzt werden, um reale Dinge zu finden.
+											Das ist die DARPA Ballon Herausforderung,
+											wo sie ein paar Ballons überall in den Vereinigten Staaten versteckt haben
+											und sagten: ""Nutzt Netzwerke.
+											Versucht diese Ballons am schnellsten zu finden und der Gewinner wird $40.000 bekommen.""
+											Und der Gewinner war tatsächlich eine Gruppe vom MIT,
+											wo sie eine Art Pyramiden-Schema geschaffen haben, ein Netzwerk,
+											wo die erste Person, die die Position des Ballons meldete,
+											$2.000 bekam und alle anderen, die diese Information weiterleiteten,
+											ebenfalls einen Teil davon bekamen.
+											Und nach 12 Stunden haben sie
+											all diese Ballone, alle querfeldein, gefunden.
+											Wirklich mächtige Dynamik.
+									",The game layer on top of the world,Seth Priebatsch,12:02,"TEDx,business,entertainment,entrepreneur,gaming,money,psychology"
+"
+","
+","
+","
+",The game layer on top of the world,Seth Priebatsch,12:02,"TEDx,business,entertainment,entrepreneur,gaming,money,psychology"
+"
+											Me quedan unos 20 segundos,
+											por lo que si les voy a dejar algo es que
+											la última década fue la década de lo social.
+											Esta próxima década es la década de los juegos.
+											Usamos la dinámica de juegos para construirlo. Construimos con trabajo comunitario.
+											Podemos influir en el comportamiento.
+											Es algo muy poderoso. Es muy emocionante.
+											Construyámoslo todos juntos, hagámoslo bien y divirtámonos jugando.
+									","
+											Böylece 20 saniye gibi bir sürem kaldı
+											ve eğer son birşeyle bitirecek olursak
+											son 10 yıl sosyalleşmenin dönemiydi.
+											Önümüzdeki dönem ise oyunların dönemi.
+											Bunu oluşturmak için oyun dinamiklerini kullanıyoruz. Bilgi paylaşımı ile oluşturuyoruz.
+											Davranışları etkileyebiliriz.
+											Bu çok güçlü ve heyecan verici.
+											Bunları beraber oluşturalım, hakkıyla yapalım ve oynarken eğlenelim.
+									","
+											Il me reste donc 20 secondes,
+											donc si je dois vous quitter avec quelque chose,
+											la dernière décennie a été la décennie du social.
+											La prochaine décennie va être celle des jeux.
+											On utilise les dynamiques de jeu pour construire dessus. On construit avec le partage des idées.
+											On peut influencer le comportement.
+											C'est très puissant. C'est très excitant.
+											Construisons-le ensemble, faisons-le bien et amusons-nous.
+									","
+											Und also, ich habe noch ungefähr 20 Sekunden,
+											also wenn ich Ihnen irgendetwas mitgebe,
+											die letzte Dekade war die Dekade des Sozialen.
+											Die nächste Dekade ist die Dekade der Spiele.
+											Wir nutzen Spieldynamiken um darauf zu bauen. Wir bauen mit Blick auf Marktbedeutung.
+											Wir können Verhalten beeinflussen.
+											Es ist sehr mächtig. Es ist sehr aufregend.
+											Lassen Sie es uns alle gemeinsam erschaffen, lassen Sie es uns gut machen und Spaß am Spielen haben.
+									",The game layer on top of the world,Seth Priebatsch,12:02,"TEDx,business,entertainment,entrepreneur,gaming,money,psychology"
+"
+","
+","
+","
+",The game layer on top of the world,Seth Priebatsch,12:02,"TEDx,business,entertainment,entrepreneur,gaming,money,psychology"

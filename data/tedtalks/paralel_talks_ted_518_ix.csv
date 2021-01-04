@@ -1,0 +1,2590 @@
+en,es,tr,de,title,speaker,duration,tags
+"
+","
+","
+","
+",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+											So, I lead a team at Google
+that works on machine intelligence;
+											in other words, the engineering discipline
+of making computers and devices
+											able to do some of the things
+that brains do.
+											And this makes us
+interested in real brains
+											and neuroscience as well,
+											and especially interested
+in the things that our brains do
+											that are still far superior
+to the performance of computers.
+									","
+											Coordino un equipo de Google que 
+trabaja en inteligencia artificial;
+											es decir, en la disciplina de ingeniería 
+para fabricar computadoras y dispositivos
+											capaces de hacer algunas cosas 
+que hacen los cerebros.
+											Y esto hace que nos interese 
+mucho el cerebro real,
+											la neurociencia
+											y, especialmente, nos interesan 
+las cosas que hace nuestro cerebro
+											que todavía son muy superiores 
+al rendimiento de las computadoras.
+									","
+											Google'da makine zekâsı üzerine çalışan
+bir takımı yönetiyorum;
+											yani, bilgisayar ve 
+makineleri yapan mühendislik disiplini
+											beynin yaptığı bazı şeyleri yapabiliyor.
+											Bu da bizim gerçek beyinlere
+											ve nörolojiye de
+											ve özellikle bilgisayarların 
+performansından hâlâ üstün olan
+											beynimizin yaptığı şeylere 
+ilgi duymamızı sağlıyor.
+											Tarihsel olarak bu 
+alanlardan biri algıdır,
+											dünyada algılanarak var olan şeyler —
+											sesler ve resimler gibi —
+											zihinde kavramlara dönüşebilir.
+											Bu beynimiz için vazgeçilmezdir
+											ve bir bilgisayarda da oldukça 
+kullanışlıdır.
+											Takımımın yaptığı makine
+algı algoritmaları örneğin,
+											Google Fotoğraflar'da resimlerinizdeki
+şeyleri baz alarak onların aranabilir
+											olmasını sağlıyor.
+											Algının diğer yüzü yaratıcılık:
+											Bir kavramı dünyadaki bir nesneye
+dönüştürmektir.
+									","
+											Ich bin Teamleiter bei Google 
+im Bereich Maschinenintelligenz,
+											das ist die Ingenieurdisziplin,
+mit der man Computern und Geräten
+											etwas von dem beibringen kann,
+was Gehirne können.
+											Deshalb interessieren wir uns
+auch für echte Gehirne
+											und Neurowissenschaften,
+											und besonders für die Dinge,
+die unsere Gehirne können,
+											die noch weit über die Fähigkeiten
+von Computern hinausgehen.
+									",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+","
+","
+","
+",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+											Historically, one of those areas
+has been perception,
+											the process by which things
+out there in the world —
+											sounds and images —
+											can turn into concepts in the mind.
+											This is essential for our own brains,
+											and it's also pretty useful on a computer.
+											The machine perception algorithms,
+for example, that our team makes,
+											are what enable your pictures
+on Google Photos to become searchable,
+											based on what's in them.
+											The flip side of perception is creativity:
+											turning a concept into something
+out there into the world.
+											So over the past year,
+our work on machine perception
+											has also unexpectedly connected
+with the world of machine creativity
+											and machine art.
+									","
+											Históricamente, una de esas áreas 
+ha sido la percepción,
+											el proceso por el cual 
+las cosas que hay en el mundo,
+											sonidos e imágenes,
+											pueden convertirse 
+en conceptos en la mente.
+											Esto es esencial 
+para nuestro propio cerebro,
+											y también es muy útil en una máquina.
+											Nuestro equipo hace algoritmos
+de percepción computacional
+											que permiten encontrar imágenes en Google
+											en función de lo que hay en ellas.
+											La otra cara de la percepción 
+es la creatividad:
+											convertir un concepto 
+en algo que hay en el mundo.
+											Así que en el último año, nuestro 
+trabajo en percepción computacional
+											ha conectado de forma inesperada 
+con el mundo de la creatividad
+											y el arte computacionales.
+									","
+											Geçen yıl boyunca makine algısı üzerine
+yaptığımız çalışmalar da
+											beklenmedik bir şekilde makine 
+yaratıcılığı ve makine sanatı dünyasıyla
+											bağlandı.
+									","
+											Ein Teilbereich unserer Arbeit war 
+schon immer die Wahrnehmung,
+											also der Vorgang, durch den
+die Dinge auf der Welt —
+											Geräusche und Bilder —
+											in unserem Kopf zu Konzepten werden.
+											Das ist entscheidend für unsere Gehirne
+											und auch ziemlich nützlich für Computer.
+											Unser Team schreibt Algorithmen 
+für maschinelle Wahrnehmung,
+											die etwa ermöglichen, dass
+Ihre Bilder auf Google Fotos
+											basierend auf dem Bildinhalt
+gesucht werden können.
+											Das Gegenstück zur Wahrnehmung 
+ist die Kreativität,
+											also das Schaffen einer Sache
+auf Grundlage eines Konzepts.
+											Letztes Jahr kam zwischen unserer 
+Arbeit an maschineller Wahrnehmung,
+											dem Feld der maschinellen Kreativität
+sowie der maschinellen Kunst
+											unerwartet eine Verbindung zustande.
+									",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+","
+","
+","
+",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+											I think Michelangelo
+had a penetrating insight
+											into to this dual relationship
+between perception and creativity.
+											This is a famous quote of his:
+											""Every block of stone
+has a statue inside of it,
+											and the job of the sculptor
+is to discover it.""
+											So I think that what
+Michelangelo was getting at
+											is that we create by perceiving,
+											and that perception itself
+is an act of imagination
+											and is the stuff of creativity.
+									","
+											Creo que Miguel Ángel 
+tenía una visión aguda
+											en esta doble relación 
+entre la percepción y la creatividad.
+											Esta es una de sus célebres citas:
+											""Cada bloque de piedra tiene 
+una estatua en su interior,
+											y el trabajo del escultor 
+es descubrirla"".
+											Pienso que Miguel Ángel quería decir
+											que creamos al percibir,
+											y que la propia percepción 
+es un acto de imaginación
+											y es la materia de la creatividad.
+									","
+											Bence Michelangelo algı ve yaratıcılık 
+arasındaki ikili ilişkiye
+											dair keskin bir bakış açısına sahipti.
+											Onun ünlü bir sözüdür:
+											""Her bir taş blok içinde bir heykel 
+barındırır ve
+											heykeltraşın görevi bunu ortaya 
+çıkarmaktır.""
+											Yani bence 
+Michelangelo'nun anlatmak istediği
+											algılayarak yaratırız,
+											algının kendisi hayal gücümüzün 
+bir eylemi ve
+											yaratıcılığın malzemesidir.
+									","
+											Ich glaube, Michelangelo hatte 
+einen scharfen Blick
+											für das duale Verhältnis zwischen
+Wahrnehmung und Kreativität.
+											Ein berühmtes Zitat von ihm lautet:
+											""Jeder rohe Stein hat eine Figur in sich,
+											der Bildhauer muss sie nur entdecken.""
+											Ich glaube, Michelangelo wollte sagen,
+											dass wir durch Wahrnehmung erschaffen.
+											Die Wahrnehmung ist
+ein Akt der Vorstellung,
+											die Grundlage für Kreativität.
+									",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+","
+","
+","
+",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+											The organ that does all the thinking
+and perceiving and imagining,
+											of course, is the brain.
+											And I'd like to begin
+with a brief bit of history
+											about what we know about brains.
+											Because unlike, say,
+the heart or the intestines,
+											you really can't say very much
+about a brain by just looking at it,
+											at least with the naked eye.
+											The early anatomists who looked at brains
+											gave the superficial structures
+of this thing all kinds of fanciful names,
+											like hippocampus, meaning ""little shrimp.""
+											But of course that sort of thing
+doesn't tell us very much
+											about what's actually going on inside.
+									","
+											El órgano que crea todo el pensamiento, 
+la percepción y la imaginación,
+											por supuesto, es el cerebro.
+											Y me gustaría empezar 
+con un poquito de historia
+											sobre lo que sabemos del cerebro.
+											Porque a diferencia de, por ejemplo, 
+el corazón o los intestinos,
+											realmente no se puede decir mucho 
+de un cerebro con solo mirarlo,
+											al menos a simple vista.
+											Los primeros anatomistas 
+que exploraron cerebros dieron
+											a las estructuras superficiales de esta 
+cosa todo tipo de nombres de fantasía,
+											como hipocampo, 
+que significa ""pequeño camarón"".
+											Pero, por supuesto, 
+eso no nos dice mucho
+											de lo que realmente 
+sucede en el interior.
+									","
+											Düşünmeyi, algılamayı ve hayal etmeyi 
+sağlayan organımız
+											tabii ki de beynimizdir.
+											Beyinler hakkında bildiğimiz şeylerin
+											kısa bir tarihiyle başlamak istiyorum.
+											Çünkü kalp ya da bağırsakların aksine
+											en azından çıplak gözle 
+bakarak bir beyin hakkında
+											çok bir şey söyleyemezsin.
+											Beyni inceleyen ilk anatomi uzmanları
+											beynin yüzeysel yapılarına, ""denizatı"" 
+anlamına gelen hipokampüs gibi
+											birçok tuhaf isim vermişler.
+											Fakat bu bize aslında içinde ne olduğu
+
+											hakkında pek bir şey ifade etmiyor.
+									","
+											Das Organ, das all das Denken,
+Wahrnehmen und Vorstellen erledigt,
+											ist natürlich das Gehirn.
+											Jetzt möchte ich kurz
+historisch betrachten,
+											was wir über Gehirne wissen.
+											Denn anders als über 
+das Herz oder die Eingeweide
+											kann man nur durch Betrachten 
+nicht viel über Gehirne herausfinden,
+											zumindest nicht mit bloßem Auge.
+											Die ersten Anatomen, 
+die sich Gehirne ansahen,
+											gaben der oberflächlichen Struktur
+eine ganze Reihe fantasievoller Namen,
+											wie Hippocampus, was 
+""kleiner Shrimp"" bedeutet.
+											Doch so etwas verrät uns 
+natürlich nicht viel darüber,
+											was im Inneren wirklich vor sich geht.
+									",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+","
+","
+","
+",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+											The first person who, I think, really
+developed some kind of insight
+											into what was going on in the brain
+											was the great Spanish neuroanatomist,
+Santiago Ramón y Cajal,
+											in the 19th century,
+											who used microscopy and special stains
+											that could selectively fill in
+or render in very high contrast
+											the individual cells in the brain,
+											in order to start to understand
+their morphologies.
+											And these are the kinds of drawings
+that he made of neurons
+											in the 19th century.
+									","
+											La primera persona que, creo, 
+desarrolló una visión
+											de lo que ocurría en el cerebro
+											fue el gran neuroanatomista español, 
+Santiago Ramón y Cajal,
+											en el siglo XIX,
+											que usó la microscopía 
+y tinciones especiales
+											para poder marcar selectivamente 
+en un contraste muy alto
+											las células individuales en el cerebro,
+											para empezar a entender sus morfologías.
+											Y estos son los tipos de dibujos 
+que hizo de las neuronas
+											en el siglo XIX.
+									","
+											Bence beyinde ne olduğuna dair gerçekten
+bir bakış açısı geliştiren ilk kişi,
+											19. yüzyılda beyindeki bireysel hücrelerin
+											morfolojilerini (yapı) anlamaya 
+başlamak için
+											mikroskop ve
+											bu hücreleri yüksek kontrastta
+											titizlikle doldurabilen ya da 
+eritebilen özel kimyasallar kullanan,
+											büyük İspanyol nöro-anatomist
+											Santiago Ramón y Cajal'dır.
+											Bunlar da 19. yy'da nöronlardan 
+(sinir hücresi) yaptığı
+											çizimler.
+									","
+											Die erste Person, die meiner Meinung nach
+wirklich eine Art Einblick
+											in die inneren Vorgänge
+des Gehirns gewann,
+											war der große spanische Neuroanatom
+Santiago Ramón y Cajal
+											im 19. Jahrhundert,
+											der mit Mikroskopie und Spezialfarbe
+											die einzelnen Gehirnzellen 
+selektiv ausfüllte
+											oder kontrastreich darstellte,
+											um die Morphologie
+der Zellen zu verstehen.
+											Das sind die Zeichnungen,
+											die er im 19. Jahrhundert
+von Neuronen anfertigte.
+									",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+","
+","
+","
+",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+											This is from a bird brain.
+											And you see this incredible variety
+of different sorts of cells,
+											even the cellular theory itself
+was quite new at this point.
+											And these structures,
+											these cells that have these arborizations,
+											these branches that can go
+very, very long distances —
+											this was very novel at the time.
+											They're reminiscent, of course, of wires.
+											That might have been obvious
+to some people in the 19th century;
+											the revolutions of wiring and electricity
+were just getting underway.
+											But in many ways,
+											these microanatomical drawings
+of Ramón y Cajal's, like this one,
+											they're still in some ways unsurpassed.
+									","
+											Esto es de un cerebro de un pájaro.
+											Y ya ven esta increíble variedad 
+de diferentes tipos de células,
+											incluso la propia teoría celular 
+era bastante nueva en este momento.
+											Y estas estructuras,
+											estas células que tienen 
+estas arborizaciones,
+											estas ramas que pueden alcanzar
+muy largas distancias,
+											esto era muy novedoso en esa época.
+											Nos recuerdan, por supuesto, 
+a los cables.
+											Eso podría haber sido obvio 
+para algunos en el siglo XIX;
+											las revoluciones del cableado y de 
+la electricidad se estaban iniciando.
+											Pero en muchos sentidos,
+											los dibujos de microanatomía 
+de Ramón y Cajal, como éste,
+											todavía son, 
+en cierto modo, insuperables.
+									","
+											Bir kuş beyninden alıntı.
+											Bu inanılmaz farklı çeşitlikteki 
+hücreleri görüyorsunuz,
+											hücre teorisi bile o zaman çok yeniydi.
+											Bu yapılar,
+											dallanmaların olduğu hücreler,
+											çok çok uzağa gidebilen dallar
+											o zamanlar çok yeniydi.
+											Tabii ki de kabloları andırıyorlar.
+											19. yy'da bu bazı insanlar 
+için açık ve netti;
+											kabloların ve elektriğin devrimi 
+yeni bir yolculuğa başlıyordu.
+											Fakat birçok açıdan
+											örnekteki gibi Ramón y Cajal'ın
+mikroanatomik çizimleri
+											hâlâ bazı açılardan emsalsiz.
+									","
+											Diese zeigt ein Vogelgehirn.
+											Sie sehen eine unglaubliche 
+Vielfalt verschiedener Zellarten.
+											Sogar die Zelltheorie selbst
+war damals ziemlich neu.
+											Diese Strukturen,
+diese verzweigten Zellen,
+											diese Äste, die sehr, 
+sehr weit reichen können —
+											das war damals völlig neu.
+											Sie erinnern ganz klar an Kabel.
+											Das mag für manch einen im 19. Jh.
+offensichtlich gewesen sein,
+											als gerade die Revolution 
+der Elektrizität und Verkabelung begann.
+											Doch in vielerlei Hinsicht
+											wurden Ramón y Cajals 
+mikroanatomische Zeichnungen
+											wie diese hier, nie wirklich übertroffen.
+									",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+","
+","
+","
+",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+											We're still more than a century later,
+											trying to finish the job
+that Ramón y Cajal started.
+											These are raw data from our collaborators
+											at the Max Planck Institute
+of Neuroscience.
+											And what our collaborators have done
+											is to image little pieces of brain tissue.
+											The entire sample here
+is about one cubic millimeter in size,
+											and I'm showing you a very,
+very small piece of it here.
+											That bar on the left is about one micron.
+											The structures you see are mitochondria
+											that are the size of bacteria.
+											And these are consecutive slices
+											through this very, very
+tiny block of tissue.
+											Just for comparison's sake,
+											the diameter of an average strand
+of hair is about 100 microns.
+											So we're looking at something
+much, much smaller
+											than a single strand of hair.
+									","
+											Un siglo más tarde todavía
+											tratamos de terminar 
+el trabajo que empezó Ramón y Cajal.
+											Estos son los datos brutos 
+de nuestros colaboradores
+											del Instituto Max Planck 
+de Neurociencia.
+											Nuestros colaboradores
+											han tomado imágenes de 
+trozos de tejido cerebral.
+											La muestra completa aquí 
+es de 1 mm cúbico de tamaño,
+											y les estoy mostrando 
+un trozo muy pequeño.
+											Esa barra de la izquierda es 
+de aproximadamente una micra.
+											Las estructuras visibles 
+son las mitocondrias
+											del tamaño de las bacterias.
+											Y estos son cortes consecutivos
+											de este diminuto bloque de tejido.
+											solo a efectos de comparación,
+											el diámetro de una hebra promedio 
+de pelo es de unas 100 micras.
+											Así que vemos algo mucho, 
+mucho más pequeño
+											que una sola hebra de cabello.
+									","
+											Ramón y Cajal'ın başladığı işi bitirmeye
+											çabalarken hâlâ yüzyıl 
+sonrasından daha uzağız.
+											Bunlar Max Planck Sinirbilim 
+Enstitüsü'ndeki
+											ortaklarımızdan gelen ham verilerdir.
+											Ortaklarımızın yaptığı şey
+											beyin dokusunun küçük parçalarını 
+hayal etmekti.
+											Buradaki tüm örnek boyutun yaklaşık 
+bir milimetre kübü ve
+											size bunun çok ama çok küçük 
+bir parçasını gösteriyorum.
+											Sol taraftaki çizgi yaklaşık bir mikron.
+											Gördüğünüz yapılar bakteri boyutundaki
+											mitokondriler.
+											Bunlar çok çok ince olan
+											doku bloklarındaki 
+ard arda gelen dilimler.
+											Sadece karşılaştırmak amacıyla,
+											ortalama bir saç telinin çapı 
+yaklaşık 100 mikron.
+											Yani tek bir saç telinden çok çok
+											küçük bir şey arıyoruz.
+									","
+											Jetzt, mehr als hundert Jahre später,
+											versuchen wir immer noch, 
+Ramón y Cajals Werk zu vollenden.
+											Das sind die Rohdaten unserer Mitarbeiter
+											am Max-Planck-Institut für Neurobiologie.
+											Unsere Mitarbeiter bilden also
+
+											kleine Teile von Gehirngewebe ab.
+											Diese ganze Probe hier misst
+ungefähr einen Kubikmillimeter.
+											Hier zeige ich Ihnen 
+ein winziges Stück davon.
+											Der Strich links misst circa ein Mikron.
+											Die Strukturen, die Sie sehen,
+sind Mitochondrien,
+											die so groß wie Bakterien sind.
+											Das sind aufeinanderfolgende Schnitte
+											durch diesen sehr, sehr
+dünnen Gewebeblock.
+											Nur zum Vergleich,
+											der Durchmesser einer durchschnittlichen
+Haarsträhne beträgt circa 100 Mikronen.
+											Wir sehen hier also etwas
+noch viel kleineres
+											als eine einzelne Haarsträhne.
+									",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+","
+","
+","
+",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+											And from these kinds of serial
+electron microscopy slices,
+											one can start to make reconstructions
+in 3D of neurons that look like these.
+											So these are sort of in the same
+style as Ramón y Cajal.
+											Only a few neurons lit up,
+											because otherwise we wouldn't
+be able to see anything here.
+											It would be so crowded,
+											so full of structure,
+											of wiring all connecting
+one neuron to another.
+									","
+											Y a partir de este tipo de rebanadas 
+de microscopía electrónica de serie,
+											se pueden hacer reconstrucciones en 3D 
+de las neuronas con este aspecto.
+											Son casi del mismo estilo 
+que las de Ramón y Cajal.
+											Solo se iluminaron unas pocas neuronas,
+											porque, de lo contrario, 
+no se podría ver nada aquí.
+											Estaría tan lleno,
+											tan pleno de estructuras,
+											de cableado de todas las neuronas 
+conectadas una a otra.
+									","
+											Bir bilim insanı bu çeşit seri 
+elektron mikroskopi dilimlerinden
+											bunlara benzeyen üç boyutlu nöronlarda
+yeniden yapılandırmaya başlayabilir.
+											Sonucunda bunlar Ramón y Cajal'la 
+aynı tarzda.
+											Sadece birkaç nöron parlıyor,
+											yoksa burada hiçbir şey göremezdik.
+											Çok kalabalık olurdu,
+											bir nöronu diğer bir nörona
+											bağlayan yapılarla dolu.
+									","
+											Basierend auf den Serien aus
+Elektronenmikroskopscheiben
+											kann man 3D-Nachbildungen
+von Neuronen wie diese hier erstellen.
+											Diese haben in etwa den Stil 
+von Ramón y Cajal.
+											Nur ein paar Neutronen leuchten,
+
+											weil wir hier sonst nichts sehen könnten.
+											Es wäre so unübersichtlich,
+											so überfüllt mit Kabelstrukturen,
+											die die Neuronen verbinden.
+									",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+","
+","
+","
+",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+											So Ramón y Cajal was a little bit
+ahead of his time,
+											and progress on understanding the brain
+											proceeded slowly
+over the next few decades.
+											But we knew that neurons used electricity,
+											and by World War II, our technology
+was advanced enough
+											to start doing real electrical
+experiments on live neurons
+											to better understand how they worked.
+											This was the very same time
+when computers were being invented,
+											very much based on the idea
+of modeling the brain —
+											of ""intelligent machinery,""
+as Alan Turing called it,
+											one of the fathers of computer science.
+									","
+											Así Ramón y Cajal se adelantó 
+un poco a su tiempo,
+											y al progreso 
+en la comprensión del cerebro
+											avanzando lentamente 
+a lo largo de las siguientes décadas.
+											Pero sabíamos que las neuronas 
+usan electricidad
+											y por la Segunda Guerra Mundial, 
+la tecnología avanzó lo suficiente
+											como para empezar a hacer experimentos 
+eléctricos reales con neuronas vivas
+											para comprender mejor cómo funcionaban.
+											En ese mismo momento 
+se desarrollaban las computadoras
+											con la idea de modelar el cerebro,
+											de ""máquinas inteligentes"", 
+como decía Alan Turing,
+											uno de los padres de la informática.
+									","
+											Ramón y Cajal zamanının biraz 
+ilerisindeydi
+											ve beyni anlamadaki ilerlemesini
+											önündeki birkaç 10 yıl boyunca sürdürdü.
+											Nöronların elektrik kullandığını 
+biliyorduk ve
+											2. Dünya Savaşı'yla teknolojimiz nasıl
+çalıştıklarını daha iyi
+											anlamak için canlı nöronlarda gerçek
+elektrikli deneyleri
+											yapmaya başlayacak kadar gelişmişti.
+											Bu tam da bilgisayarların; 
+bilgisayar biliminin fikir 
+
+											öncülerinden biri olan 
+Alan Turing'in deyimiyle
+											beyin modelleme fikrine dayanan
+""akıllı makinelerin""
+											icadıyla aynı dönemdi.
+									","
+											Ramón y Cajal war seiner Zeit
+also etwas voraus.
+											Die Fortschritte beim
+Verstehen des Gehirns
+											geschahen in den folgenden
+Jahrzehnten nur langsam.
+											Aber wir wussten,
+dass Neuronen Elektrizität nutzen.
+											Im Zweiten Weltkrieg
+war unsere Technologie
+											für elektronische Experimente
+an lebenden Neuronen
+											zur Erforschung ihrer
+Funktionsweise ausgereift genug.
+											Genau damals wurden auch
+Computer erfunden,
+											hauptsächlich auf Basis von
+Nachbildungen des Gehirns —
+											""intelligente Maschinen"",
+wie sie Alan Turing nannte,
+											einer der Urväter der Infomatik.
+									",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+","
+","
+","
+",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+											Warren McCulloch and Walter Pitts
+looked at Ramón y Cajal's drawing
+											of visual cortex,
+											which I'm showing here.
+											This is the cortex that processes
+imagery that comes from the eye.
+											And for them, this looked
+like a circuit diagram.
+											So there are a lot of details
+in McCulloch and Pitts's circuit diagram
+											that are not quite right.
+											But this basic idea
+											that visual cortex works like a series
+of computational elements
+											that pass information
+one to the next in a cascade,
+											is essentially correct.
+									","
+											Warren McCulloch y Walter Pitts 
+miraron el dibujo de Ramón y Cajal
+											de la corteza visual,
+											que muestro aquí.
+											Esta es la corteza que procesa 
+las imágenes que provienen del ojo.
+											Y para ellos, esto parecía 
+un diagrama de circuito.
+											Y hay gran cantidad de detalles en el 
+diagrama de circuito de McCulloch y Pitts
+											que no están del todo bien.
+											Pero esta idea básica de que
+											la corteza visual funciona como 
+una serie de elementos computacionales
+											que pasan una información de uno 
+al siguiente en cascada,
+											es esencialmente correcta.
+									","
+											Warren McCulloch ve Walter Pitts,
+Ramón y Cajal'ın burada gösterdiğim
+											görme korteksinin (merkezi)
+											çizimlerine baktı.
+											Bu korteks gözden gelen 
+görüntüleri işliyor.
+											Onlar için bu devre şeması gibiydi.
+											Bu yüzden McCulloch ve Pitts'in 
+devre şemasında
+											tamamen doğru olmayan 
+birçok detay bulunmakta.
+											Ama bu temel
+											görme korteksinin hesaplama
+elemanları serisi gibi
+											çalışarak sonrakine 
+ard arda bilgi aktarması fikri
+											temelde doğrudur.
+									","
+											Warren McCulloch und Walter Pitts
+betrachteten Ramón y Cajals Zeichnung
+											eines visuellen Cortex,
+											die ich Ihnen hier zeige.
+											Das ist der Cortex, der Bilder 
+verarbeitet, die das Auge sieht.
+											Sie fanden, dass es 
+wie ein Schaltplan aussah.
+											Im Schaltplan von McCulloch 
+und Pitts gibt es viele Details,
+											die nicht ganz stimmen.
+											Doch der Grundgedanke,
+											dass der visuelle Cortex wie eine
+Reihe Computerelemente funktioniert,
+											die Informationen stufenartig
+nacheinander weiterreichen,
+											stimmt im Grunde.
+									",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+","
+","
+","
+",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+											Let's talk for a moment
+											about what a model for processing
+visual information would need to do.
+											The basic task of perception
+											is to take an image like this one and say,
+											""That's a bird,""
+											which is a very simple thing
+for us to do with our brains.
+											But you should all understand
+that for a computer,
+											this was pretty much impossible
+just a few years ago.
+											The classical computing paradigm
+											is not one in which
+this task is easy to do.
+									","
+											Hablemos por un momento
+											de lo que tendría que hacer un modelo 
+para procesar la información visual.
+											La tarea básica de la percepción
+											es tomar una imagen como esta y decir:
+											""Eso es un pájaro""
+											que es algo muy simple 
+de ver con nuestro cerebro.
+											Pero todos Uds. deben entender 
+que para una computadora
+											esto era prácticamente imposible 
+hace pocos años.
+											Con el paradigma 
+de la computación clásica
+											esta tarea no es fácil de hacer.
+									","
+											Biraz görsel bilgi işleme için modelin
+											ne yapması gerektiğinden bahsedelim.
+											Algının temel görevi
+											bu gibi bir resme bakıp şöyle demektir,
+											""Bu bir kuş.""
+											ki bu bizim beyinlerimizle
+yaptığımız çok kolay bir şeydir.
+											Ama şunu anlamalısınız ki
+bilgisayar için,
+											birkaç yıl önce neredeyse imkânsızdı.
+											Klasik hesaplama paradigması
+											bu işi kolay yapanlardan
+biri değil.
+									","
+											Besprechen wir kurz,
+											was ein Modell für die Verarbeitung
+visueller Informationen machen müsste.
+											Die Grundaufgabe der Wahrnehmung ist es,
+											bei einem solchen Bild zu sagen:
+											""Das ist ein Vogel"",
+											für unsere Gehirne ist das sehr einfach.
+											Sie müssen aber bedenken,
+dass das für einen Computer
+											noch vor ein paar Jahren
+völlig unmöglich war.
+											Für ein klassisches Rechensystem
+											ist das nicht einfach.
+									",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+","
+","
+","
+",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+											So what's going on between the pixels,
+											between the image of the bird
+and the word ""bird,""
+											is essentially a set of neurons
+connected to each other
+											in a neural network,
+											as I'm diagramming here.
+											This neural network could be biological,
+inside our visual cortices,
+											or, nowadays, we start
+to have the capability
+											to model such neural networks
+on the computer.
+											And I'll show you what
+that actually looks like.
+									","
+											Entonces lo que pasa 
+entre los píxeles,
+											entre la imagen del ave 
+y la palabra ""pájaro""
+											es esencialmente un conjunto 
+de neuronas conectadas entre sí
+											en una red neuronal,
+											como la que diagramo aquí.
+											Esta red neuronal podría ser biológica, 
+en nuestras cortezas visuales,
+											o, en la actualidad, podemos
+											modelar este tipo de redes neuronales 
+en la computadora.
+											Y mostraré qué aspecto tienen.
+									","
+											Pikseller arasında,
+											kuş resmi ve ""kuş"" kelimesi 
+arasında olan,
+											temelde sinir ağında birbirine bağlı
+
+											nöronlar kümesidir,
+											burada şemalaştırdığım gibi.
+											Bu sinir ağı, görme kortekslerimizin
+içerisinde, biyolojik olabilir
+											veya günümüzde, bu gibi
+sinir ağları modelleme
+											kapasitesine sahip olmaya
+başladık bilgisayarlarda.
+											Size gerçekte nasıl
+göründüğünü açıklayacağım.
+									","
+											Was zwischen den Pixeln,
+											dem Bild eines Vogels 
+und dem Wort ""Vogel"" passiert,
+											ist im Grunde eine Gruppe 
+miteinander verbundener Neuronen
+											in einem neuronalen Netzwerk,
+											wie in meinem Diagramm.
+											Dieses neuronale Netzwerk kann 
+ein natürliches in unserer Sehrinde sein.
+											Heute können wir beginnen,
+											solche neuronalen Netzwerke 
+in Computern nachbauen.
+											Ich gebe Ihnen eine Vorstellung davon.
+									",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+","
+","
+","
+",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+											So the pixels you can think
+about as a first layer of neurons,
+											and that's, in fact,
+how it works in the eye —
+											that's the neurons in the retina.
+											And those feed forward
+											into one layer after another layer,
+after another layer of neurons,
+											all connected by synapses
+of different weights.
+											The behavior of this network
+											is characterized by the strengths
+of all of those synapses.
+											Those characterize the computational
+properties of this network.
+											And at the end of the day,
+											you have a neuron
+or a small group of neurons
+											that light up, saying, ""bird.""
+									","
+											Así que los píxeles se puede pensar 
+como una primera capa de neuronas,
+											y así es, de hecho, 
+como funciona el ojo,
+											eso son las neuronas de la retina.
+											Y después avanzan
+											de una capa a la otra, 
+y luego a otra capa de neuronas,
+											todas conectadas 
+por sinapsis de diferentes pesos.
+											El comportamiento de esta red
+											se caracteriza por las fortalezas 
+de todas esas sinapsis.
+											Estas caracterizan las propiedades 
+computacionales de esta red.
+											Y al final
+											una neurona o un pequeño grupo de neuronas
+											da la luz, diciendo, ""pájaro"".
+									","
+											Pikselleri nöronların ilk
+katmanı gibi düşünebilirsiniz
+											ve aslında gözde de
+bu şekilde işler —
+											bunlar retinadaki nöronlar.
+											İleri beslenir
+											bir katmandan diğer katmana,
+ardından diğer farklı ağırlıklı
+											sinapslarla birbirine bağlı 
+olan nöronlar katmanına.
+											Bu ağın davranışı
+											tüm bu sinapsların gücü ile 
+karakterize edilir.
+											Ağın hesaplama gücün özelliklerini
+karakterize ederler.
+											Günün sonunda,
+											tek bir nöron veya küçük bir
+nöron grubunuz olur,
+											""Kuş"" sözü ile parlayan.
+									","
+											Die Pixel können Sie sich als
+erste Neuronenschicht vorstellen.
+											Genau so funktioniert das
+im Prinzip auch im Auge —
+											mit den Neuronen in der Netzhaut.
+											Die Neuronen leiten weiter,
+											Schicht für Schicht 
+durch die Neuronenschichten,
+											die alle über Synapsen verschiedener 
+Gewichtung verbunden sind.
+											Das Verhalten dieses Netzwerks
+											wird durch die Stärke
+all dieser Synapsen bestimmt.
+											Diese bestimmen die rechnerischen
+Eigenschaften des Netzwerks.
+											Schlussendlich leuchtet dann ein Neuron
+											oder eine kleine Gruppe Neuronen auf
+											und sagt ""Vogel"".
+									",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+","
+","
+","
+",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+											Now I'm going to represent
+those three things —
+											the input pixels and the synapses
+in the neural network,
+											and bird, the output —
+											by three variables: x, w and y.
+											There are maybe a million or so x's —
+											a million pixels in that image.
+											There are billions or trillions of w's,
+											which represent the weights of all
+these synapses in the neural network.
+											And there's a very small number of y's,
+											of outputs that that network has.
+											""Bird"" is only four letters, right?
+											So let's pretend that this
+is just a simple formula,
+											x ""x"" w = y.
+											I'm putting the times in scare quotes
+											because what's really
+going on there, of course,
+											is a very complicated series
+of mathematical operations.
+									","
+											Ahora voy a representar esas tres cosas:
+											los píxeles de entrada, 
+las sinapsis en la red neuronal,
+											y el pájaro, la salida,
+											con tres variables: X, W e Y.
+											Hay tal vez un millón o más de X,
+											un millón de píxeles en la imagen.
+											Hay miles de millones o billones de W,
+											que representan los pesos de todas 
+estas sinapsis en la red neuronal.
+											Y hay un número muy pequeño de Y,
+											de salidas que tiene esa red.
+											""Pájaro"" son solo seis letras, ¿verdad?
+											Así que vamos a suponer 
+que esto es solo una fórmula simple,
+											X ""x"" W = Y.
+											Pongo la multiplicación entre comillas
+											porque lo que realmente pasa allí, 
+por supuesto,
+											es una serie muy complicada 
+de operaciones matemáticas.
+									","
+											Şimdi şu üç şeyi tasvir edeceğim—
+											giriş pikselleri ve 
+sinir ağındaki sinapslar
+											ve kuş yani çıktı verisi —
+											şu üç değişkenle: x, w ve y.
+											Belki de bir milyon
+ya da civarında x —
+											o görüntüde bir milyon piksel var.
+											Milyarlarca ya da trilyonlarca w'lar var
+											sinir ağındaki tüm bu sinapsların 
+ağırlıklarını gösteren.
+											Az sayıda y'ler var,
+											ağın çıktısı olarak.
+											""Kuş"" (Bird) sadece 4 harfli değil mi?
+											Bunun basit bir formül olduğunu
+farz edelim:
+											x ""x"" w = y.
+											Çarpım işaretini tırnak
+arasına aldım çünkü
+											orada tam olarak olan, şüphesiz,
+											matematiksel operasyonların 
+çok karmaşık serileridir.
+									","
+											Jetzt werde ich diese drei Dinge —
+											die Pixel als Input, die Synapsen
+im neuronalen Netzwerk
+											und den Vogel als Output
+											durch drei Variablen ersetzen: x, w und y.
+											Es kann eine Million x geben —
+											eine Million Pixel in einem Bild.
+											Es gibt Milliarden oder Billiarden w,
+											die für die Gewichtung der Synapsen
+im neuronalen Netzwerk stehen.
+											Es gibt nur ganz wenige y,
+											also Outputs des Netzwerks.
+											""Vogel"" hat nur fünf Buchstaben.
+											Dann tun wir doch einfach so,
+als sei es nur eine einfache Formel:
+											x ""x"" w = y.
+											Ich setze das ""Mal""-Zeichen 
+in Anführungszeichen,
+											denn der eigentliche Vorgang hier
+											ist eine komplizierte Abfolge
+mathematischer Vorgänge.
+									",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+","
+","
+","
+",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+											That's one equation.
+											There are three variables.
+											And we all know
+that if you have one equation,
+											you can solve one variable
+by knowing the other two things.
+											So the problem of inference,
+											that is, figuring out
+that the picture of a bird is a bird,
+											is this one:
+											it's where y is the unknown
+and w and x are known.
+											You know the neural network,
+you know the pixels.
+											As you can see, that's actually
+a relatively straightforward problem.
+											You multiply two times three
+and you're done.
+											I'll show you an artificial neural network
+											that we've built recently,
+doing exactly that.
+									","
+											Esa es una ecuación.
+											Hay tres variables.
+											Y todos sabemos que 
+si uno tiene una ecuación,
+											puede resolver una variable 
+conociendo las otras dos.
+											Así que el problema de la inferencia,
+											es decir, averiguar que la imagen 
+de un pájaro es un pájaro,
+											es este:
+											Y es la desconocida 
+y W y X las conocidas.
+											Se conoce la red neuronal, 
+y también los píxeles.
+											Como se puede ver, en realidad, es 
+un problema relativamente sencillo.
+											Se multiplica dos veces tres y ya está.
+											Les voy a mostrar 
+una red neuronal artificial
+											que hemos construido recientemente, 
+haciendo exactamente eso.
+									","
+											Bu, bir denklem.
+											Üç değişken var.
+											Hepimizin bildiği gibi
+eğer bir denklemin varsa,
+											diğer ikisini bilerek, bir değişkeni
+bulabilirsin.
+											Çıkarım sorunu ise
+											kuş resminde kuş olduğunu çıkarmakta.
+											Bu ise:
+											y bilinmeyen, w ve x biliniyor.
+											Sinir ağını biliyorsunuz,
+pikselleri biliyorsunuz.
+											Görüldüğü gibi nispeten
+anlaşılır bir problem.
+											3 ile 2'yi çarpıyorsunuz ve bitiyor.
+											Geçenlerde oluşturduğumuz,
+aynısını yapan
+											yapay bir sinir ağı göstereceğim size.
+									","
+											Das ist eine Gleichung.
+											Es gibt drei Variablen.
+											Bekanntlich kann man eine Variable
+einer Gleichung lösen,
+											wenn man die anderen beiden kennt.
+											Das Problem mit der Schlussfolgerung,
+											also das Herausfinden,
+dass das Bild einen Vogel zeigt,
+											ist das folgende:
+											Y ist unbekannt,
+und w und x sind bekannt.
+											Wir kennen das neuronale 
+Netzwerk und die Pixel.
+											Es scheint ein recht
+einfaches Problem zu sein.
+											Wir rechnen zwei mal drei und sind fertig.
+											Ich zeige Ihnen jetzt ein neu entwickeltes
+künstliches neuronales Netzwerk,
+											das genau das tut.
+									",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+","
+","
+","
+",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+											This is running in real time
+on a mobile phone,
+											and that's, of course,
+amazing in its own right,
+											that mobile phones can do so many
+billions and trillions of operations
+											per second.
+											What you're looking at is a phone
+											looking at one after another
+picture of a bird,
+											and actually not only saying,
+""Yes, it's a bird,""
+											but identifying the species of bird
+with a network of this sort.
+											So in that picture,
+											the x and the w are known,
+and the y is the unknown.
+											I'm glossing over the very
+difficult part, of course,
+											which is how on earth
+do we figure out the w,
+											the brain that can do such a thing?
+											How would we ever learn such a model?
+									","
+											Esto se ejecuta en tiempo real 
+en un teléfono móvil,
+											y eso es, por supuesto, 
+sorprendente en sí mismo,
+											que los teléfonos móviles puedan hacer
+											tantos millones y billones 
+de operaciones por segundo.
+											Lo que ven es un teléfono
+											que analiza imágenes 
+de un pájaro una tras otra.
+											Y, de hecho, no solo dice: 
+""Sí, es un pájaro""
+											sino que identifica las especies 
+de pájaros con una red de este tipo.
+											Así que en ese cuadro,
+											la X y la W son conocidas, 
+y la Y es la desconocida.
+											Estoy pasando por alto 
+la parte más difícil, por supuesto,
+											que es cómo demonios 
+podemos averiguar la W,
+											cómo puede el cerebro hacerlo.
+											¿Cómo podríamos llegar a aprender 
+un modelo de este tipo?
+									","
+											Gerçek zamanlı olarak
+cep telefonunda işletiliyor
+											ve elbette başlı başına harika,
+											cep telefonlarının saniyede
+milyarlarca ve trilyonlarca işlemi
+											yapabiliyor olması.
+											Seyrettiğiniz, art arda
+											kuş resimlerinin olduğu bir telefon
+											ve aslında sadece ""Evet, bu bir kuş,"" 
+demekle kalmıyor
+											hatta ağ ile kuşun 
+cinsini de tanımlıyor.
+											Resimde,
+											x ve w biliniyor,
+y bilinmiyor.
+											Zor kısmını gizliyorum, tabii ki,
+											w'yi nasıl hesaplayabiliriz,
+											beyin böyle bir şeyi nasıl yapabilir?
+											Böyle bir modeli nasıl öğrenebiliriz?
+									","
+											Es läuft in Echtzeit 
+auf einem Mobiltelefon,
+											und das an sich ist 
+natürlich schon erstaunlich,
+											dass Mobiltelefone so viele
+Milliarden und Billiarden Vorgänge
+											pro Sekunde verarbeiten können.
+											Sie sehen hier ein Telefon,
+											das Bilder von einem Vogel 
+nacheinander ansieht,
+											und sogar nicht nur 
+""Ja, es ist ein Vogel"" sagt,
+											sondern mit einem solchen Netzwerk
+auch die Vogelart bestimmt.
+											Bei diesem Bild
+
+											kennen wir das x und das w,
+und das y ist unbekannt.
+											Ich lasse hier natürlich
+den schwierigen Teil aus,
+											also wie um alles in der Welt
+wir das w finden können,
+											wie das Gehirn so etwas kann.
+											Wie können wir jemals 
+so ein Modell erlernen?
+									",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+","
+","
+","
+",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+											So this process of learning,
+of solving for w,
+											if we were doing this
+with the simple equation
+											in which we think about these as numbers,
+											we know exactly how to do that: 6 = 2 x w,
+											well, we divide by two and we're done.
+											The problem is with this operator.
+											So, division —
+											we've used division because
+it's the inverse to multiplication,
+											but as I've just said,
+											the multiplication is a bit of a lie here.
+											This is a very, very complicated,
+very non-linear operation;
+											it has no inverse.
+											So we have to figure out a way
+to solve the equation
+											without a division operator.
+											And the way to do that
+is fairly straightforward.
+											You just say, let's play
+a little algebra trick,
+											and move the six over
+to the right-hand side of the equation.
+											Now, we're still using multiplication.
+											And that zero — let's think
+about it as an error.
+											In other words, if we've solved
+for w the right way,
+											then the error will be zero.
+											And if we haven't gotten it quite right,
+											the error will be greater than zero.
+									","
+											Este proceso de aprendizaje 
+de despejar W,
+											si lo hacemos con una simple ecuación
+											en la que pensamos en ellos como números,
+											sabemos exactamente 
+cómo hacer eso: 6 = 2 x W,
+											así, se divide por dos y ya está.
+											El problema estriba en este operador.
+											Por lo tanto, la división,
+											hemos usado la división 
+por ser la inversa de la multiplicación,
+											pero, como acabo de decir,
+											la multiplicación tiene 
+algo de mentira aquí.
+											Esta es una operación muy complicada, 
+nada lineal;
+											que no tiene inversa.
+											Así que tenemos que encontrar 
+una manera de resolver la ecuación
+											sin un operador de división.
+											Y la manera de hacerlo 
+es bastante sencilla.
+											Vamos a aplicar 
+un pequeño truco de álgebra,
+											y a mover el 6 hacia 
+el lado derecho de la ecuación.
+											Ahora, todavía usamos la multiplicación.
+											Y el cero... pensémoslo como un error.
+											Es decir, si hemos resuelto la W 
+de la manera correcta,
+											luego el error será el cero.
+											Y si no lo hacemos del todo bien,
+											el error será mayor que cero.
+									","
+											Bu öğrenme, w'yi 
+hesaplama sürecinde
+											sayı olarak düşündüğümüz o
+
+											basit denklemdeki gibi yapsaydık,
+											kesin olarak yapılışını bilirdik: 6=2 x w,
+											2'ye böleriz ve biter.
+											Problem bu işaret ile.
+											Bölme —
+											bölmeyi kullandık çünkü 
+çarpmanın tersi,
+											ama bahsettiğim gibi
+											buradaki çarpma biraz göstermelik.
+											Bu oldukça karmaşık, doğrusal 
+olmayan bir işlem;
+											tersi yok.
+											Denklemi çözmek için
+bir yol bulmalıyız
+											bölme işlemi olmadan.
+											Ve bunu yapmanın yolu gayet açık.
+											Biraz cebir hilesi yapalım diyebiliriz
+											ve 6'yı denklemin 
+sağ tarafına taşıyalım.
+											Hâlâ çarpma işlemini kullanıyoruz.
+											0'ı hata olarak düşünelim.
+											Yani, w'yi doğru bulursak
+											hata 0 olacaktır.
+											Doğru bulamazsak,
+											hata 0'dan büyük olacaktır.
+									","
+											Wenn wir diesen Lernvorgang, 
+also wie man nach w auflösen kann,
+											wenn wir das bei der
+einfachen Gleichung anwenden,
+											in der wir sie uns als Zahlen vorstellen,
+											wissen wir genau, was zu tun ist:
+6 = 2 x w,
+											wir teilen durch zwei und fertig.
+											Das Problem ist dieses Rechenzeichen.
+											Division —
+											wir wählen die Division, weil sie 
+das Gegenteil der Multiplikation ist,
+											aber wie gesagt,
+											Mulitplikation stimmt hier nicht ganz.
+											Es handelt sich um einen sehr 
+komplizierten, nichtlinearen Vorgang
+											ohne Umkehrung.
+											Wir müssen also herausfinden,
+											wie wir die Gleichung
+ohne Divisionszeichen lösen können.
+											Eigentlich ist es ganz einfach:
+											Wir zaubern einfach
+ein wenig mit der Algebra.
+											Wir ziehen die 6 auf
+die rechte Seite der Gleichung.
+											Wir multiplizieren immer noch.
+											Diese Null — betrachten 
+wir einfach als Fehler.
+											Anders gesagt, wenn wir
+korrekt nach w auflösen,
+											dann ist der Fehler null.
+											Wenn wir einen Fehler machen,
+											ist der Fehler größer als null.
+									",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+","
+","
+","
+",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+											So now we can just take guesses
+to minimize the error,
+											and that's the sort of thing
+computers are very good at.
+											So you've taken an initial guess:
+											what if w = 0?
+											Well, then the error is 6.
+											What if w = 1? The error is 4.
+											And then the computer can
+sort of play Marco Polo,
+											and drive down the error close to zero.
+											As it does that, it's getting
+successive approximations to w.
+											Typically, it never quite gets there,
+but after about a dozen steps,
+											we're up to w = 2.999,
+which is close enough.
+											And this is the learning process.
+									","
+											Así que ahora solo podemos hacer 
+conjeturas para minimizar el error,
+											y en eso las computadoras son muy buenas.
+											Así que ya hemos hecho 
+una aproximación inicial:
+											¿Y si W = 0?
+											Entonces el error es 6.
+											¿Qué pasa si W = 1? 
+El error es 4.
+											Y luego, la computadora puede correr 
+una especie de Marco Polo,
+											y reducir el error cercano a cero.
+											A medida que lo hace, se logra 
+aproximaciones sucesivas a W.
+											Por lo general, nunca llega allí, 
+pero tras una docena de pasos,
+											estamos en W = 2.999, 
+que es lo suficientemente aproximado.
+											Y este es el proceso de aprendizaje.
+									","
+											Şimdi hatayı minimize etmek için
+tahminlerde bulunabiliriz
+											ki bu da bilgisayarların iyi
+olduğu bir alan.
+											Başka bir tahminde bulundunuz:
+											Farz edelim w=0 olsun.
+											O zaman hata 6 olur.
+											Ya w=1 olursa? 
+Hata 4 olur.
+											O zaman bilgisayar bir çeşit
+körebe (Marco Polo)
+											oynayabilir ve hatayı
+0'a yakınlaştırabilir.
+											Bunu yaparken de w
+için ardışık yaklaşıklama elde eder.
+											Genellikle tam olarak ulaşamaz
+ama bir düzine aşamadan sonra
+											w=2,999 'e kadar geldik
+ki bu da yeterince yakın.
+											Bu öğrenme süreci.
+									","
+											Jetzt können wir einfach raten,
+um den Fehler zu minimieren.
+											Computer können das ausgezeichnet.
+											Sie raten also ins Blaue:
+											Was, wenn w = 0?
+Dann ist der Fehler 6.
+											Wenn w = 1? Dann ist der Fehler 4.
+											Dann kann der Computer Marco Polo spielen
+											und den Fehler gegen Null gehen lassen.
+											Dabei nähert er sich immer mehr dem w an.
+											Meist schafft er es nicht ganz,
+aber nach ungefähr einem Dutzend Schritten
+											liegen wir bei w = 2,999,
+und das ist genau genug.
+											Das ist der Lernprozess.
+									",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+","
+","
+","
+",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+											So remember that what's been going on here
+											is that we've been taking
+a lot of known x's and known y's
+											and solving for the w in the middle
+through an iterative process.
+											It's exactly the same way
+that we do our own learning.
+											We have many, many images as babies
+											and we get told, ""This is a bird;
+this is not a bird.""
+											And over time, through iteration,
+											we solve for w, we solve
+for those neural connections.
+									","
+											Así que recuerden que
+											hemos tomado muchas X e Y conocidas
+											para resolver la W por medio 
+de un proceso iterativo.
+											De la misma manera como 
+lo hacemos en nuestro propio aprendizaje.
+											Tenemos muchas, muchas imágenes de bebés
+											y nos dicen: ""Esto es un pájaro, 
+esto no es un pájaro"".
+											Y con el tiempo, a través de iteración,
+											resolvemos W, lo resolvemos 
+para esas conexiones neuronales.
+									","
+											Unutmayın, burada yaptığımız;
+
+											birçok bilinen x ve y ile
+											ortadaki w'yi yinelemeli
+süreç boyunca çözüyoruz.
+											Öğrenirken yaptıklarımızla
+tamamen aynı.
+											Bebekliğimizden birçok anımız vardır,
+											bize ""Bu kuş; bu kuş değil."" denen.
+											Ve zamanla, yinelemeler boyunca
+											w'yi çözüyoruz, sinirsel bağlantıları
+çözüyoruz.
+									","
+											Erinnern Sie sich daran,
+											dass wir gerade viele bekannte x
+und bekannte y genommen haben.
+											Wir lösten das w in der Mitte
+durch ein Wiederholungsverfahren.
+											Genauso lernen auch wir.
+											Als Babys sehen wir sehr viele Bilder.
+											Jemand sagt: ""Das ist ein Vogel; 
+das ist kein Vogel.""
+											Mit der Zeit und durch Wiederholung
+											lösen wir nach w und diesen
+neuronalen Verbindungen auf.
+									",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+","
+","
+","
+",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+											So now, we've held
+x and w fixed to solve for y;
+											that's everyday, fast perception.
+											We figure out how we can solve for w,
+											that's learning, which is a lot harder,
+											because we need to do error minimization,
+											using a lot of training examples.
+									","
+											Así que ahora ya tenemos despejada la X,
+y la W para resolver Y;
+											eso todos los días, percepción rápida.
+											Entendemos cómo podemos resolver W,
+											esto es aprendizaje, 
+que es mucho más difícil,
+											porque tenemos que minimizar errores,
+											usando mucho ejemplos 
+para el entrenamiento.
+									","
+											Şimdi, y'yi çözmek için
+sabit x ve w'ye sahibiz
+											ki bu da her gün, hızlı algılama.
+											W'yi nasıl çözebileceğimizi buluyoruz
+											ki bu da çok daha zor olan öğrenmedir,
+											çünkü hata küçültme yapmamız gerekir,
+											birçok eğitim örnekleri kullanarak.
+									","
+											Jetzt haben wir mit x und w 
+nach y aufgelöst.
+											Die alltägliche, schnelle Wahrnehmung.
+											Herauszufinden, wie man
+nach w auflösen kann,
+											ist Lernen und viel schwerer,
+											weil wir die Fehler
+											nur über viele Übungsbeispiele
+minimieren können.
+									",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+","
+","
+","
+",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+											And about a year ago,
+Alex Mordvintsev, on our team,
+											decided to experiment
+with what happens if we try solving for x,
+											given a known w and a known y.
+											In other words,
+											you know that it's a bird,
+											and you already have your neural network
+that you've trained on birds,
+											but what is the picture of a bird?
+											It turns out that by using exactly
+the same error-minimization procedure,
+											one can do that with the network
+trained to recognize birds,
+											and the result turns out to be ...
+											a picture of birds.
+											So this is a picture of birds
+generated entirely by a neural network
+											that was trained to recognize birds,
+											just by solving for x
+rather than solving for y,
+											and doing that iteratively.
+									","
+											Y hace un año, Alex Mordvintsev, 
+de nuestro equipo,
+											decidió experimentar 
+qué sucede si intentamos resolver X,
+											con una W e Y conocidas.
+											En otras palabras,
+											se sabe que es un pájaro,
+											y se cuenta con una red neuronal 
+entrenada en aves,
+											pero ¿y la imagen de un pájaro?
+											Usando el mismo procedimiento 
+de minimización de errores,
+											uno puede hacer eso con la red entrenada 
+para reconocer aves,
+											y el resultado es...
+											una imagen de aves.
+											Esta es una imagen de aves generada 
+en su totalidad por una red neuronal
+											entrenada para reconocer aves,
+											simplemente resolviendo X, 
+en lugar de resolver Y,
+											haciéndolo de forma iterativa.
+									","
+											Yaklaşık bir yıl önce,
+ekibimizden Alex Mordvintsev
+											bilinen bir w ve y ile x'i
+çözmeye çalışırsak ne olacağını
+											görmek için deney yapmaya karar verdi.
+											Diğer bir deyişle,
+											kuş olduğunu biliyorsunuz
+											ve kuşlar üzerine eğitilen sinir ağınızda 
+zaten bulunmakta,
+											ancak kuşun resmi nedir?
+											Aynı hata küçültme işlemini kullanarak,
+kuşları tanımlamak
+											için eğitilen ağ ile 
+yapılabileceği sonucu ortaya çıkar,
+											ve sonuç ise ...
+											kuş resmi olur.
+											Yani bu, tamamen kuşları tanımlamak üzere
+eğitilen sinir ağı
+											tarafından üretilen kuşların resmidir,
+											özyinelemeli olarak yalnızca 
+y'yi hesaplamak yerine
+											x'in hesaplanmasıyla.
+									","
+											Vor ungefähr einem Jahr
+											wollte Alex Mordvintsev
+aus unserem Team herausfinden,
+											was passiert, wenn wir nach x auflösen
+											und w und y bekannt sind.
+											Anders ausgedrückt:
+											Sie wissen, dass es ein Vogel ist.
+											Ihr neuronales Netzwerk
+ist schon auf Vögel trainiert,
+											doch was ist das Bild eines Vogels?
+											Tatsächlich kann man die gleiche
+Fehlerminimierungsstrategie 
+
+											bei Netzwerken zum Erkennen 
+von Vögeln anwenden.
+											Das Ergebnis ist ...
+											ein Bild von Vögeln.
+											Dieses Bild von Vögeln wurde von einem
+neuronalen Netzwerk erschaffen,
+											das auf das Vogelerkennen trainiert wurde,
+											und zwar nur durch Auflösen nach x,
+nicht durch Auflösen nach y.
+											All das passiert durch Wiederholungen.
+									",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+","
+","
+","
+",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+											Here's another fun example.
+											This was a work made
+by Mike Tyka in our group,
+											which he calls ""Animal Parade.""
+											It reminds me a little bit
+of William Kentridge's artworks,
+											in which he makes sketches, rubs them out,
+											makes sketches, rubs them out,
+											and creates a movie this way.
+											In this case,
+											what Mike is doing is varying y
+over the space of different animals,
+											in a network designed
+to recognize and distinguish
+											different animals from each other.
+											And you get this strange, Escher-like
+morph from one animal to another.
+									","
+											He aquí otro ejemplo divertido.
+											Este fue un trabajo realizado 
+por Mike Tyka en nuestro grupo,
+											llamado ""animal del desfile"".
+											Me recuerda algo a las obras 
+de arte de William Kentridge,
+											donde él hace bocetos, los borra,
+											hace bocetos, los borra
+											y crea una película de esta manera.
+											En este caso, Mike
+											varía Y sobre el espacio 
+de diferentes animales,
+											en una red diseñada 
+para reconocer y distinguir
+											animales diferentes unos de otros.
+											Y se obtiene esta extraña metamorfosis 
+de un animal a la Escher.
+									","
+											Bir diğer enteresan örnek.
+											Ekibimizden Mike Tyka
+tarafından yapılan bir çalışma,
+											""Hayvan Defilesi"" olarak adlandırdığı.
+											Bana biraz William Kentridge'in
+çalışmalarını hatırlatıyor,
+											eskizleri yapıp sildiği,
+											yapıp sildiği
+											ve bu şekilde film yaptığı.
+											Bu durumda,
+											Mike, farklı hayvanların üzerindeki
+boşluklarda y'yi değiştiriyor,
+											farklı hayvanları birbirinden
+ayırmak ve onları
+											tanımlamak için tasarlanmış bir ağda.
+											Bu tuhaf, Escher'imsi bir hayvandan 
+diğerine biçimler elde edilir.
+									","
+											Noch ein lustiges Beispiel.
+											Dies ist die Arbeit unseres 
+Teammitglieds Mike Tyka,
+											der es ""Animal Parade"" nennt.
+											Es erinnert mich etwas an
+Kunstwerke von William Kentridge,
+											der Skizzen macht, sie dann wegradiert,
+											Skizzen macht, sie wegradiert,
+											und so einen Film erschafft.
+											In diesem Fall
+											setzt Mike für y verschiedene Tiere
+in ein Netzwerk ein,
+											das verschiedene Tiere
+erkennen und unterscheiden kann.
+											Heraus kommt dieser seltsame
+Übergang von Tier zu Tier im Stil Eschers.
+									",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+","
+","
+","
+",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+											Here he and Alex together
+have tried reducing
+											the y's to a space of only two dimensions,
+											thereby making a map
+out of the space of all things
+											recognized by this network.
+											Doing this kind of synthesis
+											or generation of imagery
+over that entire surface,
+											varying y over the surface,
+you make a kind of map —
+											a visual map of all the things
+the network knows how to recognize.
+											The animals are all here;
+""armadillo"" is right in that spot.
+									","
+											Aquí él y Alex han intentado reducir
+											las Y a un espacio 
+de solo dos dimensiones,
+											logrando un mapa 
+fuera del espacio de todas las cosas
+											reconocido por esta red.
+											Realizar este tipo de síntesis
+											o la generación de las imágenes 
+sobre toda la superficie,
+											variando Y sobre la superficie, 
+se hace una especie de mapa,
+											un mapa visual de todas las cosas 
+que la red sabe reconocer.
+											Los animales están todos aquí; 
+el armadillo está justo aquí.
+									","
+											Burada o ve Alex birlikte y'leri yalnızca
+											iki boyutlu uzaya indirgemeye çalıştı,
+											ağ tarafından tanımlanan
+
+											boşluklarıyla planlama yaparak.
+											Bu şekilde tüm yüzey üzerinde
+											bir sentez ya da imgelem kuşağıyla,
+											yüzey üzerinde değişen y ile
+bir çeşit harita yapıyorsunuz,
+											ağın nasıl tanımlayacağını bildiği
+her şeyin görsel bir haritası.
+											Bütün hayvanlar burada;
+""armadillo"" tam bu noktada.
+									","
+											Hier haben Mike und Alex 
+gemeinsam versucht,
+											das y auf nur zwei 
+Dimensionen einzuschränken
+											und so eine Karte von
+allen Dingen im Raum zu erstellen,
+											die dieses Netzwerk erkennt.
+											Durch diese Darstellung
+											oder Bildgenerierung 
+auf der gesamten Oberfläche,
+											wobei y auf der Oberfläche variiert,
+wird eine Art Karte erstellt —
+											eine visuelle Karte all der Dinge,
+die das Netzwerk erkennen kann.
+											Alle Tiere sind da, ""armadillo"" 
+ist genau an dieser Stelle.
+									",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+","
+","
+","
+",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+											You can do this with other kinds
+of networks as well.
+											This is a network designed
+to recognize faces,
+											to distinguish one face from another.
+											And here, we're putting
+in a y that says, ""me,""
+											my own face parameters.
+											And when this thing solves for x,
+											it generates this rather crazy,
+											kind of cubist, surreal,
+psychedelic picture of me
+											from multiple points of view at once.
+											The reason it looks like
+multiple points of view at once
+											is because that network is designed
+to get rid of the ambiguity
+											of a face being in one pose
+or another pose,
+											being looked at with one kind of lighting,
+another kind of lighting.
+											So when you do
+this sort of reconstruction,
+											if you don't use some sort of guide image
+											or guide statistics,
+											then you'll get a sort of confusion
+of different points of view,
+											because it's ambiguous.
+											This is what happens if Alex uses
+his own face as a guide image
+											during that optimization process
+to reconstruct my own face.
+											So you can see it's not perfect.
+											There's still quite a lot of work to do
+											on how we optimize
+that optimization process.
+											But you start to get something
+more like a coherent face,
+											rendered using my own face as a guide.
+									","
+											Se puede hacer esto 
+con otros tipos de redes.
+											Esta es una red diseñada 
+para reconocer caras,
+											para distinguir una cara de otra.
+											Y aquí ponemos en Y una que dice ""yo"",
+											mis propios parámetros cara.
+											Y cuando esto resuelve X,
+											genera esta imagen de mí,
+											alocada, tipo cubista, psicodélica,
+como un cuadro surrealista,
+											desde múltiples puntos de vista a la vez.
+											Aparecen múltiples puntos 
+de vista a la vez
+											porque la red está diseñada 
+para descartar la ambigüedad
+											de una cara en una postura u otra,
+											con un tipo de luz, u otro.
+											Al hacer este tipo de reconstrucción,
+											si no se usa alguna imagen de guía
+											o estadísticas de guía,
+											entonces se obtiene una confusión 
+de diferentes puntos de vista,
+											porque es ambigua.
+											Esto es lo que sucede si Alex usa 
+su propia cara imagen como guía
+											durante ese proceso de optimización 
+para reconstruir mi propia cara.
+											Así se puede ver que no es perfecto.
+											Todavía hay mucho trabajo por hacer
+											sobre cómo mejorar 
+el proceso de optimización.
+											Pero ya se empieza a ver algo 
+más parecido a una cara coherente,
+											usando mi propia cara como guía.
+									","
+											Bunu diğer ağlarla da yapabilirsiniz.
+											Bu ağ yüzleri tanımlamak 
+için tasarlanmış,
+											yüzleri birbirinden ayırt edebilmek için.
+											Buraya ""ben"" olarak y'yi koyuyoruz,
+											kendi yüz parametrelerim.
+											X'i hesapladığında
+											bu oldukça çılgın,
+											kübist gibi, gerçeküstü,
+psikedelik resmimi üretiyor,
+											birdenbire, çoklu görüş açılarından.
+											Çoklu görüş açılı gibi görünmesinin
+sebebi ise ağın,
+											yüzün şu pozda ya da bu 
+pozda ya da şu veya
+											bu şekilde aydınlatmada 
+olmasındaki anlaşmazlıktan
+											kurtulmak için tasarlanmış olması.
+											Bu tarz bir restorasyon yapacaksanız,
+											kılavuz resim ya da istatistikler
+											kullanmazsanız,
+											farklı görüş açılarında 
+bir tür bozulma elde edersiniz,
+											çünkü belirsizdir.
+											Benim yüzümü iyileştirme sürecinde 
+Alex kendi yüzünü
+											kılavuz resim olarak
+kullandığında böyle oluyor.
+											Gördüğünüz gibi mükemmel değil.
+											Hâlâ optimizasyon sürecini
+											iyileştirmemiz için yapmamız
+gereken çok iş var.
+											Ama daha tutarlı bir yüze
+erişmeye başlıyorsunuz yorumlamada
+											model olarak benim yüzüm kullanıldığında.
+									","
+											Dasselbe kann man auch 
+mit anderen Netzwerken machen.
+											Dieses Netzwerk erkennt Gesichter
+											und unterscheidet sie voneinander.
+											Hier setzten wir 
+ein y ein, das ""ich"" sagt,
+											also die Parameter meines Gesichts.
+											Wenn das Netzwerk nach x auflöst,
+											generiert es dieses verrückte,
+											kubistisch angehauchte, surreale,
+psychedelische Bild von mir
+											aus verschiedenen Blickwinkeln.
+											Es wirkt wie eine Betrachtung 
+aus verschiedenen Blickwinkeln,
+											weil das Netzwerk so aufgebaut ist,
+dass es die Vieldeutigkeit umgehen kann,
+											die durch Gesichter in verschiedenen Posen
+											oder verschiedene Belichtungen entsteht.
+											Wenn man bei dieser Art Rekonstruktion
+											nun keinerlei Musterbild
+oder Hilfsstatistiken verwendet,
+											vermischen sich die Ansichten 
+aus den verschiedenen Blickwinkeln
+											aufgrund der Vieldeutigkeit.
+											Das passert, wenn Alex 
+während des Optimierungsprozesses
+											zur Rekonstruktion meines Gesichts
+sein eigenes Gesicht als Muster verwendet.
+											Sie sehen also, es ist nicht perfekt.
+											Wir müssen noch hart arbeiten,
+											um diesen Optimierungsprozess 
+optimieren zu können.
+											Aber langsam entstehen
+stimmigere Gesichter,
+											da mein Gesicht als Muster diente.
+									",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+","
+","
+","
+",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+											You don't have to start
+with a blank canvas
+											or with white noise.
+											When you're solving for x,
+											you can begin with an x,
+that is itself already some other image.
+											That's what this little demonstration is.
+											This is a network
+that is designed to categorize
+											all sorts of different objects —
+man-made structures, animals ...
+											Here we're starting
+with just a picture of clouds,
+											and as we optimize,
+											basically, this network is figuring out
+what it sees in the clouds.
+											And the more time
+you spend looking at this,
+											the more things you also
+will see in the clouds.
+											You could also use the face network
+to hallucinate into this,
+											and you get some pretty crazy stuff.
+									","
+											No tiene que comenzar 
+con un lienzo en blanco
+											o con ruido blanco.
+											Cuando se está resolviendo X,
+											se puede comenzar con una X, 
+que en sí es ya una imagen.
+											En eso consiste 
+esta pequeña demostración.
+											Esta es una red diseñada para categorizar
+											todo objeto, estructuras 
+hechas por humanos, animales...
+											Aquí empezamos 
+con una imagen de las nubes,
+											y la optimizamos,
+											básicamente, esta red averigua 
+qué se ve en las nubes.
+											Y cuanto más tiempo uno pasa mirando,
+											más cosas también se verán 
+en las nubes.
+											También es posible usar la red 
+para alucinar,
+											obteniendo cosas bastante locas.
+									","
+											Siyah bir tuvalle ya da beyaz gürültüyle
+
+											başlamak zorunda değilsiniz.
+											X'i bulmak için
+											başka bir resimdeki x 
+ile başlayabilirsiniz.
+											Bu küçük gösterim de bununla ilgili.
+											Bu ise her türden, birbirinden 
+farklı nesneleri kategorize etmek
+											için tasarlanmış bir ağ,
+insan yapımı yapılar, hayvanlar gibi...
+
+											Burada sadece bir bulut 
+resmi ile başlıyoruz
+											ve optimize ettikçe,
+											temel olarak bu ağ,
+bulutlarda gördüklerini çözüyor.
+											Buna bakarak ne kadar
+uzun süre harcarsanız,
+											o kadar fazlasını göreceksiniz bulutlarda.
+											Aynı zamanda bulandırmak için
+yüz ağını kullanabilir
+											ve oldukça çılgın şeyler yapabilirsiniz.
+									","
+											Man muss nicht bei Null
+											oder weißem Rauschen beginnen.
+											Wenn man nach x auflöst,
+											kann man mit einem x anfangen,
+das selbst schon ein anderes Bild ist.
+											Das soll diese Vorführung zeigen.
+											Das ist ein Netzwerk,
+das verschiedenste Objekte —
+											menschgemachte Strukturen, Tiere usw. —
+kategorisieren können soll.
+											Wir beginnen nur mit einem Wolkenbild,
+											und während der Optimierung
+											findet das Netzwerk quasi heraus,
+was es in den Wolken sieht.
+											Je länger man zusieht,
+											desto mehr sieht man in den Wolken.
+											Man kann mit dem Gesichtsnetzwerk
+Halluzinationen einfügen,
+											und ganz schön verrücktes Zeug machen.
+									",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+","
+","
+","
+",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+											(Laughter)
+									","
+											(Risas)
+									","
+											(Gülüşmeler)
+									","
+											(Lachen)
+									",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+","
+","
+","
+",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+											Or, Mike has done some other experiments
+											in which he takes that cloud image,
+											hallucinates, zooms, hallucinates,
+zooms hallucinates, zooms.
+											And in this way,
+											you can get a sort of fugue state
+of the network, I suppose,
+											or a sort of free association,
+											in which the network
+is eating its own tail.
+											So every image is now the basis for,
+											""What do I think I see next?
+											What do I think I see next?
+What do I think I see next?""
+									","
+											O, Mike ha hecho otros experimentos
+											donde se detiene la imagen de la nube,
+											la alucina, la amplía, 
+la alucina, la amplía...
+											Y de esta manera,
+											se obtiene una especie 
+de estado de fuga de la red, supongo,
+											o una especie de asociación libre,
+											en el que la red se come su propia cola.
+											Así que cada imagen es ahora la base para
+											""¿Qué pienso que veré ahora?
+											¿Qué pienso que veré ahora? 
+¿Qué pienso que veré ahora?""
+									","
+											Veya Mike başka denemeler de yaptı,
+											denemelerde bulut resmini alıyor,
+bulandırıyor, yakınlaştırıyor,
+											bulandırıyor, yakınlaştırıyor,
+bulandırıyor, yakınlaştırıyor.
+											Bu şekilde,
+											ağın bir çeşit füj evresini elde 
+edersiniz sanırım
+											ya da bir çeşit serbest çağrışım
+											ağın kendi kuyruğunu yediği.
+											Yani şu an her resim 
+zemin oluşturmakta,
+											""Bir sonrakinde ne
+yapmayı düşünüyorum?""
+											""Bir sonrakinde ne yapmayı düşünüyorum?""
+
+									","
+											Mike hat noch mehr Experimente gemacht,
+											bei denen er ein Wolkenbild nimmt,
+											halluziniert, heranzoomt, halluziniert,
+heranzoomt, halluziniert und zoomt.
+											Auf diese Weise kann man vielleicht
+											eine Art Fluchtzustand des Netzwerks
+											oder eine Art freie Assoziation erzeugen,
+											bei der sich das Netzwerk selbst 
+in den Schwanz beißt.
+											Jedes Bild ist nun die Grundlage für:
+											""Was glaube ich, als nächstes zu sehen?
+											Was erwarte ich als nächstes,
+und danach und danach?""
+									",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+","
+","
+","
+",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+											I showed this for the first time in public
+											to a group at a lecture in Seattle
+called ""Higher Education"" —
+											this was right after
+marijuana was legalized.
+									","
+											Mostré esto por primera vez en público
+											a un grupo en una conferencia en 
+Seattle llamada ""Educación Superior"",
+											esto fue justo después de que 
+la marihuana fuera legalizada.
+									","
+											Bunu ilk kez alenen,
+											Seattle'da bir gruba ""Yüksek Öğrenim""
+adlı derste gösterdim
+											tam da esrarın 
+yasallaştırılmasından sonraydı.
+									","
+											Öffentlich habe ich dies das erste Mal
+											einer Vorlesungsgruppe namens
+""Higher Education"" in Seattle gezeigt,
+											kurz nachdem Marihuana legalisiert wurde.
+									",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+","
+","
+","
+",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+											(Laughter)
+									","
+											(Risas)
+									","
+											(Gülüşmeler)
+									","
+											(Lachen)
+									",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+","
+","
+","
+",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+											So I'd like to finish up quickly
+											by just noting that this technology
+is not constrained.
+											I've shown you purely visual examples
+because they're really fun to look at.
+											It's not a purely visual technology.
+											Our artist collaborator, Ross Goodwin,
+											has done experiments involving
+a camera that takes a picture,
+											and then a computer in his backpack
+writes a poem using neural networks,
+											based on the contents of the image.
+											And that poetry neural network
+has been trained
+											on a large corpus of 20th-century poetry.
+											And the poetry is, you know,
+											I think, kind of not bad, actually.
+									","
+											Así que me gustaría 
+terminar rápidamente
+											con solo señalar 
+que esta tecnología no está limitada.
+											He mostrado ejemplos puramente visuales 
+porque son muy divertidos.
+											Pero no es una tecnología 
+puramente visual.
+											Nuestro artista colaborador, 
+Ross Goodwin,
+											tiene experimentos que implican 
+a una cámara tomando una foto,
+											y luego una computadora en su mochila, 
+escribe un poema usando redes neuronales,
+											basado en el contenido de la imagen.
+											Y que la red neuronal de poesía 
+ha sido entrenada
+											en un gran corpus de poesía del siglo XX.
+											Y la poesía es, ya saben,
+											creo que no está tan mal, en realidad.
+									","
+											Hızla bitirmek istiyorum,
+											bu teknolojinin engellenmediğini
+not ederek.
+											Tamamen görsel örnekler gösterdim,
+çünkü bakması gerçekten eğlenceli.
+											Tamamen görsel bir teknoloji değil.
+											Ressam ortağımız, Ross Goodwin,
+											resim çeken bir kamera ile
+deneyler yaptı,
+											resmin içeriğine bağlı olarak
+sırtında sinir ağı kullanarak
+											şiir yazan bir bilgisayarla.
+											O sinir ağı şiiri, büyük 20. yüzyıl
+											şiir külliyatı üzerinde eğitilmiştir.
+											Şiir, bence,
+											çok da kötü değil açıkcası.
+									","
+											Ich möchte nun zum Ende kommen
+											und festhalten, dass dieser Technologie
+keine Grenzen gesetzt sind.
+											Ich habe Ihnen nur visuelle Beispiele 
+gezeigt, einfach, weil es Spaß macht.
+											Aber es ist keine 
+rein visuelle Technologie.
+											Ross Goodwin, künstlerischer Mitarbeiter,
+											hat Experimente gemacht, bei denen 
+eine Kamera ein Bild schießt
+											und ein Comuter in seinem Rucksack
+ein Gedicht mit einem neuronalen Netzwerk 
+
+											basierend auf dem Bildinhalt schreibt.
+											Trainiert wurde das neuronale 
+Gedichtenetzwerk mit den Werken
+											der Dichtungen des 20. Jahrhunderts.
+											Die Gedichte sind, naja,
+											also ich finde sie gar nicht so schlecht.
+									",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+","
+","
+","
+",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+											(Laughter)
+									","
+											(Risas)
+									","
+											(Gülüşmeler)
+									","
+											(Lachen)
+									",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+","
+","
+","
+",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+											In closing,
+											I think that per Michelangelo,
+											I think he was right;
+											perception and creativity
+are very intimately connected.
+											What we've just seen are neural networks
+											that are entirely trained to discriminate,
+											or to recognize different
+things in the world,
+											able to be run in reverse, to generate.
+											One of the things that suggests to me
+											is not only that
+Michelangelo really did see
+											the sculpture in the blocks of stone,
+											but that any creature,
+any being, any alien
+											that is able to do
+perceptual acts of that sort
+											is also able to create
+											because it's exactly the same
+machinery that's used in both cases.
+									","
+											Para concluir,
+											creo que Miguel Ángel
+											tenía razón;
+											la percepción y la creatividad 
+están conectadas muy íntimamente.
+											Acabamos de ver redes neuronales
+											totalmente capacitadas para discriminar,
+											o para reconocer 
+cosas diferentes en el mundo,
+											que pueden ejecutarse a la inversa, 
+para generar nuevas cosas.
+											Algo que me sugiere esto
+											no es solo que Miguel Ángel 
+realmente vio
+											la escultura en los bloques de piedra,
+											sino que cualquier criatura, 
+cualquier ser, cualquier alienígena
+											que es capaz de percibir 
+actos de ese tipo
+											también es capaz de crear
+											porque en ambos casos
+se usa la misma maquinaria.
+									","
+											Kapanış olarak,
+											bence Michelangelo,
+											bence haklıydı;
+											algı ve yaratıcılık
+derinlemesine bağlıdır.
+											Gördüklerimiz tamamen ayırt etmek
+											ya da dünyadaki farklı şeyleri 
+tanılamak için
+											tam tersi yönde çalışmak
+											ya da üretmek üzere eğitilmiştir.
+											Aklıma gelenlerden bir tanesi ise
+											Michelangelo gerçekten taş
+içindeki bloklarda
+											heykeli gördü, üstelik
+											algısal davranışlar yapabilen
+											herhangi bir yaratık, varlık
+ya da uzaylı da
+											keza üretebilir,
+											çünkü iki durumda da kullanılan
+tamamen aynı düzenek.
+									","
+											Zurück zu
+											Michelangelo,
+											ich denke, der lag richtig:
+											Wahrnehmung und Kreativität
+sind sehr eng miteinander verbunden.
+											Gerade haben wir 
+neuronale Netzwerke gesehen,
+											die nur darauf trainiert sind, 
+
+											verschiedene Dinge 
+zu unterscheiden oder zu erkennen,
+											und umgekehrt werden können, 
+um etwas zu erschaffen.
+											Daraus schließe ich nicht nur,
+											dass Michelangelo die Skulptur
+im Stein wirklich sehen konnte,
+											sondern auch, dass jedes Wesen,
+jedes Geschöpf, jedes Alien,
+											das zu solchen Wahrnehmungen fähig ist,
+											auch Dinge erschaffen kann,
+											denn in beiden Fällen kommt die
+gleiche Maschinerie zum Einsatz.
+									",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+","
+","
+","
+",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+											Also, I think that perception
+and creativity are by no means
+											uniquely human.
+											We start to have computer models
+that can do exactly these sorts of things.
+											And that ought to be unsurprising;
+the brain is computational.
+									","
+											Además, creo que la percepción 
+y la creatividad no son absolutamente
+											únicamente humanas.
+											Ya tenemos modelos computacionales 
+que pueden hacer exactamente estas cosas.
+											Y que no debería ser sorprendente; 
+el cerebro es computacional.
+									","
+											Aynı zamanda bence algı
+ve yaratıcılık kesinlikle
+											eşsiz olarak insani değil.
+											Bu tarz şeyleri yapabilecek bilgisayar
+modellerine sahip olmaya başladık.
+											Şaşırtıcı olmayan bir şekilde,
+beyin hesaba dayalıdır.
+									","
+											Ich denke auch, 
+dass keinesfalls nur Menschen
+											wahrnehmen und kreativ sein können.
+											Langsam gibt es Computermodelle,
+die genau das Gleiche können.
+											Das sollte keine Überraschung sein,
+denn das Gehirn basiert auf Rechnen.
+									",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+","
+","
+","
+",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+											And finally,
+											computing began as an exercise
+in designing intelligent machinery.
+											It was very much modeled after the idea
+											of how could we make machines intelligent.
+											And we finally are starting to fulfill now
+											some of the promises
+of those early pioneers,
+											of Turing and von Neumann
+											and McCulloch and Pitts.
+											And I think that computing
+is not just about accounting
+											or playing Candy Crush or something.
+											From the beginning,
+we modeled them after our minds.
+											And they give us both the ability
+to understand our own minds better
+											and to extend them.
+									","
+											Y, finalmente,
+											la computación empezó como un ejercicio 
+de diseño de máquinas inteligentes.
+											Fue modelada siguiendo la idea
+											de cómo podríamos hacer 
+máquinas inteligentes.
+											Y, finalmente, se están 
+empezando a cumplir
+											algunas de las promesas 
+de aquellos pioneros,
+											como Turing, von Neumann
+											McCulloch y Pitts.
+											Y creo que la informática 
+no es solo contabilidad
+											o jugar al Candy Crush y esas cosas.
+											Desde el principio, se diseñó 
+siguiendo el modelo de nuestra mente.
+											Y eso nos da la capacidad de comprender 
+mejor nuestra propia mente
+											y de ampliarla.
+									","
+											Son olarak,
+											programlama akıllı makineleri
+tasarlama alıştırmaları olarak başladı.
+											Makineleri nasıl akıllı yapabiliriz
+											fikrinden sonra modellendi.
+											Ve nihayet artık bazı o eski öncü
+											vaatleri gerçekleştirmeye başlıyoruz,
+											Turing'in, von Neumann'nın,
+											McCulloch'ın ve Pitts'in.
+											Ve bence programlama
+sadece hesaplama
+											ya da Candy Crush oynama değildir.
+											Başından beri,
+onları zihnimize benzer modelledik.
+											Onlar da bize hem kendi
+zihinlerimizi anlama, hem de
+											geliştirme kabiliyetini verdiler.
+									","
+											Schließlich entstanden Computer
+											aus den Versuchen,
+intelligente Maschinen zu bauen.
+											Sie sind Modelle unserer
+Vorstellung dessen,
+											wie wir Maschinen 
+intelligent machen können.
+											Jetzt erfüllen wir langsam
+											ein paar der Versprechen
+der ersten Vorreiter,
+											von Turing und von Neumann
+											und McCulloch und Pitts.
+											Ich denke, beim Rechnen
+geht es nicht nur um Buchhaltung
+											oder Candy Crush oder so etwas.
+											Von Anfang an haben wir sie als 
+Abbild unseres Verstands gebaut.
+											Mit ihnen können wir unseren
+eigenen Verstand besser verstehen
+											und unsere Fähigkeiten erweitern.
+									",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+","
+","
+","
+",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+											Thank you very much.
+									","
+											Muchas gracias.
+									","
+											Çok teşekkürler.
+									","
+											Vielen Dank.
+									",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+","
+","
+","
+",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+											(Applause)
+									","
+											(Aplausos)
+									","
+											(Alkışlar)
+									","
+											(Applaus)
+									",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"
+"
+","
+","
+","
+",How computers are learning to be creative,Blaise Agüera y Arcas,17:34,"AI,algorithm,beauty,art,collaboration,brain,future,demo,innovation,intelligence,machine learning,science and art,science,visualizations"

@@ -1,0 +1,768 @@
+es,tr,fr,de,title,speaker,duration,tags
+"
+","
+","
+","
+",How PhotoSynth can connect the world's images,Blaise Agüera y Arcas,7:30,"collaboration,demo,microsoft,photography,software,technology,visualizations,virtual reality"
+"
+											Lo que voy a mostrarles primero, tan brevemente como pueda,
+											es algo de trabajo de base, una tecnología nueva
+											que hemos traído a Microsoft como parte de una adquisición
+											realizada hace casi un año exacto. Se trata de Seadragon.
+											Es un entorno en el que se puede interactuar en forma local o remota
+											con grandes cantidades de datos visuales.
+									","
+											Şimdi sizlere hızlıca göstermek istediğim şey,
+											yaklaşık bir yıl önce bir satın alma işlemi ile
+											Microsoft'a kazandırdığımız, temel bir çalışma,
+											yeni bir teknoloji. Seadragon'dan bahsediyorum.
+											Bu yazılım, büyük miktarda görsel veriyle, yerel olarak
+											veya uzaktan etkileşim kurmanızı sağlayan bir ortam sunuyor.
+									","
+											Ce que je vais vous montrer en premier, aussi vite que possible,
+											c'est un travail fondateur, une nouvelle technologie
+											que nous avons apportée à Microsoft comme part d'une acquisition
+											il y a presque exactement un an. Voici Seadragon.
+											Et c'est un environnement dans lequel vous pouvez, localement ou à distance,
+											interagir avec de grandes quantités de données visuelles.
+									","
+											Was ich Ihnen zuerst, so schnell wie möglich, zeigen werde,
+											ist die grundlegende Arbeit, eine neue Technologie,
+											die wir Microsoft als Teil einer Übernahme
+											vor genau einem Jahr, übergeben haben. Das ist Seadragon.
+											Und es ist eine Umgebung, in der Sie entweder lokal oder entfernt
+											mit riesigen Mengen von visuellen Daten umgehen können.
+									",How PhotoSynth can connect the world's images,Blaise Agüera y Arcas,7:30,"collaboration,demo,microsoft,photography,software,technology,visualizations,virtual reality"
+"
+","
+","
+","
+",How PhotoSynth can connect the world's images,Blaise Agüera y Arcas,7:30,"collaboration,demo,microsoft,photography,software,technology,visualizations,virtual reality"
+"
+											Aquí estamos viendo muchos, muchos gigabytes de fotos digitales,
+											haciendo zoom en forma continua y sin dificultades,
+											haciendo panorámicas y modificaciones de cualquier tipo.
+											La cantidad de información que veamos,
+											el tamaño de las colecciones y el de las imágenes ya no son un problema.
+											En su mayoría son fotos de cámaras digitales comunes,
+											pero esta, por ejemplo, es una escaneada de la Biblioteca del Congreso,
+											con cerca de 300 megapíxeles.
+											Es lo mismo,
+											porque lo único que puede limitar el rendimiento
+											de un sistema como este es el número de píxeles de su pantalla
+									","
+											Şu anda, gigabaytlarca büyüklükte dijital fotoğraflara bakıyoruz,
+											sorunsuz şekilde, sürekli zum yapıyoruz,
+											fotoğrafları kaydırıyor, istediğimiz her şekilde yeniden düzenliyoruz.
+											Ve ne kadar çok bilgiye baktığımızın, bu koleksiyonların
+											veya resimlerin ne kadar büyük olduğunun bir önemi yok.
+											Bunların çoğu sıradan dijital fotoğraf makinesi resimleri,
+											ama örneğin bu, Library of Congress'ten bir tarama,
+											ve 300 megapiksel aralığında.
+											Bunun bir önemi yok çünkü
+											bunun gibi bir sistemin performansını sınırlayabilecek
+											tek şey, belirli bir anda ekranınızdaki
+									","
+											On a ici devant les yeux beaucoup, beaucoup de gigabytes de photos numériques
+											et on fait des zooms avant de manière continue et en quelque sorte fluide,
+											on navigue dans le truc, on le réarrange de la manière qu'on veut.
+											Et ce quelle que soit la quantité d'informations que l'on visionne,
+											la taille de ces collections ou la taille des images.
+											La plupart sont des photos d'appareils numériques ordinaires,
+											mais celle-ci, par exemple, est scannée à partir de la Bibliothèque du Congrès,
+											et elle fait dans les 300 mégapixels.
+											Cela ne fait aucune différence
+											parce que la seule chose qui devrait limiter les performances
+											d'un système comme celui-ci, c'est le nombre de pixels sur votre écran
+									","
+											Wir sehen viele, viele Gigabytes an digitalen Fotos hier,
+											die man nahtlos und fortwährend heranholen,
+											schwenken, auf jegliche Weise neu arrangieren kann.
+											Und es ist egal, wie viele Informationen wir betrachten,
+											wie groß diese Sammlungen sind oder wie groß die Bilder sind.
+											Die meisten von ihnen sind digitale Photos einer Kamera,
+											aber dieses hier ist zum Beispiel ein Scan von der Kongressbibliothek
+											und es ist in einem Bereich von 300 Megapixeln.
+											Es macht keinen Unterschied,
+											denn das einzige, was die Leistung eines
+											Systems wie diesem einschränken kann, ist die Anzahl an Pixeln auf Ihrem Bildschirm in
+									",How PhotoSynth can connect the world's images,Blaise Agüera y Arcas,7:30,"collaboration,demo,microsoft,photography,software,technology,visualizations,virtual reality"
+"
+","
+","
+","
+",How PhotoSynth can connect the world's images,Blaise Agüera y Arcas,7:30,"collaboration,demo,microsoft,photography,software,technology,visualizations,virtual reality"
+"
+											en un momento dado. También tiene una arquitectura muy flexible.
+											Este es un libro completo, un ejemplo de datos sin imágenes.
+											Se trata de ""Casa desolada"", de Dickens. Cada columna es un capítulo.
+											Para probarles que se trata realmente de texto, y no de una imagen,
+											podemos hacer algo para mostrar
+											que se trata de una representación real del texto; no es una imagen.
+											Quizá sea una forma algo artificial de leer un libro electrónico.
+											No la recomendaría.
+									","
+											piksel sayısıdır. Bu aynı zamanda son derece esnek bir mimari.
+											Bu komple bir kitap, görüntü dışı verilere bir örnek.
+											Dickens'in Kasvetli Ev kitabı. Her sütun bir bölüm oluşturuyor.
+											Size bunun gerçekten metin olduğunu, görüntü olmadığını
+											kanıtlamak için şöyle bir şey yapabiliriz,
+											bunun gerçekten metin olduğunun, resim olmadığının bir göstergesi.
+											Bu belki de bir e-kitap okumak için yapay bir çeşit yol.
+											Bunu pek tavsiye etmem.
+									","
+											à un instant ""t"". C'est aussi une architecture très flexible.
+											Voici un livre entier, un exemple de donnée qui n'est pas une image.
+											C'est Bleak House de Dickens. Chaque colonne est un chapitre.
+											Pour vous prouver que c'est vraiment du texte, et pas une image,
+											on peut faire quelque chose comme ça, pour bien montrer
+											que c'est une véritable représentation du texte; ce n'est pas une photo.
+											C'est peut-être une manière un peu artificielle de lire un e-book.
+											Je ne vous le recommande pas.
+									","
+											jedem Moment. Es hat auch eine sehr flexible Architektur.
+											Dies ist ein ganzes Buch, ein Beispiel für Nichtbild-Daten.
+											Das ist Bleak House von Dickens. Jede Spalte ist ein Kapitel.
+											Um zu beweisen, dass es sich wirklich um einen Text und nicht um ein Bild handelt,
+											können wir etwas wie das tun, um wirklich zu zeigen,
+											dass diese eine echte Repräsentation des Texts und kein Bild ist.
+											Vielleicht ist dies eine künstliche Art, ein E-Buch zu lesen.
+											Ich würde es nicht empfehlen.
+									",How PhotoSynth can connect the world's images,Blaise Agüera y Arcas,7:30,"collaboration,demo,microsoft,photography,software,technology,visualizations,virtual reality"
+"
+","
+","
+","
+",How PhotoSynth can connect the world's images,Blaise Agüera y Arcas,7:30,"collaboration,demo,microsoft,photography,software,technology,visualizations,virtual reality"
+"
+											Este es un caso más realista. Un ejemplar de The Guardian.
+											Cada imagen grande es el comienzo de una sección.
+											Y realmente proporciona el placer y la experiencia agradable
+											de leer la versión real en papel de una revista o un diario,
+											un tipo de medio propiamente de escalas múltiples.
+											También hemos hecho algo
+											en una esquina de este ejemplar de The Guardian.
+											Hemos hecho un anuncio publicitario falso con alta resolución,
+											mucho más de la que puede obtenerse en un anuncio común,
+											y le hemos incorporado otros contenidos.
+											Si desean ver las características de este coche, pueden hacerlo aquí.
+											O ver otros modelos, e incluso especificaciones técnicas.
+											Esto comprende algunas de las ideas
+											sobre anular los límites en torno a los inmuebles en pantalla.
+											Esperamos que esto implique el fin de las pantallas emergentes
+											y otros estorbos de ese tipo: ya no serían necesarios.
+									","
+											Bu daha çok gerçekçi bir durum. Bu, The Guardian'ın bir baskısı.
+											Her büyük resim bir bölümün başlangıcı.
+											Ve bu size gerçekten bir derginin veya gazetenin
+											gerçek kağıt versiyonunu okumanın keyfini ve güzel hissini verir,
+											ki bu doğal olarak çoklu ölçek çeşidi bir araç.
+											The Guardian'ın bu özel baskısının köşesine de
+											bir şeyler yaptık.
+											Çok yüksek çözünürlükte bir taklit ilan ürettik
+											sıradan bir ilandakinden çok daha yüksek bir çözünürlük kullandık
+											ve içine daha çok içerik koyduk.
+											Bu arabanın özelliklerini görmek isterseniz, buradan görebilirsiniz.
+											Veya başka modeller veya hatta başka teknik özellikler.
+											Ve bu ekranda gayrimenkullerle ilgili sınırlamaların
+											kaldırılması fikrini destekliyor.
+											Artık açılır pencereler ve diğer benzeri
+											can sıkıcı şeylerin gerekli olmayacağını umuyoruz.
+									","
+											Voilà un exemple plus réaliste. C'est un numéro du Guardian.
+											Chaque grande image est le début d'une section.
+											Et cela vous donne véritablement la joie et l'expérience agréable
+											de la lecture de la vraie version papier d'un magazine ou d'un journal,
+											qui est un type de media multi-échelles par définition.
+											Nous avons également mis au point quelque chose
+											avec le coin de ce numéro du Guardian en particulier.
+											Nous avons créé une fausse publicité en très haute résolution...
+											bien plus haute que ce que vous pourriez obtenir dans une publicité classique...
+											et nous avons inséré du contenu supplémentaire.
+											Si vous voulez voir les caractéristiques de cette voiture, on peut les voir ici.
+											Ou d'autres modèles, ou même des spécifications techniques.
+											Et on en arrive vraiment à certaines de ces idées
+											pour vraiment se débarrasser de ces limites d'espace de l'écran.
+											On espère que cela signifie la fin des pop-ups
+											et d'autres types de pollution du même genre... ne devraient plus être nécessaires.
+									","
+											Dies ist ein realistischerer Fall. Dies ist eine Ausgabe von The Guardian.
+											Jedes große Bild ist der Beginn eines Abschnitts.
+											Und das gibt Ihnen wirklich das Vergnügen und die gute Erfahrung
+											eine echte Papierausgabe einer Zeitschrift oder einer Zeitung zu lesen,
+											was an sich eine Art Medium mit mehreren Größenordnungen ist.
+											Wir haben auch etwas an der
+											Ecke dieser speziellen Ausgabe des The Guardian gemacht.
+											Wir haben eine falsche Anzeige mit sehr hoher Resolution entworfen,
+											die viel höher als bei einer normalen Anzeige ist
+											und wir haben zusätzlichen Inhalt hinzugefügt.
+											Wenn Sie die Funktionen dieses Autos sehen möchten, können Sie sie hier sehen.
+											Oder andere Modelle, oder sogar technische Spezifikationen.
+											Und dies greift wirklich diese Ideen
+											auf, diese Beschränkungen für den verfügbaren Platz auf dem Bildschirm abzuschaffen.
+											Wir hoffen, dass das keine Pop-Ups und
+											anderen Unsinn mehr bedeutet - das sollte nicht notwendig sein.
+									",How PhotoSynth can connect the world's images,Blaise Agüera y Arcas,7:30,"collaboration,demo,microsoft,photography,software,technology,visualizations,virtual reality"
+"
+","
+","
+","
+",How PhotoSynth can connect the world's images,Blaise Agüera y Arcas,7:30,"collaboration,demo,microsoft,photography,software,technology,visualizations,virtual reality"
+"
+											Por cierto, el mapeo es una de las aplicaciones realmente obvias
+											en una tecnología como esta.
+											No voy a demorarme en esto,
+											salvo decir que también tenemos cómo contribuir en este campo.
+											Estas son todas las carreteras de los EE.UU.
+											sobreimpresas en la parte superior de una imagen geoespacial de la NASA.
+											Ahora veamos algo más.
+											Esto está en directo en la red en este momento, pueden verlo.
+									","
+											Elbette, böyle bir teknoloji için öne çıkacak
+											uygulamalardan biri haritacılık.
+											Buna gerçekten vakit ayırmak istemiyorum,
+											sadece bu alana katabileceğimiz şeyler olduğunu belirtmek istiyorum.
+											Bunlar, NASA'nın uzaydan çektiği görüntülerin
+											üzerine yerleştirilen ABD yollarının tamamı.
+											Şimdi başka bir konuya geçelim.
+											Buna şu anda internet; kendiniz de kontrol edebilirsiniz.
+									","
+											Bien entendu, la cartographie est l'une des applications évidentes
+											pour une technologie comme celle-ci.
+											Et sur celle-ci je vais passer très rapidement,
+											si ce n'est pour dire qu'on a des choses pour contribuer à ce domaine également.
+											Ce sont toutes les routes des Etats-Unis
+											superposées à une image géospatiale de la NASA.
+											Bon, maintenant, allons chercher autre chose.
+											Tout ça est en ce moment en ligne sur le Web, vous pouvez aller vérifier.
+									","
+											Natürlich ist das Mapping eine der wirklich offensichtlichen Anwendungen
+											für eine Technologie wie diese.
+											Und ich möchte hier wirklich nicht viel Zeit verbringen,
+											außer zu sagen, dass wir auch zu diesem Bereich beitragen werden.
+											Aber dies sind alle Straßen in den U.S.A.
+											übereinandergelagert oben auf dem erdräumlichen Bild der NASA.
+											Lassen Sie uns jetzt etwas anderes herausholen.
+											Das ist jetzt sogar live im Internet. Sie können es nachprüfen.
+									",How PhotoSynth can connect the world's images,Blaise Agüera y Arcas,7:30,"collaboration,demo,microsoft,photography,software,technology,visualizations,virtual reality"
+"
+","
+","
+","
+",How PhotoSynth can connect the world's images,Blaise Agüera y Arcas,7:30,"collaboration,demo,microsoft,photography,software,technology,visualizations,virtual reality"
+"
+											Es un proyecto llamado Photosynth,
+											que combina dos tecnologías diferentes.
+											Una es Seadragon,
+											y la otra una investigación visual computarizada muy hermosa,
+											realizada por Noah Snavely, estudiante de posgrado de la Universidad de Washington,
+											codirigida por Steve Seitz de la misma universidad
+											y Rick Szeliski en el Dpto. de Investigación de Microsoft. Una muy buena colaboración.
+											Y está en directo en la web, con tecnología de Seadragon.
+											Pueden apreciarlo cuando hacemos estos tipos de vistas,
+											en las que podemos bucear a través de las imágenes
+											y tener esta experiencia de resolución múltiple.
+									","
+											Bu Photosynth isminde bir projedir,
+											ve gerçekten iki farklı teknolojiyi birleştiriyor.
+											Bunlardan biri Seadragon
+											ve diğeri, Washington Üniversitesinden bir
+											yüksek lisans öğrencisi olan Noah Snavely ile aynı üniversiteden Steve Seitz
+											ve Microsoft Research'ten Rick Szeliski'nin birlikte
+											yaptığı çok güzel bir bilgisayar görüşü çalışmasıdır.
+											Şu anda internette mevcut. Seadragon'la destekleniyor.
+											Bunu, yaptığımız bu tarz görüntülerde görebilirsiniz,
+											resimlerin arasına dalıp da
+											bu çok çözünürlüklü deneyimleri elde ettiğimiz zaman.
+									","
+											C'est un projet appelé Photosynth,
+											qui en réalité marie deux technologies différentes.
+											L'une d'entre elles est Seadragon
+											et l'autre est issue d'une recherche magnifique sur la vision informatisée
+											menée par Noah Snavely, un étudiant de 3ème cycle à l'Université de Washington,
+											co-dirigée par Steve Seitz à l'UW
+											et Rick Szeliski de la recherche Microsoft. Une très belle collaboration.
+											Et donc c'est en ligne sur le Web. Cela fonctionne avec la technologie Seadragon.
+											On peut le voir quand on utilise ce genre de visualisations,
+											où on peut plonger dans les images
+											et avoir cette sorte d'expérience multi-résolutions.
+									","
+											Dies ist ein Projekt mit dem Namen Photosynth,
+											das wirklich zwei verschiedene Technologien miteinander verbindet.
+											Die eine ist Seadragon
+											und die andere ist eine sehr gute Forschung über Computervision,
+											die von Noah Snavely, einem Universitätsstudenten der Universität Washington, unter der
+											Beratung von Steve Seitz an der UW
+											und Rick Szeliski von Microsoft Forschung durchgeführt wurde. Eine sehr gute Zusammenarbeit.
+											Also dies ist live im Internet. Es wird von Seadragon angetrieben.
+											Sie können das sehen, wenn wir diese Art von Ansichten kreieren,
+											bei denen wir durch Bilder durchdringen können
+											und diese Erfahrung der mehrfachen Resolution machen.
+									",How PhotoSynth can connect the world's images,Blaise Agüera y Arcas,7:30,"collaboration,demo,microsoft,photography,software,technology,visualizations,virtual reality"
+"
+","
+","
+","
+",How PhotoSynth can connect the world's images,Blaise Agüera y Arcas,7:30,"collaboration,demo,microsoft,photography,software,technology,visualizations,virtual reality"
+"
+											El orden espacial de estas imágenes es realmente significativo.
+											Los algoritmos visuales computarizados registraron estas imágenes en conjunto,
+											de modo que se corresponden con el espacio real en que se hicieron las tomas,
+											hechas en los Lagos Grassi, en las Montañas Rocallosas canadienses.
+											Aquí ven elementos
+											de diapositivas estabilizadas o imágenes panorámicas,
+											todas relacionadas espacialmente.
+											No sé si tengo tiempo para mostrarles otros entornos.
+											Algunos son mucho más espaciales.
+											Quisiera pasar directamente a uno de los conjuntos de datos originales de Noah;
+											este es uno de los primeros prototipos de Photosynth
+											por el que comenzamos en el verano,
+											y sirve para mostrarles lo que considero
+											la verdadera culminación de esta tecnología,
+											Photosynth. Y esto no necesariamente se aprecia
+											al ver los entornos que hemos subido a la red.
+											Tuvimos que ocuparmos de las capas y demás.
+									","
+											Ama burada bu görüntülerin boyutsal düzenlemesi oldukça anlamlı.
+											Bilgisayarla görüş algoritmaları bu görüntüleri bir araya kaydetmiş,
+											dolayısıyla bu resimlerin çekildiği gerçek alanın,
+											hepsi Kanada Rocky Dağları'nda bulunan Grassi Lakes'te çekilmiş,
+											görüntüsüne birebir uyuyor. Burada,
+											sabit slayt gösterisinin veya panoramik görüntülemenin öğelerini görüyorsunuz
+											ve bunların hepsi uzamsal olarak birbiriyle bağdaştırılmıştır.
+											Sizlere daha da başka ortamlar göstermek için vaktim var mı bilmiyorum.
+											Çok daha uzamsal olanları da var.
+											Hemen Noah'nın orijinal veri gruplarına geçip,
+											bunlar ilk kez bu yaz üzerinde çalışmaya başladığımız
+											Photosynth'in ilk prototipinden,
+											size bu teknolojinin, Photosynth teknolojisinin arkasında yatan
+											en önemli noktanın ne olduğunu göstermek istiyorum.
+											Ve bu, web sitesine koyduğumuz
+											ortamlara bakarak pek anlaşılamıyor.
+											Avukatları vesaire düşünmek zorundaydık.
+									","
+											Mais l'arrangement dans l'espace des images dans ce cas-là a en fait un sens.
+											Les algorithmes de vision informatisée ont enregistré ces images ensemble,
+											afin qu'elles correspondent à l'espace réel dans lequel ces photos
+											(toutes prises près des lacs Grassi dans les Rocheuses canadiennes)
+											ont été prises. Donc vous voyez des éléments ici
+											de diaporama stabilisé ou d'imagerie panoramique,
+											et toutes ces choses ont été reliées entre elles dans l'espace.
+											Je ne suis pas sûr d'avoir le temps de vous montrer d'autres environnements.
+											Certains sont beaucoup plus spatiaux.
+											J'aimerais sauter directement à l'un des premiers ensemble de données de Noah
+											(et cela vient d'un premier prototype de Photosynth
+											que nous avons fait fonctionner pour la première fois cet été)
+											pour vous montrer ce qui d'après moi
+											est vraiment le point fort de cette technologie,
+											la technologie Photosynth. Et ce n'est pas nécessairement si évident
+											quand on regarde les environnements que nous avons mis en ligne sur le site web.
+											On a du se préoccuper des avocats et des trucs dans le genre.
+									","
+											Aber die räumliche Anordnung der Bilder ist hier in der Tat von Bedeutung.
+											Die Computervision-Algorithmen haben diese Bilder zusammen festgehalten
+											damit sie dem echten Raum, in dem diese Aufnahmen,
+											die alle in der Nähe der Grassi Lakes in den kanadischen Rockies
+											gemacht wurden, entsprechen. Sie sehen hier Elemente
+											von stabilisierten Dias oder panoramischer Bildverarbeitung
+											und diese Dinge wurden alle räumlich in Beziehung zueinander gesetzt.
+											Ich weiß nicht genau, ob ich noch Zeit habe Ihnen andere Umgebungen zu zeigen.
+											Es gibt welche, die viel räumlicher sind.
+											Ich würde gerne geradewegs einen der originalen Datensätze von Noah zeigen
+											und das ist von einem frühen Prototyp von Photosynth
+											an dem wir erstmals im Sommer gearbeitet haben,
+											um Ihnen das zu zeigen, wovon ich glaube, dass
+											es wirklich die Pointe hinter dieser Technologie,
+											der Photosynth-Technologie ist. Und dies ist nicht unbedingt so offensichtlich,
+											wenn man die Umgebungen betrachtet, die wir auf der Website haben.
+											Wir mussten uns wegen der Anwälte usw. Sorgen machen.
+									",How PhotoSynth can connect the world's images,Blaise Agüera y Arcas,7:30,"collaboration,demo,microsoft,photography,software,technology,visualizations,virtual reality"
+"
+","
+","
+","
+",How PhotoSynth can connect the world's images,Blaise Agüera y Arcas,7:30,"collaboration,demo,microsoft,photography,software,technology,visualizations,virtual reality"
+"
+											Esta es una reconstrucción de la Catedral de Notre Dame,
+											realizada totalmente con ordenador
+											a partir de imágenes tomadas de Flickr. Simplemente pongan Notre Dame en Flickr,
+											y podrán ver imágenes de personas en camiseta, del campus
+											y demás. Cada uno de estos conos anaranjados representa una imagen
+											perteneciente a este modelo.
+											Y estas son todas imágenes de Flickr,
+											relacionadas espacialmente de esta manera.
+											Podemos navegar simplemente de esta forma tan sencilla.
+											(Aplausos).
+									","
+											Bu, Notre Dame Katedrali'nin yeniden inşası
+											ve Flickr'dan topladığımız görüntüler ile
+											tamamen bilgisayar ortamında yapıldı. Flickr'a sadece Notre Dame yazıyorsunuz
+											ve tişörtlü adamların, kampüsün vesaire görüntüleri çıkıyor.
+											Ve bu turuncu konilerin her biri, bu modele ait olduğu anlaşılan
+											resimleri temsil ediyor.
+											Bunların hepsi Flickr görüntüleri
+											ve hepsi uzamsal olarak bu şekilde birbiriyle bağdaştırılmıştır.
+											Ve böylece çok kolay bir şekilde gezinebiliyoruz.
+											(Alkış.)
+									","
+											Voici une reconstruction de la cathédrale Notre-Dame
+											qui a été faite entièrement par calcul informatique
+											à partir d'images récupérées sur Flickr. On tape juste Notre Dame dans Flickr,
+											et on trouve des photos de types en t-shirts, du campus (de l'université de ND, NdT)
+											et ainsi de suite. Et chacun des ces cônes oranges représente une image
+											qui a été identifiée comme appartenant à ce modèle.
+											Et donc ce sont toutes des images Flickr,
+											et elles ont toutes été reliées entre elles dans l'espace de cette manière.
+											Et on peut naviguer dedans très simplement de cette manière.
+											(Applaudissements)
+									","
+											Dies ist eine Rekonstruktion der Kathedrale Notre Dame,
+											die ausschließlich im Computer
+											mit Bildern von Flickr erfolgte. Geben Sie einfach Notre Dame in Flickr ein
+											und Sie werden Bilder von Männern in T-Shirts und auf dem Universitätsgelände usw.
+											erhalten. Jede dieser orangefarbenen Kegel repräsentiert ein Bild,
+											das als zu diesem Modell gehörend entdeckt wurde.
+											Somit sind dies alles Flickr-Bilder,
+											und sie alle stehen räumlich auf diese Weise in Beziehung zueinander.
+											Und wir können auf diese sehr einfache Weise navigieren.
+											(Applaus).
+
+									",How PhotoSynth can connect the world's images,Blaise Agüera y Arcas,7:30,"collaboration,demo,microsoft,photography,software,technology,visualizations,virtual reality"
+"
+","
+","
+","
+",How PhotoSynth can connect the world's images,Blaise Agüera y Arcas,7:30,"collaboration,demo,microsoft,photography,software,technology,visualizations,virtual reality"
+"
+											Saben, nunca pensé que terminaría trabajando en Microsoft.
+											Es muy gratificante tener una recepción así aquí.
+											(Risas).
+									","
+											Bilirsiniz, asla Microsoft’ta çalışacağım aklıma gelmezdi.
+											Burada bu şekilde karşılanıyor olmak çok sevindirici.
+											(Gülüşmeler.)
+									","
+											Vous savez, je n'aurais jamais cru que je finirais par travailler chez Microsoft.
+											C'est très gratifiant d'être reçu ici de cette manière.
+											(Rires)
+									","
+											Wissen Sie, ich habe nie geglaubt, dass ich letztendlich bei Microsoft arbeiten werde.
+											Ich bin sehr dankbar für den Empfang hier.
+											(Gelächter).
+									",How PhotoSynth can connect the world's images,Blaise Agüera y Arcas,7:30,"collaboration,demo,microsoft,photography,software,technology,visualizations,virtual reality"
+"
+","
+","
+","
+",How PhotoSynth can connect the world's images,Blaise Agüera y Arcas,7:30,"collaboration,demo,microsoft,photography,software,technology,visualizations,virtual reality"
+"
+											Supongo que sabrán
+											que hay muchos tipos diferentes de cámaras:
+											desde las de teléfonos móviles hasta SLR profesionales,
+											gran parte de ellas ligadas
+											a este entorno.
+											Si puedo buscaré algunas de las más raras.
+											Muchas están bloqueadas por rostro, y demás.
+											Algunas de estas son realmente
+											una serie de fotografías... veamos.
+											Este es en realidad un póster de Notre Dame registrado correctamente.
+											Podemos acercanos desde el póster
+											hasta una vista física de este entorno.
+									","
+											Sanırım, bunların
+											birçok çeşit kamera olduğunu görebiliyorsunuz:
+											Cep telefonu kameralarından profesyonel SLR'lere kadar, hepsi,
+											oldukça büyük bir miktarı
+											bu ortamda birbiriyle bağdaştırılmış.
+											Ve eğer yapabilirsem, o garip cinslerinden bir tane bulacağım.
+											Çoğunu yüzler kapatmış, vesaire.
+											Aslında burada bir yerde
+											bir takım fotoğraflar olacaktı, işte buldum.
+											Bu aslında Notre Dame'ın doğru bir şekilde kaydedilen bir posteri.
+											Bu posterden
+											bu ortamın fiziki görüntüsüne geçebiliriz.
+									","
+											Je pense que vous pouvez voir
+											qu'il s'agit de beaucoup de types d'appareils photos différents:
+											il y a de tout, des appareils photo de téléphone portable aux reflex mono-objectifs de professionnels,
+											un assez grand nombre de photos, cousues
+											ensemble dans cet environnement.
+											Et si j'y arrive, je vais en trouver quelques-unes un peu étranges.
+											Beaucoup d'entre elles sont occultées par des visages, et ainsi de suite.
+											Quelque part par là il y a même
+											une série de photographies... nous y voilà.
+											Il s'agit en fait d'un poster de Notre Dame qui a été enregistré comme correct.
+											On peut plonger depuis le poster
+											dans une vue physique de l'environnement.
+									","
+											Ich vermute, Sie können sehen,
+											dass dies viele verschiedene Arten von Kameras sind:
+											alles ist dabei, von der Handy-Kamera zu professionellen SLRs,
+											eine ziemlich große Anzahl von ihnen, die alle in dieser
+											Umgebung zusammengeflickt wurden.
+											Und wenn möglich, werde ich einige der Seltsamen finden.
+											Viele von ihnen sind von Gesichtern verdeckt usw.
+											Irgendwo hier sind
+											eine Reihe von Fotografien - hier sind sie.
+											Dies ist tatsächlich ein Poster von Notre Dame, das richtig aufgezeichnet wurde.
+											Wir können von dem Poster zu
+											einer physischen Ansicht dieser Umgebung wechseln.
+									",How PhotoSynth can connect the world's images,Blaise Agüera y Arcas,7:30,"collaboration,demo,microsoft,photography,software,technology,visualizations,virtual reality"
+"
+","
+","
+","
+",How PhotoSynth can connect the world's images,Blaise Agüera y Arcas,7:30,"collaboration,demo,microsoft,photography,software,technology,visualizations,virtual reality"
+"
+											Lo que importa realmente aquí es que podemos hacer algo
+											en el entorno social. Aquí se están tomando datos de todos,
+											de toda la memoria colectiva de
+											la apariencia visual de la Tierra,
+											y vinculándose en su totalidad.
+											Todas estas fotos se vinculan
+											y producen algo emergente
+											que es más que la suma de las partes.
+											Este es un modelo que surge de toda la Tierra.
+											Véanlo como la larga cola del trabajo de Tierra Virtual de Stephen Lawler.
+											Es algo cuya complejidad crece con el uso
+											y cuyos beneficios para los usuarios se amplían
+											a medida que lo utilizan.
+											Sus propias fotos se etiquetan con metadatos
+											que alguien introdujo.
+											Si alguien se toma el trabajo de etiquetar todos estos santos
+											e indicar quiénes son, mi foto de la Catedral de Notre Dame
+											se enriquece de pronto con todos esos datos,
+											y puedo utilizarla como punto de entrada para bucear en ese espacio,
+											en ese metaverso, usando las fotos de todos los demás,
+											y hacer un tipo de experiencia social de modelos
+											y usuarios cruzados de esa forma.
+											Por supuesto, una consecuencia de todo ello
+											consiste en modelos virtuales enormemente ricos
+											de cada parte interesante de la Tierra, tomados
+											no solo de vuelos de altura e imágenes satelitales
+											y demás, sino de la memoria colectiva.
+									","
+											Buradaki asıl nokta sosyal çevreyle bir şeyler
+											yapabiliyor olmamızdır. Bu şimdi herkesten veri topluyor,
+											Dünya'nın, nasıl göründüğüne ilişkin
+											ortak belleklerin hepsinden,
+											ve bunların hepsini birbirleriyle bağdaştırıyor.
+											Bütün bu fotoğraflar birbirine bağlanıyor
+											ve parçalarının toplamından çok daha büyük olan
+											yeni bir şey oluşturuyorlar.
+											Tüm dünyadan oluşan bir modelimiz var.
+											Bunu, Stephen Lawler'in Sanal Dünya eserinin uzun bir kuyruğu gibi düşünün.
+											Ve bu, insanlar kullandıkça karmaşıklaşan,
+											ve kullanıcılar kullandıkça faydaları
+											daha da büyüyen bir şey.
+											Kendi fotoğrafları, başkalarının girmiş olduğu
+											meta verilerle etiketleniyor.
+											Eğer birileri bu azizleri imlemek zahmetine girseydi
+											ve kim olduklarını söyleseydi, o zaman benim Notre Dame Katedrali resmim
+											birden bütün o veriler ile donatılırdı
+											ve ben bunu o ortama, o meta verilerine dalmak için
+											giriş noktası olarak kullanırdım ve o şekilde herkesin resimlerini kullanıp,
+											bir çeşit modaliteler arası
+											ve kullanıcılar arası sosyal deneyim elde ederdim.
+											Ve elbette, tüm bunların bir yan ürünü ise
+											dünyanın bütün ilginç taraflarının son
+											derece zengin sanal modelleridir,
+											sadece uçakların çektiği görüntüler ve uydu görüntülerinden vesaire toplanan görüntüler
+											değil aynı zamanda ortak bellekten de alınan görüntüler.
+									","
+											Le vrai but de tout ça, c'est qu'on peut faire des choses
+											avec l'environnement social. On prend maintenant les données de tout le monde...
+											de l'ensemble de la mémoire collective
+											de ce à quoi ressemble la Terre, visuellement...
+											et on relie tout ça ensemble.
+											Toutes ces photos deviennent liées entre elles,
+											et elles font émerger quelque chose
+											de plus grand que la somme des parties.
+											Il y a un modèle de la Terre entière qui émerge.
+											Voyez ça comme la longue traîne du travail de Stephen Lawler sur la Terre Virtuelle.
+											Et c'est quelque chose qui devient de plus en plus complexe
+											à mesure que les gens l'utilisent, et dont les bénéfices s'accroissent
+											pour les utilisateurs à mesure qu'ils l'utilisent.
+											Leurs propres photos sont marquées avec des méta-données
+											que quelqu'un d'autre a entrées.
+											Si quelqu'un s'embêtait à marquer tous ces saints
+											et à donner tous leurs noms, ma photo de la cathédrale Notre Dame
+											serait enrichie d'un coup de toutes ces données,
+											et je pourrais l'utiliser comme point d'entrée pour plonger dans cet espace,
+											dans ce méta-verse, en utilisant les photos de tout le monde,
+											pour faire une sorte d'expérience sociale trans-modale
+											et trans-utilisateurs de cette manière.
+											Et bien sûr, un sous-produit de tout ça,
+											ce sont des modèles virtuels immensément riches
+											de tous les coins intéressants la Terre, récoltés
+											pas simplement par des vols en altitude et par des images satellite
+											et autres, mais par la mémoire collective.
+									","
+											Der Punkt ist hier, dass wir Dinge mit der
+											sozialen Umgebung anstellen können. Es werden jetzt Daten von allen gesammelt —
+											von dem gesamten kollektiven Speicher davon,
+											wie, visuell die Erde aussieht —
+											und alles wird miteinander verbunden.
+											All diese Fotos werden miteinander verbunden
+											und es entsteht etwas,
+											das größer ist als die Summe der Teile.
+											Sie erhalten ein Modell, das aus der ganzen Erde entsteht.
+											Betrachten Sie dies als die Fortsetzung der Arbeit von Stephen Lawlers an Virtual Earth.
+											Und das ist etwas, das durch die Komplexität,
+											mit der die Menschen es verwenden, wächst und dessen Nutzen für
+											den Benutzer mit der Anwendung immer größer wird.
+											Ihre eigenen Fotos werden mit Metadaten beschildert,
+											die eine andere Person eingegeben hat.
+											Wenn sich jemand die Mühe gemacht hat und all diese Heiligen beschriftet hat
+											und mitteilt, wer sie alle sind, dann wird mein Foto von der
+											Notre Dame-Kathedrale plötzlich mit all diesen Daten angereichert
+											und ich kann sie als Ausgangspunkt benutzen, um in diesen Raum zu tauchen,
+											in diese Metaverse, die Fotos von anderen Personen benutzen
+											und somit eine Art von übergreifender modaler
+											sozialer Erfahrung mit der Nutzung von anderen Anbietern machen.
+											Und natürlich, Nebenprodukt
+											all dessen sind die immens reichen virtuellen Modelle
+											von jedem interessanten Teil der Erde,
+											die nicht nur durch Überflüge oder Satellitenbilder
+											und so weiter erhalten wurden, sondern durch kollektive Speicher.
+									",How PhotoSynth can connect the world's images,Blaise Agüera y Arcas,7:30,"collaboration,demo,microsoft,photography,software,technology,visualizations,virtual reality"
+"
+","
+","
+","
+",How PhotoSynth can connect the world's images,Blaise Agüera y Arcas,7:30,"collaboration,demo,microsoft,photography,software,technology,visualizations,virtual reality"
+"
+											Muchas gracias.
+											(Aplausos)
+									","
+											Çok teşekkür ederim.
+											(Alkış.)
+									","
+											Merci beaucoup.
+											(Applaudissements)
+									","
+											Vielen Dank.
+											(Applaus).
+
+									",How PhotoSynth can connect the world's images,Blaise Agüera y Arcas,7:30,"collaboration,demo,microsoft,photography,software,technology,visualizations,virtual reality"
+"
+","
+","
+","
+",How PhotoSynth can connect the world's images,Blaise Agüera y Arcas,7:30,"collaboration,demo,microsoft,photography,software,technology,visualizations,virtual reality"
+"
+											Chris Anderson: A ver si lo comprendo bien: ¿este software permitirá
+											en algún momento, en los próximos años,
+											que todas las imágenes compartidas por cualquier persona en cualquier parte del mundo
+											se vinculen?
+									","
+											Chris Anderson: Şunu doğru mu anladım? Sizin yazılımınız
+											bir yerden sonra, gerçekten önümüzdeki birkaç yıl içerisinde,
+											dünya üzerinde insanlar tarafından paylaşılan bütün resimlerin
+											temel olarak birbiriyle bağlantılandırılmasını mı sağlayacak?
+									","
+											Chris Anderson: Est-ce que je comprends bien ? Que ce que votre logiciel va permettre,
+											c'est qu'à un certain moment, vraiment dans les quelques années à venir,
+											toutes les photos qui sont partagées par quiconque dans le monde
+											seront en gros liées entre elles ?
+									","
+											Chris Anderson: Verstehe ich Sie richtig? Ihre Software ermöglicht,
+											dass zu einem bestimmten Zeitpunkt, innerhalb der nächsten Jahre,
+											alle Bilder, die von jemandem in der Welt gemeinsam benutzt werden
+											im Prinzip miteinander verknüpft werden?
+									",How PhotoSynth can connect the world's images,Blaise Agüera y Arcas,7:30,"collaboration,demo,microsoft,photography,software,technology,visualizations,virtual reality"
+"
+","
+","
+","
+",How PhotoSynth can connect the world's images,Blaise Agüera y Arcas,7:30,"collaboration,demo,microsoft,photography,software,technology,visualizations,virtual reality"
+"
+											BAA: Sí. Lo que hace realmente es descubrir
+											crear hipervínculos, si lo quieren, entre las imágenes.
+											Y lo hace
+											basándose en el contenido de las imágenes.
+											Y es realmente emocionante pensar en la riqueza
+											de la información semántica de muchas de estas imágenes.
+											Como en una búsqueda de imágenes en la web,
+											se introducen frases, y el texto de la página web
+											lleva gran cantidad de información acerca de la imagen.
+											Ahora, ¿qué sucede si dicha imagen se vincula con todas sus imágenes?
+											La cantidad de interconexión semántica
+											y de riqueza procedente de ello
+											es verdaderamente enorme. Es un efecto de red clásico.
+									","
+											BAA: Evet. Bunun aslında yaptığı şey keşfetmek.
+											Eğer isterseniz görüntüler arasında köprüler oluşturuyor.
+											Ve bunu, görüntülerin
+											içindeki bilgilere göre yapıyor.
+											Ve bu, bu görüntülerin çoğunda bulunan semantik bilgilerin
+											zenginliğini düşündüğünüz zaman gerçekten heyecan verici oluyor.
+											Tıpkı internette görüntü aramak için
+											cümleler yazdığınız ve web sayfasındaki metnin
+											o resmin ne olduğuna ilişkin birçok bilgi içerdiği gibi.
+											Peki, ya o resim sizin bütün resimlerinize bağlanırsa?
+											O zaman bunun beraberinde getireceği semantik ara bağlantıların toplamı
+											ve zenginliklerin toplamı
+											gerçekten çok büyük. Klasik bir ağ etkisi.
+									","
+											BAA: Oui. Ce que le logiciel fait, c'est découvrir.
+											Il crée des hyperliens, si vous voulez, entre les images.
+											Et il le fait
+											en se fondant sur le contenu des images.
+											Et ça devient vraiment passionnant quand vous songez à la richesse
+											de l'information sémantique que bon nombre de ces images possèdent.
+											Par exemple quand on fait une recherche web sur des images,
+											on tape des phrases, et le texte de la page web
+											contient beaucoup d'informations à propos du sujet de cette photo.
+											Maintenant, que se passe-t-il si cette photo est liée à toutes vos photos ?
+											Dans ce cas la quantité d'interconnexions sémantiques
+											et la quantité de richesse qui en ressort
+											est vraiment immense.C'est un effet de réseau classique.
+									","
+											BAA: Ja. Sie macht nichts anderes als Entdecken.
+											Wenn Sie wollen erstellt sie Hyperlinks zwischen den Bildern.
+											Und sie tut dies aufgrund des
+											Inhalts in den Bildern.
+											Und das ist wirklich aufregend, wenn Sie an die Fülle der
+											semantischen Informationen denken, die viele dieser Bilder besitzen.
+											Wie wenn Sie eine Websuche für Bilder vornehmen,
+											wo Sie Sätze eingeben und der Text der Website enthält
+											viele Informationen darüber, welches Bild das ist.
+											Aber wie wäre es, wenn das Bild Sie mit all Ihren Bildern verknüpft?
+											Dann ist der Umfang der semantischen Querverbindung
+											und die Fülle, die sich daraus ergibt, wirklich
+											enorm. Es ist ein klassischer Netzwerkeffekt.
+									",How PhotoSynth can connect the world's images,Blaise Agüera y Arcas,7:30,"collaboration,demo,microsoft,photography,software,technology,visualizations,virtual reality"
+"
+","
+","
+","
+",How PhotoSynth can connect the world's images,Blaise Agüera y Arcas,7:30,"collaboration,demo,microsoft,photography,software,technology,visualizations,virtual reality"
+"
+											CA: Blaise, es realmente increíble. Felicidades.
+									","
+											CA: Blaise, bu gerçekten inanılmaz. Tebrik ederim.
+									","
+											CA: Blaise, c'est vraiment incroyable. Félicitations.
+									","
+											CA: Blaise, das ist wirklich unglaublich. Herzlichen Glückwunsch.
+									",How PhotoSynth can connect the world's images,Blaise Agüera y Arcas,7:30,"collaboration,demo,microsoft,photography,software,technology,visualizations,virtual reality"
+"
+","
+","
+","
+",How PhotoSynth can connect the world's images,Blaise Agüera y Arcas,7:30,"collaboration,demo,microsoft,photography,software,technology,visualizations,virtual reality"
+"
+											BAA: Muchas gracias.
+									","
+											BAA: Çok teşekkür ederim.
+									","
+											BAA: Merci beaucoup.
+									","
+											BAA: Haben Sie vielen Dank.
+									",How PhotoSynth can connect the world's images,Blaise Agüera y Arcas,7:30,"collaboration,demo,microsoft,photography,software,technology,visualizations,virtual reality"
+"
+","
+","
+","
+",How PhotoSynth can connect the world's images,Blaise Agüera y Arcas,7:30,"collaboration,demo,microsoft,photography,software,technology,visualizations,virtual reality"

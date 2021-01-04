@@ -1,0 +1,2331 @@
+fr,en,tr,de,es,title,speaker,duration,tags
+"
+","
+","
+","
+","
+",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+											Je vais parler d'une technologie que nous développons à Oxford
+											qui va, selon nous, changer la façon dont
+											les jeux vidéos et les films Hollywoodiens sont faits.
+											Cette technologie c'est les humains artificiels.
+											Des humains artificiels avec un corps artificiel
+											et un système nerveux artificiel pour contrôler ce corps.
+											Avant que j'entre dans les détails
+											regardons à quoi ressemblent les personnages
+											dans les jeux vidéos actuellement.
+											Voici un extrait du jeu Grand Theft Auto 3.
+											Nous l'avons déjà vu rapidement hier.
+											C'est en fait un très bon jeu,
+											l'un des meilleurs de tous les temps.
+											Mais vous allez voir que les animations dans ce jeu sont très répétitives.
+											Elles se ressemblent beaucoup.
+											Je le fais courir vers un mur plusieurs fois,
+											et vous voyez qu'il garde toujours la même apparence.
+											La raison c'est que tous ces personnages
+											ne sont en fait pas de vrais personnages.
+											Ce sont des visualisations graphiques d'un personnage.
+									","
+											I'm going to talk about a technology that we're developing at Oxford now,
+											that we think is going to change the way that
+											computer games and Hollywood movies are being made.
+											That technology is simulating humans.
+											It's simulated humans with a simulated body
+											and a simulated nervous system to control that body.
+											Now, before I talk more about that technology,
+											let's have a quick look at what human characters look like
+											at the moment in computer games.
+											This is a clip from a game called ""Grand Theft Auto 3.""
+											We already saw that briefly yesterday.
+											And what you can see is — it is actually a very good game.
+											It's one of the most successful games of all time.
+											But what you'll see is that all the animations in this game are very repetitive.
+											They pretty much look the same.
+											I've made him run into a wall here, over and over again.
+											And you can see he looks always the same.
+											The reason for that is that these characters
+											are actually not real characters.
+											They are a graphical visualization of a character.
+									","
+											Şu an Oxford'da geliştirmekte olduğumuz teknoloji hakkında konuşacağım,
+											bunun bilgisayar oyunlarının ve Hollywood
+											filmlerinin yapılış şeklini değiştireceğine inanıyoruz.
+											Bu teknoloji, insanların taklidini yapmak.
+											Bu taklit edilmiş bir vücut ve vücudu kontrol etmek için
+											taklit edilmiş bir sinir sistemi ile insanı taklit etmek.
+											Şimdi, teknoloji hakkında daha çok konuşmadan önce,
+											şu anda bilgisayar oyunlarında insan karakterlerinin nasıl
+											gözüktüğüne bir bakalım.
+											Bu klip Grand Theft Auto 3 oyunundan.
+											Bunu dün kısaca görmüştük.
+											Aslında bu çok iyi bir oyun.
+											Tüm zamanların en başarılı oyunlarından biri.
+											Ama bu oyunda gördüğünüz şey tüm animasyonların tekrardan ibaret olması.
+											Hemen hemen hepsi aynı gözüküyor.
+											Burada karakteri tekrar ve tekrar bir duvara karşı yürütüyorum.
+											Ve her seferinde aynı göründüğünü görebilirsiniz.
+											Bunun asıl sebebi bu karakterlerin
+											aslında gerçek karakterler olmamaları.
+											Bunlar karakterlerin grafiksel olarak canlandırılmış halleri.
+									","
+											Ich möchte über eine neue Technologie sprechen, die wir zurzeit in Oxford entwickeln
+											von der wir glauben, dass sie die Art und Weise
+											auf die Videospiele und Hollywoodfilme entstehen verändern wird.
+											Diese Technologie ist die Simulation von Menschen.
+											Simulierte Menschen mit einem simulierten Körper
+											und einem simulierten Nervensystem, das diesen Körper kontrolliert.
+											Bevor ich mehr über diese Technologie rede,
+											werfen wir kurzen Blick auf das Aussehen von Charakteren
+											in aktuellen Videospielen.
+											Hier haben wir einen Clip aus „Grand Theft Auto 3“,
+											das wir gestern bereits kurz gesehen haben.
+											Wir können sehen – es ist wirklich ein sehr gutes Videospiel.
+											Es ist eins der erfolgreichsten Spiele aller Zeiten.
+											Aber wie wir sehen können, wiederholen sich die Animationen die ganze Zeit.
+											Sie sehen jedes Mal gleich aus.
+											Ich habe ihn hier immer wieder in eine Mauer laufen lassen,
+											und seine Reaktion sieht jedes Mal gleich aus.
+											Der Grund dafür ist, dass dieser Charakter
+											in Wirklichkeit gar kein echter Charakter ist.
+											Er ist eine visuelle Repräsentation eines Charakters.
+									","
+											Hoy voy a hablar acerca de una tecnología que estamos desarrollando actualmente en Oxford
+											la que pensamos va a cambiar la forma de
+											crear los juegos de computadoras y las películas de Hollywood.
+											Dicha tecnología esta simulando a seres humanos.
+											Son humanos simulados con cuerpo simulado.
+											y un sistema nervioso simulado para controlar dicho cuerpo.
+											Bueno, antes de hablar más sobre esta tecnología
+											démosle una mirada rápida a cómo son los personajes humanos
+											en los juegos de computadoras actuales.
+											este es un video de un juego que se llama ""Grand Theft Auto 3"".
+											Ayer vimos esto de forma breve.
+											Y lo que se puede ver es, de hecho, un juego muy bueno.
+											Es uno de los juegos más exitosos de todos los tiempos.
+											pero se darán cuenta de que todas las animaciones en este juego son muy repetitivas.
+											Se ven igual.
+											He hecho que corra hacia el muro, una y otra vez.
+											Y ustedes pueden ver que él siempre se ve igual.
+											La razón de este comportamiento es que estos personajes
+											no son reales.
+											Son la visualización gráfica de un personaje.
+									",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+","
+","
+","
+","
+",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+											Pour créer ces animations l'infographiste doit anticiper dans son studio
+											ce qu'il va se passer dans le jeu
+											et ensuite animer cette séquence particulière.
+											Donc il ou elle anime la scène, essaye d'anticiper ce qui va se passer,
+											et ces animations sont simplement jouées
+											au moment approprié dans le jeu.
+											Et le problème c'est que ce n'est pas interactif.
+											Tout ce qu'on a ce sont des animations jouées
+											plus ou moins au bon moment.
+											Ça veut dire que les jeux ne sont pas aussi surprenants qu'ils pourraient l'être
+											parce qu'on obtient seulement, en terme de personnage,
+											ce qu'on y met.
+											Il n'y a pas d'émergence réelle dans ça.
+									","
+											To produce these animations, an animator at a studio has to anticipate
+											what's going to happen in the actual game,
+											and then has to animate that particular sequence.
+											So, he or she sits down, animates it, and tries to anticipate what's going to happen,
+											and then these particular animations are just played back
+											at appropriate times in the computer game.
+											Now, the result of that is that you can't have real interactivity.
+											All you have is animations that are played back
+											at more or less the appropriate times.
+											It also means that games aren't really going to be as surprising as they could be,
+											because you only get out of it, at least in terms of the character,
+											what you actually put into it.
+											There's no real emergence there.
+									","
+											Bu animasyonu yaratmak için bir stüdyodaki animatör
+											gerçek hayatta ne olacağını tahmin etmeli ve
+											daha sonra ona göre bu sahnenin animasyonunu yapmalı.
+											Animatör oturuyor, canlandırıyor ve gerçekte ne olacağını tahmin etmeye çalışıyor,
+											sonra da bu animasyonlar oyunun belli bölümlerinde
+											tekrar tekrar gösteriliyor.
+											Sonuç olarak da gerçek etkileşim sağlanamıyor.
+											Elde ettiğiniz tek şey aşağı yukarı
+											belli zamanlarda tekrar edilen animasyonlar.
+											Aynı zamanda, oyunlarda çok fazla derecede şaşırtıcı olamıyorlar
+											çünkü, en azından karakter açısından, karaktere ne kadar canlılık
+											veriyorsanız oyundan da onu alabiliyorsunuz.
+											Oyunda tam bir gerçekçilik olmuyor.
+									","
+											Um solche Animationen herzustellen, muss der Animator vorhersehen,
+											was im Spiel passieren wird
+											und dann die passende Reaktion des Charakters animieren.
+											Er oder sie setzt sich also hin und macht eine Animation, ausgehend von seiner Annahme, was passieren wird.
+											Diese Animation wird dann einfach
+											im passenden Moment im Spiel wiedergegeben.
+											Das bedeutet, dass wir keine echte Interaktivität haben.
+											Alles was passiert ist, dass die Animation im
+											mehr oder weniger rechten Moment wiedergegeben wird.
+											Es bedeutet also auch, dass das Spiel nicht so überraschend ist, wie es sein könnte,
+											weil nur das, aus dem Charakter kommen kann,
+											was vorher reingesteckt wurde.
+											Es entsteht nichts Neues.
+									","
+											Para crear estas animaciones un animador tiene que anticipar
+											lo que va a pasar en realidad en el juego
+											y luego tiene que animar dicha secuencia.
+											Él o ella se sienta, lo anima y entonces trata de anticipar lo que va a pasar.
+											y luego estas animaciones son reproducidas nuevamente
+											en momentos apropiados durante el juego.
+											Ahora bien, el resultado de esto es que uno no puede tener una interactividad real.
+											Todo lo que hoy son animaciones que se repiten
+											en momentos oportunos, más o menos.
+											Esto también quiere decir que los juegos no van a ser tan sorpresivos como pudieran ser
+											porque uno solo saca, por lo menos en términos del personaje,
+											aquello que se le pone.
+											Aqui no hay ningún descubrimiento.
+									",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+","
+","
+","
+","
+",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+											Et troisièmement, la plupart des animations sont très répétitives à cause de ça.
+											Le seul moyen de contourner ce problème
+											c'est de simuler un corps humain
+											et la partie du système nerveux du cerveau qui contrôle ce corps.
+											Et si vous pouviez venir pour une petite démonstration
+											pour montrer la différence —
+											c'est vraiment trivial.
+											Si je pousse Chris comme ça il va réagir.
+											Si je le pousse avec un angle différent il va réagir différemment,
+											c'est parce qu'il possède un corps physique,
+											et les capacités motrices pour le contrôler.
+											C'est vraiment trivial.
+											Ce n'est pas quelque chose que l'on voit dans les jeux vidéos actuellement.
+											Merci beaucoup. Chris Anderson: c'est tout ?
+									","
+											And thirdly, as I said, most of the animations are very repetitive because of that.
+											Now, the only way to get around that
+											is to actually simulate the human body
+											and to simulate that bit of the nervous system of the brain that controls that body.
+											And maybe, if I could have you for a quick demonstration
+											to show what the difference is —
+											because, I mean, it's very, very trivial.
+											If I push Chris a bit, like this, for example, he'll react to it.
+											If I push him from a different angle, he'll react to it differently,
+											and that's because he has a physical body,
+											and because he has the motor skills to control that body.
+											It's a very trivial thing.
+											It's not something you get in computer games at the moment, at all.
+											Thank you very much. Chris Anderson: That's it?
+									","
+											Üçüncü olarak, dediğim gibi, bu sebeplerden animasyonların çoğu tekrara dönüşüyor.
+											Bundan kurtulmanın tek yolu
+											gerçekten insan vücudunu ve biraz da
+											vücudu kontrol eden beyindeki sinir sistemlerini taklit etmek.
+											Belki size farkın ne olduğunu göstermek için
+											hızlıca bir şeyler gösterebilirim —
+											çünkü, bu çok ufak bir fark.
+											Eğer Chris'i bu şekilde itersem o buna tepki verecek.
+											Eğer onu başka bir açıdan itersem farklı bir tepki verecek,
+											çünkü fiziksel bir vücuda sahip
+											ve çünkü vücudunu kontrol eden motor becerilere sahip.
+											Bu çok ufak bir şey.
+											Bu bilgisayar oyunlarından o anda alabildiğiniz bir şey değil.
+											Çok teşekkürler. Chris Anderson: Bu kadar mı?
+									","
+											Und, wie ich schon sagte, sind die meisten Animationen deshalb sehr repetitiv.
+											Der einzige Weg, das zu umgehen,
+											ist einen wirklich menschlichen Körper zu simulieren
+											und den Teil des Gehirns zu simulieren, der diesen Körper kontrolliert.
+											Wenn ich mir dich mal kurz für eine kleine Demonstration ausleihen könnte
+											um den Unterschied zu zeigen -
+											denn es ist eigentlich ziemlich belanglos.
+											Wenn ich Chris hier zum Beispiel so schubse, dann reagiert er entsprechend.
+											Wenn ich ihn aus einer anderen Richtung schubse, reagiert er anders,
+											was daran liegt, dass er einen Körper hat,
+											und dass er diesen Körper motorisch kontrollieren kann.
+											Es ist eine Belanglosigkeit,
+											aber es ist etwas das in Videospielen noch gar nicht existiert.
+											Vielen Dank. Chris Anderson: Das war’s?
+									","
+											Lo tercero, como dije, es que por esa razón la mayoría de las animaciones son repetitivas.
+											Bueno, la única manera de evitar esto
+											es que se simule el cuerpo humano
+											y simular la parte del sistema nervioso en el cerebro que controla ese cuerpo.
+											Y tal vez, si pudiera venir para una rápida demostración
+											para mostrar cuál es la diferencia
+											porque, digo, es muy pero muy efímera.
+											Si empujo a Chris, de esta manera por ejemplo, él va a reaccionar.
+											Si lo empujo desde un ángulo diferente él va a reaccionar de forma diferente,
+											y eso se debe a que tiene un cuerpo físico,
+											y porque tiene habilidades motoras que controlan su cuerpo.
+											Es algo bastante trivial.
+											Esto es algo que no se ve para nada en los juegos de computadoras actuales.
+											Muchas gracias. Chris Anderson: ¿Es todo?
+									",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+","
+","
+","
+","
+",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+											Torsten Reil: oui, c'est tout.
+											Voilà ce que nous essayons de simuler —
+											pas Chris en particulier, mais les humains en général.
+											Nous avons commencé à travailler sur ça il y a longtemps à l'université d'Oxford,
+											et on a essayé de commencer avec des choses simples.
+											Nous avons essayé d'apprendre à marcher à une figurine.
+											Cette figurine est simulée physiquement. Vous la voyez sur l'écran.
+											Elle est soumise à la gravité, a des articulations, etc...
+											Si on lance la simulation elle s'écroule.
+											Le problème est d'y mettre de l'intelligence artificielle (IA)
+											pour que ça marche.
+											Pour cela on utilise le réseau de neurones que nous avons construit
+											à partir de la zone de la moelle épinière
+											qui contrôle la marche chez l'homme.
+											Ça s'appelle le générateur central de rythme.
+											Nous avons simulé ça, et le plus difficile
+											c'est d'apprendre à marcher à ce réseau.
+											Pour cela on utilise l'évolution artificielle — des algorithmes génétiques.
+									","
+											Torsten Reil: That's it, yes.
+											So, that's what we're trying to simulate —
+											not Chris specifically, I should say, but humans in general.
+											Now, we started working on this a while ago at Oxford University,
+											and we tried to start very simply.
+											What we tried to do was teach a stick figure how to walk.
+											That stick figure is physically stimulated. You can see it here on the screen.
+											So, it's subject to gravity, has joints, etc.
+											If you just run the simulation, it will just collapse, like this.
+											The tricky bit is now to put an AI controller in it
+											that actually makes it work.
+											And for that, we use the neural network, which we based on
+											that part of the nervous system that we have in our spine
+											that controls walking in humans.
+											It's called the central pattern generator.
+											So, we simulated that as well, and then the really tricky bit
+											is to teach that network how to walk.
+											For that we used artificial evolution — genetic algorithms.
+									","
+											Torsten Reil: Evet, bu kadar.
+											İşte bu taklit etmeye çalıştığımız şey—
+											özellikle Chris değil, genel olarak insanlar.
+											Bir süre önce Oxford Üniversitesi'nde bunun üzerinde çalışmaya başladık,
+											ve çok basitten başlamaya çalıştık.
+											Denediğimiz şey bir çöp adama nasıl yürüyeceğini öğretmeye çalışmaktı.
+											Burada ekranda görebilirsiniz, o çöp adam fiziksel olarak canlandırıldı.
+											Yani yerçekimine maruz kalıyor, eklemleri var, vs. vs.
+											Eğer onu koşturursanız bu şekilde yere düşecektir.
+											İşin önemli kısmı onun içine konulan ve onun çalışmasını sağlayan
+											yapay zeka kontrolöründe.
+											Bunun için de, yürüme yetimizi kontrol eden omuriliğimizde
+											bulunan sinir sistemimizden esinlenerek
+											sinirsel ağı kullandık.
+											Buna nöral ağ deniyor.
+											Bunu da canlandırdıktan sonra esas kısım
+											o ağa nasıl yürüyeceğini öğretmekti.
+											Bunun için yapay evrimi — genetik algoritmayı — kullandık.
+									","
+											Torsten Reil: Ja, das war’s.
+											Und das ist es, was wir versuchen zu simulieren –
+											nicht unbedingt Chris, aber Menschen an sich.
+											Wir haben vor einer ganzen Weile angefangen an der Universität von Oxford daran zu arbeiten,
+											mit sehr einfachen Beispielen.
+											Wir versuchten, einem Strichmännchen das Laufen beizubringen.
+											Dieses Strichmännchen ist eine physische Simulation, sie können es hier auf dem Bildschirm sehen.
+											Das heißt es unterliegt den Gesetzen der Schwerkraft, hat Gelenke, etc.
+											Wenn wir die Simulation nun starten, fällt es einfach so in sich zusammen.
+											Der schwere Teil ist jetzt, eine künstliche Intelligenz in das Männchen einzupflanzen,
+											die es funktionieren lässt.
+											Diese KI haben wir nach dem Vorbild des Teils unseres Nervensystems
+											entwickelt, den wir in unserer Wirbelsäule haben
+											welcher uns ermöglicht, zu laufen.
+											Wir nennen es den zentralen Verhaltensgenerator.
+											Also simulierten wir auch das und kamen zum wirklich schwierigen Teil,
+											nämlich dieser KI nun beizubringen zu laufen.
+											Dafür benutzten wir künstliche Evolution – genetische Algorithmen.
+									","
+											Torsten Reil: Sí.
+											Entonces, lo que estamos tratando de simular
+											no a Chris específicamente, diría, sino a los humanos en general.
+											Bien, nosotros comenzamos a trabajar en esto hace mucho tiempo en la Universidad de Oxford,
+											y tratamos de comenzar de una manera bien simple.
+											Lo que hicimos fue enseñarle a un dibujo a caminar.
+											Ese dibujo está siendo estimulado físicamente. Pueden verlo en pantalla.
+											Esta sujeto a la gravedad, tiene articulaciones, etc.
+											Si echamos a andar la simulación se va a caer, así.
+											La parte complicada es ponerle un controlador de IA
+											que le haga moverse de verdad.
+											Y para esto, usamos una red neural que basamos en
+											la parte del sistema nervioso que llevamos en nuestra espina dorsal
+											que controla el caminar en los humanos.
+											Se llama el generador central de patrones.
+											Entonces estimulamos esa parte también, y luego la parte más complicada
+											fue enseñarle a esta red a caminar.
+											Para esto utilizamos evolución artificial, algorítmos genéticos.
+									",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+","
+","
+","
+","
+",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+											Nous en avons déjà entendu parler hier
+											et j'imagine que la plupart d'entre vous connaissent.
+											Mais rapidement, le concept c'est de
+											créer un grand nombre d'individus différents,
+											des réseaux de neurones dans ce cas,
+											qui sont tous aléatoires au départ.
+											On les attache — aux muscles virtuels
+											de cette créature à 2 jambes dans notre cas —
+											et on espère que ça fasse quelque chose d'intéressant.
+											Au début ils sont tous vraiment ennuyeux.
+											La plupart ne vont pas bouger du tout,
+											quelques uns vont peut être faire un pas.
+											Ceux-ci sont ensuite sélectionnés par l'algorithme,
+											reproduits avec mutation et recombinaison pour ajouter le sexe.
+											Et on répète le processus encore et encore
+											jusqu'à ce qu'on obtienne quelque chose qui marche —
+											en ligne droite comme ça.
+											C'était donc l'idée derrière ça.
+											Un soir au tout début j'ai configuré la simulation.
+											Ça a pris 3-4 heures pour exécuter la simulation.
+											Le lendemain matin en me levant j'ai regardé les résultats sur l'ordinateur,
+											j'espérais un truc qui marche en ligne droite,
+											comme je viens de montrer,
+											et voilà ce que j'ai eu à la place.
+									","
+											We heard about those already yesterday,
+											and I suppose that most of you are familiar with that already.
+											But, just briefly, the concept is that
+											you create a large number of different individuals —
+											neural networks, in this case —
+											all of which are random at the beginning.
+											You hook these up — in this case, to the virtual muscles
+											of that two-legged creature here —
+											and hope that it does something interesting.
+											At the beginning, they're all going to be very boring.
+											Most of them won't move at all,
+											but some of them might make a tiny step.
+											Those are then selected by the algorithm,
+											reproduced with mutation and recombinations to introduce sex as well.
+											And you repeat that process over and over again,
+											until you have something that walks —
+											in this case, in a straight line, like this.
+											So that was the idea behind this.
+											When we started this, I set up the simulation one evening.
+											It took about three to four hours to run the simulation.
+											I got up the next morning, went to the computer and looked at the results,
+											and was hoping for something that walked in a straight line,
+											like I've just demonstrated,
+											and this is what I got instead.
+									","
+											Bunun hakkında dün bir şeyler duyduk
+											ve sanırım çoğunuz buna zaten aşina.
+											Ama kısaca, fikir şöyle diyebiliriz,
+											büyük sayılarda farklı karakterler yaratıyorsunuz,
+											bizim durumumuzda nöral ağlar,
+											başlangıçta bunların hepsi rastgele oluşturuluyor.
+											Bunları alıyorsunuz — bizim durumumuzda bu iki ayaklı
+											yaratığın sanal kaslarını —
+											ve ilginç şeyler olacağını umut ediyorsunuz.
+											Başlangıçta hapsi çok sıkıcı oluyorlar.
+											Çoğu hareket bile etmiyor,
+											ama bazıları küçük adımlar atabiliyor.
+											Onlar daha sonra algoritma tarafından seçiliyorlar
+											cinsiyetlerini de belirlemek için mutasyon ve tekrar kombine etme ile yeniden yaratılıyorlar.
+											Ve bu süreci ta ki yürüyen bir şeye sahip olana
+											kadar tekrar ve tekrar yapıyorsunuz —
+											bu durumda, bu şekilde düz yürüyene kadar.
+											Yaptığımızın arkasında yatan fikir buydu.
+											Buna başladığımızda bir akşam ben simülasyonu oluşturdum.
+											Canlandırmayı yapmak 3-4 saatimi aldı.
+											Ertesi sabah kalktım, bilgisayara gittim ve sonuçlara baktım
+											ve düz çizgide yürüyen bir şeyler olur ümidi taşıyordum,
+											az önce gösterdiğim gibi,
+											onun yerine karşılaştığım buydu.
+									","
+											Wir haben gestern schon ein Wenig darüber gehört,
+											und ich schätze das ist jetzt nichts Neues für die meisten unter euch.
+											Also nur ganz kurz: Die Idee ist,
+											eine große Anzahl verschiedener Individuen herzustellen –
+											in diesem Fall Nervennetze –
+											welche zunächst allesamt zufallsgeneriert sind.
+											Man verbindet diese dann in diesem Fall
+											mit den virtuellen Muskeln dieser zweibeinigen Kreatur hier –
+											und hofft, dass etwas Interessantes passiert.
+											Zunächst werden die Resultate alle sehr langweilig sein.
+											Die Meisten werden einfach gar nichts tun,
+											aber ein paar wenige könnten einen kleinen Schritt tun.
+											Der Algorithmus wählt diese Wenigen dann aus,
+											reproduziert sie mit Mutation und Rekombination, wie bei unserer Fortpflanzung.
+											Dann wiederholt man diesen Prozess immer und immer wieder,
+											bis etwas Brauchbares dabei herauskommt –
+											in diesem Fall soll die Figur, so wie ich, geradeaus laufen.
+											Das ist der Gedanke dahinter.
+											Als wir anfingen, startete ich eines Abends diese Simulation.
+											Es dauerte gut drei bis vier Stunden, alles einzurichten.
+											Am nächsten Morgen stand ich auf und sah mir die Ergebnisse an,
+											in der Hoffnung, das Männchen könne in einer geraden Linie gehen,
+											so wie ich es gerade demonstriert habe.
+											Stattdessen bekam ich das hier.
+									","
+											Oímos sobre esto ayer
+											y creo que casi todos están familiarizados con esto.
+											Pero, brevemente, el concepto es que
+											uno cree gran cantidad de individuos diferentes,
+											redes neuronales en este caso,
+											todos son aleatorios al principio.
+											Uno los conecta, en este caso a los músculos virtuales
+											de esta criatura de dos patas,
+											y esperemos que haga algo interesante.
+											Al principio todos van a ser bastante aburridos.
+											La mayoría ni siquiera se van a mover,
+											pero algunos darán un pequeño paso.
+											Esos son seleccionados por el algoritmo,
+											reproducidos con mutación y recombinados para darles atributos sexuales.
+											Y este proceso se repite una y otra vez
+											hasta que uno tiene algo que camina,
+											en este caso en una línea recta, así.
+											Esa era la idea detrás de esto.
+											Cuando comenzamos esto dejé lista la simulación una noche.
+											Tardó unas 3 a 4 horas para echar a andar la simulación.
+											Cuando me levanté a la mañana siguiente fui a la computadora y me fijé en los resultados,
+											y esperaba que hubiera algo que caminara en línea recta,
+											tal como les acabo de demostrar,
+											Pero en cambio esto fue lo que vi.
+									",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+","
+","
+","
+","
+",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+											(rires)
+									","
+											(Laughter)
+									","
+											(Gülüşmeler)
+									","
+											(Gelächter)
+									","
+											(Risas)
+									",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+","
+","
+","
+","
+",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+											Retour à la planche à dessin pour nous.
+											Finalement on a réussi,
+											en bidouillant à droite à gauche.
+											Et voici un exemple d'une exécution évolutionnaire réussie.
+											Dans un moment vous allez voir un bipède simplifié
+											qui apprend à marcher en utilisant l'évolution artificielle.
+											Au début il ne sait pas du tout marcher,
+											mais il va s'améliorer avec le temps.
+											Voilà celui qui ne sait pas du tout marcher.
+									","
+											So, it was back to the drawing board for us.
+											We did get it to work eventually,
+											after tweaking a bit here and there.
+											And this is an example of a successful evolutionary run.
+											So, what you'll see in a moment is a very simple biped
+											that's learning how to walk using artificial evolution.
+											At the beginning, it can't walk at all,
+											but it will get better and better over time.
+											So, this is the one that can't walk at all.
+									","
+											Yani bu bizim için çizim masasına geri dönmek demekti.
+											Sonunda onu çalışır hale getirdik,
+											orasında ve burasında biraz ayar yaptıktan sonra.
+											Ve bu da başarılı bir çalışmanın örneği.
+											Birazdan göreceğiniz şey yapay evrimi kullanarak
+											yürümeyi öğrenen bir, iki ayaklı.
+											Başlangıçta hiç yürüyemiyordu
+											ama zamanla daha iyiye gitti.
+											İşte bu hiç yürüyemeyen.
+									","
+											Also fingen wir von vorne an.
+											Irgendwann kriegten wir es auch hin,
+											nach ein paar Änderungen hier und da.
+											Hier ist ein Beispiel eines erfolgreichen Evolutionsablaufs.
+											Was ich gleich zeigen werde, ist ein sehr einfacher Zweibeiner,
+											der durch künstliche Evolution lernt zu laufen.
+											Am Anfang kann er gar nicht laufen,
+											aber mit der Zeit wird er immer besser und besser.
+											Hier ist der erste Versuch, der gar nicht laufen kann.
+									","
+											Así que volvimos a nuestro pizarrón de dibujo.
+											Finalmente logramos que funcionara
+											después de hacer unos ajustes por aquí y por allá.
+											Y este es un ejemplo de una carrera evolutiva exitosa.
+											Lo que van a ver en un momento es un bípedo muy simple
+											que está aprendiendo a caminar usando la evolución artificial.
+											Al principio ni siquiera puede caminar,
+											pero va a mejorar con el tiempo.
+											Entonces, este es uno que no puede caminar para nada.
+									",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+","
+","
+","
+","
+",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+											(rires)
+									","
+											(Laughter)
+									","
+											(Gülüşmeler)
+									","
+											(Gelächter)
+									","
+											(Risas)
+									",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+","
+","
+","
+","
+",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+											Et après 5 générations du processus évolutionnaire,
+											l'algorithme génétique s'améliore un petit peu.
+									","
+											Now, after five generations of applying evolutionary process,
+											the genetic algorithm is getting a tiny bit better.
+									","
+											Şimdi, beş kez evrim prosesini uyguladıktan sonra,
+											genetik algoritma birazcık daha iyi hale geliyor.
+									","
+											Jetzt, nach Fünf Generationen unseres künstlichen Evolutionsablaufs
+											wird der genetische Algorithmus ein kleines bisschen besser.
+									","
+											Ahora bien, después de 5 generaciones de aplicar el proceso evolutivo,
+											y el algorítmo genético está volviéndose cada vez mejor.
+									",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+","
+","
+","
+","
+",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+											(rires)
+									","
+											(Laughter)
+									","
+											(Gülüşmeler)
+									","
+											(Gelächter)
+									","
+											(Risas)
+									",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+","
+","
+","
+","
+",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+											Génération 10 il fait quelques pas de plus.
+											C'est pas encore ça.
+											Et après 20 générations il marche en ligne droite sans tomber.
+											C'était une avancée capitale pour nous.
+											Académiquement c'était un projet très ambitieux,
+											et après avoir atteint ce stade nous avions confiance
+											que nous pouvions faire d'autres choses avec cette approche —
+											simuler le corps en fait
+											et simuler cette partie du système nerveux qui le contrôle.
+											A ce stade c'est devenu clair que ça pouvait être très intéressant
+											pour les jeux vidéos ou les mondes en ligne.
+											Ce que vous voyez là c'est le personnage debout,
+											et un obstacle en travers de son chemin.
+											Et vous allez voir, il va trébucher sur l'obstacle.
+											Ce qui est intéressant c'est qu'en déplaçant l'obstacle légèrement à droite,
+											ce que je viens de faire là,
+											il va trébucher de façon complètement différente.
+											Un peu plus à droite, et encore une chute différente.
+									","
+											Generation 10 and it'll take a few steps more —
+											still not quite there.
+											But now, after generation 20, it actually walks in a straight line without falling over.
+											That was the real breakthrough for us.
+											It was, academically, quite a challenging project,
+											and once we had reached that stage, we were quite confident
+											that we could try and do other things as well with this approach —
+											actually simulating the body
+											and simulating that part of the nervous system that controls it.
+											Now, at this stage, it also became clear that this could be very exciting
+											for things like computer games or online worlds.
+											What you see here is the character standing there,
+											and there's an obstacle that we put in its way.
+											And what you see is, it's going to fall over the obstacle.
+											Now, the interesting bit is, if I move the obstacle a tiny bit to the right,
+											which is what I'm doing now, here,
+											it will fall over it in a completely different way.
+											And again, if you move the obstacle a tiny bit, it'll again fall differently.
+									","
+											10. jenerasyon ve birkaç adım daha atabiliyor.
+											Yine de tam olmamış.
+											Ama 20.den sonra düz bir çizgide düşmeden yürüyebiliyor.
+											Bu bizim için büyük bir ilerleme idi.
+											Akademik açıdan zorlu bir proje idi
+											ve bu seviyeye ulaştıktan sonra bu yaklaşım ile başka şeyler
+											deneyip yapabileceğimize dair kendimize güvenimiz oluştu —
+											özellikle vücudu ve onu kontrol eden
+											sinir sistemini taklit edebileceğimize dair güvenimiz.
+											Şimdi, bu aşamada bunun online dünyası ve bilgisayar oyunları için
+											çok heyecan verici olduğu netlik kazandı.
+											Burada gördüğünüz orada dikilen bir karakter
+											ve onun yoluna koyduğumuz bir engel.
+											Gördüğünüz gibi, engelin üstüne doğru düşüyor.
+											İlginç olan ise, eğer engeli birazcık sağa kaydırırsam,
+											şu an yapıyorum, işte,
+											bu kez farklı bir şekilde düşüyor.
+											Ve engeli biraz daha hareket ettirirsem, yeniden farklı bir şekilde düşecek.
+									","
+											Mit Generation 10 geht er schon ein paar Schritte weiter –
+											noch nicht ganz perfekt.
+											Aber jetzt, nach der 20. Generation, geht er tatsächlich in einer geraden Linie ohne zu stürzen.
+											Das war für uns der große Durchbruch.
+											Es war, auf akademischer Ebene, ein recht forderndes Projekt,
+											und als wir dieses Stadium erreichten, waren wir zuversichtlich,
+											dass wir viele andere Erfolge mit diesem Ansatz erreichen könnten –
+											eine echte Simulation des Körpers
+											und des Nervensystems, das ihn kontrolliert.
+											Nun, in diesem Stadium wurde uns langsam klar, dass diese Technologie sehr aufregend
+											für Videospiele und Onlinewelten werden könnte.
+											Was wir hier sehen, ist ein Charakter
+											und ein Hindernis in seinem Weg.
+											Wie wir sehen, stürzt er über das Hindernis.
+											Das Interessante daran ist, wenn ich das Hindernis ein wenig nach rechts bewege,
+											wie ich es gerade mache,
+											fällt er auf eine völlig andere Weise.
+											Und wenn ich das Hindernis wieder ein wenig bewege, fällt er wieder anders.
+									","
+											En la generación 10 va a dar unos pasos más.
+											Aún nada concreto.
+											Pero después de la generación 20 camina de verdad en línea recta sin caerse.
+											Este fue un gran descubrimiento para nosotros.
+											Fue un proyecto realmente desafiante para el intelecto,
+											y una vez que alcanzamos esta etapa tuvimos gran confianza
+											de que podíamos intentarlo y hacer otras cosas con este sistema,
+											de hecho, simular el cuerpo
+											y simular la parte del sistema nervioso que lo controla.
+											Ahora bien, en este punto también se hizo claro que esto podría ser bastante emocionante
+											para cosas como los juegos de computadora o mundos virtuales.
+											Lo que se aprecia aquí es el personaje que está de pie,
+											y hay un obstáculo que ponemos en su camino.
+											Y lo que se ve es que se va a caer con el obstáculo.
+											Ahora bien, la parte interesante es si muevo el obstáculo un poquito a la derecha,
+											que es lo que estoy haciendo ahora, justo aquí,
+											se va a caer de una forma completamente diferente.
+											Nuevamente, si uno mueve el obstáculo un poquito, se va a caer de una manera diferente.
+									",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+","
+","
+","
+","
+",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+											(rires)
+									","
+											(Laughter)
+									","
+											(Gülüşmeler)
+									","
+											(Gelächter)
+									","
+											(Risas)
+									",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+","
+","
+","
+","
+",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+											Ce que vous voyez là en haut
+											c'est l'activité des neurones transmise aux muscles artificiels.
+											OK, c'était la vidéo. Merci.
+											Ça peut paraître trivial mais c'est en fait très important
+											parce qu'on ne voit pas ça actuellement,
+											dans aucun monde interactif ou virtuel.
+											A ce stade nous avons créé une entreprise pour développer ça
+											parce qu'évidemment c'était juste un simple bipède fait de blocs.
+											Nous voulions un corps humain complet,
+											donc on a créé cette entreprise.
+											Nous avons embauché une équipe de physiciens, informaticiens et biologistes
+											pour travailler sur ça, et la première chose à faire
+											était de créer un corps humain.
+											Ce doit être relativement rapide pour tourner sur une machine normale,
+											mais suffisamment précis pour avoir l'air joli.
+									","
+											Now, what you see, by the way, at the top there,
+											are some of the neural activations being fed into the virtual muscles.
+											Okay. That's the video. Thanks.
+											Now, this might look kind of trivial, but it's actually very important
+											because this is not something you get at the moment
+											in any interactive or any virtual worlds.
+											Now, at this stage, we decided to start a company and move this further,
+											because obviously this was just a very simple, blocky biped.
+											What we really wanted was a full human body.
+											So we started the company.
+											We hired a team of physicists, software engineers and biologists
+											to work on this, and the first thing we had to work on
+											was to create the human body, basically.
+											It's got to be relatively fast, so you can run it on a normal machine,
+											but it's got to be accurate enough, so it looks good enough, basically.
+									","
+											Bu arada, burada yukarıda gördüğünüz
+											sanal kasların içine yerleştirilmiş sinirsel hareketlenmeler.
+											Evet. Teşekkürler.
+											Bu önemsizmiş gibi gözükebilir ama aslında çok önemli
+											çünkü bu interaktif veya sanal dünya da her an
+											karşılaşabileceğiniz bir şey değil.
+											Bu aşamada, bir şirket kurmaya ve bunu daha ileri götürmeye karar verdik
+											çünkü belli ki bu sadece basit bir tıknaz iki ayaklı.
+											Yapmak istediğimiz şey tamamen bir insan vücudu idi
+											ve bunun için şirketi kurduk.
+											Bunun üstünde çalışması için fizikçilerden, yazılım mühendislerinden ve biyologlardan oluşan
+											bir takım işe aldık ve de yapmamız gereken ilk şey
+											bir insan vücudu yaratmaktı.
+											Normal bir makinede oynatmanız için oldukça hızlı olması ve
+											iyi gözükmesi içinde oldukça doğru gözüküyor olması gerekiyor.
+									","
+											Was wir nebenbei oben rechts sehen,
+											sind ein paar der Nervensignale, die an die virtuellen Muskeln gesendet werden.
+											Okay. Das war das Video, danke.
+											Das ganze mag ziemlich belanglos wirken, aber in Wirklichkeit ist es sehr wichtig,
+											weil es sowas zurzeit in keiner interaktiven
+											oder virtuellen Welt gibt.
+											In diesem Stadium entschieden wir, eine Firma zu gründen und es weiter zu verbessern,
+											denn bisher war das nur ein simpler, kantiger Zweibeiner.
+											Was wir wirklich wollten, war der ganze menschliche Körper.
+											Also gründeten wir die Firma.
+											Wir stellten eine Gruppe aus Physikern, Software-Ingenieuren und Biologen zusammen,
+											um an dem Projekt weiterzuarbeiten. Zunächst wollten wir
+											im Grunde den menschlichen Körper nachbauen.
+											Er musste recht einfach bleiben, sodass wir ihn auf einem normalen Computer simulieren konnten,
+											aber er musste akkurat genug sein, so dass er gut genug aussah.
+									","
+											Lo que ven, por cierto, allá arriba,
+											son algunas de las activaciones neuronales que se le están dando a los músculos virtuales.
+											Bien. Ese era el video. Gracias.
+											Esto les puede parecer trivial pero es muy importante en realidad
+											porque no es algo que se vea hoy
+											en los mundos virtuales o interactivos.
+											Y hemos decidido en esta etapa comenzar una compañía y echar esto a andar
+											porque este bípedo bien cuadrado es bastante simple.
+											Lo que en verdad queríamos era un cuerpo humano completo,
+											así que empezamos una compañía.
+											Contratamos a un equipo de físicos, ingenieros de software y biólogos
+											para que trabajaran en esto, y la primera cosa en la que tuvimos que trabajar fue
+											básicamente en crear un cuerpo humano.
+											Tiene que ser relativamente rápido para que pueda correr en una máquina normal,
+											pero debe ser precisa para que se vea bien, básicamente.
+									",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+","
+","
+","
+","
+",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+											Nous avons investi pas mal de nos connaissances en biomécanique
+											et essayé de le rendre aussi réel que possible.
+											Ce que vous voyez sur l'écran là
+											est une visualisation très simple de ce corps.
+											Il est très facile d'y ajouter des cheveux, des vêtements, etc..
+											mais là nous utilisons une visualisation très simplifiée
+											pour se concentrer sur les mouvements.
+											Ce que je vais faire dans un instant,
+											je vais pousser légèrement ce personnage et on va voir ce qu'il se passe.
+											Pas grand chose d'intéressant en fait.
+											Il tombe comme une poupée de chiffon.
+											La raison c'est qu'il n y a aucune intelligence dedans.
+											Ça devient intéressant quand on y ajoute de l'intelligence artificielle.
+											Ce personnage a maintenant des capacités motrices dans le haut du corps.
+											Rien dans les jambes pour l'instant.
+											Mais ce qu'il va faire — je vais le pousser encore.
+											Il réalise de lui même qu'il vient d'être poussé.
+											Il va mettre ses mains en avant.
+											Il va se tourner dans sa chute et essayer de se rattraper.
+											C'est ce que vous voyez là.
+									","
+											So we put quite a bit of biomechanical knowledge into this thing,
+											and tried to make it as realistic as possible.
+											What you see here on the screen right now
+											is a very simple visualization of that body.
+											I should add that it's very simple to add things like hair, clothes, etc.,
+											but what we've done here is use a very simple visualization,
+											so you can concentrate on the movement.
+											Now, what I'm going to do right now, in a moment,
+											is just push this character a tiny bit and we'll see what happens.
+											Nothing really interesting, basically.
+											It falls over, but it falls over like a rag doll, basically.
+											The reason for that is that there's no intelligence in it.
+											It becomes interesting when you put artificial intelligence into it.
+											So, this character now has motor skills in the upper body —
+											nothing in the legs yet, in this particular one.
+											But what it will do — I'm going to push it again.
+											It will realize autonomously that it's being pushed.
+											It's going to stick out its hands.
+											It's going to turn around into the fall, and try and catch the fall.
+											So that's what you see here.
+									","
+											Bu yüzden bu işe bir miktar biomekanik bilgi kattık
+											ve olabildiğince gerçekçi yapmaya çalıştık.
+											Burada ekranda gördüğünüz
+											vücudun çok sade bir sanal görüntüsü.
+											Söylemeliyim ki, saç, kıyafet ve benzeri şeyleri eklemek çok kolay
+											ama bizim burada yaptığımız hareketlere odaklanabilmek için
+											çok sade bir görüntü üzerinde çalışmak.
+											Birazdan, bu karakteri çok azıcık iteceğim
+											ve ne olduğunu hep birlikte göreceğiz.
+											Aslında, ilginç bir şey değil.
+											Yere düşüyor ama bir bez bebek gibi düşüyor.
+											Bunun sebebi de onun herhangi bir zekaya sahip olmaması.
+											Ona yapay zeka eklediğinizde olay daha ilginç bir hale geliyor.
+											Şimdi bu karakter vücudunun üst kısımlarında motor becerilere sahip.
+											Bu örnekte, bacaklarda yok.
+											Ama ne yapıyor — şimdi onu tekrar iteceğim.
+											Kendiliğinden itildiğini fark edecek.
+											Ellerini uzatacak.
+											Düştüğe yöne doğru dönecek ve kendini durdurmaya çalışacak.
+											İşte bu şekilde.
+									","
+											Es floss also eine ganze Menge biomechanischer Expertise in dieses Projekt,
+											und wir versuchten es so realistisch wie möglich zu machen.
+											Was wir hier auf dem Schirm sehen,
+											ist eine sehr einfache Visualisierung dieses Körpers.
+											sollte noch erwähnen, dass es sehr leicht ist ihm noch Haare, Kleidung, etc. zu geben
+											doch wir verwendeten hier eine sehr einfache Visualisierung,
+											sodass ihr euch auf die Bewegungen konzentrieren könnt.
+											Was ich gleich tun werde,
+											ist diesem Charakter einen kleinen Schubs geben und wir werden sehen, was passiert.
+											Nichts wirklich Interessantes eigentlich.
+											Er stürzt, aber er stürzt wie eine Puppe,
+											weil hier noch keine Intelligenz am Werk ist.
+											Interessant wird es, wenn wir eine künstliche Intelligenz einsetzen.
+											Unser Charakter hat nun also eine motorische Intelligenz in seinem Oberkörper –
+											noch keine in den Beinen, in diesem Beispiel.
+											Was er nun tun wird – ich gebe ihm nochmal einen Stoß.
+											Er wird merken, dass er gestoßen wird.
+											Er wird seine Arme ausstrecken,
+											sich in Fallrichtung wenden und versuchen sich abzustützen.
+											Das sehen wir hier.
+									","
+											Le ponemos bastante conocimiento biomecánico,
+											y lo tratamos de hacer lo más realista posible.
+											Lo que se ve aquí en pantalla
+											es una visualización simple de ese cuerpo.
+											Debería decir también que es muy simple añadir pelo, ropa, etc.,
+											pero lo que hicimos aquí es una animación simple
+											para que uno se concentre en el movimiento.
+											Lo que voy a hacer ahora, en un momento,
+											es nada más empujar a este personaje y veremos lo que pasa.
+											Nada muy interesante la verdad.
+											Se cae pero se cae como una muñeca de trapo.
+											La razón de eso es que no hay inteligencia en ella.
+											Se vuelve intersante cuando uno le pone inteligencia artificial.
+											Así que ahora este personaje tiene habilidades motoras en su parte superior.
+											No hay nada en las piernas aún en este ejemplo en particular.
+											Pero lo que voy a hacer, lo voy a empujar nuevamente.
+											Se dará cuenta autónomamente que se le está empujando.
+											Va a sacar sus manos.
+											Se dará una vuelta hacia la caída y va a tratar de agarrarla.
+											Y eso es lo que ven aquí.
+									",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+","
+","
+","
+","
+",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+											Ça devient vraiment intéressant
+											si on ajoute l'IA pour le bas du corps.
+											Voici le même personnage.
+											Je le pousse plus fort,
+											plus qu'avec Chris.
+											Il va recevoir un coup de la gauche là.
+											Et vous voyez qu'il recule —
+											il essaye de reprendre son équilibre,
+											il regarde où est-ce qu'il va tomber.
+											Encore une fois.
+											Et finalement il touche le sol.
+											Ça devient vraiment intéressant
+											quand on le pousse dans différentes directions.
+											C'est quelque chose qu'on ne peut pas faire actuellement.
+											Actuellement il n'y a que des graphismes vides dans les jeux.
+											Là c'est une vraie simulation. C'est ce que je veux vous montrer.
+									","
+											Now, it gets really interesting
+											if you then add the AI for the lower part of the body as well.
+											So here, we've got the same character.
+											I'm going to push it a bit harder now,
+											harder than I just pushed Chris.
+											But what you'll see is — it's going to receive a push now from the left.
+											What you see is it takes steps backwards,
+											it tries to counter-balance,
+											it tries to look at the place where it thinks it's going to land.
+											I'll show you this again.
+											And then, finally hits the floor.
+											Now, this becomes really exciting
+											when you push that character in different directions, again, just as I've done.
+											That's something that you cannot do right now.
+											At the moment, you only have empty computer graphics in games.
+											What this is now is a real simulation. That's what I want to show you now.
+									","
+											Yapay zekayı vücudunun
+											alt kısımlarına da eklediğinizde işler ilginçleşmeye başlıyor.
+											Burada aynı karakterimiz var.
+											Şimdi biraz daha hızlı iteceğim,
+											Chris'i ittiğimden daha hızlı.
+											Solundan bir darbe aldığını göreceksiniz.
+											Geriye doğru adım atıyor —
+											dengesini yeniden sağlamaya çalışıyor,
+											düşeceğini düşündüğü yere bakmaya çalışıyor.
+											Bunu tekrar göstereceğim.
+											Ve sonunda zemine düşüyor.
+											Bu karakteri şimdi benim yaptığım gibi
+											farklı açılardan ittiğinizde gerçekten eğlenceli olmaya başlıyor.
+											Bu şu anda yapabileceğiniz bir şey değil.
+											Şu anda oyunlarda sadece boş bilgisayar grafikleri var.
+											Buradaki şey ise gerçek bir canlandırma. Size göstermek istediğim bu.
+									","
+											Es wird erst richtig interessant,
+											wenn wir auch die KI für den Unterkörper hinzufügen.
+											Wir haben hier den selben Charakter.
+											Ich werde ihn ein wenig stärker schubsen,
+											stärker als ich gerade Chris gestoßen habe.
+											Er kriegt einen Stoß von links.
+											Wir sehen, dass er einen Schritt nach hinten macht,
+											er versucht aufrecht zu bleiben,
+											schaut auf den Punkt wo er hin fällt.
+											Ich zeige es noch einmal.
+											Und nun fällt er zu Boden.
+											Dies wird noch aufregender,
+											wenn man den Charakter in andere Richtungen schubst, wie ich es getan habe.
+											Sowas kann man bisher nicht machen.
+											Zurzeit gibt es nur leere Darstellungen in Spielen.
+											Jetzt haben wir eine echte Simulation. Das will ich euch jetzt zeigen.
+									","
+											Ahora sí que se pone muy interesante
+											si yo le agrego IA también a la parte baja de su cuerpo.
+											Entonces aquí tenemos al mismo personaje.
+											Lo voy a empujar un poco más fuerte esta vez,
+											más fuerte de lo que empujé a Chris.
+											Pero ahora van a ver un empujón desde la izquierda.
+											Lo que ven es que da un paso hacia atrás...
+											trata de hacer contrapeso,
+											trata de ver el lugar en donde piensa que se va a caer.
+											Se los voy a mostrar otra vez.
+											Y finalmente toca el suelo.
+											Esto sí que se vuelve entretenido
+											cuando uno empuja al personaje en direcciones diferentes, tal cual lo he hecho.
+											Eso es algo que uno no puede hacer ahora.
+											Por el momento en los juegos sólo tenemos gráficos vacíos.
+											Lo de ahora es una simulación real. Esto es lo que quería mostrarles.
+									",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+","
+","
+","
+","
+",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+											Voici le même personnage avec le même comportement,
+											mais là je vais le pousser dans différentes directions.
+											D'abord de la droite.
+											C'est au ralenti, pour bien voir ce qu'il se passe.
+											Maintenant l'angle a légèrement changé
+											vous voyez que la réaction est différente.
+											Maintenant je le pousse de face.
+											Vous voyez qu'il tombe différemment.
+											De la gauche.
+											Il tombe différemment.
+											C'était super pour nous de voir ça.
+											C'était la première fois que nous le voyions.
+											C'est la première fois que le public le voit
+											parce qu'on travaillait en mode furtif.
+											Je ne l'ai montré à personne pour l'instant.
+											Un truc marrant.
+											Que se passe-t-il si vous mettez ce personnage —
+											une version en bois maintenant, mais avec la même IA —
+											si vous le mettez sur une surface glissante, de la glace.
+											On a fait ça pour rigoler, pour voir ce qui se passe.
+									","
+											So, here's the same character with the same behavior I've just shown you,
+											but now I'm just going to push it from different directions.
+											First, starting with a push from the right.
+											This is all slow motion, by the way, so we can see what's going on.
+											Now, the angle will have changed a tiny bit,
+											so you can see that the reaction is different.
+											Again, a push, now this time from the front.
+											And you see it falls differently.
+											And now from the left —
+											and it falls differently.
+											That was really exciting for us to see that.
+											That was the first time we've seen that.
+											This is the first time the public sees this as well,
+											because we have been in stealth mode.
+											I haven't shown this to anybody yet.
+											Now, just a fun thing:
+											what happens if you put that character —
+											this is now a wooden version of it, but it's got the same AI in it —
+											but if you put that character on a slippery surface, like ice.
+											We just did that for a laugh, just to see what happens.
+									","
+											Burada yine az gönce gösterdiğim özelliklere sahip aynı karakter var,
+											ama bu sefer onu farklı bir yönden iteceğim.
+											Önce sağdan iterek başlıyorum.
+											Bu arada bunlar ne olduğunu görebilelim diye yavaşlatılmış çekimler.
+											Şimdi görüntü açısı biraz değişti
+											verdiği tepkiyi tam olarak görebilmeniz için.
+											Tekrar bir darbe, bu sefer önden.
+											Ve farklı bir şekilde düştüğünü görüyorsunuz.
+											Şimdi de soldan.
+											Ve yine farklı düşüyor.
+											Bunu görmek bizim için gerçekten heyecan vericiydi.
+											Bunu ilk kez görüyorduk.
+											Burası da bunun açıkça gösterildiği ilk yer
+											çünkü biraz gizlilikle yapıyorduk bunu.
+											Bunu henüz kimseye göstermedim.
+											Şimdi komik bir şey.
+											Bu karakteri eğer —
+											bu tahta versiyonu, ama aynı yapay zekaya sahip —
+											ama bunu buz gibi kaygan bir zemin üstüne koyarsak ne olur.
+											Bunu sadece eğlenmek için yaptık, neler olduğunu görmek için.
+									","
+											Hier ist der gleiche Charakter mit dem Verhalten, dass ich gerade gezeigt habe,
+											aber jetzt stoße ich ihn aus verschiedenen Richtungen.
+											Zuerst ein Stoß von rechts.
+											Die ist alles in Zeitlupe, damit wir sehen können, was passiert.
+											Jetzt hab ich den Stoßwinkel ein klein wenig verändert,
+											und die Reaktion ist anders.
+											Wieder ein Stoß, diesmal von vorn.
+											Und er fällt anders.
+											Jetzt von links -
+											und er fällt anders.
+											Das zu sehen war für uns sehr aufregend.
+											Dies war das erste Mal, dass wir so etwas sahen.
+											Es ist auch das erste Mal, dass die Öffentlichkeit das sieht,
+											denn wir waren im Tarnmodus,
+											wir haben es bisher niemandem gezeigt.
+											Jetzt kommt etwas Lustiges,
+											was passiert, wenn man diesen Charakter -
+											dies ist eine hölzerne Version mit der gleichen KI -
+											wenn man diesen Charakter auf etwas rutschiges wie Eis stellt.
+											Das haben wir nur zum Spaß gemacht, um zu sehen, was passiert.
+									","
+											Entonces, aquí tenemos al mismo personaje con el mismo comportamiento que les he mostrado,
+											pero lo voy a empujar en direcciones diferentes.
+											Lo primero es comenzar con un empujón a la derecha.
+											Esto es todo en cámara lenta, por cierto, para que podamos ver lo que sucede.
+											Ahora voy a cambiar el ángulo ligeramente
+											para que puedan ver que la reacción es diferente.
+											Nuevamente, un empujón, esta vez desde el frente.
+											Y se pude ver que cae de forma diferente.
+											Y ahora desde la izquierda.
+											Y cae de forma diferente.
+											Para nosotros ver esto fue algo emocionante.
+											Esa fue la primera vez que lo logramos.
+											Esta es también la primera vez que el público lo ve
+											porque hemos visto el modo sigiloso.
+											No le he mostrado esto a nadie aún.
+											Ahora, algo chistoso.
+											Qué pasa si uno pone a este personaje —
+											esta es una versión en madera, pero tiene la misma IA dentro
+											y si se pone a este personaje en una superficie resbaladiza, como el hielo.
+											Sólo lo hicimos para reírnos, sólo para ver que pasaba.
+									",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+","
+","
+","
+","
+",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+											(rires)
+									","
+											(Laughter)
+									","
+											(Gülüşmeler)
+									","
+											(Gelächter)
+									","
+											(Risas)
+									",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+","
+","
+","
+","
+",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+											Voilà ce qui se passe.
+									","
+											And this is what happens.
+									","
+											Ve olan tam olarak bu.
+									","
+											Und das hier kam dabei heraus.
+									","
+											Y esto es lo que pasa.
+									",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+","
+","
+","
+","
+",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+											(rires)
+									","
+											(Laughter)
+									","
+											(Gülüşmeler)
+									","
+											(Gelächter)
+									","
+											(Risas)
+									",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+","
+","
+","
+","
+",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+											(applaudissements)
+									","
+											(Applause)
+									","
+											(Alkışlar)
+									","
+											(Applaus)
+									","
+											(Aplausos)
+									",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+","
+","
+","
+","
+",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+											On a rien touché.
+											On a juste pris ce personnage dont je viens de parler,
+											on l'a mis sur la glace, et voilà ce qui se passe.
+											Et c'est ce qui est vraiment fascinant dans cette approche.
+											Quand nous sommes allés voir des studios de cinéma et jeux vidéos
+											pour leur montrer cette technologie, on a eu un très bon retour.
+											Ils nous ont dit que la 1ère chose dont ils ont besoin immédiatement c'est des cascadeurs virtuels.
+											Les cascades coutent très chères parce qu'elles sont dangereuses,
+											et il y a beaucoup de scènes de cascades qu'on ne peut pas faire
+											parce qu'on ne peut pas prendre le risque de blesser grièvement un cascadeur.
+											Ils voulaient donc une version numérique du cascadeur
+											et nous avons travaillé sur ça ces derniers mois.
+											C'est notre première production, que nous allons livrée dans quelques semaines.
+											Voici quelques scènes de ce personnage qui reçoit un coup de pied.
+											C'est ce que veulent les gens. C'est ce qu'on leur donne.
+									","
+											It's nothing we had to do about this.
+											We just took this character that I just talked about,
+											put it on a slippery surface, and this is what you get out of it.
+											And that's a really fascinating thing about this approach.
+											Now, when we went to film studios and games developers
+											and showed them that technology, we got a very good response.
+											And what they said was, the first thing they need immediately is virtual stuntmen.
+											Because stunts are obviously very dangerous, they're very expensive,
+											and there are a lot of stunt scenes that you cannot do, obviously,
+											because you can't really allow the stuntman to be seriously hurt.
+											So, they wanted to have a digital version of a stuntman
+											and that's what we've been working on for the past few months.
+											And that's our first product that we're going to release in a couple of weeks.
+											So, here are just a few very simple scenes of the guy just being kicked.
+											That's what people want. That's what we're giving them.
+									","
+											Bunun bizim yaptığımız şeyle bir ilgisi yok.
+											Sadece az önce bahsettiğimiz karakteri aldık,
+											kaygan bir yüzeye koyduk ve ortaya çıkan sonuç budur.
+											Ve de bu, bu yaklaşım hakkında gerçekten etkileyici olan şey.
+											Film stüdyolarına ve oyun üreticilerine gidip bu teknolojiyi
+											gösterdiğimizde çok iyi karşılık aldık.
+											Ve bize aciliyetle sanal düblöre ihtiyaç duyduklarını söylediler.
+											Çünkü dublörlük çok tehlikeli ve çok pahalı ve birçok
+											dublör sahnesi var ki dublörlerin göz göre göre
+											sakatlamalarına izin veremeyeceğiniz için çekemiyorsunuz.
+											Bu yüzden de dublörün dijital versiyonunu istediler
+											bu da geçtiğimiz birkaç ay üzerinde çalıştığımız konu oldu.
+											Bu da birkaç hafta içinde çıkaracağımız ilk ürünümüz.
+											Burada da az önce dövülen bu adamın birkaç basit sahnesini görüyoruz.
+											İnsanların istediği bu. Biz de onlara bunu veriyoruz.
+									","
+											Wir mussten nichts weiter tun,
+											als diesen Charakter, von dem ich gerade erzählte,
+											auf eine rutschige Fläche zu stellen, und das kam dabei heraus.
+											Und das ist das faszinierende an unserer Methode.
+											Nun, als wir Filmstudios und Spieleentwickler besuchten
+											und ihnen diese Technologie zeigten, war ihre Reaktion sehr positiv.
+											Und sie sagten uns, das erste, was sie brauchen sind virtuelle Stuntmänner.
+											Stunts sind offensichtlich sehr gefährlich und sehr teuer
+											und es gibt viele Stuntszenen, die einfach nicht möglich sind,
+											weil der Stuntman sich dabei nicht ernsthaft verletzen darf.
+											Also wollten sie eine digitale Version eines Stuntmans
+											und wir haben die letzten paar Monate daran gearbeitet.
+											Und das wird das erste Produkt, das wir veröffentlichen werden.
+											Hier sind ein paar einfache Szenen, wie er getreten wird.
+											Wenn die Leute sowas wollen, dann geben wir es ihnen.
+									","
+											No pretendíamos nada con esto.
+											Sólo usamos este personaje del que hablamos,
+											lo pusimos en una superficie resbaladiza, y esto es lo que pasa.
+											Y esto es lo fascinante de este proyecto.
+											Ahora, cuando fuimos a los estudios de filmación y desarrolladores de juegos
+											y les mostramos esta tecnología, obtuvimos una muy buena respuesta.
+											Y lo que nos dijeron fue, lo primero, que necesitaban un doble virtual.
+											Porque las proezas son obviamente peligrosas, y son muy caras,
+											y hay muchas escenas de riesgo que no pueden hacerse
+											porque uno no puede permitir que el doble salga afectado.
+											Entonces ellos querían tener una versión digital de un doble.
+											En esto hemos estado trabajando durante meses.
+											Y este es el primer producto que vamos a lanzar en un par de semanas.
+											Y aquí unas escenas muy simples del tipo recibiendo puntapies.
+											Eso es lo que la gente quiere. Eso es lo que les estamos dando.
+									",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+","
+","
+","
+","
+",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+											(rires)
+									","
+											(Laughter)
+									","
+											(Gülüşmeler)
+									","
+											(Gelächter)
+									","
+											(Risas)
+									",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+","
+","
+","
+","
+",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+											Vous voyez, il réagit tout le temps.
+											Ce n'est pas un corps inerte. C'est un corps qui, dans ce cas,
+											ressent la force et essaye de se protéger la tête.
+											C'est quand même un coup puissant.
+											On a pitié pour lui,
+											mais ça fait tellement de fois que nous le voyons
+											on y fait plus attention.
+									","
+											You can see, it's always reacting.
+											This is not a dead body. This is a body who basically, in this particular case,
+											feels the force and tries to protect its head.
+											Only, I think it's quite a big blow again.
+											You feel kind of sorry for that thing,
+											and we've seen it so many times now that
+											we don't really care any more.
+									","
+											Gördüğünüz gibi, her zaman tepki veriyor.
+											Bu ölü bir beden değil. Burada gördüğümüz, gücü hisseden
+											ve kafasını korumaya çalışan bir vücut.
+											Sadece bence biraz fazla savruluyor.
+											O karakter için üzüntü hissediyorsunuz,
+											bunu o kadar çok gördük ki aslında
+											artık umursamıyoruz.
+									","
+											Wie ihr seht gibt es immer eine Reaktion.
+											Es ist kein toter Körper. Es ist ein Körper, der, in diesem Fall,
+											den Tritt spürt und versucht seinen Kopf zu schützen.
+											Hier kommt noch ein starker Schlag.
+											Man bemitleidet ihn irgendwie,
+											wir haben es schon so oft gesehen,
+											dass es uns ziemlich egal ist.
+									","
+											Como ven, siempre está reaccionando.
+											Este no es un cuerpo muerto. Es un cuerpo que, básicamente, en este caso en particular
+											siente la fuerza y trata de proteger su cabeza.
+											Sólo que creo que es un gran golpe.
+											Uno se siente un poco mal por estas cosas
+											pero lo hemos visto tantas veces que
+											la verdad, ya no nos importa.
+									",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+","
+","
+","
+","
+",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+											(rires)
+									","
+											(Laughter)
+									","
+											(Gülüşmeler)
+									","
+											(Gelächter)
+									","
+											(Risas)
+									",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+","
+","
+","
+","
+",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+											Il y a des vidéos pires que celle là, que j'ai enlevées d'ailleurs...
+											En voilà une autre.
+											Les gens voulaient une scène d'explosion,
+											une force puissante appliquée au personnage,
+											et le personnage réagit dans les airs.
+											De sorte qu'il ne soit pas mou,
+											mais bouge comme un personnage de film d'action
+											qui a l'air vivant dans les airs aussi.
+											Donc ce personnage va être frappé par une force,
+											il va réaliser qu'il est en l'air
+											et il va essayer de
+											mettre ses bras en avant vers son point de chute.
+											Sous un angle, en voici un autre.
+											Nous pensons que le niveau de réalisme atteint
+											est assez bon pour être utilisé dans un film.
+									","
+											There are much worse videos than this, by the way, which I have taken out, but ...
+											Now, here's another one.
+											What people wanted as a behavior was to have an explosion,
+											a strong force applied to the character,
+											and have the character react to it in midair.
+											So that you don't have a character that looks limp,
+											but actually a character that you can use in an action film straight away,
+											that looks kind of alive in midair as well.
+											So this character is going to be hit by a force,
+											it's going to realize it's in the air,
+											and it's going to try and, well,
+											stick out its arm in the direction where it's landing.
+											That's one angle; here's another angle.
+											We now think that the realism we're achieving with this
+											is good enough to be used in films.
+									","
+											Bu arada, bundan daha kötü videolarda var ama...
+											Burada bir başkası.
+											İnsanların istediği bir şey de bir patlama,
+											karaktere uygulanacak güçlü bir etki
+											ve karakterin buna havada tepki vermesi.
+											Güçsüz gibi gözüken bir karakter değil
+											aksine bir aksiyon filminde kullanabileceğiniz sertlikte bir karakter
+											aynı zamanda havada canlı gözükecek.
+											Şimdi bu karaktere bir güç çarpacak,
+											o havadayken bunu fark edecek
+											ve düştüğü yönde kollarını uzatmaya
+											çalışacak ve bunu başararcak.
+											Bu bir açı, bu farklı bir açı.
+											Bunun ile ulaştığımız gerçekçiliğin
+											filmlerde kullanmak için yeterli olduğunu düşünüyoruz.
+									","
+											Wir haben ein paar viel schlimmer Videos als das, die ich entfernt habe, aber...
+											Hier ist noch eins.
+											Was die Leute für ein Verhalten wollten, war eine Explosion,
+											eine große Wucht, die den Charakter trifft,
+											und der Charakter sollte im Flug reagieren.
+											So, dass wir keinen Charakter haben, der schlaff ist,
+											sondern einen Charakter der direkt für einen Actionfilm benutzt werden kann,
+											der auch im Flug irgendwie lebendig wirkt.
+											Dieser Charakter wird also mit großer Wucht getroffen,
+											merkt, dass er durch die Luft fliegt
+											und versucht seinen Arm
+											in die Richtung in der er landen wird auszustrecken.
+											Das war ein Blickwinkel, hier ist ein anderer.
+											Wir denken, dass der Realismus, den wir so erreichen,
+											gut genug ist, um in Filmen benutzt zu werden.
+									","
+											He mostrado videos peores que este, por cierto, pero...
+											aquí hay otro.
+											Lo que la gente quería como comportamiento era tener una explosión,
+											una fuerza enorme aplicada hacia el personaje,
+											y hacer que el personaje reaccione en el aire.
+											Para que no se tenga un personaje que se vea discapacitado,
+											sino un personaje que uno puede usar en películas de acción inmediatamente
+											que se vea más o menos vivo en el aire también.
+											Este personaje será golpeado por una fuerza,
+											se dará cuenta de que está en el aire
+											y va a tratar y, bueno,
+											sacar su brazo en la dirección donde va a caer.
+											Ese es un ángulo, aquí tenemos otro ángulo.
+											Ahora pensamos que el realismo que estamos logrando con esto
+											es suficiente para ser usado en películas.
+									",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+","
+","
+","
+","
+",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+											Regardons une visualisation un peu différente.
+											C'est un truc que j'ai reçu hier soir
+											d'un studio d'animation à Londres, qui utilise notre logiciel
+											et expérimente avec.
+											C'est exactement le même comportement qu'on vient de voir,
+											mais avec un rendu bien meilleur.
+											Si vous regardez bien le personnage
+											vous voyez qu'il y a beaucoup de mouvements,
+											et aucun besoin de les animer à l'ancienne.
+											Les infographistes devaient les animer en fait.
+											Tout ça se fait automatiquement dans la simulation.
+											Sous un angle différent,
+											et encore un ralenti de la scène.
+											C'est très rapide. Tout se passe en temps réel.
+											Vous pouvez lancer la simulation en temps réel, sous vos yeux,
+											la changer si on veut, et on obtient l'animation directement.
+											Actuellement, faire la même chose à la main
+											prendrait surement quelques jours.
+									","
+											And let's just have a look at a slightly different visualization.
+											This is something I just got last night
+											from an animation studio in London, who are using our software
+											and experimenting with it right now.
+											So this is exactly the same behavior that you saw,
+											but in a slightly better rendered version.
+											So if you look at the character carefully,
+											you see there are lots of body movements going on,
+											none of which you have to animate like in the old days.
+											Animators had to actually animate them.
+											This is all happening automatically in the simulation.
+											This is a slightly different angle,
+											and again a slow motion version of this.
+											This is incredibly quick. This is happening in real time.
+											You can run this simulation in real time, in front of your eyes,
+											change it, if you want to, and you get the animation straight out of it.
+											At the moment, doing something like this by hand
+											would take you probably a couple of days.
+									","
+											Bir de biraz farklı bir animasyona göz atalım.
+											Bunu şu anda bizim geliştirdiğimiz
+											yazılımı kullanan bir animasyon şirketinden
+											dün gece aldım.
+											Gördüğünüz ile tamamen aynı özelliklere sahip
+											ama sadece biraz daha iyi hale getirilmiş versiyonu.
+											Eğer karaktere dikkatli bakarsanız
+											bir çok beden hareketinin olduğunu görürsünüz,
+											bu hareketlerden hiçbirini eskiden canlandıramazdınız.
+											Animatörlerin bunları gerçekten canlandırması gerekiyordu.
+											Burada ise hepsi kendiliğinden oluyor.
+											Bu biraz farklı bir açı,
+											ve tekrar yavaş çekim versiyonu.
+											Bu inanılmaz derecede hızlı. Gerçek zaman süresinde yaşanıyor.
+											Gözlerinizin önünde bu simülasyonu
+											gerçek zamanlı olarak oynatabilirsiniz.
+											Şu anda böyle bir şeyi yapmak
+											herhalde birkaç gününüzü alır.
+									","
+											Schauen wir uns jetzt eine etwas andere Visualisierung an.
+											Das hier habe ich erst gestern Nacht erhalten.
+											von einem Londoner Studio erhalten, das unsere Software benutzt
+											und zurzeit mit ihr experimentiert.
+											Wie ihr seht, ist es das gleiche Verhalten wie eben,
+											aber ein wenig besser visualisiert.
+											Wenn man sich den Charakter genau ansieht,
+											dann sieht man, dass sehr viele Körperbewegungen vor sich gehen,
+											von denen keine einzige animiert werden musste, wie früher.
+											Sie mussten alle einzeln animiert werden.
+											In dieser Simulation passiert das vollautomatisch.
+											Hier sehen wir es von einem etwas anderen Blickwinkel.
+											Und nochmal in Zeitlupe.
+											Es geht sehr schnell. Dies passiert in Echtzeit.
+											Die Simulation kann in Echtzeit abgespielt werden, vor unseren Augen.
+											Wir können Änderungen machen und die Animation wird uns direkt gezeigt.
+											Zurzeit würde es wahrscheinlich einige Tage dauern,
+											sowas von Hand zu animieren.
+									","
+											Y ahora demos una mirada a una visualización un poco diferente.
+											Esto es algo que apenas me llegó anoche
+											de un estudio de animación de Londres que está usando nuestro programa
+											y experimentando con él por ahora.
+											Este es el mismo comportamiento que vieron,
+											pero con una versión mejorada.
+											Si ven al personaje con cuidado
+											se ven varios movimientos corporales,
+											pero ninguno se tiene que animar como en los viejos tiempos.
+											Los animadores tenían que imitarlos.
+											Esto está pasando en la simulación de forma automática.
+											Este es un ángulo diferente,
+											y una versión en cámara lenta.
+											Esto es realmente rápido. Está pasando en tiempo real.
+											Uno puede echar a andar esta simulación en tiempo real, en vivo,
+											cambiarla si uno quiere, y se obtiene la animación.
+											Ahora, hacer algo así a mano
+											llevaría, tal vez, un par de días.
+									",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+","
+","
+","
+","
+",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+											Voici une autre scène qu'ils ont demandée.
+											Je sais pas trop pourquoi, mais nous l'avons fait.
+											C'est une situation très simple qui montre le pouvoir de cette approche.
+											Dans ce cas les mains du personnage
+											sont fixes en un certain point de l'espace,
+											et tout ce qu'on dit au personnage c'est de se débattre.
+											Ça a l'air naturel, réaliste.
+											On a pitié pour lui.
+											C'est encore pire - encore une vidéo reçue hier soir —
+											avec un rendu plus réaliste.
+									","
+											This is another behavior they requested.
+											I'm not quite sure why, but we've done it anyway.
+											It's a very simple behavior that shows you the power of this approach.
+											In this case, the character's hands
+											are fixed to a particular point in space,
+											and all we've told the character to do is to struggle.
+											And it looks organic. It looks realistic.
+											You feel kind of sorry for the guy.
+											It's even worse — and that is another video I just got last night —
+											if you render that a bit more realistically.
+									","
+											İstedikleri bir diğer hareket de bu.
+											Neden istediklerinden pek emin değilim ama yaptık yine de.
+											Kullanılan tekniğin gücünü gösteren basit bir hareket.
+											Burada karakterin elleri boşlukta
+											sabit bir noktaya tutunmuş
+											ve karakter orada tutunmakta zorlanıyor.
+											Canlı ve gerçekçi gözüküyor.
+											O adam için üzülüyorsunuz.
+											Bu daha da kötüsü — dün gece bana gelen diğer bir video —
+											biraz daha gerçekçi hale getirirseniz.
+									","
+											Das hier ist ein anderes gefordertes Verhalten.
+											Ich bin mir nicht sicher warum, aber wir haben es trotzdem gemacht.
+											Es ist ein einfaches Verhalten, das das Potential unseres Ansatzes demonstriert.
+											Die Hände des Charakters
+											sind an einem bestimmten Punkt im Raum befestigt,
+											und wir haben dem Charakter vorgegeben, sich zu wehren.
+											Es sieht natürlich aus, sehr realistisch.
+											Man hat leicht Mitleid mit dem Typen.
+											Es wird noch schlimmer - hier ist ein Video von letzter Nacht -
+											wenn man es etwas realistischer darstellt.
+									","
+											Este es otro tipo de comportamiento que se pidió.
+											No sé por qué, pero igual lo hicimos.
+											Es un comportamiento simple que muestra el poder de este enfoque.
+											En este caso las manos del personaje
+											están fijas a un punto en el espacio,
+											y le hemos dicho al personaje que batalle.
+											Se ve orgánico. Se ve real.
+											Uno se siente un poco mal por ese tipo.
+											Es peor... y este es otro video que recibí anoche...
+											si uno lo hace más realista.
+									",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+","
+","
+","
+","
+",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+											Je vous le passee juste pour vous montrer
+											à quel point ça peut avoir l'air naturel et réaliste.
+											C'est entièrement une simulation du corps,
+											utilisant de l'IA pour contrôler les muscles de ce corps.
+											Un truc qu'on a fait pour rire, nous avons créé
+											une scène de cascade un peu plus complexe,
+											et l'une des cascades les plus célèbres c'est quand James Bond
+											saute à l'élastique du haut d'un barrage en Suisse.
+											Voici un court extrait.
+									","
+											Now, I'm showing this to you just to show you
+											how organic it actually can feel, how realistic it can look.
+											And this is all a physical simulation of the body,
+											using AI to drive virtual muscles in that body.
+											Now, one thing which we did for a laugh was
+											to create a slightly more complex stunt scene,
+											and one of the most famous stunts is the one where James Bond
+											jumps off a dam in Switzerland and then is caught by a bungee.
+											Got a very short clip here.
+									","
+											Bunu şimdi size ne kadar gerçekçi ve canlı
+											gözükebileceğini hissettirmek için izletiyorum.
+											Ve bu vücuttaki sanal kasların çalışması için
+											yapay zekanın kullanıldığı fiziksel bir simülasyon.
+											Ek olarak biraz da gülmek için biraz daha
+											karmaşık bir dublör sahnesi yarattık,
+											en ünlü dublör sahnelerinden biri James Bond'un bir barajdan
+											aşağıya atlayıp daha sonra bungee tarafından yakalanmasıdır.
+											Burada kısa bir klip var.
+									","
+											Ich zeige euch das nur, um zu demonstrieren,
+											wie natürlich sich diese Animationen anfühlen, wie realistisch sie aussehen.
+											Es ist eine vollständige, physikalische Simulation des Körpers,
+											die mit einer KI die virtuellen Muskeln des Körpers kontrolliert.
+											Eine Sache, die wir zum Spaß getan haben,
+											war ein etwas komplexerer Stunt.
+											Einer der berühmtesten Stunts ist, James Bonds
+											Sprung von einem Damm in der Schweiz mit einem Bungeeseil.
+											Hier ein ganz kurzer Clip.
+									","
+											Bueno, les estoy mostrando esto para que vean
+											cuán orgánico se siente, y qué tan realista puede verse.
+											Y todo esto es una simulación física del cuerpo,
+											usando IA para dotar a ese cuerpo de músculos virtuales.
+											Ahora, una cosa que hicimos para reirnos un poco fue
+											crear una escena un poco más compleja,
+											y una de las piruetas más famosas es esa que James Bond
+											salta desde una presa en Suiza y después queda suspendido de un bunjee.
+											Aquí tengo un video alusivo.
+									",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+","
+","
+","
+","
+",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+											Oui vous le voyez là.
+											Ils ont utilisé un vrai cascadeur. C'était une cascade très dangereuse.
+											Je crois que le Sunday Times l'a élue comme l'une des cascades les plus impressionnantes.
+											On a regardé notre personnage et on s'est demandé,
+											""Peut-on le faire nous même?""
+											Peut-on utiliser la simulation physique du personnage,
+											de l'intelligence artificielle,
+											donner au personnage cette intelligence artificielle,
+											contrôler ses muscles artificiels, simuler le saut depuis le barrage,
+											la chute qui suit,
+											et le rattraper par l'élastique?
+											On l'a fait. Ça a pris 2 heures environ,
+											pour créer la simulation.
+											Et voilà le résultat.
+											On pourrait l'améliorer. C'est un début,
+											et on a juste fait ça pour rire,
+											pour voir ce qu'on pouvait en tirer.
+											Mais nous avons découvert par la suite
+											que cette approche sur laquelle on se base
+											a un pouvoir incroyable.
+											Les simulations nous surprennent nous-même!
+											Très souvent on obtient un comportement inattendu.
+									","
+											Yes, you can just about see it here.
+											In this case, they were using a real stunt man. It was a very dangerous stunt.
+											It was just voted, I think in the Sunday Times, as one of the most impressive stunts.
+											Now, we've just tried and — looked at our character and asked ourselves,
+											""Can we do that ourselves as well?""
+											Can we use the physical simulation of the character,
+											use artificial intelligence,
+											put that artificial intelligence into the character,
+											drive virtual muscles, simulate the way he jumps off the dam,
+											and then skydive afterwards,
+											and have him caught by a bungee afterwards?
+											We did that. It took about altogether just two hours,
+											pretty much, to create the simulation.
+											And that's what it looks like, here.
+											Now, this could do with a bit more work. It's still very early stages,
+											and we pretty much just did this for a laugh,
+											just to see what we'd get out of it.
+											But what we found over the past few months
+											is that this approach — that we're pretty much standard upon —
+											is incredibly powerful.
+											We are ourselves surprised what you actually get out of the simulations.
+											There's very often very surprising behavior that you didn't predict before.
+									","
+											Evet burada görebilirsiniz.
+											Burada gerçek dublör kullanıyorlar çok tehlikeli bir sahne.
+											Sanırım Sunday Times tarafından en etkileyici dublör sahnesi seçildi.
+											Bu karaktere baktık ve kendimize şu soruyu sorduk,
+											""Biz de bunu yapabilir miyiz?
+											Bu karakterin fiziksel simülasyonunu yapabilir miyiz,
+											yapay zeka kullanarak,
+											karaktere yapay zekayı ekleyerek,
+											sanal kaslarını çalıştırarak, barajdan aşağı atlayışını canlandırarak,
+											daha sonra hava dalışını,
+											ve bir bungee tarafından yakalanışını?
+											Yaptık. İki saatimizi aldı
+											bu simülasyonu yaratmak.
+											Ve işte böyle bir şey ortaya çıktı.
+											Daha üstünde çalışılması gerekiyor. Bu ilk safhaları
+											ve bunu gerçekten eğlence için yaptık,
+											ne yapabildiğimizi görmek için.
+											Geçtiğimiz birkaç ayda bulduğumuz şey
+											bu tekniğin son derece
+											güçlü olduğu.
+											Bu simülasyonlarla elde edebildiklerimize biz bile şaşırdık.
+											Sıklıkla daha önceden kestiremediğimiz birçok şeye rastlıyoruz.
+									","
+											Das ist im Grunde alles, was es zu sehen gibt.
+											In der Szene wurde ein echter Stuntman benutzt. Für einen sehr gefährlichen Stunt.
+											Es wurde gerade erst, ich glaube in der Sunday Times, zu einem der beeindruckendsten Stunts gewählt.
+											Nun, wir guckten uns unseren Charakter an und fragten uns:
+											""Können wir das selbst nachmachen?""
+											Können wir unsere Simulation benutzen,
+											mit unserer künstlichen Intelligenz,
+											die wir in unseren Charaktern einpflanzen,
+											um die virtuellen Muskeln zu bedienen, und simulieren, wie er vom Damm springt,
+											den Kopfsprung danach macht,
+											und ihn dann von einem Bungeeseil auffangen lassen?
+											Wir machten genau das. Es hat vielleicht knapp 2 Stunden gedauert,
+											die Simulation zu produzieren.
+											Und so sah das Ergebnis aus, hier.
+											Es braucht noch ein wenig mehr Arbeit, es ist noch in einer frühen Phase,
+											und wir taten es, wie gesagt, nur zum Spaß,
+											um zu sehen was dabei rauskommt.
+											Aber wir fanden in den letzten Monat heraus,
+											dass unser Ansatz — der unseren Arbeitsstandard bildet —
+											unglaublich wirkungsvoll ist.
+											Wir sind selbst überrascht, was für Simulationen wir am Ende bekommen.
+											Oft kriegen wir sehr überraschendes Verhalten, das wir so nicht erwartet hätten.
+									","
+											Sí, se puede ver aquí.
+											En este caso ellos estaban usando un doble real. Era una pirueta muy difícil.
+											En el Sunday Times, la votaron como una de las piruetas más impresionantes.
+											Ahora, nos fijamos en nuestro personaje y nos preguntamos:
+											""¿Podremos hacerlo también?""
+											¿Podemos usar la simulación física del personaje,
+											usar inteligencia artificial,
+											poner esa inteligencia artificial en el personaje,
+											mover los músculos virtuales, simular la forma en que salta de la presa,
+											y después salta,
+											y queda pendiendo de un bunjee?
+											Lo hicimos. Nos llevó como 2 horas,
+											más o menos, crear la simulación.
+											Y así es como quedó.
+											Ahora, esto necesita un poco más de trabajo. Aún está en sus etapas iniciales,
+											y sólo lo hicimos para reírnos un poco
+											sólo para ver lo que pasaba.
+											Pero lo que encontramos durante los meses pasados
+											es que este enfoque que es estándar
+											es bastante poderoso.
+											Incluso estamos sorprendidos con los resultados de las simulaciones.
+											Casi siempre encontramos comportamientos que no habíamos predicho.
+									",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+","
+","
+","
+","
+",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+											Il y a tellement de choses que l'on peut faire avec ça.
+											La première chose, c'est les cascadeurs virtuels.
+											Plusieurs studios utilisent ce logiciel pour créer des cascadeurs virtuels,
+											et on va les voir à l'écran bientôt,
+											dans de grandes productions.
+											La deuxième chose c'est les jeux vidéos.
+											Grâce à cette technologie les jeux vidéos vont évoluer graphiquement.
+											Pour la première fois les acteurs seront vraiment interactifs,
+											avec de vrais corps qui réagissent.
+											Je crois que ça va être vraiment intéressant.
+											Probablement les jeux de sports en premier,
+											qui vont devenir beaucoup plus interactif.
+											Mais ce qui me plaît particulièrement
+											c'est d'utiliser cette technologie dans les mondes en ligne,
+											comme celui que Tom Melcher nous a montré par exemple.
+											Le degré d'interactivité que vous allez avoir
+											sera totalement différent de ce qui se fait actuellement.
+									","
+											There's so many things we can do with this right now.
+											The first thing, as I said, is going to be virtual stuntmen.
+											Several studios are using this software now to produce virtual stuntmen,
+											and they're going to hit the screen quite soon, actually,
+											for some major productions.
+											The second thing is video games.
+											With this technology, video games will look different and they will feel very different.
+											For the first time, you'll have actors that really feel very interactive,
+											that have real bodies that really react.
+											I think that's going to be incredibly exciting.
+											Probably starting with sports games,
+											which are going to become much more interactive.
+											But I particularly am really excited
+											about using this technology in online worlds,
+											like there, for example, that Tom Melcher has shown us.
+											The degree of interactivity you're going to get
+											is totally different, I think, from what you're getting right now.
+									","
+											Bununla şu anda yapabileceğimiz birçok şey var.
+											Dediğim gibi, ilk şey sanal dublör olacak.
+											Birkaç stüdyo sanal dublörler yaratmak için bu yazılımı kullanıyor şu anda,
+											ve yakında bunları önemli prodüksiyonlarda
+											perdede göreceksiniz.
+											İkincisi ise video oyunları.
+											Bu teknoloji ile video oyunları farklı gözükecek ve çok farklı hissedilecek.
+											İlk kez son derece interaktif olarak hisseden aktörlere ve
+											gerçekten tepki veren gerçek vücutlara sahip olacaksınız.
+											Bence bu çok heyecan verici olacak.
+											Büyük ihtimalle gittikçe interaktif bir hale
+											gelen spor oyunları ile başlayacak.
+											Ama şahsen bu teknolojinin
+											online dünyada kullanılacak olması beni heyecanlandırıyor,
+											Tom Melcher'in bize gösterdiği gibi.
+											İleride oyunlardan alacağınız interaktifliğin
+											derecesi bugüne kıyasla çok daha farklı olacak bence.
+									","
+											Wir können mittlerweile so viele Sachen damit veranstalten.
+											Zunächst, wie gesagt, machen wir virtuelle Stuntmänner.
+											Einige Studios nutzen bereits unsere Software um genau das zu tun,
+											und wir werden schon bald ein paar von unseren Stuntmännern
+											in ein paar großen Filmproduktionen zu sehen bekommen.
+											Das zweite sind Videospiele.
+											Mit dieser Technologie, werden Spiele anders aussehen und sich völlig anders anfühlen.
+											Zum ersten Mal werden wir Charaktere sehen, die sich wirklich Interaktiv anfühlen,
+											und echte Körper mit echten Reaktionen haben.
+											Das wird sehr aufregend werden, glaube ich.
+											Zunächst wahrscheinlich in Sportsimulationen,
+											die dadurch viel Interaktiver sein werden.
+											Ich selbst bin besonders gespannt,
+											auf die Verwendung unserer Software in Onlinewelten,
+											wie zum Beispiel ""There"", das uns Tom Melcher gezeigt hat.
+											Der Grad der Interaktivität, den wir haben werden,
+											wird von heutigen Spielen radikal abweichen.
+									","
+											Hay tantas cosas que podemos hacer ahora.
+											Lo primero, como dije, es el doble virtual.
+											Mucho estudios están usando este software para crear dobles de riesgo virtuales,
+											y van a estar en la pantalla grande muy pronto, de hecho,
+											en grandes producciones.
+											Lo segundo son los juegos de video.
+											Con esta tecnología los juegos de video se verán y sentirán diferentes.
+											Por primera vez se tendrán actores realmente interactivos,
+											con cuerpos reales y que reaccionan de verdad.
+											Creo que eso va a ser increíble.
+											Probablemente, empezando con juegos deportivos,
+											que van a ser más interactivos.
+											Pero estoy particularmente entusiasmado
+											por usar esta tecnología en mundos virtuales,
+											como por ejemplo, lo que Tom Melcher nos mostró.
+											El grado de interactividad que van a tener
+											es completamente diferente, creo, a partir de lo que tienen ahora.
+									",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+","
+","
+","
+","
+",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+											La troisième chose c'est pour la simulation.
+											Plusieurs entreprises nous ont contactés,
+											et un projet qui nous intéresse particulièrement et commence le mois prochain,
+											est d'utiliser notre technologie de marche pour aider les chirurgiens
+											opérant sur des enfants atteints d'infirmité motrice cérébrale,
+											à prédire le résultat de ces opérations.
+											Vous le savez peut être,
+											il est très difficile de prédire le résultat d'une opération visant
+											à essayer de corriger la démarche.
+									","
+											A third thing we are looking at and very interested in is simulation.
+											We've been approached by several simulation companies,
+											but one project we're particularly excited about, which we're starting next month,
+											is to use our technology — and in particular, the walking technology —
+											to help aid surgeons who work on children with cerebral palsy,
+											to predict the outcome of operations on these children.
+											As you probably know,
+											it's very difficult to predict what the outcome of an operation is
+											if you try and correct the gait.
+									","
+											Aradığımız ve ilgilendiğimiz üçüncü şey de simülasyon.
+											Birkaç simülasyon şirketi bizle iletişim kurdu,
+											ama aralarında gelecek ay başlayacağımız bir proje bizi çok heyecanlandırdı,
+											bu da teknolojimizin, beyin felci geçirmiş çocukların ameliyatlarına
+											yardım etmek ve çocuklar üzerindeki ameliyatların
+											sonuçlarının ne olacağının tahmininde kullanılması için.
+											Bildiğiniz gibi, bir operasyonun
+											sonucunun ne olacağını öngörmek ve çocuğun yürüyüş
+											şeklini düzeltmeye çalışmak oldukça zor.
+									","
+											Die dritte Sache, die uns zurzeit interessiert sind Simulationen.
+											Wir wurden schon von einigen Simulationsfirmen angesprochen,
+											aber ein Projekt, auf das wir besonders gespannt sind und mit dem wir nächsten Monat beginnen,
+											ist die Verwendung unserer Technologie — besonders der Laufsimulation —
+											um Chirurgen zu helfen, an Kindern mit Zerebralparese,
+											den Ausgang von Operationen vorherzusehen.
+											Wie ihr vielleicht wisst,
+											ist es sehr schwierig vorherzusehen, welche Wirkung eine Operation haben wird,
+											wenn man versucht die Gehbewegung zu korrigieren.
+									","
+											Una tercera cosa que estamos investigando y nos interesa es la simulación.
+											Se nos han acercado muchas compañías de simulación,
+											pero un proyecto que nos tiene en vilo, que estamos empezando el mes que viene,
+											es usar nuestra tecnología, y en particular, la tecnología para caminar,
+											para ayudar a cirujanos que trabajan con niños con parálisis cerebral,
+											a predecir el resultado de las operaciones de estos niños.
+											Como han se saber,
+											es muy difícil predecir lo que va a pasar en una operación si
+											uno intenta corregir el modo de andar.
+									",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+","
+","
+","
+","
+",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+											Je crois qu'on dit qu'au mieux le résultat est imprévisible,
+											c'est ce que les gens pensent actuellement.
+											Nous voulons permettre aux chirurgiens d'utiliser notre logiciel comme un outil.
+											Nous allons simuler la démarche d'un enfant
+											et le chirurgien va pouvoir travailler sur cette simulation
+											et essayer différentes choses pour améliorer cette démarche
+											avant de s'engager dans l'opération.
+											C'est un projet qui nous intéresse particulièrement,
+											et qui commence le mois prochain.
+											Et pour conclure, ce n'est que le début.
+											On ne peut simuler qu'un certain nombre de comportements actuellement.
+											L'IA n'est pas assez bonne pour un corps humain tout entier.
+											Le corps oui, mais pas toutes les capacités motrices.
+											Je pense qu'on aura atteint l'objectif si on peut simuler un ballet.
+											Actuellement on ne peut pas
+											mais je suis convaincu qu'on y arrivera un jour.
+									","
+											The classic quote is, I think, it's unpredictable at best,
+											is what people think right now, is the outcome.
+											Now, what we want to do with our software is allow our surgeons to have a tool.
+											We're going to simulate the gait of a particular child
+											and the surgeon can then work on that simulation
+											and try out different ways to improve that gait,
+											before he actually commits to an actual surgery.
+											That's one project we're particularly excited about,
+											and that's going to start next month.
+											Just finally, this is only just the beginning.
+											We can only do several behaviors right now.
+											The AI isn't good enough to simulate a full human body.
+											The body yes, but not all the motor skills that we have.
+											And, I think, we're only there if we can have something like ballet dancing.
+											Right now, we don't have that
+											but I'm very sure that we will be able to do that at some stage.
+									","
+											Klasik söylenen söz, sanırım, olsa olsa tahmin edilemezdir,
+											şu anda insanların sonuç için düşündüğü budur.
+											Bu yazılım ile yapmak istediğimiz operatörlere bir alet tedarik etmek.
+											Bir çocuğun hareket tarzını canlandıracağız
+											ve ameliyat da o simülasyon üzerinden ilerleyecek
+											ve gerçekten bir operasyona başlanmadan önce
+											yürüyüş şeklini geliştirmek için farklı yollar denenecek.
+											Bu duyduğumuzda bizi çok heyecanlandıran bir
+											proje idi ve önümüzdeki ay başlıyoruz.
+											Bu sadece başlangıç
+											Şu an birkaç farklı konuda çalışıyoruz.
+											Yapay zeka, tam bir insan vücudunu canlandırmak için yeteri kadar iyi değil.
+											Vücut için yeterli ama tüm motor becerilerimiz için değil.
+											Bence, eğer bir baleti canlandırabilirsek oraya vardık diyebiliriz.
+											Şu an ona sahip değiliz
+											ama eminim ki ilerleyen safhalarda ona da ulaşacağız.
+									","
+											Die übliche Annahme ist, glaube ich, dass es im besten Fall unvorhersehbar ist.
+											Das nehmen die Menschen zurzeit an.
+											Und wir wollen mit unserer Software den Chirurgen ein Werkzeug zu geben,
+											mit dem der Gang eines bestimmten Kindes simuliert wird,
+											und der Chirurg kann an dieser Simulation arbeiten,
+											und verschieden Änderungen am Gang ausprobieren,
+											bevor er einen chirurgischen Eingriff vornimmt.
+											Das ist ein Projekt, das uns besonders interessiert,
+											und wir beginnen nächsten Monat damit.
+											Zum Schluss möchte ich noch betonen: Das ist erst der Anfang.
+											Wir können erst ein paar Verhaltensformen simulieren.
+											Die KI ist noch nicht gut genug, um einen ganzen menschlichen Körper zu simulieren.
+											Den Körper schon, aber nicht all unsere motorischen Fähigkeiten.
+											Ich glaube, wir haben es erst geschafft, wenn wir Balletttanz oder sowas simulieren können.
+											Im Moment können wir das nicht,
+											aber ich bin mir sicher, dass wir irgendwann genau das können werden.
+									","
+											La cita clásica es, creo, es impredecible en el mejor de los casos,
+											es lo que la gente piensa ahora, es el resultado.
+											Lo que queremos hacer con nuestro software es permitirle a los cirujanos tener una herramienta.
+											Vamos a simular el andar de un niño en particular
+											y el cirujano puede trabajar en la simulación
+											y probar formas diferentes de mejorar su andar
+											antes de hacer una cirugía real.
+											Eso es algo que nos entusiasma mucho,
+											y va a comenzar el mes que viene.
+											Finalmente, esto es sólo el comienzo.
+											Ahora podemos simular varios comportamientos.
+											La inteligencia artificial no es tan buena como para simular todo el cuerpo humano.
+											Sí el cuerpo, pero no todas las habilidades motoras que poseemos.
+											Y, creo que lo habremos logrado cuando podamos hacer bailar ballet.
+											Todavía no lo logramos
+											pero estoy seguro de que seremos capaces de hacerlo en algún momento.
+									",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+","
+","
+","
+","
+",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+											On a quand même involontairement un danseur,
+											la dernière chose à vous montrer.
+											C'est une ébauche d'IA, produite et évoluée —
+											enfin à moitié évoluée — pour gérer l'équilibre en gros.
+											On frappe le bonhomme et il est sensé se rattraper.
+											C'est ce qu'on pensait qu'il allait se passer.
+											Mais voilà ce qui en est ressorti.
+									","
+											We do have one unintentional dancer actually,
+											the last thing I'm going to show you.
+											This was an AI contour that was produced and evolved —
+											half-evolved, I should say — to produce balance, basically.
+											So, you kick the guy and the guy's supposed to counter-balance.
+											That's what we thought was going to come out of this.
+											But this is what emerged out of it, in the end.
+									","
+											Size son olarak göstermek istediğim şey,
+											kazara sahip olduğumuz dansçımız.
+											Bu yaratılan ve geliştirilen bir yapay zeka çizgisi —
+											yarı geliştirilmiş aslında — dengeyi geliştirebilmek için yapıldı.
+											Bu şekli tekmeliyoruz ve onun da dengesini korumaya çalışıyor olması gerekiyor.
+											Sonunda ortaya çıkacağını sandığımız düşünce buydu.
+											Ama sonunda ortaya çıkan bu oldu.
+									","
+											Eigentlich haben wir schon einen überraschenden Tänzer,
+											der das letzte ist, was ich euch heute zeigen werde.
+											Dies war eine KI, die wir produzierten und die sich entwickelte —
+											halb entwickelte, sollte ich sagen — um Balance zu halten.
+											Wir treten den Typen und er sollte den Tritt ausbalancieren.
+											Wir dachten, dass er einfach nur die Balance halten würde.
+											Aber das hier kam am Ende dabei raus.
+									","
+											De hecho, sí tenemos un bailarín involuntario
+											es lo último que quería mostrarles.
+											Esto es una inteligencia artificial que produjimos y evolucionó —
+											evolucionó a medias, diría, para producir equilibrio.
+											Uno patea al tipo y se supone que tiene que equilibrarse.
+											Eso era lo que pensamos que resultaría de esto.
+											Pero esto es lo que finalmente pasó.
+									",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+","
+","
+","
+","
+",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+											(musique)
+									","
+											(Music)
+									","
+											(Müzik)
+									","
+											(Musik)
+									","
+											(Música)
+									",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+","
+","
+","
+","
+",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+											Bizarrement il a pas de tête. Je sais pas trop pourquoi.
+											Ce n'est pas quelque chose que l'on a fait là.
+											Il s'est mis à danser tout seul.
+											Je dois dire qu'il danse même mieux que moi!
+											Et après quelques temps —
+											je crois qu'il atteint l'orgasme à la fin.
+											Voilà!
+									","
+											Bizarrely, this thing doesn't have a head. I'm not quite sure why.
+											So, this was not something we actually put in there.
+											He just started to create that dance himself.
+											He's actually a better dancer than I am, I have to say.
+											And what you see after a while —
+											I think he even goes into a climax right at the end.
+											And I think — there you go.
+									","
+											Enteresan olarak bu şeyin kafası yok, neden olduğunu ben de bilmiyorum.
+											Bu bizim oraya yerleştirdiğimiz bir şey değildi.
+											O bu dansı kendiliğinden yaratmaya başladı.
+											Söylemem gerekir ki, benden çok daha iyi bir dansçı.
+											Bir süre sonra gördüğünüz ise —
+											Bence sonlarda zirve yapıyor.
+											İşte burada.
+									","
+											Es ist etwas bizarr, weil er keinen Kopf hat. Ich weiß nicht wieso.
+											Wir hatten überhaupt nicht vor, so etwas herzustellen.
+											Er fing einfach an sich diesen Tanz auszudenken, von alleine.
+											Er kann es sogar besser als ich, muss ich zugeben.
+											Und nach einiger Zeit —
+											Ich glaube er hat noch einen kleinen Höhepunkt am Ende.
+											Ich glaube — da ist es.
+									","
+											No tiene cabeza y no sabemos por qué.
+											Esto no es algo que hayamos puesto.
+											Él comenzó a crear el baile por sí mismo.
+											Es mejor bailarín que yo, debo decir.
+											Y lo que ven después de un rato...
+											creo que llega a un clímax al final.
+											Creo... ahí va.
+									",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+","
+","
+","
+","
+",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+											(rires)
+									","
+											(Laughter)
+									","
+											(Gülüşmeler)
+									","
+											(Gelächter)
+									","
+											(Risas)
+									",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+","
+","
+","
+","
+",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+											Tout ça s'est fait automatiquement. On a rien touché.
+											C'est juste la simulation qui créé ça elle même.
+											C'est juste —
+									","
+											So, that all happened automatically. We didn't put that in there.
+											That's just the simulation creating this itself, basically.
+											So it's just —
+									","
+											Bunların hepsi kendiliğinden oldu. Biz bir şey yerleştirmedik.
+											Burada sadece simülasyonun kendi yarattığı şeyleri görüyorsunuz.
+											Yani —
+									","
+											Das passierte also alles vollautomatisch. Wir hatten nichts damit zu tun.
+											Die Simulation schafft sich im Grunde einfach selbst.
+											Es ist einfach —
+									","
+											Así que todo eso pasó automáticamente sin agregarle nada.
+											Es la simulación la que, básicamente, crea esto por sí misma.
+											Es sólo...
+									",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+","
+","
+","
+","
+",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+											(applaudissements)
+									","
+											(Applause)
+									","
+											(Alkışlar)
+									","
+											(Applaus)
+									","
+											(Aplausos)
+									",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+","
+","
+","
+","
+",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+											Merci.
+											Pas encore John Travolta mais on y travaille.
+											Merci beaucoup.
+											Merci.
+									","
+											Thanks.
+											Not quite John Travolta yet, but we're working on that as well,
+											so thanks very much for your time.
+											Thanks.
+									","
+											Teşekkürler.
+											Tam olarak John Travolta değil henüz ama üzerinde çalışıyoruz,
+											ayırdığınız zaman için teşekkür ederim.
+											Teşekkürler
+									","
+											Danke.
+											Noch nicht ganz John Travolta, aber wir arbeiten daran.
+											Ich danke euch für eure Zeit.
+											Danke.
+									","
+											Gracias.
+											No es John Travolta, todavía, pero estamos en eso también.
+											Gracias por su tiempo.
+											Gracias.
+									",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+","
+","
+","
+","
+",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+											(applaudissements)
+									","
+											(Applause)
+									","
+											(Alkışlar)
+									","
+											(Applaus)
+									","
+											(Aplausos)
+									",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+","
+","
+","
+","
+",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+											Chris Anderson: Incroyable. C'était vraiment incroyable.
+									","
+											CA: Incredible. That was really incredible.
+									","
+											Chris Anderson: Muazzam. Bu gerçekten müthişti.
+									","
+											Chris Anderson: Unglaublich. Das war wirklich unglaublich.
+									","
+											Chris Anderson: Inceríble. Fue realmente increíble.
+									",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+","
+","
+","
+","
+",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+											Torstein Reil: Merci.
+									","
+											TR: Thanks.
+									","
+											Torsten Reil: Teşekkürler.
+									","
+											Torsten Reil: Danke.
+									","
+											Tosten Reil: Gracias.
+									",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"
+"
+","
+","
+","
+","
+",Animate characters by evolving them,Torsten Reil,18:20,"animals,biomechanics,demo,design,entertainment,gaming,technology,virtual reality,animation"

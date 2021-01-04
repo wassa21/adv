@@ -1,0 +1,881 @@
+en,es,tr,fr,de,pt,title,speaker,duration,tags
+"
+","
+","
+","
+","
+","
+",How do hard drives work?,Kanawat Senanan,4:57,"collaboration,creativity,design,engineering,history,technology,computers,invention,education,TED-Ed,animation"
+"
+											Imagine an airplane flying
+one millimeter above the ground
+											and circling the Earth
+once every 25 seconds
+											while counting every blade of grass.
+											Shrink all that down so that it fits
+in the palm of your hand,
+											and you'd have something equivalent
+to a modern hard drive,
+											an object that can likely hold
+more information than your local library.
+											So how does it store so much information
+in such a small space?
+											At the heart of every hard drive
+is a stack of high-speed spinning discs
+											with a recording head 
+flying over each surface.
+											Each disc is coated with a film
+of microscopic magnetised metal grains,
+											and your data doesn't live there
+in a form you can recognize.
+											Instead, it is recorded 
+as a magnetic pattern
+											formed by groups of those tiny grains.
+											In each group, also known as a bit,
+											all of the grains have 
+their magnetization's aligned
+											in one of two possible states,
+											which correspond to zeroes and ones.
+											Data is written onto the disc
+											by converting strings of bits 
+into electrical current
+											fed through an electromagnet.
+											This magnet generates a field
+strong enough to change the direction
+											of the metal grain's magnetization.
+											Once this information is written 
+onto the disc,
+											the drive uses a magnetic reader
+to turn it back into a useful form,
+											much like a phonograph needle
+translates a record's grooves into music.
+											But how can you get so much information
+out of just zeroes and ones?
+											Well, by putting lots of them together.
+											For example, a letter is represented
+in one byte, or eight bits,
+											and your average photo 
+takes up several megabytes,
+											each of which is 8 million bits.
+											Because each bit must be written onto
+a physical area of the disc,
+											we're always seeking to increase
+the disc's areal density,
+											or how many bits can be squeezed
+into one square inch.
+											The areal density of a modern hard drive
+is about 600 gigabits per square inch,
+											300 million times greater than that
+of IBM's first hard drive from 1957.
+											This amazing advance in storage capacity
+											wasn't just a matter 
+of making everything smaller,
+											but involved multiple innovations.
+											A technique called the thin film
+lithography process
+											allowed engineers 
+to shrink the reader and writer.
+											And despite its size, 
+the reader became more sensitive
+											by taking advantage of new discoveries in
+magnetic and quantum properties of matter.
+											Bits could also be packed closer together
+thanks to mathematical algorithms
+											that filter out noise
+from magnetic interference,
+											and find the most likely bit sequences
+from each chunk of read-back signal.
+											And thermal expansion control of the head,
+											enabled by placing a heater 
+under the magnetic writer,
+											allowed it to fly less than
+five nanometers above the disc's surface,
+											about the width of two strands of DNA.
+											For the past several decades,
+											the exponential growth in computer
+storage capacity and processing power
+											has followed a pattern 
+known as Moore's Law,
+											which, in 1975, predicted that information
+density would double every two years.
+											But at around 100 gigabits 
+per square inch,
+											shrinking the magnetic grains further
+or cramming them closer together
+											posed a new risk
+called the superparamagnetic effect.
+											When a magnetic grain volume is too small,
+											its magnetization is easily disturbed
+by heat energy
+											and can cause bits 
+to switch unintentionally,
+											leading to data loss.
+											Scientists resolved this limitation
+in a remarkably simple way:
+											by changing the direction of recording
+from longitudinal to perpendicular,
+											allowing areal density to approach
+one terabit per square inch.
+											Recently, the potential limit has been
+increased yet again
+											through heat assisted magnetic recording.
+											This uses an even more thermally
+stable recording medium,
+											whose magnetic resistance 
+is momentarily reduced
+											by heating up a particular spot 
+with a laser
+											and allowing data to be written.
+											And while those drives are currently
+in the prototype stage,
+											scientists already have the next potential
+trick up their sleeves:
+											bit-patterned media,
+											where bit locations are arranged 
+in separate, nano-sized structures,
+											potentially allowing for areal densities
+of twenty terabits per square inch
+											or more.
+											So it's thanks to the combined efforts
+of generations of engineers,
+											material scientists,
+											and quantum physicists
+											that this tool of incredible power
+and precision
+											can spin in the palm of your hand.
+									","
+											Imagina el vuelo de un avión
+a un milímetro del suelo
+											que da vueltas a la Tierra
+una vez cada 25 segundos
+											mientras cuenta cada brizna de hierba.
+											Encoge todo eso para que quepa
+en la palma de tu mano,
+											y tendrías algo equivalente
+a un disco duro moderno,
+											un objeto que quizá puede almacenar
+más información que tu biblioteca local.
+											Pero, ¿cómo almacena tanta información
+en un espacio tan pequeño?
+											En el núcleo del disco duro hay una pila
+de discos giratorios de alta velocidad
+											con un cabezal de grabación
+que sobrevuela cada superficie.
+											Cada disco está codificado
+											con una película de granos metálicos
+magnetizados microscópicos,
+											y tus datos no viven allí en
+una forma que puedas reconocer.
+											En cambio, se almacenan
+como un patrón magnético
+											formado por grupos de
+esos diminutos granos.
+											En cada grupo, también conocido como bit,
+											todos esos granos tienen
+sus magnetizaciones alineadas
+											en uno de dos estados posibles,
+											que corresponden a ceros y unos.
+											Los datos se escriben en el disco
+											convirtiendo cadenas de bits
+											en corriente eléctrica
+alimentada vía un electroimán.
+											Este imán genera un campo
+suficientemente fuerte
+											para cambiar la dirección de la
+magnetización del grano del metal.
+											Una vez que esta información
+se escribe en el disco,
+											la unidad usa un lector magnético para
+convertirlo de nuevo en una forma útil,
+											muy similar a una aguja de fonógrafo que
+traduce ranuras de un disco en música.
+											Pero, ¿cómo conseguir tanta información
+a partir solo de ceros y unos?
+											Bueno, poniendo montones de ellos juntos.
+											Por ejemplo, una letra se representa
+con un byte, u ocho bits,
+											y tu foto promedio requiere
+varios megabytes,
+											cada uno de los cuales
+son 8 millones de bits.
+											Como cada bit debe escribirse
+en el área física de un disco,
+											siempre buscamos incrementar
+la densidad de área del disco,
+											o cuántos bits pueden colocarse
+en una pulgada cuadrada.
+											La densidad de área de
+un disco duro moderno
+											es de unos 600 gigabits
+por pulgada cuadrada,
+											300 millones de veces mayor que la
+del primer disco duro de IBM de 1957.
+											Este avance increíble en
+capacidad de almacenamiento
+											no fue solo una cuestión
+de hacer todo más pequeño,
+											sino que requirió varias innovaciones.
+											Una tecnología llamada proceso
+de litografía de película delgada
+											les permitió a los ingenieros
+encoger el lector y el escritor.
+											Y a pesar de su tamaño,
+el lector se hizo más sensible
+											aprovechando nuevos
+descubrimientos en las
+											propiedades magnéticas
+y cuánticas de la materia.
+											Se pudieron compactar los bits
+gracias a algoritmos matemáticos
+											que filtran el ruido de la
+interferencia magnética,
+											y encontrar las secuencias de bits
+más probable de cada señal de lectura.
+											Y el control de expansión
+térmica del cabezal
+											fue posible ubicando un calentador
+bajo el escritor magnético,
+											permitiendo que vuele a menos de cinco
+nanómetros sobre la superficie del disco,
+											es del ancho de dos hebras de ADN.
+											Desde hace varias décadas,
+											el crecimiento exponencial del poder
+de almacenamiento y procesamiento
+											ha seguido el patrón conocido
+como Ley de Moore,
+											que, en 1975, predijo que
+la densidad de información
+											se duplicaría cada 2 años
+											Pero en torno a los 100 gigabits
+por pulgada cuadrada,
+											encoger más el grano magnético
+o acercarlos más plantea un nuevo riesgo
+											llamado efecto superparamagnético.
+											Cuando el volumen de grano magnético
+es demasiado pequeño,
+											la energía térmica perturba
+fácilmente su magnetización
+											y puede hacer que los bits
+cambien involuntariamente,
+											llevando a la pérdida de datos.
+											Los científicos resolvieron esta
+limitación de manera muy simple:
+											cambiando la dirección de grabación
+de longitudinal a perpendicular,
+											permitiendo una densidad de área
+de un terabit por pulgada cuadrada.
+											Recientemente, el límite potencial
+se ha aumentado otra vez
+											mediante la grabación
+magnética asistida por calor.
+											Usa un medio de grabación
+térmicamente más estable,
+											cuya resistencia magnética
+se reduce momentáneamente
+											calentando un punto
+determinado con un láser,
+											permitiendo la escritura de datos.
+											Y si bien esas unidades
+están en etapa de prototipo,
+											los científicos ya tienen el próximo
+truco potencial bajo la manga:
+											medios con patrones de bits,
+											donde las ubicaciones de bits se colocan
+en estructuras nanométricas separadas,
+											potencialmente permitiendo densidades de
+área de 20 terabits por pulgada cuadrada
+											o más.
+											Es gracias a los esfuerzos combinados
+de generaciones de ingenieros,
+											científicos de materiales,
+											y físicos cuánticos
+											que este instrumento de potencia
+y precisión increíbles
+											puede girar en la palma de tu mano.
+									","
+											Yeryüzünün 1 mm üzerinde uçan
+bir uçak hayal edin.
+											Dünyanın çevresini
+her 25 saniyede bir turlarken,
+											her bir çim yaprağını da sayıyor olsun.
+											Şimdi bu manzarayı avuç içinize
+sığacak kadar küçültün.
+											İşte modern hard disklere
+eşdeğer birşeyiniz oldu.
+											Neredeyse yerel kütüphaneden
+daha fazla veri barındırabilir.
+											Peki bu kadar küçük bir alana,
+o kadar veri nasıl depolanıyor?
+											Hard disklerin içinde yüksek hızda dönen
+istiflenmiş diskler bulunur.
+											Ayrıca her bir yüzeyin üzerinde uçan
+kaydedici kafalar vardır.
+											Her bir disk, mikroskopik manyetize metal
+tanecikleri şeridi ile kaplıdır.
+											Verileriniz orada pek de
+tanıdık biçimde depolanmaz.
+											Her şey, şeritteki tanecik toplulukları
+tarafından biçimlendirilen
+											manyetik bir desen olarak kayıtlıdır.
+											Bit olarak da bilinen her toplulukta,
+											orada bulunan taneciklerin
+hepsinin manyetiklikleri
+											sıfırlara ve birlere karşılık gelen
+											iki olası durumdan
+biri olarak hizalanmıştır.
+											Veriler diske,
+											bit dizilerinin elektromıknatısla
+beslenen elektrik akımına
+											dönüştürülmesi ile yazılır.
+											Mıknatıs, metal taneciğinin
+manyetikliğinin yönünü
+											değiştirmeye yetecek denli
+güçlü bir alan üretir.
+											Bu bilgi diske bir kez yazıldığında,
+											tekrar kullanışlı biçime sokmak için
+manyetik bir okuyucu kullanılır;
+											tıpkı bir gramofon iğnesinin
+kaydı sese dönüştürmesi gibi.
+											Peki ama sadece sıfırlardan ve birlerden
+nasıl bu kadar çok veri alınabilir?
+											Onlardan çok çok fazlasını
+biraraya getirerek.
+											Örneğin, tek bir harf
+bir byte (8 bit) ile temsil edilir.
+											Ortalama bir fotoğraf
+birkaç megabyte yer tutar.
+											Her bir megabyte ise
+8 milyon bit demektir.
+											Her bitin diskteki fiziksel bir alana
+yazılması gerektiğinden,
+											hep diskin alansal yoğunluğunu
+arttırma yolları ararız.
+											Bir inç karelik alana sığabilecek
+bit sayısını arttırmak isteriz.
+											Modern bir hard diskin alansal yoğunluğu
+inç kare başına yaklaşık 600 gigabittir.
+											IBM'in 1957'de ürettiği ilk hard diskten
+300 milyon kat büyüktür bu.
+											Depolama kapasitesindeki
+bu inanılmaz ilerleme,
+											herşeyi küçültme meselesinden
+ibaret değildi.
+											Çok sayıda başka yenilikle de ilgisi var.
+											İnce film litografi işlenmesi
+denilen bir teknik
+											mühendislerin okuyucuyu ve
+yazıcıyı küçültebilmesini sağladı.
+											Ayrıca okuyucu küçülmesine rağmen
+daha duyarlı hale geldi.
+											Bu da maddenin manyetik ve kuantum
+özelliklerindeki keşifler sayesindedir.
+											Ayrıca gürültüyü manyetik girişimden
+ayırabilen ve geri okunan sinyalin
+											her öbeğindeki en uygun bit dizilerini
+bulan matematiksel algoritmalarla,
+											bitlerin birbirlerine daha yakın
+paketlenmeleri mümkün oldu.
+											Kafanın ısısal genleşme kontrolü,
+											manyetik yazıcının altına
+bir ısıtıcı yerleştirilerek sağlandı.
+											Böylece kafa, disk
+yüzeyinden 9 nanometreden,
+											yani iki DNA teli genişliğinden
+daha alçakta uçabildi.
+											Geçtiğimiz birkaç on yıl içinde,
+											bilgisayar depolama kapasitesindeki ve
+işlemci gücündeki üstel büyüme,
+											Moore Yasası olarak
+bilinen bir desen izledi.
+											Yasa 1975'te bilgi yoğunluğunun
+her iki yılda bir,
+											iki katına çıkacağını öngörmüştü.
+											Ama inç kare başına 100 gigabit için
+											manyetik tanecikleri küçültüp sıkıştırmak
+											süpermanyetik etki denilen
+yeni bir risk doğurdu.
+											Bir manyetik tanecik hacmi
+aşırı küçük olduğunda,
+											manyetizasyonu ısı enerjisi
+ile kolayca etkilenip,
+											bitlerin istenmeyen değişimlerine ve
+dolayısıyla veri kaybına
+											neden olabiliyor.
+											Bilimciler bu sınırlamayı
+oldukça basit bir yolla çözdü:
+											Kaydın yönünü yataydan
+dikeye çevirdiler.
+											Bu da alansal yoğunluğun 2,5cm (1 inç) kare
+başına bir terabite yaklaşmasını sağladı.
+											Yakın zamanda, ısı yardımlı
+manyetik kayıt yoluyla
+											potansiyel limit daha da arttırıldı.
+											Bu, belli bir noktanın
+											lazerle ısıtılarak manyetik direnci
+											anında düşürülen ve
+veri yazılmasını sağlayan,
+											ısısal olarak daha
+dengeli bir ortam sağlıyor.
+											Bu diskler şu anda
+prototip aşamasında olsa da,
+											bilimciler bir başka yeniliğin peşinde:
+											bit-desenli ortam.
+											Burada bit konumları ayrı ayrı,
+nano boyutlu yapılarda
+											düzenleniyor ve potansiyel olarak
+alansal yoğunlukların
+											2,5 cm kare başına 20 terabite
+kadar çıkmasını sağlıyor.
+											Avucunuza sığabilen bu güçlü araç,
+											çok sayıda
+											malzeme bilimci
+											ve kuantum fizikçisinin
+											ortak çabalarının bir ürünü.
+									","
+											Imaginez un avion voler
+un millimètre au-dessus du sol,
+											accomplir une révolution 
+autour de la Terre toutes les 25 secondes,
+											tout en comptant chaque brin d'herbe.
+											Réduisez l'échelle pour que tout
+tienne dans la paume votre main.
+											Vous obtenez quelque chose d'équivalent
+au disque dur moderne,
+											un objet qui peut contenir davantage
+d'informations que votre bibliothèque.
+											Comment est-ce possible d'emmagasiner
+tant de données sur un espace si réduit ?
+											Au cœur de chaque disque dur,
+											on trouve un ensemble de disques
+qui tournent très rapidement,
+											et équipés d'une tête de lecture
+qui survole chacun.
+											Chaque disque est recouvert d'un film
+											formé par des grains
+de métal magnétisés microscopiques.
+											Vos données n'y sont pas enregistrées
+sous une forme compréhensible.
+											Elles sont stockées sous forme
+de motif magnétique
+											constitué par des paquets
+de ces petits grains.
+											Au sein de chaque paquet,
+connu sous le nom de bit,
+											tous les grains sont polarisés
+magnétiquement,
+											dans un des deux états possibles,
+											correspondant à 0 et 1.
+											Les données sont gravées sur le disque
+											en convertissant les chaînes de bits
+en courant électrique
+											produit par un électroaimant.
+											Cet aimant génère un champ suffisant
+											pour changer l'orientation
+du champ magnétique de chaque bit.
+											Quand l'information
+est gravée sur le disque,
+											le pilote utilise un lecteur magnétique
+pour les rendre utilisables,
+											à l'instar de l'aiguille d'un phonographe
+											traduisant les sillons d'un disque
+en musique.
+											Comment peut-on obtenir autant
+d'informations avec des 0 et des 1 ?
+											En associant un grand nombre d'entre eux.
+											Par exemple, une lettre est représentée
+par un octet, soit, 8 bits.
+											Une photo nécessite 
+plusieurs méga-octets,
+											chacun comptant 8 millions de bits.
+											Comme chaque bit doit être inscrit 
+sur une partie physique du disque,
+											nous cherchons par tous les moyens à
+augmenter la densité surfacique du disque
+											c'est-à-dire à insérer le plus grand
+nombre possible de bits par cm².
+											La densité d'un disque dur moderne
+avoisine 100 gigabits par cm².
+											C'est plus grand que le premier disque dur
+fabriqué par IBM en 1957
+											par un facteur de 300 millions.
+											Cette évolution extraordinaire
+dans la capacité de stockage
+											n'a pas été seulement 
+une question de miniaturisation.
+											Elle a requis de nombreuses innovations.
+											Une technique appelée
+processus de lithographie sur film fin,
+
+											a permis aux ingénieurs de réduire
+la taille du lecteur et du graveur.
+											En dépit de sa taille,
+la sensibilité du lecteur a augmenté
+											en exploitant les découvertes
+											sur les propriétés magnétiques
+et quantiques de la matière.
+											On a aussi réduit l'espace entre les bits
+grâce à des algorithmes mathématiques
+											qui filtrent les bruits provoqués
+par les interférences magnétiques
+											et trouve les séquences de bits 
+les plus probables
+											pour chaque fragment de signal en lecture.
+											Un meilleur contrôle de la dilatation
+thermique du lecteur,
+											grâce à un système de thermo-régulation
+placé sous le graveur magnétique,
+											permet une navigation précise du graveur,
+à moins de 5 nanomètres,
+											soit l'équivalent de deux brins d'ADN.
+											Ces dernières décennies,
+											la croissance exponentielle
+de la capacité de stockage et de calcul
+											a suivi la Loi de Moore.
+											Moore a prédit en 1975 que la densité
+des données doublerait tous les deux ans.
+											Mais lorsque la densité atteint
+15 gigabits par cm²,
+											continuer de miniaturiser ou
+d'entasser les grains magnétiques
+											pose un nouveau risque, appelé
+le superparamagnétisme.
+											Quand le volume d'un grain
+magnétique est trop petit,
+											sa polarisation est facilement influencée
+par la température
+											et provoquer un changement
+spontané des bits,
+											et donc mener à une perte des données.
+											Les scientifiques ont trouvé
+une solution remarquablement simple :
+											en changeant la direction de gravure
+du sens longitudinal à perpendiculaire.
+											Ça a permis d'augmenter la densité 
+à près de 150 mégabits par cm².
+											Récemment, la limite a de nouveau
+été repoussée
+											grâce à l'enregistrement magnétique
+assisté par chaleur.
+											Ce système utilise un moyen
+thermique plus stable
+											dont la résistance magnétique
+est réduite temporairement
+											en chauffant localement le plateau 
+avec un laser
+											permettant la gravure des données.
+											Bien que ces lecteurs soient actuellement
+en cours de prototypage,
+											les scientifiques travaillent déjà
+sur la génération suivante :
+											le « substrat structuré ».
+											Les bits sont isolés dans des cellules
+séparées de taille nanoscopique.
+											Cela devrait permettre d'atteindre une
+densité de 3 térabits par cm²,
+											voire davantage.
+											C'est grâce aux efforts combinés
+de plusieurs générations d'ingénieurs,
+											de scientifiques des sciences
+des matériaux,
+											et de physiciens quantiques
+											que cet engin de haute précision
+peut tourner dans le creux de votre main.
+									","
+											Stell dir ein Flugzeug vor, das nur
+1 mm über dem Boden fliegt
+											und alle 25 Sekunden die Erde umkreist,
+											während es jeden einzelnen Grashalm zählt.
+											Stell es dir so klein vor,
+dass es in deine Hand passt
+											und du hast etwas, das mit einer
+modernen Festplatte vergleichbar ist,
+											die mehr Informationen speichern kann,
+als die Bibliothek um die Ecke enthält.
+											Wie speichert man so viel Information
+auf so kleinem Raum?
+											Kern jeder Festplatte sind Platten,
+die sich mit Hochgeschwindigkeit drehen
+											und über deren Oberflächen
+Schreibköpfe fliegen.
+											Auf jeder Scheibe ist ein Film winziger,
+magnetischer Metallkörnchen
+											und die Daten liegen dort
+nicht in verständlicher Form.
+											Man speichert sie als magnetisches Muster,
+											das aus Gruppen
+der winzigen Körnchen besteht.
+											In jeder Gruppe,
+die auch Bit genannt wird,
+											sind alle Körnchen gleich magnetisiert.
+											Es gibt zwei erlaubte Zustände,
+											die Nullen und Einsen entsprechen.
+											Daten werden auf die Platte geschrieben,
+											indem man Folgen von Bits
+in elektrischen Stom wandelt
+											und durch einen Elektromagneten schickt.
+											Das Feld, das dieser Magnet erzeugt,
+ist ausreichend stark,
+											um die Richtung
+der Magnetisierung zu ändern.
+											Wenn die Daten dann auf der Platte stehen,
+											wird ein magnetischer Lesekopf verwendet,
+um sie wieder auszulesen,
+											ganz ähnlich der Nadel
+eines Plattenspielers,
+											die die Rillen einer Schallplatte
+in Musik verwandelt.
+											Aber wie kann man so viel Information
+nur in Nullen und Einsen packen?
+											Ganz einfach: indem man
+viele von ihnen zusammenpackt.
+											Ein Buchstabe zum Beispiel kann mit
+einem Byte, acht Bits, dargestellt werden.
+											Ein Foto dagegen belegt mehrere Megabyte,
+											von denen jedes 8 Millionen Bits hat.
+											Weil jedes Bit seinen eigenen Platz
+auf der Platte benötigt,
+											versuchen wir, die Dichte
+immer weiter zu erhöhen,
+											wie viele Bits also
+auf einen Quadratzentimeter passen.
+											Auf eine moderne Festplatte passen etwa
+4000 Gigabit pro Quadratzentimeter,
+											das ist 300 Millionen mal mehr als auf der
+ersten Festplatte von IBM im Jahr 1957.
+											Diese unglaubliche Entwicklung
+der Speicherkapazität
+											wurde nicht nur dadurch erreicht,
+dass alles verkleinert wurde,
+											sie erforderte auch
+verschiedene Erfindungen.
+											Ein Verfahren namens
+Dünnschichtlithographie
+											ermöglichte die Verkleinerung von
+Lese- und Schreibkopf.
+											Trotz seiner kleinen Größe
+wurde der Lesekopf feinfühliger,
+											weil man neu entdeckte magnetische und
+quantenphysikalische Eigenschaften nutzte.
+											Algorithmen, die Störungen aus
+magnetischer Interferenz herausfiltern,
+											ermöglichen es, die Bits dichter zu packen
+											und die wahrscheinlichste Bitfolge aus
+dem gelesenen Signal herauszulesen.
+											Ein Heizgerät unter dem Schreibkopf,
+											das die Ausdehnung des Kopfes
+durch die Wärme steuert,
+											erlaubt diesem, weniger als fünf Nanometer
+über der Plattenoberfläche zu schweben,
+											das ist die Breite von zwei DNA-Strängen.
+											Das exponentielle Wachstum
+der Speicherkapazität
+											und Rechenleistung folgte
+in den letzten Jahrzehnten
+											einem Muster, das man
+Mooresches Gesetz nennt.
+											Es besagte 1975, dass sich alle zwei Jahre
+die Informationsdichte verdoppeln würde.
+											Als aber 600 Gigabits pro
+Quadratzentimeter erreicht waren,
+											tauchte beim Verkleinern und Verdichten
+der magnetischen Körnchen
+											ein neues Problem auf,
+der Superparamagnetische Effekt:
+											Besteht ein Bit aus zu wenigen Körnchen,
+											kann seine Magnetisierung leicht
+durch Wärme gestört werden.
+											Das Bit ändert dann ungewollt seinen Wert
+											und Daten gehen verloren.
+											Es gibt aber eine erstaunlich
+einfache Lösung für dieses Problem:
+											Schreibt man die Daten nicht längs,
+sondern senkrecht zur Platte,
+											sind Dichten von 6 Terabit
+pro Quadratzentimeter mögich.
+											Erst kürzlich wurde
+die Grenze weiter verschoben,
+											indem man das Schreiben
+durch Wärme unterstützt.
+											Man senkt vorübergehend
+den magnetischen Widerstand
+											eines noch wärmestabileren Mediums,
+											indem man die Stelle
+mit einem Laser erwärmt
+											und danach mit Daten beschreibt.
+											Zwar sind solche Festplatten
+bis jetzt nur Prototypen,
+											aber Wissenschaftler arbeiten schon
+am nächsten möglichen Trick:
+											Bitstrukturierte Medien, bei denen Bits
+											in getrennten, nanometergroßen
+Strukturen angeordnet sind,
+											könnten Speicherdichten bis zu
+120 Terabits pro Quadratzentimeter
+											oder mehr erlauben.
+											So ermöglicht die Zusammenarbeit von
+Generationen von Ingenieuren,
+											Materialwissenschaftlern
+											und Quantenphysikern,
+											dass dieses unglaublich nützliche
+Präzisionswerkzeug
+											sich in deiner Handfläche drehen kann.
+									","
+											Imaginem um avião a voar
+a um milímetro acima do solo
+											e a dar a volta à Terra
+de 25 em 25 segundos
+											enquanto conta todas as ervinhas.
+											Encolham isso tudo de modo
+a caber na palma da mão
+											e terão uma coisa equivalente
+a um disco duro moderno,
+											um objeto que pode armazenar
+mais informações do que uma biblioteca.
+											Então, como é que é possível
+guardar tantas informações
+											num espaço tão pequeno?
+											No núcleo de um disco duro
+											há uma pilha de discos giratórios
+de alta velocidade
+											com uma cabeça de gravação
+que voa sobre cada superfície.
+											Cada disco está revestido de uma película
+											de microscópicos grãos
+de metal magnetizado,
+											mas os dados não estão ali 
+numa forma que possamos reconhecer.
+											Em vez disso, estão armazenados
+como um padrão magnético
+											formado por grupos
+desses grãos minúsculos.
+											Em cada grupo, conhecido por um ""bit"",
+											todos os grãos têm a magnetização
+											alinhada num de dois estados possíveis
+											que correspondem a zeros e uns.
+											Os dados são escritos no disco
+											pela conversão de cadeias de ""bits""`
+em corrente elétrica
+											alimentada por um eletroíman.
+											Este íman gera um campo 
+suficientemente forte
+											para alterar a direção da magnetização
+dos grãos de metal.
+											Depois de estas informações
+estarem escritas no disco,
+											a unidade usa um leitor magnético
+para a transformar numa forma útil,
+											tal como a agulha de um fonógrafo 
+traduz em música as estrias gravadas.
+											Mas como conseguimos tantas informações
+a partir de zeros e uns?
+											Juntando-os em grande quantidade.
+											Por exemplo, uma letra é representada
+por um ""byte"", ou seja, oito ""bits""
+											e uma foto comum
+têm vários ""megabytes"",
+											cada um dos quais
+tem oito milhões de ""bits"".
+											Como cada ""bit"" tem de ser escrito
+na área física do disco,
+											estamos sempre a tentar aumentar
+a densidade da área do disco
+											ou seja, quantos ""bits"" podem ser
+encaixados num centímetro quadrado.
+											A densidade da área
+de um disco duro moderno
+											é de cerca de 100 ""gigabits""
+por centímetro quadrado,
+											ou seja, 300 milhões de vezes maior
+											do que o primeiro disco duro
+da IBM, em 1957.
+											Este progresso espantoso
+da capacidade de armazenagem
+											não é apenas uma questão
+de tornar tudo mais pequeno
+											mas envolveu imensas inovações.
+											Uma técnica chamada 
+processo litográfico de película delgada
+											permitiu que os engenheiros
+reduzissem o leitor e o gravador.
+											Apesar da sua dimensão,
+o leitor tornou-se mais sensível
+											tirando partido de novas descobertas
+											nas propriedades magnéticas
+e quânticas da matéria.
+											Também se podem compactar os ""bits"", 
+graças a algoritmos matemáticos
+											que filtram o ruído
+da interferência magnética
+											e encontrar as sequências de ""bits""
+mais prováveis de cada sinal de leitura.
+											O controlo da expansão térmica da cabeça
+											foi possível colocando um aquecedor
+sob o gravador magnético,
+											permitindo voar a menos de 5 nanómetros
+sobre a superfície do disco,
+											ou seja, a largura de duas cadeias de ADN.
+											Nas últimas décadas,
+											o crescimento exponencial
+na capacidade de armazenagem
+											e de processamento de um computador
+											seguiu um padrão,
+conhecido por Lei de Moore
+											que, em 1975, previu
+que a densidade de informações
+											duplicaria de dois em dois anos.
+											Mas com cerca de 17 ""gigabits""
+por centímetro quadrado,
+											reduzir mais os grãos magnéticos
+ou compactá-los mais
+											colocava um novo risco,
+chamado efeito super paramagnético.
+											Quando o volume de um grão
+magnético é demasiado pequeno,
+											a sua magnetização é facilmente
+prejudicada pela energia calorífica
+											e pode fazer com que os ""bits""
+se misturem intencionalmente,
+											levando à perda de dados.
+											Os cientistas resolveram este problema
+de uma forma muito simples:
+											alterando a direção da gravação
+da forma longitudinal para perpendicular,
+											permitindo que a densidade da área
+se aproxime de 166 ""gigabits"" por cm2.
+											Recentemente, o limite potencial
+voltou a aumentar,
+											através da gravação magnética assistida.
+											Isto usa um meio de gravação
+ainda mais estável termicamente,
+											cuja resistência magnética
+é momentaneamente reduzida
+											aquecendo um local específico
+com um laser
+											e permitindo a gravação dos dados.
+											Embora estas unidades ainda estejam
+numa fase de protótipos
+											os cientistas já têm na manga
+um próximo truque:
+											os meios com padrões de ""bits""
+											em que as localizações de ""bits""
+são organizadas em estruturas separadas,
+											com uma nanodimensão,
+											permitindo potencialmente
+densidades de áreas
+											com 3 ""terabits"" por cm2
+ou mais.
+											Assim, é graças aos esforços conjuntos
+de gerações de engenheiros,
+											de cientistas de materiais
+											e de físicos quânticos
+											que este instrumento,
+de potência e precisão incríveis
+											pode girar na palma da nossa mão.
+									",How do hard drives work?,Kanawat Senanan,4:57,"collaboration,creativity,design,engineering,history,technology,computers,invention,education,TED-Ed,animation"
+"
+","
+","
+","
+","
+","
+",How do hard drives work?,Kanawat Senanan,4:57,"collaboration,creativity,design,engineering,history,technology,computers,invention,education,TED-Ed,animation"
