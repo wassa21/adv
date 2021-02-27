@@ -1,5 +1,16 @@
 # Lessons_for_adversarial_debiasing
-Source code for WASSA21 submission
+This repository contains code and models for the paper: Disentangling Document Topic and Author Gender in Multiple Languages: Lessons for Adversarial Debiasing.
+
+```
+@inproceedings{dayanik21:_disen_docum_topic_author_gender_multip_languag,
+  author = {Dayanik, Erenay and Padó, Sebastian},
+  biburl = {https://puma.ub.uni-stuttgart.de/bibtex/29f3e2e70efa78c0dd97ae2f4b2f071ac/sp},
+  booktitle = {Proceedings of the EACL WASSA workshop},
+  note = {To appear},
+  title = {Disentangling Document Topic and Author Gender in Multiple Languages: Lessons for Adversarial Debiasing},
+  year = 2021
+}
+```
 
 # Installation
 ```shell
